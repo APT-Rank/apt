@@ -36,7 +36,7 @@
       </div>      
 
       <div id="selections">
-        <div id="sido_selection"><select id="sido" onChange="optionChange()"></select></div>
+        <div id="sido_selection"><select id="sido" onChange="sidoChange()"></select></div>
         <div id="gungu_selection"><select id="gungu" onChange="updateRegion()"></select></div>
         <div id="month_selection">
           <select id="month" onChange="updateMonth()">            
@@ -124,6 +124,7 @@
     $('#dataList').html("");
     
     optionChange(selectedSubRegion)
+    updateRegion()
 
     //var regionSubName = $("#gungu option:selected").val()
 
@@ -145,6 +146,11 @@
       history.replaceState('', document.title, window.location.pathname);
     })
   });
+
+  function sidoChange(){
+    optionChange()
+    updateRegion()
+  }
 
   function saveLocalStorage(){
     localStorage.setItem('lastRegion', selectedRegion)
@@ -233,9 +239,8 @@
     }
     else{
       $("#gungu").val(selectedSubRegion).prop("selected", true);
-    }
-    
-    updateRegion()
+    }    
+    //updateRegion()
   }
 
   function updateMonth(){    
