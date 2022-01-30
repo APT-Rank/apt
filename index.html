@@ -171,20 +171,23 @@
       if(event){
         if(modalState == 1){
           if(searchState == 1){
+            history.go(1)
             closeSearch()
           }
           else{
+            history.go(1)
             $('div.modal').modal("hide");
           }
         }
         else{
           if(searchState == 1){
+            history.go(1)
             closeSearch()
           }
         }
       }
       else{
-        history.replaceState('', document.title, window.location.pathname);
+        window.history.back()
       }
     }
   });
