@@ -58,12 +58,18 @@ body{
     display: grid;
     grid-template-columns: 50px 1fr;
   }
-  #searchNotice, #searchExample{
+  #searchExample{
     color: white;
     font-size: 0.7em;
     text-align: left;
     padding-left: 5px;   
   }
+  #searchNotice{
+    color: white;
+    font-size: 0.8em;
+    text-align: left;
+    padding-left: 5px;   
+  }  
   #dataList{
     display:block;
     width: 100%;
