@@ -52,7 +52,12 @@
 
       <div id="searchCard">
         <div id="iconSearch"><i class="fas fa-search"></i></div>
-        <div id="inputBox"><input id="inputSearch" type="text" placeholder="어느 단지를 찾아볼까요?" onkeyup="aptSearch()"></div>
+        <div id="searchGuide">
+          <div id="searchNotice"></div>          
+          <div id="inputBox"><input id="inputSearch" type="text" placeholder="어느 단지를 찾아볼까요?" onkeyup="aptSearch()"></div>
+          <div id="searchExample">예) 서초동, 래미안, 힐스테이트, 주공</div>
+          
+        </div>
         <div id="closeSearch" onClick='closeSearch()' ><i class="fas fa-times"></i></div>
       </div>
 
@@ -103,6 +108,9 @@
   var aptData = "";
   var prevValue = 0;
 
+  var modalState = 0;
+  var searchState = 0;
+
   $(document).ready(function(){
     $('div.modal').modal("hide");
     var option = ""
@@ -141,8 +149,8 @@
 
     month = selectedMonth
     //updateTable(month, regionSubName)
-
-
+    
+    /*
     $('div.modal').on('show.bs.modal', function() {
       var modal = this;              
       var hash = modal.id;
@@ -157,6 +165,28 @@
       var hash = this.id;
       history.replaceState('', document.title, window.location.pathname);
     })
+    */
+
+    window.onpopstate=function(event){
+      if(event){
+        if(modalState == 1){
+          if(searchState == 1){
+            closeSearch()
+          }
+          else{
+            $('div.modal').modal("hide");
+          }
+        }
+        else{
+          if(searchState == 1){
+            closeSearch()
+          }
+        }
+      }
+      else{
+        history.replaceState('', document.title, window.location.pathname);
+      }
+    }
   });
 
   function sidoChange(){
@@ -172,7 +202,9 @@
     }, 400, 'easeOutQuad'
     );
     //$("#searchCard").fadeIn();
-    $('#inputSearch').focus()
+    $('#inputSearch').focus()    
+    var searchNotice = "'" + $('#sido option:selected').text() + " " + $('#gungu option:selected').text() + "' 검색"
+    $('#searchNotice').html(searchNotice)          
   }
   function closeSearch(){
     $("#searchCard").animate({
@@ -192,8 +224,9 @@
     input = $('#inputSearch').val()
     for(var i = 0 ; i < aptData.data.length ; i++){
           var aptName = aptData.data[i]["아파트명"]
+          var searchName = aptData.data[i]["아파트명"] + " " + aptData.data[i]["법정동주소"]
 
-          if(aptName.indexOf(input) >= 0){              
+          if(searchName.indexOf(input) >= 0){              
               var apt_m = aptData.data[i]["전용면적(m2)"]
               var apt_p = aptData.data[i]["전용면적(평)"]
               var aptAddress = aptData.data[i]["도로명주소"]

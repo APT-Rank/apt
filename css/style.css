@@ -25,16 +25,15 @@ body{
   #searchCard{    
     position: fixed;
     display: grid;
-    grid-template-columns: 40px 1fr 40px;
+    grid-template-columns: 45px 1fr 40px;
     top: -220px;
     left: 0;
     right: 0;
     width: 98%;
     height: 90px;
     text-align: center;
-    align-content: center;
+    align-items: center;
     justify-content: center;
-    line-height: 90px;
     background-color: #ff6038;    
     margin: 0 auto;    
     border-bottom-left-radius: 10px;
@@ -42,7 +41,9 @@ body{
     box-shadow: rgba(0, 0, 0, 0.16) 0px 3px 6px, rgba(0, 0, 0, 0.23) 0px 3px 6px;
   }
   #inputBox{
-    text-align: left;    
+    text-align: left;
+    margin-top: 5px;
+    margin-bottom: 5px;
   }
   #inputSearch{
     width: 95%;
@@ -53,9 +54,15 @@ body{
     text-align: left;
     padding-left: 10px;
   }
-  #searchBox{
+  #searchBox{    
     display: grid;
     grid-template-columns: 50px 1fr;
+  }
+  #searchNotice, #searchExample{
+    color: white;
+    font-size: 0.7em;
+    text-align: left;
+    padding-left: 5px;   
   }
   #dataList{
     display:block;
@@ -214,7 +221,7 @@ body{
     font-size: 1.5em;
     color: white;
     text-align: right;
-    padding-right: 7px;    
+    padding-right: 10px;    
   }
   #closeSearch{
     font-size: 1.5em;
