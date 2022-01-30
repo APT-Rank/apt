@@ -21,7 +21,42 @@ body{
     color: white;
     font-size: 1.25em;
     font-weight: 600;
-  }  
+  }
+  #searchCard{    
+    position: fixed;
+    display: grid;
+    grid-template-columns: 40px 1fr 40px;
+    top: -220px;
+    left: 0;
+    right: 0;
+    width: 98%;
+    height: 90px;
+    text-align: center;
+    align-content: center;
+    justify-content: center;
+    line-height: 90px;
+    background-color: #ff6038;    
+    margin: 0 auto;    
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+    box-shadow: rgba(0, 0, 0, 0.16) 0px 3px 6px, rgba(0, 0, 0, 0.23) 0px 3px 6px;
+  }
+  #inputBox{
+    text-align: left;    
+  }
+  #inputSearch{
+    width: 95%;
+    height: 2em;
+    font-size: 1em;
+    border: none;
+    border-radius: 5px;
+    text-align: left;
+    padding-left: 10px;
+  }
+  #searchBox{
+    display: grid;
+    grid-template-columns: 50px 1fr;
+  }
   #dataList{
     display:block;
     width: 100%;
@@ -169,6 +204,24 @@ body{
     text-align: right;
     padding-right: 20px;
   }
+  #search{
+    font-size: 1.5em;
+    color: white;
+    text-align: left;
+    padding-left: 20px;
+  }
+  #iconSearch{
+    font-size: 1.5em;
+    color: white;
+    text-align: right;
+    padding-right: 7px;    
+  }
+  #closeSearch{
+    font-size: 1.5em;
+    color: white;
+    text-align: left;
+    padding-left: 10px;    
+  }
   .notice{
     font-size: 0.85em;    
     padding-left: 10px;
@@ -228,6 +281,10 @@ body{
     #titleBar{
       margin: 0 auto;
       width: 800px;
+    }
+    #searchCard{
+      margin: 0 auto;
+      width: 790px;
     }
     #selections{
       margin: 0 auto;

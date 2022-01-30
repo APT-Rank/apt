@@ -35,10 +35,10 @@
   <div id="container">
     <div id="centerBox">
       <div id="titleBar">
-        <div id='logo'></div>
+        <div id='search' onClick='showSearchBar()'><i class="fas fa-search"></i></div>
         <div id="title" onClick='scrollUp()'>아파트 랭크</div>
-        <div id='help' data-bs-toggle='modal' data-bs-target='#exampleModal' id='myModal' onClick='showNotice()'><i class="fas fa-question-circle"></i></div>
-      </div>      
+        <div id='help' data-bs-toggle='modal' data-bs-target='#exampleModal' id='myModal' onClick='showNotice()'><i class="fas fa-question-circle"></i></div>        
+      </div>
 
       <div id="selections">
         <div id="sido_selection"><select id="sido" onChange="sidoChange()"></select></div>
@@ -48,6 +48,12 @@
             <option value="202201" selected>2022년 01월</option>            
           </select>          
         </div>
+      </div>
+
+      <div id="searchCard">
+        <div id="iconSearch"><i class="fas fa-search"></i></div>
+        <div id="inputBox"><input id="inputSearch" type="text" placeholder="어느 단지를 찾아볼까요?" onkeyup="aptSearch()"></div>
+        <div id="closeSearch" onClick='closeSearch()' ><i class="fas fa-times"></i></div>
       </div>
 
       <div id="dataList"></div>
@@ -136,6 +142,7 @@
     month = selectedMonth
     //updateTable(month, regionSubName)
 
+
     $('div.modal').on('show.bs.modal', function() {
       var modal = this;              
       var hash = modal.id;
@@ -155,6 +162,75 @@
   function sidoChange(){
     optionChange()
     updateRegion()
+  }
+
+  function showSearchBar(){
+    //$("#searchCard").slideDown();    
+    $("#searchCard").animate({
+      opacity: 1.0,
+      top: '0'
+    }, 400, 'easeOutQuad'
+    );
+    //$("#searchCard").fadeIn();
+    $('#inputSearch').focus()
+  }
+  function closeSearch(){
+    $("#searchCard").animate({
+      opacity: 0.0,
+      top: '-220px'
+    }, 400, 'easeInQuad'
+    );
+    //$("#searchCard").fadeOut();
+    $('#inputSearch').val("")
+    aptSearch()
+  }
+
+  var input = ""
+  
+  function aptSearch(){
+    $('#dataList').html("");
+    input = $('#inputSearch').val()
+    for(var i = 0 ; i < aptData.data.length ; i++){
+          var aptName = aptData.data[i]["아파트명"]
+
+          if(aptName.indexOf(input) >= 0){              
+              var apt_m = aptData.data[i]["전용면적(m2)"]
+              var apt_p = aptData.data[i]["전용면적(평)"]
+              var aptAddress = aptData.data[i]["도로명주소"]
+              var aptValue = Math.round( aptData.data[i]["가치 총점"] * 100 ) / 100;
+              var rank = aptData.data[i]["rank"].toFixed()
+
+              valueSum += aptData.data[i]["가치 총점"]
+              livingSum += aptData.data[i]["주거총점"]
+              transportSum += aptData.data[i]["교통총점"]
+              infraSum += aptData.data[i]["인프라총점"]
+              eduSum += aptData.data[i]["학군총점"]
+
+              //console.log(valueSum)
+
+              var addon_html = "<div class='listBox' data-bs-toggle='modal' data-bs-target='#exampleModal' id='myModal' onClick='showDetail(" + i + ")'>";
+              addon_html += "<div class='rank'>" + rank + "위</div>";
+              addon_html += "<div class='content'>";
+              //addon_html += "<div class='apt_name'>" + aptName + " " + apt_p + "(" + apt_m + ")</div>";
+
+              addon_html += "<div class='apt_name'>" + aptName;
+
+              if(aptData.data[i]["준공년차"] >= 30){
+                addon_html += "<span class='aptYear'> (30년차 이상) </span>";
+              }
+              if(aptData.data[i]["준공년차"] <= 5){
+                addon_html += "<span class='aptYear'> (5년이하 신축) </span>";
+              }
+              addon_html += "</div>"
+
+              addon_html += "<div class='apt_address'>" + aptAddress + "</div>";
+              addon_html += "</div>";
+              addon_html += "<div class='value_score'>" + ( Math.round( aptValue * 100 ) / 100 ).toFixed(2) + "점</div>"
+              addon_html += "</div>"
+
+              $('#dataList').append(addon_html);
+            }
+        }
   }
 
   function saveLocalStorage(){
@@ -250,7 +326,7 @@
 
   function updateMonth(){    
     selectedMonth = $("#month option:selected").val()    
-    updateTable(selectedMonth, selectedSubRegion)
+    updateRegion()
     regionName = $("#sido option:selected").text()
   }
   function updateRegion(){
@@ -262,13 +338,14 @@
       updateTable(selectedMonth, selectedSubRegion)
       regionName = $("#sido option:selected").text()      
     }
-    else{
+    else{      
       updateRegionTable(selectedMonth)
     }
   }
 
   function updateTable(month, region){    
     $('div.modal').modal("hide");
+    $('#search').css("visibility", "visible")
     $('html').scrollTop(0)
     //console.log("AAAAAAAAAA", region)
     url = "https://www.aptrank.kr/" + month + "/" + region + ".json"    
@@ -323,7 +400,6 @@
           $('#dataList').append(addon_html);
         }
     })
-
     saveLocalStorage()
   }
 
@@ -507,6 +583,7 @@
 
   function updateRegionTable(month){
     $('html').scrollTop(0)
+    $('#search').css("visibility", "hidden")
     url = "https://www.aptrank.kr/" + month + "/1000000000_Korea.json"    
     $('#dataList').html("");
 
