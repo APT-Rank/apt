@@ -110,6 +110,7 @@
 
   var modalState = 0;
   var searchState = 0;
+  var popupHistory = [];
 
   $(document).ready(function(){
     $('div.modal').modal("hide");
@@ -149,8 +150,8 @@
 
     month = selectedMonth
     //updateTable(month, regionSubName)
-    
-    /*
+
+    /*    
     $('div.modal').on('show.bs.modal', function() {
       var modal = this;              
       var hash = modal.id;
@@ -166,8 +167,8 @@
       history.replaceState('', document.title, window.location.pathname);
     })
     */
-
-    window.onpopstate=function(event){
+   
+    window.onhashchange = function(event){
       if(event){
         if(modalState == 1){
           if(searchState == 1){
