@@ -151,7 +151,6 @@
     month = selectedMonth
     //updateTable(month, regionSubName)
 
-    /*
     $('div.modal').on('show.bs.modal', function() {
       var modal = this;              
       var hash = modal.id;
@@ -166,30 +165,6 @@
       var hash = this.id;
       history.replaceState('', document.title, window.location.pathname);
     })
-    */       
-    window.onpopstate = function(event){
-      if(event){
-        if(modalState == 1){
-          if(searchState == 1){
-            history.go(1)
-            closeSearch()
-          }
-          else{
-            history.go(1)
-            $('div.modal').modal("hide");
-          }
-        }
-        else{
-          if(searchState == 1){
-            history.go(1)
-            closeSearch()
-          }
-        }
-      }
-      else{
-        window.history.back()
-      }
-    }    
   });
 
   function sidoChange(){
