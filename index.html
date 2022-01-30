@@ -113,7 +113,7 @@
   var popupHistory = [];
 
   $(document).ready(function(){
-    $('div.modal').modal("hide");
+    $('div.modal').modal("hide");    
     var option = ""
     for(i = 0 ; i < regions.length ; i++){        
         option += "<option value='" + regions[i][1] + "'>" + regions[i][0] + "</option>"
@@ -151,7 +151,7 @@
     month = selectedMonth
     //updateTable(month, regionSubName)
 
-    /*    
+    /*
     $('div.modal').on('show.bs.modal', function() {
       var modal = this;              
       var hash = modal.id;
@@ -166,9 +166,8 @@
       var hash = this.id;
       history.replaceState('', document.title, window.location.pathname);
     })
-    */
-   
-    window.onhashchange = function(event){
+    */       
+    window.onpopstate = function(event){
       if(event){
         if(modalState == 1){
           if(searchState == 1){
@@ -190,7 +189,7 @@
       else{
         window.history.back()
       }
-    }
+    }    
   });
 
   function sidoChange(){
@@ -199,6 +198,7 @@
   }
 
   function showSearchBar(){
+    searchState = 1;
     //$("#searchCard").slideDown();    
     $("#searchCard").animate({
       opacity: 1.0,
@@ -211,6 +211,7 @@
     $('#searchNotice').html(searchNotice)          
   }
   function closeSearch(){
+    searchState = 0;
     $("#searchCard").animate({
       opacity: 0.0,
       top: '-220px'
