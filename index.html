@@ -251,9 +251,7 @@
   function updateRegion(){
     //var selection = document.getElementById("gungu")
     selectedRegion = $("#sido option:selected").val()
-    selectedSubRegion = $("#gungu option:selected").val()
-
-    saveLocalStorage()
+    selectedSubRegion = $("#gungu option:selected").val()    
 
     if (selectedSubRegion != "1000000000_Korea"){
       updateTable(selectedMonth, selectedSubRegion)
@@ -320,6 +318,8 @@
           $('#dataList').append(addon_html);
         }
     })
+
+    saveLocalStorage()
   }
 
   function showDetail(index){
@@ -556,6 +556,8 @@
           $('#dataList').append(addon_html);
         }
     })
+
+    saveLocalStorage()
   }
 
   function showRegionDetail(index){
