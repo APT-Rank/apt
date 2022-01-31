@@ -34,10 +34,10 @@ body{
     text-align: center;
     align-items: center;
     justify-content: center;
-    background-color: #ff6038;    
-    margin: 0 auto;    
-    border-bottom-left-radius: 10px;
-    border-bottom-right-radius: 10px;
+    background-color: #ff3849;    
+    margin: 0 auto;
+    border-bottom-left-radius: 15px;
+    border-bottom-right-radius: 15px;
     box-shadow: rgba(0, 0, 0, 0.16) 0px 3px 6px, rgba(0, 0, 0, 0.23) 0px 3px 6px;
   }
   #inputBox{
@@ -235,6 +235,35 @@ body{
     text-align: left;
     padding-left: 10px;    
   }
+  #closeSearch_floating{
+    display: grid;
+    width: 4em;
+    height: 4em;
+    align-content: center;
+    justify-content: center;
+    border-radius: 50%;
+    background: #ff3849;
+    z-index: 999;
+    position: fixed;
+    bottom: 5px;
+    right: -200px;
+    margin: 0 auto;
+    box-shadow: rgba(0, 0, 0, 0.16) 0px 3px 6px, rgba(0, 0, 0, 0.23) 0px 3px 6px;
+  }
+  #closeSearch_floting_wraper{    
+    display: grid;
+    width: 100%;    
+  }
+  #closeIcon_floating{
+    font-size: 1.3em;
+    color: white;
+    text-align: center;    
+  }
+  #clostText_floating{  
+    font-size: 0.7em;  
+    color: white;
+    text-align: center;    
+  }
   .notice{
     font-size: 0.85em;    
     padding-left: 10px;
@@ -298,6 +327,9 @@ body{
     #searchCard{
       margin: 0 auto;
       width: 790px;
+    }
+    #closeSearch_floating{
+      display: none;
     }
     #selections{
       margin: 0 auto;
