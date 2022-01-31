@@ -178,8 +178,7 @@
     updateRegion()
   }
 
-  function showSearchBar(){
-    searchState = 1;
+  function showSearchBar(){    
     //$("#searchCard").slideDown();    
     $("#searchCard").animate({
       opacity: 1.0,
@@ -192,16 +191,21 @@
     }, 700, 'easeOutQuad'
     );
     
-    $('#inputSearch').focus()    
+    $('#inputSearch').focus(function(){
+      $("#closeSearch_floating").css('visibility', 'hidden')
+    })
+    $('#inputSearch').blur(function(){
+      $("#closeSearch_floating").css('visibility', 'visible')
+    })
+    
     var searchNotice = "'" + $('#sido option:selected').text() + " " + $('#gungu option:selected').text() + "' 내에서 검색합니다"
     $('#searchNotice').html(searchNotice)
   }
-  function closeSearch(){
-    searchState = 0;
+  function closeSearch(){    
     $("#searchCard").animate({
       opacity: 0.0,
       top: '-150px'
-    }, 700, 'easeInQuad'
+    }, 400, 'easeInQuad'
     );
     $("#closeSearch_floating").animate({
       opacity: 0.0,
