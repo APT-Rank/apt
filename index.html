@@ -193,11 +193,7 @@
     
     $('#inputSearch').focus(function(){
       $("#closeSearch_floating").css('visibility', 'hidden')
-    })
-    $('#inputSearch').blur(function(){
-      $("#closeSearch_floating").css('visibility', 'visible')
-    })
-    
+    })    
     var searchNotice = "'" + $('#sido option:selected').text() + " " + $('#gungu option:selected').text() + "' 내에서 검색합니다"
     $('#searchNotice').html(searchNotice)
   }
@@ -212,8 +208,10 @@
       right: '-200px'
     }, 400, 'easeInQuad'
     );
-
     $('#inputSearch').val("")
+    $('#inputSearch').blur(function(){
+      $("#closeSearch_floating").css('visibility', 'visible')
+    })
     aptSearch()
   }
 
