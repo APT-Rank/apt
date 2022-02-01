@@ -117,6 +117,10 @@ body{
     font-size: 0.8em;
     color: gray
   }
+  .apt_info{
+    font-size: 0.7em;
+    color:rgb(85, 85, 85);
+  }
 
   #selections{        
     display: grid;    

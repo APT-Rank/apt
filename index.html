@@ -264,10 +264,10 @@
             addon_html += "<span class='aptYear'> (" + aptData.data[i]["준공년차"] + "년차)</span></div>";
 
             if(last_sales_date == "1800-01-01"){
-              addon_html += "<div class='apt_address'>총 " + house_num + "세대 / 거래 정보 없음</div>";
+              addon_html += "<div class='apt_info'>" + house_num + "세대 / 거래 정보 없음</div>";
             }
             else{
-              addon_html += "<div class='apt_address'>"+ house_num + "세대 / " + last_sales_price/10000 + "억 (" + last_sales_area + ", " + last_sales_date_short + ")</div>";
+              addon_html += "<div class='apt_info'>"+ house_num + "세대 / " + last_sales_price/10000 + "억 (" + last_sales_area + ", " + last_sales_date_short + ")</div>";
             }
 
             addon_html += "<div class='apt_address'>" + aptAddress + "</div>";
@@ -439,10 +439,10 @@
           addon_html += "<span class='aptYear'> (" + aptData.data[i]["준공년차"] + "년차)</span></div>";
 
           if(last_sales_date == "1800-01-01"){
-            addon_html += "<div class='apt_address'>총 " + house_num + "세대 / 거래 정보 없음</div>";
+            addon_html += "<div class='apt_info'>" + house_num + "세대 / 거래 정보 없음</div>";
           }
           else{
-            addon_html += "<div class='apt_address'>"+ house_num + "세대 / " + last_sales_price/10000 + "억 (" + last_sales_area + ", " + last_sales_date_short + ")</div>";
+            addon_html += "<div class='apt_info'>"+ house_num + "세대 / " + last_sales_price/10000 + "억 (" + last_sales_area + ", " + last_sales_date_short + ")</div>";
           }
 
           addon_html += "<div class='apt_address'>" + aptAddress + "</div>";
