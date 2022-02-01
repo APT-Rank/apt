@@ -170,7 +170,15 @@
                 "type":"string"
             },
             {
+                "name":"매매실거래년",
+                "type":"string"
+            },
+            {
                 "name":"매매실거래가",
+                "type":"string"
+            },
+            {
+                "name":"전세실거래년",
                 "type":"string"
             },
             {
@@ -287,6 +295,10 @@
             },
             {
                 "name":"area_info",
+                "type":"string"
+            },
+            {
+                "name":"last_sales",
                 "type":"string"
             }
         ],
