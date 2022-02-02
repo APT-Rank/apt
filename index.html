@@ -267,7 +267,7 @@
               addon_html += "<div class='apt_info'>" + house_num + "세대 / 거래 정보 없음</div>";
             }
             else{
-              addon_html += "<div class='apt_info'>"+ house_num + "세대 / " + (last_sales_price/10000).toFixed(2) + "억 (" + last_sales_area + ", " + last_sales_date_short + ")</div>";
+              addon_html += "<div class='apt_info'>"+ house_num + "세대 / " + Math.round(last_sales_price/100)/100 + "억, " + last_sales_area + ", " + last_sales_date_short + "</div>";
             }
 
             addon_html += "<div class='apt_address'>" + aptAddress + "</div>";
