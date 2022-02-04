@@ -294,7 +294,10 @@ body{
     word-break: keep-all;
   }
   .modal-footer{
-    justify-content: center;
+    display: grid;
+    width: 100%;
+    grid-template-columns: 1fr 4fr 1fr;
+    place-content: center
   }
   .form-check{    
     text-align: center;
