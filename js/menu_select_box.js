@@ -67,8 +67,7 @@
       ['미추홀구', '2817700000_Incheon_Michuhol'], 
       ['부평구', '2823700000_Incheon_Bupyeong'], 
       ['서구', '2826000000_Incheon_Seo'], 
-      ['연수구', '2818500000_Incheon_Yeonsu'], 
-      ['옹진군', '2872000000_Incheon_Ongjin'], 
+      ['연수구', '2818500000_Incheon_Yeonsu'],      
       ['중구', '2811000000_Incheon_Jung']
     ]
 

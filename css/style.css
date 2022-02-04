@@ -101,9 +101,26 @@ body{
     font-size: 0.9em;
     font-weight: 600;
   }
+  .rank_content{
+    display: grid;    
+  }
   .rank{
     text-align: center;
     font-size: 0.85em;
+  }
+  .rankup{
+    text-align: center;
+    font-size: 0.6em;
+    color:#ff3d38
+  }
+  .rankdown{
+    text-align: center;
+    font-size: 0.6em;
+    color:blue
+  }
+  .ranksame{
+    text-align: center;
+    font-size: 0.6em;    
   }
   .apt_address{
     font-size: 0.7em;
@@ -275,9 +292,19 @@ body{
     margin-bottom: 10px;
     word-wrap: break-word;
     word-break: keep-all;
-  }  
+  }
   .modal-footer{
+    justify-content: center;
+  }
+  .form-check{    
+    text-align: center;
+    align-content: center;
+    margin-bottom: 1em;
+  }
+  
+  .footer_wraper{
     display: grid;
+    width: 100%;
     grid-template-columns: 1fr 4fr 1fr;
     place-content: center;
   }

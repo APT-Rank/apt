@@ -58,7 +58,8 @@
         <div id="gungu_selection"><select id="gungu" onChange="updateRegion()"></select></div>
         <div id="month_selection">
           <select id="month" onChange="updateMonth()">            
-            <option value="202201" selected>2022년 01월</option>            
+            <option value="202202" selected>2022년 02월</option>
+            <option value="202201">2022년 01월</option>
           </select>          
         </div>
       </div>
@@ -105,7 +106,7 @@
 </body>
 
 <script>
-  var selectedMonth = "202201"
+  var selectedMonth = "202202"
   var selectedRegion = "Korea"
   var selectedSubRegion = "1000000000_Korea"
 
@@ -256,7 +257,31 @@
             //console.log(valueSum)
 
             var addon_html = "<div class='listBox' data-bs-toggle='modal' data-bs-target='#exampleModal' id='myModal' onClick='showDetail(" + i + ")'>";
-            addon_html += "<div class='rank'>" + rank + "위</div>";
+
+              if(selectedMonth == "202201"){
+                addon_html += "<div class='rank_content'>"
+                addon_html += "<div class='rank'>" + rank + "위</div>";            
+                addon_html += "</div>"
+              }
+              else{
+                addon_html += "<div class='rank_content'>"
+                addon_html += "<div class='rank'>" + rank + "위</div>";
+                if(aptData.data[i]["rank_gap"] == 0){
+                  addon_html += "<div class='ranksame'> -- </div>"
+                }
+                else if(aptData.data[i]["rank_gap"] == 9999){
+                  addon_html += "<div class='ranksame'> NEW! </div>"
+                }
+                else if(aptData.data[i]["rank_gap"] > 0){
+                  addon_html += "<div class='rankup'> ▲" + Math.abs(aptData.data[i]["rank_gap"]) + "</div>"
+                }
+                else if(aptData.data[i]["rank_gap"] < 0){
+                  addon_html += "<div class='rankdown'> ▼" + Math.abs(aptData.data[i]["rank_gap"]) + "</div>"
+                }
+
+                addon_html += "</div>"
+              }  
+            
             addon_html += "<div class='content'>";
             //addon_html += "<div class='apt_name'>" + aptName + " " + apt_p + "(" + apt_m + ")</div>";          
 
@@ -431,7 +456,31 @@
           //console.log(valueSum)
 
           var addon_html = "<div class='listBox' data-bs-toggle='modal' data-bs-target='#exampleModal' id='myModal' onClick='showDetail(" + i + ")'>";
-          addon_html += "<div class='rank'>" + rank + "위</div>";
+          
+          if(selectedMonth == "202201"){
+            addon_html += "<div class='rank_content'>"
+            addon_html += "<div class='rank'>" + rank + "위</div>";            
+            addon_html += "</div>"
+          }
+          else{
+            addon_html += "<div class='rank_content'>"
+            addon_html += "<div class='rank'>" + rank + "위</div>";
+            if(aptData.data[i]["rank_gap"] == 0){
+              addon_html += "<div class='ranksame'> -- </div>"
+            }
+            else if(aptData.data[i]["rank_gap"] == 9999){
+              addon_html += "<div class='ranksame'> NEW! </div>"
+            }
+            else if(aptData.data[i]["rank_gap"] > 0){
+              addon_html += "<div class='rankup'> ▲" + Math.abs(aptData.data[i]["rank_gap"]) + "</div>"
+            }
+            else if(aptData.data[i]["rank_gap"] < 0){
+              addon_html += "<div class='rankdown'> ▼" + Math.abs(aptData.data[i]["rank_gap"]) + "</div>"
+            }
+
+            addon_html += "</div>"
+          }
+
           addon_html += "<div class='content'>";
           //addon_html += "<div class='apt_name'>" + aptName + " " + apt_p + "(" + apt_m + ")</div>";          
 
@@ -527,8 +576,27 @@
     //총점,순위
     detailHtml += "<div class='card'>";
     detailHtml += "<div class='card-header'>";
-    detailHtml += "<div class='popRank'><i class='fas fa-trophy'></i> " + aptRank + "</div>";
-    detailHtml += "</div>";
+
+      if(selectedMonth == "202201"){
+        detailHtml += "<div class='popRank'><i class='fas fa-trophy'></i> " + aptRank + "</div></div>";
+      }
+      else{
+        detailHtml += "<div class='popRank'><i class='fas fa-trophy'></i> " + aptRank;
+        if(aptData.data[index]["rank_gap"] == 0){
+          detailHtml += "<span class='ranksame'> (--) </span>"
+        }
+        else if(aptData.data[index]["rank_gap"] == 9999){
+          detailHtml += "<span class='ranksame'> (NEW!) </span>"
+        }
+        else if(aptData.data[index]["rank_gap"] > 0){
+          detailHtml += "<span class='rankup'> (▲" + Math.abs(aptData.data[index]["rank_gap"]) + ")</span>"
+        }
+        else if(aptData.data[index]["rank_gap"] < 0){
+          detailHtml += "<span class='rankdown'>(▼" + Math.abs(aptData.data[index]["rank_gap"]) + ")</span>"
+        }
+        detailHtml += "</div></div>"
+      }    
+    
     detailHtml += "<div class='card-body'>";    
     detailHtml += "<div class='graph' style='height: 200px'> <canvas id='valueChart'></canvas></div>"
     detailHtml += "<div class='comment'>(지역구의 모든 단지에 대해 100점으로 환산한 상대 점수 입니다.)</div>";
@@ -666,8 +734,32 @@
           regPopSum += regData.data[i]["인구총점"]
           regJobSum += regData.data[i]["일자리총점"]          
 
-          var addon_html = "<div class='listBox' data-bs-toggle='modal' data-bs-target='#exampleModal' id='myModal' onClick='showRegionDetail(" + i + ")'>";
-          addon_html += "<div class='rank'>" + regRank + "위</div>";
+          var addon_html = "<div class='listBox' data-bs-toggle='modal' data-bs-target='#exampleModal' id='myModal' onClick='showRegionDetail(" + i + ")'>";          
+
+          if(selectedMonth == "202201"){
+            addon_html += "<div class='rank_content'>"
+            addon_html += "<div class='rank'>" + regRank + "위</div>";            
+            addon_html += "</div>"
+          }
+          else{
+            addon_html += "<div class='rank_content'>"
+            addon_html += "<div class='rank'>" + regRank + "위</div>";
+            if(regData.data[i]["rank_gap"] == 0){
+              addon_html += "<div class='ranksame'> -- </div>"
+            }
+            else if(regData.data[i]["rank_gap"] == 9999){
+              addon_html += "<div class='ranksame'> NEW! </div>"
+            }
+            else if(regData.data[i]["rank_gap"] > 0){
+              addon_html += "<div class='rankup'> ▲" + Math.abs(regData.data[i]["rank_gap"]) + "</div>"
+            }
+            else if(regData.data[i]["rank_gap"] < 0){
+              addon_html += "<div class='rankdown'> ▼" + Math.abs(regData.data[i]["rank_gap"]) + "</div>"
+            }
+
+            addon_html += "</div>"
+          }
+
           addon_html += "<div class='content'>";          
           addon_html += "<div class='apt_name'>" + regName + "</div>";
           addon_html += "<div class='reg_subTable'>";
@@ -725,8 +817,27 @@
     //총점,순위
     detailHtml += "<div class='card'>";
     detailHtml += "<div class='card-header'>";
-    detailHtml += "<div class='popRank'><i class='fas fa-trophy'></i> " + regRank + "</div>";
-    detailHtml += "</div>";
+
+      if(selectedMonth == "202201"){
+        detailHtml += "<div class='popRank'><i class='fas fa-trophy'></i> " + regRank + "</div></div>";
+      }
+      else{
+        detailHtml += "<div class='popRank'><i class='fas fa-trophy'></i> " + regRank;
+        if(regData.data[index]["rank_gap"] == 0){
+          detailHtml += "<span class='ranksame'> (--) </span>"
+        }
+        else if(regData.data[index]["rank_gap"] == 9999){
+          detailHtml += "<span class='ranksame'> (NEW!) </span>"
+        }
+        else if(regData.data[index]["rank_gap"] > 0){
+          detailHtml += "<span class='rankup'> (▲" + Math.abs(regData.data[index]["rank_gap"]) + ")</span>"
+        }
+        else if(regData.data[index]["rank_gap"] < 0){
+          detailHtml += "<span class='rankdown'>(▼" + Math.abs(regData.data[index]["rank_gap"]) + ")</span>"
+        }
+        detailHtml += "</div></div>"
+      } 
+
     detailHtml += "<div class='card-body'>";    
     detailHtml += "<div class='graph' style='height: 200px'> <canvas id='valueChart'></canvas></div>"
     detailHtml += "<div class='comment'>(전국 모든 시군구에 대해 100점으로 환산한 상대 점수 입니다.)</div>";
@@ -835,9 +946,12 @@
     detailHtml += "</ul>";
 
     footerHtml += "<div class='modal-footer'>"
-    footerHtml += "<div></div>"    
-    footerHtml += "<div><a href='mailto:aptranking@gmail.com'><button type='button' class='goApt' onClick='mailto:aptranking@gmail.com'>개발자에게 메일 보내기</button></a></div>"                  
+    //footerHtml += "<div class='form-check'><input class='form-check-input' type='checkbox' value='' id='flexCheckDefault'><label class='form-check-label' for='flexCheckDefault'>이번 달에 보지 않기</label></div>"
+    footerHtml += "<div class='footer_wraper'>"
     footerHtml += "<div></div>"
+    footerHtml += " <div><a href='mailto:aptranking@gmail.com'><button type='button' class='goApt' onClick='mailto:aptranking@gmail.com'>개발자에게 메일 보내기</button></a></div>"
+    footerHtml += "<div></div>"
+    footerHtml += "</div>"
     footerHtml += "</div>"
     
     $('#exampleModalLabel').html(titleHtml);
