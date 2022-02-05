@@ -292,14 +292,6 @@
             {
                 "name":"rank",
                 "type":"number"
-            },
-            {
-                "name":"area_info",
-                "type":"string"
-            },
-            {
-                "name":"last_sales",
-                "type":"string"
             }
         ],
         "primaryKey":[
