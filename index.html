@@ -158,6 +158,7 @@
       selectedMonth = lastMonth
     }    
 
+    $("#month").val(selectedMonth).prop("selected", true);
     $("#sido").val(selectedRegion).prop("selected", true);
     regionName = $("#sido option:selected").val();
 
@@ -308,7 +309,7 @@
   function saveLocalStorage(){
     localStorage.setItem('lastRegion', selectedRegion)
     localStorage.setItem('lastSubRegion', selectedSubRegion)
-    localStorage.setItem('lastMonth', selectedMonth)
+    //localStorage.setItem('lastMonth', selectedMonth)
     
     //sessionStorage.setItem('lastRegion', selectedRegion)
     //sessionStorage.setItem('lastSubRegion', selectedSubRegion)
@@ -400,6 +401,7 @@
     selectedMonth = $("#month option:selected").val()    
     updateRegion()
     regionName = $("#sido option:selected").text()
+    //saveLocalStorage()
   }
   function updateRegion(){
     //var selection = document.getElementById("gungu")
