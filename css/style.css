@@ -6,7 +6,7 @@ body{
   #titleBar{
     position: fixed;
     display: grid;
-    grid-template-columns: 80px 1fr 80px;
+    grid-template-columns: 50px 50px 1fr 50px 50px;
     top: 0;
     left: 0;
     right: 0;
@@ -64,12 +64,68 @@ body{
     text-align: left;
     padding-left: 5px;   
   }
-  #searchNotice{
+  #searchNotice, #sortNotice{
     color: white;
     font-size: 0.8em;
     text-align: left;
     padding-left: 5px;   
-  }  
+  }
+  #sortingCard{    
+    position: fixed;
+    display: grid;
+    grid-template-columns: 45px 1fr 40px;
+    top: -220px;
+    left: 0;
+    right: 0;
+    width: 98%;
+    height: 90px;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    background-color: #ff3849;    
+    margin: 0 auto;
+    border-bottom-left-radius: 15px;
+    border-bottom-right-radius: 15px;
+    box-shadow: rgba(0, 0, 0, 0.16) 0px 3px 6px, rgba(0, 0, 0, 0.23) 0px 3px 6px;
+  }
+  #filterPyeong{
+    width: 100%;
+  }
+  #selectPyeong{
+    margin-top: 5px;
+    width: 95%;
+    height: 2em;
+    font-size: 0.8em;
+    padding-left: 5px;
+    border: none;
+    background-color: white;
+  }
+  .btn-group{
+    width: 95%;    
+    color: white;
+  }
+  .btn-outline-danger{
+    width: 100%;
+    background-color: white;
+    color: black;
+    font-size: 0.85em;
+    border-color: 0 !important;
+    padding: 4px 2px 4px 2px;    
+  }
+  .btn-outline-danger:hover, .btn-outline-danger:active, .btn-outline-danger:checked{    
+    background-color: #ff3849 !important;
+    color: white !important;
+    border-color: 0 !important;
+    outline: 1px solid white;
+    outline-offset: -2px;
+  }
+  .btn-check:checked+.btn-outline-danger{
+    background-color: #ff3849 !important;
+    border-color: 0 !important;
+    outline: 1px solid white;
+    outline-offset: -2px;
+  }
+
   #dataList{
     display:block;
     width: 100%;
@@ -204,6 +260,7 @@ body{
   #popSubLiving{
     display: block;
     padding-bottom: 10px;
+    margin-bottom: 10px;
     border-bottom: solid 1px rgb(216, 216, 216);    
   }
   #popSubResult{
@@ -238,13 +295,16 @@ body{
     text-align: right;
     padding-right: 20px;
   }
-  #search{
+  #search, #sort{
     font-size: 1.5em;
     color: white;
     text-align: left;
-    padding-left: 20px;
+    padding-left: 15px;
   }
-  #iconSearch{
+  #sort{
+    visibility: hidden;
+  }
+  #iconSearch, #iconSort{
     font-size: 1.5em;
     color: white;
     text-align: right;
@@ -256,7 +316,7 @@ body{
     text-align: left;
     padding-left: 10px;    
   }
-  #closeSearch_floating{
+  #closeSearch_floating, #closeSort_floating{
     display: grid;
     width: 4em;
     height: 4em;
@@ -334,7 +394,16 @@ body{
     text-align: right;
     color: gray;
   }
-
+  .comment2{
+    font-size: 0.6em;
+    word-wrap: break-word;
+    word-break: keep-all;
+    text-align: left;
+    color: gray;
+  }
+  .commentLine{
+    padding-left: 20px;
+  }
   .reg_subTable{
     display: grid;
     grid-template-columns: 1fr 1fr;
@@ -358,7 +427,7 @@ body{
       margin: 0 auto;
       width: 800px;
     }
-    #searchCard{
+    #searchCard, #sortingCard{
       margin: 0 auto;
       width: 790px;
     }
