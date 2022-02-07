@@ -689,7 +689,7 @@
       detailHtml += "<div class='popSubTable'><div class='popContent'>" + "건폐율" + "</div>" + "<div class='popResult'>" + cover_rate + "</div></div>";
     }
     detailHtml += "<div id='popSubLiving'><div class='popContent'>" + "면적 구성" + "<br>" + "<span class='popResult'>" + area_info + "</span></div></div>";
-    detailHtml += "<div class='comment2'><ul class='commentLine'><li>주거총점 계산을 위한 정보는 네이버 부동산으로 취득하며, 세대수/평형/난방방식 등의 항목을 상대점수로 산정합니다.</li></div>"
+    detailHtml += "<div class='comment2'>주거총점 계산을 위한 정보는 네이버 부동산으로 취득하며, 세대수/평형/난방방식 등의 항목을 상대점수로 산정합니다.</div>"
     detailHtml += "</div></div></div></div>"   
     avgLivingScore = Math.round( livingSum/itemNum * 100 ) / 100    
 
@@ -706,7 +706,7 @@
       detailHtml += "<div class='popSubTable' id='popSubStation'><div class='popContent'>" + "가장 가까운 역" + "</div>" + "<div class='popResult'>" + nearestStation + "</div></div>";
       detailHtml += "<div class='popSubTable'><div class='popContent'>" + "30분 이내 도착 가능 주요역" + "</div>" + "<div class='popResult'>" + stationPoint_30m + "</div></div>";
       detailHtml += "<div class='popSubTable'><div class='popContent'>" + "1시간 이내 도착 가능 주요역" + "</div>" + "<div class='popResult'>" + stationPoint_1h + "</div></div>";
-      detailHtml += "<div class='comment2'><ul class='commentLine'><li>가장 가까운 역은 직선거리로 계산됩니다.</li><li>도착 가능 주요역은 강남, 여의도, 종로와 같은 주요 업무지구가 위치한 역을 의미합니다.</li><li>30분, 1시간 이동 거리는 구글 대중교통 이동 시간 정보를 사용합니다.</li></div>"
+      detailHtml += "<div class='comment2'>가장 가까운 역은 직선거리로 계산됩니다.<br>도착 가능 주요역은 강남, 여의도, 종로와 같은 주요 업무지구가 위치한 역을 의미합니다.<br>30분, 1시간 이동 거리는 구글 대중교통 이동 시간 정보를 사용합니다.</div>"
       detailHtml += "</div></div></div></div>"
       avgTransportScore = ( Math.round( transportSum/itemNum * 100 ) / 100 ).toFixed(2)
     }
@@ -728,7 +728,7 @@
     detailHtml += "<div class='popSubTable'><div class='popContent'>" + "5km 이내 대형병원" + "</div>" + "<div class='popResult'>" + bigHospital_5km + "</div></div>";
     detailHtml += "<div class='popSubTable'><div class='popContent'>" + "500m 이내 공원" + "</div>" + "<div class='popResult'>" + park_500m + "</div></div>";
     detailHtml += "<div class='popSubTable'><div class='popContent'>" + "3km 이내 혐오시설" + "</div>" + "<div class='popResult'>" + harmful_3km + "</div></div>";
-    detailHtml += "<div class='comment2'><ul class='commentLine'><li>인프라 정보는 각 백화점/마트 홈페이지, 은행연합회, 자원순환정보시스템, 공공데이터 포탈의 정보를 기반으로 산정됩니다.</li></div>"
+    detailHtml += "<div class='comment2'>인프라 정보는 각 백화점/마트 홈페이지, 은행연합회, 자원순환정보시스템, 공공데이터 포탈의 정보를 기반으로 산정됩니다.</div>"
     detailHtml += "</div></div></div></div>"
     avgInfraScore = ( Math.round( infraSum/itemNum * 100 ) / 100 ).toFixed(2)
 
@@ -743,7 +743,7 @@
     detailHtml += "<div class='popTable'>"
     detailHtml += "<div class='popSubTable'><div class='popContent'>" + "초등학교 학생증감점수" + "</div>" + "<div class='popResult'>" + ( Math.round( pSchool_edu * 100 ) / 100 ).toFixed(2) + "점</div></div>";
     detailHtml += "<div class='popSubTable'><div class='popContent'>" + "중학교 학업성취도" + "</div>" + "<div class='popResult'>" + mSchool_edu + "</div></div>";
-    detailHtml += "<div class='comment2'><ul class='commentLine'><li>학군 정보는 교육통계서비스 정보를 기반으로 산정됩니다.</li></div>"
+    detailHtml += "<div class='comment2'>학군 정보는 교육통계서비스 정보를 기반으로 산정됩니다.</div>"
     detailHtml += "</div></div></div></div>"
     avgEduScore = ( Math.round( eduSum/itemNum * 100 ) / 100 ).toFixed(2)
     
@@ -755,7 +755,7 @@
     detailHtml += "<div class='card-body'>";
     detailHtml += "<div id='popEducation'>"    
     detailHtml += "<div class='graph' style='height: 120px'> <canvas id='regionChart'></canvas></div>"
-    detailHtml += "<div class='comment2'><ul class='commentLine'><li>지역구 정보는 공공데이터포탈 정보를 기반으로 산정됩니다.</li></div>"
+    detailHtml += "<div class='comment2'>지역구 정보는 공공데이터포탈 정보를 기반으로 산정됩니다.</div>"
     detailHtml += "</div></div></div>"
 
     //Footer에 네이버 부동산 버튼
