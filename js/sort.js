@@ -210,9 +210,10 @@
       total = Number(valLiving) + Number(valTrans) + Number(valInfra) + Number(valEdu)
       rearrange(aptData, valLiving/total, valTrans/total, valInfra/total, valEdu/total)      
       aptSearch()
+      $('html').scrollTop(0)
     }
     else{
-      updateRegion()
+      updateRegion()      
     }
 
     $('div.modal').modal("hide")    

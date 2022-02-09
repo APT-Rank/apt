@@ -30,10 +30,13 @@
   <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no, minimal-ui">
 
   <script src="https://code.jquery.com/jquery-3.6.0.min.js" integrity="sha256-/xUj+3OJU5yExlq6GSYGSHk7tPXikynS7ogEvDej/m4=" crossorigin="anonymous"></script>
-  <script src="https://code.jquery.com/ui/1.12.1/jquery-ui.min.js" integrity="sha256-VazP97ZCwtekAsvgPBSUwPFKdrwD3unUfSGVYrahUqU=" crossorigin="anonymous"></script>  
+  <script src="https://code.jquery.com/ui/1.12.1/jquery-ui.min.js" integrity="sha256-VazP97ZCwtekAsvgPBSUwPFKdrwD3unUfSGVYrahUqU=" crossorigin="anonymous"></script>
+  <script src="https://kit.fontawesome.com/362c37dd1b.js" crossorigin="anonymous"></script>
 
   <script src="./js/menu_select_box.js" type="text/javascript"></script>
   <script src="./js/draw_chart.js" type="text/javascript"></script>
+  <script src="./js/sort.js" type="text/javascript"></script>
+  <script src="./js/search.js" type="text/javascript"></script>
   <link href="./css/style.css" rel="stylesheet"/>
 </head>
 <style>  
@@ -49,9 +52,11 @@
     <div id="centerBox">
       <div id="titleBar">
         <div id='search' onClick='showSearchBar()'><i class="fas fa-search"></i></div>
-        <div id='sort' onClick='showSortingBar()'><i class="fas fa-sort-amount-down"></i></div>
+        <div></div>        
         <div id="title" onClick='scrollUp()'>아파트 랭크</div>
-        <div></div>
+        <div id='sort' class="position-relative" data-bs-toggle='modal' data-bs-target='#exampleModal' id='myModal' onClick='showSorting()'><i class="fas fa-sort-amount-down"></i>
+          <span class="position-absolute top-20 start-0 translate-middle badge rounded-pill" id="betaBadge">BETA</span>
+        </div>
         <div id='help' data-bs-toggle='modal' data-bs-target='#exampleModal' id='myModal' onClick='showNotice()'><i class="fas fa-question-circle"></i></div>        
       </div>
 
@@ -63,8 +68,10 @@
             <option value="202202" selected>2022년 02월</option>
             <option value="202201">2022년 01월</option>
           </select>          
-        </div>
+        </div>        
       </div>
+
+      <div id="weight" data-bs-toggle='modal' data-bs-target='#exampleModal' onClick='showSorting()'></div>
 
       <div id="searchCard">
         <div id="iconSearch"><i class="fas fa-search"></i></div>
@@ -82,29 +89,29 @@
         <div id="searchGuide">
           <div id="sortNotice"></div>
             <div class="btn-group" role="group" aria-label="Basic radio toggle button group">
-              <input type="radio" class="btn-check" name="btnradio" id="btnradio1" autocomplete="off" checked>
+              <input type="radio" class="btn-check" name="aptSort" id="btnradio1" value="sortScore" onClick="aptSort('btnradio1')" checked>
               <label class="btn btn-outline-danger" for="btnradio1">총점</label>
             
-              <input type="radio" class="btn-check" name="btnradio" id="btnradio2" autocomplete="off">
+              <input type="radio" class="btn-check" name="aptSort" id="btnradio2" value="sortPrice" onClick="aptSort('btnradio2')">
               <label class="btn btn-outline-danger" for="btnradio2">실거래가</label>
             
-              <input type="radio" class="btn-check" name="btnradio" id="btnradio3" autocomplete="off">
+              <input type="radio" class="btn-check" name="aptSort" id="btnradio3" value="sortYear" onClick="aptSort('btnradio3')">
               <label class="btn btn-outline-danger" for="btnradio3">신축</label>
 
-              <input type="radio" class="btn-check" name="btnradio" id="btnradio4" autocomplete="off">
+              <input type="radio" class="btn-check" name="aptSort" id="btnradio4" value="sortHouse" onClick="aptSort('btnradio4')">
               <label class="btn btn-outline-danger" for="btnradio4">세대수</label>
             </div>          
           <div id="filterPyeong">
             <select id="selectPyeong" onChange="pyeongSort()">            
-              <option value="areaAll" selected>전체평형</option>
-              <option value="area20">20평 미만</option>
-              <option value="area30">20-29평</option>
-              <option value="area40">30-39평</option>
-              <option value="area40">40-49평</option>
-              <option value="area50">50-59평</option>
-              <option value="area60">60평 이상</option>              
+              <option value="areaAll" selected>전체 단지</option>
+              <option value="area20">20평 미만 보유 단지</option>
+              <option value="area30">20-29평 보유 단지</option>
+              <option value="area40">30-39평 보유 단지</option>
+              <option value="area40">40-49평 보유 단지</option>
+              <option value="area50">50-59평 보유 단지</option>
+              <option value="area60">60평 이상 보유 단지</option>              
             </select>
-          </div>          
+          </div>
         </div>
         <div id="closeSearch" onClick='closeSorting()' ><i class="fas fa-times"></i></div>
       </div>      
@@ -166,6 +173,7 @@
 
   var itemNum = 0;
   var aptData = "";
+  var sortData = "";
   var prevValue = 0;
 
   var modalState = 0;
@@ -173,12 +181,17 @@
   var popupHistory = [];
 
   $(document).ready(function(){
-    $('div.modal').modal("hide");    
+    $('div.modal').modal("hide");   
     var option = ""
     for(i = 0 ; i < regions.length ; i++){        
         option += "<option value='" + regions[i][1] + "'>" + regions[i][0] + "</option>"
     }
     $('#sido').html(option)
+
+    //툴팁 언제든 사용
+    $(function () {
+      $('[data-toggle="tooltip"]').tooltip()
+    })
 
     var lastRegion = localStorage.getItem('lastRegion')
     var lastSubRegion = localStorage.getItem('lastSubRegion')
@@ -211,6 +224,8 @@
 
     month = selectedMonth
     //updateTable(month, regionSubName)
+    
+    initSorting()
 
     $('div.modal').on('show.bs.modal', function() {
       var modal = this;              
@@ -222,158 +237,45 @@
         }
       }
     });
+
     $('div.modal').on('hidden.bs.modal', function() {
       var hash = this.id;
       history.replaceState('', document.title, window.location.pathname);
     })
   });
 
+  function showWeight(){
+    if(selectedRegion != 'Korea'){
+      $('#weight').show()
+      $('#dataList').css({'padding-top': '115px'})
+
+      var sortName = ""
+
+      if (sortSelection == "sortDefault"){ sortName = "균형잡힌" }
+      if (sortSelection == "sortLiving"){ sortName = "거주우선" }
+      if (sortSelection == "sortTrans"){ sortName = "교통우선" }
+      if (sortSelection == "sortInfra"){ sortName = "인프라우선" }
+      if (sortSelection == "sortEdu"){ sortName = "학군우선" }
+      if (sortSelection == "sortCustom"){ sortName = "커스텀" }
+
+      var weightInfo = ""      
+      if(sortSelection == "sortDefault"){
+        weightInfo = sortName + " 가중치 (기본값)"
+      }
+      else{
+        weightInfo = sortName + " 가중치 : " + "주거 " + valLiving + ", " + "교통 " + valTrans + ", " + "인프라 " + valInfra + ", " + "학군 " + valEdu        
+      }
+      $('#weight').html(weightInfo)
+    }
+    else{
+      $('#weight').hide()
+      $('#dataList').css({'padding-top': '96px'})
+    }
+  }
+
   function sidoChange(){
     optionChange()
     updateRegion()
-  }
-
-  function showSearchBar(){    
-    //$("#searchCard").slideDown();    
-    $("#searchCard").animate({
-      opacity: 1.0,
-      top: '0'
-    }, 400, 'easeOutQuad'
-    );
-    $("#closeSearch_floating").animate({
-      opacity: 1.0,
-      right: '5'
-    }, 700, 'easeOutQuad'
-    );
-
-    $('#inputSearch').focus();
-
-    var searchNotice = "'" + $('#sido option:selected').text() + " " + $('#gungu option:selected').text() + "' 내에서 검색합니다"
-    $('#searchNotice').html(searchNotice)
-  }
-  function closeSearch(){    
-    $("#searchCard").animate({
-      opacity: 0.0,
-      top: '-150px'
-    }, 400, 'easeInQuad'
-    );
-    $("#closeSearch_floating").animate({
-      opacity: 0.0,
-      right: '-200px'
-    }, 400, 'easeInQuad'
-    );
-    $('#inputSearch').val("")    
-    aptSearch()
-  }
-
-  function showSortingBar(){    
-    //$("#searchCard").slideDown();    
-    $("#sortingCard").animate({
-      opacity: 1.0,
-      top: '0'
-    }, 400, 'easeOutQuad'
-    );
-    $("#closeSort_floating").animate({
-      opacity: 1.0,
-      right: '5'
-    }, 700, 'easeOutQuad'
-    );    
-
-    var sortNotice = "'" + $('#sido option:selected').text() + " " + $('#gungu option:selected').text() + "' 내에서 정렬합니다"
-    $('#sortNotice').html(sortNotice)
-  }
-
-  function closeSorting(){    
-    $("#sortingCard").animate({
-      opacity: 0.0,
-      top: '-150px'
-    }, 400, 'easeInQuad'
-    );
-    $("#closeSort_floating").animate({
-      opacity: 0.0,
-      right: '-200px'
-    }, 400, 'easeInQuad'
-    );
-    //aptSearch()
-  }
-  var input = ""
-  
-  function aptSearch(){
-    $('#dataList').html("");
-    input = $('#inputSearch').val()
-    for(var i = 0 ; i < aptData.data.length ; i++){
-          var aptName = aptData.data[i]["아파트명"]
-          var searchName = aptData.data[i]["아파트명"] + " " + aptData.data[i]["법정동주소"]
-
-          if(searchName.indexOf(input) >= 0){              
-            var aptName = aptData.data[i]["아파트명"]
-            var apt_m = aptData.data[i]["전용면적(m2)"]
-            var apt_p = aptData.data[i]["전용면적(평)"]
-            var aptAddress = aptData.data[i]["도로명주소"]
-            var aptValue = Math.round( aptData.data[i]["가치 총점"] * 100 ) / 100
-            var house_num = aptData.data[i]["세대수"]
-            var rank = aptData.data[i]["rank"].toFixed()
-            var last_sales = aptData.data[i]["last_sales"].split(",")
-            var last_sales_date = last_sales[0].toString()
-            var last_sales_price = last_sales[1].toString()
-            var last_sales_area = last_sales[2]
-            last_sales_date_short = last_sales_date.substr(2)
-
-            //valueSum += aptData.data[i]["가치 총점"]
-            //livingSum += aptData.data[i]["주거총점"]
-            //transportSum += aptData.data[i]["교통총점"]
-            //infraSum += aptData.data[i]["인프라총점"]
-            //eduSum += aptData.data[i]["학군총점"]
-
-            //console.log(valueSum)
-
-            var addon_html = "<div class='listBox' data-bs-toggle='modal' data-bs-target='#exampleModal' id='myModal' onClick='showDetail(" + i + ")'>";
-
-              if(selectedMonth == "202201"){
-                addon_html += "<div class='rank_content'>"
-                addon_html += "<div class='rank'>" + rank + "위</div>";            
-                addon_html += "</div>"
-              }
-              else{
-                addon_html += "<div class='rank_content'>"
-                addon_html += "<div class='rank'>" + rank + "위</div>";
-                if(aptData.data[i]["rank_gap"] == 0){
-                  addon_html += "<div class='ranksame'> -- </div>"
-                }
-                else if(aptData.data[i]["rank_gap"] == 9999){
-                  addon_html += "<div class='ranksame'> NEW! </div>"
-                }
-                else if(aptData.data[i]["rank_gap"] > 0){
-                  addon_html += "<div class='rankup'> ▲" + Math.abs(aptData.data[i]["rank_gap"]) + "</div>"
-                }
-                else if(aptData.data[i]["rank_gap"] < 0){
-                  addon_html += "<div class='rankdown'> ▼" + Math.abs(aptData.data[i]["rank_gap"]) + "</div>"
-                }
-
-                addon_html += "</div>"
-              }  
-            
-            addon_html += "<div class='content'>";
-            //addon_html += "<div class='apt_name'>" + aptName + " " + apt_p + "(" + apt_m + ")</div>";          
-
-            addon_html += "<div class='apt_name'>" + aptName;          
-            addon_html += "<span class='aptYear'> (" + aptData.data[i]["준공년차"] + "년차)</span></div>";
-
-            if(last_sales_date == "1800-01-01"){
-              addon_html += "<div class='apt_info'>" + house_num + "세대 / 거래 정보 없음</div>";
-            }
-            else{
-              addon_html += "<div class='apt_info'>"+ house_num + "세대 / " + Math.round(last_sales_price/100)/100 + "억, " + last_sales_area + ", " + last_sales_date_short + "</div>";
-            }
-
-            addon_html += "<div class='apt_address'>" + aptAddress + "</div>";
-            addon_html += "</div>";
-            addon_html += "<div class='value_score'>" + ( Math.round( aptValue * 100 ) / 100 ).toFixed(2) + "점</div>"
-            addon_html += "</div>"
-
-            $('#dataList').append(addon_html);
-          }
-        }
   }
 
   function saveLocalStorage(){
@@ -485,12 +387,14 @@
     else{      
       updateRegionTable(selectedMonth)
     }
+    showWeight()
   }
 
   function updateTable(month, region){    
     $('div.modal').modal("hide");
     $('#search').css("visibility", "visible")
     $('html').scrollTop(0)
+    initSorting()
     //console.log("AAAAAAAAAA", region)
     url = "https://www.aptrank.kr/" + month + "/" + region + ".json"    
     $('#dataList').html("");
@@ -498,6 +402,7 @@
     $.getJSON(url, function(json) {
         //console.log(json);
         aptData = json;
+        sortData = json;
         itemNum = json.data.length;
         valueSum = 0;
         livingSum = 0;
@@ -581,7 +486,12 @@
     titleHtml = "";
     detailHtml = "";
     footerHtml = "";
-    var aptRank = aptData.data[index]["rank"] + "/" + aptData.data[itemNum-1]["rank"] + "위"
+    if(sortSelection == "sortDefault"){
+      var aptRank = aptData.data[index]["rank"] + "/" + aptData.data[itemNum-1]["rank"] + "위"
+    }
+    else{
+      var aptRank = (index+1) + "/" + aptData.data[itemNum-1]["rank"] + "위"
+    }
     var aptName = aptData.data[index]["아파트명"]
     var apt_m = aptData.data[index]["전용면적(m2)"]
     var apt_p = aptData.data[index]["전용면적(평)"]
@@ -649,22 +559,37 @@
     detailHtml += "<div class='card'>";
     detailHtml += "<div class='card-header'>";
 
+     var sortName = ""
+
+    if (sortSelection == "sortDefault"){ sortName = "균형잡힌" }
+    if (sortSelection == "sortLiving"){ sortName = "거주우선" }
+    if (sortSelection == "sortTrans"){ sortName = "교통우선" }
+    if (sortSelection == "sortInfra"){ sortName = "인프라우선" }
+    if (sortSelection == "sortEdu"){ sortName = "학군우선" }
+    if (sortSelection == "sortCustom"){ sortName = "커스텀" }
+
       if(selectedMonth == "202201"){
         detailHtml += "<div class='popRank'><i class='fas fa-trophy'></i> " + aptRank + "</div></div>";
       }
       else{
         detailHtml += "<div class='popRank'><i class='fas fa-trophy'></i> " + aptRank;
-        if(aptData.data[index]["rank_gap"] == 0){
-          detailHtml += "<span class='ranksame'> (--) </span>"
+
+        if(sortSelection == "sortDefault"){
+          if(aptData.data[index]["rank_gap"] == 0){
+            detailHtml += "<span class='ranksame'> (--) </span>"
+          }
+          else if(aptData.data[index]["rank_gap"] == 9999){
+            detailHtml += "<span class='ranksame'> (NEW!) </span>"
+          }
+          else if(aptData.data[index]["rank_gap"] > 0){
+            detailHtml += "<span class='rankup'> (▲" + Math.abs(aptData.data[index]["rank_gap"]) + ")</span>"
+          }
+          else if(aptData.data[index]["rank_gap"] < 0){
+            detailHtml += "<span class='rankdown'>(▼" + Math.abs(aptData.data[index]["rank_gap"]) + ")</span>"
+          }          
         }
-        else if(aptData.data[index]["rank_gap"] == 9999){
-          detailHtml += "<span class='ranksame'> (NEW!) </span>"
-        }
-        else if(aptData.data[index]["rank_gap"] > 0){
-          detailHtml += "<span class='rankup'> (▲" + Math.abs(aptData.data[index]["rank_gap"]) + ")</span>"
-        }
-        else if(aptData.data[index]["rank_gap"] < 0){
-          detailHtml += "<span class='rankdown'>(▼" + Math.abs(aptData.data[index]["rank_gap"]) + ")</span>"
+        else{
+          detailHtml += "<span class='ranksame'>(" + sortName + ") </span>"
         }
         detailHtml += "</div></div>"
       }    
@@ -1033,8 +958,6 @@
     $('#exampleModalLabel').html(titleHtml);
     $('#aptDetail').html(detailHtml);
     $('#footer').html(footerHtml);
-  }
-  
-          
+  }          
 </script>
 </html>
