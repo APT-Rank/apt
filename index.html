@@ -263,7 +263,13 @@
         weightInfo = sortName + " 가중치 (기본값)"
       }
       else{
-        weightInfo = sortName + " 가중치 : " + "주거 " + valLiving + ", " + "교통 " + valTrans + ", " + "인프라 " + valInfra + ", " + "학군 " + valEdu        
+        if(selectedRegion == 'Seoul' || selectedRegion == 'Incheon' || selectedRegion == 'Gyeonggi' || selectedRegion == 'Busan' || selectedRegion == 'Daegu' || selectedRegion == 'Daejeon' || selectedRegion == 'Gwangju'){
+          weightInfo = sortName + " 가중치 : " + "주거 " + valLiving + ", " + "교통 " + valTrans + ", " + "인프라 " + valInfra + ", " + "학군 " + valEdu        
+        }
+        else{
+          weightInfo = sortName + " 가중치 : " + "주거 " + valLiving + ", " + "인프라 " + valInfra + ", " + "학군 " + valEdu        
+        }
+        
       }
       $('#weight').html(weightInfo)
     }

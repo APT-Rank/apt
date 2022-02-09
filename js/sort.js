@@ -194,6 +194,8 @@
     valTrans_temp = $('#rangeTrans').val();
     valInfra_temp = $('#rangeInfra').val();
     valEdu_temp = $('#rangeEdu').val();
+
+    //console.log(valLiving_temp, valTrans_temp, valInfra_temp, valEdu_temp)
   }
 
   function closeSorting(){    
@@ -207,8 +209,15 @@
 
     if(sortSelection != "sortDefault"){
       showWeight()
-      total = Number(valLiving) + Number(valTrans) + Number(valInfra) + Number(valEdu)
-      rearrange(aptData, valLiving/total, valTrans/total, valInfra/total, valEdu/total)      
+      if(selectedRegion == 'Seoul' || selectedRegion == 'Incheon' || selectedRegion == 'Gyeonggi' || selectedRegion == 'Busan' || selectedRegion == 'Daegu' || selectedRegion == 'Daejeon' || selectedRegion == 'Gwangju'){
+        total = Number(valLiving) + Number(valTrans) + Number(valInfra) + Number(valEdu)      
+        rearrange(aptData, valLiving/total, valTrans/total, valInfra/total, valEdu/total)
+      }
+      else{
+        total = Number(valLiving) + Number(valInfra) + Number(valEdu)      
+        rearrange(aptData, valLiving/total, 0, valInfra/total, valEdu/total)
+      }
+      
       aptSearch()
       $('html').scrollTop(0)
     }
@@ -221,7 +230,12 @@
 
   function rearrange(jsonData, living, trans, infra, edu){
     for(var i = 0 ; i < jsonData.data.length; i++){
-      jsonData.data[i]["가치 총점"] = jsonData.data[i]["주거총점"]*living + jsonData.data[i]["교통총점"]*trans + jsonData.data[i]["인프라총점"]*infra + jsonData.data[i]["학군총점"]*edu
+      if(jsonData.data[i]["교통총점"] == "NA"){
+        jsonData.data[i]["가치 총점"] = jsonData.data[i]["주거총점"]*living + jsonData.data[i]["인프라총점"]*infra + jsonData.data[i]["학군총점"]*edu
+      }
+      else{
+        jsonData.data[i]["가치 총점"] = jsonData.data[i]["주거총점"]*living + jsonData.data[i]["교통총점"]*trans + jsonData.data[i]["인프라총점"]*infra + jsonData.data[i]["학군총점"]*edu
+      }      
     }
 
     key = "가치 총점"
