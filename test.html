@@ -54,8 +54,8 @@
         <div id='search' onClick='showSearchBar()'><i class="fas fa-search"></i></div>
         <div></div>        
         <div id="title" onClick='scrollUp()'>아파트 랭크</div>
-        <div id='sort' class="position-relative" data-bs-toggle='modal' data-bs-target='#exampleModal' id='myModal' onClick='showSorting()'><i class="fas fa-sort-amount-down"></i>
-          <span class="position-absolute top-20 start-0 translate-middle badge rounded-pill">BETA</span>
+        <div id='sort' class="position-relative" data-bs-toggle='modal' data-bs-target='#exampleModal' id='myModal' onClick='showSorting()'><i class="fa-solid fa-sliders"></i>
+          <span class="position-absolute top-20 start-0 translate-middle badge rounded-pill" id="betaBadge">BETA</span>
         </div>
         <div id='help' data-bs-toggle='modal' data-bs-target='#exampleModal' id='myModal' onClick='showNotice()'><i class="fas fa-question-circle"></i></div>        
       </div>
@@ -263,7 +263,13 @@
         weightInfo = sortName + " 가중치 (기본값)"
       }
       else{
-        weightInfo = sortName + " 가중치 : " + "주거 " + valLiving + ", " + "교통 " + valTrans + ", " + "인프라 " + valInfra + ", " + "학군 " + valEdu        
+        if(selectedRegion == 'Seoul' || selectedRegion == 'Incheon' || selectedRegion == 'Gyeonggi' || selectedRegion == 'Busan' || selectedRegion == 'Daegu' || selectedRegion == 'Daejeon' || selectedRegion == 'Gwangju'){
+          weightInfo = sortName + " 가중치 : " + "주거 " + valLiving + ", " + "교통 " + valTrans + ", " + "인프라 " + valInfra + ", " + "학군 " + valEdu        
+        }
+        else{
+          weightInfo = sortName + " 가중치 : " + "주거 " + valLiving + ", " + "인프라 " + valInfra + ", " + "학군 " + valEdu        
+        }
+        
       }
       $('#weight').html(weightInfo)
     }
@@ -393,6 +399,7 @@
   function updateTable(month, region){    
     $('div.modal').modal("hide");
     $('#search').css("visibility", "visible")
+    $('#sort').css("visibility", "visible")
     $('html').scrollTop(0)
     initSorting()
     //console.log("AAAAAAAAAA", region)
@@ -707,6 +714,7 @@
   function updateRegionTable(month){
     $('html').scrollTop(0)
     $('#search').css("visibility", "hidden")
+    $('#sort').css("visibility", "hidden")
     url = "https://www.aptrank.kr/" + month + "/1000000000_Korea.json"    
     $('#dataList').html("");
 
