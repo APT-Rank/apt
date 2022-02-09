@@ -68,7 +68,10 @@ body{
     color: white;
     font-size: 0.8em;
     text-align: left;
-    padding-left: 5px;   
+    padding-left: 10px;   
+  }
+  #sortNotice{
+    width: 95%;
   }
   #sortingCard{    
     position: fixed;
@@ -88,6 +91,15 @@ body{
     border-bottom-right-radius: 15px;
     box-shadow: rgba(0, 0, 0, 0.16) 0px 3px 6px, rgba(0, 0, 0, 0.23) 0px 3px 6px;
   }
+  .badge{
+    font-size: 0.3em;
+    background-color: #fcff3d;
+    color: rgb(48, 48, 48);
+    outline: 1px solid rgb(255, 215, 169);    
+  }
+  .translate-middle{
+    transform: translate(-20%, 40%) !important;
+  }  
   #filterPyeong{
     width: 100%;
   }
@@ -100,36 +112,27 @@ body{
     border: none;
     background-color: white;
   }
-  .btn-group{
-    width: 95%;    
-    color: white;
-  }
+
   .btn-outline-danger{
-    width: 100%;
+    width: 95%;
     background-color: white;
-    color: black;
-    font-size: 0.85em;
-    border-color: 0 !important;
-    padding: 4px 2px 4px 2px;    
+    color: #ff3849;    
+    border-color: #ff3849;
+    border-radius: 2em;
+    padding: 4px 2px 4px 2px;
   }
   .btn-outline-danger:hover, .btn-outline-danger:active, .btn-outline-danger:checked{    
     background-color: #ff3849 !important;
-    color: white !important;
-    border-color: 0 !important;
-    outline: 1px solid white;
-    outline-offset: -2px;
+    color: white !important;        
   }
   .btn-check:checked+.btn-outline-danger{
-    background-color: #ff3849 !important;
-    border-color: 0 !important;
-    outline: 1px solid white;
-    outline-offset: -2px;
+    background-color: #ff3849 !important;        
   }
 
   #dataList{
     display:block;
     width: 100%;
-    padding-top: 96px;    
+    padding-top: 96px;
   }
 
   .listBox{
@@ -208,6 +211,24 @@ body{
     left: 0;
     right: 0;    
   }
+  #weight{        
+    display: grid;    
+    grid-template-columns: 1fr;
+    align-content: center;
+    justify-content: center;
+    padding-top: 2px;
+    padding-bottom: 2px;    
+    background-color: #ff3d38;
+    position: fixed;
+    top: 96px;
+    left: 0;
+    right: 0;
+
+    font-size: 0.7em;
+    color: white;
+    text-align: center;
+  }
+
   #sido, #gungu, #month{
     width: 95%;
     height: 2em;
@@ -300,10 +321,45 @@ body{
     color: white;
     text-align: left;
     padding-left: 15px;
+  }  
+  .settingArea{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    grid-template-rows: 2.8em 2.8em;    
+    text-align: center;    
+    padding-top: 15px;
   }
-  #sort{
-    visibility: hidden;
+  .rangeArea{
+    display: grid;
+    grid-template-columns: 80px 1fr 60px;    
+    height: 14em;
+    text-align: center;    
   }
+  input[type=range]::-webkit-slider-thumb{
+    height: 1.3em;
+    width: 1.3em;
+    margin-top: -0.4em;
+    background-color: #ff3849;
+  }
+  input[type=range]::-webkit-slider-thumb:hover, input[type=range]::-webkit-slider-thumb:active{
+    background-color: #ffa4ac;
+  }
+  .rangeValue{
+    text-align: right;
+    padding-right: 5px;
+  }
+  .rangeGuide{
+    display: grid;
+    grid-template-columns: 1fr 60px;
+    text-align: right;
+  }
+  #percentWarning{
+    font-size: 0.8em;
+    font-weight: 600;
+    color: #ff3849;
+    margin-right: 10px;
+  }
+
   #iconSearch, #iconSort{
     font-size: 1.5em;
     color: white;
@@ -431,10 +487,10 @@ body{
       margin: 0 auto;
       width: 790px;
     }
-    #closeSearch_floating{
+    #closeSearch_floating, #closeSorting_floating{
       display: none;
     }
-    #selections{
+    #selections, #weight{
       margin: 0 auto;
       width: 800px;
     }
