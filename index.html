@@ -393,6 +393,7 @@
   function updateTable(month, region){    
     $('div.modal').modal("hide");
     $('#search').css("visibility", "visible")
+    $('#sort').css("visibility", "visible")
     $('html').scrollTop(0)
     initSorting()
     //console.log("AAAAAAAAAA", region)
@@ -707,6 +708,7 @@
   function updateRegionTable(month){
     $('html').scrollTop(0)
     $('#search').css("visibility", "hidden")
+    $('#sort').css("visibility", "hidden")
     url = "https://www.aptrank.kr/" + month + "/1000000000_Korea.json"    
     $('#dataList').html("");
 

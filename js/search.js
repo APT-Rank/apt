@@ -138,4 +138,5 @@
             $('#dataList').append(addon_html);            
           }
         }
+      $('html').scrollTop(0)
   }
