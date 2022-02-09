@@ -9,6 +9,11 @@
   var valEdu_temp = 0;
   var sortSelection = ""
 
+  function sleep (delay) {
+    var start = new Date().getTime();
+    while (new Date().getTime() < start + delay);
+  } 
+
   function initSorting(){
     sortSelection = "sortDefault"
   }
@@ -225,7 +230,8 @@
       updateRegion()      
     }
 
-    $('div.modal').modal("hide")    
+    $('div.modal').modal("hide")
+    sleep(250)
   }
 
   function rearrange(jsonData, living, trans, infra, edu){
