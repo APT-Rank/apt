@@ -94,8 +94,7 @@ body{
   .badge{
     font-size: 0.3em;
     background-color: #fcff3d;
-    color: rgb(48, 48, 48);
-    outline: 1px solid rgb(255, 215, 169);    
+    color: rgb(48, 48, 48);     
   }
   .translate-middle{
     transform: translate(-20%, 40%) !important;
@@ -277,6 +276,12 @@ body{
   #popSubStation{
     display: grid;    
     grid-template-columns: 1fr 2fr;
+  }
+  .stationList{
+    font-size: 0.7em;
+    text-align: right;
+    color: gray;
+    margin-bottom: 1.5em;    
   }
   #popSubLiving{
     display: block;
@@ -466,6 +471,10 @@ body{
     margin-top: 5px;
   }
 
+  .tooltip {
+    z-index: 1060;
+  }
+
   @media screen and (min-width: 800px){
     #modal .modalWindow{      
       width: 700px;
@@ -500,4 +509,5 @@ body{
     .comment{
       font-size: 0.8em;
     }
+
   }  
