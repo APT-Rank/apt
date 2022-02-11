@@ -278,7 +278,7 @@ body{
     grid-template-columns: 1fr 2fr;
   }
   .stationList{
-    font-size: 0.65em;
+    font-size: 0.75em;
     text-align: left;
     color: gray;
     margin-bottom: 1.5em;
@@ -505,7 +505,7 @@ body{
       grid-template-columns: 1.2fr 1fr 1fr 1fr 2fr;
     }
     .comment, .stationList{
-      font-size: 0.7em;
+      font-size: 0.8em;
     }
 
   }  
