@@ -230,7 +230,15 @@
                 "type":"string"
             },
             {
+                "name":"30분거점역이름",
+                "type":"string"
+            },
+            {
                 "name":"1시간이내주요거점역",
+                "type":"string"
+            },
+            {
+                "name":"1시간거점역이름",
                 "type":"string"
             },
             {
