@@ -514,8 +514,10 @@
     var stationArea = aptData.data[index]["역세권여부"]
     var stationPoint_30m = aptData.data[index]["30분이내주요거점역"]
     var stations_30m = aptData.data[index]["30분거점역이름"]
+    stations_30m = stations_30m.replace("[", "").replace("]", "").replace(/\'/g, "")
     var stationPoint_1h = aptData.data[index]["1시간이내주요거점역"]
     var stations_1h = aptData.data[index]["1시간거점역이름"]
+    stations_1h = stations_1h.replace("[", "").replace("]", "").replace(/\'/g, "")
     var departmentStore_3km = aptData.data[index]["3km이내백화점수"] + "개"
     var OutletMall_5km = aptData.data[index]["5km이내아울렛몰수"] + "개"
     var bigMart_1km = aptData.data[index]["1km이내대형먀트수"] + "개"

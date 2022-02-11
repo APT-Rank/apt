@@ -281,7 +281,9 @@ body{
     font-size: 0.7em;
     text-align: right;
     color: gray;
-    margin-bottom: 1.5em;    
+    margin-bottom: 1.5em;
+    word-wrap: break-word;
+    word-break: keep-all;
   }
   #popSubLiving{
     display: block;
@@ -471,10 +473,6 @@ body{
     margin-top: 5px;
   }
 
-  .tooltip {
-    z-index: 1060;
-  }
-
   @media screen and (min-width: 800px){
     #modal .modalWindow{      
       width: 700px;
@@ -506,7 +504,7 @@ body{
     .reg_subTable{    
       grid-template-columns: 1.2fr 1fr 1fr 1fr 2fr;
     }
-    .comment{
+    .comment, .stationList{
       font-size: 0.8em;
     }
 
