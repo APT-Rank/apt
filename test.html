@@ -512,12 +512,8 @@
 
     var nearestStation = aptData.data[index]["가까운역이름"] + "역" + "(" + ( Math.round( aptData.data[index]["가까운역거리"] * 100 ) / 100 ).toFixed()  + "m)"
     var stationArea = aptData.data[index]["역세권여부"]
-    var stationPoint_30m = aptData.data[index]["30분이내주요거점역"]
-    var stations_30m = aptData.data[index]["30분거점역이름"]
-    stations_30m = stations_30m.replace("[", "").replace("]", "").replace(/\'/g, "")
-    var stationPoint_1h = aptData.data[index]["1시간이내주요거점역"]
-    var stations_1h = aptData.data[index]["1시간거점역이름"]
-    stations_1h = stations_1h.replace("[", "").replace("]", "").replace(/\'/g, "")
+    var stationPoint_30m = aptData.data[index]["30분이내주요거점역"]    
+    var stationPoint_1h = aptData.data[index]["1시간이내주요거점역"]    
     var departmentStore_3km = aptData.data[index]["3km이내백화점수"] + "개"
     var OutletMall_5km = aptData.data[index]["5km이내아울렛몰수"] + "개"
     var bigMart_1km = aptData.data[index]["1km이내대형먀트수"] + "개"
@@ -641,11 +637,15 @@
 
       detailHtml += "<div class='popSubTable'><div class='popContent'>" + "30분 이내 도착 가능 주요역" + "</div>" + "<div class='popResult'>" + stationPoint_30m + "개</div></div>";      
       if(stationPoint_30m != 0 && selectedMonth != "202201"){
+        var stations_30m = aptData.data[index]["30분거점역이름"]
+        stations_30m = ( ( stations_30m.replace("[", "") ).replace("]", "") ).replace(/\'/g, "")    
         detailHtml += "<div class='stationList'>" + stations_30m + "</div>";
       }
 
       detailHtml += "<div class='popSubTable' id='stationTable'><div class='popContent'>" + "1시간 이내 도착 가능 주요역" + "</div>" + "<div class='popResult'>" + stationPoint_1h + "개</div></div>";
-      if(stationPoint_1h != 0 && selectedMonth != "202201"){        
+      if(stationPoint_1h != 0 && selectedMonth != "202201"){
+        var stations_1h = aptData.data[index]["1시간거점역이름"]
+        stations_1h = stations_1h.replace("[", "").replace("]", "").replace(/\'/g, "")
         detailHtml += "<div class='stationList'>" + stations_1h + "</div><hr style='margin-top: 2px'>";
       }
 
