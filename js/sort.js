@@ -26,14 +26,14 @@
 
     var detailHtml = "<div class='settingArea'>";
     detailHtml += "<div><input type='radio' class='btn-check' name='btnSort' autocomplete='off' id='sortDefault' onClick='setRangeValue(this)'><label class='btn btn-outline-danger' for='sortDefault'>균형잡힌</label></div>"
-    detailHtml += "<div><input type='radio' class='btn-check' name='btnSort' autocomplete='off' id='sortLiving' onClick='setRangeValue(this)'><label class='btn btn-outline-danger' for='sortLiving'>거주우선</label></div>"
+    detailHtml += "<div><input type='radio' class='btn-check' name='btnSort' autocomplete='off' id='sortLiving' onClick='setRangeValue(this)'><label class='btn btn-outline-danger' for='sortLiving'>주거우선</label></div>"
 
     if(selectedRegion == 'Seoul' || selectedRegion == 'Incheon' || selectedRegion == 'Gyeonggi' || selectedRegion == 'Busan' || selectedRegion == 'Daegu' || selectedRegion == 'Daejeon' || selectedRegion == 'Gwangju'){
       detailHtml += "<div><input type='radio' class='btn-check' name='btnSort' autocomplete='off' id='sortTrans' onClick='setRangeValue(this)'><label class='btn btn-outline-danger' for='sortTrans'>교통우선</label></div>"
     }
 
     detailHtml += "<div><input type='radio' class='btn-check' name='btnSort' autocomplete='off' id='sortInfra' onClick='setRangeValue(this)'><label class='btn btn-outline-danger' for='sortInfra'>인프라우선</label></div>"
-    detailHtml += "<div><input type='radio' class='btn-check' name='btnSort' autocomplete='off' id='sortEdu' onClick='setRangeValue(this)'><label class='btn btn-outline-danger' for='sortEdu'>학군우선</label></div>"
+    detailHtml += "<div><input type='radio' class='btn-check' name='btnSort' autocomplete='off' id='sortEdu' onClick='setRangeValue(this)'><label class='btn btn-outline-danger' for='sortEdu'>교육우선</label></div>"
     detailHtml += "<div><input type='radio' class='btn-check' name='btnSort' autocomplete='off' id='sortCustom' onClick='setRangeValue(this)'><label class='btn btn-outline-danger' for='sortCustom'>커스텀</label></div>"
     detailHtml += "</div>";
 
@@ -55,7 +55,7 @@
     detailHtml += "<div class='rangeSet'><input type='range' class='form-range' min='0' max='100' step='5' value='50' id='rangeInfra' onInput='updateRangeValue(" + 'setInfraValue,' + 'this' + ")'/></div>";
     detailHtml += "<div class='rangeValue' id='setInfraValue'>50%</div>";
 
-    detailHtml += "<div class='rangeName'>학군</div>"
+    detailHtml += "<div class='rangeName'>교육</div>"
     detailHtml += "<div class='rangeSet'><input type='range' class='form-range' min='0' max='100' step='5' value='50' id='rangeEdu' onInput='updateRangeValue(" + 'setEduValue,' + 'this' + ")'/></div>";
     detailHtml += "<div class='rangeValue' id='setEduValue'>50%</div>";    
 
@@ -97,8 +97,8 @@
     $('#percentWarning').css({'visibility' : 'hidden'})
     $('.modal-footer').css({"grid-template-columns" : "1fr 1fr", "text-align":"center"})
 
-    $('#sortApply').css({"border-radius": '5px', "background-color": "#ff3849", "color":"white"})
-    $('#sortClose').css({"border-radius": '5px', "background-color": "#ff3849", "color":"white"})    
+    $('#sortApply').css({"border-radius": '5px', "background-color": "#ff3849", "color":"white", "height":"2.5em"})
+    $('#sortClose').css({"border-radius": '5px', "background-color": "#ff3849", "color":"white", "height":"2.5em"})    
   }
 
   function setRangeValue(e){

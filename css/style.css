@@ -117,7 +117,7 @@ body{
     background-color: white;
     color: #ff3849;    
     border-color: #ff3849;
-    border-radius: 2em;
+    border-radius: 2em;    
     padding: 4px 2px 4px 2px;
   }
   .btn-outline-danger:hover, .btn-outline-danger:active, .btn-outline-danger:checked{    
@@ -278,12 +278,19 @@ body{
     grid-template-columns: 1fr 2fr;
   }
   .stationList{
-    font-size: 0.75em;
-    text-align: left;
+    display: grid;
+    grid-template-columns: 0.1fr 1fr;
+    align-content:flex-end;
+    justify-content:end;
+    font-size: 0.75em;    
+    text-align: right;
     color: gray;
     margin-bottom: 1.5em;
     word-wrap: break-word;
-    word-break: keep-all;
+    word-break: keep-all;    
+  }
+  .stationText{
+    
   }
   #popSubLiving{
     display: block;
