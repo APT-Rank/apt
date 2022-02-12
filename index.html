@@ -24,8 +24,9 @@
   <link href="https://fonts.googleapis.com/css?family=Roboto:100,300,400,500,700,900" rel="stylesheet">
   <link href="https://cdn.jsdelivr.net/npm/@mdi/font@6.x/css/materialdesignicons.min.css" rel="stylesheet">  
   <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.15.4/css/all.css" integrity="sha384-DyZ88mC6Up2uqS4h/KRgHuoeGwBcD4Ng9SiP4dIRy0EXTlnuz47vAwmeGwVChigm" crossorigin="anonymous">
-  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-1BmE4kWBq78iYhFldvKuhfTAU6auU8tT94WrHftjDbrCEXSU1oBoqyl2QvZ6jIW3" crossorigin="anonymous">
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-1BmE4kWBq78iYhFldvKuhfTAU6auU8tT94WrHftjDbrCEXSU1oBoqyl2QvZ6jIW3" crossorigin="anonymous">  
   <link rel="shortcut icon" href="https://www.aptrank.kr/apr-rank.png"/>
+  
 
   <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no, minimal-ui">
 
@@ -57,7 +58,8 @@
         <div id='sort' class="position-relative" data-bs-toggle='modal' data-bs-target='#exampleModal' id='myModal' onClick='showSorting()'><i class="fas fa-sort-amount-down"></i>
           <span class="position-absolute top-20 start-0 translate-middle badge rounded-pill" id="betaBadge">BETA</span>
         </div>
-        <div id='help' data-bs-toggle='modal' data-bs-target='#exampleModal' id='myModal' onClick='showNotice()'><i class="fas fa-question-circle"></i></div>        
+        <div id='help' data-bs-toggle='modal' data-bs-target='#exampleModal' id='myModal' onClick='showNotice()'><i class="fas fa-question-circle"></i></div>
+        
       </div>
 
       <div id="selections">
@@ -149,7 +151,8 @@
   </div>  
   <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-ka7Sk0Gln4gmtz2MlQnikT1wXgYsOg+OMhuP+IlRH9sENBO0LRn5q+8nbTov4+1p" crossorigin="anonymous"></script>
   <script src="https://cdn.jsdelivr.net/npm/chart.js@3.0.0/dist/chart.min.js"></script>
-  <script src="https://cdn.jsdelivr.net/npm/chartjs-plugin-datalabels@2"></script>  
+  <script src="https://cdn.jsdelivr.net/npm/chartjs-plugin-datalabels@2"></script>
+
 </body>
 
 <script>
@@ -186,12 +189,7 @@
     for(i = 0 ; i < regions.length ; i++){        
         option += "<option value='" + regions[i][1] + "'>" + regions[i][0] + "</option>"
     }
-    $('#sido').html(option)
-
-    //툴팁 언제든 사용
-    $(function () {
-      $('[data-toggle="tooltip"]').tooltip()
-    })
+    $('#sido').html(option)    
 
     var lastRegion = localStorage.getItem('lastRegion')
     var lastSubRegion = localStorage.getItem('lastSubRegion')
@@ -199,7 +197,7 @@
 
     //var lastRegion = sessionStorage.getItem('lastRegion')
     //var lastSubRegion = sessionStorage.getItem('lastSubRegion')
-    //var lastMonth = sessionStorage.getItem('lastMonth')    
+    //var lastMonth = sessionStorage.getItem('lastMonth')
 
     if(lastRegion != null){
       selectedRegion = lastRegion
@@ -252,10 +250,10 @@
       var sortName = ""
 
       if (sortSelection == "sortDefault"){ sortName = "균형잡힌" }
-      if (sortSelection == "sortLiving"){ sortName = "거주우선" }
+      if (sortSelection == "sortLiving"){ sortName = "주거우선" }
       if (sortSelection == "sortTrans"){ sortName = "교통우선" }
       if (sortSelection == "sortInfra"){ sortName = "인프라우선" }
-      if (sortSelection == "sortEdu"){ sortName = "학군우선" }
+      if (sortSelection == "sortEdu"){ sortName = "교육우선" }
       if (sortSelection == "sortCustom"){ sortName = "커스텀" }
 
       var weightInfo = ""      
@@ -264,10 +262,10 @@
       }
       else{
         if(selectedRegion == 'Seoul' || selectedRegion == 'Incheon' || selectedRegion == 'Gyeonggi' || selectedRegion == 'Busan' || selectedRegion == 'Daegu' || selectedRegion == 'Daejeon' || selectedRegion == 'Gwangju'){
-          weightInfo = sortName + " 가중치 : " + "주거 " + valLiving + ", " + "교통 " + valTrans + ", " + "인프라 " + valInfra + ", " + "학군 " + valEdu        
+          weightInfo = sortName + " 가중치 : " + "주거 " + valLiving + ", " + "교통 " + valTrans + ", " + "인프라 " + valInfra + ", " + "교육 " + valEdu        
         }
         else{
-          weightInfo = sortName + " 가중치 : " + "주거 " + valLiving + ", " + "인프라 " + valInfra + ", " + "학군 " + valEdu        
+          weightInfo = sortName + " 가중치 : " + "주거 " + valLiving + ", " + "인프라 " + valInfra + ", " + "교육 " + valEdu        
         }
         
       }
@@ -514,8 +512,8 @@
 
     var nearestStation = aptData.data[index]["가까운역이름"] + "역" + "(" + ( Math.round( aptData.data[index]["가까운역거리"] * 100 ) / 100 ).toFixed()  + "m)"
     var stationArea = aptData.data[index]["역세권여부"]
-    var stationPoint_30m = aptData.data[index]["30분이내주요거점역"] + "개"
-    var stationPoint_1h = aptData.data[index]["1시간이내주요거점역"] + "개"
+    var stationPoint_30m = aptData.data[index]["30분이내주요거점역"]    
+    var stationPoint_1h = aptData.data[index]["1시간이내주요거점역"]    
     var departmentStore_3km = aptData.data[index]["3km이내백화점수"] + "개"
     var OutletMall_5km = aptData.data[index]["5km이내아울렛몰수"] + "개"
     var bigMart_1km = aptData.data[index]["1km이내대형먀트수"] + "개"
@@ -569,10 +567,10 @@
      var sortName = ""
 
     if (sortSelection == "sortDefault"){ sortName = "균형잡힌" }
-    if (sortSelection == "sortLiving"){ sortName = "거주우선" }
+    if (sortSelection == "sortLiving"){ sortName = "주거우선" }
     if (sortSelection == "sortTrans"){ sortName = "교통우선" }
     if (sortSelection == "sortInfra"){ sortName = "인프라우선" }
-    if (sortSelection == "sortEdu"){ sortName = "학군우선" }
+    if (sortSelection == "sortEdu"){ sortName = "교육우선" }
     if (sortSelection == "sortCustom"){ sortName = "커스텀" }
 
       if(selectedMonth == "202201"){
@@ -635,13 +633,26 @@
       detailHtml += "<div id='popTransport'>"
       detailHtml += "<div class='graph' style='height: 120px'> <canvas id='transportChart'></canvas></div>"
       detailHtml += "<div class='popTable'>"
-      detailHtml += "<div class='popSubTable' id='popSubStation'><div class='popContent'>" + "가장 가까운 역" + "</div>" + "<div class='popResult'>" + nearestStation + "</div></div>";
-      detailHtml += "<div class='popSubTable'><div class='popContent'>" + "30분 이내 도착 가능 주요역" + "</div>" + "<div class='popResult'>" + stationPoint_30m + "</div></div>";
-      detailHtml += "<div class='popSubTable'><div class='popContent'>" + "1시간 이내 도착 가능 주요역" + "</div>" + "<div class='popResult'>" + stationPoint_1h + "</div></div>";
-      detailHtml += "<div class='comment2'>가장 가까운 역은 직선거리로 계산됩니다.<br>도착 가능 주요역은 강남, 여의도, 종로와 같은 주요 업무지구가 위치한 역을 의미합니다.<br>30분, 1시간 이동 거리는 구글 대중교통 이동 시간 정보를 사용합니다.</div>"
+      detailHtml += "<div class='popSubTable' id='popSubStation'><div class='popContent'>" + "가장 가까운 역" + "</div>" + "<div class='popResult'>" + nearestStation + "</div></div>";      
+
+      detailHtml += "<div class='popSubTable'><div class='popContent'>" + "30분 이내 도착 가능 주요역" + "</div>" + "<div class='popResult'>" + stationPoint_30m + "개</div></div>";      
+      if(stationPoint_30m != 0 && selectedMonth != "202201"){
+        var stations_30m = aptData.data[index]["30분거점역이름"]
+        stations_30m = ( ( stations_30m.replace("[", "") ).replace("]", "") ).replace(/\'/g, "")    
+        detailHtml += "<div class='stationList'><div></div><div class='stationText'>" + stations_30m + "</div></div>";
+      }
+
+      detailHtml += "<div class='popSubTable' id='stationTable'><div class='popContent'>" + "1시간 이내 도착 가능 주요역" + "</div>" + "<div class='popResult'>" + stationPoint_1h + "개</div></div>";
+      if(stationPoint_1h != 0 && selectedMonth != "202201"){
+        var stations_1h = aptData.data[index]["1시간거점역이름"]
+        stations_1h = stations_1h.replace("[", "").replace("]", "").replace(/\'/g, "")
+        detailHtml += "<div class='stationList'><div></div><div class='stationText'>" + stations_1h + "</div></div><hr style='margin-top: 2px'>";
+      }
+
+      detailHtml += "<div class='comment2'>가장 가까운 역은 직선거리로 계산됩니다.<br>주요역은 평일 출근시간대 하차인원이 가장 많은 역을 의미합니다.<br>30분, 1시간 이동 거리는 구글 대중교통 이동 시간 정보를 사용합니다.</div>"
       detailHtml += "</div></div></div></div>"
       avgTransportScore = ( Math.round( transportSum/itemNum * 100 ) / 100 ).toFixed(2)
-    }
+    }    
 
     //인프라
     detailHtml += "<div class='card'>";
@@ -664,10 +675,10 @@
     detailHtml += "</div></div></div></div>"
     avgInfraScore = ( Math.round( infraSum/itemNum * 100 ) / 100 ).toFixed(2)
 
-    //학군
+    //교육
     detailHtml += "<div class='card'>";
     detailHtml += "<div class='card-header'>";
-    detailHtml += "<div class='popTitle'><i class='fas fa-graduation-cap'></i>&nbsp&nbsp학군</div>"
+    detailHtml += "<div class='popTitle'><i class='fas fa-graduation-cap'></i>&nbsp&nbsp교육</div>"
     detailHtml += "</div>";
     detailHtml += "<div class='card-body'>";
     detailHtml += "<div id='popEducation'>"    
@@ -675,7 +686,7 @@
     detailHtml += "<div class='popTable'>"
     detailHtml += "<div class='popSubTable'><div class='popContent'>" + "초등학교 학생증감점수" + "</div>" + "<div class='popResult'>" + ( Math.round( pSchool_edu * 100 ) / 100 ).toFixed(2) + "점</div></div>";
     detailHtml += "<div class='popSubTable'><div class='popContent'>" + "중학교 학업성취도" + "</div>" + "<div class='popResult'>" + mSchool_edu + "</div></div>";
-    detailHtml += "<div class='comment2'>학군 정보는 교육통계서비스 정보를 기반으로 산정됩니다.</div>"
+    detailHtml += "<div class='comment2'>교육 정보는 교육통계서비스 정보를 기반으로 산정됩니다.</div>"
     detailHtml += "</div></div></div></div>"
     avgEduScore = ( Math.round( eduSum/itemNum * 100 ) / 100 ).toFixed(2)
     
@@ -699,7 +710,7 @@
     
     $('#exampleModalLabel').html(titleHtml);
     $('#aptDetail').html(detailHtml);
-    $('#footer').html(footerHtml);
+    $('#footer').html(footerHtml);    
     
     drawChart(aptValue, livingScore, transportScore, infraScore, eduScore)
     drawSubChart(livingScore, avgLivingScore, "주거총점", "지역평균", "#ff3d38", "#9f9f9f",  "livingChart")
@@ -707,7 +718,7 @@
       drawSubChart(transportScore, avgTransportScore, "교통총점", "지역평균", "#ff3d38", "#9f9f9f", "transportChart")
     }
     drawSubChart(infraScore, avgInfraScore, "인프라총점", "지역평균", "#ff3d38", "#9f9f9f", "infraChart")
-    drawSubChart(eduScore, avgEduScore, "학군총점", "지역평균", "#ff3d38", "#9f9f9f", "eduChart")
+    drawSubChart(eduScore, avgEduScore, "교육총점", "지역평균", "#ff3d38", "#9f9f9f", "eduChart")
     drawSubChart(eduScore, avgEduScore, "인구총점", "일자리총점", "#ff3d38", "#ff3d38", "regionChart")
   }
 
@@ -950,7 +961,7 @@
     detailHtml += "<li><div class='notice'> 100세대 이하의 단지는 통계에서 제외됩니다.</div></li>";
     detailHtml += "<li><div class='notice'> 수도권 교통 정보는 지하철역 위치 정보를 기반으로 산정됩니다.</div></li>";
     detailHtml += "<li><div class='notice'> 인프라 정보는 각 백화점/마트 홈페이지, 은행연합회, 자원순환정보시스템, 공공데이터 포탈의 정보를 기반으로 산정됩니다.</div></li>";
-    detailHtml += "<li><div class='notice'> 학군 정보는 교육통계서비스 정보를 기반으로 산정됩니다.</div></li>";
+    detailHtml += "<li><div class='notice'> 교육 정보는 교육통계서비스 정보를 기반으로 산정됩니다.</div></li>";
     detailHtml += "<li><div class='notice'> 지역구 정보는 공공데이터포탈 정보를 기반으로 산정됩니다.</div></li>";
     detailHtml += "<li><div class='notice'> 모든 정보는 월 1회 업데이트 예정이며, 각 기반 정보의 업데이트 시점에 따라 변동 가능성이 있습니다.</div></li>";    
     detailHtml += "<li><div class='notice'> 문의사항, 오류수정, 개선제안은 이메일을 통해 요청해 주세요.</div></li>";    
