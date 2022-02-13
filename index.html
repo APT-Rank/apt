@@ -711,7 +711,9 @@
     
     $('#exampleModalLabel').html(titleHtml);
     $('#aptDetail').html(detailHtml);
-    $('#footer').html(footerHtml);    
+    $('#footer').html(footerHtml);
+
+    $('.modal-footer').css({"grid-template-columns" : "0.2fr 1fr 0.2fr", "text-align":"center"})
     
     drawChart(aptValue, livingScore, transportScore, infraScore, eduScore)
     drawSubChart(livingScore, avgLivingScore, "주거총점", "지역평균", "#ff3d38", "#9f9f9f",  "livingChart")
@@ -927,6 +929,8 @@
     $('#exampleModalLabel').html(titleHtml);
     $('#aptDetail').html(detailHtml);
     $('#footer').html(footerHtml);
+
+    $('.modal-footer').css({"grid-template-columns" : "0.2fr 1fr 0.2fr", "text-align":"center"})
  
     drawChart(regValue, regSupplyScore, regPopScore, regJobScore, "region")    
     //drawSubChart(regSupplyScore, avgSupplyScore, "공급량총점", "전국평균", "#ff3d38", "#9f9f9f", "supplyChart")

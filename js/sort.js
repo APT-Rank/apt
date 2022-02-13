@@ -94,8 +94,7 @@
       $('#rangeEdu').prop("disabled", false)
     }
 
-    $('#percentWarning').css({'visibility' : 'hidden'})
-    $('.modal-footer').css({"grid-template-columns" : "1fr 1fr", "text-align":"center"})
+    $('#percentWarning').css({'visibility' : 'hidden'})    
 
     $('#sortApply').css({"border-radius": '5px', "background-color": "#ff3849", "color":"white", "height":"2.5em"})
     $('#sortClose').css({"border-radius": '5px', "background-color": "#ff3849", "color":"white", "height":"2.5em"})    
