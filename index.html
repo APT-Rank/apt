@@ -216,7 +216,7 @@
     $('#dataList').html("");
     
     optionChange(selectedSubRegion)
-    updateRegion()
+    updateRegion()    
 
     //var regionSubName = $("#gungu option:selected").val()
 
@@ -484,6 +484,7 @@
           $('#dataList').append(addon_html);
         }
     })
+    showWeight()
     saveLocalStorage()
   }
 
@@ -935,8 +936,11 @@
 
   function show_apt(month, filename, sido){    
     $("#sido").val(sido).prop("selected", true);    
+    selectedMonth = month
+    selectedSubRegion = filename
+    selectedRegion = $("#sido option:selected").val();    
     optionChange(filename)    
-    updateTable(month, filename)
+    updateRegion()
   }
 
   function openNaver(code, y, x){
