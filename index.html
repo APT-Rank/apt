@@ -36,6 +36,7 @@
   <script src="./js/draw_chart.js" type="text/javascript"></script>
   <script src="./js/sort.js" type="text/javascript"></script>
   <script src="./js/search.js" type="text/javascript"></script>
+  <script src="./js/rearrange.js" type="text/javascript"></script>
   <link href="./css/style.css" rel="stylesheet"/>
 </head>
 <style>  
@@ -50,8 +51,8 @@
   <div id="container">
     <div id="centerBox">
       <div id="titleBar">
-        <div id='search' onClick='showSearchBar()'><i class="fas fa-search"></i></div>
-        <div></div>        
+        <div id='search' onClick='showSearchBar(this)'><i class="fas fa-search"></i></div>
+        <div id="rearrange" class="position-relative" onClick='showRearrangeBar()'><i class="fa-solid fa-arrow-down-wide-short"></i></div>          
         <div id="title" onClick='scrollUp()'>아파트 랭크</div>
         <div id='sort' class="position-relative" data-bs-toggle='modal' data-bs-target='#exampleModal' id='myModal' onClick='showSorting()'><i class="fa-solid fa-sliders"></i>
           <span class="position-absolute top-20 start-0 translate-middle badge rounded-pill" id="betaBadge">BETA</span>
@@ -84,46 +85,47 @@
         <div id="closeSearch" onClick='closeSearch()' ><i class="fas fa-times"></i></div>
       </div>
 
-      <div id="sortingCard">
-        <div id="iconSort"><i class="fas fa-sort-amount-down"></i></div>
-        <div id="searchGuide">
-          <div id="sortNotice"></div>
-            <div class="btn-group" role="group" aria-label="Basic radio toggle button group">
-              <input type="radio" class="btn-check" name="aptSort" id="btnradio1" value="sortScore" onClick="aptSort('btnradio1')" checked>
-              <label class="btn btn-outline-danger" for="btnradio1">총점</label>
-            
-              <input type="radio" class="btn-check" name="aptSort" id="btnradio2" value="sortPrice" onClick="aptSort('btnradio2')">
-              <label class="btn btn-outline-danger" for="btnradio2">실거래가</label>
-            
-              <input type="radio" class="btn-check" name="aptSort" id="btnradio3" value="sortYear" onClick="aptSort('btnradio3')">
-              <label class="btn btn-outline-danger" for="btnradio3">신축</label>
-
-              <input type="radio" class="btn-check" name="aptSort" id="btnradio4" value="sortHouse" onClick="aptSort('btnradio4')">
-              <label class="btn btn-outline-danger" for="btnradio4">세대수</label>
-            </div>          
-          <div id="filterPyeong">
-            <select id="selectPyeong" onChange="pyeongSort()">            
-              <option value="areaAll" selected>전체 단지</option>
-              <option value="area20">20평 미만 보유 단지</option>
-              <option value="area30">20-29평 보유 단지</option>
-              <option value="area40">30-39평 보유 단지</option>
-              <option value="area40">40-49평 보유 단지</option>
-              <option value="area50">50-59평 보유 단지</option>
-              <option value="area60">60평 이상 보유 </option>              
-            </select>
-          </div>
+      <div id="regionSearchCard">
+        <div id="iconSearch"><i class="fas fa-search"></i></div>
+        <div id="regionSearchGuide">
+          <div id="regionSearchNotice">전국 시군구 이름으로 검색합니다.</div>          
+          <div id="regionInputBox"><input id="regionInputSearch" type="text" placeholder="어느 시군구를 찾아볼까요?" onkeyup="regionSearch()"></div>
+          <div id="regionSearchExample">예) 서울, 창원, 강남, 서구</div>
+          
         </div>
-        <div id="closeSearch" onClick='closeSorting()' ><i class="fas fa-times"></i></div>
+        <div id="closeRegionSearch" onClick='closeRegionSearch()' ><i class="fas fa-times"></i></div>
       </div>      
 
+      <div id="rearrangeCard">
+        <div id="iconRearrange"><i class="fa-solid fa-arrow-down-wide-short"></i></div>
+        <div id="rearrangeContatiner">          
+            <div id="rearrangeNotice"></div>
+            <div class='rearrangeArea'>
+              <div><input type='radio' class='btn-check' name='btnRearrange' autocomplete='off' id='rearrangeScore' onClick='rearrangeList(this)'><label class='btn btn-outline-danger' for='rearrangeScore'>총점순</label></div>
+              <div><input type='radio' class='btn-check' name='btnRearrange' autocomplete='off' id='rearrangeRank' onClick='rearrangeList(this)'><label class='btn btn-outline-danger' for='rearrangeRank'>순위변동순</label></div>
+              <div><input type='radio' class='btn-check' name='btnRearrange' autocomplete='off' id='rearrangePrice' onClick='rearrangeList(this)'><label class='btn btn-outline-danger' for='rearrangePrice'>실거래가순</label></div>
+              <div><input type='radio' class='btn-check' name='btnRearrange' autocomplete='off' id='rearrangeNew' onClick='rearrangeList(this)'><label class='btn btn-outline-danger' for='rearrangeNew'>신축순</label></div>
+              <div><input type='radio' class='btn-check' name='btnRearrange' autocomplete='off' id='rearrangeHouse' onClick='rearrangeList(this)'><label class='btn btn-outline-danger' for='rearrangeHouse'>세대수순</label></div>
+            </div>
+        </div>
+        <div id="closeRearrange" onClick='closeRearrange()' ><i class="fas fa-times"></i></div>
+      </div>
+
       <div id="dataList"></div>
+
       <div id="closeSearch_floating" onClick='closeSearch()'>
         <div id='closeSearch_floting_wraper'>
           <div id="closeIcon_floating"><i class="fas fa-times"></i></div>
           <div id="clostText_floating">검색닫기</div>
         </div>
       </div>
-      <div id="closeSort_floating" onClick='closeSorting()'>
+      <div id="closeRegionSearch_floating" onClick='closeRegionSearch()'>
+        <div id='closeSearch_floting_wraper'>
+          <div id="closeIcon_floating"><i class="fas fa-times"></i></div>
+          <div id="clostText_floating">검색닫기</div>
+        </div>
+      </div>
+      <div id="closeRearrange_floating" onClick='closeRearrange()'>
         <div id='closeSearch_floting_wraper'>
           <div id="closeIcon_floating"><i class="fas fa-times"></i></div>
           <div id="clostText_floating">정렬닫기</div>
@@ -176,6 +178,8 @@
   var aptData = "";
   var sortData = "";
   var prevValue = 0;
+  var regData = "";
+  var regSortData = "";
 
   var modalState = 0;
   var searchState = 0;
@@ -393,9 +397,9 @@
   }
 
   function updateTable(month, region){    
-    $('div.modal').modal("hide");
-    $('#search').css("visibility", "visible")
+    $('div.modal').modal("hide");    
     $('#sort').css("visibility", "visible")
+    $('#rearrange').css("visibility", "visible")
     $('html').scrollTop(0)
     initSorting()
     //console.log("AAAAAAAAAA", region)
@@ -724,9 +728,9 @@
   }
 
   function updateRegionTable(month){
-    $('html').scrollTop(0)
-    $('#search').css("visibility", "hidden")
+    $('html').scrollTop(0)    
     $('#sort').css("visibility", "hidden")
+    $('#rearrange').css("visibility", "hidden")
     url = "https://www.aptrank.kr/" + month + "/1000000000_Korea.json"    
     $('#dataList').html("");
 
@@ -735,6 +739,7 @@
     $.getJSON(url, function(json) {        
         //console.log(json);
         regData = json;
+        regSortData = regData;
         itemNum = json.data.length;
         regValueSum = 0;
         regSupplySum = 0;

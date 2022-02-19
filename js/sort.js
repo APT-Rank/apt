@@ -79,7 +79,7 @@
     $('#setInfraValue').html(valInfra_temp)
     $('#setEduValue').html(valEdu_temp)
     
-    $('#'+sortSelection).prop("checked", true)    
+    $('#'+sortSelection).prop("checked", true)   
 
     if(sortSelection == "sortDefault" || sortSelection == "sortLiving" || sortSelection == "sortTrans" || sortSelection == "sortInfra" || sortSelection == "sortEdu"){
       $('#rangeLiving').prop("disabled", true)

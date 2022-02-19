@@ -22,7 +22,7 @@ body{
     font-size: 1.25em;
     font-weight: 600;
   }
-  #searchCard{    
+  #searchCard, #regionSearchCard{    
     position: fixed;
     display: grid;
     grid-template-columns: 45px 1fr 40px;
@@ -40,12 +40,12 @@ body{
     border-bottom-right-radius: 15px;
     box-shadow: rgba(0, 0, 0, 0.16) 0px 3px 6px, rgba(0, 0, 0, 0.23) 0px 3px 6px;
   }
-  #inputBox{
+  #inputBox, #regionInputBox{
     text-align: left;
     margin-top: 5px;
     margin-bottom: 5px;
   }
-  #inputSearch{
+  #inputSearch, #regionInputSearch{
     width: 95%;
     height: 2em;
     font-size: 1em;
@@ -58,13 +58,13 @@ body{
     display: grid;
     grid-template-columns: 50px 1fr;
   }
-  #searchExample{
+  #searchExample, #regionSearchExample{
     color: white;
     font-size: 0.7em;
     text-align: left;
     padding-left: 5px;   
   }
-  #searchNotice, #sortNotice{
+  #searchNotice, #rearrangeNotice, #regionSearchNotice{
     color: white;
     font-size: 0.8em;
     text-align: left;
@@ -73,15 +73,15 @@ body{
   #sortNotice{
     width: 95%;
   }
-  #sortingCard{    
+  #rearrangeCard{    
     position: fixed;
     display: grid;
     grid-template-columns: 45px 1fr 40px;
-    top: -220px;
+    top: -250px;
     left: 0;
     right: 0;
     width: 98%;
-    height: 90px;
+    height: 112px;
     text-align: center;
     align-items: center;
     justify-content: center;
@@ -91,6 +91,14 @@ body{
     border-bottom-right-radius: 15px;
     box-shadow: rgba(0, 0, 0, 0.16) 0px 3px 6px, rgba(0, 0, 0, 0.23) 0px 3px 6px;
   }
+  .rearrangeArea{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    grid-template-rows: 2.2em 2.2em;  
+    text-align: center;    
+    padding-top: 5px;    
+  }
+
   .badge{
     font-size: 0.3em;
     background-color: #fcff3d;
@@ -330,7 +338,7 @@ body{
     text-align: right;
     padding-right: 20px;
   }
-  #search, #sort{
+  #search, #sort, #rearrange{
     font-size: 1.5em;
     color: white;
     text-align: left;
@@ -339,7 +347,7 @@ body{
   .settingArea{
     display: grid;
     grid-template-columns: 1fr 1fr 1fr;
-    grid-template-rows: 2.8em 2.8em;    
+    grid-template-rows: 2.8em 2.8em;  
     text-align: center;    
     padding-top: 15px;
   }
@@ -374,19 +382,19 @@ body{
     margin-right: 10px;
   }
 
-  #iconSearch, #iconSort{
+  #iconSearch, #iconSort, #iconRearrange{
     font-size: 1.5em;
     color: white;
     text-align: right;
     padding-right: 10px;    
   }
-  #closeSearch{
+  #closeSearch, #closeRearrange, #closeRegionSearch{
     font-size: 1.5em;
     color: white;
     text-align: left;
     padding-left: 10px;    
   }
-  #closeSearch_floating, #closeSort_floating{
+  #closeSearch_floating, #closeRearrange_floating, #closeRegionSearch_floating{
     display: grid;
     width: 4em;
     height: 4em;
@@ -506,11 +514,11 @@ body{
       margin: 0 auto;
       width: 800px;
     }
-    #searchCard, #sortingCard{
+    #searchCard, #rearrangeCard, #regionSearchCard{
       margin: 0 auto;
       width: 790px;
     }
-    #closeSearch_floating, #closeSorting_floating{
+    #closeSearch_floating, #closeRearrange_floating{
       display: none;
     }
     #selections, #weight{

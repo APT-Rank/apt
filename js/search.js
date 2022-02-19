@@ -1,4 +1,12 @@
-  function showSearchBar(){    
+function showSearchBar(){  
+  if(selectedRegion == "Korea"){
+    showRegionSearchBar()
+  }
+  else{
+    showAptSearchBar()
+  }
+}
+  function showAptSearchBar(){    
     //$("#searchCard").slideDown();    
     $("#searchCard").animate({
       opacity: 1.0,
@@ -31,8 +39,7 @@
     aptSearch()
   }
   
-  var input = ""
- 
+  var input = "" 
   function aptSearch(){
     $('#dataList').html("");    
     input = $('#inputSearch').val()    
@@ -122,10 +129,10 @@
             addon_html += "<span class='aptYear'> (" + sortData.data[i]["준공년차"] + "년차)</span></div>";
 
             if(last_sales_date == "1800-01-01"){
-              addon_html += "<div class='apt_info'>" + house_num + "세대 / 거래 정보 없음</div>";
+              addon_html += "<div class='apt_info'><span class='aptNum'>" + house_num + "세대</span> / <span class='aptPrice'>거래 정보 없음</span></div>";
             }
             else{
-              addon_html += "<div class='apt_info'>"+ house_num + "세대 / " + Math.round(last_sales_price/100)/100 + "억, " + last_sales_area + ", " + last_sales_date_short + "</div>";
+              addon_html += "<div class='apt_info'><span class='aptNum'>"+ house_num + "세대</span> / <span class='aptPrice'>" + Math.round(last_sales_price/100)/100 + "억" + "</span>, " + last_sales_area + ", " + last_sales_date_short + "</div>";
             }            
 
             addon_html += "<div class='apt_address'>" + aptAddress + "</div>";
@@ -135,6 +142,120 @@
 
             $('#dataList').append(addon_html);            
           }
+          
+          if(rearrangeSelection == "rearrangePrice"){            
+            $(".aptPrice").css({'color': '#ff3d38', 'font-weight': '600'})
+          }
+          if(rearrangeSelection == "rearrangeNew"){
+            $(".aptYear").css({'color': '#ff3d38', 'font-weight': '600'})
+          }
+          if(rearrangeSelection == "rearrangeHouse"){
+            $(".aptNum").css({'color': '#ff3d38', 'font-weight': '600'})
+          }
+
         }
       $('html').scrollTop(0)
   }
+
+  function showRegionSearchBar(){     
+    $("#regionSearchCard").animate({
+      opacity: 1.0,
+      top: '0'
+    }, 400, 'easeOutQuad'
+    );
+    $("#closeRegionSearch_floating").animate({
+      opacity: 1.0,
+      right: '5'
+    }, 700, 'easeOutQuad'
+    );
+
+    $('#regionInputSearch').focus();    
+  }
+  function closeRegionSearch(){    
+    $("#regionSearchCard").animate({
+      opacity: 0.0,
+      top: '-150px'
+    }, 400, 'easeInQuad'
+    );
+    $("#closeRegionSearch_floating").animate({
+      opacity: 0.0,
+      right: '-200px'
+    }, 400, 'easeInQuad'
+    );
+    $('#regionInputSearch').val("")    
+    regionSearch()
+  }
+
+  var regionInput = ""
+  function regionSearch(){
+    $('#dataList').html("");
+    input = $('#regionInputSearch').val()      
+      for(var i = 0 ; i < itemNum ; i++){
+        var searchName = regSortData.data[i]["시도"]
+
+        if(searchName.indexOf(input) >= 0){
+          var regName = regSortData.data[i]["시도"]
+          
+          var regSuplyLevel = regSortData.data[i]["공급수준"]
+          var regPopChange = regSortData.data[i]["인구증감"]
+          var regIncome = regSortData.data[i]["소득수준"]
+          var regValue = Math.round( regSortData.data[i]["가치 총점"] * 100 ) / 100;
+          var regRank = regSortData.data[i]["rank"]
+          var regJob = regSortData.data[i]["일자리"]
+
+          regValueSum += regSortData.data[i]["가치 총점"]
+          regSupplySum += regSortData.data[i]["지역구공급총점"]
+          regPopSum += regSortData.data[i]["인구총점"]
+          regJobSum += regSortData.data[i]["일자리총점"]
+
+          var addon_html = "<div class='listBox' data-bs-toggle='modal' data-bs-target='#exampleModal' id='myModal' onClick='showRegionDetail(" + i + ")'>";          
+
+          if(selectedMonth == "202201"){
+            addon_html += "<div class='rank_content'>"
+            addon_html += "<div class='rank'>" + regRank + "위</div>";            
+            addon_html += "</div>"
+          }
+          else{
+            addon_html += "<div class='rank_content'>"
+            addon_html += "<div class='rank'>" + regRank + "위</div>";
+            if(regSortData.data[i]["rank_gap"] == 0){
+              addon_html += "<div class='ranksame'> -- </div>"
+            }
+            else if(regSortData.data[i]["rank_gap"] == 9999){
+              addon_html += "<div class='ranksame'> NEW! </div>"
+            }
+            else if(regSortData.data[i]["rank_gap"] > 0){
+              addon_html += "<div class='rankup'> ▲" + Math.abs(regSortData.data[i]["rank_gap"]) + "</div>"
+            }
+            else if(regSortData.data[i]["rank_gap"] < 0){
+              addon_html += "<div class='rankdown'> ▼" + Math.abs(regSortData.data[i]["rank_gap"]) + "</div>"
+            }
+
+            addon_html += "</div>"
+          }
+
+          addon_html += "<div class='content'>";          
+          addon_html += "<div class='apt_name'>" + regName + "</div>";
+          addon_html += "<div class='reg_subTable'>";
+
+          addon_html += "<div class='apt_address'>아파트 공급량 <span style='font-weight:900; color:#0f0f0f'>" + regSuplyLevel + "</span></div>";
+
+          var upDown = ""
+          if (regPopChange < 0){
+            upDown = "감소"            
+          }
+          else{
+            upDown = "증가"            
+          }
+          addon_html += "<div class='apt_address'>인구 " + (Math.abs(regPopChange)).toLocaleString() + "명 " + upDown + "</div>";
+          addon_html += "<div class='apt_address'>일자리 " + regJob.toLocaleString() + "개</div>";
+          addon_html += "<div class='apt_address'>소득 " + regIncome.toLocaleString() + "원</div>";          
+          addon_html += "</div></div>";
+          addon_html += "<div class='value_score'>" + ( Math.round( regValue * 100 ) / 100 ).toFixed(2) + "점</div>"
+          addon_html += "</div>"
+
+          $('#dataList').append(addon_html);
+        }
+      }
+        $('html').scrollTop(0)
+    }
