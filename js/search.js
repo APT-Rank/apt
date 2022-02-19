@@ -1,5 +1,3 @@
-
-
   function showSearchBar(){    
     //$("#searchCard").slideDown();    
     $("#searchCard").animate({
@@ -34,10 +32,10 @@
   }
   
   var input = ""
-  
+ 
   function aptSearch(){
-    $('#dataList').html("");
-    input = $('#inputSearch').val()
+    $('#dataList').html("");    
+    input = $('#inputSearch').val()    
     for(var i = 0 ; i < sortData.data.length ; i++){
           var aptName = sortData.data[i]["아파트명"]
           var searchName = sortData.data[i]["아파트명"] + " " + sortData.data[i]["법정동주소"]
@@ -68,7 +66,7 @@
             if (sortSelection == "sortLiving"){ sortName = "거주우선" }
             if (sortSelection == "sortTrans"){ sortName = "교통우선" }
             if (sortSelection == "sortInfra"){ sortName = "인프라우선" }
-            if (sortSelection == "sortEdu"){ sortName = "학군우선" }
+            if (sortSelection == "sortEdu"){ sortName = "교육우선" }
             if (sortSelection == "sortCustom"){ sortName = "커스텀" }
 
             var addon_html = "<div class='listBox' data-bs-toggle='modal' data-bs-target='#exampleModal' id='myModal' onClick='showDetail(" + i + ")'>";
