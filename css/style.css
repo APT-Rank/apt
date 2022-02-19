@@ -518,7 +518,7 @@ body{
       margin: 0 auto;
       width: 790px;
     }
-    #closeSearch_floating, #closeRearrange_floating{
+    #closeSearch_floating, #closeRearrange_floating, #closeRegionSearch_floating{
       display: none;
     }
     #selections, #weight{
