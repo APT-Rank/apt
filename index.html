@@ -990,8 +990,33 @@
     $("#sido").val(sido).prop("selected", true);    
     selectedMonth = month
     selectedSubRegion = filename
-    selectedRegion = $("#sido option:selected").val();    
-    optionChange(filename)    
+    selectedRegion = $("#sido option:selected").val();
+
+    $("#regionSearchCard").animate({
+        opacity: 0.0,
+        top: '-150px'
+      }, 400, 'easeInQuad'
+    );
+    $("#closeRegionSearch_floating").animate({
+        opacity: 0.0,
+        right: '-200px'
+      }, 400, 'easeInQuad'
+    );
+    $('#regionInputSearch').val("")
+
+    $("#rearrangeRegionCard").animate({
+        opacity: 0.0,
+        top: '-150px'
+      }, 400, 'easeInQuad'
+    );
+    $("#closeRegionRearrange_floating").animate({
+        opacity: 0.0,
+        right: '-200px'
+      }, 400, 'easeInQuad'
+    );
+    rearrangeSelection = "rearrangeRegionScore"
+    
+    optionChange(filename)
     updateRegion()
   }
 
