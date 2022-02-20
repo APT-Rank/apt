@@ -143,13 +143,13 @@ function showSearchBar(){
             $('#dataList').append(addon_html);            
           }
           
-          if(rearrangeSelection == "rearrangePrice"){            
+          if(rearrangeAPTSelection == "rearrangePrice"){            
             $(".aptPrice").css({'color': '#ff3d38', 'font-weight': '600'})
           }
-          if(rearrangeSelection == "rearrangeNew"){
+          if(rearrangeAPTSelection == "rearrangeNew"){
             $(".aptYear").css({'color': '#ff3d38', 'font-weight': '600'})
           }
-          if(rearrangeSelection == "rearrangeHouse"){
+          if(rearrangeAPTSelection == "rearrangeHouse"){
             $(".aptNum").css({'color': '#ff3d38', 'font-weight': '600'})
           }
 
@@ -198,6 +198,7 @@ function showSearchBar(){
           
           var regSuplyLevel = regSortData.data[i]["공급수준"]
           var regPopChange = regSortData.data[i]["인구증감"]
+          var regPop = regSortData.data[i]["인구수"]
           var regIncome = regSortData.data[i]["소득수준"]
           var regValue = Math.round( regSortData.data[i]["가치 총점"] * 100 ) / 100;
           var regRank = regSortData.data[i]["rank"]
@@ -241,21 +242,30 @@ function showSearchBar(){
           addon_html += "<div class='apt_address'>아파트 공급량 <span style='font-weight:900; color:#0f0f0f'>" + regSuplyLevel + "</span></div>";
 
           var upDown = ""
+          var popChange = ""
           if (regPopChange < 0){
-            upDown = "감소"            
+            upDown = "감소"
+            popChange = "▼" + (Math.abs(regPopChange)).toLocaleString()
           }
           else{
-            upDown = "증가"            
-          }
-          addon_html += "<div class='apt_address'>인구 " + (Math.abs(regPopChange)).toLocaleString() + "명 " + upDown + "</div>";
+            upDown = "증가"
+            popChange = "▲" + (Math.abs(regPopChange)).toLocaleString()
+          }        
+          addon_html += "<div class='apt_address'><span class='regionPop'>인구 " + (Math.abs(regPop)).toLocaleString() + "명 (" + popChange + ")</span></div>";          
           addon_html += "<div class='apt_address'>일자리 " + regJob.toLocaleString() + "개</div>";
-          addon_html += "<div class='apt_address'>소득 " + regIncome.toLocaleString() + "원</div>";          
+          addon_html += "<div class='apt_address'><span class='regionIncome'>소득 " + regIncome.toLocaleString() + "원</span></div>";          
           addon_html += "</div></div>";
           addon_html += "<div class='value_score'>" + ( Math.round( regValue * 100 ) / 100 ).toFixed(2) + "점</div>"
           addon_html += "</div>"
 
           $('#dataList').append(addon_html);
         }
+        if(rearrangeRegionSelection == "rearrangeRegionPop"){            
+          $(".regionPop").css({'color': '#ff3d38', 'font-weight': '600'})
+        }
+        if(rearrangeRegionSelection == "rearrangeRegionIncome"){
+          $(".regionIncome").css({'color': '#ff3d38', 'font-weight': '600'})
+        }        
       }
-        $('html').scrollTop(0)
+      $('html').scrollTop(0)
     }

@@ -22,9 +22,21 @@
     //$('.btn-close').hide()
     var titleHtml = "<div class='popupTitle'>총점 계산 가중치 설정 (BETA)</div>";
     titleHtml += "<div class='comment2'> 각 항목별 점수는 변하지 않으며, 가중치에 따라 총점을 다시 계산합니다.</div>";
-    var footerHtml = ""    
+    var footerHtml = ""
 
-    var detailHtml = "<div class='settingArea'>";
+    var detailHtml = "<div class='filterArea'>";
+    detailHtml += "<div class='filterRange'>"
+    detailHtml += "<div>필터항목</div>"
+    detailHtml += "<div>최소값</div>"
+    detailHtml += "<div>"
+    detailHtml += "<input type='range' class='form-range' min='0' max='30' step='0.5' value='0' id='minRange'>"   
+    detailHtml += "<input type='range' class='form-range' min='0' max='30' step='0.5' value='30' id='maxRange'>"
+    detailHtml += "</div>"    
+    detailHtml += "<div>최대값</div>"
+    detailHtml += "</div>";
+    detailHtml += "</div>";
+
+    detailHtml += "<div class='settingArea'>";
     detailHtml += "<div><input type='radio' class='btn-check' name='btnSort' autocomplete='off' id='sortDefault' onClick='setRangeValue(this)'><label class='btn btn-outline-danger' for='sortDefault'>균형잡힌</label></div>"
     detailHtml += "<div><input type='radio' class='btn-check' name='btnSort' autocomplete='off' id='sortLiving' onClick='setRangeValue(this)'><label class='btn btn-outline-danger' for='sortLiving'>주거우선</label></div>"
 

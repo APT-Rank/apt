@@ -51,9 +51,13 @@
   <div id="container">
     <div id="centerBox">
       <div id="titleBar">
+        <!--검색 버튼 표시-->
         <div id='search' onClick='showSearchBar(this)'><i class="fas fa-search"></i></div>
-        <div id="rearrange" class="position-relative" onClick='showRearrangeBar()'><i class="fa-solid fa-arrow-down-wide-short"></i></div>          
+        <!--재정렬 버튼 표시-->
+        <div id="rearrange" class="position-relative" onClick='showRearrangeBar(this)'><i class="fa-solid fa-arrow-down-wide-short"></i></div>          
+        <!--타이틀 표시-->
         <div id="title" onClick='scrollUp()'>아파트 랭크</div>
+        <!--단지 가중치 설정 버튼 표시-->
         <div id='sort' class="position-relative" data-bs-toggle='modal' data-bs-target='#exampleModal' id='myModal' onClick='showSorting()'><i class="fa-solid fa-sliders"></i>
           <span class="position-absolute top-20 start-0 translate-middle badge rounded-pill" id="betaBadge">BETA</span>
         </div>
@@ -72,8 +76,10 @@
         </div>        
       </div>
 
+      <!--단지 가중치 표시창-->
       <div id="weight" data-bs-toggle='modal' data-bs-target='#exampleModal' onClick='showSorting()'></div>
 
+      <!--단지 검색창-->
       <div id="searchCard">
         <div id="iconSearch"><i class="fas fa-search"></i></div>
         <div id="searchGuide">
@@ -85,6 +91,7 @@
         <div id="closeSearch" onClick='closeSearch()' ><i class="fas fa-times"></i></div>
       </div>
 
+      <!--시군구 검색창-->
       <div id="regionSearchCard">
         <div id="iconSearch"><i class="fas fa-search"></i></div>
         <div id="regionSearchGuide">
@@ -94,43 +101,71 @@
           
         </div>
         <div id="closeRegionSearch" onClick='closeRegionSearch()' ><i class="fas fa-times"></i></div>
-      </div>      
-
+      </div>
+      
+      <!--단지 정렬창-->
       <div id="rearrangeCard">
         <div id="iconRearrange"><i class="fa-solid fa-arrow-down-wide-short"></i></div>
         <div id="rearrangeContatiner">          
             <div id="rearrangeNotice"></div>
             <div class='rearrangeArea'>
-              <div><input type='radio' class='btn-check' name='btnRearrange' autocomplete='off' id='rearrangeScore' onClick='rearrangeList(this)'><label class='btn btn-outline-danger' for='rearrangeScore'>총점순</label></div>
-              <div><input type='radio' class='btn-check' name='btnRearrange' autocomplete='off' id='rearrangeRank' onClick='rearrangeList(this)'><label class='btn btn-outline-danger' for='rearrangeRank'>순위변동순</label></div>
-              <div><input type='radio' class='btn-check' name='btnRearrange' autocomplete='off' id='rearrangePrice' onClick='rearrangeList(this)'><label class='btn btn-outline-danger' for='rearrangePrice'>실거래가순</label></div>
-              <div><input type='radio' class='btn-check' name='btnRearrange' autocomplete='off' id='rearrangeNew' onClick='rearrangeList(this)'><label class='btn btn-outline-danger' for='rearrangeNew'>신축순</label></div>
-              <div><input type='radio' class='btn-check' name='btnRearrange' autocomplete='off' id='rearrangeHouse' onClick='rearrangeList(this)'><label class='btn btn-outline-danger' for='rearrangeHouse'>세대수순</label></div>
+              <div><input type='radio' class='btn-check' name='btnRearrange' autocomplete='off' id='rearrangeScore' onClick='rearrangeAPTList(this)'><label class='btn btn-outline-danger' for='rearrangeScore'>총점순</label></div>
+              <div><input type='radio' class='btn-check' name='btnRearrange' autocomplete='off' id='rearrangeRank' onClick='rearrangeAPTList(this)'><label class='btn btn-outline-danger' for='rearrangeRank'>순위변동순</label></div>
+              <div><input type='radio' class='btn-check' name='btnRearrange' autocomplete='off' id='rearrangePrice' onClick='rearrangeAPTList(this)'><label class='btn btn-outline-danger' for='rearrangePrice'>실거래가순</label></div>
+              <div><input type='radio' class='btn-check' name='btnRearrange' autocomplete='off' id='rearrangeNew' onClick='rearrangeAPTList(this)'><label class='btn btn-outline-danger' for='rearrangeNew'>신축순</label></div>
+              <div><input type='radio' class='btn-check' name='btnRearrange' autocomplete='off' id='rearrangeHouse' onClick='rearrangeAPTList(this)'><label class='btn btn-outline-danger' for='rearrangeHouse'>세대수순</label></div>
             </div>
         </div>
         <div id="closeRearrange" onClick='closeRearrange()' ><i class="fas fa-times"></i></div>
       </div>
 
+      <!--시군구 정렬창-->
+      <div id="rearrangeRegionCard">
+        <div id="iconRearrange"><i class="fa-solid fa-arrow-down-wide-short"></i></div>
+        <div id="rearrangeContatiner">          
+            <div id="rearrangeRegionNotice"></div>
+            <div class='rearrangeArea'>
+              <div><input type='radio' class='btn-check' name='btnRearrange' autocomplete='off' id='rearrangeRegionScore' onClick='rearrangeRegionList(this)'><label class='btn btn-outline-danger' for='rearrangeRegionScore'>총점순</label></div>
+              <div><input type='radio' class='btn-check' name='btnRearrange' autocomplete='off' id='rearrangeRegionRank' onClick='rearrangeRegionList(this)'><label class='btn btn-outline-danger' for='rearrangeRegionRank'>순위변동순</label></div>
+              <div><input type='radio' class='btn-check' name='btnRearrange' autocomplete='off' id='rearrangeRegionPop' onClick='rearrangeRegionList(this)'><label class='btn btn-outline-danger' for='rearrangeRegionPop'>인구순</label></div>
+              <div><input type='radio' class='btn-check' name='btnRearrange' autocomplete='off' id='rearrangeRegionIncome' onClick='rearrangeRegionList(this)'><label class='btn btn-outline-danger' for='rearrangeRegionIncome'>소득순</label></div>              
+            </div>
+        </div>
+        <div id="closeRegionRearrange" onClick='closeRegionRearrange()' ><i class="fas fa-times"></i></div>
+      </div>
+
+      <!--리스트 데이터 붙여넣는 영역-->
       <div id="dataList"></div>
 
+      <!--단지 검색창 닫기 플로팅 버튼-->
       <div id="closeSearch_floating" onClick='closeSearch()'>
         <div id='closeSearch_floting_wraper'>
           <div id="closeIcon_floating"><i class="fas fa-times"></i></div>
           <div id="clostText_floating">검색닫기</div>
         </div>
       </div>
+      <!--시군구 검색창 닫기 플로팅 버튼-->
       <div id="closeRegionSearch_floating" onClick='closeRegionSearch()'>
         <div id='closeSearch_floting_wraper'>
           <div id="closeIcon_floating"><i class="fas fa-times"></i></div>
           <div id="clostText_floating">검색닫기</div>
         </div>
       </div>
+      <!--단지 재정렬창 닫기 플로팅 버튼-->
       <div id="closeRearrange_floating" onClick='closeRearrange()'>
         <div id='closeSearch_floting_wraper'>
           <div id="closeIcon_floating"><i class="fas fa-times"></i></div>
           <div id="clostText_floating">정렬닫기</div>
         </div>
       </div>
+      <!--단지 재정렬창 닫기 플로팅 버튼-->
+      <div id="closeRegionRearrange_floating" onClick='closeRegionRearrange()'>
+        <div id='closeSearch_floting_wraper'>
+          <div id="closeIcon_floating"><i class="fas fa-times"></i></div>
+          <div id="clostText_floating">정렬닫기</div>
+        </div>
+      </div>
+
     </div>
   </div>
 
@@ -398,8 +433,7 @@
 
   function updateTable(month, region){    
     $('div.modal').modal("hide");    
-    $('#sort').css("visibility", "visible")
-    $('#rearrange').css("visibility", "visible")
+    $('#sort').css("visibility", "visible")    
     $('html').scrollTop(0)
     initSorting()
     //console.log("AAAAAAAAAA", region)
@@ -729,8 +763,7 @@
 
   function updateRegionTable(month){
     $('html').scrollTop(0)    
-    $('#sort').css("visibility", "hidden")
-    $('#rearrange').css("visibility", "hidden")
+    $('#sort').css("visibility", "hidden")    
     url = "https://www.aptrank.kr/" + month + "/1000000000_Korea.json"    
     $('#dataList').html("");
 
@@ -751,6 +784,7 @@
           
           var regSuplyLevel = regData.data[i]["공급수준"]
           var regPopChange = regData.data[i]["인구증감"]
+          var regPop = regData.data[i]["인구수"]
           var regIncome = regData.data[i]["소득수준"]
           var regValue = Math.round( regData.data[i]["가치 총점"] * 100 ) / 100;
           var regRank = regData.data[i]["rank"]
@@ -794,13 +828,16 @@
           addon_html += "<div class='apt_address'>아파트 공급량 <span style='font-weight:900; color:#0f0f0f'>" + regSuplyLevel + "</span></div>";
 
           var upDown = ""
+          var popChange = ""
           if (regPopChange < 0){
-            upDown = "감소"            
+            upDown = "감소"
+            popChange = "▼" + (Math.abs(regPopChange)).toLocaleString()
           }
           else{
-            upDown = "증가"            
-          }
-          addon_html += "<div class='apt_address'>인구 " + (Math.abs(regPopChange)).toLocaleString() + "명 " + upDown + "</div>";
+            upDown = "증가"
+            popChange = "▲" + (Math.abs(regPopChange)).toLocaleString()
+          }        
+          addon_html += "<div class='apt_address'>인구 " + (Math.abs(regPop)).toLocaleString() + "명 (" + popChange + ")</div>";
           addon_html += "<div class='apt_address'>일자리 " + regJob.toLocaleString() + "개</div>";
           addon_html += "<div class='apt_address'>소득 " + regIncome.toLocaleString() + "원</div>";          
           addon_html += "</div></div>";
