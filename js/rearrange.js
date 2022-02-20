@@ -77,25 +77,6 @@ function showRearrangeBar(){
     $('#rearrangeRegionNotice').html(rearrangeRegionNotice)
   }
 
-  function closeRearrange(){    
-    $("#rearrangeCard").animate({
-      opacity: 0.0,
-      top: '-150px'
-    }, 400, 'easeInQuad'
-    );
-    $("#closeRearrange_floating").animate({
-      opacity: 0.0,
-      right: '-200px'
-    }, 400, 'easeInQuad'
-    );
-
-    rearrangeSelection = "rearrangeScore"
-    //$(".aptPrice").css({'color': 'rgb(85, 85, 85)', 'font-weight': '400'})
-    //$(".aptYear").css({'color': 'gray', 'font-weight': '400'})
-    //$(".aptNum").css({'color': 'rgb(85, 85, 85)', 'font-weight': '400'})
-    updateRegion()
-  }
-
   function closeRegionRearrange(){    
     $("#rearrangeRegionCard").animate({
       opacity: 0.0,
@@ -108,7 +89,7 @@ function showRearrangeBar(){
     }, 400, 'easeInQuad'
     );
 
-    rearrangeSelection = "rearrangeRegionScore"    
+    rearrangeRegionSelection = "rearrangeRegionScore"    
     updateRegion()
   }  
 
