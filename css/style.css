@@ -332,13 +332,13 @@ body{
     box-shadow: rgba(0, 0, 0, 0.12) 0px 1px 3px, rgba(0, 0, 0, 0.24) 0px 1px 2px;
   }
 
-  #help{
+  #help, #rearrange{
     font-size: 1.5em;
     color: white;
     text-align: right;
     padding-right: 20px;
   }
-  #search, #sort, #rearrange{
+  #search, #sort{
     font-size: 1.5em;
     color: white;
     text-align: left;
@@ -496,6 +496,33 @@ body{
     grid-template-columns: 1fr 1fr;
     margin-top: 5px;
   }
+
+  .filterArea{
+    display: grid;
+    grid-template-columns: 1fr;
+    justify-content: center;
+    height: 5em;   
+  }
+
+  .filterRange{
+    display: grid;
+    position: relative;
+    width: 100%;
+    grid-template-columns: 80px 60px 1fr 60px;    
+  }
+
+  #maxRange.form-range{
+    position:relative;
+    width: 100%;    
+    visibility: visible;
+  }
+
+  #minRange.form-range{
+    position:relative;
+    width: 100%;    
+    visibility: visible;    
+  } 
+
 
   @media screen and (min-width: 800px){
     #modal .modalWindow{      
