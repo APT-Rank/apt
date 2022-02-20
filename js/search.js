@@ -258,7 +258,7 @@ function showSearchBar(){
           else{
             addon_html += "<span class='regionPopDown'>(" + popChange + ")</span></div>";
           }
-          addon_html += "<div class='apt_address'>일자리 " + regJob.toLocaleString() + "개</div>";
+          addon_html += "<div class='apt_address'><span class='regionJob'>일자리 " + regJob.toLocaleString() + "개</span></div>";
           addon_html += "<div class='apt_address'><span class='regionIncome'>소득 " + regIncome.toLocaleString() + "원</span></div>";          
           addon_html += "</div></div>";
           addon_html += "<div class='value_score'>" + ( Math.round( regValue * 100 ) / 100 ).toFixed(2) + "점</div>"
@@ -272,6 +272,9 @@ function showSearchBar(){
         if(rearrangeRegionSelection == "rearrangeRegionPopUpDown"){
           $(".regionPopUp").css({'color': '#ff3d38', 'font-weight': '600'})
           $(".regionPopDown").css({'color': 'blue', 'font-weight': '600'})
+        }
+        if(rearrangeRegionSelection == "rearrangeRegionJob"){
+          $(".regionJob").css({'color': '#ff3d38', 'font-weight': '600'})
         }
         if(rearrangeRegionSelection == "rearrangeRegionIncome"){
           $(".regionIncome").css({'color': '#ff3d38', 'font-weight': '600'})

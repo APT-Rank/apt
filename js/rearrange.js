@@ -174,6 +174,10 @@ function showRearrangeBar(){
       key = "인구증감"
       type = "desc"      
     }
+    if(rearrangeRegionSelection == "rearrangeRegionJob"){
+      key = "일자리"
+      type = "desc"      
+    }
     if(rearrangeRegionSelection == "rearrangeRegionIncome"){      
       key = "소득수준"
       type = "desc"
