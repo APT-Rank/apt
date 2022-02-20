@@ -251,7 +251,7 @@ function showSearchBar(){
             upDown = "증가"
             popChange = "▲" + (Math.abs(regPopChange)).toLocaleString()
           }        
-          addon_html += "<div class='apt_address'><span class='regionPop'>인구 " + (Math.abs(regPop)).toLocaleString() + "명</span>"
+          addon_html += "<div class='apt_address'><span class='regionPop'>인구 " + (Math.abs(regPop)).toLocaleString() + "명 </span>"
           if(regPopChange >= 0){
             addon_html += "<span class='regionPopUp'>(" + popChange + ")</span></div>";
           }
