@@ -128,7 +128,8 @@
               <div><input type='radio' class='btn-check' name='btnRearrange' autocomplete='off' id='rearrangeRegionScore' onClick='rearrangeRegionList(this)'><label class='btn btn-outline-danger' for='rearrangeRegionScore'>총점순</label></div>
               <div><input type='radio' class='btn-check' name='btnRearrange' autocomplete='off' id='rearrangeRegionRank' onClick='rearrangeRegionList(this)'><label class='btn btn-outline-danger' for='rearrangeRegionRank'>순위변동순</label></div>
               <div><input type='radio' class='btn-check' name='btnRearrange' autocomplete='off' id='rearrangeRegionPop' onClick='rearrangeRegionList(this)'><label class='btn btn-outline-danger' for='rearrangeRegionPop'>인구순</label></div>
-              <div><input type='radio' class='btn-check' name='btnRearrange' autocomplete='off' id='rearrangeRegionIncome' onClick='rearrangeRegionList(this)'><label class='btn btn-outline-danger' for='rearrangeRegionIncome'>소득순</label></div>              
+              <div><input type='radio' class='btn-check' name='btnRearrange' autocomplete='off' id='rearrangeRegionPopUpDown' onClick='rearrangeRegionList(this)'><label class='btn btn-outline-danger' for='rearrangeRegionPopUpDown'>인구증감순</label></div>
+              <div><input type='radio' class='btn-check' name='btnRearrange' autocomplete='off' id='rearrangeRegionIncome' onClick='rearrangeRegionList(this)'><label class='btn btn-outline-danger' for='rearrangeRegionIncome'>소득순</label></div>
             </div>
         </div>
         <div id="closeRegionRearrange" onClick='closeRegionRearrange()' ><i class="fas fa-times"></i></div>
@@ -837,7 +838,13 @@
             upDown = "증가"
             popChange = "▲" + (Math.abs(regPopChange)).toLocaleString()
           }        
-          addon_html += "<div class='apt_address'>인구 " + (Math.abs(regPop)).toLocaleString() + "명 (" + popChange + ")</div>";
+          addon_html += "<div class='apt_address'><span class='regionPop'>인구 " + (Math.abs(regPop)).toLocaleString() + "명</span>"
+          if(regPopChange >= 0){
+            addon_html += "<span class='regionPopUp'>(" + popChange + ")</span></div>";
+          }
+          else{
+            addon_html += "<span class='regionPopDown'>(" + popChange + ")</span></div>";
+          }
           addon_html += "<div class='apt_address'>일자리 " + regJob.toLocaleString() + "개</div>";
           addon_html += "<div class='apt_address'>소득 " + regIncome.toLocaleString() + "원</div>";          
           addon_html += "</div></div>";

@@ -170,6 +170,10 @@ function showRearrangeBar(){
       key = "인구수"
       type = "desc"      
     }
+    if(rearrangeRegionSelection == "rearrangeRegionPopUpDown"){
+      key = "인구증감"
+      type = "desc"      
+    }
     if(rearrangeRegionSelection == "rearrangeRegionIncome"){      
       key = "소득수준"
       type = "desc"

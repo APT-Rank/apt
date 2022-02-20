@@ -209,7 +209,11 @@ body{
   .apt_address{
     font-size: 0.7em;
     color: gray;
-  }
+  }  
+  .regionPopUp, .regionPopDown{
+    font-size: 0.6em;
+    color: gray;
+  }  
   .apt_name{
     font-size: 0.85em;
     font-weight: bold;
@@ -568,7 +572,7 @@ body{
       width: 800px;
     }
     .reg_subTable{    
-      grid-template-columns: 1.2fr 1.4fr 1.2fr 1.2fr 1.5fr;
+      grid-template-columns: 1.2fr 1.8fr 1.2fr 1.2fr 1.5fr;
     }
     .comment, .stationList{
       font-size: 0.8em;
