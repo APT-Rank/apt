@@ -58,7 +58,7 @@
     lastMinValue = minValue;
     lastMaxValue = maxValue;
 
-    var titleHtml = "<div class='popupTitle'>총점 가중치 설정 / 가격 필터 (BETA)</div>";
+    var titleHtml = "<div class='popupTitle'>총점 가중치 / 가격 필터 (BETA)</div>";
     titleHtml += "<div class='comment2'> 각 항목별 점수는 변하지 않으며, 가중치에 따라 총점을 다시 계산합니다.</div>";
     var footerHtml = "" 
 
@@ -100,9 +100,9 @@
 
     detailHtml += "<hr>";
     
-    detailHtml += "<div class='filterArea'>";
-    detailHtml += "<div class='filterRange'>"
+    detailHtml += "<div class='filterArea'>"
     detailHtml += "<div id='filterName'></div>"
+    detailHtml += "<div class='filterRange'>"    
     detailHtml += "<div id='min_val'></div>"
     detailHtml += sliders
     detailHtml += "<div id='max_val'></div>"    

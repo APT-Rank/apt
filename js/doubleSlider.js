@@ -8,28 +8,23 @@ function initSlide(){
   $("#minRange").prop('value', minValue)
   $("#maxRange").prop('value', maxValue)
 
+  $("#min_val").text(String((minValue/2).toFixed(1))+"억")
+  $("#max_val").text(String((maxValue/2).toFixed(1))+"억")
+
   if(minValue == 0){
     if(maxValue == 60){
-      $("#filterName").text("가격 전체")
-      $("#min_val").text(String((minValue/2).toFixed(1))+"억")
-      $("#max_val").text(String((maxValue/2).toFixed(1))+"억")
+      $("#filterName").text("가격 전체")      
     }
-    else{
-      $("#filterName").text("가격")
-      $("#min_val").text("이하")
-      $("#max_val").text(String((maxValue/2).toFixed(1))+"억")
+    else{      
+      $("#filterName").text(String((maxValue/2).toFixed(1))+"억 이하")
     }
   }
   else{
-    if(maxValue == 60){
-      $("#filterName").text("가격")
-      $("#max_val").text("이상")
-      $("#min_val").text(String((minValue/2).toFixed(1))+"억")
+    if(maxValue == 60){      
+      $("#filterName").text(String((minValue/2).toFixed(1))+"억 이상")
     }
     else{
-      $("#filterName").text("가격")
-      $("#min_val").text(String((minValue/2).toFixed(1))+"억")
-      $("#max_val").text(String((maxValue/2).toFixed(1))+"억")
+      $("#filterName").text(String((minValue/2).toFixed(1))+"억" + "~" + String((maxValue/2).toFixed(1))+"억")      
     }
   }
 }
@@ -41,28 +36,23 @@ function slideMin(e){
   //$(".leftBar").css('width', value+'%')
   $(".rangeBar").css('left', value+'%')
   $("#leftThumb").css('left', value+'%')  
-  //$("#min_val").text(String((e.value/2).toFixed(1))+"억")
+  $("#min_val").text(String((e.value/2).toFixed(1))+"억")
 
   if(minValue == 0){
     if(maxValue == 60){
-      $("#filterName").text("가격 전체")
-      $("#min_val").text(String((e.value/2).toFixed(1))+"억")
+      $("#filterName").text("가격 전체")      
       $("#max_val").text(String((maxValue/2).toFixed(1))+"억")
     }
     else{
-      $("#filterName").text("가격")
-      $("#min_val").text("이하")
+      $("#filterName").text(String((maxValue/2).toFixed(1))+"억 이하")
     }
   }
   else{
-    if(maxValue == 60){
-      $("#filterName").text("가격")
-      $("#max_val").text("이상")
-      $("#min_val").text(String((e.value/2).toFixed(1))+"억")
+    if(maxValue == 60){      
+      $("#filterName").text(String((e.value/2).toFixed(1))+"억 이상")      
     }
-    else{
-      $("#filterName").text("가격")
-      $("#min_val").text(String((e.value/2).toFixed(1))+"억")
+    else{      
+      $("#filterName").text(String((e.value/2).toFixed(1))+"억" + "~" + String((maxValue/2).toFixed(1))+"억")
     }
   }
 }
@@ -74,28 +64,23 @@ function slideMax(e){
   //$(".rightBar").css('width', 100-value+'%')
   $(".rangeBar").css('right', 100-value+'%')
   $("#rightThumb").css('left', value+'%')  
-  //$("#max_val").text(String((e.value/2).toFixed(1))+"억")
+  $("#max_val").text(String((e.value/2).toFixed(1))+"억")
 
   if(minValue == 0){
     if(maxValue == 60){
       $("#filterName").text("가격 전체")
-      $("#min_val").text(String((minValue/2).toFixed(1))+"억")
-      $("#max_val").text(String((e.value/2).toFixed(1))+"억")
+      $("#min_val").text(String((minValue/2).toFixed(1))+"억")      
     }
     else{
-      $("#filterName").text("가격")
-      $("#min_val").text("이하")
-      $("#max_val").text(String((e.value/2).toFixed(1))+"억")
+      $("#filterName").text(String((e.value/2).toFixed(1))+"억 이하")      
     }
   }
   else{
     if(maxValue == 60){
-      $("#filterName").text("가격")
-      $("#max_val").text("이상")
+      $("#filterName").text(String((minValue/2).toFixed(1))+"억 이상")      
     }
-    else{
-      $("#filterName").text("가격")
-      $("#max_val").text(String((e.value/2).toFixed(1))+"억")
+    else{      
+      $("#filterName").text(String((minValue/2).toFixed(1))+"억" + "~" + String((e.value/2).toFixed(1))+"억")
     }
   }
 }
