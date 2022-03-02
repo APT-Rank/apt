@@ -39,9 +39,23 @@ function showSearchBar(){
     aptSearch()
   }
   
-  var input = "" 
+  var input = ""
+  function checkPrice(last_sales){    
+    if(minValue == 0 && maxValue == 60){
+      return true
+    }
+    else if(last_sales >= minValue/2*10000 && last_sales <= maxValue/2*10000){
+      return true
+    }
+    else{
+      return false
+    }
+  }
+
   function aptSearch(){
-    $('#dataList').html("");    
+    $('#dataList').html("");
+    console.log(minValue/2*10000)
+    console.log(maxValue/2*10000) 
     input = $('#inputSearch').val()    
     for(var i = 0 ; i < sortData.data.length ; i++){
           var aptName = sortData.data[i]["아파트명"]
@@ -69,81 +83,84 @@ function showSearchBar(){
 
             //console.log(valueSum)
 
-            var sortName = ""
-            if (sortSelection == "sortLiving"){ sortName = "거주우선" }
-            if (sortSelection == "sortTrans"){ sortName = "교통우선" }
-            if (sortSelection == "sortInfra"){ sortName = "인프라우선" }
-            if (sortSelection == "sortEdu"){ sortName = "교육우선" }
-            if (sortSelection == "sortCustom"){ sortName = "커스텀" }
+            if(checkPrice(last_sales[1])){
+              var sortName = ""
+              if (sortSelection == "sortDefault"){ sortName = "균형잡힌" }
+              if (sortSelection == "sortLiving"){ sortName = "거주우선" }
+              if (sortSelection == "sortTrans"){ sortName = "교통우선" }
+              if (sortSelection == "sortInfra"){ sortName = "인프라우선" }
+              if (sortSelection == "sortEdu"){ sortName = "교육우선" }
+              if (sortSelection == "sortCustom"){ sortName = "커스텀" }
 
-            var addon_html = "<div class='listBox' data-bs-toggle='modal' data-bs-target='#exampleModal' id='myModal' onClick='showDetail(" + i + ")'>";
+              var addon_html = "<div class='listBox' data-bs-toggle='modal' data-bs-target='#exampleModal' id='myModal' onClick='showDetail(" + i + ")'>";
 
-              if(selectedMonth == "202201"){
-                addon_html += "<div class='rank_content'>"
+                if(selectedMonth == "202201"){
+                  addon_html += "<div class='rank_content'>"
 
-                if(sortSelection == "sortDefault"){
-                  addon_html += "<div class='rank'>" + rank + "위</div>";
+                  if(sortSelection == "sortDefault"){
+                    addon_html += "<div class='rank'>" + rank + "위</div>";
+                  }
+                  else{
+                    addon_html += "<div class='rank'>" + (i+1) + "위</div>";
+                    addon_html += "<div class='ranksame' style='color:gray'>(" + sortName + ")</div>"
+                  }
+                  addon_html += "</div>"
                 }
+
                 else{
-                  addon_html += "<div class='rank'>" + (i+1) + "위</div>";
-                  addon_html += "<div class='ranksame' style='color:gray'>(" + sortName + ")</div>"
-                }
-                addon_html += "</div>"
+                  addon_html += "<div class='rank_content'>"
+
+                  if(sortSelection != "sortDefault"){
+                    addon_html += "<div class='rank'>" + (i+1) + "위</div>";
+                  }
+                  else{
+                    addon_html += "<div class='rank'>" + rank + "위</div>";
+                  }
+
+                  if(sortSelection == "sortDefault"){
+                    if(sortData.data[i]["rank_gap"] == 0){
+                      addon_html += "<div class='ranksame'> -- </div>"
+                    }
+                    else if(sortData.data[i]["rank_gap"] == 9999){
+                      addon_html += "<div class='ranksame'> NEW! </div>"
+                    }
+                    else if(sortData.data[i]["rank_gap"] > 0){
+                      addon_html += "<div class='rankup'> ▲" + Math.abs(sortData.data[i]["rank_gap"]) + "</div>"
+                    }
+                    else if(sortData.data[i]["rank_gap"] < 0){
+                      addon_html += "<div class='rankdown'> ▼" + Math.abs(sortData.data[i]["rank_gap"]) + "</div>"
+                    }
+                  }
+                  else{
+                    addon_html += "<div class='ranksame' style='color:gray'>(" + sortName + ")</div>"
+                  }
+
+                  addon_html += "</div>"
+                }  
+              
+              addon_html += "<div class='content'>";
+              //addon_html += "<div class='apt_name'>" + aptName + " " + apt_p + "(" + apt_m + ")</div>";          
+
+              addon_html += "<div class='apt_name'>" + aptName;          
+              addon_html += "<span class='aptYear'> (" + sortData.data[i]["준공년차"] + "년차)</span></div>";
+
+              if(last_sales_date == "1800-01-01"){
+                addon_html += "<div class='apt_info'><span class='aptNum'>" + house_num + "세대</span> / <span class='aptPrice'>거래 정보 없음</span></div>";
               }
-
               else{
-                addon_html += "<div class='rank_content'>"
+                addon_html += "<div class='apt_info'><span class='aptNum'>"+ house_num + "세대</span> / <span class='aptPrice'>" + Math.round(last_sales_price/100)/100 + "억" + "</span>, " + last_sales_area + ", " + last_sales_date_short + "</div>";
+              }            
 
-                if(sortSelection != "sortDefault"){
-                  addon_html += "<div class='rank'>" + (i+1) + "위</div>";
-                }
-                else{
-                  addon_html += "<div class='rank'>" + rank + "위</div>";
-                }
+              addon_html += "<div class='apt_address'>" + aptAddress + "</div>";
+              addon_html += "</div>";
+              addon_html += "<div class='value_score'>" + ( Math.round( aptValue * 100 ) / 100 ).toFixed(2) + "점"
+              addon_html += "</div>"
 
-                if(sortSelection == "sortDefault"){
-                  if(sortData.data[i]["rank_gap"] == 0){
-                    addon_html += "<div class='ranksame'> -- </div>"
-                  }
-                  else if(sortData.data[i]["rank_gap"] == 9999){
-                    addon_html += "<div class='ranksame'> NEW! </div>"
-                  }
-                  else if(sortData.data[i]["rank_gap"] > 0){
-                    addon_html += "<div class='rankup'> ▲" + Math.abs(sortData.data[i]["rank_gap"]) + "</div>"
-                  }
-                  else if(sortData.data[i]["rank_gap"] < 0){
-                    addon_html += "<div class='rankdown'> ▼" + Math.abs(sortData.data[i]["rank_gap"]) + "</div>"
-                  }
-                }
-                else{
-                  addon_html += "<div class='ranksame' style='color:gray'>(" + sortName + ")</div>"
-                }
-
-                addon_html += "</div>"
-              }  
-            
-            addon_html += "<div class='content'>";
-            //addon_html += "<div class='apt_name'>" + aptName + " " + apt_p + "(" + apt_m + ")</div>";          
-
-            addon_html += "<div class='apt_name'>" + aptName;          
-            addon_html += "<span class='aptYear'> (" + sortData.data[i]["준공년차"] + "년차)</span></div>";
-
-            if(last_sales_date == "1800-01-01"){
-              addon_html += "<div class='apt_info'><span class='aptNum'>" + house_num + "세대</span> / <span class='aptPrice'>거래 정보 없음</span></div>";
-            }
-            else{
-              addon_html += "<div class='apt_info'><span class='aptNum'>"+ house_num + "세대</span> / <span class='aptPrice'>" + Math.round(last_sales_price/100)/100 + "억" + "</span>, " + last_sales_area + ", " + last_sales_date_short + "</div>";
-            }            
-
-            addon_html += "<div class='apt_address'>" + aptAddress + "</div>";
-            addon_html += "</div>";
-            addon_html += "<div class='value_score'>" + ( Math.round( aptValue * 100 ) / 100 ).toFixed(2) + "점"
-            addon_html += "</div>"
-
-            $('#dataList').append(addon_html);            
+              $('#dataList').append(addon_html);
+            }          
           }
           
-          if(rearrangeAPTSelection == "rearrangePrice"){            
+          if(rearrangeAPTSelection == "rearrangePrice" || !(minValue == 0 && maxValue == 60)){
             $(".aptPrice").css({'color': '#ff3d38', 'font-weight': '600'})
           }
           if(rearrangeAPTSelection == "rearrangeNew"){

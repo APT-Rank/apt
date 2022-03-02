@@ -373,7 +373,7 @@ body{
   .rangeArea{
     display: grid;
     grid-template-columns: 80px 1fr 60px;    
-    height: 14em;
+    height: 12em;
     text-align: center;    
   }
   input[type=range]::-webkit-slider-thumb{
@@ -519,29 +519,16 @@ body{
   .filterArea{
     display: grid;
     grid-template-columns: 1fr;
-    justify-content: center;
-    height: 5em;   
+    justify-content: center;    
   }
 
   .filterRange{
     display: grid;
-    position: relative;
+    position: relative;    
+    align-items: center;
     width: 100%;
-    grid-template-columns: 80px 60px 1fr 60px;    
+    grid-template-columns: 80px 60px 1fr 60px;
   }
-
-  #maxRange.form-range{
-    position:relative;
-    width: 100%;    
-    visibility: visible;
-  }
-
-  #minRange.form-range{
-    position:relative;
-    width: 100%;    
-    visibility: visible;    
-  } 
-
 
   @media screen and (min-width: 800px){
     #modal .modalWindow{      

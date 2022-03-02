@@ -8,6 +8,40 @@
   var valInfra_temp = 0;
   var valEdu_temp = 0;
   var sortSelection = ""
+  var minValue = 0;
+  var maxValue = 60;
+  var lastMinValue = 0;
+  var lastMaxValue = 60;
+  var sliders = "<div slider id='slider-distance'>"
+  sliders += "<div>"
+  sliders += "<div inverse-left class='leftBar' style='width:100%;'></div>"
+  sliders += "<div inverse-right class='rightBar' style='width:100%;'></div>"
+  sliders += "<div range class='rangeBar' style='left:0%;right:0%;'></div>"
+  sliders += "<span thumb id='leftThumb' style='left:0%;'></span> <span thumb id='rightThumb' style='left:100%;'></span>"  
+  sliders += "</div>"
+  sliders += "<input type='range' id='minRange' tabindex='0' value='" + minValue +"' max='60' min='0' step='1' oninput='slideMin(this)'></input>"
+  sliders += "<input type='range' id='maxRange' tabindex='0' value='" + maxValue +"' max='60' min='0' step='1' oninput='slideMax(this)'></input>"
+  sliders += "</div>"
+
+  /*
+  <div slider id='slider-distance'>
+        <div>
+          <div inverse-left style='width:100%;'></div>
+          <div inverse-right style='width:100%;'></div>
+          <div range style='left:0%;right:0%;'></div>
+          <span thumb style='left:0%;'></span>
+          <span thumb style='left:100%;'></span>
+          <div sign style='left:0%;'>
+            <span id='value'>0</span>
+          </div>
+          <div sign style='left:100%;'>
+            <span id='value'>30</span>
+          </div>
+        </div>
+        <input type='range' tabindex='0' value='0' max='60' min='0' step='1' oninput='slideMin(this)'></input>      
+        <input type='range' tabindex='0' value='60' max='60' min='0' step='1' oninput='slideMax(this)'></input>        
+      </div>
+  */
 
   function sleep (delay) {
     var start = new Date().getTime();
@@ -20,25 +54,15 @@
 
   function showSorting(){
     //$('.btn-close').hide()
-    var titleHtml = "<div class='popupTitle'>총점 계산 가중치 설정 (BETA)</div>";
+
+    lastMinValue = minValue;
+    lastMaxValue = maxValue;
+
+    var titleHtml = "<div class='popupTitle'>총점 가중치 설정 / 가격 필터 (BETA)</div>";
     titleHtml += "<div class='comment2'> 각 항목별 점수는 변하지 않으며, 가중치에 따라 총점을 다시 계산합니다.</div>";
-    var footerHtml = ""
+    var footerHtml = "" 
 
-    /*
-    var detailHtml = "<div class='filterArea'>";
-    detailHtml += "<div class='filterRange'>"
-    detailHtml += "<div>필터항목</div>"
-    detailHtml += "<div>최소값</div>"
-    detailHtml += "<div>"
-    detailHtml += "<input type='range' class='form-range' min='0' max='30' step='0.5' value='0' id='minRange'>"   
-    detailHtml += "<input type='range' class='form-range' min='0' max='30' step='0.5' value='30' id='maxRange'>"
-    detailHtml += "</div>"    
-    detailHtml += "<div>최대값</div>"
-    detailHtml += "</div>";
-    detailHtml += "</div>";
-    */
-
-    var detailHtml = "<div class='settingArea'>";
+    var detailHtml = "<div class='settingArea' style='padding-top:0.5em'>";
     detailHtml += "<div><input type='radio' class='btn-check' name='btnSort' autocomplete='off' id='sortDefault' onClick='setRangeValue(this)'><label class='btn btn-outline-danger' for='sortDefault'>균형잡힌</label></div>"
     detailHtml += "<div><input type='radio' class='btn-check' name='btnSort' autocomplete='off' id='sortLiving' onClick='setRangeValue(this)'><label class='btn btn-outline-danger' for='sortLiving'>주거우선</label></div>"
 
@@ -51,7 +75,7 @@
     detailHtml += "<div><input type='radio' class='btn-check' name='btnSort' autocomplete='off' id='sortCustom' onClick='setRangeValue(this)'><label class='btn btn-outline-danger' for='sortCustom'>커스텀</label></div>"
     detailHtml += "</div>";
 
-    detailHtml += "<hr>";
+    detailHtml += "<hr style='margin-top:0.7em'>";
 
     detailHtml += "<div class='rangeArea'>";
     
@@ -71,7 +95,19 @@
 
     detailHtml += "<div class='rangeName'>교육</div>"
     detailHtml += "<div class='rangeSet'><input type='range' class='form-range' min='0' max='100' step='5' value='50' id='rangeEdu' onInput='updateRangeValue(" + 'setEduValue,' + 'this' + ")'/></div>";
-    detailHtml += "<div class='rangeValue' id='setEduValue'>50%</div>";    
+    detailHtml += "<div class='rangeValue' id='setEduValue'>50%</div>";
+    detailHtml += "</div>";
+
+    detailHtml += "<hr>";
+    
+    detailHtml += "<div class='filterArea'>";
+    detailHtml += "<div class='filterRange'>"
+    detailHtml += "<div id='filterName'></div>"
+    detailHtml += "<div id='min_val'></div>"
+    detailHtml += sliders
+    detailHtml += "<div id='max_val'></div>"    
+    detailHtml += "</div>";
+    detailHtml += "<div class='comment2' style='padding-left:4px; padding-top:1.3em'> 가격 필터는 마지막 업데이트 시점의 실거래가를 기준으로 하며, 전체 평형을 반영하지 않습니다.</div>"; 
 
     footerHtml += "<div class='modal-footer'>"
     //footerHtml += "<div class='form-check'><input class='form-check-input' type='checkbox' value='' id='flexCheckDefault'><label class='form-check-label' for='flexCheckDefault'>이번 달에 보지 않기</label></div>"    
@@ -111,7 +147,9 @@
     $('#percentWarning').css({'visibility' : 'hidden'})    
 
     $('#sortApply').css({"border-radius": '5px', "background-color": "#ff3849", "color":"white", "height":"2.5em"})
-    $('#sortClose').css({"border-radius": '5px', "background-color": "#ff3849", "color":"white", "height":"2.5em"})    
+    $('#sortClose').css({"border-radius": '5px', "background-color": "#ff3849", "color":"white", "height":"2.5em"})
+
+    initSlide();
   }
 
   function setRangeValue(e){
@@ -201,7 +239,7 @@
     //$("#rangeInfra").stop().animate()
     $("#rangeInfra").animate({ value: valInfra_temp}, 250, 'linear')
     //$("#rangeEdu").stop().animate()
-    $("#rangeEdu").animate({ value: valEdu_temp}, 250, 'linear')
+    $("#rangeEdu").animate({ value: valEdu_temp}, 250, 'linear')    
   }
 
   function updateRangeValue(idname, current){
@@ -216,7 +254,10 @@
     //console.log(valLiving_temp, valTrans_temp, valInfra_temp, valEdu_temp)
   }
 
-  function closeSorting(){    
+  function closeSorting(){
+    minValue = lastMinValue;
+    maxValue = lastMaxValue;
+
     $('div.modal').modal("hide")
   }
   function applySorting(){
@@ -240,7 +281,10 @@
       $('html').scrollTop(0)
     }
     else{
-      updateRegion()      
+      showWeight()
+      aptSearch()
+      $('html').scrollTop(0)
+      //updateRegion()
     }
 
     $('div.modal').modal("hide")
