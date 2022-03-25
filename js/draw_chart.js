@@ -103,7 +103,7 @@ function drawSubChart(score, avgScore, label1, label2, color1, color2, className
       },
       options: {
         indexAxis: 'y',
-        maintainAspectRatio: false,          
+        maintainAspectRatio: false,        
         plugins:{
           legend:{
             display: false
@@ -137,4 +137,64 @@ function drawSubChart(score, avgScore, label1, label2, color1, color2, className
         }          
       }
   });
-}   
+}
+
+function drawRankChart(rankMonth, rankData, totalRank){
+  var label = rankMonth
+  var data = rankData
+
+  var ctx = document.getElementById("rankChart").getContext('2d');
+  var myChart = new Chart(ctx, {
+    type: 'line',
+    plugins:[ChartDataLabels],    
+    data:{
+      labels: label,
+      datasets:[{
+        data: data,        
+        borderColor: "#ff3d38",
+        borderWidth: 1,
+        backgroundColor: "#ff3d38"
+      }],
+    },
+
+    options: {      
+      responsive: true,      
+      maintainAspectRatio: false,
+      scales:{
+        y:{
+          display: false,
+          reverse: true,            
+          suggestedMax: totalRank,
+          suggestedMin: 1,        
+          ticks:{            
+            stepSize: 25,            
+          }
+        }
+      },
+      animation: {            
+        y:{
+          from: 1
+        }
+      },
+      plugins: {
+        legend: {
+          display: false,
+        },
+        title: {
+          display: false,          
+        },
+        datalabels: {
+          display: true,          
+          color: 'black',
+          align: 'start',
+          anchor: 'start',
+          padding: 4,
+          textAlign: 'center',          
+          font: {
+            weight: 'bold'
+          },              
+        }
+      }
+    },
+});
+}
