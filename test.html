@@ -21,16 +21,6 @@
   </script>
 
   <script type="text/javascript" charset="UTF-8" src="//t1.daumcdn.net/adfit/static/kp.js"></script>
-  <script type="text/javascript">
-        kakaoPixel('2919115820531404299').pageView();
-        kakaoPixel('2919115820531404299').participation();
-        kakaoPixel('2919115820531404299').viewContent({
-          id: 'sido'
-        });
-        kakaoPixel('2919115820531404299').viewContent({
-          id: 'gungu'
-        });
-  </script>
 
   <title>아파트 랭크 - 우리 아파트 입지는 몇 등일까?</title>
   <meta property="og:type" content="website"> 
@@ -51,7 +41,7 @@
   <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-1BmE4kWBq78iYhFldvKuhfTAU6auU8tT94WrHftjDbrCEXSU1oBoqyl2QvZ6jIW3" crossorigin="anonymous">  
   <link rel="shortcut icon" href="https://www.aptrank.kr/apr-rank.png"/>  
 
-  <script src="https://kit.fontawesome.com/362c37dd1b.js" crossorigin="anonymous"></script>
+  
   <script src="https://code.jquery.com/jquery-3.6.0.min.js" integrity="sha256-/xUj+3OJU5yExlq6GSYGSHk7tPXikynS7ogEvDej/m4=" crossorigin="anonymous"></script>
   <script src="https://code.jquery.com/ui/1.12.1/jquery-ui.min.js" integrity="sha256-VazP97ZCwtekAsvgPBSUwPFKdrwD3unUfSGVYrahUqU=" crossorigin="anonymous"></script>  
 
@@ -60,7 +50,11 @@
   <script src="./js/sort.js" type="text/javascript"></script>
   <script src="./js/search.js" type="text/javascript"></script>
   <script src="./js/rearrange.js" type="text/javascript"></script>
+   
   <link href="./css/style.css" rel="stylesheet"/>
+  <link href="./css/slider.css" rel="stylesheet"/>
+
+  <script src="./js/doubleSlider.js" type="text/javascript"></script>
 </head>
 <style>  
 </style>
@@ -215,6 +209,30 @@
   <script src="https://cdn.jsdelivr.net/npm/chartjs-plugin-datalabels@2"></script>
 
 </body>
+<script type="module">
+  // Import the functions you need from the SDKs you need
+  import { initializeApp } from "https://www.gstatic.com/firebasejs/9.6.8/firebase-app.js";
+  import { getAnalytics } from "https://www.gstatic.com/firebasejs/9.6.8/firebase-analytics.js";
+  // TODO: Add SDKs for Firebase products that you want to use
+  // https://firebase.google.com/docs/web/setup#available-libraries
+
+  // Your web app's Firebase configuration
+  // For Firebase JS SDK v7.20.0 and later, measurementId is optional
+  const firebaseConfig = {
+    apiKey: "AIzaSyA7s95oaj498XdArjo9cT_8watLVw4JK3M",
+    authDomain: "aptrank-cc61b.firebaseapp.com",
+    projectId: "aptrank-cc61b",
+    storageBucket: "aptrank-cc61b.appspot.com",
+    messagingSenderId: "987401326011",
+    appId: "1:987401326011:web:8732d04a9fc69280d7489e",
+    measurementId: "G-BH5DRBH380"
+  };
+
+  // Initialize Firebase
+  const app = initializeApp(firebaseConfig);
+  const analytics = getAnalytics(app);
+</script>
+
 
 <script>
   var selectedMonth = "202203"
@@ -249,7 +267,7 @@
   $(document).ready(function(){
     $('div.modal').modal("hide");   
     var option = ""
-    for(i = 0 ; i < regions.length ; i++){
+    for(i = 0 ; i < regions.length ; i++){        
         option += "<option value='" + regions[i][1] + "'>" + regions[i][0] + "</option>"
     }
     $('#sido').html(option)    
@@ -311,6 +329,7 @@
       $('#dataList').css({'padding-top': '115px'})
 
       var sortName = ""
+      var priceRange = ""
 
       if (sortSelection == "sortDefault"){ sortName = "균형잡힌" }
       if (sortSelection == "sortLiving"){ sortName = "주거우선" }
@@ -319,16 +338,33 @@
       if (sortSelection == "sortEdu"){ sortName = "교육우선" }
       if (sortSelection == "sortCustom"){ sortName = "커스텀" }
 
+      if(minValue == 0 && maxValue == 60){
+        priceRange = "가격 전체"
+      }
+      else if(minValue == 0 && maxValue != 60){
+        priceRange = "가격 "+ maxValue/2 +"억 이하"
+      }
+      else if(minValue != 0 && maxValue == 60){
+        priceRange = "가격 "+ minValue/2 +"억 이상"
+      }
+      else{
+        priceRange = "가격 "+ minValue/2 + "억~" + maxValue/2 +"억"
+      }
+      
+
       var weightInfo = ""      
       if(sortSelection == "sortDefault"){
         weightInfo = sortName + " 가중치 (기본값)"
+        weightInfo += "   |   " + priceRange
       }
       else{
         if(selectedRegion == 'Seoul' || selectedRegion == 'Incheon' || selectedRegion == 'Gyeonggi' || selectedRegion == 'Busan' || selectedRegion == 'Daegu' || selectedRegion == 'Daejeon' || selectedRegion == 'Gwangju'){
-          weightInfo = sortName + " 가중치 : " + "주거 " + valLiving + ", " + "교통 " + valTrans + ", " + "인프라 " + valInfra + ", " + "교육 " + valEdu        
+          weightInfo = sortName + " : " + "주거 " + valLiving + ", " + "교통 " + valTrans + ", " + "인프라 " + valInfra + ", " + "교육 " + valEdu
+          weightInfo += "   |   " + priceRange
         }
         else{
-          weightInfo = sortName + " 가중치 : " + "주거 " + valLiving + ", " + "인프라 " + valInfra + ", " + "교육 " + valEdu        
+          weightInfo = sortName + " : " + "주거 " + valLiving + ", " + "인프라 " + valInfra + ", " + "교육 " + valEdu
+          weightInfo += "   " + priceRange
         }
         
       }
@@ -443,6 +479,8 @@
     //saveLocalStorage()
   }
   function updateRegion(){
+    minValue = 0;
+    maxValue = 60;
     //var selection = document.getElementById("gungu")
     selectedRegion = $("#sido option:selected").val()
     selectedSubRegion = $("#gungu option:selected").val()    
@@ -665,6 +703,7 @@
     detailHtml += "<div class='card-body'>";    
     detailHtml += "<div class='graph' style='height: 200px'> <canvas id='valueChart'></canvas></div>"
     detailHtml += "<div class='comment'>(지역구의 모든 단지에 대해 100점으로 환산한 상대 점수 입니다.)</div>";
+    detailHtml += "<hr><div class='graph' style='height: 160px;'> <canvas id='rankChart'></canvas></div>"
     detailHtml += "</div></div>"
 
     //주거
@@ -776,8 +815,30 @@
     $('#footer').html(footerHtml);
 
     $('.modal-footer').css({"grid-template-columns" : "0.2fr 1fr 0.2fr", "text-align":"center"})
+
+    rank_history = aptData.data[index]["rank_history"]    
+    rankMonth = [""]
+    rankData = [null]
+    for(var j = 0 ; j < rank_history.length ; j++){      
+      if(rank_history[j][1] == 9999){
+      }
+      else if(rank_history[j][1] == 0){
+        rankMonth.push(rank_history[j][0])
+        rankData.push(aptData.data[index]["rank"])
+      }
+      else{
+        rankMonth.push(rank_history[j][0])
+        rankData.push(rank_history[j][1])
+      }
+    }
+    rankMonth.push("")
+    rankData.push(null)
+
+    rankMonth.reverse()
+    rankData.reverse()
     
-    drawChart(aptValue, livingScore, transportScore, infraScore, eduScore)
+    drawChart(aptValue, livingScore, transportScore, infraScore, eduScore)    
+    drawRankChart(rankMonth, rankData, aptData.data[itemNum-1]["rank"])
     drawSubChart(livingScore, avgLivingScore, "주거총점", "지역평균", "#ff3d38", "#9f9f9f",  "livingChart")
     if(isNaN(transportScore) == false){
       drawSubChart(transportScore, avgTransportScore, "교통총점", "지역평균", "#ff3d38", "#9f9f9f", "transportChart")
@@ -1059,7 +1120,9 @@
     detailHtml += "<hr>";
     if(selectedMonth == "202203"){
       detailHtml += "<div class='popupTitle' style='text-align: center; padding-bottom: 1em'> 2022년 3월 업데이트 안내</div>";
-      detailHtml += "<ul>";    
+      detailHtml += "<ul>";
+      detailHtml += "<li><div class='notice'> [2022년 3월 8일] 수도권 7호선에 누락된 '산곡'역을 추가하여 인천 부평구 및 서구 랭크를 재등록 했습니다. </div></li>";
+      detailHtml += "<li><div class='notice'> 가격 필터 기능을 추가했습니다. 우측 상단의 설정 아이콘을 눌러 확인할 수 있습니다.</div></li>";
       detailHtml += "<li><div class='notice'> 2030년까지 개통 예정인 역들을 추가하여 역세권을 계산합니다.</div></li>";
       detailHtml += "<li><div class='notice'> 수도권 주요 거점역에 GTX-A 예정 노선인 킨텍스역, 동탄역, 용인역을 추가했습니다.</li></div>";
       detailHtml += "<li><div class='notice'> 부산, 대구, 대전, 광주의 주요 거점역을 확대 적용했습니다.</li></div>";
@@ -1072,7 +1135,7 @@
       detailHtml += "</ul>";
       detailHtml += "<hr>";
     }
-    detailHtml += "<div class='popupTitle' style='text-align: center; padding-bottom: 1em'>공지사항</div>";
+    detailHtml += "<div class='popupTitle' style='text-align: center; padding-bottom: 1em'>꼭 읽어주세요!</div>";
     detailHtml += "<ul>";    
     detailHtml += "<li><div class='notice'> 아파트 랭크의 점수는 투자지표가 아님을 말씀드립니다. 투자 판단에 대한 모든 책임은 투자자 본인에게 있습니다.</div></li>";
     detailHtml += "<li><div class='notice'> 아파트 랭크는 개인이 개발했으며, 기관이나 기업과 전혀 관련이 없습니다.</li></div>";
@@ -1091,7 +1154,8 @@
     footerHtml += "<div class='modal-footer'>"
     //footerHtml += "<div class='form-check'><input class='form-check-input' type='checkbox' value='' id='flexCheckDefault'><label class='form-check-label' for='flexCheckDefault'>이번 달에 보지 않기</label></div>"        
     footerHtml += " <div><a href='mailto:aptranking@gmail.com'><button type='button' class='goApt' onClick='mailto:aptranking@gmail.com'>메일로 문의하기</button></a></div>"
-    footerHtml += " <div><a href='https://open.kakao.com/o/sPYY0LZd' target='_blank'`><button type='button' class='gokakao'>카카오톡 문의하기</button></a></div>"    
+    //footerHtml += " <div><a href='https://open.kakao.com/o/sPYY0LZd' target='_blank'><button type='button' class='gokakao'>카카오톡 문의하기</button></a></div>"    
+    footerHtml += " <div><a href='http://pf.kakao.com/_vESNb/chat' target='_blank'><button type='button' class='gokakao'>카카오톡 문의하기</button></a></div>"    
     footerHtml += "</div>"    
     
     $('#exampleModalLabel').html(titleHtml);
