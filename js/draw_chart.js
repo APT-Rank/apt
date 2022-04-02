@@ -142,6 +142,14 @@ function drawSubChart(score, avgScore, label1, label2, color1, color2, className
 function drawRankChart(rankMonth, rankData, totalRank){
   var label = rankMonth
   var data = rankData
+  var align_number = 'start'  
+
+  if(rankData[rankData.length-2] > totalRank/3){    
+    align_number = 'top'
+  }
+  else{
+    align_number = 'start'
+  }
 
   var ctx = document.getElementById("rankChart").getContext('2d');
   var myChart = new Chart(ctx, {
@@ -165,9 +173,9 @@ function drawRankChart(rankMonth, rankData, totalRank){
           display: false,
           reverse: true,            
           suggestedMax: totalRank,
-          suggestedMin: 1,        
+          suggestedMin: 1,
           ticks:{            
-            stepSize: 25,            
+            stepSize: 1,            
           }
         }
       },
@@ -186,13 +194,76 @@ function drawRankChart(rankMonth, rankData, totalRank){
         datalabels: {
           display: true,          
           color: 'black',
-          align: 'start',
+          align: align_number,
           anchor: 'start',
-          padding: 4,
+          padding: 6,
           textAlign: 'center',          
           font: {
             weight: 'bold'
           },              
+        }
+      }
+    },
+});
+}
+
+function drawPriceRateChart(dateArray, salesArray, rentArray){
+  var label = dateArray
+  var salesData = salesArray
+  var rentData = rentArray  
+
+  var priceRate_ctx = document.getElementById("priceRateChart").getContext('2d');  
+  var priceRateChart = new Chart(priceRate_ctx, {    
+    type: 'line',    
+    data:{
+      labels: label,
+      datasets:[
+      {
+        label: "매매지수",
+        data: salesData,        
+        borderColor: "#ff3d38",
+        borderWidth: 2,
+        backgroundColor: "#ff3d38",
+        pointRadius: 0
+      },
+      {
+        label: "전세지수",
+        data: rentData,
+        borderColor: "#5589c9",
+        borderWidth: 2,
+        backgroundColor: "#5589c9",
+        pointRadius: 0
+      }
+    ],
+    },
+
+    options: {      
+      responsive: true,      
+      maintainAspectRatio: false,
+      interaction: {
+        mode: 'index',
+        intersect: false,
+      },
+      stacked: false,
+      scales:{
+        yAxes:{
+          display: true,
+          min: 50,
+          max: 150,
+          ticks:{            
+            stepSize: 50,            
+          }
+        }
+      },
+      animation: {
+        delay: 500, // change delay to suit your needs.
+      },
+      plugins: {
+        legend: {
+          display: true,
+        },
+        title: {
+          display: false,          
         }
       }
     },
