@@ -648,7 +648,7 @@
     var last_sales = aptData.data[index]["last_sales"].split(",")
     var last_sales_date = last_sales[0].toString()
     var last_sales_price = last_sales[1].toString()
-    var last_sales_area = last_sales[2]    
+    var last_sales_area = last_sales[2]
 
     var floor_rate = ""    
     if(aptData.data[index]["용적률"] == "0"){
@@ -860,9 +860,9 @@
       detailHtml += "<div class='card-body' style='padding-left: 5px ; padding-right: 5px; padding-top: 5px;'>";
       detailHtml += "<div id='popEducation'>"
       detailHtml += "<div class='popTable'>"
-      detailHtml += "<div id='popSubStation' style='margin-left: 5px ; margin-right: 5px; margin-top: 10px;'>"
+      detailHtml += "<div id='popSubStation' style='grid-template-columns: 0.3fr 1fr; margin-left: 5px ; margin-right: 5px; margin-top: 10px;'>"
       detailHtml += "<div class='popContent'>최근 실거래</div>"
-      detailHtml += "<div class='popResult'>" + last_sales_area + ", " + Math.round(last_sales_price/100)/100 + "억, "+ last_sales_date_short + "</div></div>"
+      detailHtml += "<div class='popResult'>" + last_sales_area + ", " + Math.round(last_sales_price/100)/100 + "억, "+ last_sales_date.substr(2) + "</div></div>"
       detailHtml += "<hr>"
       detailHtml += "<table class='table table-striped' style='font-size:0.8em'>"
         detailHtml += "<thead class='table-light'>"
