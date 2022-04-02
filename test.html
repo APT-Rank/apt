@@ -569,10 +569,10 @@
           addon_html += "<span class='aptYear'> (" + aptData.data[i]["준공년차"] + "년차)</span></div>";
 
           if(last_sales_date == "1800-01-01"){
-            addon_html += "<div class='apt_info'>" + house_num + "세대 / 거래 정보 없음</div>";
+            addon_html += "<div class='apt_info'>" + house_num.toLocaleString() + "세대 / 거래 정보 없음</div>";
           }
           else{
-            addon_html += "<div class='apt_info'>"+ house_num + "세대 / " + Math.round(last_sales_price/100)/100 + "억, " + last_sales_area + ", " + last_sales_date_short + "</div>";
+            addon_html += "<div class='apt_info'>"+ house_num.toLocaleString() + "세대 / " + Math.round(last_sales_price/100)/100 + "억, " + last_sales_area + ", " + last_sales_date_short + "</div>";
           }
 
           addon_html += "<div class='apt_address'>" + aptAddress + "</div>";
@@ -629,7 +629,15 @@
     var infraScore = ( Math.round( aptData.data[index]["인프라총점"] * 100 ) / 100 ).toFixed(2)
     var eduScore = ( Math.round( aptData.data[index]["학군총점"] * 100 ) / 100 ).toFixed(2)
     var area_info = aptData.data[index]["area_info"]
+    var maintainance = aptData.data[index]["maintenance"]
+    var rooms = aptData.data[index]["room"]
+    var baths = aptData.data[index]["bath"]
     var house_num = aptData.data[index]["세대수"]
+    var parking = aptData.data[index]["주차"]
+    var heating = aptData.data[index]["난방"]
+    var entrance = aptData.data[index]["현관구조"]
+    var sales_info = aptData.data[index]["sales_info"]
+    var price_per = aptData.data[index]["price_per"]      
 
     var searchCode = aptData.data[index]["검색코드"]
     var coord_y = aptData.data[index]["Y"]
@@ -702,8 +710,8 @@
     detailHtml += "<div class='card-body'>";    
     detailHtml += "<div class='graph' style='height: 200px'> <canvas id='valueChart'></canvas></div>"
     detailHtml += "<div class='comment'>(지역구의 모든 단지에 대해 100점으로 환산한 상대 점수 입니다.)</div>";
-    if(Number(selectedMonth) > 202202){
-      detailHtml += "<hr><div class='graph' style='height: 160px;'> <canvas id='rankChart'></canvas></div>"
+    if(Number(selectedMonth) > 202203){
+      detailHtml += "<hr><div class='graph' style='height: 120px;'> <canvas id='rankChart'></canvas></div>"
     }
     detailHtml += "</div></div>"
 
@@ -716,12 +724,53 @@
     detailHtml += "<div id='popLiving'>"
     detailHtml += "<div class='graph' style='height: 120px'> <canvas id='livingChart'></canvas></div>"
     detailHtml += "<div class='popTable'>"
-    detailHtml += "<div class='popSubTable'><div class='popContent'>" + "세대수" + "</div>" + "<div class='popResult'>" + house_num + "세대</div></div>";
+    detailHtml += "<div class='popSubTable'><div class='popContent'>" + "세대수" + "</div>" + "<div class='popResult'>" + house_num.toLocaleString() + "세대</div></div>";
     if(aptDuration >= 30){
       detailHtml += "<div class='popSubTable'><div class='popContent'>" + "용적률" + "</div>" + "<div class='popResult'>" + floor_rate + "</div></div>";
       detailHtml += "<div class='popSubTable'><div class='popContent'>" + "건폐율" + "</div>" + "<div class='popResult'>" + cover_rate + "</div></div>";
     }
-    detailHtml += "<div id='popSubLiving'><div class='popContent'>" + "면적 구성" + "<br>" + "<span class='popResult'>" + area_info + "</span></div></div>";
+    if(Number(selectedMonth) > 202203){
+      detailHtml += "<div class='popSubTable' id='popSubStation'><div class='popContent'>" + "주차" + "</div>" + "<div class='popResult'>" + parking + "</div></div>";
+      detailHtml += "<div class='popSubTable'><div class='popContent'>" + "난방방식" + "</div>" + "<div class='popResult'>" + heating + "</div></div>";
+      detailHtml += "<div class='popSubTable'><div class='popContent'>" + "현관구조" + "</div>" + "<div class='popResult'>" + entrance + "</div></div>";
+    }
+
+    var area_array = area_info.split(",")
+    var maintainance_array = maintainance.split(",")
+    var rooms_array = rooms.split(",")
+    var baths_array = baths.split(",")  
+
+    if(Number(selectedMonth) > 202203){
+      detailHtml += "<div class='table-responsive' style='max-height: 200px; overflow-y: scroll'>"
+      detailHtml += "<table class='table table-striped' style='font-size:0.8em'>"
+        detailHtml += "<thead class='table-light' style='position:sticky ;top: 0'>"
+          detailHtml += "<tr>"
+            detailHtml += "<th scope='col'>" + "평형" + "</th>"
+            detailHtml += "<th scope='col'>" + "방수/욕실수" + "</th>"
+            detailHtml += "<th scope='col'>" + "평균 관리비" + "</th>"
+          detailHtml += "</tr>"
+        detailHtml += "</thead>"
+
+        detailHtml += "<tbody>"
+            for(var k = 0 ; k < area_array.length ; k++){
+              detailHtml += "<tr>"
+                detailHtml += "<td>" + area_array[k] + "</td>"
+                detailHtml += "<td>" + rooms_array[k] + " / " + baths_array[k] + "</td>"
+                if(isNaN(maintainance_array[k]) == true ){
+                  detailHtml += "<td>" + "---" + "</td>"
+                }
+                else{
+                  detailHtml += "<td>" + Number(maintainance_array[k]).toLocaleString() + "원" + "</td>"
+                }
+              detailHtml += "</tr>"
+            }          
+        detailHtml += "</tbody>"
+      detailHtml += "</table>"
+      detailHtml += "</div>"
+    }
+    else{
+      detailHtml += "<div id='popSubLiving'><div class='popContent'>" + "면적 구성" + "<br>" + "<span class='popResult'>" + area_info + "</span></div></div>";
+    }    
     detailHtml += "<div class='comment2'>주거총점 계산을 위한 정보는 네이버 부동산으로 취득하며, 세대수/평형/난방방식 등의 항목을 상대점수로 산정합니다.</div>"
     detailHtml += "</div></div></div></div>"   
     avgLivingScore = Math.round( livingSum/itemNum * 100 ) / 100    
@@ -792,6 +841,46 @@
     detailHtml += "<div class='comment2'>교육 정보는 교육통계서비스 정보를 기반으로 산정됩니다.</div>"
     detailHtml += "</div></div></div></div>"
     avgEduScore = ( Math.round( eduSum/itemNum * 100 ) / 100 ).toFixed(2)
+
+    //실거래가
+    if(Number(selectedMonth) > 202203){      
+      var sales_info_array = sales_info.split(",")
+      var price_per_array = price_per.split(",")
+
+      detailHtml += "<div class='card'>";
+      detailHtml += "<div class='card-header'>";
+      detailHtml += "<div class='popTitle'><i class='fa-solid fa-coins'></i>&nbsp&nbsp실거래가</div>"
+      detailHtml += "</div>";
+      detailHtml += "<div class='card-body'>";
+      detailHtml += "<div id='popEducation'>"      
+      detailHtml += "<div class='popTable'>"
+      detailHtml += "<table class='table table-striped' style='font-size:0.8em'>"
+        detailHtml += "<thead class='table-light'>"
+          detailHtml += "<tr>"
+            detailHtml += "<th scope='col'>" + "평형" + "</th>"
+            detailHtml += "<th scope='col'>" + "실거래가" + "</th>"
+            detailHtml += "<th scope='col'>" + "평단가" + "</th>"
+          detailHtml += "</tr>"
+        detailHtml += "</thead>"
+
+        detailHtml += "<tbody>"          
+            for(var k = 0 ; k < area_array.length ; k++){
+              detailHtml += "<tr>"
+                detailHtml += "<td>" + area_array[k] + "</td>"
+                detailHtml += "<td>" + sales_info_array[k] + "</td>"
+                if(price_per_array[k] == "nan" ){
+                  detailHtml += "<td>" + "---" + "</td>"
+                }
+                else{
+                  detailHtml += "<td>" + Number(price_per_array[k]).toLocaleString() + "만원" + "</td>"
+                }
+              detailHtml += "</tr>"
+            }          
+        detailHtml += "</tbody>"
+      detailHtml += "</table>"
+      detailHtml += "<div class='comment2'>교육 정보는 교육통계서비스 정보를 기반으로 산정됩니다.</div>"
+      detailHtml += "</div></div></div></div>"
+    }
     
     //지역구    
     detailHtml += "<div class='card'>";
@@ -1002,8 +1091,8 @@
     detailHtml += "<div class='graph' style='height: 200px'> <canvas id='valueChart'></canvas></div>"
     detailHtml += "<div class='comment'>(전국 모든 시군구에 대해 100점으로 환산한 상대 점수 입니다.)</div>"
 
-    if(Number(selectedMonth) > 202202){
-      detailHtml += "<hr><div class='graph' style='height: 160px;'> <canvas id='rankChart'></canvas></div>"
+    if(Number(selectedMonth) > 202203){
+      detailHtml += "<hr><div class='graph' style='height: 120px;'> <canvas id='rankChart'></canvas></div>"
     }
 
     detailHtml += "</div></div>"

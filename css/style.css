@@ -303,6 +303,17 @@ body{
     margin-bottom: 10px;
     border-bottom: solid 1px rgb(216, 216, 216);
   }
+  .table-striped{
+    max-height: 200px;
+  }
+  .popLivingTable{
+    display: grid;
+    height: 1.4em;
+    grid-template-columns: 1fr 1fr 1.5fr;
+    margin-top: 2px;
+    margin-bottom: 2px;    
+    border-bottom: solid 1px rgb(216, 216, 216);
+  }  
   #popSubStation{
     display: grid;    
     grid-template-columns: 1fr 2fr;
@@ -337,6 +348,9 @@ body{
   .popContent{
     font-size: 0.9em;
     text-align: left;
+  }
+  .popLivingContent{
+    font-size: 0.9em;    
   }
   .popTable{
     display:grid;
@@ -478,7 +492,8 @@ body{
     border: None;
   }
   .goApt{
-    width: 100%;    
+    width: 100%;
+    font-size: 0.85em;
     height: 2.5em;
     background-color: #ff3d38;
     color: white;
@@ -487,7 +502,8 @@ body{
     border: None;
   }
   .gokakao{
-    width: 100%;    
+    width: 100%;
+    font-size: 0.85em;  
     height: 2.5em;
     background-color: #f8e002;
     color: black;
