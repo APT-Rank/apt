@@ -629,7 +629,9 @@
     var infraScore = ( Math.round( aptData.data[index]["인프라총점"] * 100 ) / 100 ).toFixed(2)
     var eduScore = ( Math.round( aptData.data[index]["학군총점"] * 100 ) / 100 ).toFixed(2)
     var area_info = aptData.data[index]["area_info"]
-    var maintainance = aptData.data[index]["maintenance"]
+    if(Number(selectedMonth) > 202203){
+      var maintainance = aptData.data[index]["maintenance"]
+    }    
     var rooms = aptData.data[index]["room"]
     var baths = aptData.data[index]["bath"]
     var house_num = aptData.data[index]["세대수"]
@@ -641,7 +643,12 @@
 
     var searchCode = aptData.data[index]["검색코드"]
     var coord_y = aptData.data[index]["Y"]
-    var coord_x = aptData.data[index]["X"]    
+    var coord_x = aptData.data[index]["X"]
+
+    var last_sales = aptData.data[index]["last_sales"].split(",")
+    var last_sales_date = last_sales[0].toString()
+    var last_sales_price = last_sales[1].toString()
+    var last_sales_area = last_sales[2]    
 
     var floor_rate = ""    
     if(aptData.data[index]["용적률"] == "0"){
@@ -733,14 +740,13 @@
       detailHtml += "<div class='popSubTable' id='popSubStation'><div class='popContent'>" + "주차" + "</div>" + "<div class='popResult'>" + parking + "</div></div>";
       detailHtml += "<div class='popSubTable'><div class='popContent'>" + "난방방식" + "</div>" + "<div class='popResult'>" + heating + "</div></div>";
       detailHtml += "<div class='popSubTable'><div class='popContent'>" + "현관구조" + "</div>" + "<div class='popResult'>" + entrance + "</div></div>";
-    }
-
-    var area_array = area_info.split(",")
-    var maintainance_array = maintainance.split(",")
-    var rooms_array = rooms.split(",")
-    var baths_array = baths.split(",")  
+    }      
 
     if(Number(selectedMonth) > 202203){
+      var area_array = area_info.split(",")
+      var maintainance_array = maintainance.split(",")
+      var rooms_array = rooms.split(",")
+      var baths_array = baths.split(",")
       detailHtml += "<div class='table-responsive' style='max-height: 200px; overflow-y: scroll'>"
       detailHtml += "<table class='table table-striped' style='font-size:0.8em'>"
         detailHtml += "<thead class='table-light' style='position:sticky ;top: 0'>"
@@ -851,9 +857,13 @@
       detailHtml += "<div class='card-header'>";
       detailHtml += "<div class='popTitle'><i class='fa-solid fa-coins'></i>&nbsp&nbsp실거래가</div>"
       detailHtml += "</div>";
-      detailHtml += "<div class='card-body'>";
-      detailHtml += "<div id='popEducation'>"      
+      detailHtml += "<div class='card-body' style='padding-left: 5px ; padding-right: 5px; padding-top: 5px;'>";
+      detailHtml += "<div id='popEducation'>"
       detailHtml += "<div class='popTable'>"
+      detailHtml += "<div id='popSubStation' style='margin-left: 5px ; margin-right: 5px; margin-top: 10px;'>"
+      detailHtml += "<div class='popContent'>최근 실거래</div>"
+      detailHtml += "<div class='popResult'>" + last_sales_area + ", " + Math.round(last_sales_price/100)/100 + "억, "+ last_sales_date_short + "</div></div>"
+      detailHtml += "<hr>"
       detailHtml += "<table class='table table-striped' style='font-size:0.8em'>"
         detailHtml += "<thead class='table-light'>"
           detailHtml += "<tr>"
@@ -867,7 +877,13 @@
             for(var k = 0 ; k < area_array.length ; k++){
               detailHtml += "<tr>"
                 detailHtml += "<td>" + area_array[k] + "</td>"
-                detailHtml += "<td>" + sales_info_array[k] + "</td>"
+                if(sales_info_array[k] == "거래 정보 없음"){
+                  detailHtml += "<td>" + "거래 정보 없음" + "</td>"
+                }
+                else{
+                  var sales_info_split = sales_info_array[k].split("억")
+                  detailHtml += "<td>" + ( Math.round( sales_info_split[0] * 100 ) / 100 ).toFixed(2) + "억" + "<span style='font-size: 0.85em'>" + sales_info_split[1] + "</span></td>"
+                }
                 if(price_per_array[k] == "nan" ){
                   detailHtml += "<td>" + "---" + "</td>"
                 }
@@ -878,7 +894,7 @@
             }          
         detailHtml += "</tbody>"
       detailHtml += "</table>"
-      detailHtml += "<div class='comment2'>교육 정보는 교육통계서비스 정보를 기반으로 산정됩니다.</div>"
+      detailHtml += "<div class='comment2'>&nbsp&nbsp실거래가 정보는 네이버 부동산으로 취득합니다.</div>"
       detailHtml += "</div></div></div></div>"
     }
     
@@ -906,7 +922,7 @@
 
     $('.modal-footer').css({"grid-template-columns" : "0.2fr 1fr 0.2fr", "text-align":"center"})
 
-    if(Number(selectedMonth) > 202202){
+    if(Number(selectedMonth) > 202203){
       rank_history = aptData.data[index]["rank_history"]    
       rankMonth = [""]
       rankData = [null]
@@ -1142,7 +1158,7 @@
 
 
     //매매, 전세가격지수    
-    if(rateExist.includes(regName) && Number(selectedMonth) > 202202){
+    if(rateExist.includes(regName) && Number(selectedMonth) > 202203){
       url = "https://www.aptrank.kr/" + month + "/Price_Rate/" + regName + ".json"
 
       detailHtml += "<div class='card'>";
@@ -1178,7 +1194,7 @@
 
     $('.modal-footer').css({"grid-template-columns" : "0.2fr 1fr 0.2fr", "text-align":"center"})
 
-    if(Number(selectedMonth) > 202202){
+    if(Number(selectedMonth) > 202203){
       rank_history = regData.data[index]["rank_history"]    
       rankMonth = [""]
       rankData = [null]
@@ -1207,28 +1223,30 @@
     drawSubChart(regPopScore, avgPopScore, "인구총점", "전국평균", "#ff3d38", "#9f9f9f", "popChart")
     drawSubChart(regJobScore, avgJobScore, "일자리총점", "전국평균", "#ff3d38", "#9f9f9f", "jobChart")
     //drawPriceRateChart(dateArray, salesArray, rentArray)
-    
-    var dateArray = ["", ""]
-    var salesArray = [null, null]
-    var rentArray = [null, null]
 
-    $.getJSON(url, function(json) {
-      rateData = json
-      for (var i = 0 ; i < (rateData.data).length ; i++){
-        dateArray.push(rateData.data[i]["Date"])
-        salesArray.push(rateData.data[i]["Sales"])
-        rentArray.push(rateData.data[i]["Rent"])
-      }
+    if(Number(selectedMonth) > 202203){    
+      var dateArray = ["", ""]
+      var salesArray = [null, null]
+      var rentArray = [null, null]
 
-      dateArray.push("")
-      dateArray.push("")
-      salesArray.push(null)
-      salesArray.push(null)
-      rentArray.push(null)
-      rentArray.push(null)
+      $.getJSON(url, function(json) {
+        rateData = json
+        for (var i = 0 ; i < (rateData.data).length ; i++){
+          dateArray.push(rateData.data[i]["Date"])
+          salesArray.push(rateData.data[i]["Sales"])
+          rentArray.push(rateData.data[i]["Rent"])
+        }
 
-      drawPriceRateChart(dateArray, salesArray, rentArray)
-    })
+        dateArray.push("")
+        dateArray.push("")
+        salesArray.push(null)
+        salesArray.push(null)
+        rentArray.push(null)
+        rentArray.push(null)
+
+        drawPriceRateChart(dateArray, salesArray, rentArray)
+      })
+    }
   }
 
   function show_apt(month, filename, sido){    
