@@ -886,7 +886,7 @@
                 }
                 else{
                   var sales_info_split = sales_info_array[k].split("억")
-                  detailHtml += "<td>" + ( Math.round( sales_info_split[0] * 100 ) / 100 ).toFixed(2) + "억" + "<span style='font-size: 0.85em'>" + sales_info_split[1] + "</span></td>"
+                  detailHtml += "<td>" + ( Math.round( sales_info_split[0] * 100 ) / 100 ).toFixed(2) + "억" + "<span style='font-size: 0.85em'>" + sales_info_split[1] + "</span></td>"                  
                 }
                 if(price_per_array[k] == "nan" ){
                   detailHtml += "<td>" + "---" + "</td>"
