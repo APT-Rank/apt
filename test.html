@@ -74,6 +74,8 @@
         <div id="rearrange" class="position-relative" onClick='showRearrangeBar(this)'><i class="fa-solid fa-arrow-down-wide-short"></i></div>          
         <!--타이틀 표시-->
         <div id="title" onClick='scrollUp()'>아파트 랭크</div>
+        <!--공유 버튼-->
+        <!-- <div id="search" onClick='share(shareTitle, shareText, shareURL)'><i class='fa-solid fa-arrow-up-right-from-square'></i></div> -->
         <!--단지 가중치 설정 버튼 표시-->
         <div id='sort' class="position-relative" data-bs-toggle='modal' data-bs-target='#exampleModal' id='myModal' onClick='showSorting()'><i class="fa-solid fa-sliders"></i>
           <span class="position-absolute top-20 start-0 translate-middle badge rounded-pill" id="betaBadge">BETA</span>
@@ -915,6 +917,16 @@
     footerHtml += "<div class='modal-footer'>"
     footerHtml += "<div></div>"    
     footerHtml += "<div><button type='button' class='goLink' onclick='openNaver(" + searchCode + ")'>네이버 부동산에서 보기</button></div>"
+
+    shareTitle = "[아파트랭크] " + selectedMonth.substr(0, 4) + "년 " + Number(selectedMonth.substr(4, 5)).toString() + "월 " + "우리 아파트 입지 순위는?"
+    shareText = aptName + " : "+ aptRank + " (" + aptValue + "점)"
+    shareText += "\n 세대수: " + house_num + "세대 (주차 " + parking + ")"
+    shareText += "\n 가장 가까운 역: " + nearestStation
+    shareText += "\n 5km 이내 대형병원: " + bigHospital_5km
+    shareText += "\n 중학교 학업성취도: " + mSchool_edu
+    shareURL = "\n\n" + "https://www.aptrank.kr"
+
+    footerHtml += "<div><button type='button' class='toShare' onClick='share(shareTitle, shareText, shareURL)'><i class='fa-solid fa-arrow-up-right-from-square'></i></button></div>"
     footerHtml += "<div></div>"
     footerHtml += "</div>"
     
@@ -1184,17 +1196,19 @@
       else{}
     }
 
+
+
+    shareTitle = "[아파트랭크] " + selectedMonth.substr(0, 4) + "년 " + Number(selectedMonth.substr(4, 5)).toString() + "월 " + "우리 지역 입지 순위는?"
+    shareText = regName + " : "+ regRank + " (" + regValue + "점)"
+    shareText += "\n 공급량" + ( Math.round(regSupplyUpDown) ).toLocaleString() + "세대 " + regSupplyLevel
+    shareText += "\n 인구수" + regPop.toLocaleString() + "명"
+    shareText += "\n 일자리" + regJob.toLocaleString() + "개"
+    shareURL = "\n\n" + "https://www.aptrank.kr"
+
     footerHtml += "<div class='modal-footer'>"
     footerHtml += "<div></div>"    
     footerHtml += "<div><button type='button' class='goApt' data-dismiss='modal' onClick='show_apt(selectedMonth, linked, regionValue)'>" + shortName + " 아파트 보기</button></div>"
-
-    shareTitle = regName
-    shareText = "\n"+ regRank + "\n" + regValue + "점"
-    shareURL = "\n" + "https://www.aptrank.kr"
-
-    footerHtml += "<div></div><div></div>"
-    footerHtml += "<div><button type='button' class='goApt' onClick='share(shareTitle, shareText, shareURL)'>공유하기</button></div>"
-    
+    footerHtml += "<div><button type='button' class='toShare' onClick='share(shareTitle, shareText, shareURL)'><i class='fa-solid fa-arrow-up-right-from-square'></i></button></div>"
     footerHtml += "<div></div>"
     footerHtml += "</div>"
     
