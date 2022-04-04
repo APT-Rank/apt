@@ -1,8 +1,19 @@
-function capture(){
-  if(screen.width < 1024) {
-    document.getElementById("viewport").setAttribute("content", "width=1200px");
+var shareTitle = ""
+var shareText = ""
+var shareURL = ""
+
+function share(shareTitle, shareText, shareURL){
+  if (navigator.share) {
+    navigator.share({
+      title: shareTitle,
+      text: shareText,
+      url: shareURL
+    }).then(() => {
+      console.log('Thanks for sharing!');
+    })
+    .catch(console.error);
+  } else {
+    // fallback
+    shareDialog.classList.add('is-open');
   }
-  html2canvas(document.querySelector("body")).then(canvas => {
-    document.body.appendChild(canvas)
-  });
 }
