@@ -41,13 +41,15 @@
 
   
   <script src="https://code.jquery.com/jquery-3.6.0.min.js" integrity="sha256-/xUj+3OJU5yExlq6GSYGSHk7tPXikynS7ogEvDej/m4=" crossorigin="anonymous"></script>
-  <script src="https://code.jquery.com/ui/1.12.1/jquery-ui.min.js" integrity="sha256-VazP97ZCwtekAsvgPBSUwPFKdrwD3unUfSGVYrahUqU=" crossorigin="anonymous"></script>  
+  <script src="https://code.jquery.com/ui/1.12.1/jquery-ui.min.js" integrity="sha256-VazP97ZCwtekAsvgPBSUwPFKdrwD3unUfSGVYrahUqU=" crossorigin="anonymous"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/html2canvas/0.5.0-beta4/html2canvas.min.js"  crossorigin="anonymous"></script>  
 
   <script src="./js/menu_select_box.js" type="text/javascript"></script>
   <script src="./js/draw_chart.js" type="text/javascript"></script>
   <script src="./js/sort.js" type="text/javascript"></script>
   <script src="./js/search.js" type="text/javascript"></script>
   <script src="./js/rearrange.js" type="text/javascript"></script>
+  <script src="./js/share.js" type="text/javascript"></script>
    
   <link href="./css/style.css" rel="stylesheet"/>
   <link href="./css/slider.css" rel="stylesheet"/>
@@ -72,6 +74,8 @@
         <div id="rearrange" class="position-relative" onClick='showRearrangeBar(this)'><i class="fa-solid fa-arrow-down-wide-short"></i></div>          
         <!--타이틀 표시-->
         <div id="title" onClick='scrollUp()'>아파트 랭크</div>
+        <!--공유 버튼-->
+        <!-- <div id="search" onClick='share(shareTitle, shareText, shareURL)'><i class='fa-solid fa-arrow-up-right-from-square'></i></div> -->
         <!--단지 가중치 설정 버튼 표시-->
         <div id='sort' class="position-relative" data-bs-toggle='modal' data-bs-target='#exampleModal' id='myModal' onClick='showSorting()'><i class="fa-solid fa-sliders"></i>
           <span class="position-absolute top-20 start-0 translate-middle badge rounded-pill" id="betaBadge">BETA</span>
@@ -878,11 +882,11 @@
               detailHtml += "<tr>"
                 detailHtml += "<td>" + area_array[k] + "</td>"
                 if(sales_info_array[k] == "거래 정보 없음"){
-                  detailHtml += "<td>" + "---" + "</td>"
+                  detailHtml += "<td>" + "거래 정보 없음" + "</td>"
                 }
                 else{
                   var sales_info_split = sales_info_array[k].split("억")
-                  detailHtml += "<td>" + ( Math.round( sales_info_split[0] * 100 ) / 100 ).toFixed(2) + "억" + "<span style='font-size: 0.85em'>" + sales_info_split[1] + "</span></td>"
+                  detailHtml += "<td>" + ( Math.round( sales_info_split[0] * 100 ) / 100 ).toFixed(2) + "억" + "<span style='font-size: 0.85em'>" + sales_info_split[1] + "</span></td>"                  
                 }
                 if(price_per_array[k] == "nan" ){
                   detailHtml += "<td>" + "---" + "</td>"
@@ -913,6 +917,20 @@
     footerHtml += "<div class='modal-footer'>"
     footerHtml += "<div></div>"    
     footerHtml += "<div><button type='button' class='goLink' onclick='openNaver(" + searchCode + ")'>네이버 부동산에서 보기</button></div>"
+
+    shareTitle = "[아파트랭크]\n" + selectedMonth.substr(2, 2) + "년 " + Number(selectedMonth.substr(4, 2)).toString() + "월 " + "우리 아파트 입지 순위?\n\n"
+    shareText = aptName
+    shareText += "\nㆍ순위: " + aptRank + " (" + aptValue + "점)"
+    shareText += "\nㆍ최근실거래: " + last_sales_area + ", " + Math.round(last_sales_price/100)/100 + "억, "+ last_sales_date.substr(2)
+    shareText += "\nㆍ세대수: " + house_num + "세대"
+    shareText += "\nㆍ주차: " + parking
+    shareText += "\nㆍ가장 가까운 역: " + nearestStation
+    shareText += "\nㆍ5km 이내 대형병원: " + bigHospital_5km
+    shareText += "\nㆍ중학교 학업성취도: " + mSchool_edu
+    shareText += "\n\n"
+    shareURL = "https://www.aptrank.kr"
+
+    footerHtml += "<div><button type='button' class='toShare' onClick='share(shareTitle, shareText, shareURL)'><i class='fa-solid fa-arrow-up-right-from-square'></i></button></div>"
     footerHtml += "<div></div>"
     footerHtml += "</div>"
     
@@ -1182,9 +1200,21 @@
       else{}
     }
 
+
+
+    shareTitle = "[아파트랭크]\n" + selectedMonth.substr(2, 2) + "년 " + Number(selectedMonth.substr(4, 2)).toString() + "월 " + "우리 지역 입지 순위?\n\n"
+    shareText = regName
+    shareText += "\nㆍ순위: " + regRank + " (" + regValue + "점)"
+    shareText += "\nㆍ인구수: " + regPop.toLocaleString() + "명"
+    shareText += "\nㆍ공급량: " + ( Math.round(regSupplyUpDown) ).toLocaleString() + "세대 " + regSupplyLevel    
+    shareText += "\nㆍ일자리: " + regJob.toLocaleString() + "개"
+    shareText += "\n\n"
+    shareURL = "https://www.aptrank.kr"
+
     footerHtml += "<div class='modal-footer'>"
     footerHtml += "<div></div>"    
-    footerHtml += "<div><button type='button' class='goApt' data-dismiss='modal' onClick='show_apt(selectedMonth, linked, regionValue)'>" + shortName + " 아파트 보기</button></div>"                  
+    footerHtml += "<div><button type='button' class='goApt' data-dismiss='modal' onClick='show_apt(selectedMonth, linked, regionValue)'>" + shortName + " 아파트 보기</button></div>"
+    footerHtml += "<div><button type='button' class='toShare' onClick='share(shareTitle, shareText, shareURL)'><i class='fa-solid fa-arrow-up-right-from-square'></i></button></div>"
     footerHtml += "<div></div>"
     footerHtml += "</div>"
     
