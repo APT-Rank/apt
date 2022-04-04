@@ -492,8 +492,7 @@ body{
     border: None;
   }
   .goApt{
-    width: 100%;
-    font-size: 0.85em;
+    width: 100%;    
     height: 2.5em;
     background-color: #ff3d38;
     color: white;
@@ -502,8 +501,7 @@ body{
     border: None;
   }
   .gokakao{
-    width: 100%;
-    font-size: 0.85em;  
+    width: 100%;    
     height: 2.5em;
     background-color: #f8e002;
     color: black;
