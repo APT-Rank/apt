@@ -20,7 +20,7 @@ function share(shareTitle, shareText, shareURL){
   }
 }
 
-function kakaoShare(shareTitle, shareText, shareURL) {
+function kakaoShare2(shareTitle, shareText, shareURL) {
   console.log(shareTitle)
   console.log(shareText)
   console.log(shareURL)
@@ -35,7 +35,7 @@ function kakaoShare(shareTitle, shareText, shareURL) {
   });
 }
 
-function kakaoShare2(shareTitle, shareText, shareURL) {
+function kakaoShare(shareTitle, shareText, shareURL) {
   Kakao.Link.sendDefault({
     objectType: 'feed',
     content: {
