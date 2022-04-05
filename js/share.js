@@ -39,11 +39,12 @@ function kakaoShare(shareTitle, shareText, shareURL) {
   Kakao.Link.sendDefault({
     objectType: 'feed',
     content: {
-      title: '',
-      description: '',
-      imageUrl: 'https://www.aptrank.kr/thumbnail.jpg',
-      link: {
-        mobileWebUrl: shareURL        
+      title: 'shareTitle',
+      description: 'shareText',
+      imageUrl: '',
+      link: {        
+        webUrl: shareURL,
+        mobileWebUrl: shareURL,
       },
     },
     itemContent: {
@@ -51,23 +52,23 @@ function kakaoShare(shareTitle, shareText, shareURL) {
       items: [
         {
           item: shareText,
-          itemOp: ''
+          itemOp: shareText
         },
         {
           item: shareText,
-          itemOp: ''
+          itemOp: shareText
         },
         {
           item: shareText,
-          itemOp: ''
+          itemOp: shareText
         },
         {
           item: shareText,
-          itemOp: ''
+          itemOp: shareText
         },
         {
           item: shareText,
-          itemOp: ''
+          itemOp: shareText
         },
       ],
     },
