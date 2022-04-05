@@ -26,8 +26,8 @@ function kakaoShare(shareTitle, shareText, shareURL) {
   console.log(shareURL)
 
   Kakao.Link.sendDefault({
-    objectType: 'text',
-    text: shareText,
+    objectType: 'text',    
+    text: shareTitle + "\n\n" + shareText,
     link: {
       mobileWebUrl: shareURL,
       webUrl: shareURL,
