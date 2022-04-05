@@ -960,39 +960,26 @@
     }else{
       shareText += "(" + aptDuration + "년차)"
     }
-    
-    kakaoShareText.push(shareText)
 
     shareText += "\nㆍ순위: " + aptRank + " (" + aptValue + "점)"
     shareText += "\nㆍ최근실거래: " + last_sales_area + ", " + Math.round(last_sales_price/100)/100 + "억, "+ last_sales_date.substr(2)
 
-    kakaoShareText.push(aptRank + " (" + aptValue + "점)")
-    kakaoShareText.push(last_sales_area + ", " + Math.round(last_sales_price/100)/100 + "억, "+ last_sales_date.substr(2))
-
     if(aptDuration >= 30){
       shareText += "\nㆍ용적률: " + floor_rate
       shareText += "\nㆍ건폐율: " + cover_rate
-
-      kakaoShareText.push(floor_rate)
-      kakaoShareText.push(cover_rate)
     }else{
       shareText += "\nㆍ세대수: " + house_num.toLocaleString() + "세대"
       shareText += "\nㆍ주차: " + parking
-
-      kakaoShareText.push(house_num.toLocaleString() + "세대")
-      kakaoShareText.push(parking)
     }    
     if(aptData.data[index]["가까운역이름"] != "NA"){
       shareText += "\nㆍ가장 가까운 역: " + nearestStation
-
-      kakaoShareText.push(nearestStation)
     }
     shareText += "\nㆍ5km 이내 대형병원: " + bigHospital_5km
     shareText += "\nㆍ중학교 학업성취도: " + mSchool_edu
     shareText += "\n\n"    
     shareURL = "https://www.aptrank.kr" + "?reg=" + selectedRegion +"&sub=" + selectedSubRegion + "&mon=" + selectedMonth
 
-    footerHtml += "<div><button type='button' class='toShare' onClick='kakaoShare(shareTitle, kakaoShareText, shareURL)'><i class='fa-solid fa-arrow-up-right-from-square'></i></button></div>"
+    footerHtml += "<div><button type='button' class='toShare' onClick='kakaoShare(shareTitle, shareText, shareURL)'><i class='fa-solid fa-arrow-up-right-from-square'></i></button></div>"
     footerHtml += "<div><button type='button' class='goLink' onclick='openNaver(" + searchCode + ")'>네이버 부동산에서 보기</button></div>"
     footerHtml += "<div><button type='button' class='toShare' onClick='share(shareTitle, shareText, shareURL)'><i class='fa-solid fa-arrow-up-right-from-square'></i></button></div>"
     footerHtml += "<div></div>"
