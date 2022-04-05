@@ -950,9 +950,9 @@
     //Footer에 네이버 부동산 버튼
     footerHtml += "<div class='modal-footer'>"
     //footerHtml += "<div></div>"
-    shareTitle = "[아파트랭크]\n" + selectedMonth.substr(2, 2) + "년 " + Number(selectedMonth.substr(4, 2)).toString() + "월 " + "우리 아파트 입지 순위?\n\n"
-
-    kakaoShareText = []
+    shareTitle = "[아파트랭크]\n"    
+    shareTitle += "\n" + selectedMonth.substr(2, 2) + "년 " + Number(selectedMonth.substr(4, 2)).toString() + "월 "
+    shareTitle += "\n" + $('#sido option:selected').text() + " " + $('#gungu option:selected').text() + " 아파트 입지 순위\n\n"    
 
     shareText = aptName
     if(aptDuration >= 30){
@@ -961,21 +961,27 @@
       shareText += "(" + aptDuration + "년차)"
     }
 
-    shareText += "\nㆍ순위: " + aptRank + " (" + aptValue + "점)"
-    shareText += "\nㆍ최근실거래: " + last_sales_area + ", " + Math.round(last_sales_price/100)/100 + "억, "+ last_sales_date.substr(2)
+    shareText += "\n순위: " + aptRank + " (" + aptValue + "점)"
+
+    if(isNaN(last_sales_price)){
+      shareText += "\n최근실거래: 거래 정보 없음" 
+    }
+    else{
+      shareText += "\n최근실거래: \n  " + last_sales_area + ", " + Math.round(last_sales_price/100)/100 + "억, "+ last_sales_date.substr(2)
+    }    
 
     if(aptDuration >= 30){
-      shareText += "\nㆍ용적률: " + floor_rate
-      shareText += "\nㆍ건폐율: " + cover_rate
+      shareText += "\n용적률: " + floor_rate
+      shareText += "\n건폐율: " + cover_rate
     }else{
-      shareText += "\nㆍ세대수: " + house_num.toLocaleString() + "세대"
-      shareText += "\nㆍ주차: " + parking
+      shareText += "\n세대수: " + house_num.toLocaleString() + "세대"
+      shareText += "\n주차: " + parking
     }    
     if(aptData.data[index]["가까운역이름"] != "NA"){
-      shareText += "\nㆍ가장 가까운 역: " + nearestStation
+      shareText += "\n가장 가까운 역: " + nearestStation
     }
-    shareText += "\nㆍ5km 이내 대형병원: " + bigHospital_5km
-    shareText += "\nㆍ중학교 학업성취도: " + mSchool_edu
+    shareText += "\n5km 이내 대형병원: " + bigHospital_5km
+    shareText += "\n중학교 학업성취도: " + mSchool_edu
     shareText += "\n\n"    
     shareURL = "https://www.aptrank.kr" + "?reg=" + selectedRegion +"&sub=" + selectedSubRegion + "&mon=" + selectedMonth
 
@@ -1249,16 +1255,15 @@
         regionValue = regions[i][1]                
       }
       else{}
-    }
+    }    
 
-    kakaoShareText = []
-
-    shareTitle = "[아파트랭크]\n" + selectedMonth.substr(2, 2) + "년 " + Number(selectedMonth.substr(4, 2)).toString() + "월 " + "우리 지역 입지 순위?\n\n"
-    shareText = regName
-    shareText += "\nㆍ순위: " + regRank + " (" + regValue + "점)"
-    shareText += "\nㆍ인구수: " + regPop.toLocaleString() + "명"
-    shareText += "\nㆍ공급량: " + ( Math.round(regSupplyUpDown) ).toLocaleString() + "세대 " + regSupplyLevel    
-    shareText += "\nㆍ일자리: " + regJob.toLocaleString() + "개"
+    shareTitle = "[아파트랭크]\n" + selectedMonth.substr(2, 2) + "년 " + Number(selectedMonth.substr(4, 2)).toString() + "월 "
+    shareTitle += "\n" + regName + " 입지 순위\n\n"
+    
+    shareText += "\n순위: " + regRank + " (" + regValue + "점)"
+    shareText += "\n인구수: " + regPop.toLocaleString() + "명"
+    shareText += "\n공급량: " + ( Math.round(regSupplyUpDown) ).toLocaleString() + "세대 " + regSupplyLevel    
+    shareText += "\n일자리: " + regJob.toLocaleString() + "개"
     shareText += "\n\n"
     shareURL = "https://www.aptrank.kr" + "?reg=" + selectedRegion +"&sub=" + selectedSubRegion + "&mon=" + selectedMonth      
 
