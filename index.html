@@ -42,7 +42,8 @@
   
   <script src="https://code.jquery.com/jquery-3.6.0.min.js" integrity="sha256-/xUj+3OJU5yExlq6GSYGSHk7tPXikynS7ogEvDej/m4=" crossorigin="anonymous"></script>
   <script src="https://code.jquery.com/ui/1.12.1/jquery-ui.min.js" integrity="sha256-VazP97ZCwtekAsvgPBSUwPFKdrwD3unUfSGVYrahUqU=" crossorigin="anonymous"></script>
-  <script src="https://cdnjs.cloudflare.com/ajax/libs/html2canvas/0.5.0-beta4/html2canvas.min.js"  crossorigin="anonymous"></script>  
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/html2canvas/0.5.0-beta4/html2canvas.min.js"  crossorigin="anonymous"></script>
+  <script src="https://developers.kakao.com/sdk/js/kakao.js"></script>
 
   <script src="./js/menu_select_box.js" type="text/javascript"></script>
   <script src="./js/draw_chart.js" type="text/javascript"></script>
@@ -268,6 +269,19 @@
   var popupHistory = [];
 
   $(document).ready(function(){
+
+    var isMobile = /Mobi/i.test(window.navigator.userAgent); // "Mobi" 가 User agent에 포함되어 있으면 모바일
+    console.log(isMobile)
+
+    //document.cookie = "safeCookie1=foo; SameSite=Lax"; 
+    //document.cookie = "safeCookie2=foo";  
+    //document.cookie = "crossCookie=bar; SameSite=None; Secure";
+
+    Kakao.init(kakaoKey);
+
+    // SDK 초기화 여부를 판단합니다.
+    //console.log(Kakao.isInitialized());
+
     $('div.modal').modal("hide");   
     var option = ""
     for(i = 0 ; i < regions.length ; i++){        
@@ -938,34 +952,44 @@
 
     //Footer에 네이버 부동산 버튼
     footerHtml += "<div class='modal-footer'>"
-    footerHtml += "<div></div>"    
-    footerHtml += "<div><button type='button' class='goLink' onclick='openNaver(" + searchCode + ")'>네이버 부동산에서 보기</button></div>"
-
-    shareTitle = "[아파트랭크]\n" + selectedMonth.substr(2, 2) + "년 " + Number(selectedMonth.substr(4, 2)).toString() + "월 " + "우리 아파트 입지 순위?\n\n"
-    shareText = aptName
+    //footerHtml += "<div></div>"
+    shareTitle = "[아파트랭크]\n"
+    shareTitle += selectedMonth.substr(0, 4) + "년 " + Number(selectedMonth.substr(4, 2)).toString() + "월 우리 아파트 입지 순위는?\n"    
+    
+    shareText = "『" + aptName
     if(aptDuration >= 30){
-      shareText += "(" + aptDuration + "년차, 재건축 대상)"
+      shareText += "(" + aptDuration + "년차, 재건축 대상)』"
     }else{
-      shareText += "(" + aptDuration + "년차)"
+      shareText += "(" + aptDuration + "년차)』"
     }
-    shareText += "\nㆍ순위: " + aptRank + " (" + aptValue + "점)"
-    shareText += "\nㆍ최근실거래: " + last_sales_area + ", " + Math.round(last_sales_price/100)/100 + "억, "+ last_sales_date.substr(2)
+
+    shareText += "\nㆍ지역 : " + $('#sido option:selected').text() + " " + $('#gungu option:selected').text()
+    shareText += "\nㆍ순위 : " + aptRank + " (" + aptValue + "점)"
+
+    if(isNaN(last_sales_price)){
+      shareText += "\nㆍ최근실거래 : 거래 정보 없음" 
+    }
+    else{
+      shareText += "\nㆍ최근실거래\n    : " + last_sales_area + ", " + Math.round(last_sales_price/100)/100 + "억, "+ last_sales_date.substr(2)
+    }    
 
     if(aptDuration >= 30){
-      shareText += "\nㆍ용적률: " + floor_rate
-      shareText += "\nㆍ건폐율: " + cover_rate
+      shareText += "\nㆍ용적률 : " + floor_rate
+      shareText += "\nㆍ건폐율 : " + cover_rate
     }else{
-      shareText += "\nㆍ세대수: " + house_num.toLocaleString() + "세대"
-      shareText += "\nㆍ주차: " + parking
+      shareText += "\nㆍ세대수 : " + house_num.toLocaleString() + "세대"
+      shareText += "\nㆍ주차 : " + parking
     }    
     if(aptData.data[index]["가까운역이름"] != "NA"){
-      shareText += "\nㆍ가장 가까운 역: " + nearestStation
+      shareText += "\nㆍ가장 가까운 역 : " + nearestStation
     }
-    shareText += "\nㆍ5km 이내 대형병원: " + bigHospital_5km
-    shareText += "\nㆍ중학교 학업성취도: " + mSchool_edu
-    shareText += "\n\n"
+    shareText += "\nㆍ5km 이내 대형병원 : " + bigHospital_5km
+    shareText += "\nㆍ중학교 학업성취도 : " + mSchool_edu
+    shareText += "\n"
     shareURL = "https://www.aptrank.kr" + "?reg=" + selectedRegion +"&sub=" + selectedSubRegion + "&mon=" + selectedMonth
 
+    footerHtml += "<div><button type='button' class='toShare' onClick='kakaoShare(shareTitle, shareText, shareURL)'><i class='fa-solid fa-comment'></i></button></div>"
+    footerHtml += "<div><button type='button' class='goLink' onclick='openNaver(" + searchCode + ")'>네이버 부동산에서 보기</button></div>"
     footerHtml += "<div><button type='button' class='toShare' onClick='share(shareTitle, shareText, shareURL)'><i class='fa-solid fa-arrow-up-right-from-square'></i></button></div>"
     footerHtml += "<div></div>"
     footerHtml += "</div>"
@@ -1234,21 +1258,23 @@
         regionValue = regions[i][1]                
       }
       else{}
-    }
+    }    
 
+    shareTitle = "[아파트랭크]\n"
+    shareTitle += selectedMonth.substr(0, 4) + "년 " + Number(selectedMonth.substr(4, 2)).toString() + "월 우리 지역 입지 순위는?\n\n"
 
-
-    shareTitle = "[아파트랭크]\n" + selectedMonth.substr(2, 2) + "년 " + Number(selectedMonth.substr(4, 2)).toString() + "월 " + "우리 지역 입지 순위?\n\n"
-    shareText = regName
-    shareText += "\nㆍ순위: " + regRank + " (" + regValue + "점)"
-    shareText += "\nㆍ인구수: " + regPop.toLocaleString() + "명"
-    shareText += "\nㆍ공급량: " + ( Math.round(regSupplyUpDown) ).toLocaleString() + "세대 " + regSupplyLevel    
-    shareText += "\nㆍ일자리: " + regJob.toLocaleString() + "개"
+    shareText += "『" + regName + "』"
+    shareText += "\nㆍ순위 : " + regRank + " (" + regValue + "점)"    
+    shareText += "\nㆍ순위 : " + regRank + " (" + regValue + "점)"
+    shareText += "\nㆍ인구수 : " + regPop.toLocaleString() + "명"
+    shareText += "\nㆍ공급량 : " + ( Math.round(regSupplyUpDown) ).toLocaleString() + "세대 " + regSupplyLevel    
+    shareText += "\nㆍ일자리 : " + regJob.toLocaleString() + "개"
     shareText += "\n\n"
-    shareURL = "https://www.aptrank.kr" + "?reg=" + selectedRegion +"&sub=" + selectedSubRegion + "&mon=" + selectedMonth
+    shareURL = "https://www.aptrank.kr" + "?reg=" + selectedRegion +"&sub=" + selectedSubRegion + "&mon=" + selectedMonth      
 
     footerHtml += "<div class='modal-footer'>"
-    footerHtml += "<div></div>"    
+    //footerHtml += "<div></div>"
+    footerHtml += "<div><button type='button' class='toShare' onClick='kakaoShare(shareTitle, shareText, shareURL)'><i class='fa-solid fa-comment'></i></button></div>"
     footerHtml += "<div><button type='button' class='goApt' data-dismiss='modal' onClick='show_apt(selectedMonth, linked, regionValue)'>" + shortName + " 아파트 보기</button></div>"
     footerHtml += "<div><button type='button' class='toShare' onClick='share(shareTitle, shareText, shareURL)'><i class='fa-solid fa-arrow-up-right-from-square'></i></button></div>"
     footerHtml += "<div></div>"
