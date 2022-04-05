@@ -50,19 +50,24 @@ function kakaoShare(shareTitle, shareText, shareURL) {
       profileText: shareTitle,      
       items: [
         {
-          item: shareText,          
+          item: shareText,
+          itemOp: ''
         },
         {
           item: shareText,
+          itemOp: ''
         },
         {
           item: shareText,
+          itemOp: ''
         },
         {
           item: shareText,
+          itemOp: ''
         },
         {
           item: shareText,
+          itemOp: ''
         },
       ],
     },
