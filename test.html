@@ -951,7 +951,7 @@
     footerHtml += "<div class='modal-footer'>"
     //footerHtml += "<div></div>"
     shareTitle = "[아파트랭크]\n"
-    shareTitle += selectedMonth.substr(0, 4) + "년 " + Number(selectedMonth.substr(4, 2)).toString() + "월 우리 아파트 입지 순위는?\n\n"    
+    shareTitle += selectedMonth.substr(0, 4) + "년 " + Number(selectedMonth.substr(4, 2)).toString() + "월 우리 아파트 입지 순위는?\n"    
     
     shareText = "『" + aptName
     if(aptDuration >= 30){
@@ -967,7 +967,7 @@
       shareText += "\nㆍ최근실거래 : 거래 정보 없음" 
     }
     else{
-      shareText += "\nㆍ최근실거래 : \n    " + last_sales_area + ", " + Math.round(last_sales_price/100)/100 + "억, "+ last_sales_date.substr(2)
+      shareText += "\nㆍ최근실거래\n  : " + last_sales_area + ", " + Math.round(last_sales_price/100)/100 + "억, "+ last_sales_date.substr(2)
     }    
 
     if(aptDuration >= 30){
@@ -1260,7 +1260,7 @@
     shareTitle = "[아파트랭크]\n"
     shareTitle += selectedMonth.substr(0, 4) + "년 " + Number(selectedMonth.substr(4, 2)).toString() + "월 우리 지역 입지 순위는?\n\n"
 
-    shareText += "\n『" + regName + "』"
+    shareText += "『" + regName + "』"
     shareText += "\nㆍ순위 : " + regRank + " (" + regValue + "점)"    
     shareText += "\nㆍ순위 : " + regRank + " (" + regValue + "점)"
     shareText += "\nㆍ인구수 : " + regPop.toLocaleString() + "명"
