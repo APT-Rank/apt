@@ -26,11 +26,53 @@ function kakaoShare(shareTitle, shareText, shareURL) {
   console.log(shareURL)
 
   Kakao.Link.sendDefault({
-    objectType: 'text',    
-    text: shareTitle + "\n\n" + shareText,
+    objectType: 'text',
+    text: shareTitle + "\n" + shareText,
     link: {
       mobileWebUrl: shareURL,
       webUrl: shareURL,
     }
+  });
+}
+
+function kakaoShare2(shareTitle, shareText, shareURL) {
+  Kakao.Link.sendDefault({
+    objectType: 'feed',
+    content: {
+      title: '',
+      description: '',
+      imageUrl: 'https://www.aptrank.kr/thumbnail.jpg',
+      link: {
+        mobileWebUrl: shareURL        
+      },
+    },
+    itemContent: {
+      profileText: shareTitle,      
+      items: [
+        {
+          item: shareText,          
+        },
+        {
+          item: shareText,
+        },
+        {
+          item: shareText,
+        },
+        {
+          item: shareText,
+        },
+        {
+          item: shareText,
+        },
+      ],
+    },
+    buttons: [
+      {
+        title: '자세히 보기',
+        link: {
+          mobileWebUrl: shareURL,
+        },
+      }      
+    ]
   });
 }
