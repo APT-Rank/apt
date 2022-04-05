@@ -282,14 +282,32 @@
     //var lastRegion = sessionStorage.getItem('lastRegion')
     //var lastSubRegion = sessionStorage.getItem('lastSubRegion')
     //var lastMonth = sessionStorage.getItem('lastMonth')
+    
+    const url = new URL(window.location.href)
+    const urlParams = url.searchParams
+    console.log(urlParams)
 
-    if(lastRegion != null){
+    if(urlParams.has('reg')){
+      console.log(urlParams.get('reg'))
+      selectedRegion = urlParams.get('reg')
+    }
+    else if(lastRegion != null){
       selectedRegion = lastRegion
     }
-    if(lastSubRegion != null){
+
+    if(urlParams.has('sub')){
+      console.log(urlParams.get('sub'))
+      selectedSubRegion = urlParams.get('sub')
+    }
+    else if(lastSubRegion != null){
       selectedSubRegion = lastSubRegion
     }
-    if(lastMonth != null){
+
+    if(urlParams.has('mon')){
+      console.log(urlParams.get('mon'))
+      selectedMonth = urlParams.get('mon')
+    }     
+    else if(lastMonth != null){
       selectedMonth = lastMonth
     }    
 
@@ -946,7 +964,7 @@
     shareText += "\nㆍ5km 이내 대형병원: " + bigHospital_5km
     shareText += "\nㆍ중학교 학업성취도: " + mSchool_edu
     shareText += "\n\n"
-    shareURL = "https://www.aptrank.kr"
+    shareURL = "https://www.aptrank.kr" + "?reg=" + selectedRegion +"&sub=" + selectedSubRegion + "&mon=" + selectedMonth
 
     footerHtml += "<div><button type='button' class='toShare' onClick='share(shareTitle, shareText, shareURL)'><i class='fa-solid fa-arrow-up-right-from-square'></i></button></div>"
     footerHtml += "<div></div>"
