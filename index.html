@@ -1245,7 +1245,7 @@
     shareText += "\nㆍ공급량: " + ( Math.round(regSupplyUpDown) ).toLocaleString() + "세대 " + regSupplyLevel    
     shareText += "\nㆍ일자리: " + regJob.toLocaleString() + "개"
     shareText += "\n\n"
-    shareURL = "https://www.aptrank.kr"
+    shareURL = "https://www.aptrank.kr" + "?reg=" + selectedRegion +"&sub=" + selectedSubRegion + "&mon=" + selectedMonth
 
     footerHtml += "<div class='modal-footer'>"
     footerHtml += "<div></div>"    
