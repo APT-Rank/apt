@@ -268,11 +268,9 @@
   var searchState = 0;
   var popupHistory = [];
 
+  var broswerInfo = navigator.userAgent;
+
   $(document).ready(function(){
-
-    var isMobile = /Mobi/i.test(window.navigator.userAgent); // "Mobi" 가 User agent에 포함되어 있으면 모바일
-    console.log(isMobile)
-
     //document.cookie = "safeCookie1=foo; SameSite=Lax"; 
     //document.cookie = "safeCookie2=foo";  
     //document.cookie = "crossCookie=bar; SameSite=None; Secure";
@@ -988,9 +986,19 @@
     shareText += "\n"
     shareURL = "https://www.aptrank.kr" + "?reg=" + selectedRegion +"&sub=" + selectedSubRegion + "&mon=" + selectedMonth
 
-    footerHtml += "<div><button type='button' class='toShare' onClick='kakaoShare(shareTitle, shareText, shareURL)'><i class='fa-solid fa-comment'></i></button></div>"
+    if(broswerInfo.indexOf("inApp")>-1){
+      footerHtml += "<div></div>"
+    }
+    else{
+      footerHtml += "<div><button type='button' class='toShare' onClick='kakaoShare(shareTitle, shareText, shareURL)'><i class='fa-solid fa-comment'></i></button></div>"
+    }
     footerHtml += "<div><button type='button' class='goLink' onclick='openNaver(" + searchCode + ")'>네이버 부동산에서 보기</button></div>"
-    footerHtml += "<div><button type='button' class='toShare' onClick='share(shareTitle, shareText, shareURL)'><i class='fa-solid fa-arrow-up-right-from-square'></i></button></div>"
+    if(broswerInfo.indexOf("inApp")>-1){
+      footerHtml += "<div></div>"
+    }
+    else{
+      footerHtml += "<div><button type='button' class='toShare' onClick='share(shareTitle, shareText, shareURL)'><i class='fa-solid fa-arrow-up-right-from-square'></i></button></div>"
+    }    
     footerHtml += "<div></div>"
     footerHtml += "</div>"
     
@@ -1274,9 +1282,20 @@
 
     footerHtml += "<div class='modal-footer'>"
     //footerHtml += "<div></div>"
-    footerHtml += "<div><button type='button' class='toShare' onClick='kakaoShare(shareTitle, shareText, shareURL)'><i class='fa-solid fa-comment'></i></button></div>"
+
+    if(broswerInfo.indexOf("inApp")>-1){
+      footerHtml += "<div></div>"
+    }
+    else{
+      footerHtml += "<div><button type='button' class='toShare' onClick='kakaoShare(shareTitle, shareText, shareURL)'><i class='fa-solid fa-comment'></i></button></div>"
+    }
     footerHtml += "<div><button type='button' class='goApt' data-dismiss='modal' onClick='show_apt(selectedMonth, linked, regionValue)'>" + shortName + " 아파트 보기</button></div>"
-    footerHtml += "<div><button type='button' class='toShare' onClick='share(shareTitle, shareText, shareURL)'><i class='fa-solid fa-arrow-up-right-from-square'></i></button></div>"
+    if(broswerInfo.indexOf("inApp")>-1){
+      footerHtml += "<div></div>"
+    }
+    else{
+      footerHtml += "<div><button type='button' class='toShare' onClick='share(shareTitle, shareText, shareURL)'><i class='fa-solid fa-arrow-up-right-from-square'></i></button></div>"
+    }
     footerHtml += "<div></div>"
     footerHtml += "</div>"
     
