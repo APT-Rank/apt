@@ -988,25 +988,26 @@
 
     if(broswerInfo.indexOf("inApp")>-1){
       footerHtml += "<div></div>"
-    }
-    else{
-      footerHtml += "<div><button type='button' class='toShare' onClick='kakaoShare(shareTitle, shareText, shareURL)'><i class='fa-solid fa-comment'></i></button></div>"
-    }
-    footerHtml += "<div><button type='button' class='goLink' onclick='openNaver(" + searchCode + ")'>네이버 부동산에서 보기</button></div>"
-    if(broswerInfo.indexOf("inApp")>-1){
+      footerHtml += "<div><button type='button' class='goLink' onclick='openNaver(" + searchCode + ")'>네이버 부동산에서 보기</button></div>"
       footerHtml += "<div></div>"
     }
     else{
-      footerHtml += "<div><button type='button' class='toShare' onClick='share(shareTitle, shareText, shareURL)'><i class='fa-solid fa-arrow-up-right-from-square'></i></button></div>"
-    }    
-    footerHtml += "<div></div>"
+      footerHtml += "<div><button type='button' class='goLink' onclick='openNaver(" + searchCode + ")'>네이버 부동산에서 보기</button></div>"
+      footerHtml += "<div><button type='button' class='toShare' onClick='kakaoShare(shareTitle, shareText, shareURL)' style='background:#ffffff; font-size:1.5em'><i class='fa-solid fa-comment'></i></button></div>"
+      footerHtml += "<div><button type='button' class='toShare' onClick='share(shareTitle, shareText, shareURL)' style='background:#ffffff; font-size:1.5em'><i class='fa-solid fa-arrow-up-right-from-square'></i></button></div>"
+    }
     footerHtml += "</div>"
     
     $('#exampleModalLabel').html(titleHtml);
     $('#aptDetail').html(detailHtml);
     $('#footer').html(footerHtml);
 
-    $('.modal-footer').css({"grid-template-columns" : "0.2fr 1fr 0.2fr", "text-align":"center"})
+    if(broswerInfo.indexOf("inApp")>-1){
+      $('.modal-footer').css({"grid-template-columns" : "0.2fr 1fr 0.2fr", "text-align":"center"})
+    }
+    else{
+      $('.modal-footer').css({"grid-template-columns" : "1fr 0.15fr 0.15fr", "text-align":"center"})
+    }
 
     if(Number(selectedMonth) > 202203){
       rank_history = aptData.data[index]["rank_history"]    
@@ -1285,25 +1286,26 @@
 
     if(broswerInfo.indexOf("inApp")>-1){
       footerHtml += "<div></div>"
-    }
-    else{
-      footerHtml += "<div><button type='button' class='toShare' onClick='kakaoShare(shareTitle, shareText, shareURL)'><i class='fa-solid fa-comment'></i></button></div>"
-    }
-    footerHtml += "<div><button type='button' class='goApt' data-dismiss='modal' onClick='show_apt(selectedMonth, linked, regionValue)'>" + shortName + " 아파트 보기</button></div>"
-    if(broswerInfo.indexOf("inApp")>-1){
+      footerHtml += "<div><button type='button' class='goApt' data-dismiss='modal' onClick='show_apt(selectedMonth, linked, regionValue)'>" + shortName + " 아파트 보기</button></div>"
       footerHtml += "<div></div>"
     }
     else{
-      footerHtml += "<div><button type='button' class='toShare' onClick='share(shareTitle, shareText, shareURL)'><i class='fa-solid fa-arrow-up-right-from-square'></i></button></div>"
-    }
-    footerHtml += "<div></div>"
+      footerHtml += "<div><button type='button' class='goApt' data-dismiss='modal' onClick='show_apt(selectedMonth, linked, regionValue)'>" + shortName + " 아파트 보기</button></div>"
+      footerHtml += "<div><button type='button' class='toShare' onClick='kakaoShare(shareTitle, shareText, shareURL)' style='background:#ffffff; font-size:1.5em'><i class='fa-solid fa-comment'></i></button></div>"
+      footerHtml += "<div><button type='button' class='toShare' onClick='share(shareTitle, shareText, shareURL)' style='background:#ffffff; font-size:1.5em'><i class='fa-solid fa-arrow-up-right-from-square'></i></button></div>"
+    }  
     footerHtml += "</div>"
     
     $('#exampleModalLabel').html(titleHtml);
     $('#aptDetail').html(detailHtml);
     $('#footer').html(footerHtml);
 
-    $('.modal-footer').css({"grid-template-columns" : "0.2fr 1fr 0.2fr", "text-align":"center"})
+    if(broswerInfo.indexOf("inApp")>-1){
+      $('.modal-footer').css({"grid-template-columns" : "0.2fr 1fr 0.2fr", "text-align":"center"})
+    }
+    else{
+      $('.modal-footer').css({"grid-template-columns" : "1fr 0.15fr 0.15fr", "text-align":"center"})
+    }
 
     if(Number(selectedMonth) > 202203){
       rank_history = regData.data[index]["rank_history"]    
