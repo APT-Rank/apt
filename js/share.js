@@ -39,8 +39,7 @@ function kakaoShare(shareTitle, shareText, shareURL) {
       {
         title: '앱으로 이동',
         link: {
-          mobileWebUrl: 'https://play.google.com/store/apps/details?id=com.aptrank.app',
-          webUrl: 'https://play.google.com/store/apps/details?id=com.aptrank.app',
+          androidExecutionParams: 'https://play.google.com/store/apps/details?id=com.aptrank.app'          
         },
       },
     ]
