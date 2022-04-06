@@ -993,7 +993,8 @@
     }
     else{
       footerHtml += "<div><button type='button' class='goLink' onclick='openNaver(" + searchCode + ")'>네이버 부동산에서 보기</button></div>"
-      footerHtml += "<div><button type='button' class='toShare' onClick='kakaoShare(shareTitle, shareText, shareURL)' style='background:#ffffff; font-size:1.2em'><i class='fa-solid fa-comment'></i></button></div>"
+      footerHtml += "<div><button type='button' class='toShare' onClick='kakaoShare(shareTitle, shareText, shareURL)' style='background:#f8e002; font-size:1.2em; border-radius:50%; width: 2.1em; height: 2.1em'><i class='fa-solid fa-comment'></i></button></div>"
+      //footerHtml += "<div><a id='kakao-link-btn' href='javascript:kakaoShareButton(shareTitle, shareText, shareURL)'><img src='https://www.aptrank.kr/kakao_icon.jpg'/></a></div>"
       footerHtml += "<div><button type='button' class='toShare' onClick='share(shareTitle, shareText, shareURL)' style='background:#ffffff; font-size:1.2em'><i class='fa-solid fa-arrow-up-right-from-square'></i></button></div>"
     }
     footerHtml += "</div>"
