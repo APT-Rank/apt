@@ -23,10 +23,21 @@ function share(shareTitle, shareText, shareURL){
 function kakaoShare(shareTitle, shareText, shareURL) {
   Kakao.Link.sendDefault({
     objectType: 'text',
-    text: shareTitle + "\n" + shareText,
-    link: {
-      mobileWebUrl: shareURL,
-      webUrl: shareURL,
-    }
+    text: shareTitle + shareText,
+    buttons: [
+      {
+        title: '자세히 보기',
+        link: {
+          mobileWebUrl: shareURL,
+          webUrl: shareURL,
+        },
+      },
+      {
+        title: '앱으로 이동',
+        link: {
+          mobileWebUrl: 'https://play.google.com/store/apps/details?id=com.aptrank.app',
+        },
+      },
+    ]
   });
 }
