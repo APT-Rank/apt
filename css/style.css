@@ -507,6 +507,15 @@ body{
     border-radius: 5px;
     border: None;
   }
+  .kakaoShare{
+    width: 2em;    
+    height: 2em;
+    color: #3a2929;    
+    font-size: 1.2em;
+    background:#f8e002;    
+    border-radius: 50%;
+    border: None;
+  }
   .gokakao{
     width: 100%;    
     height: 2.5em;
