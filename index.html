@@ -989,7 +989,7 @@
     if(broswerInfo.indexOf("inApp")>-1){
       footerHtml += "<div></div>"
       footerHtml += "<div><button type='button' class='goLink' onclick='openNaver(" + searchCode + ")'>네이버 부동산에서 보기</button></div>"
-      footerHtml += "<div></div>"
+      footerHtml += "<div><button type='button' class='toShare' onClick='kakaoShare(shareTitle, shareText, shareURL)' style='background:#ffffff; font-size:1.2em'><i class='fa-solid fa-comment'></i></button></div>"
     }
     else{
       footerHtml += "<div><button type='button' class='goLink' onclick='openNaver(" + searchCode + ")'>네이버 부동산에서 보기</button></div>"
@@ -1272,8 +1272,7 @@
     shareTitle = "[아파트랭크]\n"
     shareTitle += selectedMonth.substr(0, 4) + "년 " + Number(selectedMonth.substr(4, 2)).toString() + "월 우리 지역 입지 순위는?\n\n"
 
-    shareText = "『" + regName + "』"
-    shareText += "\nㆍ순위 : " + regRank + " (" + regValue + "점)"    
+    shareText = "『" + regName + "』"    
     shareText += "\nㆍ순위 : " + regRank + " (" + regValue + "점)"
     shareText += "\nㆍ인구수 : " + regPop.toLocaleString() + "명"
     shareText += "\nㆍ공급량 : " + ( Math.round(regSupplyUpDown) ).toLocaleString() + "세대 " + regSupplyLevel    
@@ -1287,7 +1286,7 @@
     if(broswerInfo.indexOf("inApp")>-1){
       footerHtml += "<div></div>"
       footerHtml += "<div><button type='button' class='goApt' data-dismiss='modal' onClick='show_apt(selectedMonth, linked, regionValue)'>" + shortName + " 아파트 보기</button></div>"
-      footerHtml += "<div></div>"
+      footerHtml += "<div><button type='button' class='toShare' onClick='kakaoShare(shareTitle, shareText, shareURL)' style='background:#ffffff; font-size:1.2em'><i class='fa-solid fa-comment'></i></button></div>"
     }
     else{
       footerHtml += "<div><button type='button' class='goApt' data-dismiss='modal' onClick='show_apt(selectedMonth, linked, regionValue)'>" + shortName + " 아파트 보기</button></div>"
