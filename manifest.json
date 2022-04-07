@@ -4,6 +4,7 @@
     "description": "AI가 선정하는 대한민국 아파트 입지 랭크",
     "dir": "ltr",
     "orientation": "any",
+    "scopr": "./js",
     "icons": [{
       "src": "https://www.aptrank.kr/apt-rank-192x192.png",
       "sizes": "192x192",
