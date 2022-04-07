@@ -12,6 +12,10 @@
       "src": "https://www.aptrank.kr/apt-rank-512x512.png",
       "sizes": "512x512",
       "type": "image/png"
+    }, {
+      "src": "https://www.aptrank.kr/apt-rank-114x114.png",
+      "sizes": "114x114",
+      "type": "image/png"
     }],
     "start_url": "/test.html",
     "display": "standalone",
