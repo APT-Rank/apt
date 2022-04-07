@@ -1,11 +1,11 @@
 {
-    "name": "아파트랭크\n우리 아파트 입지는 몇 등일까?",
+    "name": "아파트랭크",
     "short_name": "아파트랭크",
     "description": "AI가 선정하는 대한민국 아파트 입지 랭크",
     "dir": "ltr",
     "start_url": "/index.html",
-    "display": "standalone", 
-    "theme_color": "#FFFFFF",
+    "display": "standalone",
+    "theme_color": "#000000",
     "background_color": "#ff3d38",
     "orientation": "any",
     "icons": [{
@@ -17,11 +17,11 @@
       "src": "https://www.aptrank.kr/apt-rank-192x192.png",
       "sizes": "192x192",
       "type": "image/png",
-      "purpose": "any maskable"
+      "purpose": "any"
     }, {
       "src": "https://www.aptrank.kr/apt-rank-114x114.png",
       "sizes": "114x114",
       "type": "image/png",
       "purpose": "any maskable"
-    }]           
+    }]
 }
