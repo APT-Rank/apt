@@ -18,6 +18,13 @@
     gtag('js', new Date());
 
     gtag('config', 'UA-218993952-1');
+
+    if ('serviceWorker' in navigator) {
+    navigator.serviceWorker.register('./js/serviceWorker.js')
+      .then((reg) => {
+        console.log('Service Worker Registered!', reg);
+      });
+    }
   </script>
 
   <title>아파트 랭크 - 우리 아파트 입지는 몇 등일까?</title>
@@ -31,6 +38,17 @@
   <meta name="author" content="아파트랭크">
   <meta name="robots" content="index,follow">
   <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no, minimal-ui">
+
+  <!-- 주소창 등의 웹 브라우저 UI를 표시하지 않기 -->
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <!-- 상태 바의 스타일을 지정 -->
+  <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+  <!-- 홈 화면에서 표시되는 앱 이름을 지정 -->
+  <meta name="apple-mobile-web-app-title" content="Timer">
+  <!-- 홈 화면에서 표시되는 앱 아이콘을 지정 -->
+  <link rel="apple-touch-icon" href="https://www.aptrank.kr/apt-rank-152x152.png">
+  <!-- 웹 앱 매니페스트를 읽어 들이기 -->
+  <link rel="manifest" href="manifest.json">
 
   <link rel="canonical" href="https://www.aptrank.kr/">
   <link href="https://fonts.googleapis.com/css?family=Roboto:100,300,400,500,700,900" rel="stylesheet">
@@ -268,8 +286,9 @@
   var searchState = 0;
   var popupHistory = [];
 
-  $(document).ready(function(){
+  var broswerInfo = navigator.userAgent;
 
+  $(document).ready(function(){
     //document.cookie = "safeCookie1=foo; SameSite=Lax"; 
     //document.cookie = "safeCookie2=foo";  
     //document.cookie = "crossCookie=bar; SameSite=None; Secure";
@@ -277,7 +296,7 @@
     Kakao.init(kakaoKey);
 
     // SDK 초기화 여부를 판단합니다.
-    console.log(Kakao.isInitialized());
+    //console.log(Kakao.isInitialized());
 
     $('div.modal').modal("hide");   
     var option = ""
@@ -953,7 +972,7 @@
     shareTitle = "[아파트랭크]\n"
     shareTitle += selectedMonth.substr(0, 4) + "년 " + Number(selectedMonth.substr(4, 2)).toString() + "월 우리 아파트 입지 순위는?\n"    
     
-    shareText = "『" + aptName
+    shareText = "\n『" + aptName
     if(aptDuration >= 30){
       shareText += "(" + aptDuration + "년차, 재건축 대상)』"
     }else{
@@ -967,7 +986,7 @@
       shareText += "\nㆍ최근실거래 : 거래 정보 없음" 
     }
     else{
-      shareText += "\nㆍ최근실거래\n  : " + last_sales_area + ", " + Math.round(last_sales_price/100)/100 + "억, "+ last_sales_date.substr(2)
+      shareText += "\nㆍ최근실거래\n    : " + last_sales_area + ", " + Math.round(last_sales_price/100)/100 + "억, "+ last_sales_date.substr(2)
     }    
 
     if(aptDuration >= 30){
@@ -985,17 +1004,28 @@
     shareText += "\n"
     shareURL = "https://www.aptrank.kr" + "?reg=" + selectedRegion +"&sub=" + selectedSubRegion + "&mon=" + selectedMonth
 
-    footerHtml += "<div><button type='button' class='toShare' onClick='kakaoShare(shareTitle, shareText, shareURL)'><i class='fa-solid fa-comment'></i></button></div>"
-    footerHtml += "<div><button type='button' class='goLink' onclick='openNaver(" + searchCode + ")'>네이버 부동산에서 보기</button></div>"
-    footerHtml += "<div><button type='button' class='toShare' onClick='share(shareTitle, shareText, shareURL)'><i class='fa-solid fa-arrow-up-right-from-square'></i></button></div>"
-    footerHtml += "<div></div>"
+    if(broswerInfo.indexOf("inApp")>-1){
+      footerHtml += "<div></div>"
+      footerHtml += "<div><button type='button' class='goLink' onclick='openNaver(" + searchCode + ")'>네이버 부동산에서 보기</button></div>"
+      footerHtml += "<div><button type='button' class='kakaoShare' onClick='kakaoShare(shareTitle, shareText, shareURL)'><i class='fa-solid fa-comment'></i></button></div>"
+    }
+    else{
+      footerHtml += "<div><button type='button' class='goLink' onclick='openNaver(" + searchCode + ")'>네이버 부동산에서 보기</button></div>"
+      footerHtml += "<div><button type='button' class='kakaoShare' onClick='kakaoShare(shareTitle, shareText, shareURL)'><i class='fa-solid fa-comment'></i></button></div>"      
+      footerHtml += "<div><button type='button' class='toShare' onClick='share(shareTitle, shareText, shareURL)' style='background:#ffffff; font-size:1.2em'><i class='fa-solid fa-arrow-up-right-from-square'></i></button></div>"
+    }
     footerHtml += "</div>"
     
     $('#exampleModalLabel').html(titleHtml);
     $('#aptDetail').html(detailHtml);
     $('#footer').html(footerHtml);
 
-    $('.modal-footer').css({"grid-template-columns" : "0.2fr 1fr 0.2fr", "text-align":"center"})
+    if(broswerInfo.indexOf("inApp")>-1){
+      $('.modal-footer').css({"grid-template-columns" : "0.2fr 1fr 0.2fr", "text-align":"center"})
+    }
+    else{
+      $('.modal-footer').css({"grid-template-columns" : "1fr 0.15fr 0.15fr", "text-align":"center"})
+    }
 
     if(Number(selectedMonth) > 202203){
       rank_history = aptData.data[index]["rank_history"]    
@@ -1260,8 +1290,7 @@
     shareTitle = "[아파트랭크]\n"
     shareTitle += selectedMonth.substr(0, 4) + "년 " + Number(selectedMonth.substr(4, 2)).toString() + "월 우리 지역 입지 순위는?\n\n"
 
-    shareText += "『" + regName + "』"
-    shareText += "\nㆍ순위 : " + regRank + " (" + regValue + "점)"    
+    shareText = "『" + regName + "』"    
     shareText += "\nㆍ순위 : " + regRank + " (" + regValue + "점)"
     shareText += "\nㆍ인구수 : " + regPop.toLocaleString() + "명"
     shareText += "\nㆍ공급량 : " + ( Math.round(regSupplyUpDown) ).toLocaleString() + "세대 " + regSupplyLevel    
@@ -1271,17 +1300,29 @@
 
     footerHtml += "<div class='modal-footer'>"
     //footerHtml += "<div></div>"
-    footerHtml += "<div><button type='button' class='toShare' onClick='kakaoShare(shareTitle, shareText, shareURL)'><i class='fa-solid fa-comment'></i></button></div>"
-    footerHtml += "<div><button type='button' class='goApt' data-dismiss='modal' onClick='show_apt(selectedMonth, linked, regionValue)'>" + shortName + " 아파트 보기</button></div>"
-    footerHtml += "<div><button type='button' class='toShare' onClick='share(shareTitle, shareText, shareURL)'><i class='fa-solid fa-arrow-up-right-from-square'></i></button></div>"
-    footerHtml += "<div></div>"
+
+    if(broswerInfo.indexOf("inApp")>-1){
+      footerHtml += "<div></div>"
+      footerHtml += "<div><button type='button' class='goApt' data-dismiss='modal' onClick='show_apt(selectedMonth, linked, regionValue)'>" + shortName + " 아파트 보기</button></div>"
+      footerHtml += "<div><button type='button' class='kakaoShare' onClick='kakaoShare(shareTitle, shareText, shareURL)'><i class='fa-solid fa-comment'></i></button></div>"
+    }
+    else{
+      footerHtml += "<div><button type='button' class='goApt' data-dismiss='modal' onClick='show_apt(selectedMonth, linked, regionValue)'>" + shortName + " 아파트 보기</button></div>"
+      footerHtml += "<div><button type='button' class='kakaoShare' onClick='kakaoShare(shareTitle, shareText, shareURL)'><i class='fa-solid fa-comment'></i></button></div>"
+      footerHtml += "<div><button type='button' class='toShare' onClick='share(shareTitle, shareText, shareURL)' style='background:#ffffff; font-size:1.2em'><i class='fa-solid fa-arrow-up-right-from-square'></i></button></div>"
+    }  
     footerHtml += "</div>"
     
     $('#exampleModalLabel').html(titleHtml);
     $('#aptDetail').html(detailHtml);
     $('#footer').html(footerHtml);
 
-    $('.modal-footer').css({"grid-template-columns" : "0.2fr 1fr 0.2fr", "text-align":"center"})
+    if(broswerInfo.indexOf("inApp")>-1){
+      $('.modal-footer').css({"grid-template-columns" : "0.2fr 1fr 0.2fr", "text-align":"center"})
+    }
+    else{
+      $('.modal-footer').css({"grid-template-columns" : "1fr 0.15fr 0.15fr", "text-align":"center"})
+    }
 
     if(Number(selectedMonth) > 202203){
       rank_history = regData.data[index]["rank_history"]    
