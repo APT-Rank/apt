@@ -12,16 +12,16 @@
       "src": "https://www.aptrank.kr/apt-rank-192x192.png",
       "sizes": "192x192",
       "type": "image/png",
-      "purpose": "maskable"
+      "purpose": "any maskable"
     }, {
       "src": "https://www.aptrank.kr/apt-rank-512x512.png",
       "sizes": "512x512",
       "type": "image/png",
-      "purpose": "maskable"
+      "purpose": "any maskable"
     }, {
       "src": "https://www.aptrank.kr/apt-rank-114x114.png",
       "sizes": "114x114",
       "type": "image/png",
-      "purpose": "maskable"
+      "purpose": "any maskable"
     }]           
 }
