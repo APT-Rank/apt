@@ -9,13 +9,13 @@
     "background_color": "#ff3d38",
     "orientation": "any",
     "icons": [{
-      "src": "https://www.aptrank.kr/apt-rank-192x192.png",
-      "sizes": "192x192",
-      "type": "image/png",
-      "purpose": "any maskable"
-    }, {
       "src": "https://www.aptrank.kr/apt-rank-512x512.png",
       "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },{
+      "src": "https://www.aptrank.kr/apt-rank-192x192.png",
+      "sizes": "192x192",
       "type": "image/png",
       "purpose": "any maskable"
     }, {
