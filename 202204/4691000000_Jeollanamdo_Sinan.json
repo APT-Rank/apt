@@ -10,7 +10,7 @@
                 "type":"string"
             },
             {
-                "name":"투자타입",
+                "name":"매매타입",
                 "type":"string"
             },
             {

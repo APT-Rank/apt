@@ -45,3 +45,30 @@ function kakaoShare(shareTitle, shareText, shareURL) {
     ]
   });
 }
+
+function kakaoShareButton(shareTitle, shareText, shareURL) {
+  Kakao.Link.createDefaultButton({
+    container: '#kakao-link-btn',
+    objectType: 'text',
+    text: shareTitle + shareText,
+    link: {
+      mobileWebUrl: shareURL,
+      webUrl: shareURL,
+    },
+    buttons: [
+      {
+        title: '자세히 보기',
+        link: {
+          mobileWebUrl: shareURL,
+          webUrl: shareURL,
+        },
+      },
+      {
+        title: '앱으로 이동',
+        link: {
+          androidExecutionParams: 'https://play.google.com/store/apps/details?id=com.aptrank.app'          
+        },
+      },
+    ]
+  });
+}

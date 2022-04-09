@@ -65,6 +65,7 @@ function showSearchBar(){
             var aptName = sortData.data[i]["아파트명"]
             var apt_m = sortData.data[i]["전용면적(m2)"]
             var apt_p = sortData.data[i]["전용면적(평)"]
+            var apt_type = sortData.data[i]["매매타입"]
             var aptAddress = sortData.data[i]["도로명주소"]
             var aptValue = Math.round( sortData.data[i]["가치 총점"] * 100 ) / 100
             var house_num = sortData.data[i]["세대수"]
@@ -86,7 +87,7 @@ function showSearchBar(){
             if(checkPrice(last_sales[1])){
               var sortName = ""
               if (sortSelection == "sortDefault"){ sortName = "균형잡힌" }
-              if (sortSelection == "sortLiving"){ sortName = "거주우선" }
+              if (sortSelection == "sortLiving"){ sortName = "주거우선" }
               if (sortSelection == "sortTrans"){ sortName = "교통우선" }
               if (sortSelection == "sortInfra"){ sortName = "인프라우선" }
               if (sortSelection == "sortEdu"){ sortName = "교육우선" }
@@ -139,21 +140,40 @@ function showSearchBar(){
                 }  
               
               addon_html += "<div class='content'>";
-              //addon_html += "<div class='apt_name'>" + aptName + " " + apt_p + "(" + apt_m + ")</div>";          
+              //addon_html += "<div class='apt_name'>" + aptName + " " + apt_p + "(" + apt_m + ")</div>"
 
-              addon_html += "<div class='apt_name'>" + aptName;          
-              addon_html += "<span class='aptYear'> (" + sortData.data[i]["준공년차"] + "년차)</span></div>";
+              addon_html += "<div class='apt_name'>" + aptName;
 
-              if(last_sales_date == "1800-01-01"){
-                addon_html += "<div class='apt_info'><span class='aptNum'>" + house_num + "세대</span> / <span class='aptPrice'>거래 정보 없음</span></div>";
+              if(Number(selectedMonth) > 202203){
+                if(apt_type == "아파트"){
+                  addon_html += "<span class='aptYear'> (" + aptData.data[i]["준공년차"] + "년차)</span></div>";
+                }
+                if(apt_type == "재건축"){
+                  addon_html += "<span class='aptYear'> (" + aptData.data[i]["준공년차"] + "년차, 재건축)</span></div>";
+                }
+                if(apt_type == "분양권"){
+                  addon_html += "<span class='aptYear'> (분양권, " + aptData.data[i]["준공년월"].substr(0, 7) + " 예정)</span></div>";
+                }      
               }
               else{
-                addon_html += "<div class='apt_info'><span class='aptNum'>"+ house_num + "세대</span> / <span class='aptPrice'>" + Math.round(last_sales_price/100)/100 + "억" + "</span>, " + last_sales_area + ", " + last_sales_date_short + "</div>";
-              }            
+                addon_html += "<span class='aptYear'> (" + aptData.data[i]["준공년차"] + "년차)</span></div>";
+              }
+              
+              if(last_sales_date == "1800-01-01"){
+                addon_html += "<div class='apt_info'>" + house_num.toLocaleString() + "세대 / 거래 정보 없음</div>";
+              }
+              else{
+                addon_html += "<div class='apt_info'>"+ house_num.toLocaleString() + "세대 / " + Math.round(last_sales_price/100)/100 + "억, " + last_sales_area + ", " + last_sales_date_short + "</div>";
+              }
+              if(Number(selectedMonth) > 202203 && apt_type == "분양권"){                
+                addon_html += "<div class='apt_address'>" + aptData.data[i]["법정동주소"] + "</div>";
+              }
+              else{
+                addon_html += "<div class='apt_address'>" + aptAddress + "</div>";
+              }
 
-              addon_html += "<div class='apt_address'>" + aptAddress + "</div>";
               addon_html += "</div>";
-              addon_html += "<div class='value_score'>" + ( Math.round( aptValue * 100 ) / 100 ).toFixed(2) + "점"
+              addon_html += "<div class='value_score'>" + ( Math.round( aptValue * 100 ) / 100 ).toFixed(2) + "점</div>"
               addon_html += "</div>"
 
               $('#dataList').append(addon_html);
