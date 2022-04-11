@@ -714,7 +714,7 @@
     var harmful_3km = aptData.data[index]["3km이내혐오시설수"] + "개"
     var pSchool_edu = aptData.data[index]["초등학교학업성취도"]
     var mSchool_edu = aptData.data[index]["중학교학업성취도"] + "%"
-    var academy_edu = aptData.data[index]["학원가"] + "개" + "(총 " + ptData.data[index]["학원수"] + "개 학원)"
+    var academy_edu = aptData.data[index]["학원가"] + "개" + "(총 " + aptData.data[index]["학원수"] + "개 학원)"
     var livingScore = ( Math.round( aptData.data[index]["주거총점"] * 100 ) / 100 ).toFixed(2)
     var transportScore = ( Math.round( aptData.data[index]["교통총점"] * 100 ) / 100 ).toFixed(2)
     var infraScore = ( Math.round( aptData.data[index]["인프라총점"] * 100 ) / 100 ).toFixed(2)
