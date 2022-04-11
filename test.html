@@ -949,8 +949,13 @@
     detailHtml += "<div class='popTable'>"
     detailHtml += "<div class='popSubTable'><div class='popContent'>" + "초등학교 학생증감점수" + "</div>" + "<div class='popResult'>" + ( Math.round( pSchool_edu * 100 ) / 100 ).toFixed(2) + "점</div></div>";
     detailHtml += "<div class='popSubTable'><div class='popContent'>" + "중학교 학업성취도" + "</div>" + "<div class='popResult'>" + mSchool_edu + "</div></div>";
-    detailHtml += "<div class='popSubTable'><div class='popContent'>" + "800m 이내 학원가" + "</div>" + "<div class='popResult'>" + academy_edu + "</div></div>";
-    detailHtml += "<div class='comment2'>교육 정보는 교육통계서비스 정보를 기반으로 산정되며, 학원가 정보는 호갱노노의 정보를 사용합니다.</div>"
+    if(Number(selectedMonth) > 202204){
+      detailHtml += "<div class='popSubTable'><div class='popContent'>" + "800m 이내 학원가" + "</div>" + "<div class='popResult'>" + academy_edu + "</div></div>";
+      detailHtml += "<div class='comment2'>교육 정보는 교육통계서비스 정보를 기반으로 산정되며, 학원가 정보는 호갱노노의 정보를 사용합니다.</div>"
+    }
+    else{
+      detailHtml += "<div class='comment2'>교육 정보는 교육통계서비스 정보를 기반으로 산정됩니다.</div>"
+    }
     detailHtml += "</div></div></div></div>"
     avgEduScore = ( Math.round( eduSum/itemNum * 100 ) / 100 ).toFixed(2)
 
