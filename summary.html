@@ -467,7 +467,7 @@
       //shareText += ", " + ( Math.round( list[i]["value_score"] * 100 ) / 100 ).toFixed(2) + "점\n"      
     }
 
-    shareText += "\n\n자세한 내용은 '아파트랭크'를 통해 확인해 주세요."
+    shareText += "\n자세한 내용은 '아파트랭크'를 통해 확인해 주세요."
     shareText += "\n\n"
     shareURL = "https://www.aptrank.kr" + "?reg=" + regionName +"&sub=" + selectedSubRegion + "&mon=" + selectedMonth
 
@@ -488,7 +488,7 @@
 
 function allShare(){
   shareTitle = "[아파트랭크]\n"
-  shareTitle += selectedMonth.substr(0, 4) + "년 " + Number(selectedMonth.substr(4, 2)).toString() + "월,\n" + balanced[0]["region"] + " 요약\n"    
+  shareTitle += selectedMonth.substr(0, 4) + "년 " + Number(selectedMonth.substr(4, 2)).toString() + "월,\n" + balanced[0]["region"] + " 요약\n\n"    
 
     shareText = "『입지 좋은 아파트』\n"
     for(var i = 0 ; i < 3 ; i++){
@@ -506,7 +506,7 @@ function allShare(){
       //shareText += ", " + ( Math.round( balanced[i]["value_score"] * 100 ) / 100 ).toFixed(2) + "점\n"
     }
 
-    shareText += "\n\n"
+    shareText += "\n"
     shareText += "『주거 환경 좋은 아파트』\n"
     for(var i = 0 ; i < 3 ; i++){
       shareText += (i+1) + "위) " + living[i]["name"]
@@ -524,7 +524,7 @@ function allShare(){
     }
 
     if(transport.length != 0){
-      shareText += "\n\n"
+      shareText += "\n"
       shareText += "『교통 좋은 아파트』\n"
       for(var i = 0 ; i < 3 ; i++){
         shareText += (i+1) + "위) " + transport[i]["name"]
@@ -542,7 +542,7 @@ function allShare(){
       }
     }
 
-    shareText += "\n\n"
+    shareText += "\n"
     shareText += "『인프라 좋은 아파트』\n"
     for(var i = 0 ; i < 3 ; i++){
       shareText += (i+1) + "위) " + infra[i]["name"]
@@ -559,7 +559,7 @@ function allShare(){
       //shareText += ", " + ( Math.round( infra[i]["value_score"] * 100 ) / 100 ).toFixed(2) + "점\n"
     }
 
-    shareText += "\n\n"
+    shareText += "\n"
     shareText += "교육 좋은 아파트』\n"
     for(var i = 0 ; i < 3 ; i++){
       shareText += (i+1) + "위) " + education[i]["name"]
@@ -576,7 +576,7 @@ function allShare(){
       //shareText += ", " + ( Math.round( education[i]["value_score"] * 100 ) / 100 ).toFixed(2) + "점\n"
     }
 
-    shareText += "\n\n자세한 내용은 '아파트랭크'를 통해 확인해 주세요."
+    shareText += "\n자세한 내용은 '아파트랭크'를 통해 확인해 주세요."
     shareText += "\n\n"
 
     shareURL = "https://www.aptrank.kr" + "?reg=" + regionName +"&sub=" + selectedSubRegion + "&mon=" + selectedMonth
