@@ -469,7 +469,7 @@
 
     shareText += "\n점수가 왜 이렇게 나왔는지 궁긍하면 '아파트랭크'를 확인해 주세요."
     shareText += "\n\n"
-    shareURL = "https://www.aptrank.kr" + "?reg=" + regionName +"&sub=" + selectedSubRegion + "&mon=" + selectedMonth
+    shareURL = "https://www.aptrank.kr" + "?reg=" + list[0]['region_code'] +"&sub=" + selectedSubRegion + "&mon=" + selectedMonth
 
     if (navigator.share) {
       navigator.share({
@@ -579,7 +579,7 @@ function allShare(){
     shareText += "\n점수가 왜 이렇게 나왔는지 궁긍하면 '아파트랭크'를 확인해 주세요."
     shareText += "\n\n"
 
-    shareURL = "https://www.aptrank.kr" + "?reg=" + regionName +"&sub=" + selectedSubRegion + "&mon=" + selectedMonth
+    shareURL = "https://www.aptrank.kr" + "?reg=" + balanced[0]["region_code"] +"&sub=" + selectedSubRegion + "&mon=" + selectedMonth
 
     if (navigator.share) {
       navigator.share({
