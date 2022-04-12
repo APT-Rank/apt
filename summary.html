@@ -92,7 +92,7 @@
         <div></div>
         <div id="title" onClick='scrollUp()'>아파트랭크 - 요약</div>
         <div></div>
-        <div><button type='button' id='balance' class='toShare' onClick='allShare()' style='background:rgba(0, 0, 0, 0)'><i class='fa-solid fa-arrow-up-right-from-square'></i></button></div>
+        <div><button type='button' id='balance' class='toShare' onClick='allShare()' style='background:rgba(0, 0, 0, 0); color:white'><i class='fa-solid fa-arrow-up-right-from-square'></i></button></div>
 
       </div>
 
@@ -420,8 +420,10 @@
         $('#dataList').append(returnList(balanced));
         $('#dataList').append(titleLiving);
         $('#dataList').append(returnList(living));
-        $('#dataList').append(titleTransport);
-        $('#dataList').append(returnList(transport));
+        if(transport.length != 0){
+          $('#dataList').append(titleTransport);
+          $('#dataList').append(returnList(transport));
+        }
         $('#dataList').append(titleInfra);
         $('#dataList').append(returnList(infra));
         $('#dataList').append(titleEdu);
@@ -432,7 +434,7 @@
 
   function summaryShare(list){
     shareTitle = "[아파트랭크]\n"
-    shareTitle += list[i]["region"] + " " + selectedMonth.substr(0, 4) + "년 " + Number(selectedMonth.substr(4, 2)).toString() + "월\n\n"
+    shareTitle += list[0]["region"] + ", " + selectedMonth.substr(0, 4) + "년 " + Number(selectedMonth.substr(4, 2)).toString() + "월\n\n"
 
     if(list[0]["sort"] == 'balanced'){
       shareText = "『전체적으로 좋은 아파트』\n"
@@ -485,18 +487,18 @@
 
 function allShare(){
   shareTitle = "[아파트랭크]\n"
-    shareTitle += list[i]["region"] + " " + selectedMonth.substr(0, 4) + "년 " + Number(selectedMonth.substr(4, 2)).toString() + "월\n\n"
+    shareTitle += balanced[0]["region"] + ", " + selectedMonth.substr(0, 4) + "년 " + Number(selectedMonth.substr(4, 2)).toString() + "월\n\n"
 
     shareText = "『전체적으로 좋은 아파트』\n"
     for(var i = 0 ; i < 3 ; i++){
       shareText += (i+0) + "위) " + balanced[i]["name"]
-      if(list[i]["apt_type"] == "아파트"){
+      if(balanced[i]["apt_type"] == "아파트"){
         shareText += "(" + balanced[i]["apt_year"] + "년차)"
       }
-      if(list[i]["apt_type"] == "재건축"){
+      if(balanced[i]["apt_type"] == "재건축"){
         shareText += "(" + balanced[i]["apt_year"] + "년차, 재건축)";
       }
-      if(list[i]["apt_type"] == "분양권"){
+      if(balanced[i]["apt_type"] == "분양권"){
         shareText += "(분양권)";
       }
       shareText += ", " + ( Math.round( balanced[i]["value_score"] * 100 ) / 100 ).toFixed(2) + "점"
@@ -506,45 +508,47 @@ function allShare(){
     shareText += "『주거 환경 좋은 아파트』\n"
     for(var i = 0 ; i < 3 ; i++){
       shareText += (i+0) + "위) " + living[i]["name"]
-      if(list[i]["apt_type"] == "아파트"){
+      if(living[i]["apt_type"] == "아파트"){
         shareText += "(" + living[i]["apt_year"] + "년차)"
       }
-      if(list[i]["apt_type"] == "재건축"){
+      if(living[i]["apt_type"] == "재건축"){
         shareText += "(" + living[i]["apt_year"] + "년차, 재건축)";
       }
-      if(list[i]["apt_type"] == "분양권"){
+      if(living[i]["apt_type"] == "분양권"){
         shareText += "(분양권)";
       }
       shareText += ", " + ( Math.round( living[i]["value_score"] * 100 ) / 100 ).toFixed(2) + "점"
     }
 
-    shareText += "\n\n"
-    shareText += "『교통 좋은 아파트』\n"
-    for(var i = 0 ; i < 3 ; i++){
-      shareText += (i+0) + "위) " + transport[i]["name"]
-      if(list[i]["apt_type"] == "아파트"){
-        shareText += "(" + transport[i]["apt_year"] + "년차)"
+    if(transport.length != 0){
+      shareText += "\n\n"
+      shareText += "『교통 좋은 아파트』\n"
+      for(var i = 0 ; i < 3 ; i++){
+        shareText += (i+0) + "위) " + transport[i]["name"]
+        if(transport[i]["apt_type"] == "아파트"){
+          shareText += "(" + transport[i]["apt_year"] + "년차)"
+        }
+        if(transport[i]["apt_type"] == "재건축"){
+          shareText += "(" + transport[i]["apt_year"] + "년차, 재건축)";
+        }
+        if(transport[i]["apt_type"] == "분양권"){
+          shareText += "(분양권)";
+        }
+        shareText += ", " + ( Math.round( transport[i]["value_score"] * 100 ) / 100 ).toFixed(2) + "점"
       }
-      if(list[i]["apt_type"] == "재건축"){
-        shareText += "(" + transport[i]["apt_year"] + "년차, 재건축)";
-      }
-      if(list[i]["apt_type"] == "분양권"){
-        shareText += "(분양권)";
-      }
-      shareText += ", " + ( Math.round( transport[i]["value_score"] * 100 ) / 100 ).toFixed(2) + "점"
     }
 
     shareText += "\n\n"
     shareText += "『인프라 좋은 아파트』\n"
     for(var i = 0 ; i < 3 ; i++){
       shareText += (i+0) + "위) " + infra[i]["name"]
-      if(list[i]["apt_type"] == "아파트"){
+      if(infra[i]["apt_type"] == "아파트"){
         shareText += "(" + infra[i]["apt_year"] + "년차)"
       }
-      if(list[i]["apt_type"] == "재건축"){
+      if(infra[i]["apt_type"] == "재건축"){
         shareText += "(" + infra[i]["apt_year"] + "년차, 재건축)";
       }
-      if(list[i]["apt_type"] == "분양권"){
+      if(infra[i]["apt_type"] == "분양권"){
         shareText += "(분양권)";
       }
       shareText += ", " + ( Math.round( infra[i]["value_score"] * 100 ) / 100 ).toFixed(2) + "점"
@@ -554,13 +558,13 @@ function allShare(){
     shareText += "교육 좋은 아파트』\n"
     for(var i = 0 ; i < 3 ; i++){
       shareText += (i+0) + "위) " + education[i]["name"]
-      if(list[i]["apt_type"] == "아파트"){
+      if(education[i]["apt_type"] == "아파트"){
         shareText += "(" + education[i]["apt_year"] + "년차)"
       }
-      if(list[i]["apt_type"] == "재건축"){
+      if(education[i]["apt_type"] == "재건축"){
         shareText += "(" + education[i]["apt_year"] + "년차, 재건축)";
       }
-      if(list[i]["apt_type"] == "분양권"){
+      if(education[i]["apt_type"] == "분양권"){
         shareText += "(분양권)";
       }
       shareText += ", " + ( Math.round( education[i]["value_score"] * 100 ) / 100 ).toFixed(2) + "점"
@@ -568,7 +572,7 @@ function allShare(){
 
     shareText += "\n\n자세한 내용은 '아파트랭크'를 통해 확인해 주세요."
     shareText += "\n\n"
-    
+
     shareURL = "https://www.aptrank.kr" + "?reg=" + regionName +"&sub=" + selectedSubRegion + "&mon=" + selectedMonth
 
     if (navigator.share) {
