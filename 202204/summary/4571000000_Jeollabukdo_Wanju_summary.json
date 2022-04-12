@@ -30,6 +30,10 @@
                 "type":"number"
             },
             {
+                "name":"region",
+                "type":"string"
+            },
+            {
                 "name":"region_code",
                 "type":"string"
             },
@@ -52,6 +56,7 @@
             "apt_type":"아파트",
             "apt_year":8.0,
             "value_score":41.4625,
+            "region":"전라북도 완주군",
             "region_code":"Jeollabukdo",
             "sub_region_code":"4571000000_Jeollabukdo_Wanju"
         },
@@ -63,6 +68,7 @@
             "apt_type":"아파트",
             "apt_year":9.0,
             "value_score":39.9665,
+            "region":"전라북도 완주군",
             "region_code":"Jeollabukdo",
             "sub_region_code":"4571000000_Jeollabukdo_Wanju"
         },
@@ -74,6 +80,7 @@
             "apt_type":"아파트",
             "apt_year":7.0,
             "value_score":39.807,
+            "region":"전라북도 완주군",
             "region_code":"Jeollabukdo",
             "sub_region_code":"4571000000_Jeollabukdo_Wanju"
         },
@@ -85,6 +92,7 @@
             "apt_type":"분양권",
             "apt_year":0.0,
             "value_score":39.2575,
+            "region":"전라북도 완주군",
             "region_code":"Jeollabukdo",
             "sub_region_code":"4571000000_Jeollabukdo_Wanju"
         },
@@ -96,6 +104,7 @@
             "apt_type":"분양권",
             "apt_year":1.0,
             "value_score":38.881,
+            "region":"전라북도 완주군",
             "region_code":"Jeollabukdo",
             "sub_region_code":"4571000000_Jeollabukdo_Wanju"
         },
@@ -107,6 +116,7 @@
             "apt_type":"아파트",
             "apt_year":18.0,
             "value_score":38.6105,
+            "region":"전라북도 완주군",
             "region_code":"Jeollabukdo",
             "sub_region_code":"4571000000_Jeollabukdo_Wanju"
         },
@@ -118,6 +128,7 @@
             "apt_type":"아파트",
             "apt_year":10.0,
             "value_score":38.5665,
+            "region":"전라북도 완주군",
             "region_code":"Jeollabukdo",
             "sub_region_code":"4571000000_Jeollabukdo_Wanju"
         },
@@ -129,6 +140,7 @@
             "apt_type":"아파트",
             "apt_year":22.0,
             "value_score":37.889,
+            "region":"전라북도 완주군",
             "region_code":"Jeollabukdo",
             "sub_region_code":"4571000000_Jeollabukdo_Wanju"
         },
@@ -140,6 +152,7 @@
             "apt_type":"분양권",
             "apt_year":1.0,
             "value_score":37.306,
+            "region":"전라북도 완주군",
             "region_code":"Jeollabukdo",
             "sub_region_code":"4571000000_Jeollabukdo_Wanju"
         },
@@ -151,6 +164,7 @@
             "apt_type":"분양권",
             "apt_year":0.0,
             "value_score":36.8625,
+            "region":"전라북도 완주군",
             "region_code":"Jeollabukdo",
             "sub_region_code":"4571000000_Jeollabukdo_Wanju"
         },
@@ -162,6 +176,7 @@
             "apt_type":"분양권",
             "apt_year":0.0,
             "value_score":51.2575,
+            "region":"전라북도 완주군",
             "region_code":"Jeollabukdo",
             "sub_region_code":"4571000000_Jeollabukdo_Wanju"
         },
@@ -173,6 +188,7 @@
             "apt_type":"분양권",
             "apt_year":1.0,
             "value_score":49.756,
+            "region":"전라북도 완주군",
             "region_code":"Jeollabukdo",
             "sub_region_code":"4571000000_Jeollabukdo_Wanju"
         },
@@ -184,6 +200,7 @@
             "apt_type":"아파트",
             "apt_year":8.0,
             "value_score":48.3625,
+            "region":"전라북도 완주군",
             "region_code":"Jeollabukdo",
             "sub_region_code":"4571000000_Jeollabukdo_Wanju"
         },
@@ -195,6 +212,7 @@
             "apt_type":"아파트",
             "apt_year":9.0,
             "value_score":47.7665,
+            "region":"전라북도 완주군",
             "region_code":"Jeollabukdo",
             "sub_region_code":"4571000000_Jeollabukdo_Wanju"
         },
@@ -206,6 +224,7 @@
             "apt_type":"분양권",
             "apt_year":1.0,
             "value_score":47.506,
+            "region":"전라북도 완주군",
             "region_code":"Jeollabukdo",
             "sub_region_code":"4571000000_Jeollabukdo_Wanju"
         },
@@ -217,6 +236,7 @@
             "apt_type":"분양권",
             "apt_year":0.0,
             "value_score":46.6125,
+            "region":"전라북도 완주군",
             "region_code":"Jeollabukdo",
             "sub_region_code":"4571000000_Jeollabukdo_Wanju"
         },
@@ -228,6 +248,7 @@
             "apt_type":"아파트",
             "apt_year":7.0,
             "value_score":46.257,
+            "region":"전라북도 완주군",
             "region_code":"Jeollabukdo",
             "sub_region_code":"4571000000_Jeollabukdo_Wanju"
         },
@@ -239,6 +260,7 @@
             "apt_type":"아파트",
             "apt_year":18.0,
             "value_score":46.1105,
+            "region":"전라북도 완주군",
             "region_code":"Jeollabukdo",
             "sub_region_code":"4571000000_Jeollabukdo_Wanju"
         },
@@ -250,6 +272,7 @@
             "apt_type":"아파트",
             "apt_year":10.0,
             "value_score":45.7665,
+            "region":"전라북도 완주군",
             "region_code":"Jeollabukdo",
             "sub_region_code":"4571000000_Jeollabukdo_Wanju"
         },
@@ -261,6 +284,7 @@
             "apt_type":"분양권",
             "apt_year":-1.0,
             "value_score":44.974,
+            "region":"전라북도 완주군",
             "region_code":"Jeollabukdo",
             "sub_region_code":"4571000000_Jeollabukdo_Wanju"
         },
@@ -272,6 +296,7 @@
             "apt_type":"아파트",
             "apt_year":8.0,
             "value_score":35.3526315789,
+            "region":"전라북도 완주군",
             "region_code":"Jeollabukdo",
             "sub_region_code":"4571000000_Jeollabukdo_Wanju"
         },
@@ -283,6 +308,7 @@
             "apt_type":"아파트",
             "apt_year":22.0,
             "value_score":33.9018947368,
+            "region":"전라북도 완주군",
             "region_code":"Jeollabukdo",
             "sub_region_code":"4571000000_Jeollabukdo_Wanju"
         },
@@ -294,6 +320,7 @@
             "apt_type":"아파트",
             "apt_year":9.0,
             "value_score":33.3366315789,
+            "region":"전라북도 완주군",
             "region_code":"Jeollabukdo",
             "sub_region_code":"4571000000_Jeollabukdo_Wanju"
         },
@@ -305,6 +332,7 @@
             "apt_type":"아파트",
             "apt_year":7.0,
             "value_score":33.3246315789,
+            "region":"전라북도 완주군",
             "region_code":"Jeollabukdo",
             "sub_region_code":"4571000000_Jeollabukdo_Wanju"
         },
@@ -316,6 +344,7 @@
             "apt_type":"아파트",
             "apt_year":10.0,
             "value_score":32.7050526316,
+            "region":"전라북도 완주군",
             "region_code":"Jeollabukdo",
             "sub_region_code":"4571000000_Jeollabukdo_Wanju"
         },
@@ -327,6 +356,7 @@
             "apt_type":"아파트",
             "apt_year":18.0,
             "value_score":32.1922105263,
+            "region":"전라북도 완주군",
             "region_code":"Jeollabukdo",
             "sub_region_code":"4571000000_Jeollabukdo_Wanju"
         },
@@ -338,6 +368,7 @@
             "apt_type":"아파트",
             "apt_year":17.0,
             "value_score":31.2448421053,
+            "region":"전라북도 완주군",
             "region_code":"Jeollabukdo",
             "sub_region_code":"4571000000_Jeollabukdo_Wanju"
         },
@@ -349,6 +380,7 @@
             "apt_type":"아파트",
             "apt_year":19.0,
             "value_score":31.0105263158,
+            "region":"전라북도 완주군",
             "region_code":"Jeollabukdo",
             "sub_region_code":"4571000000_Jeollabukdo_Wanju"
         },
@@ -360,6 +392,7 @@
             "apt_type":"아파트",
             "apt_year":22.0,
             "value_score":30.9052631579,
+            "region":"전라북도 완주군",
             "region_code":"Jeollabukdo",
             "sub_region_code":"4571000000_Jeollabukdo_Wanju"
         },
@@ -371,6 +404,7 @@
             "apt_type":"아파트",
             "apt_year":14.0,
             "value_score":30.2981052632,
+            "region":"전라북도 완주군",
             "region_code":"Jeollabukdo",
             "sub_region_code":"4571000000_Jeollabukdo_Wanju"
         },
@@ -382,6 +416,7 @@
             "apt_type":"아파트",
             "apt_year":9.0,
             "value_score":47.533,
+            "region":"전라북도 완주군",
             "region_code":"Jeollabukdo",
             "sub_region_code":"4571000000_Jeollabukdo_Wanju"
         },
@@ -393,6 +428,7 @@
             "apt_type":"아파트",
             "apt_year":8.0,
             "value_score":47.225,
+            "region":"전라북도 완주군",
             "region_code":"Jeollabukdo",
             "sub_region_code":"4571000000_Jeollabukdo_Wanju"
         },
@@ -404,6 +440,7 @@
             "apt_type":"아파트",
             "apt_year":22.0,
             "value_score":46.678,
+            "region":"전라북도 완주군",
             "region_code":"Jeollabukdo",
             "sub_region_code":"4571000000_Jeollabukdo_Wanju"
         },
@@ -415,6 +452,7 @@
             "apt_type":"아파트",
             "apt_year":10.0,
             "value_score":46.533,
+            "region":"전라북도 완주군",
             "region_code":"Jeollabukdo",
             "sub_region_code":"4571000000_Jeollabukdo_Wanju"
         },
@@ -426,6 +464,7 @@
             "apt_type":"아파트",
             "apt_year":18.0,
             "value_score":45.721,
+            "region":"전라북도 완주군",
             "region_code":"Jeollabukdo",
             "sub_region_code":"4571000000_Jeollabukdo_Wanju"
         },
@@ -437,6 +476,7 @@
             "apt_type":"분양권",
             "apt_year":0.0,
             "value_score":44.475,
+            "region":"전라북도 완주군",
             "region_code":"Jeollabukdo",
             "sub_region_code":"4571000000_Jeollabukdo_Wanju"
         },
@@ -448,6 +488,7 @@
             "apt_type":"아파트",
             "apt_year":14.0,
             "value_score":44.472,
+            "region":"전라북도 완주군",
             "region_code":"Jeollabukdo",
             "sub_region_code":"4571000000_Jeollabukdo_Wanju"
         },
@@ -459,6 +500,7 @@
             "apt_type":"아파트",
             "apt_year":11.0,
             "value_score":44.471,
+            "region":"전라북도 완주군",
             "region_code":"Jeollabukdo",
             "sub_region_code":"4571000000_Jeollabukdo_Wanju"
         },
@@ -470,6 +512,7 @@
             "apt_type":"아파트",
             "apt_year":17.0,
             "value_score":44.221,
+            "region":"전라북도 완주군",
             "region_code":"Jeollabukdo",
             "sub_region_code":"4571000000_Jeollabukdo_Wanju"
         },
@@ -481,6 +524,7 @@
             "apt_type":"아파트",
             "apt_year":11.0,
             "value_score":43.972,
+            "region":"전라북도 완주군",
             "region_code":"Jeollabukdo",
             "sub_region_code":"4571000000_Jeollabukdo_Wanju"
         }

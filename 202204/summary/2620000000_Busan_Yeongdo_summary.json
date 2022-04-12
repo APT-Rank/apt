@@ -30,6 +30,10 @@
                 "type":"number"
             },
             {
+                "name":"region",
+                "type":"string"
+            },
+            {
                 "name":"region_code",
                 "type":"string"
             },
@@ -52,6 +56,7 @@
             "apt_type":"아파트",
             "apt_year":4,
             "value_score":61.9576,
+            "region":"부산시 영도구",
             "region_code":"Busan",
             "sub_region_code":"2620000000_Busan_Yeongdo"
         },
@@ -63,6 +68,7 @@
             "apt_type":"아파트",
             "apt_year":3,
             "value_score":61.7326,
+            "region":"부산시 영도구",
             "region_code":"Busan",
             "sub_region_code":"2620000000_Busan_Yeongdo"
         },
@@ -74,6 +80,7 @@
             "apt_type":"아파트",
             "apt_year":2,
             "value_score":61.4518,
+            "region":"부산시 영도구",
             "region_code":"Busan",
             "sub_region_code":"2620000000_Busan_Yeongdo"
         },
@@ -85,6 +92,7 @@
             "apt_type":"아파트",
             "apt_year":31,
             "value_score":60.2202,
+            "region":"부산시 영도구",
             "region_code":"Busan",
             "sub_region_code":"2620000000_Busan_Yeongdo"
         },
@@ -96,6 +104,7 @@
             "apt_type":"아파트",
             "apt_year":19,
             "value_score":57.8326,
+            "region":"부산시 영도구",
             "region_code":"Busan",
             "sub_region_code":"2620000000_Busan_Yeongdo"
         },
@@ -107,6 +116,7 @@
             "apt_type":"아파트",
             "apt_year":19,
             "value_score":56.6892,
+            "region":"부산시 영도구",
             "region_code":"Busan",
             "sub_region_code":"2620000000_Busan_Yeongdo"
         },
@@ -118,6 +128,7 @@
             "apt_type":"아파트",
             "apt_year":5,
             "value_score":56.1202,
+            "region":"부산시 영도구",
             "region_code":"Busan",
             "sub_region_code":"2620000000_Busan_Yeongdo"
         },
@@ -129,6 +140,7 @@
             "apt_type":"아파트",
             "apt_year":22,
             "value_score":55.3702,
+            "region":"부산시 영도구",
             "region_code":"Busan",
             "sub_region_code":"2620000000_Busan_Yeongdo"
         },
@@ -140,6 +152,7 @@
             "apt_type":"아파트",
             "apt_year":21,
             "value_score":54.4702,
+            "region":"부산시 영도구",
             "region_code":"Busan",
             "sub_region_code":"2620000000_Busan_Yeongdo"
         },
@@ -151,6 +164,7 @@
             "apt_type":"재건축",
             "apt_year":43,
             "value_score":54.0826,
+            "region":"부산시 영도구",
             "region_code":"Busan",
             "sub_region_code":"2620000000_Busan_Yeongdo"
         },
@@ -162,6 +176,7 @@
             "apt_type":"아파트",
             "apt_year":2,
             "value_score":67.3012,
+            "region":"부산시 영도구",
             "region_code":"Busan",
             "sub_region_code":"2620000000_Busan_Yeongdo"
         },
@@ -173,6 +188,7 @@
             "apt_type":"아파트",
             "apt_year":4,
             "value_score":58.6384,
+            "region":"부산시 영도구",
             "region_code":"Busan",
             "sub_region_code":"2620000000_Busan_Yeongdo"
         },
@@ -184,6 +200,7 @@
             "apt_type":"아파트",
             "apt_year":3,
             "value_score":56.9884,
+            "region":"부산시 영도구",
             "region_code":"Busan",
             "sub_region_code":"2620000000_Busan_Yeongdo"
         },
@@ -195,6 +212,7 @@
             "apt_type":"아파트",
             "apt_year":31,
             "value_score":55.1468,
+            "region":"부산시 영도구",
             "region_code":"Busan",
             "sub_region_code":"2620000000_Busan_Yeongdo"
         },
@@ -206,6 +224,7 @@
             "apt_type":"분양권",
             "apt_year":0,
             "value_score":54.6452,
+            "region":"부산시 영도구",
             "region_code":"Busan",
             "sub_region_code":"2620000000_Busan_Yeongdo"
         },
@@ -217,6 +236,7 @@
             "apt_type":"아파트",
             "apt_year":14,
             "value_score":53.894,
+            "region":"부산시 영도구",
             "region_code":"Busan",
             "sub_region_code":"2620000000_Busan_Yeongdo"
         },
@@ -228,6 +248,7 @@
             "apt_type":"아파트",
             "apt_year":19,
             "value_score":53.7928,
+            "region":"부산시 영도구",
             "region_code":"Busan",
             "sub_region_code":"2620000000_Busan_Yeongdo"
         },
@@ -239,6 +260,7 @@
             "apt_type":"분양권",
             "apt_year":1,
             "value_score":53.678,
+            "region":"부산시 영도구",
             "region_code":"Busan",
             "sub_region_code":"2620000000_Busan_Yeongdo"
         },
@@ -250,6 +272,7 @@
             "apt_type":"아파트",
             "apt_year":23,
             "value_score":52.9588,
+            "region":"부산시 영도구",
             "region_code":"Busan",
             "sub_region_code":"2620000000_Busan_Yeongdo"
         },
@@ -261,6 +284,7 @@
             "apt_type":"아파트",
             "apt_year":19,
             "value_score":50.4732,
+            "region":"부산시 영도구",
             "region_code":"Busan",
             "sub_region_code":"2620000000_Busan_Yeongdo"
         },
@@ -272,6 +296,7 @@
             "apt_type":"아파트",
             "apt_year":3,
             "value_score":67.6788,
+            "region":"부산시 영도구",
             "region_code":"Busan",
             "sub_region_code":"2620000000_Busan_Yeongdo"
         },
@@ -283,6 +308,7 @@
             "apt_type":"아파트",
             "apt_year":4,
             "value_score":65.3538,
+            "region":"부산시 영도구",
             "region_code":"Busan",
             "sub_region_code":"2620000000_Busan_Yeongdo"
         },
@@ -294,6 +320,7 @@
             "apt_type":"아파트",
             "apt_year":19,
             "value_score":65.2788,
+            "region":"부산시 영도구",
             "region_code":"Busan",
             "sub_region_code":"2620000000_Busan_Yeongdo"
         },
@@ -305,6 +332,7 @@
             "apt_type":"아파트",
             "apt_year":31,
             "value_score":64.3101,
+            "region":"부산시 영도구",
             "region_code":"Busan",
             "sub_region_code":"2620000000_Busan_Yeongdo"
         },
@@ -316,6 +344,7 @@
             "apt_type":"아파트",
             "apt_year":5,
             "value_score":64.3101,
+            "region":"부산시 영도구",
             "region_code":"Busan",
             "sub_region_code":"2620000000_Busan_Yeongdo"
         },
@@ -327,6 +356,7 @@
             "apt_type":"아파트",
             "apt_year":22,
             "value_score":63.8601,
+            "region":"부산시 영도구",
             "region_code":"Busan",
             "sub_region_code":"2620000000_Busan_Yeongdo"
         },
@@ -338,6 +368,7 @@
             "apt_type":"아파트",
             "apt_year":21,
             "value_score":63.2601,
+            "region":"부산시 영도구",
             "region_code":"Busan",
             "sub_region_code":"2620000000_Busan_Yeongdo"
         },
@@ -349,6 +380,7 @@
             "apt_type":"재건축",
             "apt_year":43,
             "value_score":63.0288,
+            "region":"부산시 영도구",
             "region_code":"Busan",
             "sub_region_code":"2620000000_Busan_Yeongdo"
         },
@@ -360,6 +392,7 @@
             "apt_type":"아파트",
             "apt_year":32,
             "value_score":53.9101,
+            "region":"부산시 영도구",
             "region_code":"Busan",
             "sub_region_code":"2620000000_Busan_Yeongdo"
         },
@@ -371,6 +404,7 @@
             "apt_type":"아파트",
             "apt_year":2,
             "value_score":51.9509,
+            "region":"부산시 영도구",
             "region_code":"Busan",
             "sub_region_code":"2620000000_Busan_Yeongdo"
         },
@@ -382,6 +416,7 @@
             "apt_type":"아파트",
             "apt_year":3,
             "value_score":66.923,
+            "region":"부산시 영도구",
             "region_code":"Busan",
             "sub_region_code":"2620000000_Busan_Yeongdo"
         },
@@ -393,6 +428,7 @@
             "apt_type":"아파트",
             "apt_year":4,
             "value_score":66.473,
+            "region":"부산시 영도구",
             "region_code":"Busan",
             "sub_region_code":"2620000000_Busan_Yeongdo"
         },
@@ -404,6 +440,7 @@
             "apt_type":"아파트",
             "apt_year":31,
             "value_score":65.7835,
+            "region":"부산시 영도구",
             "region_code":"Busan",
             "sub_region_code":"2620000000_Busan_Yeongdo"
         },
@@ -415,6 +452,7 @@
             "apt_type":"아파트",
             "apt_year":5,
             "value_score":64.6835,
+            "region":"부산시 영도구",
             "region_code":"Busan",
             "sub_region_code":"2620000000_Busan_Yeongdo"
         },
@@ -426,6 +464,7 @@
             "apt_type":"아파트",
             "apt_year":22,
             "value_score":64.3835,
+            "region":"부산시 영도구",
             "region_code":"Busan",
             "sub_region_code":"2620000000_Busan_Yeongdo"
         },
@@ -437,6 +476,7 @@
             "apt_type":"아파트",
             "apt_year":19,
             "value_score":64.223,
+            "region":"부산시 영도구",
             "region_code":"Busan",
             "sub_region_code":"2620000000_Busan_Yeongdo"
         },
@@ -448,6 +488,7 @@
             "apt_type":"아파트",
             "apt_year":21,
             "value_score":62.8835,
+            "region":"부산시 영도구",
             "region_code":"Busan",
             "sub_region_code":"2620000000_Busan_Yeongdo"
         },
@@ -459,6 +500,7 @@
             "apt_type":"재건축",
             "apt_year":43,
             "value_score":62.723,
+            "region":"부산시 영도구",
             "region_code":"Busan",
             "sub_region_code":"2620000000_Busan_Yeongdo"
         },
@@ -470,6 +512,7 @@
             "apt_type":"아파트",
             "apt_year":19,
             "value_score":60.991,
+            "region":"부산시 영도구",
             "region_code":"Busan",
             "sub_region_code":"2620000000_Busan_Yeongdo"
         },
@@ -481,6 +524,7 @@
             "apt_type":"아파트",
             "apt_year":7,
             "value_score":60.023,
+            "region":"부산시 영도구",
             "region_code":"Busan",
             "sub_region_code":"2620000000_Busan_Yeongdo"
         },
@@ -492,6 +536,7 @@
             "apt_type":"아파트",
             "apt_year":2,
             "value_score":61.003,
+            "region":"부산시 영도구",
             "region_code":"Busan",
             "sub_region_code":"2620000000_Busan_Yeongdo"
         },
@@ -503,6 +548,7 @@
             "apt_type":"아파트",
             "apt_year":4,
             "value_score":59.146,
+            "region":"부산시 영도구",
             "region_code":"Busan",
             "sub_region_code":"2620000000_Busan_Yeongdo"
         },
@@ -514,6 +560,7 @@
             "apt_type":"아파트",
             "apt_year":3,
             "value_score":58.846,
+            "region":"부산시 영도구",
             "region_code":"Busan",
             "sub_region_code":"2620000000_Busan_Yeongdo"
         },
@@ -525,6 +572,7 @@
             "apt_type":"아파트",
             "apt_year":31,
             "value_score":57.767,
+            "region":"부산시 영도구",
             "region_code":"Busan",
             "sub_region_code":"2620000000_Busan_Yeongdo"
         },
@@ -536,6 +584,7 @@
             "apt_type":"아파트",
             "apt_year":19,
             "value_score":56.782,
+            "region":"부산시 영도구",
             "region_code":"Busan",
             "sub_region_code":"2620000000_Busan_Yeongdo"
         },
@@ -547,6 +596,7 @@
             "apt_type":"아파트",
             "apt_year":19,
             "value_score":55.846,
+            "region":"부산시 영도구",
             "region_code":"Busan",
             "sub_region_code":"2620000000_Busan_Yeongdo"
         },
@@ -558,6 +608,7 @@
             "apt_type":"아파트",
             "apt_year":23,
             "value_score":54.472,
+            "region":"부산시 영도구",
             "region_code":"Busan",
             "sub_region_code":"2620000000_Busan_Yeongdo"
         },
@@ -569,6 +620,7 @@
             "apt_type":"아파트",
             "apt_year":5,
             "value_score":54.367,
+            "region":"부산시 영도구",
             "region_code":"Busan",
             "sub_region_code":"2620000000_Busan_Yeongdo"
         },
@@ -580,6 +632,7 @@
             "apt_type":"아파트",
             "apt_year":14,
             "value_score":54.185,
+            "region":"부산시 영도구",
             "region_code":"Busan",
             "sub_region_code":"2620000000_Busan_Yeongdo"
         },
@@ -591,6 +644,7 @@
             "apt_type":"아파트",
             "apt_year":22,
             "value_score":53.767,
+            "region":"부산시 영도구",
             "region_code":"Busan",
             "sub_region_code":"2620000000_Busan_Yeongdo"
         }

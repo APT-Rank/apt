@@ -30,6 +30,10 @@
                 "type":"number"
             },
             {
+                "name":"region",
+                "type":"string"
+            },
+            {
                 "name":"region_code",
                 "type":"string"
             },
@@ -52,6 +56,7 @@
             "apt_type":"아파트",
             "apt_year":5.0,
             "value_score":56.482,
+            "region":"경상북도 포항시 남구",
             "region_code":"Gyeongsangbukdo",
             "sub_region_code":"4711100000_Gyeongsangbukdo_Pohang_Nam"
         },
@@ -63,6 +68,7 @@
             "apt_type":"아파트",
             "apt_year":23.0,
             "value_score":56.0535,
+            "region":"경상북도 포항시 남구",
             "region_code":"Gyeongsangbukdo",
             "sub_region_code":"4711100000_Gyeongsangbukdo_Pohang_Nam"
         },
@@ -74,6 +80,7 @@
             "apt_type":"아파트",
             "apt_year":25.0,
             "value_score":53.178,
+            "region":"경상북도 포항시 남구",
             "region_code":"Gyeongsangbukdo",
             "sub_region_code":"4711100000_Gyeongsangbukdo_Pohang_Nam"
         },
@@ -85,6 +92,7 @@
             "apt_type":"아파트",
             "apt_year":28.0,
             "value_score":53.003,
+            "region":"경상북도 포항시 남구",
             "region_code":"Gyeongsangbukdo",
             "sub_region_code":"4711100000_Gyeongsangbukdo_Pohang_Nam"
         },
@@ -96,6 +104,7 @@
             "apt_type":"아파트",
             "apt_year":22.0,
             "value_score":51.603,
+            "region":"경상북도 포항시 남구",
             "region_code":"Gyeongsangbukdo",
             "sub_region_code":"4711100000_Gyeongsangbukdo_Pohang_Nam"
         },
@@ -107,6 +116,7 @@
             "apt_type":"아파트",
             "apt_year":17.0,
             "value_score":51.509,
+            "region":"경상북도 포항시 남구",
             "region_code":"Gyeongsangbukdo",
             "sub_region_code":"4711100000_Gyeongsangbukdo_Pohang_Nam"
         },
@@ -118,6 +128,7 @@
             "apt_type":"아파트",
             "apt_year":16.0,
             "value_score":51.245,
+            "region":"경상북도 포항시 남구",
             "region_code":"Gyeongsangbukdo",
             "sub_region_code":"4711100000_Gyeongsangbukdo_Pohang_Nam"
         },
@@ -129,6 +140,7 @@
             "apt_type":"아파트",
             "apt_year":15.0,
             "value_score":49.9745,
+            "region":"경상북도 포항시 남구",
             "region_code":"Gyeongsangbukdo",
             "sub_region_code":"4711100000_Gyeongsangbukdo_Pohang_Nam"
         },
@@ -140,6 +152,7 @@
             "apt_type":"아파트",
             "apt_year":20.0,
             "value_score":49.5785,
+            "region":"경상북도 포항시 남구",
             "region_code":"Gyeongsangbukdo",
             "sub_region_code":"4711100000_Gyeongsangbukdo_Pohang_Nam"
         },
@@ -151,6 +164,7 @@
             "apt_type":"아파트",
             "apt_year":8.0,
             "value_score":48.542,
+            "region":"경상북도 포항시 남구",
             "region_code":"Gyeongsangbukdo",
             "sub_region_code":"4711100000_Gyeongsangbukdo_Pohang_Nam"
         },
@@ -162,6 +176,7 @@
             "apt_type":"아파트",
             "apt_year":5.0,
             "value_score":63.232,
+            "region":"경상북도 포항시 남구",
             "region_code":"Gyeongsangbukdo",
             "sub_region_code":"4711100000_Gyeongsangbukdo_Pohang_Nam"
         },
@@ -173,6 +188,7 @@
             "apt_type":"아파트",
             "apt_year":23.0,
             "value_score":59.7285,
+            "region":"경상북도 포항시 남구",
             "region_code":"Gyeongsangbukdo",
             "sub_region_code":"4711100000_Gyeongsangbukdo_Pohang_Nam"
         },
@@ -184,6 +200,7 @@
             "apt_type":"아파트",
             "apt_year":25.0,
             "value_score":57.903,
+            "region":"경상북도 포항시 남구",
             "region_code":"Gyeongsangbukdo",
             "sub_region_code":"4711100000_Gyeongsangbukdo_Pohang_Nam"
         },
@@ -195,6 +212,7 @@
             "apt_type":"아파트",
             "apt_year":16.0,
             "value_score":57.62,
+            "region":"경상북도 포항시 남구",
             "region_code":"Gyeongsangbukdo",
             "sub_region_code":"4711100000_Gyeongsangbukdo_Pohang_Nam"
         },
@@ -206,6 +224,7 @@
             "apt_type":"아파트",
             "apt_year":28.0,
             "value_score":55.403,
+            "region":"경상북도 포항시 남구",
             "region_code":"Gyeongsangbukdo",
             "sub_region_code":"4711100000_Gyeongsangbukdo_Pohang_Nam"
         },
@@ -217,6 +236,7 @@
             "apt_type":"분양권",
             "apt_year":0.0,
             "value_score":55.14,
+            "region":"경상북도 포항시 남구",
             "region_code":"Gyeongsangbukdo",
             "sub_region_code":"4711100000_Gyeongsangbukdo_Pohang_Nam"
         },
@@ -228,6 +248,7 @@
             "apt_type":"분양권",
             "apt_year":-1.0,
             "value_score":54.421,
+            "region":"경상북도 포항시 남구",
             "region_code":"Gyeongsangbukdo",
             "sub_region_code":"4711100000_Gyeongsangbukdo_Pohang_Nam"
         },
@@ -239,6 +260,7 @@
             "apt_type":"아파트",
             "apt_year":22.0,
             "value_score":53.403,
+            "region":"경상북도 포항시 남구",
             "region_code":"Gyeongsangbukdo",
             "sub_region_code":"4711100000_Gyeongsangbukdo_Pohang_Nam"
         },
@@ -250,6 +272,7 @@
             "apt_type":"아파트",
             "apt_year":13.0,
             "value_score":53.4025,
+            "region":"경상북도 포항시 남구",
             "region_code":"Gyeongsangbukdo",
             "sub_region_code":"4711100000_Gyeongsangbukdo_Pohang_Nam"
         },
@@ -261,6 +284,7 @@
             "apt_type":"아파트",
             "apt_year":17.0,
             "value_score":52.634,
+            "region":"경상북도 포항시 남구",
             "region_code":"Gyeongsangbukdo",
             "sub_region_code":"4711100000_Gyeongsangbukdo_Pohang_Nam"
         },
@@ -272,6 +296,7 @@
             "apt_type":"아파트",
             "apt_year":44.0,
             "value_score":56.7141052632,
+            "region":"경상북도 포항시 남구",
             "region_code":"Gyeongsangbukdo",
             "sub_region_code":"4711100000_Gyeongsangbukdo_Pohang_Nam"
         },
@@ -283,6 +308,7 @@
             "apt_type":"아파트",
             "apt_year":15.0,
             "value_score":54.4130526316,
+            "region":"경상북도 포항시 남구",
             "region_code":"Gyeongsangbukdo",
             "sub_region_code":"4711100000_Gyeongsangbukdo_Pohang_Nam"
         },
@@ -294,6 +320,7 @@
             "apt_type":"아파트",
             "apt_year":35.0,
             "value_score":54.2814736842,
+            "region":"경상북도 포항시 남구",
             "region_code":"Gyeongsangbukdo",
             "sub_region_code":"4711100000_Gyeongsangbukdo_Pohang_Nam"
         },
@@ -305,6 +332,7 @@
             "apt_type":"아파트",
             "apt_year":23.0,
             "value_score":52.5254736842,
+            "region":"경상북도 포항시 남구",
             "region_code":"Gyeongsangbukdo",
             "sub_region_code":"4711100000_Gyeongsangbukdo_Pohang_Nam"
         },
@@ -316,6 +344,7 @@
             "apt_type":"아파트",
             "apt_year":38.0,
             "value_score":51.5972631579,
+            "region":"경상북도 포항시 남구",
             "region_code":"Gyeongsangbukdo",
             "sub_region_code":"4711100000_Gyeongsangbukdo_Pohang_Nam"
         },
@@ -327,6 +356,7 @@
             "apt_type":"아파트",
             "apt_year":28.0,
             "value_score":51.088,
+            "region":"경상북도 포항시 남구",
             "region_code":"Gyeongsangbukdo",
             "sub_region_code":"4711100000_Gyeongsangbukdo_Pohang_Nam"
         },
@@ -338,6 +368,7 @@
             "apt_type":"아파트",
             "apt_year":22.0,
             "value_score":50.4564210526,
+            "region":"경상북도 포항시 남구",
             "region_code":"Gyeongsangbukdo",
             "sub_region_code":"4711100000_Gyeongsangbukdo_Pohang_Nam"
         },
@@ -349,6 +380,7 @@
             "apt_type":"아파트",
             "apt_year":17.0,
             "value_score":49.7745263158,
+            "region":"경상북도 포항시 남구",
             "region_code":"Gyeongsangbukdo",
             "sub_region_code":"4711100000_Gyeongsangbukdo_Pohang_Nam"
         },
@@ -360,6 +392,7 @@
             "apt_type":"아파트",
             "apt_year":20.0,
             "value_score":49.6044210526,
+            "region":"경상북도 포항시 남구",
             "region_code":"Gyeongsangbukdo",
             "sub_region_code":"4711100000_Gyeongsangbukdo_Pohang_Nam"
         },
@@ -371,6 +404,7 @@
             "apt_type":"아파트",
             "apt_year":24.0,
             "value_score":48.8938947368,
+            "region":"경상북도 포항시 남구",
             "region_code":"Gyeongsangbukdo",
             "sub_region_code":"4711100000_Gyeongsangbukdo_Pohang_Nam"
         },
@@ -382,6 +416,7 @@
             "apt_type":"아파트",
             "apt_year":23.0,
             "value_score":58.082,
+            "region":"경상북도 포항시 남구",
             "region_code":"Gyeongsangbukdo",
             "sub_region_code":"4711100000_Gyeongsangbukdo_Pohang_Nam"
         },
@@ -393,6 +428,7 @@
             "apt_type":"아파트",
             "apt_year":25.0,
             "value_score":56.181,
+            "region":"경상북도 포항시 남구",
             "region_code":"Gyeongsangbukdo",
             "sub_region_code":"4711100000_Gyeongsangbukdo_Pohang_Nam"
         },
@@ -404,6 +440,7 @@
             "apt_type":"아파트",
             "apt_year":28.0,
             "value_score":55.806,
+            "region":"경상북도 포항시 남구",
             "region_code":"Gyeongsangbukdo",
             "sub_region_code":"4711100000_Gyeongsangbukdo_Pohang_Nam"
         },
@@ -415,6 +452,7 @@
             "apt_type":"아파트",
             "apt_year":22.0,
             "value_score":54.806,
+            "region":"경상북도 포항시 남구",
             "region_code":"Gyeongsangbukdo",
             "sub_region_code":"4711100000_Gyeongsangbukdo_Pohang_Nam"
         },
@@ -426,6 +464,7 @@
             "apt_type":"아파트",
             "apt_year":5.0,
             "value_score":54.714,
+            "region":"경상북도 포항시 남구",
             "region_code":"Gyeongsangbukdo",
             "sub_region_code":"4711100000_Gyeongsangbukdo_Pohang_Nam"
         },
@@ -437,6 +476,7 @@
             "apt_type":"아파트",
             "apt_year":16.0,
             "value_score":54.365,
+            "region":"경상북도 포항시 남구",
             "region_code":"Gyeongsangbukdo",
             "sub_region_code":"4711100000_Gyeongsangbukdo_Pohang_Nam"
         },
@@ -448,6 +488,7 @@
             "apt_type":"아파트",
             "apt_year":20.0,
             "value_score":53.457,
+            "region":"경상북도 포항시 남구",
             "region_code":"Gyeongsangbukdo",
             "sub_region_code":"4711100000_Gyeongsangbukdo_Pohang_Nam"
         },
@@ -459,6 +500,7 @@
             "apt_type":"아파트",
             "apt_year":24.0,
             "value_score":52.806,
+            "region":"경상북도 포항시 남구",
             "region_code":"Gyeongsangbukdo",
             "sub_region_code":"4711100000_Gyeongsangbukdo_Pohang_Nam"
         },
@@ -470,6 +512,7 @@
             "apt_type":"아파트",
             "apt_year":13.0,
             "value_score":52.43,
+            "region":"경상북도 포항시 남구",
             "region_code":"Gyeongsangbukdo",
             "sub_region_code":"4711100000_Gyeongsangbukdo_Pohang_Nam"
         },
@@ -481,6 +524,7 @@
             "apt_type":"아파트",
             "apt_year":24.0,
             "value_score":52.332,
+            "region":"경상북도 포항시 남구",
             "region_code":"Gyeongsangbukdo",
             "sub_region_code":"4711100000_Gyeongsangbukdo_Pohang_Nam"
         }

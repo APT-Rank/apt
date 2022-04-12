@@ -30,6 +30,10 @@
                 "type":"number"
             },
             {
+                "name":"region",
+                "type":"string"
+            },
+            {
                 "name":"region_code",
                 "type":"string"
             },
@@ -52,6 +56,7 @@
             "apt_type":"분양권",
             "apt_year":1.0,
             "value_score":70.673,
+            "region":"충청남도 천안시 동남구",
             "region_code":"Chungcheongnamdo",
             "sub_region_code":"4413100000_Chungcheongnamdo_Cheonan_Dongnam"
         },
@@ -63,6 +68,7 @@
             "apt_type":"아파트",
             "apt_year":5.0,
             "value_score":70.443,
+            "region":"충청남도 천안시 동남구",
             "region_code":"Chungcheongnamdo",
             "sub_region_code":"4413100000_Chungcheongnamdo_Cheonan_Dongnam"
         },
@@ -74,6 +80,7 @@
             "apt_type":"분양권",
             "apt_year":0.0,
             "value_score":67.504,
+            "region":"충청남도 천안시 동남구",
             "region_code":"Chungcheongnamdo",
             "sub_region_code":"4413100000_Chungcheongnamdo_Cheonan_Dongnam"
         },
@@ -85,6 +92,7 @@
             "apt_type":"아파트",
             "apt_year":2.0,
             "value_score":64.8135,
+            "region":"충청남도 천안시 동남구",
             "region_code":"Chungcheongnamdo",
             "sub_region_code":"4413100000_Chungcheongnamdo_Cheonan_Dongnam"
         },
@@ -96,6 +104,7 @@
             "apt_type":"아파트",
             "apt_year":26.0,
             "value_score":63.1605,
+            "region":"충청남도 천안시 동남구",
             "region_code":"Chungcheongnamdo",
             "sub_region_code":"4413100000_Chungcheongnamdo_Cheonan_Dongnam"
         },
@@ -107,6 +116,7 @@
             "apt_type":"아파트",
             "apt_year":13.0,
             "value_score":63.085,
+            "region":"충청남도 천안시 동남구",
             "region_code":"Chungcheongnamdo",
             "sub_region_code":"4413100000_Chungcheongnamdo_Cheonan_Dongnam"
         },
@@ -118,6 +128,7 @@
             "apt_type":"아파트",
             "apt_year":6.0,
             "value_score":62.818,
+            "region":"충청남도 천안시 동남구",
             "region_code":"Chungcheongnamdo",
             "sub_region_code":"4413100000_Chungcheongnamdo_Cheonan_Dongnam"
         },
@@ -129,6 +140,7 @@
             "apt_type":"아파트",
             "apt_year":14.0,
             "value_score":62.7675,
+            "region":"충청남도 천안시 동남구",
             "region_code":"Chungcheongnamdo",
             "sub_region_code":"4413100000_Chungcheongnamdo_Cheonan_Dongnam"
         },
@@ -140,6 +152,7 @@
             "apt_type":"아파트",
             "apt_year":25.0,
             "value_score":62.76,
+            "region":"충청남도 천안시 동남구",
             "region_code":"Chungcheongnamdo",
             "sub_region_code":"4413100000_Chungcheongnamdo_Cheonan_Dongnam"
         },
@@ -151,6 +164,7 @@
             "apt_type":"분양권",
             "apt_year":0.0,
             "value_score":62.4925,
+            "region":"충청남도 천안시 동남구",
             "region_code":"Chungcheongnamdo",
             "sub_region_code":"4413100000_Chungcheongnamdo_Cheonan_Dongnam"
         },
@@ -162,6 +176,7 @@
             "apt_type":"분양권",
             "apt_year":1.0,
             "value_score":73.163,
+            "region":"충청남도 천안시 동남구",
             "region_code":"Chungcheongnamdo",
             "sub_region_code":"4413100000_Chungcheongnamdo_Cheonan_Dongnam"
         },
@@ -173,6 +188,7 @@
             "apt_type":"아파트",
             "apt_year":5.0,
             "value_score":70.518,
+            "region":"충청남도 천안시 동남구",
             "region_code":"Chungcheongnamdo",
             "sub_region_code":"4413100000_Chungcheongnamdo_Cheonan_Dongnam"
         },
@@ -184,6 +200,7 @@
             "apt_type":"분양권",
             "apt_year":0.0,
             "value_score":69.604,
+            "region":"충청남도 천안시 동남구",
             "region_code":"Chungcheongnamdo",
             "sub_region_code":"4413100000_Chungcheongnamdo_Cheonan_Dongnam"
         },
@@ -195,6 +212,7 @@
             "apt_type":"아파트",
             "apt_year":13.0,
             "value_score":66.01,
+            "region":"충청남도 천안시 동남구",
             "region_code":"Chungcheongnamdo",
             "sub_region_code":"4413100000_Chungcheongnamdo_Cheonan_Dongnam"
         },
@@ -206,6 +224,7 @@
             "apt_type":"아파트",
             "apt_year":6.0,
             "value_score":64.768,
+            "region":"충청남도 천안시 동남구",
             "region_code":"Chungcheongnamdo",
             "sub_region_code":"4413100000_Chungcheongnamdo_Cheonan_Dongnam"
         },
@@ -217,6 +236,7 @@
             "apt_type":"아파트",
             "apt_year":12.0,
             "value_score":64.7195,
+            "region":"충청남도 천안시 동남구",
             "region_code":"Chungcheongnamdo",
             "sub_region_code":"4413100000_Chungcheongnamdo_Cheonan_Dongnam"
         },
@@ -228,6 +248,7 @@
             "apt_type":"아파트",
             "apt_year":13.0,
             "value_score":64.3195,
+            "region":"충청남도 천안시 동남구",
             "region_code":"Chungcheongnamdo",
             "sub_region_code":"4413100000_Chungcheongnamdo_Cheonan_Dongnam"
         },
@@ -239,6 +260,7 @@
             "apt_type":"아파트",
             "apt_year":4.0,
             "value_score":63.4705,
+            "region":"충청남도 천안시 동남구",
             "region_code":"Chungcheongnamdo",
             "sub_region_code":"4413100000_Chungcheongnamdo_Cheonan_Dongnam"
         },
@@ -250,6 +272,7 @@
             "apt_type":"아파트",
             "apt_year":2.0,
             "value_score":63.3135,
+            "region":"충청남도 천안시 동남구",
             "region_code":"Chungcheongnamdo",
             "sub_region_code":"4413100000_Chungcheongnamdo_Cheonan_Dongnam"
         },
@@ -261,6 +284,7 @@
             "apt_type":"분양권",
             "apt_year":0.0,
             "value_score":63.0175,
+            "region":"충청남도 천안시 동남구",
             "region_code":"Chungcheongnamdo",
             "sub_region_code":"4413100000_Chungcheongnamdo_Cheonan_Dongnam"
         },
@@ -272,6 +296,7 @@
             "apt_type":"아파트",
             "apt_year":26.0,
             "value_score":68.4343157895,
+            "region":"충청남도 천안시 동남구",
             "region_code":"Chungcheongnamdo",
             "sub_region_code":"4413100000_Chungcheongnamdo_Cheonan_Dongnam"
         },
@@ -283,6 +308,7 @@
             "apt_type":"아파트",
             "apt_year":5.0,
             "value_score":68.3122105263,
+            "region":"충청남도 천안시 동남구",
             "region_code":"Chungcheongnamdo",
             "sub_region_code":"4413100000_Chungcheongnamdo_Cheonan_Dongnam"
         },
@@ -294,6 +320,7 @@
             "apt_type":"아파트",
             "apt_year":26.0,
             "value_score":66.3290526316,
+            "region":"충청남도 천안시 동남구",
             "region_code":"Chungcheongnamdo",
             "sub_region_code":"4413100000_Chungcheongnamdo_Cheonan_Dongnam"
         },
@@ -305,6 +332,7 @@
             "apt_type":"아파트",
             "apt_year":14.0,
             "value_score":66.2326315789,
+            "region":"충청남도 천안시 동남구",
             "region_code":"Chungcheongnamdo",
             "sub_region_code":"4413100000_Chungcheongnamdo_Cheonan_Dongnam"
         },
@@ -316,6 +344,7 @@
             "apt_type":"아파트",
             "apt_year":26.0,
             "value_score":66.1246315789,
+            "region":"충청남도 천안시 동남구",
             "region_code":"Chungcheongnamdo",
             "sub_region_code":"4413100000_Chungcheongnamdo_Cheonan_Dongnam"
         },
@@ -327,6 +356,7 @@
             "apt_type":"분양권",
             "apt_year":1.0,
             "value_score":66.0269473684,
+            "region":"충청남도 천안시 동남구",
             "region_code":"Chungcheongnamdo",
             "sub_region_code":"4413100000_Chungcheongnamdo_Cheonan_Dongnam"
         },
@@ -338,6 +368,7 @@
             "apt_type":"아파트",
             "apt_year":27.0,
             "value_score":65.7237894737,
+            "region":"충청남도 천안시 동남구",
             "region_code":"Chungcheongnamdo",
             "sub_region_code":"4413100000_Chungcheongnamdo_Cheonan_Dongnam"
         },
@@ -349,6 +380,7 @@
             "apt_type":"아파트",
             "apt_year":23.0,
             "value_score":65.4964210526,
+            "region":"충청남도 천안시 동남구",
             "region_code":"Chungcheongnamdo",
             "sub_region_code":"4413100000_Chungcheongnamdo_Cheonan_Dongnam"
         },
@@ -360,6 +392,7 @@
             "apt_type":"아파트",
             "apt_year":25.0,
             "value_score":65.4863157895,
+            "region":"충청남도 천안시 동남구",
             "region_code":"Chungcheongnamdo",
             "sub_region_code":"4413100000_Chungcheongnamdo_Cheonan_Dongnam"
         },
@@ -371,6 +404,7 @@
             "apt_type":"아파트",
             "apt_year":2.0,
             "value_score":64.9749473684,
+            "region":"충청남도 천안시 동남구",
             "region_code":"Chungcheongnamdo",
             "sub_region_code":"4413100000_Chungcheongnamdo_Cheonan_Dongnam"
         },
@@ -382,6 +416,7 @@
             "apt_type":"분양권",
             "apt_year":1.0,
             "value_score":63.476,
+            "region":"충청남도 천안시 동남구",
             "region_code":"Chungcheongnamdo",
             "sub_region_code":"4413100000_Chungcheongnamdo_Cheonan_Dongnam"
         },
@@ -393,6 +428,7 @@
             "apt_type":"분양권",
             "apt_year":0.0,
             "value_score":62.708,
+            "region":"충청남도 천안시 동남구",
             "region_code":"Chungcheongnamdo",
             "sub_region_code":"4413100000_Chungcheongnamdo_Cheonan_Dongnam"
         },
@@ -404,6 +440,7 @@
             "apt_type":"아파트",
             "apt_year":5.0,
             "value_score":62.661,
+            "region":"충청남도 천안시 동남구",
             "region_code":"Chungcheongnamdo",
             "sub_region_code":"4413100000_Chungcheongnamdo_Cheonan_Dongnam"
         },
@@ -415,6 +452,7 @@
             "apt_type":"아파트",
             "apt_year":13.0,
             "value_score":61.395,
+            "region":"충청남도 천안시 동남구",
             "region_code":"Chungcheongnamdo",
             "sub_region_code":"4413100000_Chungcheongnamdo_Cheonan_Dongnam"
         },
@@ -426,6 +464,7 @@
             "apt_type":"아파트",
             "apt_year":26.0,
             "value_score":60.521,
+            "region":"충청남도 천안시 동남구",
             "region_code":"Chungcheongnamdo",
             "sub_region_code":"4413100000_Chungcheongnamdo_Cheonan_Dongnam"
         },
@@ -437,6 +476,7 @@
             "apt_type":"아파트",
             "apt_year":25.0,
             "value_score":60.52,
+            "region":"충청남도 천안시 동남구",
             "region_code":"Chungcheongnamdo",
             "sub_region_code":"4413100000_Chungcheongnamdo_Cheonan_Dongnam"
         },
@@ -448,6 +488,7 @@
             "apt_type":"아파트",
             "apt_year":26.0,
             "value_score":59.521,
+            "region":"충청남도 천안시 동남구",
             "region_code":"Chungcheongnamdo",
             "sub_region_code":"4413100000_Chungcheongnamdo_Cheonan_Dongnam"
         },
@@ -459,6 +500,7 @@
             "apt_type":"아파트",
             "apt_year":26.0,
             "value_score":59.395,
+            "region":"충청남도 천안시 동남구",
             "region_code":"Chungcheongnamdo",
             "sub_region_code":"4413100000_Chungcheongnamdo_Cheonan_Dongnam"
         },
@@ -470,6 +512,7 @@
             "apt_type":"아파트",
             "apt_year":2.0,
             "value_score":59.127,
+            "region":"충청남도 천안시 동남구",
             "region_code":"Chungcheongnamdo",
             "sub_region_code":"4413100000_Chungcheongnamdo_Cheonan_Dongnam"
         },
@@ -481,6 +524,7 @@
             "apt_type":"아파트",
             "apt_year":14.0,
             "value_score":58.021,
+            "region":"충청남도 천안시 동남구",
             "region_code":"Chungcheongnamdo",
             "sub_region_code":"4413100000_Chungcheongnamdo_Cheonan_Dongnam"
         }

@@ -30,6 +30,10 @@
                 "type":"number"
             },
             {
+                "name":"region",
+                "type":"string"
+            },
+            {
                 "name":"region_code",
                 "type":"string"
             },
@@ -52,6 +56,7 @@
             "apt_type":"아파트",
             "apt_year":15.0,
             "value_score":82.228,
+            "region":"서울시 송파구",
             "region_code":"Seoul",
             "sub_region_code":"1171000000_Seoul_Songpa"
         },
@@ -63,6 +68,7 @@
             "apt_type":"아파트",
             "apt_year":16.0,
             "value_score":81.7274,
+            "region":"서울시 송파구",
             "region_code":"Seoul",
             "sub_region_code":"1171000000_Seoul_Songpa"
         },
@@ -74,6 +80,7 @@
             "apt_type":"아파트",
             "apt_year":18.0,
             "value_score":81.3635,
+            "region":"서울시 송파구",
             "region_code":"Seoul",
             "sub_region_code":"1171000000_Seoul_Songpa"
         },
@@ -85,6 +92,7 @@
             "apt_type":"재건축",
             "apt_year":44.0,
             "value_score":78.6635,
+            "region":"서울시 송파구",
             "region_code":"Seoul",
             "sub_region_code":"1171000000_Seoul_Songpa"
         },
@@ -96,6 +104,7 @@
             "apt_type":"아파트",
             "apt_year":17.0,
             "value_score":76.8635,
+            "region":"서울시 송파구",
             "region_code":"Seoul",
             "sub_region_code":"1171000000_Seoul_Songpa"
         },
@@ -107,6 +116,7 @@
             "apt_type":"아파트",
             "apt_year":15.0,
             "value_score":76.5626,
+            "region":"서울시 송파구",
             "region_code":"Seoul",
             "sub_region_code":"1171000000_Seoul_Songpa"
         },
@@ -118,6 +128,7 @@
             "apt_type":"아파트",
             "apt_year":15.0,
             "value_score":76.4821,
+            "region":"서울시 송파구",
             "region_code":"Seoul",
             "sub_region_code":"1171000000_Seoul_Songpa"
         },
@@ -129,6 +140,7 @@
             "apt_type":"아파트",
             "apt_year":10.0,
             "value_score":75.7635,
+            "region":"서울시 송파구",
             "region_code":"Seoul",
             "sub_region_code":"1171000000_Seoul_Songpa"
         },
@@ -140,6 +152,7 @@
             "apt_type":"아파트",
             "apt_year":15.0,
             "value_score":74.7635,
+            "region":"서울시 송파구",
             "region_code":"Seoul",
             "sub_region_code":"1171000000_Seoul_Songpa"
         },
@@ -151,6 +164,7 @@
             "apt_type":"아파트",
             "apt_year":17.0,
             "value_score":74.3774,
+            "region":"서울시 송파구",
             "region_code":"Seoul",
             "sub_region_code":"1171000000_Seoul_Songpa"
         },
@@ -162,6 +176,7 @@
             "apt_type":"아파트",
             "apt_year":16.0,
             "value_score":79.7032,
+            "region":"서울시 송파구",
             "region_code":"Seoul",
             "sub_region_code":"1171000000_Seoul_Songpa"
         },
@@ -173,6 +188,7 @@
             "apt_type":"아파트",
             "apt_year":17.0,
             "value_score":77.6032,
+            "region":"서울시 송파구",
             "region_code":"Seoul",
             "sub_region_code":"1171000000_Seoul_Songpa"
         },
@@ -184,6 +200,7 @@
             "apt_type":"아파트",
             "apt_year":15.0,
             "value_score":77.404,
+            "region":"서울시 송파구",
             "region_code":"Seoul",
             "sub_region_code":"1171000000_Seoul_Songpa"
         },
@@ -195,6 +212,7 @@
             "apt_type":"아파트",
             "apt_year":15.0,
             "value_score":76.3368,
+            "region":"서울시 송파구",
             "region_code":"Seoul",
             "sub_region_code":"1171000000_Seoul_Songpa"
         },
@@ -206,6 +224,7 @@
             "apt_type":"아파트",
             "apt_year":5.0,
             "value_score":75.2236,
+            "region":"서울시 송파구",
             "region_code":"Seoul",
             "sub_region_code":"1171000000_Seoul_Songpa"
         },
@@ -217,6 +236,7 @@
             "apt_type":"아파트",
             "apt_year":15.0,
             "value_score":73.9428,
+            "region":"서울시 송파구",
             "region_code":"Seoul",
             "sub_region_code":"1171000000_Seoul_Songpa"
         },
@@ -228,6 +248,7 @@
             "apt_type":"아파트",
             "apt_year":18.0,
             "value_score":73.868,
+            "region":"서울시 송파구",
             "region_code":"Seoul",
             "sub_region_code":"1171000000_Seoul_Songpa"
         },
@@ -239,6 +260,7 @@
             "apt_type":"재건축",
             "apt_year":45.0,
             "value_score":73.1668,
+            "region":"서울시 송파구",
             "region_code":"Seoul",
             "sub_region_code":"1171000000_Seoul_Songpa"
         },
@@ -250,6 +272,7 @@
             "apt_type":"재건축",
             "apt_year":44.0,
             "value_score":72.868,
+            "region":"서울시 송파구",
             "region_code":"Seoul",
             "sub_region_code":"1171000000_Seoul_Songpa"
         },
@@ -261,6 +284,7 @@
             "apt_type":"아파트",
             "apt_year":7.0,
             "value_score":71.9984,
+            "region":"서울시 송파구",
             "region_code":"Seoul",
             "sub_region_code":"1171000000_Seoul_Songpa"
         },
@@ -272,6 +296,7 @@
             "apt_type":"아파트",
             "apt_year":15.0,
             "value_score":83.278,
+            "region":"서울시 송파구",
             "region_code":"Seoul",
             "sub_region_code":"1171000000_Seoul_Songpa"
         },
@@ -283,6 +308,7 @@
             "apt_type":"아파트",
             "apt_year":18.0,
             "value_score":82.6385,
+            "region":"서울시 송파구",
             "region_code":"Seoul",
             "sub_region_code":"1171000000_Seoul_Songpa"
         },
@@ -294,6 +320,7 @@
             "apt_type":"아파트",
             "apt_year":16.0,
             "value_score":81.4274,
+            "region":"서울시 송파구",
             "region_code":"Seoul",
             "sub_region_code":"1171000000_Seoul_Songpa"
         },
@@ -305,6 +332,7 @@
             "apt_type":"아파트",
             "apt_year":17.0,
             "value_score":79.2635,
+            "region":"서울시 송파구",
             "region_code":"Seoul",
             "sub_region_code":"1171000000_Seoul_Songpa"
         },
@@ -316,6 +344,7 @@
             "apt_type":"재건축",
             "apt_year":44.0,
             "value_score":79.2385,
+            "region":"서울시 송파구",
             "region_code":"Seoul",
             "sub_region_code":"1171000000_Seoul_Songpa"
         },
@@ -327,6 +356,7 @@
             "apt_type":"아파트",
             "apt_year":15.0,
             "value_score":78.0226,
+            "region":"서울시 송파구",
             "region_code":"Seoul",
             "sub_region_code":"1171000000_Seoul_Songpa"
         },
@@ -338,6 +368,7 @@
             "apt_type":"아파트",
             "apt_year":15.0,
             "value_score":77.6321,
+            "region":"서울시 송파구",
             "region_code":"Seoul",
             "sub_region_code":"1171000000_Seoul_Songpa"
         },
@@ -349,6 +380,7 @@
             "apt_type":"재건축",
             "apt_year":44.0,
             "value_score":77.2873,
+            "region":"서울시 송파구",
             "region_code":"Seoul",
             "sub_region_code":"1171000000_Seoul_Songpa"
         },
@@ -360,6 +392,7 @@
             "apt_type":"아파트",
             "apt_year":10.0,
             "value_score":77.0135,
+            "region":"서울시 송파구",
             "region_code":"Seoul",
             "sub_region_code":"1171000000_Seoul_Songpa"
         },
@@ -371,6 +404,7 @@
             "apt_type":"아파트",
             "apt_year":27.0,
             "value_score":76.7135,
+            "region":"서울시 송파구",
             "region_code":"Seoul",
             "sub_region_code":"1171000000_Seoul_Songpa"
         },
@@ -382,6 +416,7 @@
             "apt_type":"아파트",
             "apt_year":16.0,
             "value_score":80.679,
+            "region":"서울시 송파구",
             "region_code":"Seoul",
             "sub_region_code":"1171000000_Seoul_Songpa"
         },
@@ -393,6 +428,7 @@
             "apt_type":"아파트",
             "apt_year":18.0,
             "value_score":80.6225,
+            "region":"서울시 송파구",
             "region_code":"Seoul",
             "sub_region_code":"1171000000_Seoul_Songpa"
         },
@@ -404,6 +440,7 @@
             "apt_type":"아파트",
             "apt_year":15.0,
             "value_score":80.08,
+            "region":"서울시 송파구",
             "region_code":"Seoul",
             "sub_region_code":"1171000000_Seoul_Songpa"
         },
@@ -415,6 +452,7 @@
             "apt_type":"재건축",
             "apt_year":44.0,
             "value_score":78.7225,
+            "region":"서울시 송파구",
             "region_code":"Seoul",
             "sub_region_code":"1171000000_Seoul_Songpa"
         },
@@ -426,6 +464,7 @@
             "apt_type":"아파트",
             "apt_year":17.0,
             "value_score":78.3725,
+            "region":"서울시 송파구",
             "region_code":"Seoul",
             "sub_region_code":"1171000000_Seoul_Songpa"
         },
@@ -437,6 +476,7 @@
             "apt_type":"아파트",
             "apt_year":10.0,
             "value_score":77.9725,
+            "region":"서울시 송파구",
             "region_code":"Seoul",
             "sub_region_code":"1171000000_Seoul_Songpa"
         },
@@ -448,6 +488,7 @@
             "apt_type":"아파트",
             "apt_year":17.0,
             "value_score":77.529,
+            "region":"서울시 송파구",
             "region_code":"Seoul",
             "sub_region_code":"1171000000_Seoul_Songpa"
         },
@@ -459,6 +500,7 @@
             "apt_type":"아파트",
             "apt_year":15.0,
             "value_score":77.4725,
+            "region":"서울시 송파구",
             "region_code":"Seoul",
             "sub_region_code":"1171000000_Seoul_Songpa"
         },
@@ -470,6 +512,7 @@
             "apt_type":"아파트",
             "apt_year":27.0,
             "value_score":76.6725,
+            "region":"서울시 송파구",
             "region_code":"Seoul",
             "sub_region_code":"1171000000_Seoul_Songpa"
         },
@@ -481,6 +524,7 @@
             "apt_type":"재건축",
             "apt_year":43.0,
             "value_score":76.3215,
+            "region":"서울시 송파구",
             "region_code":"Seoul",
             "sub_region_code":"1171000000_Seoul_Songpa"
         },
@@ -492,6 +536,7 @@
             "apt_type":"아파트",
             "apt_year":16.0,
             "value_score":74.158,
+            "region":"서울시 송파구",
             "region_code":"Seoul",
             "sub_region_code":"1171000000_Seoul_Songpa"
         },
@@ -503,6 +548,7 @@
             "apt_type":"아파트",
             "apt_year":15.0,
             "value_score":73.36,
+            "region":"서울시 송파구",
             "region_code":"Seoul",
             "sub_region_code":"1171000000_Seoul_Songpa"
         },
@@ -514,6 +560,7 @@
             "apt_type":"아파트",
             "apt_year":18.0,
             "value_score":72.845,
+            "region":"서울시 송파구",
             "region_code":"Seoul",
             "sub_region_code":"1171000000_Seoul_Songpa"
         },
@@ -525,6 +572,7 @@
             "apt_type":"아파트",
             "apt_year":17.0,
             "value_score":72.058,
+            "region":"서울시 송파구",
             "region_code":"Seoul",
             "sub_region_code":"1171000000_Seoul_Songpa"
         },
@@ -536,6 +584,7 @@
             "apt_type":"재건축",
             "apt_year":44.0,
             "value_score":71.845,
+            "region":"서울시 송파구",
             "region_code":"Seoul",
             "sub_region_code":"1171000000_Seoul_Songpa"
         },
@@ -547,6 +596,7 @@
             "apt_type":"아파트",
             "apt_year":15.0,
             "value_score":71.022,
+            "region":"서울시 송파구",
             "region_code":"Seoul",
             "sub_region_code":"1171000000_Seoul_Songpa"
         },
@@ -558,6 +608,7 @@
             "apt_type":"재건축",
             "apt_year":45.0,
             "value_score":69.742,
+            "region":"서울시 송파구",
             "region_code":"Seoul",
             "sub_region_code":"1171000000_Seoul_Songpa"
         },
@@ -569,6 +620,7 @@
             "apt_type":"아파트",
             "apt_year":18.0,
             "value_score":69.158,
+            "region":"서울시 송파구",
             "region_code":"Seoul",
             "sub_region_code":"1171000000_Seoul_Songpa"
         },
@@ -580,6 +632,7 @@
             "apt_type":"아파트",
             "apt_year":10.0,
             "value_score":68.745,
+            "region":"서울시 송파구",
             "region_code":"Seoul",
             "sub_region_code":"1171000000_Seoul_Songpa"
         },
@@ -591,6 +644,7 @@
             "apt_type":"아파트",
             "apt_year":15.0,
             "value_score":68.607,
+            "region":"서울시 송파구",
             "region_code":"Seoul",
             "sub_region_code":"1171000000_Seoul_Songpa"
         }

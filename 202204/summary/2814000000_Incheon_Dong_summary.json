@@ -30,6 +30,10 @@
                 "type":"number"
             },
             {
+                "name":"region",
+                "type":"string"
+            },
+            {
                 "name":"region_code",
                 "type":"string"
             },
@@ -52,6 +56,7 @@
             "apt_type":"아파트",
             "apt_year":20.0,
             "value_score":38.6409,
+            "region":"인천시 동구",
             "region_code":"Incheon",
             "sub_region_code":"2814000000_Incheon_Dong"
         },
@@ -63,6 +68,7 @@
             "apt_type":"아파트",
             "apt_year":13.0,
             "value_score":36.1397,
+            "region":"인천시 동구",
             "region_code":"Incheon",
             "sub_region_code":"2814000000_Incheon_Dong"
         },
@@ -74,6 +80,7 @@
             "apt_type":"아파트",
             "apt_year":20.0,
             "value_score":33.8409,
+            "region":"인천시 동구",
             "region_code":"Incheon",
             "sub_region_code":"2814000000_Incheon_Dong"
         },
@@ -85,6 +92,7 @@
             "apt_type":"아파트",
             "apt_year":39.0,
             "value_score":33.3909,
+            "region":"인천시 동구",
             "region_code":"Incheon",
             "sub_region_code":"2814000000_Incheon_Dong"
         },
@@ -96,6 +104,7 @@
             "apt_type":"아파트",
             "apt_year":22.0,
             "value_score":33.3406,
+            "region":"인천시 동구",
             "region_code":"Incheon",
             "sub_region_code":"2814000000_Incheon_Dong"
         },
@@ -107,6 +116,7 @@
             "apt_type":"아파트",
             "apt_year":33.0,
             "value_score":33.0409,
+            "region":"인천시 동구",
             "region_code":"Incheon",
             "sub_region_code":"2814000000_Incheon_Dong"
         },
@@ -118,6 +128,7 @@
             "apt_type":"아파트",
             "apt_year":13.0,
             "value_score":32.6397,
+            "region":"인천시 동구",
             "region_code":"Incheon",
             "sub_region_code":"2814000000_Incheon_Dong"
         },
@@ -129,6 +140,7 @@
             "apt_type":"아파트",
             "apt_year":24.0,
             "value_score":32.5829,
+            "region":"인천시 동구",
             "region_code":"Incheon",
             "sub_region_code":"2814000000_Incheon_Dong"
         },
@@ -140,6 +152,7 @@
             "apt_type":"아파트",
             "apt_year":22.0,
             "value_score":32.1406,
+            "region":"인천시 동구",
             "region_code":"Incheon",
             "sub_region_code":"2814000000_Incheon_Dong"
         },
@@ -151,6 +164,7 @@
             "apt_type":"아파트",
             "apt_year":20.0,
             "value_score":31.4409,
+            "region":"인천시 동구",
             "region_code":"Incheon",
             "sub_region_code":"2814000000_Incheon_Dong"
         },
@@ -162,6 +176,7 @@
             "apt_type":"재건축",
             "apt_year":41.0,
             "value_score":54.57,
+            "region":"인천시 동구",
             "region_code":"Incheon",
             "sub_region_code":"2814000000_Incheon_Dong"
         },
@@ -173,6 +188,7 @@
             "apt_type":"재건축",
             "apt_year":39.0,
             "value_score":54.45,
+            "region":"인천시 동구",
             "region_code":"Incheon",
             "sub_region_code":"2814000000_Incheon_Dong"
         },
@@ -184,6 +200,7 @@
             "apt_type":"아파트",
             "apt_year":2.0,
             "value_score":54.4196,
+            "region":"인천시 동구",
             "region_code":"Incheon",
             "sub_region_code":"2814000000_Incheon_Dong"
         },
@@ -195,6 +212,7 @@
             "apt_type":"아파트",
             "apt_year":14.0,
             "value_score":50.4168,
+            "region":"인천시 동구",
             "region_code":"Incheon",
             "sub_region_code":"2814000000_Incheon_Dong"
         },
@@ -206,6 +224,7 @@
             "apt_type":"아파트",
             "apt_year":20.0,
             "value_score":49.1712,
+            "region":"인천시 동구",
             "region_code":"Incheon",
             "sub_region_code":"2814000000_Incheon_Dong"
         },
@@ -217,6 +236,7 @@
             "apt_type":"아파트",
             "apt_year":13.0,
             "value_score":48.4696,
+            "region":"인천시 동구",
             "region_code":"Incheon",
             "sub_region_code":"2814000000_Incheon_Dong"
         },
@@ -228,6 +248,7 @@
             "apt_type":"아파트",
             "apt_year":14.0,
             "value_score":47.9168,
+            "region":"인천시 동구",
             "region_code":"Incheon",
             "sub_region_code":"2814000000_Incheon_Dong"
         },
@@ -239,6 +260,7 @@
             "apt_type":"아파트",
             "apt_year":21.0,
             "value_score":42.0708,
+            "region":"인천시 동구",
             "region_code":"Incheon",
             "sub_region_code":"2814000000_Incheon_Dong"
         },
@@ -250,6 +272,7 @@
             "apt_type":"아파트",
             "apt_year":13.0,
             "value_score":39.7196,
+            "region":"인천시 동구",
             "region_code":"Incheon",
             "sub_region_code":"2814000000_Incheon_Dong"
         },
@@ -261,6 +284,7 @@
             "apt_type":"아파트",
             "apt_year":3.0,
             "value_score":39.0696,
+            "region":"인천시 동구",
             "region_code":"Incheon",
             "sub_region_code":"2814000000_Incheon_Dong"
         },
@@ -272,6 +296,7 @@
             "apt_type":"아파트",
             "apt_year":20.0,
             "value_score":38.2159,
+            "region":"인천시 동구",
             "region_code":"Incheon",
             "sub_region_code":"2814000000_Incheon_Dong"
         },
@@ -283,6 +308,7 @@
             "apt_type":"아파트",
             "apt_year":39.0,
             "value_score":37.8409,
+            "region":"인천시 동구",
             "region_code":"Incheon",
             "sub_region_code":"2814000000_Incheon_Dong"
         },
@@ -294,6 +320,7 @@
             "apt_type":"아파트",
             "apt_year":13.0,
             "value_score":34.8647,
+            "region":"인천시 동구",
             "region_code":"Incheon",
             "sub_region_code":"2814000000_Incheon_Dong"
         },
@@ -305,6 +332,7 @@
             "apt_type":"아파트",
             "apt_year":20.0,
             "value_score":34.6159,
+            "region":"인천시 동구",
             "region_code":"Incheon",
             "sub_region_code":"2814000000_Incheon_Dong"
         },
@@ -316,6 +344,7 @@
             "apt_type":"아파트",
             "apt_year":22.0,
             "value_score":33.2906,
+            "region":"인천시 동구",
             "region_code":"Incheon",
             "sub_region_code":"2814000000_Incheon_Dong"
         },
@@ -327,6 +356,7 @@
             "apt_type":"아파트",
             "apt_year":24.0,
             "value_score":33.2329,
+            "region":"인천시 동구",
             "region_code":"Incheon",
             "sub_region_code":"2814000000_Incheon_Dong"
         },
@@ -338,6 +368,7 @@
             "apt_type":"아파트",
             "apt_year":33.0,
             "value_score":33.0659,
+            "region":"인천시 동구",
             "region_code":"Incheon",
             "sub_region_code":"2814000000_Incheon_Dong"
         },
@@ -349,6 +380,7 @@
             "apt_type":"아파트",
             "apt_year":22.0,
             "value_score":32.8656,
+            "region":"인천시 동구",
             "region_code":"Incheon",
             "sub_region_code":"2814000000_Incheon_Dong"
         },
@@ -360,6 +392,7 @@
             "apt_type":"아파트",
             "apt_year":38.0,
             "value_score":32.6918,
+            "region":"인천시 동구",
             "region_code":"Incheon",
             "sub_region_code":"2814000000_Incheon_Dong"
         },
@@ -371,6 +404,7 @@
             "apt_type":"아파트",
             "apt_year":13.0,
             "value_score":32.2397,
+            "region":"인천시 동구",
             "region_code":"Incheon",
             "sub_region_code":"2814000000_Incheon_Dong"
         },
@@ -382,6 +416,7 @@
             "apt_type":"아파트",
             "apt_year":20.0,
             "value_score":35.7515,
+            "region":"인천시 동구",
             "region_code":"Incheon",
             "sub_region_code":"2814000000_Incheon_Dong"
         },
@@ -393,6 +428,7 @@
             "apt_type":"아파트",
             "apt_year":24.0,
             "value_score":34.8715,
+            "region":"인천시 동구",
             "region_code":"Incheon",
             "sub_region_code":"2814000000_Incheon_Dong"
         },
@@ -404,6 +440,7 @@
             "apt_type":"아파트",
             "apt_year":13.0,
             "value_score":33.9495,
+            "region":"인천시 동구",
             "region_code":"Incheon",
             "sub_region_code":"2814000000_Incheon_Dong"
         },
@@ -415,6 +452,7 @@
             "apt_type":"아파트",
             "apt_year":20.0,
             "value_score":33.3515,
+            "region":"인천시 동구",
             "region_code":"Incheon",
             "sub_region_code":"2814000000_Incheon_Dong"
         },
@@ -426,6 +464,7 @@
             "apt_type":"아파트",
             "apt_year":22.0,
             "value_score":33.201,
+            "region":"인천시 동구",
             "region_code":"Incheon",
             "sub_region_code":"2814000000_Incheon_Dong"
         },
@@ -437,6 +476,7 @@
             "apt_type":"아파트",
             "apt_year":33.0,
             "value_score":33.0515,
+            "region":"인천시 동구",
             "region_code":"Incheon",
             "sub_region_code":"2814000000_Incheon_Dong"
         },
@@ -448,6 +488,7 @@
             "apt_type":"재건축",
             "apt_year":41.0,
             "value_score":32.8,
+            "region":"인천시 동구",
             "region_code":"Incheon",
             "sub_region_code":"2814000000_Incheon_Dong"
         },
@@ -459,6 +500,7 @@
             "apt_type":"아파트",
             "apt_year":39.0,
             "value_score":32.7515,
+            "region":"인천시 동구",
             "region_code":"Incheon",
             "sub_region_code":"2814000000_Incheon_Dong"
         },
@@ -470,6 +512,7 @@
             "apt_type":"아파트",
             "apt_year":22.0,
             "value_score":32.551,
+            "region":"인천시 동구",
             "region_code":"Incheon",
             "sub_region_code":"2814000000_Incheon_Dong"
         },
@@ -481,6 +524,7 @@
             "apt_type":"재건축",
             "apt_year":39.0,
             "value_score":32.5,
+            "region":"인천시 동구",
             "region_code":"Incheon",
             "sub_region_code":"2814000000_Incheon_Dong"
         },
@@ -492,6 +536,7 @@
             "apt_type":"재건축",
             "apt_year":41.0,
             "value_score":46.8,
+            "region":"인천시 동구",
             "region_code":"Incheon",
             "sub_region_code":"2814000000_Incheon_Dong"
         },
@@ -503,6 +548,7 @@
             "apt_type":"재건축",
             "apt_year":39.0,
             "value_score":46.68,
+            "region":"인천시 동구",
             "region_code":"Incheon",
             "sub_region_code":"2814000000_Incheon_Dong"
         },
@@ -514,6 +560,7 @@
             "apt_type":"아파트",
             "apt_year":20.0,
             "value_score":46.503,
+            "region":"인천시 동구",
             "region_code":"Incheon",
             "sub_region_code":"2814000000_Incheon_Dong"
         },
@@ -525,6 +572,7 @@
             "apt_type":"아파트",
             "apt_year":2.0,
             "value_score":45.899,
+            "region":"인천시 동구",
             "region_code":"Incheon",
             "sub_region_code":"2814000000_Incheon_Dong"
         },
@@ -536,6 +584,7 @@
             "apt_type":"아파트",
             "apt_year":13.0,
             "value_score":44.899,
+            "region":"인천시 동구",
             "region_code":"Incheon",
             "sub_region_code":"2814000000_Incheon_Dong"
         },
@@ -547,6 +596,7 @@
             "apt_type":"아파트",
             "apt_year":14.0,
             "value_score":44.292,
+            "region":"인천시 동구",
             "region_code":"Incheon",
             "sub_region_code":"2814000000_Incheon_Dong"
         },
@@ -558,6 +608,7 @@
             "apt_type":"아파트",
             "apt_year":14.0,
             "value_score":43.292,
+            "region":"인천시 동구",
             "region_code":"Incheon",
             "sub_region_code":"2814000000_Incheon_Dong"
         },
@@ -569,6 +620,7 @@
             "apt_type":"아파트",
             "apt_year":22.0,
             "value_score":42.202,
+            "region":"인천시 동구",
             "region_code":"Incheon",
             "sub_region_code":"2814000000_Incheon_Dong"
         },
@@ -580,6 +632,7 @@
             "apt_type":"아파트",
             "apt_year":33.0,
             "value_score":41.903,
+            "region":"인천시 동구",
             "region_code":"Incheon",
             "sub_region_code":"2814000000_Incheon_Dong"
         },
@@ -591,6 +644,7 @@
             "apt_type":"아파트",
             "apt_year":21.0,
             "value_score":41.802,
+            "region":"인천시 동구",
             "region_code":"Incheon",
             "sub_region_code":"2814000000_Incheon_Dong"
         }

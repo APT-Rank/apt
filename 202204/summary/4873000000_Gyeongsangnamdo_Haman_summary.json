@@ -30,6 +30,10 @@
                 "type":"number"
             },
             {
+                "name":"region",
+                "type":"string"
+            },
+            {
                 "name":"region_code",
                 "type":"string"
             },
@@ -52,6 +56,7 @@
             "apt_type":"아파트",
             "apt_year":17.0,
             "value_score":46.439,
+            "region":"경상남도 함안군",
             "region_code":"Gyeongsangnamdo",
             "sub_region_code":"4873000000_Gyeongsangnamdo_Haman"
         },
@@ -63,6 +68,7 @@
             "apt_type":"아파트",
             "apt_year":15.0,
             "value_score":44.229,
+            "region":"경상남도 함안군",
             "region_code":"Gyeongsangnamdo",
             "sub_region_code":"4873000000_Gyeongsangnamdo_Haman"
         },
@@ -74,6 +80,7 @@
             "apt_type":"아파트",
             "apt_year":9.0,
             "value_score":43.354,
+            "region":"경상남도 함안군",
             "region_code":"Gyeongsangnamdo",
             "sub_region_code":"4873000000_Gyeongsangnamdo_Haman"
         },
@@ -85,6 +92,7 @@
             "apt_type":"아파트",
             "apt_year":9.0,
             "value_score":36.081,
+            "region":"경상남도 함안군",
             "region_code":"Gyeongsangnamdo",
             "sub_region_code":"4873000000_Gyeongsangnamdo_Haman"
         },
@@ -96,6 +104,7 @@
             "apt_type":"아파트",
             "apt_year":20.0,
             "value_score":32.8455,
+            "region":"경상남도 함안군",
             "region_code":"Gyeongsangnamdo",
             "sub_region_code":"4873000000_Gyeongsangnamdo_Haman"
         },
@@ -107,6 +116,7 @@
             "apt_type":"아파트",
             "apt_year":9.0,
             "value_score":32.749,
+            "region":"경상남도 함안군",
             "region_code":"Gyeongsangnamdo",
             "sub_region_code":"4873000000_Gyeongsangnamdo_Haman"
         },
@@ -118,6 +128,7 @@
             "apt_type":"아파트",
             "apt_year":22.0,
             "value_score":31.7455,
+            "region":"경상남도 함안군",
             "region_code":"Gyeongsangnamdo",
             "sub_region_code":"4873000000_Gyeongsangnamdo_Haman"
         },
@@ -129,6 +140,7 @@
             "apt_type":"아파트",
             "apt_year":19.0,
             "value_score":31.631,
+            "region":"경상남도 함안군",
             "region_code":"Gyeongsangnamdo",
             "sub_region_code":"4873000000_Gyeongsangnamdo_Haman"
         },
@@ -140,6 +152,7 @@
             "apt_type":"아파트",
             "apt_year":33.0,
             "value_score":28.916,
+            "region":"경상남도 함안군",
             "region_code":"Gyeongsangnamdo",
             "sub_region_code":"4873000000_Gyeongsangnamdo_Haman"
         },
@@ -151,6 +164,7 @@
             "apt_type":"아파트",
             "apt_year":31.0,
             "value_score":28.356,
+            "region":"경상남도 함안군",
             "region_code":"Gyeongsangnamdo",
             "sub_region_code":"4873000000_Gyeongsangnamdo_Haman"
         },
@@ -162,6 +176,7 @@
             "apt_type":"아파트",
             "apt_year":17.0,
             "value_score":54.104,
+            "region":"경상남도 함안군",
             "region_code":"Gyeongsangnamdo",
             "sub_region_code":"4873000000_Gyeongsangnamdo_Haman"
         },
@@ -173,6 +188,7 @@
             "apt_type":"아파트",
             "apt_year":15.0,
             "value_score":50.754,
+            "region":"경상남도 함안군",
             "region_code":"Gyeongsangnamdo",
             "sub_region_code":"4873000000_Gyeongsangnamdo_Haman"
         },
@@ -184,6 +200,7 @@
             "apt_type":"아파트",
             "apt_year":9.0,
             "value_score":49.504,
+            "region":"경상남도 함안군",
             "region_code":"Gyeongsangnamdo",
             "sub_region_code":"4873000000_Gyeongsangnamdo_Haman"
         },
@@ -195,6 +212,7 @@
             "apt_type":"아파트",
             "apt_year":9.0,
             "value_score":39.906,
+            "region":"경상남도 함안군",
             "region_code":"Gyeongsangnamdo",
             "sub_region_code":"4873000000_Gyeongsangnamdo_Haman"
         },
@@ -206,6 +224,7 @@
             "apt_type":"아파트",
             "apt_year":22.0,
             "value_score":39.7705,
+            "region":"경상남도 함안군",
             "region_code":"Gyeongsangnamdo",
             "sub_region_code":"4873000000_Gyeongsangnamdo_Haman"
         },
@@ -217,6 +236,7 @@
             "apt_type":"아파트",
             "apt_year":9.0,
             "value_score":37.324,
+            "region":"경상남도 함안군",
             "region_code":"Gyeongsangnamdo",
             "sub_region_code":"4873000000_Gyeongsangnamdo_Haman"
         },
@@ -228,6 +248,7 @@
             "apt_type":"아파트",
             "apt_year":20.0,
             "value_score":36.5205,
+            "region":"경상남도 함안군",
             "region_code":"Gyeongsangnamdo",
             "sub_region_code":"4873000000_Gyeongsangnamdo_Haman"
         },
@@ -239,6 +260,7 @@
             "apt_type":"아파트",
             "apt_year":19.0,
             "value_score":35.156,
+            "region":"경상남도 함안군",
             "region_code":"Gyeongsangnamdo",
             "sub_region_code":"4873000000_Gyeongsangnamdo_Haman"
         },
@@ -250,6 +272,7 @@
             "apt_type":"아파트",
             "apt_year":11.0,
             "value_score":32.074,
+            "region":"경상남도 함안군",
             "region_code":"Gyeongsangnamdo",
             "sub_region_code":"4873000000_Gyeongsangnamdo_Haman"
         },
@@ -261,6 +284,7 @@
             "apt_type":"아파트",
             "apt_year":25.0,
             "value_score":31.754,
+            "region":"경상남도 함안군",
             "region_code":"Gyeongsangnamdo",
             "sub_region_code":"4873000000_Gyeongsangnamdo_Haman"
         },
@@ -272,6 +296,7 @@
             "apt_type":"아파트",
             "apt_year":17.0,
             "value_score":39.0313684211,
+            "region":"경상남도 함안군",
             "region_code":"Gyeongsangnamdo",
             "sub_region_code":"4873000000_Gyeongsangnamdo_Haman"
         },
@@ -283,6 +308,7 @@
             "apt_type":"아파트",
             "apt_year":15.0,
             "value_score":38.2418947368,
+            "region":"경상남도 함안군",
             "region_code":"Gyeongsangnamdo",
             "sub_region_code":"4873000000_Gyeongsangnamdo_Haman"
         },
@@ -294,6 +320,7 @@
             "apt_type":"아파트",
             "apt_year":9.0,
             "value_score":37.8471578947,
+            "region":"경상남도 함안군",
             "region_code":"Gyeongsangnamdo",
             "sub_region_code":"4873000000_Gyeongsangnamdo_Haman"
         },
@@ -305,6 +332,7 @@
             "apt_type":"아파트",
             "apt_year":9.0,
             "value_score":33.5917894737,
+            "region":"경상남도 함안군",
             "region_code":"Gyeongsangnamdo",
             "sub_region_code":"4873000000_Gyeongsangnamdo_Haman"
         },
@@ -316,6 +344,7 @@
             "apt_type":"아파트",
             "apt_year":33.0,
             "value_score":31.8812631579,
+            "region":"경상남도 함안군",
             "region_code":"Gyeongsangnamdo",
             "sub_region_code":"4873000000_Gyeongsangnamdo_Haman"
         },
@@ -327,6 +356,7 @@
             "apt_type":"아파트",
             "apt_year":31.0,
             "value_score":31.1444210526,
+            "region":"경상남도 함안군",
             "region_code":"Gyeongsangnamdo",
             "sub_region_code":"4873000000_Gyeongsangnamdo_Haman"
         },
@@ -338,6 +368,7 @@
             "apt_type":"아파트",
             "apt_year":20.0,
             "value_score":30.5785263158,
+            "region":"경상남도 함안군",
             "region_code":"Gyeongsangnamdo",
             "sub_region_code":"4873000000_Gyeongsangnamdo_Haman"
         },
@@ -349,6 +380,7 @@
             "apt_type":"아파트",
             "apt_year":19.0,
             "value_score":29.8549473684,
+            "region":"경상남도 함안군",
             "region_code":"Gyeongsangnamdo",
             "sub_region_code":"4873000000_Gyeongsangnamdo_Haman"
         },
@@ -360,6 +392,7 @@
             "apt_type":"아파트",
             "apt_year":30.0,
             "value_score":29.5522105263,
+            "region":"경상남도 함안군",
             "region_code":"Gyeongsangnamdo",
             "sub_region_code":"4873000000_Gyeongsangnamdo_Haman"
         },
@@ -371,6 +404,7 @@
             "apt_type":"아파트",
             "apt_year":9.0,
             "value_score":29.2776842105,
+            "region":"경상남도 함안군",
             "region_code":"Gyeongsangnamdo",
             "sub_region_code":"4873000000_Gyeongsangnamdo_Haman"
         },
@@ -382,6 +416,7 @@
             "apt_type":"아파트",
             "apt_year":17.0,
             "value_score":50.483,
+            "region":"경상남도 함안군",
             "region_code":"Gyeongsangnamdo",
             "sub_region_code":"4873000000_Gyeongsangnamdo_Haman"
         },
@@ -393,6 +428,7 @@
             "apt_type":"아파트",
             "apt_year":15.0,
             "value_score":48.883,
+            "region":"경상남도 함안군",
             "region_code":"Gyeongsangnamdo",
             "sub_region_code":"4873000000_Gyeongsangnamdo_Haman"
         },
@@ -404,6 +440,7 @@
             "apt_type":"아파트",
             "apt_year":9.0,
             "value_score":48.258,
+            "region":"경상남도 함안군",
             "region_code":"Gyeongsangnamdo",
             "sub_region_code":"4873000000_Gyeongsangnamdo_Haman"
         },
@@ -415,6 +452,7 @@
             "apt_type":"아파트",
             "apt_year":9.0,
             "value_score":42.687,
+            "region":"경상남도 함안군",
             "region_code":"Gyeongsangnamdo",
             "sub_region_code":"4873000000_Gyeongsangnamdo_Haman"
         },
@@ -426,6 +464,7 @@
             "apt_type":"아파트",
             "apt_year":19.0,
             "value_score":39.687,
+            "region":"경상남도 함안군",
             "region_code":"Gyeongsangnamdo",
             "sub_region_code":"4873000000_Gyeongsangnamdo_Haman"
         },
@@ -437,6 +476,7 @@
             "apt_type":"아파트",
             "apt_year":20.0,
             "value_score":39.666,
+            "region":"경상남도 함안군",
             "region_code":"Gyeongsangnamdo",
             "sub_region_code":"4873000000_Gyeongsangnamdo_Haman"
         },
@@ -448,6 +488,7 @@
             "apt_type":"아파트",
             "apt_year":22.0,
             "value_score":39.416,
+            "region":"경상남도 함안군",
             "region_code":"Gyeongsangnamdo",
             "sub_region_code":"4873000000_Gyeongsangnamdo_Haman"
         },
@@ -459,6 +500,7 @@
             "apt_type":"아파트",
             "apt_year":9.0,
             "value_score":38.773,
+            "region":"경상남도 함안군",
             "region_code":"Gyeongsangnamdo",
             "sub_region_code":"4873000000_Gyeongsangnamdo_Haman"
         },
@@ -470,6 +512,7 @@
             "apt_type":"아파트",
             "apt_year":33.0,
             "value_score":37.412,
+            "region":"경상남도 함안군",
             "region_code":"Gyeongsangnamdo",
             "sub_region_code":"4873000000_Gyeongsangnamdo_Haman"
         },
@@ -481,6 +524,7 @@
             "apt_type":"아파트",
             "apt_year":31.0,
             "value_score":37.062,
+            "region":"경상남도 함안군",
             "region_code":"Gyeongsangnamdo",
             "sub_region_code":"4873000000_Gyeongsangnamdo_Haman"
         }

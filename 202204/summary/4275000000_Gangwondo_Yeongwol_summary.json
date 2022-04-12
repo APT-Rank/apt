@@ -30,6 +30,10 @@
                 "type":"number"
             },
             {
+                "name":"region",
+                "type":"string"
+            },
+            {
                 "name":"region_code",
                 "type":"string"
             },
@@ -52,6 +56,7 @@
             "apt_type":"아파트",
             "apt_year":6.0,
             "value_score":42.466,
+            "region":"강원도 영월군",
             "region_code":"Gangwondo",
             "sub_region_code":"4275000000_Gangwondo_Yeongwol"
         },
@@ -63,6 +68,7 @@
             "apt_type":"아파트",
             "apt_year":7.0,
             "value_score":42.001,
+            "region":"강원도 영월군",
             "region_code":"Gangwondo",
             "sub_region_code":"4275000000_Gangwondo_Yeongwol"
         },
@@ -74,6 +80,7 @@
             "apt_type":"아파트",
             "apt_year":10.0,
             "value_score":39.866,
+            "region":"강원도 영월군",
             "region_code":"Gangwondo",
             "sub_region_code":"4275000000_Gangwondo_Yeongwol"
         },
@@ -85,6 +92,7 @@
             "apt_type":"아파트",
             "apt_year":2.0,
             "value_score":39.579,
+            "region":"강원도 영월군",
             "region_code":"Gangwondo",
             "sub_region_code":"4275000000_Gangwondo_Yeongwol"
         },
@@ -96,6 +104,7 @@
             "apt_type":"아파트",
             "apt_year":11.0,
             "value_score":38.876,
+            "region":"강원도 영월군",
             "region_code":"Gangwondo",
             "sub_region_code":"4275000000_Gangwondo_Yeongwol"
         },
@@ -107,6 +116,7 @@
             "apt_type":"아파트",
             "apt_year":2.0,
             "value_score":38.8155,
+            "region":"강원도 영월군",
             "region_code":"Gangwondo",
             "sub_region_code":"4275000000_Gangwondo_Yeongwol"
         },
@@ -118,6 +128,7 @@
             "apt_type":"아파트",
             "apt_year":24.0,
             "value_score":37.091,
+            "region":"강원도 영월군",
             "region_code":"Gangwondo",
             "sub_region_code":"4275000000_Gangwondo_Yeongwol"
         },
@@ -129,6 +140,7 @@
             "apt_type":"아파트",
             "apt_year":39.0,
             "value_score":35.916,
+            "region":"강원도 영월군",
             "region_code":"Gangwondo",
             "sub_region_code":"4275000000_Gangwondo_Yeongwol"
         },
@@ -140,6 +152,7 @@
             "apt_type":"아파트",
             "apt_year":40.0,
             "value_score":35.916,
+            "region":"강원도 영월군",
             "region_code":"Gangwondo",
             "sub_region_code":"4275000000_Gangwondo_Yeongwol"
         },
@@ -151,6 +164,7 @@
             "apt_type":"아파트",
             "apt_year":5.0,
             "value_score":34.221,
+            "region":"강원도 영월군",
             "region_code":"Gangwondo",
             "sub_region_code":"4275000000_Gangwondo_Yeongwol"
         },
@@ -162,6 +176,7 @@
             "apt_type":"아파트",
             "apt_year":2.0,
             "value_score":44.619,
+            "region":"강원도 영월군",
             "region_code":"Gangwondo",
             "sub_region_code":"4275000000_Gangwondo_Yeongwol"
         },
@@ -173,6 +188,7 @@
             "apt_type":"아파트",
             "apt_year":2.0,
             "value_score":44.2155,
+            "region":"강원도 영월군",
             "region_code":"Gangwondo",
             "sub_region_code":"4275000000_Gangwondo_Yeongwol"
         },
@@ -184,6 +200,7 @@
             "apt_type":"아파트",
             "apt_year":7.0,
             "value_score":43.816,
+            "region":"강원도 영월군",
             "region_code":"Gangwondo",
             "sub_region_code":"4275000000_Gangwondo_Yeongwol"
         },
@@ -195,6 +212,7 @@
             "apt_type":"아파트",
             "apt_year":11.0,
             "value_score":43.616,
+            "region":"강원도 영월군",
             "region_code":"Gangwondo",
             "sub_region_code":"4275000000_Gangwondo_Yeongwol"
         },
@@ -206,6 +224,7 @@
             "apt_type":"아파트",
             "apt_year":6.0,
             "value_score":42.766,
+            "region":"강원도 영월군",
             "region_code":"Gangwondo",
             "sub_region_code":"4275000000_Gangwondo_Yeongwol"
         },
@@ -217,6 +236,7 @@
             "apt_type":"아파트",
             "apt_year":10.0,
             "value_score":40.016,
+            "region":"강원도 영월군",
             "region_code":"Gangwondo",
             "sub_region_code":"4275000000_Gangwondo_Yeongwol"
         },
@@ -228,6 +248,7 @@
             "apt_type":"아파트",
             "apt_year":5.0,
             "value_score":37.986,
+            "region":"강원도 영월군",
             "region_code":"Gangwondo",
             "sub_region_code":"4275000000_Gangwondo_Yeongwol"
         },
@@ -239,6 +260,7 @@
             "apt_type":"아파트",
             "apt_year":24.0,
             "value_score":37.016,
+            "region":"강원도 영월군",
             "region_code":"Gangwondo",
             "sub_region_code":"4275000000_Gangwondo_Yeongwol"
         },
@@ -250,6 +272,7 @@
             "apt_type":"아파트",
             "apt_year":25.0,
             "value_score":33.866,
+            "region":"강원도 영월군",
             "region_code":"Gangwondo",
             "sub_region_code":"4275000000_Gangwondo_Yeongwol"
         },
@@ -261,6 +284,7 @@
             "apt_type":"아파트",
             "apt_year":39.0,
             "value_score":32.766,
+            "region":"강원도 영월군",
             "region_code":"Gangwondo",
             "sub_region_code":"4275000000_Gangwondo_Yeongwol"
         },
@@ -272,6 +296,7 @@
             "apt_type":"아파트",
             "apt_year":6.0,
             "value_score":43.336,
+            "region":"강원도 영월군",
             "region_code":"Gangwondo",
             "sub_region_code":"4275000000_Gangwondo_Yeongwol"
         },
@@ -283,6 +308,7 @@
             "apt_type":"아파트",
             "apt_year":7.0,
             "value_score":41.3517894737,
+            "region":"강원도 영월군",
             "region_code":"Gangwondo",
             "sub_region_code":"4275000000_Gangwondo_Yeongwol"
         },
@@ -294,6 +320,7 @@
             "apt_type":"아파트",
             "apt_year":10.0,
             "value_score":41.1254736842,
+            "region":"강원도 영월군",
             "region_code":"Gangwondo",
             "sub_region_code":"4275000000_Gangwondo_Yeongwol"
         },
@@ -305,6 +332,7 @@
             "apt_type":"아파트",
             "apt_year":39.0,
             "value_score":41.0728421053,
+            "region":"강원도 영월군",
             "region_code":"Gangwondo",
             "sub_region_code":"4275000000_Gangwondo_Yeongwol"
         },
@@ -316,6 +344,7 @@
             "apt_type":"아파트",
             "apt_year":40.0,
             "value_score":41.0728421053,
+            "region":"강원도 영월군",
             "region_code":"Gangwondo",
             "sub_region_code":"4275000000_Gangwondo_Yeongwol"
         },
@@ -327,6 +356,7 @@
             "apt_type":"아파트",
             "apt_year":24.0,
             "value_score":38.836,
+            "region":"강원도 영월군",
             "region_code":"Gangwondo",
             "sub_region_code":"4275000000_Gangwondo_Yeongwol"
         },
@@ -338,6 +368,7 @@
             "apt_type":"아파트",
             "apt_year":31.0,
             "value_score":36.8623157895,
+            "region":"강원도 영월군",
             "region_code":"Gangwondo",
             "sub_region_code":"4275000000_Gangwondo_Yeongwol"
         },
@@ -349,6 +380,7 @@
             "apt_type":"아파트",
             "apt_year":2.0,
             "value_score":35.6029473684,
+            "region":"강원도 영월군",
             "region_code":"Gangwondo",
             "sub_region_code":"4275000000_Gangwondo_Yeongwol"
         },
@@ -360,6 +392,7 @@
             "apt_type":"아파트",
             "apt_year":33.0,
             "value_score":35.5353684211,
+            "region":"강원도 영월군",
             "region_code":"Gangwondo",
             "sub_region_code":"4275000000_Gangwondo_Yeongwol"
         },
@@ -371,6 +404,7 @@
             "apt_type":"아파트",
             "apt_year":11.0,
             "value_score":35.2833684211,
+            "region":"강원도 영월군",
             "region_code":"Gangwondo",
             "sub_region_code":"4275000000_Gangwondo_Yeongwol"
         },
@@ -382,6 +416,7 @@
             "apt_type":"아파트",
             "apt_year":7.0,
             "value_score":47.157,
+            "region":"강원도 영월군",
             "region_code":"Gangwondo",
             "sub_region_code":"4275000000_Gangwondo_Yeongwol"
         },
@@ -393,6 +428,7 @@
             "apt_type":"아파트",
             "apt_year":6.0,
             "value_score":47.032,
+            "region":"강원도 영월군",
             "region_code":"Gangwondo",
             "sub_region_code":"4275000000_Gangwondo_Yeongwol"
         },
@@ -404,6 +440,7 @@
             "apt_type":"아파트",
             "apt_year":2.0,
             "value_score":45.638,
+            "region":"강원도 영월군",
             "region_code":"Gangwondo",
             "sub_region_code":"4275000000_Gangwondo_Yeongwol"
         },
@@ -415,6 +452,7 @@
             "apt_type":"아파트",
             "apt_year":2.0,
             "value_score":45.431,
+            "region":"강원도 영월군",
             "region_code":"Gangwondo",
             "sub_region_code":"4275000000_Gangwondo_Yeongwol"
         },
@@ -426,6 +464,7 @@
             "apt_type":"아파트",
             "apt_year":10.0,
             "value_score":45.282,
+            "region":"강원도 영월군",
             "region_code":"Gangwondo",
             "sub_region_code":"4275000000_Gangwondo_Yeongwol"
         },
@@ -437,6 +476,7 @@
             "apt_type":"아파트",
             "apt_year":11.0,
             "value_score":45.132,
+            "region":"강원도 영월군",
             "region_code":"Gangwondo",
             "sub_region_code":"4275000000_Gangwondo_Yeongwol"
         },
@@ -448,6 +488,7 @@
             "apt_type":"아파트",
             "apt_year":24.0,
             "value_score":43.407,
+            "region":"강원도 영월군",
             "region_code":"Gangwondo",
             "sub_region_code":"4275000000_Gangwondo_Yeongwol"
         },
@@ -459,6 +500,7 @@
             "apt_type":"아파트",
             "apt_year":39.0,
             "value_score":42.282,
+            "region":"강원도 영월군",
             "region_code":"Gangwondo",
             "sub_region_code":"4275000000_Gangwondo_Yeongwol"
         },
@@ -470,6 +512,7 @@
             "apt_type":"아파트",
             "apt_year":40.0,
             "value_score":42.282,
+            "region":"강원도 영월군",
             "region_code":"Gangwondo",
             "sub_region_code":"4275000000_Gangwondo_Yeongwol"
         },
@@ -481,6 +524,7 @@
             "apt_type":"아파트",
             "apt_year":31.0,
             "value_score":40.282,
+            "region":"강원도 영월군",
             "region_code":"Gangwondo",
             "sub_region_code":"4275000000_Gangwondo_Yeongwol"
         }

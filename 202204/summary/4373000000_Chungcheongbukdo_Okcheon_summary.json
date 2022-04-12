@@ -30,6 +30,10 @@
                 "type":"number"
             },
             {
+                "name":"region",
+                "type":"string"
+            },
+            {
                 "name":"region_code",
                 "type":"string"
             },
@@ -52,6 +56,7 @@
             "apt_type":"아파트",
             "apt_year":6.0,
             "value_score":45.2945,
+            "region":"충청북도 옥천군",
             "region_code":"Chungcheongbukdo",
             "sub_region_code":"4373000000_Chungcheongbukdo_Okcheon"
         },
@@ -63,6 +68,7 @@
             "apt_type":"아파트",
             "apt_year":2.0,
             "value_score":41.2925,
+            "region":"충청북도 옥천군",
             "region_code":"Chungcheongbukdo",
             "sub_region_code":"4373000000_Chungcheongbukdo_Okcheon"
         },
@@ -74,6 +80,7 @@
             "apt_type":"아파트",
             "apt_year":16.0,
             "value_score":39.5425,
+            "region":"충청북도 옥천군",
             "region_code":"Chungcheongbukdo",
             "sub_region_code":"4373000000_Chungcheongbukdo_Okcheon"
         },
@@ -85,6 +92,7 @@
             "apt_type":"아파트",
             "apt_year":2.0,
             "value_score":39.3695,
+            "region":"충청북도 옥천군",
             "region_code":"Chungcheongbukdo",
             "sub_region_code":"4373000000_Chungcheongbukdo_Okcheon"
         },
@@ -96,6 +104,7 @@
             "apt_type":"아파트",
             "apt_year":6.0,
             "value_score":36.4575,
+            "region":"충청북도 옥천군",
             "region_code":"Chungcheongbukdo",
             "sub_region_code":"4373000000_Chungcheongbukdo_Okcheon"
         },
@@ -107,6 +116,7 @@
             "apt_type":"아파트",
             "apt_year":21.0,
             "value_score":35.0575,
+            "region":"충청북도 옥천군",
             "region_code":"Chungcheongbukdo",
             "sub_region_code":"4373000000_Chungcheongbukdo_Okcheon"
         },
@@ -118,6 +128,7 @@
             "apt_type":"아파트",
             "apt_year":28.0,
             "value_score":33.9695,
+            "region":"충청북도 옥천군",
             "region_code":"Chungcheongbukdo",
             "sub_region_code":"4373000000_Chungcheongbukdo_Okcheon"
         },
@@ -129,6 +140,7 @@
             "apt_type":"아파트",
             "apt_year":24.0,
             "value_score":33.8575,
+            "region":"충청북도 옥천군",
             "region_code":"Chungcheongbukdo",
             "sub_region_code":"4373000000_Chungcheongbukdo_Okcheon"
         },
@@ -140,6 +152,7 @@
             "apt_type":"아파트",
             "apt_year":25.0,
             "value_score":32.4575,
+            "region":"충청북도 옥천군",
             "region_code":"Chungcheongbukdo",
             "sub_region_code":"4373000000_Chungcheongbukdo_Okcheon"
         },
@@ -151,6 +164,7 @@
             "apt_type":"아파트",
             "apt_year":19.0,
             "value_score":31.8425,
+            "region":"충청북도 옥천군",
             "region_code":"Chungcheongbukdo",
             "sub_region_code":"4373000000_Chungcheongbukdo_Okcheon"
         },
@@ -162,6 +176,7 @@
             "apt_type":"아파트",
             "apt_year":6.0,
             "value_score":51.1445,
+            "region":"충청북도 옥천군",
             "region_code":"Chungcheongbukdo",
             "sub_region_code":"4373000000_Chungcheongbukdo_Okcheon"
         },
@@ -173,6 +188,7 @@
             "apt_type":"아파트",
             "apt_year":2.0,
             "value_score":47.2325,
+            "region":"충청북도 옥천군",
             "region_code":"Chungcheongbukdo",
             "sub_region_code":"4373000000_Chungcheongbukdo_Okcheon"
         },
@@ -184,6 +200,7 @@
             "apt_type":"아파트",
             "apt_year":16.0,
             "value_score":44.7325,
+            "region":"충청북도 옥천군",
             "region_code":"Chungcheongbukdo",
             "sub_region_code":"4373000000_Chungcheongbukdo_Okcheon"
         },
@@ -195,6 +212,7 @@
             "apt_type":"아파트",
             "apt_year":2.0,
             "value_score":43.6445,
+            "region":"충청북도 옥천군",
             "region_code":"Chungcheongbukdo",
             "sub_region_code":"4373000000_Chungcheongbukdo_Okcheon"
         },
@@ -206,6 +224,7 @@
             "apt_type":"아파트",
             "apt_year":6.0,
             "value_score":40.1325,
+            "region":"충청북도 옥천군",
             "region_code":"Chungcheongbukdo",
             "sub_region_code":"4373000000_Chungcheongbukdo_Okcheon"
         },
@@ -217,6 +236,7 @@
             "apt_type":"아파트",
             "apt_year":21.0,
             "value_score":38.1325,
+            "region":"충청북도 옥천군",
             "region_code":"Chungcheongbukdo",
             "sub_region_code":"4373000000_Chungcheongbukdo_Okcheon"
         },
@@ -228,6 +248,7 @@
             "apt_type":"아파트",
             "apt_year":24.0,
             "value_score":37.3825,
+            "region":"충청북도 옥천군",
             "region_code":"Chungcheongbukdo",
             "sub_region_code":"4373000000_Chungcheongbukdo_Okcheon"
         },
@@ -239,6 +260,7 @@
             "apt_type":"아파트",
             "apt_year":28.0,
             "value_score":36.8945,
+            "region":"충청북도 옥천군",
             "region_code":"Chungcheongbukdo",
             "sub_region_code":"4373000000_Chungcheongbukdo_Okcheon"
         },
@@ -250,6 +272,7 @@
             "apt_type":"아파트",
             "apt_year":25.0,
             "value_score":35.3825,
+            "region":"충청북도 옥천군",
             "region_code":"Chungcheongbukdo",
             "sub_region_code":"4373000000_Chungcheongbukdo_Okcheon"
         },
@@ -261,6 +284,7 @@
             "apt_type":"아파트",
             "apt_year":19.0,
             "value_score":33.7325,
+            "region":"충청북도 옥천군",
             "region_code":"Chungcheongbukdo",
             "sub_region_code":"4373000000_Chungcheongbukdo_Okcheon"
         },
@@ -272,6 +296,7 @@
             "apt_type":"아파트",
             "apt_year":6.0,
             "value_score":40.3404210526,
+            "region":"충청북도 옥천군",
             "region_code":"Chungcheongbukdo",
             "sub_region_code":"4373000000_Chungcheongbukdo_Okcheon"
         },
@@ -283,6 +308,7 @@
             "apt_type":"아파트",
             "apt_year":2.0,
             "value_score":36.6298947368,
+            "region":"충청북도 옥천군",
             "region_code":"Chungcheongbukdo",
             "sub_region_code":"4373000000_Chungcheongbukdo_Okcheon"
         },
@@ -294,6 +320,7 @@
             "apt_type":"아파트",
             "apt_year":2.0,
             "value_score":36.0621052632,
+            "region":"충청북도 옥천군",
             "region_code":"Chungcheongbukdo",
             "sub_region_code":"4373000000_Chungcheongbukdo_Okcheon"
         },
@@ -305,6 +332,7 @@
             "apt_type":"아파트",
             "apt_year":16.0,
             "value_score":35.2726315789,
+            "region":"충청북도 옥천군",
             "region_code":"Chungcheongbukdo",
             "sub_region_code":"4373000000_Chungcheongbukdo_Okcheon"
         },
@@ -316,6 +344,7 @@
             "apt_type":"아파트",
             "apt_year":6.0,
             "value_score":34.0884210526,
+            "region":"충청북도 옥천군",
             "region_code":"Chungcheongbukdo",
             "sub_region_code":"4373000000_Chungcheongbukdo_Okcheon"
         },
@@ -327,6 +356,7 @@
             "apt_type":"아파트",
             "apt_year":21.0,
             "value_score":33.4568421053,
+            "region":"충청북도 옥천군",
             "region_code":"Chungcheongbukdo",
             "sub_region_code":"4373000000_Chungcheongbukdo_Okcheon"
         },
@@ -338,6 +368,7 @@
             "apt_type":"아파트",
             "apt_year":28.0,
             "value_score":33.1562105263,
+            "region":"충청북도 옥천군",
             "region_code":"Chungcheongbukdo",
             "sub_region_code":"4373000000_Chungcheongbukdo_Okcheon"
         },
@@ -349,6 +380,7 @@
             "apt_type":"아파트",
             "apt_year":26.0,
             "value_score":32.6936842105,
+            "region":"충청북도 옥천군",
             "region_code":"Chungcheongbukdo",
             "sub_region_code":"4373000000_Chungcheongbukdo_Okcheon"
         },
@@ -360,6 +392,7 @@
             "apt_type":"아파트",
             "apt_year":24.0,
             "value_score":31.8778947368,
+            "region":"충청북도 옥천군",
             "region_code":"Chungcheongbukdo",
             "sub_region_code":"4373000000_Chungcheongbukdo_Okcheon"
         },
@@ -371,6 +404,7 @@
             "apt_type":"아파트",
             "apt_year":19.0,
             "value_score":31.7989473684,
+            "region":"충청북도 옥천군",
             "region_code":"Chungcheongbukdo",
             "sub_region_code":"4373000000_Chungcheongbukdo_Okcheon"
         },
@@ -382,6 +416,7 @@
             "apt_type":"아파트",
             "apt_year":6.0,
             "value_score":51.039,
+            "region":"충청북도 옥천군",
             "region_code":"Chungcheongbukdo",
             "sub_region_code":"4373000000_Chungcheongbukdo_Okcheon"
         },
@@ -393,6 +428,7 @@
             "apt_type":"아파트",
             "apt_year":2.0,
             "value_score":46.914,
+            "region":"충청북도 옥천군",
             "region_code":"Chungcheongbukdo",
             "sub_region_code":"4373000000_Chungcheongbukdo_Okcheon"
         },
@@ -404,6 +440,7 @@
             "apt_type":"아파트",
             "apt_year":2.0,
             "value_score":46.365,
+            "region":"충청북도 옥천군",
             "region_code":"Chungcheongbukdo",
             "sub_region_code":"4373000000_Chungcheongbukdo_Okcheon"
         },
@@ -415,6 +452,7 @@
             "apt_type":"아파트",
             "apt_year":16.0,
             "value_score":45.115,
+            "region":"충청북도 옥천군",
             "region_code":"Chungcheongbukdo",
             "sub_region_code":"4373000000_Chungcheongbukdo_Okcheon"
         },
@@ -426,6 +464,7 @@
             "apt_type":"아파트",
             "apt_year":28.0,
             "value_score":43.164,
+            "region":"충청북도 옥천군",
             "region_code":"Chungcheongbukdo",
             "sub_region_code":"4373000000_Chungcheongbukdo_Okcheon"
         },
@@ -437,6 +476,7 @@
             "apt_type":"아파트",
             "apt_year":6.0,
             "value_score":42.89,
+            "region":"충청북도 옥천군",
             "region_code":"Chungcheongbukdo",
             "sub_region_code":"4373000000_Chungcheongbukdo_Okcheon"
         },
@@ -448,6 +488,7 @@
             "apt_type":"아파트",
             "apt_year":21.0,
             "value_score":41.89,
+            "region":"충청북도 옥천군",
             "region_code":"Chungcheongbukdo",
             "sub_region_code":"4373000000_Chungcheongbukdo_Okcheon"
         },
@@ -459,6 +500,7 @@
             "apt_type":"아파트",
             "apt_year":24.0,
             "value_score":41.14,
+            "region":"충청북도 옥천군",
             "region_code":"Chungcheongbukdo",
             "sub_region_code":"4373000000_Chungcheongbukdo_Okcheon"
         },
@@ -470,6 +512,7 @@
             "apt_type":"아파트",
             "apt_year":25.0,
             "value_score":40.14,
+            "region":"충청북도 옥천군",
             "region_code":"Chungcheongbukdo",
             "sub_region_code":"4373000000_Chungcheongbukdo_Okcheon"
         },
@@ -481,6 +524,7 @@
             "apt_type":"아파트",
             "apt_year":21.0,
             "value_score":40.039,
+            "region":"충청북도 옥천군",
             "region_code":"Chungcheongbukdo",
             "sub_region_code":"4373000000_Chungcheongbukdo_Okcheon"
         }

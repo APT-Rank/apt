@@ -30,6 +30,10 @@
                 "type":"number"
             },
             {
+                "name":"region",
+                "type":"string"
+            },
+            {
                 "name":"region_code",
                 "type":"string"
             },
@@ -52,6 +56,7 @@
             "apt_type":"아파트",
             "apt_year":4.0,
             "value_score":75.6412,
+            "region":"서울시 용산구",
             "region_code":"Seoul",
             "sub_region_code":"1117000000_Seoul_Yongsan"
         },
@@ -63,6 +68,7 @@
             "apt_type":"아파트",
             "apt_year":3.0,
             "value_score":75.0895,
+            "region":"서울시 용산구",
             "region_code":"Seoul",
             "sub_region_code":"1117000000_Seoul_Yongsan"
         },
@@ -74,6 +80,7 @@
             "apt_type":"아파트",
             "apt_year":9.0,
             "value_score":74.6218,
+            "region":"서울시 용산구",
             "region_code":"Seoul",
             "sub_region_code":"1117000000_Seoul_Yongsan"
         },
@@ -85,6 +92,7 @@
             "apt_type":"아파트",
             "apt_year":4.0,
             "value_score":74.6042,
+            "region":"서울시 용산구",
             "region_code":"Seoul",
             "sub_region_code":"1117000000_Seoul_Yongsan"
         },
@@ -96,6 +104,7 @@
             "apt_type":"아파트",
             "apt_year":18.0,
             "value_score":72.9215,
+            "region":"서울시 용산구",
             "region_code":"Seoul",
             "sub_region_code":"1117000000_Seoul_Yongsan"
         },
@@ -107,6 +116,7 @@
             "apt_type":"아파트",
             "apt_year":16.0,
             "value_score":72.6415,
+            "region":"서울시 용산구",
             "region_code":"Seoul",
             "sub_region_code":"1117000000_Seoul_Yongsan"
         },
@@ -118,6 +128,7 @@
             "apt_type":"아파트",
             "apt_year":13.0,
             "value_score":72.5415,
+            "region":"서울시 용산구",
             "region_code":"Seoul",
             "sub_region_code":"1117000000_Seoul_Yongsan"
         },
@@ -129,6 +140,7 @@
             "apt_type":"아파트",
             "apt_year":14.0,
             "value_score":72.3895,
+            "region":"서울시 용산구",
             "region_code":"Seoul",
             "sub_region_code":"1117000000_Seoul_Yongsan"
         },
@@ -140,6 +152,7 @@
             "apt_type":"아파트",
             "apt_year":12.0,
             "value_score":72.3772,
+            "region":"서울시 용산구",
             "region_code":"Seoul",
             "sub_region_code":"1117000000_Seoul_Yongsan"
         },
@@ -151,6 +164,7 @@
             "apt_type":"아파트",
             "apt_year":6.0,
             "value_score":71.5095,
+            "region":"서울시 용산구",
             "region_code":"Seoul",
             "sub_region_code":"1117000000_Seoul_Yongsan"
         },
@@ -162,6 +176,7 @@
             "apt_type":"아파트",
             "apt_year":3.0,
             "value_score":77.636,
+            "region":"서울시 용산구",
             "region_code":"Seoul",
             "sub_region_code":"1117000000_Seoul_Yongsan"
         },
@@ -173,6 +188,7 @@
             "apt_type":"아파트",
             "apt_year":8.0,
             "value_score":71.7356,
+            "region":"서울시 용산구",
             "region_code":"Seoul",
             "sub_region_code":"1117000000_Seoul_Yongsan"
         },
@@ -184,6 +200,7 @@
             "apt_type":"아파트",
             "apt_year":14.0,
             "value_score":70.886,
+            "region":"서울시 용산구",
             "region_code":"Seoul",
             "sub_region_code":"1117000000_Seoul_Yongsan"
         },
@@ -195,6 +212,7 @@
             "apt_type":"아파트",
             "apt_year":4.0,
             "value_score":68.4556,
+            "region":"서울시 용산구",
             "region_code":"Seoul",
             "sub_region_code":"1117000000_Seoul_Yongsan"
         },
@@ -206,6 +224,7 @@
             "apt_type":"아파트",
             "apt_year":4.0,
             "value_score":67.6216,
+            "region":"서울시 용산구",
             "region_code":"Seoul",
             "sub_region_code":"1117000000_Seoul_Yongsan"
         },
@@ -217,6 +236,7 @@
             "apt_type":"아파트",
             "apt_year":12.0,
             "value_score":67.0556,
+            "region":"서울시 용산구",
             "region_code":"Seoul",
             "sub_region_code":"1117000000_Seoul_Yongsan"
         },
@@ -228,6 +248,7 @@
             "apt_type":"아파트",
             "apt_year":9.0,
             "value_score":66.7124,
+            "region":"서울시 용산구",
             "region_code":"Seoul",
             "sub_region_code":"1117000000_Seoul_Yongsan"
         },
@@ -239,6 +260,7 @@
             "apt_type":"재건축",
             "apt_year":52.0,
             "value_score":65.7356,
+            "region":"서울시 용산구",
             "region_code":"Seoul",
             "sub_region_code":"1117000000_Seoul_Yongsan"
         },
@@ -250,6 +272,7 @@
             "apt_type":"아파트",
             "apt_year":23.0,
             "value_score":65.3856,
+            "region":"서울시 용산구",
             "region_code":"Seoul",
             "sub_region_code":"1117000000_Seoul_Yongsan"
         },
@@ -261,6 +284,7 @@
             "apt_type":"아파트",
             "apt_year":12.0,
             "value_score":65.072,
+            "region":"서울시 용산구",
             "region_code":"Seoul",
             "sub_region_code":"1117000000_Seoul_Yongsan"
         },
@@ -272,6 +296,7 @@
             "apt_type":"아파트",
             "apt_year":3.0,
             "value_score":78.7645,
+            "region":"서울시 용산구",
             "region_code":"Seoul",
             "sub_region_code":"1117000000_Seoul_Yongsan"
         },
@@ -283,6 +308,7 @@
             "apt_type":"아파트",
             "apt_year":6.0,
             "value_score":78.4695,
+            "region":"서울시 용산구",
             "region_code":"Seoul",
             "sub_region_code":"1117000000_Seoul_Yongsan"
         },
@@ -294,6 +320,7 @@
             "apt_type":"아파트",
             "apt_year":4.0,
             "value_score":78.1912,
+            "region":"서울시 용산구",
             "region_code":"Seoul",
             "sub_region_code":"1117000000_Seoul_Yongsan"
         },
@@ -305,6 +332,7 @@
             "apt_type":"아파트",
             "apt_year":4.0,
             "value_score":77.6792,
+            "region":"서울시 용산구",
             "region_code":"Seoul",
             "sub_region_code":"1117000000_Seoul_Yongsan"
         },
@@ -316,6 +344,7 @@
             "apt_type":"아파트",
             "apt_year":9.0,
             "value_score":77.6468,
+            "region":"서울시 용산구",
             "region_code":"Seoul",
             "sub_region_code":"1117000000_Seoul_Yongsan"
         },
@@ -327,6 +356,7 @@
             "apt_type":"아파트",
             "apt_year":14.0,
             "value_score":76.7395,
+            "region":"서울시 용산구",
             "region_code":"Seoul",
             "sub_region_code":"1117000000_Seoul_Yongsan"
         },
@@ -338,6 +368,7 @@
             "apt_type":"아파트",
             "apt_year":18.0,
             "value_score":76.1465,
+            "region":"서울시 용산구",
             "region_code":"Seoul",
             "sub_region_code":"1117000000_Seoul_Yongsan"
         },
@@ -349,6 +380,7 @@
             "apt_type":"아파트",
             "apt_year":25.0,
             "value_score":76.1142,
+            "region":"서울시 용산구",
             "region_code":"Seoul",
             "sub_region_code":"1117000000_Seoul_Yongsan"
         },
@@ -360,6 +392,7 @@
             "apt_type":"아파트",
             "apt_year":12.0,
             "value_score":76.0022,
+            "region":"서울시 용산구",
             "region_code":"Seoul",
             "sub_region_code":"1117000000_Seoul_Yongsan"
         },
@@ -371,6 +404,7 @@
             "apt_type":"아파트",
             "apt_year":16.0,
             "value_score":75.7415,
+            "region":"서울시 용산구",
             "region_code":"Seoul",
             "sub_region_code":"1117000000_Seoul_Yongsan"
         },
@@ -382,6 +416,7 @@
             "apt_type":"아파트",
             "apt_year":16.0,
             "value_score":73.2025,
+            "region":"서울시 용산구",
             "region_code":"Seoul",
             "sub_region_code":"1117000000_Seoul_Yongsan"
         },
@@ -393,6 +428,7 @@
             "apt_type":"아파트",
             "apt_year":10.0,
             "value_score":72.8575,
+            "region":"서울시 용산구",
             "region_code":"Seoul",
             "sub_region_code":"1117000000_Seoul_Yongsan"
         },
@@ -404,6 +440,7 @@
             "apt_type":"아파트",
             "apt_year":18.0,
             "value_score":72.8525,
+            "region":"서울시 용산구",
             "region_code":"Seoul",
             "sub_region_code":"1117000000_Seoul_Yongsan"
         },
@@ -415,6 +452,7 @@
             "apt_type":"아파트",
             "apt_year":12.0,
             "value_score":72.412,
+            "region":"서울시 용산구",
             "region_code":"Seoul",
             "sub_region_code":"1117000000_Seoul_Yongsan"
         },
@@ -426,6 +464,7 @@
             "apt_type":"아파트",
             "apt_year":8.0,
             "value_score":72.1525,
+            "region":"서울시 용산구",
             "region_code":"Seoul",
             "sub_region_code":"1117000000_Seoul_Yongsan"
         },
@@ -437,6 +476,7 @@
             "apt_type":"아파트",
             "apt_year":13.0,
             "value_score":72.1025,
+            "region":"서울시 용산구",
             "region_code":"Seoul",
             "sub_region_code":"1117000000_Seoul_Yongsan"
         },
@@ -448,6 +488,7 @@
             "apt_type":"아파트",
             "apt_year":4.0,
             "value_score":71.902,
+            "region":"서울시 용산구",
             "region_code":"Seoul",
             "sub_region_code":"1117000000_Seoul_Yongsan"
         },
@@ -459,6 +500,7 @@
             "apt_type":"아파트",
             "apt_year":19.0,
             "value_score":71.8975,
+            "region":"서울시 용산구",
             "region_code":"Seoul",
             "sub_region_code":"1117000000_Seoul_Yongsan"
         },
@@ -470,6 +512,7 @@
             "apt_type":"아파트",
             "apt_year":11.0,
             "value_score":71.7025,
+            "region":"서울시 용산구",
             "region_code":"Seoul",
             "sub_region_code":"1117000000_Seoul_Yongsan"
         },
@@ -481,6 +524,7 @@
             "apt_type":"아파트",
             "apt_year":16.0,
             "value_score":71.3025,
+            "region":"서울시 용산구",
             "region_code":"Seoul",
             "sub_region_code":"1117000000_Seoul_Yongsan"
         },
@@ -492,6 +536,7 @@
             "apt_type":"아파트",
             "apt_year":3.0,
             "value_score":69.665,
+            "region":"서울시 용산구",
             "region_code":"Seoul",
             "sub_region_code":"1117000000_Seoul_Yongsan"
         },
@@ -503,6 +548,7 @@
             "apt_type":"아파트",
             "apt_year":8.0,
             "value_score":67.364,
+            "region":"서울시 용산구",
             "region_code":"Seoul",
             "sub_region_code":"1117000000_Seoul_Yongsan"
         },
@@ -514,6 +560,7 @@
             "apt_type":"아파트",
             "apt_year":14.0,
             "value_score":66.965,
+            "region":"서울시 용산구",
             "region_code":"Seoul",
             "sub_region_code":"1117000000_Seoul_Yongsan"
         },
@@ -525,6 +572,7 @@
             "apt_type":"아파트",
             "apt_year":23.0,
             "value_score":64.764,
+            "region":"서울시 용산구",
             "region_code":"Seoul",
             "sub_region_code":"1117000000_Seoul_Yongsan"
         },
@@ -536,6 +584,7 @@
             "apt_type":"아파트",
             "apt_year":22.0,
             "value_score":64.726,
+            "region":"서울시 용산구",
             "region_code":"Seoul",
             "sub_region_code":"1117000000_Seoul_Yongsan"
         },
@@ -547,6 +596,7 @@
             "apt_type":"아파트",
             "apt_year":4.0,
             "value_score":64.714,
+            "region":"서울시 용산구",
             "region_code":"Seoul",
             "sub_region_code":"1117000000_Seoul_Yongsan"
         },
@@ -558,6 +608,7 @@
             "apt_type":"아파트",
             "apt_year":9.0,
             "value_score":64.706,
+            "region":"서울시 용산구",
             "region_code":"Seoul",
             "sub_region_code":"1117000000_Seoul_Yongsan"
         },
@@ -569,6 +620,7 @@
             "apt_type":"아파트",
             "apt_year":4.0,
             "value_score":64.204,
+            "region":"서울시 용산구",
             "region_code":"Seoul",
             "sub_region_code":"1117000000_Seoul_Yongsan"
         },
@@ -580,6 +632,7 @@
             "apt_type":"아파트",
             "apt_year":16.0,
             "value_score":64.065,
+            "region":"서울시 용산구",
             "region_code":"Seoul",
             "sub_region_code":"1117000000_Seoul_Yongsan"
         },
@@ -591,6 +644,7 @@
             "apt_type":"아파트",
             "apt_year":6.0,
             "value_score":63.645,
+            "region":"서울시 용산구",
             "region_code":"Seoul",
             "sub_region_code":"1117000000_Seoul_Yongsan"
         }

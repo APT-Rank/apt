@@ -30,6 +30,10 @@
                 "type":"number"
             },
             {
+                "name":"region",
+                "type":"string"
+            },
+            {
                 "name":"region_code",
                 "type":"string"
             },
@@ -52,6 +56,7 @@
             "apt_type":"분양권",
             "apt_year":1,
             "value_score":68.5814,
+            "region":"대구시 서구",
             "region_code":"Daegu",
             "sub_region_code":"2717000000_Daegu_Seo"
         },
@@ -63,6 +68,7 @@
             "apt_type":"분양권",
             "apt_year":0,
             "value_score":58.9692,
+            "region":"대구시 서구",
             "region_code":"Daegu",
             "sub_region_code":"2717000000_Daegu_Seo"
         },
@@ -74,6 +80,7 @@
             "apt_type":"아파트",
             "apt_year":44,
             "value_score":54.6514,
+            "region":"대구시 서구",
             "region_code":"Daegu",
             "sub_region_code":"2717000000_Daegu_Seo"
         },
@@ -85,6 +92,7 @@
             "apt_type":"아파트",
             "apt_year":37,
             "value_score":53.6064,
+            "region":"대구시 서구",
             "region_code":"Daegu",
             "sub_region_code":"2717000000_Daegu_Seo"
         },
@@ -96,6 +104,7 @@
             "apt_type":"아파트",
             "apt_year":14,
             "value_score":53.1856,
+            "region":"대구시 서구",
             "region_code":"Daegu",
             "sub_region_code":"2717000000_Daegu_Seo"
         },
@@ -107,6 +116,7 @@
             "apt_type":"아파트",
             "apt_year":35,
             "value_score":52.6834,
+            "region":"대구시 서구",
             "region_code":"Daegu",
             "sub_region_code":"2717000000_Daegu_Seo"
         },
@@ -118,6 +128,7 @@
             "apt_type":"아파트",
             "apt_year":35,
             "value_score":51.4584,
+            "region":"대구시 서구",
             "region_code":"Daegu",
             "sub_region_code":"2717000000_Daegu_Seo"
         },
@@ -129,6 +140,7 @@
             "apt_type":"분양권",
             "apt_year":0,
             "value_score":50.9662,
+            "region":"대구시 서구",
             "region_code":"Daegu",
             "sub_region_code":"2717000000_Daegu_Seo"
         },
@@ -140,6 +152,7 @@
             "apt_type":"분양권",
             "apt_year":0,
             "value_score":50.7906,
+            "region":"대구시 서구",
             "region_code":"Daegu",
             "sub_region_code":"2717000000_Daegu_Seo"
         },
@@ -151,6 +164,7 @@
             "apt_type":"아파트",
             "apt_year":14,
             "value_score":50.4656,
+            "region":"대구시 서구",
             "region_code":"Daegu",
             "sub_region_code":"2717000000_Daegu_Seo"
         },
@@ -162,6 +176,7 @@
             "apt_type":"분양권",
             "apt_year":1,
             "value_score":75.8876,
+            "region":"대구시 서구",
             "region_code":"Daegu",
             "sub_region_code":"2717000000_Daegu_Seo"
         },
@@ -173,6 +188,7 @@
             "apt_type":"분양권",
             "apt_year":0,
             "value_score":66.8128,
+            "region":"대구시 서구",
             "region_code":"Daegu",
             "sub_region_code":"2717000000_Daegu_Seo"
         },
@@ -184,6 +200,7 @@
             "apt_type":"아파트",
             "apt_year":14,
             "value_score":62.3104,
+            "region":"대구시 서구",
             "region_code":"Daegu",
             "sub_region_code":"2717000000_Daegu_Seo"
         },
@@ -195,6 +212,7 @@
             "apt_type":"분양권",
             "apt_year":0,
             "value_score":61.3604,
+            "region":"대구시 서구",
             "region_code":"Daegu",
             "sub_region_code":"2717000000_Daegu_Seo"
         },
@@ -206,6 +224,7 @@
             "apt_type":"아파트",
             "apt_year":14,
             "value_score":61.2904,
+            "region":"대구시 서구",
             "region_code":"Daegu",
             "sub_region_code":"2717000000_Daegu_Seo"
         },
@@ -217,6 +236,7 @@
             "apt_type":"분양권",
             "apt_year":0,
             "value_score":59.8608,
+            "region":"대구시 서구",
             "region_code":"Daegu",
             "sub_region_code":"2717000000_Daegu_Seo"
         },
@@ -228,6 +248,7 @@
             "apt_type":"아파트",
             "apt_year":12,
             "value_score":59.8408,
+            "region":"대구시 서구",
             "region_code":"Daegu",
             "sub_region_code":"2717000000_Daegu_Seo"
         },
@@ -239,6 +260,7 @@
             "apt_type":"분양권",
             "apt_year":0,
             "value_score":59.8108,
+            "region":"대구시 서구",
             "region_code":"Daegu",
             "sub_region_code":"2717000000_Daegu_Seo"
         },
@@ -250,6 +272,7 @@
             "apt_type":"분양권",
             "apt_year":0,
             "value_score":57.5892,
+            "region":"대구시 서구",
             "region_code":"Daegu",
             "sub_region_code":"2717000000_Daegu_Seo"
         },
@@ -261,6 +284,7 @@
             "apt_type":"분양권",
             "apt_year":-1,
             "value_score":56.2904,
+            "region":"대구시 서구",
             "region_code":"Daegu",
             "sub_region_code":"2717000000_Daegu_Seo"
         },
@@ -272,6 +296,7 @@
             "apt_type":"분양권",
             "apt_year":0,
             "value_score":59.7971,
+            "region":"대구시 서구",
             "region_code":"Daegu",
             "sub_region_code":"2717000000_Daegu_Seo"
         },
@@ -283,6 +308,7 @@
             "apt_type":"분양권",
             "apt_year":1,
             "value_score":59.4282,
+            "region":"대구시 서구",
             "region_code":"Daegu",
             "sub_region_code":"2717000000_Daegu_Seo"
         },
@@ -294,6 +320,7 @@
             "apt_type":"아파트",
             "apt_year":37,
             "value_score":59.0532,
+            "region":"대구시 서구",
             "region_code":"Daegu",
             "sub_region_code":"2717000000_Daegu_Seo"
         },
@@ -305,6 +332,7 @@
             "apt_type":"아파트",
             "apt_year":35,
             "value_score":57.6292,
+            "region":"대구시 서구",
             "region_code":"Daegu",
             "sub_region_code":"2717000000_Daegu_Seo"
         },
@@ -316,6 +344,7 @@
             "apt_type":"아파트",
             "apt_year":25,
             "value_score":56.6518,
+            "region":"대구시 서구",
             "region_code":"Daegu",
             "sub_region_code":"2717000000_Daegu_Seo"
         },
@@ -327,6 +356,7 @@
             "apt_type":"아파트",
             "apt_year":44,
             "value_score":51.3794,
+            "region":"대구시 서구",
             "region_code":"Daegu",
             "sub_region_code":"2717000000_Daegu_Seo"
         },
@@ -338,6 +368,7 @@
             "apt_type":"아파트",
             "apt_year":44,
             "value_score":51.0582,
+            "region":"대구시 서구",
             "region_code":"Daegu",
             "sub_region_code":"2717000000_Daegu_Seo"
         },
@@ -349,6 +380,7 @@
             "apt_type":"아파트",
             "apt_year":35,
             "value_score":49.7542,
+            "region":"대구시 서구",
             "region_code":"Daegu",
             "sub_region_code":"2717000000_Daegu_Seo"
         },
@@ -360,6 +392,7 @@
             "apt_type":"아파트",
             "apt_year":41,
             "value_score":49.6021,
+            "region":"대구시 서구",
             "region_code":"Daegu",
             "sub_region_code":"2717000000_Daegu_Seo"
         },
@@ -371,6 +404,7 @@
             "apt_type":"아파트",
             "apt_year":29,
             "value_score":48.6544,
+            "region":"대구시 서구",
             "region_code":"Daegu",
             "sub_region_code":"2717000000_Daegu_Seo"
         },
@@ -382,6 +416,7 @@
             "apt_type":"분양권",
             "apt_year":1,
             "value_score":67.222,
+            "region":"대구시 서구",
             "region_code":"Daegu",
             "sub_region_code":"2717000000_Daegu_Seo"
         },
@@ -393,6 +428,7 @@
             "apt_type":"아파트",
             "apt_year":37,
             "value_score":63.122,
+            "region":"대구시 서구",
             "region_code":"Daegu",
             "sub_region_code":"2717000000_Daegu_Seo"
         },
@@ -404,6 +440,7 @@
             "apt_type":"아파트",
             "apt_year":44,
             "value_score":61.422,
+            "region":"대구시 서구",
             "region_code":"Daegu",
             "sub_region_code":"2717000000_Daegu_Seo"
         },
@@ -415,6 +452,7 @@
             "apt_type":"아파트",
             "apt_year":25,
             "value_score":61.203,
+            "region":"대구시 서구",
             "region_code":"Daegu",
             "sub_region_code":"2717000000_Daegu_Seo"
         },
@@ -426,6 +464,7 @@
             "apt_type":"아파트",
             "apt_year":35,
             "value_score":59.582,
+            "region":"대구시 서구",
             "region_code":"Daegu",
             "sub_region_code":"2717000000_Daegu_Seo"
         },
@@ -437,6 +476,7 @@
             "apt_type":"아파트",
             "apt_year":35,
             "value_score":58.182,
+            "region":"대구시 서구",
             "region_code":"Daegu",
             "sub_region_code":"2717000000_Daegu_Seo"
         },
@@ -448,6 +488,7 @@
             "apt_type":"분양권",
             "apt_year":0,
             "value_score":55.4535,
+            "region":"대구시 서구",
             "region_code":"Daegu",
             "sub_region_code":"2717000000_Daegu_Seo"
         },
@@ -459,6 +500,7 @@
             "apt_type":"아파트",
             "apt_year":35,
             "value_score":55.136,
+            "region":"대구시 서구",
             "region_code":"Daegu",
             "sub_region_code":"2717000000_Daegu_Seo"
         },
@@ -470,6 +512,7 @@
             "apt_type":"아파트",
             "apt_year":41,
             "value_score":51.9875,
+            "region":"대구시 서구",
             "region_code":"Daegu",
             "sub_region_code":"2717000000_Daegu_Seo"
         },
@@ -481,6 +524,7 @@
             "apt_type":"아파트",
             "apt_year":14,
             "value_score":49.2255,
+            "region":"대구시 서구",
             "region_code":"Daegu",
             "sub_region_code":"2717000000_Daegu_Seo"
         },
@@ -492,6 +536,7 @@
             "apt_type":"분양권",
             "apt_year":1,
             "value_score":65.444,
+            "region":"대구시 서구",
             "region_code":"Daegu",
             "sub_region_code":"2717000000_Daegu_Seo"
         },
@@ -503,6 +548,7 @@
             "apt_type":"아파트",
             "apt_year":14,
             "value_score":54.931,
+            "region":"대구시 서구",
             "region_code":"Daegu",
             "sub_region_code":"2717000000_Daegu_Seo"
         },
@@ -514,6 +560,7 @@
             "apt_type":"분양권",
             "apt_year":0,
             "value_score":54.907,
+            "region":"대구시 서구",
             "region_code":"Daegu",
             "sub_region_code":"2717000000_Daegu_Seo"
         },
@@ -525,6 +572,7 @@
             "apt_type":"아파트",
             "apt_year":44,
             "value_score":54.324,
+            "region":"대구시 서구",
             "region_code":"Daegu",
             "sub_region_code":"2717000000_Daegu_Seo"
         },
@@ -536,6 +584,7 @@
             "apt_type":"분양권",
             "apt_year":0,
             "value_score":53.876,
+            "region":"대구시 서구",
             "region_code":"Daegu",
             "sub_region_code":"2717000000_Daegu_Seo"
         },
@@ -547,6 +596,7 @@
             "apt_type":"아파트",
             "apt_year":14,
             "value_score":53.776,
+            "region":"대구시 서구",
             "region_code":"Daegu",
             "sub_region_code":"2717000000_Daegu_Seo"
         },
@@ -558,6 +608,7 @@
             "apt_type":"분양권",
             "apt_year":0,
             "value_score":53.452,
+            "region":"대구시 서구",
             "region_code":"Daegu",
             "sub_region_code":"2717000000_Daegu_Seo"
         },
@@ -569,6 +620,7 @@
             "apt_type":"아파트",
             "apt_year":37,
             "value_score":53.044,
+            "region":"대구시 서구",
             "region_code":"Daegu",
             "sub_region_code":"2717000000_Daegu_Seo"
         },
@@ -580,6 +632,7 @@
             "apt_type":"아파트",
             "apt_year":12,
             "value_score":53.032,
+            "region":"대구시 서구",
             "region_code":"Daegu",
             "sub_region_code":"2717000000_Daegu_Seo"
         },
@@ -591,6 +644,7 @@
             "apt_type":"아파트",
             "apt_year":35,
             "value_score":52.964,
+            "region":"대구시 서구",
             "region_code":"Daegu",
             "sub_region_code":"2717000000_Daegu_Seo"
         }

@@ -30,6 +30,10 @@
                 "type":"number"
             },
             {
+                "name":"region",
+                "type":"string"
+            },
+            {
                 "name":"region_code",
                 "type":"string"
             },
@@ -52,6 +56,7 @@
             "apt_type":"아파트",
             "apt_year":21,
             "value_score":78.0506,
+            "region":"경기도 용인시 기흥구",
             "region_code":"Gyeonggi",
             "sub_region_code":"4146300000_Gyeonggi_Yongin_Giheung"
         },
@@ -63,6 +68,7 @@
             "apt_type":"아파트",
             "apt_year":17,
             "value_score":78.0033,
+            "region":"경기도 용인시 기흥구",
             "region_code":"Gyeonggi",
             "sub_region_code":"4146300000_Gyeonggi_Yongin_Giheung"
         },
@@ -74,6 +80,7 @@
             "apt_type":"아파트",
             "apt_year":19,
             "value_score":77.8033,
+            "region":"경기도 용인시 기흥구",
             "region_code":"Gyeonggi",
             "sub_region_code":"4146300000_Gyeonggi_Yongin_Giheung"
         },
@@ -85,6 +92,7 @@
             "apt_type":"아파트",
             "apt_year":20,
             "value_score":75.753,
+            "region":"경기도 용인시 기흥구",
             "region_code":"Gyeonggi",
             "sub_region_code":"4146300000_Gyeonggi_Yongin_Giheung"
         },
@@ -96,6 +104,7 @@
             "apt_type":"아파트",
             "apt_year":24,
             "value_score":73.7306,
+            "region":"경기도 용인시 기흥구",
             "region_code":"Gyeonggi",
             "sub_region_code":"4146300000_Gyeonggi_Yongin_Giheung"
         },
@@ -107,6 +116,7 @@
             "apt_type":"아파트",
             "apt_year":19,
             "value_score":73.653,
+            "region":"경기도 용인시 기흥구",
             "region_code":"Gyeonggi",
             "sub_region_code":"4146300000_Gyeonggi_Yongin_Giheung"
         },
@@ -118,6 +128,7 @@
             "apt_type":"아파트",
             "apt_year":19,
             "value_score":72.453,
+            "region":"경기도 용인시 기흥구",
             "region_code":"Gyeonggi",
             "sub_region_code":"4146300000_Gyeonggi_Yongin_Giheung"
         },
@@ -129,6 +140,7 @@
             "apt_type":"아파트",
             "apt_year":23,
             "value_score":70.5006,
+            "region":"경기도 용인시 기흥구",
             "region_code":"Gyeonggi",
             "sub_region_code":"4146300000_Gyeonggi_Yongin_Giheung"
         },
@@ -140,6 +152,7 @@
             "apt_type":"아파트",
             "apt_year":19,
             "value_score":69.22,
+            "region":"경기도 용인시 기흥구",
             "region_code":"Gyeonggi",
             "sub_region_code":"4146300000_Gyeonggi_Yongin_Giheung"
         },
@@ -151,6 +164,7 @@
             "apt_type":"아파트",
             "apt_year":17,
             "value_score":68.203,
+            "region":"경기도 용인시 기흥구",
             "region_code":"Gyeonggi",
             "sub_region_code":"4146300000_Gyeonggi_Yongin_Giheung"
         },
@@ -162,6 +176,7 @@
             "apt_type":"분양권",
             "apt_year":0,
             "value_score":76.616,
+            "region":"경기도 용인시 기흥구",
             "region_code":"Gyeonggi",
             "sub_region_code":"4146300000_Gyeonggi_Yongin_Giheung"
         },
@@ -173,6 +188,7 @@
             "apt_type":"아파트",
             "apt_year":17,
             "value_score":75.8044,
+            "region":"경기도 용인시 기흥구",
             "region_code":"Gyeonggi",
             "sub_region_code":"4146300000_Gyeonggi_Yongin_Giheung"
         },
@@ -184,6 +200,7 @@
             "apt_type":"아파트",
             "apt_year":19,
             "value_score":75.3044,
+            "region":"경기도 용인시 기흥구",
             "region_code":"Gyeonggi",
             "sub_region_code":"4146300000_Gyeonggi_Yongin_Giheung"
         },
@@ -195,6 +212,7 @@
             "apt_type":"아파트",
             "apt_year":20,
             "value_score":74.504,
+            "region":"경기도 용인시 기흥구",
             "region_code":"Gyeonggi",
             "sub_region_code":"4146300000_Gyeonggi_Yongin_Giheung"
         },
@@ -206,6 +224,7 @@
             "apt_type":"아파트",
             "apt_year":21,
             "value_score":74.3708,
+            "region":"경기도 용인시 기흥구",
             "region_code":"Gyeonggi",
             "sub_region_code":"4146300000_Gyeonggi_Yongin_Giheung"
         },
@@ -217,6 +236,7 @@
             "apt_type":"아파트",
             "apt_year":19,
             "value_score":72.804,
+            "region":"경기도 용인시 기흥구",
             "region_code":"Gyeonggi",
             "sub_region_code":"4146300000_Gyeonggi_Yongin_Giheung"
         },
@@ -228,6 +248,7 @@
             "apt_type":"아파트",
             "apt_year":23,
             "value_score":71.7708,
+            "region":"경기도 용인시 기흥구",
             "region_code":"Gyeonggi",
             "sub_region_code":"4146300000_Gyeonggi_Yongin_Giheung"
         },
@@ -239,6 +260,7 @@
             "apt_type":"아파트",
             "apt_year":5,
             "value_score":69.1,
+            "region":"경기도 용인시 기흥구",
             "region_code":"Gyeonggi",
             "sub_region_code":"4146300000_Gyeonggi_Yongin_Giheung"
         },
@@ -250,6 +272,7 @@
             "apt_type":"아파트",
             "apt_year":19,
             "value_score":68.954,
+            "region":"경기도 용인시 기흥구",
             "region_code":"Gyeonggi",
             "sub_region_code":"4146300000_Gyeonggi_Yongin_Giheung"
         },
@@ -261,6 +284,7 @@
             "apt_type":"아파트",
             "apt_year":5,
             "value_score":68.38,
+            "region":"경기도 용인시 기흥구",
             "region_code":"Gyeonggi",
             "sub_region_code":"4146300000_Gyeonggi_Yongin_Giheung"
         },
@@ -272,6 +296,7 @@
             "apt_type":"아파트",
             "apt_year":20,
             "value_score":79.003,
+            "region":"경기도 용인시 기흥구",
             "region_code":"Gyeonggi",
             "sub_region_code":"4146300000_Gyeonggi_Yongin_Giheung"
         },
@@ -283,6 +308,7 @@
             "apt_type":"아파트",
             "apt_year":21,
             "value_score":78.7856,
+            "region":"경기도 용인시 기흥구",
             "region_code":"Gyeonggi",
             "sub_region_code":"4146300000_Gyeonggi_Yongin_Giheung"
         },
@@ -294,6 +320,7 @@
             "apt_type":"아파트",
             "apt_year":17,
             "value_score":76.4033,
+            "region":"경기도 용인시 기흥구",
             "region_code":"Gyeonggi",
             "sub_region_code":"4146300000_Gyeonggi_Yongin_Giheung"
         },
@@ -305,6 +332,7 @@
             "apt_type":"아파트",
             "apt_year":19,
             "value_score":76.2533,
+            "region":"경기도 용인시 기흥구",
             "region_code":"Gyeonggi",
             "sub_region_code":"4146300000_Gyeonggi_Yongin_Giheung"
         },
@@ -316,6 +344,7 @@
             "apt_type":"아파트",
             "apt_year":19,
             "value_score":75.953,
+            "region":"경기도 용인시 기흥구",
             "region_code":"Gyeonggi",
             "sub_region_code":"4146300000_Gyeonggi_Yongin_Giheung"
         },
@@ -327,6 +356,7 @@
             "apt_type":"아파트",
             "apt_year":24,
             "value_score":75.5556,
+            "region":"경기도 용인시 기흥구",
             "region_code":"Gyeonggi",
             "sub_region_code":"4146300000_Gyeonggi_Yongin_Giheung"
         },
@@ -338,6 +368,7 @@
             "apt_type":"아파트",
             "apt_year":19,
             "value_score":74.42,
+            "region":"경기도 용인시 기흥구",
             "region_code":"Gyeonggi",
             "sub_region_code":"4146300000_Gyeonggi_Yongin_Giheung"
         },
@@ -349,6 +380,7 @@
             "apt_type":"아파트",
             "apt_year":5,
             "value_score":73.525,
+            "region":"경기도 용인시 기흥구",
             "region_code":"Gyeonggi",
             "sub_region_code":"4146300000_Gyeonggi_Yongin_Giheung"
         },
@@ -360,6 +392,7 @@
             "apt_type":"아파트",
             "apt_year":19,
             "value_score":73.378,
+            "region":"경기도 용인시 기흥구",
             "region_code":"Gyeonggi",
             "sub_region_code":"4146300000_Gyeonggi_Yongin_Giheung"
         },
@@ -371,6 +404,7 @@
             "apt_type":"아파트",
             "apt_year":6,
             "value_score":71.8951,
+            "region":"경기도 용인시 기흥구",
             "region_code":"Gyeonggi",
             "sub_region_code":"4146300000_Gyeonggi_Yongin_Giheung"
         },
@@ -382,6 +416,7 @@
             "apt_type":"아파트",
             "apt_year":17,
             "value_score":80.0055,
+            "region":"경기도 용인시 기흥구",
             "region_code":"Gyeonggi",
             "sub_region_code":"4146300000_Gyeonggi_Yongin_Giheung"
         },
@@ -393,6 +428,7 @@
             "apt_type":"아파트",
             "apt_year":19,
             "value_score":79.9055,
+            "region":"경기도 용인시 기흥구",
             "region_code":"Gyeonggi",
             "sub_region_code":"4146300000_Gyeonggi_Yongin_Giheung"
         },
@@ -404,6 +440,7 @@
             "apt_type":"아파트",
             "apt_year":21,
             "value_score":76.301,
+            "region":"경기도 용인시 기흥구",
             "region_code":"Gyeonggi",
             "sub_region_code":"4146300000_Gyeonggi_Yongin_Giheung"
         },
@@ -415,6 +452,7 @@
             "apt_type":"아파트",
             "apt_year":17,
             "value_score":74.005,
+            "region":"경기도 용인시 기흥구",
             "region_code":"Gyeonggi",
             "sub_region_code":"4146300000_Gyeonggi_Yongin_Giheung"
         },
@@ -426,6 +464,7 @@
             "apt_type":"아파트",
             "apt_year":24,
             "value_score":74.001,
+            "region":"경기도 용인시 기흥구",
             "region_code":"Gyeonggi",
             "sub_region_code":"4146300000_Gyeonggi_Yongin_Giheung"
         },
@@ -437,6 +476,7 @@
             "apt_type":"아파트",
             "apt_year":23,
             "value_score":73.051,
+            "region":"경기도 용인시 기흥구",
             "region_code":"Gyeonggi",
             "sub_region_code":"4146300000_Gyeonggi_Yongin_Giheung"
         },
@@ -448,6 +488,7 @@
             "apt_type":"아파트",
             "apt_year":18,
             "value_score":71.305,
+            "region":"경기도 용인시 기흥구",
             "region_code":"Gyeonggi",
             "sub_region_code":"4146300000_Gyeonggi_Yongin_Giheung"
         },
@@ -459,6 +500,7 @@
             "apt_type":"아파트",
             "apt_year":19,
             "value_score":71.205,
+            "region":"경기도 용인시 기흥구",
             "region_code":"Gyeonggi",
             "sub_region_code":"4146300000_Gyeonggi_Yongin_Giheung"
         },
@@ -470,6 +512,7 @@
             "apt_type":"아파트",
             "apt_year":14,
             "value_score":70.5775,
+            "region":"경기도 용인시 기흥구",
             "region_code":"Gyeonggi",
             "sub_region_code":"4146300000_Gyeonggi_Yongin_Giheung"
         },
@@ -481,6 +524,7 @@
             "apt_type":"아파트",
             "apt_year":14,
             "value_score":69.8795,
+            "region":"경기도 용인시 기흥구",
             "region_code":"Gyeonggi",
             "sub_region_code":"4146300000_Gyeonggi_Yongin_Giheung"
         },
@@ -492,6 +536,7 @@
             "apt_type":"아파트",
             "apt_year":17,
             "value_score":72.211,
+            "region":"경기도 용인시 기흥구",
             "region_code":"Gyeonggi",
             "sub_region_code":"4146300000_Gyeonggi_Yongin_Giheung"
         },
@@ -503,6 +548,7 @@
             "apt_type":"아파트",
             "apt_year":19,
             "value_score":72.011,
+            "region":"경기도 용인시 기흥구",
             "region_code":"Gyeonggi",
             "sub_region_code":"4146300000_Gyeonggi_Yongin_Giheung"
         },
@@ -514,6 +560,7 @@
             "apt_type":"아파트",
             "apt_year":21,
             "value_score":70.682,
+            "region":"경기도 용인시 기흥구",
             "region_code":"Gyeonggi",
             "sub_region_code":"4146300000_Gyeonggi_Yongin_Giheung"
         },
@@ -525,6 +572,7 @@
             "apt_type":"아파트",
             "apt_year":20,
             "value_score":69.11,
+            "region":"경기도 용인시 기흥구",
             "region_code":"Gyeonggi",
             "sub_region_code":"4146300000_Gyeonggi_Yongin_Giheung"
         },
@@ -536,6 +584,7 @@
             "apt_type":"아파트",
             "apt_year":23,
             "value_score":68.382,
+            "region":"경기도 용인시 기흥구",
             "region_code":"Gyeonggi",
             "sub_region_code":"4146300000_Gyeonggi_Yongin_Giheung"
         },
@@ -547,6 +596,7 @@
             "apt_type":"아파트",
             "apt_year":19,
             "value_score":68.31,
+            "region":"경기도 용인시 기흥구",
             "region_code":"Gyeonggi",
             "sub_region_code":"4146300000_Gyeonggi_Yongin_Giheung"
         },
@@ -558,6 +608,7 @@
             "apt_type":"아파트",
             "apt_year":19,
             "value_score":67.61,
+            "region":"경기도 용인시 기흥구",
             "region_code":"Gyeonggi",
             "sub_region_code":"4146300000_Gyeonggi_Yongin_Giheung"
         },
@@ -569,6 +620,7 @@
             "apt_type":"분양권",
             "apt_year":0,
             "value_score":67.595,
+            "region":"경기도 용인시 기흥구",
             "region_code":"Gyeonggi",
             "sub_region_code":"4146300000_Gyeonggi_Yongin_Giheung"
         },
@@ -580,6 +632,7 @@
             "apt_type":"아파트",
             "apt_year":24,
             "value_score":66.402,
+            "region":"경기도 용인시 기흥구",
             "region_code":"Gyeonggi",
             "sub_region_code":"4146300000_Gyeonggi_Yongin_Giheung"
         },
@@ -591,6 +644,7 @@
             "apt_type":"아파트",
             "apt_year":17,
             "value_score":65.81,
+            "region":"경기도 용인시 기흥구",
             "region_code":"Gyeonggi",
             "sub_region_code":"4146300000_Gyeonggi_Yongin_Giheung"
         }

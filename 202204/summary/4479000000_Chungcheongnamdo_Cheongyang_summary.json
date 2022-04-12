@@ -30,6 +30,10 @@
                 "type":"number"
             },
             {
+                "name":"region",
+                "type":"string"
+            },
+            {
                 "name":"region_code",
                 "type":"string"
             },
@@ -52,6 +56,7 @@
             "apt_type":"아파트",
             "apt_year":21.0,
             "value_score":31.793,
+            "region":"충청남도 청양군",
             "region_code":"Chungcheongnamdo",
             "sub_region_code":"4479000000_Chungcheongnamdo_Cheongyang"
         },
@@ -63,6 +68,7 @@
             "apt_type":"아파트",
             "apt_year":27.0,
             "value_score":30.818,
+            "region":"충청남도 청양군",
             "region_code":"Chungcheongnamdo",
             "sub_region_code":"4479000000_Chungcheongnamdo_Cheongyang"
         },
@@ -74,6 +80,7 @@
             "apt_type":"아파트",
             "apt_year":23.0,
             "value_score":28.718,
+            "region":"충청남도 청양군",
             "region_code":"Chungcheongnamdo",
             "sub_region_code":"4479000000_Chungcheongnamdo_Cheongyang"
         },
@@ -85,6 +92,7 @@
             "apt_type":"아파트",
             "apt_year":26.0,
             "value_score":26.718,
+            "region":"충청남도 청양군",
             "region_code":"Chungcheongnamdo",
             "sub_region_code":"4479000000_Chungcheongnamdo_Cheongyang"
         },
@@ -96,6 +104,7 @@
             "apt_type":"아파트",
             "apt_year":21.0,
             "value_score":32.168,
+            "region":"충청남도 청양군",
             "region_code":"Chungcheongnamdo",
             "sub_region_code":"4479000000_Chungcheongnamdo_Cheongyang"
         },
@@ -107,6 +116,7 @@
             "apt_type":"아파트",
             "apt_year":27.0,
             "value_score":31.418,
+            "region":"충청남도 청양군",
             "region_code":"Chungcheongnamdo",
             "sub_region_code":"4479000000_Chungcheongnamdo_Cheongyang"
         },
@@ -118,6 +128,7 @@
             "apt_type":"아파트",
             "apt_year":23.0,
             "value_score":28.418,
+            "region":"충청남도 청양군",
             "region_code":"Chungcheongnamdo",
             "sub_region_code":"4479000000_Chungcheongnamdo_Cheongyang"
         },
@@ -129,6 +140,7 @@
             "apt_type":"아파트",
             "apt_year":26.0,
             "value_score":24.918,
+            "region":"충청남도 청양군",
             "region_code":"Chungcheongnamdo",
             "sub_region_code":"4479000000_Chungcheongnamdo_Cheongyang"
         },
@@ -140,6 +152,7 @@
             "apt_type":"아파트",
             "apt_year":21.0,
             "value_score":33.9227368421,
+            "region":"충청남도 청양군",
             "region_code":"Chungcheongnamdo",
             "sub_region_code":"4479000000_Chungcheongnamdo_Cheongyang"
         },
@@ -151,6 +164,7 @@
             "apt_type":"아파트",
             "apt_year":27.0,
             "value_score":32.7911578947,
+            "region":"충청남도 청양군",
             "region_code":"Chungcheongnamdo",
             "sub_region_code":"4479000000_Chungcheongnamdo_Cheongyang"
         },
@@ -162,6 +176,7 @@
             "apt_type":"아파트",
             "apt_year":23.0,
             "value_score":31.8437894737,
+            "region":"충청남도 청양군",
             "region_code":"Chungcheongnamdo",
             "sub_region_code":"4479000000_Chungcheongnamdo_Cheongyang"
         },
@@ -173,6 +188,7 @@
             "apt_type":"아파트",
             "apt_year":26.0,
             "value_score":31.6332631579,
+            "region":"충청남도 청양군",
             "region_code":"Chungcheongnamdo",
             "sub_region_code":"4479000000_Chungcheongnamdo_Cheongyang"
         },
@@ -184,6 +200,7 @@
             "apt_type":"아파트",
             "apt_year":21.0,
             "value_score":41.461,
+            "region":"충청남도 청양군",
             "region_code":"Chungcheongnamdo",
             "sub_region_code":"4479000000_Chungcheongnamdo_Cheongyang"
         },
@@ -195,6 +212,7 @@
             "apt_type":"아파트",
             "apt_year":27.0,
             "value_score":40.836,
+            "region":"충청남도 청양군",
             "region_code":"Chungcheongnamdo",
             "sub_region_code":"4479000000_Chungcheongnamdo_Cheongyang"
         },
@@ -206,6 +224,7 @@
             "apt_type":"아파트",
             "apt_year":23.0,
             "value_score":39.336,
+            "region":"충청남도 청양군",
             "region_code":"Chungcheongnamdo",
             "sub_region_code":"4479000000_Chungcheongnamdo_Cheongyang"
         },
@@ -217,6 +236,7 @@
             "apt_type":"아파트",
             "apt_year":26.0,
             "value_score":37.836,
+            "region":"충청남도 청양군",
             "region_code":"Chungcheongnamdo",
             "sub_region_code":"4479000000_Chungcheongnamdo_Cheongyang"
         }

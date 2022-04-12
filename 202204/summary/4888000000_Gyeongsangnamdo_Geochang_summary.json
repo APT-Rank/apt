@@ -30,6 +30,10 @@
                 "type":"number"
             },
             {
+                "name":"region",
+                "type":"string"
+            },
+            {
                 "name":"region_code",
                 "type":"string"
             },
@@ -52,6 +56,7 @@
             "apt_type":"분양권",
             "apt_year":-1.0,
             "value_score":44.458,
+            "region":"경상남도 거창군",
             "region_code":"Gyeongsangnamdo",
             "sub_region_code":"4888000000_Gyeongsangnamdo_Geochang"
         },
@@ -63,6 +68,7 @@
             "apt_type":"아파트",
             "apt_year":5.0,
             "value_score":44.296,
+            "region":"경상남도 거창군",
             "region_code":"Gyeongsangnamdo",
             "sub_region_code":"4888000000_Gyeongsangnamdo_Geochang"
         },
@@ -74,6 +80,7 @@
             "apt_type":"분양권",
             "apt_year":0.0,
             "value_score":41.386,
+            "region":"경상남도 거창군",
             "region_code":"Gyeongsangnamdo",
             "sub_region_code":"4888000000_Gyeongsangnamdo_Geochang"
         },
@@ -85,6 +92,7 @@
             "apt_type":"아파트",
             "apt_year":20.0,
             "value_score":38.248,
+            "region":"경상남도 거창군",
             "region_code":"Gyeongsangnamdo",
             "sub_region_code":"4888000000_Gyeongsangnamdo_Geochang"
         },
@@ -96,6 +104,7 @@
             "apt_type":"아파트",
             "apt_year":32.0,
             "value_score":36.123,
+            "region":"경상남도 거창군",
             "region_code":"Gyeongsangnamdo",
             "sub_region_code":"4888000000_Gyeongsangnamdo_Geochang"
         },
@@ -107,6 +116,7 @@
             "apt_type":"아파트",
             "apt_year":11.0,
             "value_score":35.773,
+            "region":"경상남도 거창군",
             "region_code":"Gyeongsangnamdo",
             "sub_region_code":"4888000000_Gyeongsangnamdo_Geochang"
         },
@@ -118,6 +128,7 @@
             "apt_type":"아파트",
             "apt_year":20.0,
             "value_score":34.523,
+            "region":"경상남도 거창군",
             "region_code":"Gyeongsangnamdo",
             "sub_region_code":"4888000000_Gyeongsangnamdo_Geochang"
         },
@@ -129,6 +140,7 @@
             "apt_type":"아파트",
             "apt_year":10.0,
             "value_score":32.289,
+            "region":"경상남도 거창군",
             "region_code":"Gyeongsangnamdo",
             "sub_region_code":"4888000000_Gyeongsangnamdo_Geochang"
         },
@@ -140,6 +152,7 @@
             "apt_type":"아파트",
             "apt_year":7.0,
             "value_score":31.239,
+            "region":"경상남도 거창군",
             "region_code":"Gyeongsangnamdo",
             "sub_region_code":"4888000000_Gyeongsangnamdo_Geochang"
         },
@@ -151,6 +164,7 @@
             "apt_type":"아파트",
             "apt_year":25.0,
             "value_score":30.572,
+            "region":"경상남도 거창군",
             "region_code":"Gyeongsangnamdo",
             "sub_region_code":"4888000000_Gyeongsangnamdo_Geochang"
         },
@@ -162,6 +176,7 @@
             "apt_type":"아파트",
             "apt_year":5.0,
             "value_score":52.186,
+            "region":"경상남도 거창군",
             "region_code":"Gyeongsangnamdo",
             "sub_region_code":"4888000000_Gyeongsangnamdo_Geochang"
         },
@@ -173,6 +188,7 @@
             "apt_type":"분양권",
             "apt_year":-1.0,
             "value_score":52.048,
+            "region":"경상남도 거창군",
             "region_code":"Gyeongsangnamdo",
             "sub_region_code":"4888000000_Gyeongsangnamdo_Geochang"
         },
@@ -184,6 +200,7 @@
             "apt_type":"분양권",
             "apt_year":0.0,
             "value_score":43.336,
+            "region":"경상남도 거창군",
             "region_code":"Gyeongsangnamdo",
             "sub_region_code":"4888000000_Gyeongsangnamdo_Geochang"
         },
@@ -195,6 +212,7 @@
             "apt_type":"아파트",
             "apt_year":20.0,
             "value_score":41.698,
+            "region":"경상남도 거창군",
             "region_code":"Gyeongsangnamdo",
             "sub_region_code":"4888000000_Gyeongsangnamdo_Geochang"
         },
@@ -206,6 +224,7 @@
             "apt_type":"아파트",
             "apt_year":10.0,
             "value_score":41.139,
+            "region":"경상남도 거창군",
             "region_code":"Gyeongsangnamdo",
             "sub_region_code":"4888000000_Gyeongsangnamdo_Geochang"
         },
@@ -217,6 +236,7 @@
             "apt_type":"아파트",
             "apt_year":32.0,
             "value_score":39.948,
+            "region":"경상남도 거창군",
             "region_code":"Gyeongsangnamdo",
             "sub_region_code":"4888000000_Gyeongsangnamdo_Geochang"
         },
@@ -228,6 +248,7 @@
             "apt_type":"아파트",
             "apt_year":7.0,
             "value_score":39.639,
+            "region":"경상남도 거창군",
             "region_code":"Gyeongsangnamdo",
             "sub_region_code":"4888000000_Gyeongsangnamdo_Geochang"
         },
@@ -239,6 +260,7 @@
             "apt_type":"아파트",
             "apt_year":11.0,
             "value_score":39.448,
+            "region":"경상남도 거창군",
             "region_code":"Gyeongsangnamdo",
             "sub_region_code":"4888000000_Gyeongsangnamdo_Geochang"
         },
@@ -250,6 +272,7 @@
             "apt_type":"아파트",
             "apt_year":20.0,
             "value_score":36.698,
+            "region":"경상남도 거창군",
             "region_code":"Gyeongsangnamdo",
             "sub_region_code":"4888000000_Gyeongsangnamdo_Geochang"
         },
@@ -261,6 +284,7 @@
             "apt_type":"아파트",
             "apt_year":25.0,
             "value_score":31.937,
+            "region":"경상남도 거창군",
             "region_code":"Gyeongsangnamdo",
             "sub_region_code":"4888000000_Gyeongsangnamdo_Geochang"
         },
@@ -272,6 +296,7 @@
             "apt_type":"분양권",
             "apt_year":0.0,
             "value_score":40.6875789474,
+            "region":"경상남도 거창군",
             "region_code":"Gyeongsangnamdo",
             "sub_region_code":"4888000000_Gyeongsangnamdo_Geochang"
         },
@@ -283,6 +308,7 @@
             "apt_type":"분양권",
             "apt_year":-1.0,
             "value_score":37.9869473684,
+            "region":"경상남도 거창군",
             "region_code":"Gyeongsangnamdo",
             "sub_region_code":"4888000000_Gyeongsangnamdo_Geochang"
         },
@@ -294,6 +320,7 @@
             "apt_type":"아파트",
             "apt_year":5.0,
             "value_score":36.9507368421,
+            "region":"경상남도 거창군",
             "region_code":"Gyeongsangnamdo",
             "sub_region_code":"4888000000_Gyeongsangnamdo_Geochang"
         },
@@ -305,6 +332,7 @@
             "apt_type":"아파트",
             "apt_year":20.0,
             "value_score":36.7764210526,
+            "region":"경상남도 거창군",
             "region_code":"Gyeongsangnamdo",
             "sub_region_code":"4888000000_Gyeongsangnamdo_Geochang"
         },
@@ -316,6 +344,7 @@
             "apt_type":"아파트",
             "apt_year":20.0,
             "value_score":34.7501052632,
+            "region":"경상남도 거창군",
             "region_code":"Gyeongsangnamdo",
             "sub_region_code":"4888000000_Gyeongsangnamdo_Geochang"
         },
@@ -327,6 +356,7 @@
             "apt_type":"아파트",
             "apt_year":32.0,
             "value_score":34.4343157895,
+            "region":"경상남도 거창군",
             "region_code":"Gyeongsangnamdo",
             "sub_region_code":"4888000000_Gyeongsangnamdo_Geochang"
         },
@@ -338,6 +368,7 @@
             "apt_type":"아파트",
             "apt_year":11.0,
             "value_score":34.2764210526,
+            "region":"경상남도 거창군",
             "region_code":"Gyeongsangnamdo",
             "sub_region_code":"4888000000_Gyeongsangnamdo_Geochang"
         },
@@ -349,6 +380,7 @@
             "apt_type":"아파트",
             "apt_year":29.0,
             "value_score":31.544,
+            "region":"경상남도 거창군",
             "region_code":"Gyeongsangnamdo",
             "sub_region_code":"4888000000_Gyeongsangnamdo_Geochang"
         },
@@ -360,6 +392,7 @@
             "apt_type":"아파트",
             "apt_year":25.0,
             "value_score":31.452,
+            "region":"경상남도 거창군",
             "region_code":"Gyeongsangnamdo",
             "sub_region_code":"4888000000_Gyeongsangnamdo_Geochang"
         },
@@ -371,6 +404,7 @@
             "apt_type":"아파트",
             "apt_year":31.0,
             "value_score":31.2821052632,
+            "region":"경상남도 거창군",
             "region_code":"Gyeongsangnamdo",
             "sub_region_code":"4888000000_Gyeongsangnamdo_Geochang"
         },
@@ -382,6 +416,7 @@
             "apt_type":"분양권",
             "apt_year":-1.0,
             "value_score":51.746,
+            "region":"경상남도 거창군",
             "region_code":"Gyeongsangnamdo",
             "sub_region_code":"4888000000_Gyeongsangnamdo_Geochang"
         },
@@ -393,6 +428,7 @@
             "apt_type":"아파트",
             "apt_year":5.0,
             "value_score":49.522,
+            "region":"경상남도 거창군",
             "region_code":"Gyeongsangnamdo",
             "sub_region_code":"4888000000_Gyeongsangnamdo_Geochang"
         },
@@ -404,6 +440,7 @@
             "apt_type":"아파트",
             "apt_year":20.0,
             "value_score":47.146,
+            "region":"경상남도 거창군",
             "region_code":"Gyeongsangnamdo",
             "sub_region_code":"4888000000_Gyeongsangnamdo_Geochang"
         },
@@ -415,6 +452,7 @@
             "apt_type":"분양권",
             "apt_year":0.0,
             "value_score":46.922,
+            "region":"경상남도 거창군",
             "region_code":"Gyeongsangnamdo",
             "sub_region_code":"4888000000_Gyeongsangnamdo_Geochang"
         },
@@ -426,6 +464,7 @@
             "apt_type":"아파트",
             "apt_year":32.0,
             "value_score":45.771,
+            "region":"경상남도 거창군",
             "region_code":"Gyeongsangnamdo",
             "sub_region_code":"4888000000_Gyeongsangnamdo_Geochang"
         },
@@ -437,6 +476,7 @@
             "apt_type":"아파트",
             "apt_year":11.0,
             "value_score":45.521,
+            "region":"경상남도 거창군",
             "region_code":"Gyeongsangnamdo",
             "sub_region_code":"4888000000_Gyeongsangnamdo_Geochang"
         },
@@ -448,6 +488,7 @@
             "apt_type":"아파트",
             "apt_year":20.0,
             "value_score":44.521,
+            "region":"경상남도 거창군",
             "region_code":"Gyeongsangnamdo",
             "sub_region_code":"4888000000_Gyeongsangnamdo_Geochang"
         },
@@ -459,6 +500,7 @@
             "apt_type":"아파트",
             "apt_year":10.0,
             "value_score":40.028,
+            "region":"경상남도 거창군",
             "region_code":"Gyeongsangnamdo",
             "sub_region_code":"4888000000_Gyeongsangnamdo_Geochang"
         },
@@ -470,6 +512,7 @@
             "apt_type":"아파트",
             "apt_year":25.0,
             "value_score":39.649,
+            "region":"경상남도 거창군",
             "region_code":"Gyeongsangnamdo",
             "sub_region_code":"4888000000_Gyeongsangnamdo_Geochang"
         },
@@ -481,6 +524,7 @@
             "apt_type":"아파트",
             "apt_year":7.0,
             "value_score":39.278,
+            "region":"경상남도 거창군",
             "region_code":"Gyeongsangnamdo",
             "sub_region_code":"4888000000_Gyeongsangnamdo_Geochang"
         }

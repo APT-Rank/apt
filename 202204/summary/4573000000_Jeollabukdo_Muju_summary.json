@@ -30,6 +30,10 @@
                 "type":"number"
             },
             {
+                "name":"region",
+                "type":"string"
+            },
+            {
                 "name":"region_code",
                 "type":"string"
             },
@@ -52,6 +56,7 @@
             "apt_type":"아파트",
             "apt_year":22.0,
             "value_score":30.7665,
+            "region":"전라북도 무주군",
             "region_code":"Jeollabukdo",
             "sub_region_code":"4573000000_Jeollabukdo_Muju"
         },
@@ -63,6 +68,7 @@
             "apt_type":"아파트",
             "apt_year":31.0,
             "value_score":20.1425,
+            "region":"전라북도 무주군",
             "region_code":"Jeollabukdo",
             "sub_region_code":"4573000000_Jeollabukdo_Muju"
         },
@@ -74,6 +80,7 @@
             "apt_type":"아파트",
             "apt_year":22.0,
             "value_score":32.7915,
+            "region":"전라북도 무주군",
             "region_code":"Jeollabukdo",
             "sub_region_code":"4573000000_Jeollabukdo_Muju"
         },
@@ -85,6 +92,7 @@
             "apt_type":"아파트",
             "apt_year":31.0,
             "value_score":19.5425,
+            "region":"전라북도 무주군",
             "region_code":"Jeollabukdo",
             "sub_region_code":"4573000000_Jeollabukdo_Muju"
         },
@@ -96,6 +104,7 @@
             "apt_type":"아파트",
             "apt_year":22.0,
             "value_score":30.0261052632,
+            "region":"전라북도 무주군",
             "region_code":"Jeollabukdo",
             "sub_region_code":"4573000000_Jeollabukdo_Muju"
         },
@@ -107,6 +116,7 @@
             "apt_type":"아파트",
             "apt_year":31.0,
             "value_score":23.1589473684,
+            "region":"전라북도 무주군",
             "region_code":"Jeollabukdo",
             "sub_region_code":"4573000000_Jeollabukdo_Muju"
         },
@@ -118,6 +128,7 @@
             "apt_type":"아파트",
             "apt_year":22.0,
             "value_score":36.458,
+            "region":"전라북도 무주군",
             "region_code":"Jeollabukdo",
             "sub_region_code":"4573000000_Jeollabukdo_Muju"
         },
@@ -129,6 +140,7 @@
             "apt_type":"아파트",
             "apt_year":31.0,
             "value_score":29.085,
+            "region":"전라북도 무주군",
             "region_code":"Jeollabukdo",
             "sub_region_code":"4573000000_Jeollabukdo_Muju"
         }

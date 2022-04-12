@@ -30,6 +30,10 @@
                 "type":"number"
             },
             {
+                "name":"region",
+                "type":"string"
+            },
+            {
                 "name":"region_code",
                 "type":"string"
             },
@@ -52,6 +56,7 @@
             "apt_type":"분양권",
             "apt_year":0.0,
             "value_score":50.1315,
+            "region":"경기도 광주시",
             "region_code":"Gyeonggi",
             "sub_region_code":"4161000000_Gyeonggi_Gwangju"
         },
@@ -63,6 +68,7 @@
             "apt_type":"아파트",
             "apt_year":2.0,
             "value_score":49.3877,
+            "region":"경기도 광주시",
             "region_code":"Gyeonggi",
             "sub_region_code":"4161000000_Gyeonggi_Gwangju"
         },
@@ -74,6 +80,7 @@
             "apt_type":"아파트",
             "apt_year":19.0,
             "value_score":48.9311,
+            "region":"경기도 광주시",
             "region_code":"Gyeonggi",
             "sub_region_code":"4161000000_Gyeonggi_Gwangju"
         },
@@ -85,6 +92,7 @@
             "apt_type":"아파트",
             "apt_year":7.0,
             "value_score":42.8349,
+            "region":"경기도 광주시",
             "region_code":"Gyeonggi",
             "sub_region_code":"4161000000_Gyeonggi_Gwangju"
         },
@@ -96,6 +104,7 @@
             "apt_type":"분양권",
             "apt_year":-1.0,
             "value_score":41.7041,
+            "region":"경기도 광주시",
             "region_code":"Gyeonggi",
             "sub_region_code":"4161000000_Gyeonggi_Gwangju"
         },
@@ -107,6 +116,7 @@
             "apt_type":"아파트",
             "apt_year":7.0,
             "value_score":41.1849,
+            "region":"경기도 광주시",
             "region_code":"Gyeonggi",
             "sub_region_code":"4161000000_Gyeonggi_Gwangju"
         },
@@ -118,6 +128,7 @@
             "apt_type":"아파트",
             "apt_year":18.0,
             "value_score":40.8547,
+            "region":"경기도 광주시",
             "region_code":"Gyeonggi",
             "sub_region_code":"4161000000_Gyeonggi_Gwangju"
         },
@@ -129,6 +140,7 @@
             "apt_type":"아파트",
             "apt_year":7.0,
             "value_score":40.2849,
+            "region":"경기도 광주시",
             "region_code":"Gyeonggi",
             "sub_region_code":"4161000000_Gyeonggi_Gwangju"
         },
@@ -140,6 +152,7 @@
             "apt_type":"아파트",
             "apt_year":19.0,
             "value_score":39.6541,
+            "region":"경기도 광주시",
             "region_code":"Gyeonggi",
             "sub_region_code":"4161000000_Gyeonggi_Gwangju"
         },
@@ -151,6 +164,7 @@
             "apt_type":"아파트",
             "apt_year":7.0,
             "value_score":39.5849,
+            "region":"경기도 광주시",
             "region_code":"Gyeonggi",
             "sub_region_code":"4161000000_Gyeonggi_Gwangju"
         },
@@ -162,6 +176,7 @@
             "apt_type":"아파트",
             "apt_year":2.0,
             "value_score":60.5336,
+            "region":"경기도 광주시",
             "region_code":"Gyeonggi",
             "sub_region_code":"4161000000_Gyeonggi_Gwangju"
         },
@@ -173,6 +188,7 @@
             "apt_type":"분양권",
             "apt_year":0.0,
             "value_score":58.8268,
+            "region":"경기도 광주시",
             "region_code":"Gyeonggi",
             "sub_region_code":"4161000000_Gyeonggi_Gwangju"
         },
@@ -184,6 +200,7 @@
             "apt_type":"분양권",
             "apt_year":-1.0,
             "value_score":57.8632,
+            "region":"경기도 광주시",
             "region_code":"Gyeonggi",
             "sub_region_code":"4161000000_Gyeonggi_Gwangju"
         },
@@ -195,6 +212,7 @@
             "apt_type":"분양권",
             "apt_year":0.0,
             "value_score":56.6888,
+            "region":"경기도 광주시",
             "region_code":"Gyeonggi",
             "sub_region_code":"4161000000_Gyeonggi_Gwangju"
         },
@@ -206,6 +224,7 @@
             "apt_type":"분양권",
             "apt_year":0.0,
             "value_score":55.092,
+            "region":"경기도 광주시",
             "region_code":"Gyeonggi",
             "sub_region_code":"4161000000_Gyeonggi_Gwangju"
         },
@@ -217,6 +236,7 @@
             "apt_type":"분양권",
             "apt_year":1.0,
             "value_score":54.9268,
+            "region":"경기도 광주시",
             "region_code":"Gyeonggi",
             "sub_region_code":"4161000000_Gyeonggi_Gwangju"
         },
@@ -228,6 +248,7 @@
             "apt_type":"아파트",
             "apt_year":2.0,
             "value_score":53.284,
+            "region":"경기도 광주시",
             "region_code":"Gyeonggi",
             "sub_region_code":"4161000000_Gyeonggi_Gwangju"
         },
@@ -239,6 +260,7 @@
             "apt_type":"아파트",
             "apt_year":4.0,
             "value_score":52.6268,
+            "region":"경기도 광주시",
             "region_code":"Gyeonggi",
             "sub_region_code":"4161000000_Gyeonggi_Gwangju"
         },
@@ -250,6 +272,7 @@
             "apt_type":"분양권",
             "apt_year":-1.0,
             "value_score":52.626,
+            "region":"경기도 광주시",
             "region_code":"Gyeonggi",
             "sub_region_code":"4161000000_Gyeonggi_Gwangju"
         },
@@ -261,6 +284,7 @@
             "apt_type":"분양권",
             "apt_year":-1.0,
             "value_score":52.1888,
+            "region":"경기도 광주시",
             "region_code":"Gyeonggi",
             "sub_region_code":"4161000000_Gyeonggi_Gwangju"
         },
@@ -272,6 +296,7 @@
             "apt_type":"아파트",
             "apt_year":19.0,
             "value_score":56.6311,
+            "region":"경기도 광주시",
             "region_code":"Gyeonggi",
             "sub_region_code":"4161000000_Gyeonggi_Gwangju"
         },
@@ -283,6 +308,7 @@
             "apt_type":"분양권",
             "apt_year":0.0,
             "value_score":55.0065,
+            "region":"경기도 광주시",
             "region_code":"Gyeonggi",
             "sub_region_code":"4161000000_Gyeonggi_Gwangju"
         },
@@ -294,6 +320,7 @@
             "apt_type":"아파트",
             "apt_year":2.0,
             "value_score":52.8127,
+            "region":"경기도 광주시",
             "region_code":"Gyeonggi",
             "sub_region_code":"4161000000_Gyeonggi_Gwangju"
         },
@@ -305,6 +332,7 @@
             "apt_type":"아파트",
             "apt_year":7.0,
             "value_score":47.9599,
+            "region":"경기도 광주시",
             "region_code":"Gyeonggi",
             "sub_region_code":"4161000000_Gyeonggi_Gwangju"
         },
@@ -316,6 +344,7 @@
             "apt_type":"아파트",
             "apt_year":19.0,
             "value_score":45.9041,
+            "region":"경기도 광주시",
             "region_code":"Gyeonggi",
             "sub_region_code":"4161000000_Gyeonggi_Gwangju"
         },
@@ -327,6 +356,7 @@
             "apt_type":"아파트",
             "apt_year":18.0,
             "value_score":45.0297,
+            "region":"경기도 광주시",
             "region_code":"Gyeonggi",
             "sub_region_code":"4161000000_Gyeonggi_Gwangju"
         },
@@ -338,6 +368,7 @@
             "apt_type":"아파트",
             "apt_year":19.0,
             "value_score":44.8541,
+            "region":"경기도 광주시",
             "region_code":"Gyeonggi",
             "sub_region_code":"4161000000_Gyeonggi_Gwangju"
         },
@@ -349,6 +380,7 @@
             "apt_type":"분양권",
             "apt_year":-1.0,
             "value_score":44.0791,
+            "region":"경기도 광주시",
             "region_code":"Gyeonggi",
             "sub_region_code":"4161000000_Gyeonggi_Gwangju"
         },
@@ -360,6 +392,7 @@
             "apt_type":"아파트",
             "apt_year":7.0,
             "value_score":43.1099,
+            "region":"경기도 광주시",
             "region_code":"Gyeonggi",
             "sub_region_code":"4161000000_Gyeonggi_Gwangju"
         },
@@ -371,6 +404,7 @@
             "apt_type":"아파트",
             "apt_year":7.0,
             "value_score":42.4349,
+            "region":"경기도 광주시",
             "region_code":"Gyeonggi",
             "sub_region_code":"4161000000_Gyeonggi_Gwangju"
         },
@@ -382,6 +416,7 @@
             "apt_type":"아파트",
             "apt_year":2.0,
             "value_score":45.58,
+            "region":"경기도 광주시",
             "region_code":"Gyeonggi",
             "sub_region_code":"4161000000_Gyeonggi_Gwangju"
         },
@@ -393,6 +428,7 @@
             "apt_type":"분양권",
             "apt_year":0.0,
             "value_score":38.3025,
+            "region":"경기도 광주시",
             "region_code":"Gyeonggi",
             "sub_region_code":"4161000000_Gyeonggi_Gwangju"
         },
@@ -404,6 +440,7 @@
             "apt_type":"분양권",
             "apt_year":-1.0,
             "value_score":37.479,
+            "region":"경기도 광주시",
             "region_code":"Gyeonggi",
             "sub_region_code":"4161000000_Gyeonggi_Gwangju"
         },
@@ -415,6 +452,7 @@
             "apt_type":"분양권",
             "apt_year":1.0,
             "value_score":37.446,
+            "region":"경기도 광주시",
             "region_code":"Gyeonggi",
             "sub_region_code":"4161000000_Gyeonggi_Gwangju"
         },
@@ -426,6 +464,7 @@
             "apt_type":"아파트",
             "apt_year":23.0,
             "value_score":37.2295,
+            "region":"경기도 광주시",
             "region_code":"Gyeonggi",
             "sub_region_code":"4161000000_Gyeonggi_Gwangju"
         },
@@ -437,6 +476,7 @@
             "apt_type":"아파트",
             "apt_year":23.0,
             "value_score":37.1955,
+            "region":"경기도 광주시",
             "region_code":"Gyeonggi",
             "sub_region_code":"4161000000_Gyeonggi_Gwangju"
         },
@@ -448,6 +488,7 @@
             "apt_type":"아파트",
             "apt_year":19.0,
             "value_score":37.0185,
+            "region":"경기도 광주시",
             "region_code":"Gyeonggi",
             "sub_region_code":"4161000000_Gyeonggi_Gwangju"
         },
@@ -459,6 +500,7 @@
             "apt_type":"분양권",
             "apt_year":0.0,
             "value_score":36.846,
+            "region":"경기도 광주시",
             "region_code":"Gyeonggi",
             "sub_region_code":"4161000000_Gyeonggi_Gwangju"
         },
@@ -470,6 +512,7 @@
             "apt_type":"아파트",
             "apt_year":2.0,
             "value_score":36.8295,
+            "region":"경기도 광주시",
             "region_code":"Gyeonggi",
             "sub_region_code":"4161000000_Gyeonggi_Gwangju"
         },
@@ -481,6 +524,7 @@
             "apt_type":"아파트",
             "apt_year":5.0,
             "value_score":35.565,
+            "region":"경기도 광주시",
             "region_code":"Gyeonggi",
             "sub_region_code":"4161000000_Gyeonggi_Gwangju"
         },
@@ -492,6 +536,7 @@
             "apt_type":"분양권",
             "apt_year":-1.0,
             "value_score":51.358,
+            "region":"경기도 광주시",
             "region_code":"Gyeonggi",
             "sub_region_code":"4161000000_Gyeonggi_Gwangju"
         },
@@ -503,6 +548,7 @@
             "apt_type":"아파트",
             "apt_year":2.0,
             "value_score":50.459,
+            "region":"경기도 광주시",
             "region_code":"Gyeonggi",
             "sub_region_code":"4161000000_Gyeonggi_Gwangju"
         },
@@ -514,6 +560,7 @@
             "apt_type":"분양권",
             "apt_year":0.0,
             "value_score":50.092,
+            "region":"경기도 광주시",
             "region_code":"Gyeonggi",
             "sub_region_code":"4161000000_Gyeonggi_Gwangju"
         },
@@ -525,6 +572,7 @@
             "apt_type":"분양권",
             "apt_year":0.0,
             "value_score":49.605,
+            "region":"경기도 광주시",
             "region_code":"Gyeonggi",
             "sub_region_code":"4161000000_Gyeonggi_Gwangju"
         },
@@ -536,6 +584,7 @@
             "apt_type":"분양권",
             "apt_year":1.0,
             "value_score":48.892,
+            "region":"경기도 광주시",
             "region_code":"Gyeonggi",
             "sub_region_code":"4161000000_Gyeonggi_Gwangju"
         },
@@ -547,6 +596,7 @@
             "apt_type":"아파트",
             "apt_year":2.0,
             "value_score":48.76,
+            "region":"경기도 광주시",
             "region_code":"Gyeonggi",
             "sub_region_code":"4161000000_Gyeonggi_Gwangju"
         },
@@ -558,6 +608,7 @@
             "apt_type":"아파트",
             "apt_year":5.0,
             "value_score":47.61,
+            "region":"경기도 광주시",
             "region_code":"Gyeonggi",
             "sub_region_code":"4161000000_Gyeonggi_Gwangju"
         },
@@ -569,6 +620,7 @@
             "apt_type":"분양권",
             "apt_year":0.0,
             "value_score":47.147,
+            "region":"경기도 광주시",
             "region_code":"Gyeonggi",
             "sub_region_code":"4161000000_Gyeonggi_Gwangju"
         },
@@ -580,6 +632,7 @@
             "apt_type":"분양권",
             "apt_year":-1.0,
             "value_score":46.847,
+            "region":"경기도 광주시",
             "region_code":"Gyeonggi",
             "sub_region_code":"4161000000_Gyeonggi_Gwangju"
         },
@@ -591,6 +644,7 @@
             "apt_type":"아파트",
             "apt_year":7.0,
             "value_score":46.783,
+            "region":"경기도 광주시",
             "region_code":"Gyeonggi",
             "sub_region_code":"4161000000_Gyeonggi_Gwangju"
         }

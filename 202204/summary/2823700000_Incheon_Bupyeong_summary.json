@@ -30,6 +30,10 @@
                 "type":"number"
             },
             {
+                "name":"region",
+                "type":"string"
+            },
+            {
                 "name":"region_code",
                 "type":"string"
             },
@@ -52,6 +56,7 @@
             "apt_type":"아파트",
             "apt_year":19.0,
             "value_score":63.3648,
+            "region":"인천시 부평구",
             "region_code":"Incheon",
             "sub_region_code":"2823700000_Incheon_Bupyeong"
         },
@@ -63,6 +68,7 @@
             "apt_type":"아파트",
             "apt_year":19.0,
             "value_score":62.0648,
+            "region":"인천시 부평구",
             "region_code":"Incheon",
             "sub_region_code":"2823700000_Incheon_Bupyeong"
         },
@@ -74,6 +80,7 @@
             "apt_type":"아파트",
             "apt_year":25.0,
             "value_score":61.1447,
+            "region":"인천시 부평구",
             "region_code":"Incheon",
             "sub_region_code":"2823700000_Incheon_Bupyeong"
         },
@@ -85,6 +92,7 @@
             "apt_type":"아파트",
             "apt_year":13.0,
             "value_score":59.3522,
+            "region":"인천시 부평구",
             "region_code":"Incheon",
             "sub_region_code":"2823700000_Incheon_Bupyeong"
         },
@@ -96,6 +104,7 @@
             "apt_type":"아파트",
             "apt_year":24.0,
             "value_score":57.6456,
+            "region":"인천시 부평구",
             "region_code":"Incheon",
             "sub_region_code":"2823700000_Incheon_Bupyeong"
         },
@@ -107,6 +116,7 @@
             "apt_type":"아파트",
             "apt_year":19.0,
             "value_score":57.0148,
+            "region":"인천시 부평구",
             "region_code":"Incheon",
             "sub_region_code":"2823700000_Incheon_Bupyeong"
         },
@@ -118,6 +128,7 @@
             "apt_type":"아파트",
             "apt_year":2.0,
             "value_score":56.9522,
+            "region":"인천시 부평구",
             "region_code":"Incheon",
             "sub_region_code":"2823700000_Incheon_Bupyeong"
         },
@@ -129,6 +140,7 @@
             "apt_type":"아파트",
             "apt_year":35.0,
             "value_score":56.4871,
+            "region":"인천시 부평구",
             "region_code":"Incheon",
             "sub_region_code":"2823700000_Incheon_Bupyeong"
         },
@@ -140,6 +152,7 @@
             "apt_type":"아파트",
             "apt_year":27.0,
             "value_score":56.1871,
+            "region":"인천시 부평구",
             "region_code":"Incheon",
             "sub_region_code":"2823700000_Incheon_Bupyeong"
         },
@@ -151,6 +164,7 @@
             "apt_type":"분양권",
             "apt_year":0.0,
             "value_score":55.7605,
+            "region":"인천시 부평구",
             "region_code":"Incheon",
             "sub_region_code":"2823700000_Incheon_Bupyeong"
         },
@@ -162,6 +176,7 @@
             "apt_type":"아파트",
             "apt_year":19.0,
             "value_score":68.6864,
+            "region":"인천시 부평구",
             "region_code":"Incheon",
             "sub_region_code":"2823700000_Incheon_Bupyeong"
         },
@@ -173,6 +188,7 @@
             "apt_type":"분양권",
             "apt_year":-1.0,
             "value_score":67.4472,
+            "region":"인천시 부평구",
             "region_code":"Incheon",
             "sub_region_code":"2823700000_Incheon_Bupyeong"
         },
@@ -184,6 +200,7 @@
             "apt_type":"아파트",
             "apt_year":19.0,
             "value_score":67.0864,
+            "region":"인천시 부평구",
             "region_code":"Incheon",
             "sub_region_code":"2823700000_Incheon_Bupyeong"
         },
@@ -195,6 +212,7 @@
             "apt_type":"아파트",
             "apt_year":19.0,
             "value_score":66.5364,
+            "region":"인천시 부평구",
             "region_code":"Incheon",
             "sub_region_code":"2823700000_Incheon_Bupyeong"
         },
@@ -206,6 +224,7 @@
             "apt_type":"아파트",
             "apt_year":3.0,
             "value_score":66.0684,
+            "region":"인천시 부평구",
             "region_code":"Incheon",
             "sub_region_code":"2823700000_Incheon_Bupyeong"
         },
@@ -217,6 +236,7 @@
             "apt_type":"분양권",
             "apt_year":0.0,
             "value_score":65.764,
+            "region":"인천시 부평구",
             "region_code":"Incheon",
             "sub_region_code":"2823700000_Incheon_Bupyeong"
         },
@@ -228,6 +248,7 @@
             "apt_type":"아파트",
             "apt_year":13.0,
             "value_score":65.6196,
+            "region":"인천시 부평구",
             "region_code":"Incheon",
             "sub_region_code":"2823700000_Incheon_Bupyeong"
         },
@@ -239,6 +260,7 @@
             "apt_type":"아파트",
             "apt_year":24.0,
             "value_score":65.3108,
+            "region":"인천시 부평구",
             "region_code":"Incheon",
             "sub_region_code":"2823700000_Incheon_Bupyeong"
         },
@@ -250,6 +272,7 @@
             "apt_type":"분양권",
             "apt_year":0.0,
             "value_score":64.8888,
+            "region":"인천시 부평구",
             "region_code":"Incheon",
             "sub_region_code":"2823700000_Incheon_Bupyeong"
         },
@@ -261,6 +284,7 @@
             "apt_type":"분양권",
             "apt_year":1.0,
             "value_score":64.7504,
+            "region":"인천시 부평구",
             "region_code":"Incheon",
             "sub_region_code":"2823700000_Incheon_Bupyeong"
         },
@@ -272,6 +296,7 @@
             "apt_type":"아파트",
             "apt_year":25.0,
             "value_score":60.8197,
+            "region":"인천시 부평구",
             "region_code":"Incheon",
             "sub_region_code":"2823700000_Incheon_Bupyeong"
         },
@@ -283,6 +308,7 @@
             "apt_type":"아파트",
             "apt_year":19.0,
             "value_score":60.4648,
+            "region":"인천시 부평구",
             "region_code":"Incheon",
             "sub_region_code":"2823700000_Incheon_Bupyeong"
         },
@@ -294,6 +320,7 @@
             "apt_type":"아파트",
             "apt_year":19.0,
             "value_score":59.5398,
+            "region":"인천시 부평구",
             "region_code":"Incheon",
             "sub_region_code":"2823700000_Incheon_Bupyeong"
         },
@@ -305,6 +332,7 @@
             "apt_type":"아파트",
             "apt_year":13.0,
             "value_score":58.6772,
+            "region":"인천시 부평구",
             "region_code":"Incheon",
             "sub_region_code":"2823700000_Incheon_Bupyeong"
         },
@@ -316,6 +344,7 @@
             "apt_type":"아파트",
             "apt_year":2.0,
             "value_score":56.4022,
+            "region":"인천시 부평구",
             "region_code":"Incheon",
             "sub_region_code":"2823700000_Incheon_Bupyeong"
         },
@@ -327,6 +356,7 @@
             "apt_type":"아파트",
             "apt_year":24.0,
             "value_score":56.1206,
+            "region":"인천시 부평구",
             "region_code":"Incheon",
             "sub_region_code":"2823700000_Incheon_Bupyeong"
         },
@@ -338,6 +368,7 @@
             "apt_type":"아파트",
             "apt_year":35.0,
             "value_score":54.9871,
+            "region":"인천시 부평구",
             "region_code":"Incheon",
             "sub_region_code":"2823700000_Incheon_Bupyeong"
         },
@@ -349,6 +380,7 @@
             "apt_type":"아파트",
             "apt_year":27.0,
             "value_score":54.8121,
+            "region":"인천시 부평구",
             "region_code":"Incheon",
             "sub_region_code":"2823700000_Incheon_Bupyeong"
         },
@@ -360,6 +392,7 @@
             "apt_type":"아파트",
             "apt_year":35.0,
             "value_score":54.4127,
+            "region":"인천시 부평구",
             "region_code":"Incheon",
             "sub_region_code":"2823700000_Incheon_Bupyeong"
         },
@@ -371,6 +404,7 @@
             "apt_type":"분양권",
             "apt_year":1.0,
             "value_score":54.3129,
+            "region":"인천시 부평구",
             "region_code":"Incheon",
             "sub_region_code":"2823700000_Incheon_Bupyeong"
         },
@@ -382,6 +416,7 @@
             "apt_type":"아파트",
             "apt_year":19.0,
             "value_score":65.808,
+            "region":"인천시 부평구",
             "region_code":"Incheon",
             "sub_region_code":"2823700000_Incheon_Bupyeong"
         },
@@ -393,6 +428,7 @@
             "apt_type":"아파트",
             "apt_year":19.0,
             "value_score":64.458,
+            "region":"인천시 부평구",
             "region_code":"Incheon",
             "sub_region_code":"2823700000_Incheon_Bupyeong"
         },
@@ -404,6 +440,7 @@
             "apt_type":"아파트",
             "apt_year":25.0,
             "value_score":62.7245,
+            "region":"인천시 부평구",
             "region_code":"Incheon",
             "sub_region_code":"2823700000_Incheon_Bupyeong"
         },
@@ -415,6 +452,7 @@
             "apt_type":"아파트",
             "apt_year":19.0,
             "value_score":62.358,
+            "region":"인천시 부평구",
             "region_code":"Incheon",
             "sub_region_code":"2823700000_Incheon_Bupyeong"
         },
@@ -426,6 +464,7 @@
             "apt_type":"아파트",
             "apt_year":18.0,
             "value_score":61.6615,
+            "region":"인천시 부평구",
             "region_code":"Incheon",
             "sub_region_code":"2823700000_Incheon_Bupyeong"
         },
@@ -437,6 +476,7 @@
             "apt_type":"아파트",
             "apt_year":35.0,
             "value_score":60.8785,
+            "region":"인천시 부평구",
             "region_code":"Incheon",
             "sub_region_code":"2823700000_Incheon_Bupyeong"
         },
@@ -448,6 +488,7 @@
             "apt_type":"아파트",
             "apt_year":34.0,
             "value_score":60.3285,
+            "region":"인천시 부평구",
             "region_code":"Incheon",
             "sub_region_code":"2823700000_Incheon_Bupyeong"
         },
@@ -459,6 +500,7 @@
             "apt_type":"아파트",
             "apt_year":35.0,
             "value_score":60.1295,
+            "region":"인천시 부평구",
             "region_code":"Incheon",
             "sub_region_code":"2823700000_Incheon_Bupyeong"
         },
@@ -470,6 +512,7 @@
             "apt_type":"아파트",
             "apt_year":27.0,
             "value_score":60.0285,
+            "region":"인천시 부평구",
             "region_code":"Incheon",
             "sub_region_code":"2823700000_Incheon_Bupyeong"
         },
@@ -481,6 +524,7 @@
             "apt_type":"분양권",
             "apt_year":0.0,
             "value_score":59.9175,
+            "region":"인천시 부평구",
             "region_code":"Incheon",
             "sub_region_code":"2823700000_Incheon_Bupyeong"
         },
@@ -492,6 +536,7 @@
             "apt_type":"아파트",
             "apt_year":19.0,
             "value_score":65.216,
+            "region":"인천시 부평구",
             "region_code":"Incheon",
             "sub_region_code":"2823700000_Incheon_Bupyeong"
         },
@@ -503,6 +548,7 @@
             "apt_type":"아파트",
             "apt_year":19.0,
             "value_score":64.116,
+            "region":"인천시 부평구",
             "region_code":"Incheon",
             "sub_region_code":"2823700000_Incheon_Bupyeong"
         },
@@ -514,6 +560,7 @@
             "apt_type":"아파트",
             "apt_year":19.0,
             "value_score":63.316,
+            "region":"인천시 부평구",
             "region_code":"Incheon",
             "sub_region_code":"2823700000_Incheon_Bupyeong"
         },
@@ -525,6 +572,7 @@
             "apt_type":"아파트",
             "apt_year":24.0,
             "value_score":61.652,
+            "region":"인천시 부평구",
             "region_code":"Incheon",
             "sub_region_code":"2823700000_Incheon_Bupyeong"
         },
@@ -536,6 +584,7 @@
             "apt_type":"아파트",
             "apt_year":25.0,
             "value_score":61.449,
+            "region":"인천시 부평구",
             "region_code":"Incheon",
             "sub_region_code":"2823700000_Incheon_Bupyeong"
         },
@@ -547,6 +596,7 @@
             "apt_type":"아파트",
             "apt_year":18.0,
             "value_score":60.723,
+            "region":"인천시 부평구",
             "region_code":"Incheon",
             "sub_region_code":"2823700000_Incheon_Bupyeong"
         },
@@ -558,6 +608,7 @@
             "apt_type":"아파트",
             "apt_year":13.0,
             "value_score":60.474,
+            "region":"인천시 부평구",
             "region_code":"Incheon",
             "sub_region_code":"2823700000_Incheon_Bupyeong"
         },
@@ -569,6 +620,7 @@
             "apt_type":"분양권",
             "apt_year":0.0,
             "value_score":59.352,
+            "region":"인천시 부평구",
             "region_code":"Incheon",
             "sub_region_code":"2823700000_Incheon_Bupyeong"
         },
@@ -580,6 +632,7 @@
             "apt_type":"아파트",
             "apt_year":3.0,
             "value_score":59.271,
+            "region":"인천시 부평구",
             "region_code":"Incheon",
             "sub_region_code":"2823700000_Incheon_Bupyeong"
         },
@@ -591,6 +644,7 @@
             "apt_type":"아파트",
             "apt_year":18.0,
             "value_score":59.123,
+            "region":"인천시 부평구",
             "region_code":"Incheon",
             "sub_region_code":"2823700000_Incheon_Bupyeong"
         }

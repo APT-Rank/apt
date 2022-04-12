@@ -30,6 +30,10 @@
                 "type":"number"
             },
             {
+                "name":"region",
+                "type":"string"
+            },
+            {
                 "name":"region_code",
                 "type":"string"
             },
@@ -52,6 +56,7 @@
             "apt_type":"분양권",
             "apt_year":1,
             "value_score":36.645,
+            "region":"전라남도 함평군",
             "region_code":"Jeollanamdo",
             "sub_region_code":"4686000000_Jeollanamdo_Hampyeong"
         },
@@ -63,6 +68,7 @@
             "apt_type":"분양권",
             "apt_year":1,
             "value_score":36.2925,
+            "region":"전라남도 함평군",
             "region_code":"Jeollanamdo",
             "sub_region_code":"4686000000_Jeollanamdo_Hampyeong"
         },
@@ -74,6 +80,7 @@
             "apt_type":"아파트",
             "apt_year":17,
             "value_score":33.2925,
+            "region":"전라남도 함평군",
             "region_code":"Jeollanamdo",
             "sub_region_code":"4686000000_Jeollanamdo_Hampyeong"
         },
@@ -85,6 +92,7 @@
             "apt_type":"아파트",
             "apt_year":21,
             "value_score":32.5675,
+            "region":"전라남도 함평군",
             "region_code":"Jeollanamdo",
             "sub_region_code":"4686000000_Jeollanamdo_Hampyeong"
         },
@@ -96,6 +104,7 @@
             "apt_type":"아파트",
             "apt_year":32,
             "value_score":23.6175,
+            "region":"전라남도 함평군",
             "region_code":"Jeollanamdo",
             "sub_region_code":"4686000000_Jeollanamdo_Hampyeong"
         },
@@ -107,6 +116,7 @@
             "apt_type":"분양권",
             "apt_year":1,
             "value_score":41.37,
+            "region":"전라남도 함평군",
             "region_code":"Jeollanamdo",
             "sub_region_code":"4686000000_Jeollanamdo_Hampyeong"
         },
@@ -118,6 +128,7 @@
             "apt_type":"분양권",
             "apt_year":1,
             "value_score":41.1675,
+            "region":"전라남도 함평군",
             "region_code":"Jeollanamdo",
             "sub_region_code":"4686000000_Jeollanamdo_Hampyeong"
         },
@@ -129,6 +140,7 @@
             "apt_type":"아파트",
             "apt_year":17,
             "value_score":35.9175,
+            "region":"전라남도 함평군",
             "region_code":"Jeollanamdo",
             "sub_region_code":"4686000000_Jeollanamdo_Hampyeong"
         },
@@ -140,6 +152,7 @@
             "apt_type":"아파트",
             "apt_year":21,
             "value_score":31.6675,
+            "region":"전라남도 함평군",
             "region_code":"Jeollanamdo",
             "sub_region_code":"4686000000_Jeollanamdo_Hampyeong"
         },
@@ -151,6 +164,7 @@
             "apt_type":"아파트",
             "apt_year":32,
             "value_score":22.4175,
+            "region":"전라남도 함평군",
             "region_code":"Jeollanamdo",
             "sub_region_code":"4686000000_Jeollanamdo_Hampyeong"
         },
@@ -162,6 +176,7 @@
             "apt_type":"아파트",
             "apt_year":21,
             "value_score":35.4747368421,
+            "region":"전라남도 함평군",
             "region_code":"Jeollanamdo",
             "sub_region_code":"4686000000_Jeollanamdo_Hampyeong"
         },
@@ -173,6 +188,7 @@
             "apt_type":"분양권",
             "apt_year":1,
             "value_score":33.1252631579,
+            "region":"전라남도 함평군",
             "region_code":"Jeollanamdo",
             "sub_region_code":"4686000000_Jeollanamdo_Hampyeong"
         },
@@ -184,6 +200,7 @@
             "apt_type":"분양권",
             "apt_year":1,
             "value_score":32.6589473684,
+            "region":"전라남도 함평군",
             "region_code":"Jeollanamdo",
             "sub_region_code":"4686000000_Jeollanamdo_Hampyeong"
         },
@@ -195,6 +212,7 @@
             "apt_type":"아파트",
             "apt_year":17,
             "value_score":32.3431578947,
+            "region":"전라남도 함평군",
             "region_code":"Jeollanamdo",
             "sub_region_code":"4686000000_Jeollanamdo_Hampyeong"
         },
@@ -206,6 +224,7 @@
             "apt_type":"아파트",
             "apt_year":32,
             "value_score":27.6326315789,
+            "region":"전라남도 함평군",
             "region_code":"Jeollanamdo",
             "sub_region_code":"4686000000_Jeollanamdo_Hampyeong"
         },
@@ -217,6 +236,7 @@
             "apt_type":"분양권",
             "apt_year":1,
             "value_score":43.115,
+            "region":"전라남도 함평군",
             "region_code":"Jeollanamdo",
             "sub_region_code":"4686000000_Jeollanamdo_Hampyeong"
         },
@@ -228,6 +248,7 @@
             "apt_type":"분양권",
             "apt_year":1,
             "value_score":42.96,
+            "region":"전라남도 함평군",
             "region_code":"Jeollanamdo",
             "sub_region_code":"4686000000_Jeollanamdo_Hampyeong"
         },
@@ -239,6 +260,7 @@
             "apt_type":"아파트",
             "apt_year":17,
             "value_score":40.71,
+            "region":"전라남도 함평군",
             "region_code":"Jeollanamdo",
             "sub_region_code":"4686000000_Jeollanamdo_Hampyeong"
         },
@@ -250,6 +272,7 @@
             "apt_type":"아파트",
             "apt_year":21,
             "value_score":39.835,
+            "region":"전라남도 함평군",
             "region_code":"Jeollanamdo",
             "sub_region_code":"4686000000_Jeollanamdo_Hampyeong"
         },
@@ -261,6 +284,7 @@
             "apt_type":"아파트",
             "apt_year":32,
             "value_score":33.835,
+            "region":"전라남도 함평군",
             "region_code":"Jeollanamdo",
             "sub_region_code":"4686000000_Jeollanamdo_Hampyeong"
         }

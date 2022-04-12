@@ -30,6 +30,10 @@
                 "type":"number"
             },
             {
+                "name":"region",
+                "type":"string"
+            },
+            {
                 "name":"region_code",
                 "type":"string"
             },
@@ -52,6 +56,7 @@
             "apt_type":"아파트",
             "apt_year":2.0,
             "value_score":38.639,
+            "region":"강원도 횡성군",
             "region_code":"Gangwondo",
             "sub_region_code":"4273000000_Gangwondo_Hoengseong"
         },
@@ -63,6 +68,7 @@
             "apt_type":"아파트",
             "apt_year":5.0,
             "value_score":38.439,
+            "region":"강원도 횡성군",
             "region_code":"Gangwondo",
             "sub_region_code":"4273000000_Gangwondo_Hoengseong"
         },
@@ -74,6 +80,7 @@
             "apt_type":"분양권",
             "apt_year":0.0,
             "value_score":37.054,
+            "region":"강원도 횡성군",
             "region_code":"Gangwondo",
             "sub_region_code":"4273000000_Gangwondo_Hoengseong"
         },
@@ -85,6 +92,7 @@
             "apt_type":"아파트",
             "apt_year":5.0,
             "value_score":33.341,
+            "region":"강원도 횡성군",
             "region_code":"Gangwondo",
             "sub_region_code":"4273000000_Gangwondo_Hoengseong"
         },
@@ -96,6 +104,7 @@
             "apt_type":"아파트",
             "apt_year":22.0,
             "value_score":32.9455,
+            "region":"강원도 횡성군",
             "region_code":"Gangwondo",
             "sub_region_code":"4273000000_Gangwondo_Hoengseong"
         },
@@ -107,6 +116,7 @@
             "apt_type":"아파트",
             "apt_year":14.0,
             "value_score":32.5455,
+            "region":"강원도 횡성군",
             "region_code":"Gangwondo",
             "sub_region_code":"4273000000_Gangwondo_Hoengseong"
         },
@@ -118,6 +128,7 @@
             "apt_type":"아파트",
             "apt_year":10.0,
             "value_score":32.5455,
+            "region":"강원도 횡성군",
             "region_code":"Gangwondo",
             "sub_region_code":"4273000000_Gangwondo_Hoengseong"
         },
@@ -129,6 +140,7 @@
             "apt_type":"아파트",
             "apt_year":16.0,
             "value_score":31.654,
+            "region":"강원도 횡성군",
             "region_code":"Gangwondo",
             "sub_region_code":"4273000000_Gangwondo_Hoengseong"
         },
@@ -140,6 +152,7 @@
             "apt_type":"아파트",
             "apt_year":25.0,
             "value_score":28.7705,
+            "region":"강원도 횡성군",
             "region_code":"Gangwondo",
             "sub_region_code":"4273000000_Gangwondo_Hoengseong"
         },
@@ -151,6 +164,7 @@
             "apt_type":"아파트",
             "apt_year":26.0,
             "value_score":28.479,
+            "region":"강원도 횡성군",
             "region_code":"Gangwondo",
             "sub_region_code":"4273000000_Gangwondo_Hoengseong"
         },
@@ -162,6 +176,7 @@
             "apt_type":"아파트",
             "apt_year":2.0,
             "value_score":45.179,
+            "region":"강원도 횡성군",
             "region_code":"Gangwondo",
             "sub_region_code":"4273000000_Gangwondo_Hoengseong"
         },
@@ -173,6 +188,7 @@
             "apt_type":"아파트",
             "apt_year":5.0,
             "value_score":43.929,
+            "region":"강원도 횡성군",
             "region_code":"Gangwondo",
             "sub_region_code":"4273000000_Gangwondo_Hoengseong"
         },
@@ -184,6 +200,7 @@
             "apt_type":"분양권",
             "apt_year":0.0,
             "value_score":39.829,
+            "region":"강원도 횡성군",
             "region_code":"Gangwondo",
             "sub_region_code":"4273000000_Gangwondo_Hoengseong"
         },
@@ -195,6 +212,7 @@
             "apt_type":"아파트",
             "apt_year":5.0,
             "value_score":36.941,
+            "region":"강원도 횡성군",
             "region_code":"Gangwondo",
             "sub_region_code":"4273000000_Gangwondo_Hoengseong"
         },
@@ -206,6 +224,7 @@
             "apt_type":"아파트",
             "apt_year":22.0,
             "value_score":36.4705,
+            "region":"강원도 횡성군",
             "region_code":"Gangwondo",
             "sub_region_code":"4273000000_Gangwondo_Hoengseong"
         },
@@ -217,6 +236,7 @@
             "apt_type":"아파트",
             "apt_year":14.0,
             "value_score":36.2205,
+            "region":"강원도 횡성군",
             "region_code":"Gangwondo",
             "sub_region_code":"4273000000_Gangwondo_Hoengseong"
         },
@@ -228,6 +248,7 @@
             "apt_type":"아파트",
             "apt_year":10.0,
             "value_score":36.2205,
+            "region":"강원도 횡성군",
             "region_code":"Gangwondo",
             "sub_region_code":"4273000000_Gangwondo_Hoengseong"
         },
@@ -239,6 +260,7 @@
             "apt_type":"아파트",
             "apt_year":16.0,
             "value_score":33.079,
+            "region":"강원도 횡성군",
             "region_code":"Gangwondo",
             "sub_region_code":"4273000000_Gangwondo_Hoengseong"
         },
@@ -250,6 +272,7 @@
             "apt_type":"아파트",
             "apt_year":25.0,
             "value_score":29.2205,
+            "region":"강원도 횡성군",
             "region_code":"Gangwondo",
             "sub_region_code":"4273000000_Gangwondo_Hoengseong"
         },
@@ -261,6 +284,7 @@
             "apt_type":"아파트",
             "apt_year":24.0,
             "value_score":28.441,
+            "region":"강원도 횡성군",
             "region_code":"Gangwondo",
             "sub_region_code":"4273000000_Gangwondo_Hoengseong"
         },
@@ -272,6 +296,7 @@
             "apt_type":"분양권",
             "apt_year":0.0,
             "value_score":35.2313684211,
+            "region":"강원도 횡성군",
             "region_code":"Gangwondo",
             "sub_region_code":"4273000000_Gangwondo_Hoengseong"
         },
@@ -283,6 +308,7 @@
             "apt_type":"아파트",
             "apt_year":5.0,
             "value_score":33.5734736842,
+            "region":"강원도 횡성군",
             "region_code":"Gangwondo",
             "sub_region_code":"4273000000_Gangwondo_Hoengseong"
         },
@@ -294,6 +320,7 @@
             "apt_type":"아파트",
             "apt_year":2.0,
             "value_score":32.6261052632,
+            "region":"강원도 횡성군",
             "region_code":"Gangwondo",
             "sub_region_code":"4273000000_Gangwondo_Hoengseong"
         },
@@ -305,6 +332,7 @@
             "apt_type":"아파트",
             "apt_year":16.0,
             "value_score":31.7576842105,
+            "region":"강원도 횡성군",
             "region_code":"Gangwondo",
             "sub_region_code":"4273000000_Gangwondo_Hoengseong"
         },
@@ -316,6 +344,7 @@
             "apt_type":"아파트",
             "apt_year":26.0,
             "value_score":31.3629473684,
+            "region":"강원도 횡성군",
             "region_code":"Gangwondo",
             "sub_region_code":"4273000000_Gangwondo_Hoengseong"
         },
@@ -327,6 +356,7 @@
             "apt_type":"아파트",
             "apt_year":5.0,
             "value_score":31.3465263158,
+            "region":"강원도 횡성군",
             "region_code":"Gangwondo",
             "sub_region_code":"4273000000_Gangwondo_Hoengseong"
         },
@@ -338,6 +368,7 @@
             "apt_type":"아파트",
             "apt_year":22.0,
             "value_score":30.7258947368,
+            "region":"강원도 횡성군",
             "region_code":"Gangwondo",
             "sub_region_code":"4273000000_Gangwondo_Hoengseong"
         },
@@ -349,6 +380,7 @@
             "apt_type":"아파트",
             "apt_year":25.0,
             "value_score":30.2258947368,
+            "region":"강원도 횡성군",
             "region_code":"Gangwondo",
             "sub_region_code":"4273000000_Gangwondo_Hoengseong"
         },
@@ -360,6 +392,7 @@
             "apt_type":"아파트",
             "apt_year":14.0,
             "value_score":30.1995789474,
+            "region":"강원도 횡성군",
             "region_code":"Gangwondo",
             "sub_region_code":"4273000000_Gangwondo_Hoengseong"
         },
@@ -371,6 +404,7 @@
             "apt_type":"아파트",
             "apt_year":10.0,
             "value_score":30.1995789474,
+            "region":"강원도 횡성군",
             "region_code":"Gangwondo",
             "sub_region_code":"4273000000_Gangwondo_Hoengseong"
         },
@@ -382,6 +416,7 @@
             "apt_type":"아파트",
             "apt_year":2.0,
             "value_score":43.258,
+            "region":"강원도 횡성군",
             "region_code":"Gangwondo",
             "sub_region_code":"4273000000_Gangwondo_Hoengseong"
         },
@@ -393,6 +428,7 @@
             "apt_type":"아파트",
             "apt_year":5.0,
             "value_score":43.008,
+            "region":"강원도 횡성군",
             "region_code":"Gangwondo",
             "sub_region_code":"4273000000_Gangwondo_Hoengseong"
         },
@@ -404,6 +440,7 @@
             "apt_type":"분양권",
             "apt_year":0.0,
             "value_score":41.783,
+            "region":"강원도 횡성군",
             "region_code":"Gangwondo",
             "sub_region_code":"4273000000_Gangwondo_Hoengseong"
         },
@@ -415,6 +452,7 @@
             "apt_type":"아파트",
             "apt_year":5.0,
             "value_score":40.882,
+            "region":"강원도 횡성군",
             "region_code":"Gangwondo",
             "sub_region_code":"4273000000_Gangwondo_Hoengseong"
         },
@@ -426,6 +464,7 @@
             "apt_type":"아파트",
             "apt_year":22.0,
             "value_score":39.316,
+            "region":"강원도 횡성군",
             "region_code":"Gangwondo",
             "sub_region_code":"4273000000_Gangwondo_Hoengseong"
         },
@@ -437,6 +476,7 @@
             "apt_type":"아파트",
             "apt_year":14.0,
             "value_score":39.066,
+            "region":"강원도 횡성군",
             "region_code":"Gangwondo",
             "sub_region_code":"4273000000_Gangwondo_Hoengseong"
         },
@@ -448,6 +488,7 @@
             "apt_type":"아파트",
             "apt_year":10.0,
             "value_score":39.066,
+            "region":"강원도 횡성군",
             "region_code":"Gangwondo",
             "sub_region_code":"4273000000_Gangwondo_Hoengseong"
         },
@@ -459,6 +500,7 @@
             "apt_type":"아파트",
             "apt_year":16.0,
             "value_score":38.033,
+            "region":"강원도 횡성군",
             "region_code":"Gangwondo",
             "sub_region_code":"4273000000_Gangwondo_Hoengseong"
         },
@@ -470,6 +512,7 @@
             "apt_type":"아파트",
             "apt_year":24.0,
             "value_score":36.632,
+            "region":"강원도 횡성군",
             "region_code":"Gangwondo",
             "sub_region_code":"4273000000_Gangwondo_Hoengseong"
         },
@@ -481,6 +524,7 @@
             "apt_type":"아파트",
             "apt_year":25.0,
             "value_score":36.191,
+            "region":"강원도 횡성군",
             "region_code":"Gangwondo",
             "sub_region_code":"4273000000_Gangwondo_Hoengseong"
         }

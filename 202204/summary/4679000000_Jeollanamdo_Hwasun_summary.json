@@ -30,6 +30,10 @@
                 "type":"number"
             },
             {
+                "name":"region",
+                "type":"string"
+            },
+            {
                 "name":"region_code",
                 "type":"string"
             },
@@ -52,6 +56,7 @@
             "apt_type":"아파트",
             "apt_year":2.0,
             "value_score":51.108,
+            "region":"전라남도 화순군",
             "region_code":"Jeollanamdo",
             "sub_region_code":"4679000000_Jeollanamdo_Hwasun"
         },
@@ -63,6 +68,7 @@
             "apt_type":"아파트",
             "apt_year":3.0,
             "value_score":48.523,
+            "region":"전라남도 화순군",
             "region_code":"Jeollanamdo",
             "sub_region_code":"4679000000_Jeollanamdo_Hwasun"
         },
@@ -74,6 +80,7 @@
             "apt_type":"아파트",
             "apt_year":7.0,
             "value_score":47.122,
+            "region":"전라남도 화순군",
             "region_code":"Jeollanamdo",
             "sub_region_code":"4679000000_Jeollanamdo_Hwasun"
         },
@@ -85,6 +92,7 @@
             "apt_type":"아파트",
             "apt_year":26.0,
             "value_score":44.5965,
+            "region":"전라남도 화순군",
             "region_code":"Jeollanamdo",
             "sub_region_code":"4679000000_Jeollanamdo_Hwasun"
         },
@@ -96,6 +104,7 @@
             "apt_type":"아파트",
             "apt_year":2.0,
             "value_score":43.8565,
+            "region":"전라남도 화순군",
             "region_code":"Jeollanamdo",
             "sub_region_code":"4679000000_Jeollanamdo_Hwasun"
         },
@@ -107,6 +116,7 @@
             "apt_type":"아파트",
             "apt_year":14.0,
             "value_score":43.4315,
+            "region":"전라남도 화순군",
             "region_code":"Jeollanamdo",
             "sub_region_code":"4679000000_Jeollanamdo_Hwasun"
         },
@@ -118,6 +128,7 @@
             "apt_type":"아파트",
             "apt_year":25.0,
             "value_score":42.9065,
+            "region":"전라남도 화순군",
             "region_code":"Jeollanamdo",
             "sub_region_code":"4679000000_Jeollanamdo_Hwasun"
         },
@@ -129,6 +140,7 @@
             "apt_type":"아파트",
             "apt_year":26.0,
             "value_score":42.3465,
+            "region":"전라남도 화순군",
             "region_code":"Jeollanamdo",
             "sub_region_code":"4679000000_Jeollanamdo_Hwasun"
         },
@@ -140,6 +152,7 @@
             "apt_type":"아파트",
             "apt_year":26.0,
             "value_score":42.3465,
+            "region":"전라남도 화순군",
             "region_code":"Jeollanamdo",
             "sub_region_code":"4679000000_Jeollanamdo_Hwasun"
         },
@@ -151,6 +164,7 @@
             "apt_type":"아파트",
             "apt_year":31.0,
             "value_score":41.797,
+            "region":"전라남도 화순군",
             "region_code":"Jeollanamdo",
             "sub_region_code":"4679000000_Jeollanamdo_Hwasun"
         },
@@ -162,6 +176,7 @@
             "apt_type":"아파트",
             "apt_year":2.0,
             "value_score":53.973,
+            "region":"전라남도 화순군",
             "region_code":"Jeollanamdo",
             "sub_region_code":"4679000000_Jeollanamdo_Hwasun"
         },
@@ -173,6 +188,7 @@
             "apt_type":"아파트",
             "apt_year":3.0,
             "value_score":53.623,
+            "region":"전라남도 화순군",
             "region_code":"Jeollanamdo",
             "sub_region_code":"4679000000_Jeollanamdo_Hwasun"
         },
@@ -184,6 +200,7 @@
             "apt_type":"아파트",
             "apt_year":2.0,
             "value_score":51.8815,
+            "region":"전라남도 화순군",
             "region_code":"Jeollanamdo",
             "sub_region_code":"4679000000_Jeollanamdo_Hwasun"
         },
@@ -195,6 +212,7 @@
             "apt_type":"아파트",
             "apt_year":7.0,
             "value_score":51.622,
+            "region":"전라남도 화순군",
             "region_code":"Jeollanamdo",
             "sub_region_code":"4679000000_Jeollanamdo_Hwasun"
         },
@@ -206,6 +224,7 @@
             "apt_type":"아파트",
             "apt_year":14.0,
             "value_score":46.1315,
+            "region":"전라남도 화순군",
             "region_code":"Jeollanamdo",
             "sub_region_code":"4679000000_Jeollanamdo_Hwasun"
         },
@@ -217,6 +236,7 @@
             "apt_type":"아파트",
             "apt_year":25.0,
             "value_score":43.2215,
+            "region":"전라남도 화순군",
             "region_code":"Jeollanamdo",
             "sub_region_code":"4679000000_Jeollanamdo_Hwasun"
         },
@@ -228,6 +248,7 @@
             "apt_type":"아파트",
             "apt_year":21.0,
             "value_score":42.873,
+            "region":"전라남도 화순군",
             "region_code":"Jeollanamdo",
             "sub_region_code":"4679000000_Jeollanamdo_Hwasun"
         },
@@ -239,6 +260,7 @@
             "apt_type":"아파트",
             "apt_year":26.0,
             "value_score":42.8715,
+            "region":"전라남도 화순군",
             "region_code":"Jeollanamdo",
             "sub_region_code":"4679000000_Jeollanamdo_Hwasun"
         },
@@ -250,6 +272,7 @@
             "apt_type":"아파트",
             "apt_year":26.0,
             "value_score":42.8715,
+            "region":"전라남도 화순군",
             "region_code":"Jeollanamdo",
             "sub_region_code":"4679000000_Jeollanamdo_Hwasun"
         },
@@ -261,6 +284,7 @@
             "apt_type":"아파트",
             "apt_year":26.0,
             "value_score":42.8715,
+            "region":"전라남도 화순군",
             "region_code":"Jeollanamdo",
             "sub_region_code":"4679000000_Jeollanamdo_Hwasun"
         },
@@ -272,6 +296,7 @@
             "apt_type":"아파트",
             "apt_year":2.0,
             "value_score":48.2343157895,
+            "region":"전라남도 화순군",
             "region_code":"Jeollanamdo",
             "sub_region_code":"4679000000_Jeollanamdo_Hwasun"
         },
@@ -283,6 +308,7 @@
             "apt_type":"아파트",
             "apt_year":26.0,
             "value_score":47.2324210526,
+            "region":"전라남도 화순군",
             "region_code":"Jeollanamdo",
             "sub_region_code":"4679000000_Jeollanamdo_Hwasun"
         },
@@ -294,6 +320,7 @@
             "apt_type":"아파트",
             "apt_year":31.0,
             "value_score":43.5488421053,
+            "region":"전라남도 화순군",
             "region_code":"Jeollanamdo",
             "sub_region_code":"4679000000_Jeollanamdo_Hwasun"
         },
@@ -305,6 +332,7 @@
             "apt_type":"아파트",
             "apt_year":27.0,
             "value_score":43.5482105263,
+            "region":"전라남도 화순군",
             "region_code":"Jeollanamdo",
             "sub_region_code":"4679000000_Jeollanamdo_Hwasun"
         },
@@ -316,6 +344,7 @@
             "apt_type":"아파트",
             "apt_year":25.0,
             "value_score":43.4955789474,
+            "region":"전라남도 화순군",
             "region_code":"Jeollanamdo",
             "sub_region_code":"4679000000_Jeollanamdo_Hwasun"
         },
@@ -327,6 +356,7 @@
             "apt_type":"아파트",
             "apt_year":3.0,
             "value_score":43.4711578947,
+            "region":"전라남도 화순군",
             "region_code":"Jeollanamdo",
             "sub_region_code":"4679000000_Jeollanamdo_Hwasun"
         },
@@ -338,6 +368,7 @@
             "apt_type":"아파트",
             "apt_year":7.0,
             "value_score":42.8383157895,
+            "region":"전라남도 화순군",
             "region_code":"Jeollanamdo",
             "sub_region_code":"4679000000_Jeollanamdo_Hwasun"
         },
@@ -349,6 +380,7 @@
             "apt_type":"아파트",
             "apt_year":26.0,
             "value_score":42.7587368421,
+            "region":"전라남도 화순군",
             "region_code":"Jeollanamdo",
             "sub_region_code":"4679000000_Jeollanamdo_Hwasun"
         },
@@ -360,6 +392,7 @@
             "apt_type":"아파트",
             "apt_year":26.0,
             "value_score":42.7587368421,
+            "region":"전라남도 화순군",
             "region_code":"Jeollanamdo",
             "sub_region_code":"4679000000_Jeollanamdo_Hwasun"
         },
@@ -371,6 +404,7 @@
             "apt_type":"아파트",
             "apt_year":28.0,
             "value_score":42.1271578947,
+            "region":"전라남도 화순군",
             "region_code":"Jeollanamdo",
             "sub_region_code":"4679000000_Jeollanamdo_Hwasun"
         },
@@ -382,6 +416,7 @@
             "apt_type":"아파트",
             "apt_year":2.0,
             "value_score":52.221,
+            "region":"전라남도 화순군",
             "region_code":"Jeollanamdo",
             "sub_region_code":"4679000000_Jeollanamdo_Hwasun"
         },
@@ -393,6 +428,7 @@
             "apt_type":"아파트",
             "apt_year":3.0,
             "value_score":50.746,
+            "region":"전라남도 화순군",
             "region_code":"Jeollanamdo",
             "sub_region_code":"4679000000_Jeollanamdo_Hwasun"
         },
@@ -404,6 +440,7 @@
             "apt_type":"아파트",
             "apt_year":7.0,
             "value_score":49.744,
+            "region":"전라남도 화순군",
             "region_code":"Jeollanamdo",
             "sub_region_code":"4679000000_Jeollanamdo_Hwasun"
         },
@@ -415,6 +452,7 @@
             "apt_type":"아파트",
             "apt_year":2.0,
             "value_score":47.638,
+            "region":"전라남도 화순군",
             "region_code":"Jeollanamdo",
             "sub_region_code":"4679000000_Jeollanamdo_Hwasun"
         },
@@ -426,6 +464,7 @@
             "apt_type":"아파트",
             "apt_year":26.0,
             "value_score":47.368,
+            "region":"전라남도 화순군",
             "region_code":"Jeollanamdo",
             "sub_region_code":"4679000000_Jeollanamdo_Hwasun"
         },
@@ -437,6 +476,7 @@
             "apt_type":"아파트",
             "apt_year":14.0,
             "value_score":46.763,
+            "region":"전라남도 화순군",
             "region_code":"Jeollanamdo",
             "sub_region_code":"4679000000_Jeollanamdo_Hwasun"
         },
@@ -448,6 +488,7 @@
             "apt_type":"아파트",
             "apt_year":25.0,
             "value_score":46.468,
+            "region":"전라남도 화순군",
             "region_code":"Jeollanamdo",
             "sub_region_code":"4679000000_Jeollanamdo_Hwasun"
         },
@@ -459,6 +500,7 @@
             "apt_type":"아파트",
             "apt_year":26.0,
             "value_score":46.118,
+            "region":"전라남도 화순군",
             "region_code":"Jeollanamdo",
             "sub_region_code":"4679000000_Jeollanamdo_Hwasun"
         },
@@ -470,6 +512,7 @@
             "apt_type":"아파트",
             "apt_year":26.0,
             "value_score":46.118,
+            "region":"전라남도 화순군",
             "region_code":"Jeollanamdo",
             "sub_region_code":"4679000000_Jeollanamdo_Hwasun"
         },
@@ -481,6 +524,7 @@
             "apt_type":"아파트",
             "apt_year":21.0,
             "value_score":45.746,
+            "region":"전라남도 화순군",
             "region_code":"Jeollanamdo",
             "sub_region_code":"4679000000_Jeollanamdo_Hwasun"
         }

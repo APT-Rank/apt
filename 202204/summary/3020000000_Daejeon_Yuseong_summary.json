@@ -30,6 +30,10 @@
                 "type":"number"
             },
             {
+                "name":"region",
+                "type":"string"
+            },
+            {
                 "name":"region_code",
                 "type":"string"
             },
@@ -52,6 +56,7 @@
             "apt_type":"아파트",
             "apt_year":9,
             "value_score":64.5232,
+            "region":"대전시 유성구",
             "region_code":"Daejeon",
             "sub_region_code":"3020000000_Daejeon_Yuseong"
         },
@@ -63,6 +68,7 @@
             "apt_type":"아파트",
             "apt_year":9,
             "value_score":64.5232,
+            "region":"대전시 유성구",
             "region_code":"Daejeon",
             "sub_region_code":"3020000000_Daejeon_Yuseong"
         },
@@ -74,6 +80,7 @@
             "apt_type":"아파트",
             "apt_year":3,
             "value_score":60.9284,
+            "region":"대전시 유성구",
             "region_code":"Daejeon",
             "sub_region_code":"3020000000_Daejeon_Yuseong"
         },
@@ -85,6 +92,7 @@
             "apt_type":"아파트",
             "apt_year":31,
             "value_score":60.7278,
+            "region":"대전시 유성구",
             "region_code":"Daejeon",
             "sub_region_code":"3020000000_Daejeon_Yuseong"
         },
@@ -96,6 +104,7 @@
             "apt_type":"아파트",
             "apt_year":5,
             "value_score":59.9284,
+            "region":"대전시 유성구",
             "region_code":"Daejeon",
             "sub_region_code":"3020000000_Daejeon_Yuseong"
         },
@@ -107,6 +116,7 @@
             "apt_type":"아파트",
             "apt_year":17,
             "value_score":59.1748,
+            "region":"대전시 유성구",
             "region_code":"Daejeon",
             "sub_region_code":"3020000000_Daejeon_Yuseong"
         },
@@ -118,6 +128,7 @@
             "apt_type":"아파트",
             "apt_year":3,
             "value_score":58.6784,
+            "region":"대전시 유성구",
             "region_code":"Daejeon",
             "sub_region_code":"3020000000_Daejeon_Yuseong"
         },
@@ -129,6 +140,7 @@
             "apt_type":"아파트",
             "apt_year":4,
             "value_score":58.6748,
+            "region":"대전시 유성구",
             "region_code":"Daejeon",
             "sub_region_code":"3020000000_Daejeon_Yuseong"
         },
@@ -140,6 +152,7 @@
             "apt_type":"아파트",
             "apt_year":22,
             "value_score":57.9772,
+            "region":"대전시 유성구",
             "region_code":"Daejeon",
             "sub_region_code":"3020000000_Daejeon_Yuseong"
         },
@@ -151,6 +164,7 @@
             "apt_type":"아파트",
             "apt_year":18,
             "value_score":57.2726,
+            "region":"대전시 유성구",
             "region_code":"Daejeon",
             "sub_region_code":"3020000000_Daejeon_Yuseong"
         },
@@ -162,6 +176,7 @@
             "apt_type":"아파트",
             "apt_year":9,
             "value_score":71.8488,
+            "region":"대전시 유성구",
             "region_code":"Daejeon",
             "sub_region_code":"3020000000_Daejeon_Yuseong"
         },
@@ -173,6 +188,7 @@
             "apt_type":"아파트",
             "apt_year":9,
             "value_score":71.8488,
+            "region":"대전시 유성구",
             "region_code":"Daejeon",
             "sub_region_code":"3020000000_Daejeon_Yuseong"
         },
@@ -184,6 +200,7 @@
             "apt_type":"아파트",
             "apt_year":9,
             "value_score":64.6944,
+            "region":"대전시 유성구",
             "region_code":"Daejeon",
             "sub_region_code":"3020000000_Daejeon_Yuseong"
         },
@@ -195,6 +212,7 @@
             "apt_type":"분양권",
             "apt_year":0,
             "value_score":63.9768,
+            "region":"대전시 유성구",
             "region_code":"Daejeon",
             "sub_region_code":"3020000000_Daejeon_Yuseong"
         },
@@ -206,6 +224,7 @@
             "apt_type":"아파트",
             "apt_year":2,
             "value_score":62.9952,
+            "region":"대전시 유성구",
             "region_code":"Daejeon",
             "sub_region_code":"3020000000_Daejeon_Yuseong"
         },
@@ -217,6 +236,7 @@
             "apt_type":"아파트",
             "apt_year":12,
             "value_score":62.3652,
+            "region":"대전시 유성구",
             "region_code":"Daejeon",
             "sub_region_code":"3020000000_Daejeon_Yuseong"
         },
@@ -228,6 +248,7 @@
             "apt_type":"아파트",
             "apt_year":13,
             "value_score":62.0988,
+            "region":"대전시 유성구",
             "region_code":"Daejeon",
             "sub_region_code":"3020000000_Daejeon_Yuseong"
         },
@@ -239,6 +260,7 @@
             "apt_type":"아파트",
             "apt_year":9,
             "value_score":62.0944,
+            "region":"대전시 유성구",
             "region_code":"Daejeon",
             "sub_region_code":"3020000000_Daejeon_Yuseong"
         },
@@ -250,6 +272,7 @@
             "apt_type":"아파트",
             "apt_year":22,
             "value_score":60.9848,
+            "region":"대전시 유성구",
             "region_code":"Daejeon",
             "sub_region_code":"3020000000_Daejeon_Yuseong"
         },
@@ -261,6 +284,7 @@
             "apt_type":"아파트",
             "apt_year":9,
             "value_score":60.666,
+            "region":"대전시 유성구",
             "region_code":"Daejeon",
             "sub_region_code":"3020000000_Daejeon_Yuseong"
         },
@@ -272,6 +296,7 @@
             "apt_type":"아파트",
             "apt_year":15,
             "value_score":70.3741,
+            "region":"대전시 유성구",
             "region_code":"Daejeon",
             "sub_region_code":"3020000000_Daejeon_Yuseong"
         },
@@ -283,6 +308,7 @@
             "apt_type":"아파트",
             "apt_year":3,
             "value_score":69.6642,
+            "region":"대전시 유성구",
             "region_code":"Daejeon",
             "sub_region_code":"3020000000_Daejeon_Yuseong"
         },
@@ -294,6 +320,7 @@
             "apt_type":"아파트",
             "apt_year":5,
             "value_score":69.0642,
+            "region":"대전시 유성구",
             "region_code":"Daejeon",
             "sub_region_code":"3020000000_Daejeon_Yuseong"
         },
@@ -305,6 +332,7 @@
             "apt_type":"아파트",
             "apt_year":18,
             "value_score":67.6488,
+            "region":"대전시 유성구",
             "region_code":"Daejeon",
             "sub_region_code":"3020000000_Daejeon_Yuseong"
         },
@@ -316,6 +344,7 @@
             "apt_type":"아파트",
             "apt_year":3,
             "value_score":67.4238,
+            "region":"대전시 유성구",
             "region_code":"Daejeon",
             "sub_region_code":"3020000000_Daejeon_Yuseong"
         },
@@ -327,6 +356,7 @@
             "apt_type":"아파트",
             "apt_year":22,
             "value_score":67.1636,
+            "region":"대전시 유성구",
             "region_code":"Daejeon",
             "sub_region_code":"3020000000_Daejeon_Yuseong"
         },
@@ -338,6 +368,7 @@
             "apt_type":"아파트",
             "apt_year":19,
             "value_score":66.9738,
+            "region":"대전시 유성구",
             "region_code":"Daejeon",
             "sub_region_code":"3020000000_Daejeon_Yuseong"
         },
@@ -349,6 +380,7 @@
             "apt_type":"아파트",
             "apt_year":18,
             "value_score":66.9633,
+            "region":"대전시 유성구",
             "region_code":"Daejeon",
             "sub_region_code":"3020000000_Daejeon_Yuseong"
         },
@@ -360,6 +392,7 @@
             "apt_type":"아파트",
             "apt_year":10,
             "value_score":66.8238,
+            "region":"대전시 유성구",
             "region_code":"Daejeon",
             "sub_region_code":"3020000000_Daejeon_Yuseong"
         },
@@ -371,6 +404,7 @@
             "apt_type":"아파트",
             "apt_year":18,
             "value_score":66.5863,
+            "region":"대전시 유성구",
             "region_code":"Daejeon",
             "sub_region_code":"3020000000_Daejeon_Yuseong"
         },
@@ -382,6 +416,7 @@
             "apt_type":"아파트",
             "apt_year":3,
             "value_score":65.707,
+            "region":"대전시 유성구",
             "region_code":"Daejeon",
             "sub_region_code":"3020000000_Daejeon_Yuseong"
         },
@@ -393,6 +428,7 @@
             "apt_type":"아파트",
             "apt_year":5,
             "value_score":65.307,
+            "region":"대전시 유성구",
             "region_code":"Daejeon",
             "sub_region_code":"3020000000_Daejeon_Yuseong"
         },
@@ -404,6 +440,7 @@
             "apt_type":"아파트",
             "apt_year":31,
             "value_score":64.2065,
+            "region":"대전시 유성구",
             "region_code":"Daejeon",
             "sub_region_code":"3020000000_Daejeon_Yuseong"
         },
@@ -415,6 +452,7 @@
             "apt_type":"아파트",
             "apt_year":17,
             "value_score":63.654,
+            "region":"대전시 유성구",
             "region_code":"Daejeon",
             "sub_region_code":"3020000000_Daejeon_Yuseong"
         },
@@ -426,6 +464,7 @@
             "apt_type":"아파트",
             "apt_year":18,
             "value_score":63.473,
+            "region":"대전시 유성구",
             "region_code":"Daejeon",
             "sub_region_code":"3020000000_Daejeon_Yuseong"
         },
@@ -437,6 +476,7 @@
             "apt_type":"아파트",
             "apt_year":3,
             "value_score":63.457,
+            "region":"대전시 유성구",
             "region_code":"Daejeon",
             "sub_region_code":"3020000000_Daejeon_Yuseong"
         },
@@ -448,6 +488,7 @@
             "apt_type":"아파트",
             "apt_year":4,
             "value_score":63.454,
+            "region":"대전시 유성구",
             "region_code":"Daejeon",
             "sub_region_code":"3020000000_Daejeon_Yuseong"
         },
@@ -459,6 +500,7 @@
             "apt_type":"아파트",
             "apt_year":3,
             "value_score":63.323,
+            "region":"대전시 유성구",
             "region_code":"Daejeon",
             "sub_region_code":"3020000000_Daejeon_Yuseong"
         },
@@ -470,6 +512,7 @@
             "apt_type":"아파트",
             "apt_year":19,
             "value_score":63.023,
+            "region":"대전시 유성구",
             "region_code":"Daejeon",
             "sub_region_code":"3020000000_Daejeon_Yuseong"
         },
@@ -481,6 +524,7 @@
             "apt_type":"아파트",
             "apt_year":10,
             "value_score":62.923,
+            "region":"대전시 유성구",
             "region_code":"Daejeon",
             "sub_region_code":"3020000000_Daejeon_Yuseong"
         },
@@ -492,6 +536,7 @@
             "apt_type":"아파트",
             "apt_year":9,
             "value_score":62.847,
+            "region":"대전시 유성구",
             "region_code":"Daejeon",
             "sub_region_code":"3020000000_Daejeon_Yuseong"
         },
@@ -503,6 +548,7 @@
             "apt_type":"아파트",
             "apt_year":9,
             "value_score":62.847,
+            "region":"대전시 유성구",
             "region_code":"Daejeon",
             "sub_region_code":"3020000000_Daejeon_Yuseong"
         },
@@ -514,6 +560,7 @@
             "apt_type":"아파트",
             "apt_year":31,
             "value_score":61.213,
+            "region":"대전시 유성구",
             "region_code":"Daejeon",
             "sub_region_code":"3020000000_Daejeon_Yuseong"
         },
@@ -525,6 +572,7 @@
             "apt_type":"아파트",
             "apt_year":3,
             "value_score":60.614,
+            "region":"대전시 유성구",
             "region_code":"Daejeon",
             "sub_region_code":"3020000000_Daejeon_Yuseong"
         },
@@ -536,6 +584,7 @@
             "apt_type":"아파트",
             "apt_year":22,
             "value_score":59.912,
+            "region":"대전시 유성구",
             "region_code":"Daejeon",
             "sub_region_code":"3020000000_Daejeon_Yuseong"
         },
@@ -547,6 +596,7 @@
             "apt_type":"아파트",
             "apt_year":5,
             "value_score":59.814,
+            "region":"대전시 유성구",
             "region_code":"Daejeon",
             "sub_region_code":"3020000000_Daejeon_Yuseong"
         },
@@ -558,6 +608,7 @@
             "apt_type":"아파트",
             "apt_year":17,
             "value_score":59.508,
+            "region":"대전시 유성구",
             "region_code":"Daejeon",
             "sub_region_code":"3020000000_Daejeon_Yuseong"
         },
@@ -569,6 +620,7 @@
             "apt_type":"아파트",
             "apt_year":3,
             "value_score":59.114,
+            "region":"대전시 유성구",
             "region_code":"Daejeon",
             "sub_region_code":"3020000000_Daejeon_Yuseong"
         },
@@ -580,6 +632,7 @@
             "apt_type":"아파트",
             "apt_year":4,
             "value_score":59.108,
+            "region":"대전시 유성구",
             "region_code":"Daejeon",
             "sub_region_code":"3020000000_Daejeon_Yuseong"
         },
@@ -591,6 +644,7 @@
             "apt_type":"아파트",
             "apt_year":9,
             "value_score":58.986,
+            "region":"대전시 유성구",
             "region_code":"Daejeon",
             "sub_region_code":"3020000000_Daejeon_Yuseong"
         }

@@ -30,6 +30,10 @@
                 "type":"number"
             },
             {
+                "name":"region",
+                "type":"string"
+            },
+            {
                 "name":"region_code",
                 "type":"string"
             },
@@ -52,6 +56,7 @@
             "apt_type":"아파트",
             "apt_year":4.0,
             "value_score":56.5535,
+            "region":"경상북도 김천시",
             "region_code":"Gyeongsangbukdo",
             "sub_region_code":"4715000000_Gyeongsangbukdo_Gimcheon"
         },
@@ -63,6 +68,7 @@
             "apt_type":"아파트",
             "apt_year":4.0,
             "value_score":55.7785,
+            "region":"경상북도 김천시",
             "region_code":"Gyeongsangbukdo",
             "sub_region_code":"4715000000_Gyeongsangbukdo_Gimcheon"
         },
@@ -74,6 +80,7 @@
             "apt_type":"아파트",
             "apt_year":5.0,
             "value_score":53.521,
+            "region":"경상북도 김천시",
             "region_code":"Gyeongsangbukdo",
             "sub_region_code":"4715000000_Gyeongsangbukdo_Gimcheon"
         },
@@ -85,6 +92,7 @@
             "apt_type":"분양권",
             "apt_year":-1.0,
             "value_score":51.0125,
+            "region":"경상북도 김천시",
             "region_code":"Gyeongsangbukdo",
             "sub_region_code":"4715000000_Gyeongsangbukdo_Gimcheon"
         },
@@ -96,6 +104,7 @@
             "apt_type":"아파트",
             "apt_year":4.0,
             "value_score":50.9025,
+            "region":"경상북도 김천시",
             "region_code":"Gyeongsangbukdo",
             "sub_region_code":"4715000000_Gyeongsangbukdo_Gimcheon"
         },
@@ -107,6 +116,7 @@
             "apt_type":"아파트",
             "apt_year":7.0,
             "value_score":50.4255,
+            "region":"경상북도 김천시",
             "region_code":"Gyeongsangbukdo",
             "sub_region_code":"4715000000_Gyeongsangbukdo_Gimcheon"
         },
@@ -118,6 +128,7 @@
             "apt_type":"아파트",
             "apt_year":8.0,
             "value_score":50.3645,
+            "region":"경상북도 김천시",
             "region_code":"Gyeongsangbukdo",
             "sub_region_code":"4715000000_Gyeongsangbukdo_Gimcheon"
         },
@@ -129,6 +140,7 @@
             "apt_type":"아파트",
             "apt_year":10.0,
             "value_score":49.2655,
+            "region":"경상북도 김천시",
             "region_code":"Gyeongsangbukdo",
             "sub_region_code":"4715000000_Gyeongsangbukdo_Gimcheon"
         },
@@ -140,6 +152,7 @@
             "apt_type":"아파트",
             "apt_year":7.0,
             "value_score":49.1395,
+            "region":"경상북도 김천시",
             "region_code":"Gyeongsangbukdo",
             "sub_region_code":"4715000000_Gyeongsangbukdo_Gimcheon"
         },
@@ -151,6 +164,7 @@
             "apt_type":"아파트",
             "apt_year":21.0,
             "value_score":48.9285,
+            "region":"경상북도 김천시",
             "region_code":"Gyeongsangbukdo",
             "sub_region_code":"4715000000_Gyeongsangbukdo_Gimcheon"
         },
@@ -162,6 +176,7 @@
             "apt_type":"아파트",
             "apt_year":4.0,
             "value_score":60.0785,
+            "region":"경상북도 김천시",
             "region_code":"Gyeongsangbukdo",
             "sub_region_code":"4715000000_Gyeongsangbukdo_Gimcheon"
         },
@@ -173,6 +188,7 @@
             "apt_type":"분양권",
             "apt_year":-1.0,
             "value_score":59.5025,
+            "region":"경상북도 김천시",
             "region_code":"Gyeongsangbukdo",
             "sub_region_code":"4715000000_Gyeongsangbukdo_Gimcheon"
         },
@@ -184,6 +200,7 @@
             "apt_type":"아파트",
             "apt_year":5.0,
             "value_score":59.446,
+            "region":"경상북도 김천시",
             "region_code":"Gyeongsangbukdo",
             "sub_region_code":"4715000000_Gyeongsangbukdo_Gimcheon"
         },
@@ -195,6 +212,7 @@
             "apt_type":"아파트",
             "apt_year":4.0,
             "value_score":59.1525,
+            "region":"경상북도 김천시",
             "region_code":"Gyeongsangbukdo",
             "sub_region_code":"4715000000_Gyeongsangbukdo_Gimcheon"
         },
@@ -206,6 +224,7 @@
             "apt_type":"아파트",
             "apt_year":8.0,
             "value_score":59.1395,
+            "region":"경상북도 김천시",
             "region_code":"Gyeongsangbukdo",
             "sub_region_code":"4715000000_Gyeongsangbukdo_Gimcheon"
         },
@@ -217,6 +236,7 @@
             "apt_type":"아파트",
             "apt_year":4.0,
             "value_score":58.3285,
+            "region":"경상북도 김천시",
             "region_code":"Gyeongsangbukdo",
             "sub_region_code":"4715000000_Gyeongsangbukdo_Gimcheon"
         },
@@ -228,6 +248,7 @@
             "apt_type":"아파트",
             "apt_year":7.0,
             "value_score":57.3895,
+            "region":"경상북도 김천시",
             "region_code":"Gyeongsangbukdo",
             "sub_region_code":"4715000000_Gyeongsangbukdo_Gimcheon"
         },
@@ -239,6 +260,7 @@
             "apt_type":"아파트",
             "apt_year":7.0,
             "value_score":55.2405,
+            "region":"경상북도 김천시",
             "region_code":"Gyeongsangbukdo",
             "sub_region_code":"4715000000_Gyeongsangbukdo_Gimcheon"
         },
@@ -250,6 +272,7 @@
             "apt_type":"아파트",
             "apt_year":7.0,
             "value_score":54.7395,
+            "region":"경상북도 김천시",
             "region_code":"Gyeongsangbukdo",
             "sub_region_code":"4715000000_Gyeongsangbukdo_Gimcheon"
         },
@@ -261,6 +284,7 @@
             "apt_type":"아파트",
             "apt_year":7.0,
             "value_score":53.8905,
+            "region":"경상북도 김천시",
             "region_code":"Gyeongsangbukdo",
             "sub_region_code":"4715000000_Gyeongsangbukdo_Gimcheon"
         },
@@ -272,6 +296,7 @@
             "apt_type":"아파트",
             "apt_year":4.0,
             "value_score":52.9938947368,
+            "region":"경상북도 김천시",
             "region_code":"Gyeongsangbukdo",
             "sub_region_code":"4715000000_Gyeongsangbukdo_Gimcheon"
         },
@@ -283,6 +308,7 @@
             "apt_type":"아파트",
             "apt_year":4.0,
             "value_score":52.6517894737,
+            "region":"경상북도 김천시",
             "region_code":"Gyeongsangbukdo",
             "sub_region_code":"4715000000_Gyeongsangbukdo_Gimcheon"
         },
@@ -294,6 +320,7 @@
             "apt_type":"아파트",
             "apt_year":21.0,
             "value_score":48.5202105263,
+            "region":"경상북도 김천시",
             "region_code":"Gyeongsangbukdo",
             "sub_region_code":"4715000000_Gyeongsangbukdo_Gimcheon"
         },
@@ -305,6 +332,7 @@
             "apt_type":"아파트",
             "apt_year":27.0,
             "value_score":48.4412631579,
+            "region":"경상북도 김천시",
             "region_code":"Gyeongsangbukdo",
             "sub_region_code":"4715000000_Gyeongsangbukdo_Gimcheon"
         },
@@ -316,6 +344,7 @@
             "apt_type":"아파트",
             "apt_year":5.0,
             "value_score":47.9581052632,
+            "region":"경상북도 김천시",
             "region_code":"Gyeongsangbukdo",
             "sub_region_code":"4715000000_Gyeongsangbukdo_Gimcheon"
         },
@@ -327,6 +356,7 @@
             "apt_type":"아파트",
             "apt_year":24.0,
             "value_score":46.8623157895,
+            "region":"경상북도 김천시",
             "region_code":"Gyeongsangbukdo",
             "sub_region_code":"4715000000_Gyeongsangbukdo_Gimcheon"
         },
@@ -338,6 +368,7 @@
             "apt_type":"아파트",
             "apt_year":29.0,
             "value_score":46.0189473684,
+            "region":"경상북도 김천시",
             "region_code":"Gyeongsangbukdo",
             "sub_region_code":"4715000000_Gyeongsangbukdo_Gimcheon"
         },
@@ -349,6 +380,7 @@
             "apt_type":"아파트",
             "apt_year":30.0,
             "value_score":45.8178947368,
+            "region":"경상북도 김천시",
             "region_code":"Gyeongsangbukdo",
             "sub_region_code":"4715000000_Gyeongsangbukdo_Gimcheon"
         },
@@ -360,6 +392,7 @@
             "apt_type":"아파트",
             "apt_year":7.0,
             "value_score":45.7827368421,
+            "region":"경상북도 김천시",
             "region_code":"Gyeongsangbukdo",
             "sub_region_code":"4715000000_Gyeongsangbukdo_Gimcheon"
         },
@@ -371,6 +404,7 @@
             "apt_type":"아파트",
             "apt_year":20.0,
             "value_score":45.5991578947,
+            "region":"경상북도 김천시",
             "region_code":"Gyeongsangbukdo",
             "sub_region_code":"4715000000_Gyeongsangbukdo_Gimcheon"
         },
@@ -382,6 +416,7 @@
             "apt_type":"아파트",
             "apt_year":5.0,
             "value_score":57.267,
+            "region":"경상북도 김천시",
             "region_code":"Gyeongsangbukdo",
             "sub_region_code":"4715000000_Gyeongsangbukdo_Gimcheon"
         },
@@ -393,6 +428,7 @@
             "apt_type":"아파트",
             "apt_year":4.0,
             "value_score":56.532,
+            "region":"경상북도 김천시",
             "region_code":"Gyeongsangbukdo",
             "sub_region_code":"4715000000_Gyeongsangbukdo_Gimcheon"
         },
@@ -404,6 +440,7 @@
             "apt_type":"아파트",
             "apt_year":4.0,
             "value_score":55.907,
+            "region":"경상북도 김천시",
             "region_code":"Gyeongsangbukdo",
             "sub_region_code":"4715000000_Gyeongsangbukdo_Gimcheon"
         },
@@ -415,6 +452,7 @@
             "apt_type":"아파트",
             "apt_year":8.0,
             "value_score":53.404,
+            "region":"경상북도 김천시",
             "region_code":"Gyeongsangbukdo",
             "sub_region_code":"4715000000_Gyeongsangbukdo_Gimcheon"
         },
@@ -426,6 +464,7 @@
             "apt_type":"분양권",
             "apt_year":-1.0,
             "value_score":53.155,
+            "region":"경상북도 김천시",
             "region_code":"Gyeongsangbukdo",
             "sub_region_code":"4715000000_Gyeongsangbukdo_Gimcheon"
         },
@@ -437,6 +476,7 @@
             "apt_type":"아파트",
             "apt_year":4.0,
             "value_score":53.055,
+            "region":"경상북도 김천시",
             "region_code":"Gyeongsangbukdo",
             "sub_region_code":"4715000000_Gyeongsangbukdo_Gimcheon"
         },
@@ -448,6 +488,7 @@
             "apt_type":"아파트",
             "apt_year":7.0,
             "value_score":53.006,
+            "region":"경상북도 김천시",
             "region_code":"Gyeongsangbukdo",
             "sub_region_code":"4715000000_Gyeongsangbukdo_Gimcheon"
         },
@@ -459,6 +500,7 @@
             "apt_type":"아파트",
             "apt_year":7.0,
             "value_score":52.529,
+            "region":"경상북도 김천시",
             "region_code":"Gyeongsangbukdo",
             "sub_region_code":"4715000000_Gyeongsangbukdo_Gimcheon"
         },
@@ -470,6 +512,7 @@
             "apt_type":"아파트",
             "apt_year":10.0,
             "value_score":52.156,
+            "region":"경상북도 김천시",
             "region_code":"Gyeongsangbukdo",
             "sub_region_code":"4715000000_Gyeongsangbukdo_Gimcheon"
         },
@@ -481,6 +524,7 @@
             "apt_type":"아파트",
             "apt_year":11.0,
             "value_score":51.892,
+            "region":"경상북도 김천시",
             "region_code":"Gyeongsangbukdo",
             "sub_region_code":"4715000000_Gyeongsangbukdo_Gimcheon"
         }

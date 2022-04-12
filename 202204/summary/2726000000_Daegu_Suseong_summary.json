@@ -30,6 +30,10 @@
                 "type":"number"
             },
             {
+                "name":"region",
+                "type":"string"
+            },
+            {
                 "name":"region_code",
                 "type":"string"
             },
@@ -52,6 +56,7 @@
             "apt_type":"분양권",
             "apt_year":0.0,
             "value_score":74.7772,
+            "region":"대구시 수성구",
             "region_code":"Daegu",
             "sub_region_code":"2726000000_Daegu_Suseong"
         },
@@ -63,6 +68,7 @@
             "apt_type":"아파트",
             "apt_year":14.0,
             "value_score":74.2754,
+            "region":"대구시 수성구",
             "region_code":"Daegu",
             "sub_region_code":"2726000000_Daegu_Suseong"
         },
@@ -74,6 +80,7 @@
             "apt_type":"아파트",
             "apt_year":3.0,
             "value_score":70.376,
+            "region":"대구시 수성구",
             "region_code":"Daegu",
             "sub_region_code":"2726000000_Daegu_Suseong"
         },
@@ -85,6 +92,7 @@
             "apt_type":"분양권",
             "apt_year":-1.0,
             "value_score":69.8756,
+            "region":"대구시 수성구",
             "region_code":"Daegu",
             "sub_region_code":"2726000000_Daegu_Suseong"
         },
@@ -96,6 +104,7 @@
             "apt_type":"아파트",
             "apt_year":4.0,
             "value_score":68.5556,
+            "region":"대구시 수성구",
             "region_code":"Daegu",
             "sub_region_code":"2726000000_Daegu_Suseong"
         },
@@ -107,6 +116,7 @@
             "apt_type":"아파트",
             "apt_year":14.0,
             "value_score":68.3754,
+            "region":"대구시 수성구",
             "region_code":"Daegu",
             "sub_region_code":"2726000000_Daegu_Suseong"
         },
@@ -118,6 +128,7 @@
             "apt_type":"아파트",
             "apt_year":8.0,
             "value_score":67.281,
+            "region":"대구시 수성구",
             "region_code":"Daegu",
             "sub_region_code":"2726000000_Daegu_Suseong"
         },
@@ -129,6 +140,7 @@
             "apt_type":"아파트",
             "apt_year":2.0,
             "value_score":66.8606,
+            "region":"대구시 수성구",
             "region_code":"Daegu",
             "sub_region_code":"2726000000_Daegu_Suseong"
         },
@@ -140,6 +152,7 @@
             "apt_type":"아파트",
             "apt_year":17.0,
             "value_score":66.7436,
+            "region":"대구시 수성구",
             "region_code":"Daegu",
             "sub_region_code":"2726000000_Daegu_Suseong"
         },
@@ -151,6 +164,7 @@
             "apt_type":"아파트",
             "apt_year":15.0,
             "value_score":65.8076,
+            "region":"대구시 수성구",
             "region_code":"Daegu",
             "sub_region_code":"2726000000_Daegu_Suseong"
         },
@@ -162,6 +176,7 @@
             "apt_type":"분양권",
             "apt_year":0.0,
             "value_score":77.6848,
+            "region":"대구시 수성구",
             "region_code":"Daegu",
             "sub_region_code":"2726000000_Daegu_Suseong"
         },
@@ -173,6 +188,7 @@
             "apt_type":"아파트",
             "apt_year":14.0,
             "value_score":76.6836,
+            "region":"대구시 수성구",
             "region_code":"Daegu",
             "sub_region_code":"2726000000_Daegu_Suseong"
         },
@@ -184,6 +200,7 @@
             "apt_type":"아파트",
             "apt_year":8.0,
             "value_score":71.354,
+            "region":"대구시 수성구",
             "region_code":"Daegu",
             "sub_region_code":"2726000000_Daegu_Suseong"
         },
@@ -195,6 +212,7 @@
             "apt_type":"아파트",
             "apt_year":2.0,
             "value_score":71.2404,
+            "region":"대구시 수성구",
             "region_code":"Daegu",
             "sub_region_code":"2726000000_Daegu_Suseong"
         },
@@ -206,6 +224,7 @@
             "apt_type":"아파트",
             "apt_year":4.0,
             "value_score":70.8704,
+            "region":"대구시 수성구",
             "region_code":"Daegu",
             "sub_region_code":"2726000000_Daegu_Suseong"
         },
@@ -217,6 +236,7 @@
             "apt_type":"아파트",
             "apt_year":3.0,
             "value_score":70.084,
+            "region":"대구시 수성구",
             "region_code":"Daegu",
             "sub_region_code":"2726000000_Daegu_Suseong"
         },
@@ -228,6 +248,7 @@
             "apt_type":"분양권",
             "apt_year":-1.0,
             "value_score":69.7504,
+            "region":"대구시 수성구",
             "region_code":"Daegu",
             "sub_region_code":"2726000000_Daegu_Suseong"
         },
@@ -239,6 +260,7 @@
             "apt_type":"아파트",
             "apt_year":13.0,
             "value_score":67.6668,
+            "region":"대구시 수성구",
             "region_code":"Daegu",
             "sub_region_code":"2726000000_Daegu_Suseong"
         },
@@ -250,6 +272,7 @@
             "apt_type":"아파트",
             "apt_year":15.0,
             "value_score":67.6384,
+            "region":"대구시 수성구",
             "region_code":"Daegu",
             "sub_region_code":"2726000000_Daegu_Suseong"
         },
@@ -261,6 +284,7 @@
             "apt_type":"아파트",
             "apt_year":3.0,
             "value_score":67.6176,
+            "region":"대구시 수성구",
             "region_code":"Daegu",
             "sub_region_code":"2726000000_Daegu_Suseong"
         },
@@ -272,6 +296,7 @@
             "apt_type":"분양권",
             "apt_year":0.0,
             "value_score":71.6761,
+            "region":"대구시 수성구",
             "region_code":"Daegu",
             "sub_region_code":"2726000000_Daegu_Suseong"
         },
@@ -283,6 +308,7 @@
             "apt_type":"아파트",
             "apt_year":14.0,
             "value_score":71.3752,
+            "region":"대구시 수성구",
             "region_code":"Daegu",
             "sub_region_code":"2726000000_Daegu_Suseong"
         },
@@ -294,6 +320,7 @@
             "apt_type":"아파트",
             "apt_year":16.0,
             "value_score":70.0503,
+            "region":"대구시 수성구",
             "region_code":"Daegu",
             "sub_region_code":"2726000000_Daegu_Suseong"
         },
@@ -305,6 +332,7 @@
             "apt_type":"아파트",
             "apt_year":15.0,
             "value_score":69.6503,
+            "region":"대구시 수성구",
             "region_code":"Daegu",
             "sub_region_code":"2726000000_Daegu_Suseong"
         },
@@ -316,6 +344,7 @@
             "apt_type":"아파트",
             "apt_year":3.0,
             "value_score":68.9755,
+            "region":"대구시 수성구",
             "region_code":"Daegu",
             "sub_region_code":"2726000000_Daegu_Suseong"
         },
@@ -327,6 +356,7 @@
             "apt_type":"분양권",
             "apt_year":-1.0,
             "value_score":68.6253,
+            "region":"대구시 수성구",
             "region_code":"Daegu",
             "sub_region_code":"2726000000_Daegu_Suseong"
         },
@@ -338,6 +368,7 @@
             "apt_type":"아파트",
             "apt_year":4.0,
             "value_score":67.7353,
+            "region":"대구시 수성구",
             "region_code":"Daegu",
             "sub_region_code":"2726000000_Daegu_Suseong"
         },
@@ -349,6 +380,7 @@
             "apt_type":"아파트",
             "apt_year":17.0,
             "value_score":66.7043,
+            "region":"대구시 수성구",
             "region_code":"Daegu",
             "sub_region_code":"2726000000_Daegu_Suseong"
         },
@@ -360,6 +392,7 @@
             "apt_type":"아파트",
             "apt_year":2.0,
             "value_score":66.5303,
+            "region":"대구시 수성구",
             "region_code":"Daegu",
             "sub_region_code":"2726000000_Daegu_Suseong"
         },
@@ -371,6 +404,7 @@
             "apt_type":"아파트",
             "apt_year":3.0,
             "value_score":66.3574,
+            "region":"대구시 수성구",
             "region_code":"Daegu",
             "sub_region_code":"2726000000_Daegu_Suseong"
         },
@@ -382,6 +416,7 @@
             "apt_type":"분양권",
             "apt_year":0.0,
             "value_score":75.6685,
+            "region":"대구시 수성구",
             "region_code":"Daegu",
             "sub_region_code":"2726000000_Daegu_Suseong"
         },
@@ -393,6 +428,7 @@
             "apt_type":"아파트",
             "apt_year":14.0,
             "value_score":75.467,
+            "region":"대구시 수성구",
             "region_code":"Daegu",
             "sub_region_code":"2726000000_Daegu_Suseong"
         },
@@ -404,6 +440,7 @@
             "apt_type":"아파트",
             "apt_year":3.0,
             "value_score":72.7675,
+            "region":"대구시 수성구",
             "region_code":"Daegu",
             "sub_region_code":"2726000000_Daegu_Suseong"
         },
@@ -415,6 +452,7 @@
             "apt_type":"아파트",
             "apt_year":14.0,
             "value_score":72.567,
+            "region":"대구시 수성구",
             "region_code":"Daegu",
             "sub_region_code":"2726000000_Daegu_Suseong"
         },
@@ -426,6 +464,7 @@
             "apt_type":"아파트",
             "apt_year":14.0,
             "value_score":72.0185,
+            "region":"대구시 수성구",
             "region_code":"Daegu",
             "sub_region_code":"2726000000_Daegu_Suseong"
         },
@@ -437,6 +476,7 @@
             "apt_type":"아파트",
             "apt_year":6.0,
             "value_score":71.879,
+            "region":"대구시 수성구",
             "region_code":"Daegu",
             "sub_region_code":"2726000000_Daegu_Suseong"
         },
@@ -448,6 +488,7 @@
             "apt_type":"분양권",
             "apt_year":-1.0,
             "value_score":71.8505,
+            "region":"대구시 수성구",
             "region_code":"Daegu",
             "sub_region_code":"2726000000_Daegu_Suseong"
         },
@@ -459,6 +500,7 @@
             "apt_type":"아파트",
             "apt_year":16.0,
             "value_score":71.7005,
+            "region":"대구시 수성구",
             "region_code":"Daegu",
             "sub_region_code":"2726000000_Daegu_Suseong"
         },
@@ -470,6 +512,7 @@
             "apt_type":"아파트",
             "apt_year":16.0,
             "value_score":71.6185,
+            "region":"대구시 수성구",
             "region_code":"Daegu",
             "sub_region_code":"2726000000_Daegu_Suseong"
         },
@@ -481,6 +524,7 @@
             "apt_type":"아파트",
             "apt_year":3.0,
             "value_score":71.529,
+            "region":"대구시 수성구",
             "region_code":"Daegu",
             "sub_region_code":"2726000000_Daegu_Suseong"
         },
@@ -492,6 +536,7 @@
             "apt_type":"분양권",
             "apt_year":0.0,
             "value_score":71.737,
+            "region":"대구시 수성구",
             "region_code":"Daegu",
             "sub_region_code":"2726000000_Daegu_Suseong"
         },
@@ -503,6 +548,7 @@
             "apt_type":"아파트",
             "apt_year":14.0,
             "value_score":71.334,
+            "region":"대구시 수성구",
             "region_code":"Daegu",
             "sub_region_code":"2726000000_Daegu_Suseong"
         },
@@ -514,6 +560,7 @@
             "apt_type":"아파트",
             "apt_year":3.0,
             "value_score":68.335,
+            "region":"대구시 수성구",
             "region_code":"Daegu",
             "sub_region_code":"2726000000_Daegu_Suseong"
         },
@@ -525,6 +572,7 @@
             "apt_type":"분양권",
             "apt_year":-1.0,
             "value_score":68.101,
+            "region":"대구시 수성구",
             "region_code":"Daegu",
             "sub_region_code":"2726000000_Daegu_Suseong"
         },
@@ -536,6 +584,7 @@
             "apt_type":"아파트",
             "apt_year":4.0,
             "value_score":66.881,
+            "region":"대구시 수성구",
             "region_code":"Daegu",
             "sub_region_code":"2726000000_Daegu_Suseong"
         },
@@ -547,6 +596,7 @@
             "apt_type":"아파트",
             "apt_year":14.0,
             "value_score":66.734,
+            "region":"대구시 수성구",
             "region_code":"Daegu",
             "sub_region_code":"2726000000_Daegu_Suseong"
         },
@@ -558,6 +608,7 @@
             "apt_type":"아파트",
             "apt_year":8.0,
             "value_score":66.41,
+            "region":"대구시 수성구",
             "region_code":"Daegu",
             "sub_region_code":"2726000000_Daegu_Suseong"
         },
@@ -569,6 +620,7 @@
             "apt_type":"아파트",
             "apt_year":2.0,
             "value_score":65.901,
+            "region":"대구시 수성구",
             "region_code":"Daegu",
             "sub_region_code":"2726000000_Daegu_Suseong"
         },
@@ -580,6 +632,7 @@
             "apt_type":"아파트",
             "apt_year":17.0,
             "value_score":65.611,
+            "region":"대구시 수성구",
             "region_code":"Daegu",
             "sub_region_code":"2726000000_Daegu_Suseong"
         },
@@ -591,6 +644,7 @@
             "apt_type":"아파트",
             "apt_year":15.0,
             "value_score":64.896,
+            "region":"대구시 수성구",
             "region_code":"Daegu",
             "sub_region_code":"2726000000_Daegu_Suseong"
         }

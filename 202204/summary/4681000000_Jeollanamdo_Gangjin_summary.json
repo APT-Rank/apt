@@ -30,6 +30,10 @@
                 "type":"number"
             },
             {
+                "name":"region",
+                "type":"string"
+            },
+            {
                 "name":"region_code",
                 "type":"string"
             },
@@ -52,6 +56,7 @@
             "apt_type":"아파트",
             "apt_year":5.0,
             "value_score":33.171,
+            "region":"전라남도 강진군",
             "region_code":"Jeollanamdo",
             "sub_region_code":"4681000000_Jeollanamdo_Gangjin"
         },
@@ -63,6 +68,7 @@
             "apt_type":"아파트",
             "apt_year":18.0,
             "value_score":31.721,
+            "region":"전라남도 강진군",
             "region_code":"Jeollanamdo",
             "sub_region_code":"4681000000_Jeollanamdo_Gangjin"
         },
@@ -74,6 +80,7 @@
             "apt_type":"아파트",
             "apt_year":10.0,
             "value_score":31.546,
+            "region":"전라남도 강진군",
             "region_code":"Jeollanamdo",
             "sub_region_code":"4681000000_Jeollanamdo_Gangjin"
         },
@@ -85,6 +92,7 @@
             "apt_type":"아파트",
             "apt_year":27.0,
             "value_score":30.796,
+            "region":"전라남도 강진군",
             "region_code":"Jeollanamdo",
             "sub_region_code":"4681000000_Jeollanamdo_Gangjin"
         },
@@ -96,6 +104,7 @@
             "apt_type":"아파트",
             "apt_year":20.0,
             "value_score":29.396,
+            "region":"전라남도 강진군",
             "region_code":"Jeollanamdo",
             "sub_region_code":"4681000000_Jeollanamdo_Gangjin"
         },
@@ -107,6 +116,7 @@
             "apt_type":"아파트",
             "apt_year":3.0,
             "value_score":29.3795,
+            "region":"전라남도 강진군",
             "region_code":"Jeollanamdo",
             "sub_region_code":"4681000000_Jeollanamdo_Gangjin"
         },
@@ -118,6 +128,7 @@
             "apt_type":"아파트",
             "apt_year":22.0,
             "value_score":22.0295,
+            "region":"전라남도 강진군",
             "region_code":"Jeollanamdo",
             "sub_region_code":"4681000000_Jeollanamdo_Gangjin"
         },
@@ -129,6 +140,7 @@
             "apt_type":"아파트",
             "apt_year":5.0,
             "value_score":36.636,
+            "region":"전라남도 강진군",
             "region_code":"Jeollanamdo",
             "sub_region_code":"4681000000_Jeollanamdo_Gangjin"
         },
@@ -140,6 +152,7 @@
             "apt_type":"아파트",
             "apt_year":3.0,
             "value_score":36.5045,
+            "region":"전라남도 강진군",
             "region_code":"Jeollanamdo",
             "sub_region_code":"4681000000_Jeollanamdo_Gangjin"
         },
@@ -151,6 +164,7 @@
             "apt_type":"아파트",
             "apt_year":18.0,
             "value_score":34.886,
+            "region":"전라남도 강진군",
             "region_code":"Jeollanamdo",
             "sub_region_code":"4681000000_Jeollanamdo_Gangjin"
         },
@@ -162,6 +176,7 @@
             "apt_type":"아파트",
             "apt_year":10.0,
             "value_score":34.636,
+            "region":"전라남도 강진군",
             "region_code":"Jeollanamdo",
             "sub_region_code":"4681000000_Jeollanamdo_Gangjin"
         },
@@ -173,6 +188,7 @@
             "apt_type":"아파트",
             "apt_year":20.0,
             "value_score":29.636,
+            "region":"전라남도 강진군",
             "region_code":"Jeollanamdo",
             "sub_region_code":"4681000000_Jeollanamdo_Gangjin"
         },
@@ -184,6 +200,7 @@
             "apt_type":"아파트",
             "apt_year":27.0,
             "value_score":29.386,
+            "region":"전라남도 강진군",
             "region_code":"Jeollanamdo",
             "sub_region_code":"4681000000_Jeollanamdo_Gangjin"
         },
@@ -195,6 +212,7 @@
             "apt_type":"아파트",
             "apt_year":22.0,
             "value_score":26.0045,
+            "region":"전라남도 강진군",
             "region_code":"Jeollanamdo",
             "sub_region_code":"4681000000_Jeollanamdo_Gangjin"
         },
@@ -206,6 +224,7 @@
             "apt_type":"아파트",
             "apt_year":27.0,
             "value_score":34.3612631579,
+            "region":"전라남도 강진군",
             "region_code":"Jeollanamdo",
             "sub_region_code":"4681000000_Jeollanamdo_Gangjin"
         },
@@ -217,6 +236,7 @@
             "apt_type":"아파트",
             "apt_year":20.0,
             "value_score":31.3086315789,
+            "region":"전라남도 강진군",
             "region_code":"Jeollanamdo",
             "sub_region_code":"4681000000_Jeollanamdo_Gangjin"
         },
@@ -228,6 +248,7 @@
             "apt_type":"아파트",
             "apt_year":5.0,
             "value_score":31.2823157895,
+            "region":"전라남도 강진군",
             "region_code":"Jeollanamdo",
             "sub_region_code":"4681000000_Jeollanamdo_Gangjin"
         },
@@ -239,6 +260,7 @@
             "apt_type":"아파트",
             "apt_year":18.0,
             "value_score":30.2823157895,
+            "region":"전라남도 강진군",
             "region_code":"Jeollanamdo",
             "sub_region_code":"4681000000_Jeollanamdo_Gangjin"
         },
@@ -250,6 +272,7 @@
             "apt_type":"아파트",
             "apt_year":10.0,
             "value_score":30.2033684211,
+            "region":"전라남도 강진군",
             "region_code":"Jeollanamdo",
             "sub_region_code":"4681000000_Jeollanamdo_Gangjin"
         },
@@ -261,6 +284,7 @@
             "apt_type":"아파트",
             "apt_year":3.0,
             "value_score":23.6109473684,
+            "region":"전라남도 강진군",
             "region_code":"Jeollanamdo",
             "sub_region_code":"4681000000_Jeollanamdo_Gangjin"
         },
@@ -272,6 +296,7 @@
             "apt_type":"아파트",
             "apt_year":22.0,
             "value_score":20.2951578947,
+            "region":"전라남도 강진군",
             "region_code":"Jeollanamdo",
             "sub_region_code":"4681000000_Jeollanamdo_Gangjin"
         },
@@ -283,6 +308,7 @@
             "apt_type":"아파트",
             "apt_year":5.0,
             "value_score":40.547,
+            "region":"전라남도 강진군",
             "region_code":"Jeollanamdo",
             "sub_region_code":"4681000000_Jeollanamdo_Gangjin"
         },
@@ -294,6 +320,7 @@
             "apt_type":"아파트",
             "apt_year":18.0,
             "value_score":39.547,
+            "region":"전라남도 강진군",
             "region_code":"Jeollanamdo",
             "sub_region_code":"4681000000_Jeollanamdo_Gangjin"
         },
@@ -305,6 +332,7 @@
             "apt_type":"아파트",
             "apt_year":10.0,
             "value_score":39.422,
+            "region":"전라남도 강진군",
             "region_code":"Jeollanamdo",
             "sub_region_code":"4681000000_Jeollanamdo_Gangjin"
         },
@@ -316,6 +344,7 @@
             "apt_type":"아파트",
             "apt_year":27.0,
             "value_score":38.422,
+            "region":"전라남도 강진군",
             "region_code":"Jeollanamdo",
             "sub_region_code":"4681000000_Jeollanamdo_Gangjin"
         },
@@ -327,6 +356,7 @@
             "apt_type":"아파트",
             "apt_year":20.0,
             "value_score":37.672,
+            "region":"전라남도 강진군",
             "region_code":"Jeollanamdo",
             "sub_region_code":"4681000000_Jeollanamdo_Gangjin"
         },
@@ -338,6 +368,7 @@
             "apt_type":"아파트",
             "apt_year":3.0,
             "value_score":37.384,
+            "region":"전라남도 강진군",
             "region_code":"Jeollanamdo",
             "sub_region_code":"4681000000_Jeollanamdo_Gangjin"
         },
@@ -349,6 +380,7 @@
             "apt_type":"아파트",
             "apt_year":22.0,
             "value_score":32.134,
+            "region":"전라남도 강진군",
             "region_code":"Jeollanamdo",
             "sub_region_code":"4681000000_Jeollanamdo_Gangjin"
         }

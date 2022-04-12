@@ -30,6 +30,10 @@
                 "type":"number"
             },
             {
+                "name":"region",
+                "type":"string"
+            },
+            {
                 "name":"region_code",
                 "type":"string"
             },
@@ -52,6 +56,7 @@
             "apt_type":"아파트",
             "apt_year":3.0,
             "value_score":35.9985,
+            "region":"전라남도 담양군",
             "region_code":"Jeollanamdo",
             "sub_region_code":"4671000000_Jeollanamdo_Damyang"
         },
@@ -63,6 +68,7 @@
             "apt_type":"아파트",
             "apt_year":3.0,
             "value_score":35.9985,
+            "region":"전라남도 담양군",
             "region_code":"Jeollanamdo",
             "sub_region_code":"4671000000_Jeollanamdo_Damyang"
         },
@@ -74,6 +80,7 @@
             "apt_type":"아파트",
             "apt_year":19.0,
             "value_score":35.609,
+            "region":"전라남도 담양군",
             "region_code":"Jeollanamdo",
             "sub_region_code":"4671000000_Jeollanamdo_Damyang"
         },
@@ -85,6 +92,7 @@
             "apt_type":"아파트",
             "apt_year":8.0,
             "value_score":29.769,
+            "region":"전라남도 담양군",
             "region_code":"Jeollanamdo",
             "sub_region_code":"4671000000_Jeollanamdo_Damyang"
         },
@@ -96,6 +104,7 @@
             "apt_type":"아파트",
             "apt_year":31.0,
             "value_score":19.884,
+            "region":"전라남도 담양군",
             "region_code":"Jeollanamdo",
             "sub_region_code":"4671000000_Jeollanamdo_Damyang"
         },
@@ -107,6 +116,7 @@
             "apt_type":"아파트",
             "apt_year":3.0,
             "value_score":44.2485,
+            "region":"전라남도 담양군",
             "region_code":"Jeollanamdo",
             "sub_region_code":"4671000000_Jeollanamdo_Damyang"
         },
@@ -118,6 +128,7 @@
             "apt_type":"아파트",
             "apt_year":3.0,
             "value_score":44.2485,
+            "region":"전라남도 담양군",
             "region_code":"Jeollanamdo",
             "sub_region_code":"4671000000_Jeollanamdo_Damyang"
         },
@@ -129,6 +140,7 @@
             "apt_type":"아파트",
             "apt_year":19.0,
             "value_score":37.334,
+            "region":"전라남도 담양군",
             "region_code":"Jeollanamdo",
             "sub_region_code":"4671000000_Jeollanamdo_Damyang"
         },
@@ -140,6 +152,7 @@
             "apt_type":"아파트",
             "apt_year":8.0,
             "value_score":35.934,
+            "region":"전라남도 담양군",
             "region_code":"Jeollanamdo",
             "sub_region_code":"4671000000_Jeollanamdo_Damyang"
         },
@@ -151,6 +164,7 @@
             "apt_type":"아파트",
             "apt_year":31.0,
             "value_score":22.584,
+            "region":"전라남도 담양군",
             "region_code":"Jeollanamdo",
             "sub_region_code":"4671000000_Jeollanamdo_Damyang"
         },
@@ -162,6 +176,7 @@
             "apt_type":"아파트",
             "apt_year":19.0,
             "value_score":35.3955789474,
+            "region":"전라남도 담양군",
             "region_code":"Jeollanamdo",
             "sub_region_code":"4671000000_Jeollanamdo_Damyang"
         },
@@ -173,6 +188,7 @@
             "apt_type":"아파트",
             "apt_year":3.0,
             "value_score":29.0507368421,
+            "region":"전라남도 담양군",
             "region_code":"Jeollanamdo",
             "sub_region_code":"4671000000_Jeollanamdo_Damyang"
         },
@@ -184,6 +200,7 @@
             "apt_type":"아파트",
             "apt_year":3.0,
             "value_score":29.0507368421,
+            "region":"전라남도 담양군",
             "region_code":"Jeollanamdo",
             "sub_region_code":"4671000000_Jeollanamdo_Damyang"
         },
@@ -195,6 +212,7 @@
             "apt_type":"아파트",
             "apt_year":8.0,
             "value_score":25.2903157895,
+            "region":"전라남도 담양군",
             "region_code":"Jeollanamdo",
             "sub_region_code":"4671000000_Jeollanamdo_Damyang"
         },
@@ -206,6 +224,7 @@
             "apt_type":"아파트",
             "apt_year":31.0,
             "value_score":20.0008421053,
+            "region":"전라남도 담양군",
             "region_code":"Jeollanamdo",
             "sub_region_code":"4671000000_Jeollanamdo_Damyang"
         },
@@ -217,6 +236,7 @@
             "apt_type":"아파트",
             "apt_year":3.0,
             "value_score":44.247,
+            "region":"전라남도 담양군",
             "region_code":"Jeollanamdo",
             "sub_region_code":"4671000000_Jeollanamdo_Damyang"
         },
@@ -228,6 +248,7 @@
             "apt_type":"아파트",
             "apt_year":3.0,
             "value_score":44.247,
+            "region":"전라남도 담양군",
             "region_code":"Jeollanamdo",
             "sub_region_code":"4671000000_Jeollanamdo_Damyang"
         },
@@ -239,6 +260,7 @@
             "apt_type":"아파트",
             "apt_year":19.0,
             "value_score":42.043,
+            "region":"전라남도 담양군",
             "region_code":"Jeollanamdo",
             "sub_region_code":"4671000000_Jeollanamdo_Damyang"
         },
@@ -250,6 +272,7 @@
             "apt_type":"아파트",
             "apt_year":8.0,
             "value_score":38.643,
+            "region":"전라남도 담양군",
             "region_code":"Jeollanamdo",
             "sub_region_code":"4671000000_Jeollanamdo_Damyang"
         },
@@ -261,6 +284,7 @@
             "apt_type":"아파트",
             "apt_year":31.0,
             "value_score":31.668,
+            "region":"전라남도 담양군",
             "region_code":"Jeollanamdo",
             "sub_region_code":"4671000000_Jeollanamdo_Damyang"
         }

@@ -30,6 +30,10 @@
                 "type":"number"
             },
             {
+                "name":"region",
+                "type":"string"
+            },
+            {
                 "name":"region_code",
                 "type":"string"
             },
@@ -52,6 +56,7 @@
             "apt_type":"아파트",
             "apt_year":12.0,
             "value_score":73.1536,
+            "region":"부산시 해운대구",
             "region_code":"Busan",
             "sub_region_code":"2635000000_Busan_Haeundae"
         },
@@ -63,6 +68,7 @@
             "apt_type":"아파트",
             "apt_year":12.0,
             "value_score":73.1536,
+            "region":"부산시 해운대구",
             "region_code":"Busan",
             "sub_region_code":"2635000000_Busan_Haeundae"
         },
@@ -74,6 +80,7 @@
             "apt_type":"아파트",
             "apt_year":13.0,
             "value_score":71.8308,
+            "region":"부산시 해운대구",
             "region_code":"Busan",
             "sub_region_code":"2635000000_Busan_Haeundae"
         },
@@ -85,6 +92,7 @@
             "apt_type":"분양권",
             "apt_year":1.0,
             "value_score":70.0238,
+            "region":"부산시 해운대구",
             "region_code":"Busan",
             "sub_region_code":"2635000000_Busan_Haeundae"
         },
@@ -96,6 +104,7 @@
             "apt_type":"아파트",
             "apt_year":10.0,
             "value_score":69.4724,
+            "region":"부산시 해운대구",
             "region_code":"Busan",
             "sub_region_code":"2635000000_Busan_Haeundae"
         },
@@ -107,6 +116,7 @@
             "apt_type":"아파트",
             "apt_year":4.0,
             "value_score":69.4286,
+            "region":"부산시 해운대구",
             "region_code":"Busan",
             "sub_region_code":"2635000000_Busan_Haeundae"
         },
@@ -118,6 +128,7 @@
             "apt_type":"아파트",
             "apt_year":32.0,
             "value_score":69.4036,
+            "region":"부산시 해운대구",
             "region_code":"Busan",
             "sub_region_code":"2635000000_Busan_Haeundae"
         },
@@ -129,6 +140,7 @@
             "apt_type":"재건축",
             "apt_year":38.0,
             "value_score":69.228,
+            "region":"부산시 해운대구",
             "region_code":"Busan",
             "sub_region_code":"2635000000_Busan_Haeundae"
         },
@@ -140,6 +152,7 @@
             "apt_type":"아파트",
             "apt_year":4.0,
             "value_score":69.1732,
+            "region":"부산시 해운대구",
             "region_code":"Busan",
             "sub_region_code":"2635000000_Busan_Haeundae"
         },
@@ -151,6 +164,7 @@
             "apt_type":"아파트",
             "apt_year":18.0,
             "value_score":69.1102,
+            "region":"부산시 해운대구",
             "region_code":"Busan",
             "sub_region_code":"2635000000_Busan_Haeundae"
         },
@@ -162,6 +176,7 @@
             "apt_type":"아파트",
             "apt_year":12.0,
             "value_score":76.1024,
+            "region":"부산시 해운대구",
             "region_code":"Busan",
             "sub_region_code":"2635000000_Busan_Haeundae"
         },
@@ -173,6 +188,7 @@
             "apt_type":"아파트",
             "apt_year":12.0,
             "value_score":76.1024,
+            "region":"부산시 해운대구",
             "region_code":"Busan",
             "sub_region_code":"2635000000_Busan_Haeundae"
         },
@@ -184,6 +200,7 @@
             "apt_type":"재건축",
             "apt_year":38.0,
             "value_score":74.652,
+            "region":"부산시 해운대구",
             "region_code":"Busan",
             "sub_region_code":"2635000000_Busan_Haeundae"
         },
@@ -195,6 +212,7 @@
             "apt_type":"아파트",
             "apt_year":4.0,
             "value_score":71.1996,
+            "region":"부산시 해운대구",
             "region_code":"Busan",
             "sub_region_code":"2635000000_Busan_Haeundae"
         },
@@ -206,6 +224,7 @@
             "apt_type":"아파트",
             "apt_year":18.0,
             "value_score":70.6568,
+            "region":"부산시 해운대구",
             "region_code":"Busan",
             "sub_region_code":"2635000000_Busan_Haeundae"
         },
@@ -217,6 +236,7 @@
             "apt_type":"아파트",
             "apt_year":13.0,
             "value_score":70.3872,
+            "region":"부산시 해운대구",
             "region_code":"Busan",
             "sub_region_code":"2635000000_Busan_Haeundae"
         },
@@ -228,6 +248,7 @@
             "apt_type":"아파트",
             "apt_year":10.0,
             "value_score":69.9816,
+            "region":"부산시 해운대구",
             "region_code":"Busan",
             "sub_region_code":"2635000000_Busan_Haeundae"
         },
@@ -239,6 +260,7 @@
             "apt_type":"아파트",
             "apt_year":18.0,
             "value_score":69.9068,
+            "region":"부산시 해운대구",
             "region_code":"Busan",
             "sub_region_code":"2635000000_Busan_Haeundae"
         },
@@ -250,6 +272,7 @@
             "apt_type":"아파트",
             "apt_year":5.0,
             "value_score":69.598,
+            "region":"부산시 해운대구",
             "region_code":"Busan",
             "sub_region_code":"2635000000_Busan_Haeundae"
         },
@@ -261,6 +284,7 @@
             "apt_type":"아파트",
             "apt_year":9.0,
             "value_score":68.7984,
+            "region":"부산시 해운대구",
             "region_code":"Busan",
             "sub_region_code":"2635000000_Busan_Haeundae"
         },
@@ -272,6 +296,7 @@
             "apt_type":"아파트",
             "apt_year":18.0,
             "value_score":81.6426,
+            "region":"부산시 해운대구",
             "region_code":"Busan",
             "sub_region_code":"2635000000_Busan_Haeundae"
         },
@@ -283,6 +308,7 @@
             "apt_type":"아파트",
             "apt_year":13.0,
             "value_score":79.5229,
+            "region":"부산시 해운대구",
             "region_code":"Busan",
             "sub_region_code":"2635000000_Busan_Haeundae"
         },
@@ -294,6 +320,7 @@
             "apt_type":"아파트",
             "apt_year":17.0,
             "value_score":77.7565,
+            "region":"부산시 해운대구",
             "region_code":"Busan",
             "sub_region_code":"2635000000_Busan_Haeundae"
         },
@@ -305,6 +332,7 @@
             "apt_type":"아파트",
             "apt_year":18.0,
             "value_score":77.1676,
+            "region":"부산시 해운대구",
             "region_code":"Busan",
             "sub_region_code":"2635000000_Busan_Haeundae"
         },
@@ -316,6 +344,7 @@
             "apt_type":"분양권",
             "apt_year":1.0,
             "value_score":76.0869,
+            "region":"부산시 해운대구",
             "region_code":"Busan",
             "sub_region_code":"2635000000_Busan_Haeundae"
         },
@@ -327,6 +356,7 @@
             "apt_type":"아파트",
             "apt_year":18.0,
             "value_score":75.7959,
+            "region":"부산시 해운대구",
             "region_code":"Busan",
             "sub_region_code":"2635000000_Busan_Haeundae"
         },
@@ -338,6 +368,7 @@
             "apt_type":"아파트",
             "apt_year":4.0,
             "value_score":75.7893,
+            "region":"부산시 해운대구",
             "region_code":"Busan",
             "sub_region_code":"2635000000_Busan_Haeundae"
         },
@@ -349,6 +380,7 @@
             "apt_type":"아파트",
             "apt_year":32.0,
             "value_score":75.7518,
+            "region":"부산시 해운대구",
             "region_code":"Busan",
             "sub_region_code":"2635000000_Busan_Haeundae"
         },
@@ -360,6 +392,7 @@
             "apt_type":"아파트",
             "apt_year":4.0,
             "value_score":75.6366,
+            "region":"부산시 해운대구",
             "region_code":"Busan",
             "sub_region_code":"2635000000_Busan_Haeundae"
         },
@@ -371,6 +404,7 @@
             "apt_type":"아파트",
             "apt_year":10.0,
             "value_score":75.5812,
+            "region":"부산시 해운대구",
             "region_code":"Busan",
             "sub_region_code":"2635000000_Busan_Haeundae"
         },
@@ -382,6 +416,7 @@
             "apt_type":"아파트",
             "apt_year":12.0,
             "value_score":73.303,
+            "region":"부산시 해운대구",
             "region_code":"Busan",
             "sub_region_code":"2635000000_Busan_Haeundae"
         },
@@ -393,6 +428,7 @@
             "apt_type":"아파트",
             "apt_year":12.0,
             "value_score":73.303,
+            "region":"부산시 해운대구",
             "region_code":"Busan",
             "sub_region_code":"2635000000_Busan_Haeundae"
         },
@@ -404,6 +440,7 @@
             "apt_type":"아파트",
             "apt_year":32.0,
             "value_score":73.153,
+            "region":"부산시 해운대구",
             "region_code":"Busan",
             "sub_region_code":"2635000000_Busan_Haeundae"
         },
@@ -415,6 +452,7 @@
             "apt_type":"아파트",
             "apt_year":13.0,
             "value_score":73.1465,
+            "region":"부산시 해운대구",
             "region_code":"Busan",
             "sub_region_code":"2635000000_Busan_Haeundae"
         },
@@ -426,6 +464,7 @@
             "apt_type":"아파트",
             "apt_year":4.0,
             "value_score":72.961,
+            "region":"부산시 해운대구",
             "region_code":"Busan",
             "sub_region_code":"2635000000_Busan_Haeundae"
         },
@@ -437,6 +476,7 @@
             "apt_type":"아파트",
             "apt_year":18.0,
             "value_score":72.811,
+            "region":"부산시 해운대구",
             "region_code":"Busan",
             "sub_region_code":"2635000000_Busan_Haeundae"
         },
@@ -448,6 +488,7 @@
             "apt_type":"아파트",
             "apt_year":4.0,
             "value_score":72.553,
+            "region":"부산시 해운대구",
             "region_code":"Busan",
             "sub_region_code":"2635000000_Busan_Haeundae"
         },
@@ -459,6 +500,7 @@
             "apt_type":"분양권",
             "apt_year":1.0,
             "value_score":72.1615,
+            "region":"부산시 해운대구",
             "region_code":"Busan",
             "sub_region_code":"2635000000_Busan_Haeundae"
         },
@@ -470,6 +512,7 @@
             "apt_type":"아파트",
             "apt_year":11.0,
             "value_score":72.161,
+            "region":"부산시 해운대구",
             "region_code":"Busan",
             "sub_region_code":"2635000000_Busan_Haeundae"
         },
@@ -481,6 +524,7 @@
             "apt_type":"아파트",
             "apt_year":28.0,
             "value_score":71.911,
+            "region":"부산시 해운대구",
             "region_code":"Busan",
             "sub_region_code":"2635000000_Busan_Haeundae"
         },
@@ -492,6 +536,7 @@
             "apt_type":"아파트",
             "apt_year":12.0,
             "value_score":70.406,
+            "region":"부산시 해운대구",
             "region_code":"Busan",
             "sub_region_code":"2635000000_Busan_Haeundae"
         },
@@ -503,6 +548,7 @@
             "apt_type":"아파트",
             "apt_year":12.0,
             "value_score":70.406,
+            "region":"부산시 해운대구",
             "region_code":"Busan",
             "sub_region_code":"2635000000_Busan_Haeundae"
         },
@@ -514,6 +560,7 @@
             "apt_type":"아파트",
             "apt_year":13.0,
             "value_score":69.573,
+            "region":"부산시 해운대구",
             "region_code":"Busan",
             "sub_region_code":"2635000000_Busan_Haeundae"
         },
@@ -525,6 +572,7 @@
             "apt_type":"재건축",
             "apt_year":38.0,
             "value_score":67.905,
+            "region":"부산시 해운대구",
             "region_code":"Busan",
             "sub_region_code":"2635000000_Busan_Haeundae"
         },
@@ -536,6 +584,7 @@
             "apt_type":"아파트",
             "apt_year":18.0,
             "value_score":67.892,
+            "region":"부산시 해운대구",
             "region_code":"Busan",
             "sub_region_code":"2635000000_Busan_Haeundae"
         },
@@ -547,6 +596,7 @@
             "apt_type":"아파트",
             "apt_year":18.0,
             "value_score":67.592,
+            "region":"부산시 해운대구",
             "region_code":"Busan",
             "sub_region_code":"2635000000_Busan_Haeundae"
         },
@@ -558,6 +608,7 @@
             "apt_type":"아파트",
             "apt_year":10.0,
             "value_score":67.584,
+            "region":"부산시 해운대구",
             "region_code":"Busan",
             "sub_region_code":"2635000000_Busan_Haeundae"
         },
@@ -569,6 +620,7 @@
             "apt_type":"분양권",
             "apt_year":1.0,
             "value_score":67.523,
+            "region":"부산시 해운대구",
             "region_code":"Busan",
             "sub_region_code":"2635000000_Busan_Haeundae"
         },
@@ -580,6 +632,7 @@
             "apt_type":"아파트",
             "apt_year":32.0,
             "value_score":67.106,
+            "region":"부산시 해운대구",
             "region_code":"Busan",
             "sub_region_code":"2635000000_Busan_Haeundae"
         },
@@ -591,6 +644,7 @@
             "apt_type":"아파트",
             "apt_year":5.0,
             "value_score":66.82,
+            "region":"부산시 해운대구",
             "region_code":"Busan",
             "sub_region_code":"2635000000_Busan_Haeundae"
         }

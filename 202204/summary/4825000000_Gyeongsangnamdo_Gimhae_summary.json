@@ -30,6 +30,10 @@
                 "type":"number"
             },
             {
+                "name":"region",
+                "type":"string"
+            },
+            {
                 "name":"region_code",
                 "type":"string"
             },
@@ -52,6 +56,7 @@
             "apt_type":"아파트",
             "apt_year":9.0,
             "value_score":70.821,
+            "region":"경상남도 김해시",
             "region_code":"Gyeongsangnamdo",
             "sub_region_code":"4825000000_Gyeongsangnamdo_Gimhae"
         },
@@ -63,6 +68,7 @@
             "apt_type":"아파트",
             "apt_year":27.0,
             "value_score":67.3445,
+            "region":"경상남도 김해시",
             "region_code":"Gyeongsangnamdo",
             "sub_region_code":"4825000000_Gyeongsangnamdo_Gimhae"
         },
@@ -74,6 +80,7 @@
             "apt_type":"아파트",
             "apt_year":25.0,
             "value_score":67.3445,
+            "region":"경상남도 김해시",
             "region_code":"Gyeongsangnamdo",
             "sub_region_code":"4825000000_Gyeongsangnamdo_Gimhae"
         },
@@ -85,6 +92,7 @@
             "apt_type":"아파트",
             "apt_year":1.0,
             "value_score":66.8165,
+            "region":"경상남도 김해시",
             "region_code":"Gyeongsangnamdo",
             "sub_region_code":"4825000000_Gyeongsangnamdo_Gimhae"
         },
@@ -96,6 +104,7 @@
             "apt_type":"아파트",
             "apt_year":26.0,
             "value_score":66.241,
+            "region":"경상남도 김해시",
             "region_code":"Gyeongsangnamdo",
             "sub_region_code":"4825000000_Gyeongsangnamdo_Gimhae"
         },
@@ -107,6 +116,7 @@
             "apt_type":"아파트",
             "apt_year":4.0,
             "value_score":66.057,
+            "region":"경상남도 김해시",
             "region_code":"Gyeongsangnamdo",
             "sub_region_code":"4825000000_Gyeongsangnamdo_Gimhae"
         },
@@ -118,6 +128,7 @@
             "apt_type":"아파트",
             "apt_year":5.0,
             "value_score":65.483,
+            "region":"경상남도 김해시",
             "region_code":"Gyeongsangnamdo",
             "sub_region_code":"4825000000_Gyeongsangnamdo_Gimhae"
         },
@@ -129,6 +140,7 @@
             "apt_type":"아파트",
             "apt_year":30.0,
             "value_score":65.245,
+            "region":"경상남도 김해시",
             "region_code":"Gyeongsangnamdo",
             "sub_region_code":"4825000000_Gyeongsangnamdo_Gimhae"
         },
@@ -140,6 +152,7 @@
             "apt_type":"아파트",
             "apt_year":27.0,
             "value_score":64.692,
+            "region":"경상남도 김해시",
             "region_code":"Gyeongsangnamdo",
             "sub_region_code":"4825000000_Gyeongsangnamdo_Gimhae"
         },
@@ -151,6 +164,7 @@
             "apt_type":"아파트",
             "apt_year":16.0,
             "value_score":64.367,
+            "region":"경상남도 김해시",
             "region_code":"Gyeongsangnamdo",
             "sub_region_code":"4825000000_Gyeongsangnamdo_Gimhae"
         },
@@ -162,6 +176,7 @@
             "apt_type":"아파트",
             "apt_year":9.0,
             "value_score":70.686,
+            "region":"경상남도 김해시",
             "region_code":"Gyeongsangnamdo",
             "sub_region_code":"4825000000_Gyeongsangnamdo_Gimhae"
         },
@@ -173,6 +188,7 @@
             "apt_type":"아파트",
             "apt_year":4.0,
             "value_score":68.457,
+            "region":"경상남도 김해시",
             "region_code":"Gyeongsangnamdo",
             "sub_region_code":"4825000000_Gyeongsangnamdo_Gimhae"
         },
@@ -184,6 +200,7 @@
             "apt_type":"아파트",
             "apt_year":1.0,
             "value_score":68.1665,
+            "region":"경상남도 김해시",
             "region_code":"Gyeongsangnamdo",
             "sub_region_code":"4825000000_Gyeongsangnamdo_Gimhae"
         },
@@ -195,6 +212,7 @@
             "apt_type":"아파트",
             "apt_year":5.0,
             "value_score":67.958,
+            "region":"경상남도 김해시",
             "region_code":"Gyeongsangnamdo",
             "sub_region_code":"4825000000_Gyeongsangnamdo_Gimhae"
         },
@@ -206,6 +224,7 @@
             "apt_type":"아파트",
             "apt_year":4.0,
             "value_score":65.5535,
+            "region":"경상남도 김해시",
             "region_code":"Gyeongsangnamdo",
             "sub_region_code":"4825000000_Gyeongsangnamdo_Gimhae"
         },
@@ -217,6 +236,7 @@
             "apt_type":"아파트",
             "apt_year":6.0,
             "value_score":65.336,
+            "region":"경상남도 김해시",
             "region_code":"Gyeongsangnamdo",
             "sub_region_code":"4825000000_Gyeongsangnamdo_Gimhae"
         },
@@ -228,6 +248,7 @@
             "apt_type":"아파트",
             "apt_year":16.0,
             "value_score":64.667,
+            "region":"경상남도 김해시",
             "region_code":"Gyeongsangnamdo",
             "sub_region_code":"4825000000_Gyeongsangnamdo_Gimhae"
         },
@@ -239,6 +260,7 @@
             "apt_type":"아파트",
             "apt_year":2.0,
             "value_score":64.296,
+            "region":"경상남도 김해시",
             "region_code":"Gyeongsangnamdo",
             "sub_region_code":"4825000000_Gyeongsangnamdo_Gimhae"
         },
@@ -250,6 +272,7 @@
             "apt_type":"아파트",
             "apt_year":4.0,
             "value_score":63.458,
+            "region":"경상남도 김해시",
             "region_code":"Gyeongsangnamdo",
             "sub_region_code":"4825000000_Gyeongsangnamdo_Gimhae"
         },
@@ -261,6 +284,7 @@
             "apt_type":"아파트",
             "apt_year":27.0,
             "value_score":62.7695,
+            "region":"경상남도 김해시",
             "region_code":"Gyeongsangnamdo",
             "sub_region_code":"4825000000_Gyeongsangnamdo_Gimhae"
         },
@@ -272,6 +296,7 @@
             "apt_type":"아파트",
             "apt_year":26.0,
             "value_score":71.4570526316,
+            "region":"경상남도 김해시",
             "region_code":"Gyeongsangnamdo",
             "sub_region_code":"4825000000_Gyeongsangnamdo_Gimhae"
         },
@@ -283,6 +308,7 @@
             "apt_type":"아파트",
             "apt_year":25.0,
             "value_score":71.1035789474,
+            "region":"경상남도 김해시",
             "region_code":"Gyeongsangnamdo",
             "sub_region_code":"4825000000_Gyeongsangnamdo_Gimhae"
         },
@@ -294,6 +320,7 @@
             "apt_type":"아파트",
             "apt_year":27.0,
             "value_score":71.1035789474,
+            "region":"경상남도 김해시",
             "region_code":"Gyeongsangnamdo",
             "sub_region_code":"4825000000_Gyeongsangnamdo_Gimhae"
         },
@@ -305,6 +332,7 @@
             "apt_type":"아파트",
             "apt_year":27.0,
             "value_score":70.4530526316,
+            "region":"경상남도 김해시",
             "region_code":"Gyeongsangnamdo",
             "sub_region_code":"4825000000_Gyeongsangnamdo_Gimhae"
         },
@@ -316,6 +344,7 @@
             "apt_type":"아파트",
             "apt_year":25.0,
             "value_score":70.2945263158,
+            "region":"경상남도 김해시",
             "region_code":"Gyeongsangnamdo",
             "sub_region_code":"4825000000_Gyeongsangnamdo_Gimhae"
         },
@@ -327,6 +356,7 @@
             "apt_type":"아파트",
             "apt_year":30.0,
             "value_score":70.1568421053,
+            "region":"경상남도 김해시",
             "region_code":"Gyeongsangnamdo",
             "sub_region_code":"4825000000_Gyeongsangnamdo_Gimhae"
         },
@@ -338,6 +368,7 @@
             "apt_type":"아파트",
             "apt_year":27.0,
             "value_score":69.5846315789,
+            "region":"경상남도 김해시",
             "region_code":"Gyeongsangnamdo",
             "sub_region_code":"4825000000_Gyeongsangnamdo_Gimhae"
         },
@@ -349,6 +380,7 @@
             "apt_type":"아파트",
             "apt_year":27.0,
             "value_score":68.7357894737,
+            "region":"경상남도 김해시",
             "region_code":"Gyeongsangnamdo",
             "sub_region_code":"4825000000_Gyeongsangnamdo_Gimhae"
         },
@@ -360,6 +392,7 @@
             "apt_type":"아파트",
             "apt_year":9.0,
             "value_score":68.556,
+            "region":"경상남도 김해시",
             "region_code":"Gyeongsangnamdo",
             "sub_region_code":"4825000000_Gyeongsangnamdo_Gimhae"
         },
@@ -371,6 +404,7 @@
             "apt_type":"아파트",
             "apt_year":25.0,
             "value_score":68.3404210526,
+            "region":"경상남도 김해시",
             "region_code":"Gyeongsangnamdo",
             "sub_region_code":"4825000000_Gyeongsangnamdo_Gimhae"
         },
@@ -382,6 +416,7 @@
             "apt_type":"아파트",
             "apt_year":1.0,
             "value_score":63.583,
+            "region":"경상남도 김해시",
             "region_code":"Gyeongsangnamdo",
             "sub_region_code":"4825000000_Gyeongsangnamdo_Gimhae"
         },
@@ -393,6 +428,7 @@
             "apt_type":"아파트",
             "apt_year":25.0,
             "value_score":62.414,
+            "region":"경상남도 김해시",
             "region_code":"Gyeongsangnamdo",
             "sub_region_code":"4825000000_Gyeongsangnamdo_Gimhae"
         },
@@ -404,6 +440,7 @@
             "apt_type":"아파트",
             "apt_year":27.0,
             "value_score":62.414,
+            "region":"경상남도 김해시",
             "region_code":"Gyeongsangnamdo",
             "sub_region_code":"4825000000_Gyeongsangnamdo_Gimhae"
         },
@@ -415,6 +452,7 @@
             "apt_type":"아파트",
             "apt_year":4.0,
             "value_score":61.914,
+            "region":"경상남도 김해시",
             "region_code":"Gyeongsangnamdo",
             "sub_region_code":"4825000000_Gyeongsangnamdo_Gimhae"
         },
@@ -426,6 +464,7 @@
             "apt_type":"아파트",
             "apt_year":16.0,
             "value_score":61.834,
+            "region":"경상남도 김해시",
             "region_code":"Gyeongsangnamdo",
             "sub_region_code":"4825000000_Gyeongsangnamdo_Gimhae"
         },
@@ -437,6 +476,7 @@
             "apt_type":"아파트",
             "apt_year":26.0,
             "value_score":61.807,
+            "region":"경상남도 김해시",
             "region_code":"Gyeongsangnamdo",
             "sub_region_code":"4825000000_Gyeongsangnamdo_Gimhae"
         },
@@ -448,6 +488,7 @@
             "apt_type":"아파트",
             "apt_year":9.0,
             "value_score":61.647,
+            "region":"경상남도 김해시",
             "region_code":"Gyeongsangnamdo",
             "sub_region_code":"4825000000_Gyeongsangnamdo_Gimhae"
         },
@@ -459,6 +500,7 @@
             "apt_type":"아파트",
             "apt_year":5.0,
             "value_score":61.541,
+            "region":"경상남도 김해시",
             "region_code":"Gyeongsangnamdo",
             "sub_region_code":"4825000000_Gyeongsangnamdo_Gimhae"
         },
@@ -470,6 +512,7 @@
             "apt_type":"아파트",
             "apt_year":27.0,
             "value_score":61.384,
+            "region":"경상남도 김해시",
             "region_code":"Gyeongsangnamdo",
             "sub_region_code":"4825000000_Gyeongsangnamdo_Gimhae"
         },
@@ -481,6 +524,7 @@
             "apt_type":"아파트",
             "apt_year":25.0,
             "value_score":61.133,
+            "region":"경상남도 김해시",
             "region_code":"Gyeongsangnamdo",
             "sub_region_code":"4825000000_Gyeongsangnamdo_Gimhae"
         }

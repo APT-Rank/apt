@@ -30,6 +30,10 @@
                 "type":"number"
             },
             {
+                "name":"region",
+                "type":"string"
+            },
+            {
                 "name":"region_code",
                 "type":"string"
             },
@@ -52,6 +56,7 @@
             "apt_type":"분양권",
             "apt_year":0.0,
             "value_score":42.4315,
+            "region":"경기도 여주시",
             "region_code":"Gyeonggi",
             "sub_region_code":"4167000000_Gyeonggi_Yeoju"
         },
@@ -63,6 +68,7 @@
             "apt_type":"분양권",
             "apt_year":0.0,
             "value_score":42.4315,
+            "region":"경기도 여주시",
             "region_code":"Gyeonggi",
             "sub_region_code":"4167000000_Gyeonggi_Yeoju"
         },
@@ -74,6 +80,7 @@
             "apt_type":"아파트",
             "apt_year":17.0,
             "value_score":39.1315,
+            "region":"경기도 여주시",
             "region_code":"Gyeonggi",
             "sub_region_code":"4167000000_Gyeonggi_Yeoju"
         },
@@ -85,6 +92,7 @@
             "apt_type":"아파트",
             "apt_year":2.0,
             "value_score":36.4815,
+            "region":"경기도 여주시",
             "region_code":"Gyeonggi",
             "sub_region_code":"4167000000_Gyeonggi_Yeoju"
         },
@@ -96,6 +104,7 @@
             "apt_type":"분양권",
             "apt_year":1.0,
             "value_score":36.4815,
+            "region":"경기도 여주시",
             "region_code":"Gyeonggi",
             "sub_region_code":"4167000000_Gyeonggi_Yeoju"
         },
@@ -107,6 +116,7 @@
             "apt_type":"분양권",
             "apt_year":-1.0,
             "value_score":34.0815,
+            "region":"경기도 여주시",
             "region_code":"Gyeonggi",
             "sub_region_code":"4167000000_Gyeonggi_Yeoju"
         },
@@ -118,6 +128,7 @@
             "apt_type":"아파트",
             "apt_year":30.0,
             "value_score":26.1815,
+            "region":"경기도 여주시",
             "region_code":"Gyeonggi",
             "sub_region_code":"4167000000_Gyeonggi_Yeoju"
         },
@@ -129,6 +140,7 @@
             "apt_type":"아파트",
             "apt_year":32.0,
             "value_score":25.6815,
+            "region":"경기도 여주시",
             "region_code":"Gyeonggi",
             "sub_region_code":"4167000000_Gyeonggi_Yeoju"
         },
@@ -140,6 +152,7 @@
             "apt_type":"아파트",
             "apt_year":4.0,
             "value_score":24.4181,
+            "region":"경기도 여주시",
             "region_code":"Gyeonggi",
             "sub_region_code":"4167000000_Gyeonggi_Yeoju"
         },
@@ -151,6 +164,7 @@
             "apt_type":"아파트",
             "apt_year":14.0,
             "value_score":23.3184,
+            "region":"경기도 여주시",
             "region_code":"Gyeonggi",
             "sub_region_code":"4167000000_Gyeonggi_Yeoju"
         },
@@ -162,6 +176,7 @@
             "apt_type":"분양권",
             "apt_year":0.0,
             "value_score":53.392,
+            "region":"경기도 여주시",
             "region_code":"Gyeonggi",
             "sub_region_code":"4167000000_Gyeonggi_Yeoju"
         },
@@ -173,6 +188,7 @@
             "apt_type":"분양권",
             "apt_year":0.0,
             "value_score":53.392,
+            "region":"경기도 여주시",
             "region_code":"Gyeonggi",
             "sub_region_code":"4167000000_Gyeonggi_Yeoju"
         },
@@ -184,6 +200,7 @@
             "apt_type":"아파트",
             "apt_year":2.0,
             "value_score":51.692,
+            "region":"경기도 여주시",
             "region_code":"Gyeonggi",
             "sub_region_code":"4167000000_Gyeonggi_Yeoju"
         },
@@ -195,6 +212,7 @@
             "apt_type":"분양권",
             "apt_year":1.0,
             "value_score":51.692,
+            "region":"경기도 여주시",
             "region_code":"Gyeonggi",
             "sub_region_code":"4167000000_Gyeonggi_Yeoju"
         },
@@ -206,6 +224,7 @@
             "apt_type":"분양권",
             "apt_year":-1.0,
             "value_score":50.092,
+            "region":"경기도 여주시",
             "region_code":"Gyeonggi",
             "sub_region_code":"4167000000_Gyeonggi_Yeoju"
         },
@@ -217,6 +236,7 @@
             "apt_type":"아파트",
             "apt_year":3.0,
             "value_score":45.2412,
+            "region":"경기도 여주시",
             "region_code":"Gyeonggi",
             "sub_region_code":"4167000000_Gyeonggi_Yeoju"
         },
@@ -228,6 +248,7 @@
             "apt_type":"아파트",
             "apt_year":17.0,
             "value_score":45.142,
+            "region":"경기도 여주시",
             "region_code":"Gyeonggi",
             "sub_region_code":"4167000000_Gyeonggi_Yeoju"
         },
@@ -239,6 +260,7 @@
             "apt_type":"아파트",
             "apt_year":4.0,
             "value_score":44.1408,
+            "region":"경기도 여주시",
             "region_code":"Gyeonggi",
             "sub_region_code":"4167000000_Gyeonggi_Yeoju"
         },
@@ -250,6 +272,7 @@
             "apt_type":"아파트",
             "apt_year":14.0,
             "value_score":41.3912,
+            "region":"경기도 여주시",
             "region_code":"Gyeonggi",
             "sub_region_code":"4167000000_Gyeonggi_Yeoju"
         },
@@ -261,6 +284,7 @@
             "apt_type":"아파트",
             "apt_year":9.0,
             "value_score":40.3912,
+            "region":"경기도 여주시",
             "region_code":"Gyeonggi",
             "sub_region_code":"4167000000_Gyeonggi_Yeoju"
         },
@@ -272,6 +296,7 @@
             "apt_type":"분양권",
             "apt_year":0.0,
             "value_score":43.2565,
+            "region":"경기도 여주시",
             "region_code":"Gyeonggi",
             "sub_region_code":"4167000000_Gyeonggi_Yeoju"
         },
@@ -283,6 +308,7 @@
             "apt_type":"분양권",
             "apt_year":0.0,
             "value_score":43.2565,
+            "region":"경기도 여주시",
             "region_code":"Gyeonggi",
             "sub_region_code":"4167000000_Gyeonggi_Yeoju"
         },
@@ -294,6 +320,7 @@
             "apt_type":"아파트",
             "apt_year":17.0,
             "value_score":40.7815,
+            "region":"경기도 여주시",
             "region_code":"Gyeonggi",
             "sub_region_code":"4167000000_Gyeonggi_Yeoju"
         },
@@ -305,6 +332,7 @@
             "apt_type":"아파트",
             "apt_year":2.0,
             "value_score":34.7565,
+            "region":"경기도 여주시",
             "region_code":"Gyeonggi",
             "sub_region_code":"4167000000_Gyeonggi_Yeoju"
         },
@@ -316,6 +344,7 @@
             "apt_type":"분양권",
             "apt_year":1.0,
             "value_score":34.7565,
+            "region":"경기도 여주시",
             "region_code":"Gyeonggi",
             "sub_region_code":"4167000000_Gyeonggi_Yeoju"
         },
@@ -327,6 +356,7 @@
             "apt_type":"분양권",
             "apt_year":-1.0,
             "value_score":33.1565,
+            "region":"경기도 여주시",
             "region_code":"Gyeonggi",
             "sub_region_code":"4167000000_Gyeonggi_Yeoju"
         },
@@ -338,6 +368,7 @@
             "apt_type":"아파트",
             "apt_year":30.0,
             "value_score":27.2065,
+            "region":"경기도 여주시",
             "region_code":"Gyeonggi",
             "sub_region_code":"4167000000_Gyeonggi_Yeoju"
         },
@@ -349,6 +380,7 @@
             "apt_type":"아파트",
             "apt_year":32.0,
             "value_score":26.7815,
+            "region":"경기도 여주시",
             "region_code":"Gyeonggi",
             "sub_region_code":"4167000000_Gyeonggi_Yeoju"
         },
@@ -360,6 +392,7 @@
             "apt_type":"아파트",
             "apt_year":4.0,
             "value_score":19.7931,
+            "region":"경기도 여주시",
             "region_code":"Gyeonggi",
             "sub_region_code":"4167000000_Gyeonggi_Yeoju"
         },
@@ -371,6 +404,7 @@
             "apt_type":"아파트",
             "apt_year":14.0,
             "value_score":18.9684,
+            "region":"경기도 여주시",
             "region_code":"Gyeonggi",
             "sub_region_code":"4167000000_Gyeonggi_Yeoju"
         },
@@ -382,6 +416,7 @@
             "apt_type":"분양권",
             "apt_year":0.0,
             "value_score":36.3025,
+            "region":"경기도 여주시",
             "region_code":"Gyeonggi",
             "sub_region_code":"4167000000_Gyeonggi_Yeoju"
         },
@@ -393,6 +428,7 @@
             "apt_type":"분양권",
             "apt_year":0.0,
             "value_score":36.3025,
+            "region":"경기도 여주시",
             "region_code":"Gyeonggi",
             "sub_region_code":"4167000000_Gyeonggi_Yeoju"
         },
@@ -404,6 +440,7 @@
             "apt_type":"아파트",
             "apt_year":17.0,
             "value_score":34.6525,
+            "region":"경기도 여주시",
             "region_code":"Gyeonggi",
             "sub_region_code":"4167000000_Gyeonggi_Yeoju"
         },
@@ -415,6 +452,7 @@
             "apt_type":"아파트",
             "apt_year":2.0,
             "value_score":33.7525,
+            "region":"경기도 여주시",
             "region_code":"Gyeonggi",
             "sub_region_code":"4167000000_Gyeonggi_Yeoju"
         },
@@ -426,6 +464,7 @@
             "apt_type":"분양권",
             "apt_year":1.0,
             "value_score":33.7525,
+            "region":"경기도 여주시",
             "region_code":"Gyeonggi",
             "sub_region_code":"4167000000_Gyeonggi_Yeoju"
         },
@@ -437,6 +476,7 @@
             "apt_type":"분양권",
             "apt_year":-1.0,
             "value_score":29.7525,
+            "region":"경기도 여주시",
             "region_code":"Gyeonggi",
             "sub_region_code":"4167000000_Gyeonggi_Yeoju"
         },
@@ -448,6 +488,7 @@
             "apt_type":"아파트",
             "apt_year":27.0,
             "value_score":28.4135,
+            "region":"경기도 여주시",
             "region_code":"Gyeonggi",
             "sub_region_code":"4167000000_Gyeonggi_Yeoju"
         },
@@ -459,6 +500,7 @@
             "apt_type":"아파트",
             "apt_year":32.0,
             "value_score":26.6025,
+            "region":"경기도 여주시",
             "region_code":"Gyeonggi",
             "sub_region_code":"4167000000_Gyeonggi_Yeoju"
         },
@@ -470,6 +512,7 @@
             "apt_type":"아파트",
             "apt_year":25.0,
             "value_score":26.4025,
+            "region":"경기도 여주시",
             "region_code":"Gyeonggi",
             "sub_region_code":"4167000000_Gyeonggi_Yeoju"
         },
@@ -481,6 +524,7 @@
             "apt_type":"아파트",
             "apt_year":30.0,
             "value_score":26.1525,
+            "region":"경기도 여주시",
             "region_code":"Gyeonggi",
             "sub_region_code":"4167000000_Gyeonggi_Yeoju"
         },
@@ -492,6 +536,7 @@
             "apt_type":"분양권",
             "apt_year":0.0,
             "value_score":48.205,
+            "region":"경기도 여주시",
             "region_code":"Gyeonggi",
             "sub_region_code":"4167000000_Gyeonggi_Yeoju"
         },
@@ -503,6 +548,7 @@
             "apt_type":"분양권",
             "apt_year":0.0,
             "value_score":48.205,
+            "region":"경기도 여주시",
             "region_code":"Gyeonggi",
             "sub_region_code":"4167000000_Gyeonggi_Yeoju"
         },
@@ -514,6 +560,7 @@
             "apt_type":"아파트",
             "apt_year":2.0,
             "value_score":46.505,
+            "region":"경기도 여주시",
             "region_code":"Gyeonggi",
             "sub_region_code":"4167000000_Gyeonggi_Yeoju"
         },
@@ -525,6 +572,7 @@
             "apt_type":"분양권",
             "apt_year":1.0,
             "value_score":46.505,
+            "region":"경기도 여주시",
             "region_code":"Gyeonggi",
             "sub_region_code":"4167000000_Gyeonggi_Yeoju"
         },
@@ -536,6 +584,7 @@
             "apt_type":"아파트",
             "apt_year":17.0,
             "value_score":44.905,
+            "region":"경기도 여주시",
             "region_code":"Gyeonggi",
             "sub_region_code":"4167000000_Gyeonggi_Yeoju"
         },
@@ -547,6 +596,7 @@
             "apt_type":"분양권",
             "apt_year":-1.0,
             "value_score":44.905,
+            "region":"경기도 여주시",
             "region_code":"Gyeonggi",
             "sub_region_code":"4167000000_Gyeonggi_Yeoju"
         },
@@ -558,6 +608,7 @@
             "apt_type":"아파트",
             "apt_year":4.0,
             "value_score":40.227,
+            "region":"경기도 여주시",
             "region_code":"Gyeonggi",
             "sub_region_code":"4167000000_Gyeonggi_Yeoju"
         },
@@ -569,6 +620,7 @@
             "apt_type":"아파트",
             "apt_year":3.0,
             "value_score":39.228,
+            "region":"경기도 여주시",
             "region_code":"Gyeonggi",
             "sub_region_code":"4167000000_Gyeonggi_Yeoju"
         },
@@ -580,6 +632,7 @@
             "apt_type":"아파트",
             "apt_year":14.0,
             "value_score":39.128,
+            "region":"경기도 여주시",
             "region_code":"Gyeonggi",
             "sub_region_code":"4167000000_Gyeonggi_Yeoju"
         },
@@ -591,6 +644,7 @@
             "apt_type":"아파트",
             "apt_year":23.0,
             "value_score":38.805,
+            "region":"경기도 여주시",
             "region_code":"Gyeonggi",
             "sub_region_code":"4167000000_Gyeonggi_Yeoju"
         }

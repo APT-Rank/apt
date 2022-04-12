@@ -30,6 +30,10 @@
                 "type":"number"
             },
             {
+                "name":"region",
+                "type":"string"
+            },
+            {
                 "name":"region_code",
                 "type":"string"
             },
@@ -52,6 +56,7 @@
             "apt_type":"분양권",
             "apt_year":0.0,
             "value_score":36.955,
+            "region":"경상북도 성주군",
             "region_code":"Gyeongsangbukdo",
             "sub_region_code":"4784000000_Gyeongsangbukdo_Seongju"
         },
@@ -63,6 +68,7 @@
             "apt_type":"아파트",
             "apt_year":8.0,
             "value_score":33.98,
+            "region":"경상북도 성주군",
             "region_code":"Gyeongsangbukdo",
             "sub_region_code":"4784000000_Gyeongsangbukdo_Seongju"
         },
@@ -74,6 +80,7 @@
             "apt_type":"아파트",
             "apt_year":10.0,
             "value_score":32.58,
+            "region":"경상북도 성주군",
             "region_code":"Gyeongsangbukdo",
             "sub_region_code":"4784000000_Gyeongsangbukdo_Seongju"
         },
@@ -85,6 +92,7 @@
             "apt_type":"아파트",
             "apt_year":6.0,
             "value_score":32.23,
+            "region":"경상북도 성주군",
             "region_code":"Gyeongsangbukdo",
             "sub_region_code":"4784000000_Gyeongsangbukdo_Seongju"
         },
@@ -96,6 +104,7 @@
             "apt_type":"아파트",
             "apt_year":31.0,
             "value_score":29.156,
+            "region":"경상북도 성주군",
             "region_code":"Gyeongsangbukdo",
             "sub_region_code":"4784000000_Gyeongsangbukdo_Seongju"
         },
@@ -107,6 +116,7 @@
             "apt_type":"아파트",
             "apt_year":22.0,
             "value_score":26.806,
+            "region":"경상북도 성주군",
             "region_code":"Gyeongsangbukdo",
             "sub_region_code":"4784000000_Gyeongsangbukdo_Seongju"
         },
@@ -118,6 +128,7 @@
             "apt_type":"아파트",
             "apt_year":25.0,
             "value_score":26.195,
+            "region":"경상북도 성주군",
             "region_code":"Gyeongsangbukdo",
             "sub_region_code":"4784000000_Gyeongsangbukdo_Seongju"
         },
@@ -129,6 +140,7 @@
             "apt_type":"아파트",
             "apt_year":22.0,
             "value_score":24.8745,
+            "region":"경상북도 성주군",
             "region_code":"Gyeongsangbukdo",
             "sub_region_code":"4784000000_Gyeongsangbukdo_Seongju"
         },
@@ -140,6 +152,7 @@
             "apt_type":"아파트",
             "apt_year":26.0,
             "value_score":24.006,
+            "region":"경상북도 성주군",
             "region_code":"Gyeongsangbukdo",
             "sub_region_code":"4784000000_Gyeongsangbukdo_Seongju"
         },
@@ -151,6 +164,7 @@
             "apt_type":"분양권",
             "apt_year":0.0,
             "value_score":42.505,
+            "region":"경상북도 성주군",
             "region_code":"Gyeongsangbukdo",
             "sub_region_code":"4784000000_Gyeongsangbukdo_Seongju"
         },
@@ -162,6 +176,7 @@
             "apt_type":"아파트",
             "apt_year":8.0,
             "value_score":38.255,
+            "region":"경상북도 성주군",
             "region_code":"Gyeongsangbukdo",
             "sub_region_code":"4784000000_Gyeongsangbukdo_Seongju"
         },
@@ -173,6 +188,7 @@
             "apt_type":"아파트",
             "apt_year":10.0,
             "value_score":36.255,
+            "region":"경상북도 성주군",
             "region_code":"Gyeongsangbukdo",
             "sub_region_code":"4784000000_Gyeongsangbukdo_Seongju"
         },
@@ -184,6 +200,7 @@
             "apt_type":"아파트",
             "apt_year":6.0,
             "value_score":35.755,
+            "region":"경상북도 성주군",
             "region_code":"Gyeongsangbukdo",
             "sub_region_code":"4784000000_Gyeongsangbukdo_Seongju"
         },
@@ -195,6 +212,7 @@
             "apt_type":"아파트",
             "apt_year":31.0,
             "value_score":28.496,
+            "region":"경상북도 성주군",
             "region_code":"Gyeongsangbukdo",
             "sub_region_code":"4784000000_Gyeongsangbukdo_Seongju"
         },
@@ -206,6 +224,7 @@
             "apt_type":"아파트",
             "apt_year":22.0,
             "value_score":26.746,
+            "region":"경상북도 성주군",
             "region_code":"Gyeongsangbukdo",
             "sub_region_code":"4784000000_Gyeongsangbukdo_Seongju"
         },
@@ -217,6 +236,7 @@
             "apt_type":"아파트",
             "apt_year":25.0,
             "value_score":26.645,
+            "region":"경상북도 성주군",
             "region_code":"Gyeongsangbukdo",
             "sub_region_code":"4784000000_Gyeongsangbukdo_Seongju"
         },
@@ -228,6 +248,7 @@
             "apt_type":"아파트",
             "apt_year":22.0,
             "value_score":26.2245,
+            "region":"경상북도 성주군",
             "region_code":"Gyeongsangbukdo",
             "sub_region_code":"4784000000_Gyeongsangbukdo_Seongju"
         },
@@ -239,6 +260,7 @@
             "apt_type":"아파트",
             "apt_year":26.0,
             "value_score":22.746,
+            "region":"경상북도 성주군",
             "region_code":"Gyeongsangbukdo",
             "sub_region_code":"4784000000_Gyeongsangbukdo_Seongju"
         },
@@ -250,6 +272,7 @@
             "apt_type":"분양권",
             "apt_year":0.0,
             "value_score":32.2168421053,
+            "region":"경상북도 성주군",
             "region_code":"Gyeongsangbukdo",
             "sub_region_code":"4784000000_Gyeongsangbukdo_Seongju"
         },
@@ -261,6 +284,7 @@
             "apt_type":"아파트",
             "apt_year":31.0,
             "value_score":32.1844210526,
+            "region":"경상북도 성주군",
             "region_code":"Gyeongsangbukdo",
             "sub_region_code":"4784000000_Gyeongsangbukdo_Seongju"
         },
@@ -272,6 +296,7 @@
             "apt_type":"아파트",
             "apt_year":8.0,
             "value_score":30.8747368421,
+            "region":"경상북도 성주군",
             "region_code":"Gyeongsangbukdo",
             "sub_region_code":"4784000000_Gyeongsangbukdo_Seongju"
         },
@@ -283,6 +308,7 @@
             "apt_type":"아파트",
             "apt_year":10.0,
             "value_score":30.2431578947,
+            "region":"경상북도 성주군",
             "region_code":"Gyeongsangbukdo",
             "sub_region_code":"4784000000_Gyeongsangbukdo_Seongju"
         },
@@ -294,6 +320,7 @@
             "apt_type":"아파트",
             "apt_year":6.0,
             "value_score":30.0852631579,
+            "region":"경상북도 성주군",
             "region_code":"Gyeongsangbukdo",
             "sub_region_code":"4784000000_Gyeongsangbukdo_Seongju"
         },
@@ -305,6 +332,7 @@
             "apt_type":"아파트",
             "apt_year":22.0,
             "value_score":29.3949473684,
+            "region":"경상북도 성주군",
             "region_code":"Gyeongsangbukdo",
             "sub_region_code":"4784000000_Gyeongsangbukdo_Seongju"
         },
@@ -316,6 +344,7 @@
             "apt_type":"아파트",
             "apt_year":25.0,
             "value_score":28.2884210526,
+            "region":"경상북도 성주군",
             "region_code":"Gyeongsangbukdo",
             "sub_region_code":"4784000000_Gyeongsangbukdo_Seongju"
         },
@@ -327,6 +356,7 @@
             "apt_type":"아파트",
             "apt_year":26.0,
             "value_score":28.1317894737,
+            "region":"경상북도 성주군",
             "region_code":"Gyeongsangbukdo",
             "sub_region_code":"4784000000_Gyeongsangbukdo_Seongju"
         },
@@ -338,6 +368,7 @@
             "apt_type":"아파트",
             "apt_year":22.0,
             "value_score":25.4414736842,
+            "region":"경상북도 성주군",
             "region_code":"Gyeongsangbukdo",
             "sub_region_code":"4784000000_Gyeongsangbukdo_Seongju"
         },
@@ -349,6 +380,7 @@
             "apt_type":"분양권",
             "apt_year":0.0,
             "value_score":42.26,
+            "region":"경상북도 성주군",
             "region_code":"Gyeongsangbukdo",
             "sub_region_code":"4784000000_Gyeongsangbukdo_Seongju"
         },
@@ -360,6 +392,7 @@
             "apt_type":"아파트",
             "apt_year":8.0,
             "value_score":40.135,
+            "region":"경상북도 성주군",
             "region_code":"Gyeongsangbukdo",
             "sub_region_code":"4784000000_Gyeongsangbukdo_Seongju"
         },
@@ -371,6 +404,7 @@
             "apt_type":"아파트",
             "apt_year":10.0,
             "value_score":39.135,
+            "region":"경상북도 성주군",
             "region_code":"Gyeongsangbukdo",
             "sub_region_code":"4784000000_Gyeongsangbukdo_Seongju"
         },
@@ -382,6 +416,7 @@
             "apt_type":"아파트",
             "apt_year":6.0,
             "value_score":38.885,
+            "region":"경상북도 성주군",
             "region_code":"Gyeongsangbukdo",
             "sub_region_code":"4784000000_Gyeongsangbukdo_Seongju"
         },
@@ -393,6 +428,7 @@
             "apt_type":"아파트",
             "apt_year":31.0,
             "value_score":37.892,
+            "region":"경상북도 성주군",
             "region_code":"Gyeongsangbukdo",
             "sub_region_code":"4784000000_Gyeongsangbukdo_Seongju"
         },
@@ -404,6 +440,7 @@
             "apt_type":"아파트",
             "apt_year":22.0,
             "value_score":36.392,
+            "region":"경상북도 성주군",
             "region_code":"Gyeongsangbukdo",
             "sub_region_code":"4784000000_Gyeongsangbukdo_Seongju"
         },
@@ -415,6 +452,7 @@
             "apt_type":"아파트",
             "apt_year":25.0,
             "value_score":36.04,
+            "region":"경상북도 성주군",
             "region_code":"Gyeongsangbukdo",
             "sub_region_code":"4784000000_Gyeongsangbukdo_Seongju"
         },
@@ -426,6 +464,7 @@
             "apt_type":"아파트",
             "apt_year":26.0,
             "value_score":34.392,
+            "region":"경상북도 성주군",
             "region_code":"Gyeongsangbukdo",
             "sub_region_code":"4784000000_Gyeongsangbukdo_Seongju"
         },
@@ -437,6 +476,7 @@
             "apt_type":"아파트",
             "apt_year":22.0,
             "value_score":32.699,
+            "region":"경상북도 성주군",
             "region_code":"Gyeongsangbukdo",
             "sub_region_code":"4784000000_Gyeongsangbukdo_Seongju"
         }

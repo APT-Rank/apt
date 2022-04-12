@@ -30,6 +30,10 @@
                 "type":"number"
             },
             {
+                "name":"region",
+                "type":"string"
+            },
+            {
                 "name":"region_code",
                 "type":"string"
             },
@@ -52,6 +56,7 @@
             "apt_type":"아파트",
             "apt_year":4.0,
             "value_score":32.4035,
+            "region":"전라남도 곡성군",
             "region_code":"Jeollanamdo",
             "sub_region_code":"4672000000_Jeollanamdo_Gokseong"
         },
@@ -63,6 +68,7 @@
             "apt_type":"아파트",
             "apt_year":13.0,
             "value_score":30.567,
+            "region":"전라남도 곡성군",
             "region_code":"Jeollanamdo",
             "sub_region_code":"4672000000_Jeollanamdo_Gokseong"
         },
@@ -74,6 +80,7 @@
             "apt_type":"아파트",
             "apt_year":19.0,
             "value_score":27.417,
+            "region":"전라남도 곡성군",
             "region_code":"Jeollanamdo",
             "sub_region_code":"4672000000_Jeollanamdo_Gokseong"
         },
@@ -85,6 +92,7 @@
             "apt_type":"아파트",
             "apt_year":26.0,
             "value_score":25.017,
+            "region":"전라남도 곡성군",
             "region_code":"Jeollanamdo",
             "sub_region_code":"4672000000_Jeollanamdo_Gokseong"
         },
@@ -96,6 +104,7 @@
             "apt_type":"아파트",
             "apt_year":25.0,
             "value_score":22.2535,
+            "region":"전라남도 곡성군",
             "region_code":"Jeollanamdo",
             "sub_region_code":"4672000000_Jeollanamdo_Gokseong"
         },
@@ -107,6 +116,7 @@
             "apt_type":"아파트",
             "apt_year":4.0,
             "value_score":35.8535,
+            "region":"전라남도 곡성군",
             "region_code":"Jeollanamdo",
             "sub_region_code":"4672000000_Jeollanamdo_Gokseong"
         },
@@ -118,6 +128,7 @@
             "apt_type":"아파트",
             "apt_year":13.0,
             "value_score":34.017,
+            "region":"전라남도 곡성군",
             "region_code":"Jeollanamdo",
             "sub_region_code":"4672000000_Jeollanamdo_Gokseong"
         },
@@ -129,6 +140,7 @@
             "apt_type":"아파트",
             "apt_year":19.0,
             "value_score":29.517,
+            "region":"전라남도 곡성군",
             "region_code":"Jeollanamdo",
             "sub_region_code":"4672000000_Jeollanamdo_Gokseong"
         },
@@ -140,6 +152,7 @@
             "apt_type":"아파트",
             "apt_year":26.0,
             "value_score":25.767,
+            "region":"전라남도 곡성군",
             "region_code":"Jeollanamdo",
             "sub_region_code":"4672000000_Jeollanamdo_Gokseong"
         },
@@ -151,6 +164,7 @@
             "apt_type":"아파트",
             "apt_year":25.0,
             "value_score":21.3535,
+            "region":"전라남도 곡성군",
             "region_code":"Jeollanamdo",
             "sub_region_code":"4672000000_Jeollanamdo_Gokseong"
         },
@@ -162,6 +176,7 @@
             "apt_type":"아파트",
             "apt_year":4.0,
             "value_score":30.4465263158,
+            "region":"전라남도 곡성군",
             "region_code":"Jeollanamdo",
             "sub_region_code":"4672000000_Jeollanamdo_Gokseong"
         },
@@ -173,6 +188,7 @@
             "apt_type":"아파트",
             "apt_year":13.0,
             "value_score":28.9162105263,
+            "region":"전라남도 곡성군",
             "region_code":"Jeollanamdo",
             "sub_region_code":"4672000000_Jeollanamdo_Gokseong"
         },
@@ -184,6 +200,7 @@
             "apt_type":"아파트",
             "apt_year":19.0,
             "value_score":27.4951578947,
+            "region":"전라남도 곡성군",
             "region_code":"Jeollanamdo",
             "sub_region_code":"4672000000_Jeollanamdo_Gokseong"
         },
@@ -195,6 +212,7 @@
             "apt_type":"아파트",
             "apt_year":26.0,
             "value_score":26.7583157895,
+            "region":"전라남도 곡성군",
             "region_code":"Jeollanamdo",
             "sub_region_code":"4672000000_Jeollanamdo_Gokseong"
         },
@@ -206,6 +224,7 @@
             "apt_type":"아파트",
             "apt_year":25.0,
             "value_score":25.8675789474,
+            "region":"전라남도 곡성군",
             "region_code":"Jeollanamdo",
             "sub_region_code":"4672000000_Jeollanamdo_Gokseong"
         },
@@ -217,6 +236,7 @@
             "apt_type":"아파트",
             "apt_year":4.0,
             "value_score":39.457,
+            "region":"전라남도 곡성군",
             "region_code":"Jeollanamdo",
             "sub_region_code":"4672000000_Jeollanamdo_Gokseong"
         },
@@ -228,6 +248,7 @@
             "apt_type":"아파트",
             "apt_year":13.0,
             "value_score":38.784,
+            "region":"전라남도 곡성군",
             "region_code":"Jeollanamdo",
             "sub_region_code":"4672000000_Jeollanamdo_Gokseong"
         },
@@ -239,6 +260,7 @@
             "apt_type":"아파트",
             "apt_year":19.0,
             "value_score":36.534,
+            "region":"전라남도 곡성군",
             "region_code":"Jeollanamdo",
             "sub_region_code":"4672000000_Jeollanamdo_Gokseong"
         },
@@ -250,6 +272,7 @@
             "apt_type":"아파트",
             "apt_year":26.0,
             "value_score":34.784,
+            "region":"전라남도 곡성군",
             "region_code":"Jeollanamdo",
             "sub_region_code":"4672000000_Jeollanamdo_Gokseong"
         },
@@ -261,6 +284,7 @@
             "apt_type":"아파트",
             "apt_year":25.0,
             "value_score":32.207,
+            "region":"전라남도 곡성군",
             "region_code":"Jeollanamdo",
             "sub_region_code":"4672000000_Jeollanamdo_Gokseong"
         }

@@ -30,6 +30,10 @@
                 "type":"number"
             },
             {
+                "name":"region",
+                "type":"string"
+            },
+            {
                 "name":"region_code",
                 "type":"string"
             },
@@ -52,6 +56,7 @@
             "apt_type":"아파트",
             "apt_year":5.0,
             "value_score":45.013,
+            "region":"충청남도 부여군",
             "region_code":"Chungcheongnamdo",
             "sub_region_code":"4476000000_Chungcheongnamdo_Buyeo"
         },
@@ -63,6 +68,7 @@
             "apt_type":"아파트",
             "apt_year":5.0,
             "value_score":42.478,
+            "region":"충청남도 부여군",
             "region_code":"Chungcheongnamdo",
             "sub_region_code":"4476000000_Chungcheongnamdo_Buyeo"
         },
@@ -74,6 +80,7 @@
             "apt_type":"아파트",
             "apt_year":22.0,
             "value_score":39.2005,
+            "region":"충청남도 부여군",
             "region_code":"Chungcheongnamdo",
             "sub_region_code":"4476000000_Chungcheongnamdo_Buyeo"
         },
@@ -85,6 +92,7 @@
             "apt_type":"아파트",
             "apt_year":23.0,
             "value_score":37.4505,
+            "region":"충청남도 부여군",
             "region_code":"Chungcheongnamdo",
             "sub_region_code":"4476000000_Chungcheongnamdo_Buyeo"
         },
@@ -96,6 +104,7 @@
             "apt_type":"아파트",
             "apt_year":32.0,
             "value_score":30.2755,
+            "region":"충청남도 부여군",
             "region_code":"Chungcheongnamdo",
             "sub_region_code":"4476000000_Chungcheongnamdo_Buyeo"
         },
@@ -107,6 +116,7 @@
             "apt_type":"아파트",
             "apt_year":21.0,
             "value_score":29.278,
+            "region":"충청남도 부여군",
             "region_code":"Chungcheongnamdo",
             "sub_region_code":"4476000000_Chungcheongnamdo_Buyeo"
         },
@@ -118,6 +128,7 @@
             "apt_type":"아파트",
             "apt_year":37.0,
             "value_score":29.0715,
+            "region":"충청남도 부여군",
             "region_code":"Chungcheongnamdo",
             "sub_region_code":"4476000000_Chungcheongnamdo_Buyeo"
         },
@@ -129,6 +140,7 @@
             "apt_type":"아파트",
             "apt_year":21.0,
             "value_score":28.528,
+            "region":"충청남도 부여군",
             "region_code":"Chungcheongnamdo",
             "sub_region_code":"4476000000_Chungcheongnamdo_Buyeo"
         },
@@ -140,6 +152,7 @@
             "apt_type":"아파트",
             "apt_year":30.0,
             "value_score":28.388,
+            "region":"충청남도 부여군",
             "region_code":"Chungcheongnamdo",
             "sub_region_code":"4476000000_Chungcheongnamdo_Buyeo"
         },
@@ -151,6 +164,7 @@
             "apt_type":"아파트",
             "apt_year":22.0,
             "value_score":20.828,
+            "region":"충청남도 부여군",
             "region_code":"Chungcheongnamdo",
             "sub_region_code":"4476000000_Chungcheongnamdo_Buyeo"
         },
@@ -162,6 +176,7 @@
             "apt_type":"아파트",
             "apt_year":5.0,
             "value_score":51.478,
+            "region":"충청남도 부여군",
             "region_code":"Chungcheongnamdo",
             "sub_region_code":"4476000000_Chungcheongnamdo_Buyeo"
         },
@@ -173,6 +188,7 @@
             "apt_type":"아파트",
             "apt_year":5.0,
             "value_score":48.628,
+            "region":"충청남도 부여군",
             "region_code":"Chungcheongnamdo",
             "sub_region_code":"4476000000_Chungcheongnamdo_Buyeo"
         },
@@ -184,6 +200,7 @@
             "apt_type":"아파트",
             "apt_year":22.0,
             "value_score":43.1005,
+            "region":"충청남도 부여군",
             "region_code":"Chungcheongnamdo",
             "sub_region_code":"4476000000_Chungcheongnamdo_Buyeo"
         },
@@ -195,6 +212,7 @@
             "apt_type":"아파트",
             "apt_year":23.0,
             "value_score":40.6005,
+            "region":"충청남도 부여군",
             "region_code":"Chungcheongnamdo",
             "sub_region_code":"4476000000_Chungcheongnamdo_Buyeo"
         },
@@ -206,6 +224,7 @@
             "apt_type":"아파트",
             "apt_year":21.0,
             "value_score":35.128,
+            "region":"충청남도 부여군",
             "region_code":"Chungcheongnamdo",
             "sub_region_code":"4476000000_Chungcheongnamdo_Buyeo"
         },
@@ -217,6 +236,7 @@
             "apt_type":"아파트",
             "apt_year":21.0,
             "value_score":33.628,
+            "region":"충청남도 부여군",
             "region_code":"Chungcheongnamdo",
             "sub_region_code":"4476000000_Chungcheongnamdo_Buyeo"
         },
@@ -228,6 +248,7 @@
             "apt_type":"아파트",
             "apt_year":37.0,
             "value_score":32.7465,
+            "region":"충청남도 부여군",
             "region_code":"Chungcheongnamdo",
             "sub_region_code":"4476000000_Chungcheongnamdo_Buyeo"
         },
@@ -239,6 +260,7 @@
             "apt_type":"아파트",
             "apt_year":32.0,
             "value_score":30.3505,
+            "region":"충청남도 부여군",
             "region_code":"Chungcheongnamdo",
             "sub_region_code":"4476000000_Chungcheongnamdo_Buyeo"
         },
@@ -250,6 +272,7 @@
             "apt_type":"아파트",
             "apt_year":30.0,
             "value_score":27.728,
+            "region":"충청남도 부여군",
             "region_code":"Chungcheongnamdo",
             "sub_region_code":"4476000000_Chungcheongnamdo_Buyeo"
         },
@@ -261,6 +284,7 @@
             "apt_type":"아파트",
             "apt_year":22.0,
             "value_score":24.128,
+            "region":"충청남도 부여군",
             "region_code":"Chungcheongnamdo",
             "sub_region_code":"4476000000_Chungcheongnamdo_Buyeo"
         },
@@ -272,6 +296,7 @@
             "apt_type":"아파트",
             "apt_year":5.0,
             "value_score":38.7143157895,
+            "region":"충청남도 부여군",
             "region_code":"Chungcheongnamdo",
             "sub_region_code":"4476000000_Chungcheongnamdo_Buyeo"
         },
@@ -283,6 +308,7 @@
             "apt_type":"아파트",
             "apt_year":5.0,
             "value_score":36.7406315789,
+            "region":"충청남도 부여군",
             "region_code":"Chungcheongnamdo",
             "sub_region_code":"4476000000_Chungcheongnamdo_Buyeo"
         },
@@ -294,6 +320,7 @@
             "apt_type":"아파트",
             "apt_year":22.0,
             "value_score":36.0743157895,
+            "region":"충청남도 부여군",
             "region_code":"Chungcheongnamdo",
             "sub_region_code":"4476000000_Chungcheongnamdo_Buyeo"
         },
@@ -305,6 +332,7 @@
             "apt_type":"아파트",
             "apt_year":23.0,
             "value_score":35.2848421053,
+            "region":"충청남도 부여군",
             "region_code":"Chungcheongnamdo",
             "sub_region_code":"4476000000_Chungcheongnamdo_Buyeo"
         },
@@ -316,6 +344,7 @@
             "apt_type":"아파트",
             "apt_year":32.0,
             "value_score":32.048,
+            "region":"충청남도 부여군",
             "region_code":"Chungcheongnamdo",
             "sub_region_code":"4476000000_Chungcheongnamdo_Buyeo"
         },
@@ -327,6 +356,7 @@
             "apt_type":"아파트",
             "apt_year":30.0,
             "value_score":31.2143157895,
+            "region":"충청남도 부여군",
             "region_code":"Chungcheongnamdo",
             "sub_region_code":"4476000000_Chungcheongnamdo_Buyeo"
         },
@@ -338,6 +368,7 @@
             "apt_type":"아파트",
             "apt_year":37.0,
             "value_score":26.864,
+            "region":"충청남도 부여군",
             "region_code":"Chungcheongnamdo",
             "sub_region_code":"4476000000_Chungcheongnamdo_Buyeo"
         },
@@ -349,6 +380,7 @@
             "apt_type":"아파트",
             "apt_year":21.0,
             "value_score":26.6353684211,
+            "region":"충청남도 부여군",
             "region_code":"Chungcheongnamdo",
             "sub_region_code":"4476000000_Chungcheongnamdo_Buyeo"
         },
@@ -360,6 +392,7 @@
             "apt_type":"아파트",
             "apt_year":21.0,
             "value_score":23.5301052632,
+            "region":"충청남도 부여군",
             "region_code":"Chungcheongnamdo",
             "sub_region_code":"4476000000_Chungcheongnamdo_Buyeo"
         },
@@ -371,6 +404,7 @@
             "apt_type":"아파트",
             "apt_year":22.0,
             "value_score":20.0564210526,
+            "region":"충청남도 부여군",
             "region_code":"Chungcheongnamdo",
             "sub_region_code":"4476000000_Chungcheongnamdo_Buyeo"
         },
@@ -382,6 +416,7 @@
             "apt_type":"아파트",
             "apt_year":5.0,
             "value_score":48.231,
+            "region":"충청남도 부여군",
             "region_code":"Chungcheongnamdo",
             "sub_region_code":"4476000000_Chungcheongnamdo_Buyeo"
         },
@@ -393,6 +428,7 @@
             "apt_type":"아파트",
             "apt_year":5.0,
             "value_score":46.506,
+            "region":"충청남도 부여군",
             "region_code":"Chungcheongnamdo",
             "sub_region_code":"4476000000_Chungcheongnamdo_Buyeo"
         },
@@ -404,6 +440,7 @@
             "apt_type":"아파트",
             "apt_year":22.0,
             "value_score":43.701,
+            "region":"충청남도 부여군",
             "region_code":"Chungcheongnamdo",
             "sub_region_code":"4476000000_Chungcheongnamdo_Buyeo"
         },
@@ -415,6 +452,7 @@
             "apt_type":"아파트",
             "apt_year":23.0,
             "value_score":42.451,
+            "region":"충청남도 부여군",
             "region_code":"Chungcheongnamdo",
             "sub_region_code":"4476000000_Chungcheongnamdo_Buyeo"
         },
@@ -426,6 +464,7 @@
             "apt_type":"아파트",
             "apt_year":21.0,
             "value_score":37.506,
+            "region":"충청남도 부여군",
             "region_code":"Chungcheongnamdo",
             "sub_region_code":"4476000000_Chungcheongnamdo_Buyeo"
         },
@@ -437,6 +476,7 @@
             "apt_type":"아파트",
             "apt_year":32.0,
             "value_score":37.326,
+            "region":"충청남도 부여군",
             "region_code":"Chungcheongnamdo",
             "sub_region_code":"4476000000_Chungcheongnamdo_Buyeo"
         },
@@ -448,6 +488,7 @@
             "apt_type":"아파트",
             "apt_year":21.0,
             "value_score":37.256,
+            "region":"충청남도 부여군",
             "region_code":"Chungcheongnamdo",
             "sub_region_code":"4476000000_Chungcheongnamdo_Buyeo"
         },
@@ -459,6 +500,7 @@
             "apt_type":"아파트",
             "apt_year":30.0,
             "value_score":36.356,
+            "region":"충청남도 부여군",
             "region_code":"Chungcheongnamdo",
             "sub_region_code":"4476000000_Chungcheongnamdo_Buyeo"
         },
@@ -470,6 +512,7 @@
             "apt_type":"아파트",
             "apt_year":37.0,
             "value_score":36.118,
+            "region":"충청남도 부여군",
             "region_code":"Chungcheongnamdo",
             "sub_region_code":"4476000000_Chungcheongnamdo_Buyeo"
         },
@@ -481,6 +524,7 @@
             "apt_type":"아파트",
             "apt_year":22.0,
             "value_score":31.756,
+            "region":"충청남도 부여군",
             "region_code":"Chungcheongnamdo",
             "sub_region_code":"4476000000_Chungcheongnamdo_Buyeo"
         }

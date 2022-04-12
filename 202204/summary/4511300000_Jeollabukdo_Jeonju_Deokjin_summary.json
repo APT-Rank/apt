@@ -30,6 +30,10 @@
                 "type":"number"
             },
             {
+                "name":"region",
+                "type":"string"
+            },
+            {
                 "name":"region_code",
                 "type":"string"
             },
@@ -52,6 +56,7 @@
             "apt_type":"아파트",
             "apt_year":16.0,
             "value_score":65.755,
+            "region":"전라북도 전주시 덕진구",
             "region_code":"Jeollabukdo",
             "sub_region_code":"4511300000_Jeollabukdo_Jeonju_Deokjin"
         },
@@ -63,6 +68,7 @@
             "apt_type":"아파트",
             "apt_year":15.0,
             "value_score":63.38,
+            "region":"전라북도 전주시 덕진구",
             "region_code":"Jeollabukdo",
             "sub_region_code":"4511300000_Jeollabukdo_Jeonju_Deokjin"
         },
@@ -74,6 +80,7 @@
             "apt_type":"아파트",
             "apt_year":15.0,
             "value_score":63.38,
+            "region":"전라북도 전주시 덕진구",
             "region_code":"Jeollabukdo",
             "sub_region_code":"4511300000_Jeollabukdo_Jeonju_Deokjin"
         },
@@ -85,6 +92,7 @@
             "apt_type":"아파트",
             "apt_year":7.0,
             "value_score":61.978,
+            "region":"전라북도 전주시 덕진구",
             "region_code":"Jeollabukdo",
             "sub_region_code":"4511300000_Jeollabukdo_Jeonju_Deokjin"
         },
@@ -96,6 +104,7 @@
             "apt_type":"아파트",
             "apt_year":10.0,
             "value_score":60.5055,
+            "region":"전라북도 전주시 덕진구",
             "region_code":"Jeollabukdo",
             "sub_region_code":"4511300000_Jeollabukdo_Jeonju_Deokjin"
         },
@@ -107,6 +116,7 @@
             "apt_type":"아파트",
             "apt_year":2.0,
             "value_score":57.951,
+            "region":"전라북도 전주시 덕진구",
             "region_code":"Jeollabukdo",
             "sub_region_code":"4511300000_Jeollabukdo_Jeonju_Deokjin"
         },
@@ -118,6 +128,7 @@
             "apt_type":"아파트",
             "apt_year":31.0,
             "value_score":57.58,
+            "region":"전라북도 전주시 덕진구",
             "region_code":"Jeollabukdo",
             "sub_region_code":"4511300000_Jeollabukdo_Jeonju_Deokjin"
         },
@@ -129,6 +140,7 @@
             "apt_type":"아파트",
             "apt_year":8.0,
             "value_score":57.43,
+            "region":"전라북도 전주시 덕진구",
             "region_code":"Jeollabukdo",
             "sub_region_code":"4511300000_Jeollabukdo_Jeonju_Deokjin"
         },
@@ -140,6 +152,7 @@
             "apt_type":"아파트",
             "apt_year":7.0,
             "value_score":56.733,
+            "region":"전라북도 전주시 덕진구",
             "region_code":"Jeollabukdo",
             "sub_region_code":"4511300000_Jeollabukdo_Jeonju_Deokjin"
         },
@@ -151,6 +164,7 @@
             "apt_type":"아파트",
             "apt_year":14.0,
             "value_score":56.5815,
+            "region":"전라북도 전주시 덕진구",
             "region_code":"Jeollabukdo",
             "sub_region_code":"4511300000_Jeollabukdo_Jeonju_Deokjin"
         },
@@ -162,6 +176,7 @@
             "apt_type":"아파트",
             "apt_year":16.0,
             "value_score":66.43,
+            "region":"전라북도 전주시 덕진구",
             "region_code":"Jeollabukdo",
             "sub_region_code":"4511300000_Jeollabukdo_Jeonju_Deokjin"
         },
@@ -173,6 +188,7 @@
             "apt_type":"아파트",
             "apt_year":2.0,
             "value_score":64.776,
+            "region":"전라북도 전주시 덕진구",
             "region_code":"Jeollabukdo",
             "sub_region_code":"4511300000_Jeollabukdo_Jeonju_Deokjin"
         },
@@ -184,6 +200,7 @@
             "apt_type":"아파트",
             "apt_year":15.0,
             "value_score":61.955,
+            "region":"전라북도 전주시 덕진구",
             "region_code":"Jeollabukdo",
             "sub_region_code":"4511300000_Jeollabukdo_Jeonju_Deokjin"
         },
@@ -195,6 +212,7 @@
             "apt_type":"아파트",
             "apt_year":15.0,
             "value_score":61.955,
+            "region":"전라북도 전주시 덕진구",
             "region_code":"Jeollabukdo",
             "sub_region_code":"4511300000_Jeollabukdo_Jeonju_Deokjin"
         },
@@ -206,6 +224,7 @@
             "apt_type":"아파트",
             "apt_year":2.0,
             "value_score":61.274,
+            "region":"전라북도 전주시 덕진구",
             "region_code":"Jeollabukdo",
             "sub_region_code":"4511300000_Jeollabukdo_Jeonju_Deokjin"
         },
@@ -217,6 +236,7 @@
             "apt_type":"분양권",
             "apt_year":0.0,
             "value_score":60.6745,
+            "region":"전라북도 전주시 덕진구",
             "region_code":"Jeollabukdo",
             "sub_region_code":"4511300000_Jeollabukdo_Jeonju_Deokjin"
         },
@@ -228,6 +248,7 @@
             "apt_type":"아파트",
             "apt_year":5.0,
             "value_score":60.1745,
+            "region":"전라북도 전주시 덕진구",
             "region_code":"Jeollabukdo",
             "sub_region_code":"4511300000_Jeollabukdo_Jeonju_Deokjin"
         },
@@ -239,6 +260,7 @@
             "apt_type":"아파트",
             "apt_year":5.0,
             "value_score":60.1745,
+            "region":"전라북도 전주시 덕진구",
             "region_code":"Jeollabukdo",
             "sub_region_code":"4511300000_Jeollabukdo_Jeonju_Deokjin"
         },
@@ -250,6 +272,7 @@
             "apt_type":"아파트",
             "apt_year":4.0,
             "value_score":60.174,
+            "region":"전라북도 전주시 덕진구",
             "region_code":"Jeollabukdo",
             "sub_region_code":"4511300000_Jeollabukdo_Jeonju_Deokjin"
         },
@@ -261,6 +284,7 @@
             "apt_type":"아파트",
             "apt_year":7.0,
             "value_score":59.428,
+            "region":"전라북도 전주시 덕진구",
             "region_code":"Jeollabukdo",
             "sub_region_code":"4511300000_Jeollabukdo_Jeonju_Deokjin"
         },
@@ -272,6 +296,7 @@
             "apt_type":"아파트",
             "apt_year":7.0,
             "value_score":64.4353684211,
+            "region":"전라북도 전주시 덕진구",
             "region_code":"Jeollabukdo",
             "sub_region_code":"4511300000_Jeollabukdo_Jeonju_Deokjin"
         },
@@ -283,6 +308,7 @@
             "apt_type":"아파트",
             "apt_year":16.0,
             "value_score":64.4115789474,
+            "region":"전라북도 전주시 덕진구",
             "region_code":"Jeollabukdo",
             "sub_region_code":"4511300000_Jeollabukdo_Jeonju_Deokjin"
         },
@@ -294,6 +320,7 @@
             "apt_type":"아파트",
             "apt_year":15.0,
             "value_score":64.3378947368,
+            "region":"전라북도 전주시 덕진구",
             "region_code":"Jeollabukdo",
             "sub_region_code":"4511300000_Jeollabukdo_Jeonju_Deokjin"
         },
@@ -305,6 +332,7 @@
             "apt_type":"아파트",
             "apt_year":15.0,
             "value_score":64.3378947368,
+            "region":"전라북도 전주시 덕진구",
             "region_code":"Jeollabukdo",
             "sub_region_code":"4511300000_Jeollabukdo_Jeonju_Deokjin"
         },
@@ -316,6 +344,7 @@
             "apt_type":"아파트",
             "apt_year":31.0,
             "value_score":62.7589473684,
+            "region":"전라북도 전주시 덕진구",
             "region_code":"Jeollabukdo",
             "sub_region_code":"4511300000_Jeollabukdo_Jeonju_Deokjin"
         },
@@ -327,6 +356,7 @@
             "apt_type":"아파트",
             "apt_year":8.0,
             "value_score":61.7326315789,
+            "region":"전라북도 전주시 덕진구",
             "region_code":"Jeollabukdo",
             "sub_region_code":"4511300000_Jeollabukdo_Jeonju_Deokjin"
         },
@@ -338,6 +368,7 @@
             "apt_type":"아파트",
             "apt_year":10.0,
             "value_score":61.7227368421,
+            "region":"전라북도 전주시 덕진구",
             "region_code":"Jeollabukdo",
             "sub_region_code":"4511300000_Jeollabukdo_Jeonju_Deokjin"
         },
@@ -349,6 +380,7 @@
             "apt_type":"아파트",
             "apt_year":8.0,
             "value_score":61.6536842105,
+            "region":"전라북도 전주시 덕진구",
             "region_code":"Jeollabukdo",
             "sub_region_code":"4511300000_Jeollabukdo_Jeonju_Deokjin"
         },
@@ -360,6 +392,7 @@
             "apt_type":"아파트",
             "apt_year":28.0,
             "value_score":60.8642105263,
+            "region":"전라북도 전주시 덕진구",
             "region_code":"Jeollabukdo",
             "sub_region_code":"4511300000_Jeollabukdo_Jeonju_Deokjin"
         },
@@ -371,6 +404,7 @@
             "apt_type":"아파트",
             "apt_year":25.0,
             "value_score":60.3604210526,
+            "region":"전라북도 전주시 덕진구",
             "region_code":"Jeollabukdo",
             "sub_region_code":"4511300000_Jeollabukdo_Jeonju_Deokjin"
         },
@@ -382,6 +416,7 @@
             "apt_type":"아파트",
             "apt_year":16.0,
             "value_score":63.485,
+            "region":"전라북도 전주시 덕진구",
             "region_code":"Jeollabukdo",
             "sub_region_code":"4511300000_Jeollabukdo_Jeonju_Deokjin"
         },
@@ -393,6 +428,7 @@
             "apt_type":"아파트",
             "apt_year":15.0,
             "value_score":61.035,
+            "region":"전라북도 전주시 덕진구",
             "region_code":"Jeollabukdo",
             "sub_region_code":"4511300000_Jeollabukdo_Jeonju_Deokjin"
         },
@@ -404,6 +440,7 @@
             "apt_type":"아파트",
             "apt_year":15.0,
             "value_score":61.035,
+            "region":"전라북도 전주시 덕진구",
             "region_code":"Jeollabukdo",
             "sub_region_code":"4511300000_Jeollabukdo_Jeonju_Deokjin"
         },
@@ -415,6 +452,7 @@
             "apt_type":"아파트",
             "apt_year":7.0,
             "value_score":60.606,
+            "region":"전라북도 전주시 덕진구",
             "region_code":"Jeollabukdo",
             "sub_region_code":"4511300000_Jeollabukdo_Jeonju_Deokjin"
         },
@@ -426,6 +464,7 @@
             "apt_type":"분양권",
             "apt_year":0.0,
             "value_score":57.474,
+            "region":"전라북도 전주시 덕진구",
             "region_code":"Jeollabukdo",
             "sub_region_code":"4511300000_Jeollabukdo_Jeonju_Deokjin"
         },
@@ -437,6 +476,7 @@
             "apt_type":"아파트",
             "apt_year":2.0,
             "value_score":57.427,
+            "region":"전라북도 전주시 덕진구",
             "region_code":"Jeollabukdo",
             "sub_region_code":"4511300000_Jeollabukdo_Jeonju_Deokjin"
         },
@@ -448,6 +488,7 @@
             "apt_type":"아파트",
             "apt_year":5.0,
             "value_score":57.224,
+            "region":"전라북도 전주시 덕진구",
             "region_code":"Jeollabukdo",
             "sub_region_code":"4511300000_Jeollabukdo_Jeonju_Deokjin"
         },
@@ -459,6 +500,7 @@
             "apt_type":"아파트",
             "apt_year":5.0,
             "value_score":57.224,
+            "region":"전라북도 전주시 덕진구",
             "region_code":"Jeollabukdo",
             "sub_region_code":"4511300000_Jeollabukdo_Jeonju_Deokjin"
         },
@@ -470,6 +512,7 @@
             "apt_type":"아파트",
             "apt_year":31.0,
             "value_score":56.785,
+            "region":"전라북도 전주시 덕진구",
             "region_code":"Jeollabukdo",
             "sub_region_code":"4511300000_Jeollabukdo_Jeonju_Deokjin"
         },
@@ -481,6 +524,7 @@
             "apt_type":"아파트",
             "apt_year":8.0,
             "value_score":56.785,
+            "region":"전라북도 전주시 덕진구",
             "region_code":"Jeollabukdo",
             "sub_region_code":"4511300000_Jeollabukdo_Jeonju_Deokjin"
         }

@@ -30,6 +30,10 @@
                 "type":"number"
             },
             {
+                "name":"region",
+                "type":"string"
+            },
+            {
                 "name":"region_code",
                 "type":"string"
             },
@@ -52,6 +56,7 @@
             "apt_type":"아파트",
             "apt_year":3,
             "value_score":55.1285,
+            "region":"강원도 속초시",
             "region_code":"Gangwondo",
             "sub_region_code":"4221000000_Gangwondo_Sokcho"
         },
@@ -63,6 +68,7 @@
             "apt_type":"분양권",
             "apt_year":0,
             "value_score":54.219,
+            "region":"강원도 속초시",
             "region_code":"Gangwondo",
             "sub_region_code":"4221000000_Gangwondo_Sokcho"
         },
@@ -74,6 +80,7 @@
             "apt_type":"아파트",
             "apt_year":4,
             "value_score":53.492,
+            "region":"강원도 속초시",
             "region_code":"Gangwondo",
             "sub_region_code":"4221000000_Gangwondo_Sokcho"
         },
@@ -85,6 +92,7 @@
             "apt_type":"분양권",
             "apt_year":0,
             "value_score":52.1925,
+            "region":"강원도 속초시",
             "region_code":"Gangwondo",
             "sub_region_code":"4221000000_Gangwondo_Sokcho"
         },
@@ -96,6 +104,7 @@
             "apt_type":"아파트",
             "apt_year":4,
             "value_score":51.4535,
+            "region":"강원도 속초시",
             "region_code":"Gangwondo",
             "sub_region_code":"4221000000_Gangwondo_Sokcho"
         },
@@ -107,6 +116,7 @@
             "apt_type":"아파트",
             "apt_year":2,
             "value_score":50.142,
+            "region":"강원도 속초시",
             "region_code":"Gangwondo",
             "sub_region_code":"4221000000_Gangwondo_Sokcho"
         },
@@ -118,6 +128,7 @@
             "apt_type":"아파트",
             "apt_year":2,
             "value_score":49.294,
+            "region":"강원도 속초시",
             "region_code":"Gangwondo",
             "sub_region_code":"4221000000_Gangwondo_Sokcho"
         },
@@ -129,6 +140,7 @@
             "apt_type":"아파트",
             "apt_year":3,
             "value_score":49.004,
+            "region":"강원도 속초시",
             "region_code":"Gangwondo",
             "sub_region_code":"4221000000_Gangwondo_Sokcho"
         },
@@ -140,6 +152,7 @@
             "apt_type":"아파트",
             "apt_year":6,
             "value_score":48.819,
+            "region":"강원도 속초시",
             "region_code":"Gangwondo",
             "sub_region_code":"4221000000_Gangwondo_Sokcho"
         },
@@ -151,6 +164,7 @@
             "apt_type":"아파트",
             "apt_year":5,
             "value_score":48.5835,
+            "region":"강원도 속초시",
             "region_code":"Gangwondo",
             "sub_region_code":"4221000000_Gangwondo_Sokcho"
         },
@@ -162,6 +176,7 @@
             "apt_type":"아파트",
             "apt_year":3,
             "value_score":60.7535,
+            "region":"강원도 속초시",
             "region_code":"Gangwondo",
             "sub_region_code":"4221000000_Gangwondo_Sokcho"
         },
@@ -173,6 +188,7 @@
             "apt_type":"아파트",
             "apt_year":4,
             "value_score":59.717,
+            "region":"강원도 속초시",
             "region_code":"Gangwondo",
             "sub_region_code":"4221000000_Gangwondo_Sokcho"
         },
@@ -184,6 +200,7 @@
             "apt_type":"분양권",
             "apt_year":0,
             "value_score":57.219,
+            "region":"강원도 속초시",
             "region_code":"Gangwondo",
             "sub_region_code":"4221000000_Gangwondo_Sokcho"
         },
@@ -195,6 +212,7 @@
             "apt_type":"분양권",
             "apt_year":0,
             "value_score":57.2175,
+            "region":"강원도 속초시",
             "region_code":"Gangwondo",
             "sub_region_code":"4221000000_Gangwondo_Sokcho"
         },
@@ -206,6 +224,7 @@
             "apt_type":"아파트",
             "apt_year":4,
             "value_score":55.5035,
+            "region":"강원도 속초시",
             "region_code":"Gangwondo",
             "sub_region_code":"4221000000_Gangwondo_Sokcho"
         },
@@ -217,6 +236,7 @@
             "apt_type":"아파트",
             "apt_year":2,
             "value_score":53.967,
+            "region":"강원도 속초시",
             "region_code":"Gangwondo",
             "sub_region_code":"4221000000_Gangwondo_Sokcho"
         },
@@ -228,6 +248,7 @@
             "apt_type":"분양권",
             "apt_year":1,
             "value_score":53.8535,
+            "region":"강원도 속초시",
             "region_code":"Gangwondo",
             "sub_region_code":"4221000000_Gangwondo_Sokcho"
         },
@@ -239,6 +260,7 @@
             "apt_type":"아파트",
             "apt_year":6,
             "value_score":52.719,
+            "region":"강원도 속초시",
             "region_code":"Gangwondo",
             "sub_region_code":"4221000000_Gangwondo_Sokcho"
         },
@@ -250,6 +272,7 @@
             "apt_type":"아파트",
             "apt_year":5,
             "value_score":52.5735,
+            "region":"강원도 속초시",
             "region_code":"Gangwondo",
             "sub_region_code":"4221000000_Gangwondo_Sokcho"
         },
@@ -261,6 +284,7 @@
             "apt_type":"아파트",
             "apt_year":3,
             "value_score":52.004,
+            "region":"강원도 속초시",
             "region_code":"Gangwondo",
             "sub_region_code":"4221000000_Gangwondo_Sokcho"
         },
@@ -272,6 +296,7 @@
             "apt_type":"분양권",
             "apt_year":0,
             "value_score":50.9608421053,
+            "region":"강원도 속초시",
             "region_code":"Gangwondo",
             "sub_region_code":"4221000000_Gangwondo_Sokcho"
         },
@@ -283,6 +308,7 @@
             "apt_type":"아파트",
             "apt_year":2,
             "value_score":49.7766315789,
+            "region":"강원도 속초시",
             "region_code":"Gangwondo",
             "sub_region_code":"4221000000_Gangwondo_Sokcho"
         },
@@ -294,6 +320,7 @@
             "apt_type":"아파트",
             "apt_year":3,
             "value_score":48.9781052632,
+            "region":"강원도 속초시",
             "region_code":"Gangwondo",
             "sub_region_code":"4221000000_Gangwondo_Sokcho"
         },
@@ -305,6 +332,7 @@
             "apt_type":"아파트",
             "apt_year":4,
             "value_score":47.3202105263,
+            "region":"강원도 속초시",
             "region_code":"Gangwondo",
             "sub_region_code":"4221000000_Gangwondo_Sokcho"
         },
@@ -316,6 +344,7 @@
             "apt_type":"아파트",
             "apt_year":12,
             "value_score":47.0134736842,
+            "region":"강원도 속초시",
             "region_code":"Gangwondo",
             "sub_region_code":"4221000000_Gangwondo_Sokcho"
         },
@@ -327,6 +356,7 @@
             "apt_type":"분양권",
             "apt_year":0,
             "value_score":46.9326315789,
+            "region":"강원도 속초시",
             "region_code":"Gangwondo",
             "sub_region_code":"4221000000_Gangwondo_Sokcho"
         },
@@ -338,6 +368,7 @@
             "apt_type":"아파트",
             "apt_year":4,
             "value_score":46.8267368421,
+            "region":"강원도 속초시",
             "region_code":"Gangwondo",
             "sub_region_code":"4221000000_Gangwondo_Sokcho"
         },
@@ -349,6 +380,7 @@
             "apt_type":"아파트",
             "apt_year":28,
             "value_score":46.4517894737,
+            "region":"강원도 속초시",
             "region_code":"Gangwondo",
             "sub_region_code":"4221000000_Gangwondo_Sokcho"
         },
@@ -360,6 +392,7 @@
             "apt_type":"아파트",
             "apt_year":2,
             "value_score":46.3530526316,
+            "region":"강원도 속초시",
             "region_code":"Gangwondo",
             "sub_region_code":"4221000000_Gangwondo_Sokcho"
         },
@@ -371,6 +404,7 @@
             "apt_type":"아파트",
             "apt_year":3,
             "value_score":46.2155789474,
+            "region":"강원도 속초시",
             "region_code":"Gangwondo",
             "sub_region_code":"4221000000_Gangwondo_Sokcho"
         },
@@ -382,6 +416,7 @@
             "apt_type":"아파트",
             "apt_year":3,
             "value_score":55.382,
+            "region":"강원도 속초시",
             "region_code":"Gangwondo",
             "sub_region_code":"4221000000_Gangwondo_Sokcho"
         },
@@ -393,6 +428,7 @@
             "apt_type":"분양권",
             "apt_year":0,
             "value_score":54.438,
+            "region":"강원도 속초시",
             "region_code":"Gangwondo",
             "sub_region_code":"4221000000_Gangwondo_Sokcho"
         },
@@ -404,6 +440,7 @@
             "apt_type":"아파트",
             "apt_year":4,
             "value_score":54.309,
+            "region":"강원도 속초시",
             "region_code":"Gangwondo",
             "sub_region_code":"4221000000_Gangwondo_Sokcho"
         },
@@ -415,6 +452,7 @@
             "apt_type":"분양권",
             "apt_year":0,
             "value_score":53.31,
+            "region":"강원도 속초시",
             "region_code":"Gangwondo",
             "sub_region_code":"4221000000_Gangwondo_Sokcho"
         },
@@ -426,6 +464,7 @@
             "apt_type":"아파트",
             "apt_year":4,
             "value_score":52.757,
+            "region":"강원도 속초시",
             "region_code":"Gangwondo",
             "sub_region_code":"4221000000_Gangwondo_Sokcho"
         },
@@ -437,6 +476,7 @@
             "apt_type":"아파트",
             "apt_year":2,
             "value_score":51.809,
+            "region":"강원도 속초시",
             "region_code":"Gangwondo",
             "sub_region_code":"4221000000_Gangwondo_Sokcho"
         },
@@ -448,6 +488,7 @@
             "apt_type":"아파트",
             "apt_year":3,
             "value_score":51.008,
+            "region":"강원도 속초시",
             "region_code":"Gangwondo",
             "sub_region_code":"4221000000_Gangwondo_Sokcho"
         },
@@ -459,6 +500,7 @@
             "apt_type":"아파트",
             "apt_year":6,
             "value_score":50.938,
+            "region":"강원도 속초시",
             "region_code":"Gangwondo",
             "sub_region_code":"4221000000_Gangwondo_Sokcho"
         },
@@ -470,6 +512,7 @@
             "apt_type":"아파트",
             "apt_year":2,
             "value_score":50.813,
+            "region":"강원도 속초시",
             "region_code":"Gangwondo",
             "sub_region_code":"4221000000_Gangwondo_Sokcho"
         },
@@ -481,6 +524,7 @@
             "apt_type":"아파트",
             "apt_year":5,
             "value_score":50.797,
+            "region":"강원도 속초시",
             "region_code":"Gangwondo",
             "sub_region_code":"4221000000_Gangwondo_Sokcho"
         }

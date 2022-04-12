@@ -30,6 +30,10 @@
                 "type":"number"
             },
             {
+                "name":"region",
+                "type":"string"
+            },
+            {
                 "name":"region_code",
                 "type":"string"
             },
@@ -52,6 +56,7 @@
             "apt_type":"아파트",
             "apt_year":9.0,
             "value_score":45.319,
+            "region":"전라북도 남원시",
             "region_code":"Jeollabukdo",
             "sub_region_code":"4519000000_Jeollabukdo_Namwon"
         },
@@ -63,6 +68,7 @@
             "apt_type":"아파트",
             "apt_year":22.0,
             "value_score":44.166,
+            "region":"전라북도 남원시",
             "region_code":"Jeollabukdo",
             "sub_region_code":"4519000000_Jeollabukdo_Namwon"
         },
@@ -74,6 +80,7 @@
             "apt_type":"아파트",
             "apt_year":22.0,
             "value_score":43.519,
+            "region":"전라북도 남원시",
             "region_code":"Jeollabukdo",
             "sub_region_code":"4519000000_Jeollabukdo_Namwon"
         },
@@ -85,6 +92,7 @@
             "apt_type":"아파트",
             "apt_year":28.0,
             "value_score":43.191,
+            "region":"전라북도 남원시",
             "region_code":"Jeollabukdo",
             "sub_region_code":"4519000000_Jeollabukdo_Namwon"
         },
@@ -96,6 +104,7 @@
             "apt_type":"아파트",
             "apt_year":3.0,
             "value_score":41.554,
+            "region":"전라북도 남원시",
             "region_code":"Jeollabukdo",
             "sub_region_code":"4519000000_Jeollabukdo_Namwon"
         },
@@ -107,6 +116,7 @@
             "apt_type":"아파트",
             "apt_year":26.0,
             "value_score":39.945,
+            "region":"전라북도 남원시",
             "region_code":"Jeollabukdo",
             "sub_region_code":"4519000000_Jeollabukdo_Namwon"
         },
@@ -118,6 +128,7 @@
             "apt_type":"아파트",
             "apt_year":28.0,
             "value_score":38.991,
+            "region":"전라북도 남원시",
             "region_code":"Jeollabukdo",
             "sub_region_code":"4519000000_Jeollabukdo_Namwon"
         },
@@ -129,6 +140,7 @@
             "apt_type":"아파트",
             "apt_year":32.0,
             "value_score":38.183,
+            "region":"전라북도 남원시",
             "region_code":"Jeollabukdo",
             "sub_region_code":"4519000000_Jeollabukdo_Namwon"
         },
@@ -140,6 +152,7 @@
             "apt_type":"아파트",
             "apt_year":7.0,
             "value_score":38.069,
+            "region":"전라북도 남원시",
             "region_code":"Jeollabukdo",
             "sub_region_code":"4519000000_Jeollabukdo_Namwon"
         },
@@ -151,6 +164,7 @@
             "apt_type":"아파트",
             "apt_year":22.0,
             "value_score":37.919,
+            "region":"전라북도 남원시",
             "region_code":"Jeollabukdo",
             "sub_region_code":"4519000000_Jeollabukdo_Namwon"
         },
@@ -162,6 +176,7 @@
             "apt_type":"아파트",
             "apt_year":9.0,
             "value_score":50.269,
+            "region":"전라북도 남원시",
             "region_code":"Jeollabukdo",
             "sub_region_code":"4519000000_Jeollabukdo_Namwon"
         },
@@ -173,6 +188,7 @@
             "apt_type":"아파트",
             "apt_year":22.0,
             "value_score":46.416,
+            "region":"전라북도 남원시",
             "region_code":"Jeollabukdo",
             "sub_region_code":"4519000000_Jeollabukdo_Namwon"
         },
@@ -184,6 +200,7 @@
             "apt_type":"분양권",
             "apt_year":0.0,
             "value_score":46.269,
+            "region":"전라북도 남원시",
             "region_code":"Jeollabukdo",
             "sub_region_code":"4519000000_Jeollabukdo_Namwon"
         },
@@ -195,6 +212,7 @@
             "apt_type":"아파트",
             "apt_year":22.0,
             "value_score":45.769,
+            "region":"전라북도 남원시",
             "region_code":"Jeollabukdo",
             "sub_region_code":"4519000000_Jeollabukdo_Namwon"
         },
@@ -206,6 +224,7 @@
             "apt_type":"아파트",
             "apt_year":3.0,
             "value_score":44.119,
+            "region":"전라북도 남원시",
             "region_code":"Jeollabukdo",
             "sub_region_code":"4519000000_Jeollabukdo_Namwon"
         },
@@ -217,6 +236,7 @@
             "apt_type":"아파트",
             "apt_year":7.0,
             "value_score":43.769,
+            "region":"전라북도 남원시",
             "region_code":"Jeollabukdo",
             "sub_region_code":"4519000000_Jeollabukdo_Namwon"
         },
@@ -228,6 +248,7 @@
             "apt_type":"아파트",
             "apt_year":28.0,
             "value_score":43.416,
+            "region":"전라북도 남원시",
             "region_code":"Jeollabukdo",
             "sub_region_code":"4519000000_Jeollabukdo_Namwon"
         },
@@ -239,6 +260,7 @@
             "apt_type":"아파트",
             "apt_year":22.0,
             "value_score":42.269,
+            "region":"전라북도 남원시",
             "region_code":"Jeollabukdo",
             "sub_region_code":"4519000000_Jeollabukdo_Namwon"
         },
@@ -250,6 +272,7 @@
             "apt_type":"아파트",
             "apt_year":13.0,
             "value_score":41.769,
+            "region":"전라북도 남원시",
             "region_code":"Jeollabukdo",
             "sub_region_code":"4519000000_Jeollabukdo_Namwon"
         },
@@ -261,6 +284,7 @@
             "apt_type":"분양권",
             "apt_year":-1.0,
             "value_score":41.519,
+            "region":"전라북도 남원시",
             "region_code":"Jeollabukdo",
             "sub_region_code":"4519000000_Jeollabukdo_Namwon"
         },
@@ -272,6 +296,7 @@
             "apt_type":"아파트",
             "apt_year":28.0,
             "value_score":43.8675789474,
+            "region":"전라북도 남원시",
             "region_code":"Jeollabukdo",
             "sub_region_code":"4519000000_Jeollabukdo_Namwon"
         },
@@ -283,6 +308,7 @@
             "apt_type":"아파트",
             "apt_year":22.0,
             "value_score":42.5781052632,
+            "region":"전라북도 남원시",
             "region_code":"Jeollabukdo",
             "sub_region_code":"4519000000_Jeollabukdo_Namwon"
         },
@@ -294,6 +320,7 @@
             "apt_type":"아파트",
             "apt_year":28.0,
             "value_score":41.9728421053,
+            "region":"전라북도 남원시",
             "region_code":"Jeollabukdo",
             "sub_region_code":"4519000000_Jeollabukdo_Namwon"
         },
@@ -305,6 +332,7 @@
             "apt_type":"아파트",
             "apt_year":22.0,
             "value_score":41.7608421053,
+            "region":"전라북도 남원시",
             "region_code":"Jeollabukdo",
             "sub_region_code":"4519000000_Jeollabukdo_Namwon"
         },
@@ -316,6 +344,7 @@
             "apt_type":"아파트",
             "apt_year":26.0,
             "value_score":41.2094736842,
+            "region":"전라북도 남원시",
             "region_code":"Jeollabukdo",
             "sub_region_code":"4519000000_Jeollabukdo_Namwon"
         },
@@ -327,6 +356,7 @@
             "apt_type":"아파트",
             "apt_year":9.0,
             "value_score":40.4976842105,
+            "region":"전라북도 남원시",
             "region_code":"Jeollabukdo",
             "sub_region_code":"4519000000_Jeollabukdo_Namwon"
         },
@@ -338,6 +368,7 @@
             "apt_type":"아파트",
             "apt_year":3.0,
             "value_score":39.6292631579,
+            "region":"전라북도 남원시",
             "region_code":"Jeollabukdo",
             "sub_region_code":"4519000000_Jeollabukdo_Namwon"
         },
@@ -349,6 +380,7 @@
             "apt_type":"아파트",
             "apt_year":34.0,
             "value_score":39.3412631579,
+            "region":"전라북도 남원시",
             "region_code":"Jeollabukdo",
             "sub_region_code":"4519000000_Jeollabukdo_Namwon"
         },
@@ -360,6 +392,7 @@
             "apt_type":"아파트",
             "apt_year":33.0,
             "value_score":38.524,
+            "region":"전라북도 남원시",
             "region_code":"Jeollabukdo",
             "sub_region_code":"4519000000_Jeollabukdo_Namwon"
         },
@@ -371,6 +404,7 @@
             "apt_type":"아파트",
             "apt_year":36.0,
             "value_score":38.2785263158,
+            "region":"전라북도 남원시",
             "region_code":"Jeollabukdo",
             "sub_region_code":"4519000000_Jeollabukdo_Namwon"
         },
@@ -382,6 +416,7 @@
             "apt_type":"아파트",
             "apt_year":9.0,
             "value_score":47.788,
+            "region":"전라북도 남원시",
             "region_code":"Jeollabukdo",
             "sub_region_code":"4519000000_Jeollabukdo_Namwon"
         },
@@ -393,6 +428,7 @@
             "apt_type":"아파트",
             "apt_year":22.0,
             "value_score":47.582,
+            "region":"전라북도 남원시",
             "region_code":"Jeollabukdo",
             "sub_region_code":"4519000000_Jeollabukdo_Namwon"
         },
@@ -404,6 +440,7 @@
             "apt_type":"아파트",
             "apt_year":28.0,
             "value_score":46.707,
+            "region":"전라북도 남원시",
             "region_code":"Jeollabukdo",
             "sub_region_code":"4519000000_Jeollabukdo_Namwon"
         },
@@ -415,6 +452,7 @@
             "apt_type":"아파트",
             "apt_year":22.0,
             "value_score":46.288,
+            "region":"전라북도 남원시",
             "region_code":"Jeollabukdo",
             "sub_region_code":"4519000000_Jeollabukdo_Namwon"
         },
@@ -426,6 +464,7 @@
             "apt_type":"아파트",
             "apt_year":3.0,
             "value_score":45.013,
+            "region":"전라북도 남원시",
             "region_code":"Jeollabukdo",
             "sub_region_code":"4519000000_Jeollabukdo_Namwon"
         },
@@ -437,6 +476,7 @@
             "apt_type":"아파트",
             "apt_year":28.0,
             "value_score":43.707,
+            "region":"전라북도 남원시",
             "region_code":"Jeollabukdo",
             "sub_region_code":"4519000000_Jeollabukdo_Namwon"
         },
@@ -448,6 +488,7 @@
             "apt_type":"아파트",
             "apt_year":7.0,
             "value_score":43.038,
+            "region":"전라북도 남원시",
             "region_code":"Jeollabukdo",
             "sub_region_code":"4519000000_Jeollabukdo_Namwon"
         },
@@ -459,6 +500,7 @@
             "apt_type":"아파트",
             "apt_year":22.0,
             "value_score":42.788,
+            "region":"전라북도 남원시",
             "region_code":"Jeollabukdo",
             "sub_region_code":"4519000000_Jeollabukdo_Namwon"
         },
@@ -470,6 +512,7 @@
             "apt_type":"아파트",
             "apt_year":34.0,
             "value_score":42.457,
+            "region":"전라북도 남원시",
             "region_code":"Jeollabukdo",
             "sub_region_code":"4519000000_Jeollabukdo_Namwon"
         },
@@ -481,6 +524,7 @@
             "apt_type":"아파트",
             "apt_year":32.0,
             "value_score":42.191,
+            "region":"전라북도 남원시",
             "region_code":"Jeollabukdo",
             "sub_region_code":"4519000000_Jeollabukdo_Namwon"
         }

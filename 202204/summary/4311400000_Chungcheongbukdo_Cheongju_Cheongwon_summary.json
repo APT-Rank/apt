@@ -30,6 +30,10 @@
                 "type":"number"
             },
             {
+                "name":"region",
+                "type":"string"
+            },
+            {
                 "name":"region_code",
                 "type":"string"
             },
@@ -52,6 +56,7 @@
             "apt_type":"아파트",
             "apt_year":1.0,
             "value_score":58.888,
+            "region":"충청북도 청주시 청원구",
             "region_code":"Chungcheongbukdo",
             "sub_region_code":"4311400000_Chungcheongbukdo_Cheongju_Cheongwon"
         },
@@ -63,6 +68,7 @@
             "apt_type":"아파트",
             "apt_year":5.0,
             "value_score":56.288,
+            "region":"충청북도 청주시 청원구",
             "region_code":"Chungcheongbukdo",
             "sub_region_code":"4311400000_Chungcheongbukdo_Cheongju_Cheongwon"
         },
@@ -74,6 +80,7 @@
             "apt_type":"아파트",
             "apt_year":9.0,
             "value_score":55.3195,
+            "region":"충청북도 청주시 청원구",
             "region_code":"Chungcheongbukdo",
             "sub_region_code":"4311400000_Chungcheongbukdo_Cheongju_Cheongwon"
         },
@@ -85,6 +92,7 @@
             "apt_type":"아파트",
             "apt_year":8.0,
             "value_score":55.319,
+            "region":"충청북도 청주시 청원구",
             "region_code":"Chungcheongbukdo",
             "sub_region_code":"4311400000_Chungcheongbukdo_Cheongju_Cheongwon"
         },
@@ -96,6 +104,7 @@
             "apt_type":"아파트",
             "apt_year":3.0,
             "value_score":55.28,
+            "region":"충청북도 청주시 청원구",
             "region_code":"Chungcheongbukdo",
             "sub_region_code":"4311400000_Chungcheongbukdo_Cheongju_Cheongwon"
         },
@@ -107,6 +116,7 @@
             "apt_type":"아파트",
             "apt_year":10.0,
             "value_score":55.1445,
+            "region":"충청북도 청주시 청원구",
             "region_code":"Chungcheongbukdo",
             "sub_region_code":"4311400000_Chungcheongbukdo_Cheongju_Cheongwon"
         },
@@ -118,6 +128,7 @@
             "apt_type":"아파트",
             "apt_year":12.0,
             "value_score":53.2125,
+            "region":"충청북도 청주시 청원구",
             "region_code":"Chungcheongbukdo",
             "sub_region_code":"4311400000_Chungcheongbukdo_Cheongju_Cheongwon"
         },
@@ -129,6 +140,7 @@
             "apt_type":"아파트",
             "apt_year":9.0,
             "value_score":51.644,
+            "region":"충청북도 청주시 청원구",
             "region_code":"Chungcheongbukdo",
             "sub_region_code":"4311400000_Chungcheongbukdo_Cheongju_Cheongwon"
         },
@@ -140,6 +152,7 @@
             "apt_type":"아파트",
             "apt_year":7.0,
             "value_score":51.4055,
+            "region":"충청북도 청주시 청원구",
             "region_code":"Chungcheongbukdo",
             "sub_region_code":"4311400000_Chungcheongbukdo_Cheongju_Cheongwon"
         },
@@ -151,6 +164,7 @@
             "apt_type":"아파트",
             "apt_year":9.0,
             "value_score":51.204,
+            "region":"충청북도 청주시 청원구",
             "region_code":"Chungcheongbukdo",
             "sub_region_code":"4311400000_Chungcheongbukdo_Cheongju_Cheongwon"
         },
@@ -162,6 +176,7 @@
             "apt_type":"아파트",
             "apt_year":1.0,
             "value_score":64.738,
+            "region":"충청북도 청주시 청원구",
             "region_code":"Chungcheongbukdo",
             "sub_region_code":"4311400000_Chungcheongbukdo_Cheongju_Cheongwon"
         },
@@ -173,6 +188,7 @@
             "apt_type":"아파트",
             "apt_year":3.0,
             "value_score":62.12,
+            "region":"충청북도 청주시 청원구",
             "region_code":"Chungcheongbukdo",
             "sub_region_code":"4311400000_Chungcheongbukdo_Cheongju_Cheongwon"
         },
@@ -184,6 +200,7 @@
             "apt_type":"아파트",
             "apt_year":5.0,
             "value_score":61.988,
+            "region":"충청북도 청주시 청원구",
             "region_code":"Chungcheongbukdo",
             "sub_region_code":"4311400000_Chungcheongbukdo_Cheongju_Cheongwon"
         },
@@ -195,6 +212,7 @@
             "apt_type":"아파트",
             "apt_year":9.0,
             "value_score":61.0195,
+            "region":"충청북도 청주시 청원구",
             "region_code":"Chungcheongbukdo",
             "sub_region_code":"4311400000_Chungcheongbukdo_Cheongju_Cheongwon"
         },
@@ -206,6 +224,7 @@
             "apt_type":"아파트",
             "apt_year":8.0,
             "value_score":61.019,
+            "region":"충청북도 청주시 청원구",
             "region_code":"Chungcheongbukdo",
             "sub_region_code":"4311400000_Chungcheongbukdo_Cheongju_Cheongwon"
         },
@@ -217,6 +236,7 @@
             "apt_type":"아파트",
             "apt_year":10.0,
             "value_score":60.7695,
+            "region":"충청북도 청주시 청원구",
             "region_code":"Chungcheongbukdo",
             "sub_region_code":"4311400000_Chungcheongbukdo_Cheongju_Cheongwon"
         },
@@ -228,6 +248,7 @@
             "apt_type":"아파트",
             "apt_year":5.0,
             "value_score":59.606,
+            "region":"충청북도 청주시 청원구",
             "region_code":"Chungcheongbukdo",
             "sub_region_code":"4311400000_Chungcheongbukdo_Cheongju_Cheongwon"
         },
@@ -239,6 +260,7 @@
             "apt_type":"아파트",
             "apt_year":5.0,
             "value_score":58.956,
+            "region":"충청북도 청주시 청원구",
             "region_code":"Chungcheongbukdo",
             "sub_region_code":"4311400000_Chungcheongbukdo_Cheongju_Cheongwon"
         },
@@ -250,6 +272,7 @@
             "apt_type":"아파트",
             "apt_year":12.0,
             "value_score":55.9875,
+            "region":"충청북도 청주시 청원구",
             "region_code":"Chungcheongbukdo",
             "sub_region_code":"4311400000_Chungcheongbukdo_Cheongju_Cheongwon"
         },
@@ -261,6 +284,7 @@
             "apt_type":"아파트",
             "apt_year":17.0,
             "value_score":55.856,
+            "region":"충청북도 청주시 청원구",
             "region_code":"Chungcheongbukdo",
             "sub_region_code":"4311400000_Chungcheongbukdo_Cheongju_Cheongwon"
         },
@@ -272,6 +296,7 @@
             "apt_type":"아파트",
             "apt_year":1.0,
             "value_score":52.5111578947,
+            "region":"충청북도 청주시 청원구",
             "region_code":"Chungcheongbukdo",
             "sub_region_code":"4311400000_Chungcheongbukdo_Cheongju_Cheongwon"
         },
@@ -283,6 +308,7 @@
             "apt_type":"아파트",
             "apt_year":12.0,
             "value_score":50.6421052632,
+            "region":"충청북도 청주시 청원구",
             "region_code":"Chungcheongbukdo",
             "sub_region_code":"4311400000_Chungcheongbukdo_Cheongju_Cheongwon"
         },
@@ -294,6 +320,7 @@
             "apt_type":"아파트",
             "apt_year":5.0,
             "value_score":50.3006315789,
+            "region":"충청북도 청주시 청원구",
             "region_code":"Chungcheongbukdo",
             "sub_region_code":"4311400000_Chungcheongbukdo_Cheongju_Cheongwon"
         },
@@ -305,6 +332,7 @@
             "apt_type":"아파트",
             "apt_year":9.0,
             "value_score":49.0772631579,
+            "region":"충청북도 청주시 청원구",
             "region_code":"Chungcheongbukdo",
             "sub_region_code":"4311400000_Chungcheongbukdo_Cheongju_Cheongwon"
         },
@@ -316,6 +344,7 @@
             "apt_type":"아파트",
             "apt_year":8.0,
             "value_score":49.0766315789,
+            "region":"충청북도 청주시 청원구",
             "region_code":"Chungcheongbukdo",
             "sub_region_code":"4311400000_Chungcheongbukdo_Cheongju_Cheongwon"
         },
@@ -327,6 +356,7 @@
             "apt_type":"아파트",
             "apt_year":10.0,
             "value_score":48.9983157895,
+            "region":"충청북도 청주시 청원구",
             "region_code":"Chungcheongbukdo",
             "sub_region_code":"4311400000_Chungcheongbukdo_Cheongju_Cheongwon"
         },
@@ -338,6 +368,7 @@
             "apt_type":"아파트",
             "apt_year":26.0,
             "value_score":48.4848421053,
+            "region":"충청북도 청주시 청원구",
             "region_code":"Chungcheongbukdo",
             "sub_region_code":"4311400000_Chungcheongbukdo_Cheongju_Cheongwon"
         },
@@ -349,6 +380,7 @@
             "apt_type":"아파트",
             "apt_year":12.0,
             "value_score":48.4842105263,
+            "region":"충청북도 청주시 청원구",
             "region_code":"Chungcheongbukdo",
             "sub_region_code":"4311400000_Chungcheongbukdo_Cheongju_Cheongwon"
         },
@@ -360,6 +392,7 @@
             "apt_type":"아파트",
             "apt_year":31.0,
             "value_score":48.1002105263,
+            "region":"충청북도 청주시 청원구",
             "region_code":"Chungcheongbukdo",
             "sub_region_code":"4311400000_Chungcheongbukdo_Cheongju_Cheongwon"
         },
@@ -371,6 +404,7 @@
             "apt_type":"아파트",
             "apt_year":9.0,
             "value_score":48.0503157895,
+            "region":"충청북도 청주시 청원구",
             "region_code":"Chungcheongbukdo",
             "sub_region_code":"4311400000_Chungcheongbukdo_Cheongju_Cheongwon"
         },
@@ -382,6 +416,7 @@
             "apt_type":"아파트",
             "apt_year":1.0,
             "value_score":59.226,
+            "region":"충청북도 청주시 청원구",
             "region_code":"Chungcheongbukdo",
             "sub_region_code":"4311400000_Chungcheongbukdo_Cheongju_Cheongwon"
         },
@@ -393,6 +428,7 @@
             "apt_type":"아파트",
             "apt_year":5.0,
             "value_score":57.476,
+            "region":"충청북도 청주시 청원구",
             "region_code":"Chungcheongbukdo",
             "sub_region_code":"4311400000_Chungcheongbukdo_Cheongju_Cheongwon"
         },
@@ -404,6 +440,7 @@
             "apt_type":"아파트",
             "apt_year":3.0,
             "value_score":55.64,
+            "region":"충청북도 청주시 청원구",
             "region_code":"Chungcheongbukdo",
             "sub_region_code":"4311400000_Chungcheongbukdo_Cheongju_Cheongwon"
         },
@@ -415,6 +452,7 @@
             "apt_type":"아파트",
             "apt_year":9.0,
             "value_score":55.539,
+            "region":"충청북도 청주시 청원구",
             "region_code":"Chungcheongbukdo",
             "sub_region_code":"4311400000_Chungcheongbukdo_Cheongju_Cheongwon"
         },
@@ -426,6 +464,7 @@
             "apt_type":"아파트",
             "apt_year":8.0,
             "value_score":55.538,
+            "region":"충청북도 청주시 청원구",
             "region_code":"Chungcheongbukdo",
             "sub_region_code":"4311400000_Chungcheongbukdo_Cheongju_Cheongwon"
         },
@@ -437,6 +476,7 @@
             "apt_type":"아파트",
             "apt_year":10.0,
             "value_score":55.414,
+            "region":"충청북도 청주시 청원구",
             "region_code":"Chungcheongbukdo",
             "sub_region_code":"4311400000_Chungcheongbukdo_Cheongju_Cheongwon"
         },
@@ -448,6 +488,7 @@
             "apt_type":"아파트",
             "apt_year":12.0,
             "value_score":55.1,
+            "region":"충청북도 청주시 청원구",
             "region_code":"Chungcheongbukdo",
             "sub_region_code":"4311400000_Chungcheongbukdo_Cheongju_Cheongwon"
         },
@@ -459,6 +500,7 @@
             "apt_type":"아파트",
             "apt_year":5.0,
             "value_score":53.937,
+            "region":"충청북도 청주시 청원구",
             "region_code":"Chungcheongbukdo",
             "sub_region_code":"4311400000_Chungcheongbukdo_Cheongju_Cheongwon"
         },
@@ -470,6 +512,7 @@
             "apt_type":"아파트",
             "apt_year":5.0,
             "value_score":53.712,
+            "region":"충청북도 청주시 청원구",
             "region_code":"Chungcheongbukdo",
             "sub_region_code":"4311400000_Chungcheongbukdo_Cheongju_Cheongwon"
         },
@@ -481,6 +524,7 @@
             "apt_type":"아파트",
             "apt_year":17.0,
             "value_score":53.461,
+            "region":"충청북도 청주시 청원구",
             "region_code":"Chungcheongbukdo",
             "sub_region_code":"4311400000_Chungcheongbukdo_Cheongju_Cheongwon"
         }

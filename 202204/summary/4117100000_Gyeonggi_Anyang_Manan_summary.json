@@ -30,6 +30,10 @@
                 "type":"number"
             },
             {
+                "name":"region",
+                "type":"string"
+            },
+            {
                 "name":"region_code",
                 "type":"string"
             },
@@ -52,6 +56,7 @@
             "apt_type":"아파트",
             "apt_year":19.0,
             "value_score":77.3568,
+            "region":"경기도 안양시 만안구",
             "region_code":"Gyeonggi",
             "sub_region_code":"4117100000_Gyeonggi_Anyang_Manan"
         },
@@ -63,6 +68,7 @@
             "apt_type":"아파트",
             "apt_year":21.0,
             "value_score":75.1368,
+            "region":"경기도 안양시 만안구",
             "region_code":"Gyeonggi",
             "sub_region_code":"4117100000_Gyeonggi_Anyang_Manan"
         },
@@ -74,6 +80,7 @@
             "apt_type":"아파트",
             "apt_year":3.0,
             "value_score":69.4834,
+            "region":"경기도 안양시 만안구",
             "region_code":"Gyeonggi",
             "sub_region_code":"4117100000_Gyeonggi_Anyang_Manan"
         },
@@ -85,6 +92,7 @@
             "apt_type":"아파트",
             "apt_year":5.0,
             "value_score":68.7368,
+            "region":"경기도 안양시 만안구",
             "region_code":"Gyeonggi",
             "sub_region_code":"4117100000_Gyeonggi_Anyang_Manan"
         },
@@ -96,6 +104,7 @@
             "apt_type":"아파트",
             "apt_year":17.0,
             "value_score":67.0834,
+            "region":"경기도 안양시 만안구",
             "region_code":"Gyeonggi",
             "sub_region_code":"4117100000_Gyeonggi_Anyang_Manan"
         },
@@ -107,6 +116,7 @@
             "apt_type":"아파트",
             "apt_year":13.0,
             "value_score":66.7128,
+            "region":"경기도 안양시 만안구",
             "region_code":"Gyeonggi",
             "sub_region_code":"4117100000_Gyeonggi_Anyang_Manan"
         },
@@ -118,6 +128,7 @@
             "apt_type":"아파트",
             "apt_year":14.0,
             "value_score":66.184,
+            "region":"경기도 안양시 만안구",
             "region_code":"Gyeonggi",
             "sub_region_code":"4117100000_Gyeonggi_Anyang_Manan"
         },
@@ -129,6 +140,7 @@
             "apt_type":"아파트",
             "apt_year":14.0,
             "value_score":65.2834,
+            "region":"경기도 안양시 만안구",
             "region_code":"Gyeonggi",
             "sub_region_code":"4117100000_Gyeonggi_Anyang_Manan"
         },
@@ -140,6 +152,7 @@
             "apt_type":"아파트",
             "apt_year":10.0,
             "value_score":65.2368,
+            "region":"경기도 안양시 만안구",
             "region_code":"Gyeonggi",
             "sub_region_code":"4117100000_Gyeonggi_Anyang_Manan"
         },
@@ -151,6 +164,7 @@
             "apt_type":"아파트",
             "apt_year":7.0,
             "value_score":65.2364,
+            "region":"경기도 안양시 만안구",
             "region_code":"Gyeonggi",
             "sub_region_code":"4117100000_Gyeonggi_Anyang_Manan"
         },
@@ -162,6 +176,7 @@
             "apt_type":"아파트",
             "apt_year":19.0,
             "value_score":72.1624,
+            "region":"경기도 안양시 만안구",
             "region_code":"Gyeonggi",
             "sub_region_code":"4117100000_Gyeonggi_Anyang_Manan"
         },
@@ -173,6 +188,7 @@
             "apt_type":"분양권",
             "apt_year":-2.0,
             "value_score":70.0452,
+            "region":"경기도 안양시 만안구",
             "region_code":"Gyeonggi",
             "sub_region_code":"4117100000_Gyeonggi_Anyang_Manan"
         },
@@ -184,6 +200,7 @@
             "apt_type":"아파트",
             "apt_year":21.0,
             "value_score":67.9324,
+            "region":"경기도 안양시 만안구",
             "region_code":"Gyeonggi",
             "sub_region_code":"4117100000_Gyeonggi_Anyang_Manan"
         },
@@ -195,6 +212,7 @@
             "apt_type":"아파트",
             "apt_year":13.0,
             "value_score":67.1504,
+            "region":"경기도 안양시 만안구",
             "region_code":"Gyeonggi",
             "sub_region_code":"4117100000_Gyeonggi_Anyang_Manan"
         },
@@ -206,6 +224,7 @@
             "apt_type":"아파트",
             "apt_year":7.0,
             "value_score":65.7644,
+            "region":"경기도 안양시 만안구",
             "region_code":"Gyeonggi",
             "sub_region_code":"4117100000_Gyeonggi_Anyang_Manan"
         },
@@ -217,6 +236,7 @@
             "apt_type":"아파트",
             "apt_year":14.0,
             "value_score":65.5864,
+            "region":"경기도 안양시 만안구",
             "region_code":"Gyeonggi",
             "sub_region_code":"4117100000_Gyeonggi_Anyang_Manan"
         },
@@ -228,6 +248,7 @@
             "apt_type":"아파트",
             "apt_year":2.0,
             "value_score":64.042,
+            "region":"경기도 안양시 만안구",
             "region_code":"Gyeonggi",
             "sub_region_code":"4117100000_Gyeonggi_Anyang_Manan"
         },
@@ -239,6 +260,7 @@
             "apt_type":"아파트",
             "apt_year":4.0,
             "value_score":61.3624,
+            "region":"경기도 안양시 만안구",
             "region_code":"Gyeonggi",
             "sub_region_code":"4117100000_Gyeonggi_Anyang_Manan"
         },
@@ -250,6 +272,7 @@
             "apt_type":"분양권",
             "apt_year":1.0,
             "value_score":61.0812,
+            "region":"경기도 안양시 만안구",
             "region_code":"Gyeonggi",
             "sub_region_code":"4117100000_Gyeonggi_Anyang_Manan"
         },
@@ -261,6 +284,7 @@
             "apt_type":"아파트",
             "apt_year":21.0,
             "value_score":60.932,
+            "region":"경기도 안양시 만안구",
             "region_code":"Gyeonggi",
             "sub_region_code":"4117100000_Gyeonggi_Anyang_Manan"
         },
@@ -272,6 +296,7 @@
             "apt_type":"아파트",
             "apt_year":19.0,
             "value_score":76.3668,
+            "region":"경기도 안양시 만안구",
             "region_code":"Gyeonggi",
             "sub_region_code":"4117100000_Gyeonggi_Anyang_Manan"
         },
@@ -283,6 +308,7 @@
             "apt_type":"아파트",
             "apt_year":21.0,
             "value_score":74.7618,
+            "region":"경기도 안양시 만안구",
             "region_code":"Gyeonggi",
             "sub_region_code":"4117100000_Gyeonggi_Anyang_Manan"
         },
@@ -294,6 +320,7 @@
             "apt_type":"아파트",
             "apt_year":3.0,
             "value_score":72.9084,
+            "region":"경기도 안양시 만안구",
             "region_code":"Gyeonggi",
             "sub_region_code":"4117100000_Gyeonggi_Anyang_Manan"
         },
@@ -305,6 +332,7 @@
             "apt_type":"아파트",
             "apt_year":17.0,
             "value_score":71.1084,
+            "region":"경기도 안양시 만안구",
             "region_code":"Gyeonggi",
             "sub_region_code":"4117100000_Gyeonggi_Anyang_Manan"
         },
@@ -316,6 +344,7 @@
             "apt_type":"아파트",
             "apt_year":5.0,
             "value_score":69.8868,
+            "region":"경기도 안양시 만안구",
             "region_code":"Gyeonggi",
             "sub_region_code":"4117100000_Gyeonggi_Anyang_Manan"
         },
@@ -327,6 +356,7 @@
             "apt_type":"아파트",
             "apt_year":14.0,
             "value_score":67.984,
+            "region":"경기도 안양시 만안구",
             "region_code":"Gyeonggi",
             "sub_region_code":"4117100000_Gyeonggi_Anyang_Manan"
         },
@@ -338,6 +368,7 @@
             "apt_type":"아파트",
             "apt_year":13.0,
             "value_score":67.8128,
+            "region":"경기도 안양시 만안구",
             "region_code":"Gyeonggi",
             "sub_region_code":"4117100000_Gyeonggi_Anyang_Manan"
         },
@@ -349,6 +380,7 @@
             "apt_type":"아파트",
             "apt_year":14.0,
             "value_score":67.3084,
+            "region":"경기도 안양시 만안구",
             "region_code":"Gyeonggi",
             "sub_region_code":"4117100000_Gyeonggi_Anyang_Manan"
         },
@@ -360,6 +392,7 @@
             "apt_type":"아파트",
             "apt_year":24.0,
             "value_score":67.0157,
+            "region":"경기도 안양시 만안구",
             "region_code":"Gyeonggi",
             "sub_region_code":"4117100000_Gyeonggi_Anyang_Manan"
         },
@@ -371,6 +404,7 @@
             "apt_type":"아파트",
             "apt_year":4.0,
             "value_score":66.9668,
+            "region":"경기도 안양시 만안구",
             "region_code":"Gyeonggi",
             "sub_region_code":"4117100000_Gyeonggi_Anyang_Manan"
         },
@@ -382,6 +416,7 @@
             "apt_type":"아파트",
             "apt_year":19.0,
             "value_score":79.028,
+            "region":"경기도 안양시 만안구",
             "region_code":"Gyeonggi",
             "sub_region_code":"4117100000_Gyeonggi_Anyang_Manan"
         },
@@ -393,6 +428,7 @@
             "apt_type":"아파트",
             "apt_year":21.0,
             "value_score":77.078,
+            "region":"경기도 안양시 만안구",
             "region_code":"Gyeonggi",
             "sub_region_code":"4117100000_Gyeonggi_Anyang_Manan"
         },
@@ -404,6 +440,7 @@
             "apt_type":"아파트",
             "apt_year":10.0,
             "value_score":75.228,
+            "region":"경기도 안양시 만안구",
             "region_code":"Gyeonggi",
             "sub_region_code":"4117100000_Gyeonggi_Anyang_Manan"
         },
@@ -415,6 +452,7 @@
             "apt_type":"아파트",
             "apt_year":5.0,
             "value_score":74.928,
+            "region":"경기도 안양시 만안구",
             "region_code":"Gyeonggi",
             "sub_region_code":"4117100000_Gyeonggi_Anyang_Manan"
         },
@@ -426,6 +464,7 @@
             "apt_type":"아파트",
             "apt_year":7.0,
             "value_score":74.294,
+            "region":"경기도 안양시 만안구",
             "region_code":"Gyeonggi",
             "sub_region_code":"4117100000_Gyeonggi_Anyang_Manan"
         },
@@ -437,6 +476,7 @@
             "apt_type":"재건축",
             "apt_year":40.0,
             "value_score":71.694,
+            "region":"경기도 안양시 만안구",
             "region_code":"Gyeonggi",
             "sub_region_code":"4117100000_Gyeonggi_Anyang_Manan"
         },
@@ -448,6 +488,7 @@
             "apt_type":"아파트",
             "apt_year":9.0,
             "value_score":70.744,
+            "region":"경기도 안양시 만안구",
             "region_code":"Gyeonggi",
             "sub_region_code":"4117100000_Gyeonggi_Anyang_Manan"
         },
@@ -459,6 +500,7 @@
             "apt_type":"아파트",
             "apt_year":38.0,
             "value_score":70.644,
+            "region":"경기도 안양시 만안구",
             "region_code":"Gyeonggi",
             "sub_region_code":"4117100000_Gyeonggi_Anyang_Manan"
         },
@@ -470,6 +512,7 @@
             "apt_type":"아파트",
             "apt_year":25.0,
             "value_score":67.644,
+            "region":"경기도 안양시 만안구",
             "region_code":"Gyeonggi",
             "sub_region_code":"4117100000_Gyeonggi_Anyang_Manan"
         },
@@ -481,6 +524,7 @@
             "apt_type":"아파트",
             "apt_year":3.0,
             "value_score":66.994,
+            "region":"경기도 안양시 만안구",
             "region_code":"Gyeonggi",
             "sub_region_code":"4117100000_Gyeonggi_Anyang_Manan"
         },
@@ -492,6 +536,7 @@
             "apt_type":"아파트",
             "apt_year":19.0,
             "value_score":68.536,
+            "region":"경기도 안양시 만안구",
             "region_code":"Gyeonggi",
             "sub_region_code":"4117100000_Gyeonggi_Anyang_Manan"
         },
@@ -503,6 +548,7 @@
             "apt_type":"아파트",
             "apt_year":21.0,
             "value_score":66.556,
+            "region":"경기도 안양시 만안구",
             "region_code":"Gyeonggi",
             "sub_region_code":"4117100000_Gyeonggi_Anyang_Manan"
         },
@@ -514,6 +560,7 @@
             "apt_type":"아파트",
             "apt_year":13.0,
             "value_score":63.176,
+            "region":"경기도 안양시 만안구",
             "region_code":"Gyeonggi",
             "sub_region_code":"4117100000_Gyeonggi_Anyang_Manan"
         },
@@ -525,6 +572,7 @@
             "apt_type":"아파트",
             "apt_year":7.0,
             "value_score":62.636,
+            "region":"경기도 안양시 만안구",
             "region_code":"Gyeonggi",
             "sub_region_code":"4117100000_Gyeonggi_Anyang_Manan"
         },
@@ -536,6 +584,7 @@
             "apt_type":"아파트",
             "apt_year":14.0,
             "value_score":60.176,
+            "region":"경기도 안양시 만안구",
             "region_code":"Gyeonggi",
             "sub_region_code":"4117100000_Gyeonggi_Anyang_Manan"
         },
@@ -547,6 +596,7 @@
             "apt_type":"분양권",
             "apt_year":-2.0,
             "value_score":60.168,
+            "region":"경기도 안양시 만안구",
             "region_code":"Gyeonggi",
             "sub_region_code":"4117100000_Gyeonggi_Anyang_Manan"
         },
@@ -558,6 +608,7 @@
             "apt_type":"분양권",
             "apt_year":1.0,
             "value_score":60.153,
+            "region":"경기도 안양시 만안구",
             "region_code":"Gyeonggi",
             "sub_region_code":"4117100000_Gyeonggi_Anyang_Manan"
         },
@@ -569,6 +620,7 @@
             "apt_type":"아파트",
             "apt_year":5.0,
             "value_score":59.856,
+            "region":"경기도 안양시 만안구",
             "region_code":"Gyeonggi",
             "sub_region_code":"4117100000_Gyeonggi_Anyang_Manan"
         },
@@ -580,6 +632,7 @@
             "apt_type":"아파트",
             "apt_year":2.0,
             "value_score":59.816,
+            "region":"경기도 안양시 만안구",
             "region_code":"Gyeonggi",
             "sub_region_code":"4117100000_Gyeonggi_Anyang_Manan"
         },
@@ -591,6 +644,7 @@
             "apt_type":"아파트",
             "apt_year":22.0,
             "value_score":59.576,
+            "region":"경기도 안양시 만안구",
             "region_code":"Gyeonggi",
             "sub_region_code":"4117100000_Gyeonggi_Anyang_Manan"
         }

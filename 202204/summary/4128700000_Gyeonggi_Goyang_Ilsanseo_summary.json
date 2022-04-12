@@ -30,6 +30,10 @@
                 "type":"number"
             },
             {
+                "name":"region",
+                "type":"string"
+            },
+            {
                 "name":"region_code",
                 "type":"string"
             },
@@ -52,6 +56,7 @@
             "apt_type":"아파트",
             "apt_year":4.0,
             "value_score":70.284,
+            "region":"경기도 고양시 일산서구",
             "region_code":"Gyeonggi",
             "sub_region_code":"4128700000_Gyeonggi_Goyang_Ilsanseo"
         },
@@ -63,6 +68,7 @@
             "apt_type":"아파트",
             "apt_year":29.0,
             "value_score":68.784,
+            "region":"경기도 고양시 일산서구",
             "region_code":"Gyeonggi",
             "sub_region_code":"4128700000_Gyeonggi_Goyang_Ilsanseo"
         },
@@ -74,6 +80,7 @@
             "apt_type":"아파트",
             "apt_year":29.0,
             "value_score":68.7837,
+            "region":"경기도 고양시 일산서구",
             "region_code":"Gyeonggi",
             "sub_region_code":"4128700000_Gyeonggi_Goyang_Ilsanseo"
         },
@@ -85,6 +92,7 @@
             "apt_type":"아파트",
             "apt_year":30.0,
             "value_score":67.4621,
+            "region":"경기도 고양시 일산서구",
             "region_code":"Gyeonggi",
             "sub_region_code":"4128700000_Gyeonggi_Goyang_Ilsanseo"
         },
@@ -96,6 +104,7 @@
             "apt_type":"아파트",
             "apt_year":28.0,
             "value_score":66.984,
+            "region":"경기도 고양시 일산서구",
             "region_code":"Gyeonggi",
             "sub_region_code":"4128700000_Gyeonggi_Goyang_Ilsanseo"
         },
@@ -107,6 +116,7 @@
             "apt_type":"아파트",
             "apt_year":29.0,
             "value_score":66.6621,
+            "region":"경기도 고양시 일산서구",
             "region_code":"Gyeonggi",
             "sub_region_code":"4128700000_Gyeonggi_Goyang_Ilsanseo"
         },
@@ -118,6 +128,7 @@
             "apt_type":"아파트",
             "apt_year":29.0,
             "value_score":66.4056,
+            "region":"경기도 고양시 일산서구",
             "region_code":"Gyeonggi",
             "sub_region_code":"4128700000_Gyeonggi_Goyang_Ilsanseo"
         },
@@ -129,6 +140,7 @@
             "apt_type":"아파트",
             "apt_year":29.0,
             "value_score":66.284,
+            "region":"경기도 고양시 일산서구",
             "region_code":"Gyeonggi",
             "sub_region_code":"4128700000_Gyeonggi_Goyang_Ilsanseo"
         },
@@ -140,6 +152,7 @@
             "apt_type":"아파트",
             "apt_year":30.0,
             "value_score":66.2624,
+            "region":"경기도 고양시 일산서구",
             "region_code":"Gyeonggi",
             "sub_region_code":"4128700000_Gyeonggi_Goyang_Ilsanseo"
         },
@@ -151,6 +164,7 @@
             "apt_type":"아파트",
             "apt_year":29.0,
             "value_score":65.1837,
+            "region":"경기도 고양시 일산서구",
             "region_code":"Gyeonggi",
             "sub_region_code":"4128700000_Gyeonggi_Goyang_Ilsanseo"
         },
@@ -162,6 +176,7 @@
             "apt_type":"아파트",
             "apt_year":4.0,
             "value_score":78.362,
+            "region":"경기도 고양시 일산서구",
             "region_code":"Gyeonggi",
             "sub_region_code":"4128700000_Gyeonggi_Goyang_Ilsanseo"
         },
@@ -173,6 +188,7 @@
             "apt_type":"아파트",
             "apt_year":10.0,
             "value_score":69.0976,
+            "region":"경기도 고양시 일산서구",
             "region_code":"Gyeonggi",
             "sub_region_code":"4128700000_Gyeonggi_Goyang_Ilsanseo"
         },
@@ -184,6 +200,7 @@
             "apt_type":"아파트",
             "apt_year":19.0,
             "value_score":67.1692,
+            "region":"경기도 고양시 일산서구",
             "region_code":"Gyeonggi",
             "sub_region_code":"4128700000_Gyeonggi_Goyang_Ilsanseo"
         },
@@ -195,6 +212,7 @@
             "apt_type":"분양권",
             "apt_year":1.0,
             "value_score":66.97,
+            "region":"경기도 고양시 일산서구",
             "region_code":"Gyeonggi",
             "sub_region_code":"4128700000_Gyeonggi_Goyang_Ilsanseo"
         },
@@ -206,6 +224,7 @@
             "apt_type":"아파트",
             "apt_year":19.0,
             "value_score":65.5704,
+            "region":"경기도 고양시 일산서구",
             "region_code":"Gyeonggi",
             "sub_region_code":"4128700000_Gyeonggi_Goyang_Ilsanseo"
         },
@@ -217,6 +236,7 @@
             "apt_type":"아파트",
             "apt_year":29.0,
             "value_score":65.162,
+            "region":"경기도 고양시 일산서구",
             "region_code":"Gyeonggi",
             "sub_region_code":"4128700000_Gyeonggi_Goyang_Ilsanseo"
         },
@@ -228,6 +248,7 @@
             "apt_type":"아파트",
             "apt_year":29.0,
             "value_score":65.1616,
+            "region":"경기도 고양시 일산서구",
             "region_code":"Gyeonggi",
             "sub_region_code":"4128700000_Gyeonggi_Goyang_Ilsanseo"
         },
@@ -239,6 +260,7 @@
             "apt_type":"아파트",
             "apt_year":29.0,
             "value_score":64.1908,
+            "region":"경기도 고양시 일산서구",
             "region_code":"Gyeonggi",
             "sub_region_code":"4128700000_Gyeonggi_Goyang_Ilsanseo"
         },
@@ -250,6 +272,7 @@
             "apt_type":"아파트",
             "apt_year":29.0,
             "value_score":63.9328,
+            "region":"경기도 고양시 일산서구",
             "region_code":"Gyeonggi",
             "sub_region_code":"4128700000_Gyeonggi_Goyang_Ilsanseo"
         },
@@ -261,6 +284,7 @@
             "apt_type":"아파트",
             "apt_year":29.0,
             "value_score":63.4908,
+            "region":"경기도 고양시 일산서구",
             "region_code":"Gyeonggi",
             "sub_region_code":"4128700000_Gyeonggi_Goyang_Ilsanseo"
         },
@@ -272,6 +296,7 @@
             "apt_type":"아파트",
             "apt_year":4.0,
             "value_score":66.859,
+            "region":"경기도 고양시 일산서구",
             "region_code":"Gyeonggi",
             "sub_region_code":"4128700000_Gyeonggi_Goyang_Ilsanseo"
         },
@@ -283,6 +308,7 @@
             "apt_type":"아파트",
             "apt_year":29.0,
             "value_score":64.759,
+            "region":"경기도 고양시 일산서구",
             "region_code":"Gyeonggi",
             "sub_region_code":"4128700000_Gyeonggi_Goyang_Ilsanseo"
         },
@@ -294,6 +320,7 @@
             "apt_type":"아파트",
             "apt_year":29.0,
             "value_score":64.7587,
+            "region":"경기도 고양시 일산서구",
             "region_code":"Gyeonggi",
             "sub_region_code":"4128700000_Gyeonggi_Goyang_Ilsanseo"
         },
@@ -305,6 +332,7 @@
             "apt_type":"아파트",
             "apt_year":30.0,
             "value_score":63.9121,
+            "region":"경기도 고양시 일산서구",
             "region_code":"Gyeonggi",
             "sub_region_code":"4128700000_Gyeonggi_Goyang_Ilsanseo"
         },
@@ -316,6 +344,7 @@
             "apt_type":"분양권",
             "apt_year":1.0,
             "value_score":63.5775,
+            "region":"경기도 고양시 일산서구",
             "region_code":"Gyeonggi",
             "sub_region_code":"4128700000_Gyeonggi_Goyang_Ilsanseo"
         },
@@ -327,6 +356,7 @@
             "apt_type":"아파트",
             "apt_year":29.0,
             "value_score":63.4806,
+            "region":"경기도 고양시 일산서구",
             "region_code":"Gyeonggi",
             "sub_region_code":"4128700000_Gyeonggi_Goyang_Ilsanseo"
         },
@@ -338,6 +368,7 @@
             "apt_type":"아파트",
             "apt_year":29.0,
             "value_score":63.4371,
+            "region":"경기도 고양시 일산서구",
             "region_code":"Gyeonggi",
             "sub_region_code":"4128700000_Gyeonggi_Goyang_Ilsanseo"
         },
@@ -349,6 +380,7 @@
             "apt_type":"아파트",
             "apt_year":28.0,
             "value_score":63.409,
+            "region":"경기도 고양시 일산서구",
             "region_code":"Gyeonggi",
             "sub_region_code":"4128700000_Gyeonggi_Goyang_Ilsanseo"
         },
@@ -360,6 +392,7 @@
             "apt_type":"아파트",
             "apt_year":30.0,
             "value_score":62.9374,
+            "region":"경기도 고양시 일산서구",
             "region_code":"Gyeonggi",
             "sub_region_code":"4128700000_Gyeonggi_Goyang_Ilsanseo"
         },
@@ -371,6 +404,7 @@
             "apt_type":"아파트",
             "apt_year":29.0,
             "value_score":62.884,
+            "region":"경기도 고양시 일산서구",
             "region_code":"Gyeonggi",
             "sub_region_code":"4128700000_Gyeonggi_Goyang_Ilsanseo"
         },
@@ -382,6 +416,7 @@
             "apt_type":"아파트",
             "apt_year":29.0,
             "value_score":77.19,
+            "region":"경기도 고양시 일산서구",
             "region_code":"Gyeonggi",
             "sub_region_code":"4128700000_Gyeonggi_Goyang_Ilsanseo"
         },
@@ -393,6 +428,7 @@
             "apt_type":"아파트",
             "apt_year":29.0,
             "value_score":77.1895,
+            "region":"경기도 고양시 일산서구",
             "region_code":"Gyeonggi",
             "sub_region_code":"4128700000_Gyeonggi_Goyang_Ilsanseo"
         },
@@ -404,6 +440,7 @@
             "apt_type":"아파트",
             "apt_year":28.0,
             "value_score":76.29,
+            "region":"경기도 고양시 일산서구",
             "region_code":"Gyeonggi",
             "sub_region_code":"4128700000_Gyeonggi_Goyang_Ilsanseo"
         },
@@ -415,6 +452,7 @@
             "apt_type":"아파트",
             "apt_year":30.0,
             "value_score":76.254,
+            "region":"경기도 고양시 일산서구",
             "region_code":"Gyeonggi",
             "sub_region_code":"4128700000_Gyeonggi_Goyang_Ilsanseo"
         },
@@ -426,6 +464,7 @@
             "apt_type":"아파트",
             "apt_year":29.0,
             "value_score":75.94,
+            "region":"경기도 고양시 일산서구",
             "region_code":"Gyeonggi",
             "sub_region_code":"4128700000_Gyeonggi_Goyang_Ilsanseo"
         },
@@ -437,6 +476,7 @@
             "apt_type":"아파트",
             "apt_year":30.0,
             "value_score":75.8035,
+            "region":"경기도 고양시 일산서구",
             "region_code":"Gyeonggi",
             "sub_region_code":"4128700000_Gyeonggi_Goyang_Ilsanseo"
         },
@@ -448,6 +488,7 @@
             "apt_type":"아파트",
             "apt_year":29.0,
             "value_score":73.6535,
+            "region":"경기도 고양시 일산서구",
             "region_code":"Gyeonggi",
             "sub_region_code":"4128700000_Gyeonggi_Goyang_Ilsanseo"
         },
@@ -459,6 +500,7 @@
             "apt_type":"아파트",
             "apt_year":29.0,
             "value_score":73.44,
+            "region":"경기도 고양시 일산서구",
             "region_code":"Gyeonggi",
             "sub_region_code":"4128700000_Gyeonggi_Goyang_Ilsanseo"
         },
@@ -470,6 +512,7 @@
             "apt_type":"아파트",
             "apt_year":29.0,
             "value_score":73.226,
+            "region":"경기도 고양시 일산서구",
             "region_code":"Gyeonggi",
             "sub_region_code":"4128700000_Gyeonggi_Goyang_Ilsanseo"
         },
@@ -481,6 +524,7 @@
             "apt_type":"아파트",
             "apt_year":29.0,
             "value_score":72.976,
+            "region":"경기도 고양시 일산서구",
             "region_code":"Gyeonggi",
             "sub_region_code":"4128700000_Gyeonggi_Goyang_Ilsanseo"
         },
@@ -492,6 +536,7 @@
             "apt_type":"아파트",
             "apt_year":4.0,
             "value_score":69.38,
+            "region":"경기도 고양시 일산서구",
             "region_code":"Gyeonggi",
             "sub_region_code":"4128700000_Gyeonggi_Goyang_Ilsanseo"
         },
@@ -503,6 +548,7 @@
             "apt_type":"아파트",
             "apt_year":29.0,
             "value_score":67.252,
+            "region":"경기도 고양시 일산서구",
             "region_code":"Gyeonggi",
             "sub_region_code":"4128700000_Gyeonggi_Goyang_Ilsanseo"
         },
@@ -514,6 +560,7 @@
             "apt_type":"아파트",
             "apt_year":29.0,
             "value_score":66.552,
+            "region":"경기도 고양시 일산서구",
             "region_code":"Gyeonggi",
             "sub_region_code":"4128700000_Gyeonggi_Goyang_Ilsanseo"
         },
@@ -525,6 +572,7 @@
             "apt_type":"아파트",
             "apt_year":29.0,
             "value_score":66.38,
+            "region":"경기도 고양시 일산서구",
             "region_code":"Gyeonggi",
             "sub_region_code":"4128700000_Gyeonggi_Goyang_Ilsanseo"
         },
@@ -536,6 +584,7 @@
             "apt_type":"아파트",
             "apt_year":29.0,
             "value_score":66.379,
+            "region":"경기도 고양시 일산서구",
             "region_code":"Gyeonggi",
             "sub_region_code":"4128700000_Gyeonggi_Goyang_Ilsanseo"
         },
@@ -547,6 +596,7 @@
             "apt_type":"아파트",
             "apt_year":30.0,
             "value_score":66.007,
+            "region":"경기도 고양시 일산서구",
             "region_code":"Gyeonggi",
             "sub_region_code":"4128700000_Gyeonggi_Goyang_Ilsanseo"
         },
@@ -558,6 +608,7 @@
             "apt_type":"아파트",
             "apt_year":29.0,
             "value_score":65.707,
+            "region":"경기도 고양시 일산서구",
             "region_code":"Gyeonggi",
             "sub_region_code":"4128700000_Gyeonggi_Goyang_Ilsanseo"
         },
@@ -569,6 +620,7 @@
             "apt_type":"아파트",
             "apt_year":28.0,
             "value_score":64.58,
+            "region":"경기도 고양시 일산서구",
             "region_code":"Gyeonggi",
             "sub_region_code":"4128700000_Gyeonggi_Goyang_Ilsanseo"
         },
@@ -580,6 +632,7 @@
             "apt_type":"아파트",
             "apt_year":30.0,
             "value_score":64.508,
+            "region":"경기도 고양시 일산서구",
             "region_code":"Gyeonggi",
             "sub_region_code":"4128700000_Gyeonggi_Goyang_Ilsanseo"
         },
@@ -591,6 +644,7 @@
             "apt_type":"아파트",
             "apt_year":29.0,
             "value_score":64.353,
+            "region":"경기도 고양시 일산서구",
             "region_code":"Gyeonggi",
             "sub_region_code":"4128700000_Gyeonggi_Goyang_Ilsanseo"
         }

@@ -30,6 +30,10 @@
                 "type":"number"
             },
             {
+                "name":"region",
+                "type":"string"
+            },
+            {
                 "name":"region_code",
                 "type":"string"
             },
@@ -52,6 +56,7 @@
             "apt_type":"아파트",
             "apt_year":3.0,
             "value_score":47.6535,
+            "region":"전라북도 부안군",
             "region_code":"Jeollabukdo",
             "sub_region_code":"4580000000_Jeollabukdo_Buan"
         },
@@ -63,6 +68,7 @@
             "apt_type":"아파트",
             "apt_year":8.0,
             "value_score":47.0785,
+            "region":"전라북도 부안군",
             "region_code":"Jeollabukdo",
             "sub_region_code":"4580000000_Jeollabukdo_Buan"
         },
@@ -74,6 +80,7 @@
             "apt_type":"아파트",
             "apt_year":26.0,
             "value_score":44.3735,
+            "region":"전라북도 부안군",
             "region_code":"Jeollabukdo",
             "sub_region_code":"4580000000_Jeollabukdo_Buan"
         },
@@ -85,6 +92,7 @@
             "apt_type":"아파트",
             "apt_year":4.0,
             "value_score":43.5035,
+            "region":"전라북도 부안군",
             "region_code":"Jeollabukdo",
             "sub_region_code":"4580000000_Jeollabukdo_Buan"
         },
@@ -96,6 +104,7 @@
             "apt_type":"아파트",
             "apt_year":18.0,
             "value_score":43.4875,
+            "region":"전라북도 부안군",
             "region_code":"Jeollabukdo",
             "sub_region_code":"4580000000_Jeollabukdo_Buan"
         },
@@ -107,6 +116,7 @@
             "apt_type":"분양권",
             "apt_year":1.0,
             "value_score":39.1335,
+            "region":"전라북도 부안군",
             "region_code":"Jeollabukdo",
             "sub_region_code":"4580000000_Jeollabukdo_Buan"
         },
@@ -118,6 +128,7 @@
             "apt_type":"아파트",
             "apt_year":20.0,
             "value_score":38.7285,
+            "region":"전라북도 부안군",
             "region_code":"Jeollabukdo",
             "sub_region_code":"4580000000_Jeollabukdo_Buan"
         },
@@ -129,6 +140,7 @@
             "apt_type":"아파트",
             "apt_year":25.0,
             "value_score":36.6635,
+            "region":"전라북도 부안군",
             "region_code":"Jeollabukdo",
             "sub_region_code":"4580000000_Jeollabukdo_Buan"
         },
@@ -140,6 +152,7 @@
             "apt_type":"아파트",
             "apt_year":11.0,
             "value_score":35.8885,
+            "region":"전라북도 부안군",
             "region_code":"Jeollabukdo",
             "sub_region_code":"4580000000_Jeollabukdo_Buan"
         },
@@ -151,6 +164,7 @@
             "apt_type":"아파트",
             "apt_year":28.0,
             "value_score":35.8385,
+            "region":"전라북도 부안군",
             "region_code":"Jeollabukdo",
             "sub_region_code":"4580000000_Jeollabukdo_Buan"
         },
@@ -162,6 +176,7 @@
             "apt_type":"아파트",
             "apt_year":3.0,
             "value_score":53.2035,
+            "region":"전라북도 부안군",
             "region_code":"Jeollabukdo",
             "sub_region_code":"4580000000_Jeollabukdo_Buan"
         },
@@ -173,6 +188,7 @@
             "apt_type":"아파트",
             "apt_year":8.0,
             "value_score":50.4535,
+            "region":"전라북도 부안군",
             "region_code":"Jeollabukdo",
             "sub_region_code":"4580000000_Jeollabukdo_Buan"
         },
@@ -184,6 +200,7 @@
             "apt_type":"아파트",
             "apt_year":4.0,
             "value_score":46.9535,
+            "region":"전라북도 부안군",
             "region_code":"Jeollabukdo",
             "sub_region_code":"4580000000_Jeollabukdo_Buan"
         },
@@ -195,6 +212,7 @@
             "apt_type":"아파트",
             "apt_year":18.0,
             "value_score":45.2875,
+            "region":"전라북도 부안군",
             "region_code":"Jeollabukdo",
             "sub_region_code":"4580000000_Jeollabukdo_Buan"
         },
@@ -206,6 +224,7 @@
             "apt_type":"아파트",
             "apt_year":26.0,
             "value_score":42.8885,
+            "region":"전라북도 부안군",
             "region_code":"Jeollabukdo",
             "sub_region_code":"4580000000_Jeollabukdo_Buan"
         },
@@ -217,6 +236,7 @@
             "apt_type":"분양권",
             "apt_year":1.0,
             "value_score":41.9085,
+            "region":"전라북도 부안군",
             "region_code":"Jeollabukdo",
             "sub_region_code":"4580000000_Jeollabukdo_Buan"
         },
@@ -228,6 +248,7 @@
             "apt_type":"아파트",
             "apt_year":20.0,
             "value_score":40.4535,
+            "region":"전라북도 부안군",
             "region_code":"Jeollabukdo",
             "sub_region_code":"4580000000_Jeollabukdo_Buan"
         },
@@ -239,6 +260,7 @@
             "apt_type":"아파트",
             "apt_year":11.0,
             "value_score":36.0385,
+            "region":"전라북도 부안군",
             "region_code":"Jeollabukdo",
             "sub_region_code":"4580000000_Jeollabukdo_Buan"
         },
@@ -250,6 +272,7 @@
             "apt_type":"아파트",
             "apt_year":28.0,
             "value_score":35.5535,
+            "region":"전라북도 부안군",
             "region_code":"Jeollabukdo",
             "sub_region_code":"4580000000_Jeollabukdo_Buan"
         },
@@ -261,6 +284,7 @@
             "apt_type":"아파트",
             "apt_year":25.0,
             "value_score":35.5385,
+            "region":"전라북도 부안군",
             "region_code":"Jeollabukdo",
             "sub_region_code":"4580000000_Jeollabukdo_Buan"
         },
@@ -272,6 +296,7 @@
             "apt_type":"아파트",
             "apt_year":26.0,
             "value_score":46.9170526316,
+            "region":"전라북도 부안군",
             "region_code":"Jeollabukdo",
             "sub_region_code":"4580000000_Jeollabukdo_Buan"
         },
@@ -283,6 +308,7 @@
             "apt_type":"아파트",
             "apt_year":8.0,
             "value_score":44.1254736842,
+            "region":"전라북도 부안군",
             "region_code":"Jeollabukdo",
             "sub_region_code":"4580000000_Jeollabukdo_Buan"
         },
@@ -294,6 +320,7 @@
             "apt_type":"아파트",
             "apt_year":18.0,
             "value_score":42.5736842105,
+            "region":"전라북도 부안군",
             "region_code":"Jeollabukdo",
             "sub_region_code":"4580000000_Jeollabukdo_Buan"
         },
@@ -305,6 +332,7 @@
             "apt_type":"아파트",
             "apt_year":3.0,
             "value_score":42.3096842105,
+            "region":"전라북도 부안군",
             "region_code":"Jeollabukdo",
             "sub_region_code":"4580000000_Jeollabukdo_Buan"
         },
@@ -316,6 +344,7 @@
             "apt_type":"아파트",
             "apt_year":4.0,
             "value_score":40.7833684211,
+            "region":"전라북도 부안군",
             "region_code":"Jeollabukdo",
             "sub_region_code":"4580000000_Jeollabukdo_Buan"
         },
@@ -327,6 +356,7 @@
             "apt_type":"아파트",
             "apt_year":25.0,
             "value_score":39.496,
+            "region":"전라북도 부안군",
             "region_code":"Jeollabukdo",
             "sub_region_code":"4580000000_Jeollabukdo_Buan"
         },
@@ -338,6 +368,7 @@
             "apt_type":"아파트",
             "apt_year":30.0,
             "value_score":39.0486315789,
+            "region":"전라북도 부안군",
             "region_code":"Jeollabukdo",
             "sub_region_code":"4580000000_Jeollabukdo_Buan"
         },
@@ -349,6 +380,7 @@
             "apt_type":"아파트",
             "apt_year":30.0,
             "value_score":38.9433684211,
+            "region":"전라북도 부안군",
             "region_code":"Jeollabukdo",
             "sub_region_code":"4580000000_Jeollabukdo_Buan"
         },
@@ -360,6 +392,7 @@
             "apt_type":"아파트",
             "apt_year":20.0,
             "value_score":38.2833684211,
+            "region":"전라북도 부안군",
             "region_code":"Jeollabukdo",
             "sub_region_code":"4580000000_Jeollabukdo_Buan"
         },
@@ -371,6 +404,7 @@
             "apt_type":"아파트",
             "apt_year":28.0,
             "value_score":37.8096842105,
+            "region":"전라북도 부안군",
             "region_code":"Jeollabukdo",
             "sub_region_code":"4580000000_Jeollabukdo_Buan"
         },
@@ -382,6 +416,7 @@
             "apt_type":"아파트",
             "apt_year":3.0,
             "value_score":50.657,
+            "region":"전라북도 부안군",
             "region_code":"Jeollabukdo",
             "sub_region_code":"4580000000_Jeollabukdo_Buan"
         },
@@ -393,6 +428,7 @@
             "apt_type":"아파트",
             "apt_year":8.0,
             "value_score":50.032,
+            "region":"전라북도 부안군",
             "region_code":"Jeollabukdo",
             "sub_region_code":"4580000000_Jeollabukdo_Buan"
         },
@@ -404,6 +440,7 @@
             "apt_type":"아파트",
             "apt_year":26.0,
             "value_score":47.802,
+            "region":"전라북도 부안군",
             "region_code":"Jeollabukdo",
             "sub_region_code":"4580000000_Jeollabukdo_Buan"
         },
@@ -415,6 +452,7 @@
             "apt_type":"아파트",
             "apt_year":4.0,
             "value_score":47.657,
+            "region":"전라북도 부안군",
             "region_code":"Jeollabukdo",
             "sub_region_code":"4580000000_Jeollabukdo_Buan"
         },
@@ -426,6 +464,7 @@
             "apt_type":"아파트",
             "apt_year":18.0,
             "value_score":47.575,
+            "region":"전라북도 부안군",
             "region_code":"Jeollabukdo",
             "sub_region_code":"4580000000_Jeollabukdo_Buan"
         },
@@ -437,6 +476,7 @@
             "apt_type":"아파트",
             "apt_year":20.0,
             "value_score":44.282,
+            "region":"전라북도 부안군",
             "region_code":"Jeollabukdo",
             "sub_region_code":"4580000000_Jeollabukdo_Buan"
         },
@@ -448,6 +488,7 @@
             "apt_type":"아파트",
             "apt_year":25.0,
             "value_score":42.702,
+            "region":"전라북도 부안군",
             "region_code":"Jeollabukdo",
             "sub_region_code":"4580000000_Jeollabukdo_Buan"
         },
@@ -459,6 +500,7 @@
             "apt_type":"아파트",
             "apt_year":11.0,
             "value_score":42.327,
+            "region":"전라북도 부안군",
             "region_code":"Jeollabukdo",
             "sub_region_code":"4580000000_Jeollabukdo_Buan"
         },
@@ -470,6 +512,7 @@
             "apt_type":"아파트",
             "apt_year":28.0,
             "value_score":42.132,
+            "region":"전라북도 부안군",
             "region_code":"Jeollabukdo",
             "sub_region_code":"4580000000_Jeollabukdo_Buan"
         },
@@ -481,6 +524,7 @@
             "apt_type":"아파트",
             "apt_year":30.0,
             "value_score":41.827,
+            "region":"전라북도 부안군",
             "region_code":"Jeollabukdo",
             "sub_region_code":"4580000000_Jeollabukdo_Buan"
         }

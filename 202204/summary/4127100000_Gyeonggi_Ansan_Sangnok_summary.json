@@ -30,6 +30,10 @@
                 "type":"number"
             },
             {
+                "name":"region",
+                "type":"string"
+            },
+            {
                 "name":"region_code",
                 "type":"string"
             },
@@ -52,6 +56,7 @@
             "apt_type":"아파트",
             "apt_year":33.0,
             "value_score":63.3134,
+            "region":"경기도 안산시 상록구",
             "region_code":"Gyeonggi",
             "sub_region_code":"4127100000_Gyeonggi_Ansan_Sangnok"
         },
@@ -63,6 +68,7 @@
             "apt_type":"아파트",
             "apt_year":5.0,
             "value_score":62.2422,
+            "region":"경기도 안산시 상록구",
             "region_code":"Gyeonggi",
             "sub_region_code":"4127100000_Gyeonggi_Ansan_Sangnok"
         },
@@ -74,6 +80,7 @@
             "apt_type":"아파트",
             "apt_year":24.0,
             "value_score":61.3178,
+            "region":"경기도 안산시 상록구",
             "region_code":"Gyeonggi",
             "sub_region_code":"4127100000_Gyeonggi_Ansan_Sangnok"
         },
@@ -85,6 +92,7 @@
             "apt_type":"아파트",
             "apt_year":30.0,
             "value_score":58.7249,
+            "region":"경기도 안산시 상록구",
             "region_code":"Gyeonggi",
             "sub_region_code":"4127100000_Gyeonggi_Ansan_Sangnok"
         },
@@ -96,6 +104,7 @@
             "apt_type":"아파트",
             "apt_year":29.0,
             "value_score":57.7258,
+            "region":"경기도 안산시 상록구",
             "region_code":"Gyeonggi",
             "sub_region_code":"4127100000_Gyeonggi_Ansan_Sangnok"
         },
@@ -107,6 +116,7 @@
             "apt_type":"아파트",
             "apt_year":28.0,
             "value_score":57.7064,
+            "region":"경기도 안산시 상록구",
             "region_code":"Gyeonggi",
             "sub_region_code":"4127100000_Gyeonggi_Ansan_Sangnok"
         },
@@ -118,6 +128,7 @@
             "apt_type":"아파트",
             "apt_year":29.0,
             "value_score":57.6064,
+            "region":"경기도 안산시 상록구",
             "region_code":"Gyeonggi",
             "sub_region_code":"4127100000_Gyeonggi_Ansan_Sangnok"
         },
@@ -129,6 +140,7 @@
             "apt_type":"아파트",
             "apt_year":34.0,
             "value_score":57.2922,
+            "region":"경기도 안산시 상록구",
             "region_code":"Gyeonggi",
             "sub_region_code":"4127100000_Gyeonggi_Ansan_Sangnok"
         },
@@ -140,6 +152,7 @@
             "apt_type":"아파트",
             "apt_year":35.0,
             "value_score":56.3664,
+            "region":"경기도 안산시 상록구",
             "region_code":"Gyeonggi",
             "sub_region_code":"4127100000_Gyeonggi_Ansan_Sangnok"
         },
@@ -151,6 +164,7 @@
             "apt_type":"아파트",
             "apt_year":22.0,
             "value_score":55.6755,
+            "region":"경기도 안산시 상록구",
             "region_code":"Gyeonggi",
             "sub_region_code":"4127100000_Gyeonggi_Ansan_Sangnok"
         },
@@ -162,6 +176,7 @@
             "apt_type":"아파트",
             "apt_year":5.0,
             "value_score":73.3396,
+            "region":"경기도 안산시 상록구",
             "region_code":"Gyeonggi",
             "sub_region_code":"4127100000_Gyeonggi_Ansan_Sangnok"
         },
@@ -173,6 +188,7 @@
             "apt_type":"아파트",
             "apt_year":18.0,
             "value_score":67.9152,
+            "region":"경기도 안산시 상록구",
             "region_code":"Gyeonggi",
             "sub_region_code":"4127100000_Gyeonggi_Ansan_Sangnok"
         },
@@ -184,6 +200,7 @@
             "apt_type":"아파트",
             "apt_year":18.0,
             "value_score":67.1448,
+            "region":"경기도 안산시 상록구",
             "region_code":"Gyeonggi",
             "sub_region_code":"4127100000_Gyeonggi_Ansan_Sangnok"
         },
@@ -195,6 +212,7 @@
             "apt_type":"아파트",
             "apt_year":3.0,
             "value_score":63.7652,
+            "region":"경기도 안산시 상록구",
             "region_code":"Gyeonggi",
             "sub_region_code":"4127100000_Gyeonggi_Ansan_Sangnok"
         },
@@ -206,6 +224,7 @@
             "apt_type":"아파트",
             "apt_year":33.0,
             "value_score":62.0712,
+            "region":"경기도 안산시 상록구",
             "region_code":"Gyeonggi",
             "sub_region_code":"4127100000_Gyeonggi_Ansan_Sangnok"
         },
@@ -217,6 +236,7 @@
             "apt_type":"아파트",
             "apt_year":3.0,
             "value_score":61.7152,
+            "region":"경기도 안산시 상록구",
             "region_code":"Gyeonggi",
             "sub_region_code":"4127100000_Gyeonggi_Ansan_Sangnok"
         },
@@ -228,6 +248,7 @@
             "apt_type":"아파트",
             "apt_year":29.0,
             "value_score":60.1544,
+            "region":"경기도 안산시 상록구",
             "region_code":"Gyeonggi",
             "sub_region_code":"4127100000_Gyeonggi_Ansan_Sangnok"
         },
@@ -239,6 +260,7 @@
             "apt_type":"아파트",
             "apt_year":22.0,
             "value_score":59.384,
+            "region":"경기도 안산시 상록구",
             "region_code":"Gyeonggi",
             "sub_region_code":"4127100000_Gyeonggi_Ansan_Sangnok"
         },
@@ -250,6 +272,7 @@
             "apt_type":"아파트",
             "apt_year":24.0,
             "value_score":59.1404,
+            "region":"경기도 안산시 상록구",
             "region_code":"Gyeonggi",
             "sub_region_code":"4127100000_Gyeonggi_Ansan_Sangnok"
         },
@@ -261,6 +284,7 @@
             "apt_type":"아파트",
             "apt_year":30.0,
             "value_score":58.1032,
+            "region":"경기도 안산시 상록구",
             "region_code":"Gyeonggi",
             "sub_region_code":"4127100000_Gyeonggi_Ansan_Sangnok"
         },
@@ -272,6 +296,7 @@
             "apt_type":"아파트",
             "apt_year":24.0,
             "value_score":62.5928,
+            "region":"경기도 안산시 상록구",
             "region_code":"Gyeonggi",
             "sub_region_code":"4127100000_Gyeonggi_Ansan_Sangnok"
         },
@@ -283,6 +308,7 @@
             "apt_type":"아파트",
             "apt_year":33.0,
             "value_score":61.4734,
+            "region":"경기도 안산시 상록구",
             "region_code":"Gyeonggi",
             "sub_region_code":"4127100000_Gyeonggi_Ansan_Sangnok"
         },
@@ -294,6 +320,7 @@
             "apt_type":"아파트",
             "apt_year":35.0,
             "value_score":58.5914,
+            "region":"경기도 안산시 상록구",
             "region_code":"Gyeonggi",
             "sub_region_code":"4127100000_Gyeonggi_Ansan_Sangnok"
         },
@@ -305,6 +332,7 @@
             "apt_type":"아파트",
             "apt_year":29.0,
             "value_score":57.7812,
+            "region":"경기도 안산시 상록구",
             "region_code":"Gyeonggi",
             "sub_region_code":"4127100000_Gyeonggi_Ansan_Sangnok"
         },
@@ -316,6 +344,7 @@
             "apt_type":"아파트",
             "apt_year":28.0,
             "value_score":56.8814,
+            "region":"경기도 안산시 상록구",
             "region_code":"Gyeonggi",
             "sub_region_code":"4127100000_Gyeonggi_Ansan_Sangnok"
         },
@@ -327,6 +356,7 @@
             "apt_type":"아파트",
             "apt_year":29.0,
             "value_score":56.8064,
+            "region":"경기도 안산시 상록구",
             "region_code":"Gyeonggi",
             "sub_region_code":"4127100000_Gyeonggi_Ansan_Sangnok"
         },
@@ -338,6 +368,7 @@
             "apt_type":"아파트",
             "apt_year":30.0,
             "value_score":56.7099,
+            "region":"경기도 안산시 상록구",
             "region_code":"Gyeonggi",
             "sub_region_code":"4127100000_Gyeonggi_Ansan_Sangnok"
         },
@@ -349,6 +380,7 @@
             "apt_type":"아파트",
             "apt_year":5.0,
             "value_score":56.6672,
+            "region":"경기도 안산시 상록구",
             "region_code":"Gyeonggi",
             "sub_region_code":"4127100000_Gyeonggi_Ansan_Sangnok"
         },
@@ -360,6 +392,7 @@
             "apt_type":"아파트",
             "apt_year":28.0,
             "value_score":56.6562,
+            "region":"경기도 안산시 상록구",
             "region_code":"Gyeonggi",
             "sub_region_code":"4127100000_Gyeonggi_Ansan_Sangnok"
         },
@@ -371,6 +404,7 @@
             "apt_type":"아파트",
             "apt_year":34.0,
             "value_score":56.5172,
+            "region":"경기도 안산시 상록구",
             "region_code":"Gyeonggi",
             "sub_region_code":"4127100000_Gyeonggi_Ansan_Sangnok"
         },
@@ -382,6 +416,7 @@
             "apt_type":"아파트",
             "apt_year":33.0,
             "value_score":66.389,
+            "region":"경기도 안산시 상록구",
             "region_code":"Gyeonggi",
             "sub_region_code":"4127100000_Gyeonggi_Ansan_Sangnok"
         },
@@ -393,6 +428,7 @@
             "apt_type":"아파트",
             "apt_year":5.0,
             "value_score":65.787,
+            "region":"경기도 안산시 상록구",
             "region_code":"Gyeonggi",
             "sub_region_code":"4127100000_Gyeonggi_Ansan_Sangnok"
         },
@@ -404,6 +440,7 @@
             "apt_type":"아파트",
             "apt_year":29.0,
             "value_score":63.143,
+            "region":"경기도 안산시 상록구",
             "region_code":"Gyeonggi",
             "sub_region_code":"4127100000_Gyeonggi_Ansan_Sangnok"
         },
@@ -415,6 +452,7 @@
             "apt_type":"아파트",
             "apt_year":34.0,
             "value_score":62.937,
+            "region":"경기도 안산시 상록구",
             "region_code":"Gyeonggi",
             "sub_region_code":"4127100000_Gyeonggi_Ansan_Sangnok"
         },
@@ -426,6 +464,7 @@
             "apt_type":"아파트",
             "apt_year":30.0,
             "value_score":62.3915,
+            "region":"경기도 안산시 상록구",
             "region_code":"Gyeonggi",
             "sub_region_code":"4127100000_Gyeonggi_Ansan_Sangnok"
         },
@@ -437,6 +476,7 @@
             "apt_type":"아파트",
             "apt_year":28.0,
             "value_score":61.994,
+            "region":"경기도 안산시 상록구",
             "region_code":"Gyeonggi",
             "sub_region_code":"4127100000_Gyeonggi_Ansan_Sangnok"
         },
@@ -448,6 +488,7 @@
             "apt_type":"아파트",
             "apt_year":29.0,
             "value_score":61.944,
+            "region":"경기도 안산시 상록구",
             "region_code":"Gyeonggi",
             "sub_region_code":"4127100000_Gyeonggi_Ansan_Sangnok"
         },
@@ -459,6 +500,7 @@
             "apt_type":"아파트",
             "apt_year":39.0,
             "value_score":61.839,
+            "region":"경기도 안산시 상록구",
             "region_code":"Gyeonggi",
             "sub_region_code":"4127100000_Gyeonggi_Ansan_Sangnok"
         },
@@ -470,6 +512,7 @@
             "apt_type":"아파트",
             "apt_year":18.0,
             "value_score":60.9565,
+            "region":"경기도 안산시 상록구",
             "region_code":"Gyeonggi",
             "sub_region_code":"4127100000_Gyeonggi_Ansan_Sangnok"
         },
@@ -481,6 +524,7 @@
             "apt_type":"아파트",
             "apt_year":38.0,
             "value_score":60.389,
+            "region":"경기도 안산시 상록구",
             "region_code":"Gyeonggi",
             "sub_region_code":"4127100000_Gyeonggi_Ansan_Sangnok"
         },
@@ -492,6 +536,7 @@
             "apt_type":"아파트",
             "apt_year":5.0,
             "value_score":64.174,
+            "region":"경기도 안산시 상록구",
             "region_code":"Gyeonggi",
             "sub_region_code":"4127100000_Gyeonggi_Ansan_Sangnok"
         },
@@ -503,6 +548,7 @@
             "apt_type":"아파트",
             "apt_year":18.0,
             "value_score":62.913,
+            "region":"경기도 안산시 상록구",
             "region_code":"Gyeonggi",
             "sub_region_code":"4127100000_Gyeonggi_Ansan_Sangnok"
         },
@@ -514,6 +560,7 @@
             "apt_type":"아파트",
             "apt_year":18.0,
             "value_score":61.092,
+            "region":"경기도 안산시 상록구",
             "region_code":"Gyeonggi",
             "sub_region_code":"4127100000_Gyeonggi_Ansan_Sangnok"
         },
@@ -525,6 +572,7 @@
             "apt_type":"아파트",
             "apt_year":33.0,
             "value_score":60.858,
+            "region":"경기도 안산시 상록구",
             "region_code":"Gyeonggi",
             "sub_region_code":"4127100000_Gyeonggi_Ansan_Sangnok"
         },
@@ -536,6 +584,7 @@
             "apt_type":"아파트",
             "apt_year":29.0,
             "value_score":58.766,
+            "region":"경기도 안산시 상록구",
             "region_code":"Gyeonggi",
             "sub_region_code":"4127100000_Gyeonggi_Ansan_Sangnok"
         },
@@ -547,6 +596,7 @@
             "apt_type":"아파트",
             "apt_year":22.0,
             "value_score":58.685,
+            "region":"경기도 안산시 상록구",
             "region_code":"Gyeonggi",
             "sub_region_code":"4127100000_Gyeonggi_Ansan_Sangnok"
         },
@@ -558,6 +608,7 @@
             "apt_type":"아파트",
             "apt_year":30.0,
             "value_score":58.063,
+            "region":"경기도 안산시 상록구",
             "region_code":"Gyeonggi",
             "sub_region_code":"4127100000_Gyeonggi_Ansan_Sangnok"
         },
@@ -569,6 +620,7 @@
             "apt_type":"아파트",
             "apt_year":24.0,
             "value_score":56.426,
+            "region":"경기도 안산시 상록구",
             "region_code":"Gyeonggi",
             "sub_region_code":"4127100000_Gyeonggi_Ansan_Sangnok"
         },
@@ -580,6 +632,7 @@
             "apt_type":"아파트",
             "apt_year":28.0,
             "value_score":55.988,
+            "region":"경기도 안산시 상록구",
             "region_code":"Gyeonggi",
             "sub_region_code":"4127100000_Gyeonggi_Ansan_Sangnok"
         },
@@ -591,6 +644,7 @@
             "apt_type":"아파트",
             "apt_year":29.0,
             "value_score":55.888,
+            "region":"경기도 안산시 상록구",
             "region_code":"Gyeonggi",
             "sub_region_code":"4127100000_Gyeonggi_Ansan_Sangnok"
         }

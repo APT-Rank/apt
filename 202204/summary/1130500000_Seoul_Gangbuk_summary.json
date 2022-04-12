@@ -30,6 +30,10 @@
                 "type":"number"
             },
             {
+                "name":"region",
+                "type":"string"
+            },
+            {
                 "name":"region_code",
                 "type":"string"
             },
@@ -52,6 +56,7 @@
             "apt_type":"아파트",
             "apt_year":17.0,
             "value_score":69.4024,
+            "region":"서울시 강북구",
             "region_code":"Seoul",
             "sub_region_code":"1130500000_Seoul_Gangbuk"
         },
@@ -63,6 +68,7 @@
             "apt_type":"아파트",
             "apt_year":13.0,
             "value_score":67.3024,
+            "region":"서울시 강북구",
             "region_code":"Seoul",
             "sub_region_code":"1130500000_Seoul_Gangbuk"
         },
@@ -74,6 +80,7 @@
             "apt_type":"분양권",
             "apt_year":-1.0,
             "value_score":65.5568,
+            "region":"서울시 강북구",
             "region_code":"Seoul",
             "sub_region_code":"1130500000_Seoul_Gangbuk"
         },
@@ -85,6 +92,7 @@
             "apt_type":"아파트",
             "apt_year":13.0,
             "value_score":65.1866,
+            "region":"서울시 강북구",
             "region_code":"Seoul",
             "sub_region_code":"1130500000_Seoul_Gangbuk"
         },
@@ -96,6 +104,7 @@
             "apt_type":"아파트",
             "apt_year":12.0,
             "value_score":64.6501,
+            "region":"서울시 강북구",
             "region_code":"Seoul",
             "sub_region_code":"1130500000_Seoul_Gangbuk"
         },
@@ -107,6 +116,7 @@
             "apt_type":"아파트",
             "apt_year":19.0,
             "value_score":64.3501,
+            "region":"서울시 강북구",
             "region_code":"Seoul",
             "sub_region_code":"1130500000_Seoul_Gangbuk"
         },
@@ -118,6 +128,7 @@
             "apt_type":"아파트",
             "apt_year":4.0,
             "value_score":62.9793,
+            "region":"서울시 강북구",
             "region_code":"Seoul",
             "sub_region_code":"1130500000_Seoul_Gangbuk"
         },
@@ -129,6 +140,7 @@
             "apt_type":"아파트",
             "apt_year":19.0,
             "value_score":61.5157,
+            "region":"서울시 강북구",
             "region_code":"Seoul",
             "sub_region_code":"1130500000_Seoul_Gangbuk"
         },
@@ -140,6 +152,7 @@
             "apt_type":"아파트",
             "apt_year":3.0,
             "value_score":60.173,
+            "region":"서울시 강북구",
             "region_code":"Seoul",
             "sub_region_code":"1130500000_Seoul_Gangbuk"
         },
@@ -151,6 +164,7 @@
             "apt_type":"아파트",
             "apt_year":17.0,
             "value_score":59.4954,
+            "region":"서울시 강북구",
             "region_code":"Seoul",
             "sub_region_code":"1130500000_Seoul_Gangbuk"
         },
@@ -162,6 +176,7 @@
             "apt_type":"아파트",
             "apt_year":4.0,
             "value_score":68.9224,
+            "region":"서울시 강북구",
             "region_code":"Seoul",
             "sub_region_code":"1130500000_Seoul_Gangbuk"
         },
@@ -173,6 +188,7 @@
             "apt_type":"아파트",
             "apt_year":12.0,
             "value_score":67.9668,
+            "region":"서울시 강북구",
             "region_code":"Seoul",
             "sub_region_code":"1130500000_Seoul_Gangbuk"
         },
@@ -184,6 +200,7 @@
             "apt_type":"분양권",
             "apt_year":-1.0,
             "value_score":67.9424,
+            "region":"서울시 강북구",
             "region_code":"Seoul",
             "sub_region_code":"1130500000_Seoul_Gangbuk"
         },
@@ -195,6 +212,7 @@
             "apt_type":"아파트",
             "apt_year":13.0,
             "value_score":66.7488,
+            "region":"서울시 강북구",
             "region_code":"Seoul",
             "sub_region_code":"1130500000_Seoul_Gangbuk"
         },
@@ -206,6 +224,7 @@
             "apt_type":"아파트",
             "apt_year":19.0,
             "value_score":66.5168,
+            "region":"서울시 강북구",
             "region_code":"Seoul",
             "sub_region_code":"1130500000_Seoul_Gangbuk"
         },
@@ -217,6 +236,7 @@
             "apt_type":"아파트",
             "apt_year":13.0,
             "value_score":65.6916,
+            "region":"서울시 강북구",
             "region_code":"Seoul",
             "sub_region_code":"1130500000_Seoul_Gangbuk"
         },
@@ -228,6 +248,7 @@
             "apt_type":"아파트",
             "apt_year":17.0,
             "value_score":63.5032,
+            "region":"서울시 강북구",
             "region_code":"Seoul",
             "sub_region_code":"1130500000_Seoul_Gangbuk"
         },
@@ -239,6 +260,7 @@
             "apt_type":"아파트",
             "apt_year":13.0,
             "value_score":61.0032,
+            "region":"서울시 강북구",
             "region_code":"Seoul",
             "sub_region_code":"1130500000_Seoul_Gangbuk"
         },
@@ -250,6 +272,7 @@
             "apt_type":"아파트",
             "apt_year":19.0,
             "value_score":60.7576,
+            "region":"서울시 강북구",
             "region_code":"Seoul",
             "sub_region_code":"1130500000_Seoul_Gangbuk"
         },
@@ -261,6 +284,7 @@
             "apt_type":"아파트",
             "apt_year":6.0,
             "value_score":59.0524,
+            "region":"서울시 강북구",
             "region_code":"Seoul",
             "sub_region_code":"1130500000_Seoul_Gangbuk"
         },
@@ -272,6 +296,7 @@
             "apt_type":"아파트",
             "apt_year":17.0,
             "value_score":70.0524,
+            "region":"서울시 강북구",
             "region_code":"Seoul",
             "sub_region_code":"1130500000_Seoul_Gangbuk"
         },
@@ -283,6 +308,7 @@
             "apt_type":"아파트",
             "apt_year":13.0,
             "value_score":68.6024,
+            "region":"서울시 강북구",
             "region_code":"Seoul",
             "sub_region_code":"1130500000_Seoul_Gangbuk"
         },
@@ -294,6 +320,7 @@
             "apt_type":"분양권",
             "apt_year":-1.0,
             "value_score":64.1568,
+            "region":"서울시 강북구",
             "region_code":"Seoul",
             "sub_region_code":"1130500000_Seoul_Gangbuk"
         },
@@ -305,6 +332,7 @@
             "apt_type":"아파트",
             "apt_year":13.0,
             "value_score":63.9366,
+            "region":"서울시 강북구",
             "region_code":"Seoul",
             "sub_region_code":"1130500000_Seoul_Gangbuk"
         },
@@ -316,6 +344,7 @@
             "apt_type":"아파트",
             "apt_year":19.0,
             "value_score":63.6251,
+            "region":"서울시 강북구",
             "region_code":"Seoul",
             "sub_region_code":"1130500000_Seoul_Gangbuk"
         },
@@ -327,6 +356,7 @@
             "apt_type":"아파트",
             "apt_year":12.0,
             "value_score":61.7001,
+            "region":"서울시 강북구",
             "region_code":"Seoul",
             "sub_region_code":"1130500000_Seoul_Gangbuk"
         },
@@ -338,6 +368,7 @@
             "apt_type":"아파트",
             "apt_year":17.0,
             "value_score":61.5812,
+            "region":"서울시 강북구",
             "region_code":"Seoul",
             "sub_region_code":"1130500000_Seoul_Gangbuk"
         },
@@ -349,6 +380,7 @@
             "apt_type":"아파트",
             "apt_year":2.0,
             "value_score":61.5072,
+            "region":"서울시 강북구",
             "region_code":"Seoul",
             "sub_region_code":"1130500000_Seoul_Gangbuk"
         },
@@ -360,6 +392,7 @@
             "apt_type":"아파트",
             "apt_year":2.0,
             "value_score":61.3236,
+            "region":"서울시 강북구",
             "region_code":"Seoul",
             "sub_region_code":"1130500000_Seoul_Gangbuk"
         },
@@ -371,6 +404,7 @@
             "apt_type":"아파트",
             "apt_year":19.0,
             "value_score":61.3007,
+            "region":"서울시 강북구",
             "region_code":"Seoul",
             "sub_region_code":"1130500000_Seoul_Gangbuk"
         },
@@ -382,6 +416,7 @@
             "apt_type":"아파트",
             "apt_year":17.0,
             "value_score":72.104,
+            "region":"서울시 강북구",
             "region_code":"Seoul",
             "sub_region_code":"1130500000_Seoul_Gangbuk"
         },
@@ -393,6 +428,7 @@
             "apt_type":"아파트",
             "apt_year":13.0,
             "value_score":69.304,
+            "region":"서울시 강북구",
             "region_code":"Seoul",
             "sub_region_code":"1130500000_Seoul_Gangbuk"
         },
@@ -404,6 +440,7 @@
             "apt_type":"아파트",
             "apt_year":12.0,
             "value_score":67.7835,
+            "region":"서울시 강북구",
             "region_code":"Seoul",
             "sub_region_code":"1130500000_Seoul_Gangbuk"
         },
@@ -415,6 +452,7 @@
             "apt_type":"아파트",
             "apt_year":13.0,
             "value_score":65.211,
+            "region":"서울시 강북구",
             "region_code":"Seoul",
             "sub_region_code":"1130500000_Seoul_Gangbuk"
         },
@@ -426,6 +464,7 @@
             "apt_type":"분양권",
             "apt_year":-1.0,
             "value_score":65.128,
+            "region":"서울시 강북구",
             "region_code":"Seoul",
             "sub_region_code":"1130500000_Seoul_Gangbuk"
         },
@@ -437,6 +476,7 @@
             "apt_type":"아파트",
             "apt_year":3.0,
             "value_score":64.555,
+            "region":"서울시 강북구",
             "region_code":"Seoul",
             "sub_region_code":"1130500000_Seoul_Gangbuk"
         },
@@ -448,6 +488,7 @@
             "apt_type":"아파트",
             "apt_year":19.0,
             "value_score":63.9335,
+            "region":"서울시 강북구",
             "region_code":"Seoul",
             "sub_region_code":"1130500000_Seoul_Gangbuk"
         },
@@ -459,6 +500,7 @@
             "apt_type":"아파트",
             "apt_year":9.0,
             "value_score":63.028,
+            "region":"서울시 강북구",
             "region_code":"Seoul",
             "sub_region_code":"1130500000_Seoul_Gangbuk"
         },
@@ -470,6 +512,7 @@
             "apt_type":"아파트",
             "apt_year":4.0,
             "value_score":62.8155,
+            "region":"서울시 강북구",
             "region_code":"Seoul",
             "sub_region_code":"1130500000_Seoul_Gangbuk"
         },
@@ -481,6 +524,7 @@
             "apt_type":"아파트",
             "apt_year":31.0,
             "value_score":62.228,
+            "region":"서울시 강북구",
             "region_code":"Seoul",
             "sub_region_code":"1130500000_Seoul_Gangbuk"
         },
@@ -492,6 +536,7 @@
             "apt_type":"아파트",
             "apt_year":17.0,
             "value_score":69.808,
+            "region":"서울시 강북구",
             "region_code":"Seoul",
             "sub_region_code":"1130500000_Seoul_Gangbuk"
         },
@@ -503,6 +548,7 @@
             "apt_type":"아파트",
             "apt_year":13.0,
             "value_score":68.208,
+            "region":"서울시 강북구",
             "region_code":"Seoul",
             "sub_region_code":"1130500000_Seoul_Gangbuk"
         },
@@ -514,6 +560,7 @@
             "apt_type":"아파트",
             "apt_year":12.0,
             "value_score":64.767,
+            "region":"서울시 강북구",
             "region_code":"Seoul",
             "sub_region_code":"1130500000_Seoul_Gangbuk"
         },
@@ -525,6 +572,7 @@
             "apt_type":"아파트",
             "apt_year":19.0,
             "value_score":63.467,
+            "region":"서울시 강북구",
             "region_code":"Seoul",
             "sub_region_code":"1130500000_Seoul_Gangbuk"
         },
@@ -536,6 +584,7 @@
             "apt_type":"아파트",
             "apt_year":13.0,
             "value_score":63.309,
+            "region":"서울시 강북구",
             "region_code":"Seoul",
             "sub_region_code":"1130500000_Seoul_Gangbuk"
         },
@@ -547,6 +596,7 @@
             "apt_type":"아파트",
             "apt_year":13.0,
             "value_score":62.022,
+            "region":"서울시 강북구",
             "region_code":"Seoul",
             "sub_region_code":"1130500000_Seoul_Gangbuk"
         },
@@ -558,6 +608,7 @@
             "apt_type":"분양권",
             "apt_year":-1.0,
             "value_score":61.856,
+            "region":"서울시 강북구",
             "region_code":"Seoul",
             "sub_region_code":"1130500000_Seoul_Gangbuk"
         },
@@ -569,6 +620,7 @@
             "apt_type":"아파트",
             "apt_year":4.0,
             "value_score":61.831,
+            "region":"서울시 강북구",
             "region_code":"Seoul",
             "sub_region_code":"1130500000_Seoul_Gangbuk"
         },
@@ -580,6 +632,7 @@
             "apt_type":"아파트",
             "apt_year":19.0,
             "value_score":58.699,
+            "region":"서울시 강북구",
             "region_code":"Seoul",
             "sub_region_code":"1130500000_Seoul_Gangbuk"
         },
@@ -591,6 +644,7 @@
             "apt_type":"아파트",
             "apt_year":20.0,
             "value_score":57.627,
+            "region":"서울시 강북구",
             "region_code":"Seoul",
             "sub_region_code":"1130500000_Seoul_Gangbuk"
         }

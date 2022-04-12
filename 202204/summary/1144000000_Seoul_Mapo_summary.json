@@ -30,6 +30,10 @@
                 "type":"number"
             },
             {
+                "name":"region",
+                "type":"string"
+            },
+            {
                 "name":"region_code",
                 "type":"string"
             },
@@ -52,6 +56,7 @@
             "apt_type":"아파트",
             "apt_year":4.0,
             "value_score":83.0677,
+            "region":"서울시 마포구",
             "region_code":"Seoul",
             "sub_region_code":"1144000000_Seoul_Mapo"
         },
@@ -63,6 +68,7 @@
             "apt_type":"아파트",
             "apt_year":12.0,
             "value_score":79.3176,
+            "region":"서울시 마포구",
             "region_code":"Seoul",
             "sub_region_code":"1144000000_Seoul_Mapo"
         },
@@ -74,6 +80,7 @@
             "apt_type":"아파트",
             "apt_year":7.0,
             "value_score":78.8554,
+            "region":"서울시 마포구",
             "region_code":"Seoul",
             "sub_region_code":"1144000000_Seoul_Mapo"
         },
@@ -85,6 +92,7 @@
             "apt_type":"아파트",
             "apt_year":12.0,
             "value_score":78.756,
+            "region":"서울시 마포구",
             "region_code":"Seoul",
             "sub_region_code":"1144000000_Seoul_Mapo"
         },
@@ -96,6 +104,7 @@
             "apt_type":"아파트",
             "apt_year":19.0,
             "value_score":78.2554,
+            "region":"서울시 마포구",
             "region_code":"Seoul",
             "sub_region_code":"1144000000_Seoul_Mapo"
         },
@@ -107,6 +116,7 @@
             "apt_type":"아파트",
             "apt_year":3.0,
             "value_score":78.0754,
+            "region":"서울시 마포구",
             "region_code":"Seoul",
             "sub_region_code":"1144000000_Seoul_Mapo"
         },
@@ -118,6 +128,7 @@
             "apt_type":"아파트",
             "apt_year":3.0,
             "value_score":77.9504,
+            "region":"서울시 마포구",
             "region_code":"Seoul",
             "sub_region_code":"1144000000_Seoul_Mapo"
         },
@@ -129,6 +140,7 @@
             "apt_type":"아파트",
             "apt_year":12.0,
             "value_score":77.856,
+            "region":"서울시 마포구",
             "region_code":"Seoul",
             "sub_region_code":"1144000000_Seoul_Mapo"
         },
@@ -140,6 +152,7 @@
             "apt_type":"아파트",
             "apt_year":12.0,
             "value_score":77.256,
+            "region":"서울시 마포구",
             "region_code":"Seoul",
             "sub_region_code":"1144000000_Seoul_Mapo"
         },
@@ -151,6 +164,7 @@
             "apt_type":"아파트",
             "apt_year":9.0,
             "value_score":76.9307,
+            "region":"서울시 마포구",
             "region_code":"Seoul",
             "sub_region_code":"1144000000_Seoul_Mapo"
         },
@@ -162,6 +176,7 @@
             "apt_type":"아파트",
             "apt_year":4.0,
             "value_score":82.2736,
+            "region":"서울시 마포구",
             "region_code":"Seoul",
             "sub_region_code":"1144000000_Seoul_Mapo"
         },
@@ -173,6 +188,7 @@
             "apt_type":"아파트",
             "apt_year":8.0,
             "value_score":75.0496,
+            "region":"서울시 마포구",
             "region_code":"Seoul",
             "sub_region_code":"1144000000_Seoul_Mapo"
         },
@@ -184,6 +200,7 @@
             "apt_type":"아파트",
             "apt_year":3.0,
             "value_score":74.8872,
+            "region":"서울시 마포구",
             "region_code":"Seoul",
             "sub_region_code":"1144000000_Seoul_Mapo"
         },
@@ -195,6 +212,7 @@
             "apt_type":"아파트",
             "apt_year":5.0,
             "value_score":72.814,
+            "region":"서울시 마포구",
             "region_code":"Seoul",
             "sub_region_code":"1144000000_Seoul_Mapo"
         },
@@ -206,6 +224,7 @@
             "apt_type":"아파트",
             "apt_year":9.0,
             "value_score":72.6572,
+            "region":"서울시 마포구",
             "region_code":"Seoul",
             "sub_region_code":"1144000000_Seoul_Mapo"
         },
@@ -217,6 +236,7 @@
             "apt_type":"아파트",
             "apt_year":7.0,
             "value_score":72.1964,
+            "region":"서울시 마포구",
             "region_code":"Seoul",
             "sub_region_code":"1144000000_Seoul_Mapo"
         },
@@ -228,6 +248,7 @@
             "apt_type":"아파트",
             "apt_year":12.0,
             "value_score":71.9068,
+            "region":"서울시 마포구",
             "region_code":"Seoul",
             "sub_region_code":"1144000000_Seoul_Mapo"
         },
@@ -239,6 +260,7 @@
             "apt_type":"아파트",
             "apt_year":2.0,
             "value_score":71.8644,
+            "region":"서울시 마포구",
             "region_code":"Seoul",
             "sub_region_code":"1144000000_Seoul_Mapo"
         },
@@ -250,6 +272,7 @@
             "apt_type":"아파트",
             "apt_year":9.0,
             "value_score":71.4976,
+            "region":"서울시 마포구",
             "region_code":"Seoul",
             "sub_region_code":"1144000000_Seoul_Mapo"
         },
@@ -261,6 +284,7 @@
             "apt_type":"아파트",
             "apt_year":7.0,
             "value_score":71.4072,
+            "region":"서울시 마포구",
             "region_code":"Seoul",
             "sub_region_code":"1144000000_Seoul_Mapo"
         },
@@ -272,6 +296,7 @@
             "apt_type":"아파트",
             "apt_year":4.0,
             "value_score":83.7427,
+            "region":"서울시 마포구",
             "region_code":"Seoul",
             "sub_region_code":"1144000000_Seoul_Mapo"
         },
@@ -283,6 +308,7 @@
             "apt_type":"아파트",
             "apt_year":12.0,
             "value_score":82.956,
+            "region":"서울시 마포구",
             "region_code":"Seoul",
             "sub_region_code":"1144000000_Seoul_Mapo"
         },
@@ -294,6 +320,7 @@
             "apt_type":"아파트",
             "apt_year":19.0,
             "value_score":82.5804,
+            "region":"서울시 마포구",
             "region_code":"Seoul",
             "sub_region_code":"1144000000_Seoul_Mapo"
         },
@@ -305,6 +332,7 @@
             "apt_type":"아파트",
             "apt_year":12.0,
             "value_score":82.356,
+            "region":"서울시 마포구",
             "region_code":"Seoul",
             "sub_region_code":"1144000000_Seoul_Mapo"
         },
@@ -316,6 +344,7 @@
             "apt_type":"아파트",
             "apt_year":12.0,
             "value_score":81.1426,
+            "region":"서울시 마포구",
             "region_code":"Seoul",
             "sub_region_code":"1144000000_Seoul_Mapo"
         },
@@ -327,6 +356,7 @@
             "apt_type":"아파트",
             "apt_year":7.0,
             "value_score":80.6554,
+            "region":"서울시 마포구",
             "region_code":"Seoul",
             "sub_region_code":"1144000000_Seoul_Mapo"
         },
@@ -338,6 +368,7 @@
             "apt_type":"아파트",
             "apt_year":3.0,
             "value_score":80.2604,
+            "region":"서울시 마포구",
             "region_code":"Seoul",
             "sub_region_code":"1144000000_Seoul_Mapo"
         },
@@ -349,6 +380,7 @@
             "apt_type":"아파트",
             "apt_year":3.0,
             "value_score":80.0854,
+            "region":"서울시 마포구",
             "region_code":"Seoul",
             "sub_region_code":"1144000000_Seoul_Mapo"
         },
@@ -360,6 +392,7 @@
             "apt_type":"아파트",
             "apt_year":12.0,
             "value_score":79.531,
+            "region":"서울시 마포구",
             "region_code":"Seoul",
             "sub_region_code":"1144000000_Seoul_Mapo"
         },
@@ -371,6 +404,7 @@
             "apt_type":"아파트",
             "apt_year":26.0,
             "value_score":79.4427,
+            "region":"서울시 마포구",
             "region_code":"Seoul",
             "sub_region_code":"1144000000_Seoul_Mapo"
         },
@@ -382,6 +416,7 @@
             "apt_type":"아파트",
             "apt_year":4.0,
             "value_score":78.3295,
+            "region":"서울시 마포구",
             "region_code":"Seoul",
             "sub_region_code":"1144000000_Seoul_Mapo"
         },
@@ -393,6 +428,7 @@
             "apt_type":"아파트",
             "apt_year":12.0,
             "value_score":77.446,
+            "region":"서울시 마포구",
             "region_code":"Seoul",
             "sub_region_code":"1144000000_Seoul_Mapo"
         },
@@ -404,6 +440,7 @@
             "apt_type":"아파트",
             "apt_year":7.0,
             "value_score":76.559,
+            "region":"서울시 마포구",
             "region_code":"Seoul",
             "sub_region_code":"1144000000_Seoul_Mapo"
         },
@@ -415,6 +452,7 @@
             "apt_type":"아파트",
             "apt_year":12.0,
             "value_score":76.26,
+            "region":"서울시 마포구",
             "region_code":"Seoul",
             "sub_region_code":"1144000000_Seoul_Mapo"
         },
@@ -426,6 +464,7 @@
             "apt_type":"아파트",
             "apt_year":19.0,
             "value_score":76.009,
+            "region":"서울시 마포구",
             "region_code":"Seoul",
             "sub_region_code":"1144000000_Seoul_Mapo"
         },
@@ -437,6 +476,7 @@
             "apt_type":"아파트",
             "apt_year":3.0,
             "value_score":75.959,
+            "region":"서울시 마포구",
             "region_code":"Seoul",
             "sub_region_code":"1144000000_Seoul_Mapo"
         },
@@ -448,6 +488,7 @@
             "apt_type":"아파트",
             "apt_year":26.0,
             "value_score":75.4635,
+            "region":"서울시 마포구",
             "region_code":"Seoul",
             "sub_region_code":"1144000000_Seoul_Mapo"
         },
@@ -459,6 +500,7 @@
             "apt_type":"아파트",
             "apt_year":20.0,
             "value_score":75.2875,
+            "region":"서울시 마포구",
             "region_code":"Seoul",
             "sub_region_code":"1144000000_Seoul_Mapo"
         },
@@ -470,6 +512,7 @@
             "apt_type":"아파트",
             "apt_year":20.0,
             "value_score":74.909,
+            "region":"서울시 마포구",
             "region_code":"Seoul",
             "sub_region_code":"1144000000_Seoul_Mapo"
         },
@@ -481,6 +524,7 @@
             "apt_type":"아파트",
             "apt_year":14.0,
             "value_score":74.76,
+            "region":"서울시 마포구",
             "region_code":"Seoul",
             "sub_region_code":"1144000000_Seoul_Mapo"
         },
@@ -492,6 +536,7 @@
             "apt_type":"아파트",
             "apt_year":4.0,
             "value_score":72.259,
+            "region":"서울시 마포구",
             "region_code":"Seoul",
             "sub_region_code":"1144000000_Seoul_Mapo"
         },
@@ -503,6 +548,7 @@
             "apt_type":"아파트",
             "apt_year":12.0,
             "value_score":70.492,
+            "region":"서울시 마포구",
             "region_code":"Seoul",
             "sub_region_code":"1144000000_Seoul_Mapo"
         },
@@ -514,6 +560,7 @@
             "apt_type":"아파트",
             "apt_year":3.0,
             "value_score":69.048,
+            "region":"서울시 마포구",
             "region_code":"Seoul",
             "sub_region_code":"1144000000_Seoul_Mapo"
         },
@@ -525,6 +572,7 @@
             "apt_type":"아파트",
             "apt_year":7.0,
             "value_score":68.718,
+            "region":"서울시 마포구",
             "region_code":"Seoul",
             "sub_region_code":"1144000000_Seoul_Mapo"
         },
@@ -536,6 +584,7 @@
             "apt_type":"아파트",
             "apt_year":3.0,
             "value_score":67.998,
+            "region":"서울시 마포구",
             "region_code":"Seoul",
             "sub_region_code":"1144000000_Seoul_Mapo"
         },
@@ -547,6 +596,7 @@
             "apt_type":"아파트",
             "apt_year":5.0,
             "value_score":67.81,
+            "region":"서울시 마포구",
             "region_code":"Seoul",
             "sub_region_code":"1144000000_Seoul_Mapo"
         },
@@ -558,6 +608,7 @@
             "apt_type":"아파트",
             "apt_year":26.0,
             "value_score":67.727,
+            "region":"서울시 마포구",
             "region_code":"Seoul",
             "sub_region_code":"1144000000_Seoul_Mapo"
         },
@@ -569,6 +620,7 @@
             "apt_type":"아파트",
             "apt_year":9.0,
             "value_score":67.469,
+            "region":"서울시 마포구",
             "region_code":"Seoul",
             "sub_region_code":"1144000000_Seoul_Mapo"
         },
@@ -580,6 +632,7 @@
             "apt_type":"아파트",
             "apt_year":12.0,
             "value_score":67.42,
+            "region":"서울시 마포구",
             "region_code":"Seoul",
             "sub_region_code":"1144000000_Seoul_Mapo"
         },
@@ -591,6 +644,7 @@
             "apt_type":"아파트",
             "apt_year":9.0,
             "value_score":67.219,
+            "region":"서울시 마포구",
             "region_code":"Seoul",
             "sub_region_code":"1144000000_Seoul_Mapo"
         }

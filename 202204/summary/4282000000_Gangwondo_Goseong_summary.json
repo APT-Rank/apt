@@ -30,6 +30,10 @@
                 "type":"number"
             },
             {
+                "name":"region",
+                "type":"string"
+            },
+            {
                 "name":"region_code",
                 "type":"string"
             },
@@ -52,6 +56,7 @@
             "apt_type":"아파트",
             "apt_year":2.0,
             "value_score":43.344,
+            "region":"강원도 고성군",
             "region_code":"Gangwondo",
             "sub_region_code":"4282000000_Gangwondo_Goseong"
         },
@@ -63,6 +68,7 @@
             "apt_type":"아파트",
             "apt_year":2.0,
             "value_score":39.394,
+            "region":"강원도 고성군",
             "region_code":"Gangwondo",
             "sub_region_code":"4282000000_Gangwondo_Goseong"
         },
@@ -74,6 +80,7 @@
             "apt_type":"아파트",
             "apt_year":3.0,
             "value_score":35.653,
+            "region":"강원도 고성군",
             "region_code":"Gangwondo",
             "sub_region_code":"4282000000_Gangwondo_Goseong"
         },
@@ -85,6 +92,7 @@
             "apt_type":"아파트",
             "apt_year":2.0,
             "value_score":34.1845,
+            "region":"강원도 고성군",
             "region_code":"Gangwondo",
             "sub_region_code":"4282000000_Gangwondo_Goseong"
         },
@@ -96,6 +104,7 @@
             "apt_type":"아파트",
             "apt_year":25.0,
             "value_score":26.4345,
+            "region":"강원도 고성군",
             "region_code":"Gangwondo",
             "sub_region_code":"4282000000_Gangwondo_Goseong"
         },
@@ -107,6 +116,7 @@
             "apt_type":"아파트",
             "apt_year":17.0,
             "value_score":25.7295,
+            "region":"강원도 고성군",
             "region_code":"Gangwondo",
             "sub_region_code":"4282000000_Gangwondo_Goseong"
         },
@@ -118,6 +128,7 @@
             "apt_type":"아파트",
             "apt_year":25.0,
             "value_score":24.6595,
+            "region":"강원도 고성군",
             "region_code":"Gangwondo",
             "sub_region_code":"4282000000_Gangwondo_Goseong"
         },
@@ -129,6 +140,7 @@
             "apt_type":"아파트",
             "apt_year":33.0,
             "value_score":24.6595,
+            "region":"강원도 고성군",
             "region_code":"Gangwondo",
             "sub_region_code":"4282000000_Gangwondo_Goseong"
         },
@@ -140,6 +152,7 @@
             "apt_type":"아파트",
             "apt_year":17.0,
             "value_score":24.45,
+            "region":"강원도 고성군",
             "region_code":"Gangwondo",
             "sub_region_code":"4282000000_Gangwondo_Goseong"
         },
@@ -151,6 +164,7 @@
             "apt_type":"아파트",
             "apt_year":34.0,
             "value_score":24.085,
+            "region":"강원도 고성군",
             "region_code":"Gangwondo",
             "sub_region_code":"4282000000_Gangwondo_Goseong"
         },
@@ -162,6 +176,7 @@
             "apt_type":"아파트",
             "apt_year":2.0,
             "value_score":47.844,
+            "region":"강원도 고성군",
             "region_code":"Gangwondo",
             "sub_region_code":"4282000000_Gangwondo_Goseong"
         },
@@ -173,6 +188,7 @@
             "apt_type":"아파트",
             "apt_year":2.0,
             "value_score":47.344,
+            "region":"강원도 고성군",
             "region_code":"Gangwondo",
             "sub_region_code":"4282000000_Gangwondo_Goseong"
         },
@@ -184,6 +200,7 @@
             "apt_type":"아파트",
             "apt_year":3.0,
             "value_score":40.378,
+            "region":"강원도 고성군",
             "region_code":"Gangwondo",
             "sub_region_code":"4282000000_Gangwondo_Goseong"
         },
@@ -195,6 +212,7 @@
             "apt_type":"아파트",
             "apt_year":2.0,
             "value_score":38.9095,
+            "region":"강원도 고성군",
             "region_code":"Gangwondo",
             "sub_region_code":"4282000000_Gangwondo_Goseong"
         },
@@ -206,6 +224,7 @@
             "apt_type":"아파트",
             "apt_year":17.0,
             "value_score":29.775,
+            "region":"강원도 고성군",
             "region_code":"Gangwondo",
             "sub_region_code":"4282000000_Gangwondo_Goseong"
         },
@@ -217,6 +236,7 @@
             "apt_type":"아파트",
             "apt_year":25.0,
             "value_score":28.1595,
+            "region":"강원도 고성군",
             "region_code":"Gangwondo",
             "sub_region_code":"4282000000_Gangwondo_Goseong"
         },
@@ -228,6 +248,7 @@
             "apt_type":"아파트",
             "apt_year":17.0,
             "value_score":27.8295,
+            "region":"강원도 고성군",
             "region_code":"Gangwondo",
             "sub_region_code":"4282000000_Gangwondo_Goseong"
         },
@@ -239,6 +260,7 @@
             "apt_type":"아파트",
             "apt_year":25.0,
             "value_score":24.6595,
+            "region":"강원도 고성군",
             "region_code":"Gangwondo",
             "sub_region_code":"4282000000_Gangwondo_Goseong"
         },
@@ -250,6 +272,7 @@
             "apt_type":"아파트",
             "apt_year":33.0,
             "value_score":24.6595,
+            "region":"강원도 고성군",
             "region_code":"Gangwondo",
             "sub_region_code":"4282000000_Gangwondo_Goseong"
         },
@@ -261,6 +284,7 @@
             "apt_type":"아파트",
             "apt_year":34.0,
             "value_score":24.625,
+            "region":"강원도 고성군",
             "region_code":"Gangwondo",
             "sub_region_code":"4282000000_Gangwondo_Goseong"
         },
@@ -272,6 +296,7 @@
             "apt_type":"아파트",
             "apt_year":2.0,
             "value_score":38.8555789474,
+            "region":"강원도 고성군",
             "region_code":"Gangwondo",
             "sub_region_code":"4282000000_Gangwondo_Goseong"
         },
@@ -283,6 +308,7 @@
             "apt_type":"아파트",
             "apt_year":3.0,
             "value_score":31.8722105263,
+            "region":"강원도 고성군",
             "region_code":"Gangwondo",
             "sub_region_code":"4282000000_Gangwondo_Goseong"
         },
@@ -294,6 +320,7 @@
             "apt_type":"아파트",
             "apt_year":2.0,
             "value_score":31.5397894737,
+            "region":"강원도 고성군",
             "region_code":"Gangwondo",
             "sub_region_code":"4282000000_Gangwondo_Goseong"
         },
@@ -305,6 +332,7 @@
             "apt_type":"아파트",
             "apt_year":2.0,
             "value_score":30.0172631579,
+            "region":"강원도 고성군",
             "region_code":"Gangwondo",
             "sub_region_code":"4282000000_Gangwondo_Goseong"
         },
@@ -316,6 +344,7 @@
             "apt_type":"아파트",
             "apt_year":25.0,
             "value_score":26.412,
+            "region":"강원도 고성군",
             "region_code":"Gangwondo",
             "sub_region_code":"4282000000_Gangwondo_Goseong"
         },
@@ -327,6 +356,7 @@
             "apt_type":"아파트",
             "apt_year":33.0,
             "value_score":26.412,
+            "region":"강원도 고성군",
             "region_code":"Gangwondo",
             "sub_region_code":"4282000000_Gangwondo_Goseong"
         },
@@ -338,6 +368,7 @@
             "apt_type":"아파트",
             "apt_year":25.0,
             "value_score":26.1751578947,
+            "region":"강원도 고성군",
             "region_code":"Gangwondo",
             "sub_region_code":"4282000000_Gangwondo_Goseong"
         },
@@ -349,6 +380,7 @@
             "apt_type":"아파트",
             "apt_year":34.0,
             "value_score":25.6105263158,
+            "region":"강원도 고성군",
             "region_code":"Gangwondo",
             "sub_region_code":"4282000000_Gangwondo_Goseong"
         },
@@ -360,6 +392,7 @@
             "apt_type":"아파트",
             "apt_year":17.0,
             "value_score":25.3635789474,
+            "region":"강원도 고성군",
             "region_code":"Gangwondo",
             "sub_region_code":"4282000000_Gangwondo_Goseong"
         },
@@ -371,6 +404,7 @@
             "apt_type":"아파트",
             "apt_year":17.0,
             "value_score":20.7947368421,
+            "region":"강원도 고성군",
             "region_code":"Gangwondo",
             "sub_region_code":"4282000000_Gangwondo_Goseong"
         },
@@ -382,6 +416,7 @@
             "apt_type":"아파트",
             "apt_year":2.0,
             "value_score":45.188,
+            "region":"강원도 고성군",
             "region_code":"Gangwondo",
             "sub_region_code":"4282000000_Gangwondo_Goseong"
         },
@@ -393,6 +428,7 @@
             "apt_type":"아파트",
             "apt_year":2.0,
             "value_score":42.938,
+            "region":"강원도 고성군",
             "region_code":"Gangwondo",
             "sub_region_code":"4282000000_Gangwondo_Goseong"
         },
@@ -404,6 +440,7 @@
             "apt_type":"아파트",
             "apt_year":3.0,
             "value_score":41.131,
+            "region":"강원도 고성군",
             "region_code":"Gangwondo",
             "sub_region_code":"4282000000_Gangwondo_Goseong"
         },
@@ -415,6 +452,7 @@
             "apt_type":"아파트",
             "apt_year":2.0,
             "value_score":38.194,
+            "region":"강원도 고성군",
             "region_code":"Gangwondo",
             "sub_region_code":"4282000000_Gangwondo_Goseong"
         },
@@ -426,6 +464,7 @@
             "apt_type":"아파트",
             "apt_year":17.0,
             "value_score":33.159,
+            "region":"강원도 고성군",
             "region_code":"Gangwondo",
             "sub_region_code":"4282000000_Gangwondo_Goseong"
         },
@@ -437,6 +476,7 @@
             "apt_type":"아파트",
             "apt_year":17.0,
             "value_score":32.925,
+            "region":"강원도 고성군",
             "region_code":"Gangwondo",
             "sub_region_code":"4282000000_Gangwondo_Goseong"
         },
@@ -448,6 +488,7 @@
             "apt_type":"아파트",
             "apt_year":25.0,
             "value_score":32.694,
+            "region":"강원도 고성군",
             "region_code":"Gangwondo",
             "sub_region_code":"4282000000_Gangwondo_Goseong"
         },
@@ -459,6 +500,7 @@
             "apt_type":"아파트",
             "apt_year":34.0,
             "value_score":32.15,
+            "region":"강원도 고성군",
             "region_code":"Gangwondo",
             "sub_region_code":"4282000000_Gangwondo_Goseong"
         },
@@ -470,6 +512,7 @@
             "apt_type":"아파트",
             "apt_year":25.0,
             "value_score":31.319,
+            "region":"강원도 고성군",
             "region_code":"Gangwondo",
             "sub_region_code":"4282000000_Gangwondo_Goseong"
         },
@@ -481,6 +524,7 @@
             "apt_type":"아파트",
             "apt_year":33.0,
             "value_score":31.319,
+            "region":"강원도 고성군",
             "region_code":"Gangwondo",
             "sub_region_code":"4282000000_Gangwondo_Goseong"
         }

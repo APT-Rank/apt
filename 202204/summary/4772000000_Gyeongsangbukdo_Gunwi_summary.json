@@ -30,6 +30,10 @@
                 "type":"number"
             },
             {
+                "name":"region",
+                "type":"string"
+            },
+            {
                 "name":"region_code",
                 "type":"string"
             },
@@ -52,6 +56,7 @@
             "apt_type":"아파트",
             "apt_year":8.0,
             "value_score":29.918,
+            "region":"경상북도 군위군",
             "region_code":"Gyeongsangbukdo",
             "sub_region_code":"4772000000_Gyeongsangbukdo_Gunwi"
         },
@@ -63,6 +68,7 @@
             "apt_type":"아파트",
             "apt_year":8.0,
             "value_score":31.868,
+            "region":"경상북도 군위군",
             "region_code":"Gyeongsangbukdo",
             "sub_region_code":"4772000000_Gyeongsangbukdo_Gunwi"
         },
@@ -74,6 +80,7 @@
             "apt_type":"아파트",
             "apt_year":8.0,
             "value_score":29.8858947368,
+            "region":"경상북도 군위군",
             "region_code":"Gyeongsangbukdo",
             "sub_region_code":"4772000000_Gyeongsangbukdo_Gunwi"
         },
@@ -85,6 +92,7 @@
             "apt_type":"아파트",
             "apt_year":8.0,
             "value_score":37.986,
+            "region":"경상북도 군위군",
             "region_code":"Gyeongsangbukdo",
             "sub_region_code":"4772000000_Gyeongsangbukdo_Gunwi"
         }

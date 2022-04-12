@@ -30,6 +30,10 @@
                 "type":"number"
             },
             {
+                "name":"region",
+                "type":"string"
+            },
+            {
                 "name":"region_code",
                 "type":"string"
             },
@@ -52,6 +56,7 @@
             "apt_type":"아파트",
             "apt_year":4.0,
             "value_score":39.005,
+            "region":"경상남도 함양군",
             "region_code":"Gyeongsangnamdo",
             "sub_region_code":"4887000000_Gyeongsangnamdo_Hamyang"
         },
@@ -63,6 +68,7 @@
             "apt_type":"아파트",
             "apt_year":14.0,
             "value_score":38.5425,
+            "region":"경상남도 함양군",
             "region_code":"Gyeongsangnamdo",
             "sub_region_code":"4887000000_Gyeongsangnamdo_Hamyang"
         },
@@ -74,6 +80,7 @@
             "apt_type":"아파트",
             "apt_year":26.0,
             "value_score":35.53,
+            "region":"경상남도 함양군",
             "region_code":"Gyeongsangnamdo",
             "sub_region_code":"4887000000_Gyeongsangnamdo_Hamyang"
         },
@@ -85,6 +92,7 @@
             "apt_type":"아파트",
             "apt_year":15.0,
             "value_score":33.29,
+            "region":"경상남도 함양군",
             "region_code":"Gyeongsangnamdo",
             "sub_region_code":"4887000000_Gyeongsangnamdo_Hamyang"
         },
@@ -96,6 +104,7 @@
             "apt_type":"아파트",
             "apt_year":10.0,
             "value_score":27.73,
+            "region":"경상남도 함양군",
             "region_code":"Gyeongsangnamdo",
             "sub_region_code":"4887000000_Gyeongsangnamdo_Hamyang"
         },
@@ -107,6 +116,7 @@
             "apt_type":"아파트",
             "apt_year":25.0,
             "value_score":17.055,
+            "region":"경상남도 함양군",
             "region_code":"Gyeongsangnamdo",
             "sub_region_code":"4887000000_Gyeongsangnamdo_Hamyang"
         },
@@ -118,6 +128,7 @@
             "apt_type":"아파트",
             "apt_year":4.0,
             "value_score":45.905,
+            "region":"경상남도 함양군",
             "region_code":"Gyeongsangnamdo",
             "sub_region_code":"4887000000_Gyeongsangnamdo_Hamyang"
         },
@@ -129,6 +140,7 @@
             "apt_type":"아파트",
             "apt_year":14.0,
             "value_score":39.2325,
+            "region":"경상남도 함양군",
             "region_code":"Gyeongsangnamdo",
             "sub_region_code":"4887000000_Gyeongsangnamdo_Hamyang"
         },
@@ -140,6 +152,7 @@
             "apt_type":"아파트",
             "apt_year":26.0,
             "value_score":37.405,
+            "region":"경상남도 함양군",
             "region_code":"Gyeongsangnamdo",
             "sub_region_code":"4887000000_Gyeongsangnamdo_Hamyang"
         },
@@ -151,6 +164,7 @@
             "apt_type":"아파트",
             "apt_year":15.0,
             "value_score":36.005,
+            "region":"경상남도 함양군",
             "region_code":"Gyeongsangnamdo",
             "sub_region_code":"4887000000_Gyeongsangnamdo_Hamyang"
         },
@@ -162,6 +176,7 @@
             "apt_type":"아파트",
             "apt_year":10.0,
             "value_score":33.655,
+            "region":"경상남도 함양군",
             "region_code":"Gyeongsangnamdo",
             "sub_region_code":"4887000000_Gyeongsangnamdo_Hamyang"
         },
@@ -173,6 +188,7 @@
             "apt_type":"아파트",
             "apt_year":25.0,
             "value_score":18.405,
+            "region":"경상남도 함양군",
             "region_code":"Gyeongsangnamdo",
             "sub_region_code":"4887000000_Gyeongsangnamdo_Hamyang"
         },
@@ -184,6 +200,7 @@
             "apt_type":"아파트",
             "apt_year":14.0,
             "value_score":39.3778947368,
+            "region":"경상남도 함양군",
             "region_code":"Gyeongsangnamdo",
             "sub_region_code":"4887000000_Gyeongsangnamdo_Hamyang"
         },
@@ -195,6 +212,7 @@
             "apt_type":"아파트",
             "apt_year":26.0,
             "value_score":35.2747368421,
+            "region":"경상남도 함양군",
             "region_code":"Gyeongsangnamdo",
             "sub_region_code":"4887000000_Gyeongsangnamdo_Hamyang"
         },
@@ -206,6 +224,7 @@
             "apt_type":"아파트",
             "apt_year":4.0,
             "value_score":33.0378947368,
+            "region":"경상남도 함양군",
             "region_code":"Gyeongsangnamdo",
             "sub_region_code":"4887000000_Gyeongsangnamdo_Hamyang"
         },
@@ -217,6 +236,7 @@
             "apt_type":"아파트",
             "apt_year":15.0,
             "value_score":32.3273684211,
+            "region":"경상남도 함양군",
             "region_code":"Gyeongsangnamdo",
             "sub_region_code":"4887000000_Gyeongsangnamdo_Hamyang"
         },
@@ -228,6 +248,7 @@
             "apt_type":"아파트",
             "apt_year":10.0,
             "value_score":23.8010526316,
+            "region":"경상남도 함양군",
             "region_code":"Gyeongsangnamdo",
             "sub_region_code":"4887000000_Gyeongsangnamdo_Hamyang"
         },
@@ -239,6 +260,7 @@
             "apt_type":"아파트",
             "apt_year":25.0,
             "value_score":18.9852631579,
+            "region":"경상남도 함양군",
             "region_code":"Gyeongsangnamdo",
             "sub_region_code":"4887000000_Gyeongsangnamdo_Hamyang"
         },
@@ -250,6 +272,7 @@
             "apt_type":"아파트",
             "apt_year":4.0,
             "value_score":45.31,
+            "region":"경상남도 함양군",
             "region_code":"Gyeongsangnamdo",
             "sub_region_code":"4887000000_Gyeongsangnamdo_Hamyang"
         },
@@ -261,6 +284,7 @@
             "apt_type":"아파트",
             "apt_year":14.0,
             "value_score":44.615,
+            "region":"경상남도 함양군",
             "region_code":"Gyeongsangnamdo",
             "sub_region_code":"4887000000_Gyeongsangnamdo_Hamyang"
         },
@@ -272,6 +296,7 @@
             "apt_type":"아파트",
             "apt_year":26.0,
             "value_score":42.435,
+            "region":"경상남도 함양군",
             "region_code":"Gyeongsangnamdo",
             "sub_region_code":"4887000000_Gyeongsangnamdo_Hamyang"
         },
@@ -283,6 +308,7 @@
             "apt_type":"아파트",
             "apt_year":15.0,
             "value_score":41.035,
+            "region":"경상남도 함양군",
             "region_code":"Gyeongsangnamdo",
             "sub_region_code":"4887000000_Gyeongsangnamdo_Hamyang"
         },
@@ -294,6 +320,7 @@
             "apt_type":"아파트",
             "apt_year":10.0,
             "value_score":37.685,
+            "region":"경상남도 함양군",
             "region_code":"Gyeongsangnamdo",
             "sub_region_code":"4887000000_Gyeongsangnamdo_Hamyang"
         },
@@ -305,6 +332,7 @@
             "apt_type":"아파트",
             "apt_year":25.0,
             "value_score":30.06,
+            "region":"경상남도 함양군",
             "region_code":"Gyeongsangnamdo",
             "sub_region_code":"4887000000_Gyeongsangnamdo_Hamyang"
         }

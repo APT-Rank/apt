@@ -30,6 +30,10 @@
                 "type":"number"
             },
             {
+                "name":"region",
+                "type":"string"
+            },
+            {
                 "name":"region_code",
                 "type":"string"
             },
@@ -52,6 +56,7 @@
             "apt_type":"아파트",
             "apt_year":7.0,
             "value_score":31.9675,
+            "region":"전라북도 임실군",
             "region_code":"Jeollabukdo",
             "sub_region_code":"4575000000_Jeollabukdo_Imsil"
         },
@@ -63,6 +68,7 @@
             "apt_type":"아파트",
             "apt_year":5.0,
             "value_score":31.3175,
+            "region":"전라북도 임실군",
             "region_code":"Jeollabukdo",
             "sub_region_code":"4575000000_Jeollabukdo_Imsil"
         },
@@ -74,6 +80,7 @@
             "apt_type":"아파트",
             "apt_year":13.0,
             "value_score":25.8425,
+            "region":"전라북도 임실군",
             "region_code":"Jeollabukdo",
             "sub_region_code":"4575000000_Jeollabukdo_Imsil"
         },
@@ -85,6 +92,7 @@
             "apt_type":"아파트",
             "apt_year":32.0,
             "value_score":25.6925,
+            "region":"전라북도 임실군",
             "region_code":"Jeollabukdo",
             "sub_region_code":"4575000000_Jeollabukdo_Imsil"
         },
@@ -96,6 +104,7 @@
             "apt_type":"아파트",
             "apt_year":5.0,
             "value_score":36.0425,
+            "region":"전라북도 임실군",
             "region_code":"Jeollabukdo",
             "sub_region_code":"4575000000_Jeollabukdo_Imsil"
         },
@@ -107,6 +116,7 @@
             "apt_type":"아파트",
             "apt_year":7.0,
             "value_score":35.0425,
+            "region":"전라북도 임실군",
             "region_code":"Jeollabukdo",
             "sub_region_code":"4575000000_Jeollabukdo_Imsil"
         },
@@ -118,6 +128,7 @@
             "apt_type":"아파트",
             "apt_year":13.0,
             "value_score":26.2925,
+            "region":"전라북도 임실군",
             "region_code":"Jeollabukdo",
             "sub_region_code":"4575000000_Jeollabukdo_Imsil"
         },
@@ -129,6 +140,7 @@
             "apt_type":"아파트",
             "apt_year":32.0,
             "value_score":25.6925,
+            "region":"전라북도 임실군",
             "region_code":"Jeollabukdo",
             "sub_region_code":"4575000000_Jeollabukdo_Imsil"
         },
@@ -140,6 +152,7 @@
             "apt_type":"아파트",
             "apt_year":7.0,
             "value_score":29.8168421053,
+            "region":"전라북도 임실군",
             "region_code":"Jeollabukdo",
             "sub_region_code":"4575000000_Jeollabukdo_Imsil"
         },
@@ -151,6 +164,7 @@
             "apt_type":"아파트",
             "apt_year":32.0,
             "value_score":27.7168421053,
+            "region":"전라북도 임실군",
             "region_code":"Jeollabukdo",
             "sub_region_code":"4575000000_Jeollabukdo_Imsil"
         },
@@ -162,6 +176,7 @@
             "apt_type":"아파트",
             "apt_year":5.0,
             "value_score":27.4484210526,
+            "region":"전라북도 임실군",
             "region_code":"Jeollabukdo",
             "sub_region_code":"4575000000_Jeollabukdo_Imsil"
         },
@@ -173,6 +188,7 @@
             "apt_type":"아파트",
             "apt_year":13.0,
             "value_score":27.0536842105,
+            "region":"전라북도 임실군",
             "region_code":"Jeollabukdo",
             "sub_region_code":"4575000000_Jeollabukdo_Imsil"
         },
@@ -184,6 +200,7 @@
             "apt_type":"아파트",
             "apt_year":7.0,
             "value_score":36.71,
+            "region":"전라북도 임실군",
             "region_code":"Jeollabukdo",
             "sub_region_code":"4575000000_Jeollabukdo_Imsil"
         },
@@ -195,6 +212,7 @@
             "apt_type":"아파트",
             "apt_year":5.0,
             "value_score":36.46,
+            "region":"전라북도 임실군",
             "region_code":"Jeollabukdo",
             "sub_region_code":"4575000000_Jeollabukdo_Imsil"
         },
@@ -206,6 +224,7 @@
             "apt_type":"아파트",
             "apt_year":32.0,
             "value_score":33.385,
+            "region":"전라북도 임실군",
             "region_code":"Jeollabukdo",
             "sub_region_code":"4575000000_Jeollabukdo_Imsil"
         },
@@ -217,6 +236,7 @@
             "apt_type":"아파트",
             "apt_year":13.0,
             "value_score":32.335,
+            "region":"전라북도 임실군",
             "region_code":"Jeollabukdo",
             "sub_region_code":"4575000000_Jeollabukdo_Imsil"
         }

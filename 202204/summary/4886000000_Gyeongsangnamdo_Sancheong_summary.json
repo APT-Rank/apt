@@ -30,6 +30,10 @@
                 "type":"number"
             },
             {
+                "name":"region",
+                "type":"string"
+            },
+            {
                 "name":"region_code",
                 "type":"string"
             },
@@ -52,6 +56,7 @@
             "apt_type":"아파트",
             "apt_year":9.0,
             "value_score":39.945,
+            "region":"경상남도 산청군",
             "region_code":"Gyeongsangnamdo",
             "sub_region_code":"4886000000_Gyeongsangnamdo_Sancheong"
         },
@@ -63,6 +68,7 @@
             "apt_type":"아파트",
             "apt_year":30.0,
             "value_score":28.135,
+            "region":"경상남도 산청군",
             "region_code":"Gyeongsangnamdo",
             "sub_region_code":"4886000000_Gyeongsangnamdo_Sancheong"
         },
@@ -74,6 +80,7 @@
             "apt_type":"아파트",
             "apt_year":27.0,
             "value_score":26.051,
+            "region":"경상남도 산청군",
             "region_code":"Gyeongsangnamdo",
             "sub_region_code":"4886000000_Gyeongsangnamdo_Sancheong"
         },
@@ -85,6 +92,7 @@
             "apt_type":"아파트",
             "apt_year":9.0,
             "value_score":45.135,
+            "region":"경상남도 산청군",
             "region_code":"Gyeongsangnamdo",
             "sub_region_code":"4886000000_Gyeongsangnamdo_Sancheong"
         },
@@ -96,6 +104,7 @@
             "apt_type":"아파트",
             "apt_year":30.0,
             "value_score":29.035,
+            "region":"경상남도 산청군",
             "region_code":"Gyeongsangnamdo",
             "sub_region_code":"4886000000_Gyeongsangnamdo_Sancheong"
         },
@@ -107,6 +116,7 @@
             "apt_type":"아파트",
             "apt_year":27.0,
             "value_score":26.141,
+            "region":"경상남도 산청군",
             "region_code":"Gyeongsangnamdo",
             "sub_region_code":"4886000000_Gyeongsangnamdo_Sancheong"
         },
@@ -118,6 +128,7 @@
             "apt_type":"아파트",
             "apt_year":9.0,
             "value_score":35.5178947368,
+            "region":"경상남도 산청군",
             "region_code":"Gyeongsangnamdo",
             "sub_region_code":"4886000000_Gyeongsangnamdo_Sancheong"
         },
@@ -129,6 +140,7 @@
             "apt_type":"아파트",
             "apt_year":30.0,
             "value_score":29.36,
+            "region":"경상남도 산청군",
             "region_code":"Gyeongsangnamdo",
             "sub_region_code":"4886000000_Gyeongsangnamdo_Sancheong"
         },
@@ -140,6 +152,7 @@
             "apt_type":"아파트",
             "apt_year":27.0,
             "value_score":28.1570526316,
+            "region":"경상남도 산청군",
             "region_code":"Gyeongsangnamdo",
             "sub_region_code":"4886000000_Gyeongsangnamdo_Sancheong"
         },
@@ -151,6 +164,7 @@
             "apt_type":"아파트",
             "apt_year":9.0,
             "value_score":44.92,
+            "region":"경상남도 산청군",
             "region_code":"Gyeongsangnamdo",
             "sub_region_code":"4886000000_Gyeongsangnamdo_Sancheong"
         },
@@ -162,6 +176,7 @@
             "apt_type":"아파트",
             "apt_year":30.0,
             "value_score":36.57,
+            "region":"경상남도 산청군",
             "region_code":"Gyeongsangnamdo",
             "sub_region_code":"4886000000_Gyeongsangnamdo_Sancheong"
         },
@@ -173,6 +188,7 @@
             "apt_type":"아파트",
             "apt_year":27.0,
             "value_score":34.432,
+            "region":"경상남도 산청군",
             "region_code":"Gyeongsangnamdo",
             "sub_region_code":"4886000000_Gyeongsangnamdo_Sancheong"
         }

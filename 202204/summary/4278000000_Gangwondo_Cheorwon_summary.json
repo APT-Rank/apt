@@ -30,6 +30,10 @@
                 "type":"number"
             },
             {
+                "name":"region",
+                "type":"string"
+            },
+            {
                 "name":"region_code",
                 "type":"string"
             },
@@ -52,6 +56,7 @@
             "apt_type":"아파트",
             "apt_year":15.0,
             "value_score":35.7085,
+            "region":"강원도 철원군",
             "region_code":"Gangwondo",
             "sub_region_code":"4278000000_Gangwondo_Cheorwon"
         },
@@ -63,6 +68,7 @@
             "apt_type":"분양권",
             "apt_year":-1.0,
             "value_score":34.301,
+            "region":"강원도 철원군",
             "region_code":"Gangwondo",
             "sub_region_code":"4278000000_Gangwondo_Cheorwon"
         },
@@ -74,6 +80,7 @@
             "apt_type":"분양권",
             "apt_year":1.0,
             "value_score":33.4585,
+            "region":"강원도 철원군",
             "region_code":"Gangwondo",
             "sub_region_code":"4278000000_Gangwondo_Cheorwon"
         },
@@ -85,6 +92,7 @@
             "apt_type":"아파트",
             "apt_year":15.0,
             "value_score":30.351,
+            "region":"강원도 철원군",
             "region_code":"Gangwondo",
             "sub_region_code":"4278000000_Gangwondo_Cheorwon"
         },
@@ -96,6 +104,7 @@
             "apt_type":"아파트",
             "apt_year":31.0,
             "value_score":25.9085,
+            "region":"강원도 철원군",
             "region_code":"Gangwondo",
             "sub_region_code":"4278000000_Gangwondo_Cheorwon"
         },
@@ -107,6 +116,7 @@
             "apt_type":"아파트",
             "apt_year":20.0,
             "value_score":25.4285,
+            "region":"강원도 철원군",
             "region_code":"Gangwondo",
             "sub_region_code":"4278000000_Gangwondo_Cheorwon"
         },
@@ -118,6 +128,7 @@
             "apt_type":"아파트",
             "apt_year":27.0,
             "value_score":24.406,
+            "region":"강원도 철원군",
             "region_code":"Gangwondo",
             "sub_region_code":"4278000000_Gangwondo_Cheorwon"
         },
@@ -129,6 +140,7 @@
             "apt_type":"아파트",
             "apt_year":31.0,
             "value_score":23.4025,
+            "region":"강원도 철원군",
             "region_code":"Gangwondo",
             "sub_region_code":"4278000000_Gangwondo_Cheorwon"
         },
@@ -140,6 +152,7 @@
             "apt_type":"아파트",
             "apt_year":26.0,
             "value_score":22.601,
+            "region":"강원도 철원군",
             "region_code":"Gangwondo",
             "sub_region_code":"4278000000_Gangwondo_Cheorwon"
         },
@@ -151,6 +164,7 @@
             "apt_type":"아파트",
             "apt_year":28.0,
             "value_score":21.026,
+            "region":"강원도 철원군",
             "region_code":"Gangwondo",
             "sub_region_code":"4278000000_Gangwondo_Cheorwon"
         },
@@ -162,6 +176,7 @@
             "apt_type":"아파트",
             "apt_year":15.0,
             "value_score":39.9985,
+            "region":"강원도 철원군",
             "region_code":"Gangwondo",
             "sub_region_code":"4278000000_Gangwondo_Cheorwon"
         },
@@ -173,6 +188,7 @@
             "apt_type":"분양권",
             "apt_year":-1.0,
             "value_score":39.176,
+            "region":"강원도 철원군",
             "region_code":"Gangwondo",
             "sub_region_code":"4278000000_Gangwondo_Cheorwon"
         },
@@ -184,6 +200,7 @@
             "apt_type":"분양권",
             "apt_year":1.0,
             "value_score":37.7485,
+            "region":"강원도 철원군",
             "region_code":"Gangwondo",
             "sub_region_code":"4278000000_Gangwondo_Cheorwon"
         },
@@ -195,6 +212,7 @@
             "apt_type":"아파트",
             "apt_year":15.0,
             "value_score":31.926,
+            "region":"강원도 철원군",
             "region_code":"Gangwondo",
             "sub_region_code":"4278000000_Gangwondo_Cheorwon"
         },
@@ -206,6 +224,7 @@
             "apt_type":"아파트",
             "apt_year":20.0,
             "value_score":31.0535,
+            "region":"강원도 철원군",
             "region_code":"Gangwondo",
             "sub_region_code":"4278000000_Gangwondo_Cheorwon"
         },
@@ -217,6 +236,7 @@
             "apt_type":"아파트",
             "apt_year":31.0,
             "value_score":25.9985,
+            "region":"강원도 철원군",
             "region_code":"Gangwondo",
             "sub_region_code":"4278000000_Gangwondo_Cheorwon"
         },
@@ -228,6 +248,7 @@
             "apt_type":"아파트",
             "apt_year":27.0,
             "value_score":25.306,
+            "region":"강원도 철원군",
             "region_code":"Gangwondo",
             "sub_region_code":"4278000000_Gangwondo_Cheorwon"
         },
@@ -239,6 +260,7 @@
             "apt_type":"아파트",
             "apt_year":31.0,
             "value_score":24.3025,
+            "region":"강원도 철원군",
             "region_code":"Gangwondo",
             "sub_region_code":"4278000000_Gangwondo_Cheorwon"
         },
@@ -250,6 +272,7 @@
             "apt_type":"아파트",
             "apt_year":26.0,
             "value_score":23.426,
+            "region":"강원도 철원군",
             "region_code":"Gangwondo",
             "sub_region_code":"4278000000_Gangwondo_Cheorwon"
         },
@@ -261,6 +284,7 @@
             "apt_type":"아파트",
             "apt_year":28.0,
             "value_score":21.176,
+            "region":"강원도 철원군",
             "region_code":"Gangwondo",
             "sub_region_code":"4278000000_Gangwondo_Cheorwon"
         },
@@ -272,6 +296,7 @@
             "apt_type":"아파트",
             "apt_year":15.0,
             "value_score":32.3981052632,
+            "region":"강원도 철원군",
             "region_code":"Gangwondo",
             "sub_region_code":"4278000000_Gangwondo_Cheorwon"
         },
@@ -283,6 +308,7 @@
             "apt_type":"분양권",
             "apt_year":1.0,
             "value_score":30.3454736842,
+            "region":"강원도 철원군",
             "region_code":"Gangwondo",
             "sub_region_code":"4278000000_Gangwondo_Cheorwon"
         },
@@ -294,6 +320,7 @@
             "apt_type":"분양권",
             "apt_year":-1.0,
             "value_score":30.1433684211,
+            "region":"강원도 철원군",
             "region_code":"Gangwondo",
             "sub_region_code":"4278000000_Gangwondo_Cheorwon"
         },
@@ -305,6 +332,7 @@
             "apt_type":"아파트",
             "apt_year":15.0,
             "value_score":30.0907368421,
+            "region":"강원도 철원군",
             "region_code":"Gangwondo",
             "sub_region_code":"4278000000_Gangwondo_Cheorwon"
         },
@@ -316,6 +344,7 @@
             "apt_type":"아파트",
             "apt_year":31.0,
             "value_score":27.9770526316,
+            "region":"강원도 철원군",
             "region_code":"Gangwondo",
             "sub_region_code":"4278000000_Gangwondo_Cheorwon"
         },
@@ -327,6 +356,7 @@
             "apt_type":"아파트",
             "apt_year":27.0,
             "value_score":25.9654736842,
+            "region":"강원도 철원군",
             "region_code":"Gangwondo",
             "sub_region_code":"4278000000_Gangwondo_Cheorwon"
         },
@@ -338,6 +368,7 @@
             "apt_type":"아파트",
             "apt_year":31.0,
             "value_score":24.6978947368,
+            "region":"강원도 철원군",
             "region_code":"Gangwondo",
             "sub_region_code":"4278000000_Gangwondo_Cheorwon"
         },
@@ -349,6 +380,7 @@
             "apt_type":"아파트",
             "apt_year":26.0,
             "value_score":23.8275789474,
+            "region":"강원도 철원군",
             "region_code":"Gangwondo",
             "sub_region_code":"4278000000_Gangwondo_Cheorwon"
         },
@@ -360,6 +392,7 @@
             "apt_type":"아파트",
             "apt_year":25.0,
             "value_score":23.7138947368,
+            "region":"강원도 철원군",
             "region_code":"Gangwondo",
             "sub_region_code":"4278000000_Gangwondo_Cheorwon"
         },
@@ -371,6 +404,7 @@
             "apt_type":"아파트",
             "apt_year":28.0,
             "value_score":23.1170526316,
+            "region":"강원도 철원군",
             "region_code":"Gangwondo",
             "sub_region_code":"4278000000_Gangwondo_Cheorwon"
         },
@@ -382,6 +416,7 @@
             "apt_type":"아파트",
             "apt_year":15.0,
             "value_score":41.147,
+            "region":"강원도 철원군",
             "region_code":"Gangwondo",
             "sub_region_code":"4278000000_Gangwondo_Cheorwon"
         },
@@ -393,6 +428,7 @@
             "apt_type":"분양권",
             "apt_year":1.0,
             "value_score":39.647,
+            "region":"강원도 철원군",
             "region_code":"Gangwondo",
             "sub_region_code":"4278000000_Gangwondo_Cheorwon"
         },
@@ -404,6 +440,7 @@
             "apt_type":"분양권",
             "apt_year":-1.0,
             "value_score":38.977,
+            "region":"강원도 철원군",
             "region_code":"Gangwondo",
             "sub_region_code":"4278000000_Gangwondo_Cheorwon"
         },
@@ -415,6 +452,7 @@
             "apt_type":"아파트",
             "apt_year":15.0,
             "value_score":35.977,
+            "region":"강원도 철원군",
             "region_code":"Gangwondo",
             "sub_region_code":"4278000000_Gangwondo_Cheorwon"
         },
@@ -426,6 +464,7 @@
             "apt_type":"아파트",
             "apt_year":31.0,
             "value_score":34.147,
+            "region":"강원도 철원군",
             "region_code":"Gangwondo",
             "sub_region_code":"4278000000_Gangwondo_Cheorwon"
         },
@@ -437,6 +476,7 @@
             "apt_type":"아파트",
             "apt_year":27.0,
             "value_score":34.112,
+            "region":"강원도 철원군",
             "region_code":"Gangwondo",
             "sub_region_code":"4278000000_Gangwondo_Cheorwon"
         },
@@ -448,6 +488,7 @@
             "apt_type":"아파트",
             "apt_year":20.0,
             "value_score":33.982,
+            "region":"강원도 철원군",
             "region_code":"Gangwondo",
             "sub_region_code":"4278000000_Gangwondo_Cheorwon"
         },
@@ -459,6 +500,7 @@
             "apt_type":"아파트",
             "apt_year":31.0,
             "value_score":32.105,
+            "region":"강원도 철원군",
             "region_code":"Gangwondo",
             "sub_region_code":"4278000000_Gangwondo_Cheorwon"
         },
@@ -470,6 +512,7 @@
             "apt_type":"아파트",
             "apt_year":26.0,
             "value_score":30.727,
+            "region":"강원도 철원군",
             "region_code":"Gangwondo",
             "sub_region_code":"4278000000_Gangwondo_Cheorwon"
         },
@@ -481,6 +524,7 @@
             "apt_type":"아파트",
             "apt_year":25.0,
             "value_score":30.547,
+            "region":"강원도 철원군",
             "region_code":"Gangwondo",
             "sub_region_code":"4278000000_Gangwondo_Cheorwon"
         }

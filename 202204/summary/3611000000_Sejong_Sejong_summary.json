@@ -30,6 +30,10 @@
                 "type":"number"
             },
             {
+                "name":"region",
+                "type":"string"
+            },
+            {
                 "name":"region_code",
                 "type":"string"
             },
@@ -52,6 +56,7 @@
             "apt_type":"아파트",
             "apt_year":8.0,
             "value_score":60.718,
+            "region":"세종시 세종시",
             "region_code":"Sejong",
             "sub_region_code":"3611000000_Sejong_Sejong"
         },
@@ -63,6 +68,7 @@
             "apt_type":"아파트",
             "apt_year":6.0,
             "value_score":59.65,
+            "region":"세종시 세종시",
             "region_code":"Sejong",
             "sub_region_code":"3611000000_Sejong_Sejong"
         },
@@ -74,6 +80,7 @@
             "apt_type":"아파트",
             "apt_year":8.0,
             "value_score":59.493,
+            "region":"세종시 세종시",
             "region_code":"Sejong",
             "sub_region_code":"3611000000_Sejong_Sejong"
         },
@@ -85,6 +92,7 @@
             "apt_type":"아파트",
             "apt_year":5.0,
             "value_score":58.94,
+            "region":"세종시 세종시",
             "region_code":"Sejong",
             "sub_region_code":"3611000000_Sejong_Sejong"
         },
@@ -96,6 +104,7 @@
             "apt_type":"아파트",
             "apt_year":6.0,
             "value_score":58.4505,
+            "region":"세종시 세종시",
             "region_code":"Sejong",
             "sub_region_code":"3611000000_Sejong_Sejong"
         },
@@ -107,6 +116,7 @@
             "apt_type":"아파트",
             "apt_year":6.0,
             "value_score":58.45,
+            "region":"세종시 세종시",
             "region_code":"Sejong",
             "sub_region_code":"3611000000_Sejong_Sejong"
         },
@@ -118,6 +128,7 @@
             "apt_type":"아파트",
             "apt_year":6.0,
             "value_score":58.45,
+            "region":"세종시 세종시",
             "region_code":"Sejong",
             "sub_region_code":"3611000000_Sejong_Sejong"
         },
@@ -129,6 +140,7 @@
             "apt_type":"아파트",
             "apt_year":9.0,
             "value_score":57.743,
+            "region":"세종시 세종시",
             "region_code":"Sejong",
             "sub_region_code":"3611000000_Sejong_Sejong"
         },
@@ -140,6 +152,7 @@
             "apt_type":"아파트",
             "apt_year":9.0,
             "value_score":57.529,
+            "region":"세종시 세종시",
             "region_code":"Sejong",
             "sub_region_code":"3611000000_Sejong_Sejong"
         },
@@ -151,6 +164,7 @@
             "apt_type":"아파트",
             "apt_year":9.0,
             "value_score":57.3645,
+            "region":"세종시 세종시",
             "region_code":"Sejong",
             "sub_region_code":"3611000000_Sejong_Sejong"
         },
@@ -162,6 +176,7 @@
             "apt_type":"아파트",
             "apt_year":8.0,
             "value_score":68.443,
+            "region":"세종시 세종시",
             "region_code":"Sejong",
             "sub_region_code":"3611000000_Sejong_Sejong"
         },
@@ -173,6 +188,7 @@
             "apt_type":"아파트",
             "apt_year":5.0,
             "value_score":67.64,
+            "region":"세종시 세종시",
             "region_code":"Sejong",
             "sub_region_code":"3611000000_Sejong_Sejong"
         },
@@ -184,6 +200,7 @@
             "apt_type":"아파트",
             "apt_year":6.0,
             "value_score":67.375,
+            "region":"세종시 세종시",
             "region_code":"Sejong",
             "sub_region_code":"3611000000_Sejong_Sejong"
         },
@@ -195,6 +212,7 @@
             "apt_type":"아파트",
             "apt_year":8.0,
             "value_score":66.693,
+            "region":"세종시 세종시",
             "region_code":"Sejong",
             "sub_region_code":"3611000000_Sejong_Sejong"
         },
@@ -206,6 +224,7 @@
             "apt_type":"아파트",
             "apt_year":6.0,
             "value_score":66.6255,
+            "region":"세종시 세종시",
             "region_code":"Sejong",
             "sub_region_code":"3611000000_Sejong_Sejong"
         },
@@ -217,6 +236,7 @@
             "apt_type":"아파트",
             "apt_year":6.0,
             "value_score":66.625,
+            "region":"세종시 세종시",
             "region_code":"Sejong",
             "sub_region_code":"3611000000_Sejong_Sejong"
         },
@@ -228,6 +248,7 @@
             "apt_type":"아파트",
             "apt_year":6.0,
             "value_score":66.625,
+            "region":"세종시 세종시",
             "region_code":"Sejong",
             "sub_region_code":"3611000000_Sejong_Sejong"
         },
@@ -239,6 +260,7 @@
             "apt_type":"아파트",
             "apt_year":3.0,
             "value_score":65.481,
+            "region":"세종시 세종시",
             "region_code":"Sejong",
             "sub_region_code":"3611000000_Sejong_Sejong"
         },
@@ -250,6 +272,7 @@
             "apt_type":"아파트",
             "apt_year":9.0,
             "value_score":65.468,
+            "region":"세종시 세종시",
             "region_code":"Sejong",
             "sub_region_code":"3611000000_Sejong_Sejong"
         },
@@ -261,6 +284,7 @@
             "apt_type":"아파트",
             "apt_year":9.0,
             "value_score":65.3895,
+            "region":"세종시 세종시",
             "region_code":"Sejong",
             "sub_region_code":"3611000000_Sejong_Sejong"
         },
@@ -272,6 +296,7 @@
             "apt_type":"아파트",
             "apt_year":8.0,
             "value_score":52.8490526316,
+            "region":"세종시 세종시",
             "region_code":"Sejong",
             "sub_region_code":"3611000000_Sejong_Sejong"
         },
@@ -283,6 +308,7 @@
             "apt_type":"아파트",
             "apt_year":8.0,
             "value_score":52.2964210526,
+            "region":"세종시 세종시",
             "region_code":"Sejong",
             "sub_region_code":"3611000000_Sejong_Sejong"
         },
@@ -294,6 +320,7 @@
             "apt_type":"아파트",
             "apt_year":6.0,
             "value_score":51.5,
+            "region":"세종시 세종시",
             "region_code":"Sejong",
             "sub_region_code":"3611000000_Sejong_Sejong"
         },
@@ -305,6 +332,7 @@
             "apt_type":"아파트",
             "apt_year":11.0,
             "value_score":50.4010526316,
+            "region":"세종시 세종시",
             "region_code":"Sejong",
             "sub_region_code":"3611000000_Sejong_Sejong"
         },
@@ -316,6 +344,7 @@
             "apt_type":"아파트",
             "apt_year":6.0,
             "value_score":49.9216842105,
+            "region":"세종시 세종시",
             "region_code":"Sejong",
             "sub_region_code":"3611000000_Sejong_Sejong"
         },
@@ -327,6 +356,7 @@
             "apt_type":"아파트",
             "apt_year":6.0,
             "value_score":49.9210526316,
+            "region":"세종시 세종시",
             "region_code":"Sejong",
             "sub_region_code":"3611000000_Sejong_Sejong"
         },
@@ -338,6 +368,7 @@
             "apt_type":"아파트",
             "apt_year":6.0,
             "value_score":49.9210526316,
+            "region":"세종시 세종시",
             "region_code":"Sejong",
             "sub_region_code":"3611000000_Sejong_Sejong"
         },
@@ -349,6 +380,7 @@
             "apt_type":"아파트",
             "apt_year":8.0,
             "value_score":49.8610526316,
+            "region":"세종시 세종시",
             "region_code":"Sejong",
             "sub_region_code":"3611000000_Sejong_Sejong"
         },
@@ -360,6 +392,7 @@
             "apt_type":"아파트",
             "apt_year":12.0,
             "value_score":49.8496842105,
+            "region":"세종시 세종시",
             "region_code":"Sejong",
             "sub_region_code":"3611000000_Sejong_Sejong"
         },
@@ -371,6 +404,7 @@
             "apt_type":"아파트",
             "apt_year":9.0,
             "value_score":49.8155789474,
+            "region":"세종시 세종시",
             "region_code":"Sejong",
             "sub_region_code":"3611000000_Sejong_Sejong"
         },
@@ -382,6 +416,7 @@
             "apt_type":"아파트",
             "apt_year":8.0,
             "value_score":63.261,
+            "region":"세종시 세종시",
             "region_code":"Sejong",
             "sub_region_code":"3611000000_Sejong_Sejong"
         },
@@ -393,6 +428,7 @@
             "apt_type":"아파트",
             "apt_year":8.0,
             "value_score":62.386,
+            "region":"세종시 세종시",
             "region_code":"Sejong",
             "sub_region_code":"3611000000_Sejong_Sejong"
         },
@@ -404,6 +440,7 @@
             "apt_type":"아파트",
             "apt_year":6.0,
             "value_score":61.125,
+            "region":"세종시 세종시",
             "region_code":"Sejong",
             "sub_region_code":"3611000000_Sejong_Sejong"
         },
@@ -415,6 +452,7 @@
             "apt_type":"아파트",
             "apt_year":6.0,
             "value_score":60.376,
+            "region":"세종시 세종시",
             "region_code":"Sejong",
             "sub_region_code":"3611000000_Sejong_Sejong"
         },
@@ -426,6 +464,7 @@
             "apt_type":"아파트",
             "apt_year":6.0,
             "value_score":60.375,
+            "region":"세종시 세종시",
             "region_code":"Sejong",
             "sub_region_code":"3611000000_Sejong_Sejong"
         },
@@ -437,6 +476,7 @@
             "apt_type":"아파트",
             "apt_year":6.0,
             "value_score":60.375,
+            "region":"세종시 세종시",
             "region_code":"Sejong",
             "sub_region_code":"3611000000_Sejong_Sejong"
         },
@@ -448,6 +488,7 @@
             "apt_type":"아파트",
             "apt_year":5.0,
             "value_score":59.78,
+            "region":"세종시 세종시",
             "region_code":"Sejong",
             "sub_region_code":"3611000000_Sejong_Sejong"
         },
@@ -459,6 +500,7 @@
             "apt_type":"아파트",
             "apt_year":11.0,
             "value_score":59.385,
+            "region":"세종시 세종시",
             "region_code":"Sejong",
             "sub_region_code":"3611000000_Sejong_Sejong"
         },
@@ -470,6 +512,7 @@
             "apt_type":"아파트",
             "apt_year":11.0,
             "value_score":58.756,
+            "region":"세종시 세종시",
             "region_code":"Sejong",
             "sub_region_code":"3611000000_Sejong_Sejong"
         },
@@ -481,6 +524,7 @@
             "apt_type":"아파트",
             "apt_year":9.0,
             "value_score":58.654,
+            "region":"세종시 세종시",
             "region_code":"Sejong",
             "sub_region_code":"3611000000_Sejong_Sejong"
         }

@@ -30,6 +30,10 @@
                 "type":"number"
             },
             {
+                "name":"region",
+                "type":"string"
+            },
+            {
                 "name":"region_code",
                 "type":"string"
             },
@@ -52,6 +56,7 @@
             "apt_type":"아파트",
             "apt_year":12.0,
             "value_score":68.5005,
+            "region":"충청남도 아산시",
             "region_code":"Chungcheongnamdo",
             "sub_region_code":"4420000000_Chungcheongnamdo_Asan"
         },
@@ -63,6 +68,7 @@
             "apt_type":"아파트",
             "apt_year":1.0,
             "value_score":64.2315,
+            "region":"충청남도 아산시",
             "region_code":"Chungcheongnamdo",
             "sub_region_code":"4420000000_Chungcheongnamdo_Asan"
         },
@@ -74,6 +80,7 @@
             "apt_type":"아파트",
             "apt_year":2.0,
             "value_score":63.0565,
+            "region":"충청남도 아산시",
             "region_code":"Chungcheongnamdo",
             "sub_region_code":"4420000000_Chungcheongnamdo_Asan"
         },
@@ -85,6 +92,7 @@
             "apt_type":"아파트",
             "apt_year":13.0,
             "value_score":62.869,
+            "region":"충청남도 아산시",
             "region_code":"Chungcheongnamdo",
             "sub_region_code":"4420000000_Chungcheongnamdo_Asan"
         },
@@ -96,6 +104,7 @@
             "apt_type":"분양권",
             "apt_year":1.0,
             "value_score":62.6565,
+            "region":"충청남도 아산시",
             "region_code":"Chungcheongnamdo",
             "sub_region_code":"4420000000_Chungcheongnamdo_Asan"
         },
@@ -107,6 +116,7 @@
             "apt_type":"분양권",
             "apt_year":1.0,
             "value_score":62.2815,
+            "region":"충청남도 아산시",
             "region_code":"Chungcheongnamdo",
             "sub_region_code":"4420000000_Chungcheongnamdo_Asan"
         },
@@ -118,6 +128,7 @@
             "apt_type":"아파트",
             "apt_year":14.0,
             "value_score":61.4565,
+            "region":"충청남도 아산시",
             "region_code":"Chungcheongnamdo",
             "sub_region_code":"4420000000_Chungcheongnamdo_Asan"
         },
@@ -129,6 +140,7 @@
             "apt_type":"아파트",
             "apt_year":1.0,
             "value_score":60.5565,
+            "region":"충청남도 아산시",
             "region_code":"Chungcheongnamdo",
             "sub_region_code":"4420000000_Chungcheongnamdo_Asan"
         },
@@ -140,6 +152,7 @@
             "apt_type":"아파트",
             "apt_year":12.0,
             "value_score":58.9565,
+            "region":"충청남도 아산시",
             "region_code":"Chungcheongnamdo",
             "sub_region_code":"4420000000_Chungcheongnamdo_Asan"
         },
@@ -151,6 +164,7 @@
             "apt_type":"아파트",
             "apt_year":13.0,
             "value_score":58.7145,
+            "region":"충청남도 아산시",
             "region_code":"Chungcheongnamdo",
             "sub_region_code":"4420000000_Chungcheongnamdo_Asan"
         },
@@ -162,6 +176,7 @@
             "apt_type":"아파트",
             "apt_year":12.0,
             "value_score":69.9255,
+            "region":"충청남도 아산시",
             "region_code":"Chungcheongnamdo",
             "sub_region_code":"4420000000_Chungcheongnamdo_Asan"
         },
@@ -173,6 +188,7 @@
             "apt_type":"아파트",
             "apt_year":1.0,
             "value_score":69.7815,
+            "region":"충청남도 아산시",
             "region_code":"Chungcheongnamdo",
             "sub_region_code":"4420000000_Chungcheongnamdo_Asan"
         },
@@ -184,6 +200,7 @@
             "apt_type":"분양권",
             "apt_year":1.0,
             "value_score":68.2815,
+            "region":"충청남도 아산시",
             "region_code":"Chungcheongnamdo",
             "sub_region_code":"4420000000_Chungcheongnamdo_Asan"
         },
@@ -195,6 +212,7 @@
             "apt_type":"아파트",
             "apt_year":2.0,
             "value_score":67.7815,
+            "region":"충청남도 아산시",
             "region_code":"Chungcheongnamdo",
             "sub_region_code":"4420000000_Chungcheongnamdo_Asan"
         },
@@ -206,6 +224,7 @@
             "apt_type":"분양권",
             "apt_year":1.0,
             "value_score":67.5315,
+            "region":"충청남도 아산시",
             "region_code":"Chungcheongnamdo",
             "sub_region_code":"4420000000_Chungcheongnamdo_Asan"
         },
@@ -217,6 +236,7 @@
             "apt_type":"아파트",
             "apt_year":14.0,
             "value_score":64.5315,
+            "region":"충청남도 아산시",
             "region_code":"Chungcheongnamdo",
             "sub_region_code":"4420000000_Chungcheongnamdo_Asan"
         },
@@ -228,6 +248,7 @@
             "apt_type":"아파트",
             "apt_year":1.0,
             "value_score":64.5315,
+            "region":"충청남도 아산시",
             "region_code":"Chungcheongnamdo",
             "sub_region_code":"4420000000_Chungcheongnamdo_Asan"
         },
@@ -239,6 +260,7 @@
             "apt_type":"아파트",
             "apt_year":13.0,
             "value_score":63.994,
+            "region":"충청남도 아산시",
             "region_code":"Chungcheongnamdo",
             "sub_region_code":"4420000000_Chungcheongnamdo_Asan"
         },
@@ -250,6 +272,7 @@
             "apt_type":"아파트",
             "apt_year":12.0,
             "value_score":61.2815,
+            "region":"충청남도 아산시",
             "region_code":"Chungcheongnamdo",
             "sub_region_code":"4420000000_Chungcheongnamdo_Asan"
         },
@@ -261,6 +284,7 @@
             "apt_type":"분양권",
             "apt_year":0.0,
             "value_score":61.2815,
+            "region":"충청남도 아산시",
             "region_code":"Chungcheongnamdo",
             "sub_region_code":"4420000000_Chungcheongnamdo_Asan"
         },
@@ -272,6 +296,7 @@
             "apt_type":"아파트",
             "apt_year":12.0,
             "value_score":65.9322105263,
+            "region":"충청남도 아산시",
             "region_code":"Chungcheongnamdo",
             "sub_region_code":"4420000000_Chungcheongnamdo_Asan"
         },
@@ -283,6 +308,7 @@
             "apt_type":"아파트",
             "apt_year":13.0,
             "value_score":60.9661052632,
+            "region":"충청남도 아산시",
             "region_code":"Chungcheongnamdo",
             "sub_region_code":"4420000000_Chungcheongnamdo_Asan"
         },
@@ -294,6 +320,7 @@
             "apt_type":"분양권",
             "apt_year":0.0,
             "value_score":58.0898947368,
+            "region":"충청남도 아산시",
             "region_code":"Chungcheongnamdo",
             "sub_region_code":"4420000000_Chungcheongnamdo_Asan"
         },
@@ -305,6 +332,7 @@
             "apt_type":"아파트",
             "apt_year":14.0,
             "value_score":57.5924210526,
+            "region":"충청남도 아산시",
             "region_code":"Chungcheongnamdo",
             "sub_region_code":"4420000000_Chungcheongnamdo_Asan"
         },
@@ -316,6 +344,7 @@
             "apt_type":"아파트",
             "apt_year":1.0,
             "value_score":57.4608421053,
+            "region":"충청남도 아산시",
             "region_code":"Chungcheongnamdo",
             "sub_region_code":"4420000000_Chungcheongnamdo_Asan"
         },
@@ -327,6 +356,7 @@
             "apt_type":"아파트",
             "apt_year":24.0,
             "value_score":57.3501052632,
+            "region":"충청남도 아산시",
             "region_code":"Chungcheongnamdo",
             "sub_region_code":"4420000000_Chungcheongnamdo_Asan"
         },
@@ -338,6 +368,7 @@
             "apt_type":"아파트",
             "apt_year":2.0,
             "value_score":57.2766315789,
+            "region":"충청남도 아산시",
             "region_code":"Chungcheongnamdo",
             "sub_region_code":"4420000000_Chungcheongnamdo_Asan"
         },
@@ -349,6 +380,7 @@
             "apt_type":"분양권",
             "apt_year":1.0,
             "value_score":56.7503157895,
+            "region":"충청남도 아산시",
             "region_code":"Chungcheongnamdo",
             "sub_region_code":"4420000000_Chungcheongnamdo_Asan"
         },
@@ -360,6 +392,7 @@
             "apt_type":"아파트",
             "apt_year":12.0,
             "value_score":56.1187368421,
+            "region":"충청남도 아산시",
             "region_code":"Chungcheongnamdo",
             "sub_region_code":"4420000000_Chungcheongnamdo_Asan"
         },
@@ -371,6 +404,7 @@
             "apt_type":"아파트",
             "apt_year":1.0,
             "value_score":55.8029473684,
+            "region":"충청남도 아산시",
             "region_code":"Chungcheongnamdo",
             "sub_region_code":"4420000000_Chungcheongnamdo_Asan"
         },
@@ -382,6 +416,7 @@
             "apt_type":"아파트",
             "apt_year":12.0,
             "value_score":64.726,
+            "region":"충청남도 아산시",
             "region_code":"Chungcheongnamdo",
             "sub_region_code":"4420000000_Chungcheongnamdo_Asan"
         },
@@ -393,6 +428,7 @@
             "apt_type":"아파트",
             "apt_year":1.0,
             "value_score":61.813,
+            "region":"충청남도 아산시",
             "region_code":"Chungcheongnamdo",
             "sub_region_code":"4420000000_Chungcheongnamdo_Asan"
         },
@@ -404,6 +440,7 @@
             "apt_type":"아파트",
             "apt_year":2.0,
             "value_score":60.938,
+            "region":"충청남도 아산시",
             "region_code":"Chungcheongnamdo",
             "sub_region_code":"4420000000_Chungcheongnamdo_Asan"
         },
@@ -415,6 +452,7 @@
             "apt_type":"분양권",
             "apt_year":1.0,
             "value_score":60.688,
+            "region":"충청남도 아산시",
             "region_code":"Chungcheongnamdo",
             "sub_region_code":"4420000000_Chungcheongnamdo_Asan"
         },
@@ -426,6 +464,7 @@
             "apt_type":"분양권",
             "apt_year":1.0,
             "value_score":60.563,
+            "region":"충청남도 아산시",
             "region_code":"Chungcheongnamdo",
             "sub_region_code":"4420000000_Chungcheongnamdo_Asan"
         },
@@ -437,6 +476,7 @@
             "apt_type":"아파트",
             "apt_year":13.0,
             "value_score":60.363,
+            "region":"충청남도 아산시",
             "region_code":"Chungcheongnamdo",
             "sub_region_code":"4420000000_Chungcheongnamdo_Asan"
         },
@@ -448,6 +488,7 @@
             "apt_type":"아파트",
             "apt_year":14.0,
             "value_score":59.688,
+            "region":"충청남도 아산시",
             "region_code":"Chungcheongnamdo",
             "sub_region_code":"4420000000_Chungcheongnamdo_Asan"
         },
@@ -459,6 +500,7 @@
             "apt_type":"아파트",
             "apt_year":1.0,
             "value_score":59.188,
+            "region":"충청남도 아산시",
             "region_code":"Chungcheongnamdo",
             "sub_region_code":"4420000000_Chungcheongnamdo_Asan"
         },
@@ -470,6 +512,7 @@
             "apt_type":"아파트",
             "apt_year":12.0,
             "value_score":57.938,
+            "region":"충청남도 아산시",
             "region_code":"Chungcheongnamdo",
             "sub_region_code":"4420000000_Chungcheongnamdo_Asan"
         },
@@ -481,6 +524,7 @@
             "apt_type":"아파트",
             "apt_year":13.0,
             "value_score":57.784,
+            "region":"충청남도 아산시",
             "region_code":"Chungcheongnamdo",
             "sub_region_code":"4420000000_Chungcheongnamdo_Asan"
         }

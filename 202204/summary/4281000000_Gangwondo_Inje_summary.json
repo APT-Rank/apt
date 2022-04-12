@@ -30,6 +30,10 @@
                 "type":"number"
             },
             {
+                "name":"region",
+                "type":"string"
+            },
+            {
                 "name":"region_code",
                 "type":"string"
             },
@@ -52,6 +56,7 @@
             "apt_type":"아파트",
             "apt_year":3.0,
             "value_score":38.894,
+            "region":"강원도 인제군",
             "region_code":"Gangwondo",
             "sub_region_code":"4281000000_Gangwondo_Inje"
         },
@@ -63,6 +68,7 @@
             "apt_type":"아파트",
             "apt_year":3.0,
             "value_score":35.2145,
+            "region":"강원도 인제군",
             "region_code":"Gangwondo",
             "sub_region_code":"4281000000_Gangwondo_Inje"
         },
@@ -74,6 +80,7 @@
             "apt_type":"아파트",
             "apt_year":19.0,
             "value_score":27.494,
+            "region":"강원도 인제군",
             "region_code":"Gangwondo",
             "sub_region_code":"4281000000_Gangwondo_Inje"
         },
@@ -85,6 +92,7 @@
             "apt_type":"아파트",
             "apt_year":21.0,
             "value_score":27.4895,
+            "region":"강원도 인제군",
             "region_code":"Gangwondo",
             "sub_region_code":"4281000000_Gangwondo_Inje"
         },
@@ -96,6 +104,7 @@
             "apt_type":"아파트",
             "apt_year":20.0,
             "value_score":27.3795,
+            "region":"강원도 인제군",
             "region_code":"Gangwondo",
             "sub_region_code":"4281000000_Gangwondo_Inje"
         },
@@ -107,6 +116,7 @@
             "apt_type":"아파트",
             "apt_year":32.0,
             "value_score":25.2795,
+            "region":"강원도 인제군",
             "region_code":"Gangwondo",
             "sub_region_code":"4281000000_Gangwondo_Inje"
         },
@@ -118,6 +128,7 @@
             "apt_type":"아파트",
             "apt_year":21.0,
             "value_score":22.1795,
+            "region":"강원도 인제군",
             "region_code":"Gangwondo",
             "sub_region_code":"4281000000_Gangwondo_Inje"
         },
@@ -129,6 +140,7 @@
             "apt_type":"아파트",
             "apt_year":22.0,
             "value_score":21.5395,
+            "region":"강원도 인제군",
             "region_code":"Gangwondo",
             "sub_region_code":"4281000000_Gangwondo_Inje"
         },
@@ -140,6 +152,7 @@
             "apt_type":"아파트",
             "apt_year":19.0,
             "value_score":18.7795,
+            "region":"강원도 인제군",
             "region_code":"Gangwondo",
             "sub_region_code":"4281000000_Gangwondo_Inje"
         },
@@ -151,6 +164,7 @@
             "apt_type":"아파트",
             "apt_year":3.0,
             "value_score":45.434,
+            "region":"강원도 인제군",
             "region_code":"Gangwondo",
             "sub_region_code":"4281000000_Gangwondo_Inje"
         },
@@ -162,6 +176,7 @@
             "apt_type":"아파트",
             "apt_year":3.0,
             "value_score":40.1795,
+            "region":"강원도 인제군",
             "region_code":"Gangwondo",
             "sub_region_code":"4281000000_Gangwondo_Inje"
         },
@@ -173,6 +188,7 @@
             "apt_type":"아파트",
             "apt_year":19.0,
             "value_score":29.594,
+            "region":"강원도 인제군",
             "region_code":"Gangwondo",
             "sub_region_code":"4281000000_Gangwondo_Inje"
         },
@@ -184,6 +200,7 @@
             "apt_type":"아파트",
             "apt_year":21.0,
             "value_score":28.1795,
+            "region":"강원도 인제군",
             "region_code":"Gangwondo",
             "sub_region_code":"4281000000_Gangwondo_Inje"
         },
@@ -195,6 +212,7 @@
             "apt_type":"아파트",
             "apt_year":32.0,
             "value_score":26.4795,
+            "region":"강원도 인제군",
             "region_code":"Gangwondo",
             "sub_region_code":"4281000000_Gangwondo_Inje"
         },
@@ -206,6 +224,7 @@
             "apt_type":"아파트",
             "apt_year":20.0,
             "value_score":25.5795,
+            "region":"강원도 인제군",
             "region_code":"Gangwondo",
             "sub_region_code":"4281000000_Gangwondo_Inje"
         },
@@ -217,6 +236,7 @@
             "apt_type":"아파트",
             "apt_year":21.0,
             "value_score":21.7295,
+            "region":"강원도 인제군",
             "region_code":"Gangwondo",
             "sub_region_code":"4281000000_Gangwondo_Inje"
         },
@@ -228,6 +248,7 @@
             "apt_type":"아파트",
             "apt_year":19.0,
             "value_score":21.3295,
+            "region":"강원도 인제군",
             "region_code":"Gangwondo",
             "sub_region_code":"4281000000_Gangwondo_Inje"
         },
@@ -239,6 +260,7 @@
             "apt_type":"아파트",
             "apt_year":22.0,
             "value_score":21.3295,
+            "region":"강원도 인제군",
             "region_code":"Gangwondo",
             "sub_region_code":"4281000000_Gangwondo_Inje"
         },
@@ -250,6 +272,7 @@
             "apt_type":"아파트",
             "apt_year":3.0,
             "value_score":32.9482105263,
+            "region":"강원도 인제군",
             "region_code":"Gangwondo",
             "sub_region_code":"4281000000_Gangwondo_Inje"
         },
@@ -261,6 +284,7 @@
             "apt_type":"아파트",
             "apt_year":20.0,
             "value_score":31.4162105263,
+            "region":"강원도 인제군",
             "region_code":"Gangwondo",
             "sub_region_code":"4281000000_Gangwondo_Inje"
         },
@@ -272,6 +296,7 @@
             "apt_type":"아파트",
             "apt_year":3.0,
             "value_score":31.2846315789,
+            "region":"강원도 인제군",
             "region_code":"Gangwondo",
             "sub_region_code":"4281000000_Gangwondo_Inje"
         },
@@ -283,6 +308,7 @@
             "apt_type":"아파트",
             "apt_year":21.0,
             "value_score":28.8372631579,
+            "region":"강원도 인제군",
             "region_code":"Gangwondo",
             "sub_region_code":"4281000000_Gangwondo_Inje"
         },
@@ -294,6 +320,7 @@
             "apt_type":"아파트",
             "apt_year":19.0,
             "value_score":27.5924210526,
+            "region":"강원도 인제군",
             "region_code":"Gangwondo",
             "sub_region_code":"4281000000_Gangwondo_Inje"
         },
@@ -305,6 +332,7 @@
             "apt_type":"아파트",
             "apt_year":32.0,
             "value_score":25.7109473684,
+            "region":"강원도 인제군",
             "region_code":"Gangwondo",
             "sub_region_code":"4281000000_Gangwondo_Inje"
         },
@@ -316,6 +344,7 @@
             "apt_type":"아파트",
             "apt_year":21.0,
             "value_score":24.6583157895,
+            "region":"강원도 인제군",
             "region_code":"Gangwondo",
             "sub_region_code":"4281000000_Gangwondo_Inje"
         },
@@ -327,6 +356,7 @@
             "apt_type":"아파트",
             "apt_year":22.0,
             "value_score":23.8162105263,
+            "region":"강원도 인제군",
             "region_code":"Gangwondo",
             "sub_region_code":"4281000000_Gangwondo_Inje"
         },
@@ -338,6 +368,7 @@
             "apt_type":"아파트",
             "apt_year":19.0,
             "value_score":18.8898947368,
+            "region":"강원도 인제군",
             "region_code":"Gangwondo",
             "sub_region_code":"4281000000_Gangwondo_Inje"
         },
@@ -349,6 +380,7 @@
             "apt_type":"아파트",
             "apt_year":3.0,
             "value_score":43.768,
+            "region":"강원도 인제군",
             "region_code":"Gangwondo",
             "sub_region_code":"4281000000_Gangwondo_Inje"
         },
@@ -360,6 +392,7 @@
             "apt_type":"아파트",
             "apt_year":3.0,
             "value_score":41.134,
+            "region":"강원도 인제군",
             "region_code":"Gangwondo",
             "sub_region_code":"4281000000_Gangwondo_Inje"
         },
@@ -371,6 +404,7 @@
             "apt_type":"아파트",
             "apt_year":19.0,
             "value_score":36.688,
+            "region":"강원도 인제군",
             "region_code":"Gangwondo",
             "sub_region_code":"4281000000_Gangwondo_Inje"
         },
@@ -382,6 +416,7 @@
             "apt_type":"아파트",
             "apt_year":21.0,
             "value_score":35.509,
+            "region":"강원도 인제군",
             "region_code":"Gangwondo",
             "sub_region_code":"4281000000_Gangwondo_Inje"
         },
@@ -393,6 +428,7 @@
             "apt_type":"아파트",
             "apt_year":20.0,
             "value_score":35.159,
+            "region":"강원도 인제군",
             "region_code":"Gangwondo",
             "sub_region_code":"4281000000_Gangwondo_Inje"
         },
@@ -404,6 +440,7 @@
             "apt_type":"아파트",
             "apt_year":32.0,
             "value_score":31.959,
+            "region":"강원도 인제군",
             "region_code":"Gangwondo",
             "sub_region_code":"4281000000_Gangwondo_Inje"
         },
@@ -415,6 +452,7 @@
             "apt_type":"아파트",
             "apt_year":19.0,
             "value_score":29.909,
+            "region":"강원도 인제군",
             "region_code":"Gangwondo",
             "sub_region_code":"4281000000_Gangwondo_Inje"
         },
@@ -426,6 +464,7 @@
             "apt_type":"아파트",
             "apt_year":21.0,
             "value_score":29.709,
+            "region":"강원도 인제군",
             "region_code":"Gangwondo",
             "sub_region_code":"4281000000_Gangwondo_Inje"
         },
@@ -437,6 +476,7 @@
             "apt_type":"아파트",
             "apt_year":22.0,
             "value_score":29.309,
+            "region":"강원도 인제군",
             "region_code":"Gangwondo",
             "sub_region_code":"4281000000_Gangwondo_Inje"
         }

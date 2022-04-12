@@ -30,6 +30,10 @@
                 "type":"number"
             },
             {
+                "name":"region",
+                "type":"string"
+            },
+            {
                 "name":"region_code",
                 "type":"string"
             },
@@ -52,6 +56,7 @@
             "apt_type":"아파트",
             "apt_year":6.0,
             "value_score":51.0095,
+            "region":"충청남도 예산군",
             "region_code":"Chungcheongnamdo",
             "sub_region_code":"4481000000_Chungcheongnamdo_Yesan"
         },
@@ -63,6 +68,7 @@
             "apt_type":"아파트",
             "apt_year":14.0,
             "value_score":48.8935,
+            "region":"충청남도 예산군",
             "region_code":"Chungcheongnamdo",
             "sub_region_code":"4481000000_Chungcheongnamdo_Yesan"
         },
@@ -74,6 +80,7 @@
             "apt_type":"아파트",
             "apt_year":15.0,
             "value_score":47.4935,
+            "region":"충청남도 예산군",
             "region_code":"Chungcheongnamdo",
             "sub_region_code":"4481000000_Chungcheongnamdo_Yesan"
         },
@@ -85,6 +92,7 @@
             "apt_type":"아파트",
             "apt_year":17.0,
             "value_score":45.9185,
+            "region":"충청남도 예산군",
             "region_code":"Chungcheongnamdo",
             "sub_region_code":"4481000000_Chungcheongnamdo_Yesan"
         },
@@ -96,6 +104,7 @@
             "apt_type":"분양권",
             "apt_year":-1.0,
             "value_score":44.867,
+            "region":"충청남도 예산군",
             "region_code":"Chungcheongnamdo",
             "sub_region_code":"4481000000_Chungcheongnamdo_Yesan"
         },
@@ -107,6 +116,7 @@
             "apt_type":"분양권",
             "apt_year":-1.0,
             "value_score":44.867,
+            "region":"충청남도 예산군",
             "region_code":"Chungcheongnamdo",
             "sub_region_code":"4481000000_Chungcheongnamdo_Yesan"
         },
@@ -118,6 +128,7 @@
             "apt_type":"분양권",
             "apt_year":1.0,
             "value_score":43.642,
+            "region":"충청남도 예산군",
             "region_code":"Chungcheongnamdo",
             "sub_region_code":"4481000000_Chungcheongnamdo_Yesan"
         },
@@ -129,6 +140,7 @@
             "apt_type":"아파트",
             "apt_year":6.0,
             "value_score":42.242,
+            "region":"충청남도 예산군",
             "region_code":"Chungcheongnamdo",
             "sub_region_code":"4481000000_Chungcheongnamdo_Yesan"
         },
@@ -140,6 +152,7 @@
             "apt_type":"분양권",
             "apt_year":0.0,
             "value_score":42.067,
+            "region":"충청남도 예산군",
             "region_code":"Chungcheongnamdo",
             "sub_region_code":"4481000000_Chungcheongnamdo_Yesan"
         },
@@ -151,6 +164,7 @@
             "apt_type":"아파트",
             "apt_year":8.0,
             "value_score":41.2855,
+            "region":"충청남도 예산군",
             "region_code":"Chungcheongnamdo",
             "sub_region_code":"4481000000_Chungcheongnamdo_Yesan"
         },
@@ -162,6 +176,7 @@
             "apt_type":"분양권",
             "apt_year":-1.0,
             "value_score":57.992,
+            "region":"충청남도 예산군",
             "region_code":"Chungcheongnamdo",
             "sub_region_code":"4481000000_Chungcheongnamdo_Yesan"
         },
@@ -173,6 +188,7 @@
             "apt_type":"분양권",
             "apt_year":-1.0,
             "value_score":57.992,
+            "region":"충청남도 예산군",
             "region_code":"Chungcheongnamdo",
             "sub_region_code":"4481000000_Chungcheongnamdo_Yesan"
         },
@@ -184,6 +200,7 @@
             "apt_type":"분양권",
             "apt_year":1.0,
             "value_score":56.242,
+            "region":"충청남도 예산군",
             "region_code":"Chungcheongnamdo",
             "sub_region_code":"4481000000_Chungcheongnamdo_Yesan"
         },
@@ -195,6 +212,7 @@
             "apt_type":"아파트",
             "apt_year":6.0,
             "value_score":54.242,
+            "region":"충청남도 예산군",
             "region_code":"Chungcheongnamdo",
             "sub_region_code":"4481000000_Chungcheongnamdo_Yesan"
         },
@@ -206,6 +224,7 @@
             "apt_type":"분양권",
             "apt_year":0.0,
             "value_score":53.992,
+            "region":"충청남도 예산군",
             "region_code":"Chungcheongnamdo",
             "sub_region_code":"4481000000_Chungcheongnamdo_Yesan"
         },
@@ -217,6 +236,7 @@
             "apt_type":"아파트",
             "apt_year":6.0,
             "value_score":53.5595,
+            "region":"충청남도 예산군",
             "region_code":"Chungcheongnamdo",
             "sub_region_code":"4481000000_Chungcheongnamdo_Yesan"
         },
@@ -228,6 +248,7 @@
             "apt_type":"아파트",
             "apt_year":14.0,
             "value_score":53.0185,
+            "region":"충청남도 예산군",
             "region_code":"Chungcheongnamdo",
             "sub_region_code":"4481000000_Chungcheongnamdo_Yesan"
         },
@@ -239,6 +260,7 @@
             "apt_type":"아파트",
             "apt_year":15.0,
             "value_score":51.0185,
+            "region":"충청남도 예산군",
             "region_code":"Chungcheongnamdo",
             "sub_region_code":"4481000000_Chungcheongnamdo_Yesan"
         },
@@ -250,6 +272,7 @@
             "apt_type":"아파트",
             "apt_year":17.0,
             "value_score":48.7685,
+            "region":"충청남도 예산군",
             "region_code":"Chungcheongnamdo",
             "sub_region_code":"4481000000_Chungcheongnamdo_Yesan"
         },
@@ -261,6 +284,7 @@
             "apt_type":"분양권",
             "apt_year":1.0,
             "value_score":43.992,
+            "region":"충청남도 예산군",
             "region_code":"Chungcheongnamdo",
             "sub_region_code":"4481000000_Chungcheongnamdo_Yesan"
         },
@@ -272,6 +296,7 @@
             "apt_type":"아파트",
             "apt_year":6.0,
             "value_score":48.0225263158,
+            "region":"충청남도 예산군",
             "region_code":"Chungcheongnamdo",
             "sub_region_code":"4481000000_Chungcheongnamdo_Yesan"
         },
@@ -283,6 +308,7 @@
             "apt_type":"아파트",
             "apt_year":14.0,
             "value_score":44.9970526316,
+            "region":"충청남도 예산군",
             "region_code":"Chungcheongnamdo",
             "sub_region_code":"4481000000_Chungcheongnamdo_Yesan"
         },
@@ -294,6 +320,7 @@
             "apt_type":"아파트",
             "apt_year":15.0,
             "value_score":44.3654736842,
+            "region":"충청남도 예산군",
             "region_code":"Chungcheongnamdo",
             "sub_region_code":"4481000000_Chungcheongnamdo_Yesan"
         },
@@ -305,6 +332,7 @@
             "apt_type":"아파트",
             "apt_year":17.0,
             "value_score":43.6549473684,
+            "region":"충청남도 예산군",
             "region_code":"Chungcheongnamdo",
             "sub_region_code":"4481000000_Chungcheongnamdo_Yesan"
         },
@@ -316,6 +344,7 @@
             "apt_type":"아파트",
             "apt_year":27.0,
             "value_score":40.8917894737,
+            "region":"충청남도 예산군",
             "region_code":"Chungcheongnamdo",
             "sub_region_code":"4481000000_Chungcheongnamdo_Yesan"
         },
@@ -327,6 +356,7 @@
             "apt_type":"아파트",
             "apt_year":8.0,
             "value_score":40.5237894737,
+            "region":"충청남도 예산군",
             "region_code":"Chungcheongnamdo",
             "sub_region_code":"4481000000_Chungcheongnamdo_Yesan"
         },
@@ -338,6 +368,7 @@
             "apt_type":"아파트",
             "apt_year":22.0,
             "value_score":39.8395789474,
+            "region":"충청남도 예산군",
             "region_code":"Chungcheongnamdo",
             "sub_region_code":"4481000000_Chungcheongnamdo_Yesan"
         },
@@ -349,6 +380,7 @@
             "apt_type":"아파트",
             "apt_year":26.0,
             "value_score":39.208,
+            "region":"충청남도 예산군",
             "region_code":"Chungcheongnamdo",
             "sub_region_code":"4481000000_Chungcheongnamdo_Yesan"
         },
@@ -360,6 +392,7 @@
             "apt_type":"아파트",
             "apt_year":25.0,
             "value_score":38.1286315789,
+            "region":"충청남도 예산군",
             "region_code":"Chungcheongnamdo",
             "sub_region_code":"4481000000_Chungcheongnamdo_Yesan"
         },
@@ -371,6 +404,7 @@
             "apt_type":"아파트",
             "apt_year":23.0,
             "value_score":37.9448421053,
+            "region":"충청남도 예산군",
             "region_code":"Chungcheongnamdo",
             "sub_region_code":"4481000000_Chungcheongnamdo_Yesan"
         },
@@ -382,6 +416,7 @@
             "apt_type":"아파트",
             "apt_year":14.0,
             "value_score":51.412,
+            "region":"충청남도 예산군",
             "region_code":"Chungcheongnamdo",
             "sub_region_code":"4481000000_Chungcheongnamdo_Yesan"
         },
@@ -393,6 +428,7 @@
             "apt_type":"아파트",
             "apt_year":15.0,
             "value_score":50.412,
+            "region":"충청남도 예산군",
             "region_code":"Chungcheongnamdo",
             "sub_region_code":"4481000000_Chungcheongnamdo_Yesan"
         },
@@ -404,6 +440,7 @@
             "apt_type":"아파트",
             "apt_year":6.0,
             "value_score":50.369,
+            "region":"충청남도 예산군",
             "region_code":"Chungcheongnamdo",
             "sub_region_code":"4481000000_Chungcheongnamdo_Yesan"
         },
@@ -415,6 +452,7 @@
             "apt_type":"아파트",
             "apt_year":17.0,
             "value_score":49.287,
+            "region":"충청남도 예산군",
             "region_code":"Chungcheongnamdo",
             "sub_region_code":"4481000000_Chungcheongnamdo_Yesan"
         },
@@ -426,6 +464,7 @@
             "apt_type":"분양권",
             "apt_year":-1.0,
             "value_score":47.359,
+            "region":"충청남도 예산군",
             "region_code":"Chungcheongnamdo",
             "sub_region_code":"4481000000_Chungcheongnamdo_Yesan"
         },
@@ -437,6 +476,7 @@
             "apt_type":"분양권",
             "apt_year":-1.0,
             "value_score":47.359,
+            "region":"충청남도 예산군",
             "region_code":"Chungcheongnamdo",
             "sub_region_code":"4481000000_Chungcheongnamdo_Yesan"
         },
@@ -448,6 +488,7 @@
             "apt_type":"분양권",
             "apt_year":1.0,
             "value_score":46.484,
+            "region":"충청남도 예산군",
             "region_code":"Chungcheongnamdo",
             "sub_region_code":"4481000000_Chungcheongnamdo_Yesan"
         },
@@ -459,6 +500,7 @@
             "apt_type":"아파트",
             "apt_year":6.0,
             "value_score":45.484,
+            "region":"충청남도 예산군",
             "region_code":"Chungcheongnamdo",
             "sub_region_code":"4481000000_Chungcheongnamdo_Yesan"
         },
@@ -470,6 +512,7 @@
             "apt_type":"분양권",
             "apt_year":0.0,
             "value_score":45.359,
+            "region":"충청남도 예산군",
             "region_code":"Chungcheongnamdo",
             "sub_region_code":"4481000000_Chungcheongnamdo_Yesan"
         },
@@ -481,6 +524,7 @@
             "apt_type":"아파트",
             "apt_year":27.0,
             "value_score":44.912,
+            "region":"충청남도 예산군",
             "region_code":"Chungcheongnamdo",
             "sub_region_code":"4481000000_Chungcheongnamdo_Yesan"
         }

@@ -30,6 +30,10 @@
                 "type":"number"
             },
             {
+                "name":"region",
+                "type":"string"
+            },
+            {
                 "name":"region_code",
                 "type":"string"
             },
@@ -52,6 +56,7 @@
             "apt_type":"아파트",
             "apt_year":5.0,
             "value_score":56.854,
+            "region":"경상남도 통영시",
             "region_code":"Gyeongsangnamdo",
             "sub_region_code":"4822000000_Gyeongsangnamdo_Tongyeong"
         },
@@ -63,6 +68,7 @@
             "apt_type":"아파트",
             "apt_year":5.0,
             "value_score":54.674,
+            "region":"경상남도 통영시",
             "region_code":"Gyeongsangnamdo",
             "sub_region_code":"4822000000_Gyeongsangnamdo_Tongyeong"
         },
@@ -74,6 +80,7 @@
             "apt_type":"분양권",
             "apt_year":-2.0,
             "value_score":53.429,
+            "region":"경상남도 통영시",
             "region_code":"Gyeongsangnamdo",
             "sub_region_code":"4822000000_Gyeongsangnamdo_Tongyeong"
         },
@@ -85,6 +92,7 @@
             "apt_type":"아파트",
             "apt_year":13.0,
             "value_score":49.354,
+            "region":"경상남도 통영시",
             "region_code":"Gyeongsangnamdo",
             "sub_region_code":"4822000000_Gyeongsangnamdo_Tongyeong"
         },
@@ -96,6 +104,7 @@
             "apt_type":"아파트",
             "apt_year":7.0,
             "value_score":49.2885,
+            "region":"경상남도 통영시",
             "region_code":"Gyeongsangnamdo",
             "sub_region_code":"4822000000_Gyeongsangnamdo_Tongyeong"
         },
@@ -107,6 +116,7 @@
             "apt_type":"아파트",
             "apt_year":16.0,
             "value_score":47.954,
+            "region":"경상남도 통영시",
             "region_code":"Gyeongsangnamdo",
             "sub_region_code":"4822000000_Gyeongsangnamdo_Tongyeong"
         },
@@ -118,6 +128,7 @@
             "apt_type":"아파트",
             "apt_year":5.0,
             "value_score":47.2645,
+            "region":"경상남도 통영시",
             "region_code":"Gyeongsangnamdo",
             "sub_region_code":"4822000000_Gyeongsangnamdo_Tongyeong"
         },
@@ -129,6 +140,7 @@
             "apt_type":"아파트",
             "apt_year":14.0,
             "value_score":46.904,
+            "region":"경상남도 통영시",
             "region_code":"Gyeongsangnamdo",
             "sub_region_code":"4822000000_Gyeongsangnamdo_Tongyeong"
         },
@@ -140,6 +152,7 @@
             "apt_type":"아파트",
             "apt_year":18.0,
             "value_score":46.704,
+            "region":"경상남도 통영시",
             "region_code":"Gyeongsangnamdo",
             "sub_region_code":"4822000000_Gyeongsangnamdo_Tongyeong"
         },
@@ -151,6 +164,7 @@
             "apt_type":"분양권",
             "apt_year":0.0,
             "value_score":46.164,
+            "region":"경상남도 통영시",
             "region_code":"Gyeongsangnamdo",
             "sub_region_code":"4822000000_Gyeongsangnamdo_Tongyeong"
         },
@@ -162,6 +176,7 @@
             "apt_type":"아파트",
             "apt_year":5.0,
             "value_score":62.104,
+            "region":"경상남도 통영시",
             "region_code":"Gyeongsangnamdo",
             "sub_region_code":"4822000000_Gyeongsangnamdo_Tongyeong"
         },
@@ -173,6 +188,7 @@
             "apt_type":"분양권",
             "apt_year":-2.0,
             "value_score":60.104,
+            "region":"경상남도 통영시",
             "region_code":"Gyeongsangnamdo",
             "sub_region_code":"4822000000_Gyeongsangnamdo_Tongyeong"
         },
@@ -184,6 +200,7 @@
             "apt_type":"아파트",
             "apt_year":5.0,
             "value_score":59.714,
+            "region":"경상남도 통영시",
             "region_code":"Gyeongsangnamdo",
             "sub_region_code":"4822000000_Gyeongsangnamdo_Tongyeong"
         },
@@ -195,6 +212,7 @@
             "apt_type":"아파트",
             "apt_year":7.0,
             "value_score":55.3635,
+            "region":"경상남도 통영시",
             "region_code":"Gyeongsangnamdo",
             "sub_region_code":"4822000000_Gyeongsangnamdo_Tongyeong"
         },
@@ -206,6 +224,7 @@
             "apt_type":"아파트",
             "apt_year":13.0,
             "value_score":52.354,
+            "region":"경상남도 통영시",
             "region_code":"Gyeongsangnamdo",
             "sub_region_code":"4822000000_Gyeongsangnamdo_Tongyeong"
         },
@@ -217,6 +236,7 @@
             "apt_type":"아파트",
             "apt_year":16.0,
             "value_score":50.354,
+            "region":"경상남도 통영시",
             "region_code":"Gyeongsangnamdo",
             "sub_region_code":"4822000000_Gyeongsangnamdo_Tongyeong"
         },
@@ -228,6 +248,7 @@
             "apt_type":"아파트",
             "apt_year":5.0,
             "value_score":50.2045,
+            "region":"경상남도 통영시",
             "region_code":"Gyeongsangnamdo",
             "sub_region_code":"4822000000_Gyeongsangnamdo_Tongyeong"
         },
@@ -239,6 +260,7 @@
             "apt_type":"분양권",
             "apt_year":0.0,
             "value_score":48.954,
+            "region":"경상남도 통영시",
             "region_code":"Gyeongsangnamdo",
             "sub_region_code":"4822000000_Gyeongsangnamdo_Tongyeong"
         },
@@ -250,6 +272,7 @@
             "apt_type":"아파트",
             "apt_year":14.0,
             "value_score":48.854,
+            "region":"경상남도 통영시",
             "region_code":"Gyeongsangnamdo",
             "sub_region_code":"4822000000_Gyeongsangnamdo_Tongyeong"
         },
@@ -261,6 +284,7 @@
             "apt_type":"아파트",
             "apt_year":19.0,
             "value_score":48.1135,
+            "region":"경상남도 통영시",
             "region_code":"Gyeongsangnamdo",
             "sub_region_code":"4822000000_Gyeongsangnamdo_Tongyeong"
         },
@@ -272,6 +296,7 @@
             "apt_type":"아파트",
             "apt_year":5.0,
             "value_score":51.3418947368,
+            "region":"경상남도 통영시",
             "region_code":"Gyeongsangnamdo",
             "sub_region_code":"4822000000_Gyeongsangnamdo_Tongyeong"
         },
@@ -283,6 +308,7 @@
             "apt_type":"아파트",
             "apt_year":5.0,
             "value_score":48.6176842105,
+            "region":"경상남도 통영시",
             "region_code":"Gyeongsangnamdo",
             "sub_region_code":"4822000000_Gyeongsangnamdo_Tongyeong"
         },
@@ -294,6 +320,7 @@
             "apt_type":"아파트",
             "apt_year":13.0,
             "value_score":46.9208421053,
+            "region":"경상남도 통영시",
             "region_code":"Gyeongsangnamdo",
             "sub_region_code":"4822000000_Gyeongsangnamdo_Tongyeong"
         },
@@ -305,6 +332,7 @@
             "apt_type":"아파트",
             "apt_year":8.0,
             "value_score":46.8538947368,
+            "region":"경상남도 통영시",
             "region_code":"Gyeongsangnamdo",
             "sub_region_code":"4822000000_Gyeongsangnamdo_Tongyeong"
         },
@@ -316,6 +344,7 @@
             "apt_type":"아파트",
             "apt_year":18.0,
             "value_score":46.7629473684,
+            "region":"경상남도 통영시",
             "region_code":"Gyeongsangnamdo",
             "sub_region_code":"4822000000_Gyeongsangnamdo_Tongyeong"
         },
@@ -327,6 +356,7 @@
             "apt_type":"분양권",
             "apt_year":-2.0,
             "value_score":46.684,
+            "region":"경상남도 통영시",
             "region_code":"Gyeongsangnamdo",
             "sub_region_code":"4822000000_Gyeongsangnamdo_Tongyeong"
         },
@@ -338,6 +368,7 @@
             "apt_type":"아파트",
             "apt_year":5.0,
             "value_score":46.5381052632,
+            "region":"경상남도 통영시",
             "region_code":"Gyeongsangnamdo",
             "sub_region_code":"4822000000_Gyeongsangnamdo_Tongyeong"
         },
@@ -349,6 +380,7 @@
             "apt_type":"아파트",
             "apt_year":9.0,
             "value_score":46.3682105263,
+            "region":"경상남도 통영시",
             "region_code":"Gyeongsangnamdo",
             "sub_region_code":"4822000000_Gyeongsangnamdo_Tongyeong"
         },
@@ -360,6 +392,7 @@
             "apt_type":"아파트",
             "apt_year":16.0,
             "value_score":46.2892631579,
+            "region":"경상남도 통영시",
             "region_code":"Gyeongsangnamdo",
             "sub_region_code":"4822000000_Gyeongsangnamdo_Tongyeong"
         },
@@ -371,6 +404,7 @@
             "apt_type":"아파트",
             "apt_year":14.0,
             "value_score":45.8155789474,
+            "region":"경상남도 통영시",
             "region_code":"Gyeongsangnamdo",
             "sub_region_code":"4822000000_Gyeongsangnamdo_Tongyeong"
         },
@@ -382,6 +416,7 @@
             "apt_type":"아파트",
             "apt_year":5.0,
             "value_score":57.958,
+            "region":"경상남도 통영시",
             "region_code":"Gyeongsangnamdo",
             "sub_region_code":"4822000000_Gyeongsangnamdo_Tongyeong"
         },
@@ -393,6 +428,7 @@
             "apt_type":"분양권",
             "apt_year":-2.0,
             "value_score":55.833,
+            "region":"경상남도 통영시",
             "region_code":"Gyeongsangnamdo",
             "sub_region_code":"4822000000_Gyeongsangnamdo_Tongyeong"
         },
@@ -404,6 +440,7 @@
             "apt_type":"아파트",
             "apt_year":5.0,
             "value_score":52.828,
+            "region":"경상남도 통영시",
             "region_code":"Gyeongsangnamdo",
             "sub_region_code":"4822000000_Gyeongsangnamdo_Tongyeong"
         },
@@ -415,6 +452,7 @@
             "apt_type":"아파트",
             "apt_year":13.0,
             "value_score":52.708,
+            "region":"경상남도 통영시",
             "region_code":"Gyeongsangnamdo",
             "sub_region_code":"4822000000_Gyeongsangnamdo_Tongyeong"
         },
@@ -426,6 +464,7 @@
             "apt_type":"아파트",
             "apt_year":16.0,
             "value_score":51.708,
+            "region":"경상남도 통영시",
             "region_code":"Gyeongsangnamdo",
             "sub_region_code":"4822000000_Gyeongsangnamdo_Tongyeong"
         },
@@ -437,6 +476,7 @@
             "apt_type":"아파트",
             "apt_year":5.0,
             "value_score":51.309,
+            "region":"경상남도 통영시",
             "region_code":"Gyeongsangnamdo",
             "sub_region_code":"4822000000_Gyeongsangnamdo_Tongyeong"
         },
@@ -448,6 +488,7 @@
             "apt_type":"아파트",
             "apt_year":14.0,
             "value_score":50.958,
+            "region":"경상남도 통영시",
             "region_code":"Gyeongsangnamdo",
             "sub_region_code":"4822000000_Gyeongsangnamdo_Tongyeong"
         },
@@ -459,6 +500,7 @@
             "apt_type":"아파트",
             "apt_year":18.0,
             "value_score":50.708,
+            "region":"경상남도 통영시",
             "region_code":"Gyeongsangnamdo",
             "sub_region_code":"4822000000_Gyeongsangnamdo_Tongyeong"
         },
@@ -470,6 +512,7 @@
             "apt_type":"분양권",
             "apt_year":0.0,
             "value_score":50.558,
+            "region":"경상남도 통영시",
             "region_code":"Gyeongsangnamdo",
             "sub_region_code":"4822000000_Gyeongsangnamdo_Tongyeong"
         },
@@ -481,6 +524,7 @@
             "apt_type":"아파트",
             "apt_year":9.0,
             "value_score":50.083,
+            "region":"경상남도 통영시",
             "region_code":"Gyeongsangnamdo",
             "sub_region_code":"4822000000_Gyeongsangnamdo_Tongyeong"
         }

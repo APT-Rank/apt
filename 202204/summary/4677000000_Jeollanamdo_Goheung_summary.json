@@ -30,6 +30,10 @@
                 "type":"number"
             },
             {
+                "name":"region",
+                "type":"string"
+            },
+            {
                 "name":"region_code",
                 "type":"string"
             },
@@ -52,6 +56,7 @@
             "apt_type":"아파트",
             "apt_year":1.0,
             "value_score":44.4095,
+            "region":"전라남도 고흥군",
             "region_code":"Jeollanamdo",
             "sub_region_code":"4677000000_Jeollanamdo_Goheung"
         },
@@ -63,6 +68,7 @@
             "apt_type":"분양권",
             "apt_year":0.0,
             "value_score":34.449,
+            "region":"전라남도 고흥군",
             "region_code":"Jeollanamdo",
             "sub_region_code":"4677000000_Jeollanamdo_Goheung"
         },
@@ -74,6 +80,7 @@
             "apt_type":"아파트",
             "apt_year":10.0,
             "value_score":31.249,
+            "region":"전라남도 고흥군",
             "region_code":"Jeollanamdo",
             "sub_region_code":"4677000000_Jeollanamdo_Goheung"
         },
@@ -85,6 +92,7 @@
             "apt_type":"아파트",
             "apt_year":5.0,
             "value_score":30.899,
+            "region":"전라남도 고흥군",
             "region_code":"Jeollanamdo",
             "sub_region_code":"4677000000_Jeollanamdo_Goheung"
         },
@@ -96,6 +104,7 @@
             "apt_type":"아파트",
             "apt_year":25.0,
             "value_score":24.249,
+            "region":"전라남도 고흥군",
             "region_code":"Jeollanamdo",
             "sub_region_code":"4677000000_Jeollanamdo_Goheung"
         },
@@ -107,6 +116,7 @@
             "apt_type":"아파트",
             "apt_year":27.0,
             "value_score":23.724,
+            "region":"전라남도 고흥군",
             "region_code":"Jeollanamdo",
             "sub_region_code":"4677000000_Jeollanamdo_Goheung"
         },
@@ -118,6 +128,7 @@
             "apt_type":"아파트",
             "apt_year":26.0,
             "value_score":21.8105,
+            "region":"전라남도 고흥군",
             "region_code":"Jeollanamdo",
             "sub_region_code":"4677000000_Jeollanamdo_Goheung"
         },
@@ -129,6 +140,7 @@
             "apt_type":"아파트",
             "apt_year":1.0,
             "value_score":46.0745,
+            "region":"전라남도 고흥군",
             "region_code":"Jeollanamdo",
             "sub_region_code":"4677000000_Jeollanamdo_Goheung"
         },
@@ -140,6 +152,7 @@
             "apt_type":"분양권",
             "apt_year":0.0,
             "value_score":39.174,
+            "region":"전라남도 고흥군",
             "region_code":"Jeollanamdo",
             "sub_region_code":"4677000000_Jeollanamdo_Goheung"
         },
@@ -151,6 +164,7 @@
             "apt_type":"아파트",
             "apt_year":10.0,
             "value_score":34.924,
+            "region":"전라남도 고흥군",
             "region_code":"Jeollanamdo",
             "sub_region_code":"4677000000_Jeollanamdo_Goheung"
         },
@@ -162,6 +176,7 @@
             "apt_type":"아파트",
             "apt_year":5.0,
             "value_score":34.424,
+            "region":"전라남도 고흥군",
             "region_code":"Jeollanamdo",
             "sub_region_code":"4677000000_Jeollanamdo_Goheung"
         },
@@ -173,6 +188,7 @@
             "apt_type":"아파트",
             "apt_year":25.0,
             "value_score":24.924,
+            "region":"전라남도 고흥군",
             "region_code":"Jeollanamdo",
             "sub_region_code":"4677000000_Jeollanamdo_Goheung"
         },
@@ -184,6 +200,7 @@
             "apt_type":"아파트",
             "apt_year":27.0,
             "value_score":24.174,
+            "region":"전라남도 고흥군",
             "region_code":"Jeollanamdo",
             "sub_region_code":"4677000000_Jeollanamdo_Goheung"
         },
@@ -195,6 +212,7 @@
             "apt_type":"아파트",
             "apt_year":26.0,
             "value_score":21.5105,
+            "region":"전라남도 고흥군",
             "region_code":"Jeollanamdo",
             "sub_region_code":"4677000000_Jeollanamdo_Goheung"
         },
@@ -206,6 +224,7 @@
             "apt_type":"아파트",
             "apt_year":1.0,
             "value_score":43.3625263158,
+            "region":"전라남도 고흥군",
             "region_code":"Jeollanamdo",
             "sub_region_code":"4677000000_Jeollanamdo_Goheung"
         },
@@ -217,6 +236,7 @@
             "apt_type":"분양권",
             "apt_year":0.0,
             "value_score":30.3513684211,
+            "region":"전라남도 고흥군",
             "region_code":"Jeollanamdo",
             "sub_region_code":"4677000000_Jeollanamdo_Goheung"
         },
@@ -228,6 +248,7 @@
             "apt_type":"아파트",
             "apt_year":10.0,
             "value_score":28.5618947368,
+            "region":"전라남도 고흥군",
             "region_code":"Jeollanamdo",
             "sub_region_code":"4677000000_Jeollanamdo_Goheung"
         },
@@ -239,6 +260,7 @@
             "apt_type":"아파트",
             "apt_year":5.0,
             "value_score":28.404,
+            "region":"전라남도 고흥군",
             "region_code":"Jeollanamdo",
             "sub_region_code":"4677000000_Jeollanamdo_Goheung"
         },
@@ -250,6 +272,7 @@
             "apt_type":"아파트",
             "apt_year":25.0,
             "value_score":25.404,
+            "region":"전라남도 고흥군",
             "region_code":"Jeollanamdo",
             "sub_region_code":"4677000000_Jeollanamdo_Goheung"
         },
@@ -261,6 +284,7 @@
             "apt_type":"아파트",
             "apt_year":27.0,
             "value_score":25.1671578947,
+            "region":"전라남도 고흥군",
             "region_code":"Jeollanamdo",
             "sub_region_code":"4677000000_Jeollanamdo_Goheung"
         },
@@ -272,6 +296,7 @@
             "apt_type":"아파트",
             "apt_year":26.0,
             "value_score":24.1711578947,
+            "region":"전라남도 고흥군",
             "region_code":"Jeollanamdo",
             "sub_region_code":"4677000000_Jeollanamdo_Goheung"
         },
@@ -283,6 +308,7 @@
             "apt_type":"아파트",
             "apt_year":1.0,
             "value_score":47.424,
+            "region":"전라남도 고흥군",
             "region_code":"Jeollanamdo",
             "sub_region_code":"4677000000_Jeollanamdo_Goheung"
         },
@@ -294,6 +320,7 @@
             "apt_type":"분양권",
             "apt_year":0.0,
             "value_score":38.723,
+            "region":"전라남도 고흥군",
             "region_code":"Jeollanamdo",
             "sub_region_code":"4677000000_Jeollanamdo_Goheung"
         },
@@ -305,6 +332,7 @@
             "apt_type":"아파트",
             "apt_year":10.0,
             "value_score":36.473,
+            "region":"전라남도 고흥군",
             "region_code":"Jeollanamdo",
             "sub_region_code":"4677000000_Jeollanamdo_Goheung"
         },
@@ -316,6 +344,7 @@
             "apt_type":"아파트",
             "apt_year":5.0,
             "value_score":36.223,
+            "region":"전라남도 고흥군",
             "region_code":"Jeollanamdo",
             "sub_region_code":"4677000000_Jeollanamdo_Goheung"
         },
@@ -327,6 +356,7 @@
             "apt_type":"아파트",
             "apt_year":25.0,
             "value_score":31.473,
+            "region":"전라남도 고흥군",
             "region_code":"Jeollanamdo",
             "sub_region_code":"4677000000_Jeollanamdo_Goheung"
         },
@@ -338,6 +368,7 @@
             "apt_type":"아파트",
             "apt_year":27.0,
             "value_score":31.098,
+            "region":"전라남도 고흥군",
             "region_code":"Jeollanamdo",
             "sub_region_code":"4677000000_Jeollanamdo_Goheung"
         },
@@ -349,6 +380,7 @@
             "apt_type":"아파트",
             "apt_year":26.0,
             "value_score":29.521,
+            "region":"전라남도 고흥군",
             "region_code":"Jeollanamdo",
             "sub_region_code":"4677000000_Jeollanamdo_Goheung"
         }

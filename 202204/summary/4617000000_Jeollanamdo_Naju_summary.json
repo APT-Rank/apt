@@ -30,6 +30,10 @@
                 "type":"number"
             },
             {
+                "name":"region",
+                "type":"string"
+            },
+            {
                 "name":"region_code",
                 "type":"string"
             },
@@ -52,6 +56,7 @@
             "apt_type":"분양권",
             "apt_year":-2.0,
             "value_score":52.02,
+            "region":"전라남도 나주시",
             "region_code":"Jeollanamdo",
             "sub_region_code":"4617000000_Jeollanamdo_Naju"
         },
@@ -63,6 +68,7 @@
             "apt_type":"분양권",
             "apt_year":1.0,
             "value_score":51.782,
+            "region":"전라남도 나주시",
             "region_code":"Jeollanamdo",
             "sub_region_code":"4617000000_Jeollanamdo_Naju"
         },
@@ -74,6 +80,7 @@
             "apt_type":"아파트",
             "apt_year":3.0,
             "value_score":51.308,
+            "region":"전라남도 나주시",
             "region_code":"Jeollanamdo",
             "sub_region_code":"4617000000_Jeollanamdo_Naju"
         },
@@ -85,6 +92,7 @@
             "apt_type":"아파트",
             "apt_year":8.0,
             "value_score":50.857,
+            "region":"전라남도 나주시",
             "region_code":"Jeollanamdo",
             "sub_region_code":"4617000000_Jeollanamdo_Naju"
         },
@@ -96,6 +104,7 @@
             "apt_type":"아파트",
             "apt_year":9.0,
             "value_score":50.8565,
+            "region":"전라남도 나주시",
             "region_code":"Jeollanamdo",
             "sub_region_code":"4617000000_Jeollanamdo_Naju"
         },
@@ -107,6 +116,7 @@
             "apt_type":"아파트",
             "apt_year":8.0,
             "value_score":50.8565,
+            "region":"전라남도 나주시",
             "region_code":"Jeollanamdo",
             "sub_region_code":"4617000000_Jeollanamdo_Naju"
         },
@@ -118,6 +128,7 @@
             "apt_type":"아파트",
             "apt_year":7.0,
             "value_score":50.8565,
+            "region":"전라남도 나주시",
             "region_code":"Jeollanamdo",
             "sub_region_code":"4617000000_Jeollanamdo_Naju"
         },
@@ -129,6 +140,7 @@
             "apt_type":"아파트",
             "apt_year":7.0,
             "value_score":50.733,
+            "region":"전라남도 나주시",
             "region_code":"Jeollanamdo",
             "sub_region_code":"4617000000_Jeollanamdo_Naju"
         },
@@ -140,6 +152,7 @@
             "apt_type":"아파트",
             "apt_year":17.0,
             "value_score":49.0495,
+            "region":"전라남도 나주시",
             "region_code":"Jeollanamdo",
             "sub_region_code":"4617000000_Jeollanamdo_Naju"
         },
@@ -151,6 +164,7 @@
             "apt_type":"아파트",
             "apt_year":8.0,
             "value_score":48.333,
+            "region":"전라남도 나주시",
             "region_code":"Jeollanamdo",
             "sub_region_code":"4617000000_Jeollanamdo_Naju"
         },
@@ -162,6 +176,7 @@
             "apt_type":"아파트",
             "apt_year":3.0,
             "value_score":62.033,
+            "region":"전라남도 나주시",
             "region_code":"Jeollanamdo",
             "sub_region_code":"4617000000_Jeollanamdo_Naju"
         },
@@ -173,6 +188,7 @@
             "apt_type":"분양권",
             "apt_year":1.0,
             "value_score":61.307,
+            "region":"전라남도 나주시",
             "region_code":"Jeollanamdo",
             "sub_region_code":"4617000000_Jeollanamdo_Naju"
         },
@@ -184,6 +200,7 @@
             "apt_type":"분양권",
             "apt_year":-2.0,
             "value_score":60.87,
+            "region":"전라남도 나주시",
             "region_code":"Jeollanamdo",
             "sub_region_code":"4617000000_Jeollanamdo_Naju"
         },
@@ -195,6 +212,7 @@
             "apt_type":"아파트",
             "apt_year":8.0,
             "value_score":60.307,
+            "region":"전라남도 나주시",
             "region_code":"Jeollanamdo",
             "sub_region_code":"4617000000_Jeollanamdo_Naju"
         },
@@ -206,6 +224,7 @@
             "apt_type":"아파트",
             "apt_year":8.0,
             "value_score":60.3065,
+            "region":"전라남도 나주시",
             "region_code":"Jeollanamdo",
             "sub_region_code":"4617000000_Jeollanamdo_Naju"
         },
@@ -217,6 +236,7 @@
             "apt_type":"아파트",
             "apt_year":7.0,
             "value_score":60.3065,
+            "region":"전라남도 나주시",
             "region_code":"Jeollanamdo",
             "sub_region_code":"4617000000_Jeollanamdo_Naju"
         },
@@ -228,6 +248,7 @@
             "apt_type":"아파트",
             "apt_year":9.0,
             "value_score":60.3065,
+            "region":"전라남도 나주시",
             "region_code":"Jeollanamdo",
             "sub_region_code":"4617000000_Jeollanamdo_Naju"
         },
@@ -239,6 +260,7 @@
             "apt_type":"아파트",
             "apt_year":7.0,
             "value_score":59.283,
+            "region":"전라남도 나주시",
             "region_code":"Jeollanamdo",
             "sub_region_code":"4617000000_Jeollanamdo_Naju"
         },
@@ -250,6 +272,7 @@
             "apt_type":"아파트",
             "apt_year":8.0,
             "value_score":57.783,
+            "region":"전라남도 나주시",
             "region_code":"Jeollanamdo",
             "sub_region_code":"4617000000_Jeollanamdo_Naju"
         },
@@ -261,6 +284,7 @@
             "apt_type":"아파트",
             "apt_year":7.0,
             "value_score":56.783,
+            "region":"전라남도 나주시",
             "region_code":"Jeollanamdo",
             "sub_region_code":"4617000000_Jeollanamdo_Naju"
         },
@@ -272,6 +296,7 @@
             "apt_type":"아파트",
             "apt_year":22.0,
             "value_score":45.0425263158,
+            "region":"전라남도 나주시",
             "region_code":"Jeollanamdo",
             "sub_region_code":"4617000000_Jeollanamdo_Naju"
         },
@@ -283,6 +308,7 @@
             "apt_type":"아파트",
             "apt_year":17.0,
             "value_score":43.6309473684,
+            "region":"전라남도 나주시",
             "region_code":"Jeollanamdo",
             "sub_region_code":"4617000000_Jeollanamdo_Naju"
         },
@@ -294,6 +320,7 @@
             "apt_type":"아파트",
             "apt_year":6.0,
             "value_score":42.2004210526,
+            "region":"전라남도 나주시",
             "region_code":"Jeollanamdo",
             "sub_region_code":"4617000000_Jeollanamdo_Naju"
         },
@@ -305,6 +332,7 @@
             "apt_type":"아파트",
             "apt_year":5.0,
             "value_score":42.2004210526,
+            "region":"전라남도 나주시",
             "region_code":"Jeollanamdo",
             "sub_region_code":"4617000000_Jeollanamdo_Naju"
         },
@@ -316,6 +344,7 @@
             "apt_type":"분양권",
             "apt_year":1.0,
             "value_score":42.0983157895,
+            "region":"전라남도 나주시",
             "region_code":"Jeollanamdo",
             "sub_region_code":"4617000000_Jeollanamdo_Naju"
         },
@@ -327,6 +356,7 @@
             "apt_type":"분양권",
             "apt_year":-2.0,
             "value_score":41.5726315789,
+            "region":"전라남도 나주시",
             "region_code":"Jeollanamdo",
             "sub_region_code":"4617000000_Jeollanamdo_Naju"
         },
@@ -338,6 +368,7 @@
             "apt_type":"아파트",
             "apt_year":8.0,
             "value_score":41.3351578947,
+            "region":"전라남도 나주시",
             "region_code":"Jeollanamdo",
             "sub_region_code":"4617000000_Jeollanamdo_Naju"
         },
@@ -349,6 +380,7 @@
             "apt_type":"아파트",
             "apt_year":7.0,
             "value_score":41.3345263158,
+            "region":"전라남도 나주시",
             "region_code":"Jeollanamdo",
             "sub_region_code":"4617000000_Jeollanamdo_Naju"
         },
@@ -360,6 +392,7 @@
             "apt_type":"아파트",
             "apt_year":8.0,
             "value_score":41.3345263158,
+            "region":"전라남도 나주시",
             "region_code":"Jeollanamdo",
             "sub_region_code":"4617000000_Jeollanamdo_Naju"
         },
@@ -371,6 +404,7 @@
             "apt_type":"아파트",
             "apt_year":9.0,
             "value_score":41.3345263158,
+            "region":"전라남도 나주시",
             "region_code":"Jeollanamdo",
             "sub_region_code":"4617000000_Jeollanamdo_Naju"
         },
@@ -382,6 +416,7 @@
             "apt_type":"분양권",
             "apt_year":1.0,
             "value_score":54.989,
+            "region":"전라남도 나주시",
             "region_code":"Jeollanamdo",
             "sub_region_code":"4617000000_Jeollanamdo_Naju"
         },
@@ -393,6 +428,7 @@
             "apt_type":"아파트",
             "apt_year":8.0,
             "value_score":54.364,
+            "region":"전라남도 나주시",
             "region_code":"Jeollanamdo",
             "sub_region_code":"4617000000_Jeollanamdo_Naju"
         },
@@ -404,6 +440,7 @@
             "apt_type":"아파트",
             "apt_year":9.0,
             "value_score":54.363,
+            "region":"전라남도 나주시",
             "region_code":"Jeollanamdo",
             "sub_region_code":"4617000000_Jeollanamdo_Naju"
         },
@@ -415,6 +452,7 @@
             "apt_type":"아파트",
             "apt_year":8.0,
             "value_score":54.363,
+            "region":"전라남도 나주시",
             "region_code":"Jeollanamdo",
             "sub_region_code":"4617000000_Jeollanamdo_Naju"
         },
@@ -426,6 +464,7 @@
             "apt_type":"아파트",
             "apt_year":7.0,
             "value_score":54.363,
+            "region":"전라남도 나주시",
             "region_code":"Jeollanamdo",
             "sub_region_code":"4617000000_Jeollanamdo_Naju"
         },
@@ -437,6 +476,7 @@
             "apt_type":"아파트",
             "apt_year":5.0,
             "value_score":52.238,
+            "region":"전라남도 나주시",
             "region_code":"Jeollanamdo",
             "sub_region_code":"4617000000_Jeollanamdo_Naju"
         },
@@ -448,6 +488,7 @@
             "apt_type":"아파트",
             "apt_year":3.0,
             "value_score":51.441,
+            "region":"전라남도 나주시",
             "region_code":"Jeollanamdo",
             "sub_region_code":"4617000000_Jeollanamdo_Naju"
         },
@@ -459,6 +500,7 @@
             "apt_type":"아파트",
             "apt_year":9.0,
             "value_score":51.113,
+            "region":"전라남도 나주시",
             "region_code":"Jeollanamdo",
             "sub_region_code":"4617000000_Jeollanamdo_Naju"
         },
@@ -470,6 +512,7 @@
             "apt_type":"아파트",
             "apt_year":7.0,
             "value_score":50.863,
+            "region":"전라남도 나주시",
             "region_code":"Jeollanamdo",
             "sub_region_code":"4617000000_Jeollanamdo_Naju"
         },
@@ -481,6 +524,7 @@
             "apt_type":"아파트",
             "apt_year":7.0,
             "value_score":50.816,
+            "region":"전라남도 나주시",
             "region_code":"Jeollanamdo",
             "sub_region_code":"4617000000_Jeollanamdo_Naju"
         }

@@ -30,6 +30,10 @@
                 "type":"number"
             },
             {
+                "name":"region",
+                "type":"string"
+            },
+            {
                 "name":"region_code",
                 "type":"string"
             },
@@ -52,6 +56,7 @@
             "apt_type":"아파트",
             "apt_year":5.0,
             "value_score":49.189,
+            "region":"충청남도 공주시",
             "region_code":"Chungcheongnamdo",
             "sub_region_code":"4415000000_Chungcheongnamdo_Gongju"
         },
@@ -63,6 +68,7 @@
             "apt_type":"아파트",
             "apt_year":21.0,
             "value_score":47.889,
+            "region":"충청남도 공주시",
             "region_code":"Chungcheongnamdo",
             "sub_region_code":"4415000000_Chungcheongnamdo_Gongju"
         },
@@ -74,6 +80,7 @@
             "apt_type":"아파트",
             "apt_year":5.0,
             "value_score":46.489,
+            "region":"충청남도 공주시",
             "region_code":"Chungcheongnamdo",
             "sub_region_code":"4415000000_Chungcheongnamdo_Gongju"
         },
@@ -85,6 +92,7 @@
             "apt_type":"분양권",
             "apt_year":1.0,
             "value_score":46.164,
+            "region":"충청남도 공주시",
             "region_code":"Chungcheongnamdo",
             "sub_region_code":"4415000000_Chungcheongnamdo_Gongju"
         },
@@ -96,6 +104,7 @@
             "apt_type":"분양권",
             "apt_year":0.0,
             "value_score":46.164,
+            "region":"충청남도 공주시",
             "region_code":"Chungcheongnamdo",
             "sub_region_code":"4415000000_Chungcheongnamdo_Gongju"
         },
@@ -107,6 +116,7 @@
             "apt_type":"아파트",
             "apt_year":25.0,
             "value_score":44.364,
+            "region":"충청남도 공주시",
             "region_code":"Chungcheongnamdo",
             "sub_region_code":"4415000000_Chungcheongnamdo_Gongju"
         },
@@ -118,6 +128,7 @@
             "apt_type":"아파트",
             "apt_year":33.0,
             "value_score":44.364,
+            "region":"충청남도 공주시",
             "region_code":"Chungcheongnamdo",
             "sub_region_code":"4415000000_Chungcheongnamdo_Gongju"
         },
@@ -129,6 +140,7 @@
             "apt_type":"아파트",
             "apt_year":6.0,
             "value_score":43.614,
+            "region":"충청남도 공주시",
             "region_code":"Chungcheongnamdo",
             "sub_region_code":"4415000000_Chungcheongnamdo_Gongju"
         },
@@ -140,6 +152,7 @@
             "apt_type":"아파트",
             "apt_year":17.0,
             "value_score":43.164,
+            "region":"충청남도 공주시",
             "region_code":"Chungcheongnamdo",
             "sub_region_code":"4415000000_Chungcheongnamdo_Gongju"
         },
@@ -151,6 +164,7 @@
             "apt_type":"아파트",
             "apt_year":27.0,
             "value_score":43.164,
+            "region":"충청남도 공주시",
             "region_code":"Chungcheongnamdo",
             "sub_region_code":"4415000000_Chungcheongnamdo_Gongju"
         },
@@ -162,6 +176,7 @@
             "apt_type":"아파트",
             "apt_year":5.0,
             "value_score":54.214,
+            "region":"충청남도 공주시",
             "region_code":"Chungcheongnamdo",
             "sub_region_code":"4415000000_Chungcheongnamdo_Gongju"
         },
@@ -173,6 +188,7 @@
             "apt_type":"아파트",
             "apt_year":5.0,
             "value_score":54.214,
+            "region":"충청남도 공주시",
             "region_code":"Chungcheongnamdo",
             "sub_region_code":"4415000000_Chungcheongnamdo_Gongju"
         },
@@ -184,6 +200,7 @@
             "apt_type":"아파트",
             "apt_year":21.0,
             "value_score":51.714,
+            "region":"충청남도 공주시",
             "region_code":"Chungcheongnamdo",
             "sub_region_code":"4415000000_Chungcheongnamdo_Gongju"
         },
@@ -195,6 +212,7 @@
             "apt_type":"분양권",
             "apt_year":1.0,
             "value_score":50.214,
+            "region":"충청남도 공주시",
             "region_code":"Chungcheongnamdo",
             "sub_region_code":"4415000000_Chungcheongnamdo_Gongju"
         },
@@ -206,6 +224,7 @@
             "apt_type":"분양권",
             "apt_year":0.0,
             "value_score":50.214,
+            "region":"충청남도 공주시",
             "region_code":"Chungcheongnamdo",
             "sub_region_code":"4415000000_Chungcheongnamdo_Gongju"
         },
@@ -217,6 +236,7 @@
             "apt_type":"아파트",
             "apt_year":6.0,
             "value_score":49.464,
+            "region":"충청남도 공주시",
             "region_code":"Chungcheongnamdo",
             "sub_region_code":"4415000000_Chungcheongnamdo_Gongju"
         },
@@ -228,6 +248,7 @@
             "apt_type":"아파트",
             "apt_year":6.0,
             "value_score":47.7825,
+            "region":"충청남도 공주시",
             "region_code":"Chungcheongnamdo",
             "sub_region_code":"4415000000_Chungcheongnamdo_Gongju"
         },
@@ -239,6 +260,7 @@
             "apt_type":"아파트",
             "apt_year":15.0,
             "value_score":46.9755,
+            "region":"충청남도 공주시",
             "region_code":"Chungcheongnamdo",
             "sub_region_code":"4415000000_Chungcheongnamdo_Gongju"
         },
@@ -250,6 +272,7 @@
             "apt_type":"아파트",
             "apt_year":13.0,
             "value_score":46.714,
+            "region":"충청남도 공주시",
             "region_code":"Chungcheongnamdo",
             "sub_region_code":"4415000000_Chungcheongnamdo_Gongju"
         },
@@ -261,6 +284,7 @@
             "apt_type":"아파트",
             "apt_year":33.0,
             "value_score":45.714,
+            "region":"충청남도 공주시",
             "region_code":"Chungcheongnamdo",
             "sub_region_code":"4415000000_Chungcheongnamdo_Gongju"
         },
@@ -272,6 +296,7 @@
             "apt_type":"아파트",
             "apt_year":21.0,
             "value_score":44.2966315789,
+            "region":"충청남도 공주시",
             "region_code":"Chungcheongnamdo",
             "sub_region_code":"4415000000_Chungcheongnamdo_Gongju"
         },
@@ -283,6 +308,7 @@
             "apt_type":"아파트",
             "apt_year":5.0,
             "value_score":44.1913684211,
+            "region":"충청남도 공주시",
             "region_code":"Chungcheongnamdo",
             "sub_region_code":"4415000000_Chungcheongnamdo_Gongju"
         },
@@ -294,6 +320,7 @@
             "apt_type":"아파트",
             "apt_year":25.0,
             "value_score":43.744,
+            "region":"충청남도 공주시",
             "region_code":"Chungcheongnamdo",
             "sub_region_code":"4415000000_Chungcheongnamdo_Gongju"
         },
@@ -305,6 +332,7 @@
             "apt_type":"아파트",
             "apt_year":33.0,
             "value_score":43.744,
+            "region":"충청남도 공주시",
             "region_code":"Chungcheongnamdo",
             "sub_region_code":"4415000000_Chungcheongnamdo_Gongju"
         },
@@ -316,6 +344,7 @@
             "apt_type":"분양권",
             "apt_year":1.0,
             "value_score":42.4808421053,
+            "region":"충청남도 공주시",
             "region_code":"Chungcheongnamdo",
             "sub_region_code":"4415000000_Chungcheongnamdo_Gongju"
         },
@@ -327,6 +356,7 @@
             "apt_type":"분양권",
             "apt_year":0.0,
             "value_score":42.4808421053,
+            "region":"충청남도 공주시",
             "region_code":"Chungcheongnamdo",
             "sub_region_code":"4415000000_Chungcheongnamdo_Gongju"
         },
@@ -338,6 +368,7 @@
             "apt_type":"아파트",
             "apt_year":17.0,
             "value_score":42.1650526316,
+            "region":"충청남도 공주시",
             "region_code":"Chungcheongnamdo",
             "sub_region_code":"4415000000_Chungcheongnamdo_Gongju"
         },
@@ -349,6 +380,7 @@
             "apt_type":"아파트",
             "apt_year":27.0,
             "value_score":42.1650526316,
+            "region":"충청남도 공주시",
             "region_code":"Chungcheongnamdo",
             "sub_region_code":"4415000000_Chungcheongnamdo_Gongju"
         },
@@ -360,6 +392,7 @@
             "apt_type":"아파트",
             "apt_year":24.0,
             "value_score":41.8492631579,
+            "region":"충청남도 공주시",
             "region_code":"Chungcheongnamdo",
             "sub_region_code":"4415000000_Chungcheongnamdo_Gongju"
         },
@@ -371,6 +404,7 @@
             "apt_type":"아파트",
             "apt_year":18.0,
             "value_score":40.7176842105,
+            "region":"충청남도 공주시",
             "region_code":"Chungcheongnamdo",
             "sub_region_code":"4415000000_Chungcheongnamdo_Gongju"
         },
@@ -382,6 +416,7 @@
             "apt_type":"아파트",
             "apt_year":5.0,
             "value_score":51.303,
+            "region":"충청남도 공주시",
             "region_code":"Chungcheongnamdo",
             "sub_region_code":"4415000000_Chungcheongnamdo_Gongju"
         },
@@ -393,6 +428,7 @@
             "apt_type":"아파트",
             "apt_year":21.0,
             "value_score":50.303,
+            "region":"충청남도 공주시",
             "region_code":"Chungcheongnamdo",
             "sub_region_code":"4415000000_Chungcheongnamdo_Gongju"
         },
@@ -404,6 +440,7 @@
             "apt_type":"아파트",
             "apt_year":5.0,
             "value_score":49.803,
+            "region":"충청남도 공주시",
             "region_code":"Chungcheongnamdo",
             "sub_region_code":"4415000000_Chungcheongnamdo_Gongju"
         },
@@ -415,6 +452,7 @@
             "apt_type":"아파트",
             "apt_year":15.0,
             "value_score":49.601,
+            "region":"충청남도 공주시",
             "region_code":"Chungcheongnamdo",
             "sub_region_code":"4415000000_Chungcheongnamdo_Gongju"
         },
@@ -426,6 +464,7 @@
             "apt_type":"분양권",
             "apt_year":1.0,
             "value_score":49.178,
+            "region":"충청남도 공주시",
             "region_code":"Chungcheongnamdo",
             "sub_region_code":"4415000000_Chungcheongnamdo_Gongju"
         },
@@ -437,6 +476,7 @@
             "apt_type":"분양권",
             "apt_year":0.0,
             "value_score":49.178,
+            "region":"충청남도 공주시",
             "region_code":"Chungcheongnamdo",
             "sub_region_code":"4415000000_Chungcheongnamdo_Gongju"
         },
@@ -448,6 +488,7 @@
             "apt_type":"아파트",
             "apt_year":25.0,
             "value_score":47.678,
+            "region":"충청남도 공주시",
             "region_code":"Chungcheongnamdo",
             "sub_region_code":"4415000000_Chungcheongnamdo_Gongju"
         },
@@ -459,6 +500,7 @@
             "apt_type":"아파트",
             "apt_year":33.0,
             "value_score":47.678,
+            "region":"충청남도 공주시",
             "region_code":"Chungcheongnamdo",
             "sub_region_code":"4415000000_Chungcheongnamdo_Gongju"
         },
@@ -470,6 +512,7 @@
             "apt_type":"아파트",
             "apt_year":6.0,
             "value_score":47.678,
+            "region":"충청남도 공주시",
             "region_code":"Chungcheongnamdo",
             "sub_region_code":"4415000000_Chungcheongnamdo_Gongju"
         },
@@ -481,6 +524,7 @@
             "apt_type":"아파트",
             "apt_year":17.0,
             "value_score":46.928,
+            "region":"충청남도 공주시",
             "region_code":"Chungcheongnamdo",
             "sub_region_code":"4415000000_Chungcheongnamdo_Gongju"
         }

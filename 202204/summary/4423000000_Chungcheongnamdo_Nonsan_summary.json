@@ -30,6 +30,10 @@
                 "type":"number"
             },
             {
+                "name":"region",
+                "type":"string"
+            },
+            {
                 "name":"region_code",
                 "type":"string"
             },
@@ -52,6 +56,7 @@
             "apt_type":"아파트",
             "apt_year":4.0,
             "value_score":53.264,
+            "region":"충청남도 논산시",
             "region_code":"Chungcheongnamdo",
             "sub_region_code":"4423000000_Chungcheongnamdo_Nonsan"
         },
@@ -63,6 +68,7 @@
             "apt_type":"아파트",
             "apt_year":9.0,
             "value_score":48.539,
+            "region":"충청남도 논산시",
             "region_code":"Chungcheongnamdo",
             "sub_region_code":"4423000000_Chungcheongnamdo_Nonsan"
         },
@@ -74,6 +80,7 @@
             "apt_type":"아파트",
             "apt_year":20.0,
             "value_score":47.2625,
+            "region":"충청남도 논산시",
             "region_code":"Chungcheongnamdo",
             "sub_region_code":"4423000000_Chungcheongnamdo_Nonsan"
         },
@@ -85,6 +92,7 @@
             "apt_type":"아파트",
             "apt_year":20.0,
             "value_score":46.4625,
+            "region":"충청남도 논산시",
             "region_code":"Chungcheongnamdo",
             "sub_region_code":"4423000000_Chungcheongnamdo_Nonsan"
         },
@@ -96,6 +104,7 @@
             "apt_type":"아파트",
             "apt_year":9.0,
             "value_score":45.3375,
+            "region":"충청남도 논산시",
             "region_code":"Chungcheongnamdo",
             "sub_region_code":"4423000000_Chungcheongnamdo_Nonsan"
         },
@@ -107,6 +116,7 @@
             "apt_type":"아파트",
             "apt_year":2.0,
             "value_score":44.7375,
+            "region":"충청남도 논산시",
             "region_code":"Chungcheongnamdo",
             "sub_region_code":"4423000000_Chungcheongnamdo_Nonsan"
         },
@@ -118,6 +128,7 @@
             "apt_type":"아파트",
             "apt_year":7.0,
             "value_score":44.5375,
+            "region":"충청남도 논산시",
             "region_code":"Chungcheongnamdo",
             "sub_region_code":"4423000000_Chungcheongnamdo_Nonsan"
         },
@@ -129,6 +140,7 @@
             "apt_type":"아파트",
             "apt_year":8.0,
             "value_score":43.9815,
+            "region":"충청남도 논산시",
             "region_code":"Chungcheongnamdo",
             "sub_region_code":"4423000000_Chungcheongnamdo_Nonsan"
         },
@@ -140,6 +152,7 @@
             "apt_type":"아파트",
             "apt_year":8.0,
             "value_score":43.289,
+            "region":"충청남도 논산시",
             "region_code":"Chungcheongnamdo",
             "sub_region_code":"4423000000_Chungcheongnamdo_Nonsan"
         },
@@ -151,6 +164,7 @@
             "apt_type":"아파트",
             "apt_year":21.0,
             "value_score":43.064,
+            "region":"충청남도 논산시",
             "region_code":"Chungcheongnamdo",
             "sub_region_code":"4423000000_Chungcheongnamdo_Nonsan"
         },
@@ -162,6 +176,7 @@
             "apt_type":"아파트",
             "apt_year":4.0,
             "value_score":60.614,
+            "region":"충청남도 논산시",
             "region_code":"Chungcheongnamdo",
             "sub_region_code":"4423000000_Chungcheongnamdo_Nonsan"
         },
@@ -173,6 +188,7 @@
             "apt_type":"아파트",
             "apt_year":9.0,
             "value_score":53.864,
+            "region":"충청남도 논산시",
             "region_code":"Chungcheongnamdo",
             "sub_region_code":"4423000000_Chungcheongnamdo_Nonsan"
         },
@@ -184,6 +200,7 @@
             "apt_type":"아파트",
             "apt_year":20.0,
             "value_score":48.3125,
+            "region":"충청남도 논산시",
             "region_code":"Chungcheongnamdo",
             "sub_region_code":"4423000000_Chungcheongnamdo_Nonsan"
         },
@@ -195,6 +212,7 @@
             "apt_type":"아파트",
             "apt_year":20.0,
             "value_score":47.8125,
+            "region":"충청남도 논산시",
             "region_code":"Chungcheongnamdo",
             "sub_region_code":"4423000000_Chungcheongnamdo_Nonsan"
         },
@@ -206,6 +224,7 @@
             "apt_type":"아파트",
             "apt_year":16.0,
             "value_score":46.813,
+            "region":"충청남도 논산시",
             "region_code":"Chungcheongnamdo",
             "sub_region_code":"4423000000_Chungcheongnamdo_Nonsan"
         },
@@ -217,6 +236,7 @@
             "apt_type":"아파트",
             "apt_year":8.0,
             "value_score":46.7565,
+            "region":"충청남도 논산시",
             "region_code":"Chungcheongnamdo",
             "sub_region_code":"4423000000_Chungcheongnamdo_Nonsan"
         },
@@ -228,6 +248,7 @@
             "apt_type":"아파트",
             "apt_year":8.0,
             "value_score":46.364,
+            "region":"충청남도 논산시",
             "region_code":"Chungcheongnamdo",
             "sub_region_code":"4423000000_Chungcheongnamdo_Nonsan"
         },
@@ -239,6 +260,7 @@
             "apt_type":"아파트",
             "apt_year":2.0,
             "value_score":46.3125,
+            "region":"충청남도 논산시",
             "region_code":"Chungcheongnamdo",
             "sub_region_code":"4423000000_Chungcheongnamdo_Nonsan"
         },
@@ -250,6 +272,7 @@
             "apt_type":"분양권",
             "apt_year":0.0,
             "value_score":46.073,
+            "region":"충청남도 논산시",
             "region_code":"Chungcheongnamdo",
             "sub_region_code":"4423000000_Chungcheongnamdo_Nonsan"
         },
@@ -261,6 +284,7 @@
             "apt_type":"아파트",
             "apt_year":5.0,
             "value_score":46.007,
+            "region":"충청남도 논산시",
             "region_code":"Chungcheongnamdo",
             "sub_region_code":"4423000000_Chungcheongnamdo_Nonsan"
         },
@@ -272,6 +296,7 @@
             "apt_type":"아파트",
             "apt_year":20.0,
             "value_score":46.6578947368,
+            "region":"충청남도 논산시",
             "region_code":"Chungcheongnamdo",
             "sub_region_code":"4423000000_Chungcheongnamdo_Nonsan"
         },
@@ -283,6 +308,7 @@
             "apt_type":"아파트",
             "apt_year":9.0,
             "value_score":45.7894736842,
+            "region":"충청남도 논산시",
             "region_code":"Chungcheongnamdo",
             "sub_region_code":"4423000000_Chungcheongnamdo_Nonsan"
         },
@@ -294,6 +320,7 @@
             "apt_type":"아파트",
             "apt_year":21.0,
             "value_score":45.6924210526,
+            "region":"충청남도 논산시",
             "region_code":"Chungcheongnamdo",
             "sub_region_code":"4423000000_Chungcheongnamdo_Nonsan"
         },
@@ -305,6 +332,7 @@
             "apt_type":"아파트",
             "apt_year":20.0,
             "value_score":45.6052631579,
+            "region":"충청남도 논산시",
             "region_code":"Chungcheongnamdo",
             "sub_region_code":"4423000000_Chungcheongnamdo_Nonsan"
         },
@@ -316,6 +344,7 @@
             "apt_type":"아파트",
             "apt_year":10.0,
             "value_score":45.5345263158,
+            "region":"충청남도 논산시",
             "region_code":"Chungcheongnamdo",
             "sub_region_code":"4423000000_Chungcheongnamdo_Nonsan"
         },
@@ -327,6 +356,7 @@
             "apt_type":"아파트",
             "apt_year":4.0,
             "value_score":45.1966315789,
+            "region":"충청남도 논산시",
             "region_code":"Chungcheongnamdo",
             "sub_region_code":"4423000000_Chungcheongnamdo_Nonsan"
         },
@@ -338,6 +368,7 @@
             "apt_type":"아파트",
             "apt_year":7.0,
             "value_score":44.7368421053,
+            "region":"충청남도 논산시",
             "region_code":"Chungcheongnamdo",
             "sub_region_code":"4423000000_Chungcheongnamdo_Nonsan"
         },
@@ -349,6 +380,7 @@
             "apt_type":"아파트",
             "apt_year":2.0,
             "value_score":43.7894736842,
+            "region":"충청남도 논산시",
             "region_code":"Chungcheongnamdo",
             "sub_region_code":"4423000000_Chungcheongnamdo_Nonsan"
         },
@@ -360,6 +392,7 @@
             "apt_type":"아파트",
             "apt_year":29.0,
             "value_score":43.4204210526,
+            "region":"충청남도 논산시",
             "region_code":"Chungcheongnamdo",
             "sub_region_code":"4423000000_Chungcheongnamdo_Nonsan"
         },
@@ -371,6 +404,7 @@
             "apt_type":"아파트",
             "apt_year":29.0,
             "value_score":43.1046315789,
+            "region":"충청남도 논산시",
             "region_code":"Chungcheongnamdo",
             "sub_region_code":"4423000000_Chungcheongnamdo_Nonsan"
         },
@@ -382,6 +416,7 @@
             "apt_type":"아파트",
             "apt_year":4.0,
             "value_score":53.478,
+            "region":"충청남도 논산시",
             "region_code":"Chungcheongnamdo",
             "sub_region_code":"4423000000_Chungcheongnamdo_Nonsan"
         },
@@ -393,6 +428,7 @@
             "apt_type":"아파트",
             "apt_year":9.0,
             "value_score":50.103,
+            "region":"충청남도 논산시",
             "region_code":"Chungcheongnamdo",
             "sub_region_code":"4423000000_Chungcheongnamdo_Nonsan"
         },
@@ -404,6 +440,7 @@
             "apt_type":"아파트",
             "apt_year":20.0,
             "value_score":49.375,
+            "region":"충청남도 논산시",
             "region_code":"Chungcheongnamdo",
             "sub_region_code":"4423000000_Chungcheongnamdo_Nonsan"
         },
@@ -415,6 +452,7 @@
             "apt_type":"아파트",
             "apt_year":20.0,
             "value_score":48.875,
+            "region":"충청남도 논산시",
             "region_code":"Chungcheongnamdo",
             "sub_region_code":"4423000000_Chungcheongnamdo_Nonsan"
         },
@@ -426,6 +464,7 @@
             "apt_type":"아파트",
             "apt_year":8.0,
             "value_score":48.638,
+            "region":"충청남도 논산시",
             "region_code":"Chungcheongnamdo",
             "sub_region_code":"4423000000_Chungcheongnamdo_Nonsan"
         },
@@ -437,6 +476,7 @@
             "apt_type":"아파트",
             "apt_year":9.0,
             "value_score":48.0,
+            "region":"충청남도 논산시",
             "region_code":"Chungcheongnamdo",
             "sub_region_code":"4423000000_Chungcheongnamdo_Nonsan"
         },
@@ -448,6 +488,7 @@
             "apt_type":"아파트",
             "apt_year":2.0,
             "value_score":47.75,
+            "region":"충청남도 논산시",
             "region_code":"Chungcheongnamdo",
             "sub_region_code":"4423000000_Chungcheongnamdo_Nonsan"
         },
@@ -459,6 +500,7 @@
             "apt_type":"아파트",
             "apt_year":7.0,
             "value_score":47.5,
+            "region":"충청남도 논산시",
             "region_code":"Chungcheongnamdo",
             "sub_region_code":"4423000000_Chungcheongnamdo_Nonsan"
         },
@@ -470,6 +512,7 @@
             "apt_type":"아파트",
             "apt_year":7.0,
             "value_score":47.138,
+            "region":"충청남도 논산시",
             "region_code":"Chungcheongnamdo",
             "sub_region_code":"4423000000_Chungcheongnamdo_Nonsan"
         },
@@ -481,6 +524,7 @@
             "apt_type":"아파트",
             "apt_year":5.0,
             "value_score":46.764,
+            "region":"충청남도 논산시",
             "region_code":"Chungcheongnamdo",
             "sub_region_code":"4423000000_Chungcheongnamdo_Nonsan"
         }

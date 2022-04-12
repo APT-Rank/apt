@@ -30,6 +30,10 @@
                 "type":"number"
             },
             {
+                "name":"region",
+                "type":"string"
+            },
+            {
                 "name":"region_code",
                 "type":"string"
             },
@@ -52,6 +56,7 @@
             "apt_type":"아파트",
             "apt_year":14.0,
             "value_score":73.5778,
+            "region":"경기도 의왕시",
             "region_code":"Gyeonggi",
             "sub_region_code":"4143000000_Gyeonggi_Uiwang"
         },
@@ -63,6 +68,7 @@
             "apt_type":"아파트",
             "apt_year":11.0,
             "value_score":67.5657,
+            "region":"경기도 의왕시",
             "region_code":"Gyeonggi",
             "sub_region_code":"4143000000_Gyeonggi_Uiwang"
         },
@@ -74,6 +80,7 @@
             "apt_type":"아파트",
             "apt_year":14.0,
             "value_score":65.5651,
+            "region":"경기도 의왕시",
             "region_code":"Gyeonggi",
             "sub_region_code":"4143000000_Gyeonggi_Uiwang"
         },
@@ -85,6 +92,7 @@
             "apt_type":"아파트",
             "apt_year":14.0,
             "value_score":64.047,
+            "region":"경기도 의왕시",
             "region_code":"Gyeonggi",
             "sub_region_code":"4143000000_Gyeonggi_Uiwang"
         },
@@ -96,6 +104,7 @@
             "apt_type":"아파트",
             "apt_year":21.0,
             "value_score":62.5275,
+            "region":"경기도 의왕시",
             "region_code":"Gyeonggi",
             "sub_region_code":"4143000000_Gyeonggi_Uiwang"
         },
@@ -107,6 +116,7 @@
             "apt_type":"아파트",
             "apt_year":21.0,
             "value_score":61.1275,
+            "region":"경기도 의왕시",
             "region_code":"Gyeonggi",
             "sub_region_code":"4143000000_Gyeonggi_Uiwang"
         },
@@ -118,6 +128,7 @@
             "apt_type":"분양권",
             "apt_year":0.0,
             "value_score":61.0035,
+            "region":"경기도 의왕시",
             "region_code":"Gyeonggi",
             "sub_region_code":"4143000000_Gyeonggi_Uiwang"
         },
@@ -129,6 +140,7 @@
             "apt_type":"아파트",
             "apt_year":22.0,
             "value_score":60.2654,
+            "region":"경기도 의왕시",
             "region_code":"Gyeonggi",
             "sub_region_code":"4143000000_Gyeonggi_Uiwang"
         },
@@ -140,6 +152,7 @@
             "apt_type":"아파트",
             "apt_year":18.0,
             "value_score":59.9467,
+            "region":"경기도 의왕시",
             "region_code":"Gyeonggi",
             "sub_region_code":"4143000000_Gyeonggi_Uiwang"
         },
@@ -151,6 +164,7 @@
             "apt_type":"아파트",
             "apt_year":4.0,
             "value_score":59.6154,
+            "region":"경기도 의왕시",
             "region_code":"Gyeonggi",
             "sub_region_code":"4143000000_Gyeonggi_Uiwang"
         },
@@ -162,6 +176,7 @@
             "apt_type":"아파트",
             "apt_year":14.0,
             "value_score":77.9704,
+            "region":"경기도 의왕시",
             "region_code":"Gyeonggi",
             "sub_region_code":"4143000000_Gyeonggi_Uiwang"
         },
@@ -173,6 +188,7 @@
             "apt_type":"아파트",
             "apt_year":11.0,
             "value_score":75.9876,
+            "region":"경기도 의왕시",
             "region_code":"Gyeonggi",
             "sub_region_code":"4143000000_Gyeonggi_Uiwang"
         },
@@ -184,6 +200,7 @@
             "apt_type":"아파트",
             "apt_year":4.0,
             "value_score":75.0372,
+            "region":"경기도 의왕시",
             "region_code":"Gyeonggi",
             "sub_region_code":"4143000000_Gyeonggi_Uiwang"
         },
@@ -195,6 +212,7 @@
             "apt_type":"아파트",
             "apt_year":14.0,
             "value_score":68.2368,
+            "region":"경기도 의왕시",
             "region_code":"Gyeonggi",
             "sub_region_code":"4143000000_Gyeonggi_Uiwang"
         },
@@ -206,6 +224,7 @@
             "apt_type":"아파트",
             "apt_year":21.0,
             "value_score":66.52,
+            "region":"경기도 의왕시",
             "region_code":"Gyeonggi",
             "sub_region_code":"4143000000_Gyeonggi_Uiwang"
         },
@@ -217,6 +236,7 @@
             "apt_type":"분양권",
             "apt_year":0.0,
             "value_score":66.238,
+            "region":"경기도 의왕시",
             "region_code":"Gyeonggi",
             "sub_region_code":"4143000000_Gyeonggi_Uiwang"
         },
@@ -228,6 +248,7 @@
             "apt_type":"분양권",
             "apt_year":0.0,
             "value_score":65.8856,
+            "region":"경기도 의왕시",
             "region_code":"Gyeonggi",
             "sub_region_code":"4143000000_Gyeonggi_Uiwang"
         },
@@ -239,6 +260,7 @@
             "apt_type":"아파트",
             "apt_year":2.0,
             "value_score":65.3144,
+            "region":"경기도 의왕시",
             "region_code":"Gyeonggi",
             "sub_region_code":"4143000000_Gyeonggi_Uiwang"
         },
@@ -250,6 +272,7 @@
             "apt_type":"아파트",
             "apt_year":14.0,
             "value_score":63.6876,
+            "region":"경기도 의왕시",
             "region_code":"Gyeonggi",
             "sub_region_code":"4143000000_Gyeonggi_Uiwang"
         },
@@ -261,6 +284,7 @@
             "apt_type":"아파트",
             "apt_year":14.0,
             "value_score":63.6876,
+            "region":"경기도 의왕시",
             "region_code":"Gyeonggi",
             "sub_region_code":"4143000000_Gyeonggi_Uiwang"
         },
@@ -272,6 +296,7 @@
             "apt_type":"아파트",
             "apt_year":14.0,
             "value_score":71.1778,
+            "region":"경기도 의왕시",
             "region_code":"Gyeonggi",
             "sub_region_code":"4143000000_Gyeonggi_Uiwang"
         },
@@ -283,6 +308,7 @@
             "apt_type":"분양권",
             "apt_year":0.0,
             "value_score":62.9535,
+            "region":"경기도 의왕시",
             "region_code":"Gyeonggi",
             "sub_region_code":"4143000000_Gyeonggi_Uiwang"
         },
@@ -294,6 +320,7 @@
             "apt_type":"아파트",
             "apt_year":11.0,
             "value_score":62.5157,
+            "region":"경기도 의왕시",
             "region_code":"Gyeonggi",
             "sub_region_code":"4143000000_Gyeonggi_Uiwang"
         },
@@ -305,6 +332,7 @@
             "apt_type":"아파트",
             "apt_year":14.0,
             "value_score":60.8901,
+            "region":"경기도 의왕시",
             "region_code":"Gyeonggi",
             "sub_region_code":"4143000000_Gyeonggi_Uiwang"
         },
@@ -316,6 +344,7 @@
             "apt_type":"아파트",
             "apt_year":14.0,
             "value_score":60.547,
+            "region":"경기도 의왕시",
             "region_code":"Gyeonggi",
             "sub_region_code":"4143000000_Gyeonggi_Uiwang"
         },
@@ -327,6 +356,7 @@
             "apt_type":"아파트",
             "apt_year":22.0,
             "value_score":57.5654,
+            "region":"경기도 의왕시",
             "region_code":"Gyeonggi",
             "sub_region_code":"4143000000_Gyeonggi_Uiwang"
         },
@@ -338,6 +368,7 @@
             "apt_type":"아파트",
             "apt_year":18.0,
             "value_score":57.4717,
+            "region":"경기도 의왕시",
             "region_code":"Gyeonggi",
             "sub_region_code":"4143000000_Gyeonggi_Uiwang"
         },
@@ -349,6 +380,7 @@
             "apt_type":"아파트",
             "apt_year":21.0,
             "value_score":57.3525,
+            "region":"경기도 의왕시",
             "region_code":"Gyeonggi",
             "sub_region_code":"4143000000_Gyeonggi_Uiwang"
         },
@@ -360,6 +392,7 @@
             "apt_type":"아파트",
             "apt_year":21.0,
             "value_score":56.7775,
+            "region":"경기도 의왕시",
             "region_code":"Gyeonggi",
             "sub_region_code":"4143000000_Gyeonggi_Uiwang"
         },
@@ -371,6 +404,7 @@
             "apt_type":"아파트",
             "apt_year":32.0,
             "value_score":56.4794,
+            "region":"경기도 의왕시",
             "region_code":"Gyeonggi",
             "sub_region_code":"4143000000_Gyeonggi_Uiwang"
         },
@@ -382,6 +416,7 @@
             "apt_type":"아파트",
             "apt_year":14.0,
             "value_score":73.963,
+            "region":"경기도 의왕시",
             "region_code":"Gyeonggi",
             "sub_region_code":"4143000000_Gyeonggi_Uiwang"
         },
@@ -393,6 +428,7 @@
             "apt_type":"아파트",
             "apt_year":14.0,
             "value_score":72.745,
+            "region":"경기도 의왕시",
             "region_code":"Gyeonggi",
             "sub_region_code":"4143000000_Gyeonggi_Uiwang"
         },
@@ -404,6 +440,7 @@
             "apt_type":"아파트",
             "apt_year":14.0,
             "value_score":72.0585,
+            "region":"경기도 의왕시",
             "region_code":"Gyeonggi",
             "sub_region_code":"4143000000_Gyeonggi_Uiwang"
         },
@@ -415,6 +452,7 @@
             "apt_type":"아파트",
             "apt_year":11.0,
             "value_score":71.3095,
+            "region":"경기도 의왕시",
             "region_code":"Gyeonggi",
             "sub_region_code":"4143000000_Gyeonggi_Uiwang"
         },
@@ -426,6 +464,7 @@
             "apt_type":"아파트",
             "apt_year":18.0,
             "value_score":70.6945,
+            "region":"경기도 의왕시",
             "region_code":"Gyeonggi",
             "sub_region_code":"4143000000_Gyeonggi_Uiwang"
         },
@@ -437,6 +476,7 @@
             "apt_type":"아파트",
             "apt_year":21.0,
             "value_score":70.0625,
+            "region":"경기도 의왕시",
             "region_code":"Gyeonggi",
             "sub_region_code":"4143000000_Gyeonggi_Uiwang"
         },
@@ -448,6 +488,7 @@
             "apt_type":"아파트",
             "apt_year":21.0,
             "value_score":69.3125,
+            "region":"경기도 의왕시",
             "region_code":"Gyeonggi",
             "sub_region_code":"4143000000_Gyeonggi_Uiwang"
         },
@@ -459,6 +500,7 @@
             "apt_type":"아파트",
             "apt_year":21.0,
             "value_score":68.3105,
+            "region":"경기도 의왕시",
             "region_code":"Gyeonggi",
             "sub_region_code":"4143000000_Gyeonggi_Uiwang"
         },
@@ -470,6 +512,7 @@
             "apt_type":"아파트",
             "apt_year":21.0,
             "value_score":68.2625,
+            "region":"경기도 의왕시",
             "region_code":"Gyeonggi",
             "sub_region_code":"4143000000_Gyeonggi_Uiwang"
         },
@@ -481,6 +524,7 @@
             "apt_type":"아파트",
             "apt_year":14.0,
             "value_score":68.1595,
+            "region":"경기도 의왕시",
             "region_code":"Gyeonggi",
             "sub_region_code":"4143000000_Gyeonggi_Uiwang"
         },
@@ -492,6 +536,7 @@
             "apt_type":"아파트",
             "apt_year":14.0,
             "value_score":70.726,
+            "region":"경기도 의왕시",
             "region_code":"Gyeonggi",
             "sub_region_code":"4143000000_Gyeonggi_Uiwang"
         },
@@ -503,6 +548,7 @@
             "apt_type":"아파트",
             "apt_year":11.0,
             "value_score":68.019,
+            "region":"경기도 의왕시",
             "region_code":"Gyeonggi",
             "sub_region_code":"4143000000_Gyeonggi_Uiwang"
         },
@@ -514,6 +560,7 @@
             "apt_type":"아파트",
             "apt_year":14.0,
             "value_score":66.49,
+            "region":"경기도 의왕시",
             "region_code":"Gyeonggi",
             "sub_region_code":"4143000000_Gyeonggi_Uiwang"
         },
@@ -525,6 +572,7 @@
             "apt_type":"아파트",
             "apt_year":4.0,
             "value_score":66.018,
+            "region":"경기도 의왕시",
             "region_code":"Gyeonggi",
             "sub_region_code":"4143000000_Gyeonggi_Uiwang"
         },
@@ -536,6 +584,7 @@
             "apt_type":"아파트",
             "apt_year":14.0,
             "value_score":65.517,
+            "region":"경기도 의왕시",
             "region_code":"Gyeonggi",
             "sub_region_code":"4143000000_Gyeonggi_Uiwang"
         },
@@ -547,6 +596,7 @@
             "apt_type":"아파트",
             "apt_year":21.0,
             "value_score":65.125,
+            "region":"경기도 의왕시",
             "region_code":"Gyeonggi",
             "sub_region_code":"4143000000_Gyeonggi_Uiwang"
         },
@@ -558,6 +608,7 @@
             "apt_type":"아파트",
             "apt_year":21.0,
             "value_score":63.225,
+            "region":"경기도 의왕시",
             "region_code":"Gyeonggi",
             "sub_region_code":"4143000000_Gyeonggi_Uiwang"
         },
@@ -569,6 +620,7 @@
             "apt_type":"아파트",
             "apt_year":21.0,
             "value_score":62.725,
+            "region":"경기도 의왕시",
             "region_code":"Gyeonggi",
             "sub_region_code":"4143000000_Gyeonggi_Uiwang"
         },
@@ -580,6 +632,7 @@
             "apt_type":"아파트",
             "apt_year":18.0,
             "value_score":62.389,
+            "region":"경기도 의왕시",
             "region_code":"Gyeonggi",
             "sub_region_code":"4143000000_Gyeonggi_Uiwang"
         },
@@ -591,6 +644,7 @@
             "apt_type":"아파트",
             "apt_year":14.0,
             "value_score":62.319,
+            "region":"경기도 의왕시",
             "region_code":"Gyeonggi",
             "sub_region_code":"4143000000_Gyeonggi_Uiwang"
         }

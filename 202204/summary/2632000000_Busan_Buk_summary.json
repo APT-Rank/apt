@@ -30,6 +30,10 @@
                 "type":"number"
             },
             {
+                "name":"region",
+                "type":"string"
+            },
+            {
                 "name":"region_code",
                 "type":"string"
             },
@@ -52,6 +56,7 @@
             "apt_type":"아파트",
             "apt_year":21,
             "value_score":60.4388,
+            "region":"부산시 북구",
             "region_code":"Busan",
             "sub_region_code":"2632000000_Busan_Buk"
         },
@@ -63,6 +68,7 @@
             "apt_type":"아파트",
             "apt_year":21,
             "value_score":59.1078,
+            "region":"부산시 북구",
             "region_code":"Busan",
             "sub_region_code":"2632000000_Busan_Buk"
         },
@@ -74,6 +80,7 @@
             "apt_type":"분양권",
             "apt_year":1,
             "value_score":57.7358,
+            "region":"부산시 북구",
             "region_code":"Busan",
             "sub_region_code":"2632000000_Busan_Buk"
         },
@@ -85,6 +92,7 @@
             "apt_type":"아파트",
             "apt_year":8,
             "value_score":57.5156,
+            "region":"부산시 북구",
             "region_code":"Busan",
             "sub_region_code":"2632000000_Busan_Buk"
         },
@@ -96,6 +104,7 @@
             "apt_type":"아파트",
             "apt_year":2,
             "value_score":57.375,
+            "region":"부산시 북구",
             "region_code":"Busan",
             "sub_region_code":"2632000000_Busan_Buk"
         },
@@ -107,6 +116,7 @@
             "apt_type":"분양권",
             "apt_year":0,
             "value_score":57.3608,
+            "region":"부산시 북구",
             "region_code":"Busan",
             "sub_region_code":"2632000000_Busan_Buk"
         },
@@ -118,6 +128,7 @@
             "apt_type":"아파트",
             "apt_year":21,
             "value_score":57.304,
+            "region":"부산시 북구",
             "region_code":"Busan",
             "sub_region_code":"2632000000_Busan_Buk"
         },
@@ -129,6 +140,7 @@
             "apt_type":"아파트",
             "apt_year":2,
             "value_score":56.6376,
+            "region":"부산시 북구",
             "region_code":"Busan",
             "sub_region_code":"2632000000_Busan_Buk"
         },
@@ -140,6 +152,7 @@
             "apt_type":"아파트",
             "apt_year":4,
             "value_score":56.5818,
+            "region":"부산시 북구",
             "region_code":"Busan",
             "sub_region_code":"2632000000_Busan_Buk"
         },
@@ -151,6 +164,7 @@
             "apt_type":"아파트",
             "apt_year":19,
             "value_score":56.529,
+            "region":"부산시 북구",
             "region_code":"Busan",
             "sub_region_code":"2632000000_Busan_Buk"
         },
@@ -162,6 +176,7 @@
             "apt_type":"아파트",
             "apt_year":4,
             "value_score":65.2212,
+            "region":"부산시 북구",
             "region_code":"Busan",
             "sub_region_code":"2632000000_Busan_Buk"
         },
@@ -173,6 +188,7 @@
             "apt_type":"아파트",
             "apt_year":2,
             "value_score":64.4432,
+            "region":"부산시 북구",
             "region_code":"Busan",
             "sub_region_code":"2632000000_Busan_Buk"
         },
@@ -184,6 +200,7 @@
             "apt_type":"분양권",
             "apt_year":0,
             "value_score":63.4072,
+            "region":"부산시 북구",
             "region_code":"Busan",
             "sub_region_code":"2632000000_Busan_Buk"
         },
@@ -195,6 +212,7 @@
             "apt_type":"아파트",
             "apt_year":8,
             "value_score":63.2724,
+            "region":"부산시 북구",
             "region_code":"Busan",
             "sub_region_code":"2632000000_Busan_Buk"
         },
@@ -206,6 +224,7 @@
             "apt_type":"아파트",
             "apt_year":11,
             "value_score":63.1176,
+            "region":"부산시 북구",
             "region_code":"Busan",
             "sub_region_code":"2632000000_Busan_Buk"
         },
@@ -217,6 +236,7 @@
             "apt_type":"아파트",
             "apt_year":21,
             "value_score":62.4592,
+            "region":"부산시 북구",
             "region_code":"Busan",
             "sub_region_code":"2632000000_Busan_Buk"
         },
@@ -228,6 +248,7 @@
             "apt_type":"아파트",
             "apt_year":9,
             "value_score":61.8,
+            "region":"부산시 북구",
             "region_code":"Busan",
             "sub_region_code":"2632000000_Busan_Buk"
         },
@@ -239,6 +260,7 @@
             "apt_type":"아파트",
             "apt_year":2,
             "value_score":61.75,
+            "region":"부산시 북구",
             "region_code":"Busan",
             "sub_region_code":"2632000000_Busan_Buk"
         },
@@ -250,6 +272,7 @@
             "apt_type":"아파트",
             "apt_year":2,
             "value_score":61.2584,
+            "region":"부산시 북구",
             "region_code":"Busan",
             "sub_region_code":"2632000000_Busan_Buk"
         },
@@ -261,6 +284,7 @@
             "apt_type":"아파트",
             "apt_year":19,
             "value_score":61.186,
+            "region":"부산시 북구",
             "region_code":"Busan",
             "sub_region_code":"2632000000_Busan_Buk"
         },
@@ -272,6 +296,7 @@
             "apt_type":"분양권",
             "apt_year":1,
             "value_score":74.9929,
+            "region":"부산시 북구",
             "region_code":"Busan",
             "sub_region_code":"2632000000_Busan_Buk"
         },
@@ -283,6 +308,7 @@
             "apt_type":"아파트",
             "apt_year":12,
             "value_score":70.2534,
+            "region":"부산시 북구",
             "region_code":"Busan",
             "sub_region_code":"2632000000_Busan_Buk"
         },
@@ -294,6 +320,7 @@
             "apt_type":"분양권",
             "apt_year":0,
             "value_score":68.1679,
+            "region":"부산시 북구",
             "region_code":"Busan",
             "sub_region_code":"2632000000_Busan_Buk"
         },
@@ -305,6 +332,7 @@
             "apt_type":"아파트",
             "apt_year":2,
             "value_score":68.0,
+            "region":"부산시 북구",
             "region_code":"Busan",
             "sub_region_code":"2632000000_Busan_Buk"
         },
@@ -316,6 +344,7 @@
             "apt_type":"아파트",
             "apt_year":4,
             "value_score":67.68,
+            "region":"부산시 북구",
             "region_code":"Busan",
             "sub_region_code":"2632000000_Busan_Buk"
         },
@@ -327,6 +356,7 @@
             "apt_type":"아파트",
             "apt_year":21,
             "value_score":67.2819,
+            "region":"부산시 북구",
             "region_code":"Busan",
             "sub_region_code":"2632000000_Busan_Buk"
         },
@@ -338,6 +368,7 @@
             "apt_type":"아파트",
             "apt_year":21,
             "value_score":66.5289,
+            "region":"부산시 북구",
             "region_code":"Busan",
             "sub_region_code":"2632000000_Busan_Buk"
         },
@@ -349,6 +380,7 @@
             "apt_type":"아파트",
             "apt_year":22,
             "value_score":65.0534,
+            "region":"부산시 북구",
             "region_code":"Busan",
             "sub_region_code":"2632000000_Busan_Buk"
         },
@@ -360,6 +392,7 @@
             "apt_type":"아파트",
             "apt_year":8,
             "value_score":63.0078,
+            "region":"부산시 북구",
             "region_code":"Busan",
             "sub_region_code":"2632000000_Busan_Buk"
         },
@@ -371,6 +404,7 @@
             "apt_type":"아파트",
             "apt_year":21,
             "value_score":62.952,
+            "region":"부산시 북구",
             "region_code":"Busan",
             "sub_region_code":"2632000000_Busan_Buk"
         },
@@ -382,6 +416,7 @@
             "apt_type":"아파트",
             "apt_year":21,
             "value_score":56.3615,
+            "region":"부산시 북구",
             "region_code":"Busan",
             "sub_region_code":"2632000000_Busan_Buk"
         },
@@ -393,6 +428,7 @@
             "apt_type":"아파트",
             "apt_year":21,
             "value_score":55.6315,
+            "region":"부산시 북구",
             "region_code":"Busan",
             "sub_region_code":"2632000000_Busan_Buk"
         },
@@ -404,6 +440,7 @@
             "apt_type":"아파트",
             "apt_year":21,
             "value_score":54.52,
+            "region":"부산시 북구",
             "region_code":"Busan",
             "sub_region_code":"2632000000_Busan_Buk"
         },
@@ -415,6 +452,7 @@
             "apt_type":"분양권",
             "apt_year":1,
             "value_score":53.5715,
+            "region":"부산시 북구",
             "region_code":"Busan",
             "sub_region_code":"2632000000_Busan_Buk"
         },
@@ -426,6 +464,7 @@
             "apt_type":"아파트",
             "apt_year":8,
             "value_score":53.513,
+            "region":"부산시 북구",
             "region_code":"Busan",
             "sub_region_code":"2632000000_Busan_Buk"
         },
@@ -437,6 +476,7 @@
             "apt_type":"아파트",
             "apt_year":4,
             "value_score":51.825,
+            "region":"부산시 북구",
             "region_code":"Busan",
             "sub_region_code":"2632000000_Busan_Buk"
         },
@@ -448,6 +488,7 @@
             "apt_type":"아파트",
             "apt_year":11,
             "value_score":51.8105,
+            "region":"부산시 북구",
             "region_code":"Busan",
             "sub_region_code":"2632000000_Busan_Buk"
         },
@@ -459,6 +500,7 @@
             "apt_type":"아파트",
             "apt_year":35,
             "value_score":51.663,
+            "region":"부산시 북구",
             "region_code":"Busan",
             "sub_region_code":"2632000000_Busan_Buk"
         },
@@ -470,6 +512,7 @@
             "apt_type":"아파트",
             "apt_year":2,
             "value_score":51.525,
+            "region":"부산시 북구",
             "region_code":"Busan",
             "sub_region_code":"2632000000_Busan_Buk"
         },
@@ -481,6 +524,7 @@
             "apt_type":"분양권",
             "apt_year":0,
             "value_score":51.2215,
+            "region":"부산시 북구",
             "region_code":"Busan",
             "sub_region_code":"2632000000_Busan_Buk"
         },
@@ -492,6 +536,7 @@
             "apt_type":"아파트",
             "apt_year":21,
             "value_score":61.123,
+            "region":"부산시 북구",
             "region_code":"Busan",
             "sub_region_code":"2632000000_Busan_Buk"
         },
@@ -503,6 +548,7 @@
             "apt_type":"아파트",
             "apt_year":21,
             "value_score":59.663,
+            "region":"부산시 북구",
             "region_code":"Busan",
             "sub_region_code":"2632000000_Busan_Buk"
         },
@@ -514,6 +560,7 @@
             "apt_type":"아파트",
             "apt_year":8,
             "value_score":59.026,
+            "region":"부산시 북구",
             "region_code":"Busan",
             "sub_region_code":"2632000000_Busan_Buk"
         },
@@ -525,6 +572,7 @@
             "apt_type":"아파트",
             "apt_year":2,
             "value_score":58.721,
+            "region":"부산시 북구",
             "region_code":"Busan",
             "sub_region_code":"2632000000_Busan_Buk"
         },
@@ -536,6 +584,7 @@
             "apt_type":"아파트",
             "apt_year":21,
             "value_score":58.64,
+            "region":"부산시 북구",
             "region_code":"Busan",
             "sub_region_code":"2632000000_Busan_Buk"
         },
@@ -547,6 +596,7 @@
             "apt_type":"아파트",
             "apt_year":19,
             "value_score":58.54,
+            "region":"부산시 북구",
             "region_code":"Busan",
             "sub_region_code":"2632000000_Busan_Buk"
         },
@@ -558,6 +608,7 @@
             "apt_type":"아파트",
             "apt_year":11,
             "value_score":57.144,
+            "region":"부산시 북구",
             "region_code":"Busan",
             "sub_region_code":"2632000000_Busan_Buk"
         },
@@ -569,6 +620,7 @@
             "apt_type":"아파트",
             "apt_year":8,
             "value_score":57.006,
+            "region":"부산시 북구",
             "region_code":"Busan",
             "sub_region_code":"2632000000_Busan_Buk"
         },
@@ -580,6 +632,7 @@
             "apt_type":"아파트",
             "apt_year":2,
             "value_score":56.65,
+            "region":"부산시 북구",
             "region_code":"Busan",
             "sub_region_code":"2632000000_Busan_Buk"
         },
@@ -591,6 +644,7 @@
             "apt_type":"아파트",
             "apt_year":20,
             "value_score":56.521,
+            "region":"부산시 북구",
             "region_code":"Busan",
             "sub_region_code":"2632000000_Busan_Buk"
         }

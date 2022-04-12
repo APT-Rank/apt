@@ -30,6 +30,10 @@
                 "type":"number"
             },
             {
+                "name":"region",
+                "type":"string"
+            },
+            {
                 "name":"region_code",
                 "type":"string"
             },
@@ -52,6 +56,7 @@
             "apt_type":"아파트",
             "apt_year":8.0,
             "value_score":40.5855,
+            "region":"전라북도 김제시",
             "region_code":"Jeollabukdo",
             "sub_region_code":"4521000000_Jeollabukdo_Gimje"
         },
@@ -63,6 +68,7 @@
             "apt_type":"아파트",
             "apt_year":7.0,
             "value_score":38.8815,
+            "region":"전라북도 김제시",
             "region_code":"Jeollabukdo",
             "sub_region_code":"4521000000_Jeollabukdo_Gimje"
         },
@@ -74,6 +80,7 @@
             "apt_type":"아파트",
             "apt_year":7.0,
             "value_score":38.1355,
+            "region":"전라북도 김제시",
             "region_code":"Jeollabukdo",
             "sub_region_code":"4521000000_Jeollabukdo_Gimje"
         },
@@ -85,6 +92,7 @@
             "apt_type":"분양권",
             "apt_year":0.0,
             "value_score":37.436,
+            "region":"전라북도 김제시",
             "region_code":"Jeollabukdo",
             "sub_region_code":"4521000000_Jeollabukdo_Gimje"
         },
@@ -96,6 +104,7 @@
             "apt_type":"아파트",
             "apt_year":14.0,
             "value_score":37.243,
+            "region":"전라북도 김제시",
             "region_code":"Jeollabukdo",
             "sub_region_code":"4521000000_Jeollabukdo_Gimje"
         },
@@ -107,6 +116,7 @@
             "apt_type":"아파트",
             "apt_year":2.0,
             "value_score":36.636,
+            "region":"전라북도 김제시",
             "region_code":"Jeollabukdo",
             "sub_region_code":"4521000000_Jeollabukdo_Gimje"
         },
@@ -118,6 +128,7 @@
             "apt_type":"아파트",
             "apt_year":19.0,
             "value_score":36.211,
+            "region":"전라북도 김제시",
             "region_code":"Jeollabukdo",
             "sub_region_code":"4521000000_Jeollabukdo_Gimje"
         },
@@ -129,6 +140,7 @@
             "apt_type":"아파트",
             "apt_year":23.0,
             "value_score":34.811,
+            "region":"전라북도 김제시",
             "region_code":"Jeollabukdo",
             "sub_region_code":"4521000000_Jeollabukdo_Gimje"
         },
@@ -140,6 +152,7 @@
             "apt_type":"아파트",
             "apt_year":10.0,
             "value_score":34.1855,
+            "region":"전라북도 김제시",
             "region_code":"Jeollabukdo",
             "sub_region_code":"4521000000_Jeollabukdo_Gimje"
         },
@@ -151,6 +164,7 @@
             "apt_type":"아파트",
             "apt_year":31.0,
             "value_score":31.661,
+            "region":"전라북도 김제시",
             "region_code":"Jeollabukdo",
             "sub_region_code":"4521000000_Jeollabukdo_Gimje"
         },
@@ -162,6 +176,7 @@
             "apt_type":"아파트",
             "apt_year":8.0,
             "value_score":47.4855,
+            "region":"전라북도 김제시",
             "region_code":"Jeollabukdo",
             "sub_region_code":"4521000000_Jeollabukdo_Gimje"
         },
@@ -173,6 +188,7 @@
             "apt_type":"아파트",
             "apt_year":7.0,
             "value_score":46.2315,
+            "region":"전라북도 김제시",
             "region_code":"Jeollabukdo",
             "sub_region_code":"4521000000_Jeollabukdo_Gimje"
         },
@@ -184,6 +200,7 @@
             "apt_type":"아파트",
             "apt_year":7.0,
             "value_score":43.9855,
+            "region":"전라북도 김제시",
             "region_code":"Jeollabukdo",
             "sub_region_code":"4521000000_Jeollabukdo_Gimje"
         },
@@ -195,6 +212,7 @@
             "apt_type":"분양권",
             "apt_year":0.0,
             "value_score":42.986,
+            "region":"전라북도 김제시",
             "region_code":"Jeollabukdo",
             "sub_region_code":"4521000000_Jeollabukdo_Gimje"
         },
@@ -206,6 +224,7 @@
             "apt_type":"아파트",
             "apt_year":2.0,
             "value_score":42.486,
+            "region":"전라북도 김제시",
             "region_code":"Jeollabukdo",
             "sub_region_code":"4521000000_Jeollabukdo_Gimje"
         },
@@ -217,6 +236,7 @@
             "apt_type":"아파트",
             "apt_year":14.0,
             "value_score":41.293,
+            "region":"전라북도 김제시",
             "region_code":"Jeollabukdo",
             "sub_region_code":"4521000000_Jeollabukdo_Gimje"
         },
@@ -228,6 +248,7 @@
             "apt_type":"아파트",
             "apt_year":19.0,
             "value_score":41.236,
+            "region":"전라북도 김제시",
             "region_code":"Jeollabukdo",
             "sub_region_code":"4521000000_Jeollabukdo_Gimje"
         },
@@ -239,6 +260,7 @@
             "apt_type":"아파트",
             "apt_year":23.0,
             "value_score":39.236,
+            "region":"전라북도 김제시",
             "region_code":"Jeollabukdo",
             "sub_region_code":"4521000000_Jeollabukdo_Gimje"
         },
@@ -250,6 +272,7 @@
             "apt_type":"아파트",
             "apt_year":10.0,
             "value_score":38.9855,
+            "region":"전라북도 김제시",
             "region_code":"Jeollabukdo",
             "sub_region_code":"4521000000_Jeollabukdo_Gimje"
         },
@@ -261,6 +284,7 @@
             "apt_type":"아파트",
             "apt_year":9.0,
             "value_score":35.5,
+            "region":"전라북도 김제시",
             "region_code":"Jeollabukdo",
             "sub_region_code":"4521000000_Jeollabukdo_Gimje"
         },
@@ -272,6 +296,7 @@
             "apt_type":"아파트",
             "apt_year":14.0,
             "value_score":34.6332631579,
+            "region":"전라북도 김제시",
             "region_code":"Jeollabukdo",
             "sub_region_code":"4521000000_Jeollabukdo_Gimje"
         },
@@ -283,6 +308,7 @@
             "apt_type":"아파트",
             "apt_year":8.0,
             "value_score":34.2448421053,
+            "region":"전라북도 김제시",
             "region_code":"Jeollabukdo",
             "sub_region_code":"4521000000_Jeollabukdo_Gimje"
         },
@@ -294,6 +320,7 @@
             "apt_type":"아파트",
             "apt_year":7.0,
             "value_score":33.1395789474,
+            "region":"전라북도 김제시",
             "region_code":"Jeollabukdo",
             "sub_region_code":"4521000000_Jeollabukdo_Gimje"
         },
@@ -305,6 +332,7 @@
             "apt_type":"분양권",
             "apt_year":0.0,
             "value_score":32.8244210526,
+            "region":"전라북도 김제시",
             "region_code":"Jeollabukdo",
             "sub_region_code":"4521000000_Jeollabukdo_Gimje"
         },
@@ -316,6 +344,7 @@
             "apt_type":"아파트",
             "apt_year":19.0,
             "value_score":32.2717894737,
+            "region":"전라북도 김제시",
             "region_code":"Jeollabukdo",
             "sub_region_code":"4521000000_Jeollabukdo_Gimje"
         },
@@ -327,6 +356,7 @@
             "apt_type":"아파트",
             "apt_year":7.0,
             "value_score":32.0292631579,
+            "region":"전라북도 김제시",
             "region_code":"Jeollabukdo",
             "sub_region_code":"4521000000_Jeollabukdo_Gimje"
         },
@@ -338,6 +368,7 @@
             "apt_type":"아파트",
             "apt_year":2.0,
             "value_score":31.7717894737,
+            "region":"전라북도 김제시",
             "region_code":"Jeollabukdo",
             "sub_region_code":"4521000000_Jeollabukdo_Gimje"
         },
@@ -349,6 +380,7 @@
             "apt_type":"아파트",
             "apt_year":23.0,
             "value_score":31.6402105263,
+            "region":"전라북도 김제시",
             "region_code":"Jeollabukdo",
             "sub_region_code":"4521000000_Jeollabukdo_Gimje"
         },
@@ -360,6 +392,7 @@
             "apt_type":"아파트",
             "apt_year":33.0,
             "value_score":31.4227368421,
+            "region":"전라북도 김제시",
             "region_code":"Jeollabukdo",
             "sub_region_code":"4521000000_Jeollabukdo_Gimje"
         },
@@ -371,6 +404,7 @@
             "apt_type":"아파트",
             "apt_year":31.0,
             "value_score":31.4227368421,
+            "region":"전라북도 김제시",
             "region_code":"Jeollabukdo",
             "sub_region_code":"4521000000_Jeollabukdo_Gimje"
         },
@@ -382,6 +416,7 @@
             "apt_type":"아파트",
             "apt_year":8.0,
             "value_score":45.471,
+            "region":"전라북도 김제시",
             "region_code":"Jeollabukdo",
             "sub_region_code":"4521000000_Jeollabukdo_Gimje"
         },
@@ -393,6 +428,7 @@
             "apt_type":"아파트",
             "apt_year":14.0,
             "value_score":44.336,
+            "region":"전라북도 김제시",
             "region_code":"Jeollabukdo",
             "sub_region_code":"4521000000_Jeollabukdo_Gimje"
         },
@@ -404,6 +440,7 @@
             "apt_type":"아파트",
             "apt_year":7.0,
             "value_score":43.721,
+            "region":"전라북도 김제시",
             "region_code":"Jeollabukdo",
             "sub_region_code":"4521000000_Jeollabukdo_Gimje"
         },
@@ -415,6 +452,7 @@
             "apt_type":"아파트",
             "apt_year":7.0,
             "value_score":43.713,
+            "region":"전라북도 김제시",
             "region_code":"Jeollabukdo",
             "sub_region_code":"4521000000_Jeollabukdo_Gimje"
         },
@@ -426,6 +464,7 @@
             "apt_type":"분양권",
             "apt_year":0.0,
             "value_score":43.222,
+            "region":"전라북도 김제시",
             "region_code":"Jeollabukdo",
             "sub_region_code":"4521000000_Jeollabukdo_Gimje"
         },
@@ -437,6 +476,7 @@
             "apt_type":"아파트",
             "apt_year":2.0,
             "value_score":42.722,
+            "region":"전라북도 김제시",
             "region_code":"Jeollabukdo",
             "sub_region_code":"4521000000_Jeollabukdo_Gimje"
         },
@@ -448,6 +488,7 @@
             "apt_type":"아파트",
             "apt_year":19.0,
             "value_score":42.347,
+            "region":"전라북도 김제시",
             "region_code":"Jeollabukdo",
             "sub_region_code":"4521000000_Jeollabukdo_Gimje"
         },
@@ -459,6 +500,7 @@
             "apt_type":"아파트",
             "apt_year":23.0,
             "value_score":41.347,
+            "region":"전라북도 김제시",
             "region_code":"Jeollabukdo",
             "sub_region_code":"4521000000_Jeollabukdo_Gimje"
         },
@@ -470,6 +512,7 @@
             "apt_type":"아파트",
             "apt_year":10.0,
             "value_score":40.971,
+            "region":"전라북도 김제시",
             "region_code":"Jeollabukdo",
             "sub_region_code":"4521000000_Jeollabukdo_Gimje"
         },
@@ -481,6 +524,7 @@
             "apt_type":"아파트",
             "apt_year":31.0,
             "value_score":39.097,
+            "region":"전라북도 김제시",
             "region_code":"Jeollabukdo",
             "sub_region_code":"4521000000_Jeollabukdo_Gimje"
         }

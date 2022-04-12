@@ -30,6 +30,10 @@
                 "type":"number"
             },
             {
+                "name":"region",
+                "type":"string"
+            },
+            {
                 "name":"region_code",
                 "type":"string"
             },
@@ -52,6 +56,7 @@
             "apt_type":"아파트",
             "apt_year":5.0,
             "value_score":40.765,
+            "region":"충청북도 보은군",
             "region_code":"Chungcheongbukdo",
             "sub_region_code":"4372000000_Chungcheongbukdo_Boeun"
         },
@@ -63,6 +68,7 @@
             "apt_type":"아파트",
             "apt_year":7.0,
             "value_score":29.8775,
+            "region":"충청북도 보은군",
             "region_code":"Chungcheongbukdo",
             "sub_region_code":"4372000000_Chungcheongbukdo_Boeun"
         },
@@ -74,6 +80,7 @@
             "apt_type":"아파트",
             "apt_year":7.0,
             "value_score":29.1025,
+            "region":"충청북도 보은군",
             "region_code":"Chungcheongbukdo",
             "sub_region_code":"4372000000_Chungcheongbukdo_Boeun"
         },
@@ -85,6 +92,7 @@
             "apt_type":"아파트",
             "apt_year":17.0,
             "value_score":24.376,
+            "region":"충청북도 보은군",
             "region_code":"Chungcheongbukdo",
             "sub_region_code":"4372000000_Chungcheongbukdo_Boeun"
         },
@@ -96,6 +104,7 @@
             "apt_type":"아파트",
             "apt_year":26.0,
             "value_score":23.1925,
+            "region":"충청북도 보은군",
             "region_code":"Chungcheongbukdo",
             "sub_region_code":"4372000000_Chungcheongbukdo_Boeun"
         },
@@ -107,6 +116,7 @@
             "apt_type":"아파트",
             "apt_year":22.0,
             "value_score":19.2025,
+            "region":"충청북도 보은군",
             "region_code":"Chungcheongbukdo",
             "sub_region_code":"4372000000_Chungcheongbukdo_Boeun"
         },
@@ -118,6 +128,7 @@
             "apt_type":"아파트",
             "apt_year":29.0,
             "value_score":17.8025,
+            "region":"충청북도 보은군",
             "region_code":"Chungcheongbukdo",
             "sub_region_code":"4372000000_Chungcheongbukdo_Boeun"
         },
@@ -129,6 +140,7 @@
             "apt_type":"아파트",
             "apt_year":26.0,
             "value_score":17.7665,
+            "region":"충청북도 보은군",
             "region_code":"Chungcheongbukdo",
             "sub_region_code":"4372000000_Chungcheongbukdo_Boeun"
         },
@@ -140,6 +152,7 @@
             "apt_type":"아파트",
             "apt_year":5.0,
             "value_score":47.755,
+            "region":"충청북도 보은군",
             "region_code":"Chungcheongbukdo",
             "sub_region_code":"4372000000_Chungcheongbukdo_Boeun"
         },
@@ -151,6 +164,7 @@
             "apt_type":"아파트",
             "apt_year":7.0,
             "value_score":35.8925,
+            "region":"충청북도 보은군",
             "region_code":"Chungcheongbukdo",
             "sub_region_code":"4372000000_Chungcheongbukdo_Boeun"
         },
@@ -162,6 +176,7 @@
             "apt_type":"아파트",
             "apt_year":7.0,
             "value_score":34.1425,
+            "region":"충청북도 보은군",
             "region_code":"Chungcheongbukdo",
             "sub_region_code":"4372000000_Chungcheongbukdo_Boeun"
         },
@@ -173,6 +188,7 @@
             "apt_type":"아파트",
             "apt_year":17.0,
             "value_score":27.391,
+            "region":"충청북도 보은군",
             "region_code":"Chungcheongbukdo",
             "sub_region_code":"4372000000_Chungcheongbukdo_Boeun"
         },
@@ -184,6 +200,7 @@
             "apt_type":"아파트",
             "apt_year":26.0,
             "value_score":24.5425,
+            "region":"충청북도 보은군",
             "region_code":"Chungcheongbukdo",
             "sub_region_code":"4372000000_Chungcheongbukdo_Boeun"
         },
@@ -195,6 +212,7 @@
             "apt_type":"아파트",
             "apt_year":22.0,
             "value_score":20.6425,
+            "region":"충청북도 보은군",
             "region_code":"Chungcheongbukdo",
             "sub_region_code":"4372000000_Chungcheongbukdo_Boeun"
         },
@@ -206,6 +224,7 @@
             "apt_type":"아파트",
             "apt_year":26.0,
             "value_score":18.7565,
+            "region":"충청북도 보은군",
             "region_code":"Chungcheongbukdo",
             "sub_region_code":"4372000000_Chungcheongbukdo_Boeun"
         },
@@ -217,6 +236,7 @@
             "apt_type":"아파트",
             "apt_year":29.0,
             "value_score":18.6425,
+            "region":"충청북도 보은군",
             "region_code":"Chungcheongbukdo",
             "sub_region_code":"4372000000_Chungcheongbukdo_Boeun"
         },
@@ -228,6 +248,7 @@
             "apt_type":"아파트",
             "apt_year":5.0,
             "value_score":34.4589473684,
+            "region":"충청북도 보은군",
             "region_code":"Chungcheongbukdo",
             "sub_region_code":"4372000000_Chungcheongbukdo_Boeun"
         },
@@ -239,6 +260,7 @@
             "apt_type":"아파트",
             "apt_year":7.0,
             "value_score":25.7905263158,
+            "region":"충청북도 보은군",
             "region_code":"Chungcheongbukdo",
             "sub_region_code":"4372000000_Chungcheongbukdo_Boeun"
         },
@@ -250,6 +272,7 @@
             "apt_type":"아파트",
             "apt_year":7.0,
             "value_score":25.4484210526,
+            "region":"충청북도 보은군",
             "region_code":"Chungcheongbukdo",
             "sub_region_code":"4372000000_Chungcheongbukdo_Boeun"
         },
@@ -261,6 +284,7 @@
             "apt_type":"아파트",
             "apt_year":26.0,
             "value_score":24.3694736842,
+            "region":"충청북도 보은군",
             "region_code":"Chungcheongbukdo",
             "sub_region_code":"4372000000_Chungcheongbukdo_Boeun"
         },
@@ -272,6 +296,7 @@
             "apt_type":"아파트",
             "apt_year":17.0,
             "value_score":23.6570526316,
+            "region":"충청북도 보은군",
             "region_code":"Chungcheongbukdo",
             "sub_region_code":"4372000000_Chungcheongbukdo_Boeun"
         },
@@ -283,6 +308,7 @@
             "apt_type":"아파트",
             "apt_year":22.0,
             "value_score":20.6326315789,
+            "region":"충청북도 보은군",
             "region_code":"Chungcheongbukdo",
             "sub_region_code":"4372000000_Chungcheongbukdo_Boeun"
         },
@@ -294,6 +320,7 @@
             "apt_type":"아파트",
             "apt_year":29.0,
             "value_score":20.0010526316,
+            "region":"충청북도 보은군",
             "region_code":"Chungcheongbukdo",
             "sub_region_code":"4372000000_Chungcheongbukdo_Boeun"
         },
@@ -305,6 +332,7 @@
             "apt_type":"아파트",
             "apt_year":26.0,
             "value_score":19.9345263158,
+            "region":"충청북도 보은군",
             "region_code":"Chungcheongbukdo",
             "sub_region_code":"4372000000_Chungcheongbukdo_Boeun"
         },
@@ -316,6 +344,7 @@
             "apt_type":"아파트",
             "apt_year":5.0,
             "value_score":46.16,
+            "region":"충청북도 보은군",
             "region_code":"Chungcheongbukdo",
             "sub_region_code":"4372000000_Chungcheongbukdo_Boeun"
         },
@@ -327,6 +356,7 @@
             "apt_type":"아파트",
             "apt_year":7.0,
             "value_score":38.31,
+            "region":"충청북도 보은군",
             "region_code":"Chungcheongbukdo",
             "sub_region_code":"4372000000_Chungcheongbukdo_Boeun"
         },
@@ -338,6 +368,7 @@
             "apt_type":"아파트",
             "apt_year":7.0,
             "value_score":37.685,
+            "region":"충청북도 보은군",
             "region_code":"Chungcheongbukdo",
             "sub_region_code":"4372000000_Chungcheongbukdo_Boeun"
         },
@@ -349,6 +380,7 @@
             "apt_type":"아파트",
             "apt_year":17.0,
             "value_score":34.307,
+            "region":"충청북도 보은군",
             "region_code":"Chungcheongbukdo",
             "sub_region_code":"4372000000_Chungcheongbukdo_Boeun"
         },
@@ -360,6 +392,7 @@
             "apt_type":"아파트",
             "apt_year":26.0,
             "value_score":33.335,
+            "region":"충청북도 보은군",
             "region_code":"Chungcheongbukdo",
             "sub_region_code":"4372000000_Chungcheongbukdo_Boeun"
         },
@@ -371,6 +404,7 @@
             "apt_type":"아파트",
             "apt_year":22.0,
             "value_score":30.685,
+            "region":"충청북도 보은군",
             "region_code":"Chungcheongbukdo",
             "sub_region_code":"4372000000_Chungcheongbukdo_Boeun"
         },
@@ -382,6 +416,7 @@
             "apt_type":"아파트",
             "apt_year":26.0,
             "value_score":30.163,
+            "region":"충청북도 보은군",
             "region_code":"Chungcheongbukdo",
             "sub_region_code":"4372000000_Chungcheongbukdo_Boeun"
         },
@@ -393,6 +428,7 @@
             "apt_type":"아파트",
             "apt_year":29.0,
             "value_score":29.685,
+            "region":"충청북도 보은군",
             "region_code":"Chungcheongbukdo",
             "sub_region_code":"4372000000_Chungcheongbukdo_Boeun"
         }

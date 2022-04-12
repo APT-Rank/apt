@@ -30,6 +30,10 @@
                 "type":"number"
             },
             {
+                "name":"region",
+                "type":"string"
+            },
+            {
                 "name":"region_code",
                 "type":"string"
             },
@@ -52,6 +56,7 @@
             "apt_type":"분양권",
             "apt_year":-1.0,
             "value_score":56.4875,
+            "region":"전라남도 순천시",
             "region_code":"Jeollanamdo",
             "sub_region_code":"4615000000_Jeollanamdo_Suncheon"
         },
@@ -63,6 +68,7 @@
             "apt_type":"아파트",
             "apt_year":14.0,
             "value_score":55.811,
+            "region":"전라남도 순천시",
             "region_code":"Jeollanamdo",
             "sub_region_code":"4615000000_Jeollanamdo_Suncheon"
         },
@@ -74,6 +80,7 @@
             "apt_type":"분양권",
             "apt_year":0.0,
             "value_score":55.3435,
+            "region":"전라남도 순천시",
             "region_code":"Jeollanamdo",
             "sub_region_code":"4615000000_Jeollanamdo_Suncheon"
         },
@@ -85,6 +92,7 @@
             "apt_type":"아파트",
             "apt_year":4.0,
             "value_score":54.9125,
+            "region":"전라남도 순천시",
             "region_code":"Jeollanamdo",
             "sub_region_code":"4615000000_Jeollanamdo_Suncheon"
         },
@@ -96,6 +104,7 @@
             "apt_type":"아파트",
             "apt_year":23.0,
             "value_score":54.189,
+            "region":"전라남도 순천시",
             "region_code":"Jeollanamdo",
             "sub_region_code":"4615000000_Jeollanamdo_Suncheon"
         },
@@ -107,6 +116,7 @@
             "apt_type":"아파트",
             "apt_year":5.0,
             "value_score":53.693,
+            "region":"전라남도 순천시",
             "region_code":"Jeollanamdo",
             "sub_region_code":"4615000000_Jeollanamdo_Suncheon"
         },
@@ -118,6 +128,7 @@
             "apt_type":"아파트",
             "apt_year":12.0,
             "value_score":53.536,
+            "region":"전라남도 순천시",
             "region_code":"Jeollanamdo",
             "sub_region_code":"4615000000_Jeollanamdo_Suncheon"
         },
@@ -129,6 +140,7 @@
             "apt_type":"아파트",
             "apt_year":3.0,
             "value_score":53.438,
+            "region":"전라남도 순천시",
             "region_code":"Jeollanamdo",
             "sub_region_code":"4615000000_Jeollanamdo_Suncheon"
         },
@@ -140,6 +152,7 @@
             "apt_type":"아파트",
             "apt_year":9.0,
             "value_score":53.343,
+            "region":"전라남도 순천시",
             "region_code":"Jeollanamdo",
             "sub_region_code":"4615000000_Jeollanamdo_Suncheon"
         },
@@ -151,6 +164,7 @@
             "apt_type":"아파트",
             "apt_year":2.0,
             "value_score":53.317,
+            "region":"전라남도 순천시",
             "region_code":"Jeollanamdo",
             "sub_region_code":"4615000000_Jeollanamdo_Suncheon"
         },
@@ -162,6 +176,7 @@
             "apt_type":"분양권",
             "apt_year":0.0,
             "value_score":63.0685,
+            "region":"전라남도 순천시",
             "region_code":"Jeollanamdo",
             "sub_region_code":"4615000000_Jeollanamdo_Suncheon"
         },
@@ -173,6 +188,7 @@
             "apt_type":"아파트",
             "apt_year":14.0,
             "value_score":62.186,
+            "region":"전라남도 순천시",
             "region_code":"Jeollanamdo",
             "sub_region_code":"4615000000_Jeollanamdo_Suncheon"
         },
@@ -184,6 +200,7 @@
             "apt_type":"아파트",
             "apt_year":5.0,
             "value_score":61.268,
+            "region":"전라남도 순천시",
             "region_code":"Jeollanamdo",
             "sub_region_code":"4615000000_Jeollanamdo_Suncheon"
         },
@@ -195,6 +212,7 @@
             "apt_type":"아파트",
             "apt_year":9.0,
             "value_score":60.768,
+            "region":"전라남도 순천시",
             "region_code":"Jeollanamdo",
             "sub_region_code":"4615000000_Jeollanamdo_Suncheon"
         },
@@ -206,6 +224,7 @@
             "apt_type":"아파트",
             "apt_year":1.0,
             "value_score":60.5185,
+            "region":"전라남도 순천시",
             "region_code":"Jeollanamdo",
             "sub_region_code":"4615000000_Jeollanamdo_Suncheon"
         },
@@ -217,6 +236,7 @@
             "apt_type":"아파트",
             "apt_year":8.0,
             "value_score":60.018,
+            "region":"전라남도 순천시",
             "region_code":"Jeollanamdo",
             "sub_region_code":"4615000000_Jeollanamdo_Suncheon"
         },
@@ -228,6 +248,7 @@
             "apt_type":"분양권",
             "apt_year":-1.0,
             "value_score":59.7125,
+            "region":"전라남도 순천시",
             "region_code":"Jeollanamdo",
             "sub_region_code":"4615000000_Jeollanamdo_Suncheon"
         },
@@ -239,6 +260,7 @@
             "apt_type":"아파트",
             "apt_year":4.0,
             "value_score":59.518,
+            "region":"전라남도 순천시",
             "region_code":"Jeollanamdo",
             "sub_region_code":"4615000000_Jeollanamdo_Suncheon"
         },
@@ -250,6 +272,7 @@
             "apt_type":"아파트",
             "apt_year":3.0,
             "value_score":59.513,
+            "region":"전라남도 순천시",
             "region_code":"Jeollanamdo",
             "sub_region_code":"4615000000_Jeollanamdo_Suncheon"
         },
@@ -261,6 +284,7 @@
             "apt_type":"아파트",
             "apt_year":12.0,
             "value_score":58.936,
+            "region":"전라남도 순천시",
             "region_code":"Jeollanamdo",
             "sub_region_code":"4615000000_Jeollanamdo_Suncheon"
         },
@@ -272,6 +296,7 @@
             "apt_type":"아파트",
             "apt_year":23.0,
             "value_score":52.6124210526,
+            "region":"전라남도 순천시",
             "region_code":"Jeollanamdo",
             "sub_region_code":"4615000000_Jeollanamdo_Suncheon"
         },
@@ -283,6 +308,7 @@
             "apt_type":"분양권",
             "apt_year":-1.0,
             "value_score":52.6105263158,
+            "region":"전라남도 순천시",
             "region_code":"Jeollanamdo",
             "sub_region_code":"4615000000_Jeollanamdo_Suncheon"
         },
@@ -294,6 +320,7 @@
             "apt_type":"아파트",
             "apt_year":4.0,
             "value_score":51.9,
+            "region":"전라남도 순천시",
             "region_code":"Jeollanamdo",
             "sub_region_code":"4615000000_Jeollanamdo_Suncheon"
         },
@@ -305,6 +332,7 @@
             "apt_type":"아파트",
             "apt_year":38.0,
             "value_score":51.4545263158,
+            "region":"전라남도 순천시",
             "region_code":"Jeollanamdo",
             "sub_region_code":"4615000000_Jeollanamdo_Suncheon"
         },
@@ -316,6 +344,7 @@
             "apt_type":"아파트",
             "apt_year":28.0,
             "value_score":50.3454736842,
+            "region":"전라남도 순천시",
             "region_code":"Jeollanamdo",
             "sub_region_code":"4615000000_Jeollanamdo_Suncheon"
         },
@@ -327,6 +356,7 @@
             "apt_type":"아파트",
             "apt_year":29.0,
             "value_score":50.3454736842,
+            "region":"전라남도 순천시",
             "region_code":"Jeollanamdo",
             "sub_region_code":"4615000000_Jeollanamdo_Suncheon"
         },
@@ -338,6 +368,7 @@
             "apt_type":"아파트",
             "apt_year":2.0,
             "value_score":49.8004210526,
+            "region":"전라남도 순천시",
             "region_code":"Jeollanamdo",
             "sub_region_code":"4615000000_Jeollanamdo_Suncheon"
         },
@@ -349,6 +380,7 @@
             "apt_type":"아파트",
             "apt_year":4.0,
             "value_score":49.7477894737,
+            "region":"전라남도 순천시",
             "region_code":"Jeollanamdo",
             "sub_region_code":"4615000000_Jeollanamdo_Suncheon"
         },
@@ -360,6 +392,7 @@
             "apt_type":"아파트",
             "apt_year":31.0,
             "value_score":49.3717894737,
+            "region":"전라남도 순천시",
             "region_code":"Jeollanamdo",
             "sub_region_code":"4615000000_Jeollanamdo_Suncheon"
         },
@@ -371,6 +404,7 @@
             "apt_type":"아파트",
             "apt_year":14.0,
             "value_score":48.9454736842,
+            "region":"전라남도 순천시",
             "region_code":"Jeollanamdo",
             "sub_region_code":"4615000000_Jeollanamdo_Suncheon"
         },
@@ -382,6 +416,7 @@
             "apt_type":"아파트",
             "apt_year":14.0,
             "value_score":56.497,
+            "region":"전라남도 순천시",
             "region_code":"Jeollanamdo",
             "sub_region_code":"4615000000_Jeollanamdo_Suncheon"
         },
@@ -393,6 +428,7 @@
             "apt_type":"아파트",
             "apt_year":5.0,
             "value_score":55.661,
+            "region":"전라남도 순천시",
             "region_code":"Jeollanamdo",
             "sub_region_code":"4615000000_Jeollanamdo_Suncheon"
         },
@@ -404,6 +440,7 @@
             "apt_type":"분양권",
             "apt_year":0.0,
             "value_score":55.512,
+            "region":"전라남도 순천시",
             "region_code":"Jeollanamdo",
             "sub_region_code":"4615000000_Jeollanamdo_Suncheon"
         },
@@ -415,6 +452,7 @@
             "apt_type":"아파트",
             "apt_year":9.0,
             "value_score":55.411,
+            "region":"전라남도 순천시",
             "region_code":"Jeollanamdo",
             "sub_region_code":"4615000000_Jeollanamdo_Suncheon"
         },
@@ -426,6 +464,7 @@
             "apt_type":"분양권",
             "apt_year":-1.0,
             "value_score":55.3,
+            "region":"전라남도 순천시",
             "region_code":"Jeollanamdo",
             "sub_region_code":"4615000000_Jeollanamdo_Suncheon"
         },
@@ -437,6 +476,7 @@
             "apt_type":"아파트",
             "apt_year":12.0,
             "value_score":54.872,
+            "region":"전라남도 순천시",
             "region_code":"Jeollanamdo",
             "sub_region_code":"4615000000_Jeollanamdo_Suncheon"
         },
@@ -448,6 +488,7 @@
             "apt_type":"아파트",
             "apt_year":8.0,
             "value_score":54.661,
+            "region":"전라남도 순천시",
             "region_code":"Jeollanamdo",
             "sub_region_code":"4615000000_Jeollanamdo_Suncheon"
         },
@@ -459,6 +500,7 @@
             "apt_type":"아파트",
             "apt_year":4.0,
             "value_score":54.175,
+            "region":"전라남도 순천시",
             "region_code":"Jeollanamdo",
             "sub_region_code":"4615000000_Jeollanamdo_Suncheon"
         },
@@ -470,6 +512,7 @@
             "apt_type":"아파트",
             "apt_year":4.0,
             "value_score":54.036,
+            "region":"전라남도 순천시",
             "region_code":"Jeollanamdo",
             "sub_region_code":"4615000000_Jeollanamdo_Suncheon"
         },
@@ -481,6 +524,7 @@
             "apt_type":"아파트",
             "apt_year":1.0,
             "value_score":53.912,
+            "region":"전라남도 순천시",
             "region_code":"Jeollanamdo",
             "sub_region_code":"4615000000_Jeollanamdo_Suncheon"
         }

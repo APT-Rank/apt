@@ -30,6 +30,10 @@
                 "type":"number"
             },
             {
+                "name":"region",
+                "type":"string"
+            },
+            {
                 "name":"region_code",
                 "type":"string"
             },
@@ -52,6 +56,7 @@
             "apt_type":"아파트",
             "apt_year":8.0,
             "value_score":38.6125,
+            "region":"경상북도 영덕군",
             "region_code":"Gyeongsangbukdo",
             "sub_region_code":"4777000000_Gyeongsangbukdo_Yeongdeok"
         },
@@ -63,6 +68,7 @@
             "apt_type":"아파트",
             "apt_year":26.0,
             "value_score":31.9875,
+            "region":"경상북도 영덕군",
             "region_code":"Gyeongsangbukdo",
             "sub_region_code":"4777000000_Gyeongsangbukdo_Yeongdeok"
         },
@@ -74,6 +80,7 @@
             "apt_type":"아파트",
             "apt_year":20.0,
             "value_score":27.1375,
+            "region":"경상북도 영덕군",
             "region_code":"Gyeongsangbukdo",
             "sub_region_code":"4777000000_Gyeongsangbukdo_Yeongdeok"
         },
@@ -85,6 +92,7 @@
             "apt_type":"아파트",
             "apt_year":8.0,
             "value_score":41.9875,
+            "region":"경상북도 영덕군",
             "region_code":"Gyeongsangbukdo",
             "sub_region_code":"4777000000_Gyeongsangbukdo_Yeongdeok"
         },
@@ -96,6 +104,7 @@
             "apt_type":"아파트",
             "apt_year":26.0,
             "value_score":33.4875,
+            "region":"경상북도 영덕군",
             "region_code":"Gyeongsangbukdo",
             "sub_region_code":"4777000000_Gyeongsangbukdo_Yeongdeok"
         },
@@ -107,6 +116,7 @@
             "apt_type":"아파트",
             "apt_year":20.0,
             "value_score":26.2375,
+            "region":"경상북도 영덕군",
             "region_code":"Gyeongsangbukdo",
             "sub_region_code":"4777000000_Gyeongsangbukdo_Yeongdeok"
         },
@@ -118,6 +128,7 @@
             "apt_type":"아파트",
             "apt_year":8.0,
             "value_score":36.8526315789,
+            "region":"경상북도 영덕군",
             "region_code":"Gyeongsangbukdo",
             "sub_region_code":"4777000000_Gyeongsangbukdo_Yeongdeok"
         },
@@ -129,6 +140,7 @@
             "apt_type":"아파트",
             "apt_year":26.0,
             "value_score":32.8263157895,
+            "region":"경상북도 영덕군",
             "region_code":"Gyeongsangbukdo",
             "sub_region_code":"4777000000_Gyeongsangbukdo_Yeongdeok"
         },
@@ -140,6 +152,7 @@
             "apt_type":"아파트",
             "apt_year":20.0,
             "value_score":30.9842105263,
+            "region":"경상북도 영덕군",
             "region_code":"Gyeongsangbukdo",
             "sub_region_code":"4777000000_Gyeongsangbukdo_Yeongdeok"
         },
@@ -151,6 +164,7 @@
             "apt_type":"아파트",
             "apt_year":8.0,
             "value_score":46.1,
+            "region":"경상북도 영덕군",
             "region_code":"Gyeongsangbukdo",
             "sub_region_code":"4777000000_Gyeongsangbukdo_Yeongdeok"
         },
@@ -162,6 +176,7 @@
             "apt_type":"아파트",
             "apt_year":26.0,
             "value_score":41.475,
+            "region":"경상북도 영덕군",
             "region_code":"Gyeongsangbukdo",
             "sub_region_code":"4777000000_Gyeongsangbukdo_Yeongdeok"
         },
@@ -173,6 +188,7 @@
             "apt_type":"아파트",
             "apt_year":20.0,
             "value_score":37.975,
+            "region":"경상북도 영덕군",
             "region_code":"Gyeongsangbukdo",
             "sub_region_code":"4777000000_Gyeongsangbukdo_Yeongdeok"
         }

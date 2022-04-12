@@ -30,6 +30,10 @@
                 "type":"number"
             },
             {
+                "name":"region",
+                "type":"string"
+            },
+            {
                 "name":"region_code",
                 "type":"string"
             },
@@ -52,6 +56,7 @@
             "apt_type":"아파트",
             "apt_year":19.0,
             "value_score":23.8768,
+            "region":"인천시 강화군",
             "region_code":"Incheon",
             "sub_region_code":"2871000000_Incheon_Ganghwa"
         },
@@ -63,6 +68,7 @@
             "apt_type":"아파트",
             "apt_year":22.0,
             "value_score":23.0768,
+            "region":"인천시 강화군",
             "region_code":"Incheon",
             "sub_region_code":"2871000000_Incheon_Ganghwa"
         },
@@ -74,6 +80,7 @@
             "apt_type":"아파트",
             "apt_year":12.0,
             "value_score":21.7762,
+            "region":"인천시 강화군",
             "region_code":"Incheon",
             "sub_region_code":"2871000000_Incheon_Ganghwa"
         },
@@ -85,6 +92,7 @@
             "apt_type":"아파트",
             "apt_year":19.0,
             "value_score":21.1787,
+            "region":"인천시 강화군",
             "region_code":"Incheon",
             "sub_region_code":"2871000000_Incheon_Ganghwa"
         },
@@ -96,6 +104,7 @@
             "apt_type":"아파트",
             "apt_year":22.0,
             "value_score":19.578,
+            "region":"인천시 강화군",
             "region_code":"Incheon",
             "sub_region_code":"2871000000_Incheon_Ganghwa"
         },
@@ -107,6 +116,7 @@
             "apt_type":"아파트",
             "apt_year":16.0,
             "value_score":19.098,
+            "region":"인천시 강화군",
             "region_code":"Incheon",
             "sub_region_code":"2871000000_Incheon_Ganghwa"
         },
@@ -118,6 +128,7 @@
             "apt_type":"아파트",
             "apt_year":33.0,
             "value_score":17.598,
+            "region":"인천시 강화군",
             "region_code":"Incheon",
             "sub_region_code":"2871000000_Incheon_Ganghwa"
         },
@@ -129,6 +140,7 @@
             "apt_type":"아파트",
             "apt_year":29.0,
             "value_score":16.878,
+            "region":"인천시 강화군",
             "region_code":"Incheon",
             "sub_region_code":"2871000000_Incheon_Ganghwa"
         },
@@ -140,6 +152,7 @@
             "apt_type":"아파트",
             "apt_year":33.0,
             "value_score":16.878,
+            "region":"인천시 강화군",
             "region_code":"Incheon",
             "sub_region_code":"2871000000_Incheon_Ganghwa"
         },
@@ -151,6 +164,7 @@
             "apt_type":"아파트",
             "apt_year":32.0,
             "value_score":16.7787,
+            "region":"인천시 강화군",
             "region_code":"Incheon",
             "sub_region_code":"2871000000_Incheon_Ganghwa"
         },
@@ -162,6 +176,7 @@
             "apt_type":"아파트",
             "apt_year":19.0,
             "value_score":41.0024,
+            "region":"인천시 강화군",
             "region_code":"Incheon",
             "sub_region_code":"2871000000_Incheon_Ganghwa"
         },
@@ -173,6 +188,7 @@
             "apt_type":"아파트",
             "apt_year":22.0,
             "value_score":39.0024,
+            "region":"인천시 강화군",
             "region_code":"Incheon",
             "sub_region_code":"2871000000_Incheon_Ganghwa"
         },
@@ -184,6 +200,7 @@
             "apt_type":"아파트",
             "apt_year":12.0,
             "value_score":34.6516,
+            "region":"인천시 강화군",
             "region_code":"Incheon",
             "sub_region_code":"2871000000_Incheon_Ganghwa"
         },
@@ -195,6 +212,7 @@
             "apt_type":"아파트",
             "apt_year":19.0,
             "value_score":34.5716,
+            "region":"인천시 강화군",
             "region_code":"Incheon",
             "sub_region_code":"2871000000_Incheon_Ganghwa"
         },
@@ -206,6 +224,7 @@
             "apt_type":"아파트",
             "apt_year":22.0,
             "value_score":30.254,
+            "region":"인천시 강화군",
             "region_code":"Incheon",
             "sub_region_code":"2871000000_Incheon_Ganghwa"
         },
@@ -217,6 +236,7 @@
             "apt_type":"아파트",
             "apt_year":16.0,
             "value_score":27.734,
+            "region":"인천시 강화군",
             "region_code":"Incheon",
             "sub_region_code":"2871000000_Incheon_Ganghwa"
         },
@@ -228,6 +248,7 @@
             "apt_type":"아파트",
             "apt_year":33.0,
             "value_score":23.984,
+            "region":"인천시 강화군",
             "region_code":"Incheon",
             "sub_region_code":"2871000000_Incheon_Ganghwa"
         },
@@ -239,6 +260,7 @@
             "apt_type":"아파트",
             "apt_year":32.0,
             "value_score":23.5716,
+            "region":"인천시 강화군",
             "region_code":"Incheon",
             "sub_region_code":"2871000000_Incheon_Ganghwa"
         },
@@ -250,6 +272,7 @@
             "apt_type":"아파트",
             "apt_year":29.0,
             "value_score":23.504,
+            "region":"인천시 강화군",
             "region_code":"Incheon",
             "sub_region_code":"2871000000_Incheon_Ganghwa"
         },
@@ -261,6 +284,7 @@
             "apt_type":"아파트",
             "apt_year":33.0,
             "value_score":23.504,
+            "region":"인천시 강화군",
             "region_code":"Incheon",
             "sub_region_code":"2871000000_Incheon_Ganghwa"
         },
@@ -272,6 +296,7 @@
             "apt_type":"아파트",
             "apt_year":19.0,
             "value_score":19.6268,
+            "region":"인천시 강화군",
             "region_code":"Incheon",
             "sub_region_code":"2871000000_Incheon_Ganghwa"
         },
@@ -283,6 +308,7 @@
             "apt_type":"아파트",
             "apt_year":22.0,
             "value_score":19.0268,
+            "region":"인천시 강화군",
             "region_code":"Incheon",
             "sub_region_code":"2871000000_Incheon_Ganghwa"
         },
@@ -294,6 +320,7 @@
             "apt_type":"아파트",
             "apt_year":12.0,
             "value_score":18.0012,
+            "region":"인천시 강화군",
             "region_code":"Incheon",
             "sub_region_code":"2871000000_Incheon_Ganghwa"
         },
@@ -305,6 +332,7 @@
             "apt_type":"아파트",
             "apt_year":19.0,
             "value_score":17.6787,
+            "region":"인천시 강화군",
             "region_code":"Incheon",
             "sub_region_code":"2871000000_Incheon_Ganghwa"
         },
@@ -316,6 +344,7 @@
             "apt_type":"아파트",
             "apt_year":22.0,
             "value_score":16.403,
+            "region":"인천시 강화군",
             "region_code":"Incheon",
             "sub_region_code":"2871000000_Incheon_Ganghwa"
         },
@@ -327,6 +356,7 @@
             "apt_type":"아파트",
             "apt_year":16.0,
             "value_score":15.983,
+            "region":"인천시 강화군",
             "region_code":"Incheon",
             "sub_region_code":"2871000000_Incheon_Ganghwa"
         },
@@ -338,6 +368,7 @@
             "apt_type":"아파트",
             "apt_year":33.0,
             "value_score":14.858,
+            "region":"인천시 강화군",
             "region_code":"Incheon",
             "sub_region_code":"2871000000_Incheon_Ganghwa"
         },
@@ -349,6 +380,7 @@
             "apt_type":"아파트",
             "apt_year":32.0,
             "value_score":14.3787,
+            "region":"인천시 강화군",
             "region_code":"Incheon",
             "sub_region_code":"2871000000_Incheon_Ganghwa"
         },
@@ -360,6 +392,7 @@
             "apt_type":"아파트",
             "apt_year":29.0,
             "value_score":14.378,
+            "region":"인천시 강화군",
             "region_code":"Incheon",
             "sub_region_code":"2871000000_Incheon_Ganghwa"
         },
@@ -371,6 +404,7 @@
             "apt_type":"아파트",
             "apt_year":33.0,
             "value_score":14.378,
+            "region":"인천시 강화군",
             "region_code":"Incheon",
             "sub_region_code":"2871000000_Incheon_Ganghwa"
         },
@@ -382,6 +416,7 @@
             "apt_type":"아파트",
             "apt_year":19.0,
             "value_score":27.428,
+            "region":"인천시 강화군",
             "region_code":"Incheon",
             "sub_region_code":"2871000000_Incheon_Ganghwa"
         },
@@ -393,6 +428,7 @@
             "apt_type":"아파트",
             "apt_year":12.0,
             "value_score":27.077,
+            "region":"인천시 강화군",
             "region_code":"Incheon",
             "sub_region_code":"2871000000_Incheon_Ganghwa"
         },
@@ -404,6 +440,7 @@
             "apt_type":"아파트",
             "apt_year":22.0,
             "value_score":27.028,
+            "region":"인천시 강화군",
             "region_code":"Incheon",
             "sub_region_code":"2871000000_Incheon_Ganghwa"
         },
@@ -415,6 +452,7 @@
             "apt_type":"아파트",
             "apt_year":19.0,
             "value_score":25.9645,
+            "region":"인천시 강화군",
             "region_code":"Incheon",
             "sub_region_code":"2871000000_Incheon_Ganghwa"
         },
@@ -426,6 +464,7 @@
             "apt_type":"아파트",
             "apt_year":16.0,
             "value_score":25.88,
+            "region":"인천시 강화군",
             "region_code":"Incheon",
             "sub_region_code":"2871000000_Incheon_Ganghwa"
         },
@@ -437,6 +476,7 @@
             "apt_type":"아파트",
             "apt_year":22.0,
             "value_score":25.28,
+            "region":"인천시 강화군",
             "region_code":"Incheon",
             "sub_region_code":"2871000000_Incheon_Ganghwa"
         },
@@ -448,6 +488,7 @@
             "apt_type":"아파트",
             "apt_year":33.0,
             "value_score":25.13,
+            "region":"인천시 강화군",
             "region_code":"Incheon",
             "sub_region_code":"2871000000_Incheon_Ganghwa"
         },
@@ -459,6 +500,7 @@
             "apt_type":"아파트",
             "apt_year":29.0,
             "value_score":23.93,
+            "region":"인천시 강화군",
             "region_code":"Incheon",
             "sub_region_code":"2871000000_Incheon_Ganghwa"
         },
@@ -470,6 +512,7 @@
             "apt_type":"아파트",
             "apt_year":33.0,
             "value_score":23.93,
+            "region":"인천시 강화군",
             "region_code":"Incheon",
             "sub_region_code":"2871000000_Incheon_Ganghwa"
         },
@@ -481,6 +524,7 @@
             "apt_type":"아파트",
             "apt_year":32.0,
             "value_score":23.7645,
+            "region":"인천시 강화군",
             "region_code":"Incheon",
             "sub_region_code":"2871000000_Incheon_Ganghwa"
         },
@@ -492,6 +536,7 @@
             "apt_type":"아파트",
             "apt_year":19.0,
             "value_score":42.056,
+            "region":"인천시 강화군",
             "region_code":"Incheon",
             "sub_region_code":"2871000000_Incheon_Ganghwa"
         },
@@ -503,6 +548,7 @@
             "apt_type":"아파트",
             "apt_year":22.0,
             "value_score":41.256,
+            "region":"인천시 강화군",
             "region_code":"Incheon",
             "sub_region_code":"2871000000_Incheon_Ganghwa"
         },
@@ -514,6 +560,7 @@
             "apt_type":"아파트",
             "apt_year":19.0,
             "value_score":39.929,
+            "region":"인천시 강화군",
             "region_code":"Incheon",
             "sub_region_code":"2871000000_Incheon_Ganghwa"
         },
@@ -525,6 +572,7 @@
             "apt_type":"아파트",
             "apt_year":12.0,
             "value_score":39.754,
+            "region":"인천시 강화군",
             "region_code":"Incheon",
             "sub_region_code":"2871000000_Incheon_Ganghwa"
         },
@@ -536,6 +584,7 @@
             "apt_type":"아파트",
             "apt_year":22.0,
             "value_score":37.76,
+            "region":"인천시 강화군",
             "region_code":"Incheon",
             "sub_region_code":"2871000000_Incheon_Ganghwa"
         },
@@ -547,6 +596,7 @@
             "apt_type":"아파트",
             "apt_year":16.0,
             "value_score":37.04,
+            "region":"인천시 강화군",
             "region_code":"Incheon",
             "sub_region_code":"2871000000_Incheon_Ganghwa"
         },
@@ -558,6 +608,7 @@
             "apt_type":"아파트",
             "apt_year":33.0,
             "value_score":35.54,
+            "region":"인천시 강화군",
             "region_code":"Incheon",
             "sub_region_code":"2871000000_Incheon_Ganghwa"
         },
@@ -569,6 +620,7 @@
             "apt_type":"아파트",
             "apt_year":32.0,
             "value_score":35.529,
+            "region":"인천시 강화군",
             "region_code":"Incheon",
             "sub_region_code":"2871000000_Incheon_Ganghwa"
         },
@@ -580,6 +632,7 @@
             "apt_type":"아파트",
             "apt_year":29.0,
             "value_score":35.06,
+            "region":"인천시 강화군",
             "region_code":"Incheon",
             "sub_region_code":"2871000000_Incheon_Ganghwa"
         },
@@ -591,6 +644,7 @@
             "apt_type":"아파트",
             "apt_year":33.0,
             "value_score":35.06,
+            "region":"인천시 강화군",
             "region_code":"Incheon",
             "sub_region_code":"2871000000_Incheon_Ganghwa"
         }

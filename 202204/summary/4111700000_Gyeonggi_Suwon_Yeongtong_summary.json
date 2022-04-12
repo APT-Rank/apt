@@ -30,6 +30,10 @@
                 "type":"number"
             },
             {
+                "name":"region",
+                "type":"string"
+            },
+            {
                 "name":"region_code",
                 "type":"string"
             },
@@ -52,6 +56,7 @@
             "apt_type":"아파트",
             "apt_year":11.0,
             "value_score":81.2389,
+            "region":"경기도 수원시 영통구",
             "region_code":"Gyeonggi",
             "sub_region_code":"4111700000_Gyeonggi_Suwon_Yeongtong"
         },
@@ -63,6 +68,7 @@
             "apt_type":"아파트",
             "apt_year":11.0,
             "value_score":77.6077,
+            "region":"경기도 수원시 영통구",
             "region_code":"Gyeonggi",
             "sub_region_code":"4111700000_Gyeonggi_Suwon_Yeongtong"
         },
@@ -74,6 +80,7 @@
             "apt_type":"아파트",
             "apt_year":8.0,
             "value_score":77.0077,
+            "region":"경기도 수원시 영통구",
             "region_code":"Gyeonggi",
             "sub_region_code":"4111700000_Gyeonggi_Suwon_Yeongtong"
         },
@@ -85,6 +92,7 @@
             "apt_type":"아파트",
             "apt_year":11.0,
             "value_score":74.7389,
+            "region":"경기도 수원시 영통구",
             "region_code":"Gyeonggi",
             "sub_region_code":"4111700000_Gyeonggi_Suwon_Yeongtong"
         },
@@ -96,6 +104,7 @@
             "apt_type":"아파트",
             "apt_year":11.0,
             "value_score":71.8389,
+            "region":"경기도 수원시 영통구",
             "region_code":"Gyeonggi",
             "sub_region_code":"4111700000_Gyeonggi_Suwon_Yeongtong"
         },
@@ -107,6 +116,7 @@
             "apt_type":"분양권",
             "apt_year":-1.0,
             "value_score":71.3077,
+            "region":"경기도 수원시 영통구",
             "region_code":"Gyeonggi",
             "sub_region_code":"4111700000_Gyeonggi_Suwon_Yeongtong"
         },
@@ -118,6 +128,7 @@
             "apt_type":"아파트",
             "apt_year":8.0,
             "value_score":70.7777,
+            "region":"경기도 수원시 영통구",
             "region_code":"Gyeonggi",
             "sub_region_code":"4111700000_Gyeonggi_Suwon_Yeongtong"
         },
@@ -129,6 +140,7 @@
             "apt_type":"아파트",
             "apt_year":11.0,
             "value_score":70.3389,
+            "region":"경기도 수원시 영통구",
             "region_code":"Gyeonggi",
             "sub_region_code":"4111700000_Gyeonggi_Suwon_Yeongtong"
         },
@@ -140,6 +152,7 @@
             "apt_type":"아파트",
             "apt_year":8.0,
             "value_score":68.6746,
+            "region":"경기도 수원시 영통구",
             "region_code":"Gyeonggi",
             "sub_region_code":"4111700000_Gyeonggi_Suwon_Yeongtong"
         },
@@ -151,6 +164,7 @@
             "apt_type":"아파트",
             "apt_year":9.0,
             "value_score":68.1677,
+            "region":"경기도 수원시 영통구",
             "region_code":"Gyeonggi",
             "sub_region_code":"4111700000_Gyeonggi_Suwon_Yeongtong"
         },
@@ -162,6 +176,7 @@
             "apt_type":"아파트",
             "apt_year":11.0,
             "value_score":81.0436,
+            "region":"경기도 수원시 영통구",
             "region_code":"Gyeonggi",
             "sub_region_code":"4111700000_Gyeonggi_Suwon_Yeongtong"
         },
@@ -173,6 +188,7 @@
             "apt_type":"아파트",
             "apt_year":11.0,
             "value_score":80.7852,
+            "region":"경기도 수원시 영통구",
             "region_code":"Gyeonggi",
             "sub_region_code":"4111700000_Gyeonggi_Suwon_Yeongtong"
         },
@@ -184,6 +200,7 @@
             "apt_type":"아파트",
             "apt_year":4.0,
             "value_score":78.1652,
+            "region":"경기도 수원시 영통구",
             "region_code":"Gyeonggi",
             "sub_region_code":"4111700000_Gyeonggi_Suwon_Yeongtong"
         },
@@ -195,6 +212,7 @@
             "apt_type":"분양권",
             "apt_year":0.0,
             "value_score":77.4968,
+            "region":"경기도 수원시 영통구",
             "region_code":"Gyeonggi",
             "sub_region_code":"4111700000_Gyeonggi_Suwon_Yeongtong"
         },
@@ -206,6 +224,7 @@
             "apt_type":"아파트",
             "apt_year":8.0,
             "value_score":74.8936,
+            "region":"경기도 수원시 영통구",
             "region_code":"Gyeonggi",
             "sub_region_code":"4111700000_Gyeonggi_Suwon_Yeongtong"
         },
@@ -217,6 +236,7 @@
             "apt_type":"아파트",
             "apt_year":10.0,
             "value_score":74.0236,
+            "region":"경기도 수원시 영통구",
             "region_code":"Gyeonggi",
             "sub_region_code":"4111700000_Gyeonggi_Suwon_Yeongtong"
         },
@@ -228,6 +248,7 @@
             "apt_type":"아파트",
             "apt_year":5.0,
             "value_score":73.4724,
+            "region":"경기도 수원시 영통구",
             "region_code":"Gyeonggi",
             "sub_region_code":"4111700000_Gyeonggi_Suwon_Yeongtong"
         },
@@ -239,6 +260,7 @@
             "apt_type":"아파트",
             "apt_year":15.0,
             "value_score":73.2144,
+            "region":"경기도 수원시 영통구",
             "region_code":"Gyeonggi",
             "sub_region_code":"4111700000_Gyeonggi_Suwon_Yeongtong"
         },
@@ -250,6 +272,7 @@
             "apt_type":"아파트",
             "apt_year":12.0,
             "value_score":72.496,
+            "region":"경기도 수원시 영통구",
             "region_code":"Gyeonggi",
             "sub_region_code":"4111700000_Gyeonggi_Suwon_Yeongtong"
         },
@@ -261,6 +284,7 @@
             "apt_type":"아파트",
             "apt_year":9.0,
             "value_score":72.4236,
+            "region":"경기도 수원시 영통구",
             "region_code":"Gyeonggi",
             "sub_region_code":"4111700000_Gyeonggi_Suwon_Yeongtong"
         },
@@ -272,6 +296,7 @@
             "apt_type":"아파트",
             "apt_year":11.0,
             "value_score":81.1389,
+            "region":"경기도 수원시 영통구",
             "region_code":"Gyeonggi",
             "sub_region_code":"4111700000_Gyeonggi_Suwon_Yeongtong"
         },
@@ -283,6 +308,7 @@
             "apt_type":"아파트",
             "apt_year":8.0,
             "value_score":76.5327,
+            "region":"경기도 수원시 영통구",
             "region_code":"Gyeonggi",
             "sub_region_code":"4111700000_Gyeonggi_Suwon_Yeongtong"
         },
@@ -294,6 +320,7 @@
             "apt_type":"아파트",
             "apt_year":11.0,
             "value_score":75.5577,
+            "region":"경기도 수원시 영통구",
             "region_code":"Gyeonggi",
             "sub_region_code":"4111700000_Gyeonggi_Suwon_Yeongtong"
         },
@@ -305,6 +332,7 @@
             "apt_type":"아파트",
             "apt_year":11.0,
             "value_score":74.9139,
+            "region":"경기도 수원시 영통구",
             "region_code":"Gyeonggi",
             "sub_region_code":"4111700000_Gyeonggi_Suwon_Yeongtong"
         },
@@ -316,6 +344,7 @@
             "apt_type":"아파트",
             "apt_year":23.0,
             "value_score":71.755,
+            "region":"경기도 수원시 영통구",
             "region_code":"Gyeonggi",
             "sub_region_code":"4111700000_Gyeonggi_Suwon_Yeongtong"
         },
@@ -327,6 +356,7 @@
             "apt_type":"아파트",
             "apt_year":11.0,
             "value_score":71.6889,
+            "region":"경기도 수원시 영통구",
             "region_code":"Gyeonggi",
             "sub_region_code":"4111700000_Gyeonggi_Suwon_Yeongtong"
         },
@@ -338,6 +368,7 @@
             "apt_type":"아파트",
             "apt_year":11.0,
             "value_score":71.2639,
+            "region":"경기도 수원시 영통구",
             "region_code":"Gyeonggi",
             "sub_region_code":"4111700000_Gyeonggi_Suwon_Yeongtong"
         },
@@ -349,6 +380,7 @@
             "apt_type":"분양권",
             "apt_year":-1.0,
             "value_score":70.7827,
+            "region":"경기도 수원시 영통구",
             "region_code":"Gyeonggi",
             "sub_region_code":"4111700000_Gyeonggi_Suwon_Yeongtong"
         },
@@ -360,6 +392,7 @@
             "apt_type":"아파트",
             "apt_year":8.0,
             "value_score":70.5246,
+            "region":"경기도 수원시 영통구",
             "region_code":"Gyeonggi",
             "sub_region_code":"4111700000_Gyeonggi_Suwon_Yeongtong"
         },
@@ -371,6 +404,7 @@
             "apt_type":"아파트",
             "apt_year":13.0,
             "value_score":70.4431,
+            "region":"경기도 수원시 영통구",
             "region_code":"Gyeonggi",
             "sub_region_code":"4111700000_Gyeonggi_Suwon_Yeongtong"
         },
@@ -382,6 +416,7 @@
             "apt_type":"아파트",
             "apt_year":11.0,
             "value_score":78.9315,
+            "region":"경기도 수원시 영통구",
             "region_code":"Gyeonggi",
             "sub_region_code":"4111700000_Gyeonggi_Suwon_Yeongtong"
         },
@@ -393,6 +428,7 @@
             "apt_type":"아파트",
             "apt_year":11.0,
             "value_score":77.3795,
+            "region":"경기도 수원시 영통구",
             "region_code":"Gyeonggi",
             "sub_region_code":"4111700000_Gyeonggi_Suwon_Yeongtong"
         },
@@ -404,6 +440,7 @@
             "apt_type":"아파트",
             "apt_year":8.0,
             "value_score":76.9295,
+            "region":"경기도 수원시 영통구",
             "region_code":"Gyeonggi",
             "sub_region_code":"4111700000_Gyeonggi_Suwon_Yeongtong"
         },
@@ -415,6 +452,7 @@
             "apt_type":"아파트",
             "apt_year":8.0,
             "value_score":75.3795,
+            "region":"경기도 수원시 영통구",
             "region_code":"Gyeonggi",
             "sub_region_code":"4111700000_Gyeonggi_Suwon_Yeongtong"
         },
@@ -426,6 +464,7 @@
             "apt_type":"분양권",
             "apt_year":-1.0,
             "value_score":74.9295,
+            "region":"경기도 수원시 영통구",
             "region_code":"Gyeonggi",
             "sub_region_code":"4111700000_Gyeonggi_Suwon_Yeongtong"
         },
@@ -437,6 +476,7 @@
             "apt_type":"아파트",
             "apt_year":11.0,
             "value_score":74.7815,
+            "region":"경기도 수원시 영통구",
             "region_code":"Gyeonggi",
             "sub_region_code":"4111700000_Gyeonggi_Suwon_Yeongtong"
         },
@@ -448,6 +488,7 @@
             "apt_type":"아파트",
             "apt_year":11.0,
             "value_score":74.1815,
+            "region":"경기도 수원시 영통구",
             "region_code":"Gyeonggi",
             "sub_region_code":"4111700000_Gyeonggi_Suwon_Yeongtong"
         },
@@ -459,6 +500,7 @@
             "apt_type":"아파트",
             "apt_year":38.0,
             "value_score":74.087,
+            "region":"경기도 수원시 영통구",
             "region_code":"Gyeonggi",
             "sub_region_code":"4111700000_Gyeonggi_Suwon_Yeongtong"
         },
@@ -470,6 +512,7 @@
             "apt_type":"아파트",
             "apt_year":10.0,
             "value_score":74.0295,
+            "region":"경기도 수원시 영통구",
             "region_code":"Gyeonggi",
             "sub_region_code":"4111700000_Gyeonggi_Suwon_Yeongtong"
         },
@@ -481,6 +524,7 @@
             "apt_type":"아파트",
             "apt_year":15.0,
             "value_score":73.9555,
+            "region":"경기도 수원시 영통구",
             "region_code":"Gyeonggi",
             "sub_region_code":"4111700000_Gyeonggi_Suwon_Yeongtong"
         },
@@ -492,6 +536,7 @@
             "apt_type":"아파트",
             "apt_year":11.0,
             "value_score":73.863,
+            "region":"경기도 수원시 영통구",
             "region_code":"Gyeonggi",
             "sub_region_code":"4111700000_Gyeonggi_Suwon_Yeongtong"
         },
@@ -503,6 +548,7 @@
             "apt_type":"아파트",
             "apt_year":11.0,
             "value_score":73.159,
+            "region":"경기도 수원시 영통구",
             "region_code":"Gyeonggi",
             "sub_region_code":"4111700000_Gyeonggi_Suwon_Yeongtong"
         },
@@ -514,6 +560,7 @@
             "apt_type":"아파트",
             "apt_year":8.0,
             "value_score":71.059,
+            "region":"경기도 수원시 영통구",
             "region_code":"Gyeonggi",
             "sub_region_code":"4111700000_Gyeonggi_Suwon_Yeongtong"
         },
@@ -525,6 +572,7 @@
             "apt_type":"아파트",
             "apt_year":11.0,
             "value_score":69.163,
+            "region":"경기도 수원시 영통구",
             "region_code":"Gyeonggi",
             "sub_region_code":"4111700000_Gyeonggi_Suwon_Yeongtong"
         },
@@ -536,6 +584,7 @@
             "apt_type":"아파트",
             "apt_year":10.0,
             "value_score":69.139,
+            "region":"경기도 수원시 영통구",
             "region_code":"Gyeonggi",
             "sub_region_code":"4111700000_Gyeonggi_Suwon_Yeongtong"
         },
@@ -547,6 +596,7 @@
             "apt_type":"아파트",
             "apt_year":4.0,
             "value_score":68.843,
+            "region":"경기도 수원시 영통구",
             "region_code":"Gyeonggi",
             "sub_region_code":"4111700000_Gyeonggi_Suwon_Yeongtong"
         },
@@ -558,6 +608,7 @@
             "apt_type":"분양권",
             "apt_year":0.0,
             "value_score":68.792,
+            "region":"경기도 수원시 영통구",
             "region_code":"Gyeonggi",
             "sub_region_code":"4111700000_Gyeonggi_Suwon_Yeongtong"
         },
@@ -569,6 +620,7 @@
             "apt_type":"아파트",
             "apt_year":15.0,
             "value_score":68.511,
+            "region":"경기도 수원시 영통구",
             "region_code":"Gyeonggi",
             "sub_region_code":"4111700000_Gyeonggi_Suwon_Yeongtong"
         },
@@ -580,6 +632,7 @@
             "apt_type":"아파트",
             "apt_year":8.0,
             "value_score":68.239,
+            "region":"경기도 수원시 영통구",
             "region_code":"Gyeonggi",
             "sub_region_code":"4111700000_Gyeonggi_Suwon_Yeongtong"
         },
@@ -591,6 +644,7 @@
             "apt_type":"아파트",
             "apt_year":11.0,
             "value_score":67.563,
+            "region":"경기도 수원시 영통구",
             "region_code":"Gyeonggi",
             "sub_region_code":"4111700000_Gyeonggi_Suwon_Yeongtong"
         }

@@ -30,6 +30,10 @@
                 "type":"number"
             },
             {
+                "name":"region",
+                "type":"string"
+            },
+            {
                 "name":"region_code",
                 "type":"string"
             },
@@ -52,6 +56,7 @@
             "apt_type":"아파트",
             "apt_year":4.0,
             "value_score":42.4065,
+            "region":"경상남도 사천시",
             "region_code":"Gyeongsangnamdo",
             "sub_region_code":"4824000000_Gyeongsangnamdo_Sacheon"
         },
@@ -63,6 +68,7 @@
             "apt_type":"아파트",
             "apt_year":3.0,
             "value_score":41.8585,
+            "region":"경상남도 사천시",
             "region_code":"Gyeongsangnamdo",
             "sub_region_code":"4824000000_Gyeongsangnamdo_Sacheon"
         },
@@ -74,6 +80,7 @@
             "apt_type":"분양권",
             "apt_year":0.0,
             "value_score":40.635,
+            "region":"경상남도 사천시",
             "region_code":"Gyeongsangnamdo",
             "sub_region_code":"4824000000_Gyeongsangnamdo_Sacheon"
         },
@@ -85,6 +92,7 @@
             "apt_type":"아파트",
             "apt_year":2.0,
             "value_score":40.548,
+            "region":"경상남도 사천시",
             "region_code":"Gyeongsangnamdo",
             "sub_region_code":"4824000000_Gyeongsangnamdo_Sacheon"
         },
@@ -96,6 +104,7 @@
             "apt_type":"아파트",
             "apt_year":5.0,
             "value_score":39.601,
+            "region":"경상남도 사천시",
             "region_code":"Gyeongsangnamdo",
             "sub_region_code":"4824000000_Gyeongsangnamdo_Sacheon"
         },
@@ -107,6 +116,7 @@
             "apt_type":"아파트",
             "apt_year":10.0,
             "value_score":38.948,
+            "region":"경상남도 사천시",
             "region_code":"Gyeongsangnamdo",
             "sub_region_code":"4824000000_Gyeongsangnamdo_Sacheon"
         },
@@ -118,6 +128,7 @@
             "apt_type":"아파트",
             "apt_year":12.0,
             "value_score":38.4315,
+            "region":"경상남도 사천시",
             "region_code":"Gyeongsangnamdo",
             "sub_region_code":"4824000000_Gyeongsangnamdo_Sacheon"
         },
@@ -129,6 +140,7 @@
             "apt_type":"아파트",
             "apt_year":13.0,
             "value_score":37.3295,
+            "region":"경상남도 사천시",
             "region_code":"Gyeongsangnamdo",
             "sub_region_code":"4824000000_Gyeongsangnamdo_Sacheon"
         },
@@ -140,6 +152,7 @@
             "apt_type":"아파트",
             "apt_year":17.0,
             "value_score":36.8895,
+            "region":"경상남도 사천시",
             "region_code":"Gyeongsangnamdo",
             "sub_region_code":"4824000000_Gyeongsangnamdo_Sacheon"
         },
@@ -151,6 +164,7 @@
             "apt_type":"아파트",
             "apt_year":31.0,
             "value_score":36.3225,
+            "region":"경상남도 사천시",
             "region_code":"Gyeongsangnamdo",
             "sub_region_code":"4824000000_Gyeongsangnamdo_Sacheon"
         },
@@ -162,6 +176,7 @@
             "apt_type":"아파트",
             "apt_year":3.0,
             "value_score":54.2335,
+            "region":"경상남도 사천시",
             "region_code":"Gyeongsangnamdo",
             "sub_region_code":"4824000000_Gyeongsangnamdo_Sacheon"
         },
@@ -173,6 +188,7 @@
             "apt_type":"분양권",
             "apt_year":0.0,
             "value_score":52.485,
+            "region":"경상남도 사천시",
             "region_code":"Gyeongsangnamdo",
             "sub_region_code":"4824000000_Gyeongsangnamdo_Sacheon"
         },
@@ -184,6 +200,7 @@
             "apt_type":"아파트",
             "apt_year":4.0,
             "value_score":49.9065,
+            "region":"경상남도 사천시",
             "region_code":"Gyeongsangnamdo",
             "sub_region_code":"4824000000_Gyeongsangnamdo_Sacheon"
         },
@@ -195,6 +212,7 @@
             "apt_type":"아파트",
             "apt_year":2.0,
             "value_score":48.498,
+            "region":"경상남도 사천시",
             "region_code":"Gyeongsangnamdo",
             "sub_region_code":"4824000000_Gyeongsangnamdo_Sacheon"
         },
@@ -206,6 +224,7 @@
             "apt_type":"아파트",
             "apt_year":13.0,
             "value_score":47.9795,
+            "region":"경상남도 사천시",
             "region_code":"Gyeongsangnamdo",
             "sub_region_code":"4824000000_Gyeongsangnamdo_Sacheon"
         },
@@ -217,6 +236,7 @@
             "apt_type":"아파트",
             "apt_year":17.0,
             "value_score":46.5795,
+            "region":"경상남도 사천시",
             "region_code":"Gyeongsangnamdo",
             "sub_region_code":"4824000000_Gyeongsangnamdo_Sacheon"
         },
@@ -228,6 +248,7 @@
             "apt_type":"아파트",
             "apt_year":10.0,
             "value_score":45.248,
+            "region":"경상남도 사천시",
             "region_code":"Gyeongsangnamdo",
             "sub_region_code":"4824000000_Gyeongsangnamdo_Sacheon"
         },
@@ -239,6 +260,7 @@
             "apt_type":"분양권",
             "apt_year":-1.0,
             "value_score":44.9795,
+            "region":"경상남도 사천시",
             "region_code":"Gyeongsangnamdo",
             "sub_region_code":"4824000000_Gyeongsangnamdo_Sacheon"
         },
@@ -250,6 +272,7 @@
             "apt_type":"아파트",
             "apt_year":12.0,
             "value_score":44.7315,
+            "region":"경상남도 사천시",
             "region_code":"Gyeongsangnamdo",
             "sub_region_code":"4824000000_Gyeongsangnamdo_Sacheon"
         },
@@ -261,6 +284,7 @@
             "apt_type":"아파트",
             "apt_year":5.0,
             "value_score":44.085,
+            "region":"경상남도 사천시",
             "region_code":"Gyeongsangnamdo",
             "sub_region_code":"4824000000_Gyeongsangnamdo_Sacheon"
         },
@@ -272,6 +296,7 @@
             "apt_type":"아파트",
             "apt_year":5.0,
             "value_score":38.2991578947,
+            "region":"경상남도 사천시",
             "region_code":"Gyeongsangnamdo",
             "sub_region_code":"4824000000_Gyeongsangnamdo_Sacheon"
         },
@@ -283,6 +308,7 @@
             "apt_type":"아파트",
             "apt_year":4.0,
             "value_score":35.4082105263,
+            "region":"경상남도 사천시",
             "region_code":"Gyeongsangnamdo",
             "sub_region_code":"4824000000_Gyeongsangnamdo_Sacheon"
         },
@@ -294,6 +320,7 @@
             "apt_type":"아파트",
             "apt_year":28.0,
             "value_score":33.9075789474,
+            "region":"경상남도 사천시",
             "region_code":"Gyeongsangnamdo",
             "sub_region_code":"4824000000_Gyeongsangnamdo_Sacheon"
         },
@@ -305,6 +332,7 @@
             "apt_type":"아파트",
             "apt_year":31.0,
             "value_score":33.6126315789,
+            "region":"경상남도 사천시",
             "region_code":"Gyeongsangnamdo",
             "sub_region_code":"4824000000_Gyeongsangnamdo_Sacheon"
         },
@@ -316,6 +344,7 @@
             "apt_type":"아파트",
             "apt_year":10.0,
             "value_score":33.3132631579,
+            "region":"경상남도 사천시",
             "region_code":"Gyeongsangnamdo",
             "sub_region_code":"4824000000_Gyeongsangnamdo_Sacheon"
         },
@@ -327,6 +356,7 @@
             "apt_type":"아파트",
             "apt_year":36.0,
             "value_score":33.0096842105,
+            "region":"경상남도 사천시",
             "region_code":"Gyeongsangnamdo",
             "sub_region_code":"4824000000_Gyeongsangnamdo_Sacheon"
         },
@@ -338,6 +368,7 @@
             "apt_type":"아파트",
             "apt_year":2.0,
             "value_score":32.9974736842,
+            "region":"경상남도 사천시",
             "region_code":"Gyeongsangnamdo",
             "sub_region_code":"4824000000_Gyeongsangnamdo_Sacheon"
         },
@@ -349,6 +380,7 @@
             "apt_type":"아파트",
             "apt_year":12.0,
             "value_score":32.6608421053,
+            "region":"경상남도 사천시",
             "region_code":"Gyeongsangnamdo",
             "sub_region_code":"4824000000_Gyeongsangnamdo_Sacheon"
         },
@@ -360,6 +392,7 @@
             "apt_type":"아파트",
             "apt_year":4.0,
             "value_score":31.8132631579,
+            "region":"경상남도 사천시",
             "region_code":"Gyeongsangnamdo",
             "sub_region_code":"4824000000_Gyeongsangnamdo_Sacheon"
         },
@@ -371,6 +404,7 @@
             "apt_type":"아파트",
             "apt_year":24.0,
             "value_score":31.4021052632,
+            "region":"경상남도 사천시",
             "region_code":"Gyeongsangnamdo",
             "sub_region_code":"4824000000_Gyeongsangnamdo_Sacheon"
         },
@@ -382,6 +416,7 @@
             "apt_type":"아파트",
             "apt_year":4.0,
             "value_score":47.313,
+            "region":"경상남도 사천시",
             "region_code":"Gyeongsangnamdo",
             "sub_region_code":"4824000000_Gyeongsangnamdo_Sacheon"
         },
@@ -393,6 +428,7 @@
             "apt_type":"아파트",
             "apt_year":3.0,
             "value_score":46.592,
+            "region":"경상남도 사천시",
             "region_code":"Gyeongsangnamdo",
             "sub_region_code":"4824000000_Gyeongsangnamdo_Sacheon"
         },
@@ -404,6 +440,7 @@
             "apt_type":"분양권",
             "apt_year":0.0,
             "value_score":45.72,
+            "region":"경상남도 사천시",
             "region_code":"Gyeongsangnamdo",
             "sub_region_code":"4824000000_Gyeongsangnamdo_Sacheon"
         },
@@ -415,6 +452,7 @@
             "apt_type":"아파트",
             "apt_year":2.0,
             "value_score":45.246,
+            "region":"경상남도 사천시",
             "region_code":"Gyeongsangnamdo",
             "sub_region_code":"4824000000_Gyeongsangnamdo_Sacheon"
         },
@@ -426,6 +464,7 @@
             "apt_type":"아파트",
             "apt_year":10.0,
             "value_score":43.996,
+            "region":"경상남도 사천시",
             "region_code":"Gyeongsangnamdo",
             "sub_region_code":"4824000000_Gyeongsangnamdo_Sacheon"
         },
@@ -437,6 +476,7 @@
             "apt_type":"아파트",
             "apt_year":12.0,
             "value_score":42.963,
+            "region":"경상남도 사천시",
             "region_code":"Gyeongsangnamdo",
             "sub_region_code":"4824000000_Gyeongsangnamdo_Sacheon"
         },
@@ -448,6 +488,7 @@
             "apt_type":"아파트",
             "apt_year":5.0,
             "value_score":42.907,
+            "region":"경상남도 사천시",
             "region_code":"Gyeongsangnamdo",
             "sub_region_code":"4824000000_Gyeongsangnamdo_Sacheon"
         },
@@ -459,6 +500,7 @@
             "apt_type":"아파트",
             "apt_year":31.0,
             "value_score":42.72,
+            "region":"경상남도 사천시",
             "region_code":"Gyeongsangnamdo",
             "sub_region_code":"4824000000_Gyeongsangnamdo_Sacheon"
         },
@@ -470,6 +512,7 @@
             "apt_type":"아파트",
             "apt_year":13.0,
             "value_score":42.709,
+            "region":"경상남도 사천시",
             "region_code":"Gyeongsangnamdo",
             "sub_region_code":"4824000000_Gyeongsangnamdo_Sacheon"
         },
@@ -481,6 +524,7 @@
             "apt_type":"아파트",
             "apt_year":6.0,
             "value_score":42.313,
+            "region":"경상남도 사천시",
             "region_code":"Gyeongsangnamdo",
             "sub_region_code":"4824000000_Gyeongsangnamdo_Sacheon"
         }

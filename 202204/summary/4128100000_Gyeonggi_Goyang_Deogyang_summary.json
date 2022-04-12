@@ -30,6 +30,10 @@
                 "type":"number"
             },
             {
+                "name":"region",
+                "type":"string"
+            },
+            {
                 "name":"region_code",
                 "type":"string"
             },
@@ -52,6 +56,7 @@
             "apt_type":"아파트",
             "apt_year":3.0,
             "value_score":61.0396,
+            "region":"경기도 고양시 덕양구",
             "region_code":"Gyeonggi",
             "sub_region_code":"4128100000_Gyeonggi_Goyang_Deogyang"
         },
@@ -63,6 +68,7 @@
             "apt_type":"아파트",
             "apt_year":3.0,
             "value_score":56.5408,
+            "region":"경기도 고양시 덕양구",
             "region_code":"Gyeonggi",
             "sub_region_code":"4128100000_Gyeonggi_Goyang_Deogyang"
         },
@@ -74,6 +80,7 @@
             "apt_type":"아파트",
             "apt_year":5.0,
             "value_score":55.7608,
+            "region":"경기도 고양시 덕양구",
             "region_code":"Gyeonggi",
             "sub_region_code":"4128100000_Gyeonggi_Goyang_Deogyang"
         },
@@ -85,6 +92,7 @@
             "apt_type":"아파트",
             "apt_year":4.0,
             "value_score":55.5387,
+            "region":"경기도 고양시 덕양구",
             "region_code":"Gyeonggi",
             "sub_region_code":"4128100000_Gyeonggi_Goyang_Deogyang"
         },
@@ -96,6 +104,7 @@
             "apt_type":"아파트",
             "apt_year":29.0,
             "value_score":55.3642,
+            "region":"경기도 고양시 덕양구",
             "region_code":"Gyeonggi",
             "sub_region_code":"4128100000_Gyeonggi_Goyang_Deogyang"
         },
@@ -107,6 +116,7 @@
             "apt_type":"아파트",
             "apt_year":29.0,
             "value_score":55.1642,
+            "region":"경기도 고양시 덕양구",
             "region_code":"Gyeonggi",
             "sub_region_code":"4128100000_Gyeonggi_Goyang_Deogyang"
         },
@@ -118,6 +128,7 @@
             "apt_type":"아파트",
             "apt_year":28.0,
             "value_score":55.133,
+            "region":"경기도 고양시 덕양구",
             "region_code":"Gyeonggi",
             "sub_region_code":"4128100000_Gyeonggi_Goyang_Deogyang"
         },
@@ -129,6 +140,7 @@
             "apt_type":"아파트",
             "apt_year":14.0,
             "value_score":54.9327,
+            "region":"경기도 고양시 덕양구",
             "region_code":"Gyeonggi",
             "sub_region_code":"4128100000_Gyeonggi_Goyang_Deogyang"
         },
@@ -140,6 +152,7 @@
             "apt_type":"아파트",
             "apt_year":4.0,
             "value_score":54.1587,
+            "region":"경기도 고양시 덕양구",
             "region_code":"Gyeonggi",
             "sub_region_code":"4128100000_Gyeonggi_Goyang_Deogyang"
         },
@@ -151,6 +164,7 @@
             "apt_type":"아파트",
             "apt_year":15.0,
             "value_score":54.0402,
+            "region":"경기도 고양시 덕양구",
             "region_code":"Gyeonggi",
             "sub_region_code":"4128100000_Gyeonggi_Goyang_Deogyang"
         },
@@ -162,6 +176,7 @@
             "apt_type":"아파트",
             "apt_year":3.0,
             "value_score":67.4816,
+            "region":"경기도 고양시 덕양구",
             "region_code":"Gyeonggi",
             "sub_region_code":"4128100000_Gyeonggi_Goyang_Deogyang"
         },
@@ -173,6 +188,7 @@
             "apt_type":"아파트",
             "apt_year":14.0,
             "value_score":66.4952,
+            "region":"경기도 고양시 덕양구",
             "region_code":"Gyeonggi",
             "sub_region_code":"4128100000_Gyeonggi_Goyang_Deogyang"
         },
@@ -184,6 +200,7 @@
             "apt_type":"아파트",
             "apt_year":8.0,
             "value_score":66.3504,
+            "region":"경기도 고양시 덕양구",
             "region_code":"Gyeonggi",
             "sub_region_code":"4128100000_Gyeonggi_Goyang_Deogyang"
         },
@@ -195,6 +212,7 @@
             "apt_type":"아파트",
             "apt_year":11.0,
             "value_score":65.8004,
+            "region":"경기도 고양시 덕양구",
             "region_code":"Gyeonggi",
             "sub_region_code":"4128100000_Gyeonggi_Goyang_Deogyang"
         },
@@ -206,6 +224,7 @@
             "apt_type":"아파트",
             "apt_year":4.0,
             "value_score":65.1016,
+            "region":"경기도 고양시 덕양구",
             "region_code":"Gyeonggi",
             "sub_region_code":"4128100000_Gyeonggi_Goyang_Deogyang"
         },
@@ -217,6 +236,7 @@
             "apt_type":"아파트",
             "apt_year":3.0,
             "value_score":64.3316,
+            "region":"경기도 고양시 덕양구",
             "region_code":"Gyeonggi",
             "sub_region_code":"4128100000_Gyeonggi_Goyang_Deogyang"
         },
@@ -228,6 +248,7 @@
             "apt_type":"아파트",
             "apt_year":4.0,
             "value_score":63.904,
+            "region":"경기도 고양시 덕양구",
             "region_code":"Gyeonggi",
             "sub_region_code":"4128100000_Gyeonggi_Goyang_Deogyang"
         },
@@ -239,6 +260,7 @@
             "apt_type":"아파트",
             "apt_year":11.0,
             "value_score":63.2804,
+            "region":"경기도 고양시 덕양구",
             "region_code":"Gyeonggi",
             "sub_region_code":"4128100000_Gyeonggi_Goyang_Deogyang"
         },
@@ -250,6 +272,7 @@
             "apt_type":"아파트",
             "apt_year":3.0,
             "value_score":63.2028,
+            "region":"경기도 고양시 덕양구",
             "region_code":"Gyeonggi",
             "sub_region_code":"4128100000_Gyeonggi_Goyang_Deogyang"
         },
@@ -261,6 +284,7 @@
             "apt_type":"아파트",
             "apt_year":27.0,
             "value_score":63.1708,
+            "region":"경기도 고양시 덕양구",
             "region_code":"Gyeonggi",
             "sub_region_code":"4128100000_Gyeonggi_Goyang_Deogyang"
         },
@@ -272,6 +296,7 @@
             "apt_type":"아파트",
             "apt_year":3.0,
             "value_score":62.3646,
+            "region":"경기도 고양시 덕양구",
             "region_code":"Gyeonggi",
             "sub_region_code":"4128100000_Gyeonggi_Goyang_Deogyang"
         },
@@ -283,6 +308,7 @@
             "apt_type":"아파트",
             "apt_year":29.0,
             "value_score":59.9392,
+            "region":"경기도 고양시 덕양구",
             "region_code":"Gyeonggi",
             "sub_region_code":"4128100000_Gyeonggi_Goyang_Deogyang"
         },
@@ -294,6 +320,7 @@
             "apt_type":"아파트",
             "apt_year":28.0,
             "value_score":59.833,
+            "region":"경기도 고양시 덕양구",
             "region_code":"Gyeonggi",
             "sub_region_code":"4128100000_Gyeonggi_Goyang_Deogyang"
         },
@@ -305,6 +332,7 @@
             "apt_type":"아파트",
             "apt_year":29.0,
             "value_score":59.3142,
+            "region":"경기도 고양시 덕양구",
             "region_code":"Gyeonggi",
             "sub_region_code":"4128100000_Gyeonggi_Goyang_Deogyang"
         },
@@ -316,6 +344,7 @@
             "apt_type":"아파트",
             "apt_year":3.0,
             "value_score":59.2908,
+            "region":"경기도 고양시 덕양구",
             "region_code":"Gyeonggi",
             "sub_region_code":"4128100000_Gyeonggi_Goyang_Deogyang"
         },
@@ -327,6 +356,7 @@
             "apt_type":"아파트",
             "apt_year":14.0,
             "value_score":58.3077,
+            "region":"경기도 고양시 덕양구",
             "region_code":"Gyeonggi",
             "sub_region_code":"4128100000_Gyeonggi_Goyang_Deogyang"
         },
@@ -338,6 +368,7 @@
             "apt_type":"아파트",
             "apt_year":15.0,
             "value_score":58.0947,
+            "region":"경기도 고양시 덕양구",
             "region_code":"Gyeonggi",
             "sub_region_code":"4128100000_Gyeonggi_Goyang_Deogyang"
         },
@@ -349,6 +380,7 @@
             "apt_type":"아파트",
             "apt_year":29.0,
             "value_score":57.783,
+            "region":"경기도 고양시 덕양구",
             "region_code":"Gyeonggi",
             "sub_region_code":"4128100000_Gyeonggi_Goyang_Deogyang"
         },
@@ -360,6 +392,7 @@
             "apt_type":"아파트",
             "apt_year":15.0,
             "value_score":57.6402,
+            "region":"경기도 고양시 덕양구",
             "region_code":"Gyeonggi",
             "sub_region_code":"4128100000_Gyeonggi_Goyang_Deogyang"
         },
@@ -371,6 +404,7 @@
             "apt_type":"아파트",
             "apt_year":4.0,
             "value_score":57.3137,
+            "region":"경기도 고양시 덕양구",
             "region_code":"Gyeonggi",
             "sub_region_code":"4128100000_Gyeonggi_Goyang_Deogyang"
         },
@@ -382,6 +416,7 @@
             "apt_type":"아파트",
             "apt_year":27.0,
             "value_score":59.351,
+            "region":"경기도 고양시 덕양구",
             "region_code":"Gyeonggi",
             "sub_region_code":"4128100000_Gyeonggi_Goyang_Deogyang"
         },
@@ -393,6 +428,7 @@
             "apt_type":"아파트",
             "apt_year":28.0,
             "value_score":58.8995,
+            "region":"경기도 고양시 덕양구",
             "region_code":"Gyeonggi",
             "sub_region_code":"4128100000_Gyeonggi_Goyang_Deogyang"
         },
@@ -404,6 +440,7 @@
             "apt_type":"아파트",
             "apt_year":3.0,
             "value_score":56.916,
+            "region":"경기도 고양시 덕양구",
             "region_code":"Gyeonggi",
             "sub_region_code":"4128100000_Gyeonggi_Goyang_Deogyang"
         },
@@ -415,6 +452,7 @@
             "apt_type":"아파트",
             "apt_year":27.0,
             "value_score":56.832,
+            "region":"경기도 고양시 덕양구",
             "region_code":"Gyeonggi",
             "sub_region_code":"4128100000_Gyeonggi_Goyang_Deogyang"
         },
@@ -426,6 +464,7 @@
             "apt_type":"아파트",
             "apt_year":18.0,
             "value_score":55.982,
+            "region":"경기도 고양시 덕양구",
             "region_code":"Gyeonggi",
             "sub_region_code":"4128100000_Gyeonggi_Goyang_Deogyang"
         },
@@ -437,6 +476,7 @@
             "apt_type":"아파트",
             "apt_year":27.0,
             "value_score":55.9465,
+            "region":"경기도 고양시 덕양구",
             "region_code":"Gyeonggi",
             "sub_region_code":"4128100000_Gyeonggi_Goyang_Deogyang"
         },
@@ -448,6 +488,7 @@
             "apt_type":"아파트",
             "apt_year":19.0,
             "value_score":55.8965,
+            "region":"경기도 고양시 덕양구",
             "region_code":"Gyeonggi",
             "sub_region_code":"4128100000_Gyeonggi_Goyang_Deogyang"
         },
@@ -459,6 +500,7 @@
             "apt_type":"아파트",
             "apt_year":20.0,
             "value_score":55.4965,
+            "region":"경기도 고양시 덕양구",
             "region_code":"Gyeonggi",
             "sub_region_code":"4128100000_Gyeonggi_Goyang_Deogyang"
         },
@@ -470,6 +512,7 @@
             "apt_type":"아파트",
             "apt_year":28.0,
             "value_score":55.4465,
+            "region":"경기도 고양시 덕양구",
             "region_code":"Gyeonggi",
             "sub_region_code":"4128100000_Gyeonggi_Goyang_Deogyang"
         },
@@ -481,6 +524,7 @@
             "apt_type":"아파트",
             "apt_year":28.0,
             "value_score":54.5495,
+            "region":"경기도 고양시 덕양구",
             "region_code":"Gyeonggi",
             "sub_region_code":"4128100000_Gyeonggi_Goyang_Deogyang"
         },
@@ -492,6 +536,7 @@
             "apt_type":"아파트",
             "apt_year":27.0,
             "value_score":61.102,
+            "region":"경기도 고양시 덕양구",
             "region_code":"Gyeonggi",
             "sub_region_code":"4128100000_Gyeonggi_Goyang_Deogyang"
         },
@@ -503,6 +548,7 @@
             "apt_type":"아파트",
             "apt_year":28.0,
             "value_score":60.199,
+            "region":"경기도 고양시 덕양구",
             "region_code":"Gyeonggi",
             "sub_region_code":"4128100000_Gyeonggi_Goyang_Deogyang"
         },
@@ -514,6 +560,7 @@
             "apt_type":"아파트",
             "apt_year":3.0,
             "value_score":59.832,
+            "region":"경기도 고양시 덕양구",
             "region_code":"Gyeonggi",
             "sub_region_code":"4128100000_Gyeonggi_Goyang_Deogyang"
         },
@@ -525,6 +572,7 @@
             "apt_type":"아파트",
             "apt_year":8.0,
             "value_score":59.226,
+            "region":"경기도 고양시 덕양구",
             "region_code":"Gyeonggi",
             "sub_region_code":"4128100000_Gyeonggi_Goyang_Deogyang"
         },
@@ -536,6 +584,7 @@
             "apt_type":"아파트",
             "apt_year":11.0,
             "value_score":58.526,
+            "region":"경기도 고양시 덕양구",
             "region_code":"Gyeonggi",
             "sub_region_code":"4128100000_Gyeonggi_Goyang_Deogyang"
         },
@@ -547,6 +596,7 @@
             "apt_type":"아파트",
             "apt_year":29.0,
             "value_score":57.914,
+            "region":"경기도 고양시 덕양구",
             "region_code":"Gyeonggi",
             "sub_region_code":"4128100000_Gyeonggi_Goyang_Deogyang"
         },
@@ -558,6 +608,7 @@
             "apt_type":"아파트",
             "apt_year":4.0,
             "value_score":57.829,
+            "region":"경기도 고양시 덕양구",
             "region_code":"Gyeonggi",
             "sub_region_code":"4128100000_Gyeonggi_Goyang_Deogyang"
         },
@@ -569,6 +620,7 @@
             "apt_type":"아파트",
             "apt_year":3.0,
             "value_score":57.809,
+            "region":"경기도 고양시 덕양구",
             "region_code":"Gyeonggi",
             "sub_region_code":"4128100000_Gyeonggi_Goyang_Deogyang"
         },
@@ -580,6 +632,7 @@
             "apt_type":"아파트",
             "apt_year":5.0,
             "value_score":57.316,
+            "region":"경기도 고양시 덕양구",
             "region_code":"Gyeonggi",
             "sub_region_code":"4128100000_Gyeonggi_Goyang_Deogyang"
         },
@@ -591,6 +644,7 @@
             "apt_type":"아파트",
             "apt_year":27.0,
             "value_score":57.199,
+            "region":"경기도 고양시 덕양구",
             "region_code":"Gyeonggi",
             "sub_region_code":"4128100000_Gyeonggi_Goyang_Deogyang"
         }

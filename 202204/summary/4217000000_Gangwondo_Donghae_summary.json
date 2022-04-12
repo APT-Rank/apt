@@ -30,6 +30,10 @@
                 "type":"number"
             },
             {
+                "name":"region",
+                "type":"string"
+            },
+            {
                 "name":"region_code",
                 "type":"string"
             },
@@ -52,6 +56,7 @@
             "apt_type":"분양권",
             "apt_year":-1.0,
             "value_score":50.373,
+            "region":"강원도 동해시",
             "region_code":"Gangwondo",
             "sub_region_code":"4217000000_Gangwondo_Donghae"
         },
@@ -63,6 +68,7 @@
             "apt_type":"아파트",
             "apt_year":4.0,
             "value_score":48.7815,
+            "region":"강원도 동해시",
             "region_code":"Gangwondo",
             "sub_region_code":"4217000000_Gangwondo_Donghae"
         },
@@ -74,6 +80,7 @@
             "apt_type":"아파트",
             "apt_year":3.0,
             "value_score":48.7815,
+            "region":"강원도 동해시",
             "region_code":"Gangwondo",
             "sub_region_code":"4217000000_Gangwondo_Donghae"
         },
@@ -85,6 +92,7 @@
             "apt_type":"아파트",
             "apt_year":20.0,
             "value_score":47.9335,
+            "region":"강원도 동해시",
             "region_code":"Gangwondo",
             "sub_region_code":"4217000000_Gangwondo_Donghae"
         },
@@ -96,6 +104,7 @@
             "apt_type":"아파트",
             "apt_year":9.0,
             "value_score":46.2775,
+            "region":"강원도 동해시",
             "region_code":"Gangwondo",
             "sub_region_code":"4217000000_Gangwondo_Donghae"
         },
@@ -107,6 +116,7 @@
             "apt_type":"분양권",
             "apt_year":0.0,
             "value_score":45.899,
+            "region":"강원도 동해시",
             "region_code":"Gangwondo",
             "sub_region_code":"4217000000_Gangwondo_Donghae"
         },
@@ -118,6 +128,7 @@
             "apt_type":"아파트",
             "apt_year":34.0,
             "value_score":44.5565,
+            "region":"강원도 동해시",
             "region_code":"Gangwondo",
             "sub_region_code":"4217000000_Gangwondo_Donghae"
         },
@@ -129,6 +140,7 @@
             "apt_type":"아파트",
             "apt_year":32.0,
             "value_score":44.532,
+            "region":"강원도 동해시",
             "region_code":"Gangwondo",
             "sub_region_code":"4217000000_Gangwondo_Donghae"
         },
@@ -140,6 +152,7 @@
             "apt_type":"아파트",
             "apt_year":32.0,
             "value_score":44.407,
+            "region":"강원도 동해시",
             "region_code":"Gangwondo",
             "sub_region_code":"4217000000_Gangwondo_Donghae"
         },
@@ -151,6 +164,7 @@
             "apt_type":"아파트",
             "apt_year":13.0,
             "value_score":43.7025,
+            "region":"강원도 동해시",
             "region_code":"Gangwondo",
             "sub_region_code":"4217000000_Gangwondo_Donghae"
         },
@@ -162,6 +176,7 @@
             "apt_type":"분양권",
             "apt_year":-1.0,
             "value_score":56.148,
+            "region":"강원도 동해시",
             "region_code":"Gangwondo",
             "sub_region_code":"4217000000_Gangwondo_Donghae"
         },
@@ -173,6 +188,7 @@
             "apt_type":"아파트",
             "apt_year":4.0,
             "value_score":54.3315,
+            "region":"강원도 동해시",
             "region_code":"Gangwondo",
             "sub_region_code":"4217000000_Gangwondo_Donghae"
         },
@@ -184,6 +200,7 @@
             "apt_type":"아파트",
             "apt_year":3.0,
             "value_score":54.3315,
+            "region":"강원도 동해시",
             "region_code":"Gangwondo",
             "sub_region_code":"4217000000_Gangwondo_Donghae"
         },
@@ -195,6 +212,7 @@
             "apt_type":"분양권",
             "apt_year":0.0,
             "value_score":51.374,
+            "region":"강원도 동해시",
             "region_code":"Gangwondo",
             "sub_region_code":"4217000000_Gangwondo_Donghae"
         },
@@ -206,6 +224,7 @@
             "apt_type":"아파트",
             "apt_year":9.0,
             "value_score":50.7775,
+            "region":"강원도 동해시",
             "region_code":"Gangwondo",
             "sub_region_code":"4217000000_Gangwondo_Donghae"
         },
@@ -217,6 +236,7 @@
             "apt_type":"아파트",
             "apt_year":3.0,
             "value_score":48.652,
+            "region":"강원도 동해시",
             "region_code":"Gangwondo",
             "sub_region_code":"4217000000_Gangwondo_Donghae"
         },
@@ -228,6 +248,7 @@
             "apt_type":"아파트",
             "apt_year":20.0,
             "value_score":47.3335,
+            "region":"강원도 동해시",
             "region_code":"Gangwondo",
             "sub_region_code":"4217000000_Gangwondo_Donghae"
         },
@@ -239,6 +260,7 @@
             "apt_type":"아파트",
             "apt_year":34.0,
             "value_score":47.3315,
+            "region":"강원도 동해시",
             "region_code":"Gangwondo",
             "sub_region_code":"4217000000_Gangwondo_Donghae"
         },
@@ -250,6 +272,7 @@
             "apt_type":"아파트",
             "apt_year":13.0,
             "value_score":46.7775,
+            "region":"강원도 동해시",
             "region_code":"Gangwondo",
             "sub_region_code":"4217000000_Gangwondo_Donghae"
         },
@@ -261,6 +284,7 @@
             "apt_type":"아파트",
             "apt_year":32.0,
             "value_score":46.332,
+            "region":"강원도 동해시",
             "region_code":"Gangwondo",
             "sub_region_code":"4217000000_Gangwondo_Donghae"
         },
@@ -272,6 +296,7 @@
             "apt_type":"아파트",
             "apt_year":20.0,
             "value_score":49.5791578947,
+            "region":"강원도 동해시",
             "region_code":"Gangwondo",
             "sub_region_code":"4217000000_Gangwondo_Donghae"
         },
@@ -283,6 +308,7 @@
             "apt_type":"아파트",
             "apt_year":32.0,
             "value_score":49.0246315789,
+            "region":"강원도 동해시",
             "region_code":"Gangwondo",
             "sub_region_code":"4217000000_Gangwondo_Donghae"
         },
@@ -294,6 +320,7 @@
             "apt_type":"아파트",
             "apt_year":39.0,
             "value_score":47.3686315789,
+            "region":"강원도 동해시",
             "region_code":"Gangwondo",
             "sub_region_code":"4217000000_Gangwondo_Donghae"
         },
@@ -305,6 +332,7 @@
             "apt_type":"아파트",
             "apt_year":31.0,
             "value_score":47.3667368421,
+            "region":"강원도 동해시",
             "region_code":"Gangwondo",
             "sub_region_code":"4217000000_Gangwondo_Donghae"
         },
@@ -316,6 +344,7 @@
             "apt_type":"분양권",
             "apt_year":-1.0,
             "value_score":44.5290526316,
+            "region":"강원도 동해시",
             "region_code":"Gangwondo",
             "sub_region_code":"4217000000_Gangwondo_Donghae"
         },
@@ -327,6 +356,7 @@
             "apt_type":"아파트",
             "apt_year":32.0,
             "value_score":43.8930526316,
+            "region":"강원도 동해시",
             "region_code":"Gangwondo",
             "sub_region_code":"4217000000_Gangwondo_Donghae"
         },
@@ -338,6 +368,7 @@
             "apt_type":"아파트",
             "apt_year":3.0,
             "value_score":43.7345263158,
+            "region":"강원도 동해시",
             "region_code":"Gangwondo",
             "sub_region_code":"4217000000_Gangwondo_Donghae"
         },
@@ -349,6 +380,7 @@
             "apt_type":"아파트",
             "apt_year":4.0,
             "value_score":43.7345263158,
+            "region":"강원도 동해시",
             "region_code":"Gangwondo",
             "sub_region_code":"4217000000_Gangwondo_Donghae"
         },
@@ -360,6 +392,7 @@
             "apt_type":"아파트",
             "apt_year":34.0,
             "value_score":42.8661052632,
+            "region":"강원도 동해시",
             "region_code":"Gangwondo",
             "sub_region_code":"4217000000_Gangwondo_Donghae"
         },
@@ -371,6 +404,7 @@
             "apt_type":"아파트",
             "apt_year":2.0,
             "value_score":42.3667368421,
+            "region":"강원도 동해시",
             "region_code":"Gangwondo",
             "sub_region_code":"4217000000_Gangwondo_Donghae"
         },
@@ -382,6 +416,7 @@
             "apt_type":"아파트",
             "apt_year":3.0,
             "value_score":52.913,
+            "region":"강원도 동해시",
             "region_code":"Gangwondo",
             "sub_region_code":"4217000000_Gangwondo_Donghae"
         },
@@ -393,6 +428,7 @@
             "apt_type":"아파트",
             "apt_year":4.0,
             "value_score":52.913,
+            "region":"강원도 동해시",
             "region_code":"Gangwondo",
             "sub_region_code":"4217000000_Gangwondo_Donghae"
         },
@@ -404,6 +440,7 @@
             "apt_type":"분양권",
             "apt_year":-1.0,
             "value_score":52.421,
+            "region":"강원도 동해시",
             "region_code":"Gangwondo",
             "sub_region_code":"4217000000_Gangwondo_Donghae"
         },
@@ -415,6 +452,7 @@
             "apt_type":"아파트",
             "apt_year":20.0,
             "value_score":51.667,
+            "region":"강원도 동해시",
             "region_code":"Gangwondo",
             "sub_region_code":"4217000000_Gangwondo_Donghae"
         },
@@ -426,6 +464,7 @@
             "apt_type":"아파트",
             "apt_year":34.0,
             "value_score":49.788,
+            "region":"강원도 동해시",
             "region_code":"Gangwondo",
             "sub_region_code":"4217000000_Gangwondo_Donghae"
         },
@@ -437,6 +476,7 @@
             "apt_type":"아파트",
             "apt_year":32.0,
             "value_score":49.664,
+            "region":"강원도 동해시",
             "region_code":"Gangwondo",
             "sub_region_code":"4217000000_Gangwondo_Donghae"
         },
@@ -448,6 +488,7 @@
             "apt_type":"아파트",
             "apt_year":32.0,
             "value_score":49.039,
+            "region":"강원도 동해시",
             "region_code":"Gangwondo",
             "sub_region_code":"4217000000_Gangwondo_Donghae"
         },
@@ -459,6 +500,7 @@
             "apt_type":"아파트",
             "apt_year":2.0,
             "value_score":48.414,
+            "region":"강원도 동해시",
             "region_code":"Gangwondo",
             "sub_region_code":"4217000000_Gangwondo_Donghae"
         },
@@ -470,6 +512,7 @@
             "apt_type":"아파트",
             "apt_year":9.0,
             "value_score":48.055,
+            "region":"강원도 동해시",
             "region_code":"Gangwondo",
             "sub_region_code":"4217000000_Gangwondo_Donghae"
         },
@@ -481,6 +524,7 @@
             "apt_type":"아파트",
             "apt_year":7.0,
             "value_score":47.538,
+            "region":"강원도 동해시",
             "region_code":"Gangwondo",
             "sub_region_code":"4217000000_Gangwondo_Donghae"
         }

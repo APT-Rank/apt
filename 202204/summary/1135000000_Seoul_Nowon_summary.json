@@ -30,6 +30,10 @@
                 "type":"number"
             },
             {
+                "name":"region",
+                "type":"string"
+            },
+            {
                 "name":"region_code",
                 "type":"string"
             },
@@ -52,6 +56,7 @@
             "apt_type":"재건축",
             "apt_year":36.0,
             "value_score":68.3285,
+            "region":"서울시 노원구",
             "region_code":"Seoul",
             "sub_region_code":"1135000000_Seoul_Nowon"
         },
@@ -63,6 +68,7 @@
             "apt_type":"아파트",
             "apt_year":3.0,
             "value_score":62.5853,
+            "region":"서울시 노원구",
             "region_code":"Seoul",
             "sub_region_code":"1135000000_Seoul_Nowon"
         },
@@ -74,6 +80,7 @@
             "apt_type":"아파트",
             "apt_year":35.0,
             "value_score":61.5944,
+            "region":"서울시 노원구",
             "region_code":"Seoul",
             "sub_region_code":"1135000000_Seoul_Nowon"
         },
@@ -85,6 +92,7 @@
             "apt_type":"아파트",
             "apt_year":3.0,
             "value_score":61.3832,
+            "region":"서울시 노원구",
             "region_code":"Seoul",
             "sub_region_code":"1135000000_Seoul_Nowon"
         },
@@ -96,6 +104,7 @@
             "apt_type":"아파트",
             "apt_year":35.0,
             "value_score":61.3736,
+            "region":"서울시 노원구",
             "region_code":"Seoul",
             "sub_region_code":"1135000000_Seoul_Nowon"
         },
@@ -107,6 +116,7 @@
             "apt_type":"아파트",
             "apt_year":33.0,
             "value_score":61.0167,
+            "region":"서울시 노원구",
             "region_code":"Seoul",
             "sub_region_code":"1135000000_Seoul_Nowon"
         },
@@ -118,6 +128,7 @@
             "apt_type":"아파트",
             "apt_year":35.0,
             "value_score":60.5821,
+            "region":"서울시 노원구",
             "region_code":"Seoul",
             "sub_region_code":"1135000000_Seoul_Nowon"
         },
@@ -129,6 +140,7 @@
             "apt_type":"아파트",
             "apt_year":35.0,
             "value_score":60.4736,
+            "region":"서울시 노원구",
             "region_code":"Seoul",
             "sub_region_code":"1135000000_Seoul_Nowon"
         },
@@ -140,6 +152,7 @@
             "apt_type":"아파트",
             "apt_year":35.0,
             "value_score":60.2944,
+            "region":"서울시 노원구",
             "region_code":"Seoul",
             "sub_region_code":"1135000000_Seoul_Nowon"
         },
@@ -151,6 +164,7 @@
             "apt_type":"아파트",
             "apt_year":35.0,
             "value_score":60.0853,
+            "region":"서울시 노원구",
             "region_code":"Seoul",
             "sub_region_code":"1135000000_Seoul_Nowon"
         },
@@ -162,6 +176,7 @@
             "apt_type":"재건축",
             "apt_year":36.0,
             "value_score":77.288,
+            "region":"서울시 노원구",
             "region_code":"Seoul",
             "sub_region_code":"1135000000_Seoul_Nowon"
         },
@@ -173,6 +188,7 @@
             "apt_type":"아파트",
             "apt_year":3.0,
             "value_score":69.6304,
+            "region":"서울시 노원구",
             "region_code":"Seoul",
             "sub_region_code":"1135000000_Seoul_Nowon"
         },
@@ -184,6 +200,7 @@
             "apt_type":"아파트",
             "apt_year":3.0,
             "value_score":67.5776,
+            "region":"서울시 노원구",
             "region_code":"Seoul",
             "sub_region_code":"1135000000_Seoul_Nowon"
         },
@@ -195,6 +212,7 @@
             "apt_type":"아파트",
             "apt_year":7.0,
             "value_score":64.05,
+            "region":"서울시 노원구",
             "region_code":"Seoul",
             "sub_region_code":"1135000000_Seoul_Nowon"
         },
@@ -206,6 +224,7 @@
             "apt_type":"아파트",
             "apt_year":35.0,
             "value_score":62.0592,
+            "region":"서울시 노원구",
             "region_code":"Seoul",
             "sub_region_code":"1135000000_Seoul_Nowon"
         },
@@ -217,6 +236,7 @@
             "apt_type":"아파트",
             "apt_year":35.0,
             "value_score":61.3648,
+            "region":"서울시 노원구",
             "region_code":"Seoul",
             "sub_region_code":"1135000000_Seoul_Nowon"
         },
@@ -228,6 +248,7 @@
             "apt_type":"아파트",
             "apt_year":30.0,
             "value_score":61.2124,
+            "region":"서울시 노원구",
             "region_code":"Seoul",
             "sub_region_code":"1135000000_Seoul_Nowon"
         },
@@ -239,6 +260,7 @@
             "apt_type":"분양권",
             "apt_year":0.0,
             "value_score":60.8628,
+            "region":"서울시 노원구",
             "region_code":"Seoul",
             "sub_region_code":"1135000000_Seoul_Nowon"
         },
@@ -250,6 +272,7 @@
             "apt_type":"아파트",
             "apt_year":35.0,
             "value_score":60.6648,
+            "region":"서울시 노원구",
             "region_code":"Seoul",
             "sub_region_code":"1135000000_Seoul_Nowon"
         },
@@ -261,6 +284,7 @@
             "apt_type":"아파트",
             "apt_year":28.0,
             "value_score":59.4908,
+            "region":"서울시 노원구",
             "region_code":"Seoul",
             "sub_region_code":"1135000000_Seoul_Nowon"
         },
@@ -272,6 +296,7 @@
             "apt_type":"재건축",
             "apt_year":36.0,
             "value_score":65.0035,
+            "region":"서울시 노원구",
             "region_code":"Seoul",
             "sub_region_code":"1135000000_Seoul_Nowon"
         },
@@ -283,6 +308,7 @@
             "apt_type":"아파트",
             "apt_year":33.0,
             "value_score":61.9667,
+            "region":"서울시 노원구",
             "region_code":"Seoul",
             "sub_region_code":"1135000000_Seoul_Nowon"
         },
@@ -294,6 +320,7 @@
             "apt_type":"아파트",
             "apt_year":35.0,
             "value_score":60.4736,
+            "region":"서울시 노원구",
             "region_code":"Seoul",
             "sub_region_code":"1135000000_Seoul_Nowon"
         },
@@ -305,6 +332,7 @@
             "apt_type":"아파트",
             "apt_year":3.0,
             "value_score":59.5832,
+            "region":"서울시 노원구",
             "region_code":"Seoul",
             "sub_region_code":"1135000000_Seoul_Nowon"
         },
@@ -316,6 +344,7 @@
             "apt_type":"아파트",
             "apt_year":35.0,
             "value_score":59.3236,
+            "region":"서울시 노원구",
             "region_code":"Seoul",
             "sub_region_code":"1135000000_Seoul_Nowon"
         },
@@ -327,6 +356,7 @@
             "apt_type":"아파트",
             "apt_year":3.0,
             "value_score":59.2603,
+            "region":"서울시 노원구",
             "region_code":"Seoul",
             "sub_region_code":"1135000000_Seoul_Nowon"
         },
@@ -338,6 +368,7 @@
             "apt_type":"아파트",
             "apt_year":26.0,
             "value_score":59.1693,
+            "region":"서울시 노원구",
             "region_code":"Seoul",
             "sub_region_code":"1135000000_Seoul_Nowon"
         },
@@ -349,6 +380,7 @@
             "apt_type":"아파트",
             "apt_year":35.0,
             "value_score":58.9444,
+            "region":"서울시 노원구",
             "region_code":"Seoul",
             "sub_region_code":"1135000000_Seoul_Nowon"
         },
@@ -360,6 +392,7 @@
             "apt_type":"아파트",
             "apt_year":35.0,
             "value_score":58.9321,
+            "region":"서울시 노원구",
             "region_code":"Seoul",
             "sub_region_code":"1135000000_Seoul_Nowon"
         },
@@ -371,6 +404,7 @@
             "apt_type":"아파트",
             "apt_year":35.0,
             "value_score":58.8944,
+            "region":"서울시 노원구",
             "region_code":"Seoul",
             "sub_region_code":"1135000000_Seoul_Nowon"
         },
@@ -382,6 +416,7 @@
             "apt_type":"재건축",
             "apt_year":36.0,
             "value_score":68.4975,
+            "region":"서울시 노원구",
             "region_code":"Seoul",
             "sub_region_code":"1135000000_Seoul_Nowon"
         },
@@ -393,6 +428,7 @@
             "apt_type":"아파트",
             "apt_year":35.0,
             "value_score":66.124,
+            "region":"서울시 노원구",
             "region_code":"Seoul",
             "sub_region_code":"1135000000_Seoul_Nowon"
         },
@@ -404,6 +440,7 @@
             "apt_type":"아파트",
             "apt_year":35.0,
             "value_score":64.8035,
+            "region":"서울시 노원구",
             "region_code":"Seoul",
             "sub_region_code":"1135000000_Seoul_Nowon"
         },
@@ -415,6 +452,7 @@
             "apt_type":"아파트",
             "apt_year":3.0,
             "value_score":64.3255,
+            "region":"서울시 노원구",
             "region_code":"Seoul",
             "sub_region_code":"1135000000_Seoul_Nowon"
         },
@@ -426,6 +464,7 @@
             "apt_type":"아파트",
             "apt_year":35.0,
             "value_score":64.324,
+            "region":"서울시 노원구",
             "region_code":"Seoul",
             "sub_region_code":"1135000000_Seoul_Nowon"
         },
@@ -437,6 +476,7 @@
             "apt_type":"아파트",
             "apt_year":35.0,
             "value_score":63.9755,
+            "region":"서울시 노원구",
             "region_code":"Seoul",
             "sub_region_code":"1135000000_Seoul_Nowon"
         },
@@ -448,6 +488,7 @@
             "apt_type":"아파트",
             "apt_year":35.0,
             "value_score":63.676,
+            "region":"서울시 노원구",
             "region_code":"Seoul",
             "sub_region_code":"1135000000_Seoul_Nowon"
         },
@@ -459,6 +500,7 @@
             "apt_type":"아파트",
             "apt_year":36.0,
             "value_score":63.213,
+            "region":"서울시 노원구",
             "region_code":"Seoul",
             "sub_region_code":"1135000000_Seoul_Nowon"
         },
@@ -470,6 +512,7 @@
             "apt_type":"아파트",
             "apt_year":35.0,
             "value_score":63.156,
+            "region":"서울시 노원구",
             "region_code":"Seoul",
             "sub_region_code":"1135000000_Seoul_Nowon"
         },
@@ -481,6 +524,7 @@
             "apt_type":"아파트",
             "apt_year":35.0,
             "value_score":62.7835,
+            "region":"서울시 노원구",
             "region_code":"Seoul",
             "sub_region_code":"1135000000_Seoul_Nowon"
         },
@@ -492,6 +536,7 @@
             "apt_type":"재건축",
             "apt_year":36.0,
             "value_score":68.195,
+            "region":"서울시 노원구",
             "region_code":"Seoul",
             "sub_region_code":"1135000000_Seoul_Nowon"
         },
@@ -503,6 +548,7 @@
             "apt_type":"아파트",
             "apt_year":3.0,
             "value_score":63.451,
+            "region":"서울시 노원구",
             "region_code":"Seoul",
             "sub_region_code":"1135000000_Seoul_Nowon"
         },
@@ -514,6 +560,7 @@
             "apt_type":"아파트",
             "apt_year":35.0,
             "value_score":61.912,
+            "region":"서울시 노원구",
             "region_code":"Seoul",
             "sub_region_code":"1135000000_Seoul_Nowon"
         },
@@ -525,6 +572,7 @@
             "apt_type":"아파트",
             "apt_year":35.0,
             "value_score":61.848,
+            "region":"서울시 노원구",
             "region_code":"Seoul",
             "sub_region_code":"1135000000_Seoul_Nowon"
         },
@@ -536,6 +584,7 @@
             "apt_type":"아파트",
             "apt_year":7.0,
             "value_score":61.725,
+            "region":"서울시 노원구",
             "region_code":"Seoul",
             "sub_region_code":"1135000000_Seoul_Nowon"
         },
@@ -547,6 +596,7 @@
             "apt_type":"아파트",
             "apt_year":35.0,
             "value_score":61.512,
+            "region":"서울시 노원구",
             "region_code":"Seoul",
             "sub_region_code":"1135000000_Seoul_Nowon"
         },
@@ -558,6 +608,7 @@
             "apt_type":"아파트",
             "apt_year":24.0,
             "value_score":60.712,
+            "region":"서울시 노원구",
             "region_code":"Seoul",
             "sub_region_code":"1135000000_Seoul_Nowon"
         },
@@ -569,6 +620,7 @@
             "apt_type":"아파트",
             "apt_year":26.0,
             "value_score":60.313,
+            "region":"서울시 노원구",
             "region_code":"Seoul",
             "sub_region_code":"1135000000_Seoul_Nowon"
         },
@@ -580,6 +632,7 @@
             "apt_type":"아파트",
             "apt_year":34.0,
             "value_score":60.012,
+            "region":"서울시 노원구",
             "region_code":"Seoul",
             "sub_region_code":"1135000000_Seoul_Nowon"
         },
@@ -591,6 +644,7 @@
             "apt_type":"아파트",
             "apt_year":30.0,
             "value_score":59.915,
+            "region":"서울시 노원구",
             "region_code":"Seoul",
             "sub_region_code":"1135000000_Seoul_Nowon"
         }

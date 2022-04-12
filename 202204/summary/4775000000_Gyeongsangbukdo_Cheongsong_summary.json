@@ -30,6 +30,10 @@
                 "type":"number"
             },
             {
+                "name":"region",
+                "type":"string"
+            },
+            {
                 "name":"region_code",
                 "type":"string"
             },
@@ -52,6 +56,7 @@
             "apt_type":"아파트",
             "apt_year":25.0,
             "value_score":23.5905,
+            "region":"경상북도 청송군",
             "region_code":"Gyeongsangbukdo",
             "sub_region_code":"4775000000_Gyeongsangbukdo_Cheongsong"
         },
@@ -63,6 +68,7 @@
             "apt_type":"아파트",
             "apt_year":24.0,
             "value_score":20.6605,
+            "region":"경상북도 청송군",
             "region_code":"Gyeongsangbukdo",
             "sub_region_code":"4775000000_Gyeongsangbukdo_Cheongsong"
         },
@@ -74,6 +80,7 @@
             "apt_type":"아파트",
             "apt_year":25.0,
             "value_score":24.4905,
+            "region":"경상북도 청송군",
             "region_code":"Gyeongsangbukdo",
             "sub_region_code":"4775000000_Gyeongsangbukdo_Cheongsong"
         },
@@ -85,6 +92,7 @@
             "apt_type":"아파트",
             "apt_year":24.0,
             "value_score":23.9605,
+            "region":"경상북도 청송군",
             "region_code":"Gyeongsangbukdo",
             "sub_region_code":"4775000000_Gyeongsangbukdo_Cheongsong"
         },
@@ -96,6 +104,7 @@
             "apt_type":"아파트",
             "apt_year":25.0,
             "value_score":24.9353684211,
+            "region":"경상북도 청송군",
             "region_code":"Gyeongsangbukdo",
             "sub_region_code":"4775000000_Gyeongsangbukdo_Cheongsong"
         },
@@ -107,6 +116,7 @@
             "apt_type":"아파트",
             "apt_year":24.0,
             "value_score":19.8448421053,
+            "region":"경상북도 청송군",
             "region_code":"Gyeongsangbukdo",
             "sub_region_code":"4775000000_Gyeongsangbukdo_Cheongsong"
         },
@@ -118,6 +128,7 @@
             "apt_type":"아파트",
             "apt_year":25.0,
             "value_score":32.481,
+            "region":"경상북도 청송군",
             "region_code":"Gyeongsangbukdo",
             "sub_region_code":"4775000000_Gyeongsangbukdo_Cheongsong"
         },
@@ -129,6 +140,7 @@
             "apt_type":"아파트",
             "apt_year":24.0,
             "value_score":31.421,
+            "region":"경상북도 청송군",
             "region_code":"Gyeongsangbukdo",
             "sub_region_code":"4775000000_Gyeongsangbukdo_Cheongsong"
         }

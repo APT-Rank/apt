@@ -30,6 +30,10 @@
                 "type":"number"
             },
             {
+                "name":"region",
+                "type":"string"
+            },
+            {
                 "name":"region_code",
                 "type":"string"
             },
@@ -52,6 +56,7 @@
             "apt_type":"아파트",
             "apt_year":10.0,
             "value_score":49.149,
+            "region":"경상북도 상주시",
             "region_code":"Gyeongsangbukdo",
             "sub_region_code":"4725000000_Gyeongsangbukdo_Sangju"
         },
@@ -63,6 +68,7 @@
             "apt_type":"아파트",
             "apt_year":3.0,
             "value_score":46.6,
+            "region":"경상북도 상주시",
             "region_code":"Gyeongsangbukdo",
             "sub_region_code":"4725000000_Gyeongsangbukdo_Sangju"
         },
@@ -74,6 +80,7 @@
             "apt_type":"아파트",
             "apt_year":2.0,
             "value_score":46.249,
+            "region":"경상북도 상주시",
             "region_code":"Gyeongsangbukdo",
             "sub_region_code":"4725000000_Gyeongsangbukdo_Sangju"
         },
@@ -85,6 +92,7 @@
             "apt_type":"아파트",
             "apt_year":8.0,
             "value_score":45.884,
+            "region":"경상북도 상주시",
             "region_code":"Gyeongsangbukdo",
             "sub_region_code":"4725000000_Gyeongsangbukdo_Sangju"
         },
@@ -96,6 +104,7 @@
             "apt_type":"아파트",
             "apt_year":32.0,
             "value_score":44.303,
+            "region":"경상북도 상주시",
             "region_code":"Gyeongsangbukdo",
             "sub_region_code":"4725000000_Gyeongsangbukdo_Sangju"
         },
@@ -107,6 +116,7 @@
             "apt_type":"아파트",
             "apt_year":12.0,
             "value_score":43.588,
+            "region":"경상북도 상주시",
             "region_code":"Gyeongsangbukdo",
             "sub_region_code":"4725000000_Gyeongsangbukdo_Sangju"
         },
@@ -118,6 +128,7 @@
             "apt_type":"아파트",
             "apt_year":3.0,
             "value_score":42.225,
+            "region":"경상북도 상주시",
             "region_code":"Gyeongsangbukdo",
             "sub_region_code":"4725000000_Gyeongsangbukdo_Sangju"
         },
@@ -129,6 +140,7 @@
             "apt_type":"아파트",
             "apt_year":2.0,
             "value_score":41.8,
+            "region":"경상북도 상주시",
             "region_code":"Gyeongsangbukdo",
             "sub_region_code":"4725000000_Gyeongsangbukdo_Sangju"
         },
@@ -140,6 +152,7 @@
             "apt_type":"아파트",
             "apt_year":18.0,
             "value_score":40.613,
+            "region":"경상북도 상주시",
             "region_code":"Gyeongsangbukdo",
             "sub_region_code":"4725000000_Gyeongsangbukdo_Sangju"
         },
@@ -151,6 +164,7 @@
             "apt_type":"아파트",
             "apt_year":33.0,
             "value_score":40.228,
+            "region":"경상북도 상주시",
             "region_code":"Gyeongsangbukdo",
             "sub_region_code":"4725000000_Gyeongsangbukdo_Sangju"
         },
@@ -162,6 +176,7 @@
             "apt_type":"아파트",
             "apt_year":10.0,
             "value_score":52.974,
+            "region":"경상북도 상주시",
             "region_code":"Gyeongsangbukdo",
             "sub_region_code":"4725000000_Gyeongsangbukdo_Sangju"
         },
@@ -173,6 +188,7 @@
             "apt_type":"아파트",
             "apt_year":3.0,
             "value_score":49.15,
+            "region":"경상북도 상주시",
             "region_code":"Gyeongsangbukdo",
             "sub_region_code":"4725000000_Gyeongsangbukdo_Sangju"
         },
@@ -184,6 +200,7 @@
             "apt_type":"아파트",
             "apt_year":8.0,
             "value_score":48.824,
+            "region":"경상북도 상주시",
             "region_code":"Gyeongsangbukdo",
             "sub_region_code":"4725000000_Gyeongsangbukdo_Sangju"
         },
@@ -195,6 +212,7 @@
             "apt_type":"아파트",
             "apt_year":2.0,
             "value_score":47.224,
+            "region":"경상북도 상주시",
             "region_code":"Gyeongsangbukdo",
             "sub_region_code":"4725000000_Gyeongsangbukdo_Sangju"
         },
@@ -206,6 +224,7 @@
             "apt_type":"아파트",
             "apt_year":2.0,
             "value_score":46.15,
+            "region":"경상북도 상주시",
             "region_code":"Gyeongsangbukdo",
             "sub_region_code":"4725000000_Gyeongsangbukdo_Sangju"
         },
@@ -217,6 +236,7 @@
             "apt_type":"아파트",
             "apt_year":32.0,
             "value_score":45.728,
+            "region":"경상북도 상주시",
             "region_code":"Gyeongsangbukdo",
             "sub_region_code":"4725000000_Gyeongsangbukdo_Sangju"
         },
@@ -228,6 +248,7 @@
             "apt_type":"아파트",
             "apt_year":3.0,
             "value_score":45.15,
+            "region":"경상북도 상주시",
             "region_code":"Gyeongsangbukdo",
             "sub_region_code":"4725000000_Gyeongsangbukdo_Sangju"
         },
@@ -239,6 +260,7 @@
             "apt_type":"아파트",
             "apt_year":12.0,
             "value_score":44.578,
+            "region":"경상북도 상주시",
             "region_code":"Gyeongsangbukdo",
             "sub_region_code":"4725000000_Gyeongsangbukdo_Sangju"
         },
@@ -250,6 +272,7 @@
             "apt_type":"아파트",
             "apt_year":3.0,
             "value_score":43.9,
+            "region":"경상북도 상주시",
             "region_code":"Gyeongsangbukdo",
             "sub_region_code":"4725000000_Gyeongsangbukdo_Sangju"
         },
@@ -261,6 +284,7 @@
             "apt_type":"아파트",
             "apt_year":5.0,
             "value_score":43.26,
+            "region":"경상북도 상주시",
             "region_code":"Gyeongsangbukdo",
             "sub_region_code":"4725000000_Gyeongsangbukdo_Sangju"
         },
@@ -272,6 +296,7 @@
             "apt_type":"아파트",
             "apt_year":33.0,
             "value_score":46.7090526316,
+            "region":"경상북도 상주시",
             "region_code":"Gyeongsangbukdo",
             "sub_region_code":"4725000000_Gyeongsangbukdo_Sangju"
         },
@@ -283,6 +308,7 @@
             "apt_type":"아파트",
             "apt_year":2.0,
             "value_score":45.7829473684,
+            "region":"경상북도 상주시",
             "region_code":"Gyeongsangbukdo",
             "sub_region_code":"4725000000_Gyeongsangbukdo_Sangju"
         },
@@ -294,6 +320,7 @@
             "apt_type":"아파트",
             "apt_year":10.0,
             "value_score":45.3618947368,
+            "region":"경상북도 상주시",
             "region_code":"Gyeongsangbukdo",
             "sub_region_code":"4725000000_Gyeongsangbukdo_Sangju"
         },
@@ -305,6 +332,7 @@
             "apt_type":"아파트",
             "apt_year":18.0,
             "value_score":44.9458947368,
+            "region":"경상북도 상주시",
             "region_code":"Gyeongsangbukdo",
             "sub_region_code":"4725000000_Gyeongsangbukdo_Sangju"
         },
@@ -316,6 +344,7 @@
             "apt_type":"아파트",
             "apt_year":3.0,
             "value_score":44.8210526316,
+            "region":"경상북도 상주시",
             "region_code":"Gyeongsangbukdo",
             "sub_region_code":"4725000000_Gyeongsangbukdo_Sangju"
         },
@@ -327,6 +356,7 @@
             "apt_type":"아파트",
             "apt_year":32.0,
             "value_score":44.0511578947,
+            "region":"경상북도 상주시",
             "region_code":"Gyeongsangbukdo",
             "sub_region_code":"4725000000_Gyeongsangbukdo_Sangju"
         },
@@ -338,6 +368,7 @@
             "apt_type":"아파트",
             "apt_year":12.0,
             "value_score":43.8669473684,
+            "region":"경상북도 상주시",
             "region_code":"Gyeongsangbukdo",
             "sub_region_code":"4725000000_Gyeongsangbukdo_Sangju"
         },
@@ -349,6 +380,7 @@
             "apt_type":"아파트",
             "apt_year":8.0,
             "value_score":43.3355789474,
+            "region":"경상북도 상주시",
             "region_code":"Gyeongsangbukdo",
             "sub_region_code":"4725000000_Gyeongsangbukdo_Sangju"
         },
@@ -360,6 +392,7 @@
             "apt_type":"아파트",
             "apt_year":26.0,
             "value_score":41.9985263158,
+            "region":"경상북도 상주시",
             "region_code":"Gyeongsangbukdo",
             "sub_region_code":"4725000000_Gyeongsangbukdo_Sangju"
         },
@@ -371,6 +404,7 @@
             "apt_type":"아파트",
             "apt_year":30.0,
             "value_score":41.3143157895,
+            "region":"경상북도 상주시",
             "region_code":"Gyeongsangbukdo",
             "sub_region_code":"4725000000_Gyeongsangbukdo_Sangju"
         },
@@ -382,6 +416,7 @@
             "apt_type":"아파트",
             "apt_year":10.0,
             "value_score":50.823,
+            "region":"경상북도 상주시",
             "region_code":"Gyeongsangbukdo",
             "sub_region_code":"4725000000_Gyeongsangbukdo_Sangju"
         },
@@ -393,6 +428,7 @@
             "apt_type":"아파트",
             "apt_year":3.0,
             "value_score":50.55,
+            "region":"경상북도 상주시",
             "region_code":"Gyeongsangbukdo",
             "sub_region_code":"4725000000_Gyeongsangbukdo_Sangju"
         },
@@ -404,6 +440,7 @@
             "apt_type":"아파트",
             "apt_year":32.0,
             "value_score":49.331,
+            "region":"경상북도 상주시",
             "region_code":"Gyeongsangbukdo",
             "sub_region_code":"4725000000_Gyeongsangbukdo_Sangju"
         },
@@ -415,6 +452,7 @@
             "apt_type":"아파트",
             "apt_year":12.0,
             "value_score":48.806,
+            "region":"경상북도 상주시",
             "region_code":"Gyeongsangbukdo",
             "sub_region_code":"4725000000_Gyeongsangbukdo_Sangju"
         },
@@ -426,6 +464,7 @@
             "apt_type":"아파트",
             "apt_year":2.0,
             "value_score":48.573,
+            "region":"경상북도 상주시",
             "region_code":"Gyeongsangbukdo",
             "sub_region_code":"4725000000_Gyeongsangbukdo_Sangju"
         },
@@ -437,6 +476,7 @@
             "apt_type":"아파트",
             "apt_year":8.0,
             "value_score":48.548,
+            "region":"경상북도 상주시",
             "region_code":"Gyeongsangbukdo",
             "sub_region_code":"4725000000_Gyeongsangbukdo_Sangju"
         },
@@ -448,6 +488,7 @@
             "apt_type":"아파트",
             "apt_year":3.0,
             "value_score":47.675,
+            "region":"경상북도 상주시",
             "region_code":"Gyeongsangbukdo",
             "sub_region_code":"4725000000_Gyeongsangbukdo_Sangju"
         },
@@ -459,6 +500,7 @@
             "apt_type":"아파트",
             "apt_year":2.0,
             "value_score":47.55,
+            "region":"경상북도 상주시",
             "region_code":"Gyeongsangbukdo",
             "sub_region_code":"4725000000_Gyeongsangbukdo_Sangju"
         },
@@ -470,6 +512,7 @@
             "apt_type":"아파트",
             "apt_year":18.0,
             "value_score":46.431,
+            "region":"경상북도 상주시",
             "region_code":"Gyeongsangbukdo",
             "sub_region_code":"4725000000_Gyeongsangbukdo_Sangju"
         },
@@ -481,6 +524,7 @@
             "apt_type":"아파트",
             "apt_year":3.0,
             "value_score":46.425,
+            "region":"경상북도 상주시",
             "region_code":"Gyeongsangbukdo",
             "sub_region_code":"4725000000_Gyeongsangbukdo_Sangju"
         }

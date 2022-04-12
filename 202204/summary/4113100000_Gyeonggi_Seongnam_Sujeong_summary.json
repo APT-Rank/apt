@@ -30,6 +30,10 @@
                 "type":"number"
             },
             {
+                "name":"region",
+                "type":"string"
+            },
+            {
                 "name":"region_code",
                 "type":"string"
             },
@@ -52,6 +56,7 @@
             "apt_type":"아파트",
             "apt_year":11.0,
             "value_score":61.0162,
+            "region":"경기도 성남시 수정구",
             "region_code":"Gyeonggi",
             "sub_region_code":"4113100000_Gyeonggi_Seongnam_Sujeong"
         },
@@ -63,6 +68,7 @@
             "apt_type":"아파트",
             "apt_year":3.0,
             "value_score":59.9888,
+            "region":"경기도 성남시 수정구",
             "region_code":"Gyeonggi",
             "sub_region_code":"4113100000_Gyeonggi_Seongnam_Sujeong"
         },
@@ -74,6 +80,7 @@
             "apt_type":"아파트",
             "apt_year":18.0,
             "value_score":59.753,
+            "region":"경기도 성남시 수정구",
             "region_code":"Gyeonggi",
             "sub_region_code":"4113100000_Gyeonggi_Seongnam_Sujeong"
         },
@@ -85,6 +92,7 @@
             "apt_type":"아파트",
             "apt_year":27.0,
             "value_score":58.8739,
+            "region":"경기도 성남시 수정구",
             "region_code":"Gyeonggi",
             "sub_region_code":"4113100000_Gyeonggi_Seongnam_Sujeong"
         },
@@ -96,6 +104,7 @@
             "apt_type":"아파트",
             "apt_year":5.0,
             "value_score":55.3571,
+            "region":"경기도 성남시 수정구",
             "region_code":"Gyeonggi",
             "sub_region_code":"4113100000_Gyeonggi_Seongnam_Sujeong"
         },
@@ -107,6 +116,7 @@
             "apt_type":"아파트",
             "apt_year":29.0,
             "value_score":55.3434,
+            "region":"경기도 성남시 수정구",
             "region_code":"Gyeonggi",
             "sub_region_code":"4113100000_Gyeonggi_Seongnam_Sujeong"
         },
@@ -118,6 +128,7 @@
             "apt_type":"아파트",
             "apt_year":10.0,
             "value_score":54.7871,
+            "region":"경기도 성남시 수정구",
             "region_code":"Gyeonggi",
             "sub_region_code":"4113100000_Gyeonggi_Seongnam_Sujeong"
         },
@@ -129,6 +140,7 @@
             "apt_type":"아파트",
             "apt_year":13.0,
             "value_score":54.7536,
+            "region":"경기도 성남시 수정구",
             "region_code":"Gyeonggi",
             "sub_region_code":"4113100000_Gyeonggi_Seongnam_Sujeong"
         },
@@ -140,6 +152,7 @@
             "apt_type":"아파트",
             "apt_year":10.0,
             "value_score":54.7162,
+            "region":"경기도 성남시 수정구",
             "region_code":"Gyeonggi",
             "sub_region_code":"4113100000_Gyeonggi_Seongnam_Sujeong"
         },
@@ -151,6 +164,7 @@
             "apt_type":"아파트",
             "apt_year":13.0,
             "value_score":54.5209,
+            "region":"경기도 성남시 수정구",
             "region_code":"Gyeonggi",
             "sub_region_code":"4113100000_Gyeonggi_Seongnam_Sujeong"
         },
@@ -162,6 +176,7 @@
             "apt_type":"아파트",
             "apt_year":3.0,
             "value_score":69.3884,
+            "region":"경기도 성남시 수정구",
             "region_code":"Gyeonggi",
             "sub_region_code":"4113100000_Gyeonggi_Seongnam_Sujeong"
         },
@@ -173,6 +188,7 @@
             "apt_type":"분양권",
             "apt_year":0.0,
             "value_score":66.7912,
+            "region":"경기도 성남시 수정구",
             "region_code":"Gyeonggi",
             "sub_region_code":"4113100000_Gyeonggi_Seongnam_Sujeong"
         },
@@ -184,6 +200,7 @@
             "apt_type":"아파트",
             "apt_year":7.0,
             "value_score":66.476,
+            "region":"경기도 성남시 수정구",
             "region_code":"Gyeonggi",
             "sub_region_code":"4113100000_Gyeonggi_Seongnam_Sujeong"
         },
@@ -195,6 +212,7 @@
             "apt_type":"아파트",
             "apt_year":7.0,
             "value_score":66.14,
+            "region":"경기도 성남시 수정구",
             "region_code":"Gyeonggi",
             "sub_region_code":"4113100000_Gyeonggi_Seongnam_Sujeong"
         },
@@ -206,6 +224,7 @@
             "apt_type":"아파트",
             "apt_year":4.0,
             "value_score":64.7048,
+            "region":"경기도 성남시 수정구",
             "region_code":"Gyeonggi",
             "sub_region_code":"4113100000_Gyeonggi_Seongnam_Sujeong"
         },
@@ -217,6 +236,7 @@
             "apt_type":"아파트",
             "apt_year":8.0,
             "value_score":64.2464,
+            "region":"경기도 성남시 수정구",
             "region_code":"Gyeonggi",
             "sub_region_code":"4113100000_Gyeonggi_Seongnam_Sujeong"
         },
@@ -228,6 +248,7 @@
             "apt_type":"아파트",
             "apt_year":11.0,
             "value_score":61.5216,
+            "region":"경기도 성남시 수정구",
             "region_code":"Gyeonggi",
             "sub_region_code":"4113100000_Gyeonggi_Seongnam_Sujeong"
         },
@@ -239,6 +260,7 @@
             "apt_type":"아파트",
             "apt_year":7.0,
             "value_score":60.8264,
+            "region":"경기도 성남시 수정구",
             "region_code":"Gyeonggi",
             "sub_region_code":"4113100000_Gyeonggi_Seongnam_Sujeong"
         },
@@ -250,6 +272,7 @@
             "apt_type":"아파트",
             "apt_year":8.0,
             "value_score":60.326,
+            "region":"경기도 성남시 수정구",
             "region_code":"Gyeonggi",
             "sub_region_code":"4113100000_Gyeonggi_Seongnam_Sujeong"
         },
@@ -261,6 +284,7 @@
             "apt_type":"아파트",
             "apt_year":8.0,
             "value_score":59.9252,
+            "region":"경기도 성남시 수정구",
             "region_code":"Gyeonggi",
             "sub_region_code":"4113100000_Gyeonggi_Seongnam_Sujeong"
         },
@@ -272,6 +296,7 @@
             "apt_type":"아파트",
             "apt_year":18.0,
             "value_score":66.978,
+            "region":"경기도 성남시 수정구",
             "region_code":"Gyeonggi",
             "sub_region_code":"4113100000_Gyeonggi_Seongnam_Sujeong"
         },
@@ -283,6 +308,7 @@
             "apt_type":"아파트",
             "apt_year":27.0,
             "value_score":66.5339,
+            "region":"경기도 성남시 수정구",
             "region_code":"Gyeonggi",
             "sub_region_code":"4113100000_Gyeonggi_Seongnam_Sujeong"
         },
@@ -294,6 +320,7 @@
             "apt_type":"아파트",
             "apt_year":10.0,
             "value_score":66.0371,
+            "region":"경기도 성남시 수정구",
             "region_code":"Gyeonggi",
             "sub_region_code":"4113100000_Gyeonggi_Seongnam_Sujeong"
         },
@@ -305,6 +332,7 @@
             "apt_type":"아파트",
             "apt_year":11.0,
             "value_score":65.2662,
+            "region":"경기도 성남시 수정구",
             "region_code":"Gyeonggi",
             "sub_region_code":"4113100000_Gyeonggi_Seongnam_Sujeong"
         },
@@ -316,6 +344,7 @@
             "apt_type":"아파트",
             "apt_year":18.0,
             "value_score":63.4121,
+            "region":"경기도 성남시 수정구",
             "region_code":"Gyeonggi",
             "sub_region_code":"4113100000_Gyeonggi_Seongnam_Sujeong"
         },
@@ -327,6 +356,7 @@
             "apt_type":"아파트",
             "apt_year":13.0,
             "value_score":63.4036,
+            "region":"경기도 성남시 수정구",
             "region_code":"Gyeonggi",
             "sub_region_code":"4113100000_Gyeonggi_Seongnam_Sujeong"
         },
@@ -338,6 +368,7 @@
             "apt_type":"아파트",
             "apt_year":29.0,
             "value_score":61.7934,
+            "region":"경기도 성남시 수정구",
             "region_code":"Gyeonggi",
             "sub_region_code":"4113100000_Gyeonggi_Seongnam_Sujeong"
         },
@@ -349,6 +380,7 @@
             "apt_type":"아파트",
             "apt_year":3.0,
             "value_score":61.7738,
+            "region":"경기도 성남시 수정구",
             "region_code":"Gyeonggi",
             "sub_region_code":"4113100000_Gyeonggi_Seongnam_Sujeong"
         },
@@ -360,6 +392,7 @@
             "apt_type":"아파트",
             "apt_year":17.0,
             "value_score":61.6121,
+            "region":"경기도 성남시 수정구",
             "region_code":"Gyeonggi",
             "sub_region_code":"4113100000_Gyeonggi_Seongnam_Sujeong"
         },
@@ -371,6 +404,7 @@
             "apt_type":"아파트",
             "apt_year":11.0,
             "value_score":60.8743,
+            "region":"경기도 성남시 수정구",
             "region_code":"Gyeonggi",
             "sub_region_code":"4113100000_Gyeonggi_Seongnam_Sujeong"
         },
@@ -382,6 +416,7 @@
             "apt_type":"아파트",
             "apt_year":13.0,
             "value_score":54.5015,
+            "region":"경기도 성남시 수정구",
             "region_code":"Gyeonggi",
             "sub_region_code":"4113100000_Gyeonggi_Seongnam_Sujeong"
         },
@@ -393,6 +428,7 @@
             "apt_type":"아파트",
             "apt_year":29.0,
             "value_score":53.9775,
+            "region":"경기도 성남시 수정구",
             "region_code":"Gyeonggi",
             "sub_region_code":"4113100000_Gyeonggi_Seongnam_Sujeong"
         },
@@ -404,6 +440,7 @@
             "apt_type":"아파트",
             "apt_year":17.0,
             "value_score":53.9775,
+            "region":"경기도 성남시 수정구",
             "region_code":"Gyeonggi",
             "sub_region_code":"4113100000_Gyeonggi_Seongnam_Sujeong"
         },
@@ -415,6 +452,7 @@
             "apt_type":"아파트",
             "apt_year":17.0,
             "value_score":53.7515,
+            "region":"경기도 성남시 수정구",
             "region_code":"Gyeonggi",
             "sub_region_code":"4113100000_Gyeonggi_Seongnam_Sujeong"
         },
@@ -426,6 +464,7 @@
             "apt_type":"아파트",
             "apt_year":29.0,
             "value_score":53.739,
+            "region":"경기도 성남시 수정구",
             "region_code":"Gyeonggi",
             "sub_region_code":"4113100000_Gyeonggi_Seongnam_Sujeong"
         },
@@ -437,6 +476,7 @@
             "apt_type":"아파트",
             "apt_year":5.0,
             "value_score":53.3285,
+            "region":"경기도 성남시 수정구",
             "region_code":"Gyeonggi",
             "sub_region_code":"4113100000_Gyeonggi_Seongnam_Sujeong"
         },
@@ -448,6 +488,7 @@
             "apt_type":"아파트",
             "apt_year":17.0,
             "value_score":53.077,
+            "region":"경기도 성남시 수정구",
             "region_code":"Gyeonggi",
             "sub_region_code":"4113100000_Gyeonggi_Seongnam_Sujeong"
         },
@@ -459,6 +500,7 @@
             "apt_type":"아파트",
             "apt_year":18.0,
             "value_score":52.305,
+            "region":"경기도 성남시 수정구",
             "region_code":"Gyeonggi",
             "sub_region_code":"4113100000_Gyeonggi_Seongnam_Sujeong"
         },
@@ -470,6 +512,7 @@
             "apt_type":"아파트",
             "apt_year":33.0,
             "value_score":52.2775,
+            "region":"경기도 성남시 수정구",
             "region_code":"Gyeonggi",
             "sub_region_code":"4113100000_Gyeonggi_Seongnam_Sujeong"
         },
@@ -481,6 +524,7 @@
             "apt_type":"분양권",
             "apt_year":0.0,
             "value_score":52.0515,
+            "region":"경기도 성남시 수정구",
             "region_code":"Gyeonggi",
             "sub_region_code":"4113100000_Gyeonggi_Seongnam_Sujeong"
         },
@@ -492,6 +536,7 @@
             "apt_type":"아파트",
             "apt_year":3.0,
             "value_score":58.676,
+            "region":"경기도 성남시 수정구",
             "region_code":"Gyeonggi",
             "sub_region_code":"4113100000_Gyeonggi_Seongnam_Sujeong"
         },
@@ -503,6 +548,7 @@
             "apt_type":"아파트",
             "apt_year":7.0,
             "value_score":58.67,
+            "region":"경기도 성남시 수정구",
             "region_code":"Gyeonggi",
             "sub_region_code":"4113100000_Gyeonggi_Seongnam_Sujeong"
         },
@@ -514,6 +560,7 @@
             "apt_type":"아파트",
             "apt_year":8.0,
             "value_score":57.77,
+            "region":"경기도 성남시 수정구",
             "region_code":"Gyeonggi",
             "sub_region_code":"4113100000_Gyeonggi_Seongnam_Sujeong"
         },
@@ -525,6 +572,7 @@
             "apt_type":"분양권",
             "apt_year":0.0,
             "value_score":57.583,
+            "region":"경기도 성남시 수정구",
             "region_code":"Gyeonggi",
             "sub_region_code":"4113100000_Gyeonggi_Seongnam_Sujeong"
         },
@@ -536,6 +584,7 @@
             "apt_type":"아파트",
             "apt_year":8.0,
             "value_score":57.491,
+            "region":"경기도 성남시 수정구",
             "region_code":"Gyeonggi",
             "sub_region_code":"4113100000_Gyeonggi_Seongnam_Sujeong"
         },
@@ -547,6 +596,7 @@
             "apt_type":"아파트",
             "apt_year":7.0,
             "value_score":57.371,
+            "region":"경기도 성남시 수정구",
             "region_code":"Gyeonggi",
             "sub_region_code":"4113100000_Gyeonggi_Seongnam_Sujeong"
         },
@@ -558,6 +608,7 @@
             "apt_type":"아파트",
             "apt_year":8.0,
             "value_score":57.368,
+            "region":"경기도 성남시 수정구",
             "region_code":"Gyeonggi",
             "sub_region_code":"4113100000_Gyeonggi_Seongnam_Sujeong"
         },
@@ -569,6 +620,7 @@
             "apt_type":"아파트",
             "apt_year":7.0,
             "value_score":57.275,
+            "region":"경기도 성남시 수정구",
             "region_code":"Gyeonggi",
             "sub_region_code":"4113100000_Gyeonggi_Seongnam_Sujeong"
         },
@@ -580,6 +632,7 @@
             "apt_type":"아파트",
             "apt_year":7.0,
             "value_score":55.891,
+            "region":"경기도 성남시 수정구",
             "region_code":"Gyeonggi",
             "sub_region_code":"4113100000_Gyeonggi_Seongnam_Sujeong"
         },
@@ -591,6 +644,7 @@
             "apt_type":"아파트",
             "apt_year":11.0,
             "value_score":55.854,
+            "region":"경기도 성남시 수정구",
             "region_code":"Gyeonggi",
             "sub_region_code":"4113100000_Gyeonggi_Seongnam_Sujeong"
         }

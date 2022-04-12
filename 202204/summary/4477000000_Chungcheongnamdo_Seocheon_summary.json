@@ -30,6 +30,10 @@
                 "type":"number"
             },
             {
+                "name":"region",
+                "type":"string"
+            },
+            {
                 "name":"region_code",
                 "type":"string"
             },
@@ -52,6 +56,7 @@
             "apt_type":"아파트",
             "apt_year":4.0,
             "value_score":41.7115,
+            "region":"충청남도 서천군",
             "region_code":"Chungcheongnamdo",
             "sub_region_code":"4477000000_Chungcheongnamdo_Seocheon"
         },
@@ -63,6 +68,7 @@
             "apt_type":"아파트",
             "apt_year":14.0,
             "value_score":38.7365,
+            "region":"충청남도 서천군",
             "region_code":"Chungcheongnamdo",
             "sub_region_code":"4477000000_Chungcheongnamdo_Seocheon"
         },
@@ -74,6 +80,7 @@
             "apt_type":"아파트",
             "apt_year":3.0,
             "value_score":37.1635,
+            "region":"충청남도 서천군",
             "region_code":"Chungcheongnamdo",
             "sub_region_code":"4477000000_Chungcheongnamdo_Seocheon"
         },
@@ -85,6 +92,7 @@
             "apt_type":"아파트",
             "apt_year":13.0,
             "value_score":34.2865,
+            "region":"충청남도 서천군",
             "region_code":"Chungcheongnamdo",
             "sub_region_code":"4477000000_Chungcheongnamdo_Seocheon"
         },
@@ -96,6 +104,7 @@
             "apt_type":"아파트",
             "apt_year":19.0,
             "value_score":34.1865,
+            "region":"충청남도 서천군",
             "region_code":"Chungcheongnamdo",
             "sub_region_code":"4477000000_Chungcheongnamdo_Seocheon"
         },
@@ -107,6 +116,7 @@
             "apt_type":"아파트",
             "apt_year":14.0,
             "value_score":32.2865,
+            "region":"충청남도 서천군",
             "region_code":"Chungcheongnamdo",
             "sub_region_code":"4477000000_Chungcheongnamdo_Seocheon"
         },
@@ -118,6 +128,7 @@
             "apt_type":"아파트",
             "apt_year":31.0,
             "value_score":31.0015,
+            "region":"충청남도 서천군",
             "region_code":"Chungcheongnamdo",
             "sub_region_code":"4477000000_Chungcheongnamdo_Seocheon"
         },
@@ -129,6 +140,7 @@
             "apt_type":"아파트",
             "apt_year":9.0,
             "value_score":29.9605,
+            "region":"충청남도 서천군",
             "region_code":"Chungcheongnamdo",
             "sub_region_code":"4477000000_Chungcheongnamdo_Seocheon"
         },
@@ -140,6 +152,7 @@
             "apt_type":"아파트",
             "apt_year":33.0,
             "value_score":28.5115,
+            "region":"충청남도 서천군",
             "region_code":"Chungcheongnamdo",
             "sub_region_code":"4477000000_Chungcheongnamdo_Seocheon"
         },
@@ -151,6 +164,7 @@
             "apt_type":"아파트",
             "apt_year":27.0,
             "value_score":27.4715,
+            "region":"충청남도 서천군",
             "region_code":"Chungcheongnamdo",
             "sub_region_code":"4477000000_Chungcheongnamdo_Seocheon"
         },
@@ -162,6 +176,7 @@
             "apt_type":"아파트",
             "apt_year":4.0,
             "value_score":47.5615,
+            "region":"충청남도 서천군",
             "region_code":"Chungcheongnamdo",
             "sub_region_code":"4477000000_Chungcheongnamdo_Seocheon"
         },
@@ -173,6 +188,7 @@
             "apt_type":"아파트",
             "apt_year":3.0,
             "value_score":44.0635,
+            "region":"충청남도 서천군",
             "region_code":"Chungcheongnamdo",
             "sub_region_code":"4477000000_Chungcheongnamdo_Seocheon"
         },
@@ -184,6 +200,7 @@
             "apt_type":"아파트",
             "apt_year":14.0,
             "value_score":43.3115,
+            "region":"충청남도 서천군",
             "region_code":"Chungcheongnamdo",
             "sub_region_code":"4477000000_Chungcheongnamdo_Seocheon"
         },
@@ -195,6 +212,7 @@
             "apt_type":"아파트",
             "apt_year":19.0,
             "value_score":36.8115,
+            "region":"충청남도 서천군",
             "region_code":"Chungcheongnamdo",
             "sub_region_code":"4477000000_Chungcheongnamdo_Seocheon"
         },
@@ -206,6 +224,7 @@
             "apt_type":"아파트",
             "apt_year":13.0,
             "value_score":36.3115,
+            "region":"충청남도 서천군",
             "region_code":"Chungcheongnamdo",
             "sub_region_code":"4477000000_Chungcheongnamdo_Seocheon"
         },
@@ -217,6 +236,7 @@
             "apt_type":"아파트",
             "apt_year":14.0,
             "value_score":35.0615,
+            "region":"충청남도 서천군",
             "region_code":"Chungcheongnamdo",
             "sub_region_code":"4477000000_Chungcheongnamdo_Seocheon"
         },
@@ -228,6 +248,7 @@
             "apt_type":"아파트",
             "apt_year":9.0,
             "value_score":32.8105,
+            "region":"충청남도 서천군",
             "region_code":"Chungcheongnamdo",
             "sub_region_code":"4477000000_Chungcheongnamdo_Seocheon"
         },
@@ -239,6 +260,7 @@
             "apt_type":"아파트",
             "apt_year":31.0,
             "value_score":30.8515,
+            "region":"충청남도 서천군",
             "region_code":"Chungcheongnamdo",
             "sub_region_code":"4477000000_Chungcheongnamdo_Seocheon"
         },
@@ -250,6 +272,7 @@
             "apt_type":"아파트",
             "apt_year":33.0,
             "value_score":28.0615,
+            "region":"충청남도 서천군",
             "region_code":"Chungcheongnamdo",
             "sub_region_code":"4477000000_Chungcheongnamdo_Seocheon"
         },
@@ -261,6 +284,7 @@
             "apt_type":"아파트",
             "apt_year":27.0,
             "value_score":27.4115,
+            "region":"충청남도 서천군",
             "region_code":"Chungcheongnamdo",
             "sub_region_code":"4477000000_Chungcheongnamdo_Seocheon"
         },
@@ -272,6 +296,7 @@
             "apt_type":"아파트",
             "apt_year":4.0,
             "value_score":36.604,
+            "region":"충청남도 서천군",
             "region_code":"Chungcheongnamdo",
             "sub_region_code":"4477000000_Chungcheongnamdo_Seocheon"
         },
@@ -283,6 +308,7 @@
             "apt_type":"아파트",
             "apt_year":14.0,
             "value_score":35.2618947368,
+            "region":"충청남도 서천군",
             "region_code":"Chungcheongnamdo",
             "sub_region_code":"4477000000_Chungcheongnamdo_Seocheon"
         },
@@ -294,6 +320,7 @@
             "apt_type":"아파트",
             "apt_year":13.0,
             "value_score":33.9461052632,
+            "region":"충청남도 서천군",
             "region_code":"Chungcheongnamdo",
             "sub_region_code":"4477000000_Chungcheongnamdo_Seocheon"
         },
@@ -305,6 +332,7 @@
             "apt_type":"아파트",
             "apt_year":19.0,
             "value_score":33.2092631579,
+            "region":"충청남도 서천군",
             "region_code":"Chungcheongnamdo",
             "sub_region_code":"4477000000_Chungcheongnamdo_Seocheon"
         },
@@ -316,6 +344,7 @@
             "apt_type":"아파트",
             "apt_year":31.0,
             "value_score":33.1282105263,
+            "region":"충청남도 서천군",
             "region_code":"Chungcheongnamdo",
             "sub_region_code":"4477000000_Chungcheongnamdo_Seocheon"
         },
@@ -327,6 +356,7 @@
             "apt_type":"아파트",
             "apt_year":33.0,
             "value_score":31.3408421053,
+            "region":"충청남도 서천군",
             "region_code":"Chungcheongnamdo",
             "sub_region_code":"4477000000_Chungcheongnamdo_Seocheon"
         },
@@ -338,6 +368,7 @@
             "apt_type":"아파트",
             "apt_year":14.0,
             "value_score":31.3145263158,
+            "region":"충청남도 서천군",
             "region_code":"Chungcheongnamdo",
             "sub_region_code":"4477000000_Chungcheongnamdo_Seocheon"
         },
@@ -349,6 +380,7 @@
             "apt_type":"아파트",
             "apt_year":3.0,
             "value_score":30.7117894737,
+            "region":"충청남도 서천군",
             "region_code":"Chungcheongnamdo",
             "sub_region_code":"4477000000_Chungcheongnamdo_Seocheon"
         },
@@ -360,6 +392,7 @@
             "apt_type":"아파트",
             "apt_year":27.0,
             "value_score":29.9724210526,
+            "region":"충청남도 서천군",
             "region_code":"Chungcheongnamdo",
             "sub_region_code":"4477000000_Chungcheongnamdo_Seocheon"
         },
@@ -371,6 +404,7 @@
             "apt_type":"아파트",
             "apt_year":9.0,
             "value_score":28.4974736842,
+            "region":"충청남도 서천군",
             "region_code":"Chungcheongnamdo",
             "sub_region_code":"4477000000_Chungcheongnamdo_Seocheon"
         },
@@ -382,6 +416,7 @@
             "apt_type":"아파트",
             "apt_year":4.0,
             "value_score":46.873,
+            "region":"충청남도 서천군",
             "region_code":"Chungcheongnamdo",
             "sub_region_code":"4477000000_Chungcheongnamdo_Seocheon"
         },
@@ -393,6 +428,7 @@
             "apt_type":"아파트",
             "apt_year":14.0,
             "value_score":44.748,
+            "region":"충청남도 서천군",
             "region_code":"Chungcheongnamdo",
             "sub_region_code":"4477000000_Chungcheongnamdo_Seocheon"
         },
@@ -404,6 +440,7 @@
             "apt_type":"아파트",
             "apt_year":3.0,
             "value_score":41.627,
+            "region":"충청남도 서천군",
             "region_code":"Chungcheongnamdo",
             "sub_region_code":"4477000000_Chungcheongnamdo_Seocheon"
         },
@@ -415,6 +452,7 @@
             "apt_type":"아파트",
             "apt_year":13.0,
             "value_score":41.498,
+            "region":"충청남도 서천군",
             "region_code":"Chungcheongnamdo",
             "sub_region_code":"4477000000_Chungcheongnamdo_Seocheon"
         },
@@ -426,6 +464,7 @@
             "apt_type":"아파트",
             "apt_year":19.0,
             "value_score":41.498,
+            "region":"충청남도 서천군",
             "region_code":"Chungcheongnamdo",
             "sub_region_code":"4477000000_Chungcheongnamdo_Seocheon"
         },
@@ -437,6 +476,7 @@
             "apt_type":"아파트",
             "apt_year":14.0,
             "value_score":40.248,
+            "region":"충청남도 서천군",
             "region_code":"Chungcheongnamdo",
             "sub_region_code":"4477000000_Chungcheongnamdo_Seocheon"
         },
@@ -448,6 +488,7 @@
             "apt_type":"아파트",
             "apt_year":31.0,
             "value_score":38.453,
+            "region":"충청남도 서천군",
             "region_code":"Chungcheongnamdo",
             "sub_region_code":"4477000000_Chungcheongnamdo_Seocheon"
         },
@@ -459,6 +500,7 @@
             "apt_type":"아파트",
             "apt_year":33.0,
             "value_score":37.373,
+            "region":"충청남도 서천군",
             "region_code":"Chungcheongnamdo",
             "sub_region_code":"4477000000_Chungcheongnamdo_Seocheon"
         },
@@ -470,6 +512,7 @@
             "apt_type":"아파트",
             "apt_year":27.0,
             "value_score":36.723,
+            "region":"충청남도 서천군",
             "region_code":"Chungcheongnamdo",
             "sub_region_code":"4477000000_Chungcheongnamdo_Seocheon"
         },
@@ -481,6 +524,7 @@
             "apt_type":"아파트",
             "apt_year":9.0,
             "value_score":36.371,
+            "region":"충청남도 서천군",
             "region_code":"Chungcheongnamdo",
             "sub_region_code":"4477000000_Chungcheongnamdo_Seocheon"
         }

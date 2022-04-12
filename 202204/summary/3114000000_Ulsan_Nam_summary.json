@@ -30,6 +30,10 @@
                 "type":"number"
             },
             {
+                "name":"region",
+                "type":"string"
+            },
+            {
                 "name":"region_code",
                 "type":"string"
             },
@@ -52,6 +56,7 @@
             "apt_type":"아파트",
             "apt_year":22.0,
             "value_score":68.8425,
+            "region":"울산시 남구",
             "region_code":"Ulsan",
             "sub_region_code":"3114000000_Ulsan_Nam"
         },
@@ -63,6 +68,7 @@
             "apt_type":"아파트",
             "apt_year":4.0,
             "value_score":68.1195,
+            "region":"울산시 남구",
             "region_code":"Ulsan",
             "sub_region_code":"3114000000_Ulsan_Nam"
         },
@@ -74,6 +80,7 @@
             "apt_type":"분양권",
             "apt_year":1.0,
             "value_score":67.6785,
+            "region":"울산시 남구",
             "region_code":"Ulsan",
             "sub_region_code":"3114000000_Ulsan_Nam"
         },
@@ -85,6 +92,7 @@
             "apt_type":"분양권",
             "apt_year":0.0,
             "value_score":66.6045,
+            "region":"울산시 남구",
             "region_code":"Ulsan",
             "sub_region_code":"3114000000_Ulsan_Nam"
         },
@@ -96,6 +104,7 @@
             "apt_type":"아파트",
             "apt_year":18.0,
             "value_score":66.537,
+            "region":"울산시 남구",
             "region_code":"Ulsan",
             "sub_region_code":"3114000000_Ulsan_Nam"
         },
@@ -107,6 +116,7 @@
             "apt_type":"아파트",
             "apt_year":5.0,
             "value_score":66.3055,
+            "region":"울산시 남구",
             "region_code":"Ulsan",
             "sub_region_code":"3114000000_Ulsan_Nam"
         },
@@ -118,6 +128,7 @@
             "apt_type":"아파트",
             "apt_year":15.0,
             "value_score":65.8195,
+            "region":"울산시 남구",
             "region_code":"Ulsan",
             "sub_region_code":"3114000000_Ulsan_Nam"
         },
@@ -129,6 +140,7 @@
             "apt_type":"아파트",
             "apt_year":16.0,
             "value_score":65.5455,
+            "region":"울산시 남구",
             "region_code":"Ulsan",
             "sub_region_code":"3114000000_Ulsan_Nam"
         },
@@ -140,6 +152,7 @@
             "apt_type":"아파트",
             "apt_year":6.0,
             "value_score":65.481,
+            "region":"울산시 남구",
             "region_code":"Ulsan",
             "sub_region_code":"3114000000_Ulsan_Nam"
         },
@@ -151,6 +164,7 @@
             "apt_type":"아파트",
             "apt_year":13.0,
             "value_score":64.68,
+            "region":"울산시 남구",
             "region_code":"Ulsan",
             "sub_region_code":"3114000000_Ulsan_Nam"
         },
@@ -162,6 +176,7 @@
             "apt_type":"아파트",
             "apt_year":4.0,
             "value_score":70.8195,
+            "region":"울산시 남구",
             "region_code":"Ulsan",
             "sub_region_code":"3114000000_Ulsan_Nam"
         },
@@ -173,6 +188,7 @@
             "apt_type":"분양권",
             "apt_year":1.0,
             "value_score":68.9535,
+            "region":"울산시 남구",
             "region_code":"Ulsan",
             "sub_region_code":"3114000000_Ulsan_Nam"
         },
@@ -184,6 +200,7 @@
             "apt_type":"아파트",
             "apt_year":5.0,
             "value_score":67.9555,
+            "region":"울산시 남구",
             "region_code":"Ulsan",
             "sub_region_code":"3114000000_Ulsan_Nam"
         },
@@ -195,6 +212,7 @@
             "apt_type":"아파트",
             "apt_year":22.0,
             "value_score":67.8675,
+            "region":"울산시 남구",
             "region_code":"Ulsan",
             "sub_region_code":"3114000000_Ulsan_Nam"
         },
@@ -206,6 +224,7 @@
             "apt_type":"아파트",
             "apt_year":18.0,
             "value_score":67.512,
+            "region":"울산시 남구",
             "region_code":"Ulsan",
             "sub_region_code":"3114000000_Ulsan_Nam"
         },
@@ -217,6 +236,7 @@
             "apt_type":"아파트",
             "apt_year":15.0,
             "value_score":66.5695,
+            "region":"울산시 남구",
             "region_code":"Ulsan",
             "sub_region_code":"3114000000_Ulsan_Nam"
         },
@@ -228,6 +248,7 @@
             "apt_type":"아파트",
             "apt_year":6.0,
             "value_score":66.456,
+            "region":"울산시 남구",
             "region_code":"Ulsan",
             "sub_region_code":"3114000000_Ulsan_Nam"
         },
@@ -239,6 +260,7 @@
             "apt_type":"아파트",
             "apt_year":3.0,
             "value_score":64.7045,
+            "region":"울산시 남구",
             "region_code":"Ulsan",
             "sub_region_code":"3114000000_Ulsan_Nam"
         },
@@ -250,6 +272,7 @@
             "apt_type":"아파트",
             "apt_year":16.0,
             "value_score":64.5705,
+            "region":"울산시 남구",
             "region_code":"Ulsan",
             "sub_region_code":"3114000000_Ulsan_Nam"
         },
@@ -261,6 +284,7 @@
             "apt_type":"아파트",
             "apt_year":11.0,
             "value_score":64.387,
+            "region":"울산시 남구",
             "region_code":"Ulsan",
             "sub_region_code":"3114000000_Ulsan_Nam"
         },
@@ -272,6 +296,7 @@
             "apt_type":"분양권",
             "apt_year":0.0,
             "value_score":69.2267368421,
+            "region":"울산시 남구",
             "region_code":"Ulsan",
             "sub_region_code":"3114000000_Ulsan_Nam"
         },
@@ -283,6 +308,7 @@
             "apt_type":"아파트",
             "apt_year":13.0,
             "value_score":69.1326315789,
+            "region":"울산시 남구",
             "region_code":"Ulsan",
             "sub_region_code":"3114000000_Ulsan_Nam"
         },
@@ -294,6 +320,7 @@
             "apt_type":"아파트",
             "apt_year":22.0,
             "value_score":69.0694736842,
+            "region":"울산시 남구",
             "region_code":"Ulsan",
             "sub_region_code":"3114000000_Ulsan_Nam"
         },
@@ -305,6 +332,7 @@
             "apt_type":"분양권",
             "apt_year":1.0,
             "value_score":67.5688421053,
+            "region":"울산시 남구",
             "region_code":"Ulsan",
             "sub_region_code":"3114000000_Ulsan_Nam"
         },
@@ -316,6 +344,7 @@
             "apt_type":"아파트",
             "apt_year":15.0,
             "value_score":67.332,
+            "region":"울산시 남구",
             "region_code":"Ulsan",
             "sub_region_code":"3114000000_Ulsan_Nam"
         },
@@ -327,6 +356,7 @@
             "apt_type":"아파트",
             "apt_year":8.0,
             "value_score":67.2378947368,
+            "region":"울산시 남구",
             "region_code":"Ulsan",
             "sub_region_code":"3114000000_Ulsan_Nam"
         },
@@ -338,6 +368,7 @@
             "apt_type":"아파트",
             "apt_year":30.0,
             "value_score":67.0187368421,
+            "region":"울산시 남구",
             "region_code":"Ulsan",
             "sub_region_code":"3114000000_Ulsan_Nam"
         },
@@ -349,6 +380,7 @@
             "apt_type":"아파트",
             "apt_year":29.0,
             "value_score":66.9397894737,
+            "region":"울산시 남구",
             "region_code":"Ulsan",
             "sub_region_code":"3114000000_Ulsan_Nam"
         },
@@ -360,6 +392,7 @@
             "apt_type":"아파트",
             "apt_year":31.0,
             "value_score":66.9221052632,
+            "region":"울산시 남구",
             "region_code":"Ulsan",
             "sub_region_code":"3114000000_Ulsan_Nam"
         },
@@ -371,6 +404,7 @@
             "apt_type":"분양권",
             "apt_year":1.0,
             "value_score":66.8583157895,
+            "region":"울산시 남구",
             "region_code":"Ulsan",
             "sub_region_code":"3114000000_Ulsan_Nam"
         },
@@ -382,6 +416,7 @@
             "apt_type":"아파트",
             "apt_year":4.0,
             "value_score":66.139,
+            "region":"울산시 남구",
             "region_code":"Ulsan",
             "sub_region_code":"3114000000_Ulsan_Nam"
         },
@@ -393,6 +428,7 @@
             "apt_type":"분양권",
             "apt_year":0.0,
             "value_score":65.859,
+            "region":"울산시 남구",
             "region_code":"Ulsan",
             "sub_region_code":"3114000000_Ulsan_Nam"
         },
@@ -404,6 +440,7 @@
             "apt_type":"아파트",
             "apt_year":22.0,
             "value_score":65.61,
+            "region":"울산시 남구",
             "region_code":"Ulsan",
             "sub_region_code":"3114000000_Ulsan_Nam"
         },
@@ -415,6 +452,7 @@
             "apt_type":"아파트",
             "apt_year":18.0,
             "value_score":65.149,
+            "region":"울산시 남구",
             "region_code":"Ulsan",
             "sub_region_code":"3114000000_Ulsan_Nam"
         },
@@ -426,6 +464,7 @@
             "apt_type":"분양권",
             "apt_year":1.0,
             "value_score":64.532,
+            "region":"울산시 남구",
             "region_code":"Ulsan",
             "sub_region_code":"3114000000_Ulsan_Nam"
         },
@@ -437,6 +476,7 @@
             "apt_type":"아파트",
             "apt_year":15.0,
             "value_score":64.389,
+            "region":"울산시 남구",
             "region_code":"Ulsan",
             "sub_region_code":"3114000000_Ulsan_Nam"
         },
@@ -448,6 +488,7 @@
             "apt_type":"아파트",
             "apt_year":10.0,
             "value_score":64.234,
+            "region":"울산시 남구",
             "region_code":"Ulsan",
             "sub_region_code":"3114000000_Ulsan_Nam"
         },
@@ -459,6 +500,7 @@
             "apt_type":"아파트",
             "apt_year":16.0,
             "value_score":64.016,
+            "region":"울산시 남구",
             "region_code":"Ulsan",
             "sub_region_code":"3114000000_Ulsan_Nam"
         },
@@ -470,6 +512,7 @@
             "apt_type":"아파트",
             "apt_year":13.0,
             "value_score":63.96,
+            "region":"울산시 남구",
             "region_code":"Ulsan",
             "sub_region_code":"3114000000_Ulsan_Nam"
         },
@@ -481,6 +524,7 @@
             "apt_type":"아파트",
             "apt_year":5.0,
             "value_score":63.661,
+            "region":"울산시 남구",
             "region_code":"Ulsan",
             "sub_region_code":"3114000000_Ulsan_Nam"
         }

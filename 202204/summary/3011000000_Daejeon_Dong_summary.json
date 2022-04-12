@@ -30,6 +30,10 @@
                 "type":"number"
             },
             {
+                "name":"region",
+                "type":"string"
+            },
+            {
                 "name":"region_code",
                 "type":"string"
             },
@@ -52,6 +56,7 @@
             "apt_type":"분양권",
             "apt_year":-1.0,
             "value_score":57.835,
+            "region":"대전시 동구",
             "region_code":"Daejeon",
             "sub_region_code":"3011000000_Daejeon_Dong"
         },
@@ -63,6 +68,7 @@
             "apt_type":"아파트",
             "apt_year":5.0,
             "value_score":57.7356,
+            "region":"대전시 동구",
             "region_code":"Daejeon",
             "sub_region_code":"3011000000_Daejeon_Dong"
         },
@@ -74,6 +80,7 @@
             "apt_type":"분양권",
             "apt_year":1.0,
             "value_score":57.0606,
+            "region":"대전시 동구",
             "region_code":"Daejeon",
             "sub_region_code":"3011000000_Daejeon_Dong"
         },
@@ -85,6 +92,7 @@
             "apt_type":"아파트",
             "apt_year":13.0,
             "value_score":56.4606,
+            "region":"대전시 동구",
             "region_code":"Daejeon",
             "sub_region_code":"3011000000_Daejeon_Dong"
         },
@@ -96,6 +104,7 @@
             "apt_type":"아파트",
             "apt_year":12.0,
             "value_score":55.5588,
+            "region":"대전시 동구",
             "region_code":"Daejeon",
             "sub_region_code":"3011000000_Daejeon_Dong"
         },
@@ -107,6 +116,7 @@
             "apt_type":"아파트",
             "apt_year":15.0,
             "value_score":54.7952,
+            "region":"대전시 동구",
             "region_code":"Daejeon",
             "sub_region_code":"3011000000_Daejeon_Dong"
         },
@@ -118,6 +128,7 @@
             "apt_type":"아파트",
             "apt_year":17.0,
             "value_score":52.835,
+            "region":"대전시 동구",
             "region_code":"Daejeon",
             "sub_region_code":"3011000000_Daejeon_Dong"
         },
@@ -129,6 +140,7 @@
             "apt_type":"아파트",
             "apt_year":10.0,
             "value_score":52.397,
+            "region":"대전시 동구",
             "region_code":"Daejeon",
             "sub_region_code":"3011000000_Daejeon_Dong"
         },
@@ -140,6 +152,7 @@
             "apt_type":"아파트",
             "apt_year":5.0,
             "value_score":51.9856,
+            "region":"대전시 동구",
             "region_code":"Daejeon",
             "sub_region_code":"3011000000_Daejeon_Dong"
         },
@@ -151,6 +164,7 @@
             "apt_type":"아파트",
             "apt_year":5.0,
             "value_score":50.8596,
+            "region":"대전시 동구",
             "region_code":"Daejeon",
             "sub_region_code":"3011000000_Daejeon_Dong"
         },
@@ -162,6 +176,7 @@
             "apt_type":"분양권",
             "apt_year":1.0,
             "value_score":65.5404,
+            "region":"대전시 동구",
             "region_code":"Daejeon",
             "sub_region_code":"3011000000_Daejeon_Dong"
         },
@@ -173,6 +188,7 @@
             "apt_type":"분양권",
             "apt_year":-1.0,
             "value_score":64.89,
+            "region":"대전시 동구",
             "region_code":"Daejeon",
             "sub_region_code":"3011000000_Daejeon_Dong"
         },
@@ -184,6 +200,7 @@
             "apt_type":"아파트",
             "apt_year":5.0,
             "value_score":63.4904,
+            "region":"대전시 동구",
             "region_code":"Daejeon",
             "sub_region_code":"3011000000_Daejeon_Dong"
         },
@@ -195,6 +212,7 @@
             "apt_type":"분양권",
             "apt_year":-1.0,
             "value_score":61.6184,
+            "region":"대전시 동구",
             "region_code":"Daejeon",
             "sub_region_code":"3011000000_Daejeon_Dong"
         },
@@ -206,6 +224,7 @@
             "apt_type":"아파트",
             "apt_year":13.0,
             "value_score":60.1404,
+            "region":"대전시 동구",
             "region_code":"Daejeon",
             "sub_region_code":"3011000000_Daejeon_Dong"
         },
@@ -217,6 +236,7 @@
             "apt_type":"아파트",
             "apt_year":12.0,
             "value_score":59.5392,
+            "region":"대전시 동구",
             "region_code":"Daejeon",
             "sub_region_code":"3011000000_Daejeon_Dong"
         },
@@ -228,6 +248,7 @@
             "apt_type":"아파트",
             "apt_year":5.0,
             "value_score":58.9064,
+            "region":"대전시 동구",
             "region_code":"Daejeon",
             "sub_region_code":"3011000000_Daejeon_Dong"
         },
@@ -239,6 +260,7 @@
             "apt_type":"아파트",
             "apt_year":10.0,
             "value_score":58.598,
+            "region":"대전시 동구",
             "region_code":"Daejeon",
             "sub_region_code":"3011000000_Daejeon_Dong"
         },
@@ -250,6 +272,7 @@
             "apt_type":"아파트",
             "apt_year":15.0,
             "value_score":57.6968,
+            "region":"대전시 동구",
             "region_code":"Daejeon",
             "sub_region_code":"3011000000_Daejeon_Dong"
         },
@@ -261,6 +284,7 @@
             "apt_type":"아파트",
             "apt_year":16.0,
             "value_score":55.6184,
+            "region":"대전시 동구",
             "region_code":"Daejeon",
             "sub_region_code":"3011000000_Daejeon_Dong"
         },
@@ -272,6 +296,7 @@
             "apt_type":"아파트",
             "apt_year":13.0,
             "value_score":66.6178,
+            "region":"대전시 동구",
             "region_code":"Daejeon",
             "sub_region_code":"3011000000_Daejeon_Dong"
         },
@@ -283,6 +308,7 @@
             "apt_type":"아파트",
             "apt_year":5.0,
             "value_score":64.9428,
+            "region":"대전시 동구",
             "region_code":"Daejeon",
             "sub_region_code":"3011000000_Daejeon_Dong"
         },
@@ -294,6 +320,7 @@
             "apt_type":"분양권",
             "apt_year":-1.0,
             "value_score":64.9425,
+            "region":"대전시 동구",
             "region_code":"Daejeon",
             "sub_region_code":"3011000000_Daejeon_Dong"
         },
@@ -305,6 +332,7 @@
             "apt_type":"아파트",
             "apt_year":12.0,
             "value_score":63.6169,
+            "region":"대전시 동구",
             "region_code":"Daejeon",
             "sub_region_code":"3011000000_Daejeon_Dong"
         },
@@ -316,6 +344,7 @@
             "apt_type":"아파트",
             "apt_year":15.0,
             "value_score":63.0351,
+            "region":"대전시 동구",
             "region_code":"Daejeon",
             "sub_region_code":"3011000000_Daejeon_Dong"
         },
@@ -327,6 +356,7 @@
             "apt_type":"아파트",
             "apt_year":17.0,
             "value_score":61.9425,
+            "region":"대전시 동구",
             "region_code":"Daejeon",
             "sub_region_code":"3011000000_Daejeon_Dong"
         },
@@ -338,6 +368,7 @@
             "apt_type":"아파트",
             "apt_year":5.0,
             "value_score":60.7548,
+            "region":"대전시 동구",
             "region_code":"Daejeon",
             "sub_region_code":"3011000000_Daejeon_Dong"
         },
@@ -349,6 +380,7 @@
             "apt_type":"분양권",
             "apt_year":1.0,
             "value_score":58.3678,
+            "region":"대전시 동구",
             "region_code":"Daejeon",
             "sub_region_code":"3011000000_Daejeon_Dong"
         },
@@ -360,6 +392,7 @@
             "apt_type":"아파트",
             "apt_year":33.0,
             "value_score":57.6798,
+            "region":"대전시 동구",
             "region_code":"Daejeon",
             "sub_region_code":"3011000000_Daejeon_Dong"
         },
@@ -371,6 +404,7 @@
             "apt_type":"아파트",
             "apt_year":33.0,
             "value_score":56.3298,
+            "region":"대전시 동구",
             "region_code":"Daejeon",
             "sub_region_code":"3011000000_Daejeon_Dong"
         },
@@ -382,6 +416,7 @@
             "apt_type":"아파트",
             "apt_year":5.0,
             "value_score":51.388,
+            "region":"대전시 동구",
             "region_code":"Daejeon",
             "sub_region_code":"3011000000_Daejeon_Dong"
         },
@@ -393,6 +428,7 @@
             "apt_type":"아파트",
             "apt_year":13.0,
             "value_score":51.038,
+            "region":"대전시 동구",
             "region_code":"Daejeon",
             "sub_region_code":"3011000000_Daejeon_Dong"
         },
@@ -404,6 +440,7 @@
             "apt_type":"분양권",
             "apt_year":-1.0,
             "value_score":50.2875,
+            "region":"대전시 동구",
             "region_code":"Daejeon",
             "sub_region_code":"3011000000_Daejeon_Dong"
         },
@@ -415,6 +452,7 @@
             "apt_type":"아파트",
             "apt_year":12.0,
             "value_score":50.1365,
+            "region":"대전시 동구",
             "region_code":"Daejeon",
             "sub_region_code":"3011000000_Daejeon_Dong"
         },
@@ -426,6 +464,7 @@
             "apt_type":"아파트",
             "apt_year":15.0,
             "value_score":49.4335,
+            "region":"대전시 동구",
             "region_code":"Daejeon",
             "sub_region_code":"3011000000_Daejeon_Dong"
         },
@@ -437,6 +476,7 @@
             "apt_type":"분양권",
             "apt_year":1.0,
             "value_score":49.388,
+            "region":"대전시 동구",
             "region_code":"Daejeon",
             "sub_region_code":"3011000000_Daejeon_Dong"
         },
@@ -448,6 +488,7 @@
             "apt_type":"아파트",
             "apt_year":17.0,
             "value_score":48.2875,
+            "region":"대전시 동구",
             "region_code":"Daejeon",
             "sub_region_code":"3011000000_Daejeon_Dong"
         },
@@ -459,6 +500,7 @@
             "apt_type":"아파트",
             "apt_year":5.0,
             "value_score":47.738,
+            "region":"대전시 동구",
             "region_code":"Daejeon",
             "sub_region_code":"3011000000_Daejeon_Dong"
         },
@@ -470,6 +512,7 @@
             "apt_type":"아파트",
             "apt_year":10.0,
             "value_score":46.0975,
+            "region":"대전시 동구",
             "region_code":"Daejeon",
             "sub_region_code":"3011000000_Daejeon_Dong"
         },
@@ -481,6 +524,7 @@
             "apt_type":"아파트",
             "apt_year":16.0,
             "value_score":46.038,
+            "region":"대전시 동구",
             "region_code":"Daejeon",
             "sub_region_code":"3011000000_Daejeon_Dong"
         },
@@ -492,6 +536,7 @@
             "apt_type":"분양권",
             "apt_year":-1.0,
             "value_score":57.375,
+            "region":"대전시 동구",
             "region_code":"Daejeon",
             "sub_region_code":"3011000000_Daejeon_Dong"
         },
@@ -503,6 +548,7 @@
             "apt_type":"아파트",
             "apt_year":5.0,
             "value_score":57.176,
+            "region":"대전시 동구",
             "region_code":"Daejeon",
             "sub_region_code":"3011000000_Daejeon_Dong"
         },
@@ -514,6 +560,7 @@
             "apt_type":"분양권",
             "apt_year":1.0,
             "value_score":56.976,
+            "region":"대전시 동구",
             "region_code":"Daejeon",
             "sub_region_code":"3011000000_Daejeon_Dong"
         },
@@ -525,6 +572,7 @@
             "apt_type":"아파트",
             "apt_year":13.0,
             "value_score":56.076,
+            "region":"대전시 동구",
             "region_code":"Daejeon",
             "sub_region_code":"3011000000_Daejeon_Dong"
         },
@@ -536,6 +584,7 @@
             "apt_type":"아파트",
             "apt_year":15.0,
             "value_score":55.667,
+            "region":"대전시 동구",
             "region_code":"Daejeon",
             "sub_region_code":"3011000000_Daejeon_Dong"
         },
@@ -547,6 +596,7 @@
             "apt_type":"아파트",
             "apt_year":12.0,
             "value_score":55.473,
+            "region":"대전시 동구",
             "region_code":"Daejeon",
             "sub_region_code":"3011000000_Daejeon_Dong"
         },
@@ -558,6 +608,7 @@
             "apt_type":"아파트",
             "apt_year":17.0,
             "value_score":53.375,
+            "region":"대전시 동구",
             "region_code":"Daejeon",
             "sub_region_code":"3011000000_Daejeon_Dong"
         },
@@ -569,6 +620,7 @@
             "apt_type":"아파트",
             "apt_year":10.0,
             "value_score":53.195,
+            "region":"대전시 동구",
             "region_code":"Daejeon",
             "sub_region_code":"3011000000_Daejeon_Dong"
         },
@@ -580,6 +632,7 @@
             "apt_type":"분양권",
             "apt_year":-1.0,
             "value_score":53.171,
+            "region":"대전시 동구",
             "region_code":"Daejeon",
             "sub_region_code":"3011000000_Daejeon_Dong"
         },
@@ -591,6 +644,7 @@
             "apt_type":"아파트",
             "apt_year":5.0,
             "value_score":52.876,
+            "region":"대전시 동구",
             "region_code":"Daejeon",
             "sub_region_code":"3011000000_Daejeon_Dong"
         }

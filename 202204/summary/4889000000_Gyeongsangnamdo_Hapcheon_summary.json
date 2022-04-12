@@ -30,6 +30,10 @@
                 "type":"number"
             },
             {
+                "name":"region",
+                "type":"string"
+            },
+            {
                 "name":"region_code",
                 "type":"string"
             },
@@ -52,6 +56,7 @@
             "apt_type":"아파트",
             "apt_year":30.0,
             "value_score":28.4035,
+            "region":"경상남도 합천군",
             "region_code":"Gyeongsangnamdo",
             "sub_region_code":"4889000000_Gyeongsangnamdo_Hapcheon"
         },
@@ -63,6 +68,7 @@
             "apt_type":"아파트",
             "apt_year":31.0,
             "value_score":27.4435,
+            "region":"경상남도 합천군",
             "region_code":"Gyeongsangnamdo",
             "sub_region_code":"4889000000_Gyeongsangnamdo_Hapcheon"
         },
@@ -74,6 +80,7 @@
             "apt_type":"아파트",
             "apt_year":19.0,
             "value_score":26.6555,
+            "region":"경상남도 합천군",
             "region_code":"Gyeongsangnamdo",
             "sub_region_code":"4889000000_Gyeongsangnamdo_Hapcheon"
         },
@@ -85,6 +92,7 @@
             "apt_type":"아파트",
             "apt_year":26.0,
             "value_score":24.5055,
+            "region":"경상남도 합천군",
             "region_code":"Gyeongsangnamdo",
             "sub_region_code":"4889000000_Gyeongsangnamdo_Hapcheon"
         },
@@ -96,6 +104,7 @@
             "apt_type":"아파트",
             "apt_year":30.0,
             "value_score":29.6935,
+            "region":"경상남도 합천군",
             "region_code":"Gyeongsangnamdo",
             "sub_region_code":"4889000000_Gyeongsangnamdo_Hapcheon"
         },
@@ -107,6 +116,7 @@
             "apt_type":"아파트",
             "apt_year":31.0,
             "value_score":29.0935,
+            "region":"경상남도 합천군",
             "region_code":"Gyeongsangnamdo",
             "sub_region_code":"4889000000_Gyeongsangnamdo_Hapcheon"
         },
@@ -118,6 +128,7 @@
             "apt_type":"아파트",
             "apt_year":19.0,
             "value_score":28.7555,
+            "region":"경상남도 합천군",
             "region_code":"Gyeongsangnamdo",
             "sub_region_code":"4889000000_Gyeongsangnamdo_Hapcheon"
         },
@@ -129,6 +140,7 @@
             "apt_type":"아파트",
             "apt_year":26.0,
             "value_score":23.7555,
+            "region":"경상남도 합천군",
             "region_code":"Gyeongsangnamdo",
             "sub_region_code":"4889000000_Gyeongsangnamdo_Hapcheon"
         },
@@ -140,6 +152,7 @@
             "apt_type":"아파트",
             "apt_year":30.0,
             "value_score":29.6444210526,
+            "region":"경상남도 합천군",
             "region_code":"Gyeongsangnamdo",
             "sub_region_code":"4889000000_Gyeongsangnamdo_Hapcheon"
         },
@@ -151,6 +164,7 @@
             "apt_type":"아파트",
             "apt_year":31.0,
             "value_score":28.3812631579,
+            "region":"경상남도 합천군",
             "region_code":"Gyeongsangnamdo",
             "sub_region_code":"4889000000_Gyeongsangnamdo_Hapcheon"
         },
@@ -162,6 +176,7 @@
             "apt_type":"아파트",
             "apt_year":26.0,
             "value_score":27.6385263158,
+            "region":"경상남도 합천군",
             "region_code":"Gyeongsangnamdo",
             "sub_region_code":"4889000000_Gyeongsangnamdo_Hapcheon"
         },
@@ -173,6 +188,7 @@
             "apt_type":"아파트",
             "apt_year":19.0,
             "value_score":26.5332631579,
+            "region":"경상남도 합천군",
             "region_code":"Gyeongsangnamdo",
             "sub_region_code":"4889000000_Gyeongsangnamdo_Hapcheon"
         },
@@ -184,6 +200,7 @@
             "apt_type":"아파트",
             "apt_year":30.0,
             "value_score":38.537,
+            "region":"경상남도 합천군",
             "region_code":"Gyeongsangnamdo",
             "sub_region_code":"4889000000_Gyeongsangnamdo_Hapcheon"
         },
@@ -195,6 +212,7 @@
             "apt_type":"아파트",
             "apt_year":31.0,
             "value_score":37.937,
+            "region":"경상남도 합천군",
             "region_code":"Gyeongsangnamdo",
             "sub_region_code":"4889000000_Gyeongsangnamdo_Hapcheon"
         },
@@ -206,6 +224,7 @@
             "apt_type":"아파트",
             "apt_year":19.0,
             "value_score":35.011,
+            "region":"경상남도 합천군",
             "region_code":"Gyeongsangnamdo",
             "sub_region_code":"4889000000_Gyeongsangnamdo_Hapcheon"
         },
@@ -217,6 +236,7 @@
             "apt_type":"아파트",
             "apt_year":26.0,
             "value_score":33.261,
+            "region":"경상남도 합천군",
             "region_code":"Gyeongsangnamdo",
             "sub_region_code":"4889000000_Gyeongsangnamdo_Hapcheon"
         }

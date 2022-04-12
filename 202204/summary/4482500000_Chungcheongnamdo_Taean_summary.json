@@ -30,6 +30,10 @@
                 "type":"number"
             },
             {
+                "name":"region",
+                "type":"string"
+            },
+            {
                 "name":"region_code",
                 "type":"string"
             },
@@ -52,6 +56,7 @@
             "apt_type":"아파트",
             "apt_year":4.0,
             "value_score":45.118,
+            "region":"충청남도 태안군",
             "region_code":"Chungcheongnamdo",
             "sub_region_code":"4482500000_Chungcheongnamdo_Taean"
         },
@@ -63,6 +68,7 @@
             "apt_type":"아파트",
             "apt_year":9.0,
             "value_score":43.958,
+            "region":"충청남도 태안군",
             "region_code":"Chungcheongnamdo",
             "sub_region_code":"4482500000_Chungcheongnamdo_Taean"
         },
@@ -74,6 +80,7 @@
             "apt_type":"아파트",
             "apt_year":5.0,
             "value_score":42.4145,
+            "region":"충청남도 태안군",
             "region_code":"Chungcheongnamdo",
             "sub_region_code":"4482500000_Chungcheongnamdo_Taean"
         },
@@ -85,6 +92,7 @@
             "apt_type":"아파트",
             "apt_year":8.0,
             "value_score":37.833,
+            "region":"충청남도 태안군",
             "region_code":"Chungcheongnamdo",
             "sub_region_code":"4482500000_Chungcheongnamdo_Taean"
         },
@@ -96,6 +104,7 @@
             "apt_type":"아파트",
             "apt_year":23.0,
             "value_score":36.8795,
+            "region":"충청남도 태안군",
             "region_code":"Chungcheongnamdo",
             "sub_region_code":"4482500000_Chungcheongnamdo_Taean"
         },
@@ -107,6 +116,7 @@
             "apt_type":"아파트",
             "apt_year":3.0,
             "value_score":35.3935,
+            "region":"충청남도 태안군",
             "region_code":"Chungcheongnamdo",
             "sub_region_code":"4482500000_Chungcheongnamdo_Taean"
         },
@@ -118,6 +128,7 @@
             "apt_type":"아파트",
             "apt_year":17.0,
             "value_score":35.1085,
+            "region":"충청남도 태안군",
             "region_code":"Chungcheongnamdo",
             "sub_region_code":"4482500000_Chungcheongnamdo_Taean"
         },
@@ -129,6 +140,7 @@
             "apt_type":"아파트",
             "apt_year":15.0,
             "value_score":29.489,
+            "region":"충청남도 태안군",
             "region_code":"Chungcheongnamdo",
             "sub_region_code":"4482500000_Chungcheongnamdo_Taean"
         },
@@ -140,6 +152,7 @@
             "apt_type":"아파트",
             "apt_year":27.0,
             "value_score":26.668,
+            "region":"충청남도 태안군",
             "region_code":"Chungcheongnamdo",
             "sub_region_code":"4482500000_Chungcheongnamdo_Taean"
         },
@@ -151,6 +164,7 @@
             "apt_type":"아파트",
             "apt_year":27.0,
             "value_score":24.558,
+            "region":"충청남도 태안군",
             "region_code":"Chungcheongnamdo",
             "sub_region_code":"4482500000_Chungcheongnamdo_Taean"
         },
@@ -162,6 +176,7 @@
             "apt_type":"아파트",
             "apt_year":4.0,
             "value_score":51.358,
+            "region":"충청남도 태안군",
             "region_code":"Chungcheongnamdo",
             "sub_region_code":"4482500000_Chungcheongnamdo_Taean"
         },
@@ -173,6 +188,7 @@
             "apt_type":"아파트",
             "apt_year":9.0,
             "value_score":49.508,
+            "region":"충청남도 태안군",
             "region_code":"Chungcheongnamdo",
             "sub_region_code":"4482500000_Chungcheongnamdo_Taean"
         },
@@ -184,6 +200,7 @@
             "apt_type":"아파트",
             "apt_year":5.0,
             "value_score":48.5045,
+            "region":"충청남도 태안군",
             "region_code":"Chungcheongnamdo",
             "sub_region_code":"4482500000_Chungcheongnamdo_Taean"
         },
@@ -195,6 +212,7 @@
             "apt_type":"아파트",
             "apt_year":8.0,
             "value_score":40.758,
+            "region":"충청남도 태안군",
             "region_code":"Chungcheongnamdo",
             "sub_region_code":"4482500000_Chungcheongnamdo_Taean"
         },
@@ -206,6 +224,7 @@
             "apt_type":"아파트",
             "apt_year":23.0,
             "value_score":40.4045,
+            "region":"충청남도 태안군",
             "region_code":"Chungcheongnamdo",
             "sub_region_code":"4482500000_Chungcheongnamdo_Taean"
         },
@@ -217,6 +236,7 @@
             "apt_type":"아파트",
             "apt_year":3.0,
             "value_score":40.3585,
+            "region":"충청남도 태안군",
             "region_code":"Chungcheongnamdo",
             "sub_region_code":"4482500000_Chungcheongnamdo_Taean"
         },
@@ -228,6 +248,7 @@
             "apt_type":"아파트",
             "apt_year":17.0,
             "value_score":39.7585,
+            "region":"충청남도 태안군",
             "region_code":"Chungcheongnamdo",
             "sub_region_code":"4482500000_Chungcheongnamdo_Taean"
         },
@@ -239,6 +260,7 @@
             "apt_type":"아파트",
             "apt_year":15.0,
             "value_score":33.014,
+            "region":"충청남도 태안군",
             "region_code":"Chungcheongnamdo",
             "sub_region_code":"4482500000_Chungcheongnamdo_Taean"
         },
@@ -250,6 +272,7 @@
             "apt_type":"아파트",
             "apt_year":27.0,
             "value_score":29.508,
+            "region":"충청남도 태안군",
             "region_code":"Chungcheongnamdo",
             "sub_region_code":"4482500000_Chungcheongnamdo_Taean"
         },
@@ -261,6 +284,7 @@
             "apt_type":"아파트",
             "apt_year":24.0,
             "value_score":28.2525,
+            "region":"충청남도 태안군",
             "region_code":"Chungcheongnamdo",
             "sub_region_code":"4482500000_Chungcheongnamdo_Taean"
         },
@@ -272,6 +296,7 @@
             "apt_type":"아파트",
             "apt_year":4.0,
             "value_score":39.0101052632,
+            "region":"충청남도 태안군",
             "region_code":"Chungcheongnamdo",
             "sub_region_code":"4482500000_Chungcheongnamdo_Taean"
         },
@@ -283,6 +308,7 @@
             "apt_type":"아파트",
             "apt_year":9.0,
             "value_score":38.6943157895,
+            "region":"충청남도 태안군",
             "region_code":"Chungcheongnamdo",
             "sub_region_code":"4482500000_Chungcheongnamdo_Taean"
         },
@@ -294,6 +320,7 @@
             "apt_type":"아파트",
             "apt_year":5.0,
             "value_score":36.6688421053,
+            "region":"충청남도 태안군",
             "region_code":"Chungcheongnamdo",
             "sub_region_code":"4482500000_Chungcheongnamdo_Taean"
         },
@@ -305,6 +332,7 @@
             "apt_type":"아파트",
             "apt_year":8.0,
             "value_score":35.9311578947,
+            "region":"충청남도 태안군",
             "region_code":"Chungcheongnamdo",
             "sub_region_code":"4482500000_Chungcheongnamdo_Taean"
         },
@@ -316,6 +344,7 @@
             "apt_type":"아파트",
             "apt_year":23.0,
             "value_score":34.3793684211,
+            "region":"충청남도 태안군",
             "region_code":"Chungcheongnamdo",
             "sub_region_code":"4482500000_Chungcheongnamdo_Taean"
         },
@@ -327,6 +356,7 @@
             "apt_type":"아파트",
             "apt_year":17.0,
             "value_score":31.5896842105,
+            "region":"충청남도 태안군",
             "region_code":"Chungcheongnamdo",
             "sub_region_code":"4482500000_Chungcheongnamdo_Taean"
         },
@@ -338,6 +368,7 @@
             "apt_type":"아파트",
             "apt_year":3.0,
             "value_score":31.5107368421,
+            "region":"충청남도 태안군",
             "region_code":"Chungcheongnamdo",
             "sub_region_code":"4482500000_Chungcheongnamdo_Taean"
         },
@@ -349,6 +380,7 @@
             "apt_type":"아파트",
             "apt_year":27.0,
             "value_score":28.9574736842,
+            "region":"충청남도 태안군",
             "region_code":"Chungcheongnamdo",
             "sub_region_code":"4482500000_Chungcheongnamdo_Taean"
         },
@@ -360,6 +392,7 @@
             "apt_type":"아파트",
             "apt_year":15.0,
             "value_score":27.4124210526,
+            "region":"충청남도 태안군",
             "region_code":"Chungcheongnamdo",
             "sub_region_code":"4482500000_Chungcheongnamdo_Taean"
         },
@@ -371,6 +404,7 @@
             "apt_type":"아파트",
             "apt_year":30.0,
             "value_score":25.7907368421,
+            "region":"충청남도 태안군",
             "region_code":"Chungcheongnamdo",
             "sub_region_code":"4482500000_Chungcheongnamdo_Taean"
         },
@@ -382,6 +416,7 @@
             "apt_type":"아파트",
             "apt_year":4.0,
             "value_score":48.116,
+            "region":"충청남도 태안군",
             "region_code":"Chungcheongnamdo",
             "sub_region_code":"4482500000_Chungcheongnamdo_Taean"
         },
@@ -393,6 +428,7 @@
             "apt_type":"아파트",
             "apt_year":9.0,
             "value_score":47.266,
+            "region":"충청남도 태안군",
             "region_code":"Chungcheongnamdo",
             "sub_region_code":"4482500000_Chungcheongnamdo_Taean"
         },
@@ -404,6 +440,7 @@
             "apt_type":"아파트",
             "apt_year":5.0,
             "value_score":46.159,
+            "region":"충청남도 태안군",
             "region_code":"Chungcheongnamdo",
             "sub_region_code":"4482500000_Chungcheongnamdo_Taean"
         },
@@ -415,6 +452,7 @@
             "apt_type":"아파트",
             "apt_year":8.0,
             "value_score":42.891,
+            "region":"충청남도 태안군",
             "region_code":"Chungcheongnamdo",
             "sub_region_code":"4482500000_Chungcheongnamdo_Taean"
         },
@@ -426,6 +464,7 @@
             "apt_type":"아파트",
             "apt_year":23.0,
             "value_score":42.184,
+            "region":"충청남도 태안군",
             "region_code":"Chungcheongnamdo",
             "sub_region_code":"4482500000_Chungcheongnamdo_Taean"
         },
@@ -437,6 +476,7 @@
             "apt_type":"아파트",
             "apt_year":3.0,
             "value_score":41.492,
+            "region":"충청남도 태안군",
             "region_code":"Chungcheongnamdo",
             "sub_region_code":"4482500000_Chungcheongnamdo_Taean"
         },
@@ -448,6 +488,7 @@
             "apt_type":"아파트",
             "apt_year":17.0,
             "value_score":41.267,
+            "region":"충청남도 태안군",
             "region_code":"Chungcheongnamdo",
             "sub_region_code":"4482500000_Chungcheongnamdo_Taean"
         },
@@ -459,6 +500,7 @@
             "apt_type":"아파트",
             "apt_year":15.0,
             "value_score":36.403,
+            "region":"충청남도 태안군",
             "region_code":"Chungcheongnamdo",
             "sub_region_code":"4482500000_Chungcheongnamdo_Taean"
         },
@@ -470,6 +512,7 @@
             "apt_type":"아파트",
             "apt_year":27.0,
             "value_score":35.116,
+            "region":"충청남도 태안군",
             "region_code":"Chungcheongnamdo",
             "sub_region_code":"4482500000_Chungcheongnamdo_Taean"
         },
@@ -481,6 +524,7 @@
             "apt_type":"아파트",
             "apt_year":27.0,
             "value_score":34.266,
+            "region":"충청남도 태안군",
             "region_code":"Chungcheongnamdo",
             "sub_region_code":"4482500000_Chungcheongnamdo_Taean"
         }

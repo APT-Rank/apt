@@ -30,6 +30,10 @@
                 "type":"number"
             },
             {
+                "name":"region",
+                "type":"string"
+            },
+            {
                 "name":"region_code",
                 "type":"string"
             },
@@ -52,6 +56,7 @@
             "apt_type":"분양권",
             "apt_year":1.0,
             "value_score":41.384,
+            "region":"충청남도 금산군",
             "region_code":"Chungcheongnamdo",
             "sub_region_code":"4471000000_Chungcheongnamdo_Geumsan"
         },
@@ -63,6 +68,7 @@
             "apt_type":"아파트",
             "apt_year":8.0,
             "value_score":40.706,
+            "region":"충청남도 금산군",
             "region_code":"Chungcheongnamdo",
             "sub_region_code":"4471000000_Chungcheongnamdo_Geumsan"
         },
@@ -74,6 +80,7 @@
             "apt_type":"아파트",
             "apt_year":23.0,
             "value_score":35.05,
+            "region":"충청남도 금산군",
             "region_code":"Chungcheongnamdo",
             "sub_region_code":"4471000000_Chungcheongnamdo_Geumsan"
         },
@@ -85,6 +92,7 @@
             "apt_type":"분양권",
             "apt_year":0.0,
             "value_score":34.9065,
+            "region":"충청남도 금산군",
             "region_code":"Chungcheongnamdo",
             "sub_region_code":"4471000000_Chungcheongnamdo_Geumsan"
         },
@@ -96,6 +104,7 @@
             "apt_type":"아파트",
             "apt_year":26.0,
             "value_score":30.675,
+            "region":"충청남도 금산군",
             "region_code":"Chungcheongnamdo",
             "sub_region_code":"4471000000_Chungcheongnamdo_Geumsan"
         },
@@ -107,6 +116,7 @@
             "apt_type":"아파트",
             "apt_year":29.0,
             "value_score":27.0,
+            "region":"충청남도 금산군",
             "region_code":"Chungcheongnamdo",
             "sub_region_code":"4471000000_Chungcheongnamdo_Geumsan"
         },
@@ -118,6 +128,7 @@
             "apt_type":"아파트",
             "apt_year":28.0,
             "value_score":25.1605,
+            "region":"충청남도 금산군",
             "region_code":"Chungcheongnamdo",
             "sub_region_code":"4471000000_Chungcheongnamdo_Geumsan"
         },
@@ -129,6 +140,7 @@
             "apt_type":"아파트",
             "apt_year":25.0,
             "value_score":25.0825,
+            "region":"충청남도 금산군",
             "region_code":"Chungcheongnamdo",
             "sub_region_code":"4471000000_Chungcheongnamdo_Geumsan"
         },
@@ -140,6 +152,7 @@
             "apt_type":"아파트",
             "apt_year":20.0,
             "value_score":24.759,
+            "region":"충청남도 금산군",
             "region_code":"Chungcheongnamdo",
             "sub_region_code":"4471000000_Chungcheongnamdo_Geumsan"
         },
@@ -151,6 +164,7 @@
             "apt_type":"아파트",
             "apt_year":23.0,
             "value_score":21.4425,
+            "region":"충청남도 금산군",
             "region_code":"Chungcheongnamdo",
             "sub_region_code":"4471000000_Chungcheongnamdo_Geumsan"
         },
@@ -162,6 +176,7 @@
             "apt_type":"분양권",
             "apt_year":1.0,
             "value_score":48.434,
+            "region":"충청남도 금산군",
             "region_code":"Chungcheongnamdo",
             "sub_region_code":"4471000000_Chungcheongnamdo_Geumsan"
         },
@@ -173,6 +188,7 @@
             "apt_type":"아파트",
             "apt_year":8.0,
             "value_score":47.156,
+            "region":"충청남도 금산군",
             "region_code":"Chungcheongnamdo",
             "sub_region_code":"4471000000_Chungcheongnamdo_Geumsan"
         },
@@ -184,6 +200,7 @@
             "apt_type":"분양권",
             "apt_year":0.0,
             "value_score":44.6565,
+            "region":"충청남도 금산군",
             "region_code":"Chungcheongnamdo",
             "sub_region_code":"4471000000_Chungcheongnamdo_Geumsan"
         },
@@ -195,6 +212,7 @@
             "apt_type":"아파트",
             "apt_year":23.0,
             "value_score":38.35,
+            "region":"충청남도 금산군",
             "region_code":"Chungcheongnamdo",
             "sub_region_code":"4471000000_Chungcheongnamdo_Geumsan"
         },
@@ -206,6 +224,7 @@
             "apt_type":"아파트",
             "apt_year":26.0,
             "value_score":32.1,
+            "region":"충청남도 금산군",
             "region_code":"Chungcheongnamdo",
             "sub_region_code":"4471000000_Chungcheongnamdo_Geumsan"
         },
@@ -217,6 +236,7 @@
             "apt_type":"아파트",
             "apt_year":29.0,
             "value_score":26.85,
+            "region":"충청남도 금산군",
             "region_code":"Chungcheongnamdo",
             "sub_region_code":"4471000000_Chungcheongnamdo_Geumsan"
         },
@@ -228,6 +248,7 @@
             "apt_type":"아파트",
             "apt_year":28.0,
             "value_score":25.7005,
+            "region":"충청남도 금산군",
             "region_code":"Chungcheongnamdo",
             "sub_region_code":"4471000000_Chungcheongnamdo_Geumsan"
         },
@@ -239,6 +260,7 @@
             "apt_type":"아파트",
             "apt_year":25.0,
             "value_score":25.5325,
+            "region":"충청남도 금산군",
             "region_code":"Chungcheongnamdo",
             "sub_region_code":"4471000000_Chungcheongnamdo_Geumsan"
         },
@@ -250,6 +272,7 @@
             "apt_type":"아파트",
             "apt_year":20.0,
             "value_score":24.684,
+            "region":"충청남도 금산군",
             "region_code":"Chungcheongnamdo",
             "sub_region_code":"4471000000_Chungcheongnamdo_Geumsan"
         },
@@ -261,6 +284,7 @@
             "apt_type":"아파트",
             "apt_year":23.0,
             "value_score":24.3825,
+            "region":"충청남도 금산군",
             "region_code":"Chungcheongnamdo",
             "sub_region_code":"4471000000_Chungcheongnamdo_Geumsan"
         },
@@ -272,6 +296,7 @@
             "apt_type":"아파트",
             "apt_year":8.0,
             "value_score":34.4602105263,
+            "region":"충청남도 금산군",
             "region_code":"Chungcheongnamdo",
             "sub_region_code":"4471000000_Chungcheongnamdo_Geumsan"
         },
@@ -283,6 +308,7 @@
             "apt_type":"분양권",
             "apt_year":1.0,
             "value_score":34.1797894737,
+            "region":"충청남도 금산군",
             "region_code":"Chungcheongnamdo",
             "sub_region_code":"4471000000_Chungcheongnamdo_Geumsan"
         },
@@ -294,6 +320,7 @@
             "apt_type":"아파트",
             "apt_year":23.0,
             "value_score":33.0210526316,
+            "region":"충청남도 금산군",
             "region_code":"Chungcheongnamdo",
             "sub_region_code":"4471000000_Chungcheongnamdo_Geumsan"
         },
@@ -305,6 +332,7 @@
             "apt_type":"아파트",
             "apt_year":26.0,
             "value_score":31.0473684211,
+            "region":"충청남도 금산군",
             "region_code":"Chungcheongnamdo",
             "sub_region_code":"4471000000_Chungcheongnamdo_Geumsan"
         },
@@ -316,6 +344,7 @@
             "apt_type":"아파트",
             "apt_year":29.0,
             "value_score":29.3894736842,
+            "region":"충청남도 금산군",
             "region_code":"Chungcheongnamdo",
             "sub_region_code":"4471000000_Chungcheongnamdo_Geumsan"
         },
@@ -327,6 +356,7 @@
             "apt_type":"아파트",
             "apt_year":28.0,
             "value_score":26.9690526316,
+            "region":"충청남도 금산군",
             "region_code":"Chungcheongnamdo",
             "sub_region_code":"4471000000_Chungcheongnamdo_Geumsan"
         },
@@ -338,6 +368,7 @@
             "apt_type":"아파트",
             "apt_year":25.0,
             "value_score":26.8831578947,
+            "region":"충청남도 금산군",
             "region_code":"Chungcheongnamdo",
             "sub_region_code":"4471000000_Chungcheongnamdo_Geumsan"
         },
@@ -349,6 +380,7 @@
             "apt_type":"아파트",
             "apt_year":20.0,
             "value_score":26.6797894737,
+            "region":"충청남도 금산군",
             "region_code":"Chungcheongnamdo",
             "sub_region_code":"4471000000_Chungcheongnamdo_Geumsan"
         },
@@ -360,6 +392,7 @@
             "apt_type":"분양권",
             "apt_year":0.0,
             "value_score":25.6187368421,
+            "region":"충청남도 금산군",
             "region_code":"Chungcheongnamdo",
             "sub_region_code":"4471000000_Chungcheongnamdo_Geumsan"
         },
@@ -371,6 +404,7 @@
             "apt_type":"아파트",
             "apt_year":23.0,
             "value_score":20.8831578947,
+            "region":"충청남도 금산군",
             "region_code":"Chungcheongnamdo",
             "sub_region_code":"4471000000_Chungcheongnamdo_Geumsan"
         },
@@ -382,6 +416,7 @@
             "apt_type":"아파트",
             "apt_year":8.0,
             "value_score":44.062,
+            "region":"충청남도 금산군",
             "region_code":"Chungcheongnamdo",
             "sub_region_code":"4471000000_Chungcheongnamdo_Geumsan"
         },
@@ -393,6 +428,7 @@
             "apt_type":"분양권",
             "apt_year":1.0,
             "value_score":43.618,
+            "region":"충청남도 금산군",
             "region_code":"Chungcheongnamdo",
             "sub_region_code":"4471000000_Chungcheongnamdo_Geumsan"
         },
@@ -404,6 +440,7 @@
             "apt_type":"아파트",
             "apt_year":23.0,
             "value_score":41.2,
+            "region":"충청남도 금산군",
             "region_code":"Chungcheongnamdo",
             "sub_region_code":"4471000000_Chungcheongnamdo_Geumsan"
         },
@@ -415,6 +452,7 @@
             "apt_type":"분양권",
             "apt_year":0.0,
             "value_score":40.563,
+            "region":"충청남도 금산군",
             "region_code":"Chungcheongnamdo",
             "sub_region_code":"4471000000_Chungcheongnamdo_Geumsan"
         },
@@ -426,6 +464,7 @@
             "apt_type":"아파트",
             "apt_year":26.0,
             "value_score":38.075,
+            "region":"충청남도 금산군",
             "region_code":"Chungcheongnamdo",
             "sub_region_code":"4471000000_Chungcheongnamdo_Geumsan"
         },
@@ -437,6 +476,7 @@
             "apt_type":"아파트",
             "apt_year":29.0,
             "value_score":35.45,
+            "region":"충청남도 금산군",
             "region_code":"Chungcheongnamdo",
             "sub_region_code":"4471000000_Chungcheongnamdo_Geumsan"
         },
@@ -448,6 +488,7 @@
             "apt_type":"아파트",
             "apt_year":28.0,
             "value_score":34.301,
+            "region":"충청남도 금산군",
             "region_code":"Chungcheongnamdo",
             "sub_region_code":"4471000000_Chungcheongnamdo_Geumsan"
         },
@@ -459,6 +500,7 @@
             "apt_type":"아파트",
             "apt_year":25.0,
             "value_score":33.815,
+            "region":"충청남도 금산군",
             "region_code":"Chungcheongnamdo",
             "sub_region_code":"4471000000_Chungcheongnamdo_Geumsan"
         },
@@ -470,6 +512,7 @@
             "apt_type":"아파트",
             "apt_year":20.0,
             "value_score":31.743,
+            "region":"충청남도 금산군",
             "region_code":"Chungcheongnamdo",
             "sub_region_code":"4471000000_Chungcheongnamdo_Geumsan"
         },
@@ -481,6 +524,7 @@
             "apt_type":"아파트",
             "apt_year":23.0,
             "value_score":31.665,
+            "region":"충청남도 금산군",
             "region_code":"Chungcheongnamdo",
             "sub_region_code":"4471000000_Chungcheongnamdo_Geumsan"
         }

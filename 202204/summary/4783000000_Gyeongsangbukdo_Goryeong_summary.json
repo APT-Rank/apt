@@ -30,6 +30,10 @@
                 "type":"number"
             },
             {
+                "name":"region",
+                "type":"string"
+            },
+            {
                 "name":"region_code",
                 "type":"string"
             },
@@ -52,6 +56,7 @@
             "apt_type":"분양권",
             "apt_year":0.0,
             "value_score":49.506,
+            "region":"경상북도 고령군",
             "region_code":"Gyeongsangbukdo",
             "sub_region_code":"4783000000_Gyeongsangbukdo_Goryeong"
         },
@@ -63,6 +68,7 @@
             "apt_type":"아파트",
             "apt_year":27.0,
             "value_score":36.031,
+            "region":"경상북도 고령군",
             "region_code":"Gyeongsangbukdo",
             "sub_region_code":"4783000000_Gyeongsangbukdo_Goryeong"
         },
@@ -74,6 +80,7 @@
             "apt_type":"아파트",
             "apt_year":26.0,
             "value_score":36.031,
+            "region":"경상북도 고령군",
             "region_code":"Gyeongsangbukdo",
             "sub_region_code":"4783000000_Gyeongsangbukdo_Goryeong"
         },
@@ -85,6 +92,7 @@
             "apt_type":"아파트",
             "apt_year":16.0,
             "value_score":25.267,
+            "region":"경상북도 고령군",
             "region_code":"Gyeongsangbukdo",
             "sub_region_code":"4783000000_Gyeongsangbukdo_Goryeong"
         },
@@ -96,6 +104,7 @@
             "apt_type":"아파트",
             "apt_year":33.0,
             "value_score":21.992,
+            "region":"경상북도 고령군",
             "region_code":"Gyeongsangbukdo",
             "sub_region_code":"4783000000_Gyeongsangbukdo_Goryeong"
         },
@@ -107,6 +116,7 @@
             "apt_type":"아파트",
             "apt_year":22.0,
             "value_score":20.192,
+            "region":"경상북도 고령군",
             "region_code":"Gyeongsangbukdo",
             "sub_region_code":"4783000000_Gyeongsangbukdo_Goryeong"
         },
@@ -118,6 +128,7 @@
             "apt_type":"아파트",
             "apt_year":27.0,
             "value_score":18.842,
+            "region":"경상북도 고령군",
             "region_code":"Gyeongsangbukdo",
             "sub_region_code":"4783000000_Gyeongsangbukdo_Goryeong"
         },
@@ -129,6 +140,7 @@
             "apt_type":"분양권",
             "apt_year":0.0,
             "value_score":54.546,
+            "region":"경상북도 고령군",
             "region_code":"Gyeongsangbukdo",
             "sub_region_code":"4783000000_Gyeongsangbukdo_Goryeong"
         },
@@ -140,6 +152,7 @@
             "apt_type":"아파트",
             "apt_year":27.0,
             "value_score":35.296,
+            "region":"경상북도 고령군",
             "region_code":"Gyeongsangbukdo",
             "sub_region_code":"4783000000_Gyeongsangbukdo_Goryeong"
         },
@@ -151,6 +164,7 @@
             "apt_type":"아파트",
             "apt_year":26.0,
             "value_score":35.296,
+            "region":"경상북도 고령군",
             "region_code":"Gyeongsangbukdo",
             "sub_region_code":"4783000000_Gyeongsangbukdo_Goryeong"
         },
@@ -162,6 +176,7 @@
             "apt_type":"아파트",
             "apt_year":16.0,
             "value_score":30.742,
+            "region":"경상북도 고령군",
             "region_code":"Gyeongsangbukdo",
             "sub_region_code":"4783000000_Gyeongsangbukdo_Goryeong"
         },
@@ -173,6 +188,7 @@
             "apt_type":"아파트",
             "apt_year":33.0,
             "value_score":23.492,
+            "region":"경상북도 고령군",
             "region_code":"Gyeongsangbukdo",
             "sub_region_code":"4783000000_Gyeongsangbukdo_Goryeong"
         },
@@ -184,6 +200,7 @@
             "apt_type":"아파트",
             "apt_year":22.0,
             "value_score":23.492,
+            "region":"경상북도 고령군",
             "region_code":"Gyeongsangbukdo",
             "sub_region_code":"4783000000_Gyeongsangbukdo_Goryeong"
         },
@@ -195,6 +212,7 @@
             "apt_type":"아파트",
             "apt_year":27.0,
             "value_score":18.992,
+            "region":"경상북도 고령군",
             "region_code":"Gyeongsangbukdo",
             "sub_region_code":"4783000000_Gyeongsangbukdo_Goryeong"
         },
@@ -206,6 +224,7 @@
             "apt_type":"분양권",
             "apt_year":0.0,
             "value_score":44.7212631579,
+            "region":"경상북도 고령군",
             "region_code":"Gyeongsangbukdo",
             "sub_region_code":"4783000000_Gyeongsangbukdo_Goryeong"
         },
@@ -217,6 +236,7 @@
             "apt_type":"아파트",
             "apt_year":27.0,
             "value_score":38.6423157895,
+            "region":"경상북도 고령군",
             "region_code":"Gyeongsangbukdo",
             "sub_region_code":"4783000000_Gyeongsangbukdo_Goryeong"
         },
@@ -228,6 +248,7 @@
             "apt_type":"아파트",
             "apt_year":26.0,
             "value_score":38.6423157895,
+            "region":"경상북도 고령군",
             "region_code":"Gyeongsangbukdo",
             "sub_region_code":"4783000000_Gyeongsangbukdo_Goryeong"
         },
@@ -239,6 +260,7 @@
             "apt_type":"아파트",
             "apt_year":33.0,
             "value_score":22.832,
+            "region":"경상북도 고령군",
             "region_code":"Gyeongsangbukdo",
             "sub_region_code":"4783000000_Gyeongsangbukdo_Goryeong"
         },
@@ -250,6 +272,7 @@
             "apt_type":"아파트",
             "apt_year":16.0,
             "value_score":21.5425263158,
+            "region":"경상북도 고령군",
             "region_code":"Gyeongsangbukdo",
             "sub_region_code":"4783000000_Gyeongsangbukdo_Goryeong"
         },
@@ -261,6 +284,7 @@
             "apt_type":"아파트",
             "apt_year":27.0,
             "value_score":21.4109473684,
+            "region":"경상북도 고령군",
             "region_code":"Gyeongsangbukdo",
             "sub_region_code":"4783000000_Gyeongsangbukdo_Goryeong"
         },
@@ -272,6 +296,7 @@
             "apt_type":"아파트",
             "apt_year":22.0,
             "value_score":19.2530526316,
+            "region":"경상북도 고령군",
             "region_code":"Gyeongsangbukdo",
             "sub_region_code":"4783000000_Gyeongsangbukdo_Goryeong"
         },
@@ -283,6 +308,7 @@
             "apt_type":"분양권",
             "apt_year":0.0,
             "value_score":52.492,
+            "region":"경상북도 고령군",
             "region_code":"Gyeongsangbukdo",
             "sub_region_code":"4783000000_Gyeongsangbukdo_Goryeong"
         },
@@ -294,6 +320,7 @@
             "apt_type":"아파트",
             "apt_year":27.0,
             "value_score":42.867,
+            "region":"경상북도 고령군",
             "region_code":"Gyeongsangbukdo",
             "sub_region_code":"4783000000_Gyeongsangbukdo_Goryeong"
         },
@@ -305,6 +332,7 @@
             "apt_type":"아파트",
             "apt_year":26.0,
             "value_score":42.867,
+            "region":"경상북도 고령군",
             "region_code":"Gyeongsangbukdo",
             "sub_region_code":"4783000000_Gyeongsangbukdo_Goryeong"
         },
@@ -316,6 +344,7 @@
             "apt_type":"아파트",
             "apt_year":16.0,
             "value_score":34.109,
+            "region":"경상북도 고령군",
             "region_code":"Gyeongsangbukdo",
             "sub_region_code":"4783000000_Gyeongsangbukdo_Goryeong"
         },
@@ -327,6 +356,7 @@
             "apt_type":"아파트",
             "apt_year":33.0,
             "value_score":31.484,
+            "region":"경상북도 고령군",
             "region_code":"Gyeongsangbukdo",
             "sub_region_code":"4783000000_Gyeongsangbukdo_Goryeong"
         },
@@ -338,6 +368,7 @@
             "apt_type":"아파트",
             "apt_year":22.0,
             "value_score":30.484,
+            "region":"경상북도 고령군",
             "region_code":"Gyeongsangbukdo",
             "sub_region_code":"4783000000_Gyeongsangbukdo_Goryeong"
         },
@@ -349,6 +380,7 @@
             "apt_type":"아파트",
             "apt_year":27.0,
             "value_score":29.234,
+            "region":"경상북도 고령군",
             "region_code":"Gyeongsangbukdo",
             "sub_region_code":"4783000000_Gyeongsangbukdo_Goryeong"
         }

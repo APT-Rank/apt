@@ -30,6 +30,10 @@
                 "type":"number"
             },
             {
+                "name":"region",
+                "type":"string"
+            },
+            {
                 "name":"region_code",
                 "type":"string"
             },
@@ -52,6 +56,7 @@
             "apt_type":"분양권",
             "apt_year":0.0,
             "value_score":25.2826,
+            "region":"경기도 연천군",
             "region_code":"Gyeonggi",
             "sub_region_code":"4180000000_Gyeonggi_Yeoncheon"
         },
@@ -63,6 +68,7 @@
             "apt_type":"아파트",
             "apt_year":17.0,
             "value_score":21.0965,
+            "region":"경기도 연천군",
             "region_code":"Gyeonggi",
             "sub_region_code":"4180000000_Gyeonggi_Yeoncheon"
         },
@@ -74,6 +80,7 @@
             "apt_type":"아파트",
             "apt_year":17.0,
             "value_score":20.7965,
+            "region":"경기도 연천군",
             "region_code":"Gyeonggi",
             "sub_region_code":"4180000000_Gyeonggi_Yeoncheon"
         },
@@ -85,6 +92,7 @@
             "apt_type":"아파트",
             "apt_year":9.0,
             "value_score":20.0826,
+            "region":"경기도 연천군",
             "region_code":"Gyeonggi",
             "sub_region_code":"4180000000_Gyeonggi_Yeoncheon"
         },
@@ -96,6 +104,7 @@
             "apt_type":"아파트",
             "apt_year":3.0,
             "value_score":19.1765,
+            "region":"경기도 연천군",
             "region_code":"Gyeonggi",
             "sub_region_code":"4180000000_Gyeonggi_Yeoncheon"
         },
@@ -107,6 +116,7 @@
             "apt_type":"아파트",
             "apt_year":21.0,
             "value_score":18.2765,
+            "region":"경기도 연천군",
             "region_code":"Gyeonggi",
             "sub_region_code":"4180000000_Gyeonggi_Yeoncheon"
         },
@@ -118,6 +128,7 @@
             "apt_type":"아파트",
             "apt_year":28.0,
             "value_score":15.9765,
+            "region":"경기도 연천군",
             "region_code":"Gyeonggi",
             "sub_region_code":"4180000000_Gyeonggi_Yeoncheon"
         },
@@ -129,6 +140,7 @@
             "apt_type":"아파트",
             "apt_year":31.0,
             "value_score":15.9765,
+            "region":"경기도 연천군",
             "region_code":"Gyeonggi",
             "sub_region_code":"4180000000_Gyeonggi_Yeoncheon"
         },
@@ -140,6 +152,7 @@
             "apt_type":"아파트",
             "apt_year":27.0,
             "value_score":14.9826,
+            "region":"경기도 연천군",
             "region_code":"Gyeonggi",
             "sub_region_code":"4180000000_Gyeonggi_Yeoncheon"
         },
@@ -151,6 +164,7 @@
             "apt_type":"아파트",
             "apt_year":9.0,
             "value_score":14.3765,
+            "region":"경기도 연천군",
             "region_code":"Gyeonggi",
             "sub_region_code":"4180000000_Gyeonggi_Yeoncheon"
         },
@@ -162,6 +176,7 @@
             "apt_type":"분양권",
             "apt_year":0.0,
             "value_score":45.9968,
+            "region":"경기도 연천군",
             "region_code":"Gyeonggi",
             "sub_region_code":"4180000000_Gyeonggi_Yeoncheon"
         },
@@ -173,6 +188,7 @@
             "apt_type":"아파트",
             "apt_year":3.0,
             "value_score":39.102,
+            "region":"경기도 연천군",
             "region_code":"Gyeonggi",
             "sub_region_code":"4180000000_Gyeonggi_Yeoncheon"
         },
@@ -184,6 +200,7 @@
             "apt_type":"아파트",
             "apt_year":17.0,
             "value_score":35.982,
+            "region":"경기도 연천군",
             "region_code":"Gyeonggi",
             "sub_region_code":"4180000000_Gyeonggi_Yeoncheon"
         },
@@ -195,6 +212,7 @@
             "apt_type":"아파트",
             "apt_year":9.0,
             "value_score":32.9968,
+            "region":"경기도 연천군",
             "region_code":"Gyeonggi",
             "sub_region_code":"4180000000_Gyeonggi_Yeoncheon"
         },
@@ -206,6 +224,7 @@
             "apt_type":"아파트",
             "apt_year":17.0,
             "value_score":31.932,
+            "region":"경기도 연천군",
             "region_code":"Gyeonggi",
             "sub_region_code":"4180000000_Gyeonggi_Yeoncheon"
         },
@@ -217,6 +236,7 @@
             "apt_type":"아파트",
             "apt_year":9.0,
             "value_score":27.102,
+            "region":"경기도 연천군",
             "region_code":"Gyeonggi",
             "sub_region_code":"4180000000_Gyeonggi_Yeoncheon"
         },
@@ -228,6 +248,7 @@
             "apt_type":"아파트",
             "apt_year":21.0,
             "value_score":25.302,
+            "region":"경기도 연천군",
             "region_code":"Gyeonggi",
             "sub_region_code":"4180000000_Gyeonggi_Yeoncheon"
         },
@@ -239,6 +260,7 @@
             "apt_type":"아파트",
             "apt_year":20.0,
             "value_score":23.3524,
+            "region":"경기도 연천군",
             "region_code":"Gyeonggi",
             "sub_region_code":"4180000000_Gyeonggi_Yeoncheon"
         },
@@ -250,6 +272,7 @@
             "apt_type":"아파트",
             "apt_year":17.0,
             "value_score":22.5908,
+            "region":"경기도 연천군",
             "region_code":"Gyeonggi",
             "sub_region_code":"4180000000_Gyeonggi_Yeoncheon"
         },
@@ -261,6 +284,7 @@
             "apt_type":"아파트",
             "apt_year":28.0,
             "value_score":22.302,
+            "region":"경기도 연천군",
             "region_code":"Gyeonggi",
             "sub_region_code":"4180000000_Gyeonggi_Yeoncheon"
         },
@@ -272,6 +296,7 @@
             "apt_type":"분양권",
             "apt_year":0.0,
             "value_score":20.5926,
+            "region":"경기도 연천군",
             "region_code":"Gyeonggi",
             "sub_region_code":"4180000000_Gyeonggi_Yeoncheon"
         },
@@ -283,6 +308,7 @@
             "apt_type":"아파트",
             "apt_year":17.0,
             "value_score":17.3565,
+            "region":"경기도 연천군",
             "region_code":"Gyeonggi",
             "sub_region_code":"4180000000_Gyeonggi_Yeoncheon"
         },
@@ -294,6 +320,7 @@
             "apt_type":"아파트",
             "apt_year":17.0,
             "value_score":16.9815,
+            "region":"경기도 연천군",
             "region_code":"Gyeonggi",
             "sub_region_code":"4180000000_Gyeonggi_Yeoncheon"
         },
@@ -305,6 +332,7 @@
             "apt_type":"아파트",
             "apt_year":9.0,
             "value_score":16.6926,
+            "region":"경기도 연천군",
             "region_code":"Gyeonggi",
             "sub_region_code":"4180000000_Gyeonggi_Yeoncheon"
         },
@@ -316,6 +344,7 @@
             "apt_type":"아파트",
             "apt_year":3.0,
             "value_score":16.2765,
+            "region":"경기도 연천군",
             "region_code":"Gyeonggi",
             "sub_region_code":"4180000000_Gyeonggi_Yeoncheon"
         },
@@ -327,6 +356,7 @@
             "apt_type":"아파트",
             "apt_year":21.0,
             "value_score":15.0765,
+            "region":"경기도 연천군",
             "region_code":"Gyeonggi",
             "sub_region_code":"4180000000_Gyeonggi_Yeoncheon"
         },
@@ -338,6 +368,7 @@
             "apt_type":"아파트",
             "apt_year":28.0,
             "value_score":13.4765,
+            "region":"경기도 연천군",
             "region_code":"Gyeonggi",
             "sub_region_code":"4180000000_Gyeonggi_Yeoncheon"
         },
@@ -349,6 +380,7 @@
             "apt_type":"아파트",
             "apt_year":31.0,
             "value_score":13.4765,
+            "region":"경기도 연천군",
             "region_code":"Gyeonggi",
             "sub_region_code":"4180000000_Gyeonggi_Yeoncheon"
         },
@@ -360,6 +392,7 @@
             "apt_type":"아파트",
             "apt_year":27.0,
             "value_score":12.7926,
+            "region":"경기도 연천군",
             "region_code":"Gyeonggi",
             "sub_region_code":"4180000000_Gyeonggi_Yeoncheon"
         },
@@ -371,6 +404,7 @@
             "apt_type":"아파트",
             "apt_year":9.0,
             "value_score":12.6765,
+            "region":"경기도 연천군",
             "region_code":"Gyeonggi",
             "sub_region_code":"4180000000_Gyeonggi_Yeoncheon"
         },
@@ -382,6 +416,7 @@
             "apt_type":"분양권",
             "apt_year":0.0,
             "value_score":26.971,
+            "region":"경기도 연천군",
             "region_code":"Gyeonggi",
             "sub_region_code":"4180000000_Gyeonggi_Yeoncheon"
         },
@@ -393,6 +428,7 @@
             "apt_type":"아파트",
             "apt_year":17.0,
             "value_score":26.3775,
+            "region":"경기도 연천군",
             "region_code":"Gyeonggi",
             "sub_region_code":"4180000000_Gyeonggi_Yeoncheon"
         },
@@ -404,6 +440,7 @@
             "apt_type":"아파트",
             "apt_year":21.0,
             "value_score":25.3275,
+            "region":"경기도 연천군",
             "region_code":"Gyeonggi",
             "sub_region_code":"4180000000_Gyeonggi_Yeoncheon"
         },
@@ -415,6 +452,7 @@
             "apt_type":"아파트",
             "apt_year":17.0,
             "value_score":24.4275,
+            "region":"경기도 연천군",
             "region_code":"Gyeonggi",
             "sub_region_code":"4180000000_Gyeonggi_Yeoncheon"
         },
@@ -426,6 +464,7 @@
             "apt_type":"아파트",
             "apt_year":9.0,
             "value_score":24.371,
+            "region":"경기도 연천군",
             "region_code":"Gyeonggi",
             "sub_region_code":"4180000000_Gyeonggi_Yeoncheon"
         },
@@ -437,6 +476,7 @@
             "apt_type":"아파트",
             "apt_year":27.0,
             "value_score":22.871,
+            "region":"경기도 연천군",
             "region_code":"Gyeonggi",
             "sub_region_code":"4180000000_Gyeonggi_Yeoncheon"
         },
@@ -448,6 +488,7 @@
             "apt_type":"아파트",
             "apt_year":28.0,
             "value_score":22.4275,
+            "region":"경기도 연천군",
             "region_code":"Gyeonggi",
             "sub_region_code":"4180000000_Gyeonggi_Yeoncheon"
         },
@@ -459,6 +500,7 @@
             "apt_type":"아파트",
             "apt_year":31.0,
             "value_score":22.4275,
+            "region":"경기도 연천군",
             "region_code":"Gyeonggi",
             "sub_region_code":"4180000000_Gyeonggi_Yeoncheon"
         },
@@ -470,6 +512,7 @@
             "apt_type":"아파트",
             "apt_year":3.0,
             "value_score":18.4275,
+            "region":"경기도 연천군",
             "region_code":"Gyeonggi",
             "sub_region_code":"4180000000_Gyeonggi_Yeoncheon"
         },
@@ -481,6 +524,7 @@
             "apt_type":"아파트",
             "apt_year":9.0,
             "value_score":16.0275,
+            "region":"경기도 연천군",
             "region_code":"Gyeonggi",
             "sub_region_code":"4180000000_Gyeonggi_Yeoncheon"
         },
@@ -492,6 +536,7 @@
             "apt_type":"분양권",
             "apt_year":0.0,
             "value_score":42.422,
+            "region":"경기도 연천군",
             "region_code":"Gyeonggi",
             "sub_region_code":"4180000000_Gyeonggi_Yeoncheon"
         },
@@ -503,6 +548,7 @@
             "apt_type":"아파트",
             "apt_year":17.0,
             "value_score":37.335,
+            "region":"경기도 연천군",
             "region_code":"Gyeonggi",
             "sub_region_code":"4180000000_Gyeonggi_Yeoncheon"
         },
@@ -514,6 +560,7 @@
             "apt_type":"아파트",
             "apt_year":9.0,
             "value_score":37.222,
+            "region":"경기도 연천군",
             "region_code":"Gyeonggi",
             "sub_region_code":"4180000000_Gyeonggi_Yeoncheon"
         },
@@ -525,6 +572,7 @@
             "apt_type":"아파트",
             "apt_year":3.0,
             "value_score":36.855,
+            "region":"경기도 연천군",
             "region_code":"Gyeonggi",
             "sub_region_code":"4180000000_Gyeonggi_Yeoncheon"
         },
@@ -536,6 +584,7 @@
             "apt_type":"아파트",
             "apt_year":17.0,
             "value_score":36.435,
+            "region":"경기도 연천군",
             "region_code":"Gyeonggi",
             "sub_region_code":"4180000000_Gyeonggi_Yeoncheon"
         },
@@ -547,6 +596,7 @@
             "apt_type":"아파트",
             "apt_year":21.0,
             "value_score":33.855,
+            "region":"경기도 연천군",
             "region_code":"Gyeonggi",
             "sub_region_code":"4180000000_Gyeonggi_Yeoncheon"
         },
@@ -558,6 +608,7 @@
             "apt_type":"아파트",
             "apt_year":28.0,
             "value_score":32.055,
+            "region":"경기도 연천군",
             "region_code":"Gyeonggi",
             "sub_region_code":"4180000000_Gyeonggi_Yeoncheon"
         },
@@ -569,6 +620,7 @@
             "apt_type":"아파트",
             "apt_year":31.0,
             "value_score":32.055,
+            "region":"경기도 연천군",
             "region_code":"Gyeonggi",
             "sub_region_code":"4180000000_Gyeonggi_Yeoncheon"
         },
@@ -580,6 +632,7 @@
             "apt_type":"아파트",
             "apt_year":9.0,
             "value_score":32.055,
+            "region":"경기도 연천군",
             "region_code":"Gyeonggi",
             "sub_region_code":"4180000000_Gyeonggi_Yeoncheon"
         },
@@ -591,6 +644,7 @@
             "apt_type":"아파트",
             "apt_year":27.0,
             "value_score":31.822,
+            "region":"경기도 연천군",
             "region_code":"Gyeonggi",
             "sub_region_code":"4180000000_Gyeonggi_Yeoncheon"
         }

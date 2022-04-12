@@ -30,6 +30,10 @@
                 "type":"number"
             },
             {
+                "name":"region",
+                "type":"string"
+            },
+            {
                 "name":"region_code",
                 "type":"string"
             },
@@ -52,6 +56,7 @@
             "apt_type":"아파트",
             "apt_year":8.0,
             "value_score":47.734,
+            "region":"제주도 서귀포시",
             "region_code":"Jejudo",
             "sub_region_code":"5013000000_Jejudo_Seogwipo"
         },
@@ -63,6 +68,7 @@
             "apt_type":"아파트",
             "apt_year":10.0,
             "value_score":44.519,
+            "region":"제주도 서귀포시",
             "region_code":"Jejudo",
             "sub_region_code":"5013000000_Jejudo_Seogwipo"
         },
@@ -74,6 +80,7 @@
             "apt_type":"아파트",
             "apt_year":3.0,
             "value_score":44.454,
+            "region":"제주도 서귀포시",
             "region_code":"Jejudo",
             "sub_region_code":"5013000000_Jejudo_Seogwipo"
         },
@@ -85,6 +92,7 @@
             "apt_type":"분양권",
             "apt_year":0.0,
             "value_score":44.3155,
+            "region":"제주도 서귀포시",
             "region_code":"Jejudo",
             "sub_region_code":"5013000000_Jejudo_Seogwipo"
         },
@@ -96,6 +104,7 @@
             "apt_type":"아파트",
             "apt_year":2.0,
             "value_score":43.441,
+            "region":"제주도 서귀포시",
             "region_code":"Jejudo",
             "sub_region_code":"5013000000_Jejudo_Seogwipo"
         },
@@ -107,6 +116,7 @@
             "apt_type":"아파트",
             "apt_year":24.0,
             "value_score":43.368,
+            "region":"제주도 서귀포시",
             "region_code":"Jejudo",
             "sub_region_code":"5013000000_Jejudo_Seogwipo"
         },
@@ -118,6 +128,7 @@
             "apt_type":"아파트",
             "apt_year":7.0,
             "value_score":41.5215,
+            "region":"제주도 서귀포시",
             "region_code":"Jejudo",
             "sub_region_code":"5013000000_Jejudo_Seogwipo"
         },
@@ -129,6 +140,7 @@
             "apt_type":"아파트",
             "apt_year":7.0,
             "value_score":41.334,
+            "region":"제주도 서귀포시",
             "region_code":"Jejudo",
             "sub_region_code":"5013000000_Jejudo_Seogwipo"
         },
@@ -140,6 +152,7 @@
             "apt_type":"아파트",
             "apt_year":6.0,
             "value_score":41.334,
+            "region":"제주도 서귀포시",
             "region_code":"Jejudo",
             "sub_region_code":"5013000000_Jejudo_Seogwipo"
         },
@@ -151,6 +164,7 @@
             "apt_type":"아파트",
             "apt_year":8.0,
             "value_score":39.688,
+            "region":"제주도 서귀포시",
             "region_code":"Jejudo",
             "sub_region_code":"5013000000_Jejudo_Seogwipo"
         },
@@ -162,6 +176,7 @@
             "apt_type":"아파트",
             "apt_year":8.0,
             "value_score":52.234,
+            "region":"제주도 서귀포시",
             "region_code":"Jejudo",
             "sub_region_code":"5013000000_Jejudo_Seogwipo"
         },
@@ -173,6 +188,7 @@
             "apt_type":"아파트",
             "apt_year":8.0,
             "value_score":50.413,
+            "region":"제주도 서귀포시",
             "region_code":"Jejudo",
             "sub_region_code":"5013000000_Jejudo_Seogwipo"
         },
@@ -184,6 +200,7 @@
             "apt_type":"아파트",
             "apt_year":3.0,
             "value_score":48.504,
+            "region":"제주도 서귀포시",
             "region_code":"Jejudo",
             "sub_region_code":"5013000000_Jejudo_Seogwipo"
         },
@@ -195,6 +212,7 @@
             "apt_type":"아파트",
             "apt_year":7.0,
             "value_score":48.234,
+            "region":"제주도 서귀포시",
             "region_code":"Jejudo",
             "sub_region_code":"5013000000_Jejudo_Seogwipo"
         },
@@ -206,6 +224,7 @@
             "apt_type":"아파트",
             "apt_year":6.0,
             "value_score":48.234,
+            "region":"제주도 서귀포시",
             "region_code":"Jejudo",
             "sub_region_code":"5013000000_Jejudo_Seogwipo"
         },
@@ -217,6 +236,7 @@
             "apt_type":"아파트",
             "apt_year":10.0,
             "value_score":47.834,
+            "region":"제주도 서귀포시",
             "region_code":"Jejudo",
             "sub_region_code":"5013000000_Jejudo_Seogwipo"
         },
@@ -228,6 +248,7 @@
             "apt_type":"분양권",
             "apt_year":0.0,
             "value_score":47.1655,
+            "region":"제주도 서귀포시",
             "region_code":"Jejudo",
             "sub_region_code":"5013000000_Jejudo_Seogwipo"
         },
@@ -239,6 +260,7 @@
             "apt_type":"아파트",
             "apt_year":24.0,
             "value_score":46.308,
+            "region":"제주도 서귀포시",
             "region_code":"Jejudo",
             "sub_region_code":"5013000000_Jejudo_Seogwipo"
         },
@@ -250,6 +272,7 @@
             "apt_type":"아파트",
             "apt_year":2.0,
             "value_score":45.916,
+            "region":"제주도 서귀포시",
             "region_code":"Jejudo",
             "sub_region_code":"5013000000_Jejudo_Seogwipo"
         },
@@ -261,6 +284,7 @@
             "apt_type":"아파트",
             "apt_year":9.0,
             "value_score":45.162,
+            "region":"제주도 서귀포시",
             "region_code":"Jejudo",
             "sub_region_code":"5013000000_Jejudo_Seogwipo"
         },
@@ -272,6 +296,7 @@
             "apt_type":"아파트",
             "apt_year":7.0,
             "value_score":43.6482105263,
+            "region":"제주도 서귀포시",
             "region_code":"Jejudo",
             "sub_region_code":"5013000000_Jejudo_Seogwipo"
         },
@@ -283,6 +308,7 @@
             "apt_type":"아파트",
             "apt_year":8.0,
             "value_score":43.6113684211,
+            "region":"제주도 서귀포시",
             "region_code":"Jejudo",
             "sub_region_code":"5013000000_Jejudo_Seogwipo"
         },
@@ -294,6 +320,7 @@
             "apt_type":"분양권",
             "apt_year":0.0,
             "value_score":42.4195789474,
+            "region":"제주도 서귀포시",
             "region_code":"Jejudo",
             "sub_region_code":"5013000000_Jejudo_Seogwipo"
         },
@@ -305,6 +332,7 @@
             "apt_type":"아파트",
             "apt_year":2.0,
             "value_score":42.0254736842,
+            "region":"제주도 서귀포시",
             "region_code":"Jejudo",
             "sub_region_code":"5013000000_Jejudo_Seogwipo"
         },
@@ -316,6 +344,7 @@
             "apt_type":"아파트",
             "apt_year":10.0,
             "value_score":41.9534736842,
+            "region":"제주도 서귀포시",
             "region_code":"Jejudo",
             "sub_region_code":"5013000000_Jejudo_Seogwipo"
         },
@@ -327,6 +356,7 @@
             "apt_type":"아파트",
             "apt_year":24.0,
             "value_score":41.2101052632,
+            "region":"제주도 서귀포시",
             "region_code":"Jejudo",
             "sub_region_code":"5013000000_Jejudo_Seogwipo"
         },
@@ -338,6 +368,7 @@
             "apt_type":"아파트",
             "apt_year":3.0,
             "value_score":41.1103157895,
+            "region":"제주도 서귀포시",
             "region_code":"Jejudo",
             "sub_region_code":"5013000000_Jejudo_Seogwipo"
         },
@@ -349,6 +380,7 @@
             "apt_type":"아파트",
             "apt_year":5.0,
             "value_score":39.8938947368,
+            "region":"제주도 서귀포시",
             "region_code":"Jejudo",
             "sub_region_code":"5013000000_Jejudo_Seogwipo"
         },
@@ -360,6 +392,7 @@
             "apt_type":"아파트",
             "apt_year":10.0,
             "value_score":39.6570526316,
+            "region":"제주도 서귀포시",
             "region_code":"Jejudo",
             "sub_region_code":"5013000000_Jejudo_Seogwipo"
         },
@@ -371,6 +404,7 @@
             "apt_type":"아파트",
             "apt_year":7.0,
             "value_score":39.1044210526,
+            "region":"제주도 서귀포시",
             "region_code":"Jejudo",
             "sub_region_code":"5013000000_Jejudo_Seogwipo"
         },
@@ -382,6 +416,7 @@
             "apt_type":"아파트",
             "apt_year":8.0,
             "value_score":50.968,
+            "region":"제주도 서귀포시",
             "region_code":"Jejudo",
             "sub_region_code":"5013000000_Jejudo_Seogwipo"
         },
@@ -393,6 +428,7 @@
             "apt_type":"분양권",
             "apt_year":0.0,
             "value_score":49.081,
+            "region":"제주도 서귀포시",
             "region_code":"Jejudo",
             "sub_region_code":"5013000000_Jejudo_Seogwipo"
         },
@@ -404,6 +440,7 @@
             "apt_type":"아파트",
             "apt_year":3.0,
             "value_score":48.758,
+            "region":"제주도 서귀포시",
             "region_code":"Jejudo",
             "sub_region_code":"5013000000_Jejudo_Seogwipo"
         },
@@ -415,6 +452,7 @@
             "apt_type":"아파트",
             "apt_year":10.0,
             "value_score":48.693,
+            "region":"제주도 서귀포시",
             "region_code":"Jejudo",
             "sub_region_code":"5013000000_Jejudo_Seogwipo"
         },
@@ -426,6 +464,7 @@
             "apt_type":"아파트",
             "apt_year":2.0,
             "value_score":48.457,
+            "region":"제주도 서귀포시",
             "region_code":"Jejudo",
             "sub_region_code":"5013000000_Jejudo_Seogwipo"
         },
@@ -437,6 +476,7 @@
             "apt_type":"아파트",
             "apt_year":24.0,
             "value_score":47.516,
+            "region":"제주도 서귀포시",
             "region_code":"Jejudo",
             "sub_region_code":"5013000000_Jejudo_Seogwipo"
         },
@@ -448,6 +488,7 @@
             "apt_type":"아파트",
             "apt_year":8.0,
             "value_score":47.201,
+            "region":"제주도 서귀포시",
             "region_code":"Jejudo",
             "sub_region_code":"5013000000_Jejudo_Seogwipo"
         },
@@ -459,6 +500,7 @@
             "apt_type":"아파트",
             "apt_year":7.0,
             "value_score":46.968,
+            "region":"제주도 서귀포시",
             "region_code":"Jejudo",
             "sub_region_code":"5013000000_Jejudo_Seogwipo"
         },
@@ -470,6 +512,7 @@
             "apt_type":"아파트",
             "apt_year":6.0,
             "value_score":46.968,
+            "region":"제주도 서귀포시",
             "region_code":"Jejudo",
             "sub_region_code":"5013000000_Jejudo_Seogwipo"
         },
@@ -481,6 +524,7 @@
             "apt_type":"아파트",
             "apt_year":7.0,
             "value_score":45.582,
+            "region":"제주도 서귀포시",
             "region_code":"Jejudo",
             "sub_region_code":"5013000000_Jejudo_Seogwipo"
         }

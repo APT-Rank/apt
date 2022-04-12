@@ -30,6 +30,10 @@
                 "type":"number"
             },
             {
+                "name":"region",
+                "type":"string"
+            },
+            {
                 "name":"region_code",
                 "type":"string"
             },
@@ -52,6 +56,7 @@
             "apt_type":"아파트",
             "apt_year":15.0,
             "value_score":62.878,
+            "region":"광주시 남구",
             "region_code":"Gwangju",
             "sub_region_code":"2915500000_Gwangju_Nam"
         },
@@ -63,6 +68,7 @@
             "apt_type":"아파트",
             "apt_year":14.0,
             "value_score":61.6578,
+            "region":"광주시 남구",
             "region_code":"Gwangju",
             "sub_region_code":"2915500000_Gwangju_Nam"
         },
@@ -74,6 +80,7 @@
             "apt_type":"분양권",
             "apt_year":0.0,
             "value_score":61.6328,
+            "region":"광주시 남구",
             "region_code":"Gwangju",
             "sub_region_code":"2915500000_Gwangju_Nam"
         },
@@ -85,6 +92,7 @@
             "apt_type":"아파트",
             "apt_year":2.0,
             "value_score":61.5056,
+            "region":"광주시 남구",
             "region_code":"Gwangju",
             "sub_region_code":"2915500000_Gwangju_Nam"
         },
@@ -96,6 +104,7 @@
             "apt_type":"아파트",
             "apt_year":2.0,
             "value_score":59.3012,
+            "region":"광주시 남구",
             "region_code":"Gwangju",
             "sub_region_code":"2915500000_Gwangju_Nam"
         },
@@ -107,6 +116,7 @@
             "apt_type":"재건축",
             "apt_year":42.0,
             "value_score":58.8816,
+            "region":"광주시 남구",
             "region_code":"Gwangju",
             "sub_region_code":"2915500000_Gwangju_Nam"
         },
@@ -118,6 +128,7 @@
             "apt_type":"아파트",
             "apt_year":2.0,
             "value_score":58.8572,
+            "region":"광주시 남구",
             "region_code":"Gwangju",
             "sub_region_code":"2915500000_Gwangju_Nam"
         },
@@ -129,6 +140,7 @@
             "apt_type":"아파트",
             "apt_year":12.0,
             "value_score":57.102,
+            "region":"광주시 남구",
             "region_code":"Gwangju",
             "sub_region_code":"2915500000_Gwangju_Nam"
         },
@@ -140,6 +152,7 @@
             "apt_type":"아파트",
             "apt_year":8.0,
             "value_score":56.7516,
+            "region":"광주시 남구",
             "region_code":"Gwangju",
             "sub_region_code":"2915500000_Gwangju_Nam"
         },
@@ -151,6 +164,7 @@
             "apt_type":"아파트",
             "apt_year":7.0,
             "value_score":56.2762,
+            "region":"광주시 남구",
             "region_code":"Gwangju",
             "sub_region_code":"2915500000_Gwangju_Nam"
         },
@@ -162,6 +176,7 @@
             "apt_type":"아파트",
             "apt_year":2.0,
             "value_score":66.1704,
+            "region":"광주시 남구",
             "region_code":"Gwangju",
             "sub_region_code":"2915500000_Gwangju_Nam"
         },
@@ -173,6 +188,7 @@
             "apt_type":"분양권",
             "apt_year":0.0,
             "value_score":64.2552,
+            "region":"광주시 남구",
             "region_code":"Gwangju",
             "sub_region_code":"2915500000_Gwangju_Nam"
         },
@@ -184,6 +200,7 @@
             "apt_type":"아파트",
             "apt_year":15.0,
             "value_score":64.252,
+            "region":"광주시 남구",
             "region_code":"Gwangju",
             "sub_region_code":"2915500000_Gwangju_Nam"
         },
@@ -195,6 +212,7 @@
             "apt_type":"아파트",
             "apt_year":14.0,
             "value_score":63.1052,
+            "region":"광주시 남구",
             "region_code":"Gwangju",
             "sub_region_code":"2915500000_Gwangju_Nam"
         },
@@ -206,6 +224,7 @@
             "apt_type":"아파트",
             "apt_year":2.0,
             "value_score":62.7008,
+            "region":"광주시 남구",
             "region_code":"Gwangju",
             "sub_region_code":"2915500000_Gwangju_Nam"
         },
@@ -217,6 +236,7 @@
             "apt_type":"아파트",
             "apt_year":2.0,
             "value_score":60.9048,
+            "region":"광주시 남구",
             "region_code":"Gwangju",
             "sub_region_code":"2915500000_Gwangju_Nam"
         },
@@ -228,6 +248,7 @@
             "apt_type":"아파트",
             "apt_year":4.0,
             "value_score":60.624,
+            "region":"광주시 남구",
             "region_code":"Gwangju",
             "sub_region_code":"2915500000_Gwangju_Nam"
         },
@@ -239,6 +260,7 @@
             "apt_type":"아파트",
             "apt_year":12.0,
             "value_score":60.568,
+            "region":"광주시 남구",
             "region_code":"Gwangju",
             "sub_region_code":"2915500000_Gwangju_Nam"
         },
@@ -250,6 +272,7 @@
             "apt_type":"아파트",
             "apt_year":4.0,
             "value_score":59.074,
+            "region":"광주시 남구",
             "region_code":"Gwangju",
             "sub_region_code":"2915500000_Gwangju_Nam"
         },
@@ -261,6 +284,7 @@
             "apt_type":"아파트",
             "apt_year":7.0,
             "value_score":57.8508,
+            "region":"광주시 남구",
             "region_code":"Gwangju",
             "sub_region_code":"2915500000_Gwangju_Nam"
         },
@@ -272,6 +296,7 @@
             "apt_type":"아파트",
             "apt_year":2.0,
             "value_score":66.1403,
+            "region":"광주시 남구",
             "region_code":"Gwangju",
             "sub_region_code":"2915500000_Gwangju_Nam"
         },
@@ -283,6 +308,7 @@
             "apt_type":"아파트",
             "apt_year":14.0,
             "value_score":63.5789,
+            "region":"광주시 남구",
             "region_code":"Gwangju",
             "sub_region_code":"2915500000_Gwangju_Nam"
         },
@@ -294,6 +320,7 @@
             "apt_type":"분양권",
             "apt_year":0.0,
             "value_score":63.5039,
+            "region":"광주시 남구",
             "region_code":"Gwangju",
             "sub_region_code":"2915500000_Gwangju_Nam"
         },
@@ -305,6 +332,7 @@
             "apt_type":"아파트",
             "apt_year":9.0,
             "value_score":62.0147,
+            "region":"광주시 남구",
             "region_code":"Gwangju",
             "sub_region_code":"2915500000_Gwangju_Nam"
         },
@@ -316,6 +344,7 @@
             "apt_type":"아파트",
             "apt_year":15.0,
             "value_score":58.439,
+            "region":"광주시 남구",
             "region_code":"Gwangju",
             "sub_region_code":"2915500000_Gwangju_Nam"
         },
@@ -327,6 +356,7 @@
             "apt_type":"아파트",
             "apt_year":33.0,
             "value_score":58.3397,
+            "region":"광주시 남구",
             "region_code":"Gwangju",
             "sub_region_code":"2915500000_Gwangju_Nam"
         },
@@ -338,6 +368,7 @@
             "apt_type":"아파트",
             "apt_year":37.0,
             "value_score":57.5147,
+            "region":"광주시 남구",
             "region_code":"Gwangju",
             "sub_region_code":"2915500000_Gwangju_Nam"
         },
@@ -349,6 +380,7 @@
             "apt_type":"아파트",
             "apt_year":37.0,
             "value_score":56.1647,
+            "region":"광주시 남구",
             "region_code":"Gwangju",
             "sub_region_code":"2915500000_Gwangju_Nam"
         },
@@ -360,6 +392,7 @@
             "apt_type":"분양권",
             "apt_year":-1.0,
             "value_score":52.7135,
+            "region":"광주시 남구",
             "region_code":"Gwangju",
             "sub_region_code":"2915500000_Gwangju_Nam"
         },
@@ -371,6 +404,7 @@
             "apt_type":"아파트",
             "apt_year":8.0,
             "value_score":52.2383,
+            "region":"광주시 남구",
             "region_code":"Gwangju",
             "sub_region_code":"2915500000_Gwangju_Nam"
         },
@@ -382,6 +416,7 @@
             "apt_type":"아파트",
             "apt_year":15.0,
             "value_score":64.665,
+            "region":"광주시 남구",
             "region_code":"Gwangju",
             "sub_region_code":"2915500000_Gwangju_Nam"
         },
@@ -393,6 +428,7 @@
             "apt_type":"재건축",
             "apt_year":42.0,
             "value_score":63.7055,
+            "region":"광주시 남구",
             "region_code":"Gwangju",
             "sub_region_code":"2915500000_Gwangju_Nam"
         },
@@ -404,6 +440,7 @@
             "apt_type":"아파트",
             "apt_year":2.0,
             "value_score":62.5385,
+            "region":"광주시 남구",
             "region_code":"Gwangju",
             "sub_region_code":"2915500000_Gwangju_Nam"
         },
@@ -415,6 +452,7 @@
             "apt_type":"아파트",
             "apt_year":8.0,
             "value_score":61.9555,
+            "region":"광주시 남구",
             "region_code":"Gwangju",
             "sub_region_code":"2915500000_Gwangju_Nam"
         },
@@ -426,6 +464,7 @@
             "apt_type":"아파트",
             "apt_year":2.0,
             "value_score":61.256,
+            "region":"광주시 남구",
             "region_code":"Gwangju",
             "sub_region_code":"2915500000_Gwangju_Nam"
         },
@@ -437,6 +476,7 @@
             "apt_type":"아파트",
             "apt_year":14.0,
             "value_score":61.1315,
+            "region":"광주시 남구",
             "region_code":"Gwangju",
             "sub_region_code":"2915500000_Gwangju_Nam"
         },
@@ -448,6 +488,7 @@
             "apt_type":"아파트",
             "apt_year":7.0,
             "value_score":60.7885,
+            "region":"광주시 남구",
             "region_code":"Gwangju",
             "sub_region_code":"2915500000_Gwangju_Nam"
         },
@@ -459,6 +500,7 @@
             "apt_type":"아파트",
             "apt_year":9.0,
             "value_score":60.1555,
+            "region":"광주시 남구",
             "region_code":"Gwangju",
             "sub_region_code":"2915500000_Gwangju_Nam"
         },
@@ -470,6 +512,7 @@
             "apt_type":"아파트",
             "apt_year":5.0,
             "value_score":60.1555,
+            "region":"광주시 남구",
             "region_code":"Gwangju",
             "sub_region_code":"2915500000_Gwangju_Nam"
         },
@@ -481,6 +524,7 @@
             "apt_type":"분양권",
             "apt_year":0.0,
             "value_score":59.9815,
+            "region":"광주시 남구",
             "region_code":"Gwangju",
             "sub_region_code":"2915500000_Gwangju_Nam"
         },
@@ -492,6 +536,7 @@
             "apt_type":"아파트",
             "apt_year":15.0,
             "value_score":60.73,
+            "region":"광주시 남구",
             "region_code":"Gwangju",
             "sub_region_code":"2915500000_Gwangju_Nam"
         },
@@ -503,6 +548,7 @@
             "apt_type":"분양권",
             "apt_year":0.0,
             "value_score":60.363,
+            "region":"광주시 남구",
             "region_code":"Gwangju",
             "sub_region_code":"2915500000_Gwangju_Nam"
         },
@@ -514,6 +560,7 @@
             "apt_type":"아파트",
             "apt_year":14.0,
             "value_score":60.263,
+            "region":"광주시 남구",
             "region_code":"Gwangju",
             "sub_region_code":"2915500000_Gwangju_Nam"
         },
@@ -525,6 +572,7 @@
             "apt_type":"아파트",
             "apt_year":2.0,
             "value_score":58.512,
+            "region":"광주시 남구",
             "region_code":"Gwangju",
             "sub_region_code":"2915500000_Gwangju_Nam"
         },
@@ -536,6 +584,7 @@
             "apt_type":"재건축",
             "apt_year":42.0,
             "value_score":58.211,
+            "region":"광주시 남구",
             "region_code":"Gwangju",
             "sub_region_code":"2915500000_Gwangju_Nam"
         },
@@ -547,6 +596,7 @@
             "apt_type":"아파트",
             "apt_year":2.0,
             "value_score":57.951,
+            "region":"광주시 남구",
             "region_code":"Gwangju",
             "sub_region_code":"2915500000_Gwangju_Nam"
         },
@@ -558,6 +608,7 @@
             "apt_type":"아파트",
             "apt_year":8.0,
             "value_score":56.511,
+            "region":"광주시 남구",
             "region_code":"Gwangju",
             "sub_region_code":"2915500000_Gwangju_Nam"
         },
@@ -569,6 +620,7 @@
             "apt_type":"아파트",
             "apt_year":9.0,
             "value_score":56.311,
+            "region":"광주시 남구",
             "region_code":"Gwangju",
             "sub_region_code":"2915500000_Gwangju_Nam"
         },
@@ -580,6 +632,7 @@
             "apt_type":"아파트",
             "apt_year":5.0,
             "value_score":56.311,
+            "region":"광주시 남구",
             "region_code":"Gwangju",
             "sub_region_code":"2915500000_Gwangju_Nam"
         },
@@ -591,6 +644,7 @@
             "apt_type":"분양권",
             "apt_year":-1.0,
             "value_score":55.911,
+            "region":"광주시 남구",
             "region_code":"Gwangju",
             "sub_region_code":"2915500000_Gwangju_Nam"
         }

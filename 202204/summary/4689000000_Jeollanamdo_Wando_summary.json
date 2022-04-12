@@ -30,6 +30,10 @@
                 "type":"number"
             },
             {
+                "name":"region",
+                "type":"string"
+            },
+            {
                 "name":"region_code",
                 "type":"string"
             },
@@ -52,6 +56,7 @@
             "apt_type":"분양권",
             "apt_year":0.0,
             "value_score":37.5255,
+            "region":"전라남도 완도군",
             "region_code":"Jeollanamdo",
             "sub_region_code":"4689000000_Jeollanamdo_Wando"
         },
@@ -63,6 +68,7 @@
             "apt_type":"아파트",
             "apt_year":7.0,
             "value_score":32.1005,
+            "region":"전라남도 완도군",
             "region_code":"Jeollanamdo",
             "sub_region_code":"4689000000_Jeollanamdo_Wando"
         },
@@ -74,6 +80,7 @@
             "apt_type":"아파트",
             "apt_year":7.0,
             "value_score":32.1005,
+            "region":"전라남도 완도군",
             "region_code":"Jeollanamdo",
             "sub_region_code":"4689000000_Jeollanamdo_Wando"
         },
@@ -85,6 +92,7 @@
             "apt_type":"아파트",
             "apt_year":29.0,
             "value_score":25.3355,
+            "region":"전라남도 완도군",
             "region_code":"Jeollanamdo",
             "sub_region_code":"4689000000_Jeollanamdo_Wando"
         },
@@ -96,6 +104,7 @@
             "apt_type":"아파트",
             "apt_year":20.0,
             "value_score":24.5755,
+            "region":"전라남도 완도군",
             "region_code":"Jeollanamdo",
             "sub_region_code":"4689000000_Jeollanamdo_Wando"
         },
@@ -107,6 +116,7 @@
             "apt_type":"아파트",
             "apt_year":27.0,
             "value_score":24.5005,
+            "region":"전라남도 완도군",
             "region_code":"Jeollanamdo",
             "sub_region_code":"4689000000_Jeollanamdo_Wando"
         },
@@ -118,6 +128,7 @@
             "apt_type":"아파트",
             "apt_year":30.0,
             "value_score":24.1355,
+            "region":"전라남도 완도군",
             "region_code":"Jeollanamdo",
             "sub_region_code":"4689000000_Jeollanamdo_Wando"
         },
@@ -129,6 +140,7 @@
             "apt_type":"분양권",
             "apt_year":0.0,
             "value_score":44.5755,
+            "region":"전라남도 완도군",
             "region_code":"Jeollanamdo",
             "sub_region_code":"4689000000_Jeollanamdo_Wando"
         },
@@ -140,6 +152,7 @@
             "apt_type":"아파트",
             "apt_year":7.0,
             "value_score":36.8255,
+            "region":"전라남도 완도군",
             "region_code":"Jeollanamdo",
             "sub_region_code":"4689000000_Jeollanamdo_Wando"
         },
@@ -151,6 +164,7 @@
             "apt_type":"아파트",
             "apt_year":7.0,
             "value_score":36.8255,
+            "region":"전라남도 완도군",
             "region_code":"Jeollanamdo",
             "sub_region_code":"4689000000_Jeollanamdo_Wando"
         },
@@ -162,6 +176,7 @@
             "apt_type":"아파트",
             "apt_year":27.0,
             "value_score":29.8255,
+            "region":"전라남도 완도군",
             "region_code":"Jeollanamdo",
             "sub_region_code":"4689000000_Jeollanamdo_Wando"
         },
@@ -173,6 +188,7 @@
             "apt_type":"아파트",
             "apt_year":20.0,
             "value_score":26.0755,
+            "region":"전라남도 완도군",
             "region_code":"Jeollanamdo",
             "sub_region_code":"4689000000_Jeollanamdo_Wando"
         },
@@ -184,6 +200,7 @@
             "apt_type":"아파트",
             "apt_year":29.0,
             "value_score":25.4255,
+            "region":"전라남도 완도군",
             "region_code":"Jeollanamdo",
             "sub_region_code":"4689000000_Jeollanamdo_Wando"
         },
@@ -195,6 +212,7 @@
             "apt_type":"아파트",
             "apt_year":30.0,
             "value_score":24.6755,
+            "region":"전라남도 완도군",
             "region_code":"Jeollanamdo",
             "sub_region_code":"4689000000_Jeollanamdo_Wando"
         },
@@ -206,6 +224,7 @@
             "apt_type":"분양권",
             "apt_year":0.0,
             "value_score":30.8848421053,
+            "region":"전라남도 완도군",
             "region_code":"Jeollanamdo",
             "sub_region_code":"4689000000_Jeollanamdo_Wando"
         },
@@ -217,6 +236,7 @@
             "apt_type":"아파트",
             "apt_year":7.0,
             "value_score":28.4374736842,
+            "region":"전라남도 완도군",
             "region_code":"Jeollanamdo",
             "sub_region_code":"4689000000_Jeollanamdo_Wando"
         },
@@ -228,6 +248,7 @@
             "apt_type":"아파트",
             "apt_year":7.0,
             "value_score":28.4374736842,
+            "region":"전라남도 완도군",
             "region_code":"Jeollanamdo",
             "sub_region_code":"4689000000_Jeollanamdo_Wando"
         },
@@ -239,6 +260,7 @@
             "apt_type":"아파트",
             "apt_year":29.0,
             "value_score":27.2532631579,
+            "region":"전라남도 완도군",
             "region_code":"Jeollanamdo",
             "sub_region_code":"4689000000_Jeollanamdo_Wando"
         },
@@ -250,6 +272,7 @@
             "apt_type":"아파트",
             "apt_year":30.0,
             "value_score":25.6743157895,
+            "region":"전라남도 완도군",
             "region_code":"Jeollanamdo",
             "sub_region_code":"4689000000_Jeollanamdo_Wando"
         },
@@ -261,6 +284,7 @@
             "apt_type":"아파트",
             "apt_year":20.0,
             "value_score":25.0427368421,
+            "region":"전라남도 완도군",
             "region_code":"Jeollanamdo",
             "sub_region_code":"4689000000_Jeollanamdo_Wando"
         },
@@ -272,6 +296,7 @@
             "apt_type":"아파트",
             "apt_year":27.0,
             "value_score":20.8585263158,
+            "region":"전라남도 완도군",
             "region_code":"Jeollanamdo",
             "sub_region_code":"4689000000_Jeollanamdo_Wando"
         },
@@ -283,6 +308,7 @@
             "apt_type":"분양권",
             "apt_year":0.0,
             "value_score":41.901,
+            "region":"전라남도 완도군",
             "region_code":"Jeollanamdo",
             "sub_region_code":"4689000000_Jeollanamdo_Wando"
         },
@@ -294,6 +320,7 @@
             "apt_type":"아파트",
             "apt_year":7.0,
             "value_score":38.026,
+            "region":"전라남도 완도군",
             "region_code":"Jeollanamdo",
             "sub_region_code":"4689000000_Jeollanamdo_Wando"
         },
@@ -305,6 +332,7 @@
             "apt_type":"아파트",
             "apt_year":7.0,
             "value_score":38.026,
+            "region":"전라남도 완도군",
             "region_code":"Jeollanamdo",
             "sub_region_code":"4689000000_Jeollanamdo_Wando"
         },
@@ -316,6 +344,7 @@
             "apt_type":"아파트",
             "apt_year":27.0,
             "value_score":33.026,
+            "region":"전라남도 완도군",
             "region_code":"Jeollanamdo",
             "sub_region_code":"4689000000_Jeollanamdo_Wando"
         },
@@ -327,6 +356,7 @@
             "apt_type":"아파트",
             "apt_year":29.0,
             "value_score":33.001,
+            "region":"전라남도 완도군",
             "region_code":"Jeollanamdo",
             "sub_region_code":"4689000000_Jeollanamdo_Wando"
         },
@@ -338,6 +368,7 @@
             "apt_type":"아파트",
             "apt_year":20.0,
             "value_score":32.651,
+            "region":"전라남도 완도군",
             "region_code":"Jeollanamdo",
             "sub_region_code":"4689000000_Jeollanamdo_Wando"
         },
@@ -349,6 +380,7 @@
             "apt_type":"아파트",
             "apt_year":30.0,
             "value_score":32.251,
+            "region":"전라남도 완도군",
             "region_code":"Jeollanamdo",
             "sub_region_code":"4689000000_Jeollanamdo_Wando"
         }

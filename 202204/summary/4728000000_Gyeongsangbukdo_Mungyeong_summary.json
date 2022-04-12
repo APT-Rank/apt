@@ -30,6 +30,10 @@
                 "type":"number"
             },
             {
+                "name":"region",
+                "type":"string"
+            },
+            {
                 "name":"region_code",
                 "type":"string"
             },
@@ -52,6 +56,7 @@
             "apt_type":"분양권",
             "apt_year":1.0,
             "value_score":46.7355,
+            "region":"경상북도 문경시",
             "region_code":"Gyeongsangbukdo",
             "sub_region_code":"4728000000_Gyeongsangbukdo_Mungyeong"
         },
@@ -63,6 +68,7 @@
             "apt_type":"아파트",
             "apt_year":9.0,
             "value_score":46.578,
+            "region":"경상북도 문경시",
             "region_code":"Gyeongsangbukdo",
             "sub_region_code":"4728000000_Gyeongsangbukdo_Mungyeong"
         },
@@ -74,6 +80,7 @@
             "apt_type":"아파트",
             "apt_year":25.0,
             "value_score":46.571,
+            "region":"경상북도 문경시",
             "region_code":"Gyeongsangbukdo",
             "sub_region_code":"4728000000_Gyeongsangbukdo_Mungyeong"
         },
@@ -85,6 +92,7 @@
             "apt_type":"아파트",
             "apt_year":7.0,
             "value_score":42.8435,
+            "region":"경상북도 문경시",
             "region_code":"Gyeongsangbukdo",
             "sub_region_code":"4728000000_Gyeongsangbukdo_Mungyeong"
         },
@@ -96,6 +104,7 @@
             "apt_type":"아파트",
             "apt_year":6.0,
             "value_score":42.1605,
+            "region":"경상북도 문경시",
             "region_code":"Gyeongsangbukdo",
             "sub_region_code":"4728000000_Gyeongsangbukdo_Mungyeong"
         },
@@ -107,6 +116,7 @@
             "apt_type":"아파트",
             "apt_year":6.0,
             "value_score":40.406,
+            "region":"경상북도 문경시",
             "region_code":"Gyeongsangbukdo",
             "sub_region_code":"4728000000_Gyeongsangbukdo_Mungyeong"
         },
@@ -118,6 +128,7 @@
             "apt_type":"아파트",
             "apt_year":26.0,
             "value_score":40.161,
+            "region":"경상북도 문경시",
             "region_code":"Gyeongsangbukdo",
             "sub_region_code":"4728000000_Gyeongsangbukdo_Mungyeong"
         },
@@ -129,6 +140,7 @@
             "apt_type":"아파트",
             "apt_year":28.0,
             "value_score":40.161,
+            "region":"경상북도 문경시",
             "region_code":"Gyeongsangbukdo",
             "sub_region_code":"4728000000_Gyeongsangbukdo_Mungyeong"
         },
@@ -140,6 +152,7 @@
             "apt_type":"아파트",
             "apt_year":7.0,
             "value_score":39.211,
+            "region":"경상북도 문경시",
             "region_code":"Gyeongsangbukdo",
             "sub_region_code":"4728000000_Gyeongsangbukdo_Mungyeong"
         },
@@ -151,6 +164,7 @@
             "apt_type":"아파트",
             "apt_year":4.0,
             "value_score":38.1245,
+            "region":"경상북도 문경시",
             "region_code":"Gyeongsangbukdo",
             "sub_region_code":"4728000000_Gyeongsangbukdo_Mungyeong"
         },
@@ -162,6 +176,7 @@
             "apt_type":"아파트",
             "apt_year":9.0,
             "value_score":51.078,
+            "region":"경상북도 문경시",
             "region_code":"Gyeongsangbukdo",
             "sub_region_code":"4728000000_Gyeongsangbukdo_Mungyeong"
         },
@@ -173,6 +188,7 @@
             "apt_type":"아파트",
             "apt_year":25.0,
             "value_score":49.736,
+            "region":"경상북도 문경시",
             "region_code":"Gyeongsangbukdo",
             "sub_region_code":"4728000000_Gyeongsangbukdo_Mungyeong"
         },
@@ -184,6 +200,7 @@
             "apt_type":"분양권",
             "apt_year":1.0,
             "value_score":49.1355,
+            "region":"경상북도 문경시",
             "region_code":"Gyeongsangbukdo",
             "sub_region_code":"4728000000_Gyeongsangbukdo_Mungyeong"
         },
@@ -195,6 +212,7 @@
             "apt_type":"아파트",
             "apt_year":6.0,
             "value_score":43.8855,
+            "region":"경상북도 문경시",
             "region_code":"Gyeongsangbukdo",
             "sub_region_code":"4728000000_Gyeongsangbukdo_Mungyeong"
         },
@@ -206,6 +224,7 @@
             "apt_type":"아파트",
             "apt_year":4.0,
             "value_score":42.4895,
+            "region":"경상북도 문경시",
             "region_code":"Gyeongsangbukdo",
             "sub_region_code":"4728000000_Gyeongsangbukdo_Mungyeong"
         },
@@ -217,6 +236,7 @@
             "apt_type":"아파트",
             "apt_year":6.0,
             "value_score":42.281,
+            "region":"경상북도 문경시",
             "region_code":"Gyeongsangbukdo",
             "sub_region_code":"4728000000_Gyeongsangbukdo_Mungyeong"
         },
@@ -228,6 +248,7 @@
             "apt_type":"아파트",
             "apt_year":15.0,
             "value_score":41.7395,
+            "region":"경상북도 문경시",
             "region_code":"Gyeongsangbukdo",
             "sub_region_code":"4728000000_Gyeongsangbukdo_Mungyeong"
         },
@@ -239,6 +260,7 @@
             "apt_type":"아파트",
             "apt_year":7.0,
             "value_score":41.1335,
+            "region":"경상북도 문경시",
             "region_code":"Gyeongsangbukdo",
             "sub_region_code":"4728000000_Gyeongsangbukdo_Mungyeong"
         },
@@ -250,6 +272,7 @@
             "apt_type":"아파트",
             "apt_year":7.0,
             "value_score":40.636,
+            "region":"경상북도 문경시",
             "region_code":"Gyeongsangbukdo",
             "sub_region_code":"4728000000_Gyeongsangbukdo_Mungyeong"
         },
@@ -261,6 +284,7 @@
             "apt_type":"아파트",
             "apt_year":26.0,
             "value_score":40.386,
+            "region":"경상북도 문경시",
             "region_code":"Gyeongsangbukdo",
             "sub_region_code":"4728000000_Gyeongsangbukdo_Mungyeong"
         },
@@ -272,6 +296,7 @@
             "apt_type":"아파트",
             "apt_year":7.0,
             "value_score":45.4107368421,
+            "region":"경상북도 문경시",
             "region_code":"Gyeongsangbukdo",
             "sub_region_code":"4728000000_Gyeongsangbukdo_Mungyeong"
         },
@@ -283,6 +308,7 @@
             "apt_type":"분양권",
             "apt_year":1.0,
             "value_score":45.0132631579,
+            "region":"경상북도 문경시",
             "region_code":"Gyeongsangbukdo",
             "sub_region_code":"4728000000_Gyeongsangbukdo_Mungyeong"
         },
@@ -294,6 +320,7 @@
             "apt_type":"아파트",
             "apt_year":25.0,
             "value_score":44.0402105263,
+            "region":"경상북도 문경시",
             "region_code":"Gyeongsangbukdo",
             "sub_region_code":"4728000000_Gyeongsangbukdo_Mungyeong"
         },
@@ -305,6 +332,7 @@
             "apt_type":"아파트",
             "apt_year":9.0,
             "value_score":42.1511578947,
+            "region":"경상북도 문경시",
             "region_code":"Gyeongsangbukdo",
             "sub_region_code":"4728000000_Gyeongsangbukdo_Mungyeong"
         },
@@ -316,6 +344,7 @@
             "apt_type":"아파트",
             "apt_year":6.0,
             "value_score":41.5658947368,
+            "region":"경상북도 문경시",
             "region_code":"Gyeongsangbukdo",
             "sub_region_code":"4728000000_Gyeongsangbukdo_Mungyeong"
         },
@@ -327,6 +356,7 @@
             "apt_type":"아파트",
             "apt_year":28.0,
             "value_score":41.356,
+            "region":"경상북도 문경시",
             "region_code":"Gyeongsangbukdo",
             "sub_region_code":"4728000000_Gyeongsangbukdo_Mungyeong"
         },
@@ -338,6 +368,7 @@
             "apt_type":"아파트",
             "apt_year":26.0,
             "value_score":41.356,
+            "region":"경상북도 문경시",
             "region_code":"Gyeongsangbukdo",
             "sub_region_code":"4728000000_Gyeongsangbukdo_Mungyeong"
         },
@@ -349,6 +380,7 @@
             "apt_type":"아파트",
             "apt_year":19.0,
             "value_score":39.856,
+            "region":"경상북도 문경시",
             "region_code":"Gyeongsangbukdo",
             "sub_region_code":"4728000000_Gyeongsangbukdo_Mungyeong"
         },
@@ -360,6 +392,7 @@
             "apt_type":"아파트",
             "apt_year":6.0,
             "value_score":39.3286315789,
+            "region":"경상북도 문경시",
             "region_code":"Gyeongsangbukdo",
             "sub_region_code":"4728000000_Gyeongsangbukdo_Mungyeong"
         },
@@ -371,6 +404,7 @@
             "apt_type":"아파트",
             "apt_year":7.0,
             "value_score":39.1981052632,
+            "region":"경상북도 문경시",
             "region_code":"Gyeongsangbukdo",
             "sub_region_code":"4728000000_Gyeongsangbukdo_Mungyeong"
         },
@@ -382,6 +416,7 @@
             "apt_type":"분양권",
             "apt_year":1.0,
             "value_score":50.271,
+            "region":"경상북도 문경시",
             "region_code":"Gyeongsangbukdo",
             "sub_region_code":"4728000000_Gyeongsangbukdo_Mungyeong"
         },
@@ -393,6 +428,7 @@
             "apt_type":"아파트",
             "apt_year":25.0,
             "value_score":50.247,
+            "region":"경상북도 문경시",
             "region_code":"Gyeongsangbukdo",
             "sub_region_code":"4728000000_Gyeongsangbukdo_Mungyeong"
         },
@@ -404,6 +440,7 @@
             "apt_type":"아파트",
             "apt_year":9.0,
             "value_score":48.656,
+            "region":"경상북도 문경시",
             "region_code":"Gyeongsangbukdo",
             "sub_region_code":"4728000000_Gyeongsangbukdo_Mungyeong"
         },
@@ -415,6 +452,7 @@
             "apt_type":"아파트",
             "apt_year":6.0,
             "value_score":47.146,
+            "region":"경상북도 문경시",
             "region_code":"Gyeongsangbukdo",
             "sub_region_code":"4728000000_Gyeongsangbukdo_Mungyeong"
         },
@@ -426,6 +464,7 @@
             "apt_type":"아파트",
             "apt_year":26.0,
             "value_score":45.647,
+            "region":"경상북도 문경시",
             "region_code":"Gyeongsangbukdo",
             "sub_region_code":"4728000000_Gyeongsangbukdo_Mungyeong"
         },
@@ -437,6 +476,7 @@
             "apt_type":"아파트",
             "apt_year":28.0,
             "value_score":45.647,
+            "region":"경상북도 문경시",
             "region_code":"Gyeongsangbukdo",
             "sub_region_code":"4728000000_Gyeongsangbukdo_Mungyeong"
         },
@@ -448,6 +488,7 @@
             "apt_type":"아파트",
             "apt_year":7.0,
             "value_score":45.417,
+            "region":"경상북도 문경시",
             "region_code":"Gyeongsangbukdo",
             "sub_region_code":"4728000000_Gyeongsangbukdo_Mungyeong"
         },
@@ -459,6 +500,7 @@
             "apt_type":"아파트",
             "apt_year":7.0,
             "value_score":45.147,
+            "region":"경상북도 문경시",
             "region_code":"Gyeongsangbukdo",
             "sub_region_code":"4728000000_Gyeongsangbukdo_Mungyeong"
         },
@@ -470,6 +512,7 @@
             "apt_type":"아파트",
             "apt_year":4.0,
             "value_score":44.754,
+            "region":"경상북도 문경시",
             "region_code":"Gyeongsangbukdo",
             "sub_region_code":"4728000000_Gyeongsangbukdo_Mungyeong"
         },
@@ -481,6 +524,7 @@
             "apt_type":"아파트",
             "apt_year":15.0,
             "value_score":44.379,
+            "region":"경상북도 문경시",
             "region_code":"Gyeongsangbukdo",
             "sub_region_code":"4728000000_Gyeongsangbukdo_Mungyeong"
         }

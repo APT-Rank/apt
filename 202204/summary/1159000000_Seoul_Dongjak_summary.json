@@ -30,6 +30,10 @@
                 "type":"number"
             },
             {
+                "name":"region",
+                "type":"string"
+            },
+            {
                 "name":"region_code",
                 "type":"string"
             },
@@ -52,6 +56,7 @@
             "apt_type":"아파트",
             "apt_year":2.0,
             "value_score":78.2624,
+            "region":"서울시 동작구",
             "region_code":"Seoul",
             "sub_region_code":"1159000000_Seoul_Dongjak"
         },
@@ -63,6 +68,7 @@
             "apt_type":"아파트",
             "apt_year":17.0,
             "value_score":74.6407,
+            "region":"서울시 동작구",
             "region_code":"Seoul",
             "sub_region_code":"1159000000_Seoul_Dongjak"
         },
@@ -74,6 +80,7 @@
             "apt_type":"아파트",
             "apt_year":29.0,
             "value_score":73.083,
+            "region":"서울시 동작구",
             "region_code":"Seoul",
             "sub_region_code":"1159000000_Seoul_Dongjak"
         },
@@ -85,6 +92,7 @@
             "apt_type":"아파트",
             "apt_year":9.0,
             "value_score":72.2624,
+            "region":"서울시 동작구",
             "region_code":"Seoul",
             "sub_region_code":"1159000000_Seoul_Dongjak"
         },
@@ -96,6 +104,7 @@
             "apt_type":"아파트",
             "apt_year":5.0,
             "value_score":70.9655,
+            "region":"서울시 동작구",
             "region_code":"Seoul",
             "sub_region_code":"1159000000_Seoul_Dongjak"
         },
@@ -107,6 +116,7 @@
             "apt_type":"아파트",
             "apt_year":30.0,
             "value_score":70.833,
+            "region":"서울시 동작구",
             "region_code":"Seoul",
             "sub_region_code":"1159000000_Seoul_Dongjak"
         },
@@ -118,6 +128,7 @@
             "apt_type":"아파트",
             "apt_year":17.0,
             "value_score":70.763,
+            "region":"서울시 동작구",
             "region_code":"Seoul",
             "sub_region_code":"1159000000_Seoul_Dongjak"
         },
@@ -129,6 +140,7 @@
             "apt_type":"아파트",
             "apt_year":20.0,
             "value_score":70.463,
+            "region":"서울시 동작구",
             "region_code":"Seoul",
             "sub_region_code":"1159000000_Seoul_Dongjak"
         },
@@ -140,6 +152,7 @@
             "apt_type":"아파트",
             "apt_year":13.0,
             "value_score":70.3624,
+            "region":"서울시 동작구",
             "region_code":"Seoul",
             "sub_region_code":"1159000000_Seoul_Dongjak"
         },
@@ -151,6 +164,7 @@
             "apt_type":"분양권",
             "apt_year":1.0,
             "value_score":69.9407,
+            "region":"서울시 동작구",
             "region_code":"Seoul",
             "sub_region_code":"1159000000_Seoul_Dongjak"
         },
@@ -162,6 +176,7 @@
             "apt_type":"아파트",
             "apt_year":2.0,
             "value_score":73.9332,
+            "region":"서울시 동작구",
             "region_code":"Seoul",
             "sub_region_code":"1159000000_Seoul_Dongjak"
         },
@@ -173,6 +188,7 @@
             "apt_type":"아파트",
             "apt_year":2.0,
             "value_score":69.6548,
+            "region":"서울시 동작구",
             "region_code":"Seoul",
             "sub_region_code":"1159000000_Seoul_Dongjak"
         },
@@ -184,6 +200,7 @@
             "apt_type":"아파트",
             "apt_year":5.0,
             "value_score":68.754,
+            "region":"서울시 동작구",
             "region_code":"Seoul",
             "sub_region_code":"1159000000_Seoul_Dongjak"
         },
@@ -195,6 +212,7 @@
             "apt_type":"아파트",
             "apt_year":19.0,
             "value_score":68.7288,
+            "region":"서울시 동작구",
             "region_code":"Seoul",
             "sub_region_code":"1159000000_Seoul_Dongjak"
         },
@@ -206,6 +224,7 @@
             "apt_type":"아파트",
             "apt_year":11.0,
             "value_score":68.586,
+            "region":"서울시 동작구",
             "region_code":"Seoul",
             "sub_region_code":"1159000000_Seoul_Dongjak"
         },
@@ -217,6 +236,7 @@
             "apt_type":"아파트",
             "apt_year":4.0,
             "value_score":68.0904,
+            "region":"서울시 동작구",
             "region_code":"Seoul",
             "sub_region_code":"1159000000_Seoul_Dongjak"
         },
@@ -228,6 +248,7 @@
             "apt_type":"아파트",
             "apt_year":10.0,
             "value_score":66.856,
+            "region":"서울시 동작구",
             "region_code":"Seoul",
             "sub_region_code":"1159000000_Seoul_Dongjak"
         },
@@ -239,6 +260,7 @@
             "apt_type":"아파트",
             "apt_year":17.0,
             "value_score":66.5376,
+            "region":"서울시 동작구",
             "region_code":"Seoul",
             "sub_region_code":"1159000000_Seoul_Dongjak"
         },
@@ -250,6 +272,7 @@
             "apt_type":"아파트",
             "apt_year":16.0,
             "value_score":65.7048,
+            "region":"서울시 동작구",
             "region_code":"Seoul",
             "sub_region_code":"1159000000_Seoul_Dongjak"
         },
@@ -261,6 +284,7 @@
             "apt_type":"아파트",
             "apt_year":30.0,
             "value_score":65.664,
+            "region":"서울시 동작구",
             "region_code":"Seoul",
             "sub_region_code":"1159000000_Seoul_Dongjak"
         },
@@ -272,6 +296,7 @@
             "apt_type":"아파트",
             "apt_year":2.0,
             "value_score":78.6374,
+            "region":"서울시 동작구",
             "region_code":"Seoul",
             "sub_region_code":"1159000000_Seoul_Dongjak"
         },
@@ -283,6 +308,7 @@
             "apt_type":"아파트",
             "apt_year":29.0,
             "value_score":76.618,
+            "region":"서울시 동작구",
             "region_code":"Seoul",
             "sub_region_code":"1159000000_Seoul_Dongjak"
         },
@@ -294,6 +320,7 @@
             "apt_type":"아파트",
             "apt_year":24.0,
             "value_score":75.5693,
+            "region":"서울시 동작구",
             "region_code":"Seoul",
             "sub_region_code":"1159000000_Seoul_Dongjak"
         },
@@ -305,6 +332,7 @@
             "apt_type":"아파트",
             "apt_year":17.0,
             "value_score":75.5657,
+            "region":"서울시 동작구",
             "region_code":"Seoul",
             "sub_region_code":"1159000000_Seoul_Dongjak"
         },
@@ -316,6 +344,7 @@
             "apt_type":"아파트",
             "apt_year":9.0,
             "value_score":75.5624,
+            "region":"서울시 동작구",
             "region_code":"Seoul",
             "sub_region_code":"1159000000_Seoul_Dongjak"
         },
@@ -327,6 +356,7 @@
             "apt_type":"아파트",
             "apt_year":5.0,
             "value_score":75.3655,
+            "region":"서울시 동작구",
             "region_code":"Seoul",
             "sub_region_code":"1159000000_Seoul_Dongjak"
         },
@@ -338,6 +368,7 @@
             "apt_type":"아파트",
             "apt_year":20.0,
             "value_score":75.013,
+            "region":"서울시 동작구",
             "region_code":"Seoul",
             "sub_region_code":"1159000000_Seoul_Dongjak"
         },
@@ -349,6 +380,7 @@
             "apt_type":"아파트",
             "apt_year":17.0,
             "value_score":74.988,
+            "region":"서울시 동작구",
             "region_code":"Seoul",
             "sub_region_code":"1159000000_Seoul_Dongjak"
         },
@@ -360,6 +392,7 @@
             "apt_type":"아파트",
             "apt_year":12.0,
             "value_score":74.7198,
+            "region":"서울시 동작구",
             "region_code":"Seoul",
             "sub_region_code":"1159000000_Seoul_Dongjak"
         },
@@ -371,6 +404,7 @@
             "apt_type":"아파트",
             "apt_year":28.0,
             "value_score":74.243,
+            "region":"서울시 동작구",
             "region_code":"Seoul",
             "sub_region_code":"1159000000_Seoul_Dongjak"
         },
@@ -382,6 +416,7 @@
             "apt_type":"아파트",
             "apt_year":2.0,
             "value_score":76.654,
+            "region":"서울시 동작구",
             "region_code":"Seoul",
             "sub_region_code":"1159000000_Seoul_Dongjak"
         },
@@ -393,6 +428,7 @@
             "apt_type":"아파트",
             "apt_year":9.0,
             "value_score":73.504,
+            "region":"서울시 동작구",
             "region_code":"Seoul",
             "sub_region_code":"1159000000_Seoul_Dongjak"
         },
@@ -404,6 +440,7 @@
             "apt_type":"아파트",
             "apt_year":29.0,
             "value_score":73.355,
+            "region":"서울시 동작구",
             "region_code":"Seoul",
             "sub_region_code":"1159000000_Seoul_Dongjak"
         },
@@ -415,6 +452,7 @@
             "apt_type":"아파트",
             "apt_year":17.0,
             "value_score":73.1845,
+            "region":"서울시 동작구",
             "region_code":"Seoul",
             "sub_region_code":"1159000000_Seoul_Dongjak"
         },
@@ -426,6 +464,7 @@
             "apt_type":"아파트",
             "apt_year":30.0,
             "value_score":71.555,
+            "region":"서울시 동작구",
             "region_code":"Seoul",
             "sub_region_code":"1159000000_Seoul_Dongjak"
         },
@@ -437,6 +476,7 @@
             "apt_type":"아파트",
             "apt_year":6.0,
             "value_score":70.88,
+            "region":"서울시 동작구",
             "region_code":"Seoul",
             "sub_region_code":"1159000000_Seoul_Dongjak"
         },
@@ -448,6 +488,7 @@
             "apt_type":"아파트",
             "apt_year":13.0,
             "value_score":70.754,
+            "region":"서울시 동작구",
             "region_code":"Seoul",
             "sub_region_code":"1159000000_Seoul_Dongjak"
         },
@@ -459,6 +500,7 @@
             "apt_type":"아파트",
             "apt_year":20.0,
             "value_score":70.7345,
+            "region":"서울시 동작구",
             "region_code":"Seoul",
             "sub_region_code":"1159000000_Seoul_Dongjak"
         },
@@ -470,6 +512,7 @@
             "apt_type":"아파트",
             "apt_year":17.0,
             "value_score":70.655,
+            "region":"서울시 동작구",
             "region_code":"Seoul",
             "sub_region_code":"1159000000_Seoul_Dongjak"
         },
@@ -481,6 +524,7 @@
             "apt_type":"아파트",
             "apt_year":20.0,
             "value_score":70.48,
+            "region":"서울시 동작구",
             "region_code":"Seoul",
             "sub_region_code":"1159000000_Seoul_Dongjak"
         },
@@ -492,6 +536,7 @@
             "apt_type":"아파트",
             "apt_year":2.0,
             "value_score":68.508,
+            "region":"서울시 동작구",
             "region_code":"Seoul",
             "sub_region_code":"1159000000_Seoul_Dongjak"
         },
@@ -503,6 +548,7 @@
             "apt_type":"아파트",
             "apt_year":30.0,
             "value_score":66.99,
+            "region":"서울시 동작구",
             "region_code":"Seoul",
             "sub_region_code":"1159000000_Seoul_Dongjak"
         },
@@ -514,6 +560,7 @@
             "apt_type":"아파트",
             "apt_year":29.0,
             "value_score":65.19,
+            "region":"서울시 동작구",
             "region_code":"Seoul",
             "sub_region_code":"1159000000_Seoul_Dongjak"
         },
@@ -525,6 +572,7 @@
             "apt_type":"아파트",
             "apt_year":27.0,
             "value_score":64.47,
+            "region":"서울시 동작구",
             "region_code":"Seoul",
             "sub_region_code":"1159000000_Seoul_Dongjak"
         },
@@ -536,6 +584,7 @@
             "apt_type":"아파트",
             "apt_year":20.0,
             "value_score":64.01,
+            "region":"서울시 동작구",
             "region_code":"Seoul",
             "sub_region_code":"1159000000_Seoul_Dongjak"
         },
@@ -547,6 +596,7 @@
             "apt_type":"아파트",
             "apt_year":20.0,
             "value_score":63.771,
+            "region":"서울시 동작구",
             "region_code":"Seoul",
             "sub_region_code":"1159000000_Seoul_Dongjak"
         },
@@ -558,6 +608,7 @@
             "apt_type":"아파트",
             "apt_year":11.0,
             "value_score":63.72,
+            "region":"서울시 동작구",
             "region_code":"Seoul",
             "sub_region_code":"1159000000_Seoul_Dongjak"
         },
@@ -569,6 +620,7 @@
             "apt_type":"아파트",
             "apt_year":19.0,
             "value_score":63.372,
+            "region":"서울시 동작구",
             "region_code":"Seoul",
             "sub_region_code":"1159000000_Seoul_Dongjak"
         },
@@ -580,6 +632,7 @@
             "apt_type":"아파트",
             "apt_year":17.0,
             "value_score":63.31,
+            "region":"서울시 동작구",
             "region_code":"Seoul",
             "sub_region_code":"1159000000_Seoul_Dongjak"
         },
@@ -591,6 +644,7 @@
             "apt_type":"아파트",
             "apt_year":28.0,
             "value_score":62.89,
+            "region":"서울시 동작구",
             "region_code":"Seoul",
             "sub_region_code":"1159000000_Seoul_Dongjak"
         }

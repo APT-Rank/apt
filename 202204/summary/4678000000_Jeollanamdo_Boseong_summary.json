@@ -30,6 +30,10 @@
                 "type":"number"
             },
             {
+                "name":"region",
+                "type":"string"
+            },
+            {
                 "name":"region_code",
                 "type":"string"
             },
@@ -52,6 +56,7 @@
             "apt_type":"아파트",
             "apt_year":7.0,
             "value_score":34.277,
+            "region":"전라남도 보성군",
             "region_code":"Jeollanamdo",
             "sub_region_code":"4678000000_Jeollanamdo_Boseong"
         },
@@ -63,6 +68,7 @@
             "apt_type":"아파트",
             "apt_year":10.0,
             "value_score":31.2775,
+            "region":"전라남도 보성군",
             "region_code":"Jeollanamdo",
             "sub_region_code":"4678000000_Jeollanamdo_Boseong"
         },
@@ -74,6 +80,7 @@
             "apt_type":"아파트",
             "apt_year":31.0,
             "value_score":28.4675,
+            "region":"전라남도 보성군",
             "region_code":"Jeollanamdo",
             "sub_region_code":"4678000000_Jeollanamdo_Boseong"
         },
@@ -85,6 +92,7 @@
             "apt_type":"아파트",
             "apt_year":24.0,
             "value_score":27.727,
+            "region":"전라남도 보성군",
             "region_code":"Jeollanamdo",
             "sub_region_code":"4678000000_Jeollanamdo_Boseong"
         },
@@ -96,6 +104,7 @@
             "apt_type":"아파트",
             "apt_year":24.0,
             "value_score":26.7905,
+            "region":"전라남도 보성군",
             "region_code":"Jeollanamdo",
             "sub_region_code":"4678000000_Jeollanamdo_Boseong"
         },
@@ -107,6 +116,7 @@
             "apt_type":"아파트",
             "apt_year":20.0,
             "value_score":24.752,
+            "region":"전라남도 보성군",
             "region_code":"Jeollanamdo",
             "sub_region_code":"4678000000_Jeollanamdo_Boseong"
         },
@@ -118,6 +128,7 @@
             "apt_type":"아파트",
             "apt_year":30.0,
             "value_score":22.6805,
+            "region":"전라남도 보성군",
             "region_code":"Jeollanamdo",
             "sub_region_code":"4678000000_Jeollanamdo_Boseong"
         },
@@ -129,6 +140,7 @@
             "apt_type":"아파트",
             "apt_year":22.0,
             "value_score":21.9905,
+            "region":"전라남도 보성군",
             "region_code":"Jeollanamdo",
             "sub_region_code":"4678000000_Jeollanamdo_Boseong"
         },
@@ -140,6 +152,7 @@
             "apt_type":"아파트",
             "apt_year":7.0,
             "value_score":38.252,
+            "region":"전라남도 보성군",
             "region_code":"Jeollanamdo",
             "sub_region_code":"4678000000_Jeollanamdo_Boseong"
         },
@@ -151,6 +164,7 @@
             "apt_type":"아파트",
             "apt_year":10.0,
             "value_score":35.2525,
+            "region":"전라남도 보성군",
             "region_code":"Jeollanamdo",
             "sub_region_code":"4678000000_Jeollanamdo_Boseong"
         },
@@ -162,6 +176,7 @@
             "apt_type":"아파트",
             "apt_year":24.0,
             "value_score":30.502,
+            "region":"전라남도 보성군",
             "region_code":"Jeollanamdo",
             "sub_region_code":"4678000000_Jeollanamdo_Boseong"
         },
@@ -173,6 +188,7 @@
             "apt_type":"아파트",
             "apt_year":31.0,
             "value_score":29.1425,
+            "region":"전라남도 보성군",
             "region_code":"Jeollanamdo",
             "sub_region_code":"4678000000_Jeollanamdo_Boseong"
         },
@@ -184,6 +200,7 @@
             "apt_type":"아파트",
             "apt_year":24.0,
             "value_score":28.6805,
+            "region":"전라남도 보성군",
             "region_code":"Jeollanamdo",
             "sub_region_code":"4678000000_Jeollanamdo_Boseong"
         },
@@ -195,6 +212,7 @@
             "apt_type":"아파트",
             "apt_year":20.0,
             "value_score":26.252,
+            "region":"전라남도 보성군",
             "region_code":"Jeollanamdo",
             "sub_region_code":"4678000000_Jeollanamdo_Boseong"
         },
@@ -206,6 +224,7 @@
             "apt_type":"아파트",
             "apt_year":22.0,
             "value_score":25.6805,
+            "region":"전라남도 보성군",
             "region_code":"Jeollanamdo",
             "sub_region_code":"4678000000_Jeollanamdo_Boseong"
         },
@@ -217,6 +236,7 @@
             "apt_type":"아파트",
             "apt_year":30.0,
             "value_score":23.5805,
+            "region":"전라남도 보성군",
             "region_code":"Jeollanamdo",
             "sub_region_code":"4678000000_Jeollanamdo_Boseong"
         },
@@ -228,6 +248,7 @@
             "apt_type":"아파트",
             "apt_year":7.0,
             "value_score":31.292,
+            "region":"전라남도 보성군",
             "region_code":"Jeollanamdo",
             "sub_region_code":"4678000000_Jeollanamdo_Boseong"
         },
@@ -239,6 +260,7 @@
             "apt_type":"아파트",
             "apt_year":31.0,
             "value_score":29.9431578947,
+            "region":"전라남도 보성군",
             "region_code":"Jeollanamdo",
             "sub_region_code":"4678000000_Jeollanamdo_Boseong"
         },
@@ -250,6 +272,7 @@
             "apt_type":"아파트",
             "apt_year":10.0,
             "value_score":28.5557894737,
+            "region":"전라남도 보성군",
             "region_code":"Jeollanamdo",
             "sub_region_code":"4678000000_Jeollanamdo_Boseong"
         },
@@ -261,6 +284,7 @@
             "apt_type":"아파트",
             "apt_year":24.0,
             "value_score":26.6077894737,
+            "region":"전라남도 보성군",
             "region_code":"Jeollanamdo",
             "sub_region_code":"4678000000_Jeollanamdo_Boseong"
         },
@@ -272,6 +296,7 @@
             "apt_type":"아파트",
             "apt_year":24.0,
             "value_score":26.4701052632,
+            "region":"전라남도 보성군",
             "region_code":"Jeollanamdo",
             "sub_region_code":"4678000000_Jeollanamdo_Boseong"
         },
@@ -283,6 +308,7 @@
             "apt_type":"아파트",
             "apt_year":20.0,
             "value_score":25.2656842105,
+            "region":"전라남도 보성군",
             "region_code":"Jeollanamdo",
             "sub_region_code":"4678000000_Jeollanamdo_Boseong"
         },
@@ -294,6 +320,7 @@
             "apt_type":"아파트",
             "apt_year":30.0,
             "value_score":23.7858947368,
+            "region":"전라남도 보성군",
             "region_code":"Jeollanamdo",
             "sub_region_code":"4678000000_Jeollanamdo_Boseong"
         },
@@ -305,6 +332,7 @@
             "apt_type":"아파트",
             "apt_year":22.0,
             "value_score":20.1543157895,
+            "region":"전라남도 보성군",
             "region_code":"Jeollanamdo",
             "sub_region_code":"4678000000_Jeollanamdo_Boseong"
         },
@@ -316,6 +344,7 @@
             "apt_type":"아파트",
             "apt_year":7.0,
             "value_score":39.629,
+            "region":"전라남도 보성군",
             "region_code":"Jeollanamdo",
             "sub_region_code":"4678000000_Jeollanamdo_Boseong"
         },
@@ -327,6 +356,7 @@
             "apt_type":"아파트",
             "apt_year":10.0,
             "value_score":37.63,
+            "region":"전라남도 보성군",
             "region_code":"Jeollanamdo",
             "sub_region_code":"4678000000_Jeollanamdo_Boseong"
         },
@@ -338,6 +368,7 @@
             "apt_type":"아파트",
             "apt_year":31.0,
             "value_score":36.91,
+            "region":"전라남도 보성군",
             "region_code":"Jeollanamdo",
             "sub_region_code":"4678000000_Jeollanamdo_Boseong"
         },
@@ -349,6 +380,7 @@
             "apt_type":"아파트",
             "apt_year":24.0,
             "value_score":35.129,
+            "region":"전라남도 보성군",
             "region_code":"Jeollanamdo",
             "sub_region_code":"4678000000_Jeollanamdo_Boseong"
         },
@@ -360,6 +392,7 @@
             "apt_type":"아파트",
             "apt_year":24.0,
             "value_score":33.511,
+            "region":"전라남도 보성군",
             "region_code":"Jeollanamdo",
             "sub_region_code":"4678000000_Jeollanamdo_Boseong"
         },
@@ -371,6 +404,7 @@
             "apt_type":"아파트",
             "apt_year":20.0,
             "value_score":33.004,
+            "region":"전라남도 보성군",
             "region_code":"Jeollanamdo",
             "sub_region_code":"4678000000_Jeollanamdo_Boseong"
         },
@@ -382,6 +416,7 @@
             "apt_type":"아파트",
             "apt_year":30.0,
             "value_score":30.661,
+            "region":"전라남도 보성군",
             "region_code":"Jeollanamdo",
             "sub_region_code":"4678000000_Jeollanamdo_Boseong"
         },
@@ -393,6 +428,7 @@
             "apt_type":"아파트",
             "apt_year":22.0,
             "value_score":30.511,
+            "region":"전라남도 보성군",
             "region_code":"Jeollanamdo",
             "sub_region_code":"4678000000_Jeollanamdo_Boseong"
         }

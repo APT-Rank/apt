@@ -30,6 +30,10 @@
                 "type":"number"
             },
             {
+                "name":"region",
+                "type":"string"
+            },
+            {
                 "name":"region_code",
                 "type":"string"
             },
@@ -52,6 +56,7 @@
             "apt_type":"아파트",
             "apt_year":2.0,
             "value_score":58.9715,
+            "region":"강원도 강릉시",
             "region_code":"Gangwondo",
             "sub_region_code":"4215000000_Gangwondo_Gangneung"
         },
@@ -63,6 +68,7 @@
             "apt_type":"분양권",
             "apt_year":-1.0,
             "value_score":57.794,
+            "region":"강원도 강릉시",
             "region_code":"Gangwondo",
             "sub_region_code":"4215000000_Gangwondo_Gangneung"
         },
@@ -74,6 +80,7 @@
             "apt_type":"분양권",
             "apt_year":-1.0,
             "value_score":57.2445,
+            "region":"강원도 강릉시",
             "region_code":"Gangwondo",
             "sub_region_code":"4215000000_Gangwondo_Gangneung"
         },
@@ -85,6 +92,7 @@
             "apt_type":"아파트",
             "apt_year":5.0,
             "value_score":56.4215,
+            "region":"강원도 강릉시",
             "region_code":"Gangwondo",
             "sub_region_code":"4215000000_Gangwondo_Gangneung"
         },
@@ -96,6 +104,7 @@
             "apt_type":"아파트",
             "apt_year":5.0,
             "value_score":54.8215,
+            "region":"강원도 강릉시",
             "region_code":"Gangwondo",
             "sub_region_code":"4215000000_Gangwondo_Gangneung"
         },
@@ -107,6 +116,7 @@
             "apt_type":"아파트",
             "apt_year":16.0,
             "value_score":51.852,
+            "region":"강원도 강릉시",
             "region_code":"Gangwondo",
             "sub_region_code":"4215000000_Gangwondo_Gangneung"
         },
@@ -118,6 +128,7 @@
             "apt_type":"아파트",
             "apt_year":17.0,
             "value_score":50.437,
+            "region":"강원도 강릉시",
             "region_code":"Gangwondo",
             "sub_region_code":"4215000000_Gangwondo_Gangneung"
         },
@@ -129,6 +140,7 @@
             "apt_type":"아파트",
             "apt_year":7.0,
             "value_score":50.3215,
+            "region":"강원도 강릉시",
             "region_code":"Gangwondo",
             "sub_region_code":"4215000000_Gangwondo_Gangneung"
         },
@@ -140,6 +152,7 @@
             "apt_type":"아파트",
             "apt_year":21.0,
             "value_score":50.218,
+            "region":"강원도 강릉시",
             "region_code":"Gangwondo",
             "sub_region_code":"4215000000_Gangwondo_Gangneung"
         },
@@ -151,6 +164,7 @@
             "apt_type":"아파트",
             "apt_year":3.0,
             "value_score":49.818,
+            "region":"강원도 강릉시",
             "region_code":"Gangwondo",
             "sub_region_code":"4215000000_Gangwondo_Gangneung"
         },
@@ -162,6 +176,7 @@
             "apt_type":"분양권",
             "apt_year":-1.0,
             "value_score":65.069,
+            "region":"강원도 강릉시",
             "region_code":"Gangwondo",
             "sub_region_code":"4215000000_Gangwondo_Gangneung"
         },
@@ -173,6 +188,7 @@
             "apt_type":"아파트",
             "apt_year":2.0,
             "value_score":64.8215,
+            "region":"강원도 강릉시",
             "region_code":"Gangwondo",
             "sub_region_code":"4215000000_Gangwondo_Gangneung"
         },
@@ -184,6 +200,7 @@
             "apt_type":"분양권",
             "apt_year":-1.0,
             "value_score":64.1595,
+            "region":"강원도 강릉시",
             "region_code":"Gangwondo",
             "sub_region_code":"4215000000_Gangwondo_Gangneung"
         },
@@ -195,6 +212,7 @@
             "apt_type":"아파트",
             "apt_year":5.0,
             "value_score":61.8215,
+            "region":"강원도 강릉시",
             "region_code":"Gangwondo",
             "sub_region_code":"4215000000_Gangwondo_Gangneung"
         },
@@ -206,6 +224,7 @@
             "apt_type":"아파트",
             "apt_year":5.0,
             "value_score":60.8215,
+            "region":"강원도 강릉시",
             "region_code":"Gangwondo",
             "sub_region_code":"4215000000_Gangwondo_Gangneung"
         },
@@ -217,6 +236,7 @@
             "apt_type":"아파트",
             "apt_year":16.0,
             "value_score":56.877,
+            "region":"강원도 강릉시",
             "region_code":"Gangwondo",
             "sub_region_code":"4215000000_Gangwondo_Gangneung"
         },
@@ -228,6 +248,7 @@
             "apt_type":"아파트",
             "apt_year":9.0,
             "value_score":55.377,
+            "region":"강원도 강릉시",
             "region_code":"Gangwondo",
             "sub_region_code":"4215000000_Gangwondo_Gangneung"
         },
@@ -239,6 +260,7 @@
             "apt_type":"아파트",
             "apt_year":6.0,
             "value_score":55.3175,
+            "region":"강원도 강릉시",
             "region_code":"Gangwondo",
             "sub_region_code":"4215000000_Gangwondo_Gangneung"
         },
@@ -250,6 +272,7 @@
             "apt_type":"아파트",
             "apt_year":17.0,
             "value_score":54.727,
+            "region":"강원도 강릉시",
             "region_code":"Gangwondo",
             "sub_region_code":"4215000000_Gangwondo_Gangneung"
         },
@@ -261,6 +284,7 @@
             "apt_type":"분양권",
             "apt_year":-1.0,
             "value_score":54.7195,
+            "region":"강원도 강릉시",
             "region_code":"Gangwondo",
             "sub_region_code":"4215000000_Gangwondo_Gangneung"
         },
@@ -272,6 +296,7 @@
             "apt_type":"아파트",
             "apt_year":2.0,
             "value_score":52.6166315789,
+            "region":"강원도 강릉시",
             "region_code":"Gangwondo",
             "sub_region_code":"4215000000_Gangwondo_Gangneung"
         },
@@ -283,6 +308,7 @@
             "apt_type":"아파트",
             "apt_year":5.0,
             "value_score":50.7745263158,
+            "region":"강원도 강릉시",
             "region_code":"Gangwondo",
             "sub_region_code":"4215000000_Gangwondo_Gangneung"
         },
@@ -294,6 +320,7 @@
             "apt_type":"분양권",
             "apt_year":-1.0,
             "value_score":50.0082105263,
+            "region":"강원도 강릉시",
             "region_code":"Gangwondo",
             "sub_region_code":"4215000000_Gangwondo_Gangneung"
         },
@@ -305,6 +332,7 @@
             "apt_type":"분양권",
             "apt_year":-1.0,
             "value_score":49.3646315789,
+            "region":"강원도 강릉시",
             "region_code":"Gangwondo",
             "sub_region_code":"4215000000_Gangwondo_Gangneung"
         },
@@ -316,6 +344,7 @@
             "apt_type":"아파트",
             "apt_year":22.0,
             "value_score":49.3008421053,
+            "region":"강원도 강릉시",
             "region_code":"Gangwondo",
             "sub_region_code":"4215000000_Gangwondo_Gangneung"
         },
@@ -327,6 +356,7 @@
             "apt_type":"아파트",
             "apt_year":20.0,
             "value_score":49.3008421053,
+            "region":"강원도 강릉시",
             "region_code":"Gangwondo",
             "sub_region_code":"4215000000_Gangwondo_Gangneung"
         },
@@ -338,6 +368,7 @@
             "apt_type":"아파트",
             "apt_year":5.0,
             "value_score":48.6692631579,
+            "region":"강원도 강릉시",
             "region_code":"Gangwondo",
             "sub_region_code":"4215000000_Gangwondo_Gangneung"
         },
@@ -349,6 +380,7 @@
             "apt_type":"아파트",
             "apt_year":21.0,
             "value_score":48.6648421053,
+            "region":"강원도 강릉시",
             "region_code":"Gangwondo",
             "sub_region_code":"4215000000_Gangwondo_Gangneung"
         },
@@ -360,6 +392,7 @@
             "apt_type":"아파트",
             "apt_year":24.0,
             "value_score":47.8008421053,
+            "region":"강원도 강릉시",
             "region_code":"Gangwondo",
             "sub_region_code":"4215000000_Gangwondo_Gangneung"
         },
@@ -371,6 +404,7 @@
             "apt_type":"아파트",
             "apt_year":24.0,
             "value_score":47.7174736842,
+            "region":"강원도 강릉시",
             "region_code":"Gangwondo",
             "sub_region_code":"4215000000_Gangwondo_Gangneung"
         },
@@ -382,6 +416,7 @@
             "apt_type":"아파트",
             "apt_year":2.0,
             "value_score":59.393,
+            "region":"강원도 강릉시",
             "region_code":"Gangwondo",
             "sub_region_code":"4215000000_Gangwondo_Gangneung"
         },
@@ -393,6 +428,7 @@
             "apt_type":"분양권",
             "apt_year":-1.0,
             "value_score":58.763,
+            "region":"강원도 강릉시",
             "region_code":"Gangwondo",
             "sub_region_code":"4215000000_Gangwondo_Gangneung"
         },
@@ -404,6 +440,7 @@
             "apt_type":"아파트",
             "apt_year":5.0,
             "value_score":57.643,
+            "region":"강원도 강릉시",
             "region_code":"Gangwondo",
             "sub_region_code":"4215000000_Gangwondo_Gangneung"
         },
@@ -415,6 +452,7 @@
             "apt_type":"아파트",
             "apt_year":5.0,
             "value_score":56.643,
+            "region":"강원도 강릉시",
             "region_code":"Gangwondo",
             "sub_region_code":"4215000000_Gangwondo_Gangneung"
         },
@@ -426,6 +464,7 @@
             "apt_type":"분양권",
             "apt_year":-1.0,
             "value_score":56.344,
+            "region":"강원도 강릉시",
             "region_code":"Gangwondo",
             "sub_region_code":"4215000000_Gangwondo_Gangneung"
         },
@@ -437,6 +476,7 @@
             "apt_type":"아파트",
             "apt_year":7.0,
             "value_score":53.393,
+            "region":"강원도 강릉시",
             "region_code":"Gangwondo",
             "sub_region_code":"4215000000_Gangwondo_Gangneung"
         },
@@ -448,6 +488,7 @@
             "apt_type":"아파트",
             "apt_year":21.0,
             "value_score":53.136,
+            "region":"강원도 강릉시",
             "region_code":"Gangwondo",
             "sub_region_code":"4215000000_Gangwondo_Gangneung"
         },
@@ -459,6 +500,7 @@
             "apt_type":"아파트",
             "apt_year":22.0,
             "value_score":52.393,
+            "region":"강원도 강릉시",
             "region_code":"Gangwondo",
             "sub_region_code":"4215000000_Gangwondo_Gangneung"
         },
@@ -470,6 +512,7 @@
             "apt_type":"아파트",
             "apt_year":20.0,
             "value_score":52.393,
+            "region":"강원도 강릉시",
             "region_code":"Gangwondo",
             "sub_region_code":"4215000000_Gangwondo_Gangneung"
         },
@@ -481,6 +524,7 @@
             "apt_type":"아파트",
             "apt_year":6.0,
             "value_score":52.01,
+            "region":"강원도 강릉시",
             "region_code":"Gangwondo",
             "sub_region_code":"4215000000_Gangwondo_Gangneung"
         }

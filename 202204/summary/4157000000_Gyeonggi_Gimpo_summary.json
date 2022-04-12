@@ -30,6 +30,10 @@
                 "type":"number"
             },
             {
+                "name":"region",
+                "type":"string"
+            },
+            {
                 "name":"region_code",
                 "type":"string"
             },
@@ -52,6 +56,7 @@
             "apt_type":"아파트",
             "apt_year":9.0,
             "value_score":53.6893,
+            "region":"경기도 김포시",
             "region_code":"Gyeonggi",
             "sub_region_code":"4157000000_Gyeonggi_Gimpo"
         },
@@ -63,6 +68,7 @@
             "apt_type":"아파트",
             "apt_year":7.0,
             "value_score":52.2952,
+            "region":"경기도 김포시",
             "region_code":"Gyeonggi",
             "sub_region_code":"4157000000_Gyeonggi_Gimpo"
         },
@@ -74,6 +80,7 @@
             "apt_type":"아파트",
             "apt_year":10.0,
             "value_score":51.8093,
+            "region":"경기도 김포시",
             "region_code":"Gyeonggi",
             "sub_region_code":"4157000000_Gyeonggi_Gimpo"
         },
@@ -85,6 +92,7 @@
             "apt_type":"아파트",
             "apt_year":5.0,
             "value_score":50.7943,
+            "region":"경기도 김포시",
             "region_code":"Gyeonggi",
             "sub_region_code":"4157000000_Gyeonggi_Gimpo"
         },
@@ -96,6 +104,7 @@
             "apt_type":"아파트",
             "apt_year":8.0,
             "value_score":50.3739,
+            "region":"경기도 김포시",
             "region_code":"Gyeonggi",
             "sub_region_code":"4157000000_Gyeonggi_Gimpo"
         },
@@ -107,6 +116,7 @@
             "apt_type":"아파트",
             "apt_year":2.0,
             "value_score":49.9748,
+            "region":"경기도 김포시",
             "region_code":"Gyeonggi",
             "sub_region_code":"4157000000_Gyeonggi_Gimpo"
         },
@@ -118,6 +128,7 @@
             "apt_type":"아파트",
             "apt_year":12.0,
             "value_score":49.9733,
+            "region":"경기도 김포시",
             "region_code":"Gyeonggi",
             "sub_region_code":"4157000000_Gyeonggi_Gimpo"
         },
@@ -129,6 +140,7 @@
             "apt_type":"아파트",
             "apt_year":10.0,
             "value_score":49.3733,
+            "region":"경기도 김포시",
             "region_code":"Gyeonggi",
             "sub_region_code":"4157000000_Gyeonggi_Gimpo"
         },
@@ -140,6 +152,7 @@
             "apt_type":"아파트",
             "apt_year":3.0,
             "value_score":49.224,
+            "region":"경기도 김포시",
             "region_code":"Gyeonggi",
             "sub_region_code":"4157000000_Gyeonggi_Gimpo"
         },
@@ -151,6 +164,7 @@
             "apt_type":"아파트",
             "apt_year":5.0,
             "value_score":48.3933,
+            "region":"경기도 김포시",
             "region_code":"Gyeonggi",
             "sub_region_code":"4157000000_Gyeonggi_Gimpo"
         },
@@ -162,6 +176,7 @@
             "apt_type":"아파트",
             "apt_year":9.0,
             "value_score":68.3024,
+            "region":"경기도 김포시",
             "region_code":"Gyeonggi",
             "sub_region_code":"4157000000_Gyeonggi_Gimpo"
         },
@@ -173,6 +188,7 @@
             "apt_type":"아파트",
             "apt_year":9.0,
             "value_score":66.3732,
+            "region":"경기도 김포시",
             "region_code":"Gyeonggi",
             "sub_region_code":"4157000000_Gyeonggi_Gimpo"
         },
@@ -184,6 +200,7 @@
             "apt_type":"아파트",
             "apt_year":3.0,
             "value_score":65.5228,
+            "region":"경기도 김포시",
             "region_code":"Gyeonggi",
             "sub_region_code":"4157000000_Gyeonggi_Gimpo"
         },
@@ -195,6 +212,7 @@
             "apt_type":"아파트",
             "apt_year":2.0,
             "value_score":65.0664,
+            "region":"경기도 김포시",
             "region_code":"Gyeonggi",
             "sub_region_code":"4157000000_Gyeonggi_Gimpo"
         },
@@ -206,6 +224,7 @@
             "apt_type":"아파트",
             "apt_year":3.0,
             "value_score":64.832,
+            "region":"경기도 김포시",
             "region_code":"Gyeonggi",
             "sub_region_code":"4157000000_Gyeonggi_Gimpo"
         },
@@ -217,6 +236,7 @@
             "apt_type":"아파트",
             "apt_year":11.0,
             "value_score":64.8024,
+            "region":"경기도 김포시",
             "region_code":"Gyeonggi",
             "sub_region_code":"4157000000_Gyeonggi_Gimpo"
         },
@@ -228,6 +248,7 @@
             "apt_type":"아파트",
             "apt_year":5.0,
             "value_score":64.2924,
+            "region":"경기도 김포시",
             "region_code":"Gyeonggi",
             "sub_region_code":"4157000000_Gyeonggi_Gimpo"
         },
@@ -239,6 +260,7 @@
             "apt_type":"아파트",
             "apt_year":10.0,
             "value_score":63.9324,
+            "region":"경기도 김포시",
             "region_code":"Gyeonggi",
             "sub_region_code":"4157000000_Gyeonggi_Gimpo"
         },
@@ -250,6 +272,7 @@
             "apt_type":"아파트",
             "apt_year":8.0,
             "value_score":63.8652,
+            "region":"경기도 김포시",
             "region_code":"Gyeonggi",
             "sub_region_code":"4157000000_Gyeonggi_Gimpo"
         },
@@ -261,6 +284,7 @@
             "apt_type":"아파트",
             "apt_year":7.0,
             "value_score":63.6436,
+            "region":"경기도 김포시",
             "region_code":"Gyeonggi",
             "sub_region_code":"4157000000_Gyeonggi_Gimpo"
         },
@@ -272,6 +296,7 @@
             "apt_type":"아파트",
             "apt_year":9.0,
             "value_score":50.9643,
+            "region":"경기도 김포시",
             "region_code":"Gyeonggi",
             "sub_region_code":"4157000000_Gyeonggi_Gimpo"
         },
@@ -283,6 +308,7 @@
             "apt_type":"아파트",
             "apt_year":7.0,
             "value_score":50.1702,
+            "region":"경기도 김포시",
             "region_code":"Gyeonggi",
             "sub_region_code":"4157000000_Gyeonggi_Gimpo"
         },
@@ -294,6 +320,7 @@
             "apt_type":"아파트",
             "apt_year":10.0,
             "value_score":49.5693,
+            "region":"경기도 김포시",
             "region_code":"Gyeonggi",
             "sub_region_code":"4157000000_Gyeonggi_Gimpo"
         },
@@ -305,6 +332,7 @@
             "apt_type":"아파트",
             "apt_year":5.0,
             "value_score":49.2443,
+            "region":"경기도 김포시",
             "region_code":"Gyeonggi",
             "sub_region_code":"4157000000_Gyeonggi_Gimpo"
         },
@@ -316,6 +344,7 @@
             "apt_type":"아파트",
             "apt_year":8.0,
             "value_score":48.2239,
+            "region":"경기도 김포시",
             "region_code":"Gyeonggi",
             "sub_region_code":"4157000000_Gyeonggi_Gimpo"
         },
@@ -327,6 +356,7 @@
             "apt_type":"아파트",
             "apt_year":2.0,
             "value_score":48.0248,
+            "region":"경기도 김포시",
             "region_code":"Gyeonggi",
             "sub_region_code":"4157000000_Gyeonggi_Gimpo"
         },
@@ -338,6 +368,7 @@
             "apt_type":"아파트",
             "apt_year":12.0,
             "value_score":47.9483,
+            "region":"경기도 김포시",
             "region_code":"Gyeonggi",
             "sub_region_code":"4157000000_Gyeonggi_Gimpo"
         },
@@ -349,6 +380,7 @@
             "apt_type":"아파트",
             "apt_year":3.0,
             "value_score":47.824,
+            "region":"경기도 김포시",
             "region_code":"Gyeonggi",
             "sub_region_code":"4157000000_Gyeonggi_Gimpo"
         },
@@ -360,6 +392,7 @@
             "apt_type":"아파트",
             "apt_year":10.0,
             "value_score":47.5483,
+            "region":"경기도 김포시",
             "region_code":"Gyeonggi",
             "sub_region_code":"4157000000_Gyeonggi_Gimpo"
         },
@@ -371,6 +404,7 @@
             "apt_type":"아파트",
             "apt_year":22.0,
             "value_score":46.9021,
+            "region":"경기도 김포시",
             "region_code":"Gyeonggi",
             "sub_region_code":"4157000000_Gyeonggi_Gimpo"
         },
@@ -382,6 +416,7 @@
             "apt_type":"아파트",
             "apt_year":9.0,
             "value_score":51.9655,
+            "region":"경기도 김포시",
             "region_code":"Gyeonggi",
             "sub_region_code":"4157000000_Gyeonggi_Gimpo"
         },
@@ -393,6 +428,7 @@
             "apt_type":"아파트",
             "apt_year":15.0,
             "value_score":51.5855,
+            "region":"경기도 김포시",
             "region_code":"Gyeonggi",
             "sub_region_code":"4157000000_Gyeonggi_Gimpo"
         },
@@ -404,6 +440,7 @@
             "apt_type":"아파트",
             "apt_year":15.0,
             "value_score":51.5855,
+            "region":"경기도 김포시",
             "region_code":"Gyeonggi",
             "sub_region_code":"4157000000_Gyeonggi_Gimpo"
         },
@@ -415,6 +452,7 @@
             "apt_type":"아파트",
             "apt_year":10.0,
             "value_score":50.8155,
+            "region":"경기도 김포시",
             "region_code":"Gyeonggi",
             "sub_region_code":"4157000000_Gyeonggi_Gimpo"
         },
@@ -426,6 +464,7 @@
             "apt_type":"아파트",
             "apt_year":7.0,
             "value_score":50.642,
+            "region":"경기도 김포시",
             "region_code":"Gyeonggi",
             "sub_region_code":"4157000000_Gyeonggi_Gimpo"
         },
@@ -437,6 +476,7 @@
             "apt_type":"아파트",
             "apt_year":11.0,
             "value_score":49.3155,
+            "region":"경기도 김포시",
             "region_code":"Gyeonggi",
             "sub_region_code":"4157000000_Gyeonggi_Gimpo"
         },
@@ -448,6 +488,7 @@
             "apt_type":"아파트",
             "apt_year":7.0,
             "value_score":48.5155,
+            "region":"경기도 김포시",
             "region_code":"Gyeonggi",
             "sub_region_code":"4157000000_Gyeonggi_Gimpo"
         },
@@ -459,6 +500,7 @@
             "apt_type":"아파트",
             "apt_year":22.0,
             "value_score":47.3785,
+            "region":"경기도 김포시",
             "region_code":"Gyeonggi",
             "sub_region_code":"4157000000_Gyeonggi_Gimpo"
         },
@@ -470,6 +512,7 @@
             "apt_type":"아파트",
             "apt_year":5.0,
             "value_score":47.3655,
+            "region":"경기도 김포시",
             "region_code":"Gyeonggi",
             "sub_region_code":"4157000000_Gyeonggi_Gimpo"
         },
@@ -481,6 +524,7 @@
             "apt_type":"아파트",
             "apt_year":6.0,
             "value_score":47.316,
+            "region":"경기도 김포시",
             "region_code":"Gyeonggi",
             "sub_region_code":"4157000000_Gyeonggi_Gimpo"
         },
@@ -492,6 +536,7 @@
             "apt_type":"아파트",
             "apt_year":9.0,
             "value_score":60.731,
+            "region":"경기도 김포시",
             "region_code":"Gyeonggi",
             "sub_region_code":"4157000000_Gyeonggi_Gimpo"
         },
@@ -503,6 +548,7 @@
             "apt_type":"아파트",
             "apt_year":10.0,
             "value_score":58.911,
+            "region":"경기도 김포시",
             "region_code":"Gyeonggi",
             "sub_region_code":"4157000000_Gyeonggi_Gimpo"
         },
@@ -514,6 +560,7 @@
             "apt_type":"아파트",
             "apt_year":11.0,
             "value_score":58.431,
+            "region":"경기도 김포시",
             "region_code":"Gyeonggi",
             "sub_region_code":"4157000000_Gyeonggi_Gimpo"
         },
@@ -525,6 +572,7 @@
             "apt_type":"아파트",
             "apt_year":12.0,
             "value_score":57.272,
+            "region":"경기도 김포시",
             "region_code":"Gyeonggi",
             "sub_region_code":"4157000000_Gyeonggi_Gimpo"
         },
@@ -536,6 +584,7 @@
             "apt_type":"아파트",
             "apt_year":7.0,
             "value_score":56.884,
+            "region":"경기도 김포시",
             "region_code":"Gyeonggi",
             "sub_region_code":"4157000000_Gyeonggi_Gimpo"
         },
@@ -547,6 +596,7 @@
             "apt_type":"아파트",
             "apt_year":10.0,
             "value_score":56.531,
+            "region":"경기도 김포시",
             "region_code":"Gyeonggi",
             "sub_region_code":"4157000000_Gyeonggi_Gimpo"
         },
@@ -558,6 +608,7 @@
             "apt_type":"아파트",
             "apt_year":3.0,
             "value_score":56.48,
+            "region":"경기도 김포시",
             "region_code":"Gyeonggi",
             "sub_region_code":"4157000000_Gyeonggi_Gimpo"
         },
@@ -569,6 +620,7 @@
             "apt_type":"아파트",
             "apt_year":9.0,
             "value_score":56.283,
+            "region":"경기도 김포시",
             "region_code":"Gyeonggi",
             "sub_region_code":"4157000000_Gyeonggi_Gimpo"
         },
@@ -580,6 +632,7 @@
             "apt_type":"아파트",
             "apt_year":5.0,
             "value_score":56.181,
+            "region":"경기도 김포시",
             "region_code":"Gyeonggi",
             "sub_region_code":"4157000000_Gyeonggi_Gimpo"
         },
@@ -591,6 +644,7 @@
             "apt_type":"아파트",
             "apt_year":11.0,
             "value_score":56.172,
+            "region":"경기도 김포시",
             "region_code":"Gyeonggi",
             "sub_region_code":"4157000000_Gyeonggi_Gimpo"
         }

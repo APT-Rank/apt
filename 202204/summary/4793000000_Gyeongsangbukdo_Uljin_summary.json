@@ -30,6 +30,10 @@
                 "type":"number"
             },
             {
+                "name":"region",
+                "type":"string"
+            },
+            {
                 "name":"region_code",
                 "type":"string"
             },
@@ -52,6 +56,7 @@
             "apt_type":"아파트",
             "apt_year":17.0,
             "value_score":29.24,
+            "region":"경상북도 울진군",
             "region_code":"Gyeongsangbukdo",
             "sub_region_code":"4793000000_Gyeongsangbukdo_Uljin"
         },
@@ -63,6 +68,7 @@
             "apt_type":"아파트",
             "apt_year":9.0,
             "value_score":28.89,
+            "region":"경상북도 울진군",
             "region_code":"Gyeongsangbukdo",
             "sub_region_code":"4793000000_Gyeongsangbukdo_Uljin"
         },
@@ -74,6 +80,7 @@
             "apt_type":"아파트",
             "apt_year":28.0,
             "value_score":28.763,
+            "region":"경상북도 울진군",
             "region_code":"Gyeongsangbukdo",
             "sub_region_code":"4793000000_Gyeongsangbukdo_Uljin"
         },
@@ -85,6 +92,7 @@
             "apt_type":"아파트",
             "apt_year":15.0,
             "value_score":28.07,
+            "region":"경상북도 울진군",
             "region_code":"Gyeongsangbukdo",
             "sub_region_code":"4793000000_Gyeongsangbukdo_Uljin"
         },
@@ -96,6 +104,7 @@
             "apt_type":"아파트",
             "apt_year":29.0,
             "value_score":27.573,
+            "region":"경상북도 울진군",
             "region_code":"Gyeongsangbukdo",
             "sub_region_code":"4793000000_Gyeongsangbukdo_Uljin"
         },
@@ -107,6 +116,7 @@
             "apt_type":"아파트",
             "apt_year":31.0,
             "value_score":24.9055,
+            "region":"경상북도 울진군",
             "region_code":"Gyeongsangbukdo",
             "sub_region_code":"4793000000_Gyeongsangbukdo_Uljin"
         },
@@ -118,6 +128,7 @@
             "apt_type":"아파트",
             "apt_year":27.0,
             "value_score":24.464,
+            "region":"경상북도 울진군",
             "region_code":"Gyeongsangbukdo",
             "sub_region_code":"4793000000_Gyeongsangbukdo_Uljin"
         },
@@ -129,6 +140,7 @@
             "apt_type":"아파트",
             "apt_year":29.0,
             "value_score":20.53,
+            "region":"경상북도 울진군",
             "region_code":"Gyeongsangbukdo",
             "sub_region_code":"4793000000_Gyeongsangbukdo_Uljin"
         },
@@ -140,6 +152,7 @@
             "apt_type":"아파트",
             "apt_year":17.0,
             "value_score":32.015,
+            "region":"경상북도 울진군",
             "region_code":"Gyeongsangbukdo",
             "sub_region_code":"4793000000_Gyeongsangbukdo_Uljin"
         },
@@ -151,6 +164,7 @@
             "apt_type":"아파트",
             "apt_year":9.0,
             "value_score":31.515,
+            "region":"경상북도 울진군",
             "region_code":"Gyeongsangbukdo",
             "sub_region_code":"4793000000_Gyeongsangbukdo_Uljin"
         },
@@ -162,6 +176,7 @@
             "apt_type":"아파트",
             "apt_year":15.0,
             "value_score":30.47,
+            "region":"경상북도 울진군",
             "region_code":"Gyeongsangbukdo",
             "sub_region_code":"4793000000_Gyeongsangbukdo_Uljin"
         },
@@ -173,6 +188,7 @@
             "apt_type":"아파트",
             "apt_year":28.0,
             "value_score":30.263,
+            "region":"경상북도 울진군",
             "region_code":"Gyeongsangbukdo",
             "sub_region_code":"4793000000_Gyeongsangbukdo_Uljin"
         },
@@ -184,6 +200,7 @@
             "apt_type":"아파트",
             "apt_year":29.0,
             "value_score":28.113,
+            "region":"경상북도 울진군",
             "region_code":"Gyeongsangbukdo",
             "sub_region_code":"4793000000_Gyeongsangbukdo_Uljin"
         },
@@ -195,6 +212,7 @@
             "apt_type":"아파트",
             "apt_year":31.0,
             "value_score":25.6555,
+            "region":"경상북도 울진군",
             "region_code":"Gyeongsangbukdo",
             "sub_region_code":"4793000000_Gyeongsangbukdo_Uljin"
         },
@@ -206,6 +224,7 @@
             "apt_type":"아파트",
             "apt_year":27.0,
             "value_score":25.514,
+            "region":"경상북도 울진군",
             "region_code":"Gyeongsangbukdo",
             "sub_region_code":"4793000000_Gyeongsangbukdo_Uljin"
         },
@@ -217,6 +236,7 @@
             "apt_type":"아파트",
             "apt_year":29.0,
             "value_score":19.57,
+            "region":"경상북도 울진군",
             "region_code":"Gyeongsangbukdo",
             "sub_region_code":"4793000000_Gyeongsangbukdo_Uljin"
         },
@@ -228,6 +248,7 @@
             "apt_type":"아파트",
             "apt_year":28.0,
             "value_score":30.0690526316,
+            "region":"경상북도 울진군",
             "region_code":"Gyeongsangbukdo",
             "sub_region_code":"4793000000_Gyeongsangbukdo_Uljin"
         },
@@ -239,6 +260,7 @@
             "apt_type":"아파트",
             "apt_year":29.0,
             "value_score":30.0164210526,
+            "region":"경상북도 울진군",
             "region_code":"Gyeongsangbukdo",
             "sub_region_code":"4793000000_Gyeongsangbukdo_Uljin"
         },
@@ -250,6 +272,7 @@
             "apt_type":"아파트",
             "apt_year":17.0,
             "value_score":28.5189473684,
+            "region":"경상북도 울진군",
             "region_code":"Gyeongsangbukdo",
             "sub_region_code":"4793000000_Gyeongsangbukdo_Uljin"
         },
@@ -261,6 +284,7 @@
             "apt_type":"아파트",
             "apt_year":9.0,
             "value_score":28.3610526316,
+            "region":"경상북도 울진군",
             "region_code":"Gyeongsangbukdo",
             "sub_region_code":"4793000000_Gyeongsangbukdo_Uljin"
         },
@@ -272,6 +296,7 @@
             "apt_type":"아파트",
             "apt_year":15.0,
             "value_score":26.9621052632,
+            "region":"경상북도 울진군",
             "region_code":"Gyeongsangbukdo",
             "sub_region_code":"4793000000_Gyeongsangbukdo_Uljin"
         },
@@ -283,6 +308,7 @@
             "apt_type":"아파트",
             "apt_year":31.0,
             "value_score":26.6174736842,
+            "region":"경상북도 울진군",
             "region_code":"Gyeongsangbukdo",
             "sub_region_code":"4793000000_Gyeongsangbukdo_Uljin"
         },
@@ -294,6 +320,7 @@
             "apt_type":"아파트",
             "apt_year":27.0,
             "value_score":26.0176842105,
+            "region":"경상북도 울진군",
             "region_code":"Gyeongsangbukdo",
             "sub_region_code":"4793000000_Gyeongsangbukdo_Uljin"
         },
@@ -305,6 +332,7 @@
             "apt_type":"아파트",
             "apt_year":29.0,
             "value_score":23.6989473684,
+            "region":"경상북도 울진군",
             "region_code":"Gyeongsangbukdo",
             "sub_region_code":"4793000000_Gyeongsangbukdo_Uljin"
         },
@@ -316,6 +344,7 @@
             "apt_type":"아파트",
             "apt_year":28.0,
             "value_score":40.026,
+            "region":"경상북도 울진군",
             "region_code":"Gyeongsangbukdo",
             "sub_region_code":"4793000000_Gyeongsangbukdo_Uljin"
         },
@@ -327,6 +356,7 @@
             "apt_type":"아파트",
             "apt_year":29.0,
             "value_score":39.126,
+            "region":"경상북도 울진군",
             "region_code":"Gyeongsangbukdo",
             "sub_region_code":"4793000000_Gyeongsangbukdo_Uljin"
         },
@@ -338,6 +368,7 @@
             "apt_type":"아파트",
             "apt_year":17.0,
             "value_score":38.155,
+            "region":"경상북도 울진군",
             "region_code":"Gyeongsangbukdo",
             "sub_region_code":"4793000000_Gyeongsangbukdo_Uljin"
         },
@@ -349,6 +380,7 @@
             "apt_type":"아파트",
             "apt_year":9.0,
             "value_score":37.905,
+            "region":"경상북도 울진군",
             "region_code":"Gyeongsangbukdo",
             "sub_region_code":"4793000000_Gyeongsangbukdo_Uljin"
         },
@@ -360,6 +392,7 @@
             "apt_type":"아파트",
             "apt_year":27.0,
             "value_score":34.778,
+            "region":"경상북도 울진군",
             "region_code":"Gyeongsangbukdo",
             "sub_region_code":"4793000000_Gyeongsangbukdo_Uljin"
         },
@@ -371,6 +404,7 @@
             "apt_type":"아파트",
             "apt_year":31.0,
             "value_score":34.561,
+            "region":"경상북도 울진군",
             "region_code":"Gyeongsangbukdo",
             "sub_region_code":"4793000000_Gyeongsangbukdo_Uljin"
         },
@@ -382,6 +416,7 @@
             "apt_type":"아파트",
             "apt_year":15.0,
             "value_score":33.94,
+            "region":"경상북도 울진군",
             "region_code":"Gyeongsangbukdo",
             "sub_region_code":"4793000000_Gyeongsangbukdo_Uljin"
         },
@@ -393,6 +428,7 @@
             "apt_type":"아파트",
             "apt_year":29.0,
             "value_score":28.54,
+            "region":"경상북도 울진군",
             "region_code":"Gyeongsangbukdo",
             "sub_region_code":"4793000000_Gyeongsangbukdo_Uljin"
         }

@@ -30,6 +30,10 @@
                 "type":"number"
             },
             {
+                "name":"region",
+                "type":"string"
+            },
+            {
                 "name":"region_code",
                 "type":"string"
             },
@@ -52,6 +56,7 @@
             "apt_type":"아파트",
             "apt_year":4.0,
             "value_score":60.514,
+            "region":"충청북도 청주시 상당구",
             "region_code":"Chungcheongbukdo",
             "sub_region_code":"4311100000_Chungcheongbukdo_Cheongju_Sangdang"
         },
@@ -63,6 +68,7 @@
             "apt_type":"아파트",
             "apt_year":3.0,
             "value_score":60.172,
+            "region":"충청북도 청주시 상당구",
             "region_code":"Chungcheongbukdo",
             "sub_region_code":"4311100000_Chungcheongbukdo_Cheongju_Sangdang"
         },
@@ -74,6 +80,7 @@
             "apt_type":"분양권",
             "apt_year":0.0,
             "value_score":60.1705,
+            "region":"충청북도 청주시 상당구",
             "region_code":"Chungcheongbukdo",
             "sub_region_code":"4311100000_Chungcheongbukdo_Cheongju_Sangdang"
         },
@@ -85,6 +92,7 @@
             "apt_type":"아파트",
             "apt_year":3.0,
             "value_score":60.127,
+            "region":"충청북도 청주시 상당구",
             "region_code":"Chungcheongbukdo",
             "sub_region_code":"4311100000_Chungcheongbukdo_Cheongju_Sangdang"
         },
@@ -96,6 +104,7 @@
             "apt_type":"아파트",
             "apt_year":5.0,
             "value_score":58.3255,
+            "region":"충청북도 청주시 상당구",
             "region_code":"Chungcheongbukdo",
             "sub_region_code":"4311100000_Chungcheongbukdo_Cheongju_Sangdang"
         },
@@ -107,6 +116,7 @@
             "apt_type":"아파트",
             "apt_year":1.0,
             "value_score":58.267,
+            "region":"충청북도 청주시 상당구",
             "region_code":"Chungcheongbukdo",
             "sub_region_code":"4311100000_Chungcheongbukdo_Cheongju_Sangdang"
         },
@@ -118,6 +128,7 @@
             "apt_type":"아파트",
             "apt_year":3.0,
             "value_score":58.027,
+            "region":"충청북도 청주시 상당구",
             "region_code":"Chungcheongbukdo",
             "sub_region_code":"4311100000_Chungcheongbukdo_Cheongju_Sangdang"
         },
@@ -129,6 +140,7 @@
             "apt_type":"아파트",
             "apt_year":5.0,
             "value_score":57.9255,
+            "region":"충청북도 청주시 상당구",
             "region_code":"Chungcheongbukdo",
             "sub_region_code":"4311100000_Chungcheongbukdo_Cheongju_Sangdang"
         },
@@ -140,6 +152,7 @@
             "apt_type":"아파트",
             "apt_year":5.0,
             "value_score":57.391,
+            "region":"충청북도 청주시 상당구",
             "region_code":"Chungcheongbukdo",
             "sub_region_code":"4311100000_Chungcheongbukdo_Cheongju_Sangdang"
         },
@@ -151,6 +164,7 @@
             "apt_type":"아파트",
             "apt_year":10.0,
             "value_score":57.142,
+            "region":"충청북도 청주시 상당구",
             "region_code":"Chungcheongbukdo",
             "sub_region_code":"4311100000_Chungcheongbukdo_Cheongju_Sangdang"
         },
@@ -162,6 +176,7 @@
             "apt_type":"아파트",
             "apt_year":3.0,
             "value_score":68.347,
+            "region":"충청북도 청주시 상당구",
             "region_code":"Chungcheongbukdo",
             "sub_region_code":"4311100000_Chungcheongbukdo_Cheongju_Sangdang"
         },
@@ -173,6 +188,7 @@
             "apt_type":"분양권",
             "apt_year":0.0,
             "value_score":68.3455,
+            "region":"충청북도 청주시 상당구",
             "region_code":"Chungcheongbukdo",
             "sub_region_code":"4311100000_Chungcheongbukdo_Cheongju_Sangdang"
         },
@@ -184,6 +200,7 @@
             "apt_type":"아파트",
             "apt_year":4.0,
             "value_score":67.414,
+            "region":"충청북도 청주시 상당구",
             "region_code":"Chungcheongbukdo",
             "sub_region_code":"4311100000_Chungcheongbukdo_Cheongju_Sangdang"
         },
@@ -195,6 +212,7 @@
             "apt_type":"아파트",
             "apt_year":3.0,
             "value_score":66.442,
+            "region":"충청북도 청주시 상당구",
             "region_code":"Chungcheongbukdo",
             "sub_region_code":"4311100000_Chungcheongbukdo_Cheongju_Sangdang"
         },
@@ -206,6 +224,7 @@
             "apt_type":"아파트",
             "apt_year":5.0,
             "value_score":65.3755,
+            "region":"충청북도 청주시 상당구",
             "region_code":"Chungcheongbukdo",
             "sub_region_code":"4311100000_Chungcheongbukdo_Cheongju_Sangdang"
         },
@@ -217,6 +236,7 @@
             "apt_type":"아파트",
             "apt_year":5.0,
             "value_score":65.1255,
+            "region":"충청북도 청주시 상당구",
             "region_code":"Chungcheongbukdo",
             "sub_region_code":"4311100000_Chungcheongbukdo_Cheongju_Sangdang"
         },
@@ -228,6 +248,7 @@
             "apt_type":"아파트",
             "apt_year":1.0,
             "value_score":63.592,
+            "region":"충청북도 청주시 상당구",
             "region_code":"Chungcheongbukdo",
             "sub_region_code":"4311100000_Chungcheongbukdo_Cheongju_Sangdang"
         },
@@ -239,6 +260,7 @@
             "apt_type":"아파트",
             "apt_year":10.0,
             "value_score":63.592,
+            "region":"충청북도 청주시 상당구",
             "region_code":"Chungcheongbukdo",
             "sub_region_code":"4311100000_Chungcheongbukdo_Cheongju_Sangdang"
         },
@@ -250,6 +272,7 @@
             "apt_type":"분양권",
             "apt_year":1.0,
             "value_score":63.466,
+            "region":"충청북도 청주시 상당구",
             "region_code":"Chungcheongbukdo",
             "sub_region_code":"4311100000_Chungcheongbukdo_Cheongju_Sangdang"
         },
@@ -261,6 +284,7 @@
             "apt_type":"아파트",
             "apt_year":3.0,
             "value_score":63.442,
+            "region":"충청북도 청주시 상당구",
             "region_code":"Chungcheongbukdo",
             "sub_region_code":"4311100000_Chungcheongbukdo_Cheongju_Sangdang"
         },
@@ -272,6 +296,7 @@
             "apt_type":"아파트",
             "apt_year":5.0,
             "value_score":54.9307368421,
+            "region":"충청북도 청주시 상당구",
             "region_code":"Chungcheongbukdo",
             "sub_region_code":"4311100000_Chungcheongbukdo_Cheongju_Sangdang"
         },
@@ -283,6 +308,7 @@
             "apt_type":"아파트",
             "apt_year":3.0,
             "value_score":53.3530526316,
+            "region":"충청북도 청주시 상당구",
             "region_code":"Chungcheongbukdo",
             "sub_region_code":"4311100000_Chungcheongbukdo_Cheongju_Sangdang"
         },
@@ -294,6 +320,7 @@
             "apt_type":"아파트",
             "apt_year":1.0,
             "value_score":52.7214736842,
+            "region":"충청북도 청주시 상당구",
             "region_code":"Chungcheongbukdo",
             "sub_region_code":"4311100000_Chungcheongbukdo_Cheongju_Sangdang"
         },
@@ -305,6 +332,7 @@
             "apt_type":"아파트",
             "apt_year":4.0,
             "value_score":52.5755789474,
+            "region":"충청북도 청주시 상당구",
             "region_code":"Chungcheongbukdo",
             "sub_region_code":"4311100000_Chungcheongbukdo_Cheongju_Sangdang"
         },
@@ -316,6 +344,7 @@
             "apt_type":"아파트",
             "apt_year":3.0,
             "value_score":52.4056842105,
+            "region":"충청북도 청주시 상당구",
             "region_code":"Chungcheongbukdo",
             "sub_region_code":"4311100000_Chungcheongbukdo_Cheongju_Sangdang"
         },
@@ -327,6 +356,7 @@
             "apt_type":"아파트",
             "apt_year":24.0,
             "value_score":52.1101052632,
+            "region":"충청북도 청주시 상당구",
             "region_code":"Chungcheongbukdo",
             "sub_region_code":"4311100000_Chungcheongbukdo_Cheongju_Sangdang"
         },
@@ -338,6 +368,7 @@
             "apt_type":"아파트",
             "apt_year":3.0,
             "value_score":51.2703157895,
+            "region":"충청북도 청주시 상당구",
             "region_code":"Chungcheongbukdo",
             "sub_region_code":"4311100000_Chungcheongbukdo_Cheongju_Sangdang"
         },
@@ -349,6 +380,7 @@
             "apt_type":"아파트",
             "apt_year":3.0,
             "value_score":51.0435789474,
+            "region":"충청북도 청주시 상당구",
             "region_code":"Chungcheongbukdo",
             "sub_region_code":"4311100000_Chungcheongbukdo_Cheongju_Sangdang"
         },
@@ -360,6 +392,7 @@
             "apt_type":"분양권",
             "apt_year":0.0,
             "value_score":51.0416842105,
+            "region":"충청북도 청주시 상당구",
             "region_code":"Chungcheongbukdo",
             "sub_region_code":"4311100000_Chungcheongbukdo_Cheongju_Sangdang"
         },
@@ -371,6 +404,7 @@
             "apt_type":"아파트",
             "apt_year":5.0,
             "value_score":50.8427368421,
+            "region":"충청북도 청주시 상당구",
             "region_code":"Chungcheongbukdo",
             "sub_region_code":"4311100000_Chungcheongbukdo_Cheongju_Sangdang"
         },
@@ -382,6 +416,7 @@
             "apt_type":"아파트",
             "apt_year":3.0,
             "value_score":60.909,
+            "region":"충청북도 청주시 상당구",
             "region_code":"Chungcheongbukdo",
             "sub_region_code":"4311100000_Chungcheongbukdo_Cheongju_Sangdang"
         },
@@ -393,6 +428,7 @@
             "apt_type":"아파트",
             "apt_year":3.0,
             "value_score":59.819,
+            "region":"충청북도 청주시 상당구",
             "region_code":"Chungcheongbukdo",
             "sub_region_code":"4311100000_Chungcheongbukdo_Cheongju_Sangdang"
         },
@@ -404,6 +440,7 @@
             "apt_type":"분양권",
             "apt_year":0.0,
             "value_score":59.816,
+            "region":"충청북도 청주시 상당구",
             "region_code":"Chungcheongbukdo",
             "sub_region_code":"4311100000_Chungcheongbukdo_Cheongju_Sangdang"
         },
@@ -415,6 +452,7 @@
             "apt_type":"아파트",
             "apt_year":1.0,
             "value_score":59.559,
+            "region":"충청북도 청주시 상당구",
             "region_code":"Chungcheongbukdo",
             "sub_region_code":"4311100000_Chungcheongbukdo_Cheongju_Sangdang"
         },
@@ -426,6 +464,7 @@
             "apt_type":"아파트",
             "apt_year":5.0,
             "value_score":59.501,
+            "region":"충청북도 청주시 상당구",
             "region_code":"Chungcheongbukdo",
             "sub_region_code":"4311100000_Chungcheongbukdo_Cheongju_Sangdang"
         },
@@ -437,6 +476,7 @@
             "apt_type":"아파트",
             "apt_year":3.0,
             "value_score":59.409,
+            "region":"충청북도 청주시 상당구",
             "region_code":"Chungcheongbukdo",
             "sub_region_code":"4311100000_Chungcheongbukdo_Cheongju_Sangdang"
         },
@@ -448,6 +488,7 @@
             "apt_type":"아파트",
             "apt_year":4.0,
             "value_score":59.328,
+            "region":"충청북도 청주시 상당구",
             "region_code":"Chungcheongbukdo",
             "sub_region_code":"4311100000_Chungcheongbukdo_Cheongju_Sangdang"
         },
@@ -459,6 +500,7 @@
             "apt_type":"아파트",
             "apt_year":5.0,
             "value_score":59.251,
+            "region":"충청북도 청주시 상당구",
             "region_code":"Chungcheongbukdo",
             "sub_region_code":"4311100000_Chungcheongbukdo_Cheongju_Sangdang"
         },
@@ -470,6 +512,7 @@
             "apt_type":"아파트",
             "apt_year":10.0,
             "value_score":58.934,
+            "region":"충청북도 청주시 상당구",
             "region_code":"Chungcheongbukdo",
             "sub_region_code":"4311100000_Chungcheongbukdo_Cheongju_Sangdang"
         },
@@ -481,6 +524,7 @@
             "apt_type":"아파트",
             "apt_year":24.0,
             "value_score":58.591,
+            "region":"충청북도 청주시 상당구",
             "region_code":"Chungcheongbukdo",
             "sub_region_code":"4311100000_Chungcheongbukdo_Cheongju_Sangdang"
         }

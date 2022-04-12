@@ -30,6 +30,10 @@
                 "type":"number"
             },
             {
+                "name":"region",
+                "type":"string"
+            },
+            {
                 "name":"region_code",
                 "type":"string"
             },
@@ -52,6 +56,7 @@
             "apt_type":"분양권",
             "apt_year":-1.0,
             "value_score":37.2625,
+            "region":"전라남도 구례군",
             "region_code":"Jeollanamdo",
             "sub_region_code":"4673000000_Jeollanamdo_Gurye"
         },
@@ -63,6 +68,7 @@
             "apt_type":"분양권",
             "apt_year":-1.0,
             "value_score":34.8615,
+            "region":"전라남도 구례군",
             "region_code":"Jeollanamdo",
             "sub_region_code":"4673000000_Jeollanamdo_Gurye"
         },
@@ -74,6 +80,7 @@
             "apt_type":"아파트",
             "apt_year":9.0,
             "value_score":33.1745,
+            "region":"전라남도 구례군",
             "region_code":"Jeollanamdo",
             "sub_region_code":"4673000000_Jeollanamdo_Gurye"
         },
@@ -85,6 +92,7 @@
             "apt_type":"아파트",
             "apt_year":12.0,
             "value_score":33.0465,
+            "region":"전라남도 구례군",
             "region_code":"Jeollanamdo",
             "sub_region_code":"4673000000_Jeollanamdo_Gurye"
         },
@@ -96,6 +104,7 @@
             "apt_type":"아파트",
             "apt_year":23.0,
             "value_score":28.0965,
+            "region":"전라남도 구례군",
             "region_code":"Jeollanamdo",
             "sub_region_code":"4673000000_Jeollanamdo_Gurye"
         },
@@ -107,6 +116,7 @@
             "apt_type":"아파트",
             "apt_year":26.0,
             "value_score":24.5365,
+            "region":"전라남도 구례군",
             "region_code":"Jeollanamdo",
             "sub_region_code":"4673000000_Jeollanamdo_Gurye"
         },
@@ -118,6 +128,7 @@
             "apt_type":"분양권",
             "apt_year":-1.0,
             "value_score":41.6875,
+            "region":"전라남도 구례군",
             "region_code":"Jeollanamdo",
             "sub_region_code":"4673000000_Jeollanamdo_Gurye"
         },
@@ -129,6 +140,7 @@
             "apt_type":"분양권",
             "apt_year":-1.0,
             "value_score":40.1865,
+            "region":"전라남도 구례군",
             "region_code":"Jeollanamdo",
             "sub_region_code":"4673000000_Jeollanamdo_Gurye"
         },
@@ -140,6 +152,7 @@
             "apt_type":"아파트",
             "apt_year":9.0,
             "value_score":37.8995,
+            "region":"전라남도 구례군",
             "region_code":"Jeollanamdo",
             "sub_region_code":"4673000000_Jeollanamdo_Gurye"
         },
@@ -151,6 +164,7 @@
             "apt_type":"아파트",
             "apt_year":12.0,
             "value_score":35.5365,
+            "region":"전라남도 구례군",
             "region_code":"Jeollanamdo",
             "sub_region_code":"4673000000_Jeollanamdo_Gurye"
         },
@@ -162,6 +176,7 @@
             "apt_type":"아파트",
             "apt_year":23.0,
             "value_score":28.7865,
+            "region":"전라남도 구례군",
             "region_code":"Jeollanamdo",
             "sub_region_code":"4673000000_Jeollanamdo_Gurye"
         },
@@ -173,6 +188,7 @@
             "apt_type":"아파트",
             "apt_year":26.0,
             "value_score":25.4365,
+            "region":"전라남도 구례군",
             "region_code":"Jeollanamdo",
             "sub_region_code":"4673000000_Jeollanamdo_Gurye"
         },
@@ -184,6 +200,7 @@
             "apt_type":"분양권",
             "apt_year":-1.0,
             "value_score":33.9473684211,
+            "region":"전라남도 구례군",
             "region_code":"Jeollanamdo",
             "sub_region_code":"4673000000_Jeollanamdo_Gurye"
         },
@@ -195,6 +212,7 @@
             "apt_type":"아파트",
             "apt_year":12.0,
             "value_score":32.1829473684,
+            "region":"전라남도 구례군",
             "region_code":"Jeollanamdo",
             "sub_region_code":"4673000000_Jeollanamdo_Gurye"
         },
@@ -206,6 +224,7 @@
             "apt_type":"분양권",
             "apt_year":-1.0,
             "value_score":30.7882105263,
+            "region":"전라남도 구례군",
             "region_code":"Jeollanamdo",
             "sub_region_code":"4673000000_Jeollanamdo_Gurye"
         },
@@ -217,6 +236,7 @@
             "apt_type":"아파트",
             "apt_year":9.0,
             "value_score":29.7941052632,
+            "region":"전라남도 구례군",
             "region_code":"Jeollanamdo",
             "sub_region_code":"4673000000_Jeollanamdo_Gurye"
         },
@@ -228,6 +248,7 @@
             "apt_type":"아파트",
             "apt_year":23.0,
             "value_score":29.604,
+            "region":"전라남도 구례군",
             "region_code":"Jeollanamdo",
             "sub_region_code":"4673000000_Jeollanamdo_Gurye"
         },
@@ -239,6 +260,7 @@
             "apt_type":"아파트",
             "apt_year":26.0,
             "value_score":26.1303157895,
+            "region":"전라남도 구례군",
             "region_code":"Jeollanamdo",
             "sub_region_code":"4673000000_Jeollanamdo_Gurye"
         },
@@ -250,6 +272,7 @@
             "apt_type":"분양권",
             "apt_year":-1.0,
             "value_score":43.25,
+            "region":"전라남도 구례군",
             "region_code":"Jeollanamdo",
             "sub_region_code":"4673000000_Jeollanamdo_Gurye"
         },
@@ -261,6 +284,7 @@
             "apt_type":"분양권",
             "apt_year":-1.0,
             "value_score":41.748,
+            "region":"전라남도 구례군",
             "region_code":"Jeollanamdo",
             "sub_region_code":"4673000000_Jeollanamdo_Gurye"
         },
@@ -272,6 +296,7 @@
             "apt_type":"아파트",
             "apt_year":12.0,
             "value_score":40.223,
+            "region":"전라남도 구례군",
             "region_code":"Jeollanamdo",
             "sub_region_code":"4673000000_Jeollanamdo_Gurye"
         },
@@ -283,6 +308,7 @@
             "apt_type":"아파트",
             "apt_year":9.0,
             "value_score":40.174,
+            "region":"전라남도 구례군",
             "region_code":"Jeollanamdo",
             "sub_region_code":"4673000000_Jeollanamdo_Gurye"
         },
@@ -294,6 +320,7 @@
             "apt_type":"아파트",
             "apt_year":23.0,
             "value_score":36.723,
+            "region":"전라남도 구례군",
             "region_code":"Jeollanamdo",
             "sub_region_code":"4673000000_Jeollanamdo_Gurye"
         },
@@ -305,6 +332,7 @@
             "apt_type":"아파트",
             "apt_year":26.0,
             "value_score":34.373,
+            "region":"전라남도 구례군",
             "region_code":"Jeollanamdo",
             "sub_region_code":"4673000000_Jeollanamdo_Gurye"
         }

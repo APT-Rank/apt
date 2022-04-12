@@ -30,6 +30,10 @@
                 "type":"number"
             },
             {
+                "name":"region",
+                "type":"string"
+            },
+            {
                 "name":"region_code",
                 "type":"string"
             },
@@ -52,6 +56,7 @@
             "apt_type":"아파트",
             "apt_year":2,
             "value_score":47.1027,
+            "region":"경기도 양주시",
             "region_code":"Gyeonggi",
             "sub_region_code":"4163000000_Gyeonggi_Yangju"
         },
@@ -63,6 +68,7 @@
             "apt_type":"아파트",
             "apt_year":5,
             "value_score":46.3027,
+            "region":"경기도 양주시",
             "region_code":"Gyeonggi",
             "sub_region_code":"4163000000_Gyeonggi_Yangju"
         },
@@ -74,6 +80,7 @@
             "apt_type":"아파트",
             "apt_year":14,
             "value_score":45.3701,
+            "region":"경기도 양주시",
             "region_code":"Gyeonggi",
             "sub_region_code":"4163000000_Gyeonggi_Yangju"
         },
@@ -85,6 +92,7 @@
             "apt_type":"분양권",
             "apt_year":1,
             "value_score":44.8934,
+            "region":"경기도 양주시",
             "region_code":"Gyeonggi",
             "sub_region_code":"4163000000_Gyeonggi_Yangju"
         },
@@ -96,6 +104,7 @@
             "apt_type":"분양권",
             "apt_year":1,
             "value_score":41.6027,
+            "region":"경기도 양주시",
             "region_code":"Gyeonggi",
             "sub_region_code":"4163000000_Gyeonggi_Yangju"
         },
@@ -107,6 +116,7 @@
             "apt_type":"아파트",
             "apt_year":14,
             "value_score":41.3201,
+            "region":"경기도 양주시",
             "region_code":"Gyeonggi",
             "sub_region_code":"4163000000_Gyeonggi_Yangju"
         },
@@ -118,6 +128,7 @@
             "apt_type":"분양권",
             "apt_year":0,
             "value_score":41.1137,
+            "region":"경기도 양주시",
             "region_code":"Gyeonggi",
             "sub_region_code":"4163000000_Gyeonggi_Yangju"
         },
@@ -129,6 +140,7 @@
             "apt_type":"아파트",
             "apt_year":14,
             "value_score":40.9201,
+            "region":"경기도 양주시",
             "region_code":"Gyeonggi",
             "sub_region_code":"4163000000_Gyeonggi_Yangju"
         },
@@ -140,6 +152,7 @@
             "apt_type":"분양권",
             "apt_year":-1,
             "value_score":40.9137,
+            "region":"경기도 양주시",
             "region_code":"Gyeonggi",
             "sub_region_code":"4163000000_Gyeonggi_Yangju"
         },
@@ -151,6 +164,7 @@
             "apt_type":"아파트",
             "apt_year":13,
             "value_score":40.8201,
+            "region":"경기도 양주시",
             "region_code":"Gyeonggi",
             "sub_region_code":"4163000000_Gyeonggi_Yangju"
         },
@@ -162,6 +176,7 @@
             "apt_type":"아파트",
             "apt_year":2,
             "value_score":63.8536,
+            "region":"경기도 양주시",
             "region_code":"Gyeonggi",
             "sub_region_code":"4163000000_Gyeonggi_Yangju"
         },
@@ -173,6 +188,7 @@
             "apt_type":"아파트",
             "apt_year":5,
             "value_score":61.8536,
+            "region":"경기도 양주시",
             "region_code":"Gyeonggi",
             "sub_region_code":"4163000000_Gyeonggi_Yangju"
         },
@@ -184,6 +200,7 @@
             "apt_type":"분양권",
             "apt_year":1,
             "value_score":61.4912,
+            "region":"경기도 양주시",
             "region_code":"Gyeonggi",
             "sub_region_code":"4163000000_Gyeonggi_Yangju"
         },
@@ -195,6 +212,7 @@
             "apt_type":"분양권",
             "apt_year":0,
             "value_score":60.9536,
+            "region":"경기도 양주시",
             "region_code":"Gyeonggi",
             "sub_region_code":"4163000000_Gyeonggi_Yangju"
         },
@@ -206,6 +224,7 @@
             "apt_type":"분양권",
             "apt_year":0,
             "value_score":60.7532,
+            "region":"경기도 양주시",
             "region_code":"Gyeonggi",
             "sub_region_code":"4163000000_Gyeonggi_Yangju"
         },
@@ -217,6 +236,7 @@
             "apt_type":"분양권",
             "apt_year":0,
             "value_score":59.5712,
+            "region":"경기도 양주시",
             "region_code":"Gyeonggi",
             "sub_region_code":"4163000000_Gyeonggi_Yangju"
         },
@@ -228,6 +248,7 @@
             "apt_type":"아파트",
             "apt_year":3,
             "value_score":59.5036,
+            "region":"경기도 양주시",
             "region_code":"Gyeonggi",
             "sub_region_code":"4163000000_Gyeonggi_Yangju"
         },
@@ -239,6 +260,7 @@
             "apt_type":"아파트",
             "apt_year":4,
             "value_score":59.5036,
+            "region":"경기도 양주시",
             "region_code":"Gyeonggi",
             "sub_region_code":"4163000000_Gyeonggi_Yangju"
         },
@@ -250,6 +272,7 @@
             "apt_type":"아파트",
             "apt_year":3,
             "value_score":59.0036,
+            "region":"경기도 양주시",
             "region_code":"Gyeonggi",
             "sub_region_code":"4163000000_Gyeonggi_Yangju"
         },
@@ -261,6 +284,7 @@
             "apt_type":"분양권",
             "apt_year":1,
             "value_score":58.9036,
+            "region":"경기도 양주시",
             "region_code":"Gyeonggi",
             "sub_region_code":"4163000000_Gyeonggi_Yangju"
         },
@@ -272,6 +296,7 @@
             "apt_type":"아파트",
             "apt_year":2,
             "value_score":45.8777,
+            "region":"경기도 양주시",
             "region_code":"Gyeonggi",
             "sub_region_code":"4163000000_Gyeonggi_Yangju"
         },
@@ -283,6 +308,7 @@
             "apt_type":"아파트",
             "apt_year":5,
             "value_score":45.2777,
+            "region":"경기도 양주시",
             "region_code":"Gyeonggi",
             "sub_region_code":"4163000000_Gyeonggi_Yangju"
         },
@@ -294,6 +320,7 @@
             "apt_type":"아파트",
             "apt_year":14,
             "value_score":45.1451,
+            "region":"경기도 양주시",
             "region_code":"Gyeonggi",
             "sub_region_code":"4163000000_Gyeonggi_Yangju"
         },
@@ -305,6 +332,7 @@
             "apt_type":"분양권",
             "apt_year":-1,
             "value_score":44.5487,
+            "region":"경기도 양주시",
             "region_code":"Gyeonggi",
             "sub_region_code":"4163000000_Gyeonggi_Yangju"
         },
@@ -316,6 +344,7 @@
             "apt_type":"분양권",
             "apt_year":1,
             "value_score":44.5434,
+            "region":"경기도 양주시",
             "region_code":"Gyeonggi",
             "sub_region_code":"4163000000_Gyeonggi_Yangju"
         },
@@ -327,6 +356,7 @@
             "apt_type":"분양권",
             "apt_year":1,
             "value_score":42.1527,
+            "region":"경기도 양주시",
             "region_code":"Gyeonggi",
             "sub_region_code":"4163000000_Gyeonggi_Yangju"
         },
@@ -338,6 +368,7 @@
             "apt_type":"분양권",
             "apt_year":0,
             "value_score":41.8487,
+            "region":"경기도 양주시",
             "region_code":"Gyeonggi",
             "sub_region_code":"4163000000_Gyeonggi_Yangju"
         },
@@ -349,6 +380,7 @@
             "apt_type":"아파트",
             "apt_year":24,
             "value_score":41.6701,
+            "region":"경기도 양주시",
             "region_code":"Gyeonggi",
             "sub_region_code":"4163000000_Gyeonggi_Yangju"
         },
@@ -360,6 +392,7 @@
             "apt_type":"아파트",
             "apt_year":6,
             "value_score":40.8777,
+            "region":"경기도 양주시",
             "region_code":"Gyeonggi",
             "sub_region_code":"4163000000_Gyeonggi_Yangju"
         },
@@ -371,6 +404,7 @@
             "apt_type":"분양권",
             "apt_year":1,
             "value_score":40.8687,
+            "region":"경기도 양주시",
             "region_code":"Gyeonggi",
             "sub_region_code":"4163000000_Gyeonggi_Yangju"
         },
@@ -382,6 +416,7 @@
             "apt_type":"아파트",
             "apt_year":14,
             "value_score":42.5335,
+            "region":"경기도 양주시",
             "region_code":"Gyeonggi",
             "sub_region_code":"4163000000_Gyeonggi_Yangju"
         },
@@ -393,6 +428,7 @@
             "apt_type":"아파트",
             "apt_year":14,
             "value_score":42.4335,
+            "region":"경기도 양주시",
             "region_code":"Gyeonggi",
             "sub_region_code":"4163000000_Gyeonggi_Yangju"
         },
@@ -404,6 +440,7 @@
             "apt_type":"아파트",
             "apt_year":13,
             "value_score":42.3835,
+            "region":"경기도 양주시",
             "region_code":"Gyeonggi",
             "sub_region_code":"4163000000_Gyeonggi_Yangju"
         },
@@ -415,6 +452,7 @@
             "apt_type":"아파트",
             "apt_year":14,
             "value_score":41.4335,
+            "region":"경기도 양주시",
             "region_code":"Gyeonggi",
             "sub_region_code":"4163000000_Gyeonggi_Yangju"
         },
@@ -426,6 +464,7 @@
             "apt_type":"아파트",
             "apt_year":2,
             "value_score":40.0545,
+            "region":"경기도 양주시",
             "region_code":"Gyeonggi",
             "sub_region_code":"4163000000_Gyeonggi_Yangju"
         },
@@ -437,6 +476,7 @@
             "apt_type":"아파트",
             "apt_year":5,
             "value_score":39.6545,
+            "region":"경기도 양주시",
             "region_code":"Gyeonggi",
             "sub_region_code":"4163000000_Gyeonggi_Yangju"
         },
@@ -448,6 +488,7 @@
             "apt_type":"아파트",
             "apt_year":24,
             "value_score":39.4835,
+            "region":"경기도 양주시",
             "region_code":"Gyeonggi",
             "sub_region_code":"4163000000_Gyeonggi_Yangju"
         },
@@ -459,6 +500,7 @@
             "apt_type":"아파트",
             "apt_year":14,
             "value_score":38.684,
+            "region":"경기도 양주시",
             "region_code":"Gyeonggi",
             "sub_region_code":"4163000000_Gyeonggi_Yangju"
         },
@@ -470,6 +512,7 @@
             "apt_type":"아파트",
             "apt_year":14,
             "value_score":38.5335,
+            "region":"경기도 양주시",
             "region_code":"Gyeonggi",
             "sub_region_code":"4163000000_Gyeonggi_Yangju"
         },
@@ -481,6 +524,7 @@
             "apt_type":"아파트",
             "apt_year":14,
             "value_score":37.984,
+            "region":"경기도 양주시",
             "region_code":"Gyeonggi",
             "sub_region_code":"4163000000_Gyeonggi_Yangju"
         },
@@ -492,6 +536,7 @@
             "apt_type":"아파트",
             "apt_year":2,
             "value_score":50.509,
+            "region":"경기도 양주시",
             "region_code":"Gyeonggi",
             "sub_region_code":"4163000000_Gyeonggi_Yangju"
         },
@@ -503,6 +548,7 @@
             "apt_type":"분양권",
             "apt_year":1,
             "value_score":50.378,
+            "region":"경기도 양주시",
             "region_code":"Gyeonggi",
             "sub_region_code":"4163000000_Gyeonggi_Yangju"
         },
@@ -514,6 +560,7 @@
             "apt_type":"아파트",
             "apt_year":5,
             "value_score":49.709,
+            "region":"경기도 양주시",
             "region_code":"Gyeonggi",
             "sub_region_code":"4163000000_Gyeonggi_Yangju"
         },
@@ -525,6 +572,7 @@
             "apt_type":"아파트",
             "apt_year":14,
             "value_score":49.667,
+            "region":"경기도 양주시",
             "region_code":"Gyeonggi",
             "sub_region_code":"4163000000_Gyeonggi_Yangju"
         },
@@ -536,6 +584,7 @@
             "apt_type":"분양권",
             "apt_year":0,
             "value_score":48.758,
+            "region":"경기도 양주시",
             "region_code":"Gyeonggi",
             "sub_region_code":"4163000000_Gyeonggi_Yangju"
         },
@@ -547,6 +596,7 @@
             "apt_type":"아파트",
             "apt_year":14,
             "value_score":48.667,
+            "region":"경기도 양주시",
             "region_code":"Gyeonggi",
             "sub_region_code":"4163000000_Gyeonggi_Yangju"
         },
@@ -558,6 +608,7 @@
             "apt_type":"아파트",
             "apt_year":13,
             "value_score":48.567,
+            "region":"경기도 양주시",
             "region_code":"Gyeonggi",
             "sub_region_code":"4163000000_Gyeonggi_Yangju"
         },
@@ -569,6 +620,7 @@
             "apt_type":"아파트",
             "apt_year":14,
             "value_score":48.067,
+            "region":"경기도 양주시",
             "region_code":"Gyeonggi",
             "sub_region_code":"4163000000_Gyeonggi_Yangju"
         },
@@ -580,6 +632,7 @@
             "apt_type":"분양권",
             "apt_year":0,
             "value_score":47.609,
+            "region":"경기도 양주시",
             "region_code":"Gyeonggi",
             "sub_region_code":"4163000000_Gyeonggi_Yangju"
         },
@@ -591,6 +644,7 @@
             "apt_type":"분양권",
             "apt_year":0,
             "value_score":47.559,
+            "region":"경기도 양주시",
             "region_code":"Gyeonggi",
             "sub_region_code":"4163000000_Gyeonggi_Yangju"
         }

@@ -30,6 +30,10 @@
                 "type":"number"
             },
             {
+                "name":"region",
+                "type":"string"
+            },
+            {
                 "name":"region_code",
                 "type":"string"
             },
@@ -52,6 +56,7 @@
             "apt_type":"분양권",
             "apt_year":0,
             "value_score":46.8075,
+            "region":"충청북도 진천군",
             "region_code":"Chungcheongbukdo",
             "sub_region_code":"4375000000_Chungcheongbukdo_Jincheon"
         },
@@ -63,6 +68,7 @@
             "apt_type":"아파트",
             "apt_year":7,
             "value_score":46.0025,
+            "region":"충청북도 진천군",
             "region_code":"Chungcheongbukdo",
             "sub_region_code":"4375000000_Chungcheongbukdo_Jincheon"
         },
@@ -74,6 +80,7 @@
             "apt_type":"아파트",
             "apt_year":6,
             "value_score":43.3125,
+            "region":"충청북도 진천군",
             "region_code":"Chungcheongbukdo",
             "sub_region_code":"4375000000_Chungcheongbukdo_Jincheon"
         },
@@ -85,6 +92,7 @@
             "apt_type":"분양권",
             "apt_year":0,
             "value_score":43.002,
+            "region":"충청북도 진천군",
             "region_code":"Chungcheongbukdo",
             "sub_region_code":"4375000000_Chungcheongbukdo_Jincheon"
         },
@@ -96,6 +104,7 @@
             "apt_type":"아파트",
             "apt_year":5,
             "value_score":42.1605,
+            "region":"충청북도 진천군",
             "region_code":"Chungcheongbukdo",
             "sub_region_code":"4375000000_Chungcheongbukdo_Jincheon"
         },
@@ -107,6 +116,7 @@
             "apt_type":"아파트",
             "apt_year":5,
             "value_score":42.0845,
+            "region":"충청북도 진천군",
             "region_code":"Chungcheongbukdo",
             "sub_region_code":"4375000000_Chungcheongbukdo_Jincheon"
         },
@@ -118,6 +128,7 @@
             "apt_type":"분양권",
             "apt_year":-1,
             "value_score":42.0095,
+            "region":"충청북도 진천군",
             "region_code":"Chungcheongbukdo",
             "sub_region_code":"4375000000_Chungcheongbukdo_Jincheon"
         },
@@ -129,6 +140,7 @@
             "apt_type":"아파트",
             "apt_year":5,
             "value_score":41.8105,
+            "region":"충청북도 진천군",
             "region_code":"Chungcheongbukdo",
             "sub_region_code":"4375000000_Chungcheongbukdo_Jincheon"
         },
@@ -140,6 +152,7 @@
             "apt_type":"아파트",
             "apt_year":6,
             "value_score":41.596,
+            "region":"충청북도 진천군",
             "region_code":"Chungcheongbukdo",
             "sub_region_code":"4375000000_Chungcheongbukdo_Jincheon"
         },
@@ -151,6 +164,7 @@
             "apt_type":"아파트",
             "apt_year":7,
             "value_score":40.8375,
+            "region":"충청북도 진천군",
             "region_code":"Chungcheongbukdo",
             "sub_region_code":"4375000000_Chungcheongbukdo_Jincheon"
         },
@@ -162,6 +176,7 @@
             "apt_type":"분양권",
             "apt_year":-1,
             "value_score":53.4095,
+            "region":"충청북도 진천군",
             "region_code":"Chungcheongbukdo",
             "sub_region_code":"4375000000_Chungcheongbukdo_Jincheon"
         },
@@ -173,6 +188,7 @@
             "apt_type":"아파트",
             "apt_year":5,
             "value_score":52.6605,
+            "region":"충청북도 진천군",
             "region_code":"Chungcheongbukdo",
             "sub_region_code":"4375000000_Chungcheongbukdo_Jincheon"
         },
@@ -184,6 +200,7 @@
             "apt_type":"아파트",
             "apt_year":5,
             "value_score":52.1605,
+            "region":"충청북도 진천군",
             "region_code":"Chungcheongbukdo",
             "sub_region_code":"4375000000_Chungcheongbukdo_Jincheon"
         },
@@ -195,6 +212,7 @@
             "apt_type":"분양권",
             "apt_year":0,
             "value_score":51.552,
+            "region":"충청북도 진천군",
             "region_code":"Chungcheongbukdo",
             "sub_region_code":"4375000000_Chungcheongbukdo_Jincheon"
         },
@@ -206,6 +224,7 @@
             "apt_type":"분양권",
             "apt_year":0,
             "value_score":51.2325,
+            "region":"충청북도 진천군",
             "region_code":"Chungcheongbukdo",
             "sub_region_code":"4375000000_Chungcheongbukdo_Jincheon"
         },
@@ -217,6 +236,7 @@
             "apt_type":"아파트",
             "apt_year":7,
             "value_score":50.0525,
+            "region":"충청북도 진천군",
             "region_code":"Chungcheongbukdo",
             "sub_region_code":"4375000000_Chungcheongbukdo_Jincheon"
         },
@@ -228,6 +248,7 @@
             "apt_type":"아파트",
             "apt_year":8,
             "value_score":49.6605,
+            "region":"충청북도 진천군",
             "region_code":"Chungcheongbukdo",
             "sub_region_code":"4375000000_Chungcheongbukdo_Jincheon"
         },
@@ -239,6 +260,7 @@
             "apt_type":"아파트",
             "apt_year":5,
             "value_score":49.6595,
+            "region":"충청북도 진천군",
             "region_code":"Chungcheongbukdo",
             "sub_region_code":"4375000000_Chungcheongbukdo_Jincheon"
         },
@@ -250,6 +272,7 @@
             "apt_type":"아파트",
             "apt_year":6,
             "value_score":49.261,
+            "region":"충청북도 진천군",
             "region_code":"Chungcheongbukdo",
             "sub_region_code":"4375000000_Chungcheongbukdo_Jincheon"
         },
@@ -261,6 +284,7 @@
             "apt_type":"아파트",
             "apt_year":8,
             "value_score":48.1605,
+            "region":"충청북도 진천군",
             "region_code":"Chungcheongbukdo",
             "sub_region_code":"4375000000_Chungcheongbukdo_Jincheon"
         },
@@ -272,6 +296,7 @@
             "apt_type":"분양권",
             "apt_year":0,
             "value_score":42.5831578947,
+            "region":"충청북도 진천군",
             "region_code":"Chungcheongbukdo",
             "sub_region_code":"4375000000_Chungcheongbukdo_Jincheon"
         },
@@ -283,6 +308,7 @@
             "apt_type":"아파트",
             "apt_year":32,
             "value_score":42.0130526316,
+            "region":"충청북도 진천군",
             "region_code":"Chungcheongbukdo",
             "sub_region_code":"4375000000_Chungcheongbukdo_Jincheon"
         },
@@ -294,6 +320,7 @@
             "apt_type":"아파트",
             "apt_year":7,
             "value_score":41.4873684211,
+            "region":"충청북도 진천군",
             "region_code":"Chungcheongbukdo",
             "sub_region_code":"4375000000_Chungcheongbukdo_Jincheon"
         },
@@ -305,6 +332,7 @@
             "apt_type":"아파트",
             "apt_year":6,
             "value_score":40.0663157895,
+            "region":"충청북도 진천군",
             "region_code":"Chungcheongbukdo",
             "sub_region_code":"4375000000_Chungcheongbukdo_Jincheon"
         },
@@ -316,6 +344,7 @@
             "apt_type":"아파트",
             "apt_year":7,
             "value_score":39.9873684211,
+            "region":"충청북도 진천군",
             "region_code":"Chungcheongbukdo",
             "sub_region_code":"4375000000_Chungcheongbukdo_Jincheon"
         },
@@ -327,6 +356,7 @@
             "apt_type":"아파트",
             "apt_year":6,
             "value_score":37.2242105263,
+            "region":"충청북도 진천군",
             "region_code":"Chungcheongbukdo",
             "sub_region_code":"4375000000_Chungcheongbukdo_Jincheon"
         },
@@ -338,6 +368,7 @@
             "apt_type":"아파트",
             "apt_year":23,
             "value_score":37.0393684211,
+            "region":"충청북도 진천군",
             "region_code":"Chungcheongbukdo",
             "sub_region_code":"4375000000_Chungcheongbukdo_Jincheon"
         },
@@ -349,6 +380,7 @@
             "apt_type":"아파트",
             "apt_year":5,
             "value_score":34.8593684211,
+            "region":"충청북도 진천군",
             "region_code":"Chungcheongbukdo",
             "sub_region_code":"4375000000_Chungcheongbukdo_Jincheon"
         },
@@ -360,6 +392,7 @@
             "apt_type":"아파트",
             "apt_year":32,
             "value_score":34.6978947368,
+            "region":"충청북도 진천군",
             "region_code":"Chungcheongbukdo",
             "sub_region_code":"4375000000_Chungcheongbukdo_Jincheon"
         },
@@ -371,6 +404,7 @@
             "apt_type":"아파트",
             "apt_year":6,
             "value_score":34.2296842105,
+            "region":"충청북도 진천군",
             "region_code":"Chungcheongbukdo",
             "sub_region_code":"4375000000_Chungcheongbukdo_Jincheon"
         },
@@ -382,6 +416,7 @@
             "apt_type":"분양권",
             "apt_year":0,
             "value_score":49.34,
+            "region":"충청북도 진천군",
             "region_code":"Chungcheongbukdo",
             "sub_region_code":"4375000000_Chungcheongbukdo_Jincheon"
         },
@@ -393,6 +428,7 @@
             "apt_type":"아파트",
             "apt_year":5,
             "value_score":46.821,
+            "region":"충청북도 진천군",
             "region_code":"Chungcheongbukdo",
             "sub_region_code":"4375000000_Chungcheongbukdo_Jincheon"
         },
@@ -404,6 +440,7 @@
             "apt_type":"분양권",
             "apt_year":-1,
             "value_score":46.819,
+            "region":"충청북도 진천군",
             "region_code":"Chungcheongbukdo",
             "sub_region_code":"4375000000_Chungcheongbukdo_Jincheon"
         },
@@ -415,6 +452,7 @@
             "apt_type":"아파트",
             "apt_year":5,
             "value_score":46.571,
+            "region":"충청북도 진천군",
             "region_code":"Chungcheongbukdo",
             "sub_region_code":"4375000000_Chungcheongbukdo_Jincheon"
         },
@@ -426,6 +464,7 @@
             "apt_type":"아파트",
             "apt_year":5,
             "value_score":46.444,
+            "region":"충청북도 진천군",
             "region_code":"Chungcheongbukdo",
             "sub_region_code":"4375000000_Chungcheongbukdo_Jincheon"
         },
@@ -437,6 +476,7 @@
             "apt_type":"아파트",
             "apt_year":7,
             "value_score":45.855,
+            "region":"충청북도 진천군",
             "region_code":"Chungcheongbukdo",
             "sub_region_code":"4375000000_Chungcheongbukdo_Jincheon"
         },
@@ -448,6 +488,7 @@
             "apt_type":"아파트",
             "apt_year":6,
             "value_score":45.797,
+            "region":"충청북도 진천군",
             "region_code":"Chungcheongbukdo",
             "sub_region_code":"4375000000_Chungcheongbukdo_Jincheon"
         },
@@ -459,6 +500,7 @@
             "apt_type":"아파트",
             "apt_year":13,
             "value_score":45.0,
+            "region":"충청북도 진천군",
             "region_code":"Chungcheongbukdo",
             "sub_region_code":"4375000000_Chungcheongbukdo_Jincheon"
         },
@@ -470,6 +512,7 @@
             "apt_type":"아파트",
             "apt_year":8,
             "value_score":44.946,
+            "region":"충청북도 진천군",
             "region_code":"Chungcheongbukdo",
             "sub_region_code":"4375000000_Chungcheongbukdo_Jincheon"
         },
@@ -481,6 +524,7 @@
             "apt_type":"아파트",
             "apt_year":8,
             "value_score":44.946,
+            "region":"충청북도 진천군",
             "region_code":"Chungcheongbukdo",
             "sub_region_code":"4375000000_Chungcheongbukdo_Jincheon"
         }

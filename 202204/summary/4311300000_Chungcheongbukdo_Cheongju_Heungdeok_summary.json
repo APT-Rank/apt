@@ -30,6 +30,10 @@
                 "type":"number"
             },
             {
+                "name":"region",
+                "type":"string"
+            },
+            {
                 "name":"region_code",
                 "type":"string"
             },
@@ -52,6 +56,7 @@
             "apt_type":"아파트",
             "apt_year":8,
             "value_score":80.724,
+            "region":"충청북도 청주시 흥덕구",
             "region_code":"Chungcheongbukdo",
             "sub_region_code":"4311300000_Chungcheongbukdo_Cheongju_Heungdeok"
         },
@@ -63,6 +68,7 @@
             "apt_type":"아파트",
             "apt_year":13,
             "value_score":80.374,
+            "region":"충청북도 청주시 흥덕구",
             "region_code":"Chungcheongbukdo",
             "sub_region_code":"4311300000_Chungcheongbukdo_Cheongju_Heungdeok"
         },
@@ -74,6 +80,7 @@
             "apt_type":"아파트",
             "apt_year":4,
             "value_score":75.759,
+            "region":"충청북도 청주시 흥덕구",
             "region_code":"Chungcheongbukdo",
             "sub_region_code":"4311300000_Chungcheongbukdo_Cheongju_Heungdeok"
         },
@@ -85,6 +92,7 @@
             "apt_type":"아파트",
             "apt_year":4,
             "value_score":74.044,
+            "region":"충청북도 청주시 흥덕구",
             "region_code":"Chungcheongbukdo",
             "sub_region_code":"4311300000_Chungcheongbukdo_Cheongju_Heungdeok"
         },
@@ -96,6 +104,7 @@
             "apt_type":"아파트",
             "apt_year":14,
             "value_score":73.199,
+            "region":"충청북도 청주시 흥덕구",
             "region_code":"Chungcheongbukdo",
             "sub_region_code":"4311300000_Chungcheongbukdo_Cheongju_Heungdeok"
         },
@@ -107,6 +116,7 @@
             "apt_type":"아파트",
             "apt_year":15,
             "value_score":72.0395,
+            "region":"충청북도 청주시 흥덕구",
             "region_code":"Chungcheongbukdo",
             "sub_region_code":"4311300000_Chungcheongbukdo_Cheongju_Heungdeok"
         },
@@ -118,6 +128,7 @@
             "apt_type":"아파트",
             "apt_year":15,
             "value_score":70.4395,
+            "region":"충청북도 청주시 흥덕구",
             "region_code":"Chungcheongbukdo",
             "sub_region_code":"4311300000_Chungcheongbukdo_Cheongju_Heungdeok"
         },
@@ -129,6 +140,7 @@
             "apt_type":"아파트",
             "apt_year":20,
             "value_score":68.799,
+            "region":"충청북도 청주시 흥덕구",
             "region_code":"Chungcheongbukdo",
             "sub_region_code":"4311300000_Chungcheongbukdo_Cheongju_Heungdeok"
         },
@@ -140,6 +152,7 @@
             "apt_type":"아파트",
             "apt_year":8,
             "value_score":68.124,
+            "region":"충청북도 청주시 흥덕구",
             "region_code":"Chungcheongbukdo",
             "sub_region_code":"4311300000_Chungcheongbukdo_Cheongju_Heungdeok"
         },
@@ -151,6 +164,7 @@
             "apt_type":"아파트",
             "apt_year":15,
             "value_score":67.0395,
+            "region":"충청북도 청주시 흥덕구",
             "region_code":"Chungcheongbukdo",
             "sub_region_code":"4311300000_Chungcheongbukdo_Cheongju_Heungdeok"
         },
@@ -162,6 +176,7 @@
             "apt_type":"아파트",
             "apt_year":8,
             "value_score":81.774,
+            "region":"충청북도 청주시 흥덕구",
             "region_code":"Chungcheongbukdo",
             "sub_region_code":"4311300000_Chungcheongbukdo_Cheongju_Heungdeok"
         },
@@ -173,6 +188,7 @@
             "apt_type":"아파트",
             "apt_year":13,
             "value_score":81.274,
+            "region":"충청북도 청주시 흥덕구",
             "region_code":"Chungcheongbukdo",
             "sub_region_code":"4311300000_Chungcheongbukdo_Cheongju_Heungdeok"
         },
@@ -184,6 +200,7 @@
             "apt_type":"아파트",
             "apt_year":4,
             "value_score":75.169,
+            "region":"충청북도 청주시 흥덕구",
             "region_code":"Chungcheongbukdo",
             "sub_region_code":"4311300000_Chungcheongbukdo_Cheongju_Heungdeok"
         },
@@ -195,6 +212,7 @@
             "apt_type":"아파트",
             "apt_year":4,
             "value_score":74.874,
+            "region":"충청북도 청주시 흥덕구",
             "region_code":"Chungcheongbukdo",
             "sub_region_code":"4311300000_Chungcheongbukdo_Cheongju_Heungdeok"
         },
@@ -206,6 +224,7 @@
             "apt_type":"아파트",
             "apt_year":4,
             "value_score":71.8145,
+            "region":"충청북도 청주시 흥덕구",
             "region_code":"Chungcheongbukdo",
             "sub_region_code":"4311300000_Chungcheongbukdo_Cheongju_Heungdeok"
         },
@@ -217,6 +236,7 @@
             "apt_type":"아파트",
             "apt_year":14,
             "value_score":71.024,
+            "region":"충청북도 청주시 흥덕구",
             "region_code":"Chungcheongbukdo",
             "sub_region_code":"4311300000_Chungcheongbukdo_Cheongju_Heungdeok"
         },
@@ -228,6 +248,7 @@
             "apt_type":"아파트",
             "apt_year":15,
             "value_score":68.8145,
+            "region":"충청북도 청주시 흥덕구",
             "region_code":"Chungcheongbukdo",
             "sub_region_code":"4311300000_Chungcheongbukdo_Cheongju_Heungdeok"
         },
@@ -239,6 +260,7 @@
             "apt_type":"아파트",
             "apt_year":2,
             "value_score":68.3145,
+            "region":"충청북도 청주시 흥덕구",
             "region_code":"Chungcheongbukdo",
             "sub_region_code":"4311300000_Chungcheongbukdo_Cheongju_Heungdeok"
         },
@@ -250,6 +272,7 @@
             "apt_type":"아파트",
             "apt_year":15,
             "value_score":67.8145,
+            "region":"충청북도 청주시 흥덕구",
             "region_code":"Chungcheongbukdo",
             "sub_region_code":"4311300000_Chungcheongbukdo_Cheongju_Heungdeok"
         },
@@ -261,6 +284,7 @@
             "apt_type":"아파트",
             "apt_year":24,
             "value_score":67.0235,
+            "region":"충청북도 청주시 흥덕구",
             "region_code":"Chungcheongbukdo",
             "sub_region_code":"4311300000_Chungcheongbukdo_Cheongju_Heungdeok"
         },
@@ -272,6 +296,7 @@
             "apt_type":"아파트",
             "apt_year":8,
             "value_score":78.1355789474,
+            "region":"충청북도 청주시 흥덕구",
             "region_code":"Chungcheongbukdo",
             "sub_region_code":"4311300000_Chungcheongbukdo_Cheongju_Heungdeok"
         },
@@ -283,6 +308,7 @@
             "apt_type":"아파트",
             "apt_year":13,
             "value_score":77.9776842105,
+            "region":"충청북도 청주시 흥덕구",
             "region_code":"Chungcheongbukdo",
             "sub_region_code":"4311300000_Chungcheongbukdo_Cheongju_Heungdeok"
         },
@@ -294,6 +320,7 @@
             "apt_type":"아파트",
             "apt_year":4,
             "value_score":75.6882105263,
+            "region":"충청북도 청주시 흥덕구",
             "region_code":"Chungcheongbukdo",
             "sub_region_code":"4311300000_Chungcheongbukdo_Cheongju_Heungdeok"
         },
@@ -305,6 +332,7 @@
             "apt_type":"아파트",
             "apt_year":14,
             "value_score":74.7408421053,
+            "region":"충청북도 청주시 흥덕구",
             "region_code":"Chungcheongbukdo",
             "sub_region_code":"4311300000_Chungcheongbukdo_Cheongju_Heungdeok"
         },
@@ -316,6 +344,7 @@
             "apt_type":"아파트",
             "apt_year":15,
             "value_score":74.4762105263,
+            "region":"충청북도 청주시 흥덕구",
             "region_code":"Chungcheongbukdo",
             "sub_region_code":"4311300000_Chungcheongbukdo_Cheongju_Heungdeok"
         },
@@ -327,6 +356,7 @@
             "apt_type":"아파트",
             "apt_year":15,
             "value_score":73.5551578947,
+            "region":"충청북도 청주시 흥덕구",
             "region_code":"Chungcheongbukdo",
             "sub_region_code":"4311300000_Chungcheongbukdo_Cheongju_Heungdeok"
         },
@@ -338,6 +368,7 @@
             "apt_type":"아파트",
             "apt_year":7,
             "value_score":73.3446315789,
+            "region":"충청북도 청주시 흥덕구",
             "region_code":"Chungcheongbukdo",
             "sub_region_code":"4311300000_Chungcheongbukdo_Cheongju_Heungdeok"
         },
@@ -349,6 +380,7 @@
             "apt_type":"아파트",
             "apt_year":8,
             "value_score":72.4513684211,
+            "region":"충청북도 청주시 흥덕구",
             "region_code":"Chungcheongbukdo",
             "sub_region_code":"4311300000_Chungcheongbukdo_Cheongju_Heungdeok"
         },
@@ -360,6 +392,7 @@
             "apt_type":"아파트",
             "apt_year":2,
             "value_score":72.3978947368,
+            "region":"충청북도 청주시 흥덕구",
             "region_code":"Chungcheongbukdo",
             "sub_region_code":"4311300000_Chungcheongbukdo_Cheongju_Heungdeok"
         },
@@ -371,6 +404,7 @@
             "apt_type":"아파트",
             "apt_year":15,
             "value_score":72.3709473684,
+            "region":"충청북도 청주시 흥덕구",
             "region_code":"Chungcheongbukdo",
             "sub_region_code":"4311300000_Chungcheongbukdo_Cheongju_Heungdeok"
         },
@@ -382,6 +416,7 @@
             "apt_type":"아파트",
             "apt_year":8,
             "value_score":75.298,
+            "region":"충청북도 청주시 흥덕구",
             "region_code":"Chungcheongbukdo",
             "sub_region_code":"4311300000_Chungcheongbukdo_Cheongju_Heungdeok"
         },
@@ -393,6 +428,7 @@
             "apt_type":"아파트",
             "apt_year":13,
             "value_score":75.048,
+            "region":"충청북도 청주시 흥덕구",
             "region_code":"Chungcheongbukdo",
             "sub_region_code":"4311300000_Chungcheongbukdo_Cheongju_Heungdeok"
         },
@@ -404,6 +440,7 @@
             "apt_type":"아파트",
             "apt_year":4,
             "value_score":71.773,
+            "region":"충청북도 청주시 흥덕구",
             "region_code":"Chungcheongbukdo",
             "sub_region_code":"4311300000_Chungcheongbukdo_Cheongju_Heungdeok"
         },
@@ -415,6 +452,7 @@
             "apt_type":"아파트",
             "apt_year":14,
             "value_score":69.923,
+            "region":"충청북도 청주시 흥덕구",
             "region_code":"Chungcheongbukdo",
             "sub_region_code":"4311300000_Chungcheongbukdo_Cheongju_Heungdeok"
         },
@@ -426,6 +464,7 @@
             "apt_type":"아파트",
             "apt_year":4,
             "value_score":68.713,
+            "region":"충청북도 청주시 흥덕구",
             "region_code":"Chungcheongbukdo",
             "sub_region_code":"4311300000_Chungcheongbukdo_Cheongju_Heungdeok"
         },
@@ -437,6 +476,7 @@
             "apt_type":"아파트",
             "apt_year":15,
             "value_score":67.754,
+            "region":"충청북도 청주시 흥덕구",
             "region_code":"Chungcheongbukdo",
             "sub_region_code":"4311300000_Chungcheongbukdo_Cheongju_Heungdeok"
         },
@@ -448,6 +488,7 @@
             "apt_type":"아파트",
             "apt_year":20,
             "value_score":66.923,
+            "region":"충청북도 청주시 흥덕구",
             "region_code":"Chungcheongbukdo",
             "sub_region_code":"4311300000_Chungcheongbukdo_Cheongju_Heungdeok"
         },
@@ -459,6 +500,7 @@
             "apt_type":"아파트",
             "apt_year":15,
             "value_score":66.754,
+            "region":"충청북도 청주시 흥덕구",
             "region_code":"Chungcheongbukdo",
             "sub_region_code":"4311300000_Chungcheongbukdo_Cheongju_Heungdeok"
         },
@@ -470,6 +512,7 @@
             "apt_type":"아파트",
             "apt_year":8,
             "value_score":66.298,
+            "region":"충청북도 청주시 흥덕구",
             "region_code":"Chungcheongbukdo",
             "sub_region_code":"4311300000_Chungcheongbukdo_Cheongju_Heungdeok"
         },
@@ -481,6 +524,7 @@
             "apt_type":"아파트",
             "apt_year":24,
             "value_score":65.547,
+            "region":"충청북도 청주시 흥덕구",
             "region_code":"Chungcheongbukdo",
             "sub_region_code":"4311300000_Chungcheongbukdo_Cheongju_Heungdeok"
         }

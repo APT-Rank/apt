@@ -30,6 +30,10 @@
                 "type":"number"
             },
             {
+                "name":"region",
+                "type":"string"
+            },
+            {
                 "name":"region_code",
                 "type":"string"
             },
@@ -52,6 +56,7 @@
             "apt_type":"아파트",
             "apt_year":10.0,
             "value_score":30.963,
+            "region":"경상북도 청도군",
             "region_code":"Gyeongsangbukdo",
             "sub_region_code":"4782000000_Gyeongsangbukdo_Cheongdo"
         },
@@ -63,6 +68,7 @@
             "apt_type":"아파트",
             "apt_year":5.0,
             "value_score":29.2885,
+            "region":"경상북도 청도군",
             "region_code":"Gyeongsangbukdo",
             "sub_region_code":"4782000000_Gyeongsangbukdo_Cheongdo"
         },
@@ -74,6 +80,7 @@
             "apt_type":"아파트",
             "apt_year":18.0,
             "value_score":26.944,
+            "region":"경상북도 청도군",
             "region_code":"Gyeongsangbukdo",
             "sub_region_code":"4782000000_Gyeongsangbukdo_Cheongdo"
         },
@@ -85,6 +92,7 @@
             "apt_type":"아파트",
             "apt_year":28.0,
             "value_score":26.161,
+            "region":"경상북도 청도군",
             "region_code":"Gyeongsangbukdo",
             "sub_region_code":"4782000000_Gyeongsangbukdo_Cheongdo"
         },
@@ -96,6 +104,7 @@
             "apt_type":"아파트",
             "apt_year":33.0,
             "value_score":25.151,
+            "region":"경상북도 청도군",
             "region_code":"Gyeongsangbukdo",
             "sub_region_code":"4782000000_Gyeongsangbukdo_Cheongdo"
         },
@@ -107,6 +116,7 @@
             "apt_type":"아파트",
             "apt_year":5.0,
             "value_score":35.8135,
+            "region":"경상북도 청도군",
             "region_code":"Gyeongsangbukdo",
             "sub_region_code":"4782000000_Gyeongsangbukdo_Cheongdo"
         },
@@ -118,6 +128,7 @@
             "apt_type":"아파트",
             "apt_year":10.0,
             "value_score":33.063,
+            "region":"경상북도 청도군",
             "region_code":"Gyeongsangbukdo",
             "sub_region_code":"4782000000_Gyeongsangbukdo_Cheongdo"
         },
@@ -129,6 +140,7 @@
             "apt_type":"아파트",
             "apt_year":18.0,
             "value_score":29.044,
+            "region":"경상북도 청도군",
             "region_code":"Gyeongsangbukdo",
             "sub_region_code":"4782000000_Gyeongsangbukdo_Cheongdo"
         },
@@ -140,6 +152,7 @@
             "apt_type":"아파트",
             "apt_year":33.0,
             "value_score":25.601,
+            "region":"경상북도 청도군",
             "region_code":"Gyeongsangbukdo",
             "sub_region_code":"4782000000_Gyeongsangbukdo_Cheongdo"
         },
@@ -151,6 +164,7 @@
             "apt_type":"아파트",
             "apt_year":28.0,
             "value_score":23.701,
+            "region":"경상북도 청도군",
             "region_code":"Gyeongsangbukdo",
             "sub_region_code":"4782000000_Gyeongsangbukdo_Cheongdo"
         },
@@ -162,6 +176,7 @@
             "apt_type":"아파트",
             "apt_year":28.0,
             "value_score":31.0223157895,
+            "region":"경상북도 청도군",
             "region_code":"Gyeongsangbukdo",
             "sub_region_code":"4782000000_Gyeongsangbukdo_Cheongdo"
         },
@@ -173,6 +188,7 @@
             "apt_type":"아파트",
             "apt_year":10.0,
             "value_score":30.9216842105,
+            "region":"경상북도 청도군",
             "region_code":"Gyeongsangbukdo",
             "sub_region_code":"4782000000_Gyeongsangbukdo_Cheongdo"
         },
@@ -184,6 +200,7 @@
             "apt_type":"아파트",
             "apt_year":33.0,
             "value_score":26.9696842105,
+            "region":"경상북도 청도군",
             "region_code":"Gyeongsangbukdo",
             "sub_region_code":"4782000000_Gyeongsangbukdo_Cheongdo"
         },
@@ -195,6 +212,7 @@
             "apt_type":"아파트",
             "apt_year":18.0,
             "value_score":26.8976842105,
+            "region":"경상북도 청도군",
             "region_code":"Gyeongsangbukdo",
             "sub_region_code":"4782000000_Gyeongsangbukdo_Cheongdo"
         },
@@ -206,6 +224,7 @@
             "apt_type":"아파트",
             "apt_year":5.0,
             "value_score":24.6328421053,
+            "region":"경상북도 청도군",
             "region_code":"Gyeongsangbukdo",
             "sub_region_code":"4782000000_Gyeongsangbukdo_Cheongdo"
         },
@@ -217,6 +236,7 @@
             "apt_type":"아파트",
             "apt_year":10.0,
             "value_score":39.626,
+            "region":"경상북도 청도군",
             "region_code":"Gyeongsangbukdo",
             "sub_region_code":"4782000000_Gyeongsangbukdo_Cheongdo"
         },
@@ -228,6 +248,7 @@
             "apt_type":"아파트",
             "apt_year":5.0,
             "value_score":39.002,
+            "region":"경상북도 청도군",
             "region_code":"Gyeongsangbukdo",
             "sub_region_code":"4782000000_Gyeongsangbukdo_Cheongdo"
         },
@@ -239,6 +260,7 @@
             "apt_type":"아파트",
             "apt_year":18.0,
             "value_score":35.588,
+            "region":"경상북도 청도군",
             "region_code":"Gyeongsangbukdo",
             "sub_region_code":"4782000000_Gyeongsangbukdo_Cheongdo"
         },
@@ -250,6 +272,7 @@
             "apt_type":"아파트",
             "apt_year":28.0,
             "value_score":34.302,
+            "region":"경상북도 청도군",
             "region_code":"Gyeongsangbukdo",
             "sub_region_code":"4782000000_Gyeongsangbukdo_Cheongdo"
         },
@@ -261,6 +284,7 @@
             "apt_type":"아파트",
             "apt_year":33.0,
             "value_score":33.952,
+            "region":"경상북도 청도군",
             "region_code":"Gyeongsangbukdo",
             "sub_region_code":"4782000000_Gyeongsangbukdo_Cheongdo"
         }

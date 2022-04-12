@@ -30,6 +30,10 @@
                 "type":"number"
             },
             {
+                "name":"region",
+                "type":"string"
+            },
+            {
                 "name":"region_code",
                 "type":"string"
             },
@@ -52,6 +56,7 @@
             "apt_type":"아파트",
             "apt_year":8.0,
             "value_score":33.693,
+            "region":"충청북도 영동군",
             "region_code":"Chungcheongbukdo",
             "sub_region_code":"4374000000_Chungcheongbukdo_Yeongdong"
         },
@@ -63,6 +68,7 @@
             "apt_type":"아파트",
             "apt_year":11.0,
             "value_score":28.466,
+            "region":"충청북도 영동군",
             "region_code":"Chungcheongbukdo",
             "sub_region_code":"4374000000_Chungcheongbukdo_Yeongdong"
         },
@@ -74,6 +80,7 @@
             "apt_type":"아파트",
             "apt_year":29.0,
             "value_score":27.066,
+            "region":"충청북도 영동군",
             "region_code":"Chungcheongbukdo",
             "sub_region_code":"4374000000_Chungcheongbukdo_Yeongdong"
         },
@@ -85,6 +92,7 @@
             "apt_type":"아파트",
             "apt_year":14.0,
             "value_score":26.891,
+            "region":"충청북도 영동군",
             "region_code":"Chungcheongbukdo",
             "sub_region_code":"4374000000_Chungcheongbukdo_Yeongdong"
         },
@@ -96,6 +104,7 @@
             "apt_type":"아파트",
             "apt_year":15.0,
             "value_score":24.418,
+            "region":"충청북도 영동군",
             "region_code":"Chungcheongbukdo",
             "sub_region_code":"4374000000_Chungcheongbukdo_Yeongdong"
         },
@@ -107,6 +116,7 @@
             "apt_type":"아파트",
             "apt_year":30.0,
             "value_score":23.341,
+            "region":"충청북도 영동군",
             "region_code":"Chungcheongbukdo",
             "sub_region_code":"4374000000_Chungcheongbukdo_Yeongdong"
         },
@@ -118,6 +128,7 @@
             "apt_type":"아파트",
             "apt_year":22.0,
             "value_score":23.018,
+            "region":"충청북도 영동군",
             "region_code":"Chungcheongbukdo",
             "sub_region_code":"4374000000_Chungcheongbukdo_Yeongdong"
         },
@@ -129,6 +140,7 @@
             "apt_type":"아파트",
             "apt_year":21.0,
             "value_score":22.094,
+            "region":"충청북도 영동군",
             "region_code":"Chungcheongbukdo",
             "sub_region_code":"4374000000_Chungcheongbukdo_Yeongdong"
         },
@@ -140,6 +152,7 @@
             "apt_type":"아파트",
             "apt_year":27.0,
             "value_score":21.378,
+            "region":"충청북도 영동군",
             "region_code":"Chungcheongbukdo",
             "sub_region_code":"4374000000_Chungcheongbukdo_Yeongdong"
         },
@@ -151,6 +164,7 @@
             "apt_type":"아파트",
             "apt_year":32.0,
             "value_score":20.939,
+            "region":"충청북도 영동군",
             "region_code":"Chungcheongbukdo",
             "sub_region_code":"4374000000_Chungcheongbukdo_Yeongdong"
         },
@@ -162,6 +176,7 @@
             "apt_type":"아파트",
             "apt_year":8.0,
             "value_score":37.968,
+            "region":"충청북도 영동군",
             "region_code":"Chungcheongbukdo",
             "sub_region_code":"4374000000_Chungcheongbukdo_Yeongdong"
         },
@@ -173,6 +188,7 @@
             "apt_type":"아파트",
             "apt_year":11.0,
             "value_score":34.391,
+            "region":"충청북도 영동군",
             "region_code":"Chungcheongbukdo",
             "sub_region_code":"4374000000_Chungcheongbukdo_Yeongdong"
         },
@@ -184,6 +200,7 @@
             "apt_type":"아파트",
             "apt_year":29.0,
             "value_score":32.391,
+            "region":"충청북도 영동군",
             "region_code":"Chungcheongbukdo",
             "sub_region_code":"4374000000_Chungcheongbukdo_Yeongdong"
         },
@@ -195,6 +212,7 @@
             "apt_type":"아파트",
             "apt_year":14.0,
             "value_score":32.141,
+            "region":"충청북도 영동군",
             "region_code":"Chungcheongbukdo",
             "sub_region_code":"4374000000_Chungcheongbukdo_Yeongdong"
         },
@@ -206,6 +224,7 @@
             "apt_type":"아파트",
             "apt_year":21.0,
             "value_score":26.219,
+            "region":"충청북도 영동군",
             "region_code":"Chungcheongbukdo",
             "sub_region_code":"4374000000_Chungcheongbukdo_Yeongdong"
         },
@@ -217,6 +236,7 @@
             "apt_type":"아파트",
             "apt_year":30.0,
             "value_score":25.141,
+            "region":"충청북도 영동군",
             "region_code":"Chungcheongbukdo",
             "sub_region_code":"4374000000_Chungcheongbukdo_Yeongdong"
         },
@@ -228,6 +248,7 @@
             "apt_type":"아파트",
             "apt_year":15.0,
             "value_score":24.718,
+            "region":"충청북도 영동군",
             "region_code":"Chungcheongbukdo",
             "sub_region_code":"4374000000_Chungcheongbukdo_Yeongdong"
         },
@@ -239,6 +260,7 @@
             "apt_type":"아파트",
             "apt_year":32.0,
             "value_score":23.639,
+            "region":"충청북도 영동군",
             "region_code":"Chungcheongbukdo",
             "sub_region_code":"4374000000_Chungcheongbukdo_Yeongdong"
         },
@@ -250,6 +272,7 @@
             "apt_type":"아파트",
             "apt_year":32.0,
             "value_score":23.639,
+            "region":"충청북도 영동군",
             "region_code":"Chungcheongbukdo",
             "sub_region_code":"4374000000_Chungcheongbukdo_Yeongdong"
         },
@@ -261,6 +284,7 @@
             "apt_type":"아파트",
             "apt_year":16.0,
             "value_score":23.141,
+            "region":"충청북도 영동군",
             "region_code":"Chungcheongbukdo",
             "sub_region_code":"4374000000_Chungcheongbukdo_Yeongdong"
         },
@@ -272,6 +296,7 @@
             "apt_type":"아파트",
             "apt_year":8.0,
             "value_score":30.5122105263,
+            "region":"충청북도 영동군",
             "region_code":"Chungcheongbukdo",
             "sub_region_code":"4374000000_Chungcheongbukdo_Yeongdong"
         },
@@ -283,6 +308,7 @@
             "apt_type":"아파트",
             "apt_year":15.0,
             "value_score":26.328,
+            "region":"충청북도 영동군",
             "region_code":"Chungcheongbukdo",
             "sub_region_code":"4374000000_Chungcheongbukdo_Yeongdong"
         },
@@ -294,6 +320,7 @@
             "apt_type":"아파트",
             "apt_year":22.0,
             "value_score":25.6964210526,
+            "region":"충청북도 영동군",
             "region_code":"Chungcheongbukdo",
             "sub_region_code":"4374000000_Chungcheongbukdo_Yeongdong"
         },
@@ -305,6 +332,7 @@
             "apt_type":"아파트",
             "apt_year":27.0,
             "value_score":24.7490526316,
+            "region":"충청북도 영동군",
             "region_code":"Chungcheongbukdo",
             "sub_region_code":"4374000000_Chungcheongbukdo_Yeongdong"
         },
@@ -316,6 +344,7 @@
             "apt_type":"아파트",
             "apt_year":11.0,
             "value_score":24.7307368421,
+            "region":"충청북도 영동군",
             "region_code":"Chungcheongbukdo",
             "sub_region_code":"4374000000_Chungcheongbukdo_Yeongdong"
         },
@@ -327,6 +356,7 @@
             "apt_type":"아파트",
             "apt_year":30.0,
             "value_score":24.4938947368,
+            "region":"충청북도 영동군",
             "region_code":"Chungcheongbukdo",
             "sub_region_code":"4374000000_Chungcheongbukdo_Yeongdong"
         },
@@ -338,6 +368,7 @@
             "apt_type":"아파트",
             "apt_year":29.0,
             "value_score":24.0991578947,
+            "region":"충청북도 영동군",
             "region_code":"Chungcheongbukdo",
             "sub_region_code":"4374000000_Chungcheongbukdo_Yeongdong"
         },
@@ -349,6 +380,7 @@
             "apt_type":"아파트",
             "apt_year":14.0,
             "value_score":24.0202105263,
+            "region":"충청북도 영동군",
             "region_code":"Chungcheongbukdo",
             "sub_region_code":"4374000000_Chungcheongbukdo_Yeongdong"
         },
@@ -360,6 +392,7 @@
             "apt_type":"아파트",
             "apt_year":32.0,
             "value_score":21.3334736842,
+            "region":"충청북도 영동군",
             "region_code":"Chungcheongbukdo",
             "sub_region_code":"4374000000_Chungcheongbukdo_Yeongdong"
         },
@@ -371,6 +404,7 @@
             "apt_type":"아파트",
             "apt_year":32.0,
             "value_score":21.3334736842,
+            "region":"충청북도 영동군",
             "region_code":"Chungcheongbukdo",
             "sub_region_code":"4374000000_Chungcheongbukdo_Yeongdong"
         },
@@ -382,6 +416,7 @@
             "apt_type":"아파트",
             "apt_year":8.0,
             "value_score":39.561,
+            "region":"충청북도 영동군",
             "region_code":"Chungcheongbukdo",
             "sub_region_code":"4374000000_Chungcheongbukdo_Yeongdong"
         },
@@ -393,6 +428,7 @@
             "apt_type":"아파트",
             "apt_year":11.0,
             "value_score":39.157,
+            "region":"충청북도 영동군",
             "region_code":"Chungcheongbukdo",
             "sub_region_code":"4374000000_Chungcheongbukdo_Yeongdong"
         },
@@ -404,6 +440,7 @@
             "apt_type":"아파트",
             "apt_year":29.0,
             "value_score":38.157,
+            "region":"충청북도 영동군",
             "region_code":"Chungcheongbukdo",
             "sub_region_code":"4374000000_Chungcheongbukdo_Yeongdong"
         },
@@ -415,6 +452,7 @@
             "apt_type":"아파트",
             "apt_year":14.0,
             "value_score":38.032,
+            "region":"충청북도 영동군",
             "region_code":"Chungcheongbukdo",
             "sub_region_code":"4374000000_Chungcheongbukdo_Yeongdong"
         },
@@ -426,6 +464,7 @@
             "apt_type":"아파트",
             "apt_year":30.0,
             "value_score":35.282,
+            "region":"충청북도 영동군",
             "region_code":"Chungcheongbukdo",
             "sub_region_code":"4374000000_Chungcheongbukdo_Yeongdong"
         },
@@ -437,6 +476,7 @@
             "apt_type":"아파트",
             "apt_year":32.0,
             "value_score":33.778,
+            "region":"충청북도 영동군",
             "region_code":"Chungcheongbukdo",
             "sub_region_code":"4374000000_Chungcheongbukdo_Yeongdong"
         },
@@ -448,6 +488,7 @@
             "apt_type":"아파트",
             "apt_year":32.0,
             "value_score":33.778,
+            "region":"충청북도 영동군",
             "region_code":"Chungcheongbukdo",
             "sub_region_code":"4374000000_Chungcheongbukdo_Yeongdong"
         },
@@ -459,6 +500,7 @@
             "apt_type":"아파트",
             "apt_year":16.0,
             "value_score":33.532,
+            "region":"충청북도 영동군",
             "region_code":"Chungcheongbukdo",
             "sub_region_code":"4374000000_Chungcheongbukdo_Yeongdong"
         },
@@ -470,6 +512,7 @@
             "apt_type":"아파트",
             "apt_year":15.0,
             "value_score":32.936,
+            "region":"충청북도 영동군",
             "region_code":"Chungcheongbukdo",
             "sub_region_code":"4374000000_Chungcheongbukdo_Yeongdong"
         },
@@ -481,6 +524,7 @@
             "apt_type":"아파트",
             "apt_year":22.0,
             "value_score":31.936,
+            "region":"충청북도 영동군",
             "region_code":"Chungcheongbukdo",
             "sub_region_code":"4374000000_Chungcheongbukdo_Yeongdong"
         }

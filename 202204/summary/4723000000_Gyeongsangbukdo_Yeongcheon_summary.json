@@ -30,6 +30,10 @@
                 "type":"number"
             },
             {
+                "name":"region",
+                "type":"string"
+            },
+            {
                 "name":"region_code",
                 "type":"string"
             },
@@ -52,6 +56,7 @@
             "apt_type":"아파트",
             "apt_year":4.0,
             "value_score":54.836,
+            "region":"경상북도 영천시",
             "region_code":"Gyeongsangbukdo",
             "sub_region_code":"4723000000_Gyeongsangbukdo_Yeongcheon"
         },
@@ -63,6 +68,7 @@
             "apt_type":"아파트",
             "apt_year":2.0,
             "value_score":54.151,
+            "region":"경상북도 영천시",
             "region_code":"Gyeongsangbukdo",
             "sub_region_code":"4723000000_Gyeongsangbukdo_Yeongcheon"
         },
@@ -74,6 +80,7 @@
             "apt_type":"아파트",
             "apt_year":5.0,
             "value_score":51.386,
+            "region":"경상북도 영천시",
             "region_code":"Gyeongsangbukdo",
             "sub_region_code":"4723000000_Gyeongsangbukdo_Yeongcheon"
         },
@@ -85,6 +92,7 @@
             "apt_type":"아파트",
             "apt_year":3.0,
             "value_score":50.21,
+            "region":"경상북도 영천시",
             "region_code":"Gyeongsangbukdo",
             "sub_region_code":"4723000000_Gyeongsangbukdo_Yeongcheon"
         },
@@ -96,6 +104,7 @@
             "apt_type":"아파트",
             "apt_year":2.0,
             "value_score":49.723,
+            "region":"경상북도 영천시",
             "region_code":"Gyeongsangbukdo",
             "sub_region_code":"4723000000_Gyeongsangbukdo_Yeongcheon"
         },
@@ -107,6 +116,7 @@
             "apt_type":"아파트",
             "apt_year":7.0,
             "value_score":47.851,
+            "region":"경상북도 영천시",
             "region_code":"Gyeongsangbukdo",
             "sub_region_code":"4723000000_Gyeongsangbukdo_Yeongcheon"
         },
@@ -118,6 +128,7 @@
             "apt_type":"아파트",
             "apt_year":6.0,
             "value_score":45.8855,
+            "region":"경상북도 영천시",
             "region_code":"Gyeongsangbukdo",
             "sub_region_code":"4723000000_Gyeongsangbukdo_Yeongcheon"
         },
@@ -129,6 +140,7 @@
             "apt_type":"아파트",
             "apt_year":22.0,
             "value_score":43.287,
+            "region":"경상북도 영천시",
             "region_code":"Gyeongsangbukdo",
             "sub_region_code":"4723000000_Gyeongsangbukdo_Yeongcheon"
         },
@@ -140,6 +152,7 @@
             "apt_type":"아파트",
             "apt_year":9.0,
             "value_score":43.174,
+            "region":"경상북도 영천시",
             "region_code":"Gyeongsangbukdo",
             "sub_region_code":"4723000000_Gyeongsangbukdo_Yeongcheon"
         },
@@ -151,6 +164,7 @@
             "apt_type":"아파트",
             "apt_year":26.0,
             "value_score":42.0355,
+            "region":"경상북도 영천시",
             "region_code":"Gyeongsangbukdo",
             "sub_region_code":"4723000000_Gyeongsangbukdo_Yeongcheon"
         },
@@ -162,6 +176,7 @@
             "apt_type":"아파트",
             "apt_year":4.0,
             "value_score":61.736,
+            "region":"경상북도 영천시",
             "region_code":"Gyeongsangbukdo",
             "sub_region_code":"4723000000_Gyeongsangbukdo_Yeongcheon"
         },
@@ -173,6 +188,7 @@
             "apt_type":"아파트",
             "apt_year":2.0,
             "value_score":58.816,
+            "region":"경상북도 영천시",
             "region_code":"Gyeongsangbukdo",
             "sub_region_code":"4723000000_Gyeongsangbukdo_Yeongcheon"
         },
@@ -184,6 +200,7 @@
             "apt_type":"아파트",
             "apt_year":2.0,
             "value_score":55.588,
+            "region":"경상북도 영천시",
             "region_code":"Gyeongsangbukdo",
             "sub_region_code":"4723000000_Gyeongsangbukdo_Yeongcheon"
         },
@@ -195,6 +212,7 @@
             "apt_type":"아파트",
             "apt_year":6.0,
             "value_score":54.7355,
+            "region":"경상북도 영천시",
             "region_code":"Gyeongsangbukdo",
             "sub_region_code":"4723000000_Gyeongsangbukdo_Yeongcheon"
         },
@@ -206,6 +224,7 @@
             "apt_type":"아파트",
             "apt_year":3.0,
             "value_score":54.41,
+            "region":"경상북도 영천시",
             "region_code":"Gyeongsangbukdo",
             "sub_region_code":"4723000000_Gyeongsangbukdo_Yeongcheon"
         },
@@ -217,6 +236,7 @@
             "apt_type":"아파트",
             "apt_year":5.0,
             "value_score":54.236,
+            "region":"경상북도 영천시",
             "region_code":"Gyeongsangbukdo",
             "sub_region_code":"4723000000_Gyeongsangbukdo_Yeongcheon"
         },
@@ -228,6 +248,7 @@
             "apt_type":"아파트",
             "apt_year":9.0,
             "value_score":49.9855,
+            "region":"경상북도 영천시",
             "region_code":"Gyeongsangbukdo",
             "sub_region_code":"4723000000_Gyeongsangbukdo_Yeongcheon"
         },
@@ -239,6 +260,7 @@
             "apt_type":"아파트",
             "apt_year":9.0,
             "value_score":49.564,
+            "region":"경상북도 영천시",
             "region_code":"Gyeongsangbukdo",
             "sub_region_code":"4723000000_Gyeongsangbukdo_Yeongcheon"
         },
@@ -250,6 +272,7 @@
             "apt_type":"아파트",
             "apt_year":7.0,
             "value_score":47.566,
+            "region":"경상북도 영천시",
             "region_code":"Gyeongsangbukdo",
             "sub_region_code":"4723000000_Gyeongsangbukdo_Yeongcheon"
         },
@@ -261,6 +284,7 @@
             "apt_type":"아파트",
             "apt_year":5.0,
             "value_score":46.96,
+            "region":"경상북도 영천시",
             "region_code":"Gyeongsangbukdo",
             "sub_region_code":"4723000000_Gyeongsangbukdo_Yeongcheon"
         },
@@ -272,6 +296,7 @@
             "apt_type":"아파트",
             "apt_year":2.0,
             "value_score":49.4570526316,
+            "region":"경상북도 영천시",
             "region_code":"Gyeongsangbukdo",
             "sub_region_code":"4723000000_Gyeongsangbukdo_Yeongcheon"
         },
@@ -283,6 +308,7 @@
             "apt_type":"아파트",
             "apt_year":7.0,
             "value_score":49.036,
+            "region":"경상북도 영천시",
             "region_code":"Gyeongsangbukdo",
             "sub_region_code":"4723000000_Gyeongsangbukdo_Yeongcheon"
         },
@@ -294,6 +320,7 @@
             "apt_type":"아파트",
             "apt_year":5.0,
             "value_score":48.456,
+            "region":"경상북도 영천시",
             "region_code":"Gyeongsangbukdo",
             "sub_region_code":"4723000000_Gyeongsangbukdo_Yeongcheon"
         },
@@ -305,6 +332,7 @@
             "apt_type":"아파트",
             "apt_year":4.0,
             "value_score":47.2454736842,
+            "region":"경상북도 영천시",
             "region_code":"Gyeongsangbukdo",
             "sub_region_code":"4723000000_Gyeongsangbukdo_Yeongcheon"
         },
@@ -316,6 +344,7 @@
             "apt_type":"아파트",
             "apt_year":22.0,
             "value_score":46.7572631579,
+            "region":"경상북도 영천시",
             "region_code":"Gyeongsangbukdo",
             "sub_region_code":"4723000000_Gyeongsangbukdo_Yeongcheon"
         },
@@ -327,6 +356,7 @@
             "apt_type":"아파트",
             "apt_year":3.0,
             "value_score":45.7284210526,
+            "region":"경상북도 영천시",
             "region_code":"Gyeongsangbukdo",
             "sub_region_code":"4723000000_Gyeongsangbukdo_Yeongcheon"
         },
@@ -338,6 +368,7 @@
             "apt_type":"아파트",
             "apt_year":2.0,
             "value_score":43.6953684211,
+            "region":"경상북도 영천시",
             "region_code":"Gyeongsangbukdo",
             "sub_region_code":"4723000000_Gyeongsangbukdo_Yeongcheon"
         },
@@ -349,6 +380,7 @@
             "apt_type":"아파트",
             "apt_year":26.0,
             "value_score":42.508,
+            "region":"경상북도 영천시",
             "region_code":"Gyeongsangbukdo",
             "sub_region_code":"4723000000_Gyeongsangbukdo_Yeongcheon"
         },
@@ -360,6 +392,7 @@
             "apt_type":"아파트",
             "apt_year":24.0,
             "value_score":42.4290526316,
+            "region":"경상북도 영천시",
             "region_code":"Gyeongsangbukdo",
             "sub_region_code":"4723000000_Gyeongsangbukdo_Yeongcheon"
         },
@@ -371,6 +404,7 @@
             "apt_type":"아파트",
             "apt_year":43.0,
             "value_score":41.7974736842,
+            "region":"경상북도 영천시",
             "region_code":"Gyeongsangbukdo",
             "sub_region_code":"4723000000_Gyeongsangbukdo_Yeongcheon"
         },
@@ -382,6 +416,7 @@
             "apt_type":"아파트",
             "apt_year":2.0,
             "value_score":55.907,
+            "region":"경상북도 영천시",
             "region_code":"Gyeongsangbukdo",
             "sub_region_code":"4723000000_Gyeongsangbukdo_Yeongcheon"
         },
@@ -393,6 +428,7 @@
             "apt_type":"아파트",
             "apt_year":4.0,
             "value_score":54.972,
+            "region":"경상북도 영천시",
             "region_code":"Gyeongsangbukdo",
             "sub_region_code":"4723000000_Gyeongsangbukdo_Yeongcheon"
         },
@@ -404,6 +440,7 @@
             "apt_type":"아파트",
             "apt_year":5.0,
             "value_score":52.222,
+            "region":"경상북도 영천시",
             "region_code":"Gyeongsangbukdo",
             "sub_region_code":"4723000000_Gyeongsangbukdo_Yeongcheon"
         },
@@ -415,6 +452,7 @@
             "apt_type":"아파트",
             "apt_year":2.0,
             "value_score":51.451,
+            "region":"경상북도 영천시",
             "region_code":"Gyeongsangbukdo",
             "sub_region_code":"4723000000_Gyeongsangbukdo_Yeongcheon"
         },
@@ -426,6 +464,7 @@
             "apt_type":"아파트",
             "apt_year":7.0,
             "value_score":51.157,
+            "region":"경상북도 영천시",
             "region_code":"Gyeongsangbukdo",
             "sub_region_code":"4723000000_Gyeongsangbukdo_Yeongcheon"
         },
@@ -437,6 +476,7 @@
             "apt_type":"아파트",
             "apt_year":3.0,
             "value_score":50.82,
+            "region":"경상북도 영천시",
             "region_code":"Gyeongsangbukdo",
             "sub_region_code":"4723000000_Gyeongsangbukdo_Yeongcheon"
         },
@@ -448,6 +488,7 @@
             "apt_type":"아파트",
             "apt_year":6.0,
             "value_score":49.221,
+            "region":"경상북도 영천시",
             "region_code":"Gyeongsangbukdo",
             "sub_region_code":"4723000000_Gyeongsangbukdo_Yeongcheon"
         },
@@ -459,6 +500,7 @@
             "apt_type":"아파트",
             "apt_year":9.0,
             "value_score":48.778,
+            "region":"경상북도 영천시",
             "region_code":"Gyeongsangbukdo",
             "sub_region_code":"4723000000_Gyeongsangbukdo_Yeongcheon"
         },
@@ -470,6 +512,7 @@
             "apt_type":"아파트",
             "apt_year":26.0,
             "value_score":45.721,
+            "region":"경상북도 영천시",
             "region_code":"Gyeongsangbukdo",
             "sub_region_code":"4723000000_Gyeongsangbukdo_Yeongcheon"
         },
@@ -481,6 +524,7 @@
             "apt_type":"아파트",
             "apt_year":24.0,
             "value_score":45.596,
+            "region":"경상북도 영천시",
             "region_code":"Gyeongsangbukdo",
             "sub_region_code":"4723000000_Gyeongsangbukdo_Yeongcheon"
         }

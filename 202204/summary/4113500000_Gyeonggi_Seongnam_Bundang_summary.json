@@ -30,6 +30,10 @@
                 "type":"number"
             },
             {
+                "name":"region",
+                "type":"string"
+            },
+            {
                 "name":"region_code",
                 "type":"string"
             },
@@ -52,6 +56,7 @@
             "apt_type":"아파트",
             "apt_year":8.0,
             "value_score":81.2764,
+            "region":"경기도 성남시 분당구",
             "region_code":"Gyeonggi",
             "sub_region_code":"4113500000_Gyeonggi_Seongnam_Bundang"
         },
@@ -63,6 +68,7 @@
             "apt_type":"아파트",
             "apt_year":12.0,
             "value_score":80.2752,
+            "region":"경기도 성남시 분당구",
             "region_code":"Gyeonggi",
             "sub_region_code":"4113500000_Gyeonggi_Seongnam_Bundang"
         },
@@ -74,6 +80,7 @@
             "apt_type":"아파트",
             "apt_year":8.0,
             "value_score":80.2564,
+            "region":"경기도 성남시 분당구",
             "region_code":"Gyeonggi",
             "sub_region_code":"4113500000_Gyeonggi_Seongnam_Bundang"
         },
@@ -85,6 +92,7 @@
             "apt_type":"아파트",
             "apt_year":30.0,
             "value_score":78.6134,
+            "region":"경기도 성남시 분당구",
             "region_code":"Gyeonggi",
             "sub_region_code":"4113500000_Gyeonggi_Seongnam_Bundang"
         },
@@ -96,6 +104,7 @@
             "apt_type":"아파트",
             "apt_year":14.0,
             "value_score":78.5552,
+            "region":"경기도 성남시 분당구",
             "region_code":"Gyeonggi",
             "sub_region_code":"4113500000_Gyeonggi_Seongnam_Bundang"
         },
@@ -107,6 +116,7 @@
             "apt_type":"아파트",
             "apt_year":14.0,
             "value_score":78.5552,
+            "region":"경기도 성남시 분당구",
             "region_code":"Gyeonggi",
             "sub_region_code":"4113500000_Gyeonggi_Seongnam_Bundang"
         },
@@ -118,6 +128,7 @@
             "apt_type":"아파트",
             "apt_year":14.0,
             "value_score":78.152,
+            "region":"경기도 성남시 분당구",
             "region_code":"Gyeonggi",
             "sub_region_code":"4113500000_Gyeonggi_Seongnam_Bundang"
         },
@@ -129,6 +140,7 @@
             "apt_type":"아파트",
             "apt_year":14.0,
             "value_score":77.2805,
+            "region":"경기도 성남시 분당구",
             "region_code":"Gyeonggi",
             "sub_region_code":"4113500000_Gyeonggi_Seongnam_Bundang"
         },
@@ -140,6 +152,7 @@
             "apt_type":"아파트",
             "apt_year":32.0,
             "value_score":76.9563,
+            "region":"경기도 성남시 분당구",
             "region_code":"Gyeonggi",
             "sub_region_code":"4113500000_Gyeonggi_Seongnam_Bundang"
         },
@@ -151,6 +164,7 @@
             "apt_type":"아파트",
             "apt_year":14.0,
             "value_score":76.4552,
+            "region":"경기도 성남시 분당구",
             "region_code":"Gyeonggi",
             "sub_region_code":"4113500000_Gyeonggi_Seongnam_Bundang"
         },
@@ -162,6 +176,7 @@
             "apt_type":"아파트",
             "apt_year":12.0,
             "value_score":79.1036,
+            "region":"경기도 성남시 분당구",
             "region_code":"Gyeonggi",
             "sub_region_code":"4113500000_Gyeonggi_Seongnam_Bundang"
         },
@@ -173,6 +188,7 @@
             "apt_type":"아파트",
             "apt_year":8.0,
             "value_score":77.2052,
+            "region":"경기도 성남시 분당구",
             "region_code":"Gyeonggi",
             "sub_region_code":"4113500000_Gyeonggi_Seongnam_Bundang"
         },
@@ -184,6 +200,7 @@
             "apt_type":"아파트",
             "apt_year":8.0,
             "value_score":76.5252,
+            "region":"경기도 성남시 분당구",
             "region_code":"Gyeonggi",
             "sub_region_code":"4113500000_Gyeonggi_Seongnam_Bundang"
         },
@@ -195,6 +212,7 @@
             "apt_type":"아파트",
             "apt_year":14.0,
             "value_score":75.436,
+            "region":"경기도 성남시 분당구",
             "region_code":"Gyeonggi",
             "sub_region_code":"4113500000_Gyeonggi_Seongnam_Bundang"
         },
@@ -206,6 +224,7 @@
             "apt_type":"아파트",
             "apt_year":14.0,
             "value_score":74.1736,
+            "region":"경기도 성남시 분당구",
             "region_code":"Gyeonggi",
             "sub_region_code":"4113500000_Gyeonggi_Seongnam_Bundang"
         },
@@ -217,6 +236,7 @@
             "apt_type":"아파트",
             "apt_year":19.0,
             "value_score":72.216,
+            "region":"경기도 성남시 분당구",
             "region_code":"Gyeonggi",
             "sub_region_code":"4113500000_Gyeonggi_Seongnam_Bundang"
         },
@@ -228,6 +248,7 @@
             "apt_type":"아파트",
             "apt_year":2.0,
             "value_score":72.1948,
+            "region":"경기도 성남시 분당구",
             "region_code":"Gyeonggi",
             "sub_region_code":"4113500000_Gyeonggi_Seongnam_Bundang"
         },
@@ -239,6 +260,7 @@
             "apt_type":"아파트",
             "apt_year":14.0,
             "value_score":71.7236,
+            "region":"경기도 성남시 분당구",
             "region_code":"Gyeonggi",
             "sub_region_code":"4113500000_Gyeonggi_Seongnam_Bundang"
         },
@@ -250,6 +272,7 @@
             "apt_type":"아파트",
             "apt_year":14.0,
             "value_score":71.7236,
+            "region":"경기도 성남시 분당구",
             "region_code":"Gyeonggi",
             "sub_region_code":"4113500000_Gyeonggi_Seongnam_Bundang"
         },
@@ -261,6 +284,7 @@
             "apt_type":"아파트",
             "apt_year":31.0,
             "value_score":71.4932,
+            "region":"경기도 성남시 분당구",
             "region_code":"Gyeonggi",
             "sub_region_code":"4113500000_Gyeonggi_Seongnam_Bundang"
         },
@@ -272,6 +296,7 @@
             "apt_type":"아파트",
             "apt_year":8.0,
             "value_score":82.6114,
+            "region":"경기도 성남시 분당구",
             "region_code":"Gyeonggi",
             "sub_region_code":"4113500000_Gyeonggi_Seongnam_Bundang"
         },
@@ -283,6 +308,7 @@
             "apt_type":"아파트",
             "apt_year":12.0,
             "value_score":82.0602,
+            "region":"경기도 성남시 분당구",
             "region_code":"Gyeonggi",
             "sub_region_code":"4113500000_Gyeonggi_Seongnam_Bundang"
         },
@@ -294,6 +320,7 @@
             "apt_type":"아파트",
             "apt_year":8.0,
             "value_score":81.9314,
+            "region":"경기도 성남시 분당구",
             "region_code":"Gyeonggi",
             "sub_region_code":"4113500000_Gyeonggi_Seongnam_Bundang"
         },
@@ -305,6 +332,7 @@
             "apt_type":"아파트",
             "apt_year":14.0,
             "value_score":80.6302,
+            "region":"경기도 성남시 분당구",
             "region_code":"Gyeonggi",
             "sub_region_code":"4113500000_Gyeonggi_Seongnam_Bundang"
         },
@@ -316,6 +344,7 @@
             "apt_type":"아파트",
             "apt_year":14.0,
             "value_score":80.6302,
+            "region":"경기도 성남시 분당구",
             "region_code":"Gyeonggi",
             "sub_region_code":"4113500000_Gyeonggi_Seongnam_Bundang"
         },
@@ -327,6 +356,7 @@
             "apt_type":"아파트",
             "apt_year":14.0,
             "value_score":80.602,
+            "region":"경기도 성남시 분당구",
             "region_code":"Gyeonggi",
             "sub_region_code":"4113500000_Gyeonggi_Seongnam_Bundang"
         },
@@ -338,6 +368,7 @@
             "apt_type":"아파트",
             "apt_year":30.0,
             "value_score":80.5884,
+            "region":"경기도 성남시 분당구",
             "region_code":"Gyeonggi",
             "sub_region_code":"4113500000_Gyeonggi_Seongnam_Bundang"
         },
@@ -349,6 +380,7 @@
             "apt_type":"아파트",
             "apt_year":14.0,
             "value_score":79.7805,
+            "region":"경기도 성남시 분당구",
             "region_code":"Gyeonggi",
             "sub_region_code":"4113500000_Gyeonggi_Seongnam_Bundang"
         },
@@ -360,6 +392,7 @@
             "apt_type":"아파트",
             "apt_year":32.0,
             "value_score":79.7063,
+            "region":"경기도 성남시 분당구",
             "region_code":"Gyeonggi",
             "sub_region_code":"4113500000_Gyeonggi_Seongnam_Bundang"
         },
@@ -371,6 +404,7 @@
             "apt_type":"아파트",
             "apt_year":14.0,
             "value_score":79.4052,
+            "region":"경기도 성남시 분당구",
             "region_code":"Gyeonggi",
             "sub_region_code":"4113500000_Gyeonggi_Seongnam_Bundang"
         },
@@ -382,6 +416,7 @@
             "apt_type":"아파트",
             "apt_year":30.0,
             "value_score":78.839,
+            "region":"경기도 성남시 분당구",
             "region_code":"Gyeonggi",
             "sub_region_code":"4113500000_Gyeonggi_Seongnam_Bundang"
         },
@@ -393,6 +428,7 @@
             "apt_type":"아파트",
             "apt_year":8.0,
             "value_score":78.144,
+            "region":"경기도 성남시 분당구",
             "region_code":"Gyeonggi",
             "sub_region_code":"4113500000_Gyeonggi_Seongnam_Bundang"
         },
@@ -404,6 +440,7 @@
             "apt_type":"아파트",
             "apt_year":8.0,
             "value_score":76.444,
+            "region":"경기도 성남시 분당구",
             "region_code":"Gyeonggi",
             "sub_region_code":"4113500000_Gyeonggi_Seongnam_Bundang"
         },
@@ -415,6 +452,7 @@
             "apt_type":"아파트",
             "apt_year":14.0,
             "value_score":75.942,
+            "region":"경기도 성남시 분당구",
             "region_code":"Gyeonggi",
             "sub_region_code":"4113500000_Gyeonggi_Seongnam_Bundang"
         },
@@ -426,6 +464,7 @@
             "apt_type":"아파트",
             "apt_year":14.0,
             "value_score":75.942,
+            "region":"경기도 성남시 분당구",
             "region_code":"Gyeonggi",
             "sub_region_code":"4113500000_Gyeonggi_Seongnam_Bundang"
         },
@@ -437,6 +476,7 @@
             "apt_type":"아파트",
             "apt_year":28.0,
             "value_score":75.6315,
+            "region":"경기도 성남시 분당구",
             "region_code":"Gyeonggi",
             "sub_region_code":"4113500000_Gyeonggi_Seongnam_Bundang"
         },
@@ -448,6 +488,7 @@
             "apt_type":"아파트",
             "apt_year":27.0,
             "value_score":75.0315,
+            "region":"경기도 성남시 분당구",
             "region_code":"Gyeonggi",
             "sub_region_code":"4113500000_Gyeonggi_Seongnam_Bundang"
         },
@@ -459,6 +500,7 @@
             "apt_type":"아파트",
             "apt_year":14.0,
             "value_score":74.8675,
+            "region":"경기도 성남시 분당구",
             "region_code":"Gyeonggi",
             "sub_region_code":"4113500000_Gyeonggi_Seongnam_Bundang"
         },
@@ -470,6 +512,7 @@
             "apt_type":"아파트",
             "apt_year":12.0,
             "value_score":74.842,
+            "region":"경기도 성남시 분당구",
             "region_code":"Gyeonggi",
             "sub_region_code":"4113500000_Gyeonggi_Seongnam_Bundang"
         },
@@ -481,6 +524,7 @@
             "apt_type":"아파트",
             "apt_year":29.0,
             "value_score":74.5985,
+            "region":"경기도 성남시 분당구",
             "region_code":"Gyeonggi",
             "sub_region_code":"4113500000_Gyeonggi_Seongnam_Bundang"
         },
@@ -492,6 +536,7 @@
             "apt_type":"아파트",
             "apt_year":8.0,
             "value_score":72.368,
+            "region":"경기도 성남시 분당구",
             "region_code":"Gyeonggi",
             "sub_region_code":"4113500000_Gyeonggi_Seongnam_Bundang"
         },
@@ -503,6 +548,7 @@
             "apt_type":"아파트",
             "apt_year":12.0,
             "value_score":72.164,
+            "region":"경기도 성남시 분당구",
             "region_code":"Gyeonggi",
             "sub_region_code":"4113500000_Gyeonggi_Seongnam_Bundang"
         },
@@ -514,6 +560,7 @@
             "apt_type":"아파트",
             "apt_year":8.0,
             "value_score":71.688,
+            "region":"경기도 성남시 분당구",
             "region_code":"Gyeonggi",
             "sub_region_code":"4113500000_Gyeonggi_Seongnam_Bundang"
         },
@@ -525,6 +572,7 @@
             "apt_type":"아파트",
             "apt_year":14.0,
             "value_score":70.84,
+            "region":"경기도 성남시 분당구",
             "region_code":"Gyeonggi",
             "sub_region_code":"4113500000_Gyeonggi_Seongnam_Bundang"
         },
@@ -536,6 +584,7 @@
             "apt_type":"아파트",
             "apt_year":30.0,
             "value_score":70.078,
+            "region":"경기도 성남시 분당구",
             "region_code":"Gyeonggi",
             "sub_region_code":"4113500000_Gyeonggi_Seongnam_Bundang"
         },
@@ -547,6 +596,7 @@
             "apt_type":"아파트",
             "apt_year":32.0,
             "value_score":69.921,
+            "region":"경기도 성남시 분당구",
             "region_code":"Gyeonggi",
             "sub_region_code":"4113500000_Gyeonggi_Seongnam_Bundang"
         },
@@ -558,6 +608,7 @@
             "apt_type":"아파트",
             "apt_year":14.0,
             "value_score":69.884,
+            "region":"경기도 성남시 분당구",
             "region_code":"Gyeonggi",
             "sub_region_code":"4113500000_Gyeonggi_Seongnam_Bundang"
         },
@@ -569,6 +620,7 @@
             "apt_type":"아파트",
             "apt_year":14.0,
             "value_score":69.884,
+            "region":"경기도 성남시 분당구",
             "region_code":"Gyeonggi",
             "sub_region_code":"4113500000_Gyeonggi_Seongnam_Bundang"
         },
@@ -580,6 +632,7 @@
             "apt_type":"아파트",
             "apt_year":14.0,
             "value_score":69.335,
+            "region":"경기도 성남시 분당구",
             "region_code":"Gyeonggi",
             "sub_region_code":"4113500000_Gyeonggi_Seongnam_Bundang"
         },
@@ -591,6 +644,7 @@
             "apt_type":"아파트",
             "apt_year":14.0,
             "value_score":69.184,
+            "region":"경기도 성남시 분당구",
             "region_code":"Gyeonggi",
             "sub_region_code":"4113500000_Gyeonggi_Seongnam_Bundang"
         }

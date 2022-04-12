@@ -30,6 +30,10 @@
                 "type":"number"
             },
             {
+                "name":"region",
+                "type":"string"
+            },
+            {
                 "name":"region_code",
                 "type":"string"
             },
@@ -52,6 +56,7 @@
             "apt_type":"아파트",
             "apt_year":21.0,
             "value_score":59.3771,
+            "region":"경기도 의정부시",
             "region_code":"Gyeonggi",
             "sub_region_code":"4115000000_Gyeonggi_Uijeongbu"
         },
@@ -63,6 +68,7 @@
             "apt_type":"아파트",
             "apt_year":20.0,
             "value_score":59.0309,
+            "region":"경기도 의정부시",
             "region_code":"Gyeonggi",
             "sub_region_code":"4115000000_Gyeonggi_Uijeongbu"
         },
@@ -74,6 +80,7 @@
             "apt_type":"분양권",
             "apt_year":0.0,
             "value_score":58.7896,
+            "region":"경기도 의정부시",
             "region_code":"Gyeonggi",
             "sub_region_code":"4115000000_Gyeonggi_Uijeongbu"
         },
@@ -85,6 +92,7 @@
             "apt_type":"아파트",
             "apt_year":21.0,
             "value_score":58.668,
+            "region":"경기도 의정부시",
             "region_code":"Gyeonggi",
             "sub_region_code":"4115000000_Gyeonggi_Uijeongbu"
         },
@@ -96,6 +104,7 @@
             "apt_type":"아파트",
             "apt_year":21.0,
             "value_score":58.468,
+            "region":"경기도 의정부시",
             "region_code":"Gyeonggi",
             "sub_region_code":"4115000000_Gyeonggi_Uijeongbu"
         },
@@ -107,6 +116,7 @@
             "apt_type":"아파트",
             "apt_year":4.0,
             "value_score":58.2381,
+            "region":"경기도 의정부시",
             "region_code":"Gyeonggi",
             "sub_region_code":"4115000000_Gyeonggi_Uijeongbu"
         },
@@ -118,6 +128,7 @@
             "apt_type":"아파트",
             "apt_year":26.0,
             "value_score":57.3893,
+            "region":"경기도 의정부시",
             "region_code":"Gyeonggi",
             "sub_region_code":"4115000000_Gyeonggi_Uijeongbu"
         },
@@ -129,6 +140,7 @@
             "apt_type":"아파트",
             "apt_year":18.0,
             "value_score":56.8085,
+            "region":"경기도 의정부시",
             "region_code":"Gyeonggi",
             "sub_region_code":"4115000000_Gyeonggi_Uijeongbu"
         },
@@ -140,6 +152,7 @@
             "apt_type":"아파트",
             "apt_year":2.0,
             "value_score":56.4165,
+            "region":"경기도 의정부시",
             "region_code":"Gyeonggi",
             "sub_region_code":"4115000000_Gyeonggi_Uijeongbu"
         },
@@ -151,6 +164,7 @@
             "apt_type":"분양권",
             "apt_year":-1.0,
             "value_score":56.2085,
+            "region":"경기도 의정부시",
             "region_code":"Gyeonggi",
             "sub_region_code":"4115000000_Gyeonggi_Uijeongbu"
         },
@@ -162,6 +176,7 @@
             "apt_type":"아파트",
             "apt_year":3.0,
             "value_score":68.6012,
+            "region":"경기도 의정부시",
             "region_code":"Gyeonggi",
             "sub_region_code":"4115000000_Gyeonggi_Uijeongbu"
         },
@@ -173,6 +188,7 @@
             "apt_type":"분양권",
             "apt_year":0.0,
             "value_score":66.0528,
+            "region":"경기도 의정부시",
             "region_code":"Gyeonggi",
             "sub_region_code":"4115000000_Gyeonggi_Uijeongbu"
         },
@@ -184,6 +200,7 @@
             "apt_type":"분양권",
             "apt_year":1.0,
             "value_score":65.3004,
+            "region":"경기도 의정부시",
             "region_code":"Gyeonggi",
             "sub_region_code":"4115000000_Gyeonggi_Uijeongbu"
         },
@@ -195,6 +212,7 @@
             "apt_type":"아파트",
             "apt_year":21.0,
             "value_score":63.974,
+            "region":"경기도 의정부시",
             "region_code":"Gyeonggi",
             "sub_region_code":"4115000000_Gyeonggi_Uijeongbu"
         },
@@ -206,6 +224,7 @@
             "apt_type":"아파트",
             "apt_year":4.0,
             "value_score":63.3012,
+            "region":"경기도 의정부시",
             "region_code":"Gyeonggi",
             "sub_region_code":"4115000000_Gyeonggi_Uijeongbu"
         },
@@ -217,6 +236,7 @@
             "apt_type":"아파트",
             "apt_year":6.0,
             "value_score":63.058,
+            "region":"경기도 의정부시",
             "region_code":"Gyeonggi",
             "sub_region_code":"4115000000_Gyeonggi_Uijeongbu"
         },
@@ -228,6 +248,7 @@
             "apt_type":"아파트",
             "apt_year":21.0,
             "value_score":62.7028,
+            "region":"경기도 의정부시",
             "region_code":"Gyeonggi",
             "sub_region_code":"4115000000_Gyeonggi_Uijeongbu"
         },
@@ -239,6 +260,7 @@
             "apt_type":"아파트",
             "apt_year":20.0,
             "value_score":61.4912,
+            "region":"경기도 의정부시",
             "region_code":"Gyeonggi",
             "sub_region_code":"4115000000_Gyeonggi_Uijeongbu"
         },
@@ -250,6 +272,7 @@
             "apt_type":"아파트",
             "apt_year":5.0,
             "value_score":61.4076,
+            "region":"경기도 의정부시",
             "region_code":"Gyeonggi",
             "sub_region_code":"4115000000_Gyeonggi_Uijeongbu"
         },
@@ -261,6 +284,7 @@
             "apt_type":"아파트",
             "apt_year":21.0,
             "value_score":61.174,
+            "region":"경기도 의정부시",
             "region_code":"Gyeonggi",
             "sub_region_code":"4115000000_Gyeonggi_Uijeongbu"
         },
@@ -272,6 +296,7 @@
             "apt_type":"아파트",
             "apt_year":4.0,
             "value_score":56.1381,
+            "region":"경기도 의정부시",
             "region_code":"Gyeonggi",
             "sub_region_code":"4115000000_Gyeonggi_Uijeongbu"
         },
@@ -283,6 +308,7 @@
             "apt_type":"아파트",
             "apt_year":20.0,
             "value_score":56.0059,
+            "region":"경기도 의정부시",
             "region_code":"Gyeonggi",
             "sub_region_code":"4115000000_Gyeonggi_Uijeongbu"
         },
@@ -294,6 +320,7 @@
             "apt_type":"아파트",
             "apt_year":18.0,
             "value_score":55.4085,
+            "region":"경기도 의정부시",
             "region_code":"Gyeonggi",
             "sub_region_code":"4115000000_Gyeonggi_Uijeongbu"
         },
@@ -305,6 +332,7 @@
             "apt_type":"아파트",
             "apt_year":21.0,
             "value_score":54.4771,
+            "region":"경기도 의정부시",
             "region_code":"Gyeonggi",
             "sub_region_code":"4115000000_Gyeonggi_Uijeongbu"
         },
@@ -316,6 +344,7 @@
             "apt_type":"아파트",
             "apt_year":26.0,
             "value_score":54.3309,
+            "region":"경기도 의정부시",
             "region_code":"Gyeonggi",
             "sub_region_code":"4115000000_Gyeonggi_Uijeongbu"
         },
@@ -327,6 +356,7 @@
             "apt_type":"아파트",
             "apt_year":21.0,
             "value_score":54.293,
+            "region":"경기도 의정부시",
             "region_code":"Gyeonggi",
             "sub_region_code":"4115000000_Gyeonggi_Uijeongbu"
         },
@@ -338,6 +368,7 @@
             "apt_type":"분양권",
             "apt_year":0.0,
             "value_score":54.2896,
+            "region":"경기도 의정부시",
             "region_code":"Gyeonggi",
             "sub_region_code":"4115000000_Gyeonggi_Uijeongbu"
         },
@@ -349,6 +380,7 @@
             "apt_type":"아파트",
             "apt_year":26.0,
             "value_score":53.6393,
+            "region":"경기도 의정부시",
             "region_code":"Gyeonggi",
             "sub_region_code":"4115000000_Gyeonggi_Uijeongbu"
         },
@@ -360,6 +392,7 @@
             "apt_type":"아파트",
             "apt_year":7.0,
             "value_score":53.5348,
+            "region":"경기도 의정부시",
             "region_code":"Gyeonggi",
             "sub_region_code":"4115000000_Gyeonggi_Uijeongbu"
         },
@@ -371,6 +404,7 @@
             "apt_type":"아파트",
             "apt_year":21.0,
             "value_score":53.493,
+            "region":"경기도 의정부시",
             "region_code":"Gyeonggi",
             "sub_region_code":"4115000000_Gyeonggi_Uijeongbu"
         },
@@ -382,6 +416,7 @@
             "apt_type":"아파트",
             "apt_year":21.0,
             "value_score":66.23,
+            "region":"경기도 의정부시",
             "region_code":"Gyeonggi",
             "sub_region_code":"4115000000_Gyeonggi_Uijeongbu"
         },
@@ -393,6 +428,7 @@
             "apt_type":"아파트",
             "apt_year":21.0,
             "value_score":65.8285,
+            "region":"경기도 의정부시",
             "region_code":"Gyeonggi",
             "sub_region_code":"4115000000_Gyeonggi_Uijeongbu"
         },
@@ -404,6 +440,7 @@
             "apt_type":"아파트",
             "apt_year":4.0,
             "value_score":65.6635,
+            "region":"경기도 의정부시",
             "region_code":"Gyeonggi",
             "sub_region_code":"4115000000_Gyeonggi_Uijeongbu"
         },
@@ -415,6 +452,7 @@
             "apt_type":"아파트",
             "apt_year":5.0,
             "value_score":64.329,
+            "region":"경기도 의정부시",
             "region_code":"Gyeonggi",
             "sub_region_code":"4115000000_Gyeonggi_Uijeongbu"
         },
@@ -426,6 +464,7 @@
             "apt_type":"아파트",
             "apt_year":9.0,
             "value_score":64.0275,
+            "region":"경기도 의정부시",
             "region_code":"Gyeonggi",
             "sub_region_code":"4115000000_Gyeonggi_Uijeongbu"
         },
@@ -437,6 +476,7 @@
             "apt_type":"아파트",
             "apt_year":2.0,
             "value_score":63.8775,
+            "region":"경기도 의정부시",
             "region_code":"Gyeonggi",
             "sub_region_code":"4115000000_Gyeonggi_Uijeongbu"
         },
@@ -448,6 +488,7 @@
             "apt_type":"아파트",
             "apt_year":21.0,
             "value_score":63.83,
+            "region":"경기도 의정부시",
             "region_code":"Gyeonggi",
             "sub_region_code":"4115000000_Gyeonggi_Uijeongbu"
         },
@@ -459,6 +500,7 @@
             "apt_type":"아파트",
             "apt_year":17.0,
             "value_score":63.629,
+            "region":"경기도 의정부시",
             "region_code":"Gyeonggi",
             "sub_region_code":"4115000000_Gyeonggi_Uijeongbu"
         },
@@ -470,6 +512,7 @@
             "apt_type":"아파트",
             "apt_year":8.0,
             "value_score":63.4275,
+            "region":"경기도 의정부시",
             "region_code":"Gyeonggi",
             "sub_region_code":"4115000000_Gyeonggi_Uijeongbu"
         },
@@ -481,6 +524,7 @@
             "apt_type":"아파트",
             "apt_year":20.0,
             "value_score":63.1285,
+            "region":"경기도 의정부시",
             "region_code":"Gyeonggi",
             "sub_region_code":"4115000000_Gyeonggi_Uijeongbu"
         },
@@ -492,6 +536,7 @@
             "apt_type":"아파트",
             "apt_year":21.0,
             "value_score":60.86,
+            "region":"경기도 의정부시",
             "region_code":"Gyeonggi",
             "sub_region_code":"4115000000_Gyeonggi_Uijeongbu"
         },
@@ -503,6 +548,7 @@
             "apt_type":"아파트",
             "apt_year":3.0,
             "value_score":60.728,
+            "region":"경기도 의정부시",
             "region_code":"Gyeonggi",
             "sub_region_code":"4115000000_Gyeonggi_Uijeongbu"
         },
@@ -514,6 +560,7 @@
             "apt_type":"아파트",
             "apt_year":21.0,
             "value_score":60.46,
+            "region":"경기도 의정부시",
             "region_code":"Gyeonggi",
             "sub_region_code":"4115000000_Gyeonggi_Uijeongbu"
         },
@@ -525,6 +572,7 @@
             "apt_type":"분양권",
             "apt_year":0.0,
             "value_score":59.832,
+            "region":"경기도 의정부시",
             "region_code":"Gyeonggi",
             "sub_region_code":"4115000000_Gyeonggi_Uijeongbu"
         },
@@ -536,6 +584,7 @@
             "apt_type":"아파트",
             "apt_year":20.0,
             "value_score":59.603,
+            "region":"경기도 의정부시",
             "region_code":"Gyeonggi",
             "sub_region_code":"4115000000_Gyeonggi_Uijeongbu"
         },
@@ -547,6 +596,7 @@
             "apt_type":"아파트",
             "apt_year":21.0,
             "value_score":59.257,
+            "region":"경기도 의정부시",
             "region_code":"Gyeonggi",
             "sub_region_code":"4115000000_Gyeonggi_Uijeongbu"
         },
@@ -558,6 +608,7 @@
             "apt_type":"분양권",
             "apt_year":1.0,
             "value_score":58.026,
+            "region":"경기도 의정부시",
             "region_code":"Gyeonggi",
             "sub_region_code":"4115000000_Gyeonggi_Uijeongbu"
         },
@@ -569,6 +620,7 @@
             "apt_type":"아파트",
             "apt_year":26.0,
             "value_score":57.631,
+            "region":"경기도 의정부시",
             "region_code":"Gyeonggi",
             "sub_region_code":"4115000000_Gyeonggi_Uijeongbu"
         },
@@ -580,6 +632,7 @@
             "apt_type":"아파트",
             "apt_year":19.0,
             "value_score":57.503,
+            "region":"경기도 의정부시",
             "region_code":"Gyeonggi",
             "sub_region_code":"4115000000_Gyeonggi_Uijeongbu"
         },
@@ -591,6 +644,7 @@
             "apt_type":"아파트",
             "apt_year":3.0,
             "value_score":57.483,
+            "region":"경기도 의정부시",
             "region_code":"Gyeonggi",
             "sub_region_code":"4115000000_Gyeonggi_Uijeongbu"
         }

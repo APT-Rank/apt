@@ -30,6 +30,10 @@
                 "type":"number"
             },
             {
+                "name":"region",
+                "type":"string"
+            },
+            {
                 "name":"region_code",
                 "type":"string"
             },
@@ -52,6 +56,7 @@
             "apt_type":"분양권",
             "apt_year":-1.0,
             "value_score":39.217,
+            "region":"강원도 평창군",
             "region_code":"Gangwondo",
             "sub_region_code":"4276000000_Gangwondo_Pyeongchang"
         },
@@ -63,6 +68,7 @@
             "apt_type":"분양권",
             "apt_year":0.0,
             "value_score":35.858,
+            "region":"강원도 평창군",
             "region_code":"Gangwondo",
             "sub_region_code":"4276000000_Gangwondo_Pyeongchang"
         },
@@ -74,6 +80,7 @@
             "apt_type":"아파트",
             "apt_year":25.0,
             "value_score":35.4985,
+            "region":"강원도 평창군",
             "region_code":"Gangwondo",
             "sub_region_code":"4276000000_Gangwondo_Pyeongchang"
         },
@@ -85,6 +92,7 @@
             "apt_type":"아파트",
             "apt_year":5.0,
             "value_score":33.295,
+            "region":"강원도 평창군",
             "region_code":"Gangwondo",
             "sub_region_code":"4276000000_Gangwondo_Pyeongchang"
         },
@@ -96,6 +104,7 @@
             "apt_type":"아파트",
             "apt_year":25.0,
             "value_score":31.085,
+            "region":"강원도 평창군",
             "region_code":"Gangwondo",
             "sub_region_code":"4276000000_Gangwondo_Pyeongchang"
         },
@@ -107,6 +116,7 @@
             "apt_type":"아파트",
             "apt_year":7.0,
             "value_score":30.5835,
+            "region":"강원도 평창군",
             "region_code":"Gangwondo",
             "sub_region_code":"4276000000_Gangwondo_Pyeongchang"
         },
@@ -118,6 +128,7 @@
             "apt_type":"분양권",
             "apt_year":-1.0,
             "value_score":30.385,
+            "region":"강원도 평창군",
             "region_code":"Gangwondo",
             "sub_region_code":"4276000000_Gangwondo_Pyeongchang"
         },
@@ -129,6 +140,7 @@
             "apt_type":"아파트",
             "apt_year":28.0,
             "value_score":27.3835,
+            "region":"강원도 평창군",
             "region_code":"Gangwondo",
             "sub_region_code":"4276000000_Gangwondo_Pyeongchang"
         },
@@ -140,6 +152,7 @@
             "apt_type":"아파트",
             "apt_year":31.0,
             "value_score":27.292,
+            "region":"강원도 평창군",
             "region_code":"Gangwondo",
             "sub_region_code":"4276000000_Gangwondo_Pyeongchang"
         },
@@ -151,6 +164,7 @@
             "apt_type":"아파트",
             "apt_year":29.0,
             "value_score":26.61,
+            "region":"강원도 평창군",
             "region_code":"Gangwondo",
             "sub_region_code":"4276000000_Gangwondo_Pyeongchang"
         },
@@ -162,6 +176,7 @@
             "apt_type":"분양권",
             "apt_year":-1.0,
             "value_score":42.982,
+            "region":"강원도 평창군",
             "region_code":"Gangwondo",
             "sub_region_code":"4276000000_Gangwondo_Pyeongchang"
         },
@@ -173,6 +188,7 @@
             "apt_type":"아파트",
             "apt_year":5.0,
             "value_score":41.41,
+            "region":"강원도 평창군",
             "region_code":"Gangwondo",
             "sub_region_code":"4276000000_Gangwondo_Pyeongchang"
         },
@@ -184,6 +200,7 @@
             "apt_type":"분양권",
             "apt_year":0.0,
             "value_score":40.823,
+            "region":"강원도 평창군",
             "region_code":"Gangwondo",
             "sub_region_code":"4276000000_Gangwondo_Pyeongchang"
         },
@@ -195,6 +212,7 @@
             "apt_type":"아파트",
             "apt_year":7.0,
             "value_score":38.3085,
+            "region":"강원도 평창군",
             "region_code":"Gangwondo",
             "sub_region_code":"4276000000_Gangwondo_Pyeongchang"
         },
@@ -206,6 +224,7 @@
             "apt_type":"아파트",
             "apt_year":25.0,
             "value_score":38.06,
+            "region":"강원도 평창군",
             "region_code":"Gangwondo",
             "sub_region_code":"4276000000_Gangwondo_Pyeongchang"
         },
@@ -217,6 +236,7 @@
             "apt_type":"아파트",
             "apt_year":25.0,
             "value_score":37.2235,
+            "region":"강원도 평창군",
             "region_code":"Gangwondo",
             "sub_region_code":"4276000000_Gangwondo_Pyeongchang"
         },
@@ -228,6 +248,7 @@
             "apt_type":"분양권",
             "apt_year":-1.0,
             "value_score":37.06,
+            "region":"강원도 평창군",
             "region_code":"Gangwondo",
             "sub_region_code":"4276000000_Gangwondo_Pyeongchang"
         },
@@ -239,6 +260,7 @@
             "apt_type":"아파트",
             "apt_year":4.0,
             "value_score":32.0775,
+            "region":"강원도 평창군",
             "region_code":"Gangwondo",
             "sub_region_code":"4276000000_Gangwondo_Pyeongchang"
         },
@@ -250,6 +272,7 @@
             "apt_type":"아파트",
             "apt_year":16.0,
             "value_score":30.31,
+            "region":"강원도 평창군",
             "region_code":"Gangwondo",
             "sub_region_code":"4276000000_Gangwondo_Pyeongchang"
         },
@@ -261,6 +284,7 @@
             "apt_type":"아파트",
             "apt_year":21.0,
             "value_score":28.31,
+            "region":"강원도 평창군",
             "region_code":"Gangwondo",
             "sub_region_code":"4276000000_Gangwondo_Pyeongchang"
         },
@@ -272,6 +296,7 @@
             "apt_type":"분양권",
             "apt_year":-1.0,
             "value_score":36.5088421053,
+            "region":"강원도 평창군",
             "region_code":"Gangwondo",
             "sub_region_code":"4276000000_Gangwondo_Pyeongchang"
         },
@@ -283,6 +308,7 @@
             "apt_type":"아파트",
             "apt_year":25.0,
             "value_score":35.256,
+            "region":"강원도 평창군",
             "region_code":"Gangwondo",
             "sub_region_code":"4276000000_Gangwondo_Pyeongchang"
         },
@@ -294,6 +320,7 @@
             "apt_type":"분양권",
             "apt_year":0.0,
             "value_score":32.0974736842,
+            "region":"강원도 평창군",
             "region_code":"Gangwondo",
             "sub_region_code":"4276000000_Gangwondo_Pyeongchang"
         },
@@ -305,6 +332,7 @@
             "apt_type":"아파트",
             "apt_year":28.0,
             "value_score":31.3875789474,
+            "region":"강원도 평창군",
             "region_code":"Gangwondo",
             "sub_region_code":"4276000000_Gangwondo_Pyeongchang"
         },
@@ -316,6 +344,7 @@
             "apt_type":"아파트",
             "apt_year":31.0,
             "value_score":29.7456842105,
+            "region":"강원도 평창군",
             "region_code":"Gangwondo",
             "sub_region_code":"4276000000_Gangwondo_Pyeongchang"
         },
@@ -327,6 +356,7 @@
             "apt_type":"아파트",
             "apt_year":30.0,
             "value_score":29.1770526316,
+            "region":"강원도 평창군",
             "region_code":"Gangwondo",
             "sub_region_code":"4276000000_Gangwondo_Pyeongchang"
         },
@@ -338,6 +368,7 @@
             "apt_type":"아파트",
             "apt_year":23.0,
             "value_score":29.0614736842,
+            "region":"강원도 평창군",
             "region_code":"Gangwondo",
             "sub_region_code":"4276000000_Gangwondo_Pyeongchang"
         },
@@ -349,6 +380,7 @@
             "apt_type":"아파트",
             "apt_year":29.0,
             "value_score":27.3915789474,
+            "region":"강원도 평창군",
             "region_code":"Gangwondo",
             "sub_region_code":"4276000000_Gangwondo_Pyeongchang"
         },
@@ -360,6 +392,7 @@
             "apt_type":"아파트",
             "apt_year":5.0,
             "value_score":26.0494736842,
+            "region":"강원도 평창군",
             "region_code":"Gangwondo",
             "sub_region_code":"4276000000_Gangwondo_Pyeongchang"
         },
@@ -371,6 +404,7 @@
             "apt_type":"아파트",
             "apt_year":29.0,
             "value_score":25.5494736842,
+            "region":"강원도 평창군",
             "region_code":"Gangwondo",
             "sub_region_code":"4276000000_Gangwondo_Pyeongchang"
         },
@@ -382,6 +416,7 @@
             "apt_type":"분양권",
             "apt_year":-1.0,
             "value_score":44.739,
+            "region":"강원도 평창군",
             "region_code":"Gangwondo",
             "sub_region_code":"4276000000_Gangwondo_Pyeongchang"
         },
@@ -393,6 +428,7 @@
             "apt_type":"분양권",
             "apt_year":0.0,
             "value_score":42.421,
+            "region":"강원도 평창군",
             "region_code":"Gangwondo",
             "sub_region_code":"4276000000_Gangwondo_Pyeongchang"
         },
@@ -404,6 +440,7 @@
             "apt_type":"아파트",
             "apt_year":25.0,
             "value_score":41.822,
+            "region":"강원도 평창군",
             "region_code":"Gangwondo",
             "sub_region_code":"4276000000_Gangwondo_Pyeongchang"
         },
@@ -415,6 +452,7 @@
             "apt_type":"아파트",
             "apt_year":5.0,
             "value_score":39.845,
+            "region":"강원도 평창군",
             "region_code":"Gangwondo",
             "sub_region_code":"4276000000_Gangwondo_Pyeongchang"
         },
@@ -426,6 +464,7 @@
             "apt_type":"아파트",
             "apt_year":25.0,
             "value_score":38.245,
+            "region":"강원도 평창군",
             "region_code":"Gangwondo",
             "sub_region_code":"4276000000_Gangwondo_Pyeongchang"
         },
@@ -437,6 +476,7 @@
             "apt_type":"아파트",
             "apt_year":7.0,
             "value_score":37.992,
+            "region":"강원도 평창군",
             "region_code":"Gangwondo",
             "sub_region_code":"4276000000_Gangwondo_Pyeongchang"
         },
@@ -448,6 +488,7 @@
             "apt_type":"분양권",
             "apt_year":-1.0,
             "value_score":37.745,
+            "region":"강원도 평창군",
             "region_code":"Gangwondo",
             "sub_region_code":"4276000000_Gangwondo_Pyeongchang"
         },
@@ -459,6 +500,7 @@
             "apt_type":"아파트",
             "apt_year":31.0,
             "value_score":36.364,
+            "region":"강원도 평창군",
             "region_code":"Gangwondo",
             "sub_region_code":"4276000000_Gangwondo_Pyeongchang"
         },
@@ -470,6 +512,7 @@
             "apt_type":"아파트",
             "apt_year":28.0,
             "value_score":36.047,
+            "region":"강원도 평창군",
             "region_code":"Gangwondo",
             "sub_region_code":"4276000000_Gangwondo_Pyeongchang"
         },
@@ -481,6 +524,7 @@
             "apt_type":"아파트",
             "apt_year":23.0,
             "value_score":35.864,
+            "region":"강원도 평창군",
             "region_code":"Gangwondo",
             "sub_region_code":"4276000000_Gangwondo_Pyeongchang"
         }

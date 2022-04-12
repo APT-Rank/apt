@@ -30,6 +30,10 @@
                 "type":"number"
             },
             {
+                "name":"region",
+                "type":"string"
+            },
+            {
                 "name":"region_code",
                 "type":"string"
             },
@@ -52,6 +56,7 @@
             "apt_type":"아파트",
             "apt_year":3.0,
             "value_score":58.716,
+            "region":"경상남도 창원시 의창구",
             "region_code":"Gyeongsangnamdo",
             "sub_region_code":"4812100000_Gyeongsangnamdo_Changwon_Uichang"
         },
@@ -63,6 +68,7 @@
             "apt_type":"아파트",
             "apt_year":4.0,
             "value_score":56.22,
+            "region":"경상남도 창원시 의창구",
             "region_code":"Gyeongsangnamdo",
             "sub_region_code":"4812100000_Gyeongsangnamdo_Changwon_Uichang"
         },
@@ -74,6 +80,7 @@
             "apt_type":"아파트",
             "apt_year":4.0,
             "value_score":54.611,
+            "region":"경상남도 창원시 의창구",
             "region_code":"Gyeongsangnamdo",
             "sub_region_code":"4812100000_Gyeongsangnamdo_Changwon_Uichang"
         },
@@ -85,6 +92,7 @@
             "apt_type":"아파트",
             "apt_year":4.0,
             "value_score":52.636,
+            "region":"경상남도 창원시 의창구",
             "region_code":"Gyeongsangnamdo",
             "sub_region_code":"4812100000_Gyeongsangnamdo_Changwon_Uichang"
         },
@@ -96,6 +104,7 @@
             "apt_type":"아파트",
             "apt_year":4.0,
             "value_score":52.611,
+            "region":"경상남도 창원시 의창구",
             "region_code":"Gyeongsangnamdo",
             "sub_region_code":"4812100000_Gyeongsangnamdo_Changwon_Uichang"
         },
@@ -107,6 +116,7 @@
             "apt_type":"아파트",
             "apt_year":24.0,
             "value_score":50.485,
+            "region":"경상남도 창원시 의창구",
             "region_code":"Gyeongsangnamdo",
             "sub_region_code":"4812100000_Gyeongsangnamdo_Changwon_Uichang"
         },
@@ -118,6 +128,7 @@
             "apt_type":"아파트",
             "apt_year":13.0,
             "value_score":50.3115,
+            "region":"경상남도 창원시 의창구",
             "region_code":"Gyeongsangnamdo",
             "sub_region_code":"4812100000_Gyeongsangnamdo_Changwon_Uichang"
         },
@@ -129,6 +140,7 @@
             "apt_type":"아파트",
             "apt_year":19.0,
             "value_score":50.109,
+            "region":"경상남도 창원시 의창구",
             "region_code":"Gyeongsangnamdo",
             "sub_region_code":"4812100000_Gyeongsangnamdo_Changwon_Uichang"
         },
@@ -140,6 +152,7 @@
             "apt_type":"아파트",
             "apt_year":18.0,
             "value_score":49.7105,
+            "region":"경상남도 창원시 의창구",
             "region_code":"Gyeongsangnamdo",
             "sub_region_code":"4812100000_Gyeongsangnamdo_Changwon_Uichang"
         },
@@ -151,6 +164,7 @@
             "apt_type":"아파트",
             "apt_year":4.0,
             "value_score":49.6705,
+            "region":"경상남도 창원시 의창구",
             "region_code":"Gyeongsangnamdo",
             "sub_region_code":"4812100000_Gyeongsangnamdo_Changwon_Uichang"
         },
@@ -162,6 +176,7 @@
             "apt_type":"아파트",
             "apt_year":4.0,
             "value_score":65.91,
+            "region":"경상남도 창원시 의창구",
             "region_code":"Gyeongsangnamdo",
             "sub_region_code":"4812100000_Gyeongsangnamdo_Changwon_Uichang"
         },
@@ -173,6 +188,7 @@
             "apt_type":"아파트",
             "apt_year":3.0,
             "value_score":65.241,
+            "region":"경상남도 창원시 의창구",
             "region_code":"Gyeongsangnamdo",
             "sub_region_code":"4812100000_Gyeongsangnamdo_Changwon_Uichang"
         },
@@ -184,6 +200,7 @@
             "apt_type":"아파트",
             "apt_year":4.0,
             "value_score":63.236,
+            "region":"경상남도 창원시 의창구",
             "region_code":"Gyeongsangnamdo",
             "sub_region_code":"4812100000_Gyeongsangnamdo_Changwon_Uichang"
         },
@@ -195,6 +212,7 @@
             "apt_type":"아파트",
             "apt_year":4.0,
             "value_score":62.986,
+            "region":"경상남도 창원시 의창구",
             "region_code":"Gyeongsangnamdo",
             "sub_region_code":"4812100000_Gyeongsangnamdo_Changwon_Uichang"
         },
@@ -206,6 +224,7 @@
             "apt_type":"아파트",
             "apt_year":4.0,
             "value_score":61.986,
+            "region":"경상남도 창원시 의창구",
             "region_code":"Gyeongsangnamdo",
             "sub_region_code":"4812100000_Gyeongsangnamdo_Changwon_Uichang"
         },
@@ -217,6 +236,7 @@
             "apt_type":"아파트",
             "apt_year":13.0,
             "value_score":59.1615,
+            "region":"경상남도 창원시 의창구",
             "region_code":"Gyeongsangnamdo",
             "sub_region_code":"4812100000_Gyeongsangnamdo_Changwon_Uichang"
         },
@@ -228,6 +248,7 @@
             "apt_type":"아파트",
             "apt_year":4.0,
             "value_score":58.3705,
+            "region":"경상남도 창원시 의창구",
             "region_code":"Gyeongsangnamdo",
             "sub_region_code":"4812100000_Gyeongsangnamdo_Changwon_Uichang"
         },
@@ -239,6 +260,7 @@
             "apt_type":"아파트",
             "apt_year":9.0,
             "value_score":56.3705,
+            "region":"경상남도 창원시 의창구",
             "region_code":"Gyeongsangnamdo",
             "sub_region_code":"4812100000_Gyeongsangnamdo_Changwon_Uichang"
         },
@@ -250,6 +272,7 @@
             "apt_type":"분양권",
             "apt_year":-2.0,
             "value_score":56.12,
+            "region":"경상남도 창원시 의창구",
             "region_code":"Gyeongsangnamdo",
             "sub_region_code":"4812100000_Gyeongsangnamdo_Changwon_Uichang"
         },
@@ -261,6 +284,7 @@
             "apt_type":"아파트",
             "apt_year":9.0,
             "value_score":54.62,
+            "region":"경상남도 창원시 의창구",
             "region_code":"Gyeongsangnamdo",
             "sub_region_code":"4812100000_Gyeongsangnamdo_Changwon_Uichang"
         },
@@ -272,6 +296,7 @@
             "apt_type":"아파트",
             "apt_year":3.0,
             "value_score":51.2781052632,
+            "region":"경상남도 창원시 의창구",
             "region_code":"Gyeongsangnamdo",
             "sub_region_code":"4812100000_Gyeongsangnamdo_Changwon_Uichang"
         },
@@ -283,6 +308,7 @@
             "apt_type":"아파트",
             "apt_year":19.0,
             "value_score":49.0955789474,
+            "region":"경상남도 창원시 의창구",
             "region_code":"Gyeongsangnamdo",
             "sub_region_code":"4812100000_Gyeongsangnamdo_Changwon_Uichang"
         },
@@ -294,6 +320,7 @@
             "apt_type":"아파트",
             "apt_year":18.0,
             "value_score":48.5711578947,
+            "region":"경상남도 창원시 의창구",
             "region_code":"Gyeongsangnamdo",
             "sub_region_code":"4812100000_Gyeongsangnamdo_Changwon_Uichang"
         },
@@ -305,6 +332,7 @@
             "apt_type":"아파트",
             "apt_year":24.0,
             "value_score":47.0494736842,
+            "region":"경상남도 창원시 의창구",
             "region_code":"Gyeongsangnamdo",
             "sub_region_code":"4812100000_Gyeongsangnamdo_Changwon_Uichang"
         },
@@ -316,6 +344,7 @@
             "apt_type":"아파트",
             "apt_year":4.0,
             "value_score":45.9705263158,
+            "region":"경상남도 창원시 의창구",
             "region_code":"Gyeongsangnamdo",
             "sub_region_code":"4812100000_Gyeongsangnamdo_Changwon_Uichang"
         },
@@ -327,6 +356,7 @@
             "apt_type":"아파트",
             "apt_year":30.0,
             "value_score":45.1547368421,
+            "region":"경상남도 창원시 의창구",
             "region_code":"Gyeongsangnamdo",
             "sub_region_code":"4812100000_Gyeongsangnamdo_Changwon_Uichang"
         },
@@ -338,6 +368,7 @@
             "apt_type":"아파트",
             "apt_year":24.0,
             "value_score":45.0442105263,
+            "region":"경상남도 창원시 의창구",
             "region_code":"Gyeongsangnamdo",
             "sub_region_code":"4812100000_Gyeongsangnamdo_Changwon_Uichang"
         },
@@ -349,6 +380,7 @@
             "apt_type":"아파트",
             "apt_year":4.0,
             "value_score":45.0086315789,
+            "region":"경상남도 창원시 의창구",
             "region_code":"Gyeongsangnamdo",
             "sub_region_code":"4812100000_Gyeongsangnamdo_Changwon_Uichang"
         },
@@ -360,6 +392,7 @@
             "apt_type":"아파트",
             "apt_year":30.0,
             "value_score":44.2553684211,
+            "region":"경상남도 창원시 의창구",
             "region_code":"Gyeongsangnamdo",
             "sub_region_code":"4812100000_Gyeongsangnamdo_Changwon_Uichang"
         },
@@ -371,6 +404,7 @@
             "apt_type":"아파트",
             "apt_year":24.0,
             "value_score":43.8343157895,
+            "region":"경상남도 창원시 의창구",
             "region_code":"Gyeongsangnamdo",
             "sub_region_code":"4812100000_Gyeongsangnamdo_Changwon_Uichang"
         },
@@ -382,6 +416,7 @@
             "apt_type":"아파트",
             "apt_year":4.0,
             "value_score":57.97,
+            "region":"경상남도 창원시 의창구",
             "region_code":"Gyeongsangnamdo",
             "sub_region_code":"4812100000_Gyeongsangnamdo_Changwon_Uichang"
         },
@@ -393,6 +428,7 @@
             "apt_type":"아파트",
             "apt_year":3.0,
             "value_score":57.857,
+            "region":"경상남도 창원시 의창구",
             "region_code":"Gyeongsangnamdo",
             "sub_region_code":"4812100000_Gyeongsangnamdo_Changwon_Uichang"
         },
@@ -404,6 +440,7 @@
             "apt_type":"아파트",
             "apt_year":4.0,
             "value_score":54.347,
+            "region":"경상남도 창원시 의창구",
             "region_code":"Gyeongsangnamdo",
             "sub_region_code":"4812100000_Gyeongsangnamdo_Changwon_Uichang"
         },
@@ -415,6 +452,7 @@
             "apt_type":"아파트",
             "apt_year":19.0,
             "value_score":53.818,
+            "region":"경상남도 창원시 의창구",
             "region_code":"Gyeongsangnamdo",
             "sub_region_code":"4812100000_Gyeongsangnamdo_Changwon_Uichang"
         },
@@ -426,6 +464,7 @@
             "apt_type":"아파트",
             "apt_year":18.0,
             "value_score":53.571,
+            "region":"경상남도 창원시 의창구",
             "region_code":"Gyeongsangnamdo",
             "sub_region_code":"4812100000_Gyeongsangnamdo_Changwon_Uichang"
         },
@@ -437,6 +476,7 @@
             "apt_type":"아파트",
             "apt_year":24.0,
             "value_score":53.495,
+            "region":"경상남도 창원시 의창구",
             "region_code":"Gyeongsangnamdo",
             "sub_region_code":"4812100000_Gyeongsangnamdo_Changwon_Uichang"
         },
@@ -448,6 +488,7 @@
             "apt_type":"아파트",
             "apt_year":4.0,
             "value_score":53.222,
+            "region":"경상남도 창원시 의창구",
             "region_code":"Gyeongsangnamdo",
             "sub_region_code":"4812100000_Gyeongsangnamdo_Changwon_Uichang"
         },
@@ -459,6 +500,7 @@
             "apt_type":"아파트",
             "apt_year":4.0,
             "value_score":53.097,
+            "region":"경상남도 창원시 의창구",
             "region_code":"Gyeongsangnamdo",
             "sub_region_code":"4812100000_Gyeongsangnamdo_Changwon_Uichang"
         },
@@ -470,6 +512,7 @@
             "apt_type":"아파트",
             "apt_year":4.0,
             "value_score":52.241,
+            "region":"경상남도 창원시 의창구",
             "region_code":"Gyeongsangnamdo",
             "sub_region_code":"4812100000_Gyeongsangnamdo_Changwon_Uichang"
         },
@@ -481,6 +524,7 @@
             "apt_type":"아파트",
             "apt_year":9.0,
             "value_score":51.241,
+            "region":"경상남도 창원시 의창구",
             "region_code":"Gyeongsangnamdo",
             "sub_region_code":"4812100000_Gyeongsangnamdo_Changwon_Uichang"
         }

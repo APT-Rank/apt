@@ -30,6 +30,10 @@
                 "type":"number"
             },
             {
+                "name":"region",
+                "type":"string"
+            },
+            {
                 "name":"region_code",
                 "type":"string"
             },
@@ -52,6 +56,7 @@
             "apt_type":"아파트",
             "apt_year":8.0,
             "value_score":31.123,
+            "region":"경상북도 의성군",
             "region_code":"Gyeongsangbukdo",
             "sub_region_code":"4773000000_Gyeongsangbukdo_Uiseong"
         },
@@ -63,6 +68,7 @@
             "apt_type":"아파트",
             "apt_year":31.0,
             "value_score":29.508,
+            "region":"경상북도 의성군",
             "region_code":"Gyeongsangbukdo",
             "sub_region_code":"4773000000_Gyeongsangbukdo_Uiseong"
         },
@@ -74,6 +80,7 @@
             "apt_type":"아파트",
             "apt_year":29.0,
             "value_score":27.098,
+            "region":"경상북도 의성군",
             "region_code":"Gyeongsangbukdo",
             "sub_region_code":"4773000000_Gyeongsangbukdo_Uiseong"
         },
@@ -85,6 +92,7 @@
             "apt_type":"아파트",
             "apt_year":20.0,
             "value_score":26.748,
+            "region":"경상북도 의성군",
             "region_code":"Gyeongsangbukdo",
             "sub_region_code":"4773000000_Gyeongsangbukdo_Uiseong"
         },
@@ -96,6 +104,7 @@
             "apt_type":"아파트",
             "apt_year":32.0,
             "value_score":25.348,
+            "region":"경상북도 의성군",
             "region_code":"Gyeongsangbukdo",
             "sub_region_code":"4773000000_Gyeongsangbukdo_Uiseong"
         },
@@ -107,6 +116,7 @@
             "apt_type":"아파트",
             "apt_year":27.0,
             "value_score":20.5465,
+            "region":"경상북도 의성군",
             "region_code":"Gyeongsangbukdo",
             "sub_region_code":"4773000000_Gyeongsangbukdo_Uiseong"
         },
@@ -118,6 +128,7 @@
             "apt_type":"아파트",
             "apt_year":29.0,
             "value_score":13.6005,
+            "region":"경상북도 의성군",
             "region_code":"Gyeongsangbukdo",
             "sub_region_code":"4773000000_Gyeongsangbukdo_Uiseong"
         },
@@ -129,6 +140,7 @@
             "apt_type":"아파트",
             "apt_year":8.0,
             "value_score":34.498,
+            "region":"경상북도 의성군",
             "region_code":"Gyeongsangbukdo",
             "sub_region_code":"4773000000_Gyeongsangbukdo_Uiseong"
         },
@@ -140,6 +152,7 @@
             "apt_type":"아파트",
             "apt_year":31.0,
             "value_score":28.848,
+            "region":"경상북도 의성군",
             "region_code":"Gyeongsangbukdo",
             "sub_region_code":"4773000000_Gyeongsangbukdo_Uiseong"
         },
@@ -151,6 +164,7 @@
             "apt_type":"아파트",
             "apt_year":29.0,
             "value_score":28.748,
+            "region":"경상북도 의성군",
             "region_code":"Gyeongsangbukdo",
             "sub_region_code":"4773000000_Gyeongsangbukdo_Uiseong"
         },
@@ -162,6 +176,7 @@
             "apt_type":"아파트",
             "apt_year":20.0,
             "value_score":28.248,
+            "region":"경상북도 의성군",
             "region_code":"Gyeongsangbukdo",
             "sub_region_code":"4773000000_Gyeongsangbukdo_Uiseong"
         },
@@ -173,6 +188,7 @@
             "apt_type":"아파트",
             "apt_year":32.0,
             "value_score":26.248,
+            "region":"경상북도 의성군",
             "region_code":"Gyeongsangbukdo",
             "sub_region_code":"4773000000_Gyeongsangbukdo_Uiseong"
         },
@@ -184,6 +200,7 @@
             "apt_type":"아파트",
             "apt_year":27.0,
             "value_score":23.2465,
+            "region":"경상북도 의성군",
             "region_code":"Gyeongsangbukdo",
             "sub_region_code":"4773000000_Gyeongsangbukdo_Uiseong"
         },
@@ -195,6 +212,7 @@
             "apt_type":"아파트",
             "apt_year":29.0,
             "value_score":14.9505,
+            "region":"경상북도 의성군",
             "region_code":"Gyeongsangbukdo",
             "sub_region_code":"4773000000_Gyeongsangbukdo_Uiseong"
         },
@@ -206,6 +224,7 @@
             "apt_type":"아파트",
             "apt_year":31.0,
             "value_score":32.6290526316,
+            "region":"경상북도 의성군",
             "region_code":"Gyeongsangbukdo",
             "sub_region_code":"4773000000_Gyeongsangbukdo_Uiseong"
         },
@@ -217,6 +236,7 @@
             "apt_type":"아파트",
             "apt_year":8.0,
             "value_score":29.7606315789,
+            "region":"경상북도 의성군",
             "region_code":"Gyeongsangbukdo",
             "sub_region_code":"4773000000_Gyeongsangbukdo_Uiseong"
         },
@@ -228,6 +248,7 @@
             "apt_type":"아파트",
             "apt_year":29.0,
             "value_score":27.9448421053,
+            "region":"경상북도 의성군",
             "region_code":"Gyeongsangbukdo",
             "sub_region_code":"4773000000_Gyeongsangbukdo_Uiseong"
         },
@@ -239,6 +260,7 @@
             "apt_type":"아파트",
             "apt_year":20.0,
             "value_score":27.7869473684,
+            "region":"경상북도 의성군",
             "region_code":"Gyeongsangbukdo",
             "sub_region_code":"4773000000_Gyeongsangbukdo_Uiseong"
         },
@@ -250,6 +272,7 @@
             "apt_type":"아파트",
             "apt_year":32.0,
             "value_score":27.1553684211,
+            "region":"경상북도 의성군",
             "region_code":"Gyeongsangbukdo",
             "sub_region_code":"4773000000_Gyeongsangbukdo_Uiseong"
         },
@@ -261,6 +284,7 @@
             "apt_type":"아파트",
             "apt_year":27.0,
             "value_score":20.8376842105,
+            "region":"경상북도 의성군",
             "region_code":"Gyeongsangbukdo",
             "sub_region_code":"4773000000_Gyeongsangbukdo_Uiseong"
         },
@@ -272,6 +296,7 @@
             "apt_type":"아파트",
             "apt_year":29.0,
             "value_score":14.6216842105,
+            "region":"경상북도 의성군",
             "region_code":"Gyeongsangbukdo",
             "sub_region_code":"4773000000_Gyeongsangbukdo_Uiseong"
         },
@@ -283,6 +308,7 @@
             "apt_type":"아파트",
             "apt_year":8.0,
             "value_score":40.121,
+            "region":"경상북도 의성군",
             "region_code":"Gyeongsangbukdo",
             "sub_region_code":"4773000000_Gyeongsangbukdo_Uiseong"
         },
@@ -294,6 +320,7 @@
             "apt_type":"아파트",
             "apt_year":31.0,
             "value_score":38.596,
+            "region":"경상북도 의성군",
             "region_code":"Gyeongsangbukdo",
             "sub_region_code":"4773000000_Gyeongsangbukdo_Uiseong"
         },
@@ -305,6 +332,7 @@
             "apt_type":"아파트",
             "apt_year":29.0,
             "value_score":37.246,
+            "region":"경상북도 의성군",
             "region_code":"Gyeongsangbukdo",
             "sub_region_code":"4773000000_Gyeongsangbukdo_Uiseong"
         },
@@ -316,6 +344,7 @@
             "apt_type":"아파트",
             "apt_year":20.0,
             "value_score":36.996,
+            "region":"경상북도 의성군",
             "region_code":"Gyeongsangbukdo",
             "sub_region_code":"4773000000_Gyeongsangbukdo_Uiseong"
         },
@@ -327,6 +356,7 @@
             "apt_type":"아파트",
             "apt_year":32.0,
             "value_score":35.996,
+            "region":"경상북도 의성군",
             "region_code":"Gyeongsangbukdo",
             "sub_region_code":"4773000000_Gyeongsangbukdo_Uiseong"
         },
@@ -338,6 +368,7 @@
             "apt_type":"아파트",
             "apt_year":27.0,
             "value_score":32.993,
+            "region":"경상북도 의성군",
             "region_code":"Gyeongsangbukdo",
             "sub_region_code":"4773000000_Gyeongsangbukdo_Uiseong"
         },
@@ -349,6 +380,7 @@
             "apt_type":"아파트",
             "apt_year":29.0,
             "value_score":23.151,
+            "region":"경상북도 의성군",
             "region_code":"Gyeongsangbukdo",
             "sub_region_code":"4773000000_Gyeongsangbukdo_Uiseong"
         }

@@ -30,6 +30,10 @@
                 "type":"number"
             },
             {
+                "name":"region",
+                "type":"string"
+            },
+            {
                 "name":"region_code",
                 "type":"string"
             },
@@ -52,6 +56,7 @@
             "apt_type":"분양권",
             "apt_year":0.0,
             "value_score":35.827,
+            "region":"강원도 정선군",
             "region_code":"Gangwondo",
             "sub_region_code":"4277000000_Gangwondo_Jeongseon"
         },
@@ -63,6 +68,7 @@
             "apt_type":"아파트",
             "apt_year":12.0,
             "value_score":34.4665,
+            "region":"강원도 정선군",
             "region_code":"Gangwondo",
             "sub_region_code":"4277000000_Gangwondo_Jeongseon"
         },
@@ -74,6 +80,7 @@
             "apt_type":"아파트",
             "apt_year":11.0,
             "value_score":28.7775,
+            "region":"강원도 정선군",
             "region_code":"Gangwondo",
             "sub_region_code":"4277000000_Gangwondo_Jeongseon"
         },
@@ -85,6 +92,7 @@
             "apt_type":"아파트",
             "apt_year":25.0,
             "value_score":26.0525,
+            "region":"강원도 정선군",
             "region_code":"Gangwondo",
             "sub_region_code":"4277000000_Gangwondo_Jeongseon"
         },
@@ -96,6 +104,7 @@
             "apt_type":"아파트",
             "apt_year":21.0,
             "value_score":25.0575,
+            "region":"강원도 정선군",
             "region_code":"Gangwondo",
             "sub_region_code":"4277000000_Gangwondo_Jeongseon"
         },
@@ -107,6 +116,7 @@
             "apt_type":"아파트",
             "apt_year":5.0,
             "value_score":24.899,
+            "region":"강원도 정선군",
             "region_code":"Gangwondo",
             "sub_region_code":"4277000000_Gangwondo_Jeongseon"
         },
@@ -118,6 +128,7 @@
             "apt_type":"아파트",
             "apt_year":26.0,
             "value_score":22.9025,
+            "region":"강원도 정선군",
             "region_code":"Gangwondo",
             "sub_region_code":"4277000000_Gangwondo_Jeongseon"
         },
@@ -129,6 +140,7 @@
             "apt_type":"아파트",
             "apt_year":31.0,
             "value_score":22.8685,
+            "region":"강원도 정선군",
             "region_code":"Gangwondo",
             "sub_region_code":"4277000000_Gangwondo_Jeongseon"
         },
@@ -140,6 +152,7 @@
             "apt_type":"아파트",
             "apt_year":33.0,
             "value_score":21.0125,
+            "region":"강원도 정선군",
             "region_code":"Gangwondo",
             "sub_region_code":"4277000000_Gangwondo_Jeongseon"
         },
@@ -151,6 +164,7 @@
             "apt_type":"아파트",
             "apt_year":20.0,
             "value_score":19.6325,
+            "region":"강원도 정선군",
             "region_code":"Gangwondo",
             "sub_region_code":"4277000000_Gangwondo_Jeongseon"
         },
@@ -162,6 +176,7 @@
             "apt_type":"분양권",
             "apt_year":0.0,
             "value_score":39.502,
+            "region":"강원도 정선군",
             "region_code":"Gangwondo",
             "sub_region_code":"4277000000_Gangwondo_Jeongseon"
         },
@@ -173,6 +188,7 @@
             "apt_type":"아파트",
             "apt_year":12.0,
             "value_score":38.8165,
+            "region":"강원도 정선군",
             "region_code":"Gangwondo",
             "sub_region_code":"4277000000_Gangwondo_Jeongseon"
         },
@@ -184,6 +200,7 @@
             "apt_type":"아파트",
             "apt_year":11.0,
             "value_score":34.2525,
+            "region":"강원도 정선군",
             "region_code":"Gangwondo",
             "sub_region_code":"4277000000_Gangwondo_Jeongseon"
         },
@@ -195,6 +212,7 @@
             "apt_type":"아파트",
             "apt_year":5.0,
             "value_score":31.424,
+            "region":"강원도 정선군",
             "region_code":"Gangwondo",
             "sub_region_code":"4277000000_Gangwondo_Jeongseon"
         },
@@ -206,6 +224,7 @@
             "apt_type":"아파트",
             "apt_year":21.0,
             "value_score":30.6825,
+            "region":"강원도 정선군",
             "region_code":"Gangwondo",
             "sub_region_code":"4277000000_Gangwondo_Jeongseon"
         },
@@ -217,6 +236,7 @@
             "apt_type":"아파트",
             "apt_year":31.0,
             "value_score":26.7835,
+            "region":"강원도 정선군",
             "region_code":"Gangwondo",
             "sub_region_code":"4277000000_Gangwondo_Jeongseon"
         },
@@ -228,6 +248,7 @@
             "apt_type":"아파트",
             "apt_year":25.0,
             "value_score":26.5025,
+            "region":"강원도 정선군",
             "region_code":"Gangwondo",
             "sub_region_code":"4277000000_Gangwondo_Jeongseon"
         },
@@ -239,6 +260,7 @@
             "apt_type":"아파트",
             "apt_year":33.0,
             "value_score":23.3525,
+            "region":"강원도 정선군",
             "region_code":"Gangwondo",
             "sub_region_code":"4277000000_Gangwondo_Jeongseon"
         },
@@ -250,6 +272,7 @@
             "apt_type":"아파트",
             "apt_year":20.0,
             "value_score":22.9325,
+            "region":"강원도 정선군",
             "region_code":"Gangwondo",
             "sub_region_code":"4277000000_Gangwondo_Jeongseon"
         },
@@ -261,6 +284,7 @@
             "apt_type":"아파트",
             "apt_year":26.0,
             "value_score":22.0025,
+            "region":"강원도 정선군",
             "region_code":"Gangwondo",
             "sub_region_code":"4277000000_Gangwondo_Jeongseon"
         },
@@ -272,6 +296,7 @@
             "apt_type":"분양권",
             "apt_year":0.0,
             "value_score":33.5551578947,
+            "region":"강원도 정선군",
             "region_code":"Gangwondo",
             "sub_region_code":"4277000000_Gangwondo_Jeongseon"
         },
@@ -283,6 +308,7 @@
             "apt_type":"아파트",
             "apt_year":12.0,
             "value_score":31.3471578947,
+            "region":"강원도 정선군",
             "region_code":"Gangwondo",
             "sub_region_code":"4277000000_Gangwondo_Jeongseon"
         },
@@ -294,6 +320,7 @@
             "apt_type":"아파트",
             "apt_year":25.0,
             "value_score":28.1084210526,
+            "region":"강원도 정선군",
             "region_code":"Gangwondo",
             "sub_region_code":"4277000000_Gangwondo_Jeongseon"
         },
@@ -305,6 +332,7 @@
             "apt_type":"아파트",
             "apt_year":26.0,
             "value_score":26.6873684211,
+            "region":"강원도 정선군",
             "region_code":"Gangwondo",
             "sub_region_code":"4277000000_Gangwondo_Jeongseon"
         },
@@ -316,6 +344,7 @@
             "apt_type":"아파트",
             "apt_year":11.0,
             "value_score":25.1873684211,
+            "region":"강원도 정선군",
             "region_code":"Gangwondo",
             "sub_region_code":"4277000000_Gangwondo_Jeongseon"
         },
@@ -327,6 +356,7 @@
             "apt_type":"아파트",
             "apt_year":33.0,
             "value_score":21.4768421053,
+            "region":"강원도 정선군",
             "region_code":"Gangwondo",
             "sub_region_code":"4277000000_Gangwondo_Jeongseon"
         },
@@ -338,6 +368,7 @@
             "apt_type":"아파트",
             "apt_year":21.0,
             "value_score":20.9936842105,
+            "region":"강원도 정선군",
             "region_code":"Gangwondo",
             "sub_region_code":"4277000000_Gangwondo_Jeongseon"
         },
@@ -349,6 +380,7 @@
             "apt_type":"아파트",
             "apt_year":31.0,
             "value_score":20.8370526316,
+            "region":"강원도 정선군",
             "region_code":"Gangwondo",
             "sub_region_code":"4277000000_Gangwondo_Jeongseon"
         },
@@ -360,6 +392,7 @@
             "apt_type":"아파트",
             "apt_year":5.0,
             "value_score":19.0882105263,
+            "region":"강원도 정선군",
             "region_code":"Gangwondo",
             "sub_region_code":"4277000000_Gangwondo_Jeongseon"
         },
@@ -371,6 +404,7 @@
             "apt_type":"아파트",
             "apt_year":20.0,
             "value_score":18.5463157895,
+            "region":"강원도 정선군",
             "region_code":"Gangwondo",
             "sub_region_code":"4277000000_Gangwondo_Jeongseon"
         },
@@ -382,6 +416,7 @@
             "apt_type":"분양권",
             "apt_year":0.0,
             "value_score":42.629,
+            "region":"강원도 정선군",
             "region_code":"Gangwondo",
             "sub_region_code":"4277000000_Gangwondo_Jeongseon"
         },
@@ -393,6 +428,7 @@
             "apt_type":"아파트",
             "apt_year":12.0,
             "value_score":40.883,
+            "region":"강원도 정선군",
             "region_code":"Gangwondo",
             "sub_region_code":"4277000000_Gangwondo_Jeongseon"
         },
@@ -404,6 +440,7 @@
             "apt_type":"아파트",
             "apt_year":11.0,
             "value_score":38.13,
+            "region":"강원도 정선군",
             "region_code":"Gangwondo",
             "sub_region_code":"4277000000_Gangwondo_Jeongseon"
         },
@@ -415,6 +452,7 @@
             "apt_type":"아파트",
             "apt_year":25.0,
             "value_score":35.755,
+            "region":"강원도 정선군",
             "region_code":"Gangwondo",
             "sub_region_code":"4277000000_Gangwondo_Jeongseon"
         },
@@ -426,6 +464,7 @@
             "apt_type":"아파트",
             "apt_year":26.0,
             "value_score":33.505,
+            "region":"강원도 정선군",
             "region_code":"Gangwondo",
             "sub_region_code":"4277000000_Gangwondo_Jeongseon"
         },
@@ -437,6 +476,7 @@
             "apt_type":"아파트",
             "apt_year":21.0,
             "value_score":33.24,
+            "region":"강원도 정선군",
             "region_code":"Gangwondo",
             "sub_region_code":"4277000000_Gangwondo_Jeongseon"
         },
@@ -448,6 +488,7 @@
             "apt_type":"아파트",
             "apt_year":33.0,
             "value_score":32.605,
+            "region":"강원도 정선군",
             "region_code":"Gangwondo",
             "sub_region_code":"4277000000_Gangwondo_Jeongseon"
         },
@@ -459,6 +500,7 @@
             "apt_type":"아파트",
             "apt_year":31.0,
             "value_score":31.592,
+            "region":"강원도 정선군",
             "region_code":"Gangwondo",
             "sub_region_code":"4277000000_Gangwondo_Jeongseon"
         },
@@ -470,6 +512,7 @@
             "apt_type":"아파트",
             "apt_year":5.0,
             "value_score":30.223,
+            "region":"강원도 정선군",
             "region_code":"Gangwondo",
             "sub_region_code":"4277000000_Gangwondo_Jeongseon"
         },
@@ -481,6 +524,7 @@
             "apt_type":"아파트",
             "apt_year":20.0,
             "value_score":29.365,
+            "region":"강원도 정선군",
             "region_code":"Gangwondo",
             "sub_region_code":"4277000000_Gangwondo_Jeongseon"
         }

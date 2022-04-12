@@ -30,6 +30,10 @@
                 "type":"number"
             },
             {
+                "name":"region",
+                "type":"string"
+            },
+            {
                 "name":"region_code",
                 "type":"string"
             },
@@ -52,6 +56,7 @@
             "apt_type":"아파트",
             "apt_year":4.0,
             "value_score":39.506,
+            "region":"강원도 태백시",
             "region_code":"Gangwondo",
             "sub_region_code":"4219000000_Gangwondo_Taebaek"
         },
@@ -63,6 +68,7 @@
             "apt_type":"아파트",
             "apt_year":9.0,
             "value_score":37.236,
+            "region":"강원도 태백시",
             "region_code":"Gangwondo",
             "sub_region_code":"4219000000_Gangwondo_Taebaek"
         },
@@ -74,6 +80,7 @@
             "apt_type":"아파트",
             "apt_year":12.0,
             "value_score":36.796,
+            "region":"강원도 태백시",
             "region_code":"Gangwondo",
             "sub_region_code":"4219000000_Gangwondo_Taebaek"
         },
@@ -85,6 +92,7 @@
             "apt_type":"아파트",
             "apt_year":22.0,
             "value_score":35.111,
+            "region":"강원도 태백시",
             "region_code":"Gangwondo",
             "sub_region_code":"4219000000_Gangwondo_Taebaek"
         },
@@ -96,6 +104,7 @@
             "apt_type":"아파트",
             "apt_year":16.0,
             "value_score":34.2715,
+            "region":"강원도 태백시",
             "region_code":"Gangwondo",
             "sub_region_code":"4219000000_Gangwondo_Taebaek"
         },
@@ -107,6 +116,7 @@
             "apt_type":"아파트",
             "apt_year":27.0,
             "value_score":33.711,
+            "region":"강원도 태백시",
             "region_code":"Gangwondo",
             "sub_region_code":"4219000000_Gangwondo_Taebaek"
         },
@@ -118,6 +128,7 @@
             "apt_type":"아파트",
             "apt_year":16.0,
             "value_score":31.721,
+            "region":"강원도 태백시",
             "region_code":"Gangwondo",
             "sub_region_code":"4219000000_Gangwondo_Taebaek"
         },
@@ -129,6 +140,7 @@
             "apt_type":"아파트",
             "apt_year":38.0,
             "value_score":31.161,
+            "region":"강원도 태백시",
             "region_code":"Gangwondo",
             "sub_region_code":"4219000000_Gangwondo_Taebaek"
         },
@@ -140,6 +152,7 @@
             "apt_type":"아파트",
             "apt_year":20.0,
             "value_score":30.253,
+            "region":"강원도 태백시",
             "region_code":"Gangwondo",
             "sub_region_code":"4219000000_Gangwondo_Taebaek"
         },
@@ -151,6 +164,7 @@
             "apt_type":"아파트",
             "apt_year":40.0,
             "value_score":29.911,
+            "region":"강원도 태백시",
             "region_code":"Gangwondo",
             "sub_region_code":"4219000000_Gangwondo_Taebaek"
         },
@@ -162,6 +176,7 @@
             "apt_type":"아파트",
             "apt_year":9.0,
             "value_score":43.086,
+            "region":"강원도 태백시",
             "region_code":"Gangwondo",
             "sub_region_code":"4219000000_Gangwondo_Taebaek"
         },
@@ -173,6 +188,7 @@
             "apt_type":"아파트",
             "apt_year":4.0,
             "value_score":41.921,
+            "region":"강원도 태백시",
             "region_code":"Gangwondo",
             "sub_region_code":"4219000000_Gangwondo_Taebaek"
         },
@@ -184,6 +200,7 @@
             "apt_type":"아파트",
             "apt_year":12.0,
             "value_score":41.686,
+            "region":"강원도 태백시",
             "region_code":"Gangwondo",
             "sub_region_code":"4219000000_Gangwondo_Taebaek"
         },
@@ -195,6 +212,7 @@
             "apt_type":"아파트",
             "apt_year":22.0,
             "value_score":39.086,
+            "region":"강원도 태백시",
             "region_code":"Gangwondo",
             "sub_region_code":"4219000000_Gangwondo_Taebaek"
         },
@@ -206,6 +224,7 @@
             "apt_type":"아파트",
             "apt_year":16.0,
             "value_score":38.7715,
+            "region":"강원도 태백시",
             "region_code":"Gangwondo",
             "sub_region_code":"4219000000_Gangwondo_Taebaek"
         },
@@ -217,6 +236,7 @@
             "apt_type":"아파트",
             "apt_year":27.0,
             "value_score":37.086,
+            "region":"강원도 태백시",
             "region_code":"Gangwondo",
             "sub_region_code":"4219000000_Gangwondo_Taebaek"
         },
@@ -228,6 +248,7 @@
             "apt_type":"아파트",
             "apt_year":16.0,
             "value_score":34.436,
+            "region":"강원도 태백시",
             "region_code":"Gangwondo",
             "sub_region_code":"4219000000_Gangwondo_Taebaek"
         },
@@ -239,6 +260,7 @@
             "apt_type":"아파트",
             "apt_year":38.0,
             "value_score":34.086,
+            "region":"강원도 태백시",
             "region_code":"Gangwondo",
             "sub_region_code":"4219000000_Gangwondo_Taebaek"
         },
@@ -250,6 +272,7 @@
             "apt_type":"아파트",
             "apt_year":15.0,
             "value_score":32.0715,
+            "region":"강원도 태백시",
             "region_code":"Gangwondo",
             "sub_region_code":"4219000000_Gangwondo_Taebaek"
         },
@@ -261,6 +284,7 @@
             "apt_type":"아파트",
             "apt_year":9.0,
             "value_score":31.836,
+            "region":"강원도 태백시",
             "region_code":"Gangwondo",
             "sub_region_code":"4219000000_Gangwondo_Taebaek"
         },
@@ -272,6 +296,7 @@
             "apt_type":"아파트",
             "apt_year":4.0,
             "value_score":37.0633684211,
+            "region":"강원도 태백시",
             "region_code":"Gangwondo",
             "sub_region_code":"4219000000_Gangwondo_Taebaek"
         },
@@ -283,6 +308,7 @@
             "apt_type":"아파트",
             "apt_year":12.0,
             "value_score":32.6349473684,
+            "region":"강원도 태백시",
             "region_code":"Gangwondo",
             "sub_region_code":"4219000000_Gangwondo_Taebaek"
         },
@@ -294,6 +320,7 @@
             "apt_type":"아파트",
             "apt_year":20.0,
             "value_score":32.5511578947,
+            "region":"강원도 태백시",
             "region_code":"Gangwondo",
             "sub_region_code":"4219000000_Gangwondo_Taebaek"
         },
@@ -305,6 +332,7 @@
             "apt_type":"아파트",
             "apt_year":22.0,
             "value_score":32.0823157895,
+            "region":"강원도 태백시",
             "region_code":"Gangwondo",
             "sub_region_code":"4219000000_Gangwondo_Taebaek"
         },
@@ -316,6 +344,7 @@
             "apt_type":"아파트",
             "apt_year":9.0,
             "value_score":32.0033684211,
+            "region":"강원도 태백시",
             "region_code":"Gangwondo",
             "sub_region_code":"4219000000_Gangwondo_Taebaek"
         },
@@ -327,6 +356,7 @@
             "apt_type":"아파트",
             "apt_year":27.0,
             "value_score":31.4507368421,
+            "region":"강원도 태백시",
             "region_code":"Gangwondo",
             "sub_region_code":"4219000000_Gangwondo_Taebaek"
         },
@@ -338,6 +368,7 @@
             "apt_type":"아파트",
             "apt_year":16.0,
             "value_score":30.5534736842,
+            "region":"강원도 태백시",
             "region_code":"Gangwondo",
             "sub_region_code":"4219000000_Gangwondo_Taebaek"
         },
@@ -349,6 +380,7 @@
             "apt_type":"아파트",
             "apt_year":16.0,
             "value_score":30.3454736842,
+            "region":"강원도 태백시",
             "region_code":"Gangwondo",
             "sub_region_code":"4219000000_Gangwondo_Taebaek"
         },
@@ -360,6 +392,7 @@
             "apt_type":"아파트",
             "apt_year":40.0,
             "value_score":30.0823157895,
+            "region":"강원도 태백시",
             "region_code":"Gangwondo",
             "sub_region_code":"4219000000_Gangwondo_Taebaek"
         },
@@ -371,6 +404,7 @@
             "apt_type":"아파트",
             "apt_year":38.0,
             "value_score":29.6086315789,
+            "region":"강원도 태백시",
             "region_code":"Gangwondo",
             "sub_region_code":"4219000000_Gangwondo_Taebaek"
         },
@@ -382,6 +416,7 @@
             "apt_type":"아파트",
             "apt_year":9.0,
             "value_score":41.922,
+            "region":"강원도 태백시",
             "region_code":"Gangwondo",
             "sub_region_code":"4219000000_Gangwondo_Taebaek"
         },
@@ -393,6 +428,7 @@
             "apt_type":"아파트",
             "apt_year":12.0,
             "value_score":41.522,
+            "region":"강원도 태백시",
             "region_code":"Gangwondo",
             "sub_region_code":"4219000000_Gangwondo_Taebaek"
         },
@@ -404,6 +440,7 @@
             "apt_type":"아파트",
             "apt_year":4.0,
             "value_score":40.367,
+            "region":"강원도 태백시",
             "region_code":"Gangwondo",
             "sub_region_code":"4219000000_Gangwondo_Taebaek"
         },
@@ -415,6 +452,7 @@
             "apt_type":"아파트",
             "apt_year":22.0,
             "value_score":40.297,
+            "region":"강원도 태백시",
             "region_code":"Gangwondo",
             "sub_region_code":"4219000000_Gangwondo_Taebaek"
         },
@@ -426,6 +464,7 @@
             "apt_type":"아파트",
             "apt_year":27.0,
             "value_score":39.297,
+            "region":"강원도 태백시",
             "region_code":"Gangwondo",
             "sub_region_code":"4219000000_Gangwondo_Taebaek"
         },
@@ -437,6 +476,7 @@
             "apt_type":"아파트",
             "apt_year":16.0,
             "value_score":39.043,
+            "region":"강원도 태백시",
             "region_code":"Gangwondo",
             "sub_region_code":"4219000000_Gangwondo_Taebaek"
         },
@@ -448,6 +488,7 @@
             "apt_type":"아파트",
             "apt_year":16.0,
             "value_score":37.897,
+            "region":"강원도 태백시",
             "region_code":"Gangwondo",
             "sub_region_code":"4219000000_Gangwondo_Taebaek"
         },
@@ -459,6 +500,7 @@
             "apt_type":"아파트",
             "apt_year":38.0,
             "value_score":37.547,
+            "region":"강원도 태백시",
             "region_code":"Gangwondo",
             "sub_region_code":"4219000000_Gangwondo_Taebaek"
         },
@@ -470,6 +512,7 @@
             "apt_type":"아파트",
             "apt_year":40.0,
             "value_score":36.547,
+            "region":"강원도 태백시",
             "region_code":"Gangwondo",
             "sub_region_code":"4219000000_Gangwondo_Taebaek"
         },
@@ -481,6 +524,7 @@
             "apt_type":"아파트",
             "apt_year":22.0,
             "value_score":36.022,
+            "region":"강원도 태백시",
             "region_code":"Gangwondo",
             "sub_region_code":"4219000000_Gangwondo_Taebaek"
         }

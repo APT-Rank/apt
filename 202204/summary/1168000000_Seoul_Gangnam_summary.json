@@ -30,6 +30,10 @@
                 "type":"number"
             },
             {
+                "name":"region",
+                "type":"string"
+            },
+            {
                 "name":"region_code",
                 "type":"string"
             },
@@ -52,6 +56,7 @@
             "apt_type":"아파트",
             "apt_year":8,
             "value_score":84.7886,
+            "region":"서울시 강남구",
             "region_code":"Seoul",
             "sub_region_code":"1168000000_Seoul_Gangnam"
         },
@@ -63,6 +68,7 @@
             "apt_type":"재건축",
             "apt_year":44,
             "value_score":83.0889,
+            "region":"서울시 강남구",
             "region_code":"Seoul",
             "sub_region_code":"1168000000_Seoul_Gangnam"
         },
@@ -74,6 +80,7 @@
             "apt_type":"아파트",
             "apt_year":18,
             "value_score":82.4886,
+            "region":"서울시 강남구",
             "region_code":"Seoul",
             "sub_region_code":"1168000000_Seoul_Gangnam"
         },
@@ -85,6 +92,7 @@
             "apt_type":"아파트",
             "apt_year":2,
             "value_score":82.4009,
+            "region":"서울시 강남구",
             "region_code":"Seoul",
             "sub_region_code":"1168000000_Seoul_Gangnam"
         },
@@ -96,6 +104,7 @@
             "apt_type":"아파트",
             "apt_year":15,
             "value_score":80.9886,
+            "region":"서울시 강남구",
             "region_code":"Seoul",
             "sub_region_code":"1168000000_Seoul_Gangnam"
         },
@@ -107,6 +116,7 @@
             "apt_type":"아파트",
             "apt_year":2,
             "value_score":79.7664,
+            "region":"서울시 강남구",
             "region_code":"Seoul",
             "sub_region_code":"1168000000_Seoul_Gangnam"
         },
@@ -118,6 +128,7 @@
             "apt_type":"아파트",
             "apt_year":8,
             "value_score":79.6889,
+            "region":"서울시 강남구",
             "region_code":"Seoul",
             "sub_region_code":"1168000000_Seoul_Gangnam"
         },
@@ -129,6 +140,7 @@
             "apt_type":"아파트",
             "apt_year":15,
             "value_score":79.4889,
+            "region":"서울시 강남구",
             "region_code":"Seoul",
             "sub_region_code":"1168000000_Seoul_Gangnam"
         },
@@ -140,6 +152,7 @@
             "apt_type":"아파트",
             "apt_year":16,
             "value_score":79.1655,
+            "region":"서울시 강남구",
             "region_code":"Seoul",
             "sub_region_code":"1168000000_Seoul_Gangnam"
         },
@@ -151,6 +164,7 @@
             "apt_type":"아파트",
             "apt_year":23,
             "value_score":78.9889,
+            "region":"서울시 강남구",
             "region_code":"Seoul",
             "sub_region_code":"1168000000_Seoul_Gangnam"
         },
@@ -162,6 +176,7 @@
             "apt_type":"아파트",
             "apt_year":8,
             "value_score":83.7348,
+            "region":"서울시 강남구",
             "region_code":"Seoul",
             "sub_region_code":"1168000000_Seoul_Gangnam"
         },
@@ -173,6 +188,7 @@
             "apt_type":"아파트",
             "apt_year":2,
             "value_score":83.4012,
+            "region":"서울시 강남구",
             "region_code":"Seoul",
             "sub_region_code":"1168000000_Seoul_Gangnam"
         },
@@ -184,6 +200,7 @@
             "apt_type":"재건축",
             "apt_year":44,
             "value_score":81.1352,
+            "region":"서울시 강남구",
             "region_code":"Seoul",
             "sub_region_code":"1168000000_Seoul_Gangnam"
         },
@@ -195,6 +212,7 @@
             "apt_type":"아파트",
             "apt_year":18,
             "value_score":77.9848,
+            "region":"서울시 강남구",
             "region_code":"Seoul",
             "sub_region_code":"1168000000_Seoul_Gangnam"
         },
@@ -206,6 +224,7 @@
             "apt_type":"아파트",
             "apt_year":2,
             "value_score":77.5052,
+            "region":"서울시 강남구",
             "region_code":"Seoul",
             "sub_region_code":"1168000000_Seoul_Gangnam"
         },
@@ -217,6 +236,7 @@
             "apt_type":"아파트",
             "apt_year":5,
             "value_score":76.5668,
+            "region":"서울시 강남구",
             "region_code":"Seoul",
             "sub_region_code":"1168000000_Seoul_Gangnam"
         },
@@ -228,6 +248,7 @@
             "apt_type":"아파트",
             "apt_year":15,
             "value_score":75.8848,
+            "region":"서울시 강남구",
             "region_code":"Seoul",
             "sub_region_code":"1168000000_Seoul_Gangnam"
         },
@@ -239,6 +260,7 @@
             "apt_type":"아파트",
             "apt_year":16,
             "value_score":75.754,
+            "region":"서울시 강남구",
             "region_code":"Seoul",
             "sub_region_code":"1168000000_Seoul_Gangnam"
         },
@@ -250,6 +272,7 @@
             "apt_type":"분양권",
             "apt_year":1,
             "value_score":75.1468,
+            "region":"서울시 강남구",
             "region_code":"Seoul",
             "sub_region_code":"1168000000_Seoul_Gangnam"
         },
@@ -261,6 +284,7 @@
             "apt_type":"아파트",
             "apt_year":17,
             "value_score":74.9248,
+            "region":"서울시 강남구",
             "region_code":"Seoul",
             "sub_region_code":"1168000000_Seoul_Gangnam"
         },
@@ -272,6 +296,7 @@
             "apt_type":"아파트",
             "apt_year":8,
             "value_score":85.2136,
+            "region":"서울시 강남구",
             "region_code":"Seoul",
             "sub_region_code":"1168000000_Seoul_Gangnam"
         },
@@ -283,6 +308,7 @@
             "apt_type":"재건축",
             "apt_year":44,
             "value_score":84.0139,
+            "region":"서울시 강남구",
             "region_code":"Seoul",
             "sub_region_code":"1168000000_Seoul_Gangnam"
         },
@@ -294,6 +320,7 @@
             "apt_type":"아파트",
             "apt_year":15,
             "value_score":83.6889,
+            "region":"서울시 강남구",
             "region_code":"Seoul",
             "sub_region_code":"1168000000_Seoul_Gangnam"
         },
@@ -305,6 +332,7 @@
             "apt_type":"아파트",
             "apt_year":2,
             "value_score":83.5009,
+            "region":"서울시 강남구",
             "region_code":"Seoul",
             "sub_region_code":"1168000000_Seoul_Gangnam"
         },
@@ -316,6 +344,7 @@
             "apt_type":"아파트",
             "apt_year":18,
             "value_score":83.4886,
+            "region":"서울시 강남구",
             "region_code":"Seoul",
             "sub_region_code":"1168000000_Seoul_Gangnam"
         },
@@ -327,6 +356,7 @@
             "apt_type":"아파트",
             "apt_year":15,
             "value_score":82.4386,
+            "region":"서울시 강남구",
             "region_code":"Seoul",
             "sub_region_code":"1168000000_Seoul_Gangnam"
         },
@@ -338,6 +368,7 @@
             "apt_type":"아파트",
             "apt_year":15,
             "value_score":82.3689,
+            "region":"서울시 강남구",
             "region_code":"Seoul",
             "sub_region_code":"1168000000_Seoul_Gangnam"
         },
@@ -349,6 +380,7 @@
             "apt_type":"아파트",
             "apt_year":8,
             "value_score":81.4639,
+            "region":"서울시 강남구",
             "region_code":"Seoul",
             "sub_region_code":"1168000000_Seoul_Gangnam"
         },
@@ -360,6 +392,7 @@
             "apt_type":"아파트",
             "apt_year":16,
             "value_score":81.2655,
+            "region":"서울시 강남구",
             "region_code":"Seoul",
             "sub_region_code":"1168000000_Seoul_Gangnam"
         },
@@ -371,6 +404,7 @@
             "apt_type":"아파트",
             "apt_year":40,
             "value_score":80.9986,
+            "region":"서울시 강남구",
             "region_code":"Seoul",
             "sub_region_code":"1168000000_Seoul_Gangnam"
         },
@@ -382,6 +416,7 @@
             "apt_type":"아파트",
             "apt_year":8,
             "value_score":81.431,
+            "region":"서울시 강남구",
             "region_code":"Seoul",
             "sub_region_code":"1168000000_Seoul_Gangnam"
         },
@@ -393,6 +428,7 @@
             "apt_type":"아파트",
             "apt_year":18,
             "value_score":80.281,
+            "region":"서울시 강남구",
             "region_code":"Seoul",
             "sub_region_code":"1168000000_Seoul_Gangnam"
         },
@@ -404,6 +440,7 @@
             "apt_type":"재건축",
             "apt_year":44,
             "value_score":79.5315,
+            "region":"서울시 강남구",
             "region_code":"Seoul",
             "sub_region_code":"1168000000_Seoul_Gangnam"
         },
@@ -415,6 +452,7 @@
             "apt_type":"아파트",
             "apt_year":23,
             "value_score":78.5315,
+            "region":"서울시 강남구",
             "region_code":"Seoul",
             "sub_region_code":"1168000000_Seoul_Gangnam"
         },
@@ -426,6 +464,7 @@
             "apt_type":"아파트",
             "apt_year":15,
             "value_score":78.481,
+            "region":"서울시 강남구",
             "region_code":"Seoul",
             "sub_region_code":"1168000000_Seoul_Gangnam"
         },
@@ -437,6 +476,7 @@
             "apt_type":"아파트",
             "apt_year":2,
             "value_score":77.994,
+            "region":"서울시 강남구",
             "region_code":"Seoul",
             "sub_region_code":"1168000000_Seoul_Gangnam"
         },
@@ -448,6 +488,7 @@
             "apt_type":"아파트",
             "apt_year":8,
             "value_score":77.8315,
+            "region":"서울시 강남구",
             "region_code":"Seoul",
             "sub_region_code":"1168000000_Seoul_Gangnam"
         },
@@ -459,6 +500,7 @@
             "apt_type":"아파트",
             "apt_year":40,
             "value_score":77.806,
+            "region":"서울시 강남구",
             "region_code":"Seoul",
             "sub_region_code":"1168000000_Seoul_Gangnam"
         },
@@ -470,6 +512,7 @@
             "apt_type":"아파트",
             "apt_year":15,
             "value_score":77.4815,
+            "region":"서울시 강남구",
             "region_code":"Seoul",
             "sub_region_code":"1168000000_Seoul_Gangnam"
         },
@@ -481,6 +524,7 @@
             "apt_type":"아파트",
             "apt_year":5,
             "value_score":76.7925,
+            "region":"서울시 강남구",
             "region_code":"Seoul",
             "sub_region_code":"1168000000_Seoul_Gangnam"
         },
@@ -492,6 +536,7 @@
             "apt_type":"아파트",
             "apt_year":8,
             "value_score":76.062,
+            "region":"서울시 강남구",
             "region_code":"Seoul",
             "sub_region_code":"1168000000_Seoul_Gangnam"
         },
@@ -503,6 +548,7 @@
             "apt_type":"재건축",
             "apt_year":44,
             "value_score":74.663,
+            "region":"서울시 강남구",
             "region_code":"Seoul",
             "sub_region_code":"1168000000_Seoul_Gangnam"
         },
@@ -514,6 +560,7 @@
             "apt_type":"아파트",
             "apt_year":18,
             "value_score":73.762,
+            "region":"서울시 강남구",
             "region_code":"Seoul",
             "sub_region_code":"1168000000_Seoul_Gangnam"
         },
@@ -525,6 +572,7 @@
             "apt_type":"아파트",
             "apt_year":2,
             "value_score":73.203,
+            "region":"서울시 강남구",
             "region_code":"Seoul",
             "sub_region_code":"1168000000_Seoul_Gangnam"
         },
@@ -536,6 +584,7 @@
             "apt_type":"아파트",
             "apt_year":2,
             "value_score":72.788,
+            "region":"서울시 강남구",
             "region_code":"Seoul",
             "sub_region_code":"1168000000_Seoul_Gangnam"
         },
@@ -547,6 +596,7 @@
             "apt_type":"아파트",
             "apt_year":15,
             "value_score":72.562,
+            "region":"서울시 강남구",
             "region_code":"Seoul",
             "sub_region_code":"1168000000_Seoul_Gangnam"
         },
@@ -558,6 +608,7 @@
             "apt_type":"아파트",
             "apt_year":16,
             "value_score":71.485,
+            "region":"서울시 강남구",
             "region_code":"Seoul",
             "sub_region_code":"1168000000_Seoul_Gangnam"
         },
@@ -569,6 +620,7 @@
             "apt_type":"아파트",
             "apt_year":18,
             "value_score":71.362,
+            "region":"서울시 강남구",
             "region_code":"Seoul",
             "sub_region_code":"1168000000_Seoul_Gangnam"
         },
@@ -580,6 +632,7 @@
             "apt_type":"아파트",
             "apt_year":17,
             "value_score":71.362,
+            "region":"서울시 강남구",
             "region_code":"Seoul",
             "sub_region_code":"1168000000_Seoul_Gangnam"
         },
@@ -591,6 +644,7 @@
             "apt_type":"아파트",
             "apt_year":8,
             "value_score":71.263,
+            "region":"서울시 강남구",
             "region_code":"Seoul",
             "sub_region_code":"1168000000_Seoul_Gangnam"
         }

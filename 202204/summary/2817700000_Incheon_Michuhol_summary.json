@@ -30,6 +30,10 @@
                 "type":"number"
             },
             {
+                "name":"region",
+                "type":"string"
+            },
+            {
                 "name":"region_code",
                 "type":"string"
             },
@@ -52,6 +56,7 @@
             "apt_type":"분양권",
             "apt_year":1.0,
             "value_score":61.1952,
+            "region":"인천시 미추홀구",
             "region_code":"Incheon",
             "sub_region_code":"2817700000_Incheon_Michuhol"
         },
@@ -63,6 +68,7 @@
             "apt_type":"분양권",
             "apt_year":1.0,
             "value_score":59.9269,
+            "region":"인천시 미추홀구",
             "region_code":"Incheon",
             "sub_region_code":"2817700000_Incheon_Michuhol"
         },
@@ -74,6 +80,7 @@
             "apt_type":"아파트",
             "apt_year":32.0,
             "value_score":59.2443,
+            "region":"인천시 미추홀구",
             "region_code":"Incheon",
             "sub_region_code":"2817700000_Incheon_Michuhol"
         },
@@ -85,6 +92,7 @@
             "apt_type":"아파트",
             "apt_year":32.0,
             "value_score":58.8443,
+            "region":"인천시 미추홀구",
             "region_code":"Incheon",
             "sub_region_code":"2817700000_Incheon_Michuhol"
         },
@@ -96,6 +104,7 @@
             "apt_type":"아파트",
             "apt_year":15.0,
             "value_score":58.6637,
+            "region":"인천시 미추홀구",
             "region_code":"Incheon",
             "sub_region_code":"2817700000_Incheon_Michuhol"
         },
@@ -107,6 +116,7 @@
             "apt_type":"아파트",
             "apt_year":32.0,
             "value_score":58.2443,
+            "region":"인천시 미추홀구",
             "region_code":"Incheon",
             "sub_region_code":"2817700000_Incheon_Michuhol"
         },
@@ -118,6 +128,7 @@
             "apt_type":"분양권",
             "apt_year":0.0,
             "value_score":55.8955,
+            "region":"인천시 미추홀구",
             "region_code":"Incheon",
             "sub_region_code":"2817700000_Incheon_Michuhol"
         },
@@ -129,6 +140,7 @@
             "apt_type":"아파트",
             "apt_year":31.0,
             "value_score":55.6443,
+            "region":"인천시 미추홀구",
             "region_code":"Incheon",
             "sub_region_code":"2817700000_Incheon_Michuhol"
         },
@@ -140,6 +152,7 @@
             "apt_type":"아파트",
             "apt_year":32.0,
             "value_score":55.5443,
+            "region":"인천시 미추홀구",
             "region_code":"Incheon",
             "sub_region_code":"2817700000_Incheon_Michuhol"
         },
@@ -151,6 +164,7 @@
             "apt_type":"아파트",
             "apt_year":32.0,
             "value_score":55.5443,
+            "region":"인천시 미추홀구",
             "region_code":"Incheon",
             "sub_region_code":"2817700000_Incheon_Michuhol"
         },
@@ -162,6 +176,7 @@
             "apt_type":"분양권",
             "apt_year":1.0,
             "value_score":67.7192,
+            "region":"인천시 미추홀구",
             "region_code":"Incheon",
             "sub_region_code":"2817700000_Incheon_Michuhol"
         },
@@ -173,6 +188,7 @@
             "apt_type":"아파트",
             "apt_year":7.0,
             "value_score":66.388,
+            "region":"인천시 미추홀구",
             "region_code":"Incheon",
             "sub_region_code":"2817700000_Incheon_Michuhol"
         },
@@ -184,6 +200,7 @@
             "apt_type":"분양권",
             "apt_year":0.0,
             "value_score":65.6884,
+            "region":"인천시 미추홀구",
             "region_code":"Incheon",
             "sub_region_code":"2817700000_Incheon_Michuhol"
         },
@@ -195,6 +212,7 @@
             "apt_type":"분양권",
             "apt_year":-1.0,
             "value_score":65.6776,
+            "region":"인천시 미추홀구",
             "region_code":"Incheon",
             "sub_region_code":"2817700000_Incheon_Michuhol"
         },
@@ -206,6 +224,7 @@
             "apt_type":"분양권",
             "apt_year":1.0,
             "value_score":65.3436,
+            "region":"인천시 미추홀구",
             "region_code":"Incheon",
             "sub_region_code":"2817700000_Incheon_Michuhol"
         },
@@ -217,6 +236,7 @@
             "apt_type":"분양권",
             "apt_year":-1.0,
             "value_score":64.8776,
+            "region":"인천시 미추홀구",
             "region_code":"Incheon",
             "sub_region_code":"2817700000_Incheon_Michuhol"
         },
@@ -228,6 +248,7 @@
             "apt_type":"아파트",
             "apt_year":15.0,
             "value_score":64.4016,
+            "region":"인천시 미추홀구",
             "region_code":"Incheon",
             "sub_region_code":"2817700000_Incheon_Michuhol"
         },
@@ -239,6 +260,7 @@
             "apt_type":"분양권",
             "apt_year":0.0,
             "value_score":63.9016,
+            "region":"인천시 미추홀구",
             "region_code":"Incheon",
             "sub_region_code":"2817700000_Incheon_Michuhol"
         },
@@ -250,6 +272,7 @@
             "apt_type":"분양권",
             "apt_year":0.0,
             "value_score":62.924,
+            "region":"인천시 미추홀구",
             "region_code":"Incheon",
             "sub_region_code":"2817700000_Incheon_Michuhol"
         },
@@ -261,6 +284,7 @@
             "apt_type":"분양권",
             "apt_year":-2.0,
             "value_score":62.4096,
+            "region":"인천시 미추홀구",
             "region_code":"Incheon",
             "sub_region_code":"2817700000_Incheon_Michuhol"
         },
@@ -272,6 +296,7 @@
             "apt_type":"분양권",
             "apt_year":1.0,
             "value_score":61.8202,
+            "region":"인천시 미추홀구",
             "region_code":"Incheon",
             "sub_region_code":"2817700000_Incheon_Michuhol"
         },
@@ -283,6 +308,7 @@
             "apt_type":"아파트",
             "apt_year":32.0,
             "value_score":57.5193,
+            "region":"인천시 미추홀구",
             "region_code":"Incheon",
             "sub_region_code":"2817700000_Incheon_Michuhol"
         },
@@ -294,6 +320,7 @@
             "apt_type":"아파트",
             "apt_year":32.0,
             "value_score":57.2193,
+            "region":"인천시 미추홀구",
             "region_code":"Incheon",
             "sub_region_code":"2817700000_Incheon_Michuhol"
         },
@@ -305,6 +332,7 @@
             "apt_type":"아파트",
             "apt_year":32.0,
             "value_score":56.7693,
+            "region":"인천시 미추홀구",
             "region_code":"Incheon",
             "sub_region_code":"2817700000_Incheon_Michuhol"
         },
@@ -316,6 +344,7 @@
             "apt_type":"분양권",
             "apt_year":1.0,
             "value_score":56.2519,
+            "region":"인천시 미추홀구",
             "region_code":"Incheon",
             "sub_region_code":"2817700000_Incheon_Michuhol"
         },
@@ -327,6 +356,7 @@
             "apt_type":"아파트",
             "apt_year":15.0,
             "value_score":55.3387,
+            "region":"인천시 미추홀구",
             "region_code":"Incheon",
             "sub_region_code":"2817700000_Incheon_Michuhol"
         },
@@ -338,6 +368,7 @@
             "apt_type":"분양권",
             "apt_year":0.0,
             "value_score":54.7955,
+            "region":"인천시 미추홀구",
             "region_code":"Incheon",
             "sub_region_code":"2817700000_Incheon_Michuhol"
         },
@@ -349,6 +380,7 @@
             "apt_type":"분양권",
             "apt_year":-2.0,
             "value_score":54.7738,
+            "region":"인천시 미추홀구",
             "region_code":"Incheon",
             "sub_region_code":"2817700000_Incheon_Michuhol"
         },
@@ -360,6 +392,7 @@
             "apt_type":"아파트",
             "apt_year":31.0,
             "value_score":54.5443,
+            "region":"인천시 미추홀구",
             "region_code":"Incheon",
             "sub_region_code":"2817700000_Incheon_Michuhol"
         },
@@ -371,6 +404,7 @@
             "apt_type":"아파트",
             "apt_year":32.0,
             "value_score":54.5193,
+            "region":"인천시 미추홀구",
             "region_code":"Incheon",
             "sub_region_code":"2817700000_Incheon_Michuhol"
         },
@@ -382,6 +416,7 @@
             "apt_type":"아파트",
             "apt_year":32.0,
             "value_score":65.8905,
+            "region":"인천시 미추홀구",
             "region_code":"Incheon",
             "sub_region_code":"2817700000_Incheon_Michuhol"
         },
@@ -393,6 +428,7 @@
             "apt_type":"아파트",
             "apt_year":32.0,
             "value_score":65.6905,
+            "region":"인천시 미추홀구",
             "region_code":"Incheon",
             "sub_region_code":"2817700000_Incheon_Michuhol"
         },
@@ -404,6 +440,7 @@
             "apt_type":"아파트",
             "apt_year":32.0,
             "value_score":65.3905,
+            "region":"인천시 미추홀구",
             "region_code":"Incheon",
             "sub_region_code":"2817700000_Incheon_Michuhol"
         },
@@ -415,6 +452,7 @@
             "apt_type":"분양권",
             "apt_year":1.0,
             "value_score":61.8615,
+            "region":"인천시 미추홀구",
             "region_code":"Incheon",
             "sub_region_code":"2817700000_Incheon_Michuhol"
         },
@@ -426,6 +464,7 @@
             "apt_type":"아파트",
             "apt_year":15.0,
             "value_score":61.3895,
+            "region":"인천시 미추홀구",
             "region_code":"Incheon",
             "sub_region_code":"2817700000_Incheon_Michuhol"
         },
@@ -437,6 +476,7 @@
             "apt_type":"아파트",
             "apt_year":31.0,
             "value_score":61.3405,
+            "region":"인천시 미추홀구",
             "region_code":"Incheon",
             "sub_region_code":"2817700000_Incheon_Michuhol"
         },
@@ -448,6 +488,7 @@
             "apt_type":"아파트",
             "apt_year":32.0,
             "value_score":60.5905,
+            "region":"인천시 미추홀구",
             "region_code":"Incheon",
             "sub_region_code":"2817700000_Incheon_Michuhol"
         },
@@ -459,6 +500,7 @@
             "apt_type":"아파트",
             "apt_year":32.0,
             "value_score":60.5905,
+            "region":"인천시 미추홀구",
             "region_code":"Incheon",
             "sub_region_code":"2817700000_Incheon_Michuhol"
         },
@@ -470,6 +512,7 @@
             "apt_type":"재건축",
             "apt_year":40.0,
             "value_score":58.639,
+            "region":"인천시 미추홀구",
             "region_code":"Incheon",
             "sub_region_code":"2817700000_Incheon_Michuhol"
         },
@@ -481,6 +524,7 @@
             "apt_type":"아파트",
             "apt_year":12.0,
             "value_score":58.59,
+            "region":"인천시 미추홀구",
             "region_code":"Incheon",
             "sub_region_code":"2817700000_Incheon_Michuhol"
         },
@@ -492,6 +536,7 @@
             "apt_type":"분양권",
             "apt_year":1.0,
             "value_score":60.923,
+            "region":"인천시 미추홀구",
             "region_code":"Incheon",
             "sub_region_code":"2817700000_Incheon_Michuhol"
         },
@@ -503,6 +548,7 @@
             "apt_type":"아파트",
             "apt_year":15.0,
             "value_score":59.979,
+            "region":"인천시 미추홀구",
             "region_code":"Incheon",
             "sub_region_code":"2817700000_Incheon_Michuhol"
         },
@@ -514,6 +560,7 @@
             "apt_type":"분양권",
             "apt_year":1.0,
             "value_score":58.884,
+            "region":"인천시 미추홀구",
             "region_code":"Incheon",
             "sub_region_code":"2817700000_Incheon_Michuhol"
         },
@@ -525,6 +572,7 @@
             "apt_type":"아파트",
             "apt_year":32.0,
             "value_score":58.581,
+            "region":"인천시 미추홀구",
             "region_code":"Incheon",
             "sub_region_code":"2817700000_Incheon_Michuhol"
         },
@@ -536,6 +584,7 @@
             "apt_type":"재건축",
             "apt_year":40.0,
             "value_score":58.278,
+            "region":"인천시 미추홀구",
             "region_code":"Incheon",
             "sub_region_code":"2817700000_Incheon_Michuhol"
         },
@@ -547,6 +596,7 @@
             "apt_type":"아파트",
             "apt_year":7.0,
             "value_score":58.195,
+            "region":"인천시 미추홀구",
             "region_code":"Incheon",
             "sub_region_code":"2817700000_Incheon_Michuhol"
         },
@@ -558,6 +608,7 @@
             "apt_type":"아파트",
             "apt_year":32.0,
             "value_score":58.181,
+            "region":"인천시 미추홀구",
             "region_code":"Incheon",
             "sub_region_code":"2817700000_Incheon_Michuhol"
         },
@@ -569,6 +620,7 @@
             "apt_type":"아파트",
             "apt_year":32.0,
             "value_score":57.581,
+            "region":"인천시 미추홀구",
             "region_code":"Incheon",
             "sub_region_code":"2817700000_Incheon_Michuhol"
         },
@@ -580,6 +632,7 @@
             "apt_type":"아파트",
             "apt_year":32.0,
             "value_score":56.381,
+            "region":"인천시 미추홀구",
             "region_code":"Incheon",
             "sub_region_code":"2817700000_Incheon_Michuhol"
         },
@@ -591,6 +644,7 @@
             "apt_type":"아파트",
             "apt_year":32.0,
             "value_score":56.381,
+            "region":"인천시 미추홀구",
             "region_code":"Incheon",
             "sub_region_code":"2817700000_Incheon_Michuhol"
         }

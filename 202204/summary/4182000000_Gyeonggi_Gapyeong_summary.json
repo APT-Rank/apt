@@ -30,6 +30,10 @@
                 "type":"number"
             },
             {
+                "name":"region",
+                "type":"string"
+            },
+            {
                 "name":"region_code",
                 "type":"string"
             },
@@ -52,6 +56,7 @@
             "apt_type":"분양권",
             "apt_year":0.0,
             "value_score":32.9247,
+            "region":"경기도 가평군",
             "region_code":"Gyeonggi",
             "sub_region_code":"4182000000_Gyeonggi_Gapyeong"
         },
@@ -63,6 +68,7 @@
             "apt_type":"아파트",
             "apt_year":11.0,
             "value_score":31.1309,
+            "region":"경기도 가평군",
             "region_code":"Gyeonggi",
             "sub_region_code":"4182000000_Gyeonggi_Gapyeong"
         },
@@ -74,6 +80,7 @@
             "apt_type":"아파트",
             "apt_year":15.0,
             "value_score":30.3747,
+            "region":"경기도 가평군",
             "region_code":"Gyeonggi",
             "sub_region_code":"4182000000_Gyeonggi_Gapyeong"
         },
@@ -85,6 +92,7 @@
             "apt_type":"아파트",
             "apt_year":15.0,
             "value_score":27.7309,
+            "region":"경기도 가평군",
             "region_code":"Gyeonggi",
             "sub_region_code":"4182000000_Gyeonggi_Gapyeong"
         },
@@ -96,6 +104,7 @@
             "apt_type":"아파트",
             "apt_year":17.0,
             "value_score":27.3247,
+            "region":"경기도 가평군",
             "region_code":"Gyeonggi",
             "sub_region_code":"4182000000_Gyeonggi_Gapyeong"
         },
@@ -107,6 +116,7 @@
             "apt_type":"아파트",
             "apt_year":25.0,
             "value_score":26.3309,
+            "region":"경기도 가평군",
             "region_code":"Gyeonggi",
             "sub_region_code":"4182000000_Gyeonggi_Gapyeong"
         },
@@ -118,6 +128,7 @@
             "apt_type":"분양권",
             "apt_year":0.0,
             "value_score":24.8947,
+            "region":"경기도 가평군",
             "region_code":"Gyeonggi",
             "sub_region_code":"4182000000_Gyeonggi_Gapyeong"
         },
@@ -129,6 +140,7 @@
             "apt_type":"분양권",
             "apt_year":0.0,
             "value_score":24.4747,
+            "region":"경기도 가평군",
             "region_code":"Gyeonggi",
             "sub_region_code":"4182000000_Gyeonggi_Gapyeong"
         },
@@ -140,6 +152,7 @@
             "apt_type":"아파트",
             "apt_year":30.0,
             "value_score":23.5247,
+            "region":"경기도 가평군",
             "region_code":"Gyeonggi",
             "sub_region_code":"4182000000_Gyeonggi_Gapyeong"
         },
@@ -151,6 +164,7 @@
             "apt_type":"분양권",
             "apt_year":1.0,
             "value_score":22.8947,
+            "region":"경기도 가평군",
             "region_code":"Gyeonggi",
             "sub_region_code":"4182000000_Gyeonggi_Gapyeong"
         },
@@ -162,6 +176,7 @@
             "apt_type":"분양권",
             "apt_year":0.0,
             "value_score":47.4996,
+            "region":"경기도 가평군",
             "region_code":"Gyeonggi",
             "sub_region_code":"4182000000_Gyeonggi_Gapyeong"
         },
@@ -173,6 +188,7 @@
             "apt_type":"분양권",
             "apt_year":0.0,
             "value_score":45.4796,
+            "region":"경기도 가평군",
             "region_code":"Gyeonggi",
             "sub_region_code":"4182000000_Gyeonggi_Gapyeong"
         },
@@ -184,6 +200,7 @@
             "apt_type":"분양권",
             "apt_year":0.0,
             "value_score":45.1996,
+            "region":"경기도 가평군",
             "region_code":"Gyeonggi",
             "sub_region_code":"4182000000_Gyeonggi_Gapyeong"
         },
@@ -195,6 +212,7 @@
             "apt_type":"아파트",
             "apt_year":11.0,
             "value_score":43.2412,
+            "region":"경기도 가평군",
             "region_code":"Gyeonggi",
             "sub_region_code":"4182000000_Gyeonggi_Gapyeong"
         },
@@ -206,6 +224,7 @@
             "apt_type":"아파트",
             "apt_year":2.0,
             "value_score":36.4496,
+            "region":"경기도 가평군",
             "region_code":"Gyeonggi",
             "sub_region_code":"4182000000_Gyeonggi_Gapyeong"
         },
@@ -217,6 +236,7 @@
             "apt_type":"분양권",
             "apt_year":1.0,
             "value_score":36.0796,
+            "region":"경기도 가평군",
             "region_code":"Gyeonggi",
             "sub_region_code":"4182000000_Gyeonggi_Gapyeong"
         },
@@ -228,6 +248,7 @@
             "apt_type":"아파트",
             "apt_year":4.0,
             "value_score":34.0496,
+            "region":"경기도 가평군",
             "region_code":"Gyeonggi",
             "sub_region_code":"4182000000_Gyeonggi_Gapyeong"
         },
@@ -239,6 +260,7 @@
             "apt_type":"아파트",
             "apt_year":9.0,
             "value_score":33.928,
+            "region":"경기도 가평군",
             "region_code":"Gyeonggi",
             "sub_region_code":"4182000000_Gyeonggi_Gapyeong"
         },
@@ -250,6 +272,7 @@
             "apt_type":"아파트",
             "apt_year":15.0,
             "value_score":33.0912,
+            "region":"경기도 가평군",
             "region_code":"Gyeonggi",
             "sub_region_code":"4182000000_Gyeonggi_Gapyeong"
         },
@@ -261,6 +284,7 @@
             "apt_type":"아파트",
             "apt_year":5.0,
             "value_score":31.7412,
+            "region":"경기도 가평군",
             "region_code":"Gyeonggi",
             "sub_region_code":"4182000000_Gyeonggi_Gapyeong"
         },
@@ -272,6 +296,7 @@
             "apt_type":"아파트",
             "apt_year":15.0,
             "value_score":33.8747,
+            "region":"경기도 가평군",
             "region_code":"Gyeonggi",
             "sub_region_code":"4182000000_Gyeonggi_Gapyeong"
         },
@@ -283,6 +308,7 @@
             "apt_type":"분양권",
             "apt_year":0.0,
             "value_score":32.2247,
+            "region":"경기도 가평군",
             "region_code":"Gyeonggi",
             "sub_region_code":"4182000000_Gyeonggi_Gapyeong"
         },
@@ -294,6 +320,7 @@
             "apt_type":"아파트",
             "apt_year":11.0,
             "value_score":30.8309,
+            "region":"경기도 가평군",
             "region_code":"Gyeonggi",
             "sub_region_code":"4182000000_Gyeonggi_Gapyeong"
         },
@@ -305,6 +332,7 @@
             "apt_type":"아파트",
             "apt_year":15.0,
             "value_score":28.2059,
+            "region":"경기도 가평군",
             "region_code":"Gyeonggi",
             "sub_region_code":"4182000000_Gyeonggi_Gapyeong"
         },
@@ -316,6 +344,7 @@
             "apt_type":"아파트",
             "apt_year":17.0,
             "value_score":27.9247,
+            "region":"경기도 가평군",
             "region_code":"Gyeonggi",
             "sub_region_code":"4182000000_Gyeonggi_Gapyeong"
         },
@@ -327,6 +356,7 @@
             "apt_type":"아파트",
             "apt_year":25.0,
             "value_score":27.1559,
+            "region":"경기도 가평군",
             "region_code":"Gyeonggi",
             "sub_region_code":"4182000000_Gyeonggi_Gapyeong"
         },
@@ -338,6 +368,7 @@
             "apt_type":"아파트",
             "apt_year":30.0,
             "value_score":25.1747,
+            "region":"경기도 가평군",
             "region_code":"Gyeonggi",
             "sub_region_code":"4182000000_Gyeonggi_Gapyeong"
         },
@@ -349,6 +380,7 @@
             "apt_type":"아파트",
             "apt_year":27.0,
             "value_score":24.3047,
+            "region":"경기도 가평군",
             "region_code":"Gyeonggi",
             "sub_region_code":"4182000000_Gyeonggi_Gapyeong"
         },
@@ -360,6 +392,7 @@
             "apt_type":"아파트",
             "apt_year":30.0,
             "value_score":24.3047,
+            "region":"경기도 가평군",
             "region_code":"Gyeonggi",
             "sub_region_code":"4182000000_Gyeonggi_Gapyeong"
         },
@@ -371,6 +404,7 @@
             "apt_type":"분양권",
             "apt_year":0.0,
             "value_score":20.2047,
+            "region":"경기도 가평군",
             "region_code":"Gyeonggi",
             "sub_region_code":"4182000000_Gyeonggi_Gapyeong"
         },
@@ -382,6 +416,7 @@
             "apt_type":"분양권",
             "apt_year":0.0,
             "value_score":28.8745,
+            "region":"경기도 가평군",
             "region_code":"Gyeonggi",
             "sub_region_code":"4182000000_Gyeonggi_Gapyeong"
         },
@@ -393,6 +428,7 @@
             "apt_type":"아파트",
             "apt_year":31.0,
             "value_score":28.4245,
+            "region":"경기도 가평군",
             "region_code":"Gyeonggi",
             "sub_region_code":"4182000000_Gyeonggi_Gapyeong"
         },
@@ -404,6 +440,7 @@
             "apt_type":"분양권",
             "apt_year":1.0,
             "value_score":28.1245,
+            "region":"경기도 가평군",
             "region_code":"Gyeonggi",
             "sub_region_code":"4182000000_Gyeonggi_Gapyeong"
         },
@@ -415,6 +452,7 @@
             "apt_type":"아파트",
             "apt_year":11.0,
             "value_score":27.7515,
+            "region":"경기도 가평군",
             "region_code":"Gyeonggi",
             "sub_region_code":"4182000000_Gyeonggi_Gapyeong"
         },
@@ -426,6 +464,7 @@
             "apt_type":"아파트",
             "apt_year":17.0,
             "value_score":27.4745,
+            "region":"경기도 가평군",
             "region_code":"Gyeonggi",
             "sub_region_code":"4182000000_Gyeonggi_Gapyeong"
         },
@@ -437,6 +476,7 @@
             "apt_type":"아파트",
             "apt_year":15.0,
             "value_score":27.2245,
+            "region":"경기도 가평군",
             "region_code":"Gyeonggi",
             "sub_region_code":"4182000000_Gyeonggi_Gapyeong"
         },
@@ -448,6 +488,7 @@
             "apt_type":"아파트",
             "apt_year":15.0,
             "value_score":27.1015,
+            "region":"경기도 가평군",
             "region_code":"Gyeonggi",
             "sub_region_code":"4182000000_Gyeonggi_Gapyeong"
         },
@@ -459,6 +500,7 @@
             "apt_type":"아파트",
             "apt_year":25.0,
             "value_score":26.4015,
+            "region":"경기도 가평군",
             "region_code":"Gyeonggi",
             "sub_region_code":"4182000000_Gyeonggi_Gapyeong"
         },
@@ -470,6 +512,7 @@
             "apt_type":"분양권",
             "apt_year":0.0,
             "value_score":26.3245,
+            "region":"경기도 가평군",
             "region_code":"Gyeonggi",
             "sub_region_code":"4182000000_Gyeonggi_Gapyeong"
         },
@@ -481,6 +524,7 @@
             "apt_type":"분양권",
             "apt_year":0.0,
             "value_score":25.6245,
+            "region":"경기도 가평군",
             "region_code":"Gyeonggi",
             "sub_region_code":"4182000000_Gyeonggi_Gapyeong"
         },
@@ -492,6 +536,7 @@
             "apt_type":"분양권",
             "apt_year":0.0,
             "value_score":43.149,
+            "region":"경기도 가평군",
             "region_code":"Gyeonggi",
             "sub_region_code":"4182000000_Gyeonggi_Gapyeong"
         },
@@ -503,6 +548,7 @@
             "apt_type":"분양권",
             "apt_year":0.0,
             "value_score":41.129,
+            "region":"경기도 가평군",
             "region_code":"Gyeonggi",
             "sub_region_code":"4182000000_Gyeonggi_Gapyeong"
         },
@@ -514,6 +560,7 @@
             "apt_type":"아파트",
             "apt_year":11.0,
             "value_score":40.903,
+            "region":"경기도 가평군",
             "region_code":"Gyeonggi",
             "sub_region_code":"4182000000_Gyeonggi_Gapyeong"
         },
@@ -525,6 +572,7 @@
             "apt_type":"분양권",
             "apt_year":0.0,
             "value_score":40.849,
+            "region":"경기도 가평군",
             "region_code":"Gyeonggi",
             "sub_region_code":"4182000000_Gyeonggi_Gapyeong"
         },
@@ -536,6 +584,7 @@
             "apt_type":"분양권",
             "apt_year":1.0,
             "value_score":38.329,
+            "region":"경기도 가평군",
             "region_code":"Gyeonggi",
             "sub_region_code":"4182000000_Gyeonggi_Gapyeong"
         },
@@ -547,6 +596,7 @@
             "apt_type":"아파트",
             "apt_year":2.0,
             "value_score":37.349,
+            "region":"경기도 가평군",
             "region_code":"Gyeonggi",
             "sub_region_code":"4182000000_Gyeonggi_Gapyeong"
         },
@@ -558,6 +608,7 @@
             "apt_type":"아파트",
             "apt_year":15.0,
             "value_score":37.203,
+            "region":"경기도 가평군",
             "region_code":"Gyeonggi",
             "sub_region_code":"4182000000_Gyeonggi_Gapyeong"
         },
@@ -569,6 +620,7 @@
             "apt_type":"아파트",
             "apt_year":17.0,
             "value_score":37.149,
+            "region":"경기도 가평군",
             "region_code":"Gyeonggi",
             "sub_region_code":"4182000000_Gyeonggi_Gapyeong"
         },
@@ -580,6 +632,7 @@
             "apt_type":"아파트",
             "apt_year":15.0,
             "value_score":36.849,
+            "region":"경기도 가평군",
             "region_code":"Gyeonggi",
             "sub_region_code":"4182000000_Gyeonggi_Gapyeong"
         },
@@ -591,6 +644,7 @@
             "apt_type":"아파트",
             "apt_year":25.0,
             "value_score":35.803,
+            "region":"경기도 가평군",
             "region_code":"Gyeonggi",
             "sub_region_code":"4182000000_Gyeonggi_Gapyeong"
         }

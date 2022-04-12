@@ -30,6 +30,10 @@
                 "type":"number"
             },
             {
+                "name":"region",
+                "type":"string"
+            },
+            {
                 "name":"region_code",
                 "type":"string"
             },
@@ -52,6 +56,7 @@
             "apt_type":"아파트",
             "apt_year":10.0,
             "value_score":31.022,
+            "region":"강원도 양구군",
             "region_code":"Gangwondo",
             "sub_region_code":"4280000000_Gangwondo_Yanggu"
         },
@@ -63,6 +68,7 @@
             "apt_type":"아파트",
             "apt_year":13.0,
             "value_score":28.418,
+            "region":"강원도 양구군",
             "region_code":"Gangwondo",
             "sub_region_code":"4280000000_Gangwondo_Yanggu"
         },
@@ -74,6 +80,7 @@
             "apt_type":"아파트",
             "apt_year":31.0,
             "value_score":26.093,
+            "region":"강원도 양구군",
             "region_code":"Gangwondo",
             "sub_region_code":"4280000000_Gangwondo_Yanggu"
         },
@@ -85,6 +92,7 @@
             "apt_type":"아파트",
             "apt_year":25.0,
             "value_score":22.6165,
+            "region":"강원도 양구군",
             "region_code":"Gangwondo",
             "sub_region_code":"4280000000_Gangwondo_Yanggu"
         },
@@ -96,6 +104,7 @@
             "apt_type":"아파트",
             "apt_year":10.0,
             "value_score":34.547,
+            "region":"강원도 양구군",
             "region_code":"Gangwondo",
             "sub_region_code":"4280000000_Gangwondo_Yanggu"
         },
@@ -107,6 +116,7 @@
             "apt_type":"아파트",
             "apt_year":13.0,
             "value_score":33.893,
+            "region":"강원도 양구군",
             "region_code":"Gangwondo",
             "sub_region_code":"4280000000_Gangwondo_Yanggu"
         },
@@ -118,6 +128,7 @@
             "apt_type":"아파트",
             "apt_year":31.0,
             "value_score":26.393,
+            "region":"강원도 양구군",
             "region_code":"Gangwondo",
             "sub_region_code":"4280000000_Gangwondo_Yanggu"
         },
@@ -129,6 +140,7 @@
             "apt_type":"아파트",
             "apt_year":25.0,
             "value_score":24.6415,
+            "region":"강원도 양구군",
             "region_code":"Gangwondo",
             "sub_region_code":"4280000000_Gangwondo_Yanggu"
         },
@@ -140,6 +152,7 @@
             "apt_type":"아파트",
             "apt_year":10.0,
             "value_score":28.2962105263,
+            "region":"강원도 양구군",
             "region_code":"Gangwondo",
             "sub_region_code":"4280000000_Gangwondo_Yanggu"
         },
@@ -151,6 +164,7 @@
             "apt_type":"아파트",
             "apt_year":31.0,
             "value_score":28.1806315789,
+            "region":"강원도 양구군",
             "region_code":"Gangwondo",
             "sub_region_code":"4280000000_Gangwondo_Yanggu"
         },
@@ -162,6 +176,7 @@
             "apt_type":"아파트",
             "apt_year":13.0,
             "value_score":24.7332631579,
+            "region":"강원도 양구군",
             "region_code":"Gangwondo",
             "sub_region_code":"4280000000_Gangwondo_Yanggu"
         },
@@ -173,6 +188,7 @@
             "apt_type":"아파트",
             "apt_year":25.0,
             "value_score":23.1524210526,
+            "region":"강원도 양구군",
             "region_code":"Gangwondo",
             "sub_region_code":"4280000000_Gangwondo_Yanggu"
         },
@@ -184,6 +200,7 @@
             "apt_type":"아파트",
             "apt_year":13.0,
             "value_score":37.411,
+            "region":"강원도 양구군",
             "region_code":"Gangwondo",
             "sub_region_code":"4280000000_Gangwondo_Yanggu"
         },
@@ -195,6 +212,7 @@
             "apt_type":"아파트",
             "apt_year":10.0,
             "value_score":35.469,
+            "region":"강원도 양구군",
             "region_code":"Gangwondo",
             "sub_region_code":"4280000000_Gangwondo_Yanggu"
         },
@@ -206,6 +224,7 @@
             "apt_type":"아파트",
             "apt_year":31.0,
             "value_score":35.286,
+            "region":"강원도 양구군",
             "region_code":"Gangwondo",
             "sub_region_code":"4280000000_Gangwondo_Yanggu"
         },
@@ -217,6 +236,7 @@
             "apt_type":"아파트",
             "apt_year":25.0,
             "value_score":33.158,
+            "region":"강원도 양구군",
             "region_code":"Gangwondo",
             "sub_region_code":"4280000000_Gangwondo_Yanggu"
         }

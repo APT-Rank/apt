@@ -30,6 +30,10 @@
                 "type":"number"
             },
             {
+                "name":"region",
+                "type":"string"
+            },
+            {
                 "name":"region_code",
                 "type":"string"
             },
@@ -52,6 +56,7 @@
             "apt_type":"분양권",
             "apt_year":0.0,
             "value_score":50.438,
+            "region":"충청남도 홍성군",
             "region_code":"Chungcheongnamdo",
             "sub_region_code":"4480000000_Chungcheongnamdo_Hongseong"
         },
@@ -63,6 +68,7 @@
             "apt_type":"분양권",
             "apt_year":-1.0,
             "value_score":50.438,
+            "region":"충청남도 홍성군",
             "region_code":"Chungcheongnamdo",
             "sub_region_code":"4480000000_Chungcheongnamdo_Hongseong"
         },
@@ -74,6 +80,7 @@
             "apt_type":"분양권",
             "apt_year":-1.0,
             "value_score":50.438,
+            "region":"충청남도 홍성군",
             "region_code":"Chungcheongnamdo",
             "sub_region_code":"4480000000_Chungcheongnamdo_Hongseong"
         },
@@ -85,6 +92,7 @@
             "apt_type":"아파트",
             "apt_year":17.0,
             "value_score":50.187,
+            "region":"충청남도 홍성군",
             "region_code":"Chungcheongnamdo",
             "sub_region_code":"4480000000_Chungcheongnamdo_Hongseong"
         },
@@ -96,6 +104,7 @@
             "apt_type":"분양권",
             "apt_year":0.0,
             "value_score":49.382,
+            "region":"충청남도 홍성군",
             "region_code":"Chungcheongnamdo",
             "sub_region_code":"4480000000_Chungcheongnamdo_Hongseong"
         },
@@ -107,6 +116,7 @@
             "apt_type":"아파트",
             "apt_year":7.0,
             "value_score":47.8625,
+            "region":"충청남도 홍성군",
             "region_code":"Chungcheongnamdo",
             "sub_region_code":"4480000000_Chungcheongnamdo_Hongseong"
         },
@@ -118,6 +128,7 @@
             "apt_type":"아파트",
             "apt_year":9.0,
             "value_score":47.8625,
+            "region":"충청남도 홍성군",
             "region_code":"Chungcheongnamdo",
             "sub_region_code":"4480000000_Chungcheongnamdo_Hongseong"
         },
@@ -129,6 +140,7 @@
             "apt_type":"아파트",
             "apt_year":14.0,
             "value_score":47.857,
+            "region":"충청남도 홍성군",
             "region_code":"Chungcheongnamdo",
             "sub_region_code":"4480000000_Chungcheongnamdo_Hongseong"
         },
@@ -140,6 +152,7 @@
             "apt_type":"분양권",
             "apt_year":-2.0,
             "value_score":47.688,
+            "region":"충청남도 홍성군",
             "region_code":"Chungcheongnamdo",
             "sub_region_code":"4480000000_Chungcheongnamdo_Hongseong"
         },
@@ -151,6 +164,7 @@
             "apt_type":"아파트",
             "apt_year":17.0,
             "value_score":47.2485,
+            "region":"충청남도 홍성군",
             "region_code":"Chungcheongnamdo",
             "sub_region_code":"4480000000_Chungcheongnamdo_Hongseong"
         },
@@ -162,6 +176,7 @@
             "apt_type":"분양권",
             "apt_year":0.0,
             "value_score":61.238,
+            "region":"충청남도 홍성군",
             "region_code":"Chungcheongnamdo",
             "sub_region_code":"4480000000_Chungcheongnamdo_Hongseong"
         },
@@ -173,6 +188,7 @@
             "apt_type":"분양권",
             "apt_year":-1.0,
             "value_score":61.238,
+            "region":"충청남도 홍성군",
             "region_code":"Chungcheongnamdo",
             "sub_region_code":"4480000000_Chungcheongnamdo_Hongseong"
         },
@@ -184,6 +200,7 @@
             "apt_type":"분양권",
             "apt_year":-1.0,
             "value_score":61.238,
+            "region":"충청남도 홍성군",
             "region_code":"Chungcheongnamdo",
             "sub_region_code":"4480000000_Chungcheongnamdo_Hongseong"
         },
@@ -195,6 +212,7 @@
             "apt_type":"아파트",
             "apt_year":7.0,
             "value_score":59.4875,
+            "region":"충청남도 홍성군",
             "region_code":"Chungcheongnamdo",
             "sub_region_code":"4480000000_Chungcheongnamdo_Hongseong"
         },
@@ -206,6 +224,7 @@
             "apt_type":"아파트",
             "apt_year":9.0,
             "value_score":59.4875,
+            "region":"충청남도 홍성군",
             "region_code":"Chungcheongnamdo",
             "sub_region_code":"4480000000_Chungcheongnamdo_Hongseong"
         },
@@ -217,6 +236,7 @@
             "apt_type":"분양권",
             "apt_year":-2.0,
             "value_score":59.238,
+            "region":"충청남도 홍성군",
             "region_code":"Chungcheongnamdo",
             "sub_region_code":"4480000000_Chungcheongnamdo_Hongseong"
         },
@@ -228,6 +248,7 @@
             "apt_type":"아파트",
             "apt_year":8.0,
             "value_score":58.238,
+            "region":"충청남도 홍성군",
             "region_code":"Chungcheongnamdo",
             "sub_region_code":"4480000000_Chungcheongnamdo_Hongseong"
         },
@@ -239,6 +260,7 @@
             "apt_type":"아파트",
             "apt_year":7.0,
             "value_score":57.2375,
+            "region":"충청남도 홍성군",
             "region_code":"Chungcheongnamdo",
             "sub_region_code":"4480000000_Chungcheongnamdo_Hongseong"
         },
@@ -250,6 +272,7 @@
             "apt_type":"아파트",
             "apt_year":9.0,
             "value_score":57.2375,
+            "region":"충청남도 홍성군",
             "region_code":"Chungcheongnamdo",
             "sub_region_code":"4480000000_Chungcheongnamdo_Hongseong"
         },
@@ -261,6 +284,7 @@
             "apt_type":"아파트",
             "apt_year":11.0,
             "value_score":54.0875,
+            "region":"충청남도 홍성군",
             "region_code":"Chungcheongnamdo",
             "sub_region_code":"4480000000_Chungcheongnamdo_Hongseong"
         },
@@ -272,6 +296,7 @@
             "apt_type":"아파트",
             "apt_year":17.0,
             "value_score":47.9151578947,
+            "region":"충청남도 홍성군",
             "region_code":"Chungcheongnamdo",
             "sub_region_code":"4480000000_Chungcheongnamdo_Hongseong"
         },
@@ -283,6 +308,7 @@
             "apt_type":"아파트",
             "apt_year":34.0,
             "value_score":45.8888421053,
+            "region":"충청남도 홍성군",
             "region_code":"Chungcheongnamdo",
             "sub_region_code":"4480000000_Chungcheongnamdo_Hongseong"
         },
@@ -294,6 +320,7 @@
             "apt_type":"분양권",
             "apt_year":0.0,
             "value_score":44.6825263158,
+            "region":"충청남도 홍성군",
             "region_code":"Chungcheongnamdo",
             "sub_region_code":"4480000000_Chungcheongnamdo_Hongseong"
         },
@@ -305,6 +332,7 @@
             "apt_type":"아파트",
             "apt_year":17.0,
             "value_score":43.2823157895,
+            "region":"충청남도 홍성군",
             "region_code":"Chungcheongnamdo",
             "sub_region_code":"4480000000_Chungcheongnamdo_Hongseong"
         },
@@ -316,6 +344,7 @@
             "apt_type":"아파트",
             "apt_year":32.0,
             "value_score":42.9456842105,
+            "region":"충청남도 홍성군",
             "region_code":"Chungcheongnamdo",
             "sub_region_code":"4480000000_Chungcheongnamdo_Hongseong"
         },
@@ -327,6 +356,7 @@
             "apt_type":"아파트",
             "apt_year":6.0,
             "value_score":42.3343157895,
+            "region":"충청남도 홍성군",
             "region_code":"Chungcheongnamdo",
             "sub_region_code":"4480000000_Chungcheongnamdo_Hongseong"
         },
@@ -338,6 +368,7 @@
             "apt_type":"아파트",
             "apt_year":14.0,
             "value_score":41.9193684211,
+            "region":"충청남도 홍성군",
             "region_code":"Chungcheongnamdo",
             "sub_region_code":"4480000000_Chungcheongnamdo_Hongseong"
         },
@@ -349,6 +380,7 @@
             "apt_type":"아파트",
             "apt_year":19.0,
             "value_score":39.6501052632,
+            "region":"충청남도 홍성군",
             "region_code":"Chungcheongnamdo",
             "sub_region_code":"4480000000_Chungcheongnamdo_Hongseong"
         },
@@ -360,6 +392,7 @@
             "apt_type":"아파트",
             "apt_year":26.0,
             "value_score":39.5711578947,
+            "region":"충청남도 홍성군",
             "region_code":"Chungcheongnamdo",
             "sub_region_code":"4480000000_Chungcheongnamdo_Hongseong"
         },
@@ -371,6 +404,7 @@
             "apt_type":"분양권",
             "apt_year":-1.0,
             "value_score":39.3006315789,
+            "region":"충청남도 홍성군",
             "region_code":"Chungcheongnamdo",
             "sub_region_code":"4480000000_Chungcheongnamdo_Hongseong"
         },
@@ -382,6 +416,7 @@
             "apt_type":"분양권",
             "apt_year":0.0,
             "value_score":53.476,
+            "region":"충청남도 홍성군",
             "region_code":"Chungcheongnamdo",
             "sub_region_code":"4480000000_Chungcheongnamdo_Hongseong"
         },
@@ -393,6 +428,7 @@
             "apt_type":"분양권",
             "apt_year":-1.0,
             "value_score":53.476,
+            "region":"충청남도 홍성군",
             "region_code":"Chungcheongnamdo",
             "sub_region_code":"4480000000_Chungcheongnamdo_Hongseong"
         },
@@ -404,6 +440,7 @@
             "apt_type":"분양권",
             "apt_year":-1.0,
             "value_score":53.476,
+            "region":"충청남도 홍성군",
             "region_code":"Chungcheongnamdo",
             "sub_region_code":"4480000000_Chungcheongnamdo_Hongseong"
         },
@@ -415,6 +452,7 @@
             "apt_type":"아파트",
             "apt_year":17.0,
             "value_score":51.949,
+            "region":"충청남도 홍성군",
             "region_code":"Chungcheongnamdo",
             "sub_region_code":"4480000000_Chungcheongnamdo_Hongseong"
         },
@@ -426,6 +464,7 @@
             "apt_type":"아파트",
             "apt_year":9.0,
             "value_score":51.85,
+            "region":"충청남도 홍성군",
             "region_code":"Chungcheongnamdo",
             "sub_region_code":"4480000000_Chungcheongnamdo_Hongseong"
         },
@@ -437,6 +476,7 @@
             "apt_type":"아파트",
             "apt_year":7.0,
             "value_score":51.85,
+            "region":"충청남도 홍성군",
             "region_code":"Chungcheongnamdo",
             "sub_region_code":"4480000000_Chungcheongnamdo_Hongseong"
         },
@@ -448,6 +488,7 @@
             "apt_type":"분양권",
             "apt_year":-2.0,
             "value_score":51.726,
+            "region":"충청남도 홍성군",
             "region_code":"Chungcheongnamdo",
             "sub_region_code":"4480000000_Chungcheongnamdo_Hongseong"
         },
@@ -459,6 +500,7 @@
             "apt_type":"아파트",
             "apt_year":8.0,
             "value_score":50.851,
+            "region":"충청남도 홍성군",
             "region_code":"Chungcheongnamdo",
             "sub_region_code":"4480000000_Chungcheongnamdo_Hongseong"
         },
@@ -470,6 +512,7 @@
             "apt_type":"아파트",
             "apt_year":7.0,
             "value_score":50.725,
+            "region":"충청남도 홍성군",
             "region_code":"Chungcheongnamdo",
             "sub_region_code":"4480000000_Chungcheongnamdo_Hongseong"
         },
@@ -481,6 +524,7 @@
             "apt_type":"아파트",
             "apt_year":17.0,
             "value_score":50.447,
+            "region":"충청남도 홍성군",
             "region_code":"Chungcheongnamdo",
             "sub_region_code":"4480000000_Chungcheongnamdo_Hongseong"
         }

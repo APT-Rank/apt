@@ -30,6 +30,10 @@
                 "type":"number"
             },
             {
+                "name":"region",
+                "type":"string"
+            },
+            {
                 "name":"region_code",
                 "type":"string"
             },
@@ -52,6 +56,7 @@
             "apt_type":"분양권",
             "apt_year":1.0,
             "value_score":59.0314,
+            "region":"부산시 사하구",
             "region_code":"Busan",
             "sub_region_code":"2638000000_Busan_Saha"
         },
@@ -63,6 +68,7 @@
             "apt_type":"재건축",
             "apt_year":38.0,
             "value_score":58.3062,
+            "region":"부산시 사하구",
             "region_code":"Busan",
             "sub_region_code":"2638000000_Busan_Saha"
         },
@@ -74,6 +80,7 @@
             "apt_type":"분양권",
             "apt_year":-1.0,
             "value_score":58.188,
+            "region":"부산시 사하구",
             "region_code":"Busan",
             "sub_region_code":"2638000000_Busan_Saha"
         },
@@ -85,6 +92,7 @@
             "apt_type":"아파트",
             "apt_year":2.0,
             "value_score":58.0538,
+            "region":"부산시 사하구",
             "region_code":"Busan",
             "sub_region_code":"2638000000_Busan_Saha"
         },
@@ -96,6 +104,7 @@
             "apt_type":"아파트",
             "apt_year":2.0,
             "value_score":56.2188,
+            "region":"부산시 사하구",
             "region_code":"Busan",
             "sub_region_code":"2638000000_Busan_Saha"
         },
@@ -107,6 +116,7 @@
             "apt_type":"재건축",
             "apt_year":34.0,
             "value_score":55.8062,
+            "region":"부산시 사하구",
             "region_code":"Busan",
             "sub_region_code":"2638000000_Busan_Saha"
         },
@@ -118,6 +128,7 @@
             "apt_type":"아파트",
             "apt_year":16.0,
             "value_score":55.4438,
+            "region":"부산시 사하구",
             "region_code":"Busan",
             "sub_region_code":"2638000000_Busan_Saha"
         },
@@ -129,6 +140,7 @@
             "apt_type":"아파트",
             "apt_year":10.0,
             "value_score":55.407,
+            "region":"부산시 사하구",
             "region_code":"Busan",
             "sub_region_code":"2638000000_Busan_Saha"
         },
@@ -140,6 +152,7 @@
             "apt_type":"분양권",
             "apt_year":-2.0,
             "value_score":54.6088,
+            "region":"부산시 사하구",
             "region_code":"Busan",
             "sub_region_code":"2638000000_Busan_Saha"
         },
@@ -151,6 +164,7 @@
             "apt_type":"아파트",
             "apt_year":5.0,
             "value_score":54.1862,
+            "region":"부산시 사하구",
             "region_code":"Busan",
             "sub_region_code":"2638000000_Busan_Saha"
         },
@@ -162,6 +176,7 @@
             "apt_type":"분양권",
             "apt_year":-1.0,
             "value_score":66.292,
+            "region":"부산시 사하구",
             "region_code":"Busan",
             "sub_region_code":"2638000000_Busan_Saha"
         },
@@ -173,6 +188,7 @@
             "apt_type":"분양권",
             "apt_year":1.0,
             "value_score":65.6876,
+            "region":"부산시 사하구",
             "region_code":"Busan",
             "sub_region_code":"2638000000_Busan_Saha"
         },
@@ -184,6 +200,7 @@
             "apt_type":"아파트",
             "apt_year":9.0,
             "value_score":61.0344,
+            "region":"부산시 사하구",
             "region_code":"Busan",
             "sub_region_code":"2638000000_Busan_Saha"
         },
@@ -195,6 +212,7 @@
             "apt_type":"아파트",
             "apt_year":2.0,
             "value_score":60.9792,
+            "region":"부산시 사하구",
             "region_code":"Busan",
             "sub_region_code":"2638000000_Busan_Saha"
         },
@@ -206,6 +224,7 @@
             "apt_type":"아파트",
             "apt_year":2.0,
             "value_score":60.3692,
+            "region":"부산시 사하구",
             "region_code":"Busan",
             "sub_region_code":"2638000000_Busan_Saha"
         },
@@ -217,6 +236,7 @@
             "apt_type":"아파트",
             "apt_year":7.0,
             "value_score":60.3448,
+            "region":"부산시 사하구",
             "region_code":"Busan",
             "sub_region_code":"2638000000_Busan_Saha"
         },
@@ -228,6 +248,7 @@
             "apt_type":"아파트",
             "apt_year":6.0,
             "value_score":60.3448,
+            "region":"부산시 사하구",
             "region_code":"Busan",
             "sub_region_code":"2638000000_Busan_Saha"
         },
@@ -239,6 +260,7 @@
             "apt_type":"아파트",
             "apt_year":1.0,
             "value_score":60.0892,
+            "region":"부산시 사하구",
             "region_code":"Busan",
             "sub_region_code":"2638000000_Busan_Saha"
         },
@@ -250,6 +272,7 @@
             "apt_type":"아파트",
             "apt_year":7.0,
             "value_score":59.886,
+            "region":"부산시 사하구",
             "region_code":"Busan",
             "sub_region_code":"2638000000_Busan_Saha"
         },
@@ -261,6 +284,7 @@
             "apt_type":"재건축",
             "apt_year":38.0,
             "value_score":58.3708,
+            "region":"부산시 사하구",
             "region_code":"Busan",
             "sub_region_code":"2638000000_Busan_Saha"
         },
@@ -272,6 +296,7 @@
             "apt_type":"아파트",
             "apt_year":19.0,
             "value_score":71.3469,
+            "region":"부산시 사하구",
             "region_code":"Busan",
             "sub_region_code":"2638000000_Busan_Saha"
         },
@@ -283,6 +308,7 @@
             "apt_type":"아파트",
             "apt_year":18.0,
             "value_score":71.2925,
+            "region":"부산시 사하구",
             "region_code":"Busan",
             "sub_region_code":"2638000000_Busan_Saha"
         },
@@ -294,6 +320,7 @@
             "apt_type":"아파트",
             "apt_year":2.0,
             "value_score":70.7719,
+            "region":"부산시 사하구",
             "region_code":"Busan",
             "sub_region_code":"2638000000_Busan_Saha"
         },
@@ -305,6 +332,7 @@
             "apt_type":"아파트",
             "apt_year":19.0,
             "value_score":70.6175,
+            "region":"부산시 사하구",
             "region_code":"Busan",
             "sub_region_code":"2638000000_Busan_Saha"
         },
@@ -316,6 +344,7 @@
             "apt_type":"아파트",
             "apt_year":6.0,
             "value_score":69.7672,
+            "region":"부산시 사하구",
             "region_code":"Busan",
             "sub_region_code":"2638000000_Busan_Saha"
         },
@@ -327,6 +356,7 @@
             "apt_type":"아파트",
             "apt_year":2.0,
             "value_score":69.1219,
+            "region":"부산시 사하구",
             "region_code":"Busan",
             "sub_region_code":"2638000000_Busan_Saha"
         },
@@ -338,6 +368,7 @@
             "apt_type":"아파트",
             "apt_year":16.0,
             "value_score":68.8969,
+            "region":"부산시 사하구",
             "region_code":"Busan",
             "sub_region_code":"2638000000_Busan_Saha"
         },
@@ -349,6 +380,7 @@
             "apt_type":"분양권",
             "apt_year":1.0,
             "value_score":68.7907,
+            "region":"부산시 사하구",
             "region_code":"Busan",
             "sub_region_code":"2638000000_Busan_Saha"
         },
@@ -360,6 +392,7 @@
             "apt_type":"아파트",
             "apt_year":39.0,
             "value_score":68.7166,
+            "region":"부산시 사하구",
             "region_code":"Busan",
             "sub_region_code":"2638000000_Busan_Saha"
         },
@@ -371,6 +404,7 @@
             "apt_type":"아파트",
             "apt_year":12.0,
             "value_score":68.1969,
+            "region":"부산시 사하구",
             "region_code":"Busan",
             "sub_region_code":"2638000000_Busan_Saha"
         },
@@ -382,6 +416,7 @@
             "apt_type":"아파트",
             "apt_year":28.0,
             "value_score":59.5125,
+            "region":"부산시 사하구",
             "region_code":"Busan",
             "sub_region_code":"2638000000_Busan_Saha"
         },
@@ -393,6 +428,7 @@
             "apt_type":"아파트",
             "apt_year":31.0,
             "value_score":55.8125,
+            "region":"부산시 사하구",
             "region_code":"Busan",
             "sub_region_code":"2638000000_Busan_Saha"
         },
@@ -404,6 +440,7 @@
             "apt_type":"재건축",
             "apt_year":38.0,
             "value_score":54.551,
+            "region":"부산시 사하구",
             "region_code":"Busan",
             "sub_region_code":"2638000000_Busan_Saha"
         },
@@ -415,6 +452,7 @@
             "apt_type":"아파트",
             "apt_year":20.0,
             "value_score":53.7625,
+            "region":"부산시 사하구",
             "region_code":"Busan",
             "sub_region_code":"2638000000_Busan_Saha"
         },
@@ -426,6 +464,7 @@
             "apt_type":"아파트",
             "apt_year":34.0,
             "value_score":53.3625,
+            "region":"부산시 사하구",
             "region_code":"Busan",
             "sub_region_code":"2638000000_Busan_Saha"
         },
@@ -437,6 +476,7 @@
             "apt_type":"분양권",
             "apt_year":-2.0,
             "value_score":53.299,
+            "region":"부산시 사하구",
             "region_code":"Busan",
             "sub_region_code":"2638000000_Busan_Saha"
         },
@@ -448,6 +488,7 @@
             "apt_type":"아파트",
             "apt_year":2.0,
             "value_score":52.9365,
+            "region":"부산시 사하구",
             "region_code":"Busan",
             "sub_region_code":"2638000000_Busan_Saha"
         },
@@ -459,6 +500,7 @@
             "apt_type":"아파트",
             "apt_year":12.0,
             "value_score":52.8115,
+            "region":"부산시 사하구",
             "region_code":"Busan",
             "sub_region_code":"2638000000_Busan_Saha"
         },
@@ -470,6 +512,7 @@
             "apt_type":"아파트",
             "apt_year":2.0,
             "value_score":52.499,
+            "region":"부산시 사하구",
             "region_code":"Busan",
             "sub_region_code":"2638000000_Busan_Saha"
         },
@@ -481,6 +524,7 @@
             "apt_type":"아파트",
             "apt_year":6.0,
             "value_score":52.3115,
+            "region":"부산시 사하구",
             "region_code":"Busan",
             "sub_region_code":"2638000000_Busan_Saha"
         },
@@ -492,6 +536,7 @@
             "apt_type":"재건축",
             "apt_year":38.0,
             "value_score":60.382,
+            "region":"부산시 사하구",
             "region_code":"Busan",
             "sub_region_code":"2638000000_Busan_Saha"
         },
@@ -503,6 +548,7 @@
             "apt_type":"분양권",
             "apt_year":1.0,
             "value_score":59.069,
+            "region":"부산시 사하구",
             "region_code":"Busan",
             "sub_region_code":"2638000000_Busan_Saha"
         },
@@ -514,6 +560,7 @@
             "apt_type":"아파트",
             "apt_year":2.0,
             "value_score":58.923,
+            "region":"부산시 사하구",
             "region_code":"Busan",
             "sub_region_code":"2638000000_Busan_Saha"
         },
@@ -525,6 +572,7 @@
             "apt_type":"분양권",
             "apt_year":-1.0,
             "value_score":58.855,
+            "region":"부산시 사하구",
             "region_code":"Busan",
             "sub_region_code":"2638000000_Busan_Saha"
         },
@@ -536,6 +584,7 @@
             "apt_type":"재건축",
             "apt_year":34.0,
             "value_score":58.582,
+            "region":"부산시 사하구",
             "region_code":"Busan",
             "sub_region_code":"2638000000_Busan_Saha"
         },
@@ -547,6 +596,7 @@
             "apt_type":"아파트",
             "apt_year":2.0,
             "value_score":57.953,
+            "region":"부산시 사하구",
             "region_code":"Busan",
             "sub_region_code":"2638000000_Busan_Saha"
         },
@@ -558,6 +608,7 @@
             "apt_type":"아파트",
             "apt_year":16.0,
             "value_score":57.823,
+            "region":"부산시 사하구",
             "region_code":"Busan",
             "sub_region_code":"2638000000_Busan_Saha"
         },
@@ -569,6 +620,7 @@
             "apt_type":"분양권",
             "apt_year":-2.0,
             "value_score":57.398,
+            "region":"부산시 사하구",
             "region_code":"Busan",
             "sub_region_code":"2638000000_Busan_Saha"
         },
@@ -580,6 +632,7 @@
             "apt_type":"아파트",
             "apt_year":12.0,
             "value_score":56.423,
+            "region":"부산시 사하구",
             "region_code":"Busan",
             "sub_region_code":"2638000000_Busan_Saha"
         },
@@ -591,6 +644,7 @@
             "apt_type":"아파트",
             "apt_year":2.0,
             "value_score":56.278,
+            "region":"부산시 사하구",
             "region_code":"Busan",
             "sub_region_code":"2638000000_Busan_Saha"
         }

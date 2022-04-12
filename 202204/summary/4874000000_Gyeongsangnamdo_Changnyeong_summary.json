@@ -30,6 +30,10 @@
                 "type":"number"
             },
             {
+                "name":"region",
+                "type":"string"
+            },
+            {
                 "name":"region_code",
                 "type":"string"
             },
@@ -52,6 +56,7 @@
             "apt_type":"아파트",
             "apt_year":13.0,
             "value_score":37.325,
+            "region":"경상남도 창녕군",
             "region_code":"Gyeongsangnamdo",
             "sub_region_code":"4874000000_Gyeongsangnamdo_Changnyeong"
         },
@@ -63,6 +68,7 @@
             "apt_type":"아파트",
             "apt_year":7.0,
             "value_score":33.0595,
+            "region":"경상남도 창녕군",
             "region_code":"Gyeongsangnamdo",
             "sub_region_code":"4874000000_Gyeongsangnamdo_Changnyeong"
         },
@@ -74,6 +80,7 @@
             "apt_type":"아파트",
             "apt_year":4.0,
             "value_score":32.24,
+            "region":"경상남도 창녕군",
             "region_code":"Gyeongsangnamdo",
             "sub_region_code":"4874000000_Gyeongsangnamdo_Changnyeong"
         },
@@ -85,6 +92,7 @@
             "apt_type":"아파트",
             "apt_year":18.0,
             "value_score":31.407,
+            "region":"경상남도 창녕군",
             "region_code":"Gyeongsangnamdo",
             "sub_region_code":"4874000000_Gyeongsangnamdo_Changnyeong"
         },
@@ -96,6 +104,7 @@
             "apt_type":"아파트",
             "apt_year":13.0,
             "value_score":28.457,
+            "region":"경상남도 창녕군",
             "region_code":"Gyeongsangnamdo",
             "sub_region_code":"4874000000_Gyeongsangnamdo_Changnyeong"
         },
@@ -107,6 +116,7 @@
             "apt_type":"아파트",
             "apt_year":7.0,
             "value_score":27.8,
+            "region":"경상남도 창녕군",
             "region_code":"Gyeongsangnamdo",
             "sub_region_code":"4874000000_Gyeongsangnamdo_Changnyeong"
         },
@@ -118,6 +128,7 @@
             "apt_type":"아파트",
             "apt_year":15.0,
             "value_score":27.675,
+            "region":"경상남도 창녕군",
             "region_code":"Gyeongsangnamdo",
             "sub_region_code":"4874000000_Gyeongsangnamdo_Changnyeong"
         },
@@ -129,6 +140,7 @@
             "apt_type":"아파트",
             "apt_year":17.0,
             "value_score":25.8315,
+            "region":"경상남도 창녕군",
             "region_code":"Gyeongsangnamdo",
             "sub_region_code":"4874000000_Gyeongsangnamdo_Changnyeong"
         },
@@ -140,6 +152,7 @@
             "apt_type":"아파트",
             "apt_year":10.0,
             "value_score":25.4495,
+            "region":"경상남도 창녕군",
             "region_code":"Gyeongsangnamdo",
             "sub_region_code":"4874000000_Gyeongsangnamdo_Changnyeong"
         },
@@ -151,6 +164,7 @@
             "apt_type":"아파트",
             "apt_year":30.0,
             "value_score":23.8995,
+            "region":"경상남도 창녕군",
             "region_code":"Gyeongsangnamdo",
             "sub_region_code":"4874000000_Gyeongsangnamdo_Changnyeong"
         },
@@ -162,6 +176,7 @@
             "apt_type":"아파트",
             "apt_year":13.0,
             "value_score":43.715,
+            "region":"경상남도 창녕군",
             "region_code":"Gyeongsangnamdo",
             "sub_region_code":"4874000000_Gyeongsangnamdo_Changnyeong"
         },
@@ -173,6 +188,7 @@
             "apt_type":"아파트",
             "apt_year":4.0,
             "value_score":40.94,
+            "region":"경상남도 창녕군",
             "region_code":"Gyeongsangnamdo",
             "sub_region_code":"4874000000_Gyeongsangnamdo_Changnyeong"
         },
@@ -184,6 +200,7 @@
             "apt_type":"아파트",
             "apt_year":7.0,
             "value_score":40.7995,
+            "region":"경상남도 창녕군",
             "region_code":"Gyeongsangnamdo",
             "sub_region_code":"4874000000_Gyeongsangnamdo_Changnyeong"
         },
@@ -195,6 +212,7 @@
             "apt_type":"아파트",
             "apt_year":7.0,
             "value_score":33.965,
+            "region":"경상남도 창녕군",
             "region_code":"Gyeongsangnamdo",
             "sub_region_code":"4874000000_Gyeongsangnamdo_Changnyeong"
         },
@@ -206,6 +224,7 @@
             "apt_type":"아파트",
             "apt_year":18.0,
             "value_score":32.607,
+            "region":"경상남도 창녕군",
             "region_code":"Gyeongsangnamdo",
             "sub_region_code":"4874000000_Gyeongsangnamdo_Changnyeong"
         },
@@ -217,6 +236,7 @@
             "apt_type":"아파트",
             "apt_year":10.0,
             "value_score":30.6995,
+            "region":"경상남도 창녕군",
             "region_code":"Gyeongsangnamdo",
             "sub_region_code":"4874000000_Gyeongsangnamdo_Changnyeong"
         },
@@ -228,6 +248,7 @@
             "apt_type":"아파트",
             "apt_year":13.0,
             "value_score":29.357,
+            "region":"경상남도 창녕군",
             "region_code":"Gyeongsangnamdo",
             "sub_region_code":"4874000000_Gyeongsangnamdo_Changnyeong"
         },
@@ -239,6 +260,7 @@
             "apt_type":"아파트",
             "apt_year":15.0,
             "value_score":28.965,
+            "region":"경상남도 창녕군",
             "region_code":"Gyeongsangnamdo",
             "sub_region_code":"4874000000_Gyeongsangnamdo_Changnyeong"
         },
@@ -250,6 +272,7 @@
             "apt_type":"아파트",
             "apt_year":17.0,
             "value_score":27.7815,
+            "region":"경상남도 창녕군",
             "region_code":"Gyeongsangnamdo",
             "sub_region_code":"4874000000_Gyeongsangnamdo_Changnyeong"
         },
@@ -261,6 +284,7 @@
             "apt_type":"아파트",
             "apt_year":30.0,
             "value_score":24.9495,
+            "region":"경상남도 창녕군",
             "region_code":"Gyeongsangnamdo",
             "sub_region_code":"4874000000_Gyeongsangnamdo_Changnyeong"
         },
@@ -272,6 +296,7 @@
             "apt_type":"아파트",
             "apt_year":18.0,
             "value_score":32.6614736842,
+            "region":"경상남도 창녕군",
             "region_code":"Gyeongsangnamdo",
             "sub_region_code":"4874000000_Gyeongsangnamdo_Changnyeong"
         },
@@ -283,6 +308,7 @@
             "apt_type":"아파트",
             "apt_year":13.0,
             "value_score":31.2505263158,
+            "region":"경상남도 창녕군",
             "region_code":"Gyeongsangnamdo",
             "sub_region_code":"4874000000_Gyeongsangnamdo_Changnyeong"
         },
@@ -294,6 +320,7 @@
             "apt_type":"아파트",
             "apt_year":13.0,
             "value_score":30.2930526316,
+            "region":"경상남도 창녕군",
             "region_code":"Gyeongsangnamdo",
             "sub_region_code":"4874000000_Gyeongsangnamdo_Changnyeong"
         },
@@ -305,6 +332,7 @@
             "apt_type":"아파트",
             "apt_year":15.0,
             "value_score":27.9347368421,
+            "region":"경상남도 창녕군",
             "region_code":"Gyeongsangnamdo",
             "sub_region_code":"4874000000_Gyeongsangnamdo_Changnyeong"
         },
@@ -316,6 +344,7 @@
             "apt_type":"아파트",
             "apt_year":7.0,
             "value_score":26.4625263158,
+            "region":"경상남도 창녕군",
             "region_code":"Gyeongsangnamdo",
             "sub_region_code":"4874000000_Gyeongsangnamdo_Changnyeong"
         },
@@ -327,6 +356,7 @@
             "apt_type":"아파트",
             "apt_year":17.0,
             "value_score":25.5134736842,
+            "region":"경상남도 창녕군",
             "region_code":"Gyeongsangnamdo",
             "sub_region_code":"4874000000_Gyeongsangnamdo_Changnyeong"
         },
@@ -338,6 +368,7 @@
             "apt_type":"아파트",
             "apt_year":30.0,
             "value_score":25.3046315789,
+            "region":"경상남도 창녕군",
             "region_code":"Gyeongsangnamdo",
             "sub_region_code":"4874000000_Gyeongsangnamdo_Changnyeong"
         },
@@ -349,6 +380,7 @@
             "apt_type":"아파트",
             "apt_year":33.0,
             "value_score":25.2505263158,
+            "region":"경상남도 창녕군",
             "region_code":"Gyeongsangnamdo",
             "sub_region_code":"4874000000_Gyeongsangnamdo_Changnyeong"
         },
@@ -360,6 +392,7 @@
             "apt_type":"아파트",
             "apt_year":21.0,
             "value_score":25.2505263158,
+            "region":"경상남도 창녕군",
             "region_code":"Gyeongsangnamdo",
             "sub_region_code":"4874000000_Gyeongsangnamdo_Changnyeong"
         },
@@ -371,6 +404,7 @@
             "apt_type":"아파트",
             "apt_year":32.0,
             "value_score":24.252,
+            "region":"경상남도 창녕군",
             "region_code":"Gyeongsangnamdo",
             "sub_region_code":"4874000000_Gyeongsangnamdo_Changnyeong"
         },
@@ -382,6 +416,7 @@
             "apt_type":"아파트",
             "apt_year":18.0,
             "value_score":41.214,
+            "region":"경상남도 창녕군",
             "region_code":"Gyeongsangnamdo",
             "sub_region_code":"4874000000_Gyeongsangnamdo_Changnyeong"
         },
@@ -393,6 +428,7 @@
             "apt_type":"아파트",
             "apt_year":13.0,
             "value_score":41.08,
+            "region":"경상남도 창녕군",
             "region_code":"Gyeongsangnamdo",
             "sub_region_code":"4874000000_Gyeongsangnamdo_Changnyeong"
         },
@@ -404,6 +440,7 @@
             "apt_type":"아파트",
             "apt_year":7.0,
             "value_score":40.499,
+            "region":"경상남도 창녕군",
             "region_code":"Gyeongsangnamdo",
             "sub_region_code":"4874000000_Gyeongsangnamdo_Changnyeong"
         },
@@ -415,6 +452,7 @@
             "apt_type":"아파트",
             "apt_year":13.0,
             "value_score":39.214,
+            "region":"경상남도 창녕군",
             "region_code":"Gyeongsangnamdo",
             "sub_region_code":"4874000000_Gyeongsangnamdo_Changnyeong"
         },
@@ -426,6 +464,7 @@
             "apt_type":"아파트",
             "apt_year":4.0,
             "value_score":38.38,
+            "region":"경상남도 창녕군",
             "region_code":"Gyeongsangnamdo",
             "sub_region_code":"4874000000_Gyeongsangnamdo_Changnyeong"
         },
@@ -437,6 +476,7 @@
             "apt_type":"아파트",
             "apt_year":10.0,
             "value_score":35.149,
+            "region":"경상남도 창녕군",
             "region_code":"Gyeongsangnamdo",
             "sub_region_code":"4874000000_Gyeongsangnamdo_Changnyeong"
         },
@@ -448,6 +488,7 @@
             "apt_type":"아파트",
             "apt_year":7.0,
             "value_score":34.705,
+            "region":"경상남도 창녕군",
             "region_code":"Gyeongsangnamdo",
             "sub_region_code":"4874000000_Gyeongsangnamdo_Changnyeong"
         },
@@ -459,6 +500,7 @@
             "apt_type":"아파트",
             "apt_year":15.0,
             "value_score":34.08,
+            "region":"경상남도 창녕군",
             "region_code":"Gyeongsangnamdo",
             "sub_region_code":"4874000000_Gyeongsangnamdo_Changnyeong"
         },
@@ -470,6 +512,7 @@
             "apt_type":"아파트",
             "apt_year":30.0,
             "value_score":33.649,
+            "region":"경상남도 창녕군",
             "region_code":"Gyeongsangnamdo",
             "sub_region_code":"4874000000_Gyeongsangnamdo_Changnyeong"
         },
@@ -481,6 +524,7 @@
             "apt_type":"아파트",
             "apt_year":32.0,
             "value_score":33.149,
+            "region":"경상남도 창녕군",
             "region_code":"Gyeongsangnamdo",
             "sub_region_code":"4874000000_Gyeongsangnamdo_Changnyeong"
         }

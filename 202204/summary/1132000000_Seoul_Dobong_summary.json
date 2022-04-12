@@ -30,6 +30,10 @@
                 "type":"number"
             },
             {
+                "name":"region",
+                "type":"string"
+            },
+            {
                 "name":"region_code",
                 "type":"string"
             },
@@ -52,6 +56,7 @@
             "apt_type":"아파트",
             "apt_year":22.0,
             "value_score":62.3845,
+            "region":"서울시 도봉구",
             "region_code":"Seoul",
             "sub_region_code":"1132000000_Seoul_Dobong"
         },
@@ -63,6 +68,7 @@
             "apt_type":"아파트",
             "apt_year":21.0,
             "value_score":59.6365,
+            "region":"서울시 도봉구",
             "region_code":"Seoul",
             "sub_region_code":"1132000000_Seoul_Dobong"
         },
@@ -74,6 +80,7 @@
             "apt_type":"아파트",
             "apt_year":19.0,
             "value_score":59.5365,
+            "region":"서울시 도봉구",
             "region_code":"Seoul",
             "sub_region_code":"1132000000_Seoul_Dobong"
         },
@@ -85,6 +92,7 @@
             "apt_type":"아파트",
             "apt_year":31.0,
             "value_score":59.3557,
+            "region":"서울시 도봉구",
             "region_code":"Seoul",
             "sub_region_code":"1132000000_Seoul_Dobong"
         },
@@ -96,6 +104,7 @@
             "apt_type":"아파트",
             "apt_year":35.0,
             "value_score":59.056,
+            "region":"서울시 도봉구",
             "region_code":"Seoul",
             "sub_region_code":"1132000000_Seoul_Dobong"
         },
@@ -107,6 +116,7 @@
             "apt_type":"아파트",
             "apt_year":26.0,
             "value_score":58.7842,
+            "region":"서울시 도봉구",
             "region_code":"Seoul",
             "sub_region_code":"1132000000_Seoul_Dobong"
         },
@@ -118,6 +128,7 @@
             "apt_type":"아파트",
             "apt_year":5.0,
             "value_score":58.3365,
+            "region":"서울시 도봉구",
             "region_code":"Seoul",
             "sub_region_code":"1132000000_Seoul_Dobong"
         },
@@ -129,6 +140,7 @@
             "apt_type":"아파트",
             "apt_year":35.0,
             "value_score":57.6904,
+            "region":"서울시 도봉구",
             "region_code":"Seoul",
             "sub_region_code":"1132000000_Seoul_Dobong"
         },
@@ -140,6 +152,7 @@
             "apt_type":"아파트",
             "apt_year":19.0,
             "value_score":57.5339,
+            "region":"서울시 도봉구",
             "region_code":"Seoul",
             "sub_region_code":"1132000000_Seoul_Dobong"
         },
@@ -151,6 +164,7 @@
             "apt_type":"아파트",
             "apt_year":35.0,
             "value_score":57.3904,
+            "region":"서울시 도봉구",
             "region_code":"Seoul",
             "sub_region_code":"1132000000_Seoul_Dobong"
         },
@@ -162,6 +176,7 @@
             "apt_type":"아파트",
             "apt_year":19.0,
             "value_score":67.8452,
+            "region":"서울시 도봉구",
             "region_code":"Seoul",
             "sub_region_code":"1132000000_Seoul_Dobong"
         },
@@ -173,6 +188,7 @@
             "apt_type":"아파트",
             "apt_year":22.0,
             "value_score":65.796,
+            "region":"서울시 도봉구",
             "region_code":"Seoul",
             "sub_region_code":"1132000000_Seoul_Dobong"
         },
@@ -184,6 +200,7 @@
             "apt_type":"아파트",
             "apt_year":31.0,
             "value_score":60.8076,
+            "region":"서울시 도봉구",
             "region_code":"Seoul",
             "sub_region_code":"1132000000_Seoul_Dobong"
         },
@@ -195,6 +212,7 @@
             "apt_type":"아파트",
             "apt_year":26.0,
             "value_score":58.9956,
+            "region":"서울시 도봉구",
             "region_code":"Seoul",
             "sub_region_code":"1132000000_Seoul_Dobong"
         },
@@ -206,6 +224,7 @@
             "apt_type":"아파트",
             "apt_year":22.0,
             "value_score":58.6952,
+            "region":"서울시 도봉구",
             "region_code":"Seoul",
             "sub_region_code":"1132000000_Seoul_Dobong"
         },
@@ -217,6 +236,7 @@
             "apt_type":"아파트",
             "apt_year":21.0,
             "value_score":57.532,
+            "region":"서울시 도봉구",
             "region_code":"Seoul",
             "sub_region_code":"1132000000_Seoul_Dobong"
         },
@@ -228,6 +248,7 @@
             "apt_type":"아파트",
             "apt_year":20.0,
             "value_score":57.3644,
+            "region":"서울시 도봉구",
             "region_code":"Seoul",
             "sub_region_code":"1132000000_Seoul_Dobong"
         },
@@ -239,6 +260,7 @@
             "apt_type":"아파트",
             "apt_year":26.0,
             "value_score":57.1956,
+            "region":"서울시 도봉구",
             "region_code":"Seoul",
             "sub_region_code":"1132000000_Seoul_Dobong"
         },
@@ -250,6 +272,7 @@
             "apt_type":"아파트",
             "apt_year":35.0,
             "value_score":56.8872,
+            "region":"서울시 도봉구",
             "region_code":"Seoul",
             "sub_region_code":"1132000000_Seoul_Dobong"
         },
@@ -261,6 +284,7 @@
             "apt_type":"아파트",
             "apt_year":35.0,
             "value_score":55.758,
+            "region":"서울시 도봉구",
             "region_code":"Seoul",
             "sub_region_code":"1132000000_Seoul_Dobong"
         },
@@ -272,6 +296,7 @@
             "apt_type":"아파트",
             "apt_year":19.0,
             "value_score":59.4365,
+            "region":"서울시 도봉구",
             "region_code":"Seoul",
             "sub_region_code":"1132000000_Seoul_Dobong"
         },
@@ -283,6 +308,7 @@
             "apt_type":"아파트",
             "apt_year":22.0,
             "value_score":59.1095,
+            "region":"서울시 도봉구",
             "region_code":"Seoul",
             "sub_region_code":"1132000000_Seoul_Dobong"
         },
@@ -294,6 +320,7 @@
             "apt_type":"아파트",
             "apt_year":5.0,
             "value_score":58.5365,
+            "region":"서울시 도봉구",
             "region_code":"Seoul",
             "sub_region_code":"1132000000_Seoul_Dobong"
         },
@@ -305,6 +332,7 @@
             "apt_type":"아파트",
             "apt_year":2.0,
             "value_score":57.5337,
+            "region":"서울시 도봉구",
             "region_code":"Seoul",
             "sub_region_code":"1132000000_Seoul_Dobong"
         },
@@ -316,6 +344,7 @@
             "apt_type":"아파트",
             "apt_year":21.0,
             "value_score":57.0615,
+            "region":"서울시 도봉구",
             "region_code":"Seoul",
             "sub_region_code":"1132000000_Seoul_Dobong"
         },
@@ -327,6 +356,7 @@
             "apt_type":"아파트",
             "apt_year":35.0,
             "value_score":56.981,
+            "region":"서울시 도봉구",
             "region_code":"Seoul",
             "sub_region_code":"1132000000_Seoul_Dobong"
         },
@@ -338,6 +368,7 @@
             "apt_type":"아파트",
             "apt_year":31.0,
             "value_score":56.8557,
+            "region":"서울시 도봉구",
             "region_code":"Seoul",
             "sub_region_code":"1132000000_Seoul_Dobong"
         },
@@ -349,6 +380,7 @@
             "apt_type":"아파트",
             "apt_year":10.0,
             "value_score":56.5853,
+            "region":"서울시 도봉구",
             "region_code":"Seoul",
             "sub_region_code":"1132000000_Seoul_Dobong"
         },
@@ -360,6 +392,7 @@
             "apt_type":"아파트",
             "apt_year":26.0,
             "value_score":56.5092,
+            "region":"서울시 도봉구",
             "region_code":"Seoul",
             "sub_region_code":"1132000000_Seoul_Dobong"
         },
@@ -371,6 +404,7 @@
             "apt_type":"아파트",
             "apt_year":32.0,
             "value_score":56.2057,
+            "region":"서울시 도봉구",
             "region_code":"Seoul",
             "sub_region_code":"1132000000_Seoul_Dobong"
         },
@@ -382,6 +416,7 @@
             "apt_type":"아파트",
             "apt_year":22.0,
             "value_score":66.5575,
+            "region":"서울시 도봉구",
             "region_code":"Seoul",
             "sub_region_code":"1132000000_Seoul_Dobong"
         },
@@ -393,6 +428,7 @@
             "apt_type":"아파트",
             "apt_year":19.0,
             "value_score":64.9565,
+            "region":"서울시 도봉구",
             "region_code":"Seoul",
             "sub_region_code":"1132000000_Seoul_Dobong"
         },
@@ -404,6 +440,7 @@
             "apt_type":"아파트",
             "apt_year":35.0,
             "value_score":64.81,
+            "region":"서울시 도봉구",
             "region_code":"Seoul",
             "sub_region_code":"1132000000_Seoul_Dobong"
         },
@@ -415,6 +452,7 @@
             "apt_type":"아파트",
             "apt_year":18.0,
             "value_score":64.4075,
+            "region":"서울시 도봉구",
             "region_code":"Seoul",
             "sub_region_code":"1132000000_Seoul_Dobong"
         },
@@ -426,6 +464,7 @@
             "apt_type":"아파트",
             "apt_year":21.0,
             "value_score":64.3775,
+            "region":"서울시 도봉구",
             "region_code":"Seoul",
             "sub_region_code":"1132000000_Seoul_Dobong"
         },
@@ -437,6 +476,7 @@
             "apt_type":"아파트",
             "apt_year":20.0,
             "value_score":63.7075,
+            "region":"서울시 도봉구",
             "region_code":"Seoul",
             "sub_region_code":"1132000000_Seoul_Dobong"
         },
@@ -448,6 +488,7 @@
             "apt_type":"아파트",
             "apt_year":20.0,
             "value_score":63.5085,
+            "region":"서울시 도봉구",
             "region_code":"Seoul",
             "sub_region_code":"1132000000_Seoul_Dobong"
         },
@@ -459,6 +500,7 @@
             "apt_type":"아파트",
             "apt_year":26.0,
             "value_score":63.357,
+            "region":"서울시 도봉구",
             "region_code":"Seoul",
             "sub_region_code":"1132000000_Seoul_Dobong"
         },
@@ -470,6 +512,7 @@
             "apt_type":"아파트",
             "apt_year":31.0,
             "value_score":63.2595,
+            "region":"서울시 도봉구",
             "region_code":"Seoul",
             "sub_region_code":"1132000000_Seoul_Dobong"
         },
@@ -481,6 +524,7 @@
             "apt_type":"아파트",
             "apt_year":19.0,
             "value_score":63.0275,
+            "region":"서울시 도봉구",
             "region_code":"Seoul",
             "sub_region_code":"1132000000_Seoul_Dobong"
         },
@@ -492,6 +536,7 @@
             "apt_type":"아파트",
             "apt_year":22.0,
             "value_score":63.915,
+            "region":"서울시 도봉구",
             "region_code":"Seoul",
             "sub_region_code":"1132000000_Seoul_Dobong"
         },
@@ -503,6 +548,7 @@
             "apt_type":"아파트",
             "apt_year":19.0,
             "value_score":63.713,
+            "region":"서울시 도봉구",
             "region_code":"Seoul",
             "sub_region_code":"1132000000_Seoul_Dobong"
         },
@@ -514,6 +560,7 @@
             "apt_type":"아파트",
             "apt_year":35.0,
             "value_score":60.768,
+            "region":"서울시 도봉구",
             "region_code":"Seoul",
             "sub_region_code":"1132000000_Seoul_Dobong"
         },
@@ -525,6 +572,7 @@
             "apt_type":"아파트",
             "apt_year":26.0,
             "value_score":60.714,
+            "region":"서울시 도봉구",
             "region_code":"Seoul",
             "sub_region_code":"1132000000_Seoul_Dobong"
         },
@@ -536,6 +584,7 @@
             "apt_type":"아파트",
             "apt_year":31.0,
             "value_score":60.519,
+            "region":"서울시 도봉구",
             "region_code":"Seoul",
             "sub_region_code":"1132000000_Seoul_Dobong"
         },
@@ -547,6 +596,7 @@
             "apt_type":"아파트",
             "apt_year":35.0,
             "value_score":60.068,
+            "region":"서울시 도봉구",
             "region_code":"Seoul",
             "sub_region_code":"1132000000_Seoul_Dobong"
         },
@@ -558,6 +608,7 @@
             "apt_type":"아파트",
             "apt_year":35.0,
             "value_score":59.22,
+            "region":"서울시 도봉구",
             "region_code":"Seoul",
             "sub_region_code":"1132000000_Seoul_Dobong"
         },
@@ -569,6 +620,7 @@
             "apt_type":"아파트",
             "apt_year":22.0,
             "value_score":59.213,
+            "region":"서울시 도봉구",
             "region_code":"Seoul",
             "sub_region_code":"1132000000_Seoul_Dobong"
         },
@@ -580,6 +632,7 @@
             "apt_type":"아파트",
             "apt_year":26.0,
             "value_score":58.614,
+            "region":"서울시 도봉구",
             "region_code":"Seoul",
             "sub_region_code":"1132000000_Seoul_Dobong"
         },
@@ -591,6 +644,7 @@
             "apt_type":"아파트",
             "apt_year":20.0,
             "value_score":57.815,
+            "region":"서울시 도봉구",
             "region_code":"Seoul",
             "sub_region_code":"1132000000_Seoul_Dobong"
         }

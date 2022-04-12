@@ -30,6 +30,10 @@
                 "type":"number"
             },
             {
+                "name":"region",
+                "type":"string"
+            },
+            {
                 "name":"region_code",
                 "type":"string"
             },
@@ -52,6 +56,7 @@
             "apt_type":"아파트",
             "apt_year":6.0,
             "value_score":33.5425,
+            "region":"강원도 화천군",
             "region_code":"Gangwondo",
             "sub_region_code":"4279000000_Gangwondo_Hwacheon"
         },
@@ -63,6 +68,7 @@
             "apt_type":"아파트",
             "apt_year":8.0,
             "value_score":30.261,
+            "region":"강원도 화천군",
             "region_code":"Gangwondo",
             "sub_region_code":"4279000000_Gangwondo_Hwacheon"
         },
@@ -74,6 +80,7 @@
             "apt_type":"아파트",
             "apt_year":24.0,
             "value_score":26.5675,
+            "region":"강원도 화천군",
             "region_code":"Gangwondo",
             "sub_region_code":"4279000000_Gangwondo_Hwacheon"
         },
@@ -85,6 +92,7 @@
             "apt_type":"아파트",
             "apt_year":16.0,
             "value_score":25.711,
+            "region":"강원도 화천군",
             "region_code":"Gangwondo",
             "sub_region_code":"4279000000_Gangwondo_Hwacheon"
         },
@@ -96,6 +104,7 @@
             "apt_type":"아파트",
             "apt_year":6.0,
             "value_score":37.0675,
+            "region":"강원도 화천군",
             "region_code":"Gangwondo",
             "sub_region_code":"4279000000_Gangwondo_Hwacheon"
         },
@@ -107,6 +116,7 @@
             "apt_type":"아파트",
             "apt_year":8.0,
             "value_score":36.426,
+            "region":"강원도 화천군",
             "region_code":"Gangwondo",
             "sub_region_code":"4279000000_Gangwondo_Hwacheon"
         },
@@ -118,6 +128,7 @@
             "apt_type":"아파트",
             "apt_year":16.0,
             "value_score":29.926,
+            "region":"강원도 화천군",
             "region_code":"Gangwondo",
             "sub_region_code":"4279000000_Gangwondo_Hwacheon"
         },
@@ -129,6 +140,7 @@
             "apt_type":"아파트",
             "apt_year":24.0,
             "value_score":28.0675,
+            "region":"강원도 화천군",
             "region_code":"Gangwondo",
             "sub_region_code":"4279000000_Gangwondo_Hwacheon"
         },
@@ -140,6 +152,7 @@
             "apt_type":"아파트",
             "apt_year":6.0,
             "value_score":31.7431578947,
+            "region":"강원도 화천군",
             "region_code":"Gangwondo",
             "sub_region_code":"4279000000_Gangwondo_Hwacheon"
         },
@@ -151,6 +164,7 @@
             "apt_type":"아파트",
             "apt_year":24.0,
             "value_score":27.5589473684,
+            "region":"강원도 화천군",
             "region_code":"Gangwondo",
             "sub_region_code":"4279000000_Gangwondo_Hwacheon"
         },
@@ -162,6 +176,7 @@
             "apt_type":"아파트",
             "apt_year":8.0,
             "value_score":25.9117894737,
+            "region":"강원도 화천군",
             "region_code":"Gangwondo",
             "sub_region_code":"4279000000_Gangwondo_Hwacheon"
         },
@@ -173,6 +188,7 @@
             "apt_type":"아파트",
             "apt_year":16.0,
             "value_score":23.8591578947,
+            "region":"강원도 화천군",
             "region_code":"Gangwondo",
             "sub_region_code":"4279000000_Gangwondo_Hwacheon"
         },
@@ -184,6 +200,7 @@
             "apt_type":"아파트",
             "apt_year":6.0,
             "value_score":41.51,
+            "region":"강원도 화천군",
             "region_code":"Gangwondo",
             "sub_region_code":"4279000000_Gangwondo_Hwacheon"
         },
@@ -195,6 +212,7 @@
             "apt_type":"아파트",
             "apt_year":8.0,
             "value_score":39.627,
+            "region":"강원도 화천군",
             "region_code":"Gangwondo",
             "sub_region_code":"4279000000_Gangwondo_Hwacheon"
         },
@@ -206,6 +224,7 @@
             "apt_type":"아파트",
             "apt_year":24.0,
             "value_score":36.635,
+            "region":"강원도 화천군",
             "region_code":"Gangwondo",
             "sub_region_code":"4279000000_Gangwondo_Hwacheon"
         },
@@ -217,6 +236,7 @@
             "apt_type":"아파트",
             "apt_year":16.0,
             "value_score":36.377,
+            "region":"강원도 화천군",
             "region_code":"Gangwondo",
             "sub_region_code":"4279000000_Gangwondo_Hwacheon"
         }

@@ -30,6 +30,10 @@
                 "type":"number"
             },
             {
+                "name":"region",
+                "type":"string"
+            },
+            {
                 "name":"region_code",
                 "type":"string"
             },
@@ -52,6 +56,7 @@
             "apt_type":"분양권",
             "apt_year":-2,
             "value_score":72.2075,
+            "region":"경상남도 진주시",
             "region_code":"Gyeongsangnamdo",
             "sub_region_code":"4817000000_Gyeongsangnamdo_Jinju"
         },
@@ -63,6 +68,7 @@
             "apt_type":"아파트",
             "apt_year":4,
             "value_score":71.4575,
+            "region":"경상남도 진주시",
             "region_code":"Gyeongsangnamdo",
             "sub_region_code":"4817000000_Gyeongsangnamdo_Jinju"
         },
@@ -74,6 +80,7 @@
             "apt_type":"아파트",
             "apt_year":13,
             "value_score":71.258,
+            "region":"경상남도 진주시",
             "region_code":"Gyeongsangnamdo",
             "sub_region_code":"4817000000_Gyeongsangnamdo_Jinju"
         },
@@ -85,6 +92,7 @@
             "apt_type":"아파트",
             "apt_year":5,
             "value_score":67.933,
+            "region":"경상남도 진주시",
             "region_code":"Gyeongsangnamdo",
             "sub_region_code":"4817000000_Gyeongsangnamdo_Jinju"
         },
@@ -96,6 +104,7 @@
             "apt_type":"아파트",
             "apt_year":14,
             "value_score":66.458,
+            "region":"경상남도 진주시",
             "region_code":"Gyeongsangnamdo",
             "sub_region_code":"4817000000_Gyeongsangnamdo_Jinju"
         },
@@ -107,6 +116,7 @@
             "apt_type":"아파트",
             "apt_year":10,
             "value_score":65.2735,
+            "region":"경상남도 진주시",
             "region_code":"Gyeongsangnamdo",
             "sub_region_code":"4817000000_Gyeongsangnamdo_Jinju"
         },
@@ -118,6 +128,7 @@
             "apt_type":"아파트",
             "apt_year":3,
             "value_score":63.0445,
+            "region":"경상남도 진주시",
             "region_code":"Gyeongsangnamdo",
             "sub_region_code":"4817000000_Gyeongsangnamdo_Jinju"
         },
@@ -129,6 +140,7 @@
             "apt_type":"아파트",
             "apt_year":2,
             "value_score":62.399,
+            "region":"경상남도 진주시",
             "region_code":"Gyeongsangnamdo",
             "sub_region_code":"4817000000_Gyeongsangnamdo_Jinju"
         },
@@ -140,6 +152,7 @@
             "apt_type":"아파트",
             "apt_year":9,
             "value_score":61.4445,
+            "region":"경상남도 진주시",
             "region_code":"Gyeongsangnamdo",
             "sub_region_code":"4817000000_Gyeongsangnamdo_Jinju"
         },
@@ -151,6 +164,7 @@
             "apt_type":"아파트",
             "apt_year":15,
             "value_score":59.9205,
+            "region":"경상남도 진주시",
             "region_code":"Gyeongsangnamdo",
             "sub_region_code":"4817000000_Gyeongsangnamdo_Jinju"
         },
@@ -162,6 +176,7 @@
             "apt_type":"분양권",
             "apt_year":-2,
             "value_score":73.1075,
+            "region":"경상남도 진주시",
             "region_code":"Gyeongsangnamdo",
             "sub_region_code":"4817000000_Gyeongsangnamdo_Jinju"
         },
@@ -173,6 +188,7 @@
             "apt_type":"아파트",
             "apt_year":4,
             "value_score":72.3575,
+            "region":"경상남도 진주시",
             "region_code":"Gyeongsangnamdo",
             "sub_region_code":"4817000000_Gyeongsangnamdo_Jinju"
         },
@@ -184,6 +200,7 @@
             "apt_type":"아파트",
             "apt_year":13,
             "value_score":71.108,
+            "region":"경상남도 진주시",
             "region_code":"Gyeongsangnamdo",
             "sub_region_code":"4817000000_Gyeongsangnamdo_Jinju"
         },
@@ -195,6 +212,7 @@
             "apt_type":"아파트",
             "apt_year":3,
             "value_score":69.1945,
+            "region":"경상남도 진주시",
             "region_code":"Gyeongsangnamdo",
             "sub_region_code":"4817000000_Gyeongsangnamdo_Jinju"
         },
@@ -206,6 +224,7 @@
             "apt_type":"아파트",
             "apt_year":14,
             "value_score":68.108,
+            "region":"경상남도 진주시",
             "region_code":"Gyeongsangnamdo",
             "sub_region_code":"4817000000_Gyeongsangnamdo_Jinju"
         },
@@ -217,6 +236,7 @@
             "apt_type":"아파트",
             "apt_year":5,
             "value_score":66.358,
+            "region":"경상남도 진주시",
             "region_code":"Gyeongsangnamdo",
             "sub_region_code":"4817000000_Gyeongsangnamdo_Jinju"
         },
@@ -228,6 +248,7 @@
             "apt_type":"아파트",
             "apt_year":9,
             "value_score":65.9445,
+            "region":"경상남도 진주시",
             "region_code":"Gyeongsangnamdo",
             "sub_region_code":"4817000000_Gyeongsangnamdo_Jinju"
         },
@@ -239,6 +260,7 @@
             "apt_type":"아파트",
             "apt_year":4,
             "value_score":64.746,
+            "region":"경상남도 진주시",
             "region_code":"Gyeongsangnamdo",
             "sub_region_code":"4817000000_Gyeongsangnamdo_Jinju"
         },
@@ -250,6 +272,7 @@
             "apt_type":"분양권",
             "apt_year":-1,
             "value_score":63.9055,
+            "region":"경상남도 진주시",
             "region_code":"Gyeongsangnamdo",
             "sub_region_code":"4817000000_Gyeongsangnamdo_Jinju"
         },
@@ -261,6 +284,7 @@
             "apt_type":"아파트",
             "apt_year":5,
             "value_score":62.6945,
+            "region":"경상남도 진주시",
             "region_code":"Gyeongsangnamdo",
             "sub_region_code":"4817000000_Gyeongsangnamdo_Jinju"
         },
@@ -272,6 +296,7 @@
             "apt_type":"아파트",
             "apt_year":13,
             "value_score":70.2943157895,
+            "region":"경상남도 진주시",
             "region_code":"Gyeongsangnamdo",
             "sub_region_code":"4817000000_Gyeongsangnamdo_Jinju"
         },
@@ -283,6 +308,7 @@
             "apt_type":"분양권",
             "apt_year":-2,
             "value_score":70.0305263158,
+            "region":"경상남도 진주시",
             "region_code":"Gyeongsangnamdo",
             "sub_region_code":"4817000000_Gyeongsangnamdo_Jinju"
         },
@@ -294,6 +320,7 @@
             "apt_type":"아파트",
             "apt_year":4,
             "value_score":69.3463157895,
+            "region":"경상남도 진주시",
             "region_code":"Gyeongsangnamdo",
             "sub_region_code":"4817000000_Gyeongsangnamdo_Jinju"
         },
@@ -305,6 +332,7 @@
             "apt_type":"아파트",
             "apt_year":5,
             "value_score":68.7943157895,
+            "region":"경상남도 진주시",
             "region_code":"Gyeongsangnamdo",
             "sub_region_code":"4817000000_Gyeongsangnamdo_Jinju"
         },
@@ -316,6 +344,7 @@
             "apt_type":"아파트",
             "apt_year":10,
             "value_score":67.8591578947,
+            "region":"경상남도 진주시",
             "region_code":"Gyeongsangnamdo",
             "sub_region_code":"4817000000_Gyeongsangnamdo_Jinju"
         },
@@ -327,6 +356,7 @@
             "apt_type":"아파트",
             "apt_year":31,
             "value_score":65.3328421053,
+            "region":"경상남도 진주시",
             "region_code":"Gyeongsangnamdo",
             "sub_region_code":"4817000000_Gyeongsangnamdo_Jinju"
         },
@@ -338,6 +368,7 @@
             "apt_type":"아파트",
             "apt_year":14,
             "value_score":63.9785263158,
+            "region":"경상남도 진주시",
             "region_code":"Gyeongsangnamdo",
             "sub_region_code":"4817000000_Gyeongsangnamdo_Jinju"
         },
@@ -349,6 +380,7 @@
             "apt_type":"아파트",
             "apt_year":6,
             "value_score":63.5061052632,
+            "region":"경상남도 진주시",
             "region_code":"Gyeongsangnamdo",
             "sub_region_code":"4817000000_Gyeongsangnamdo_Jinju"
         },
@@ -360,6 +392,7 @@
             "apt_type":"아파트",
             "apt_year":15,
             "value_score":63.4077894737,
+            "region":"경상남도 진주시",
             "region_code":"Gyeongsangnamdo",
             "sub_region_code":"4817000000_Gyeongsangnamdo_Jinju"
         },
@@ -371,6 +404,7 @@
             "apt_type":"아파트",
             "apt_year":34,
             "value_score":62.9223157895,
+            "region":"경상남도 진주시",
             "region_code":"Gyeongsangnamdo",
             "sub_region_code":"4817000000_Gyeongsangnamdo_Jinju"
         },
@@ -382,6 +416,7 @@
             "apt_type":"분양권",
             "apt_year":-2,
             "value_score":67.715,
+            "region":"경상남도 진주시",
             "region_code":"Gyeongsangnamdo",
             "sub_region_code":"4817000000_Gyeongsangnamdo_Jinju"
         },
@@ -393,6 +428,7 @@
             "apt_type":"아파트",
             "apt_year":4,
             "value_score":67.215,
+            "region":"경상남도 진주시",
             "region_code":"Gyeongsangnamdo",
             "sub_region_code":"4817000000_Gyeongsangnamdo_Jinju"
         },
@@ -404,6 +440,7 @@
             "apt_type":"아파트",
             "apt_year":13,
             "value_score":66.966,
+            "region":"경상남도 진주시",
             "region_code":"Gyeongsangnamdo",
             "sub_region_code":"4817000000_Gyeongsangnamdo_Jinju"
         },
@@ -415,6 +452,7 @@
             "apt_type":"아파트",
             "apt_year":5,
             "value_score":64.591,
+            "region":"경상남도 진주시",
             "region_code":"Gyeongsangnamdo",
             "sub_region_code":"4817000000_Gyeongsangnamdo_Jinju"
         },
@@ -426,6 +464,7 @@
             "apt_type":"아파트",
             "apt_year":14,
             "value_score":63.966,
+            "region":"경상남도 진주시",
             "region_code":"Gyeongsangnamdo",
             "sub_region_code":"4817000000_Gyeongsangnamdo_Jinju"
         },
@@ -437,6 +476,7 @@
             "apt_type":"아파트",
             "apt_year":10,
             "value_score":62.877,
+            "region":"경상남도 진주시",
             "region_code":"Gyeongsangnamdo",
             "sub_region_code":"4817000000_Gyeongsangnamdo_Jinju"
         },
@@ -448,6 +488,7 @@
             "apt_type":"아파트",
             "apt_year":2,
             "value_score":59.823,
+            "region":"경상남도 진주시",
             "region_code":"Gyeongsangnamdo",
             "sub_region_code":"4817000000_Gyeongsangnamdo_Jinju"
         },
@@ -459,6 +500,7 @@
             "apt_type":"아파트",
             "apt_year":3,
             "value_score":58.639,
+            "region":"경상남도 진주시",
             "region_code":"Gyeongsangnamdo",
             "sub_region_code":"4817000000_Gyeongsangnamdo_Jinju"
         },
@@ -470,6 +512,7 @@
             "apt_type":"아파트",
             "apt_year":9,
             "value_score":58.59,
+            "region":"경상남도 진주시",
             "region_code":"Gyeongsangnamdo",
             "sub_region_code":"4817000000_Gyeongsangnamdo_Jinju"
         },
@@ -481,6 +524,7 @@
             "apt_type":"아파트",
             "apt_year":9,
             "value_score":58.09,
+            "region":"경상남도 진주시",
             "region_code":"Gyeongsangnamdo",
             "sub_region_code":"4817000000_Gyeongsangnamdo_Jinju"
         }

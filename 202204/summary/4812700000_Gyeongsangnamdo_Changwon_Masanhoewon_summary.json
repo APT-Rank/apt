@@ -30,6 +30,10 @@
                 "type":"number"
             },
             {
+                "name":"region",
+                "type":"string"
+            },
+            {
                 "name":"region_code",
                 "type":"string"
             },
@@ -52,6 +56,7 @@
             "apt_type":"아파트",
             "apt_year":8.0,
             "value_score":75.96,
+            "region":"경상남도 창원시 마산회원구",
             "region_code":"Gyeongsangnamdo",
             "sub_region_code":"4812700000_Gyeongsangnamdo_Changwon_Masanhoewon"
         },
@@ -63,6 +68,7 @@
             "apt_type":"아파트",
             "apt_year":14.0,
             "value_score":72.11,
+            "region":"경상남도 창원시 마산회원구",
             "region_code":"Gyeongsangnamdo",
             "sub_region_code":"4812700000_Gyeongsangnamdo_Changwon_Masanhoewon"
         },
@@ -74,6 +80,7 @@
             "apt_type":"분양권",
             "apt_year":0.0,
             "value_score":71.535,
+            "region":"경상남도 창원시 마산회원구",
             "region_code":"Gyeongsangnamdo",
             "sub_region_code":"4812700000_Gyeongsangnamdo_Changwon_Masanhoewon"
         },
@@ -85,6 +92,7 @@
             "apt_type":"아파트",
             "apt_year":3.0,
             "value_score":66.8185,
+            "region":"경상남도 창원시 마산회원구",
             "region_code":"Gyeongsangnamdo",
             "sub_region_code":"4812700000_Gyeongsangnamdo_Changwon_Masanhoewon"
         },
@@ -96,6 +104,7 @@
             "apt_type":"아파트",
             "apt_year":4.0,
             "value_score":65.586,
+            "region":"경상남도 창원시 마산회원구",
             "region_code":"Gyeongsangnamdo",
             "sub_region_code":"4812700000_Gyeongsangnamdo_Changwon_Masanhoewon"
         },
@@ -107,6 +116,7 @@
             "apt_type":"아파트",
             "apt_year":27.0,
             "value_score":65.1355,
+            "region":"경상남도 창원시 마산회원구",
             "region_code":"Gyeongsangnamdo",
             "sub_region_code":"4812700000_Gyeongsangnamdo_Changwon_Masanhoewon"
         },
@@ -118,6 +128,7 @@
             "apt_type":"분양권",
             "apt_year":-1.0,
             "value_score":65.0055,
+            "region":"경상남도 창원시 마산회원구",
             "region_code":"Gyeongsangnamdo",
             "sub_region_code":"4812700000_Gyeongsangnamdo_Changwon_Masanhoewon"
         },
@@ -129,6 +140,7 @@
             "apt_type":"아파트",
             "apt_year":7.0,
             "value_score":64.86,
+            "region":"경상남도 창원시 마산회원구",
             "region_code":"Gyeongsangnamdo",
             "sub_region_code":"4812700000_Gyeongsangnamdo_Changwon_Masanhoewon"
         },
@@ -140,6 +152,7 @@
             "apt_type":"아파트",
             "apt_year":19.0,
             "value_score":63.81,
+            "region":"경상남도 창원시 마산회원구",
             "region_code":"Gyeongsangnamdo",
             "sub_region_code":"4812700000_Gyeongsangnamdo_Changwon_Masanhoewon"
         },
@@ -151,6 +164,7 @@
             "apt_type":"아파트",
             "apt_year":20.0,
             "value_score":62.17,
+            "region":"경상남도 창원시 마산회원구",
             "region_code":"Gyeongsangnamdo",
             "sub_region_code":"4812700000_Gyeongsangnamdo_Changwon_Masanhoewon"
         },
@@ -162,6 +176,7 @@
             "apt_type":"아파트",
             "apt_year":8.0,
             "value_score":78.36,
+            "region":"경상남도 창원시 마산회원구",
             "region_code":"Gyeongsangnamdo",
             "sub_region_code":"4812700000_Gyeongsangnamdo_Changwon_Masanhoewon"
         },
@@ -173,6 +188,7 @@
             "apt_type":"분양권",
             "apt_year":0.0,
             "value_score":73.71,
+            "region":"경상남도 창원시 마산회원구",
             "region_code":"Gyeongsangnamdo",
             "sub_region_code":"4812700000_Gyeongsangnamdo_Changwon_Masanhoewon"
         },
@@ -184,6 +200,7 @@
             "apt_type":"아파트",
             "apt_year":14.0,
             "value_score":72.86,
+            "region":"경상남도 창원시 마산회원구",
             "region_code":"Gyeongsangnamdo",
             "sub_region_code":"4812700000_Gyeongsangnamdo_Changwon_Masanhoewon"
         },
@@ -195,6 +212,7 @@
             "apt_type":"아파트",
             "apt_year":4.0,
             "value_score":68.361,
+            "region":"경상남도 창원시 마산회원구",
             "region_code":"Gyeongsangnamdo",
             "sub_region_code":"4812700000_Gyeongsangnamdo_Changwon_Masanhoewon"
         },
@@ -206,6 +224,7 @@
             "apt_type":"아파트",
             "apt_year":3.0,
             "value_score":67.2685,
+            "region":"경상남도 창원시 마산회원구",
             "region_code":"Gyeongsangnamdo",
             "sub_region_code":"4812700000_Gyeongsangnamdo_Changwon_Masanhoewon"
         },
@@ -217,6 +236,7 @@
             "apt_type":"아파트",
             "apt_year":5.0,
             "value_score":64.7315,
+            "region":"경상남도 창원시 마산회원구",
             "region_code":"Gyeongsangnamdo",
             "sub_region_code":"4812700000_Gyeongsangnamdo_Changwon_Masanhoewon"
         },
@@ -228,6 +248,7 @@
             "apt_type":"분양권",
             "apt_year":-1.0,
             "value_score":63.8055,
+            "region":"경상남도 창원시 마산회원구",
             "region_code":"Gyeongsangnamdo",
             "sub_region_code":"4812700000_Gyeongsangnamdo_Changwon_Masanhoewon"
         },
@@ -239,6 +260,7 @@
             "apt_type":"아파트",
             "apt_year":7.0,
             "value_score":61.86,
+            "region":"경상남도 창원시 마산회원구",
             "region_code":"Gyeongsangnamdo",
             "sub_region_code":"4812700000_Gyeongsangnamdo_Changwon_Masanhoewon"
         },
@@ -250,6 +272,7 @@
             "apt_type":"아파트",
             "apt_year":27.0,
             "value_score":61.6105,
+            "region":"경상남도 창원시 마산회원구",
             "region_code":"Gyeongsangnamdo",
             "sub_region_code":"4812700000_Gyeongsangnamdo_Changwon_Masanhoewon"
         },
@@ -261,6 +284,7 @@
             "apt_type":"아파트",
             "apt_year":19.0,
             "value_score":60.36,
+            "region":"경상남도 창원시 마산회원구",
             "region_code":"Gyeongsangnamdo",
             "sub_region_code":"4812700000_Gyeongsangnamdo_Changwon_Masanhoewon"
         },
@@ -272,6 +296,7 @@
             "apt_type":"아파트",
             "apt_year":8.0,
             "value_score":71.9284210526,
+            "region":"경상남도 창원시 마산회원구",
             "region_code":"Gyeongsangnamdo",
             "sub_region_code":"4812700000_Gyeongsangnamdo_Changwon_Masanhoewon"
         },
@@ -283,6 +308,7 @@
             "apt_type":"아파트",
             "apt_year":14.0,
             "value_score":70.1915789474,
+            "region":"경상남도 창원시 마산회원구",
             "region_code":"Gyeongsangnamdo",
             "sub_region_code":"4812700000_Gyeongsangnamdo_Changwon_Masanhoewon"
         },
@@ -294,6 +320,7 @@
             "apt_type":"아파트",
             "apt_year":27.0,
             "value_score":68.4290526316,
+            "region":"경상남도 창원시 마산회원구",
             "region_code":"Gyeongsangnamdo",
             "sub_region_code":"4812700000_Gyeongsangnamdo_Changwon_Masanhoewon"
         },
@@ -305,6 +332,7 @@
             "apt_type":"분양권",
             "apt_year":0.0,
             "value_score":68.0810526316,
+            "region":"경상남도 창원시 마산회원구",
             "region_code":"Gyeongsangnamdo",
             "sub_region_code":"4812700000_Gyeongsangnamdo_Changwon_Masanhoewon"
         },
@@ -316,6 +344,7 @@
             "apt_type":"아파트",
             "apt_year":7.0,
             "value_score":67.6126315789,
+            "region":"경상남도 창원시 마산회원구",
             "region_code":"Gyeongsangnamdo",
             "sub_region_code":"4812700000_Gyeongsangnamdo_Changwon_Masanhoewon"
         },
@@ -327,6 +356,7 @@
             "apt_type":"아파트",
             "apt_year":19.0,
             "value_score":67.1389473684,
+            "region":"경상남도 창원시 마산회원구",
             "region_code":"Gyeongsangnamdo",
             "sub_region_code":"4812700000_Gyeongsangnamdo_Changwon_Masanhoewon"
         },
@@ -338,6 +368,7 @@
             "apt_type":"아파트",
             "apt_year":20.0,
             "value_score":66.1915789474,
+            "region":"경상남도 창원시 마산회원구",
             "region_code":"Gyeongsangnamdo",
             "sub_region_code":"4812700000_Gyeongsangnamdo_Changwon_Masanhoewon"
         },
@@ -349,6 +380,7 @@
             "apt_type":"아파트",
             "apt_year":6.0,
             "value_score":65.6389473684,
+            "region":"경상남도 창원시 마산회원구",
             "region_code":"Gyeongsangnamdo",
             "sub_region_code":"4812700000_Gyeongsangnamdo_Changwon_Masanhoewon"
         },
@@ -360,6 +392,7 @@
             "apt_type":"아파트",
             "apt_year":29.0,
             "value_score":65.4290526316,
+            "region":"경상남도 창원시 마산회원구",
             "region_code":"Gyeongsangnamdo",
             "sub_region_code":"4812700000_Gyeongsangnamdo_Changwon_Masanhoewon"
         },
@@ -371,6 +404,7 @@
             "apt_type":"분양권",
             "apt_year":-1.0,
             "value_score":65.1753684211,
+            "region":"경상남도 창원시 마산회원구",
             "region_code":"Gyeongsangnamdo",
             "sub_region_code":"4812700000_Gyeongsangnamdo_Changwon_Masanhoewon"
         },
@@ -382,6 +416,7 @@
             "apt_type":"아파트",
             "apt_year":8.0,
             "value_score":70.72,
+            "region":"경상남도 창원시 마산회원구",
             "region_code":"Gyeongsangnamdo",
             "sub_region_code":"4812700000_Gyeongsangnamdo_Changwon_Masanhoewon"
         },
@@ -393,6 +428,7 @@
             "apt_type":"아파트",
             "apt_year":14.0,
             "value_score":67.97,
+            "region":"경상남도 창원시 마산회원구",
             "region_code":"Gyeongsangnamdo",
             "sub_region_code":"4812700000_Gyeongsangnamdo_Changwon_Masanhoewon"
         },
@@ -404,6 +440,7 @@
             "apt_type":"분양권",
             "apt_year":0.0,
             "value_score":67.545,
+            "region":"경상남도 창원시 마산회원구",
             "region_code":"Gyeongsangnamdo",
             "sub_region_code":"4812700000_Gyeongsangnamdo_Changwon_Masanhoewon"
         },
@@ -415,6 +452,7 @@
             "apt_type":"아파트",
             "apt_year":4.0,
             "value_score":63.847,
+            "region":"경상남도 창원시 마산회원구",
             "region_code":"Gyeongsangnamdo",
             "sub_region_code":"4812700000_Gyeongsangnamdo_Changwon_Masanhoewon"
         },
@@ -426,6 +464,7 @@
             "apt_type":"아파트",
             "apt_year":27.0,
             "value_score":62.846,
+            "region":"경상남도 창원시 마산회원구",
             "region_code":"Gyeongsangnamdo",
             "sub_region_code":"4812700000_Gyeongsangnamdo_Changwon_Masanhoewon"
         },
@@ -437,6 +476,7 @@
             "apt_type":"아파트",
             "apt_year":7.0,
             "value_score":62.72,
+            "region":"경상남도 창원시 마산회원구",
             "region_code":"Gyeongsangnamdo",
             "sub_region_code":"4812700000_Gyeongsangnamdo_Changwon_Masanhoewon"
         },
@@ -448,6 +488,7 @@
             "apt_type":"아파트",
             "apt_year":19.0,
             "value_score":61.97,
+            "region":"경상남도 창원시 마산회원구",
             "region_code":"Gyeongsangnamdo",
             "sub_region_code":"4812700000_Gyeongsangnamdo_Changwon_Masanhoewon"
         },
@@ -459,6 +500,7 @@
             "apt_type":"아파트",
             "apt_year":3.0,
             "value_score":61.287,
+            "region":"경상남도 창원시 마산회원구",
             "region_code":"Gyeongsangnamdo",
             "sub_region_code":"4812700000_Gyeongsangnamdo_Changwon_Masanhoewon"
         },
@@ -470,6 +512,7 @@
             "apt_type":"아파트",
             "apt_year":20.0,
             "value_score":60.82,
+            "region":"경상남도 창원시 마산회원구",
             "region_code":"Gyeongsangnamdo",
             "sub_region_code":"4812700000_Gyeongsangnamdo_Changwon_Masanhoewon"
         },
@@ -481,6 +524,7 @@
             "apt_type":"분양권",
             "apt_year":-1.0,
             "value_score":60.611,
+            "region":"경상남도 창원시 마산회원구",
             "region_code":"Gyeongsangnamdo",
             "sub_region_code":"4812700000_Gyeongsangnamdo_Changwon_Masanhoewon"
         }

@@ -30,6 +30,10 @@
                 "type":"number"
             },
             {
+                "name":"region",
+                "type":"string"
+            },
+            {
                 "name":"region_code",
                 "type":"string"
             },
@@ -52,6 +56,7 @@
             "apt_type":"아파트",
             "apt_year":14.0,
             "value_score":29.243,
+            "region":"경상남도 하동군",
             "region_code":"Gyeongsangnamdo",
             "sub_region_code":"4885000000_Gyeongsangnamdo_Hadong"
         },
@@ -63,6 +68,7 @@
             "apt_type":"아파트",
             "apt_year":31.0,
             "value_score":27.599,
+            "region":"경상남도 하동군",
             "region_code":"Gyeongsangnamdo",
             "sub_region_code":"4885000000_Gyeongsangnamdo_Hadong"
         },
@@ -74,6 +80,7 @@
             "apt_type":"아파트",
             "apt_year":21.0,
             "value_score":26.751,
+            "region":"경상남도 하동군",
             "region_code":"Gyeongsangnamdo",
             "sub_region_code":"4885000000_Gyeongsangnamdo_Hadong"
         },
@@ -85,6 +92,7 @@
             "apt_type":"아파트",
             "apt_year":32.0,
             "value_score":23.293,
+            "region":"경상남도 하동군",
             "region_code":"Gyeongsangnamdo",
             "sub_region_code":"4885000000_Gyeongsangnamdo_Hadong"
         },
@@ -96,6 +104,7 @@
             "apt_type":"아파트",
             "apt_year":20.0,
             "value_score":22.943,
+            "region":"경상남도 하동군",
             "region_code":"Gyeongsangnamdo",
             "sub_region_code":"4885000000_Gyeongsangnamdo_Hadong"
         },
@@ -107,6 +116,7 @@
             "apt_type":"아파트",
             "apt_year":12.0,
             "value_score":22.33,
+            "region":"경상남도 하동군",
             "region_code":"Gyeongsangnamdo",
             "sub_region_code":"4885000000_Gyeongsangnamdo_Hadong"
         },
@@ -118,6 +128,7 @@
             "apt_type":"아파트",
             "apt_year":31.0,
             "value_score":18.493,
+            "region":"경상남도 하동군",
             "region_code":"Gyeongsangnamdo",
             "sub_region_code":"4885000000_Gyeongsangnamdo_Hadong"
         },
@@ -129,6 +140,7 @@
             "apt_type":"아파트",
             "apt_year":14.0,
             "value_score":32.693,
+            "region":"경상남도 하동군",
             "region_code":"Gyeongsangnamdo",
             "sub_region_code":"4885000000_Gyeongsangnamdo_Hadong"
         },
@@ -140,6 +152,7 @@
             "apt_type":"아파트",
             "apt_year":21.0,
             "value_score":32.676,
+            "region":"경상남도 하동군",
             "region_code":"Gyeongsangnamdo",
             "sub_region_code":"4885000000_Gyeongsangnamdo_Hadong"
         },
@@ -151,6 +164,7 @@
             "apt_type":"아파트",
             "apt_year":31.0,
             "value_score":28.799,
+            "region":"경상남도 하동군",
             "region_code":"Gyeongsangnamdo",
             "sub_region_code":"4885000000_Gyeongsangnamdo_Hadong"
         },
@@ -162,6 +176,7 @@
             "apt_type":"아파트",
             "apt_year":12.0,
             "value_score":26.83,
+            "region":"경상남도 하동군",
             "region_code":"Gyeongsangnamdo",
             "sub_region_code":"4885000000_Gyeongsangnamdo_Hadong"
         },
@@ -173,6 +188,7 @@
             "apt_type":"아파트",
             "apt_year":32.0,
             "value_score":24.193,
+            "region":"경상남도 하동군",
             "region_code":"Gyeongsangnamdo",
             "sub_region_code":"4885000000_Gyeongsangnamdo_Hadong"
         },
@@ -184,6 +200,7 @@
             "apt_type":"아파트",
             "apt_year":20.0,
             "value_score":23.693,
+            "region":"경상남도 하동군",
             "region_code":"Gyeongsangnamdo",
             "sub_region_code":"4885000000_Gyeongsangnamdo_Hadong"
         },
@@ -195,6 +212,7 @@
             "apt_type":"아파트",
             "apt_year":31.0,
             "value_score":21.193,
+            "region":"경상남도 하동군",
             "region_code":"Gyeongsangnamdo",
             "sub_region_code":"4885000000_Gyeongsangnamdo_Hadong"
         },
@@ -206,6 +224,7 @@
             "apt_type":"아파트",
             "apt_year":31.0,
             "value_score":28.6408421053,
+            "region":"경상남도 하동군",
             "region_code":"Gyeongsangnamdo",
             "sub_region_code":"4885000000_Gyeongsangnamdo_Hadong"
         },
@@ -217,6 +236,7 @@
             "apt_type":"아파트",
             "apt_year":14.0,
             "value_score":27.2437894737,
+            "region":"경상남도 하동군",
             "region_code":"Gyeongsangnamdo",
             "sub_region_code":"4885000000_Gyeongsangnamdo_Hadong"
         },
@@ -228,6 +248,7 @@
             "apt_type":"아파트",
             "apt_year":32.0,
             "value_score":24.5595789474,
+            "region":"경상남도 하동군",
             "region_code":"Gyeongsangnamdo",
             "sub_region_code":"4885000000_Gyeongsangnamdo_Hadong"
         },
@@ -239,6 +260,7 @@
             "apt_type":"아파트",
             "apt_year":20.0,
             "value_score":24.4016842105,
+            "region":"경상남도 하동군",
             "region_code":"Gyeongsangnamdo",
             "sub_region_code":"4885000000_Gyeongsangnamdo_Hadong"
         },
@@ -250,6 +272,7 @@
             "apt_type":"아파트",
             "apt_year":21.0,
             "value_score":22.5644210526,
+            "region":"경상남도 하동군",
             "region_code":"Gyeongsangnamdo",
             "sub_region_code":"4885000000_Gyeongsangnamdo_Hadong"
         },
@@ -261,6 +284,7 @@
             "apt_type":"아파트",
             "apt_year":12.0,
             "value_score":19.68,
+            "region":"경상남도 하동군",
             "region_code":"Gyeongsangnamdo",
             "sub_region_code":"4885000000_Gyeongsangnamdo_Hadong"
         },
@@ -272,6 +296,7 @@
             "apt_type":"아파트",
             "apt_year":31.0,
             "value_score":18.2437894737,
+            "region":"경상남도 하동군",
             "region_code":"Gyeongsangnamdo",
             "sub_region_code":"4885000000_Gyeongsangnamdo_Hadong"
         },
@@ -283,6 +308,7 @@
             "apt_type":"아파트",
             "apt_year":31.0,
             "value_score":36.598,
+            "region":"경상남도 하동군",
             "region_code":"Gyeongsangnamdo",
             "sub_region_code":"4885000000_Gyeongsangnamdo_Hadong"
         },
@@ -294,6 +320,7 @@
             "apt_type":"아파트",
             "apt_year":14.0,
             "value_score":36.136,
+            "region":"경상남도 하동군",
             "region_code":"Gyeongsangnamdo",
             "sub_region_code":"4885000000_Gyeongsangnamdo_Hadong"
         },
@@ -305,6 +332,7 @@
             "apt_type":"아파트",
             "apt_year":21.0,
             "value_score":35.727,
+            "region":"경상남도 하동군",
             "region_code":"Gyeongsangnamdo",
             "sub_region_code":"4885000000_Gyeongsangnamdo_Hadong"
         },
@@ -316,6 +344,7 @@
             "apt_type":"아파트",
             "apt_year":32.0,
             "value_score":31.886,
+            "region":"경상남도 하동군",
             "region_code":"Gyeongsangnamdo",
             "sub_region_code":"4885000000_Gyeongsangnamdo_Hadong"
         },
@@ -327,6 +356,7 @@
             "apt_type":"아파트",
             "apt_year":20.0,
             "value_score":31.636,
+            "region":"경상남도 하동군",
             "region_code":"Gyeongsangnamdo",
             "sub_region_code":"4885000000_Gyeongsangnamdo_Hadong"
         },
@@ -338,6 +368,7 @@
             "apt_type":"아파트",
             "apt_year":12.0,
             "value_score":31.16,
+            "region":"경상남도 하동군",
             "region_code":"Gyeongsangnamdo",
             "sub_region_code":"4885000000_Gyeongsangnamdo_Hadong"
         },
@@ -349,6 +380,7 @@
             "apt_type":"아파트",
             "apt_year":31.0,
             "value_score":28.886,
+            "region":"경상남도 하동군",
             "region_code":"Gyeongsangnamdo",
             "sub_region_code":"4885000000_Gyeongsangnamdo_Hadong"
         }
