@@ -463,6 +463,7 @@
       if(list[i]["apt_type"] == "분양권"){
         shareText += "(분양권)";
       }
+      shareText += "\n"
       //shareText += ", " + ( Math.round( list[i]["value_score"] * 100 ) / 100 ).toFixed(2) + "점\n"      
     }
 
@@ -501,6 +502,7 @@ function allShare(){
       if(balanced[i]["apt_type"] == "분양권"){
         shareText += "(분양권)";
       }
+      shareText += "\n"
       //shareText += ", " + ( Math.round( balanced[i]["value_score"] * 100 ) / 100 ).toFixed(2) + "점\n"
     }
 
@@ -517,6 +519,7 @@ function allShare(){
       if(living[i]["apt_type"] == "분양권"){
         shareText += "(분양권)";
       }
+      shareText += "\n"
       //shareText += ", " + ( Math.round( living[i]["value_score"] * 100 ) / 100 ).toFixed(2) + "점\n"
     }
 
@@ -534,7 +537,8 @@ function allShare(){
         if(transport[i]["apt_type"] == "분양권"){
           shareText += "(분양권)";
         }
-        shareText += ", " + ( Math.round( transport[i]["value_score"] * 100 ) / 100 ).toFixed(2) + "점\n"
+        shareText += "\n"
+        //shareText += ", " + ( Math.round( transport[i]["value_score"] * 100 ) / 100 ).toFixed(2) + "점\n"
       }
     }
 
@@ -551,6 +555,7 @@ function allShare(){
       if(infra[i]["apt_type"] == "분양권"){
         shareText += "(분양권)";
       }
+      shareText += "\n"
       //shareText += ", " + ( Math.round( infra[i]["value_score"] * 100 ) / 100 ).toFixed(2) + "점\n"
     }
 
@@ -567,6 +572,7 @@ function allShare(){
       if(education[i]["apt_type"] == "분양권"){
         shareText += "(분양권)";
       }
+      shareText += "\n"
       //shareText += ", " + ( Math.round( education[i]["value_score"] * 100 ) / 100 ).toFixed(2) + "점\n"
     }
 
