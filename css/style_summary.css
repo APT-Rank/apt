@@ -1,0 +1,17 @@
+.summaryContent{
+  display:grid;
+  grid-template-columns: 100px 1fr;
+  height: 1.5em;
+}
+
+.summaryTitle{
+  display:grid;
+  grid-template-columns: 1fr 100px;
+  height: 3em;  
+  text-align: center;
+  place-items: center;
+  font-size: 0.9em;
+  font-weight: 600;
+  background-color: rgb(231, 231, 231);
+  border-bottom: 1px solid gray;
+}

@@ -1,0 +1,622 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+  <!-- Google Tag Manager -->
+  <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+  new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+  j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+  'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+  })(window,document,'script','dataLayer','GTM-KNL2VQN');</script>
+  <!-- End Google Tag Manager -->
+
+  <!-- Global site tag (gtag.js) - Google Analytics -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=UA-218993952-1">
+  </script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+
+    gtag('config', 'UA-218993952-1');
+
+    if ('serviceWorker' in navigator) {
+    navigator.serviceWorker.register('serviceWorker.js')
+      .then((reg) => {
+        console.log('Service Worker Registered!', reg);
+      });
+    }
+  </script>
+
+  <title>아파트랭크 - 요약본</title>
+  <meta property="og:type" content="website">
+  <meta property="og:title" content="AI가 선정한 대한민국 아파트 입지 랭크">
+  <meta property="og:description" content="AI가 선정하는 대한민국 아파트 입지 랭크">
+  <meta property="og:image" content="https://www.aptrank.kr/thumbnail.jpg">
+  <meta property="og:url" content="https://www.aptrank.kr/">
+  <meta name="keyword" content="부동산, 아파트, 입지, 순위, 아파트입지, 우리동네, 호가, 대장아파트, 최고가, 신고가, 호재, AI, 등수">
+  <meta name="description" content="AI가 선정하는 대한민국 아파트 입지 랭크">
+  <meta name="author" content="아파트랭크">
+  <meta name="robots" content="index,follow">
+  <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no, minimal-ui">
+
+  <!-- 주소창 등의 웹 브라우저 UI를 표시하지 않기 -->
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <!-- 상태 바의 스타일을 지정 -->
+  <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+  <!-- 홈 화면에서 표시되는 앱 이름을 지정 -->
+  <meta name="apple-mobile-web-app-title" content="아파트랭크">
+  <!-- 홈 화면에서 표시되는 앱 아이콘을 지정 -->
+  <link rel="apple-touch-icon" href="https://www.aptrank.kr/apt-rank-152x152.png">
+  <!-- 웹 앱 매니페스트를 읽어 들이기 -->
+  <link rel="manifest" href="manifest.json">  
+
+  <link rel="canonical" href="https://www.aptrank.kr/">
+  <link href="https://fonts.googleapis.com/css?family=Roboto:100,300,400,500,700,900" rel="stylesheet">
+  <link href="https://cdn.jsdelivr.net/npm/@mdi/font@6.x/css/materialdesignicons.min.css" rel="stylesheet">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css" integrity="sha512-9usAa10IRO0HhonpyAIVpjrylPvoDwiPUiKdWk5t3PyolY1cOd4DSE0Ga+ri4AuTroPR5aQvXU9xC6qOPnzFeg==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-1BmE4kWBq78iYhFldvKuhfTAU6auU8tT94WrHftjDbrCEXSU1oBoqyl2QvZ6jIW3" crossorigin="anonymous">
+  <link rel="shortcut icon" href="https://www.aptrank.kr/apr-rank.png"/>
+
+
+  <script src="https://code.jquery.com/jquery-3.6.0.min.js" integrity="sha256-/xUj+3OJU5yExlq6GSYGSHk7tPXikynS7ogEvDej/m4=" crossorigin="anonymous"></script>
+  <script src="https://code.jquery.com/ui/1.12.1/jquery-ui.min.js" integrity="sha256-VazP97ZCwtekAsvgPBSUwPFKdrwD3unUfSGVYrahUqU=" crossorigin="anonymous"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/html2canvas/0.5.0-beta4/html2canvas.min.js"  crossorigin="anonymous"></script>
+  <script src="https://developers.kakao.com/sdk/js/kakao.js"></script>
+
+  <script src="./js/menu_select_box.js" type="text/javascript"></script>
+  <script src="./js/draw_chart.js" type="text/javascript"></script>
+  <script src="./js/sort.js" type="text/javascript"></script>
+  <script src="./js/search.js" type="text/javascript"></script>
+  <script src="./js/rearrange.js" type="text/javascript"></script>
+  <script src="./js/share.js" type="text/javascript"></script>
+
+  <link href="./css/style.css" rel="stylesheet"/>
+  <link href="./css/style_summary.css" rel="stylesheet"/>
+  <link href="./css/slider.css" rel="stylesheet"/>
+
+  <script src="./js/doubleSlider.js" type="text/javascript"></script>
+</head>
+<style>
+</style>
+
+<body>
+  <!-- Google Tag Manager (noscript) -->
+  <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-KNL2VQN"
+  height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+  <!-- End Google Tag Manager (noscript) -->
+
+  <div id="container">
+    <div id="centerBox">
+      <div id="titleBar">
+        <div></div>
+        <div></div>
+        <div id="title" onClick='scrollUp()'>아파트랭크 - 요약</div>
+        <div></div>
+        <div><button type='button' id='balance' class='toShare' onClick='allShare()' style='background:rgba(0, 0, 0, 0)'><i class='fa-solid fa-arrow-up-right-from-square'></i></button></div>
+
+      </div>
+
+      <div id="selections">
+        <div id="sido_selection"><select id="sido" onChange="sidoChange()"></select></div>
+        <div id="gungu_selection"><select id="gungu" onChange="updateRegion()"></select></div>
+        <div id="month_selection">
+          <select id="month" onChange="updateMonth()">            
+            <option value="202204" selected>2022년 04월</option>
+          </select>
+        </div>
+      </div>
+
+      <!--리스트 데이터 붙여넣는 영역-->
+      <div id="dataList"></div>
+    </div>
+  </div>
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-ka7Sk0Gln4gmtz2MlQnikT1wXgYsOg+OMhuP+IlRH9sENBO0LRn5q+8nbTov4+1p" crossorigin="anonymous"></script>
+  <script src="https://cdn.jsdelivr.net/npm/chart.js@3.0.0/dist/chart.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/chartjs-plugin-datalabels@2"></script>
+
+</body>
+<script type="module">
+  // Import the functions you need from the SDKs you need
+  import { initializeApp } from "https://www.gstatic.com/firebasejs/9.6.8/firebase-app.js";
+  import { getAnalytics } from "https://www.gstatic.com/firebasejs/9.6.8/firebase-analytics.js";
+  // TODO: Add SDKs for Firebase products that you want to use
+  // https://firebase.google.com/docs/web/setup#available-libraries
+
+  // Your web app's Firebase configuration
+  // For Firebase JS SDK v7.20.0 and later, measurementId is optional
+  const firebaseConfig = {
+    apiKey: "AIzaSyA7s95oaj498XdArjo9cT_8watLVw4JK3M",
+    authDomain: "aptrank-cc61b.firebaseapp.com",
+    projectId: "aptrank-cc61b",
+    storageBucket: "aptrank-cc61b.appspot.com",
+    messagingSenderId: "987401326011",
+    appId: "1:987401326011:web:8732d04a9fc69280d7489e",
+    measurementId: "G-BH5DRBH380"
+  };
+
+  // Initialize Firebase
+  const app = initializeApp(firebaseConfig);
+  const analytics = getAnalytics(app);
+</script>
+
+
+<script>
+  var selectedMonth = "202204"
+  var selectedRegion = "Korea"
+  var selectedSubRegion = "1000000000_Korea"
+
+  var regionName = ""
+  var valueSum = 0;
+  var livingSum = 0;
+  var transportSum = 0;
+  var infraSum = 0;
+  var eduSum = 0;
+
+  var regValueSum = 0;
+  var regSupplySum = 0;
+  var regPopSum = 0;
+  var regJobSum = 0;
+  var linked = ""
+  var regionValue = ""
+
+  var itemNum = 0;
+  var summaryData = "";
+  var sortData = "";
+  var prevValue = 0;
+  var regData = "";
+  var regSortData = "";
+
+  var modalState = 0;
+  var searchState = 0;
+  var popupHistory = [];
+
+  var broswerInfo = navigator.userAgent;
+
+  $(document).ready(function(){
+    //document.cookie = "safeCookie1=foo; SameSite=Lax";
+    //document.cookie = "safeCookie2=foo";
+    //document.cookie = "crossCookie=bar; SameSite=None; Secure";
+
+    Kakao.init(kakaoKey);
+
+    // SDK 초기화 여부를 판단합니다.
+    //console.log(Kakao.isInitialized());
+    
+    var option = ""
+    for(i = 0 ; i < regions.length ; i++){
+        option += "<option value='" + regions[i][1] + "'>" + regions[i][0] + "</option>"
+    }
+    $('#sido').html(option)
+
+    var lastRegion = localStorage.getItem('lastRegion')
+    var lastSubRegion = localStorage.getItem('lastSubRegion')
+    var lastMonth = localStorage.getItem('lastMonth')
+
+    //var lastRegion = sessionStorage.getItem('lastRegion')
+    //var lastSubRegion = sessionStorage.getItem('lastSubRegion')
+    //var lastMonth = sessionStorage.getItem('lastMonth')
+
+    const url = new URL(window.location.href)
+    const urlParams = url.searchParams
+    console.log(urlParams)
+
+    if(urlParams.has('reg')){
+      console.log(urlParams.get('reg'))
+      selectedRegion = urlParams.get('reg')
+    }
+    else if(lastRegion != null){
+      selectedRegion = lastRegion
+    }
+
+    if(urlParams.has('sub')){
+      console.log(urlParams.get('sub'))
+      selectedSubRegion = urlParams.get('sub')
+    }
+    else if(lastSubRegion != null){
+      selectedSubRegion = lastSubRegion
+    }
+
+    if(urlParams.has('mon')){
+      console.log(urlParams.get('mon'))
+      selectedMonth = urlParams.get('mon')
+    }
+    else if(lastMonth != null){
+      selectedMonth = lastMonth
+    }
+
+    $("#month").val(selectedMonth).prop("selected", true);
+    $("#sido").val(selectedRegion).prop("selected", true);
+    regionName = $("#sido option:selected").val();
+
+    $('#dataList').html("");
+
+    optionChange(selectedSubRegion)
+    updateRegion()
+
+    //var regionSubName = $("#gungu option:selected").val()
+
+    month = selectedMonth
+    //updateTable(month, regionSubName)
+
+    initSorting()
+    
+  });
+
+  function sidoChange(){
+    optionChange()
+    updateRegion()
+  }
+
+  function saveLocalStorage(){
+    localStorage.setItem('lastRegion', selectedRegion)
+    localStorage.setItem('lastSubRegion', selectedSubRegion)
+    //localStorage.setItem('lastMonth', selectedMonth)
+
+    //sessionStorage.setItem('lastRegion', selectedRegion)
+    //sessionStorage.setItem('lastSubRegion', selectedSubRegion)
+    //sessionStorage.setItem('lastMonth', selectedMonth)
+  }
+
+  function scrollUp(){
+    $( 'html, body' ).animate( { scrollTop : 0 }, 50 );
+  }
+
+  function optionChange(subRegion){
+    selectedSubRegion = subRegion
+    regionName = $("#sido option:selected").val();
+    selectedRegion = regionName
+    var changeItem
+
+    if(regionName == 'Korea'){
+      changeItem = inKorea
+    }
+    if(regionName == 'Seoul'){
+      changeItem = inSeoul
+    }
+    if(regionName == 'Busan'){
+      changeItem = inBusan
+    }
+    if(regionName == 'Incheon'){
+      changeItem = inIncheon
+    }
+    if(regionName == 'Daegu'){
+      changeItem = inDaegu
+    }
+    if(regionName == 'Gwangju'){
+      changeItem = inGwangju
+    }
+    if(regionName == 'Daejeon'){
+      changeItem = inDaejeon
+    }
+    if(regionName == 'Ulsan'){
+      changeItem = inUlsan
+    }
+    if(regionName == 'Sejong'){
+      changeItem = inSejong
+    }
+    if(regionName == 'Gyeonggi'){
+      changeItem = inGyeonggi
+    }
+    if(regionName == 'Gangwondo'){
+      changeItem = inGangwondo
+    }
+    if(regionName == 'Chungcheongbukdo'){
+      changeItem = inChungcheongbukdo
+    }
+    if(regionName == 'Chungcheongnamdo'){
+      changeItem = inChungcheongnamdo
+    }
+    if(regionName == 'Jeollabukdo'){
+      changeItem = inJeollabukdo
+    }
+    if(regionName == 'Jeollanamdo'){
+      changeItem = inJeollanamdo
+    }
+    if(regionName == 'Gyeongsangbukdo'){
+      changeItem = inGyeongsangbukdo
+    }
+    if(regionName == 'Gyeongsangnamdo'){
+      changeItem = inGyeongsangnamdo
+    }
+    if(regionName == 'Jejudo'){
+      changeItem = inJejudo
+    }
+    $('#gungu').empty();
+
+    for(var i = 0 ; i < changeItem.length; i++){
+      var subOption = $("<option value='" + changeItem[i][1] + "'>" + changeItem[i][0] + "</option>")
+      $('#gungu').append(subOption);
+    }
+
+    if(selectedSubRegion == undefined){
+      $("#gungu").val(changeItem[0][1]).prop("selected", true);
+      selectedSubRegion = $("#gungu option:selected").val()
+    }
+    else{
+      $("#gungu").val(selectedSubRegion).prop("selected", true);
+    }
+    //updateRegion()
+  }
+
+  function updateMonth(){
+    selectedMonth = $("#month option:selected").val()
+    updateRegion()
+    regionName = $("#sido option:selected").text()
+    //saveLocalStorage()
+  }
+  function updateRegion(){
+    minValue = 0;
+    maxValue = 60;
+    //var selection = document.getElementById("gungu")
+    selectedRegion = $("#sido option:selected").val()
+    selectedSubRegion = $("#gungu option:selected").val()
+
+    if (selectedSubRegion != "1000000000_Korea"){
+      updateTable(selectedMonth, selectedSubRegion)
+      regionName = $("#sido option:selected").text()
+    }
+    else{
+      updateRegionTable(selectedMonth)
+    }
+  }
+
+  var balanced = []
+  var living = []
+  var transport = []
+  var infra = []
+  var education = []
+
+  function updateTable(month, region){
+    $('html').scrollTop(0)
+    initSorting()
+    url = "https://www.aptrank.kr/" + month + "/summary/" + region + "_summary.json"
+    $('#dataList').html("");
+
+    $.getJSON(url, function(json) {
+        //console.log(json);
+        summaryData = json;        
+        itemNum = json.data.length;
+
+        balanced = []
+        living = []
+        transport = []
+        infra = []
+        education = []
+
+        for(var i = 0 ; i < itemNum ; i++){
+          if(summaryData.data[i]["sort"] == "balanced"){
+            balanced.push(summaryData.data[i])
+          }
+          if(summaryData.data[i]["sort"] == "living"){
+            living.push(summaryData.data[i])
+          }
+          if(summaryData.data[i]["sort"] == "transport"){
+            transport.push(summaryData.data[i])
+          }
+          if(summaryData.data[i]["sort"] == "infra"){
+            infra.push(summaryData.data[i])
+          }
+          if(summaryData.data[i]["sort"] == "education"){
+            education.push(summaryData.data[i])
+          }
+        }        
+
+        titleBalanced = "<div class='summaryTitle'><div>균형잡힌</div>" 
+        titleBalanced += "<div style='width: 100%'><button type='button' id='balance' class='toShare' onClick='summaryShare(balanced)' style='background:rgba(0, 0, 0, 0)'><i class='fa-solid fa-arrow-up-right-from-square'></i></button></div>"
+
+        titleLiving = "<div class='summaryTitle'><div>주거우선</div>"
+        titleLiving += "<div style='width: 100%'><button type='button' id='live' class='toShare' onClick='summaryShare(living)' style='background:rgba(0, 0, 0, 0)'><i class='fa-solid fa-arrow-up-right-from-square'></i></button></div>"
+
+        titleTransport = "<div class='summaryTitle'><div>교통우선</div>"
+        titleTransport += "<div style='width: 100%'><button type='button' id='trans' class='toShare' onClick='summaryShare(transport)' style='background:rgba(0, 0, 0, 0)'><i class='fa-solid fa-arrow-up-right-from-square'></i></button></div>"
+
+        titleInfra = "<div class='summaryTitle'><div>인프라우선</div>"
+        titleInfra += "<div style='width: 100%'><button type='button' id='infra' class='toShare' onClick='summaryShare(infra)' style='background:rgba(0, 0, 0, 0)'><i class='fa-solid fa-arrow-up-right-from-square'></i></button></div>"
+
+        titleEdu = "<div class='summaryTitle'><div>교육우선</div>"
+        titleEdu += "<div style='width: 100%'><button type='button' id='edu' class='toShare' onClick='summaryShare(education)' style='background:rgba(0, 0, 0, 0)'><i class='fa-solid fa-arrow-up-right-from-square'></i></button></div>"
+
+        $('#dataList').append(titleBalanced);
+        $('#dataList').append(returnList(balanced));
+        $('#dataList').append(titleLiving);
+        $('#dataList').append(returnList(living));
+        $('#dataList').append(titleTransport);
+        $('#dataList').append(returnList(transport));
+        $('#dataList').append(titleInfra);
+        $('#dataList').append(returnList(infra));
+        $('#dataList').append(titleEdu);
+        $('#dataList').append(returnList(education));
+    })
+    saveLocalStorage()
+  }
+
+  function summaryShare(list){
+    shareTitle = "[아파트랭크]\n"
+    shareTitle += list[i]["region"] + " " + selectedMonth.substr(0, 4) + "년 " + Number(selectedMonth.substr(4, 2)).toString() + "월\n\n"
+
+    if(list[0]["sort"] == 'balanced'){
+      shareText = "『전체적으로 좋은 아파트』\n"
+    }
+    if(list[0]["sort"] == 'living'){
+      shareText = "『주거 환경 좋은 아파트』\n"
+    }
+    if(list[0]["sort"] == 'transport'){
+      shareText = "『교통 좋은 아파트』\n"
+    }
+    if(list[0]["sort"] == 'infra'){
+      shareText = "『인프라 좋은 아파트』\n"
+    }
+    if(list[0]["sort"] == 'education'){
+      shareText = "『교육 좋은 아파트』\n"
+    }
+
+    for(var i = 0 ; i < 3 ; i++){
+      shareText += (i+0) + "위) " + list[i]["name"]
+      if(list[i]["apt_type"] == "아파트"){
+        shareText += "(" + list[i]["apt_year"] + "년차)"
+      }
+      if(list[i]["apt_type"] == "재건축"){
+        shareText += "(" + list[i]["apt_year"] + "년차, 재건축)";
+      }
+      if(list[i]["apt_type"] == "분양권"){
+        shareText += "(분양권)";
+      }
+      shareText += ", " + ( Math.round( list[i]["value_score"] * 100 ) / 100 ).toFixed(2) + "점"      
+    }
+
+    shareText += "\n\n자세한 내용은 '아파트랭크'를 통해 확인해 주세요."
+    shareText += "\n\n"
+    shareURL = "https://www.aptrank.kr" + "?reg=" + regionName +"&sub=" + selectedSubRegion + "&mon=" + selectedMonth
+
+    if (navigator.share) {
+      navigator.share({
+        title: shareTitle,
+        text: shareText,
+        url: shareURL
+      }).then(() => {
+        console.log('Thanks for sharing!');
+      })
+      .catch(console.error);
+    } else {
+      // fallback
+      shareDialog.classList.add('is-open');
+    }
+}
+
+function allShare(){
+  shareTitle = "[아파트랭크]\n"
+    shareTitle += list[i]["region"] + " " + selectedMonth.substr(0, 4) + "년 " + Number(selectedMonth.substr(4, 2)).toString() + "월\n\n"
+
+    shareText = "『전체적으로 좋은 아파트』\n"
+    for(var i = 0 ; i < 3 ; i++){
+      shareText += (i+0) + "위) " + balanced[i]["name"]
+      if(list[i]["apt_type"] == "아파트"){
+        shareText += "(" + balanced[i]["apt_year"] + "년차)"
+      }
+      if(list[i]["apt_type"] == "재건축"){
+        shareText += "(" + balanced[i]["apt_year"] + "년차, 재건축)";
+      }
+      if(list[i]["apt_type"] == "분양권"){
+        shareText += "(분양권)";
+      }
+      shareText += ", " + ( Math.round( balanced[i]["value_score"] * 100 ) / 100 ).toFixed(2) + "점"
+    }
+
+    shareText += "\n\n"
+    shareText += "『주거 환경 좋은 아파트』\n"
+    for(var i = 0 ; i < 3 ; i++){
+      shareText += (i+0) + "위) " + living[i]["name"]
+      if(list[i]["apt_type"] == "아파트"){
+        shareText += "(" + living[i]["apt_year"] + "년차)"
+      }
+      if(list[i]["apt_type"] == "재건축"){
+        shareText += "(" + living[i]["apt_year"] + "년차, 재건축)";
+      }
+      if(list[i]["apt_type"] == "분양권"){
+        shareText += "(분양권)";
+      }
+      shareText += ", " + ( Math.round( living[i]["value_score"] * 100 ) / 100 ).toFixed(2) + "점"
+    }
+
+    shareText += "\n\n"
+    shareText += "『교통 좋은 아파트』\n"
+    for(var i = 0 ; i < 3 ; i++){
+      shareText += (i+0) + "위) " + transport[i]["name"]
+      if(list[i]["apt_type"] == "아파트"){
+        shareText += "(" + transport[i]["apt_year"] + "년차)"
+      }
+      if(list[i]["apt_type"] == "재건축"){
+        shareText += "(" + transport[i]["apt_year"] + "년차, 재건축)";
+      }
+      if(list[i]["apt_type"] == "분양권"){
+        shareText += "(분양권)";
+      }
+      shareText += ", " + ( Math.round( transport[i]["value_score"] * 100 ) / 100 ).toFixed(2) + "점"
+    }
+
+    shareText += "\n\n"
+    shareText += "『인프라 좋은 아파트』\n"
+    for(var i = 0 ; i < 3 ; i++){
+      shareText += (i+0) + "위) " + infra[i]["name"]
+      if(list[i]["apt_type"] == "아파트"){
+        shareText += "(" + infra[i]["apt_year"] + "년차)"
+      }
+      if(list[i]["apt_type"] == "재건축"){
+        shareText += "(" + infra[i]["apt_year"] + "년차, 재건축)";
+      }
+      if(list[i]["apt_type"] == "분양권"){
+        shareText += "(분양권)";
+      }
+      shareText += ", " + ( Math.round( infra[i]["value_score"] * 100 ) / 100 ).toFixed(2) + "점"
+    }
+
+    shareText += "\n\n"
+    shareText += "교육 좋은 아파트』\n"
+    for(var i = 0 ; i < 3 ; i++){
+      shareText += (i+0) + "위) " + education[i]["name"]
+      if(list[i]["apt_type"] == "아파트"){
+        shareText += "(" + education[i]["apt_year"] + "년차)"
+      }
+      if(list[i]["apt_type"] == "재건축"){
+        shareText += "(" + education[i]["apt_year"] + "년차, 재건축)";
+      }
+      if(list[i]["apt_type"] == "분양권"){
+        shareText += "(분양권)";
+      }
+      shareText += ", " + ( Math.round( education[i]["value_score"] * 100 ) / 100 ).toFixed(2) + "점"
+    }
+
+    shareText += "\n\n자세한 내용은 '아파트랭크'를 통해 확인해 주세요."
+    shareText += "\n\n"
+    
+    shareURL = "https://www.aptrank.kr" + "?reg=" + regionName +"&sub=" + selectedSubRegion + "&mon=" + selectedMonth
+
+    if (navigator.share) {
+      navigator.share({
+        title: shareTitle,
+        text: shareText,
+        url: shareURL
+      }).then(() => {
+        console.log('Thanks for sharing!');
+      })
+      .catch(console.error);
+    } else {
+      // fallback
+      shareDialog.classList.add('is-open');
+    }  
+}
+
+  function returnList(list){
+    var addon_html = "";
+
+    for(var i = 0 ; i < list.length ; i++){      
+      var aptName = list[i]["name"]
+      var sortType = list[i]["sort"]
+      var apt_type = list[i]["apt_type"]
+      var apt_year = list[i]["apt_year"]
+      var region_code = list[i]["region_code"]
+      var sub_region_code = list[i]["sub_region_code"]
+      var value_score = list[i]["value_score"]
+
+      addon_html += "<div class='listBox'>";
+               
+      addon_html += "<div class='rank'>" + (i+1) + "위</div>";
+      addon_html += "<div class='apt_name'>" + aptName;
+
+      if(apt_type == "아파트"){
+        addon_html += "<span class='aptYear'> (" + apt_year + "년차)</span></div>";
+      }
+      if(apt_type == "재건축"){
+        addon_html += "<span class='aptYear'> (" + apt_year + "년차, 재건축)</span></div>";
+      }
+      if(apt_type == "분양권"){
+        addon_html += "<span class='aptYear'> (분양권)</span></div>";
+      }
+      addon_html += "<div class='value_score'>" + ( Math.round( value_score * 100 ) / 100 ).toFixed(2) + "점</div>"
+      addon_html += "</div>"
+    }
+
+    return addon_html
+  }
+</script>
+</html>
