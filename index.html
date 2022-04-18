@@ -1498,7 +1498,8 @@
     var detailHtml = "<div class='notice'> 안녕하세요. 아파트랭크입니다.</div>";
     detailHtml += "<div class='notice'> 종합적인 아파트 정보를 제공하는 서비스가 많음에도 불구하고, 우리 지역의 진짜 입지 좋은 곳을 한 번에 판단하기가 너무 어려워 아파트 랭크 서비스를 만들었습니다. </div>";
     detailHtml += "<div class='notice'> 개개인이 생각하는 아파트의 중요한 요소들이 있겠지만, AI를 통해 많은 정보를 종합하여 선정된 순서를 보여드리고자 했으니 유용하게 사용하시기 바래봅니다! </div>";
-    detailHtml += "<div class='notice'> 지속적인 업데이트를 통해 더 좋은 서비스를 제공하도록 노력하겠습니다. </div>";
+    detailHtml += "<div class='notice'> <span style='color: #ff3d38 ; font-weight: 600'> 입지는 가격을 제외한 환경 요소만을 사용해 분석하며, 따라서 생각하시는 순위와 크게 다를 수 있습니다.</span></div>";
+    detailHtml += "<div class='notice'> 지속적인 업데이트를 통해 더 좋은 서비스를 제공하도록 노력하겠습니다. <strong>업데이트 알림은 <a href='http://pf.kakao.com/_vESNb' target='_blank'>카카오톡 채널</a>을 통해 전달됩니다.</strong></div>";
     detailHtml += "<div class='notice'> 서비스 사용에 대해 업데이트 내용과 공지사항을 꼭 확인해 주세요!</div>";
     detailHtml += "<hr>";
     if(selectedMonth == "202203"){
@@ -1519,6 +1520,14 @@
       detailHtml += "<hr>";
     }
     if(selectedMonth == "202204"){
+      detailHtml += "<div class='popupTitle' style='text-align: center; padding-bottom: 1em'> 2022년 4월 3차 업데이트 안내 (2022-04-19)</div>";
+      detailHtml += "<ul>"
+      detailHtml += "<li><div class='notice'> 단지 년차 계산 시, 당해년도를 제외하여 1년씩 년차를 줄였습니다.</div></li>";
+      detailHtml += "<li><div class='notice'> '경기도 용인시 수지구'의 역세권 계산 시, 누락된 '동천역(신분당선)'을 추가하고, 주요 역 이동 시간을 재계산 했습니다. (Google API 사용)</li></div>";
+      detailHtml += "<li><div class='notice'> '경기도 광명시' 아파트 단지의 주요 역 이동시간을 재계산 했습니다. (입지 분석 결과에 대한 의문점 제기 대응. Google API 사용)</li></div>";
+      detailHtml += "<li><div class='notice'> '경기도 하남시' 아파트 단지의 주요 역 이동시간을 재계산 했습니다. (입지 분석 결과에 대한 의문점 제기 대응. Google API 사용)</li></div>";      
+      detailHtml += "</ul>";
+      detailHtml += "<hr>";
       detailHtml += "<div class='popupTitle' style='text-align: center; padding-bottom: 1em'> 2022년 4월 2차 업데이트 안내</div>";
       detailHtml += "<ul>"
       detailHtml += "<li><div class='notice'> <span style='color: #ff3d38 ; font-weight: 600'> 분양권, 재건축 진행 중인 아파트 단지 추가되었습니다.</div></li>";
@@ -1527,10 +1536,10 @@
       detailHtml += "</ul>";
       detailHtml += "<hr>";
 
-      detailHtml += "<div class='popupTitle' style='text-align: center; padding-bottom: 1em'> 2022년 4월 업데이트 안내</div>";
+      detailHtml += "<div class='popupTitle' style='text-align: center; padding-bottom: 1em'> 2022년 4월 1차 업데이트 안내</div>";
       detailHtml += "<ul>";
-      detailHtml += "<li><div class='notice'> 아파트랭크 앱이 제작되었습니다.(안드로이드 전용)<br>하단의 '앱 설치하기' 버튼을 통해 다운로드 가능합니다.</li></div>";
-      detailHtml += "<li><div class='notice'> 아파트랭크 카카오톡 채널을 개설했습니다. 업데이트 정보는 카카오톡 채널을 통해 전달됩니다. <br>하단의 '카카오톡 채널로 업데이트 소식받기' 버튼을 눌러 채널을 추가해 주세요.</li></div>";
+      detailHtml += "<li><div class='notice'> 아파트랭크 앱이 제작되었습니다.(안드로이드 전용)<br>하단의 <a href='https://play.google.com/store/apps/details?id=com.aptrank.app' target='_blank'>'앱 설치하기'</a> 버튼을 통해 다운로드 가능합니다.</li></div>";
+      detailHtml += "<li><div class='notice'> 아파트랭크 카카오톡 채널을 개설했습니다. 업데이트 정보는 카카오톡 채널을 통해 전달됩니다. <br>하단의 <a href='http://pf.kakao.com/_vESNb' target='_blank'>'카카오톡 채널로 업데이트 소식받기'</a> 버튼을 눌러 채널을 추가해 주세요.</li></div>";
       detailHtml += "<li><div class='notice'> 형평성 문제가 제기되어 80세대 이하의 단지를 통계에서 제외했습니다.</li></div>";
       detailHtml += "<li><div class='notice'> 아파트 단지별 평형별 실거래가, 주차대수, 세대당 주차수, 평균 관리비, 난방방식 정보를 추가했습니다.</div></li>";
       detailHtml += "<li><div class='notice'> 수도권 4호선 진접선 정보 추가했습니다.</div></li>";

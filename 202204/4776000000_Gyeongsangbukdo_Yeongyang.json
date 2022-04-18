@@ -310,6 +310,14 @@
                 "type":"string"
             },
             {
+                "name":"학원가",
+                "type":"string"
+            },
+            {
+                "name":"학원수",
+                "type":"string"
+            },
+            {
                 "name":"용적률",
                 "type":"string"
             },
