@@ -7,7 +7,7 @@
     "display": "standalone",
     "theme_color": "#000000",
     "background_color": "#3841ff",
-    "orientation": "any",
+    "orientation": "portrait",
     "icons": [{
       "src": "https://www.aptrank.kr/apt-rank-su-512x512.png",
       "sizes": "512x512",
