@@ -87,18 +87,6 @@
         {
             "index":3,
             "sort":"balanced",
-            "name":"대우한강베네시티(주상복합)",
-            "search_code":14535,
-            "apt_type":"아파트",
-            "apt_year":15.0,
-            "value_score":72.1322,
-            "region":"서울시 강동구",
-            "region_code":"Seoul",
-            "sub_region_code":"1174000000_Seoul_Gangdong"
-        },
-        {
-            "index":4,
-            "sort":"balanced",
             "name":"힐스테이트천호역젠트리스(주상복합)",
             "search_code":134214,
             "apt_type":"분양권",
@@ -109,19 +97,7 @@
             "sub_region_code":"1174000000_Seoul_Gangdong"
         },
         {
-            "index":5,
-            "sort":"balanced",
-            "name":"선사현대",
-            "search_code":3118,
-            "apt_type":"아파트",
-            "apt_year":22.0,
-            "value_score":70.8498,
-            "region":"서울시 강동구",
-            "region_code":"Seoul",
-            "sub_region_code":"1174000000_Seoul_Gangdong"
-        },
-        {
-            "index":6,
+            "index":4,
             "sort":"balanced",
             "name":"아스하임9차(도시형)",
             "search_code":141846,
@@ -133,19 +109,19 @@
             "sub_region_code":"1174000000_Seoul_Gangdong"
         },
         {
-            "index":7,
+            "index":5,
             "sort":"balanced",
-            "name":"래미안솔베뉴",
-            "search_code":113432,
+            "name":"대우한강베네시티(주상복합)",
+            "search_code":14535,
             "apt_type":"아파트",
-            "apt_year":3.0,
-            "value_score":70.2134,
+            "apt_year":15.0,
+            "value_score":70.0322,
             "region":"서울시 강동구",
             "region_code":"Seoul",
             "sub_region_code":"1174000000_Seoul_Gangdong"
         },
         {
-            "index":8,
+            "index":6,
             "sort":"balanced",
             "name":"성내삼성",
             "search_code":993,
@@ -157,13 +133,37 @@
             "sub_region_code":"1174000000_Seoul_Gangdong"
         },
         {
-            "index":9,
+            "index":7,
+            "sort":"balanced",
+            "name":"선사현대",
+            "search_code":3118,
+            "apt_type":"아파트",
+            "apt_year":22.0,
+            "value_score":68.7498,
+            "region":"서울시 강동구",
+            "region_code":"Seoul",
+            "sub_region_code":"1174000000_Seoul_Gangdong"
+        },
+        {
+            "index":8,
             "sort":"balanced",
             "name":"힐데스하임천호",
             "search_code":134515,
             "apt_type":"분양권",
             "apt_year":0.0,
             "value_score":68.6322,
+            "region":"서울시 강동구",
+            "region_code":"Seoul",
+            "sub_region_code":"1174000000_Seoul_Gangdong"
+        },
+        {
+            "index":9,
+            "sort":"balanced",
+            "name":"래미안솔베뉴",
+            "search_code":113432,
+            "apt_type":"아파트",
+            "apt_year":3.0,
+            "value_score":68.1134,
             "region":"서울시 강동구",
             "region_code":"Seoul",
             "sub_region_code":"1174000000_Seoul_Gangdong"
@@ -207,11 +207,11 @@
         {
             "index":13,
             "sort":"living",
-            "name":"강동롯데캐슬퍼스트",
-            "search_code":22570,
+            "name":"래미안솔베뉴",
+            "search_code":113432,
             "apt_type":"아파트",
-            "apt_year":14.0,
-            "value_score":71.6504,
+            "apt_year":3.0,
+            "value_score":70.9012,
             "region":"서울시 강동구",
             "region_code":"Seoul",
             "sub_region_code":"1174000000_Seoul_Gangdong"
@@ -219,29 +219,17 @@
         {
             "index":14,
             "sort":"living",
-            "name":"래미안솔베뉴",
-            "search_code":113432,
+            "name":"고덕그라시움",
+            "search_code":113907,
             "apt_type":"아파트",
             "apt_year":3.0,
-            "value_score":71.5012,
+            "value_score":70.416,
             "region":"서울시 강동구",
             "region_code":"Seoul",
             "sub_region_code":"1174000000_Seoul_Gangdong"
         },
         {
             "index":15,
-            "sort":"living",
-            "name":"고덕그라시움",
-            "search_code":113907,
-            "apt_type":"아파트",
-            "apt_year":3.0,
-            "value_score":70.616,
-            "region":"서울시 강동구",
-            "region_code":"Seoul",
-            "sub_region_code":"1174000000_Seoul_Gangdong"
-        },
-        {
-            "index":16,
             "sort":"living",
             "name":"고덕센트럴아이파크",
             "search_code":118210,
@@ -253,13 +241,25 @@
             "sub_region_code":"1174000000_Seoul_Gangdong"
         },
         {
+            "index":16,
+            "sort":"living",
+            "name":"강동롯데캐슬퍼스트",
+            "search_code":22570,
+            "apt_type":"아파트",
+            "apt_year":14.0,
+            "value_score":70.0504,
+            "region":"서울시 강동구",
+            "region_code":"Seoul",
+            "sub_region_code":"1174000000_Seoul_Gangdong"
+        },
+        {
             "index":17,
             "sort":"living",
             "name":"프라이어팰리스",
             "search_code":19578,
             "apt_type":"아파트",
             "apt_year":15.0,
-            "value_score":69.6504,
+            "value_score":68.6504,
             "region":"서울시 강동구",
             "region_code":"Seoul",
             "sub_region_code":"1174000000_Seoul_Gangdong"
@@ -271,7 +271,7 @@
             "search_code":108187,
             "apt_type":"아파트",
             "apt_year":6.0,
-            "value_score":68.7284,
+            "value_score":68.3284,
             "region":"서울시 강동구",
             "region_code":"Seoul",
             "sub_region_code":"1174000000_Seoul_Gangdong"
@@ -283,7 +283,7 @@
             "search_code":119341,
             "apt_type":"아파트",
             "apt_year":2.0,
-            "value_score":68.1368,
+            "value_score":67.9368,
             "region":"서울시 강동구",
             "region_code":"Seoul",
             "sub_region_code":"1174000000_Seoul_Gangdong"
@@ -303,18 +303,6 @@
         {
             "index":21,
             "sort":"transport",
-            "name":"대우한강베네시티(주상복합)",
-            "search_code":14535,
-            "apt_type":"아파트",
-            "apt_year":15.0,
-            "value_score":73.8322,
-            "region":"서울시 강동구",
-            "region_code":"Seoul",
-            "sub_region_code":"1174000000_Seoul_Gangdong"
-        },
-        {
-            "index":22,
-            "sort":"transport",
             "name":"강동밀레니얼중흥S-클래스(주상복합)",
             "search_code":141005,
             "apt_type":"분양권",
@@ -325,7 +313,7 @@
             "sub_region_code":"1174000000_Seoul_Gangdong"
         },
         {
-            "index":23,
+            "index":22,
             "sort":"transport",
             "name":"힐스테이트강동리버뷰",
             "search_code":116836,
@@ -337,7 +325,7 @@
             "sub_region_code":"1174000000_Seoul_Gangdong"
         },
         {
-            "index":24,
+            "index":23,
             "sort":"transport",
             "name":"아스하임9차(도시형)",
             "search_code":141846,
@@ -349,7 +337,7 @@
             "sub_region_code":"1174000000_Seoul_Gangdong"
         },
         {
-            "index":25,
+            "index":24,
             "sort":"transport",
             "name":"래미안강동팰리스(주상복합)",
             "search_code":107537,
@@ -361,13 +349,25 @@
             "sub_region_code":"1174000000_Seoul_Gangdong"
         },
         {
+            "index":25,
+            "sort":"transport",
+            "name":"대우한강베네시티(주상복합)",
+            "search_code":14535,
+            "apt_type":"아파트",
+            "apt_year":15.0,
+            "value_score":70.8322,
+            "region":"서울시 강동구",
+            "region_code":"Seoul",
+            "sub_region_code":"1174000000_Seoul_Gangdong"
+        },
+        {
             "index":26,
             "sort":"transport",
-            "name":"선사현대",
-            "search_code":3118,
+            "name":"SK허브진(주상복합)",
+            "search_code":10634,
             "apt_type":"아파트",
-            "apt_year":22.0,
-            "value_score":71.7248,
+            "apt_year":18.0,
+            "value_score":70.0374,
             "region":"서울시 강동구",
             "region_code":"Seoul",
             "sub_region_code":"1174000000_Seoul_Gangdong"
@@ -375,11 +375,11 @@
         {
             "index":27,
             "sort":"transport",
-            "name":"성안마을청구",
-            "search_code":989,
+            "name":"유원",
+            "search_code":1003,
             "apt_type":"아파트",
-            "apt_year":20.0,
-            "value_score":71.1844,
+            "apt_year":25.0,
+            "value_score":69.5072,
             "region":"서울시 강동구",
             "region_code":"Seoul",
             "sub_region_code":"1174000000_Seoul_Gangdong"
@@ -387,11 +387,11 @@
         {
             "index":28,
             "sort":"transport",
-            "name":"래미안솔베뉴",
-            "search_code":113432,
+            "name":"성내삼성",
+            "search_code":993,
             "apt_type":"아파트",
-            "apt_year":3.0,
-            "value_score":70.2384,
+            "apt_year":23.0,
+            "value_score":69.3652,
             "region":"서울시 강동구",
             "region_code":"Seoul",
             "sub_region_code":"1174000000_Seoul_Gangdong"
@@ -399,11 +399,11 @@
         {
             "index":29,
             "sort":"transport",
-            "name":"SK허브진(주상복합)",
-            "search_code":10634,
+            "name":"선사현대",
+            "search_code":3118,
             "apt_type":"아파트",
-            "apt_year":18.0,
-            "value_score":70.0374,
+            "apt_year":22.0,
+            "value_score":68.7248,
             "region":"서울시 강동구",
             "region_code":"Seoul",
             "sub_region_code":"1174000000_Seoul_Gangdong"
@@ -435,18 +435,6 @@
         {
             "index":32,
             "sort":"infra",
-            "name":"대우한강베네시티(주상복합)",
-            "search_code":14535,
-            "apt_type":"아파트",
-            "apt_year":15.0,
-            "value_score":73.087,
-            "region":"서울시 강동구",
-            "region_code":"Seoul",
-            "sub_region_code":"1174000000_Seoul_Gangdong"
-        },
-        {
-            "index":33,
-            "sort":"infra",
             "name":"힐스테이트천호역젠트리스(주상복합)",
             "search_code":134214,
             "apt_type":"분양권",
@@ -457,7 +445,7 @@
             "sub_region_code":"1174000000_Seoul_Gangdong"
         },
         {
-            "index":34,
+            "index":33,
             "sort":"infra",
             "name":"힐스테이트강동리버뷰",
             "search_code":116836,
@@ -469,13 +457,25 @@
             "sub_region_code":"1174000000_Seoul_Gangdong"
         },
         {
-            "index":35,
+            "index":34,
             "sort":"infra",
             "name":"아스하임9차(도시형)",
             "search_code":141846,
             "apt_type":"아파트",
             "apt_year":1.0,
             "value_score":72.287,
+            "region":"서울시 강동구",
+            "region_code":"Seoul",
+            "sub_region_code":"1174000000_Seoul_Gangdong"
+        },
+        {
+            "index":35,
+            "sort":"infra",
+            "name":"대우한강베네시티(주상복합)",
+            "search_code":14535,
+            "apt_type":"아파트",
+            "apt_year":15.0,
+            "value_score":72.187,
             "region":"서울시 강동구",
             "region_code":"Seoul",
             "sub_region_code":"1174000000_Seoul_Gangdong"
@@ -499,7 +499,7 @@
             "search_code":989,
             "apt_type":"아파트",
             "apt_year":20.0,
-            "value_score":72.049,
+            "value_score":71.149,
             "region":"서울시 강동구",
             "region_code":"Seoul",
             "sub_region_code":"1174000000_Seoul_Gangdong"
@@ -511,7 +511,7 @@
             "search_code":3118,
             "apt_type":"아파트",
             "apt_year":22.0,
-            "value_score":72.033,
+            "value_score":71.133,
             "region":"서울시 강동구",
             "region_code":"Seoul",
             "sub_region_code":"1174000000_Seoul_Gangdong"
@@ -519,11 +519,11 @@
         {
             "index":39,
             "sort":"infra",
-            "name":"길동우성",
-            "search_code":1290,
+            "name":"성내e-편한세상1차",
+            "search_code":9053,
             "apt_type":"아파트",
-            "apt_year":28.0,
-            "value_score":71.0005,
+            "apt_year":19.0,
+            "value_score":70.742,
             "region":"서울시 강동구",
             "region_code":"Seoul",
             "sub_region_code":"1174000000_Seoul_Gangdong"
@@ -543,11 +543,11 @@
         {
             "index":41,
             "sort":"education",
-            "name":"강동롯데캐슬퍼스트",
-            "search_code":22570,
+            "name":"래미안강동팰리스(주상복합)",
+            "search_code":107537,
             "apt_type":"아파트",
-            "apt_year":14.0,
-            "value_score":66.176,
+            "apt_year":5.0,
+            "value_score":65.408,
             "region":"서울시 강동구",
             "region_code":"Seoul",
             "sub_region_code":"1174000000_Seoul_Gangdong"
@@ -559,7 +559,7 @@
             "search_code":113432,
             "apt_type":"아파트",
             "apt_year":3.0,
-            "value_score":65.878,
+            "value_score":65.278,
             "region":"서울시 강동구",
             "region_code":"Seoul",
             "sub_region_code":"1174000000_Seoul_Gangdong"
@@ -567,11 +567,11 @@
         {
             "index":43,
             "sort":"education",
-            "name":"래미안강동팰리스(주상복합)",
-            "search_code":107537,
-            "apt_type":"아파트",
-            "apt_year":5.0,
-            "value_score":65.408,
+            "name":"신동아1,2차",
+            "search_code":1287,
+            "apt_type":"재건축",
+            "apt_year":39.0,
+            "value_score":64.979,
             "region":"서울시 강동구",
             "region_code":"Seoul",
             "sub_region_code":"1174000000_Seoul_Gangdong"
@@ -579,11 +579,11 @@
         {
             "index":44,
             "sort":"education",
-            "name":"프라이어팰리스",
-            "search_code":19578,
+            "name":"강동롯데캐슬퍼스트",
+            "search_code":22570,
             "apt_type":"아파트",
-            "apt_year":15.0,
-            "value_score":65.376,
+            "apt_year":14.0,
+            "value_score":64.576,
             "region":"서울시 강동구",
             "region_code":"Seoul",
             "sub_region_code":"1174000000_Seoul_Gangdong"
@@ -591,11 +591,11 @@
         {
             "index":45,
             "sort":"education",
-            "name":"신동아1,2차",
-            "search_code":1287,
-            "apt_type":"재건축",
-            "apt_year":39.0,
-            "value_score":64.979,
+            "name":"프라이어팰리스",
+            "search_code":19578,
+            "apt_type":"아파트",
+            "apt_year":15.0,
+            "value_score":64.376,
             "region":"서울시 강동구",
             "region_code":"Seoul",
             "sub_region_code":"1174000000_Seoul_Gangdong"
@@ -627,11 +627,11 @@
         {
             "index":48,
             "sort":"education",
-            "name":"선사현대",
-            "search_code":3118,
-            "apt_type":"아파트",
-            "apt_year":22.0,
-            "value_score":62.866,
+            "name":"힐스테이트천호역젠트리스(주상복합)",
+            "search_code":134214,
+            "apt_type":"분양권",
+            "apt_year":-2.0,
+            "value_score":62.578,
             "region":"서울시 강동구",
             "region_code":"Seoul",
             "sub_region_code":"1174000000_Seoul_Gangdong"
@@ -639,11 +639,11 @@
         {
             "index":49,
             "sort":"education",
-            "name":"힐스테이트천호역젠트리스(주상복합)",
-            "search_code":134214,
-            "apt_type":"분양권",
-            "apt_year":-2.0,
-            "value_score":62.578,
+            "name":"선사현대",
+            "search_code":3118,
+            "apt_type":"아파트",
+            "apt_year":22.0,
+            "value_score":62.266,
             "region":"서울시 강동구",
             "region_code":"Seoul",
             "sub_region_code":"1174000000_Seoul_Gangdong"
