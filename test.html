@@ -714,7 +714,8 @@
     var harmful_3km = aptData.data[index]["3km이내혐오시설수"] + "개"
     var pSchool_edu = aptData.data[index]["초등학교학업성취도"]
     var mSchool_edu = aptData.data[index]["중학교학업성취도"] + "%"
-    var academy_edu = aptData.data[index]["학원가"] + "개" + "(총 " + aptData.data[index]["학원수"] + "개 학원)"
+    var academy_edu = aptData.data[index]["500m이내학원가"] + "개" + "(총 " + aptData.data[index]["500m이내학원수"] + "개 학원)"
+    var market_infra = aptData.data[index]["300m이내상권"] + "개" + "(총 " + aptData.data[index]["300m이내점포수"] + "개 지점)"
     var livingScore = ( Math.round( aptData.data[index]["주거총점"] * 100 ) / 100 ).toFixed(2)
     var transportScore = ( Math.round( aptData.data[index]["교통총점"] * 100 ) / 100 ).toFixed(2)
     var infraScore = ( Math.round( aptData.data[index]["인프라총점"] * 100 ) / 100 ).toFixed(2)
@@ -933,6 +934,9 @@
     detailHtml += "<div class='popSubTable'><div class='popContent'>" + "500m 이내 병원" + "</div>" + "<div class='popResult'>" + bank_500m + "</div></div>";
     detailHtml += "<div class='popSubTable'><div class='popContent'>" + "5km 이내 대형병원" + "</div>" + "<div class='popResult'>" + bigHospital_5km + "</div></div>";
     detailHtml += "<div class='popSubTable'><div class='popContent'>" + "500m 이내 공원" + "</div>" + "<div class='popResult'>" + park_500m + "</div></div>";
+    if(Number(selectedMonth) > 202204){
+      detailHtml += "<div class='popSubTable'><div class='popContent'>" + "300m 이내 상권" + "</div>" + "<div class='popResult'>" + market_infra + "</div></div>";      
+    }
     detailHtml += "<div class='popSubTable'><div class='popContent'>" + "3km 이내 혐오시설" + "</div>" + "<div class='popResult'>" + harmful_3km + "</div></div>";
     detailHtml += "<div class='comment2'>인프라 정보는 각 백화점/마트 홈페이지, 은행연합회, 자원순환정보시스템, 공공데이터 포탈의 정보를 기반으로 산정됩니다.</div>"
     detailHtml += "</div></div></div></div>"
