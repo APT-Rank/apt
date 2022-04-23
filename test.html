@@ -713,6 +713,7 @@
     var park_500m = aptData.data[index]["500m이내공원수"] + "개"
     var harmful_3km = aptData.data[index]["3km이내혐오시설수"] + "개"
     var pSchool_edu = aptData.data[index]["초등학교학업성취도"]
+    var pSchool_distance = aptData.data[index]["초등학교거리"]
     var mSchool_edu = aptData.data[index]["중학교학업성취도"] + "%"
     var academy_edu = aptData.data[index]["500m이내학원가"] + "개" + "(총 " + aptData.data[index]["500m이내학원수"] + "개 학원)"
     var market_infra = aptData.data[index]["300m이내상권"] + "개" + "(총 " + aptData.data[index]["300m이내점포수"] + "개 지점)"
@@ -951,10 +952,19 @@
     detailHtml += "<div id='popEducation'>"
     detailHtml += "<div class='graph' style='height: 120px'> <canvas id='eduChart'></canvas></div>"
     detailHtml += "<div class='popTable'>"
+    if(Number(selectedMonth) > 202204){
+      if(pSchool_distance-100 < 0){
+        minDistance = parseInt(pSchool_distance*0.8)
+      }
+      else{
+        minDistance = parseInt(pSchool_distance - 100)
+      }
+      detailHtml += "<div class='popSubTable'><div class='popContent'>" + "초등학교 거리" + "</div>" + "<div class='popResult'>" + minDistance + "~" + parseInt(pSchool_distance) + "m</div></div>";      
+    }
     detailHtml += "<div class='popSubTable'><div class='popContent'>" + "초등학교 학생증감점수" + "</div>" + "<div class='popResult'>" + ( Math.round( pSchool_edu * 100 ) / 100 ).toFixed(2) + "점</div></div>";
     detailHtml += "<div class='popSubTable'><div class='popContent'>" + "중학교 학업성취도" + "</div>" + "<div class='popResult'>" + mSchool_edu + "</div></div>";
     if(Number(selectedMonth) > 202204){
-      detailHtml += "<div class='popSubTable'><div class='popContent'>" + "800m 이내 학원가" + "</div>" + "<div class='popResult'>" + academy_edu + "</div></div>";
+      detailHtml += "<div class='popSubTable'><div class='popContent'>" + "500m 이내 학원가" + "</div>" + "<div class='popResult'>" + academy_edu + "</div></div>";
       detailHtml += "<div class='comment2'>교육 정보는 교육통계서비스 정보를 기반으로 산정되며, 학원가 정보는 호갱노노의 정보를 사용합니다.</div>"
     }
     else{
