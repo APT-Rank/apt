@@ -302,7 +302,19 @@
                 "type":"string"
             },
             {
+                "name":"300m이내상권",
+                "type":"string"
+            },
+            {
+                "name":"300m이내점포수",
+                "type":"string"
+            },
+            {
                 "name":"초등학교학업성취도",
+                "type":"string"
+            },
+            {
+                "name":"초등학교거리",
                 "type":"string"
             },
             {
@@ -310,11 +322,11 @@
                 "type":"string"
             },
             {
-                "name":"학원가",
+                "name":"500m이내학원가",
                 "type":"string"
             },
             {
-                "name":"학원수",
+                "name":"500m이내학원수",
                 "type":"string"
             },
             {
