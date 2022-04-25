@@ -566,10 +566,14 @@
     url = "https://www.aptrank.kr/" + month + "/" + region + ".json"
     $('#dataList').html("");
 
+    $.getJSON(url, function(json) {        
+        sortData = json;
+    })
+
     $.getJSON(url, function(json) {
         //console.log(json);
         aptData = json;
-        sortData = json;
+        //sortData = json;
         itemNum = json.data.length;
         valueSum = 0;
         livingSum = 0;

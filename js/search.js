@@ -56,7 +56,12 @@ function showSearchBar(){
     $('#dataList').html("");
     console.log(minValue/2*10000)
     console.log(maxValue/2*10000) 
-    input = $('#inputSearch').val()    
+    input = $('#inputSearch').val()
+
+    if(sortSelection == "sortDefault"){
+      sortData = aptData
+    }
+
     for(var i = 0 ; i < sortData.data.length ; i++){
           var aptName = sortData.data[i]["아파트명"]
           var searchName = sortData.data[i]["아파트명"] + " " + sortData.data[i]["법정동주소"]
@@ -146,17 +151,17 @@ function showSearchBar(){
 
               if(Number(selectedMonth) > 202203){
                 if(apt_type == "아파트"){
-                  addon_html += "<span class='aptYear'> (" + aptData.data[i]["준공년차"] + "년차)</span></div>";
+                  addon_html += "<span class='aptYear'> (" + sortData.data[i]["준공년차"] + "년차)</span></div>";
                 }
                 if(apt_type == "재건축"){
-                  addon_html += "<span class='aptYear'> (" + aptData.data[i]["준공년차"] + "년차, 재건축)</span></div>";
+                  addon_html += "<span class='aptYear'> (" + sortData.data[i]["준공년차"] + "년차, 재건축)</span></div>";
                 }
                 if(apt_type == "분양권"){
-                  addon_html += "<span class='aptYear'> (분양권, " + aptData.data[i]["준공년월"].substr(0, 7) + " 예정)</span></div>";
+                  addon_html += "<span class='aptYear'> (분양권, " + sortData.data[i]["준공년월"].substr(0, 7) + " 예정)</span></div>";
                 }      
               }
               else{
-                addon_html += "<span class='aptYear'> (" + aptData.data[i]["준공년차"] + "년차)</span></div>";
+                addon_html += "<span class='aptYear'> (" + sortData.data[i]["준공년차"] + "년차)</span></div>";
               }
               
               if(last_sales_date == "1800-01-01"){
@@ -166,7 +171,7 @@ function showSearchBar(){
                 addon_html += "<div class='apt_info'>"+ house_num.toLocaleString() + "세대 / " + Math.round(last_sales_price/100)/100 + "억, " + last_sales_area + ", " + last_sales_date_short + "</div>";
               }
               if(Number(selectedMonth) > 202203 && apt_type == "분양권"){                
-                addon_html += "<div class='apt_address'>" + aptData.data[i]["법정동주소"] + "</div>";
+                addon_html += "<div class='apt_address'>" + sortData.data[i]["법정동주소"] + "</div>";
               }
               else{
                 addon_html += "<div class='apt_address'>" + aptAddress + "</div>";

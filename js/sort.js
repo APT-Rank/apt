@@ -270,11 +270,11 @@
       showWeight()
       if(selectedRegion == 'Seoul' || selectedRegion == 'Incheon' || selectedRegion == 'Gyeonggi' || selectedRegion == 'Busan' || selectedRegion == 'Daegu' || selectedRegion == 'Daejeon' || selectedRegion == 'Gwangju'){
         total = Number(valLiving) + Number(valTrans) + Number(valInfra) + Number(valEdu)      
-        rearrange(aptData, valLiving/total, valTrans/total, valInfra/total, valEdu/total)
+        rearrange(sortData, valLiving/total, valTrans/total, valInfra/total, valEdu/total)
       }
       else{
         total = Number(valLiving) + Number(valInfra) + Number(valEdu)      
-        rearrange(aptData, valLiving/total, 0, valInfra/total, valEdu/total)
+        rearrange(sortData, valLiving/total, 0, valInfra/total, valEdu/total)
       }
       
       aptSearch()
