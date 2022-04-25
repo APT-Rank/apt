@@ -165,10 +165,10 @@ function showSearchBar(){
               }
               
               if(last_sales_date == "1800-01-01"){
-                addon_html += "<div class='apt_info'>" + house_num.toLocaleString() + "세대 / 거래 정보 없음</div>";
+                addon_html += "<div class='apt_info'><span class='aptNum'>" + house_num.toLocaleString() + "세대</span> / <span class='aptPrice'>거래 정보 없음</span></div>";
               }
               else{
-                addon_html += "<div class='apt_info'>"+ house_num.toLocaleString() + "세대 / " + Math.round(last_sales_price/100)/100 + "억, " + last_sales_area + ", " + last_sales_date_short + "</div>";
+                addon_html += "<div class='apt_info'><span class='aptNum'>"+ house_num.toLocaleString() + "세대</span> / <span class='aptPrice'>" + Math.round(last_sales_price/100)/100 + "억, " + last_sales_area + ", " + last_sales_date_short + "</span></div>";
               }
               if(Number(selectedMonth) > 202203 && apt_type == "분양권"){                
                 addon_html += "<div class='apt_address'>" + sortData.data[i]["법정동주소"] + "</div>";
