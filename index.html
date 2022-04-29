@@ -1586,12 +1586,13 @@
     detailHtml += "</ul>";
 
     footerHtml += "<div class='modal-footer'>"    
-    footerHtml += " <div id='footerCheck'><input class='form-check-input' type='checkbox' value='' id='flexCheckDefault'><label class='form-check-label' for='flexCheckDefault'><span class='notice'>3일 동안 보지 않기</span></label></div>"
+    footerHtml += " <div id='footerCheck'><input class='form-check-input' type='checkbox' value='' id='flexCheckDefault'><label class='form-check-label' for='flexCheckDefault'><span class='notice'>일주일 동안 보지 않기</span></label></div>"
     footerHtml += " <div id='footerBtn1'><a href='https://play.google.com/store/apps/details?id=com.aptrank.app' target='_blank'><button type='button' class='goApt' style='font-size: 0.85em'>앱 설치하기(안드로이드)</button></a></div>"
     //footerHtml += " <div><a href='https://open.kakao.com/o/sPYY0LZd' target='_blank'><button type='button' class='gokakao'>카카오톡 문의하기</button></a></div>"
     footerHtml += " <div id='footerBtn2'><a href='http://pf.kakao.com/_vESNb/chat' target='_blank'><button type='button' class='gokakao' style='font-size: 0.85em'>카카오톡 1:1 문의하기</button></a></div>"
     footerHtml += " <div id='footerBtn3'><a href='http://pf.kakao.com/_vESNb' target='_blank'><button type='button' class='gokakao' style='font-size: 0.85em'>카카오톡 채널로 업데이트 소식받기</button></a></div>"
-    footerHtml += "</div>"
+    footerHtml += "</div>"  
+
 
     $('#exampleModalLabel').html(titleHtml);
     $('#aptDetail').html(detailHtml);
@@ -1600,6 +1601,13 @@
     $('#footerCheck').css({"grid-column" : "span 2", "height" : "2em"})
     $('#footerBtn3').css({"grid-column" : "span 2"})
     $('.modal-footer').css({"padding-top" : "3px"})
+
+    if($.cookie('popCookie') == undefined){
+      $('#flexCheckDefault').prop("checked", false)
+    }
+    else{
+      $('#flexCheckDefault').prop("checked", true)
+    }
 
     $('#flexCheckDefault').change(function(){
       if($(this).is(':checked')){
