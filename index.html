@@ -773,7 +773,7 @@
     var populationScore = Math.round( aptData.data[index]["인구총점"] * 100 ) / 100
     var jobScore = Math.round( aptData.data[index]["일자리총점"] * 100 ) / 100
 
-    //Title
+    //타이틀
     //titleHtml += "<div class='popupTitle'>" + aptName + " " + apt_p + "(" + apt_m + ")</div>";
     titleHtml += "<div class='popupTitle'>" + aptName + "</div>";
     titleHtml += "<div class='popupSubtitle'>" + aptYear + "</div>";
@@ -782,7 +782,8 @@
       titleHtml += "<div class='popupSubtitle'>" + aptData.data[index]["법정동주소"] + "</div>";
     }
     else{
-      titleHtml += "<div class='popupSubtitle'>" + aptAddress + "</div>";
+      titleHtml += "<div class='popupSubtitle' style='font-size: 0.6em'>(신) " + aptAddress + "</div>";
+      titleHtml += "<div class='popupSubtitle' style='font-size: 0.6em'>(구) " + aptData.data[index]["법정동주소"] + "</div>";
     }    
 
     //총점,순위
@@ -797,6 +798,8 @@
     if (sortSelection == "sortInfra"){ sortName = "인프라우선" }
     if (sortSelection == "sortEdu"){ sortName = "교육우선" }
     if (sortSelection == "sortCustom"){ sortName = "커스텀" }
+
+      detailHtml += "<div class='popupSubtitle' style='font-size: 0.75em; text-align: center'>- " + $('#sido option:selected').text() + " " + $('#gungu option:selected').text() + " -</div>"
 
       if(selectedMonth == "202201"){
         detailHtml += "<div class='popRank'><i class='fas fa-trophy'></i> " + aptRank + "</div></div>";
@@ -820,7 +823,7 @@
         }
         else{
           detailHtml += "<span class='ranksame'>(" + sortName + ") </span>"
-        }
+        }                
         detailHtml += "</div></div>"
       }
 
