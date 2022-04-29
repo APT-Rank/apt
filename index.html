@@ -309,14 +309,7 @@
     var lastRegion = localStorage.getItem('lastRegion')
     var lastSubRegion = localStorage.getItem('lastSubRegion')
     var lastMonth = localStorage.getItem('lastMonth')
-    var lastNoticed = localStorage.getItem('lastNoticed')
-
-    console.log($.cookie('popCookie'))
-
-    if($.cookie('popCookie') == undefined){
-      showNotice()
-      $('div.modal').modal("show");
-    }
+    var lastNoticed = localStorage.getItem('lastNoticed')        
 
     //var lastRegion = sessionStorage.getItem('lastRegion')
     //var lastSubRegion = sessionStorage.getItem('lastSubRegion')
@@ -381,6 +374,11 @@
       var hash = this.id;
       history.replaceState('', document.title, window.location.pathname);
     })
+
+    if($.cookie('popCookie') == undefined){
+      showNotice()
+      $('div.modal').modal("show");
+    }
   });
 
   function showWeight(){
@@ -1511,11 +1509,10 @@
   function showNotice(){
     var titleHtml = "<div class='popupTitle'> 아파트랭크에서 알려드립니다 </div>";
     var footerHtml = ""
-    var detailHtml = "<div class='notice'> 안녕하세요. 아파트랭크입니다.</div>";
-    detailHtml += "<div class='notice'> 종합적인 아파트 정보를 제공하는 서비스가 많음에도 불구하고, 우리 지역의 진짜 입지 좋은 곳을 한 번에 판단하기가 너무 어려워 아파트랭크 서비스를 만들었습니다. </div>";    
-    detailHtml += "<div class='notice'> <strong> 아파트랭크의 점수는 가격을 제외한 환경 요소를 사용해 분석하며, 따라서 생각하시는 순위와 크게 다를 수 있습니다.</div>";    
-    detailHtml += "<div class='notice'> 아파트랭크의 점수는 투자지표가 아님을 말씀드리며, 투자 판단에 대한 모든 책임은 투자자 본인에게 있습니다.</strong></div>";
-    detailHtml += "<div class='notice'> 지속적인 업데이트를 통해 더 좋은 서비스를 제공하도록 노력하겠습니다. <strong>업데이트 알림은 <a href='http://pf.kakao.com/_vESNb' target='_blank'>카카오톡 채널</a>을 통해 전달됩니다.</strong></div>";
+    var detailHtml = "<div class='notice'> 종합적인 아파트 정보를 제공하는 서비스가 많음에도 불구하고, 우리 지역의 입지 좋은 곳을 한 번에 판단하기가 어려워 아파트랭크 서비스를 만들게 되었습니다. </div>";
+    detailHtml += "<div class='notice'> 아파트랭크의 점수는 '주거', '인프라', '교통', '교육환경'을 분석하여 계산되며, 그 결과는 생각하시는 순위와 크게 다를 수 있습니다.</div>";    
+    detailHtml += "<div class='notice'> <strong> 아파트랭크의 점수는 투자지표가 아님을 말씀드리며, 투자 판단에 대한 모든 책임은 투자자 본인에게 있습니다.</strong></div>";
+    detailHtml += "<div class='notice'> 업데이트 알림은 <a href='http://pf.kakao.com/_vESNb' target='_blank'>카카오톡 채널</a>을 통해 전달됩니다.</div>";
     detailHtml += "<hr>";
     if(selectedMonth == "202203"){
       detailHtml += "<div class='popupTitle' style='text-align: center; padding-bottom: 1em'> 2022년 3월 업데이트 안내</div>";
