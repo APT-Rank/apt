@@ -222,7 +222,7 @@ function drawPriceRateChart(dateArray, salesArray, rentArray){
         label: "매매지수",
         data: salesData,        
         borderColor: "#ff3d38",
-        borderWidth: 2,
+        borderWidth: 1,
         backgroundColor: "#ff3d38",
         pointRadius: 0
       },
@@ -230,7 +230,7 @@ function drawPriceRateChart(dateArray, salesArray, rentArray){
         label: "전세지수",
         data: rentData,
         borderColor: "#5589c9",
-        borderWidth: 2,
+        borderWidth: 1,
         backgroundColor: "#5589c9",
         pointRadius: 0
       }

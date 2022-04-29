@@ -562,6 +562,23 @@
     text-align: center;
   }
 
+  .form-check-input:checked{
+    background-color: #ff3d38 !important;
+    border-color:  #ff3d38 !important;
+  }  
+  .form-check-input:checked:focus{
+    box-shadow: 0 0 0 1px #fff, 0 0 0 0.2rem rgba(255, 200, 200, 0.25);
+    border-color:  #ff3d38;
+  }
+  .form-check-input:focus{
+    box-shadow: 0 0 0 1px #fff, 0 0 0 0.2rem rgba(255, 200, 200, 0.25);
+    border-color:  #ff3d38;
+  }
+  .form-check-input:active{
+    background-color: #ffcecc;
+    border-color:  #ff3d38;
+  }
+
   @media screen and (min-width: 800px){
     ::-webkit-scrollbar {
       display: 3px;
