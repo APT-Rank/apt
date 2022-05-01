@@ -945,7 +945,7 @@
     detailHtml += "<div class='popSubTable'><div class='popContent'>" + "5km 이내 아울렛/몰" + "</div>" + "<div class='popResult'>" + OutletMall_5km + "</div></div>";
     detailHtml += "<div class='popSubTable'><div class='popContent'>" + "1km 이내 대형마트" + "</div>" + "<div class='popResult'>" + bigMart_1km + "</div></div>";
     if(Number(selectedMonth) > 202204){
-      if(aptData.data[index]["300m이내상권"] == 0){
+      if(aptData.data[index]["300m이내상권"] == '0'){
         detailHtml += "<div class='popSubTable'><div class='popContent'>" + "300m 이내 상권" + "</div>" + "<div class='popResult'>0개</div></div>";
       }
       else{
@@ -1540,7 +1540,7 @@
   function showNotice(){
     var titleHtml = "<div class='popupTitle'> 아파트랭크에서 알려드립니다 </div>";
     var footerHtml = ""
-    var detailHtml = "<div class='notice'>아파트랭크는 '주거', '인프라', '교통', '교육환경'을 AI로 분석하여 점수로 계산하여 입지 정보를 제공하는 서비스 입니다."
+    var detailHtml = "<div class='notice'>아파트랭크는 '주거', '인프라', '교통', '교육환경'을 AI로 분석하여 점수로 계산하여 입지 정보를 제공하는 서비스 입니다.</div>"
     detailHtml +=  "<div class='notice'>아파트랭크의 점수는 '가격'요소를 제외하고 산정되며, 그 결과는 생각하시는 순위와 크게 다를 수 있습니다.</div>";
     detailHtml += "<div class='notice'><strong> 아파트랭크의 점수는 투자지표가 아님을 말씀드리며, 투자 판단에 대한 모든 책임은 투자자 본인에게 있습니다.</strong></div>";
     detailHtml += "<div class='notice'>업데이트 알림은 <a href='http://pf.kakao.com/_vESNb' target='_blank'>카카오톡 채널</a>을 통해 전달됩니다.</div>";
@@ -1600,14 +1600,14 @@
     if(selectedMonth == "202205"){
       detailHtml += "<div class='popupTitle' style='text-align: center; padding-bottom: 1em'> 2022년 5월 업데이트 안내 (2022-05-03)</div>";
       detailHtml += "<ul>"
-      detailHtml += "<li><div class='notice'> 도시형 생활주택을 단지 목록에서 제거했습니다.</li></div>";
-      detailHtml += "<li><div class='notice'> 서울과 수도권 주요역까지의 이동 시간을 '목요일 오전 8:30분' 출발시간으로 설정하여 일괄 재계산 했습니다.</li></div>";
+      detailHtml += "<li><div class='notice'> 도시형 생활주택을 단지 목록에서 제거했습니다.</div></li>";
+      detailHtml += "<li><div class='notice'> 서울과 수도권 주요역까지의 이동 시간을 '목요일 오전 8:30분' 출발시간으로 설정하여 일괄 재계산 했습니다.</div></li>";
       detailHtml += "<li><div class='notice'> 초등학교와의 거리 정보를 교육 점수에 반영했습니다.</div></li>";
-      detailHtml += "<li><div class='notice'> 학원가와의 거리, 학원의 개수를 교육 점수에 반영했습니다.</li></div>";
-      detailHtml += "<li><div class='notice'> 상권의 개수와 점포 수를 인프라 점수에 반영했습니다.</li></div>";      
-      detailHtml += "<li><div class='notice'> 서울, 부산 지역 '균형잡힌 가중치'의 '주거'를 상향하고 '교통'을 하향했습니다.</li></div>";
-      detailHtml += "<li><div class='notice'> 광주, 대전, 대구 지역 '균형잡힌 가중치'의 '교육'을 상향하고 '교통'을 하향했습니다.</li></div>";
-      detailHtml += "<li><div class='notice'> 혐오시설에 열병합발전소, 교정시설을 추가했습니다.</li></div>";
+      detailHtml += "<li><div class='notice'> 학원가와의 거리, 학원의 개수를 교육 점수에 반영했습니다.</div></li>";
+      detailHtml += "<li><div class='notice'> 상권의 개수와 점포 수를 인프라 점수에 반영했습니다.</div></li>";
+      detailHtml += "<li><div class='notice'> 서울, 부산 지역 '균형잡힌 가중치'의 '주거'를 상향하고 '교통'을 하향했습니다.</div></li>";
+      detailHtml += "<li><div class='notice'> 광주, 대전, 대구 지역 '균형잡힌 가중치'의 '교육'을 상향하고 '교통'을 하향했습니다.</div></li>";
+      detailHtml += "<li><div class='notice'> 혐오시설에 열병합발전소, 교정시설을 추가했습니다.</div></li>";
       detailHtml += "</ul>";
       detailHtml += "<hr>";
     }
@@ -1644,7 +1644,7 @@
     $('#footerBtn3').css({"grid-column" : "span 2"})
     $('.modal-footer').css({"padding-top" : "3px"})
 
-    if($.cookie('popCookie') == undefined){
+    if($.cookie('popCookie') == '202205'){
       $('#flexCheckDefault').prop("checked", false)
     }
     else{
