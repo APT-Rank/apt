@@ -491,7 +491,7 @@ function allShare(){
   shareTitle = "[아파트랭크]\n"
   shareTitle += selectedMonth.substr(0, 4) + "년 " + Number(selectedMonth.substr(4, 2)).toString() + "월,\n" + balanced[0]["region"] + " 요약\n\n"    
 
-    shareText += "『주거 환경 좋은 아파트』\n (재건축은 용적률과 건폐율) \n"
+    shareText = "『주거 환경 좋은 아파트』\n (재건축은 용적률과 건폐율) \n"
     for(var i = 0 ; i < 3 ; i++){
       shareText += (i+1) + "위) " + living[i]["name"]
       if(living[i]["apt_type"] == "아파트"){
@@ -561,7 +561,7 @@ function allShare(){
     }
 
     shareText += "\n"
-    shareText = "『균형잡힌 입지 조건 아파트』\n"
+    shareText += "『균형잡힌 입지 조건 아파트』\n"
     for(var i = 0 ; i < 3 ; i++){
       shareText += (i+1) + "위) " + balanced[i]["name"]
       if(balanced[i]["apt_type"] == "아파트"){
