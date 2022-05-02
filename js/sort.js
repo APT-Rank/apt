@@ -282,6 +282,7 @@
     }
     else{
       showWeight()
+      aptData = aptData_original
       aptSearch()
       $('html').scrollTop(0)
       //updateRegion()

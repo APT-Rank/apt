@@ -279,6 +279,7 @@
 
   var itemNum = 0;
   var aptData = "";
+  var aptData_original = "";
   var sortData = "";
   var prevValue = 0;
   var regData = "";
@@ -566,9 +567,13 @@
         sortData = json;
     })
 
+    $.getJSON(url, function(json) {        
+        aptData_original = json;
+    })
+
     $.getJSON(url, function(json) {
         //console.log(json);
-        aptData = json;
+        aptData = json;         
         //sortData = json;
         itemNum = json.data.length;
         valueSum = 0;
@@ -677,9 +682,11 @@
     detailHtml = "";
     footerHtml = "";
     if(sortSelection == "sortDefault"){
+      aptData = aptData_original
       var aptRank = aptData.data[index]["rank"] + "/" + aptData.data[itemNum-1]["rank"] + "위"
     }
     else{
+      aptData = sortData
       var aptRank = (index+1) + "/" + aptData.data[itemNum-1]["rank"] + "위"
     }
     var aptName = aptData.data[index]["아파트명"]
