@@ -63,6 +63,30 @@
         {
             "index":1,
             "sort":"balanced",
+            "name":"광교상록자이",
+            "search_code":102536,
+            "apt_type":"아파트",
+            "apt_year":10.0,
+            "value_score":81.522,
+            "region":"경기도 용인시 수지구",
+            "region_code":"Gyeonggi",
+            "sub_region_code":"4146500000_Gyeonggi_Yongin_Suji"
+        },
+        {
+            "index":2,
+            "sort":"balanced",
+            "name":"광교경남아너스빌",
+            "search_code":101239,
+            "apt_type":"아파트",
+            "apt_year":11.0,
+            "value_score":81.122,
+            "region":"경기도 용인시 수지구",
+            "region_code":"Gyeonggi",
+            "sub_region_code":"4146500000_Gyeonggi_Yongin_Suji"
+        },
+        {
+            "index":3,
+            "sort":"balanced",
             "name":"신정1단지주공",
             "search_code":3745,
             "apt_type":"아파트",
@@ -73,7 +97,19 @@
             "sub_region_code":"4146500000_Gyeonggi_Yongin_Suji"
         },
         {
-            "index":2,
+            "index":4,
+            "sort":"balanced",
+            "name":"광교마을45단지",
+            "search_code":137232,
+            "apt_type":"아파트",
+            "apt_year":8.0,
+            "value_score":76.222,
+            "region":"경기도 용인시 수지구",
+            "region_code":"Gyeonggi",
+            "sub_region_code":"4146500000_Gyeonggi_Yongin_Suji"
+        },
+        {
+            "index":5,
             "sort":"balanced",
             "name":"한국",
             "search_code":3741,
@@ -85,7 +121,7 @@
             "sub_region_code":"4146500000_Gyeonggi_Yongin_Suji"
         },
         {
-            "index":3,
+            "index":6,
             "sort":"balanced",
             "name":"동보",
             "search_code":3739,
@@ -97,7 +133,7 @@
             "sub_region_code":"4146500000_Gyeonggi_Yongin_Suji"
         },
         {
-            "index":4,
+            "index":7,
             "sort":"balanced",
             "name":"동천마을현대홈타운1차",
             "search_code":3705,
@@ -109,49 +145,13 @@
             "sub_region_code":"4146500000_Gyeonggi_Yongin_Suji"
         },
         {
-            "index":5,
-            "sort":"balanced",
-            "name":"성동마을강남빌리지",
-            "search_code":3093,
-            "apt_type":"아파트",
-            "apt_year":21.0,
-            "value_score":72.87715,
-            "region":"경기도 용인시 수지구",
-            "region_code":"Gyeonggi",
-            "sub_region_code":"4146500000_Gyeonggi_Yongin_Suji"
-        },
-        {
-            "index":6,
-            "sort":"balanced",
-            "name":"꽃메마을한라신영프로방스",
-            "search_code":8289,
-            "apt_type":"아파트",
-            "apt_year":18.0,
-            "value_score":72.2989,
-            "region":"경기도 용인시 수지구",
-            "region_code":"Gyeonggi",
-            "sub_region_code":"4146500000_Gyeonggi_Yongin_Suji"
-        },
-        {
-            "index":7,
-            "sort":"balanced",
-            "name":"벽산타운4단지",
-            "search_code":24301,
-            "apt_type":"아파트",
-            "apt_year":23.0,
-            "value_score":72.25545,
-            "region":"경기도 용인시 수지구",
-            "region_code":"Gyeonggi",
-            "sub_region_code":"4146500000_Gyeonggi_Yongin_Suji"
-        },
-        {
             "index":8,
             "sort":"balanced",
-            "name":"용인수지신정9단지주공",
-            "search_code":3746,
+            "name":"용인수지휴엔하임",
+            "search_code":108471,
             "apt_type":"아파트",
-            "apt_year":22.0,
-            "value_score":71.7813,
+            "apt_year":6.0,
+            "value_score":73.0313,
             "region":"경기도 용인시 수지구",
             "region_code":"Gyeonggi",
             "sub_region_code":"4146500000_Gyeonggi_Yongin_Suji"
@@ -159,11 +159,11 @@
         {
             "index":9,
             "sort":"balanced",
-            "name":"한성",
-            "search_code":2224,
+            "name":"성동마을강남빌리지",
+            "search_code":3093,
             "apt_type":"아파트",
-            "apt_year":27.0,
-            "value_score":71.0552353542,
+            "apt_year":21.0,
+            "value_score":72.87715,
             "region":"경기도 용인시 수지구",
             "region_code":"Gyeonggi",
             "sub_region_code":"4146500000_Gyeonggi_Yongin_Suji"
@@ -183,6 +183,30 @@
         {
             "index":11,
             "sort":"living",
+            "name":"광교상록자이",
+            "search_code":102536,
+            "apt_type":"아파트",
+            "apt_year":10.0,
+            "value_score":80.946,
+            "region":"경기도 용인시 수지구",
+            "region_code":"Gyeonggi",
+            "sub_region_code":"4146500000_Gyeonggi_Yongin_Suji"
+        },
+        {
+            "index":12,
+            "sort":"living",
+            "name":"광교경남아너스빌",
+            "search_code":101239,
+            "apt_type":"아파트",
+            "apt_year":11.0,
+            "value_score":79.396,
+            "region":"경기도 용인시 수지구",
+            "region_code":"Gyeonggi",
+            "sub_region_code":"4146500000_Gyeonggi_Yongin_Suji"
+        },
+        {
+            "index":13,
+            "sort":"living",
             "name":"성동마을LG빌리지1차",
             "search_code":3097,
             "apt_type":"아파트",
@@ -193,7 +217,7 @@
             "sub_region_code":"4146500000_Gyeonggi_Yongin_Suji"
         },
         {
-            "index":12,
+            "index":14,
             "sort":"living",
             "name":"동천센트럴자이",
             "search_code":112793,
@@ -205,7 +229,19 @@
             "sub_region_code":"4146500000_Gyeonggi_Yongin_Suji"
         },
         {
-            "index":13,
+            "index":15,
+            "sort":"living",
+            "name":"광교마을45단지",
+            "search_code":137232,
+            "apt_type":"아파트",
+            "apt_year":8.0,
+            "value_score":73.746,
+            "region":"경기도 용인시 수지구",
+            "region_code":"Gyeonggi",
+            "sub_region_code":"4146500000_Gyeonggi_Yongin_Suji"
+        },
+        {
+            "index":16,
             "sort":"living",
             "name":"신봉마을LG자이1차",
             "search_code":8246,
@@ -217,7 +253,7 @@
             "sub_region_code":"4146500000_Gyeonggi_Yongin_Suji"
         },
         {
-            "index":14,
+            "index":17,
             "sort":"living",
             "name":"신정1단지주공",
             "search_code":3745,
@@ -229,7 +265,7 @@
             "sub_region_code":"4146500000_Gyeonggi_Yongin_Suji"
         },
         {
-            "index":15,
+            "index":18,
             "sort":"living",
             "name":"성복역롯데캐슬클라시엘",
             "search_code":121999,
@@ -241,49 +277,13 @@
             "sub_region_code":"4146500000_Gyeonggi_Yongin_Suji"
         },
         {
-            "index":16,
-            "sort":"living",
-            "name":"e편한세상수지(주상복합)",
-            "search_code":109948,
-            "apt_type":"아파트",
-            "apt_year":5.0,
-            "value_score":70.9084,
-            "region":"경기도 용인시 수지구",
-            "region_code":"Gyeonggi",
-            "sub_region_code":"4146500000_Gyeonggi_Yongin_Suji"
-        },
-        {
-            "index":17,
-            "sort":"living",
-            "name":"진산마을삼성5차",
-            "search_code":8213,
-            "apt_type":"아파트",
-            "apt_year":19.0,
-            "value_score":70.1002,
-            "region":"경기도 용인시 수지구",
-            "region_code":"Gyeonggi",
-            "sub_region_code":"4146500000_Gyeonggi_Yongin_Suji"
-        },
-        {
-            "index":18,
-            "sort":"living",
-            "name":"꽃메마을현대홈타운4차3단지",
-            "search_code":8727,
-            "apt_type":"아파트",
-            "apt_year":18.0,
-            "value_score":69.9152,
-            "region":"경기도 용인시 수지구",
-            "region_code":"Gyeonggi",
-            "sub_region_code":"4146500000_Gyeonggi_Yongin_Suji"
-        },
-        {
             "index":19,
             "sort":"living",
-            "name":"더샵동천이스트포레",
-            "search_code":115644,
+            "name":"심곡마을광교힐스테이트",
+            "search_code":26235,
             "apt_type":"아파트",
-            "apt_year":2.0,
-            "value_score":69.8508,
+            "apt_year":13.0,
+            "value_score":71.3784,
             "region":"경기도 용인시 수지구",
             "region_code":"Gyeonggi",
             "sub_region_code":"4146500000_Gyeonggi_Yongin_Suji"
@@ -315,6 +315,30 @@
         {
             "index":22,
             "sort":"transport",
+            "name":"광교상록자이",
+            "search_code":102536,
+            "apt_type":"아파트",
+            "apt_year":10.0,
+            "value_score":79.897,
+            "region":"경기도 용인시 수지구",
+            "region_code":"Gyeonggi",
+            "sub_region_code":"4146500000_Gyeonggi_Yongin_Suji"
+        },
+        {
+            "index":23,
+            "sort":"transport",
+            "name":"광교경남아너스빌",
+            "search_code":101239,
+            "apt_type":"아파트",
+            "apt_year":11.0,
+            "value_score":79.572,
+            "region":"경기도 용인시 수지구",
+            "region_code":"Gyeonggi",
+            "sub_region_code":"4146500000_Gyeonggi_Yongin_Suji"
+        },
+        {
+            "index":24,
+            "sort":"transport",
             "name":"한국",
             "search_code":3741,
             "apt_type":"아파트",
@@ -325,7 +349,7 @@
             "sub_region_code":"4146500000_Gyeonggi_Yongin_Suji"
         },
         {
-            "index":23,
+            "index":25,
             "sort":"transport",
             "name":"동천마을현대홈타운1차",
             "search_code":3705,
@@ -337,7 +361,19 @@
             "sub_region_code":"4146500000_Gyeonggi_Yongin_Suji"
         },
         {
-            "index":24,
+            "index":26,
+            "sort":"transport",
+            "name":"광교마을45단지",
+            "search_code":137232,
+            "apt_type":"아파트",
+            "apt_year":8.0,
+            "value_score":76.197,
+            "region":"경기도 용인시 수지구",
+            "region_code":"Gyeonggi",
+            "sub_region_code":"4146500000_Gyeonggi_Yongin_Suji"
+        },
+        {
+            "index":27,
             "sort":"transport",
             "name":"동보",
             "search_code":3739,
@@ -349,7 +385,7 @@
             "sub_region_code":"4146500000_Gyeonggi_Yongin_Suji"
         },
         {
-            "index":25,
+            "index":28,
             "sort":"transport",
             "name":"벽산타운4단지",
             "search_code":24301,
@@ -361,55 +397,43 @@
             "sub_region_code":"4146500000_Gyeonggi_Yongin_Suji"
         },
         {
-            "index":26,
-            "sort":"transport",
-            "name":"창죽마을벽산첼시빌",
-            "search_code":9286,
-            "apt_type":"아파트",
-            "apt_year":21.0,
-            "value_score":74.28545,
-            "region":"경기도 용인시 수지구",
-            "region_code":"Gyeonggi",
-            "sub_region_code":"4146500000_Gyeonggi_Yongin_Suji"
-        },
-        {
-            "index":27,
-            "sort":"transport",
-            "name":"한성",
-            "search_code":2224,
-            "apt_type":"아파트",
-            "apt_year":27.0,
-            "value_score":74.2052353542,
-            "region":"경기도 용인시 수지구",
-            "region_code":"Gyeonggi",
-            "sub_region_code":"4146500000_Gyeonggi_Yongin_Suji"
-        },
-        {
-            "index":28,
-            "sort":"transport",
-            "name":"용인수지벽산타운2단지",
-            "search_code":24290,
-            "apt_type":"아파트",
-            "apt_year":25.0,
-            "value_score":73.76045,
-            "region":"경기도 용인시 수지구",
-            "region_code":"Gyeonggi",
-            "sub_region_code":"4146500000_Gyeonggi_Yongin_Suji"
-        },
-        {
             "index":29,
             "sort":"transport",
-            "name":"벽산타운1단지",
-            "search_code":2223,
+            "name":"성복역삼성쉐르빌",
+            "search_code":9216,
             "apt_type":"아파트",
-            "apt_year":25.0,
-            "value_score":73.76045,
+            "apt_year":22.0,
+            "value_score":74.4788,
             "region":"경기도 용인시 수지구",
             "region_code":"Gyeonggi",
             "sub_region_code":"4146500000_Gyeonggi_Yongin_Suji"
         },
         {
             "index":30,
+            "sort":"infra",
+            "name":"광교경남아너스빌",
+            "search_code":101239,
+            "apt_type":"아파트",
+            "apt_year":11.0,
+            "value_score":82.97,
+            "region":"경기도 용인시 수지구",
+            "region_code":"Gyeonggi",
+            "sub_region_code":"4146500000_Gyeonggi_Yongin_Suji"
+        },
+        {
+            "index":31,
+            "sort":"infra",
+            "name":"광교상록자이",
+            "search_code":102536,
+            "apt_type":"아파트",
+            "apt_year":10.0,
+            "value_score":82.82,
+            "region":"경기도 용인시 수지구",
+            "region_code":"Gyeonggi",
+            "sub_region_code":"4146500000_Gyeonggi_Yongin_Suji"
+        },
+        {
+            "index":32,
             "sort":"infra",
             "name":"신정1단지주공",
             "search_code":3745,
@@ -421,7 +445,7 @@
             "sub_region_code":"4146500000_Gyeonggi_Yongin_Suji"
         },
         {
-            "index":31,
+            "index":33,
             "sort":"infra",
             "name":"성복역롯데캐슬골드타운(주상복합)",
             "search_code":111555,
@@ -433,7 +457,43 @@
             "sub_region_code":"4146500000_Gyeonggi_Yongin_Suji"
         },
         {
-            "index":32,
+            "index":34,
+            "sort":"infra",
+            "name":"상현마을현대성우5차",
+            "search_code":3704,
+            "apt_type":"아파트",
+            "apt_year":19.0,
+            "value_score":77.998,
+            "region":"경기도 용인시 수지구",
+            "region_code":"Gyeonggi",
+            "sub_region_code":"4146500000_Gyeonggi_Yongin_Suji"
+        },
+        {
+            "index":35,
+            "sort":"infra",
+            "name":"만현마을쌍용3차",
+            "search_code":3709,
+            "apt_type":"아파트",
+            "apt_year":21.0,
+            "value_score":77.298,
+            "region":"경기도 용인시 수지구",
+            "region_code":"Gyeonggi",
+            "sub_region_code":"4146500000_Gyeonggi_Yongin_Suji"
+        },
+        {
+            "index":36,
+            "sort":"infra",
+            "name":"용인수지휴엔하임",
+            "search_code":108471,
+            "apt_type":"아파트",
+            "apt_year":6.0,
+            "value_score":77.1855,
+            "region":"경기도 용인시 수지구",
+            "region_code":"Gyeonggi",
+            "sub_region_code":"4146500000_Gyeonggi_Yongin_Suji"
+        },
+        {
+            "index":37,
             "sort":"infra",
             "name":"꽃메마을한라신영프로방스",
             "search_code":8289,
@@ -445,73 +505,13 @@
             "sub_region_code":"4146500000_Gyeonggi_Yongin_Suji"
         },
         {
-            "index":33,
-            "sort":"infra",
-            "name":"한국",
-            "search_code":3741,
-            "apt_type":"아파트",
-            "apt_year":27.0,
-            "value_score":74.83425,
-            "region":"경기도 용인시 수지구",
-            "region_code":"Gyeonggi",
-            "sub_region_code":"4146500000_Gyeonggi_Yongin_Suji"
-        },
-        {
-            "index":34,
-            "sort":"infra",
-            "name":"용인수지신정9단지주공",
-            "search_code":3746,
-            "apt_type":"아파트",
-            "apt_year":22.0,
-            "value_score":74.6355,
-            "region":"경기도 용인시 수지구",
-            "region_code":"Gyeonggi",
-            "sub_region_code":"4146500000_Gyeonggi_Yongin_Suji"
-        },
-        {
-            "index":35,
-            "sort":"infra",
-            "name":"꽃메마을현대홈타운4차4단지",
-            "search_code":8728,
-            "apt_type":"아파트",
-            "apt_year":18.0,
-            "value_score":74.1815,
-            "region":"경기도 용인시 수지구",
-            "region_code":"Gyeonggi",
-            "sub_region_code":"4146500000_Gyeonggi_Yongin_Suji"
-        },
-        {
-            "index":36,
-            "sort":"infra",
-            "name":"동보",
-            "search_code":3739,
-            "apt_type":"아파트",
-            "apt_year":27.0,
-            "value_score":73.88425,
-            "region":"경기도 용인시 수지구",
-            "region_code":"Gyeonggi",
-            "sub_region_code":"4146500000_Gyeonggi_Yongin_Suji"
-        },
-        {
-            "index":37,
-            "sort":"infra",
-            "name":"성동마을강남빌리지",
-            "search_code":3093,
-            "apt_type":"아파트",
-            "apt_year":21.0,
-            "value_score":73.54525,
-            "region":"경기도 용인시 수지구",
-            "region_code":"Gyeonggi",
-            "sub_region_code":"4146500000_Gyeonggi_Yongin_Suji"
-        },
-        {
             "index":38,
             "sort":"infra",
-            "name":"현대",
-            "search_code":2225,
+            "name":"광교마을45단지",
+            "search_code":137232,
             "apt_type":"아파트",
-            "apt_year":28.0,
-            "value_score":72.78425,
+            "apt_year":8.0,
+            "value_score":76.32,
             "region":"경기도 용인시 수지구",
             "region_code":"Gyeonggi",
             "sub_region_code":"4146500000_Gyeonggi_Yongin_Suji"
@@ -519,17 +519,41 @@
         {
             "index":39,
             "sort":"infra",
-            "name":"꽃메마을금강",
-            "search_code":22188,
+            "name":"만현마을5단지아이파크",
+            "search_code":9014,
             "apt_type":"아파트",
-            "apt_year":18.0,
-            "value_score":72.1815,
+            "apt_year":20.0,
+            "value_score":76.198,
             "region":"경기도 용인시 수지구",
             "region_code":"Gyeonggi",
             "sub_region_code":"4146500000_Gyeonggi_Yongin_Suji"
         },
         {
             "index":40,
+            "sort":"education",
+            "name":"광교상록자이",
+            "search_code":102536,
+            "apt_type":"아파트",
+            "apt_year":10.0,
+            "value_score":76.44,
+            "region":"경기도 용인시 수지구",
+            "region_code":"Gyeonggi",
+            "sub_region_code":"4146500000_Gyeonggi_Yongin_Suji"
+        },
+        {
+            "index":41,
+            "sort":"education",
+            "name":"광교경남아너스빌",
+            "search_code":101239,
+            "apt_type":"아파트",
+            "apt_year":11.0,
+            "value_score":75.94,
+            "region":"경기도 용인시 수지구",
+            "region_code":"Gyeonggi",
+            "sub_region_code":"4146500000_Gyeonggi_Yongin_Suji"
+        },
+        {
+            "index":42,
             "sort":"education",
             "name":"신정1단지주공",
             "search_code":3745,
@@ -541,7 +565,7 @@
             "sub_region_code":"4146500000_Gyeonggi_Yongin_Suji"
         },
         {
-            "index":41,
+            "index":43,
             "sort":"education",
             "name":"성복역롯데캐슬골드타운(주상복합)",
             "search_code":111555,
@@ -553,7 +577,7 @@
             "sub_region_code":"4146500000_Gyeonggi_Yongin_Suji"
         },
         {
-            "index":42,
+            "index":44,
             "sort":"education",
             "name":"꽃메마을한라신영프로방스",
             "search_code":8289,
@@ -565,7 +589,19 @@
             "sub_region_code":"4146500000_Gyeonggi_Yongin_Suji"
         },
         {
-            "index":43,
+            "index":45,
+            "sort":"education",
+            "name":"광교마을45단지",
+            "search_code":137232,
+            "apt_type":"아파트",
+            "apt_year":8.0,
+            "value_score":72.24,
+            "region":"경기도 용인시 수지구",
+            "region_code":"Gyeonggi",
+            "sub_region_code":"4146500000_Gyeonggi_Yongin_Suji"
+        },
+        {
+            "index":46,
             "sort":"education",
             "name":"꽃메마을현대홈타운4차3단지",
             "search_code":8727,
@@ -577,7 +613,19 @@
             "sub_region_code":"4146500000_Gyeonggi_Yongin_Suji"
         },
         {
-            "index":44,
+            "index":47,
+            "sort":"education",
+            "name":"상현마을현대성우5차",
+            "search_code":3704,
+            "apt_type":"아파트",
+            "apt_year":19.0,
+            "value_score":70.996,
+            "region":"경기도 용인시 수지구",
+            "region_code":"Gyeonggi",
+            "sub_region_code":"4146500000_Gyeonggi_Yongin_Suji"
+        },
+        {
+            "index":48,
             "sort":"education",
             "name":"용인수지신정9단지주공",
             "search_code":3746,
@@ -589,61 +637,13 @@
             "sub_region_code":"4146500000_Gyeonggi_Yongin_Suji"
         },
         {
-            "index":45,
-            "sort":"education",
-            "name":"동보",
-            "search_code":3739,
-            "apt_type":"아파트",
-            "apt_year":27.0,
-            "value_score":70.1685,
-            "region":"경기도 용인시 수지구",
-            "region_code":"Gyeonggi",
-            "sub_region_code":"4146500000_Gyeonggi_Yongin_Suji"
-        },
-        {
-            "index":46,
-            "sort":"education",
-            "name":"꽃메마을현대홈타운4차4단지",
-            "search_code":8728,
-            "apt_type":"아파트",
-            "apt_year":18.0,
-            "value_score":70.163,
-            "region":"경기도 용인시 수지구",
-            "region_code":"Gyeonggi",
-            "sub_region_code":"4146500000_Gyeonggi_Yongin_Suji"
-        },
-        {
-            "index":47,
-            "sort":"education",
-            "name":"한국",
-            "search_code":3741,
-            "apt_type":"아파트",
-            "apt_year":27.0,
-            "value_score":69.2685,
-            "region":"경기도 용인시 수지구",
-            "region_code":"Gyeonggi",
-            "sub_region_code":"4146500000_Gyeonggi_Yongin_Suji"
-        },
-        {
-            "index":48,
-            "sort":"education",
-            "name":"성동마을LG빌리지1차",
-            "search_code":3097,
-            "apt_type":"아파트",
-            "apt_year":21.0,
-            "value_score":69.1905,
-            "region":"경기도 용인시 수지구",
-            "region_code":"Gyeonggi",
-            "sub_region_code":"4146500000_Gyeonggi_Yongin_Suji"
-        },
-        {
             "index":49,
             "sort":"education",
-            "name":"현대",
-            "search_code":2225,
+            "name":"만현마을5단지아이파크",
+            "search_code":9014,
             "apt_type":"아파트",
-            "apt_year":28.0,
-            "value_score":68.7685,
+            "apt_year":20.0,
+            "value_score":70.196,
             "region":"경기도 용인시 수지구",
             "region_code":"Gyeonggi",
             "sub_region_code":"4146500000_Gyeonggi_Yongin_Suji"
