@@ -51,6 +51,30 @@
         {
             "index":0,
             "sort":"balanced",
+            "name":"시흥5차푸르지오(주상복합)",
+            "search_code":103158,
+            "apt_type":"아파트",
+            "apt_year":11.0,
+            "value_score":55.33765,
+            "region":"경기도 시흥시",
+            "region_code":"Gyeonggi",
+            "sub_region_code":"4139000000_Gyeonggi_Siheung"
+        },
+        {
+            "index":1,
+            "sort":"balanced",
+            "name":"시흥센트럴푸르지오(주상복합)",
+            "search_code":115426,
+            "apt_type":"아파트",
+            "apt_year":2.0,
+            "value_score":54.89075,
+            "region":"경기도 시흥시",
+            "region_code":"Gyeonggi",
+            "sub_region_code":"4139000000_Gyeonggi_Siheung"
+        },
+        {
+            "index":2,
+            "sort":"balanced",
             "name":"영남2차",
             "search_code":1854,
             "apt_type":"재건축",
@@ -61,7 +85,7 @@
             "sub_region_code":"4139000000_Gyeonggi_Siheung"
         },
         {
-            "index":1,
+            "index":3,
             "sort":"balanced",
             "name":"늘푸른벽산",
             "search_code":4004,
@@ -73,7 +97,7 @@
             "sub_region_code":"4139000000_Gyeonggi_Siheung"
         },
         {
-            "index":2,
+            "index":4,
             "sort":"balanced",
             "name":"영남1차",
             "search_code":1855,
@@ -85,7 +109,7 @@
             "sub_region_code":"4139000000_Gyeonggi_Siheung"
         },
         {
-            "index":3,
+            "index":5,
             "sort":"balanced",
             "name":"보성",
             "search_code":2498,
@@ -97,7 +121,7 @@
             "sub_region_code":"4139000000_Gyeonggi_Siheung"
         },
         {
-            "index":4,
+            "index":6,
             "sort":"balanced",
             "name":"부성파인하버뷰(주상복합)",
             "search_code":125276,
@@ -109,7 +133,7 @@
             "sub_region_code":"4139000000_Gyeonggi_Siheung"
         },
         {
-            "index":5,
+            "index":7,
             "sort":"balanced",
             "name":"시흥월곶역블루밍더마크(주상복합)",
             "search_code":125265,
@@ -121,7 +145,7 @@
             "sub_region_code":"4139000000_Gyeonggi_Siheung"
         },
         {
-            "index":6,
+            "index":8,
             "sort":"balanced",
             "name":"대야역두산위브더파크",
             "search_code":120092,
@@ -133,37 +157,13 @@
             "sub_region_code":"4139000000_Gyeonggi_Siheung"
         },
         {
-            "index":7,
+            "index":9,
             "sort":"balanced",
             "name":"월곶풍림아이원2차",
             "search_code":11188,
             "apt_type":"아파트",
             "apt_year":17.0,
             "value_score":48.1308,
-            "region":"경기도 시흥시",
-            "region_code":"Gyeonggi",
-            "sub_region_code":"4139000000_Gyeonggi_Siheung"
-        },
-        {
-            "index":8,
-            "sort":"balanced",
-            "name":"시흥배곧한신더휴",
-            "search_code":110216,
-            "apt_type":"아파트",
-            "apt_year":4.0,
-            "value_score":47.9171,
-            "region":"경기도 시흥시",
-            "region_code":"Gyeonggi",
-            "sub_region_code":"4139000000_Gyeonggi_Siheung"
-        },
-        {
-            "index":9,
-            "sort":"balanced",
-            "name":"월곶풍림아이원4차",
-            "search_code":19181,
-            "apt_type":"아파트",
-            "apt_year":16.0,
-            "value_score":47.7308,
             "region":"경기도 시흥시",
             "region_code":"Gyeonggi",
             "sub_region_code":"4139000000_Gyeonggi_Siheung"
@@ -231,6 +231,18 @@
         {
             "index":15,
             "sort":"living",
+            "name":"시흥센트럴푸르지오(주상복합)",
+            "search_code":115426,
+            "apt_type":"아파트",
+            "apt_year":2.0,
+            "value_score":64.071,
+            "region":"경기도 시흥시",
+            "region_code":"Gyeonggi",
+            "sub_region_code":"4139000000_Gyeonggi_Siheung"
+        },
+        {
+            "index":16,
+            "sort":"living",
             "name":"은계파크자이",
             "search_code":122403,
             "apt_type":"아파트",
@@ -241,7 +253,7 @@
             "sub_region_code":"4139000000_Gyeonggi_Siheung"
         },
         {
-            "index":16,
+            "index":17,
             "sort":"living",
             "name":"시흥배곧SK뷰",
             "search_code":106123,
@@ -253,7 +265,7 @@
             "sub_region_code":"4139000000_Gyeonggi_Siheung"
         },
         {
-            "index":17,
+            "index":18,
             "sort":"living",
             "name":"시흥배곧신도시호반베르디움센트럴파크",
             "search_code":106126,
@@ -265,7 +277,7 @@
             "sub_region_code":"4139000000_Gyeonggi_Siheung"
         },
         {
-            "index":18,
+            "index":19,
             "sort":"living",
             "name":"시흥은계우미린더퍼스트",
             "search_code":115158,
@@ -277,19 +289,19 @@
             "sub_region_code":"4139000000_Gyeonggi_Siheung"
         },
         {
-            "index":19,
-            "sort":"living",
-            "name":"은계브리즈힐",
-            "search_code":115535,
+            "index":20,
+            "sort":"transport",
+            "name":"시흥5차푸르지오(주상복합)",
+            "search_code":103158,
             "apt_type":"아파트",
-            "apt_year":3.0,
-            "value_score":61.9866,
+            "apt_year":11.0,
+            "value_score":55.06265,
             "region":"경기도 시흥시",
             "region_code":"Gyeonggi",
             "sub_region_code":"4139000000_Gyeonggi_Siheung"
         },
         {
-            "index":20,
+            "index":21,
             "sort":"transport",
             "name":"영남2차",
             "search_code":1854,
@@ -301,7 +313,19 @@
             "sub_region_code":"4139000000_Gyeonggi_Siheung"
         },
         {
-            "index":21,
+            "index":22,
+            "sort":"transport",
+            "name":"시흥센트럴푸르지오(주상복합)",
+            "search_code":115426,
+            "apt_type":"아파트",
+            "apt_year":2.0,
+            "value_score":53.91575,
+            "region":"경기도 시흥시",
+            "region_code":"Gyeonggi",
+            "sub_region_code":"4139000000_Gyeonggi_Siheung"
+        },
+        {
+            "index":23,
             "sort":"transport",
             "name":"부성파인하버뷰(주상복합)",
             "search_code":125276,
@@ -313,7 +337,7 @@
             "sub_region_code":"4139000000_Gyeonggi_Siheung"
         },
         {
-            "index":22,
+            "index":24,
             "sort":"transport",
             "name":"보성",
             "search_code":2498,
@@ -325,7 +349,7 @@
             "sub_region_code":"4139000000_Gyeonggi_Siheung"
         },
         {
-            "index":23,
+            "index":25,
             "sort":"transport",
             "name":"시흥월곶역블루밍더마크(주상복합)",
             "search_code":125265,
@@ -337,7 +361,7 @@
             "sub_region_code":"4139000000_Gyeonggi_Siheung"
         },
         {
-            "index":24,
+            "index":26,
             "sort":"transport",
             "name":"월곶풍림아이원2차",
             "search_code":11188,
@@ -349,7 +373,7 @@
             "sub_region_code":"4139000000_Gyeonggi_Siheung"
         },
         {
-            "index":25,
+            "index":27,
             "sort":"transport",
             "name":"월곶풍림아이원4차",
             "search_code":19181,
@@ -361,7 +385,7 @@
             "sub_region_code":"4139000000_Gyeonggi_Siheung"
         },
         {
-            "index":26,
+            "index":28,
             "sort":"transport",
             "name":"늘푸른벽산",
             "search_code":4004,
@@ -373,37 +397,13 @@
             "sub_region_code":"4139000000_Gyeonggi_Siheung"
         },
         {
-            "index":27,
+            "index":29,
             "sort":"transport",
             "name":"영남1차",
             "search_code":1855,
             "apt_type":"재건축",
             "apt_year":36.0,
             "value_score":50.53435,
-            "region":"경기도 시흥시",
-            "region_code":"Gyeonggi",
-            "sub_region_code":"4139000000_Gyeonggi_Siheung"
-        },
-        {
-            "index":28,
-            "sort":"transport",
-            "name":"진주마을풍림아이원1차",
-            "search_code":8810,
-            "apt_type":"아파트",
-            "apt_year":20.0,
-            "value_score":49.6137668894,
-            "region":"경기도 시흥시",
-            "region_code":"Gyeonggi",
-            "sub_region_code":"4139000000_Gyeonggi_Siheung"
-        },
-        {
-            "index":29,
-            "sort":"transport",
-            "name":"세종2차",
-            "search_code":1898,
-            "apt_type":"아파트",
-            "apt_year":25.0,
-            "value_score":49.5653,
             "region":"경기도 시흥시",
             "region_code":"Gyeonggi",
             "sub_region_code":"4139000000_Gyeonggi_Siheung"
@@ -423,6 +423,18 @@
         {
             "index":31,
             "sort":"infra",
+            "name":"시흥5차푸르지오(주상복합)",
+            "search_code":103158,
+            "apt_type":"아파트",
+            "apt_year":11.0,
+            "value_score":53.61275,
+            "region":"경기도 시흥시",
+            "region_code":"Gyeonggi",
+            "sub_region_code":"4139000000_Gyeonggi_Siheung"
+        },
+        {
+            "index":32,
+            "sort":"infra",
             "name":"늘푸른벽산",
             "search_code":4004,
             "apt_type":"아파트",
@@ -433,7 +445,7 @@
             "sub_region_code":"4139000000_Gyeonggi_Siheung"
         },
         {
-            "index":32,
+            "index":33,
             "sort":"infra",
             "name":"시흥배곧C1호반써밋플레이스(주상복합)",
             "search_code":113269,
@@ -445,7 +457,7 @@
             "sub_region_code":"4139000000_Gyeonggi_Siheung"
         },
         {
-            "index":33,
+            "index":34,
             "sort":"infra",
             "name":"대우3차",
             "search_code":1877,
@@ -457,7 +469,7 @@
             "sub_region_code":"4139000000_Gyeonggi_Siheung"
         },
         {
-            "index":34,
+            "index":35,
             "sort":"infra",
             "name":"호반베르디움센트로하임",
             "search_code":109817,
@@ -469,7 +481,7 @@
             "sub_region_code":"4139000000_Gyeonggi_Siheung"
         },
         {
-            "index":35,
+            "index":36,
             "sort":"infra",
             "name":"호반베르디움더프라임",
             "search_code":108480,
@@ -481,7 +493,7 @@
             "sub_region_code":"4139000000_Gyeonggi_Siheung"
         },
         {
-            "index":36,
+            "index":37,
             "sort":"infra",
             "name":"시흥배곧C2호반써밋플레이스(주상복합)",
             "search_code":113270,
@@ -493,25 +505,13 @@
             "sub_region_code":"4139000000_Gyeonggi_Siheung"
         },
         {
-            "index":37,
-            "sort":"infra",
-            "name":"보성",
-            "search_code":2498,
-            "apt_type":"아파트",
-            "apt_year":24.0,
-            "value_score":49.1005,
-            "region":"경기도 시흥시",
-            "region_code":"Gyeonggi",
-            "sub_region_code":"4139000000_Gyeonggi_Siheung"
-        },
-        {
             "index":38,
             "sort":"infra",
-            "name":"우성1차",
-            "search_code":7990,
+            "name":"시흥센트럴푸르지오(주상복합)",
+            "search_code":115426,
             "apt_type":"아파트",
-            "apt_year":27.0,
-            "value_score":48.83225,
+            "apt_year":2.0,
+            "value_score":49.70125,
             "region":"경기도 시흥시",
             "region_code":"Gyeonggi",
             "sub_region_code":"4139000000_Gyeonggi_Siheung"
@@ -519,11 +519,11 @@
         {
             "index":39,
             "sort":"infra",
-            "name":"문영센스빌",
-            "search_code":9415,
+            "name":"보성",
+            "search_code":2498,
             "apt_type":"아파트",
-            "apt_year":20.0,
-            "value_score":48.7505,
+            "apt_year":24.0,
+            "value_score":49.1005,
             "region":"경기도 시흥시",
             "region_code":"Gyeonggi",
             "sub_region_code":"4139000000_Gyeonggi_Siheung"
