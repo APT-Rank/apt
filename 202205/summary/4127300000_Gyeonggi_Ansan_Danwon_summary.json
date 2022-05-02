@@ -51,6 +51,30 @@
         {
             "index":0,
             "sort":"balanced",
+            "name":"안산센트럴푸르지오",
+            "search_code":111170,
+            "apt_type":"아파트",
+            "apt_year":4.0,
+            "value_score":73.2522,
+            "region":"경기도 안산시 단원구",
+            "region_code":"Gyeonggi",
+            "sub_region_code":"4127300000_Gyeonggi_Ansan_Danwon"
+        },
+        {
+            "index":1,
+            "sort":"balanced",
+            "name":"안산고잔푸르지오3차",
+            "search_code":3664,
+            "apt_type":"아파트",
+            "apt_year":19.0,
+            "value_score":67.58985,
+            "region":"경기도 안산시 단원구",
+            "region_code":"Gyeonggi",
+            "sub_region_code":"4127300000_Gyeonggi_Ansan_Danwon"
+        },
+        {
+            "index":2,
+            "sort":"balanced",
             "name":"안산레이크타운푸르지오",
             "search_code":106156,
             "apt_type":"아파트",
@@ -61,7 +85,7 @@
             "sub_region_code":"4127300000_Gyeonggi_Ansan_Danwon"
         },
         {
-            "index":1,
+            "index":3,
             "sort":"balanced",
             "name":"주공그린빌7단지",
             "search_code":3666,
@@ -73,7 +97,7 @@
             "sub_region_code":"4127300000_Gyeonggi_Ansan_Danwon"
         },
         {
-            "index":2,
+            "index":4,
             "sort":"balanced",
             "name":"네오빌6단지",
             "search_code":8323,
@@ -85,7 +109,19 @@
             "sub_region_code":"4127300000_Gyeonggi_Ansan_Danwon"
         },
         {
-            "index":3,
+            "index":5,
+            "sort":"balanced",
+            "name":"힐스테이트중앙",
+            "search_code":112360,
+            "apt_type":"아파트",
+            "apt_year":4.0,
+            "value_score":62.6022,
+            "region":"경기도 안산시 단원구",
+            "region_code":"Gyeonggi",
+            "sub_region_code":"4127300000_Gyeonggi_Ansan_Danwon"
+        },
+        {
+            "index":6,
             "sort":"balanced",
             "name":"단원금강",
             "search_code":3659,
@@ -97,19 +133,7 @@
             "sub_region_code":"4127300000_Gyeonggi_Ansan_Danwon"
         },
         {
-            "index":4,
-            "sort":"balanced",
-            "name":"안산고잔푸르지오3차",
-            "search_code":3664,
-            "apt_type":"아파트",
-            "apt_year":19.0,
-            "value_score":62.33985,
-            "region":"경기도 안산시 단원구",
-            "region_code":"Gyeonggi",
-            "sub_region_code":"4127300000_Gyeonggi_Ansan_Danwon"
-        },
-        {
-            "index":5,
+            "index":7,
             "sort":"balanced",
             "name":"안산고잔푸르지오4차",
             "search_code":3663,
@@ -121,7 +145,7 @@
             "sub_region_code":"4127300000_Gyeonggi_Ansan_Danwon"
         },
         {
-            "index":6,
+            "index":8,
             "sort":"balanced",
             "name":"군자주공15단지",
             "search_code":1948,
@@ -133,7 +157,7 @@
             "sub_region_code":"4127300000_Gyeonggi_Ansan_Danwon"
         },
         {
-            "index":7,
+            "index":9,
             "sort":"balanced",
             "name":"초지역메이저타운푸르지오에코단지",
             "search_code":113909,
@@ -145,31 +169,19 @@
             "sub_region_code":"4127300000_Gyeonggi_Ansan_Danwon"
         },
         {
-            "index":8,
-            "sort":"balanced",
-            "name":"초지역메이저타운푸르지오메트로단지",
-            "search_code":114595,
-            "apt_type":"아파트",
-            "apt_year":3.0,
-            "value_score":59.79705,
-            "region":"경기도 안산시 단원구",
-            "region_code":"Gyeonggi",
-            "sub_region_code":"4127300000_Gyeonggi_Ansan_Danwon"
-        },
-        {
-            "index":9,
-            "sort":"balanced",
-            "name":"주공그린빌12단지",
-            "search_code":8392,
-            "apt_type":"아파트",
-            "apt_year":19.0,
-            "value_score":59.7643,
-            "region":"경기도 안산시 단원구",
-            "region_code":"Gyeonggi",
-            "sub_region_code":"4127300000_Gyeonggi_Ansan_Danwon"
-        },
-        {
             "index":10,
+            "sort":"living",
+            "name":"안산센트럴푸르지오",
+            "search_code":111170,
+            "apt_type":"아파트",
+            "apt_year":4.0,
+            "value_score":80.1196,
+            "region":"경기도 안산시 단원구",
+            "region_code":"Gyeonggi",
+            "sub_region_code":"4127300000_Gyeonggi_Ansan_Danwon"
+        },
+        {
+            "index":11,
             "sort":"living",
             "name":"안산레이크타운푸르지오",
             "search_code":106156,
@@ -181,25 +193,13 @@
             "sub_region_code":"4127300000_Gyeonggi_Ansan_Danwon"
         },
         {
-            "index":11,
-            "sort":"living",
-            "name":"안산센트럴푸르지오",
-            "search_code":111170,
-            "apt_type":"아파트",
-            "apt_year":4.0,
-            "value_score":76.1196,
-            "region":"경기도 안산시 단원구",
-            "region_code":"Gyeonggi",
-            "sub_region_code":"4127300000_Gyeonggi_Ansan_Danwon"
-        },
-        {
             "index":12,
             "sort":"living",
             "name":"힐스테이트중앙",
             "search_code":112360,
             "apt_type":"아파트",
             "apt_year":4.0,
-            "value_score":72.5196,
+            "value_score":75.0196,
             "region":"경기도 안산시 단원구",
             "region_code":"Gyeonggi",
             "sub_region_code":"4127300000_Gyeonggi_Ansan_Danwon"
@@ -211,7 +211,7 @@
             "search_code":3664,
             "apt_type":"아파트",
             "apt_year":19.0,
-            "value_score":71.1698,
+            "value_score":72.6698,
             "region":"경기도 안산시 단원구",
             "region_code":"Gyeonggi",
             "sub_region_code":"4127300000_Gyeonggi_Ansan_Danwon"
@@ -291,6 +291,30 @@
         {
             "index":20,
             "sort":"transport",
+            "name":"안산센트럴푸르지오",
+            "search_code":111170,
+            "apt_type":"아파트",
+            "apt_year":4.0,
+            "value_score":68.7272,
+            "region":"경기도 안산시 단원구",
+            "region_code":"Gyeonggi",
+            "sub_region_code":"4127300000_Gyeonggi_Ansan_Danwon"
+        },
+        {
+            "index":21,
+            "sort":"transport",
+            "name":"안산고잔푸르지오3차",
+            "search_code":3664,
+            "apt_type":"아파트",
+            "apt_year":19.0,
+            "value_score":65.11485,
+            "region":"경기도 안산시 단원구",
+            "region_code":"Gyeonggi",
+            "sub_region_code":"4127300000_Gyeonggi_Ansan_Danwon"
+        },
+        {
+            "index":22,
+            "sort":"transport",
             "name":"주공그린빌7단지",
             "search_code":3666,
             "apt_type":"아파트",
@@ -301,7 +325,7 @@
             "sub_region_code":"4127300000_Gyeonggi_Ansan_Danwon"
         },
         {
-            "index":21,
+            "index":23,
             "sort":"transport",
             "name":"안산레이크타운푸르지오",
             "search_code":106156,
@@ -313,7 +337,7 @@
             "sub_region_code":"4127300000_Gyeonggi_Ansan_Danwon"
         },
         {
-            "index":22,
+            "index":24,
             "sort":"transport",
             "name":"안산고잔푸르지오4차",
             "search_code":3663,
@@ -325,7 +349,7 @@
             "sub_region_code":"4127300000_Gyeonggi_Ansan_Danwon"
         },
         {
-            "index":23,
+            "index":25,
             "sort":"transport",
             "name":"초지역메이저타운푸르지오에코단지",
             "search_code":113909,
@@ -337,7 +361,7 @@
             "sub_region_code":"4127300000_Gyeonggi_Ansan_Danwon"
         },
         {
-            "index":24,
+            "index":26,
             "sort":"transport",
             "name":"군자주공15단지",
             "search_code":1948,
@@ -349,7 +373,7 @@
             "sub_region_code":"4127300000_Gyeonggi_Ansan_Danwon"
         },
         {
-            "index":25,
+            "index":27,
             "sort":"transport",
             "name":"단원금강",
             "search_code":3659,
@@ -361,7 +385,7 @@
             "sub_region_code":"4127300000_Gyeonggi_Ansan_Danwon"
         },
         {
-            "index":26,
+            "index":28,
             "sort":"transport",
             "name":"초지역메이저타운푸르지오메트로단지",
             "search_code":114595,
@@ -373,7 +397,7 @@
             "sub_region_code":"4127300000_Gyeonggi_Ansan_Danwon"
         },
         {
-            "index":27,
+            "index":29,
             "sort":"transport",
             "name":"네오빌6단지",
             "search_code":8323,
@@ -385,31 +409,19 @@
             "sub_region_code":"4127300000_Gyeonggi_Ansan_Danwon"
         },
         {
-            "index":28,
-            "sort":"transport",
-            "name":"안산고잔푸르지오3차",
-            "search_code":3664,
-            "apt_type":"아파트",
-            "apt_year":19.0,
-            "value_score":57.61485,
-            "region":"경기도 안산시 단원구",
-            "region_code":"Gyeonggi",
-            "sub_region_code":"4127300000_Gyeonggi_Ansan_Danwon"
-        },
-        {
-            "index":29,
-            "sort":"transport",
-            "name":"초지역메이저타운푸르지오파크단지",
-            "search_code":114598,
-            "apt_type":"아파트",
-            "apt_year":3.0,
-            "value_score":57.44705,
-            "region":"경기도 안산시 단원구",
-            "region_code":"Gyeonggi",
-            "sub_region_code":"4127300000_Gyeonggi_Ansan_Danwon"
-        },
-        {
             "index":30,
+            "sort":"infra",
+            "name":"안산센트럴푸르지오",
+            "search_code":111170,
+            "apt_type":"아파트",
+            "apt_year":4.0,
+            "value_score":75.837,
+            "region":"경기도 안산시 단원구",
+            "region_code":"Gyeonggi",
+            "sub_region_code":"4127300000_Gyeonggi_Ansan_Danwon"
+        },
+        {
+            "index":31,
             "sort":"infra",
             "name":"네오빌6단지",
             "search_code":8323,
@@ -421,7 +433,7 @@
             "sub_region_code":"4127300000_Gyeonggi_Ansan_Danwon"
         },
         {
-            "index":31,
+            "index":32,
             "sort":"infra",
             "name":"주공그린빌7단지",
             "search_code":3666,
@@ -433,19 +445,19 @@
             "sub_region_code":"4127300000_Gyeonggi_Ansan_Danwon"
         },
         {
-            "index":32,
+            "index":33,
             "sort":"infra",
-            "name":"안산센트럴푸르지오",
-            "search_code":111170,
+            "name":"안산고잔푸르지오3차",
+            "search_code":3664,
             "apt_type":"아파트",
-            "apt_year":4.0,
-            "value_score":69.837,
+            "apt_year":19.0,
+            "value_score":69.19975,
             "region":"경기도 안산시 단원구",
             "region_code":"Gyeonggi",
             "sub_region_code":"4127300000_Gyeonggi_Ansan_Danwon"
         },
         {
-            "index":33,
+            "index":34,
             "sort":"infra",
             "name":"단원금강",
             "search_code":3659,
@@ -457,7 +469,7 @@
             "sub_region_code":"4127300000_Gyeonggi_Ansan_Danwon"
         },
         {
-            "index":34,
+            "index":35,
             "sort":"infra",
             "name":"안산레이크타운푸르지오",
             "search_code":106156,
@@ -469,25 +481,13 @@
             "sub_region_code":"4127300000_Gyeonggi_Ansan_Danwon"
         },
         {
-            "index":35,
+            "index":36,
             "sort":"infra",
             "name":"주공그린빌12단지",
             "search_code":8392,
             "apt_type":"아파트",
             "apt_year":19.0,
             "value_score":67.9905,
-            "region":"경기도 안산시 단원구",
-            "region_code":"Gyeonggi",
-            "sub_region_code":"4127300000_Gyeonggi_Ansan_Danwon"
-        },
-        {
-            "index":36,
-            "sort":"infra",
-            "name":"안산고잔푸르지오3차",
-            "search_code":3664,
-            "apt_type":"아파트",
-            "apt_year":19.0,
-            "value_score":66.94975,
             "region":"경기도 안산시 단원구",
             "region_code":"Gyeonggi",
             "sub_region_code":"4127300000_Gyeonggi_Ansan_Danwon"
@@ -519,17 +519,29 @@
         {
             "index":39,
             "sort":"infra",
-            "name":"안산고잔푸르지오4차",
-            "search_code":3663,
+            "name":"힐스테이트중앙",
+            "search_code":112360,
             "apt_type":"아파트",
-            "apt_year":19.0,
-            "value_score":64.0905,
+            "apt_year":4.0,
+            "value_score":64.587,
             "region":"경기도 안산시 단원구",
             "region_code":"Gyeonggi",
             "sub_region_code":"4127300000_Gyeonggi_Ansan_Danwon"
         },
         {
             "index":40,
+            "sort":"education",
+            "name":"안산센트럴푸르지오",
+            "search_code":111170,
+            "apt_type":"아파트",
+            "apt_year":4.0,
+            "value_score":70.474,
+            "region":"경기도 안산시 단원구",
+            "region_code":"Gyeonggi",
+            "sub_region_code":"4127300000_Gyeonggi_Ansan_Danwon"
+        },
+        {
+            "index":41,
             "sort":"education",
             "name":"안산레이크타운푸르지오",
             "search_code":106156,
@@ -541,7 +553,7 @@
             "sub_region_code":"4127300000_Gyeonggi_Ansan_Danwon"
         },
         {
-            "index":41,
+            "index":42,
             "sort":"education",
             "name":"네오빌6단지",
             "search_code":8323,
@@ -553,7 +565,19 @@
             "sub_region_code":"4127300000_Gyeonggi_Ansan_Danwon"
         },
         {
-            "index":42,
+            "index":43,
+            "sort":"education",
+            "name":"안산고잔푸르지오3차",
+            "search_code":3664,
+            "apt_type":"아파트",
+            "apt_year":19.0,
+            "value_score":68.7995,
+            "region":"경기도 안산시 단원구",
+            "region_code":"Gyeonggi",
+            "sub_region_code":"4127300000_Gyeonggi_Ansan_Danwon"
+        },
+        {
+            "index":44,
             "sort":"education",
             "name":"주공그린빌7단지",
             "search_code":3666,
@@ -565,37 +589,13 @@
             "sub_region_code":"4127300000_Gyeonggi_Ansan_Danwon"
         },
         {
-            "index":43,
-            "sort":"education",
-            "name":"안산고잔푸르지오3차",
-            "search_code":3664,
-            "apt_type":"아파트",
-            "apt_year":19.0,
-            "value_score":67.2995,
-            "region":"경기도 안산시 단원구",
-            "region_code":"Gyeonggi",
-            "sub_region_code":"4127300000_Gyeonggi_Ansan_Danwon"
-        },
-        {
-            "index":44,
+            "index":45,
             "sort":"education",
             "name":"호수마을풍림아이원",
             "search_code":11216,
             "apt_type":"아파트",
             "apt_year":22.0,
             "value_score":66.481,
-            "region":"경기도 안산시 단원구",
-            "region_code":"Gyeonggi",
-            "sub_region_code":"4127300000_Gyeonggi_Ansan_Danwon"
-        },
-        {
-            "index":45,
-            "sort":"education",
-            "name":"안산센트럴푸르지오",
-            "search_code":111170,
-            "apt_type":"아파트",
-            "apt_year":4.0,
-            "value_score":66.474,
             "region":"경기도 안산시 단원구",
             "region_code":"Gyeonggi",
             "sub_region_code":"4127300000_Gyeonggi_Ansan_Danwon"
@@ -627,11 +627,11 @@
         {
             "index":48,
             "sort":"education",
-            "name":"단원금강",
-            "search_code":3659,
+            "name":"힐스테이트중앙",
+            "search_code":112360,
             "apt_type":"아파트",
-            "apt_year":20.0,
-            "value_score":65.2295,
+            "apt_year":4.0,
+            "value_score":65.374,
             "region":"경기도 안산시 단원구",
             "region_code":"Gyeonggi",
             "sub_region_code":"4127300000_Gyeonggi_Ansan_Danwon"
@@ -639,11 +639,11 @@
         {
             "index":49,
             "sort":"education",
-            "name":"주공그린빌8단지",
-            "search_code":3667,
+            "name":"단원금강",
+            "search_code":3659,
             "apt_type":"아파트",
-            "apt_year":21.0,
-            "value_score":63.3995,
+            "apt_year":20.0,
+            "value_score":65.2295,
             "region":"경기도 안산시 단원구",
             "region_code":"Gyeonggi",
             "sub_region_code":"4127300000_Gyeonggi_Ansan_Danwon"
