@@ -399,11 +399,11 @@
         {
             "index":29,
             "sort":"transport",
-            "name":"호원한승미메이드",
-            "search_code":19494,
+            "name":"그랑베르(주상복합)",
+            "search_code":110743,
             "apt_type":"아파트",
-            "apt_year":16.0,
-            "value_score":52.5238,
+            "apt_year":6.0,
+            "value_score":52.59335,
             "region":"경기도 의정부시",
             "region_code":"Gyeonggi",
             "sub_region_code":"4115000000_Gyeonggi_Uijeongbu"

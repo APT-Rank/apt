@@ -255,11 +255,11 @@
         {
             "index":17,
             "sort":"living",
-            "name":"봇들3단지휴먼시아",
-            "search_code":100267,
+            "name":"로얄팰리스(주상복합)",
+            "search_code":12914,
             "apt_type":"아파트",
-            "apt_year":13.0,
-            "value_score":70.4024,
+            "apt_year":19.0,
+            "value_score":69.8698,
             "region":"경기도 성남시 분당구",
             "region_code":"Gyeonggi",
             "sub_region_code":"4113500000_Gyeonggi_Seongnam_Bundang"
@@ -267,11 +267,11 @@
         {
             "index":18,
             "sort":"living",
-            "name":"봇들4단지휴먼시아",
-            "search_code":27371,
+            "name":"봇들3단지휴먼시아",
+            "search_code":100267,
             "apt_type":"아파트",
             "apt_year":13.0,
-            "value_score":70.1024,
+            "value_score":69.8024,
             "region":"경기도 성남시 분당구",
             "region_code":"Gyeonggi",
             "sub_region_code":"4113500000_Gyeonggi_Seongnam_Bundang"
@@ -279,11 +279,11 @@
         {
             "index":19,
             "sort":"living",
-            "name":"로얄팰리스(주상복합)",
-            "search_code":12914,
+            "name":"봇들8단지휴먼시아",
+            "search_code":27497,
             "apt_type":"아파트",
-            "apt_year":19.0,
-            "value_score":69.8698,
+            "apt_year":13.0,
+            "value_score":69.5414,
             "region":"경기도 성남시 분당구",
             "region_code":"Gyeonggi",
             "sub_region_code":"4113500000_Gyeonggi_Seongnam_Bundang"

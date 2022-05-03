@@ -459,11 +459,11 @@
         {
             "index":34,
             "sort":"infra",
-            "name":"서면베르빌ll(주상복합)",
-            "search_code":17576,
+            "name":"더스테일서면해링턴타워",
+            "search_code":146403,
             "apt_type":"아파트",
-            "apt_year":18.0,
-            "value_score":66.34675,
+            "apt_year":-2.0,
+            "value_score":66.98325,
             "region":"부산시 부산진구",
             "region_code":"Busan",
             "sub_region_code":"2623000000_Busan_Busanjin"
@@ -471,11 +471,11 @@
         {
             "index":35,
             "sort":"infra",
-            "name":"서면봄여름가을겨울6차",
-            "search_code":119184,
+            "name":"서면베르빌ll(주상복합)",
+            "search_code":17576,
             "apt_type":"아파트",
-            "apt_year":2.0,
-            "value_score":65.79675,
+            "apt_year":18.0,
+            "value_score":66.34675,
             "region":"부산시 부산진구",
             "region_code":"Busan",
             "sub_region_code":"2623000000_Busan_Busanjin"
@@ -495,6 +495,18 @@
         {
             "index":37,
             "sort":"infra",
+            "name":"서면봄여름가을겨울6차",
+            "search_code":119184,
+            "apt_type":"아파트",
+            "apt_year":2.0,
+            "value_score":65.79675,
+            "region":"부산시 부산진구",
+            "region_code":"Busan",
+            "sub_region_code":"2623000000_Busan_Busanjin"
+        },
+        {
+            "index":38,
+            "sort":"infra",
             "name":"가야롯데캐슬골드아너",
             "search_code":127003,
             "apt_type":"분양권",
@@ -505,25 +517,13 @@
             "sub_region_code":"2623000000_Busan_Busanjin"
         },
         {
-            "index":38,
+            "index":39,
             "sort":"infra",
             "name":"대능더에스티지(주상복합)",
             "search_code":127348,
             "apt_type":"아파트",
             "apt_year":3.0,
             "value_score":64.89475,
-            "region":"부산시 부산진구",
-            "region_code":"Busan",
-            "sub_region_code":"2623000000_Busan_Busanjin"
-        },
-        {
-            "index":39,
-            "sort":"infra",
-            "name":"대원칸타빌멤버스",
-            "search_code":13627,
-            "apt_type":"아파트",
-            "apt_year":16.0,
-            "value_score":64.44475,
             "region":"부산시 부산진구",
             "region_code":"Busan",
             "sub_region_code":"2623000000_Busan_Busanjin"

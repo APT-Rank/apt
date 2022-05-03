@@ -63,10 +63,10 @@
         {
             "index":1,
             "sort":"balanced",
-            "name":"강선14단지두산",
-            "search_code":1365,
+            "name":"문촌9단지주공",
+            "search_code":1390,
             "apt_type":"아파트",
-            "apt_year":28.0,
+            "apt_year":27.0,
             "value_score":69.341,
             "region":"경기도 고양시 일산서구",
             "region_code":"Gyeonggi",
@@ -75,10 +75,10 @@
         {
             "index":2,
             "sort":"balanced",
-            "name":"문촌9단지주공",
-            "search_code":1390,
+            "name":"강선14단지두산",
+            "search_code":1365,
             "apt_type":"아파트",
-            "apt_year":27.0,
+            "apt_year":28.0,
             "value_score":69.341,
             "region":"경기도 고양시 일산서구",
             "region_code":"Gyeonggi",
@@ -195,6 +195,18 @@
         {
             "index":12,
             "sort":"living",
+            "name":"e편한세상일산어반스카이(주상복합)",
+            "search_code":125202,
+            "apt_type":"분양권",
+            "apt_year":0.0,
+            "value_score":67.5088,
+            "region":"경기도 고양시 일산서구",
+            "region_code":"Gyeonggi",
+            "sub_region_code":"4128700000_Gyeonggi_Goyang_Ilsanseo"
+        },
+        {
+            "index":13,
+            "sort":"living",
             "name":"산들5단지동문굿모닝힐",
             "search_code":9457,
             "apt_type":"아파트",
@@ -205,7 +217,7 @@
             "sub_region_code":"4128700000_Gyeonggi_Goyang_Ilsanseo"
         },
         {
-            "index":13,
+            "index":14,
             "sort":"living",
             "name":"일산동양",
             "search_code":8548,
@@ -217,7 +229,7 @@
             "sub_region_code":"4128700000_Gyeonggi_Goyang_Ilsanseo"
         },
         {
-            "index":14,
+            "index":15,
             "sort":"living",
             "name":"후곡8단지동신",
             "search_code":2968,
@@ -229,7 +241,7 @@
             "sub_region_code":"4128700000_Gyeonggi_Goyang_Ilsanseo"
         },
         {
-            "index":15,
+            "index":16,
             "sort":"living",
             "name":"문촌16단지뉴삼익",
             "search_code":1373,
@@ -241,7 +253,7 @@
             "sub_region_code":"4128700000_Gyeonggi_Goyang_Ilsanseo"
         },
         {
-            "index":16,
+            "index":17,
             "sort":"living",
             "name":"후곡10단지동아서안임광",
             "search_code":100255,
@@ -253,7 +265,7 @@
             "sub_region_code":"4128700000_Gyeonggi_Goyang_Ilsanseo"
         },
         {
-            "index":17,
+            "index":18,
             "sort":"living",
             "name":"강선19단지우성",
             "search_code":1370,
@@ -265,25 +277,13 @@
             "sub_region_code":"4128700000_Gyeonggi_Goyang_Ilsanseo"
         },
         {
-            "index":18,
+            "index":19,
             "sort":"living",
             "name":"문촌4단지삼익",
             "search_code":1379,
             "apt_type":"아파트",
             "apt_year":28.0,
             "value_score":64.3292,
-            "region":"경기도 고양시 일산서구",
-            "region_code":"Gyeonggi",
-            "sub_region_code":"4128700000_Gyeonggi_Goyang_Ilsanseo"
-        },
-        {
-            "index":19,
-            "sort":"living",
-            "name":"문촌17단지신안",
-            "search_code":1380,
-            "apt_type":"아파트",
-            "apt_year":28.0,
-            "value_score":64.038,
             "region":"경기도 고양시 일산서구",
             "region_code":"Gyeonggi",
             "sub_region_code":"4128700000_Gyeonggi_Goyang_Ilsanseo"
@@ -471,10 +471,10 @@
         {
             "index":35,
             "sort":"infra",
-            "name":"문촌10단지동부",
-            "search_code":1376,
+            "name":"문촌13단지대우",
+            "search_code":1374,
             "apt_type":"아파트",
-            "apt_year":26.0,
+            "apt_year":27.0,
             "value_score":74.485,
             "region":"경기도 고양시 일산서구",
             "region_code":"Gyeonggi",
@@ -483,10 +483,10 @@
         {
             "index":36,
             "sort":"infra",
-            "name":"문촌13단지대우",
-            "search_code":1374,
+            "name":"문촌10단지동부",
+            "search_code":1376,
             "apt_type":"아파트",
-            "apt_year":27.0,
+            "apt_year":26.0,
             "value_score":74.485,
             "region":"경기도 고양시 일산서구",
             "region_code":"Gyeonggi",

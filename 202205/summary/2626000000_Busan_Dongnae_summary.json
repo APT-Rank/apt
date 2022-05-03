@@ -75,7 +75,7 @@
         {
             "index":2,
             "sort":"balanced",
-            "name":"힐스테이트명륜2차",
+            "name":"힐스테이트명륜트라디움",
             "search_code":125831,
             "apt_type":"분양권",
             "apt_year":0.0,
@@ -219,7 +219,7 @@
         {
             "index":14,
             "sort":"living",
-            "name":"힐스테이트명륜2차",
+            "name":"힐스테이트명륜트라디움",
             "search_code":125831,
             "apt_type":"분양권",
             "apt_year":0.0,
@@ -315,7 +315,7 @@
         {
             "index":22,
             "sort":"transport",
-            "name":"힐스테이트명륜2차",
+            "name":"힐스테이트명륜트라디움",
             "search_code":125831,
             "apt_type":"분양권",
             "apt_year":0.0,
@@ -555,7 +555,7 @@
         {
             "index":42,
             "sort":"education",
-            "name":"힐스테이트명륜2차",
+            "name":"힐스테이트명륜트라디움",
             "search_code":125831,
             "apt_type":"분양권",
             "apt_year":0.0,

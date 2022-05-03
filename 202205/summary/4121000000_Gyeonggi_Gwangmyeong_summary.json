@@ -55,7 +55,7 @@
             "search_code":112522,
             "apt_type":"아파트",
             "apt_year":2.0,
-            "value_score":69.5048,
+            "value_score":70.8548,
             "region":"경기도 광명시",
             "region_code":"Gyeonggi",
             "sub_region_code":"4121000000_Gyeonggi_Gwangmyeong"
@@ -175,7 +175,7 @@
             "search_code":112522,
             "apt_type":"아파트",
             "apt_year":2.0,
-            "value_score":75.8132,
+            "value_score":78.0632,
             "region":"경기도 광명시",
             "region_code":"Gyeonggi",
             "sub_region_code":"4121000000_Gyeonggi_Gwangmyeong"
@@ -315,11 +315,11 @@
         {
             "index":22,
             "sort":"transport",
-            "name":"철산푸르지오하늘채",
-            "search_code":25901,
+            "name":"유-플래닛광명역데시앙(주상복합)",
+            "search_code":112522,
             "apt_type":"아파트",
-            "apt_year":12.0,
-            "value_score":65.2586,
+            "apt_year":2.0,
+            "value_score":65.4674,
             "region":"경기도 광명시",
             "region_code":"Gyeonggi",
             "sub_region_code":"4121000000_Gyeonggi_Gwangmyeong"
@@ -327,11 +327,11 @@
         {
             "index":23,
             "sort":"transport",
-            "name":"유-플래닛광명역데시앙(주상복합)",
-            "search_code":112522,
+            "name":"철산푸르지오하늘채",
+            "search_code":25901,
             "apt_type":"아파트",
-            "apt_year":2.0,
-            "value_score":64.7924,
+            "apt_year":12.0,
+            "value_score":65.2586,
             "region":"경기도 광명시",
             "region_code":"Gyeonggi",
             "sub_region_code":"4121000000_Gyeonggi_Gwangmyeong"
@@ -411,11 +411,11 @@
         {
             "index":30,
             "sort":"infra",
-            "name":"광명롯데낙천대",
-            "search_code":10151,
+            "name":"유-플래닛광명역데시앙(주상복합)",
+            "search_code":112522,
             "apt_type":"아파트",
-            "apt_year":17.0,
-            "value_score":66.70725,
+            "apt_year":2.0,
+            "value_score":66.779,
             "region":"경기도 광명시",
             "region_code":"Gyeonggi",
             "sub_region_code":"4121000000_Gyeonggi_Gwangmyeong"
@@ -423,11 +423,11 @@
         {
             "index":31,
             "sort":"infra",
-            "name":"유-플래닛광명역데시앙(주상복합)",
-            "search_code":112522,
+            "name":"광명롯데낙천대",
+            "search_code":10151,
             "apt_type":"아파트",
-            "apt_year":2.0,
-            "value_score":66.329,
+            "apt_year":17.0,
+            "value_score":66.70725,
             "region":"경기도 광명시",
             "region_code":"Gyeonggi",
             "sub_region_code":"4121000000_Gyeonggi_Gwangmyeong"
@@ -535,7 +535,7 @@
             "search_code":112522,
             "apt_type":"아파트",
             "apt_year":2.0,
-            "value_score":66.338,
+            "value_score":67.238,
             "region":"경기도 광명시",
             "region_code":"Gyeonggi",
             "sub_region_code":"4121000000_Gyeonggi_Gwangmyeong"

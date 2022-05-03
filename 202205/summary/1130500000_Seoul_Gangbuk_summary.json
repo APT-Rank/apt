@@ -75,6 +75,18 @@
         {
             "index":2,
             "sort":"balanced",
+            "name":"한화포레나미아",
+            "search_code":148020,
+            "apt_type":"분양권",
+            "apt_year":-3.0,
+            "value_score":62.1574,
+            "region":"서울시 강북구",
+            "region_code":"Seoul",
+            "sub_region_code":"1130500000_Seoul_Gangbuk"
+        },
+        {
+            "index":3,
+            "sort":"balanced",
             "name":"삼성래미안트리베라2차",
             "search_code":25972,
             "apt_type":"아파트",
@@ -85,7 +97,7 @@
             "sub_region_code":"1130500000_Seoul_Gangbuk"
         },
         {
-            "index":3,
+            "index":4,
             "sort":"balanced",
             "name":"송천센트레빌",
             "search_code":26885,
@@ -97,7 +109,19 @@
             "sub_region_code":"1130500000_Seoul_Gangbuk"
         },
         {
-            "index":4,
+            "index":5,
+            "sort":"balanced",
+            "name":"북서울자이폴라리스",
+            "search_code":146699,
+            "apt_type":"분양권",
+            "apt_year":-2.0,
+            "value_score":60.9264,
+            "region":"서울시 강북구",
+            "region_code":"Seoul",
+            "sub_region_code":"1130500000_Seoul_Gangbuk"
+        },
+        {
+            "index":6,
             "sort":"balanced",
             "name":"미아동부센트레빌",
             "search_code":17516,
@@ -109,7 +133,7 @@
             "sub_region_code":"1130500000_Seoul_Gangbuk"
         },
         {
-            "index":5,
+            "index":7,
             "sort":"balanced",
             "name":"벽산라이브파크",
             "search_code":3099,
@@ -121,7 +145,7 @@
             "sub_region_code":"1130500000_Seoul_Gangbuk"
         },
         {
-            "index":6,
+            "index":8,
             "sort":"balanced",
             "name":"래미안트리베라1차",
             "search_code":25971,
@@ -133,37 +157,13 @@
             "sub_region_code":"1130500000_Seoul_Gangbuk"
         },
         {
-            "index":7,
+            "index":9,
             "sort":"balanced",
             "name":"꿈의숲해링턴플레이스",
             "search_code":116048,
             "apt_type":"아파트",
             "apt_year":3.0,
             "value_score":56.9356,
-            "region":"서울시 강북구",
-            "region_code":"Seoul",
-            "sub_region_code":"1130500000_Seoul_Gangbuk"
-        },
-        {
-            "index":8,
-            "sort":"balanced",
-            "name":"삼각산아이원",
-            "search_code":8206,
-            "apt_type":"아파트",
-            "apt_year":19.0,
-            "value_score":54.3032,
-            "region":"서울시 강북구",
-            "region_code":"Seoul",
-            "sub_region_code":"1130500000_Seoul_Gangbuk"
-        },
-        {
-            "index":9,
-            "sort":"balanced",
-            "name":"꿈의숲롯데캐슬",
-            "search_code":109039,
-            "apt_type":"아파트",
-            "apt_year":5.0,
-            "value_score":52.7656,
             "region":"서울시 강북구",
             "region_code":"Seoul",
             "sub_region_code":"1130500000_Seoul_Gangbuk"
@@ -195,6 +195,18 @@
         {
             "index":12,
             "sort":"living",
+            "name":"북서울자이폴라리스",
+            "search_code":146699,
+            "apt_type":"분양권",
+            "apt_year":-2.0,
+            "value_score":65.0176,
+            "region":"서울시 강북구",
+            "region_code":"Seoul",
+            "sub_region_code":"1130500000_Seoul_Gangbuk"
+        },
+        {
+            "index":13,
+            "sort":"living",
             "name":"삼성래미안트리베라2차",
             "search_code":25972,
             "apt_type":"아파트",
@@ -205,7 +217,7 @@
             "sub_region_code":"1130500000_Seoul_Gangbuk"
         },
         {
-            "index":13,
+            "index":14,
             "sort":"living",
             "name":"꿈의숲해링턴플레이스",
             "search_code":116048,
@@ -217,7 +229,19 @@
             "sub_region_code":"1130500000_Seoul_Gangbuk"
         },
         {
-            "index":14,
+            "index":15,
+            "sort":"living",
+            "name":"한화포레나미아",
+            "search_code":148020,
+            "apt_type":"분양권",
+            "apt_year":-3.0,
+            "value_score":63.9216,
+            "region":"서울시 강북구",
+            "region_code":"Seoul",
+            "sub_region_code":"1130500000_Seoul_Gangbuk"
+        },
+        {
+            "index":16,
             "sort":"living",
             "name":"래미안트리베라1차",
             "search_code":25971,
@@ -229,7 +253,7 @@
             "sub_region_code":"1130500000_Seoul_Gangbuk"
         },
         {
-            "index":15,
+            "index":17,
             "sort":"living",
             "name":"벽산라이브파크",
             "search_code":3099,
@@ -241,7 +265,7 @@
             "sub_region_code":"1130500000_Seoul_Gangbuk"
         },
         {
-            "index":16,
+            "index":18,
             "sort":"living",
             "name":"미아동부센트레빌",
             "search_code":17516,
@@ -253,37 +277,13 @@
             "sub_region_code":"1130500000_Seoul_Gangbuk"
         },
         {
-            "index":17,
+            "index":19,
             "sort":"living",
             "name":"송천센트레빌",
             "search_code":26885,
             "apt_type":"아파트",
             "apt_year":12.0,
             "value_score":58.1018,
-            "region":"서울시 강북구",
-            "region_code":"Seoul",
-            "sub_region_code":"1130500000_Seoul_Gangbuk"
-        },
-        {
-            "index":18,
-            "sort":"living",
-            "name":"삼각산아이원",
-            "search_code":8206,
-            "apt_type":"아파트",
-            "apt_year":19.0,
-            "value_score":56.7688,
-            "region":"서울시 강북구",
-            "region_code":"Seoul",
-            "sub_region_code":"1130500000_Seoul_Gangbuk"
-        },
-        {
-            "index":19,
-            "sort":"living",
-            "name":"꿈의숲롯데캐슬",
-            "search_code":109039,
-            "apt_type":"아파트",
-            "apt_year":5.0,
-            "value_score":56.0704,
             "region":"서울시 강북구",
             "region_code":"Seoul",
             "sub_region_code":"1130500000_Seoul_Gangbuk"
@@ -327,6 +327,18 @@
         {
             "index":23,
             "sort":"transport",
+            "name":"북서울자이폴라리스",
+            "search_code":146699,
+            "apt_type":"분양권",
+            "apt_year":-2.0,
+            "value_score":61.6632,
+            "region":"서울시 강북구",
+            "region_code":"Seoul",
+            "sub_region_code":"1130500000_Seoul_Gangbuk"
+        },
+        {
+            "index":24,
+            "sort":"transport",
             "name":"벽산라이브파크",
             "search_code":3099,
             "apt_type":"아파트",
@@ -337,7 +349,7 @@
             "sub_region_code":"1130500000_Seoul_Gangbuk"
         },
         {
-            "index":24,
+            "index":25,
             "sort":"transport",
             "name":"효성네오인텔리안(주상복합)",
             "search_code":17631,
@@ -349,7 +361,19 @@
             "sub_region_code":"1130500000_Seoul_Gangbuk"
         },
         {
-            "index":25,
+            "index":26,
+            "sort":"transport",
+            "name":"한화포레나미아",
+            "search_code":148020,
+            "apt_type":"분양권",
+            "apt_year":-3.0,
+            "value_score":60.0787,
+            "region":"서울시 강북구",
+            "region_code":"Seoul",
+            "sub_region_code":"1130500000_Seoul_Gangbuk"
+        },
+        {
+            "index":27,
             "sort":"transport",
             "name":"두산위브트레지움",
             "search_code":27413,
@@ -361,7 +385,7 @@
             "sub_region_code":"1130500000_Seoul_Gangbuk"
         },
         {
-            "index":26,
+            "index":28,
             "sort":"transport",
             "name":"삼성래미안트리베라2차",
             "search_code":25972,
@@ -373,7 +397,7 @@
             "sub_region_code":"1130500000_Seoul_Gangbuk"
         },
         {
-            "index":27,
+            "index":29,
             "sort":"transport",
             "name":"미아래미안1차",
             "search_code":22197,
@@ -385,31 +409,19 @@
             "sub_region_code":"1130500000_Seoul_Gangbuk"
         },
         {
-            "index":28,
-            "sort":"transport",
-            "name":"신일해피트리",
-            "search_code":24036,
-            "apt_type":"아파트",
-            "apt_year":16.0,
-            "value_score":54.0882,
-            "region":"서울시 강북구",
-            "region_code":"Seoul",
-            "sub_region_code":"1130500000_Seoul_Gangbuk"
-        },
-        {
-            "index":29,
-            "sort":"transport",
-            "name":"에피소드수유838(민간임대,주상복합)",
-            "search_code":145240,
-            "apt_type":"아파트",
-            "apt_year":1.0,
-            "value_score":53.8914,
-            "region":"서울시 강북구",
-            "region_code":"Seoul",
-            "sub_region_code":"1130500000_Seoul_Gangbuk"
-        },
-        {
             "index":30,
+            "sort":"infra",
+            "name":"한화포레나미아",
+            "search_code":148020,
+            "apt_type":"분양권",
+            "apt_year":-3.0,
+            "value_score":65.8895,
+            "region":"서울시 강북구",
+            "region_code":"Seoul",
+            "sub_region_code":"1130500000_Seoul_Gangbuk"
+        },
+        {
+            "index":31,
             "sort":"infra",
             "name":"송천센트레빌",
             "search_code":26885,
@@ -421,7 +433,7 @@
             "sub_region_code":"1130500000_Seoul_Gangbuk"
         },
         {
-            "index":31,
+            "index":32,
             "sort":"infra",
             "name":"두산위브트레지움",
             "search_code":27413,
@@ -433,7 +445,7 @@
             "sub_region_code":"1130500000_Seoul_Gangbuk"
         },
         {
-            "index":32,
+            "index":33,
             "sort":"infra",
             "name":"미아동부센트레빌",
             "search_code":17516,
@@ -445,7 +457,7 @@
             "sub_region_code":"1130500000_Seoul_Gangbuk"
         },
         {
-            "index":33,
+            "index":34,
             "sort":"infra",
             "name":"SK북한산시티",
             "search_code":3098,
@@ -457,7 +469,7 @@
             "sub_region_code":"1130500000_Seoul_Gangbuk"
         },
         {
-            "index":34,
+            "index":35,
             "sort":"infra",
             "name":"삼성래미안트리베라2차",
             "search_code":25972,
@@ -469,7 +481,19 @@
             "sub_region_code":"1130500000_Seoul_Gangbuk"
         },
         {
-            "index":35,
+            "index":36,
+            "sort":"infra",
+            "name":"북서울자이폴라리스",
+            "search_code":146699,
+            "apt_type":"분양권",
+            "apt_year":-2.0,
+            "value_score":59.972,
+            "region":"서울시 강북구",
+            "region_code":"Seoul",
+            "sub_region_code":"1130500000_Seoul_Gangbuk"
+        },
+        {
+            "index":37,
             "sort":"infra",
             "name":"벽산라이브파크",
             "search_code":3099,
@@ -481,7 +505,7 @@
             "sub_region_code":"1130500000_Seoul_Gangbuk"
         },
         {
-            "index":36,
+            "index":38,
             "sort":"infra",
             "name":"성북프라자(주상복합)",
             "search_code":26447,
@@ -493,37 +517,13 @@
             "sub_region_code":"1130500000_Seoul_Gangbuk"
         },
         {
-            "index":37,
+            "index":39,
             "sort":"infra",
             "name":"래미안트리베라1차",
             "search_code":25971,
             "apt_type":"아파트",
             "apt_year":12.0,
             "value_score":57.936,
-            "region":"서울시 강북구",
-            "region_code":"Seoul",
-            "sub_region_code":"1130500000_Seoul_Gangbuk"
-        },
-        {
-            "index":38,
-            "sort":"infra",
-            "name":"미아현대",
-            "search_code":1006,
-            "apt_type":"아파트",
-            "apt_year":30.0,
-            "value_score":57.522,
-            "region":"서울시 강북구",
-            "region_code":"Seoul",
-            "sub_region_code":"1130500000_Seoul_Gangbuk"
-        },
-        {
-            "index":39,
-            "sort":"infra",
-            "name":"미아래미안1차",
-            "search_code":22197,
-            "apt_type":"아파트",
-            "apt_year":16.0,
-            "value_score":56.8025,
             "region":"서울시 강북구",
             "region_code":"Seoul",
             "sub_region_code":"1130500000_Seoul_Gangbuk"
@@ -567,6 +567,18 @@
         {
             "index":43,
             "sort":"education",
+            "name":"한화포레나미아",
+            "search_code":148020,
+            "apt_type":"분양권",
+            "apt_year":-3.0,
+            "value_score":61.779,
+            "region":"서울시 강북구",
+            "region_code":"Seoul",
+            "sub_region_code":"1130500000_Seoul_Gangbuk"
+        },
+        {
+            "index":44,
+            "sort":"education",
             "name":"래미안트리베라1차",
             "search_code":25971,
             "apt_type":"아파트",
@@ -577,7 +589,7 @@
             "sub_region_code":"1130500000_Seoul_Gangbuk"
         },
         {
-            "index":44,
+            "index":45,
             "sort":"education",
             "name":"삼성래미안트리베라2차",
             "search_code":25972,
@@ -589,7 +601,7 @@
             "sub_region_code":"1130500000_Seoul_Gangbuk"
         },
         {
-            "index":45,
+            "index":46,
             "sort":"education",
             "name":"미아동부센트레빌",
             "search_code":17516,
@@ -601,7 +613,7 @@
             "sub_region_code":"1130500000_Seoul_Gangbuk"
         },
         {
-            "index":46,
+            "index":47,
             "sort":"education",
             "name":"벽산라이브파크",
             "search_code":3099,
@@ -613,7 +625,7 @@
             "sub_region_code":"1130500000_Seoul_Gangbuk"
         },
         {
-            "index":47,
+            "index":48,
             "sort":"education",
             "name":"삼각산아이원",
             "search_code":8206,
@@ -625,25 +637,13 @@
             "sub_region_code":"1130500000_Seoul_Gangbuk"
         },
         {
-            "index":48,
-            "sort":"education",
-            "name":"꿈의숲해링턴플레이스",
-            "search_code":116048,
-            "apt_type":"아파트",
-            "apt_year":3.0,
-            "value_score":54.576,
-            "region":"서울시 강북구",
-            "region_code":"Seoul",
-            "sub_region_code":"1130500000_Seoul_Gangbuk"
-        },
-        {
             "index":49,
             "sort":"education",
-            "name":"꿈의숲롯데캐슬",
-            "search_code":109039,
-            "apt_type":"아파트",
-            "apt_year":5.0,
-            "value_score":51.556,
+            "name":"북서울자이폴라리스",
+            "search_code":146699,
+            "apt_type":"분양권",
+            "apt_year":-2.0,
+            "value_score":56.344,
             "region":"서울시 강북구",
             "region_code":"Seoul",
             "sub_region_code":"1130500000_Seoul_Gangbuk"

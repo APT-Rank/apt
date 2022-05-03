@@ -195,6 +195,18 @@
         {
             "index":12,
             "sort":"living",
+            "name":"송도더샵센트럴시티",
+            "search_code":110656,
+            "apt_type":"아파트",
+            "apt_year":4.0,
+            "value_score":66.385,
+            "region":"인천시 연수구",
+            "region_code":"Incheon",
+            "sub_region_code":"2818500000_Incheon_Yeonsu"
+        },
+        {
+            "index":13,
+            "sort":"living",
             "name":"송도글로벌파크베르디움",
             "search_code":109805,
             "apt_type":"아파트",
@@ -205,7 +217,7 @@
             "sub_region_code":"2818500000_Incheon_Yeonsu"
         },
         {
-            "index":13,
+            "index":14,
             "sort":"living",
             "name":"송도에듀포레푸르지오",
             "search_code":107829,
@@ -217,7 +229,7 @@
             "sub_region_code":"2818500000_Incheon_Yeonsu"
         },
         {
-            "index":14,
+            "index":15,
             "sort":"living",
             "name":"송도웰카운티1단지",
             "search_code":22522,
@@ -229,7 +241,7 @@
             "sub_region_code":"2818500000_Incheon_Yeonsu"
         },
         {
-            "index":15,
+            "index":16,
             "sort":"living",
             "name":"롯데캐슬캠퍼스타운(주상복합)",
             "search_code":105638,
@@ -241,7 +253,7 @@
             "sub_region_code":"2818500000_Incheon_Yeonsu"
         },
         {
-            "index":16,
+            "index":17,
             "sort":"living",
             "name":"호반써밋송도",
             "search_code":125375,
@@ -253,7 +265,7 @@
             "sub_region_code":"2818500000_Incheon_Yeonsu"
         },
         {
-            "index":17,
+            "index":18,
             "sort":"living",
             "name":"송도SK뷰",
             "search_code":113302,
@@ -265,25 +277,13 @@
             "sub_region_code":"2818500000_Incheon_Yeonsu"
         },
         {
-            "index":18,
+            "index":19,
             "sort":"living",
             "name":"e편한세상송도",
             "search_code":111552,
             "apt_type":"아파트",
             "apt_year":4.0,
             "value_score":63.7758,
-            "region":"인천시 연수구",
-            "region_code":"Incheon",
-            "sub_region_code":"2818500000_Incheon_Yeonsu"
-        },
-        {
-            "index":19,
-            "sort":"living",
-            "name":"송도아트윈푸르지오(주상복합)",
-            "search_code":104544,
-            "apt_type":"아파트",
-            "apt_year":7.0,
-            "value_score":63.5258,
             "region":"인천시 연수구",
             "region_code":"Incheon",
             "sub_region_code":"2818500000_Incheon_Yeonsu"
