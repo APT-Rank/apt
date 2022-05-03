@@ -88,7 +88,7 @@
   <div id="container">
     <div id="centerBox">
       <div id="titleBar" style="background-color:#3841ff">
-        <div></div>
+        <div><button type='button' id='balance' class='toShare' onClick='allShareWithComment()' style='background:rgba(0, 0, 0, 0); color:white'><i class="fa-solid fa-share-from-square"></i></button></div>
         <div></div>
         <div id="title" onClick='scrollUp()'>요약 랭크</div>
         <div></div>
@@ -468,6 +468,10 @@
       //shareText += ", " + ( Math.round( list[i]["value_score"] * 100 ) / 100 ).toFixed(2) + "점\n"      
     }
 
+    if(list[0]["sort"] == 'living'){
+      shareText += "※재건축은 용적률과 건폐율로 계산\n"
+    }    
+
     //shareText += "\n아래 링크를 누르시면 다른 아파트의 랭크를 확인할 수 있습니다."
     shareText += "\n"
     shareURL = "https://www.aptrank.kr" + "?reg=" + list[0]['region_code'] +"&sub=" + selectedSubRegion + "&mon=" + selectedMonth
@@ -487,11 +491,141 @@
     }
 }
 
+function allShareWithComment(){
+  shareTitle = "[아파트랭크]\n"
+  shareTitle += selectedMonth.substr(0, 4) + "년 " + Number(selectedMonth.substr(4, 2)).toString() + "월,\n" + balanced[0]["region"] + " 요약\n\n"
+
+  shareText = "안녕하세요. 아파트랭크 앱 개발자 입니다.\n\n"
+  shareText += "5월 업데이트 랭크 알려드립니다. 4월 랭크에 대한 많은 응원, 조언, 비평을 반영하여 진행하였습니다.\n"
+  shareText += "아파트랭크는 저평가를 찾기 위한 목적으로 '가격' 부분을 제외하고 '주거', '인프라', '교통', '교육'의 요소들을 수치로 계산하여 순위를 매기는 입지 자동 계산 앱입니다.\n"
+  shareText += "'가격'이 제외되어 있기 때문에, 생각하시는 순위와 다를 수 있음을 말씀드립니다.\n\n"
+  shareText += "아파트랭크는 계산된 참조자료 입니다. 실제 임장, 현지 거주 의견, 부동산 조언 등 현장 정보가 가장 정확합니다.\n"
+  shareText += "순위가 본인의 생각과 맞지 않는 경우, 우측 상단의 가중치 설정 기능을 통해 개인의 성향에 맞게 조정할 수 있습니다.\n\n"
+  shareText += "[5월 업데이트 요약]\n"
+  shareText += "1) 도시형 생활주택을 단지 목록에서 제거\n"  
+  shareText += "2) 초등학교 거리, 학원가 거리, 학원의 개수 정보를 교육 점수에 반영\n"  
+  shareText += "3) 상권 개수, 점포 수를 인프라 점수에 반영\n"
+  shareText += "4) 서울, 부산 지역 '균형잡힌 가중치'의 '주거' 상향, '교통' 하향\n"
+  shareText += "5) 광주, 대전, 대구 지역 '균형잡힌 가중치'의 '교육' 상향, '교통' 하향\n"
+  shareText += "6) 혐오시설에 열병합발전소, 교정시설을 추가했습니다.\n\n"
+
+    shareText += "『주거 환경 좋은 아파트』\n"
+    for(var i = 0 ; i < 5 ; i++){
+      shareText += (i+1) + "위) " + living[i]["name"]
+      if(living[i]["apt_type"] == "아파트"){
+        shareText += "(" + living[i]["apt_year"] + "년차)"
+      }
+      if(living[i]["apt_type"] == "재건축"){
+        shareText += "(" + living[i]["apt_year"] + "년차, 재건축)";
+      }
+      if(living[i]["apt_type"] == "분양권"){
+        shareText += "(분양권)";
+      }
+      shareText += "\n※재건축은 용적률과 건폐율로 계산"
+      shareText += "\n"
+      //shareText += ", " + ( Math.round( living[i]["value_score"] * 100 ) / 100 ).toFixed(2) + "점\n"
+    }
+
+    if(transport.length != 0){
+      shareText += "\n"
+      shareText += "『대중 교통 좋은 아파트』\n"
+      for(var i = 0 ; i < 5 ; i++){
+        shareText += (i+1) + "위) " + transport[i]["name"]
+        if(transport[i]["apt_type"] == "아파트"){
+          shareText += "(" + transport[i]["apt_year"] + "년차)"
+        }
+        if(transport[i]["apt_type"] == "재건축"){
+          shareText += "(" + transport[i]["apt_year"] + "년차, 재건축)";
+        }
+        if(transport[i]["apt_type"] == "분양권"){
+          shareText += "(분양권)";
+        }
+        shareText += "\n"
+        //shareText += ", " + ( Math.round( transport[i]["value_score"] * 100 ) / 100 ).toFixed(2) + "점\n"
+      }
+    }
+
+    shareText += "\n"
+    shareText += "『인프라 좋은 아파트』\n"
+    for(var i = 0 ; i < 5 ; i++){
+      shareText += (i+1) + "위) " + infra[i]["name"]
+      if(infra[i]["apt_type"] == "아파트"){
+        shareText += "(" + infra[i]["apt_year"] + "년차)"
+      }
+      if(infra[i]["apt_type"] == "재건축"){
+        shareText += "(" + infra[i]["apt_year"] + "년차, 재건축)";
+      }
+      if(infra[i]["apt_type"] == "분양권"){
+        shareText += "(분양권)";
+      }
+      shareText += "\n"
+      //shareText += ", " + ( Math.round( infra[i]["value_score"] * 100 ) / 100 ).toFixed(2) + "점\n"
+    }
+
+    shareText += "\n"
+    shareText += "『교육 좋은 아파트』\n"
+    for(var i = 0 ; i < 5 ; i++){
+      shareText += (i+1) + "위) " + education[i]["name"]
+      if(education[i]["apt_type"] == "아파트"){
+        shareText += "(" + education[i]["apt_year"] + "년차)"
+      }
+      if(education[i]["apt_type"] == "재건축"){
+        shareText += "(" + education[i]["apt_year"] + "년차, 재건축)";
+      }
+      if(education[i]["apt_type"] == "분양권"){
+        shareText += "(분양권)";
+      }
+      shareText += "\n"
+      //shareText += ", " + ( Math.round( education[i]["value_score"] * 100 ) / 100 ).toFixed(2) + "점\n"
+    }
+
+    shareText += "\n"
+    shareText += "『균형잡힌 입지 조건 아파트』\n"
+    for(var i = 0 ; i < 3 ; i++){
+      shareText += (i+1) + "위) " + balanced[i]["name"]
+      if(balanced[i]["apt_type"] == "아파트"){
+        shareText += "(" + balanced[i]["apt_year"] + "년차)"
+      }
+      if(balanced[i]["apt_type"] == "재건축"){
+        shareText += "(" + balanced[i]["apt_year"] + "년차, 재건축)";
+      }
+      if(balanced[i]["apt_type"] == "분양권"){
+        shareText += "(분양권)";
+      }
+      shareText += "\n"
+      //shareText += ", " + ( Math.round( balanced[i]["value_score"] * 100 ) / 100 ).toFixed(2) + "점\n"
+    }
+
+    //shareText += "\n아래 링크를 누르시면 통해 다른 아파트의 랭크를 확인할 수 있습니다."
+    shareText += "\n[아파트랭크 계산 방식]\n"
+    shareText += "ㆍ주거 = 세대수 / 입주년차 / 주차수 / 난방방식 / 욕실수 / 현관구조\n"
+    shareText += "ㆍ인프라 = 백화점 / 아울렛 / 몰 / 대형마트 / 은행 / 병원 / 종합병원 / 공원 / 혐오시설\n"
+    shareText += "ㆍ교육 = 초등학교 전출입비 / 초등학교 거리 / 중학교 학업성취도 / 학원가, 학원 개수\n"
+    shareText += "ㆍ교통(수도권/광역시) = 역세권여부 / 30분이내 도착 가능 거점 / 1시간 이내 도착 가능 거점\n"
+    shareText += "\n"
+    
+    shareURL = "https://www.aptrank.kr" + "?reg=" + balanced[0]["region_code"] +"&sub=" + selectedSubRegion + "&mon=" + selectedMonth
+
+    if (navigator.share) {
+      navigator.share({
+        title: shareTitle,
+        text: shareText,
+        url: shareURL
+      }).then(() => {
+        console.log('Thanks for sharing!');
+      })
+      .catch(console.error);
+    } else {
+      // fallback
+      shareDialog.classList.add('is-open');
+    }  
+}
+
 function allShare(){
   shareTitle = "[아파트랭크]\n"
   shareTitle += selectedMonth.substr(0, 4) + "년 " + Number(selectedMonth.substr(4, 2)).toString() + "월,\n" + balanced[0]["region"] + " 요약\n\n"    
 
-    shareText = "『주거 환경 좋은 아파트』\n (재건축은 용적률과 건폐율) \n"
+    shareText = "『주거 환경 좋은 아파트』\n"
     for(var i = 0 ; i < 3 ; i++){
       shareText += (i+1) + "위) " + living[i]["name"]
       if(living[i]["apt_type"] == "아파트"){
@@ -503,6 +637,7 @@ function allShare(){
       if(living[i]["apt_type"] == "분양권"){
         shareText += "(분양권)";
       }
+      shareText += "\n※재건축은 용적률과 건폐율로 계산"
       shareText += "\n"
       //shareText += ", " + ( Math.round( living[i]["value_score"] * 100 ) / 100 ).toFixed(2) + "점\n"
     }
