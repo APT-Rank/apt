@@ -637,11 +637,11 @@ function allShare(){
       }
       if(living[i]["apt_type"] == "분양권"){
         shareText += "(분양권)";
-      }
-      shareText += "\n※재건축은 용적률과 건폐율로 계산"
+      }      
       shareText += "\n"
       //shareText += ", " + ( Math.round( living[i]["value_score"] * 100 ) / 100 ).toFixed(2) + "점\n"
     }
+    shareText += "※ 재건축은 용적률과 건폐율로 계산\n"
 
     if(transport.length != 0){
       shareText += "\n"
@@ -715,6 +715,7 @@ function allShare(){
 
     //shareText += "\n아래 링크를 누르시면 통해 다른 아파트의 랭크를 확인할 수 있습니다."
     shareText += "\n"
+    shareText += "※ 아파트랭크는 계산된 참조자료 입니다. 실제 임장, 현지 거주 의견, 부동산 조언 등 현장 정보가 가장 정확합니다.\n"
     
     shareURL = "https://www.aptrank.kr" + "?reg=" + balanced[0]["region_code"] +"&sub=" + selectedSubRegion + "&mon=" + selectedMonth
 
