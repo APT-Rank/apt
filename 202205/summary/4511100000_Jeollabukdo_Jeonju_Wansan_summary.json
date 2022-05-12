@@ -40,6 +40,10 @@
             {
                 "name":"sub_region_code",
                 "type":"string"
+            },
+            {
+                "name":"shorten_url",
+                "type":"string"
             }
         ],
         "primaryKey":[
@@ -58,7 +62,8 @@
             "value_score":67.3702,
             "region":"전라북도 전주시 완산구",
             "region_code":"Jeollabukdo",
-            "sub_region_code":"4511100000_Jeollabukdo_Jeonju_Wansan"
+            "sub_region_code":"4511100000_Jeollabukdo_Jeonju_Wansan",
+            "shorten_url":"https:\/\/me2.do\/xJtZCICE"
         },
         {
             "index":1,
@@ -70,7 +75,8 @@
             "value_score":66.7952,
             "region":"전라북도 전주시 완산구",
             "region_code":"Jeollabukdo",
-            "sub_region_code":"4511100000_Jeollabukdo_Jeonju_Wansan"
+            "sub_region_code":"4511100000_Jeollabukdo_Jeonju_Wansan",
+            "shorten_url":"https:\/\/me2.do\/xJtZCICE"
         },
         {
             "index":2,
@@ -82,7 +88,8 @@
             "value_score":66.1202,
             "region":"전라북도 전주시 완산구",
             "region_code":"Jeollabukdo",
-            "sub_region_code":"4511100000_Jeollabukdo_Jeonju_Wansan"
+            "sub_region_code":"4511100000_Jeollabukdo_Jeonju_Wansan",
+            "shorten_url":"https:\/\/me2.do\/xJtZCICE"
         },
         {
             "index":3,
@@ -94,7 +101,8 @@
             "value_score":66.0936,
             "region":"전라북도 전주시 완산구",
             "region_code":"Jeollabukdo",
-            "sub_region_code":"4511100000_Jeollabukdo_Jeonju_Wansan"
+            "sub_region_code":"4511100000_Jeollabukdo_Jeonju_Wansan",
+            "shorten_url":"https:\/\/me2.do\/xJtZCICE"
         },
         {
             "index":4,
@@ -106,7 +114,8 @@
             "value_score":63.9436,
             "region":"전라북도 전주시 완산구",
             "region_code":"Jeollabukdo",
-            "sub_region_code":"4511100000_Jeollabukdo_Jeonju_Wansan"
+            "sub_region_code":"4511100000_Jeollabukdo_Jeonju_Wansan",
+            "shorten_url":"https:\/\/me2.do\/xJtZCICE"
         },
         {
             "index":5,
@@ -118,7 +127,8 @@
             "value_score":63.8702,
             "region":"전라북도 전주시 완산구",
             "region_code":"Jeollabukdo",
-            "sub_region_code":"4511100000_Jeollabukdo_Jeonju_Wansan"
+            "sub_region_code":"4511100000_Jeollabukdo_Jeonju_Wansan",
+            "shorten_url":"https:\/\/me2.do\/xJtZCICE"
         },
         {
             "index":6,
@@ -130,7 +140,8 @@
             "value_score":62.9936,
             "region":"전라북도 전주시 완산구",
             "region_code":"Jeollabukdo",
-            "sub_region_code":"4511100000_Jeollabukdo_Jeonju_Wansan"
+            "sub_region_code":"4511100000_Jeollabukdo_Jeonju_Wansan",
+            "shorten_url":"https:\/\/me2.do\/xJtZCICE"
         },
         {
             "index":7,
@@ -142,7 +153,8 @@
             "value_score":61.23495,
             "region":"전라북도 전주시 완산구",
             "region_code":"Jeollabukdo",
-            "sub_region_code":"4511100000_Jeollabukdo_Jeonju_Wansan"
+            "sub_region_code":"4511100000_Jeollabukdo_Jeonju_Wansan",
+            "shorten_url":"https:\/\/me2.do\/xJtZCICE"
         },
         {
             "index":8,
@@ -154,7 +166,8 @@
             "value_score":61.2314,
             "region":"전라북도 전주시 완산구",
             "region_code":"Jeollabukdo",
-            "sub_region_code":"4511100000_Jeollabukdo_Jeonju_Wansan"
+            "sub_region_code":"4511100000_Jeollabukdo_Jeonju_Wansan",
+            "shorten_url":"https:\/\/me2.do\/xJtZCICE"
         },
         {
             "index":9,
@@ -166,7 +179,8 @@
             "value_score":60.9436,
             "region":"전라북도 전주시 완산구",
             "region_code":"Jeollabukdo",
-            "sub_region_code":"4511100000_Jeollabukdo_Jeonju_Wansan"
+            "sub_region_code":"4511100000_Jeollabukdo_Jeonju_Wansan",
+            "shorten_url":"https:\/\/me2.do\/xJtZCICE"
         },
         {
             "index":10,
@@ -178,7 +192,8 @@
             "value_score":67.568,
             "region":"전라북도 전주시 완산구",
             "region_code":"Jeollabukdo",
-            "sub_region_code":"4511100000_Jeollabukdo_Jeonju_Wansan"
+            "sub_region_code":"4511100000_Jeollabukdo_Jeonju_Wansan",
+            "shorten_url":"https:\/\/me2.do\/xJtZCICE"
         },
         {
             "index":11,
@@ -190,7 +205,8 @@
             "value_score":67.443,
             "region":"전라북도 전주시 완산구",
             "region_code":"Jeollabukdo",
-            "sub_region_code":"4511100000_Jeollabukdo_Jeonju_Wansan"
+            "sub_region_code":"4511100000_Jeollabukdo_Jeonju_Wansan",
+            "shorten_url":"https:\/\/me2.do\/xJtZCICE"
         },
         {
             "index":12,
@@ -202,7 +218,8 @@
             "value_score":66.943,
             "region":"전라북도 전주시 완산구",
             "region_code":"Jeollabukdo",
-            "sub_region_code":"4511100000_Jeollabukdo_Jeonju_Wansan"
+            "sub_region_code":"4511100000_Jeollabukdo_Jeonju_Wansan",
+            "shorten_url":"https:\/\/me2.do\/xJtZCICE"
         },
         {
             "index":13,
@@ -214,7 +231,8 @@
             "value_score":65.48925,
             "region":"전라북도 전주시 완산구",
             "region_code":"Jeollabukdo",
-            "sub_region_code":"4511100000_Jeollabukdo_Jeonju_Wansan"
+            "sub_region_code":"4511100000_Jeollabukdo_Jeonju_Wansan",
+            "shorten_url":"https:\/\/me2.do\/xJtZCICE"
         },
         {
             "index":14,
@@ -226,7 +244,8 @@
             "value_score":65.424,
             "region":"전라북도 전주시 완산구",
             "region_code":"Jeollabukdo",
-            "sub_region_code":"4511100000_Jeollabukdo_Jeonju_Wansan"
+            "sub_region_code":"4511100000_Jeollabukdo_Jeonju_Wansan",
+            "shorten_url":"https:\/\/me2.do\/xJtZCICE"
         },
         {
             "index":15,
@@ -238,7 +257,8 @@
             "value_score":65.424,
             "region":"전라북도 전주시 완산구",
             "region_code":"Jeollabukdo",
-            "sub_region_code":"4511100000_Jeollabukdo_Jeonju_Wansan"
+            "sub_region_code":"4511100000_Jeollabukdo_Jeonju_Wansan",
+            "shorten_url":"https:\/\/me2.do\/xJtZCICE"
         },
         {
             "index":16,
@@ -250,7 +270,8 @@
             "value_score":63.943,
             "region":"전라북도 전주시 완산구",
             "region_code":"Jeollabukdo",
-            "sub_region_code":"4511100000_Jeollabukdo_Jeonju_Wansan"
+            "sub_region_code":"4511100000_Jeollabukdo_Jeonju_Wansan",
+            "shorten_url":"https:\/\/me2.do\/xJtZCICE"
         },
         {
             "index":17,
@@ -262,7 +283,8 @@
             "value_score":63.701,
             "region":"전라북도 전주시 완산구",
             "region_code":"Jeollabukdo",
-            "sub_region_code":"4511100000_Jeollabukdo_Jeonju_Wansan"
+            "sub_region_code":"4511100000_Jeollabukdo_Jeonju_Wansan",
+            "shorten_url":"https:\/\/me2.do\/xJtZCICE"
         },
         {
             "index":18,
@@ -274,7 +296,8 @@
             "value_score":63.576,
             "region":"전라북도 전주시 완산구",
             "region_code":"Jeollabukdo",
-            "sub_region_code":"4511100000_Jeollabukdo_Jeonju_Wansan"
+            "sub_region_code":"4511100000_Jeollabukdo_Jeonju_Wansan",
+            "shorten_url":"https:\/\/me2.do\/xJtZCICE"
         },
         {
             "index":19,
@@ -286,7 +309,8 @@
             "value_score":62.924,
             "region":"전라북도 전주시 완산구",
             "region_code":"Jeollabukdo",
-            "sub_region_code":"4511100000_Jeollabukdo_Jeonju_Wansan"
+            "sub_region_code":"4511100000_Jeollabukdo_Jeonju_Wansan",
+            "shorten_url":"https:\/\/me2.do\/xJtZCICE"
         },
         {
             "index":20,
@@ -298,7 +322,8 @@
             "value_score":71.4806315789,
             "region":"전라북도 전주시 완산구",
             "region_code":"Jeollabukdo",
-            "sub_region_code":"4511100000_Jeollabukdo_Jeonju_Wansan"
+            "sub_region_code":"4511100000_Jeollabukdo_Jeonju_Wansan",
+            "shorten_url":"https:\/\/me2.do\/xJtZCICE"
         },
         {
             "index":21,
@@ -310,7 +335,8 @@
             "value_score":70.1122105263,
             "region":"전라북도 전주시 완산구",
             "region_code":"Jeollabukdo",
-            "sub_region_code":"4511100000_Jeollabukdo_Jeonju_Wansan"
+            "sub_region_code":"4511100000_Jeollabukdo_Jeonju_Wansan",
+            "shorten_url":"https:\/\/me2.do\/xJtZCICE"
         },
         {
             "index":22,
@@ -322,7 +348,8 @@
             "value_score":69.0092631579,
             "region":"전라북도 전주시 완산구",
             "region_code":"Jeollabukdo",
-            "sub_region_code":"4511100000_Jeollabukdo_Jeonju_Wansan"
+            "sub_region_code":"4511100000_Jeollabukdo_Jeonju_Wansan",
+            "shorten_url":"https:\/\/me2.do\/xJtZCICE"
         },
         {
             "index":23,
@@ -334,7 +361,8 @@
             "value_score":67.8250526316,
             "region":"전라북도 전주시 완산구",
             "region_code":"Jeollabukdo",
-            "sub_region_code":"4511100000_Jeollabukdo_Jeonju_Wansan"
+            "sub_region_code":"4511100000_Jeollabukdo_Jeonju_Wansan",
+            "shorten_url":"https:\/\/me2.do\/xJtZCICE"
         },
         {
             "index":24,
@@ -346,7 +374,8 @@
             "value_score":67.6385263158,
             "region":"전라북도 전주시 완산구",
             "region_code":"Jeollabukdo",
-            "sub_region_code":"4511100000_Jeollabukdo_Jeonju_Wansan"
+            "sub_region_code":"4511100000_Jeollabukdo_Jeonju_Wansan",
+            "shorten_url":"https:\/\/me2.do\/xJtZCICE"
         },
         {
             "index":25,
@@ -358,7 +387,8 @@
             "value_score":67.1145263158,
             "region":"전라북도 전주시 완산구",
             "region_code":"Jeollabukdo",
-            "sub_region_code":"4511100000_Jeollabukdo_Jeonju_Wansan"
+            "sub_region_code":"4511100000_Jeollabukdo_Jeonju_Wansan",
+            "shorten_url":"https:\/\/me2.do\/xJtZCICE"
         },
         {
             "index":26,
@@ -370,7 +400,8 @@
             "value_score":66.2964210526,
             "region":"전라북도 전주시 완산구",
             "region_code":"Jeollabukdo",
-            "sub_region_code":"4511100000_Jeollabukdo_Jeonju_Wansan"
+            "sub_region_code":"4511100000_Jeollabukdo_Jeonju_Wansan",
+            "shorten_url":"https:\/\/me2.do\/xJtZCICE"
         },
         {
             "index":27,
@@ -382,7 +413,8 @@
             "value_score":66.0858947368,
             "region":"전라북도 전주시 완산구",
             "region_code":"Jeollabukdo",
-            "sub_region_code":"4511100000_Jeollabukdo_Jeonju_Wansan"
+            "sub_region_code":"4511100000_Jeollabukdo_Jeonju_Wansan",
+            "shorten_url":"https:\/\/me2.do\/xJtZCICE"
         },
         {
             "index":28,
@@ -394,7 +426,8 @@
             "value_score":65.3776842105,
             "region":"전라북도 전주시 완산구",
             "region_code":"Jeollabukdo",
-            "sub_region_code":"4511100000_Jeollabukdo_Jeonju_Wansan"
+            "sub_region_code":"4511100000_Jeollabukdo_Jeonju_Wansan",
+            "shorten_url":"https:\/\/me2.do\/xJtZCICE"
         },
         {
             "index":29,
@@ -406,7 +439,8 @@
             "value_score":64.3210526316,
             "region":"전라북도 전주시 완산구",
             "region_code":"Jeollabukdo",
-            "sub_region_code":"4511100000_Jeollabukdo_Jeonju_Wansan"
+            "sub_region_code":"4511100000_Jeollabukdo_Jeonju_Wansan",
+            "shorten_url":"https:\/\/me2.do\/xJtZCICE"
         },
         {
             "index":30,
@@ -418,7 +452,8 @@
             "value_score":68.011,
             "region":"전라북도 전주시 완산구",
             "region_code":"Jeollabukdo",
-            "sub_region_code":"4511100000_Jeollabukdo_Jeonju_Wansan"
+            "sub_region_code":"4511100000_Jeollabukdo_Jeonju_Wansan",
+            "shorten_url":"https:\/\/me2.do\/xJtZCICE"
         },
         {
             "index":31,
@@ -430,7 +465,8 @@
             "value_score":67.098,
             "region":"전라북도 전주시 완산구",
             "region_code":"Jeollabukdo",
-            "sub_region_code":"4511100000_Jeollabukdo_Jeonju_Wansan"
+            "sub_region_code":"4511100000_Jeollabukdo_Jeonju_Wansan",
+            "shorten_url":"https:\/\/me2.do\/xJtZCICE"
         },
         {
             "index":32,
@@ -442,7 +478,8 @@
             "value_score":65.636,
             "region":"전라북도 전주시 완산구",
             "region_code":"Jeollabukdo",
-            "sub_region_code":"4511100000_Jeollabukdo_Jeonju_Wansan"
+            "sub_region_code":"4511100000_Jeollabukdo_Jeonju_Wansan",
+            "shorten_url":"https:\/\/me2.do\/xJtZCICE"
         },
         {
             "index":33,
@@ -454,7 +491,8 @@
             "value_score":65.473,
             "region":"전라북도 전주시 완산구",
             "region_code":"Jeollabukdo",
-            "sub_region_code":"4511100000_Jeollabukdo_Jeonju_Wansan"
+            "sub_region_code":"4511100000_Jeollabukdo_Jeonju_Wansan",
+            "shorten_url":"https:\/\/me2.do\/xJtZCICE"
         },
         {
             "index":34,
@@ -466,7 +504,8 @@
             "value_score":64.348,
             "region":"전라북도 전주시 완산구",
             "region_code":"Jeollabukdo",
-            "sub_region_code":"4511100000_Jeollabukdo_Jeonju_Wansan"
+            "sub_region_code":"4511100000_Jeollabukdo_Jeonju_Wansan",
+            "shorten_url":"https:\/\/me2.do\/xJtZCICE"
         },
         {
             "index":35,
@@ -478,7 +517,8 @@
             "value_score":64.136,
             "region":"전라북도 전주시 완산구",
             "region_code":"Jeollabukdo",
-            "sub_region_code":"4511100000_Jeollabukdo_Jeonju_Wansan"
+            "sub_region_code":"4511100000_Jeollabukdo_Jeonju_Wansan",
+            "shorten_url":"https:\/\/me2.do\/xJtZCICE"
         },
         {
             "index":36,
@@ -490,7 +530,8 @@
             "value_score":63.761,
             "region":"전라북도 전주시 완산구",
             "region_code":"Jeollabukdo",
-            "sub_region_code":"4511100000_Jeollabukdo_Jeonju_Wansan"
+            "sub_region_code":"4511100000_Jeollabukdo_Jeonju_Wansan",
+            "shorten_url":"https:\/\/me2.do\/xJtZCICE"
         },
         {
             "index":37,
@@ -502,7 +543,8 @@
             "value_score":62.473,
             "region":"전라북도 전주시 완산구",
             "region_code":"Jeollabukdo",
-            "sub_region_code":"4511100000_Jeollabukdo_Jeonju_Wansan"
+            "sub_region_code":"4511100000_Jeollabukdo_Jeonju_Wansan",
+            "shorten_url":"https:\/\/me2.do\/xJtZCICE"
         },
         {
             "index":38,
@@ -514,7 +556,8 @@
             "value_score":62.386,
             "region":"전라북도 전주시 완산구",
             "region_code":"Jeollabukdo",
-            "sub_region_code":"4511100000_Jeollabukdo_Jeonju_Wansan"
+            "sub_region_code":"4511100000_Jeollabukdo_Jeonju_Wansan",
+            "shorten_url":"https:\/\/me2.do\/xJtZCICE"
         },
         {
             "index":39,
@@ -526,7 +569,8 @@
             "value_score":61.348,
             "region":"전라북도 전주시 완산구",
             "region_code":"Jeollabukdo",
-            "sub_region_code":"4511100000_Jeollabukdo_Jeonju_Wansan"
+            "sub_region_code":"4511100000_Jeollabukdo_Jeonju_Wansan",
+            "shorten_url":"https:\/\/me2.do\/xJtZCICE"
         }
     ]
 }

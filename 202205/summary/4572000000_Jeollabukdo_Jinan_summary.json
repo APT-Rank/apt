@@ -40,6 +40,10 @@
             {
                 "name":"sub_region_code",
                 "type":"string"
+            },
+            {
+                "name":"shorten_url",
+                "type":"string"
             }
         ],
         "primaryKey":[
@@ -58,7 +62,8 @@
             "value_score":30.6437,
             "region":"전라북도 진안군",
             "region_code":"Jeollabukdo",
-            "sub_region_code":"4572000000_Jeollabukdo_Jinan"
+            "sub_region_code":"4572000000_Jeollabukdo_Jinan",
+            "shorten_url":"https:\/\/me2.do\/xWpYSFrG"
         },
         {
             "index":1,
@@ -70,7 +75,8 @@
             "value_score":28.2437,
             "region":"전라북도 진안군",
             "region_code":"Jeollabukdo",
-            "sub_region_code":"4572000000_Jeollabukdo_Jinan"
+            "sub_region_code":"4572000000_Jeollabukdo_Jinan",
+            "shorten_url":"https:\/\/me2.do\/xWpYSFrG"
         },
         {
             "index":2,
@@ -82,7 +88,8 @@
             "value_score":27.5937,
             "region":"전라북도 진안군",
             "region_code":"Jeollabukdo",
-            "sub_region_code":"4572000000_Jeollabukdo_Jinan"
+            "sub_region_code":"4572000000_Jeollabukdo_Jinan",
+            "shorten_url":"https:\/\/me2.do\/xWpYSFrG"
         },
         {
             "index":3,
@@ -94,7 +101,8 @@
             "value_score":27.4437,
             "region":"전라북도 진안군",
             "region_code":"Jeollabukdo",
-            "sub_region_code":"4572000000_Jeollabukdo_Jinan"
+            "sub_region_code":"4572000000_Jeollabukdo_Jinan",
+            "shorten_url":"https:\/\/me2.do\/xWpYSFrG"
         },
         {
             "index":4,
@@ -106,7 +114,8 @@
             "value_score":20.99165,
             "region":"전라북도 진안군",
             "region_code":"Jeollabukdo",
-            "sub_region_code":"4572000000_Jeollabukdo_Jinan"
+            "sub_region_code":"4572000000_Jeollabukdo_Jinan",
+            "shorten_url":"https:\/\/me2.do\/xWpYSFrG"
         },
         {
             "index":5,
@@ -118,7 +127,8 @@
             "value_score":29.4955,
             "region":"전라북도 진안군",
             "region_code":"Jeollabukdo",
-            "sub_region_code":"4572000000_Jeollabukdo_Jinan"
+            "sub_region_code":"4572000000_Jeollabukdo_Jinan",
+            "shorten_url":"https:\/\/me2.do\/xWpYSFrG"
         },
         {
             "index":6,
@@ -130,7 +140,8 @@
             "value_score":26.2455,
             "region":"전라북도 진안군",
             "region_code":"Jeollabukdo",
-            "sub_region_code":"4572000000_Jeollabukdo_Jinan"
+            "sub_region_code":"4572000000_Jeollabukdo_Jinan",
+            "shorten_url":"https:\/\/me2.do\/xWpYSFrG"
         },
         {
             "index":7,
@@ -142,7 +153,8 @@
             "value_score":25.4955,
             "region":"전라북도 진안군",
             "region_code":"Jeollabukdo",
-            "sub_region_code":"4572000000_Jeollabukdo_Jinan"
+            "sub_region_code":"4572000000_Jeollabukdo_Jinan",
+            "shorten_url":"https:\/\/me2.do\/xWpYSFrG"
         },
         {
             "index":8,
@@ -154,7 +166,8 @@
             "value_score":25.3455,
             "region":"전라북도 진안군",
             "region_code":"Jeollabukdo",
-            "sub_region_code":"4572000000_Jeollabukdo_Jinan"
+            "sub_region_code":"4572000000_Jeollabukdo_Jinan",
+            "shorten_url":"https:\/\/me2.do\/xWpYSFrG"
         },
         {
             "index":9,
@@ -166,7 +179,8 @@
             "value_score":17.77975,
             "region":"전라북도 진안군",
             "region_code":"Jeollabukdo",
-            "sub_region_code":"4572000000_Jeollabukdo_Jinan"
+            "sub_region_code":"4572000000_Jeollabukdo_Jinan",
+            "shorten_url":"https:\/\/me2.do\/xWpYSFrG"
         },
         {
             "index":10,
@@ -178,7 +192,8 @@
             "value_score":25.6258947368,
             "region":"전라북도 진안군",
             "region_code":"Jeollabukdo",
-            "sub_region_code":"4572000000_Jeollabukdo_Jinan"
+            "sub_region_code":"4572000000_Jeollabukdo_Jinan",
+            "shorten_url":"https:\/\/me2.do\/xWpYSFrG"
         },
         {
             "index":11,
@@ -190,7 +205,8 @@
             "value_score":24.9416842105,
             "region":"전라북도 진안군",
             "region_code":"Jeollabukdo",
-            "sub_region_code":"4572000000_Jeollabukdo_Jinan"
+            "sub_region_code":"4572000000_Jeollabukdo_Jinan",
+            "shorten_url":"https:\/\/me2.do\/xWpYSFrG"
         },
         {
             "index":12,
@@ -202,7 +218,8 @@
             "value_score":24.8627368421,
             "region":"전라북도 진안군",
             "region_code":"Jeollabukdo",
-            "sub_region_code":"4572000000_Jeollabukdo_Jinan"
+            "sub_region_code":"4572000000_Jeollabukdo_Jinan",
+            "shorten_url":"https:\/\/me2.do\/xWpYSFrG"
         },
         {
             "index":13,
@@ -214,7 +231,8 @@
             "value_score":24.6258947368,
             "region":"전라북도 진안군",
             "region_code":"Jeollabukdo",
-            "sub_region_code":"4572000000_Jeollabukdo_Jinan"
+            "sub_region_code":"4572000000_Jeollabukdo_Jinan",
+            "shorten_url":"https:\/\/me2.do\/xWpYSFrG"
         },
         {
             "index":14,
@@ -226,7 +244,8 @@
             "value_score":20.7217894737,
             "region":"전라북도 진안군",
             "region_code":"Jeollabukdo",
-            "sub_region_code":"4572000000_Jeollabukdo_Jinan"
+            "sub_region_code":"4572000000_Jeollabukdo_Jinan",
+            "shorten_url":"https:\/\/me2.do\/xWpYSFrG"
         },
         {
             "index":15,
@@ -238,7 +257,8 @@
             "value_score":32.366,
             "region":"전라북도 진안군",
             "region_code":"Jeollabukdo",
-            "sub_region_code":"4572000000_Jeollabukdo_Jinan"
+            "sub_region_code":"4572000000_Jeollabukdo_Jinan",
+            "shorten_url":"https:\/\/me2.do\/xWpYSFrG"
         },
         {
             "index":16,
@@ -250,7 +270,8 @@
             "value_score":31.241,
             "region":"전라북도 진안군",
             "region_code":"Jeollabukdo",
-            "sub_region_code":"4572000000_Jeollabukdo_Jinan"
+            "sub_region_code":"4572000000_Jeollabukdo_Jinan",
+            "shorten_url":"https:\/\/me2.do\/xWpYSFrG"
         },
         {
             "index":17,
@@ -262,7 +283,8 @@
             "value_score":30.741,
             "region":"전라북도 진안군",
             "region_code":"Jeollabukdo",
-            "sub_region_code":"4572000000_Jeollabukdo_Jinan"
+            "sub_region_code":"4572000000_Jeollabukdo_Jinan",
+            "shorten_url":"https:\/\/me2.do\/xWpYSFrG"
         },
         {
             "index":18,
@@ -274,7 +296,8 @@
             "value_score":30.591,
             "region":"전라북도 진안군",
             "region_code":"Jeollabukdo",
-            "sub_region_code":"4572000000_Jeollabukdo_Jinan"
+            "sub_region_code":"4572000000_Jeollabukdo_Jinan",
+            "shorten_url":"https:\/\/me2.do\/xWpYSFrG"
         },
         {
             "index":19,
@@ -286,7 +309,8 @@
             "value_score":25.8095,
             "region":"전라북도 진안군",
             "region_code":"Jeollabukdo",
-            "sub_region_code":"4572000000_Jeollabukdo_Jinan"
+            "sub_region_code":"4572000000_Jeollabukdo_Jinan",
+            "shorten_url":"https:\/\/me2.do\/xWpYSFrG"
         }
     ]
 }

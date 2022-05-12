@@ -40,6 +40,10 @@
             {
                 "name":"sub_region_code",
                 "type":"string"
+            },
+            {
+                "name":"shorten_url",
+                "type":"string"
             }
         ],
         "primaryKey":[
@@ -58,7 +62,8 @@
             "value_score":42.10195,
             "region":"전라북도 순창군",
             "region_code":"Jeollabukdo",
-            "sub_region_code":"4577000000_Jeollabukdo_Sunchang"
+            "sub_region_code":"4577000000_Jeollabukdo_Sunchang",
+            "shorten_url":"https:\/\/me2.do\/F31syrTo"
         },
         {
             "index":1,
@@ -70,7 +75,8 @@
             "value_score":36.8169,
             "region":"전라북도 순창군",
             "region_code":"Jeollabukdo",
-            "sub_region_code":"4577000000_Jeollabukdo_Sunchang"
+            "sub_region_code":"4577000000_Jeollabukdo_Sunchang",
+            "shorten_url":"https:\/\/me2.do\/F31syrTo"
         },
         {
             "index":2,
@@ -82,7 +88,8 @@
             "value_score":35.70195,
             "region":"전라북도 순창군",
             "region_code":"Jeollabukdo",
-            "sub_region_code":"4577000000_Jeollabukdo_Sunchang"
+            "sub_region_code":"4577000000_Jeollabukdo_Sunchang",
+            "shorten_url":"https:\/\/me2.do\/F31syrTo"
         },
         {
             "index":3,
@@ -94,7 +101,8 @@
             "value_score":35.30195,
             "region":"전라북도 순창군",
             "region_code":"Jeollabukdo",
-            "sub_region_code":"4577000000_Jeollabukdo_Sunchang"
+            "sub_region_code":"4577000000_Jeollabukdo_Sunchang",
+            "shorten_url":"https:\/\/me2.do\/F31syrTo"
         },
         {
             "index":4,
@@ -106,7 +114,8 @@
             "value_score":27.8669,
             "region":"전라북도 순창군",
             "region_code":"Jeollabukdo",
-            "sub_region_code":"4577000000_Jeollabukdo_Sunchang"
+            "sub_region_code":"4577000000_Jeollabukdo_Sunchang",
+            "shorten_url":"https:\/\/me2.do\/F31syrTo"
         },
         {
             "index":5,
@@ -118,7 +127,8 @@
             "value_score":25.1169,
             "region":"전라북도 순창군",
             "region_code":"Jeollabukdo",
-            "sub_region_code":"4577000000_Jeollabukdo_Sunchang"
+            "sub_region_code":"4577000000_Jeollabukdo_Sunchang",
+            "shorten_url":"https:\/\/me2.do\/F31syrTo"
         },
         {
             "index":6,
@@ -130,7 +140,8 @@
             "value_score":43.64425,
             "region":"전라북도 순창군",
             "region_code":"Jeollabukdo",
-            "sub_region_code":"4577000000_Jeollabukdo_Sunchang"
+            "sub_region_code":"4577000000_Jeollabukdo_Sunchang",
+            "shorten_url":"https:\/\/me2.do\/F31syrTo"
         },
         {
             "index":7,
@@ -142,7 +153,8 @@
             "value_score":36.9335,
             "region":"전라북도 순창군",
             "region_code":"Jeollabukdo",
-            "sub_region_code":"4577000000_Jeollabukdo_Sunchang"
+            "sub_region_code":"4577000000_Jeollabukdo_Sunchang",
+            "shorten_url":"https:\/\/me2.do\/F31syrTo"
         },
         {
             "index":8,
@@ -154,7 +166,8 @@
             "value_score":36.64425,
             "region":"전라북도 순창군",
             "region_code":"Jeollabukdo",
-            "sub_region_code":"4577000000_Jeollabukdo_Sunchang"
+            "sub_region_code":"4577000000_Jeollabukdo_Sunchang",
+            "shorten_url":"https:\/\/me2.do\/F31syrTo"
         },
         {
             "index":9,
@@ -166,7 +179,8 @@
             "value_score":35.39425,
             "region":"전라북도 순창군",
             "region_code":"Jeollabukdo",
-            "sub_region_code":"4577000000_Jeollabukdo_Sunchang"
+            "sub_region_code":"4577000000_Jeollabukdo_Sunchang",
+            "shorten_url":"https:\/\/me2.do\/F31syrTo"
         },
         {
             "index":10,
@@ -178,7 +192,8 @@
             "value_score":25.4335,
             "region":"전라북도 순창군",
             "region_code":"Jeollabukdo",
-            "sub_region_code":"4577000000_Jeollabukdo_Sunchang"
+            "sub_region_code":"4577000000_Jeollabukdo_Sunchang",
+            "shorten_url":"https:\/\/me2.do\/F31syrTo"
         },
         {
             "index":11,
@@ -190,7 +205,8 @@
             "value_score":22.1835,
             "region":"전라북도 순창군",
             "region_code":"Jeollabukdo",
-            "sub_region_code":"4577000000_Jeollabukdo_Sunchang"
+            "sub_region_code":"4577000000_Jeollabukdo_Sunchang",
+            "shorten_url":"https:\/\/me2.do\/F31syrTo"
         },
         {
             "index":12,
@@ -202,7 +218,8 @@
             "value_score":31.0243157895,
             "region":"전라북도 순창군",
             "region_code":"Jeollabukdo",
-            "sub_region_code":"4577000000_Jeollabukdo_Sunchang"
+            "sub_region_code":"4577000000_Jeollabukdo_Sunchang",
+            "shorten_url":"https:\/\/me2.do\/F31syrTo"
         },
         {
             "index":13,
@@ -214,7 +231,8 @@
             "value_score":29.9212631579,
             "region":"전라북도 순창군",
             "region_code":"Jeollabukdo",
-            "sub_region_code":"4577000000_Jeollabukdo_Sunchang"
+            "sub_region_code":"4577000000_Jeollabukdo_Sunchang",
+            "shorten_url":"https:\/\/me2.do\/F31syrTo"
         },
         {
             "index":14,
@@ -226,7 +244,8 @@
             "value_score":28.5265263158,
             "region":"전라북도 순창군",
             "region_code":"Jeollabukdo",
-            "sub_region_code":"4577000000_Jeollabukdo_Sunchang"
+            "sub_region_code":"4577000000_Jeollabukdo_Sunchang",
+            "shorten_url":"https:\/\/me2.do\/F31syrTo"
         },
         {
             "index":15,
@@ -238,7 +257,8 @@
             "value_score":26.6295789474,
             "region":"전라북도 순창군",
             "region_code":"Jeollabukdo",
-            "sub_region_code":"4577000000_Jeollabukdo_Sunchang"
+            "sub_region_code":"4577000000_Jeollabukdo_Sunchang",
+            "shorten_url":"https:\/\/me2.do\/F31syrTo"
         },
         {
             "index":16,
@@ -250,7 +270,8 @@
             "value_score":26.1581052632,
             "region":"전라북도 순창군",
             "region_code":"Jeollabukdo",
-            "sub_region_code":"4577000000_Jeollabukdo_Sunchang"
+            "sub_region_code":"4577000000_Jeollabukdo_Sunchang",
+            "shorten_url":"https:\/\/me2.do\/F31syrTo"
         },
         {
             "index":17,
@@ -262,7 +283,8 @@
             "value_score":21.6558947368,
             "region":"전라북도 순창군",
             "region_code":"Jeollabukdo",
-            "sub_region_code":"4577000000_Jeollabukdo_Sunchang"
+            "sub_region_code":"4577000000_Jeollabukdo_Sunchang",
+            "shorten_url":"https:\/\/me2.do\/F31syrTo"
         },
         {
             "index":18,
@@ -274,7 +296,8 @@
             "value_score":39.7885,
             "region":"전라북도 순창군",
             "region_code":"Jeollabukdo",
-            "sub_region_code":"4577000000_Jeollabukdo_Sunchang"
+            "sub_region_code":"4577000000_Jeollabukdo_Sunchang",
+            "shorten_url":"https:\/\/me2.do\/F31syrTo"
         },
         {
             "index":19,
@@ -286,7 +309,8 @@
             "value_score":36.642,
             "region":"전라북도 순창군",
             "region_code":"Jeollabukdo",
-            "sub_region_code":"4577000000_Jeollabukdo_Sunchang"
+            "sub_region_code":"4577000000_Jeollabukdo_Sunchang",
+            "shorten_url":"https:\/\/me2.do\/F31syrTo"
         },
         {
             "index":20,
@@ -298,7 +322,8 @@
             "value_score":35.1635,
             "region":"전라북도 순창군",
             "region_code":"Jeollabukdo",
-            "sub_region_code":"4577000000_Jeollabukdo_Sunchang"
+            "sub_region_code":"4577000000_Jeollabukdo_Sunchang",
+            "shorten_url":"https:\/\/me2.do\/F31syrTo"
         },
         {
             "index":21,
@@ -310,7 +335,8 @@
             "value_score":34.2885,
             "region":"전라북도 순창군",
             "region_code":"Jeollabukdo",
-            "sub_region_code":"4577000000_Jeollabukdo_Sunchang"
+            "sub_region_code":"4577000000_Jeollabukdo_Sunchang",
+            "shorten_url":"https:\/\/me2.do\/F31syrTo"
         },
         {
             "index":22,
@@ -322,7 +348,8 @@
             "value_score":31.517,
             "region":"전라북도 순창군",
             "region_code":"Jeollabukdo",
-            "sub_region_code":"4577000000_Jeollabukdo_Sunchang"
+            "sub_region_code":"4577000000_Jeollabukdo_Sunchang",
+            "shorten_url":"https:\/\/me2.do\/F31syrTo"
         },
         {
             "index":23,
@@ -334,7 +361,8 @@
             "value_score":29.517,
             "region":"전라북도 순창군",
             "region_code":"Jeollabukdo",
-            "sub_region_code":"4577000000_Jeollabukdo_Sunchang"
+            "sub_region_code":"4577000000_Jeollabukdo_Sunchang",
+            "shorten_url":"https:\/\/me2.do\/F31syrTo"
         }
     ]
 }

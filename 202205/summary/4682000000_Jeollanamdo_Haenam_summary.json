@@ -40,6 +40,10 @@
             {
                 "name":"sub_region_code",
                 "type":"string"
+            },
+            {
+                "name":"shorten_url",
+                "type":"string"
             }
         ],
         "primaryKey":[
@@ -58,7 +62,8 @@
             "value_score":47.9736,
             "region":"전라남도 해남군",
             "region_code":"Jeollanamdo",
-            "sub_region_code":"4682000000_Jeollanamdo_Haenam"
+            "sub_region_code":"4682000000_Jeollanamdo_Haenam",
+            "shorten_url":"https:\/\/me2.do\/52MVpqIz"
         },
         {
             "index":1,
@@ -70,7 +75,8 @@
             "value_score":43.44815,
             "region":"전라남도 해남군",
             "region_code":"Jeollanamdo",
-            "sub_region_code":"4682000000_Jeollanamdo_Haenam"
+            "sub_region_code":"4682000000_Jeollanamdo_Haenam",
+            "shorten_url":"https:\/\/me2.do\/52MVpqIz"
         },
         {
             "index":2,
@@ -82,7 +88,8 @@
             "value_score":43.37315,
             "region":"전라남도 해남군",
             "region_code":"Jeollanamdo",
-            "sub_region_code":"4682000000_Jeollanamdo_Haenam"
+            "sub_region_code":"4682000000_Jeollanamdo_Haenam",
+            "shorten_url":"https:\/\/me2.do\/52MVpqIz"
         },
         {
             "index":3,
@@ -94,7 +101,8 @@
             "value_score":42.4236,
             "region":"전라남도 해남군",
             "region_code":"Jeollanamdo",
-            "sub_region_code":"4682000000_Jeollanamdo_Haenam"
+            "sub_region_code":"4682000000_Jeollanamdo_Haenam",
+            "shorten_url":"https:\/\/me2.do\/52MVpqIz"
         },
         {
             "index":4,
@@ -106,7 +114,8 @@
             "value_score":42.3736,
             "region":"전라남도 해남군",
             "region_code":"Jeollanamdo",
-            "sub_region_code":"4682000000_Jeollanamdo_Haenam"
+            "sub_region_code":"4682000000_Jeollanamdo_Haenam",
+            "shorten_url":"https:\/\/me2.do\/52MVpqIz"
         },
         {
             "index":5,
@@ -118,7 +127,8 @@
             "value_score":41.37315,
             "region":"전라남도 해남군",
             "region_code":"Jeollanamdo",
-            "sub_region_code":"4682000000_Jeollanamdo_Haenam"
+            "sub_region_code":"4682000000_Jeollanamdo_Haenam",
+            "shorten_url":"https:\/\/me2.do\/52MVpqIz"
         },
         {
             "index":6,
@@ -130,7 +140,8 @@
             "value_score":38.72315,
             "region":"전라남도 해남군",
             "region_code":"Jeollanamdo",
-            "sub_region_code":"4682000000_Jeollanamdo_Haenam"
+            "sub_region_code":"4682000000_Jeollanamdo_Haenam",
+            "shorten_url":"https:\/\/me2.do\/52MVpqIz"
         },
         {
             "index":7,
@@ -142,7 +153,8 @@
             "value_score":38.37315,
             "region":"전라남도 해남군",
             "region_code":"Jeollanamdo",
-            "sub_region_code":"4682000000_Jeollanamdo_Haenam"
+            "sub_region_code":"4682000000_Jeollanamdo_Haenam",
+            "shorten_url":"https:\/\/me2.do\/52MVpqIz"
         },
         {
             "index":8,
@@ -154,7 +166,8 @@
             "value_score":37.57315,
             "region":"전라남도 해남군",
             "region_code":"Jeollanamdo",
-            "sub_region_code":"4682000000_Jeollanamdo_Haenam"
+            "sub_region_code":"4682000000_Jeollanamdo_Haenam",
+            "shorten_url":"https:\/\/me2.do\/52MVpqIz"
         },
         {
             "index":9,
@@ -166,7 +179,8 @@
             "value_score":37.0236,
             "region":"전라남도 해남군",
             "region_code":"Jeollanamdo",
-            "sub_region_code":"4682000000_Jeollanamdo_Haenam"
+            "sub_region_code":"4682000000_Jeollanamdo_Haenam",
+            "shorten_url":"https:\/\/me2.do\/52MVpqIz"
         },
         {
             "index":10,
@@ -178,7 +192,8 @@
             "value_score":49.974,
             "region":"전라남도 해남군",
             "region_code":"Jeollanamdo",
-            "sub_region_code":"4682000000_Jeollanamdo_Haenam"
+            "sub_region_code":"4682000000_Jeollanamdo_Haenam",
+            "shorten_url":"https:\/\/me2.do\/52MVpqIz"
         },
         {
             "index":11,
@@ -190,7 +205,8 @@
             "value_score":43.05225,
             "region":"전라남도 해남군",
             "region_code":"Jeollanamdo",
-            "sub_region_code":"4682000000_Jeollanamdo_Haenam"
+            "sub_region_code":"4682000000_Jeollanamdo_Haenam",
+            "shorten_url":"https:\/\/me2.do\/52MVpqIz"
         },
         {
             "index":12,
@@ -202,7 +218,8 @@
             "value_score":42.874,
             "region":"전라남도 해남군",
             "region_code":"Jeollanamdo",
-            "sub_region_code":"4682000000_Jeollanamdo_Haenam"
+            "sub_region_code":"4682000000_Jeollanamdo_Haenam",
+            "shorten_url":"https:\/\/me2.do\/52MVpqIz"
         },
         {
             "index":13,
@@ -214,7 +231,8 @@
             "value_score":41.67725,
             "region":"전라남도 해남군",
             "region_code":"Jeollanamdo",
-            "sub_region_code":"4682000000_Jeollanamdo_Haenam"
+            "sub_region_code":"4682000000_Jeollanamdo_Haenam",
+            "shorten_url":"https:\/\/me2.do\/52MVpqIz"
         },
         {
             "index":14,
@@ -226,7 +244,8 @@
             "value_score":41.55225,
             "region":"전라남도 해남군",
             "region_code":"Jeollanamdo",
-            "sub_region_code":"4682000000_Jeollanamdo_Haenam"
+            "sub_region_code":"4682000000_Jeollanamdo_Haenam",
+            "shorten_url":"https:\/\/me2.do\/52MVpqIz"
         },
         {
             "index":15,
@@ -238,7 +257,8 @@
             "value_score":40.124,
             "region":"전라남도 해남군",
             "region_code":"Jeollanamdo",
-            "sub_region_code":"4682000000_Jeollanamdo_Haenam"
+            "sub_region_code":"4682000000_Jeollanamdo_Haenam",
+            "shorten_url":"https:\/\/me2.do\/52MVpqIz"
         },
         {
             "index":16,
@@ -250,7 +270,8 @@
             "value_score":38.55225,
             "region":"전라남도 해남군",
             "region_code":"Jeollanamdo",
-            "sub_region_code":"4682000000_Jeollanamdo_Haenam"
+            "sub_region_code":"4682000000_Jeollanamdo_Haenam",
+            "shorten_url":"https:\/\/me2.do\/52MVpqIz"
         },
         {
             "index":17,
@@ -262,7 +283,8 @@
             "value_score":37.80225,
             "region":"전라남도 해남군",
             "region_code":"Jeollanamdo",
-            "sub_region_code":"4682000000_Jeollanamdo_Haenam"
+            "sub_region_code":"4682000000_Jeollanamdo_Haenam",
+            "shorten_url":"https:\/\/me2.do\/52MVpqIz"
         },
         {
             "index":18,
@@ -274,7 +296,8 @@
             "value_score":36.55225,
             "region":"전라남도 해남군",
             "region_code":"Jeollanamdo",
-            "sub_region_code":"4682000000_Jeollanamdo_Haenam"
+            "sub_region_code":"4682000000_Jeollanamdo_Haenam",
+            "shorten_url":"https:\/\/me2.do\/52MVpqIz"
         },
         {
             "index":19,
@@ -286,7 +309,8 @@
             "value_score":34.55225,
             "region":"전라남도 해남군",
             "region_code":"Jeollanamdo",
-            "sub_region_code":"4682000000_Jeollanamdo_Haenam"
+            "sub_region_code":"4682000000_Jeollanamdo_Haenam",
+            "shorten_url":"https:\/\/me2.do\/52MVpqIz"
         },
         {
             "index":20,
@@ -298,7 +322,8 @@
             "value_score":44.9607368421,
             "region":"전라남도 해남군",
             "region_code":"Jeollanamdo",
-            "sub_region_code":"4682000000_Jeollanamdo_Haenam"
+            "sub_region_code":"4682000000_Jeollanamdo_Haenam",
+            "shorten_url":"https:\/\/me2.do\/52MVpqIz"
         },
         {
             "index":21,
@@ -310,7 +335,8 @@
             "value_score":44.8145263158,
             "region":"전라남도 해남군",
             "region_code":"Jeollanamdo",
-            "sub_region_code":"4682000000_Jeollanamdo_Haenam"
+            "sub_region_code":"4682000000_Jeollanamdo_Haenam",
+            "shorten_url":"https:\/\/me2.do\/52MVpqIz"
         },
         {
             "index":22,
@@ -322,7 +348,8 @@
             "value_score":44.7765263158,
             "region":"전라남도 해남군",
             "region_code":"Jeollanamdo",
-            "sub_region_code":"4682000000_Jeollanamdo_Haenam"
+            "sub_region_code":"4682000000_Jeollanamdo_Haenam",
+            "shorten_url":"https:\/\/me2.do\/52MVpqIz"
         },
         {
             "index":23,
@@ -334,7 +361,8 @@
             "value_score":42.6829473684,
             "region":"전라남도 해남군",
             "region_code":"Jeollanamdo",
-            "sub_region_code":"4682000000_Jeollanamdo_Haenam"
+            "sub_region_code":"4682000000_Jeollanamdo_Haenam",
+            "shorten_url":"https:\/\/me2.do\/52MVpqIz"
         },
         {
             "index":24,
@@ -346,7 +374,8 @@
             "value_score":40.9607368421,
             "region":"전라남도 해남군",
             "region_code":"Jeollanamdo",
-            "sub_region_code":"4682000000_Jeollanamdo_Haenam"
+            "sub_region_code":"4682000000_Jeollanamdo_Haenam",
+            "shorten_url":"https:\/\/me2.do\/52MVpqIz"
         },
         {
             "index":25,
@@ -358,7 +387,8 @@
             "value_score":40.3408421053,
             "region":"전라남도 해남군",
             "region_code":"Jeollanamdo",
-            "sub_region_code":"4682000000_Jeollanamdo_Haenam"
+            "sub_region_code":"4682000000_Jeollanamdo_Haenam",
+            "shorten_url":"https:\/\/me2.do\/52MVpqIz"
         },
         {
             "index":26,
@@ -370,7 +400,8 @@
             "value_score":40.1712631579,
             "region":"전라남도 해남군",
             "region_code":"Jeollanamdo",
-            "sub_region_code":"4682000000_Jeollanamdo_Haenam"
+            "sub_region_code":"4682000000_Jeollanamdo_Haenam",
+            "shorten_url":"https:\/\/me2.do\/52MVpqIz"
         },
         {
             "index":27,
@@ -382,7 +413,8 @@
             "value_score":39.5396842105,
             "region":"전라남도 해남군",
             "region_code":"Jeollanamdo",
-            "sub_region_code":"4682000000_Jeollanamdo_Haenam"
+            "sub_region_code":"4682000000_Jeollanamdo_Haenam",
+            "shorten_url":"https:\/\/me2.do\/52MVpqIz"
         },
         {
             "index":28,
@@ -394,7 +426,8 @@
             "value_score":39.5250526316,
             "region":"전라남도 해남군",
             "region_code":"Jeollanamdo",
-            "sub_region_code":"4682000000_Jeollanamdo_Haenam"
+            "sub_region_code":"4682000000_Jeollanamdo_Haenam",
+            "shorten_url":"https:\/\/me2.do\/52MVpqIz"
         },
         {
             "index":29,
@@ -406,7 +439,8 @@
             "value_score":39.1449473684,
             "region":"전라남도 해남군",
             "region_code":"Jeollanamdo",
-            "sub_region_code":"4682000000_Jeollanamdo_Haenam"
+            "sub_region_code":"4682000000_Jeollanamdo_Haenam",
+            "shorten_url":"https:\/\/me2.do\/52MVpqIz"
         },
         {
             "index":30,
@@ -418,7 +452,8 @@
             "value_score":46.1045,
             "region":"전라남도 해남군",
             "region_code":"Jeollanamdo",
-            "sub_region_code":"4682000000_Jeollanamdo_Haenam"
+            "sub_region_code":"4682000000_Jeollanamdo_Haenam",
+            "shorten_url":"https:\/\/me2.do\/52MVpqIz"
         },
         {
             "index":31,
@@ -430,7 +465,8 @@
             "value_score":46.1045,
             "region":"전라남도 해남군",
             "region_code":"Jeollanamdo",
-            "sub_region_code":"4682000000_Jeollanamdo_Haenam"
+            "sub_region_code":"4682000000_Jeollanamdo_Haenam",
+            "shorten_url":"https:\/\/me2.do\/52MVpqIz"
         },
         {
             "index":32,
@@ -442,7 +478,8 @@
             "value_score":45.873,
             "region":"전라남도 해남군",
             "region_code":"Jeollanamdo",
-            "sub_region_code":"4682000000_Jeollanamdo_Haenam"
+            "sub_region_code":"4682000000_Jeollanamdo_Haenam",
+            "shorten_url":"https:\/\/me2.do\/52MVpqIz"
         },
         {
             "index":33,
@@ -454,7 +491,8 @@
             "value_score":44.973,
             "region":"전라남도 해남군",
             "region_code":"Jeollanamdo",
-            "sub_region_code":"4682000000_Jeollanamdo_Haenam"
+            "sub_region_code":"4682000000_Jeollanamdo_Haenam",
+            "shorten_url":"https:\/\/me2.do\/52MVpqIz"
         },
         {
             "index":34,
@@ -466,7 +504,8 @@
             "value_score":42.498,
             "region":"전라남도 해남군",
             "region_code":"Jeollanamdo",
-            "sub_region_code":"4682000000_Jeollanamdo_Haenam"
+            "sub_region_code":"4682000000_Jeollanamdo_Haenam",
+            "shorten_url":"https:\/\/me2.do\/52MVpqIz"
         },
         {
             "index":35,
@@ -478,7 +517,8 @@
             "value_score":42.1045,
             "region":"전라남도 해남군",
             "region_code":"Jeollanamdo",
-            "sub_region_code":"4682000000_Jeollanamdo_Haenam"
+            "sub_region_code":"4682000000_Jeollanamdo_Haenam",
+            "shorten_url":"https:\/\/me2.do\/52MVpqIz"
         },
         {
             "index":36,
@@ -490,7 +530,8 @@
             "value_score":41.623,
             "region":"전라남도 해남군",
             "region_code":"Jeollanamdo",
-            "sub_region_code":"4682000000_Jeollanamdo_Haenam"
+            "sub_region_code":"4682000000_Jeollanamdo_Haenam",
+            "shorten_url":"https:\/\/me2.do\/52MVpqIz"
         },
         {
             "index":37,
@@ -502,7 +543,8 @@
             "value_score":40.998,
             "region":"전라남도 해남군",
             "region_code":"Jeollanamdo",
-            "sub_region_code":"4682000000_Jeollanamdo_Haenam"
+            "sub_region_code":"4682000000_Jeollanamdo_Haenam",
+            "shorten_url":"https:\/\/me2.do\/52MVpqIz"
         },
         {
             "index":38,
@@ -514,7 +556,8 @@
             "value_score":40.8545,
             "region":"전라남도 해남군",
             "region_code":"Jeollanamdo",
-            "sub_region_code":"4682000000_Jeollanamdo_Haenam"
+            "sub_region_code":"4682000000_Jeollanamdo_Haenam",
+            "shorten_url":"https:\/\/me2.do\/52MVpqIz"
         },
         {
             "index":39,
@@ -526,7 +569,8 @@
             "value_score":39.8545,
             "region":"전라남도 해남군",
             "region_code":"Jeollanamdo",
-            "sub_region_code":"4682000000_Jeollanamdo_Haenam"
+            "sub_region_code":"4682000000_Jeollanamdo_Haenam",
+            "shorten_url":"https:\/\/me2.do\/52MVpqIz"
         }
     ]
 }

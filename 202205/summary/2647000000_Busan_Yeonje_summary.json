@@ -40,6 +40,10 @@
             {
                 "name":"sub_region_code",
                 "type":"string"
+            },
+            {
+                "name":"shorten_url",
+                "type":"string"
             }
         ],
         "primaryKey":[
@@ -58,7 +62,8 @@
             "value_score":72.8007,
             "region":"부산시 연제구",
             "region_code":"Busan",
-            "sub_region_code":"2647000000_Busan_Yeonje"
+            "sub_region_code":"2647000000_Busan_Yeonje",
+            "shorten_url":"https:\/\/me2.do\/GE5PHjLZ"
         },
         {
             "index":1,
@@ -70,7 +75,8 @@
             "value_score":72.4007,
             "region":"부산시 연제구",
             "region_code":"Busan",
-            "sub_region_code":"2647000000_Busan_Yeonje"
+            "sub_region_code":"2647000000_Busan_Yeonje",
+            "shorten_url":"https:\/\/me2.do\/GE5PHjLZ"
         },
         {
             "index":2,
@@ -82,7 +88,8 @@
             "value_score":72.0007,
             "region":"부산시 연제구",
             "region_code":"Busan",
-            "sub_region_code":"2647000000_Busan_Yeonje"
+            "sub_region_code":"2647000000_Busan_Yeonje",
+            "shorten_url":"https:\/\/me2.do\/GE5PHjLZ"
         },
         {
             "index":3,
@@ -94,7 +101,8 @@
             "value_score":71.1507,
             "region":"부산시 연제구",
             "region_code":"Busan",
-            "sub_region_code":"2647000000_Busan_Yeonje"
+            "sub_region_code":"2647000000_Busan_Yeonje",
+            "shorten_url":"https:\/\/me2.do\/GE5PHjLZ"
         },
         {
             "index":4,
@@ -106,7 +114,8 @@
             "value_score":67.8531,
             "region":"부산시 연제구",
             "region_code":"Busan",
-            "sub_region_code":"2647000000_Busan_Yeonje"
+            "sub_region_code":"2647000000_Busan_Yeonje",
+            "shorten_url":"https:\/\/me2.do\/GE5PHjLZ"
         },
         {
             "index":5,
@@ -118,7 +127,8 @@
             "value_score":66.9152377423,
             "region":"부산시 연제구",
             "region_code":"Busan",
-            "sub_region_code":"2647000000_Busan_Yeonje"
+            "sub_region_code":"2647000000_Busan_Yeonje",
+            "shorten_url":"https:\/\/me2.do\/GE5PHjLZ"
         },
         {
             "index":6,
@@ -130,7 +140,8 @@
             "value_score":66.583,
             "region":"부산시 연제구",
             "region_code":"Busan",
-            "sub_region_code":"2647000000_Busan_Yeonje"
+            "sub_region_code":"2647000000_Busan_Yeonje",
+            "shorten_url":"https:\/\/me2.do\/GE5PHjLZ"
         },
         {
             "index":7,
@@ -142,7 +153,8 @@
             "value_score":66.1803,
             "region":"부산시 연제구",
             "region_code":"Busan",
-            "sub_region_code":"2647000000_Busan_Yeonje"
+            "sub_region_code":"2647000000_Busan_Yeonje",
+            "shorten_url":"https:\/\/me2.do\/GE5PHjLZ"
         },
         {
             "index":8,
@@ -154,7 +166,8 @@
             "value_score":65.9803,
             "region":"부산시 연제구",
             "region_code":"Busan",
-            "sub_region_code":"2647000000_Busan_Yeonje"
+            "sub_region_code":"2647000000_Busan_Yeonje",
+            "shorten_url":"https:\/\/me2.do\/GE5PHjLZ"
         },
         {
             "index":9,
@@ -166,7 +179,8 @@
             "value_score":65.8033,
             "region":"부산시 연제구",
             "region_code":"Busan",
-            "sub_region_code":"2647000000_Busan_Yeonje"
+            "sub_region_code":"2647000000_Busan_Yeonje",
+            "shorten_url":"https:\/\/me2.do\/GE5PHjLZ"
         },
         {
             "index":10,
@@ -178,7 +192,8 @@
             "value_score":69.7202,
             "region":"부산시 연제구",
             "region_code":"Busan",
-            "sub_region_code":"2647000000_Busan_Yeonje"
+            "sub_region_code":"2647000000_Busan_Yeonje",
+            "shorten_url":"https:\/\/me2.do\/GE5PHjLZ"
         },
         {
             "index":11,
@@ -190,7 +205,8 @@
             "value_score":69.2854,
             "region":"부산시 연제구",
             "region_code":"Busan",
-            "sub_region_code":"2647000000_Busan_Yeonje"
+            "sub_region_code":"2647000000_Busan_Yeonje",
+            "shorten_url":"https:\/\/me2.do\/GE5PHjLZ"
         },
         {
             "index":12,
@@ -202,7 +218,8 @@
             "value_score":69.2338,
             "region":"부산시 연제구",
             "region_code":"Busan",
-            "sub_region_code":"2647000000_Busan_Yeonje"
+            "sub_region_code":"2647000000_Busan_Yeonje",
+            "shorten_url":"https:\/\/me2.do\/GE5PHjLZ"
         },
         {
             "index":13,
@@ -214,7 +231,8 @@
             "value_score":69.0338,
             "region":"부산시 연제구",
             "region_code":"Busan",
-            "sub_region_code":"2647000000_Busan_Yeonje"
+            "sub_region_code":"2647000000_Busan_Yeonje",
+            "shorten_url":"https:\/\/me2.do\/GE5PHjLZ"
         },
         {
             "index":14,
@@ -226,7 +244,8 @@
             "value_score":68.6338,
             "region":"부산시 연제구",
             "region_code":"Busan",
-            "sub_region_code":"2647000000_Busan_Yeonje"
+            "sub_region_code":"2647000000_Busan_Yeonje",
+            "shorten_url":"https:\/\/me2.do\/GE5PHjLZ"
         },
         {
             "index":15,
@@ -238,7 +257,8 @@
             "value_score":66.9236,
             "region":"부산시 연제구",
             "region_code":"Busan",
-            "sub_region_code":"2647000000_Busan_Yeonje"
+            "sub_region_code":"2647000000_Busan_Yeonje",
+            "shorten_url":"https:\/\/me2.do\/GE5PHjLZ"
         },
         {
             "index":16,
@@ -250,7 +270,8 @@
             "value_score":66.872,
             "region":"부산시 연제구",
             "region_code":"Busan",
-            "sub_region_code":"2647000000_Busan_Yeonje"
+            "sub_region_code":"2647000000_Busan_Yeonje",
+            "shorten_url":"https:\/\/me2.do\/GE5PHjLZ"
         },
         {
             "index":17,
@@ -262,7 +283,8 @@
             "value_score":66.8022,
             "region":"부산시 연제구",
             "region_code":"Busan",
-            "sub_region_code":"2647000000_Busan_Yeonje"
+            "sub_region_code":"2647000000_Busan_Yeonje",
+            "shorten_url":"https:\/\/me2.do\/GE5PHjLZ"
         },
         {
             "index":18,
@@ -274,7 +296,8 @@
             "value_score":66.2838,
             "region":"부산시 연제구",
             "region_code":"Busan",
-            "sub_region_code":"2647000000_Busan_Yeonje"
+            "sub_region_code":"2647000000_Busan_Yeonje",
+            "shorten_url":"https:\/\/me2.do\/GE5PHjLZ"
         },
         {
             "index":19,
@@ -286,7 +309,8 @@
             "value_score":66.0472,
             "region":"부산시 연제구",
             "region_code":"Busan",
-            "sub_region_code":"2647000000_Busan_Yeonje"
+            "sub_region_code":"2647000000_Busan_Yeonje",
+            "shorten_url":"https:\/\/me2.do\/GE5PHjLZ"
         },
         {
             "index":20,
@@ -298,7 +322,8 @@
             "value_score":79.30035,
             "region":"부산시 연제구",
             "region_code":"Busan",
-            "sub_region_code":"2647000000_Busan_Yeonje"
+            "sub_region_code":"2647000000_Busan_Yeonje",
+            "shorten_url":"https:\/\/me2.do\/GE5PHjLZ"
         },
         {
             "index":21,
@@ -310,7 +335,8 @@
             "value_score":78.90035,
             "region":"부산시 연제구",
             "region_code":"Busan",
-            "sub_region_code":"2647000000_Busan_Yeonje"
+            "sub_region_code":"2647000000_Busan_Yeonje",
+            "shorten_url":"https:\/\/me2.do\/GE5PHjLZ"
         },
         {
             "index":22,
@@ -322,7 +348,8 @@
             "value_score":78.47535,
             "region":"부산시 연제구",
             "region_code":"Busan",
-            "sub_region_code":"2647000000_Busan_Yeonje"
+            "sub_region_code":"2647000000_Busan_Yeonje",
+            "shorten_url":"https:\/\/me2.do\/GE5PHjLZ"
         },
         {
             "index":23,
@@ -334,7 +361,8 @@
             "value_score":76.59015,
             "region":"부산시 연제구",
             "region_code":"Busan",
-            "sub_region_code":"2647000000_Busan_Yeonje"
+            "sub_region_code":"2647000000_Busan_Yeonje",
+            "shorten_url":"https:\/\/me2.do\/GE5PHjLZ"
         },
         {
             "index":24,
@@ -346,7 +374,8 @@
             "value_score":76.40035,
             "region":"부산시 연제구",
             "region_code":"Busan",
-            "sub_region_code":"2647000000_Busan_Yeonje"
+            "sub_region_code":"2647000000_Busan_Yeonje",
+            "shorten_url":"https:\/\/me2.do\/GE5PHjLZ"
         },
         {
             "index":25,
@@ -358,7 +387,8 @@
             "value_score":76.30165,
             "region":"부산시 연제구",
             "region_code":"Busan",
-            "sub_region_code":"2647000000_Busan_Yeonje"
+            "sub_region_code":"2647000000_Busan_Yeonje",
+            "shorten_url":"https:\/\/me2.do\/GE5PHjLZ"
         },
         {
             "index":26,
@@ -370,7 +400,8 @@
             "value_score":76.1576188712,
             "region":"부산시 연제구",
             "region_code":"Busan",
-            "sub_region_code":"2647000000_Busan_Yeonje"
+            "sub_region_code":"2647000000_Busan_Yeonje",
+            "shorten_url":"https:\/\/me2.do\/GE5PHjLZ"
         },
         {
             "index":27,
@@ -382,7 +413,8 @@
             "value_score":75.7915,
             "region":"부산시 연제구",
             "region_code":"Busan",
-            "sub_region_code":"2647000000_Busan_Yeonje"
+            "sub_region_code":"2647000000_Busan_Yeonje",
+            "shorten_url":"https:\/\/me2.do\/GE5PHjLZ"
         },
         {
             "index":28,
@@ -394,7 +426,8 @@
             "value_score":75.62655,
             "region":"부산시 연제구",
             "region_code":"Busan",
-            "sub_region_code":"2647000000_Busan_Yeonje"
+            "sub_region_code":"2647000000_Busan_Yeonje",
+            "shorten_url":"https:\/\/me2.do\/GE5PHjLZ"
         },
         {
             "index":29,
@@ -406,7 +439,8 @@
             "value_score":75.3415,
             "region":"부산시 연제구",
             "region_code":"Busan",
-            "sub_region_code":"2647000000_Busan_Yeonje"
+            "sub_region_code":"2647000000_Busan_Yeonje",
+            "shorten_url":"https:\/\/me2.do\/GE5PHjLZ"
         },
         {
             "index":30,
@@ -418,7 +452,8 @@
             "value_score":72.71725,
             "region":"부산시 연제구",
             "region_code":"Busan",
-            "sub_region_code":"2647000000_Busan_Yeonje"
+            "sub_region_code":"2647000000_Busan_Yeonje",
+            "shorten_url":"https:\/\/me2.do\/GE5PHjLZ"
         },
         {
             "index":31,
@@ -430,7 +465,8 @@
             "value_score":72.16725,
             "region":"부산시 연제구",
             "region_code":"Busan",
-            "sub_region_code":"2647000000_Busan_Yeonje"
+            "sub_region_code":"2647000000_Busan_Yeonje",
+            "shorten_url":"https:\/\/me2.do\/GE5PHjLZ"
         },
         {
             "index":32,
@@ -442,7 +478,8 @@
             "value_score":71.71725,
             "region":"부산시 연제구",
             "region_code":"Busan",
-            "sub_region_code":"2647000000_Busan_Yeonje"
+            "sub_region_code":"2647000000_Busan_Yeonje",
+            "shorten_url":"https:\/\/me2.do\/GE5PHjLZ"
         },
         {
             "index":33,
@@ -454,7 +491,8 @@
             "value_score":71.51725,
             "region":"부산시 연제구",
             "region_code":"Busan",
-            "sub_region_code":"2647000000_Busan_Yeonje"
+            "sub_region_code":"2647000000_Busan_Yeonje",
+            "shorten_url":"https:\/\/me2.do\/GE5PHjLZ"
         },
         {
             "index":34,
@@ -466,7 +504,8 @@
             "value_score":69.246031452,
             "region":"부산시 연제구",
             "region_code":"Busan",
-            "sub_region_code":"2647000000_Busan_Yeonje"
+            "sub_region_code":"2647000000_Busan_Yeonje",
+            "shorten_url":"https:\/\/me2.do\/GE5PHjLZ"
         },
         {
             "index":35,
@@ -478,7 +517,8 @@
             "value_score":68.90025,
             "region":"부산시 연제구",
             "region_code":"Busan",
-            "sub_region_code":"2647000000_Busan_Yeonje"
+            "sub_region_code":"2647000000_Busan_Yeonje",
+            "shorten_url":"https:\/\/me2.do\/GE5PHjLZ"
         },
         {
             "index":36,
@@ -490,7 +530,8 @@
             "value_score":68.71725,
             "region":"부산시 연제구",
             "region_code":"Busan",
-            "sub_region_code":"2647000000_Busan_Yeonje"
+            "sub_region_code":"2647000000_Busan_Yeonje",
+            "shorten_url":"https:\/\/me2.do\/GE5PHjLZ"
         },
         {
             "index":37,
@@ -502,7 +543,8 @@
             "value_score":67.7775,
             "region":"부산시 연제구",
             "region_code":"Busan",
-            "sub_region_code":"2647000000_Busan_Yeonje"
+            "sub_region_code":"2647000000_Busan_Yeonje",
+            "shorten_url":"https:\/\/me2.do\/GE5PHjLZ"
         },
         {
             "index":38,
@@ -514,7 +556,8 @@
             "value_score":67.4222503949,
             "region":"부산시 연제구",
             "region_code":"Busan",
-            "sub_region_code":"2647000000_Busan_Yeonje"
+            "sub_region_code":"2647000000_Busan_Yeonje",
+            "shorten_url":"https:\/\/me2.do\/GE5PHjLZ"
         },
         {
             "index":39,
@@ -526,7 +569,8 @@
             "value_score":65.80025,
             "region":"부산시 연제구",
             "region_code":"Busan",
-            "sub_region_code":"2647000000_Busan_Yeonje"
+            "sub_region_code":"2647000000_Busan_Yeonje",
+            "shorten_url":"https:\/\/me2.do\/GE5PHjLZ"
         },
         {
             "index":40,
@@ -538,7 +582,8 @@
             "value_score":72.2345,
             "region":"부산시 연제구",
             "region_code":"Busan",
-            "sub_region_code":"2647000000_Busan_Yeonje"
+            "sub_region_code":"2647000000_Busan_Yeonje",
+            "shorten_url":"https:\/\/me2.do\/GE5PHjLZ"
         },
         {
             "index":41,
@@ -550,7 +595,8 @@
             "value_score":71.8345,
             "region":"부산시 연제구",
             "region_code":"Busan",
-            "sub_region_code":"2647000000_Busan_Yeonje"
+            "sub_region_code":"2647000000_Busan_Yeonje",
+            "shorten_url":"https:\/\/me2.do\/GE5PHjLZ"
         },
         {
             "index":42,
@@ -562,7 +608,8 @@
             "value_score":71.8345,
             "region":"부산시 연제구",
             "region_code":"Busan",
-            "sub_region_code":"2647000000_Busan_Yeonje"
+            "sub_region_code":"2647000000_Busan_Yeonje",
+            "shorten_url":"https:\/\/me2.do\/GE5PHjLZ"
         },
         {
             "index":43,
@@ -574,7 +621,8 @@
             "value_score":71.1345,
             "region":"부산시 연제구",
             "region_code":"Busan",
-            "sub_region_code":"2647000000_Busan_Yeonje"
+            "sub_region_code":"2647000000_Busan_Yeonje",
+            "shorten_url":"https:\/\/me2.do\/GE5PHjLZ"
         },
         {
             "index":44,
@@ -586,7 +634,8 @@
             "value_score":66.8920629039,
             "region":"부산시 연제구",
             "region_code":"Busan",
-            "sub_region_code":"2647000000_Busan_Yeonje"
+            "sub_region_code":"2647000000_Busan_Yeonje",
+            "shorten_url":"https:\/\/me2.do\/GE5PHjLZ"
         },
         {
             "index":45,
@@ -598,7 +647,8 @@
             "value_score":65.4345,
             "region":"부산시 연제구",
             "region_code":"Busan",
-            "sub_region_code":"2647000000_Busan_Yeonje"
+            "sub_region_code":"2647000000_Busan_Yeonje",
+            "shorten_url":"https:\/\/me2.do\/GE5PHjLZ"
         },
         {
             "index":46,
@@ -610,7 +660,8 @@
             "value_score":65.3245007899,
             "region":"부산시 연제구",
             "region_code":"Busan",
-            "sub_region_code":"2647000000_Busan_Yeonje"
+            "sub_region_code":"2647000000_Busan_Yeonje",
+            "shorten_url":"https:\/\/me2.do\/GE5PHjLZ"
         },
         {
             "index":47,
@@ -622,7 +673,8 @@
             "value_score":61.2385,
             "region":"부산시 연제구",
             "region_code":"Busan",
-            "sub_region_code":"2647000000_Busan_Yeonje"
+            "sub_region_code":"2647000000_Busan_Yeonje",
+            "shorten_url":"https:\/\/me2.do\/GE5PHjLZ"
         },
         {
             "index":48,
@@ -634,7 +686,8 @@
             "value_score":60.455,
             "region":"부산시 연제구",
             "region_code":"Busan",
-            "sub_region_code":"2647000000_Busan_Yeonje"
+            "sub_region_code":"2647000000_Busan_Yeonje",
+            "shorten_url":"https:\/\/me2.do\/GE5PHjLZ"
         },
         {
             "index":49,
@@ -646,7 +699,8 @@
             "value_score":60.2185,
             "region":"부산시 연제구",
             "region_code":"Busan",
-            "sub_region_code":"2647000000_Busan_Yeonje"
+            "sub_region_code":"2647000000_Busan_Yeonje",
+            "shorten_url":"https:\/\/me2.do\/GE5PHjLZ"
         }
     ]
 }

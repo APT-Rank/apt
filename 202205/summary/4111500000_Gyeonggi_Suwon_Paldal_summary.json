@@ -40,6 +40,10 @@
             {
                 "name":"sub_region_code",
                 "type":"string"
+            },
+            {
+                "name":"shorten_url",
+                "type":"string"
             }
         ],
         "primaryKey":[
@@ -58,7 +62,8 @@
             "value_score":70.49715,
             "region":"경기도 수원시 팔달구",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4111500000_Gyeonggi_Suwon_Paldal"
+            "sub_region_code":"4111500000_Gyeonggi_Suwon_Paldal",
+            "shorten_url":"https:\/\/me2.do\/GgOIKHMo"
         },
         {
             "index":1,
@@ -70,7 +75,8 @@
             "value_score":68.04765,
             "region":"경기도 수원시 팔달구",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4111500000_Gyeonggi_Suwon_Paldal"
+            "sub_region_code":"4111500000_Gyeonggi_Suwon_Paldal",
+            "shorten_url":"https:\/\/me2.do\/GgOIKHMo"
         },
         {
             "index":2,
@@ -82,7 +88,8 @@
             "value_score":67.89715,
             "region":"경기도 수원시 팔달구",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4111500000_Gyeonggi_Suwon_Paldal"
+            "sub_region_code":"4111500000_Gyeonggi_Suwon_Paldal",
+            "shorten_url":"https:\/\/me2.do\/GgOIKHMo"
         },
         {
             "index":3,
@@ -94,7 +101,8 @@
             "value_score":67.84765,
             "region":"경기도 수원시 팔달구",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4111500000_Gyeonggi_Suwon_Paldal"
+            "sub_region_code":"4111500000_Gyeonggi_Suwon_Paldal",
+            "shorten_url":"https:\/\/me2.do\/GgOIKHMo"
         },
         {
             "index":4,
@@ -106,7 +114,8 @@
             "value_score":67.52495,
             "region":"경기도 수원시 팔달구",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4111500000_Gyeonggi_Suwon_Paldal"
+            "sub_region_code":"4111500000_Gyeonggi_Suwon_Paldal",
+            "shorten_url":"https:\/\/me2.do\/GgOIKHMo"
         },
         {
             "index":5,
@@ -118,7 +127,8 @@
             "value_score":66.81845,
             "region":"경기도 수원시 팔달구",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4111500000_Gyeonggi_Suwon_Paldal"
+            "sub_region_code":"4111500000_Gyeonggi_Suwon_Paldal",
+            "shorten_url":"https:\/\/me2.do\/GgOIKHMo"
         },
         {
             "index":6,
@@ -130,7 +140,8 @@
             "value_score":65.7009,
             "region":"경기도 수원시 팔달구",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4111500000_Gyeonggi_Suwon_Paldal"
+            "sub_region_code":"4111500000_Gyeonggi_Suwon_Paldal",
+            "shorten_url":"https:\/\/me2.do\/GgOIKHMo"
         },
         {
             "index":7,
@@ -142,7 +153,8 @@
             "value_score":65.39765,
             "region":"경기도 수원시 팔달구",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4111500000_Gyeonggi_Suwon_Paldal"
+            "sub_region_code":"4111500000_Gyeonggi_Suwon_Paldal",
+            "shorten_url":"https:\/\/me2.do\/GgOIKHMo"
         },
         {
             "index":8,
@@ -154,7 +166,8 @@
             "value_score":64.3766,
             "region":"경기도 수원시 팔달구",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4111500000_Gyeonggi_Suwon_Paldal"
+            "sub_region_code":"4111500000_Gyeonggi_Suwon_Paldal",
+            "shorten_url":"https:\/\/me2.do\/GgOIKHMo"
         },
         {
             "index":9,
@@ -166,7 +179,8 @@
             "value_score":64.1266,
             "region":"경기도 수원시 팔달구",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4111500000_Gyeonggi_Suwon_Paldal"
+            "sub_region_code":"4111500000_Gyeonggi_Suwon_Paldal",
+            "shorten_url":"https:\/\/me2.do\/GgOIKHMo"
         },
         {
             "index":10,
@@ -178,7 +192,8 @@
             "value_score":73.0462,
             "region":"경기도 수원시 팔달구",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4111500000_Gyeonggi_Suwon_Paldal"
+            "sub_region_code":"4111500000_Gyeonggi_Suwon_Paldal",
+            "shorten_url":"https:\/\/me2.do\/GgOIKHMo"
         },
         {
             "index":11,
@@ -190,7 +205,8 @@
             "value_score":72.6962,
             "region":"경기도 수원시 팔달구",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4111500000_Gyeonggi_Suwon_Paldal"
+            "sub_region_code":"4111500000_Gyeonggi_Suwon_Paldal",
+            "shorten_url":"https:\/\/me2.do\/GgOIKHMo"
         },
         {
             "index":12,
@@ -202,7 +218,8 @@
             "value_score":72.5246,
             "region":"경기도 수원시 팔달구",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4111500000_Gyeonggi_Suwon_Paldal"
+            "sub_region_code":"4111500000_Gyeonggi_Suwon_Paldal",
+            "shorten_url":"https:\/\/me2.do\/GgOIKHMo"
         },
         {
             "index":13,
@@ -214,7 +231,8 @@
             "value_score":71.4762,
             "region":"경기도 수원시 팔달구",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4111500000_Gyeonggi_Suwon_Paldal"
+            "sub_region_code":"4111500000_Gyeonggi_Suwon_Paldal",
+            "shorten_url":"https:\/\/me2.do\/GgOIKHMo"
         },
         {
             "index":14,
@@ -226,7 +244,8 @@
             "value_score":68.9512,
             "region":"경기도 수원시 팔달구",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4111500000_Gyeonggi_Suwon_Paldal"
+            "sub_region_code":"4111500000_Gyeonggi_Suwon_Paldal",
+            "shorten_url":"https:\/\/me2.do\/GgOIKHMo"
         },
         {
             "index":15,
@@ -238,7 +257,8 @@
             "value_score":67.7858,
             "region":"경기도 수원시 팔달구",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4111500000_Gyeonggi_Suwon_Paldal"
+            "sub_region_code":"4111500000_Gyeonggi_Suwon_Paldal",
+            "shorten_url":"https:\/\/me2.do\/GgOIKHMo"
         },
         {
             "index":16,
@@ -250,7 +270,8 @@
             "value_score":67.2024,
             "region":"경기도 수원시 팔달구",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4111500000_Gyeonggi_Suwon_Paldal"
+            "sub_region_code":"4111500000_Gyeonggi_Suwon_Paldal",
+            "shorten_url":"https:\/\/me2.do\/GgOIKHMo"
         },
         {
             "index":17,
@@ -262,7 +283,8 @@
             "value_score":66.4302,
             "region":"경기도 수원시 팔달구",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4111500000_Gyeonggi_Suwon_Paldal"
+            "sub_region_code":"4111500000_Gyeonggi_Suwon_Paldal",
+            "shorten_url":"https:\/\/me2.do\/GgOIKHMo"
         },
         {
             "index":18,
@@ -274,7 +296,8 @@
             "value_score":62.2166,
             "region":"경기도 수원시 팔달구",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4111500000_Gyeonggi_Suwon_Paldal"
+            "sub_region_code":"4111500000_Gyeonggi_Suwon_Paldal",
+            "shorten_url":"https:\/\/me2.do\/GgOIKHMo"
         },
         {
             "index":19,
@@ -286,7 +309,8 @@
             "value_score":62.0246,
             "region":"경기도 수원시 팔달구",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4111500000_Gyeonggi_Suwon_Paldal"
+            "sub_region_code":"4111500000_Gyeonggi_Suwon_Paldal",
+            "shorten_url":"https:\/\/me2.do\/GgOIKHMo"
         },
         {
             "index":20,
@@ -298,7 +322,8 @@
             "value_score":69.27215,
             "region":"경기도 수원시 팔달구",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4111500000_Gyeonggi_Suwon_Paldal"
+            "sub_region_code":"4111500000_Gyeonggi_Suwon_Paldal",
+            "shorten_url":"https:\/\/me2.do\/GgOIKHMo"
         },
         {
             "index":21,
@@ -310,7 +335,8 @@
             "value_score":69.09765,
             "region":"경기도 수원시 팔달구",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4111500000_Gyeonggi_Suwon_Paldal"
+            "sub_region_code":"4111500000_Gyeonggi_Suwon_Paldal",
+            "shorten_url":"https:\/\/me2.do\/GgOIKHMo"
         },
         {
             "index":22,
@@ -322,7 +348,8 @@
             "value_score":68.94765,
             "region":"경기도 수원시 팔달구",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4111500000_Gyeonggi_Suwon_Paldal"
+            "sub_region_code":"4111500000_Gyeonggi_Suwon_Paldal",
+            "shorten_url":"https:\/\/me2.do\/GgOIKHMo"
         },
         {
             "index":23,
@@ -334,7 +361,8 @@
             "value_score":68.14715,
             "region":"경기도 수원시 팔달구",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4111500000_Gyeonggi_Suwon_Paldal"
+            "sub_region_code":"4111500000_Gyeonggi_Suwon_Paldal",
+            "shorten_url":"https:\/\/me2.do\/GgOIKHMo"
         },
         {
             "index":24,
@@ -346,7 +374,8 @@
             "value_score":67.19995,
             "region":"경기도 수원시 팔달구",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4111500000_Gyeonggi_Suwon_Paldal"
+            "sub_region_code":"4111500000_Gyeonggi_Suwon_Paldal",
+            "shorten_url":"https:\/\/me2.do\/GgOIKHMo"
         },
         {
             "index":25,
@@ -358,7 +387,8 @@
             "value_score":65.94765,
             "region":"경기도 수원시 팔달구",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4111500000_Gyeonggi_Suwon_Paldal"
+            "sub_region_code":"4111500000_Gyeonggi_Suwon_Paldal",
+            "shorten_url":"https:\/\/me2.do\/GgOIKHMo"
         },
         {
             "index":26,
@@ -370,7 +400,8 @@
             "value_score":65.2516,
             "region":"경기도 수원시 팔달구",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4111500000_Gyeonggi_Suwon_Paldal"
+            "sub_region_code":"4111500000_Gyeonggi_Suwon_Paldal",
+            "shorten_url":"https:\/\/me2.do\/GgOIKHMo"
         },
         {
             "index":27,
@@ -382,7 +413,8 @@
             "value_score":65.2509,
             "region":"경기도 수원시 팔달구",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4111500000_Gyeonggi_Suwon_Paldal"
+            "sub_region_code":"4111500000_Gyeonggi_Suwon_Paldal",
+            "shorten_url":"https:\/\/me2.do\/GgOIKHMo"
         },
         {
             "index":28,
@@ -394,7 +426,8 @@
             "value_score":65.0759,
             "region":"경기도 수원시 팔달구",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4111500000_Gyeonggi_Suwon_Paldal"
+            "sub_region_code":"4111500000_Gyeonggi_Suwon_Paldal",
+            "shorten_url":"https:\/\/me2.do\/GgOIKHMo"
         },
         {
             "index":29,
@@ -406,7 +439,8 @@
             "value_score":63.9009,
             "region":"경기도 수원시 팔달구",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4111500000_Gyeonggi_Suwon_Paldal"
+            "sub_region_code":"4111500000_Gyeonggi_Suwon_Paldal",
+            "shorten_url":"https:\/\/me2.do\/GgOIKHMo"
         },
         {
             "index":30,
@@ -418,7 +452,8 @@
             "value_score":73.31275,
             "region":"경기도 수원시 팔달구",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4111500000_Gyeonggi_Suwon_Paldal"
+            "sub_region_code":"4111500000_Gyeonggi_Suwon_Paldal",
+            "shorten_url":"https:\/\/me2.do\/GgOIKHMo"
         },
         {
             "index":31,
@@ -430,7 +465,8 @@
             "value_score":73.21275,
             "region":"경기도 수원시 팔달구",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4111500000_Gyeonggi_Suwon_Paldal"
+            "sub_region_code":"4111500000_Gyeonggi_Suwon_Paldal",
+            "shorten_url":"https:\/\/me2.do\/GgOIKHMo"
         },
         {
             "index":32,
@@ -442,7 +478,8 @@
             "value_score":71.96275,
             "region":"경기도 수원시 팔달구",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4111500000_Gyeonggi_Suwon_Paldal"
+            "sub_region_code":"4111500000_Gyeonggi_Suwon_Paldal",
+            "shorten_url":"https:\/\/me2.do\/GgOIKHMo"
         },
         {
             "index":33,
@@ -454,7 +491,8 @@
             "value_score":71.511,
             "region":"경기도 수원시 팔달구",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4111500000_Gyeonggi_Suwon_Paldal"
+            "sub_region_code":"4111500000_Gyeonggi_Suwon_Paldal",
+            "shorten_url":"https:\/\/me2.do\/GgOIKHMo"
         },
         {
             "index":34,
@@ -466,7 +504,8 @@
             "value_score":70.83075,
             "region":"경기도 수원시 팔달구",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4111500000_Gyeonggi_Suwon_Paldal"
+            "sub_region_code":"4111500000_Gyeonggi_Suwon_Paldal",
+            "shorten_url":"https:\/\/me2.do\/GgOIKHMo"
         },
         {
             "index":35,
@@ -478,7 +517,8 @@
             "value_score":69.961,
             "region":"경기도 수원시 팔달구",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4111500000_Gyeonggi_Suwon_Paldal"
+            "sub_region_code":"4111500000_Gyeonggi_Suwon_Paldal",
+            "shorten_url":"https:\/\/me2.do\/GgOIKHMo"
         },
         {
             "index":36,
@@ -490,7 +530,8 @@
             "value_score":69.93225,
             "region":"경기도 수원시 팔달구",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4111500000_Gyeonggi_Suwon_Paldal"
+            "sub_region_code":"4111500000_Gyeonggi_Suwon_Paldal",
+            "shorten_url":"https:\/\/me2.do\/GgOIKHMo"
         },
         {
             "index":37,
@@ -502,7 +543,8 @@
             "value_score":68.9175,
             "region":"경기도 수원시 팔달구",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4111500000_Gyeonggi_Suwon_Paldal"
+            "sub_region_code":"4111500000_Gyeonggi_Suwon_Paldal",
+            "shorten_url":"https:\/\/me2.do\/GgOIKHMo"
         },
         {
             "index":38,
@@ -514,7 +556,8 @@
             "value_score":68.361,
             "region":"경기도 수원시 팔달구",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4111500000_Gyeonggi_Suwon_Paldal"
+            "sub_region_code":"4111500000_Gyeonggi_Suwon_Paldal",
+            "shorten_url":"https:\/\/me2.do\/GgOIKHMo"
         },
         {
             "index":39,
@@ -526,7 +569,8 @@
             "value_score":67.44525,
             "region":"경기도 수원시 팔달구",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4111500000_Gyeonggi_Suwon_Paldal"
+            "sub_region_code":"4111500000_Gyeonggi_Suwon_Paldal",
+            "shorten_url":"https:\/\/me2.do\/GgOIKHMo"
         },
         {
             "index":40,
@@ -538,7 +582,8 @@
             "value_score":66.2615,
             "region":"경기도 수원시 팔달구",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4111500000_Gyeonggi_Suwon_Paldal"
+            "sub_region_code":"4111500000_Gyeonggi_Suwon_Paldal",
+            "shorten_url":"https:\/\/me2.do\/GgOIKHMo"
         },
         {
             "index":41,
@@ -550,7 +595,8 @@
             "value_score":65.7255,
             "region":"경기도 수원시 팔달구",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4111500000_Gyeonggi_Suwon_Paldal"
+            "sub_region_code":"4111500000_Gyeonggi_Suwon_Paldal",
+            "shorten_url":"https:\/\/me2.do\/GgOIKHMo"
         },
         {
             "index":42,
@@ -562,7 +608,8 @@
             "value_score":64.022,
             "region":"경기도 수원시 팔달구",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4111500000_Gyeonggi_Suwon_Paldal"
+            "sub_region_code":"4111500000_Gyeonggi_Suwon_Paldal",
+            "shorten_url":"https:\/\/me2.do\/GgOIKHMo"
         },
         {
             "index":43,
@@ -574,7 +621,8 @@
             "value_score":62.5445,
             "region":"경기도 수원시 팔달구",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4111500000_Gyeonggi_Suwon_Paldal"
+            "sub_region_code":"4111500000_Gyeonggi_Suwon_Paldal",
+            "shorten_url":"https:\/\/me2.do\/GgOIKHMo"
         },
         {
             "index":44,
@@ -586,7 +634,8 @@
             "value_score":60.9135,
             "region":"경기도 수원시 팔달구",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4111500000_Gyeonggi_Suwon_Paldal"
+            "sub_region_code":"4111500000_Gyeonggi_Suwon_Paldal",
+            "shorten_url":"https:\/\/me2.do\/GgOIKHMo"
         },
         {
             "index":45,
@@ -598,7 +647,8 @@
             "value_score":60.8905,
             "region":"경기도 수원시 팔달구",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4111500000_Gyeonggi_Suwon_Paldal"
+            "sub_region_code":"4111500000_Gyeonggi_Suwon_Paldal",
+            "shorten_url":"https:\/\/me2.do\/GgOIKHMo"
         },
         {
             "index":46,
@@ -610,7 +660,8 @@
             "value_score":60.8645,
             "region":"경기도 수원시 팔달구",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4111500000_Gyeonggi_Suwon_Paldal"
+            "sub_region_code":"4111500000_Gyeonggi_Suwon_Paldal",
+            "shorten_url":"https:\/\/me2.do\/GgOIKHMo"
         },
         {
             "index":47,
@@ -622,7 +673,8 @@
             "value_score":59.6825,
             "region":"경기도 수원시 팔달구",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4111500000_Gyeonggi_Suwon_Paldal"
+            "sub_region_code":"4111500000_Gyeonggi_Suwon_Paldal",
+            "shorten_url":"https:\/\/me2.do\/GgOIKHMo"
         },
         {
             "index":48,
@@ -634,7 +686,8 @@
             "value_score":59.3645,
             "region":"경기도 수원시 팔달구",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4111500000_Gyeonggi_Suwon_Paldal"
+            "sub_region_code":"4111500000_Gyeonggi_Suwon_Paldal",
+            "shorten_url":"https:\/\/me2.do\/GgOIKHMo"
         },
         {
             "index":49,
@@ -646,7 +699,8 @@
             "value_score":59.1905,
             "region":"경기도 수원시 팔달구",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4111500000_Gyeonggi_Suwon_Paldal"
+            "sub_region_code":"4111500000_Gyeonggi_Suwon_Paldal",
+            "shorten_url":"https:\/\/me2.do\/GgOIKHMo"
         }
     ]
 }

@@ -40,6 +40,10 @@
             {
                 "name":"sub_region_code",
                 "type":"string"
+            },
+            {
+                "name":"shorten_url",
+                "type":"string"
             }
         ],
         "primaryKey":[
@@ -58,7 +62,8 @@
             "value_score":39.6593,
             "region":"경상북도 영덕군",
             "region_code":"Gyeongsangbukdo",
-            "sub_region_code":"4777000000_Gyeongsangbukdo_Yeongdeok"
+            "sub_region_code":"4777000000_Gyeongsangbukdo_Yeongdeok",
+            "shorten_url":"https:\/\/me2.do\/Gl5b8qEh"
         },
         {
             "index":1,
@@ -70,7 +75,8 @@
             "value_score":32.7093,
             "region":"경상북도 영덕군",
             "region_code":"Gyeongsangbukdo",
-            "sub_region_code":"4777000000_Gyeongsangbukdo_Yeongdeok"
+            "sub_region_code":"4777000000_Gyeongsangbukdo_Yeongdeok",
+            "shorten_url":"https:\/\/me2.do\/Gl5b8qEh"
         },
         {
             "index":2,
@@ -82,7 +88,8 @@
             "value_score":28.5593,
             "region":"경상북도 영덕군",
             "region_code":"Gyeongsangbukdo",
-            "sub_region_code":"4777000000_Gyeongsangbukdo_Yeongdeok"
+            "sub_region_code":"4777000000_Gyeongsangbukdo_Yeongdeok",
+            "shorten_url":"https:\/\/me2.do\/Gl5b8qEh"
         },
         {
             "index":3,
@@ -94,7 +101,8 @@
             "value_score":39.1495,
             "region":"경상북도 영덕군",
             "region_code":"Gyeongsangbukdo",
-            "sub_region_code":"4777000000_Gyeongsangbukdo_Yeongdeok"
+            "sub_region_code":"4777000000_Gyeongsangbukdo_Yeongdeok",
+            "shorten_url":"https:\/\/me2.do\/Gl5b8qEh"
         },
         {
             "index":4,
@@ -106,7 +114,8 @@
             "value_score":30.6495,
             "region":"경상북도 영덕군",
             "region_code":"Gyeongsangbukdo",
-            "sub_region_code":"4777000000_Gyeongsangbukdo_Yeongdeok"
+            "sub_region_code":"4777000000_Gyeongsangbukdo_Yeongdeok",
+            "shorten_url":"https:\/\/me2.do\/Gl5b8qEh"
         },
         {
             "index":5,
@@ -118,7 +127,8 @@
             "value_score":25.3995,
             "region":"경상북도 영덕군",
             "region_code":"Gyeongsangbukdo",
-            "sub_region_code":"4777000000_Gyeongsangbukdo_Yeongdeok"
+            "sub_region_code":"4777000000_Gyeongsangbukdo_Yeongdeok",
+            "shorten_url":"https:\/\/me2.do\/Gl5b8qEh"
         },
         {
             "index":6,
@@ -130,7 +140,8 @@
             "value_score":33.2677894737,
             "region":"경상북도 영덕군",
             "region_code":"Gyeongsangbukdo",
-            "sub_region_code":"4777000000_Gyeongsangbukdo_Yeongdeok"
+            "sub_region_code":"4777000000_Gyeongsangbukdo_Yeongdeok",
+            "shorten_url":"https:\/\/me2.do\/Gl5b8qEh"
         },
         {
             "index":7,
@@ -142,7 +153,8 @@
             "value_score":29.2414736842,
             "region":"경상북도 영덕군",
             "region_code":"Gyeongsangbukdo",
-            "sub_region_code":"4777000000_Gyeongsangbukdo_Yeongdeok"
+            "sub_region_code":"4777000000_Gyeongsangbukdo_Yeongdeok",
+            "shorten_url":"https:\/\/me2.do\/Gl5b8qEh"
         },
         {
             "index":8,
@@ -154,7 +166,8 @@
             "value_score":28.0309473684,
             "region":"경상북도 영덕군",
             "region_code":"Gyeongsangbukdo",
-            "sub_region_code":"4777000000_Gyeongsangbukdo_Yeongdeok"
+            "sub_region_code":"4777000000_Gyeongsangbukdo_Yeongdeok",
+            "shorten_url":"https:\/\/me2.do\/Gl5b8qEh"
         },
         {
             "index":9,
@@ -166,7 +179,8 @@
             "value_score":40.424,
             "region":"경상북도 영덕군",
             "region_code":"Gyeongsangbukdo",
-            "sub_region_code":"4777000000_Gyeongsangbukdo_Yeongdeok"
+            "sub_region_code":"4777000000_Gyeongsangbukdo_Yeongdeok",
+            "shorten_url":"https:\/\/me2.do\/Gl5b8qEh"
         },
         {
             "index":10,
@@ -178,7 +192,8 @@
             "value_score":35.799,
             "region":"경상북도 영덕군",
             "region_code":"Gyeongsangbukdo",
-            "sub_region_code":"4777000000_Gyeongsangbukdo_Yeongdeok"
+            "sub_region_code":"4777000000_Gyeongsangbukdo_Yeongdeok",
+            "shorten_url":"https:\/\/me2.do\/Gl5b8qEh"
         },
         {
             "index":11,
@@ -190,7 +205,8 @@
             "value_score":33.299,
             "region":"경상북도 영덕군",
             "region_code":"Gyeongsangbukdo",
-            "sub_region_code":"4777000000_Gyeongsangbukdo_Yeongdeok"
+            "sub_region_code":"4777000000_Gyeongsangbukdo_Yeongdeok",
+            "shorten_url":"https:\/\/me2.do\/Gl5b8qEh"
         }
     ]
 }

@@ -40,6 +40,10 @@
             {
                 "name":"sub_region_code",
                 "type":"string"
+            },
+            {
+                "name":"shorten_url",
+                "type":"string"
             }
         ],
         "primaryKey":[
@@ -58,7 +62,8 @@
             "value_score":73.1224,
             "region":"경상남도 창원시 성산구",
             "region_code":"Gyeongsangnamdo",
-            "sub_region_code":"4812300000_Gyeongsangnamdo_Changwon_Seongsan"
+            "sub_region_code":"4812300000_Gyeongsangnamdo_Changwon_Seongsan",
+            "shorten_url":"https:\/\/me2.do\/FUGglcq5"
         },
         {
             "index":1,
@@ -70,7 +75,8 @@
             "value_score":71.6299,
             "region":"경상남도 창원시 성산구",
             "region_code":"Gyeongsangnamdo",
-            "sub_region_code":"4812300000_Gyeongsangnamdo_Changwon_Seongsan"
+            "sub_region_code":"4812300000_Gyeongsangnamdo_Changwon_Seongsan",
+            "shorten_url":"https:\/\/me2.do\/FUGglcq5"
         },
         {
             "index":2,
@@ -82,7 +88,8 @@
             "value_score":70.35625,
             "region":"경상남도 창원시 성산구",
             "region_code":"Gyeongsangnamdo",
-            "sub_region_code":"4812300000_Gyeongsangnamdo_Changwon_Seongsan"
+            "sub_region_code":"4812300000_Gyeongsangnamdo_Changwon_Seongsan",
+            "shorten_url":"https:\/\/me2.do\/FUGglcq5"
         },
         {
             "index":3,
@@ -94,7 +101,8 @@
             "value_score":68.1299,
             "region":"경상남도 창원시 성산구",
             "region_code":"Gyeongsangnamdo",
-            "sub_region_code":"4812300000_Gyeongsangnamdo_Changwon_Seongsan"
+            "sub_region_code":"4812300000_Gyeongsangnamdo_Changwon_Seongsan",
+            "shorten_url":"https:\/\/me2.do\/FUGglcq5"
         },
         {
             "index":4,
@@ -106,7 +114,8 @@
             "value_score":64.70625,
             "region":"경상남도 창원시 성산구",
             "region_code":"Gyeongsangnamdo",
-            "sub_region_code":"4812300000_Gyeongsangnamdo_Changwon_Seongsan"
+            "sub_region_code":"4812300000_Gyeongsangnamdo_Changwon_Seongsan",
+            "shorten_url":"https:\/\/me2.do\/FUGglcq5"
         },
         {
             "index":5,
@@ -118,7 +127,8 @@
             "value_score":64.4257,
             "region":"경상남도 창원시 성산구",
             "region_code":"Gyeongsangnamdo",
-            "sub_region_code":"4812300000_Gyeongsangnamdo_Changwon_Seongsan"
+            "sub_region_code":"4812300000_Gyeongsangnamdo_Changwon_Seongsan",
+            "shorten_url":"https:\/\/me2.do\/FUGglcq5"
         },
         {
             "index":6,
@@ -130,7 +140,8 @@
             "value_score":63.37235,
             "region":"경상남도 창원시 성산구",
             "region_code":"Gyeongsangnamdo",
-            "sub_region_code":"4812300000_Gyeongsangnamdo_Changwon_Seongsan"
+            "sub_region_code":"4812300000_Gyeongsangnamdo_Changwon_Seongsan",
+            "shorten_url":"https:\/\/me2.do\/FUGglcq5"
         },
         {
             "index":7,
@@ -142,7 +153,8 @@
             "value_score":62.6724,
             "region":"경상남도 창원시 성산구",
             "region_code":"Gyeongsangnamdo",
-            "sub_region_code":"4812300000_Gyeongsangnamdo_Changwon_Seongsan"
+            "sub_region_code":"4812300000_Gyeongsangnamdo_Changwon_Seongsan",
+            "shorten_url":"https:\/\/me2.do\/FUGglcq5"
         },
         {
             "index":8,
@@ -154,7 +166,8 @@
             "value_score":60.6718,
             "region":"경상남도 창원시 성산구",
             "region_code":"Gyeongsangnamdo",
-            "sub_region_code":"4812300000_Gyeongsangnamdo_Changwon_Seongsan"
+            "sub_region_code":"4812300000_Gyeongsangnamdo_Changwon_Seongsan",
+            "shorten_url":"https:\/\/me2.do\/FUGglcq5"
         },
         {
             "index":9,
@@ -166,7 +179,8 @@
             "value_score":60.44445,
             "region":"경상남도 창원시 성산구",
             "region_code":"Gyeongsangnamdo",
-            "sub_region_code":"4812300000_Gyeongsangnamdo_Changwon_Seongsan"
+            "sub_region_code":"4812300000_Gyeongsangnamdo_Changwon_Seongsan",
+            "shorten_url":"https:\/\/me2.do\/FUGglcq5"
         },
         {
             "index":10,
@@ -178,7 +192,8 @@
             "value_score":78.116,
             "region":"경상남도 창원시 성산구",
             "region_code":"Gyeongsangnamdo",
-            "sub_region_code":"4812300000_Gyeongsangnamdo_Changwon_Seongsan"
+            "sub_region_code":"4812300000_Gyeongsangnamdo_Changwon_Seongsan",
+            "shorten_url":"https:\/\/me2.do\/FUGglcq5"
         },
         {
             "index":11,
@@ -190,7 +205,8 @@
             "value_score":73.21875,
             "region":"경상남도 창원시 성산구",
             "region_code":"Gyeongsangnamdo",
-            "sub_region_code":"4812300000_Gyeongsangnamdo_Changwon_Seongsan"
+            "sub_region_code":"4812300000_Gyeongsangnamdo_Changwon_Seongsan",
+            "shorten_url":"https:\/\/me2.do\/FUGglcq5"
         },
         {
             "index":12,
@@ -202,7 +218,8 @@
             "value_score":71.7285,
             "region":"경상남도 창원시 성산구",
             "region_code":"Gyeongsangnamdo",
-            "sub_region_code":"4812300000_Gyeongsangnamdo_Changwon_Seongsan"
+            "sub_region_code":"4812300000_Gyeongsangnamdo_Changwon_Seongsan",
+            "shorten_url":"https:\/\/me2.do\/FUGglcq5"
         },
         {
             "index":13,
@@ -214,7 +231,8 @@
             "value_score":68.2255,
             "region":"경상남도 창원시 성산구",
             "region_code":"Gyeongsangnamdo",
-            "sub_region_code":"4812300000_Gyeongsangnamdo_Changwon_Seongsan"
+            "sub_region_code":"4812300000_Gyeongsangnamdo_Changwon_Seongsan",
+            "shorten_url":"https:\/\/me2.do\/FUGglcq5"
         },
         {
             "index":14,
@@ -226,7 +244,8 @@
             "value_score":67.7285,
             "region":"경상남도 창원시 성산구",
             "region_code":"Gyeongsangnamdo",
-            "sub_region_code":"4812300000_Gyeongsangnamdo_Changwon_Seongsan"
+            "sub_region_code":"4812300000_Gyeongsangnamdo_Changwon_Seongsan",
+            "shorten_url":"https:\/\/me2.do\/FUGglcq5"
         },
         {
             "index":15,
@@ -238,7 +257,8 @@
             "value_score":67.21875,
             "region":"경상남도 창원시 성산구",
             "region_code":"Gyeongsangnamdo",
-            "sub_region_code":"4812300000_Gyeongsangnamdo_Changwon_Seongsan"
+            "sub_region_code":"4812300000_Gyeongsangnamdo_Changwon_Seongsan",
+            "shorten_url":"https:\/\/me2.do\/FUGglcq5"
         },
         {
             "index":16,
@@ -250,7 +270,8 @@
             "value_score":66.73025,
             "region":"경상남도 창원시 성산구",
             "region_code":"Gyeongsangnamdo",
-            "sub_region_code":"4812300000_Gyeongsangnamdo_Changwon_Seongsan"
+            "sub_region_code":"4812300000_Gyeongsangnamdo_Changwon_Seongsan",
+            "shorten_url":"https:\/\/me2.do\/FUGglcq5"
         },
         {
             "index":17,
@@ -262,7 +283,8 @@
             "value_score":63.2045,
             "region":"경상남도 창원시 성산구",
             "region_code":"Gyeongsangnamdo",
-            "sub_region_code":"4812300000_Gyeongsangnamdo_Changwon_Seongsan"
+            "sub_region_code":"4812300000_Gyeongsangnamdo_Changwon_Seongsan",
+            "shorten_url":"https:\/\/me2.do\/FUGglcq5"
         },
         {
             "index":18,
@@ -274,7 +296,8 @@
             "value_score":62.88175,
             "region":"경상남도 창원시 성산구",
             "region_code":"Gyeongsangnamdo",
-            "sub_region_code":"4812300000_Gyeongsangnamdo_Changwon_Seongsan"
+            "sub_region_code":"4812300000_Gyeongsangnamdo_Changwon_Seongsan",
+            "shorten_url":"https:\/\/me2.do\/FUGglcq5"
         },
         {
             "index":19,
@@ -286,7 +309,8 @@
             "value_score":62.587,
             "region":"경상남도 창원시 성산구",
             "region_code":"Gyeongsangnamdo",
-            "sub_region_code":"4812300000_Gyeongsangnamdo_Changwon_Seongsan"
+            "sub_region_code":"4812300000_Gyeongsangnamdo_Changwon_Seongsan",
+            "shorten_url":"https:\/\/me2.do\/FUGglcq5"
         },
         {
             "index":20,
@@ -298,7 +322,8 @@
             "value_score":73.2938947368,
             "region":"경상남도 창원시 성산구",
             "region_code":"Gyeongsangnamdo",
-            "sub_region_code":"4812300000_Gyeongsangnamdo_Changwon_Seongsan"
+            "sub_region_code":"4812300000_Gyeongsangnamdo_Changwon_Seongsan",
+            "shorten_url":"https:\/\/me2.do\/FUGglcq5"
         },
         {
             "index":21,
@@ -310,7 +335,8 @@
             "value_score":72.3026315789,
             "region":"경상남도 창원시 성산구",
             "region_code":"Gyeongsangnamdo",
-            "sub_region_code":"4812300000_Gyeongsangnamdo_Changwon_Seongsan"
+            "sub_region_code":"4812300000_Gyeongsangnamdo_Changwon_Seongsan",
+            "shorten_url":"https:\/\/me2.do\/FUGglcq5"
         },
         {
             "index":22,
@@ -322,7 +348,8 @@
             "value_score":69.3465263158,
             "region":"경상남도 창원시 성산구",
             "region_code":"Gyeongsangnamdo",
-            "sub_region_code":"4812300000_Gyeongsangnamdo_Changwon_Seongsan"
+            "sub_region_code":"4812300000_Gyeongsangnamdo_Changwon_Seongsan",
+            "shorten_url":"https:\/\/me2.do\/FUGglcq5"
         },
         {
             "index":23,
@@ -334,7 +361,8 @@
             "value_score":68.4938947368,
             "region":"경상남도 창원시 성산구",
             "region_code":"Gyeongsangnamdo",
-            "sub_region_code":"4812300000_Gyeongsangnamdo_Changwon_Seongsan"
+            "sub_region_code":"4812300000_Gyeongsangnamdo_Changwon_Seongsan",
+            "shorten_url":"https:\/\/me2.do\/FUGglcq5"
         },
         {
             "index":24,
@@ -346,7 +374,8 @@
             "value_score":68.3096842105,
             "region":"경상남도 창원시 성산구",
             "region_code":"Gyeongsangnamdo",
-            "sub_region_code":"4812300000_Gyeongsangnamdo_Changwon_Seongsan"
+            "sub_region_code":"4812300000_Gyeongsangnamdo_Changwon_Seongsan",
+            "shorten_url":"https:\/\/me2.do\/FUGglcq5"
         },
         {
             "index":25,
@@ -358,7 +387,8 @@
             "value_score":67.6066315789,
             "region":"경상남도 창원시 성산구",
             "region_code":"Gyeongsangnamdo",
-            "sub_region_code":"4812300000_Gyeongsangnamdo_Changwon_Seongsan"
+            "sub_region_code":"4812300000_Gyeongsangnamdo_Changwon_Seongsan",
+            "shorten_url":"https:\/\/me2.do\/FUGglcq5"
         },
         {
             "index":26,
@@ -370,7 +400,8 @@
             "value_score":67.3434736842,
             "region":"경상남도 창원시 성산구",
             "region_code":"Gyeongsangnamdo",
-            "sub_region_code":"4812300000_Gyeongsangnamdo_Changwon_Seongsan"
+            "sub_region_code":"4812300000_Gyeongsangnamdo_Changwon_Seongsan",
+            "shorten_url":"https:\/\/me2.do\/FUGglcq5"
         },
         {
             "index":27,
@@ -382,7 +413,8 @@
             "value_score":66.7149473684,
             "region":"경상남도 창원시 성산구",
             "region_code":"Gyeongsangnamdo",
-            "sub_region_code":"4812300000_Gyeongsangnamdo_Changwon_Seongsan"
+            "sub_region_code":"4812300000_Gyeongsangnamdo_Changwon_Seongsan",
+            "shorten_url":"https:\/\/me2.do\/FUGglcq5"
         },
         {
             "index":28,
@@ -394,7 +426,8 @@
             "value_score":66.2675789474,
             "region":"경상남도 창원시 성산구",
             "region_code":"Gyeongsangnamdo",
-            "sub_region_code":"4812300000_Gyeongsangnamdo_Changwon_Seongsan"
+            "sub_region_code":"4812300000_Gyeongsangnamdo_Changwon_Seongsan",
+            "shorten_url":"https:\/\/me2.do\/FUGglcq5"
         },
         {
             "index":29,
@@ -406,7 +439,8 @@
             "value_score":66.0202105263,
             "region":"경상남도 창원시 성산구",
             "region_code":"Gyeongsangnamdo",
-            "sub_region_code":"4812300000_Gyeongsangnamdo_Changwon_Seongsan"
+            "sub_region_code":"4812300000_Gyeongsangnamdo_Changwon_Seongsan",
+            "shorten_url":"https:\/\/me2.do\/FUGglcq5"
         },
         {
             "index":30,
@@ -418,7 +452,8 @@
             "value_score":71.482,
             "region":"경상남도 창원시 성산구",
             "region_code":"Gyeongsangnamdo",
-            "sub_region_code":"4812300000_Gyeongsangnamdo_Changwon_Seongsan"
+            "sub_region_code":"4812300000_Gyeongsangnamdo_Changwon_Seongsan",
+            "shorten_url":"https:\/\/me2.do\/FUGglcq5"
         },
         {
             "index":31,
@@ -430,7 +465,8 @@
             "value_score":68.732,
             "region":"경상남도 창원시 성산구",
             "region_code":"Gyeongsangnamdo",
-            "sub_region_code":"4812300000_Gyeongsangnamdo_Changwon_Seongsan"
+            "sub_region_code":"4812300000_Gyeongsangnamdo_Changwon_Seongsan",
+            "shorten_url":"https:\/\/me2.do\/FUGglcq5"
         },
         {
             "index":32,
@@ -442,7 +478,8 @@
             "value_score":66.0625,
             "region":"경상남도 창원시 성산구",
             "region_code":"Gyeongsangnamdo",
-            "sub_region_code":"4812300000_Gyeongsangnamdo_Changwon_Seongsan"
+            "sub_region_code":"4812300000_Gyeongsangnamdo_Changwon_Seongsan",
+            "shorten_url":"https:\/\/me2.do\/FUGglcq5"
         },
         {
             "index":33,
@@ -454,7 +491,8 @@
             "value_score":65.632,
             "region":"경상남도 창원시 성산구",
             "region_code":"Gyeongsangnamdo",
-            "sub_region_code":"4812300000_Gyeongsangnamdo_Changwon_Seongsan"
+            "sub_region_code":"4812300000_Gyeongsangnamdo_Changwon_Seongsan",
+            "shorten_url":"https:\/\/me2.do\/FUGglcq5"
         },
         {
             "index":34,
@@ -466,7 +504,8 @@
             "value_score":64.407,
             "region":"경상남도 창원시 성산구",
             "region_code":"Gyeongsangnamdo",
-            "sub_region_code":"4812300000_Gyeongsangnamdo_Changwon_Seongsan"
+            "sub_region_code":"4812300000_Gyeongsangnamdo_Changwon_Seongsan",
+            "shorten_url":"https:\/\/me2.do\/FUGglcq5"
         },
         {
             "index":35,
@@ -478,7 +517,8 @@
             "value_score":63.982,
             "region":"경상남도 창원시 성산구",
             "region_code":"Gyeongsangnamdo",
-            "sub_region_code":"4812300000_Gyeongsangnamdo_Changwon_Seongsan"
+            "sub_region_code":"4812300000_Gyeongsangnamdo_Changwon_Seongsan",
+            "shorten_url":"https:\/\/me2.do\/FUGglcq5"
         },
         {
             "index":36,
@@ -490,7 +530,8 @@
             "value_score":63.5855,
             "region":"경상남도 창원시 성산구",
             "region_code":"Gyeongsangnamdo",
-            "sub_region_code":"4812300000_Gyeongsangnamdo_Changwon_Seongsan"
+            "sub_region_code":"4812300000_Gyeongsangnamdo_Changwon_Seongsan",
+            "shorten_url":"https:\/\/me2.do\/FUGglcq5"
         },
         {
             "index":37,
@@ -502,7 +543,8 @@
             "value_score":63.507,
             "region":"경상남도 창원시 성산구",
             "region_code":"Gyeongsangnamdo",
-            "sub_region_code":"4812300000_Gyeongsangnamdo_Changwon_Seongsan"
+            "sub_region_code":"4812300000_Gyeongsangnamdo_Changwon_Seongsan",
+            "shorten_url":"https:\/\/me2.do\/FUGglcq5"
         },
         {
             "index":38,
@@ -514,7 +556,8 @@
             "value_score":63.4605,
             "region":"경상남도 창원시 성산구",
             "region_code":"Gyeongsangnamdo",
-            "sub_region_code":"4812300000_Gyeongsangnamdo_Changwon_Seongsan"
+            "sub_region_code":"4812300000_Gyeongsangnamdo_Changwon_Seongsan",
+            "shorten_url":"https:\/\/me2.do\/FUGglcq5"
         },
         {
             "index":39,
@@ -526,7 +569,8 @@
             "value_score":62.279,
             "region":"경상남도 창원시 성산구",
             "region_code":"Gyeongsangnamdo",
-            "sub_region_code":"4812300000_Gyeongsangnamdo_Changwon_Seongsan"
+            "sub_region_code":"4812300000_Gyeongsangnamdo_Changwon_Seongsan",
+            "shorten_url":"https:\/\/me2.do\/FUGglcq5"
         }
     ]
 }

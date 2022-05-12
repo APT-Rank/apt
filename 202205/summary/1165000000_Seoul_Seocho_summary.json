@@ -40,6 +40,10 @@
             {
                 "name":"sub_region_code",
                 "type":"string"
+            },
+            {
+                "name":"shorten_url",
+                "type":"string"
             }
         ],
         "primaryKey":[
@@ -58,7 +62,8 @@
             "value_score":79.7899,
             "region":"서울시 서초구",
             "region_code":"Seoul",
-            "sub_region_code":"1165000000_Seoul_Seocho"
+            "sub_region_code":"1165000000_Seoul_Seocho",
+            "shorten_url":"https:\/\/me2.do\/GYu6XSYV"
         },
         {
             "index":1,
@@ -70,7 +75,8 @@
             "value_score":79.6599,
             "region":"서울시 서초구",
             "region_code":"Seoul",
-            "sub_region_code":"1165000000_Seoul_Seocho"
+            "sub_region_code":"1165000000_Seoul_Seocho",
+            "shorten_url":"https:\/\/me2.do\/GYu6XSYV"
         },
         {
             "index":2,
@@ -82,7 +88,8 @@
             "value_score":78.1805,
             "region":"서울시 서초구",
             "region_code":"Seoul",
-            "sub_region_code":"1165000000_Seoul_Seocho"
+            "sub_region_code":"1165000000_Seoul_Seocho",
+            "shorten_url":"https:\/\/me2.do\/GYu6XSYV"
         },
         {
             "index":3,
@@ -94,7 +101,8 @@
             "value_score":77.3005,
             "region":"서울시 서초구",
             "region_code":"Seoul",
-            "sub_region_code":"1165000000_Seoul_Seocho"
+            "sub_region_code":"1165000000_Seoul_Seocho",
+            "shorten_url":"https:\/\/me2.do\/GYu6XSYV"
         },
         {
             "index":4,
@@ -106,7 +114,8 @@
             "value_score":76.8005,
             "region":"서울시 서초구",
             "region_code":"Seoul",
-            "sub_region_code":"1165000000_Seoul_Seocho"
+            "sub_region_code":"1165000000_Seoul_Seocho",
+            "shorten_url":"https:\/\/me2.do\/GYu6XSYV"
         },
         {
             "index":5,
@@ -118,7 +127,8 @@
             "value_score":75.2599,
             "region":"서울시 서초구",
             "region_code":"Seoul",
-            "sub_region_code":"1165000000_Seoul_Seocho"
+            "sub_region_code":"1165000000_Seoul_Seocho",
+            "shorten_url":"https:\/\/me2.do\/GYu6XSYV"
         },
         {
             "index":6,
@@ -130,7 +140,8 @@
             "value_score":75.1857,
             "region":"서울시 서초구",
             "region_code":"Seoul",
-            "sub_region_code":"1165000000_Seoul_Seocho"
+            "sub_region_code":"1165000000_Seoul_Seocho",
+            "shorten_url":"https:\/\/me2.do\/GYu6XSYV"
         },
         {
             "index":7,
@@ -142,7 +153,8 @@
             "value_score":73.7421,
             "region":"서울시 서초구",
             "region_code":"Seoul",
-            "sub_region_code":"1165000000_Seoul_Seocho"
+            "sub_region_code":"1165000000_Seoul_Seocho",
+            "shorten_url":"https:\/\/me2.do\/GYu6XSYV"
         },
         {
             "index":8,
@@ -154,7 +166,8 @@
             "value_score":73.5221,
             "region":"서울시 서초구",
             "region_code":"Seoul",
-            "sub_region_code":"1165000000_Seoul_Seocho"
+            "sub_region_code":"1165000000_Seoul_Seocho",
+            "shorten_url":"https:\/\/me2.do\/GYu6XSYV"
         },
         {
             "index":9,
@@ -166,7 +179,8 @@
             "value_score":72.9857,
             "region":"서울시 서초구",
             "region_code":"Seoul",
-            "sub_region_code":"1165000000_Seoul_Seocho"
+            "sub_region_code":"1165000000_Seoul_Seocho",
+            "shorten_url":"https:\/\/me2.do\/GYu6XSYV"
         },
         {
             "index":10,
@@ -178,7 +192,8 @@
             "value_score":81.347,
             "region":"서울시 서초구",
             "region_code":"Seoul",
-            "sub_region_code":"1165000000_Seoul_Seocho"
+            "sub_region_code":"1165000000_Seoul_Seocho",
+            "shorten_url":"https:\/\/me2.do\/GYu6XSYV"
         },
         {
             "index":11,
@@ -190,7 +205,8 @@
             "value_score":79.6066,
             "region":"서울시 서초구",
             "region_code":"Seoul",
-            "sub_region_code":"1165000000_Seoul_Seocho"
+            "sub_region_code":"1165000000_Seoul_Seocho",
+            "shorten_url":"https:\/\/me2.do\/GYu6XSYV"
         },
         {
             "index":12,
@@ -202,7 +218,8 @@
             "value_score":79.2366,
             "region":"서울시 서초구",
             "region_code":"Seoul",
-            "sub_region_code":"1165000000_Seoul_Seocho"
+            "sub_region_code":"1165000000_Seoul_Seocho",
+            "shorten_url":"https:\/\/me2.do\/GYu6XSYV"
         },
         {
             "index":13,
@@ -214,7 +231,8 @@
             "value_score":78.967,
             "region":"서울시 서초구",
             "region_code":"Seoul",
-            "sub_region_code":"1165000000_Seoul_Seocho"
+            "sub_region_code":"1165000000_Seoul_Seocho",
+            "shorten_url":"https:\/\/me2.do\/GYu6XSYV"
         },
         {
             "index":14,
@@ -226,7 +244,8 @@
             "value_score":78.667,
             "region":"서울시 서초구",
             "region_code":"Seoul",
-            "sub_region_code":"1165000000_Seoul_Seocho"
+            "sub_region_code":"1165000000_Seoul_Seocho",
+            "shorten_url":"https:\/\/me2.do\/GYu6XSYV"
         },
         {
             "index":15,
@@ -238,7 +257,8 @@
             "value_score":78.3914,
             "region":"서울시 서초구",
             "region_code":"Seoul",
-            "sub_region_code":"1165000000_Seoul_Seocho"
+            "sub_region_code":"1165000000_Seoul_Seocho",
+            "shorten_url":"https:\/\/me2.do\/GYu6XSYV"
         },
         {
             "index":16,
@@ -250,7 +270,8 @@
             "value_score":76.8914,
             "region":"서울시 서초구",
             "region_code":"Seoul",
-            "sub_region_code":"1165000000_Seoul_Seocho"
+            "sub_region_code":"1165000000_Seoul_Seocho",
+            "shorten_url":"https:\/\/me2.do\/GYu6XSYV"
         },
         {
             "index":17,
@@ -262,7 +283,8 @@
             "value_score":75.247,
             "region":"서울시 서초구",
             "region_code":"Seoul",
-            "sub_region_code":"1165000000_Seoul_Seocho"
+            "sub_region_code":"1165000000_Seoul_Seocho",
+            "shorten_url":"https:\/\/me2.do\/GYu6XSYV"
         },
         {
             "index":18,
@@ -274,7 +296,8 @@
             "value_score":75.2066,
             "region":"서울시 서초구",
             "region_code":"Seoul",
-            "sub_region_code":"1165000000_Seoul_Seocho"
+            "sub_region_code":"1165000000_Seoul_Seocho",
+            "shorten_url":"https:\/\/me2.do\/GYu6XSYV"
         },
         {
             "index":19,
@@ -286,7 +309,8 @@
             "value_score":74.6738,
             "region":"서울시 서초구",
             "region_code":"Seoul",
-            "sub_region_code":"1165000000_Seoul_Seocho"
+            "sub_region_code":"1165000000_Seoul_Seocho",
+            "shorten_url":"https:\/\/me2.do\/GYu6XSYV"
         },
         {
             "index":20,
@@ -298,7 +322,8 @@
             "value_score":82.33495,
             "region":"서울시 서초구",
             "region_code":"Seoul",
-            "sub_region_code":"1165000000_Seoul_Seocho"
+            "sub_region_code":"1165000000_Seoul_Seocho",
+            "shorten_url":"https:\/\/me2.do\/GYu6XSYV"
         },
         {
             "index":21,
@@ -310,7 +335,8 @@
             "value_score":81.15025,
             "region":"서울시 서초구",
             "region_code":"Seoul",
-            "sub_region_code":"1165000000_Seoul_Seocho"
+            "sub_region_code":"1165000000_Seoul_Seocho",
+            "shorten_url":"https:\/\/me2.do\/GYu6XSYV"
         },
         {
             "index":22,
@@ -322,7 +348,8 @@
             "value_score":80.76275,
             "region":"서울시 서초구",
             "region_code":"Seoul",
-            "sub_region_code":"1165000000_Seoul_Seocho"
+            "sub_region_code":"1165000000_Seoul_Seocho",
+            "shorten_url":"https:\/\/me2.do\/GYu6XSYV"
         },
         {
             "index":23,
@@ -334,7 +361,8 @@
             "value_score":80.49285,
             "region":"서울시 서초구",
             "region_code":"Seoul",
-            "sub_region_code":"1165000000_Seoul_Seocho"
+            "sub_region_code":"1165000000_Seoul_Seocho",
+            "shorten_url":"https:\/\/me2.do\/GYu6XSYV"
         },
         {
             "index":24,
@@ -346,7 +374,8 @@
             "value_score":80.47995,
             "region":"서울시 서초구",
             "region_code":"Seoul",
-            "sub_region_code":"1165000000_Seoul_Seocho"
+            "sub_region_code":"1165000000_Seoul_Seocho",
+            "shorten_url":"https:\/\/me2.do\/GYu6XSYV"
         },
         {
             "index":25,
@@ -358,7 +387,8 @@
             "value_score":79.45995,
             "region":"서울시 서초구",
             "region_code":"Seoul",
-            "sub_region_code":"1165000000_Seoul_Seocho"
+            "sub_region_code":"1165000000_Seoul_Seocho",
+            "shorten_url":"https:\/\/me2.do\/GYu6XSYV"
         },
         {
             "index":26,
@@ -370,7 +400,8 @@
             "value_score":79.33025,
             "region":"서울시 서초구",
             "region_code":"Seoul",
-            "sub_region_code":"1165000000_Seoul_Seocho"
+            "sub_region_code":"1165000000_Seoul_Seocho",
+            "shorten_url":"https:\/\/me2.do\/GYu6XSYV"
         },
         {
             "index":27,
@@ -382,7 +413,8 @@
             "value_score":79.19285,
             "region":"서울시 서초구",
             "region_code":"Seoul",
-            "sub_region_code":"1165000000_Seoul_Seocho"
+            "sub_region_code":"1165000000_Seoul_Seocho",
+            "shorten_url":"https:\/\/me2.do\/GYu6XSYV"
         },
         {
             "index":28,
@@ -394,7 +426,8 @@
             "value_score":79.08275,
             "region":"서울시 서초구",
             "region_code":"Seoul",
-            "sub_region_code":"1165000000_Seoul_Seocho"
+            "sub_region_code":"1165000000_Seoul_Seocho",
+            "shorten_url":"https:\/\/me2.do\/GYu6XSYV"
         },
         {
             "index":29,
@@ -406,7 +439,8 @@
             "value_score":78.87105,
             "region":"서울시 서초구",
             "region_code":"Seoul",
-            "sub_region_code":"1165000000_Seoul_Seocho"
+            "sub_region_code":"1165000000_Seoul_Seocho",
+            "shorten_url":"https:\/\/me2.do\/GYu6XSYV"
         },
         {
             "index":30,
@@ -418,7 +452,8 @@
             "value_score":76.18325,
             "region":"서울시 서초구",
             "region_code":"Seoul",
-            "sub_region_code":"1165000000_Seoul_Seocho"
+            "sub_region_code":"1165000000_Seoul_Seocho",
+            "shorten_url":"https:\/\/me2.do\/GYu6XSYV"
         },
         {
             "index":31,
@@ -430,7 +465,8 @@
             "value_score":75.28325,
             "region":"서울시 서초구",
             "region_code":"Seoul",
-            "sub_region_code":"1165000000_Seoul_Seocho"
+            "sub_region_code":"1165000000_Seoul_Seocho",
+            "shorten_url":"https:\/\/me2.do\/GYu6XSYV"
         },
         {
             "index":32,
@@ -442,7 +478,8 @@
             "value_score":74.08325,
             "region":"서울시 서초구",
             "region_code":"Seoul",
-            "sub_region_code":"1165000000_Seoul_Seocho"
+            "sub_region_code":"1165000000_Seoul_Seocho",
+            "shorten_url":"https:\/\/me2.do\/GYu6XSYV"
         },
         {
             "index":33,
@@ -454,7 +491,8 @@
             "value_score":74.03325,
             "region":"서울시 서초구",
             "region_code":"Seoul",
-            "sub_region_code":"1165000000_Seoul_Seocho"
+            "sub_region_code":"1165000000_Seoul_Seocho",
+            "shorten_url":"https:\/\/me2.do\/GYu6XSYV"
         },
         {
             "index":34,
@@ -466,7 +504,8 @@
             "value_score":73.47125,
             "region":"서울시 서초구",
             "region_code":"Seoul",
-            "sub_region_code":"1165000000_Seoul_Seocho"
+            "sub_region_code":"1165000000_Seoul_Seocho",
+            "shorten_url":"https:\/\/me2.do\/GYu6XSYV"
         },
         {
             "index":35,
@@ -478,7 +517,8 @@
             "value_score":73.17125,
             "region":"서울시 서초구",
             "region_code":"Seoul",
-            "sub_region_code":"1165000000_Seoul_Seocho"
+            "sub_region_code":"1165000000_Seoul_Seocho",
+            "shorten_url":"https:\/\/me2.do\/GYu6XSYV"
         },
         {
             "index":36,
@@ -490,7 +530,8 @@
             "value_score":72.67975,
             "region":"서울시 서초구",
             "region_code":"Seoul",
-            "sub_region_code":"1165000000_Seoul_Seocho"
+            "sub_region_code":"1165000000_Seoul_Seocho",
+            "shorten_url":"https:\/\/me2.do\/GYu6XSYV"
         },
         {
             "index":37,
@@ -502,7 +543,8 @@
             "value_score":72.27125,
             "region":"서울시 서초구",
             "region_code":"Seoul",
-            "sub_region_code":"1165000000_Seoul_Seocho"
+            "sub_region_code":"1165000000_Seoul_Seocho",
+            "shorten_url":"https:\/\/me2.do\/GYu6XSYV"
         },
         {
             "index":38,
@@ -514,7 +556,8 @@
             "value_score":72.22125,
             "region":"서울시 서초구",
             "region_code":"Seoul",
-            "sub_region_code":"1165000000_Seoul_Seocho"
+            "sub_region_code":"1165000000_Seoul_Seocho",
+            "shorten_url":"https:\/\/me2.do\/GYu6XSYV"
         },
         {
             "index":39,
@@ -526,7 +569,8 @@
             "value_score":72.08375,
             "region":"서울시 서초구",
             "region_code":"Seoul",
-            "sub_region_code":"1165000000_Seoul_Seocho"
+            "sub_region_code":"1165000000_Seoul_Seocho",
+            "shorten_url":"https:\/\/me2.do\/GYu6XSYV"
         },
         {
             "index":40,
@@ -538,7 +582,8 @@
             "value_score":79.1665,
             "region":"서울시 서초구",
             "region_code":"Seoul",
-            "sub_region_code":"1165000000_Seoul_Seocho"
+            "sub_region_code":"1165000000_Seoul_Seocho",
+            "shorten_url":"https:\/\/me2.do\/GYu6XSYV"
         },
         {
             "index":41,
@@ -550,7 +595,8 @@
             "value_score":78.6465,
             "region":"서울시 서초구",
             "region_code":"Seoul",
-            "sub_region_code":"1165000000_Seoul_Seocho"
+            "sub_region_code":"1165000000_Seoul_Seocho",
+            "shorten_url":"https:\/\/me2.do\/GYu6XSYV"
         },
         {
             "index":42,
@@ -562,7 +608,8 @@
             "value_score":74.7665,
             "region":"서울시 서초구",
             "region_code":"Seoul",
-            "sub_region_code":"1165000000_Seoul_Seocho"
+            "sub_region_code":"1165000000_Seoul_Seocho",
+            "shorten_url":"https:\/\/me2.do\/GYu6XSYV"
         },
         {
             "index":43,
@@ -574,7 +621,8 @@
             "value_score":74.2475,
             "region":"서울시 서초구",
             "region_code":"Seoul",
-            "sub_region_code":"1165000000_Seoul_Seocho"
+            "sub_region_code":"1165000000_Seoul_Seocho",
+            "shorten_url":"https:\/\/me2.do\/GYu6XSYV"
         },
         {
             "index":44,
@@ -586,7 +634,8 @@
             "value_score":74.2465,
             "region":"서울시 서초구",
             "region_code":"Seoul",
-            "sub_region_code":"1165000000_Seoul_Seocho"
+            "sub_region_code":"1165000000_Seoul_Seocho",
+            "shorten_url":"https:\/\/me2.do\/GYu6XSYV"
         },
         {
             "index":45,
@@ -598,7 +647,8 @@
             "value_score":73.565,
             "region":"서울시 서초구",
             "region_code":"Seoul",
-            "sub_region_code":"1165000000_Seoul_Seocho"
+            "sub_region_code":"1165000000_Seoul_Seocho",
+            "shorten_url":"https:\/\/me2.do\/GYu6XSYV"
         },
         {
             "index":46,
@@ -610,7 +660,8 @@
             "value_score":73.3675,
             "region":"서울시 서초구",
             "region_code":"Seoul",
-            "sub_region_code":"1165000000_Seoul_Seocho"
+            "sub_region_code":"1165000000_Seoul_Seocho",
+            "shorten_url":"https:\/\/me2.do\/GYu6XSYV"
         },
         {
             "index":47,
@@ -622,7 +673,8 @@
             "value_score":73.3675,
             "region":"서울시 서초구",
             "region_code":"Seoul",
-            "sub_region_code":"1165000000_Seoul_Seocho"
+            "sub_region_code":"1165000000_Seoul_Seocho",
+            "shorten_url":"https:\/\/me2.do\/GYu6XSYV"
         },
         {
             "index":48,
@@ -634,7 +686,8 @@
             "value_score":72.1595,
             "region":"서울시 서초구",
             "region_code":"Seoul",
-            "sub_region_code":"1165000000_Seoul_Seocho"
+            "sub_region_code":"1165000000_Seoul_Seocho",
+            "shorten_url":"https:\/\/me2.do\/GYu6XSYV"
         },
         {
             "index":49,
@@ -646,7 +699,8 @@
             "value_score":71.1335,
             "region":"서울시 서초구",
             "region_code":"Seoul",
-            "sub_region_code":"1165000000_Seoul_Seocho"
+            "sub_region_code":"1165000000_Seoul_Seocho",
+            "shorten_url":"https:\/\/me2.do\/GYu6XSYV"
         }
     ]
 }

@@ -40,6 +40,10 @@
             {
                 "name":"sub_region_code",
                 "type":"string"
+            },
+            {
+                "name":"shorten_url",
+                "type":"string"
             }
         ],
         "primaryKey":[
@@ -58,7 +62,8 @@
             "value_score":75.4651,
             "region":"대구시 수성구",
             "region_code":"Daegu",
-            "sub_region_code":"2726000000_Daegu_Suseong"
+            "sub_region_code":"2726000000_Daegu_Suseong",
+            "shorten_url":"https:\/\/me2.do\/xqvKzmcB"
         },
         {
             "index":1,
@@ -70,7 +75,8 @@
             "value_score":70.3651,
             "region":"대구시 수성구",
             "region_code":"Daegu",
-            "sub_region_code":"2726000000_Daegu_Suseong"
+            "sub_region_code":"2726000000_Daegu_Suseong",
+            "shorten_url":"https:\/\/me2.do\/xqvKzmcB"
         },
         {
             "index":2,
@@ -82,7 +88,8 @@
             "value_score":68.5651,
             "region":"대구시 수성구",
             "region_code":"Daegu",
-            "sub_region_code":"2726000000_Daegu_Suseong"
+            "sub_region_code":"2726000000_Daegu_Suseong",
+            "shorten_url":"https:\/\/me2.do\/xqvKzmcB"
         },
         {
             "index":3,
@@ -94,7 +101,8 @@
             "value_score":67.8651,
             "region":"대구시 수성구",
             "region_code":"Daegu",
-            "sub_region_code":"2726000000_Daegu_Suseong"
+            "sub_region_code":"2726000000_Daegu_Suseong",
+            "shorten_url":"https:\/\/me2.do\/xqvKzmcB"
         },
         {
             "index":4,
@@ -106,7 +114,8 @@
             "value_score":67.6003,
             "region":"대구시 수성구",
             "region_code":"Daegu",
-            "sub_region_code":"2726000000_Daegu_Suseong"
+            "sub_region_code":"2726000000_Daegu_Suseong",
+            "shorten_url":"https:\/\/me2.do\/xqvKzmcB"
         },
         {
             "index":5,
@@ -118,7 +127,8 @@
             "value_score":67.5553,
             "region":"대구시 수성구",
             "region_code":"Daegu",
-            "sub_region_code":"2726000000_Daegu_Suseong"
+            "sub_region_code":"2726000000_Daegu_Suseong",
+            "shorten_url":"https:\/\/me2.do\/xqvKzmcB"
         },
         {
             "index":6,
@@ -130,7 +140,8 @@
             "value_score":67.021,
             "region":"대구시 수성구",
             "region_code":"Daegu",
-            "sub_region_code":"2726000000_Daegu_Suseong"
+            "sub_region_code":"2726000000_Daegu_Suseong",
+            "shorten_url":"https:\/\/me2.do\/xqvKzmcB"
         },
         {
             "index":7,
@@ -142,7 +153,8 @@
             "value_score":66.78625,
             "region":"대구시 수성구",
             "region_code":"Daegu",
-            "sub_region_code":"2726000000_Daegu_Suseong"
+            "sub_region_code":"2726000000_Daegu_Suseong",
+            "shorten_url":"https:\/\/me2.do\/xqvKzmcB"
         },
         {
             "index":8,
@@ -154,7 +166,8 @@
             "value_score":65.8003,
             "region":"대구시 수성구",
             "region_code":"Daegu",
-            "sub_region_code":"2726000000_Daegu_Suseong"
+            "sub_region_code":"2726000000_Daegu_Suseong",
+            "shorten_url":"https:\/\/me2.do\/xqvKzmcB"
         },
         {
             "index":9,
@@ -166,7 +179,8 @@
             "value_score":64.76705,
             "region":"대구시 수성구",
             "region_code":"Daegu",
-            "sub_region_code":"2726000000_Daegu_Suseong"
+            "sub_region_code":"2726000000_Daegu_Suseong",
+            "shorten_url":"https:\/\/me2.do\/xqvKzmcB"
         },
         {
             "index":10,
@@ -178,7 +192,8 @@
             "value_score":73.7872,
             "region":"대구시 수성구",
             "region_code":"Daegu",
-            "sub_region_code":"2726000000_Daegu_Suseong"
+            "sub_region_code":"2726000000_Daegu_Suseong",
+            "shorten_url":"https:\/\/me2.do\/xqvKzmcB"
         },
         {
             "index":11,
@@ -190,7 +205,8 @@
             "value_score":73.4872,
             "region":"대구시 수성구",
             "region_code":"Daegu",
-            "sub_region_code":"2726000000_Daegu_Suseong"
+            "sub_region_code":"2726000000_Daegu_Suseong",
+            "shorten_url":"https:\/\/me2.do\/xqvKzmcB"
         },
         {
             "index":12,
@@ -202,7 +218,8 @@
             "value_score":72.4872,
             "region":"대구시 수성구",
             "region_code":"Daegu",
-            "sub_region_code":"2726000000_Daegu_Suseong"
+            "sub_region_code":"2726000000_Daegu_Suseong",
+            "shorten_url":"https:\/\/me2.do\/xqvKzmcB"
         },
         {
             "index":13,
@@ -214,7 +231,8 @@
             "value_score":69.8716,
             "region":"대구시 수성구",
             "region_code":"Daegu",
-            "sub_region_code":"2726000000_Daegu_Suseong"
+            "sub_region_code":"2726000000_Daegu_Suseong",
+            "shorten_url":"https:\/\/me2.do\/xqvKzmcB"
         },
         {
             "index":14,
@@ -226,7 +244,8 @@
             "value_score":69.6016,
             "region":"대구시 수성구",
             "region_code":"Daegu",
-            "sub_region_code":"2726000000_Daegu_Suseong"
+            "sub_region_code":"2726000000_Daegu_Suseong",
+            "shorten_url":"https:\/\/me2.do\/xqvKzmcB"
         },
         {
             "index":15,
@@ -238,7 +257,8 @@
             "value_score":69.562,
             "region":"대구시 수성구",
             "region_code":"Daegu",
-            "sub_region_code":"2726000000_Daegu_Suseong"
+            "sub_region_code":"2726000000_Daegu_Suseong",
+            "shorten_url":"https:\/\/me2.do\/xqvKzmcB"
         },
         {
             "index":16,
@@ -250,7 +270,8 @@
             "value_score":69.1716,
             "region":"대구시 수성구",
             "region_code":"Daegu",
-            "sub_region_code":"2726000000_Daegu_Suseong"
+            "sub_region_code":"2726000000_Daegu_Suseong",
+            "shorten_url":"https:\/\/me2.do\/xqvKzmcB"
         },
         {
             "index":17,
@@ -262,7 +283,8 @@
             "value_score":67.7716,
             "region":"대구시 수성구",
             "region_code":"Daegu",
-            "sub_region_code":"2726000000_Daegu_Suseong"
+            "sub_region_code":"2726000000_Daegu_Suseong",
+            "shorten_url":"https:\/\/me2.do\/xqvKzmcB"
         },
         {
             "index":18,
@@ -274,7 +296,8 @@
             "value_score":67.4872,
             "region":"대구시 수성구",
             "region_code":"Daegu",
-            "sub_region_code":"2726000000_Daegu_Suseong"
+            "sub_region_code":"2726000000_Daegu_Suseong",
+            "shorten_url":"https:\/\/me2.do\/xqvKzmcB"
         },
         {
             "index":19,
@@ -286,7 +309,8 @@
             "value_score":66.925,
             "region":"대구시 수성구",
             "region_code":"Daegu",
-            "sub_region_code":"2726000000_Daegu_Suseong"
+            "sub_region_code":"2726000000_Daegu_Suseong",
+            "shorten_url":"https:\/\/me2.do\/xqvKzmcB"
         },
         {
             "index":20,
@@ -298,7 +322,8 @@
             "value_score":71.8279,
             "region":"대구시 수성구",
             "region_code":"Daegu",
-            "sub_region_code":"2726000000_Daegu_Suseong"
+            "sub_region_code":"2726000000_Daegu_Suseong",
+            "shorten_url":"https:\/\/me2.do\/xqvKzmcB"
         },
         {
             "index":21,
@@ -310,7 +335,8 @@
             "value_score":68.1279,
             "region":"대구시 수성구",
             "region_code":"Daegu",
-            "sub_region_code":"2726000000_Daegu_Suseong"
+            "sub_region_code":"2726000000_Daegu_Suseong",
+            "shorten_url":"https:\/\/me2.do\/xqvKzmcB"
         },
         {
             "index":22,
@@ -322,7 +348,8 @@
             "value_score":68.08125,
             "region":"대구시 수성구",
             "region_code":"Daegu",
-            "sub_region_code":"2726000000_Daegu_Suseong"
+            "sub_region_code":"2726000000_Daegu_Suseong",
+            "shorten_url":"https:\/\/me2.do\/xqvKzmcB"
         },
         {
             "index":23,
@@ -334,7 +361,8 @@
             "value_score":67.8279,
             "region":"대구시 수성구",
             "region_code":"Daegu",
-            "sub_region_code":"2726000000_Daegu_Suseong"
+            "sub_region_code":"2726000000_Daegu_Suseong",
+            "shorten_url":"https:\/\/me2.do\/xqvKzmcB"
         },
         {
             "index":24,
@@ -346,7 +374,8 @@
             "value_score":67.68125,
             "region":"대구시 수성구",
             "region_code":"Daegu",
-            "sub_region_code":"2726000000_Daegu_Suseong"
+            "sub_region_code":"2726000000_Daegu_Suseong",
+            "shorten_url":"https:\/\/me2.do\/xqvKzmcB"
         },
         {
             "index":25,
@@ -358,7 +387,8 @@
             "value_score":66.4837,
             "region":"대구시 수성구",
             "region_code":"Daegu",
-            "sub_region_code":"2726000000_Daegu_Suseong"
+            "sub_region_code":"2726000000_Daegu_Suseong",
+            "shorten_url":"https:\/\/me2.do\/xqvKzmcB"
         },
         {
             "index":26,
@@ -370,7 +400,8 @@
             "value_score":66.45625,
             "region":"대구시 수성구",
             "region_code":"Daegu",
-            "sub_region_code":"2726000000_Daegu_Suseong"
+            "sub_region_code":"2726000000_Daegu_Suseong",
+            "shorten_url":"https:\/\/me2.do\/xqvKzmcB"
         },
         {
             "index":27,
@@ -382,7 +413,8 @@
             "value_score":66.18125,
             "region":"대구시 수성구",
             "region_code":"Daegu",
-            "sub_region_code":"2726000000_Daegu_Suseong"
+            "sub_region_code":"2726000000_Daegu_Suseong",
+            "shorten_url":"https:\/\/me2.do\/xqvKzmcB"
         },
         {
             "index":28,
@@ -394,7 +426,8 @@
             "value_score":65.9279,
             "region":"대구시 수성구",
             "region_code":"Daegu",
-            "sub_region_code":"2726000000_Daegu_Suseong"
+            "sub_region_code":"2726000000_Daegu_Suseong",
+            "shorten_url":"https:\/\/me2.do\/xqvKzmcB"
         },
         {
             "index":29,
@@ -406,7 +439,8 @@
             "value_score":65.4529,
             "region":"대구시 수성구",
             "region_code":"Daegu",
-            "sub_region_code":"2726000000_Daegu_Suseong"
+            "sub_region_code":"2726000000_Daegu_Suseong",
+            "shorten_url":"https:\/\/me2.do\/xqvKzmcB"
         },
         {
             "index":30,
@@ -418,7 +452,8 @@
             "value_score":77.7715,
             "region":"대구시 수성구",
             "region_code":"Daegu",
-            "sub_region_code":"2726000000_Daegu_Suseong"
+            "sub_region_code":"2726000000_Daegu_Suseong",
+            "shorten_url":"https:\/\/me2.do\/xqvKzmcB"
         },
         {
             "index":31,
@@ -430,7 +465,8 @@
             "value_score":71.8215,
             "region":"대구시 수성구",
             "region_code":"Daegu",
-            "sub_region_code":"2726000000_Daegu_Suseong"
+            "sub_region_code":"2726000000_Daegu_Suseong",
+            "shorten_url":"https:\/\/me2.do\/xqvKzmcB"
         },
         {
             "index":32,
@@ -442,7 +478,8 @@
             "value_score":71.1645,
             "region":"대구시 수성구",
             "region_code":"Daegu",
-            "sub_region_code":"2726000000_Daegu_Suseong"
+            "sub_region_code":"2726000000_Daegu_Suseong",
+            "shorten_url":"https:\/\/me2.do\/xqvKzmcB"
         },
         {
             "index":33,
@@ -454,7 +491,8 @@
             "value_score":70.91875,
             "region":"대구시 수성구",
             "region_code":"Daegu",
-            "sub_region_code":"2726000000_Daegu_Suseong"
+            "sub_region_code":"2726000000_Daegu_Suseong",
+            "shorten_url":"https:\/\/me2.do\/xqvKzmcB"
         },
         {
             "index":34,
@@ -466,7 +504,8 @@
             "value_score":70.2715,
             "region":"대구시 수성구",
             "region_code":"Daegu",
-            "sub_region_code":"2726000000_Daegu_Suseong"
+            "sub_region_code":"2726000000_Daegu_Suseong",
+            "shorten_url":"https:\/\/me2.do\/xqvKzmcB"
         },
         {
             "index":35,
@@ -478,7 +517,8 @@
             "value_score":70.11875,
             "region":"대구시 수성구",
             "region_code":"Daegu",
-            "sub_region_code":"2726000000_Daegu_Suseong"
+            "sub_region_code":"2726000000_Daegu_Suseong",
+            "shorten_url":"https:\/\/me2.do\/xqvKzmcB"
         },
         {
             "index":36,
@@ -490,7 +530,8 @@
             "value_score":69.71875,
             "region":"대구시 수성구",
             "region_code":"Daegu",
-            "sub_region_code":"2726000000_Daegu_Suseong"
+            "sub_region_code":"2726000000_Daegu_Suseong",
+            "shorten_url":"https:\/\/me2.do\/xqvKzmcB"
         },
         {
             "index":37,
@@ -502,7 +543,8 @@
             "value_score":69.71575,
             "region":"대구시 수성구",
             "region_code":"Daegu",
-            "sub_region_code":"2726000000_Daegu_Suseong"
+            "sub_region_code":"2726000000_Daegu_Suseong",
+            "shorten_url":"https:\/\/me2.do\/xqvKzmcB"
         },
         {
             "index":38,
@@ -514,7 +556,8 @@
             "value_score":69.06575,
             "region":"대구시 수성구",
             "region_code":"Daegu",
-            "sub_region_code":"2726000000_Daegu_Suseong"
+            "sub_region_code":"2726000000_Daegu_Suseong",
+            "shorten_url":"https:\/\/me2.do\/xqvKzmcB"
         },
         {
             "index":39,
@@ -526,7 +569,8 @@
             "value_score":68.71575,
             "region":"대구시 수성구",
             "region_code":"Daegu",
-            "sub_region_code":"2726000000_Daegu_Suseong"
+            "sub_region_code":"2726000000_Daegu_Suseong",
+            "shorten_url":"https:\/\/me2.do\/xqvKzmcB"
         },
         {
             "index":40,
@@ -538,7 +582,8 @@
             "value_score":77.143,
             "region":"대구시 수성구",
             "region_code":"Daegu",
-            "sub_region_code":"2726000000_Daegu_Suseong"
+            "sub_region_code":"2726000000_Daegu_Suseong",
+            "shorten_url":"https:\/\/me2.do\/xqvKzmcB"
         },
         {
             "index":41,
@@ -550,7 +595,8 @@
             "value_score":73.243,
             "region":"대구시 수성구",
             "region_code":"Daegu",
-            "sub_region_code":"2726000000_Daegu_Suseong"
+            "sub_region_code":"2726000000_Daegu_Suseong",
+            "shorten_url":"https:\/\/me2.do\/xqvKzmcB"
         },
         {
             "index":42,
@@ -562,7 +608,8 @@
             "value_score":71.1175,
             "region":"대구시 수성구",
             "region_code":"Daegu",
-            "sub_region_code":"2726000000_Daegu_Suseong"
+            "sub_region_code":"2726000000_Daegu_Suseong",
+            "shorten_url":"https:\/\/me2.do\/xqvKzmcB"
         },
         {
             "index":43,
@@ -574,7 +621,8 @@
             "value_score":70.2375,
             "region":"대구시 수성구",
             "region_code":"Daegu",
-            "sub_region_code":"2726000000_Daegu_Suseong"
+            "sub_region_code":"2726000000_Daegu_Suseong",
+            "shorten_url":"https:\/\/me2.do\/xqvKzmcB"
         },
         {
             "index":44,
@@ -586,7 +634,8 @@
             "value_score":69.5175,
             "region":"대구시 수성구",
             "region_code":"Daegu",
-            "sub_region_code":"2726000000_Daegu_Suseong"
+            "sub_region_code":"2726000000_Daegu_Suseong",
+            "shorten_url":"https:\/\/me2.do\/xqvKzmcB"
         },
         {
             "index":45,
@@ -598,7 +647,8 @@
             "value_score":68.843,
             "region":"대구시 수성구",
             "region_code":"Daegu",
-            "sub_region_code":"2726000000_Daegu_Suseong"
+            "sub_region_code":"2726000000_Daegu_Suseong",
+            "shorten_url":"https:\/\/me2.do\/xqvKzmcB"
         },
         {
             "index":46,
@@ -610,7 +660,8 @@
             "value_score":68.443,
             "region":"대구시 수성구",
             "region_code":"Daegu",
-            "sub_region_code":"2726000000_Daegu_Suseong"
+            "sub_region_code":"2726000000_Daegu_Suseong",
+            "shorten_url":"https:\/\/me2.do\/xqvKzmcB"
         },
         {
             "index":47,
@@ -622,7 +673,8 @@
             "value_score":67.743,
             "region":"대구시 수성구",
             "region_code":"Daegu",
-            "sub_region_code":"2726000000_Daegu_Suseong"
+            "sub_region_code":"2726000000_Daegu_Suseong",
+            "shorten_url":"https:\/\/me2.do\/xqvKzmcB"
         },
         {
             "index":48,
@@ -634,7 +686,8 @@
             "value_score":67.743,
             "region":"대구시 수성구",
             "region_code":"Daegu",
-            "sub_region_code":"2726000000_Daegu_Suseong"
+            "sub_region_code":"2726000000_Daegu_Suseong",
+            "shorten_url":"https:\/\/me2.do\/xqvKzmcB"
         },
         {
             "index":49,
@@ -646,7 +699,8 @@
             "value_score":67.443,
             "region":"대구시 수성구",
             "region_code":"Daegu",
-            "sub_region_code":"2726000000_Daegu_Suseong"
+            "sub_region_code":"2726000000_Daegu_Suseong",
+            "shorten_url":"https:\/\/me2.do\/xqvKzmcB"
         }
     ]
 }

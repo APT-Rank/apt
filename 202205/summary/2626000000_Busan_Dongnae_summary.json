@@ -40,6 +40,10 @@
             {
                 "name":"sub_region_code",
                 "type":"string"
+            },
+            {
+                "name":"shorten_url",
+                "type":"string"
             }
         ],
         "primaryKey":[
@@ -58,7 +62,8 @@
             "value_score":77.4007,
             "region":"부산시 동래구",
             "region_code":"Busan",
-            "sub_region_code":"2626000000_Busan_Dongnae"
+            "sub_region_code":"2626000000_Busan_Dongnae",
+            "shorten_url":"https:\/\/me2.do\/5nbjK728"
         },
         {
             "index":1,
@@ -70,7 +75,8 @@
             "value_score":75.5507,
             "region":"부산시 동래구",
             "region_code":"Busan",
-            "sub_region_code":"2626000000_Busan_Dongnae"
+            "sub_region_code":"2626000000_Busan_Dongnae",
+            "shorten_url":"https:\/\/me2.do\/5nbjK728"
         },
         {
             "index":2,
@@ -82,7 +88,8 @@
             "value_score":72.921,
             "region":"부산시 동래구",
             "region_code":"Busan",
-            "sub_region_code":"2626000000_Busan_Dongnae"
+            "sub_region_code":"2626000000_Busan_Dongnae",
+            "shorten_url":"https:\/\/me2.do\/5nbjK728"
         },
         {
             "index":3,
@@ -94,7 +101,8 @@
             "value_score":70.4836,
             "region":"부산시 동래구",
             "region_code":"Busan",
-            "sub_region_code":"2626000000_Busan_Dongnae"
+            "sub_region_code":"2626000000_Busan_Dongnae",
+            "shorten_url":"https:\/\/me2.do\/5nbjK728"
         },
         {
             "index":4,
@@ -106,7 +114,8 @@
             "value_score":69.3336,
             "region":"부산시 동래구",
             "region_code":"Busan",
-            "sub_region_code":"2626000000_Busan_Dongnae"
+            "sub_region_code":"2626000000_Busan_Dongnae",
+            "shorten_url":"https:\/\/me2.do\/5nbjK728"
         },
         {
             "index":5,
@@ -118,7 +127,8 @@
             "value_score":69.051,
             "region":"부산시 동래구",
             "region_code":"Busan",
-            "sub_region_code":"2626000000_Busan_Dongnae"
+            "sub_region_code":"2626000000_Busan_Dongnae",
+            "shorten_url":"https:\/\/me2.do\/5nbjK728"
         },
         {
             "index":6,
@@ -130,7 +140,8 @@
             "value_score":68.8741,
             "region":"부산시 동래구",
             "region_code":"Busan",
-            "sub_region_code":"2626000000_Busan_Dongnae"
+            "sub_region_code":"2626000000_Busan_Dongnae",
+            "shorten_url":"https:\/\/me2.do\/5nbjK728"
         },
         {
             "index":7,
@@ -142,7 +153,8 @@
             "value_score":68.7741,
             "region":"부산시 동래구",
             "region_code":"Busan",
-            "sub_region_code":"2626000000_Busan_Dongnae"
+            "sub_region_code":"2626000000_Busan_Dongnae",
+            "shorten_url":"https:\/\/me2.do\/5nbjK728"
         },
         {
             "index":8,
@@ -154,7 +166,8 @@
             "value_score":68.6007,
             "region":"부산시 동래구",
             "region_code":"Busan",
-            "sub_region_code":"2626000000_Busan_Dongnae"
+            "sub_region_code":"2626000000_Busan_Dongnae",
+            "shorten_url":"https:\/\/me2.do\/5nbjK728"
         },
         {
             "index":9,
@@ -166,7 +179,8 @@
             "value_score":68.5336,
             "region":"부산시 동래구",
             "region_code":"Busan",
-            "sub_region_code":"2626000000_Busan_Dongnae"
+            "sub_region_code":"2626000000_Busan_Dongnae",
+            "shorten_url":"https:\/\/me2.do\/5nbjK728"
         },
         {
             "index":10,
@@ -178,7 +192,8 @@
             "value_score":76.8338,
             "region":"부산시 동래구",
             "region_code":"Busan",
-            "sub_region_code":"2626000000_Busan_Dongnae"
+            "sub_region_code":"2626000000_Busan_Dongnae",
+            "shorten_url":"https:\/\/me2.do\/5nbjK728"
         },
         {
             "index":11,
@@ -190,7 +205,8 @@
             "value_score":75.6838,
             "region":"부산시 동래구",
             "region_code":"Busan",
-            "sub_region_code":"2626000000_Busan_Dongnae"
+            "sub_region_code":"2626000000_Busan_Dongnae",
+            "shorten_url":"https:\/\/me2.do\/5nbjK728"
         },
         {
             "index":12,
@@ -202,7 +218,8 @@
             "value_score":72.8724,
             "region":"부산시 동래구",
             "region_code":"Busan",
-            "sub_region_code":"2626000000_Busan_Dongnae"
+            "sub_region_code":"2626000000_Busan_Dongnae",
+            "shorten_url":"https:\/\/me2.do\/5nbjK728"
         },
         {
             "index":13,
@@ -214,7 +231,8 @@
             "value_score":72.394,
             "region":"부산시 동래구",
             "region_code":"Busan",
-            "sub_region_code":"2626000000_Busan_Dongnae"
+            "sub_region_code":"2626000000_Busan_Dongnae",
+            "shorten_url":"https:\/\/me2.do\/5nbjK728"
         },
         {
             "index":14,
@@ -226,7 +244,8 @@
             "value_score":72.264,
             "region":"부산시 동래구",
             "region_code":"Busan",
-            "sub_region_code":"2626000000_Busan_Dongnae"
+            "sub_region_code":"2626000000_Busan_Dongnae",
+            "shorten_url":"https:\/\/me2.do\/5nbjK728"
         },
         {
             "index":15,
@@ -238,7 +257,8 @@
             "value_score":70.3494,
             "region":"부산시 동래구",
             "region_code":"Busan",
-            "sub_region_code":"2626000000_Busan_Dongnae"
+            "sub_region_code":"2626000000_Busan_Dongnae",
+            "shorten_url":"https:\/\/me2.do\/5nbjK728"
         },
         {
             "index":16,
@@ -250,7 +270,8 @@
             "value_score":69.7092,
             "region":"부산시 동래구",
             "region_code":"Busan",
-            "sub_region_code":"2626000000_Busan_Dongnae"
+            "sub_region_code":"2626000000_Busan_Dongnae",
+            "shorten_url":"https:\/\/me2.do\/5nbjK728"
         },
         {
             "index":17,
@@ -262,7 +283,8 @@
             "value_score":69.5386,
             "region":"부산시 동래구",
             "region_code":"Busan",
-            "sub_region_code":"2626000000_Busan_Dongnae"
+            "sub_region_code":"2626000000_Busan_Dongnae",
+            "shorten_url":"https:\/\/me2.do\/5nbjK728"
         },
         {
             "index":18,
@@ -274,7 +296,8 @@
             "value_score":68.738,
             "region":"부산시 동래구",
             "region_code":"Busan",
-            "sub_region_code":"2626000000_Busan_Dongnae"
+            "sub_region_code":"2626000000_Busan_Dongnae",
+            "shorten_url":"https:\/\/me2.do\/5nbjK728"
         },
         {
             "index":19,
@@ -286,7 +309,8 @@
             "value_score":68.5386,
             "region":"부산시 동래구",
             "region_code":"Busan",
-            "sub_region_code":"2626000000_Busan_Dongnae"
+            "sub_region_code":"2626000000_Busan_Dongnae",
+            "shorten_url":"https:\/\/me2.do\/5nbjK728"
         },
         {
             "index":20,
@@ -298,7 +322,8 @@
             "value_score":81.50035,
             "region":"부산시 동래구",
             "region_code":"Busan",
-            "sub_region_code":"2626000000_Busan_Dongnae"
+            "sub_region_code":"2626000000_Busan_Dongnae",
+            "shorten_url":"https:\/\/me2.do\/5nbjK728"
         },
         {
             "index":21,
@@ -310,7 +335,8 @@
             "value_score":80.47535,
             "region":"부산시 동래구",
             "region_code":"Busan",
-            "sub_region_code":"2626000000_Busan_Dongnae"
+            "sub_region_code":"2626000000_Busan_Dongnae",
+            "shorten_url":"https:\/\/me2.do\/5nbjK728"
         },
         {
             "index":22,
@@ -322,7 +348,8 @@
             "value_score":78.4605,
             "region":"부산시 동래구",
             "region_code":"Busan",
-            "sub_region_code":"2626000000_Busan_Dongnae"
+            "sub_region_code":"2626000000_Busan_Dongnae",
+            "shorten_url":"https:\/\/me2.do\/5nbjK728"
         },
         {
             "index":23,
@@ -334,7 +361,8 @@
             "value_score":77.73705,
             "region":"부산시 동래구",
             "region_code":"Busan",
-            "sub_region_code":"2626000000_Busan_Dongnae"
+            "sub_region_code":"2626000000_Busan_Dongnae",
+            "shorten_url":"https:\/\/me2.do\/5nbjK728"
         },
         {
             "index":24,
@@ -346,7 +374,8 @@
             "value_score":77.3655,
             "region":"부산시 동래구",
             "region_code":"Busan",
-            "sub_region_code":"2626000000_Busan_Dongnae"
+            "sub_region_code":"2626000000_Busan_Dongnae",
+            "shorten_url":"https:\/\/me2.do\/5nbjK728"
         },
         {
             "index":25,
@@ -358,7 +387,8 @@
             "value_score":77.35035,
             "region":"부산시 동래구",
             "region_code":"Busan",
-            "sub_region_code":"2626000000_Busan_Dongnae"
+            "sub_region_code":"2626000000_Busan_Dongnae",
+            "shorten_url":"https:\/\/me2.do\/5nbjK728"
         },
         {
             "index":26,
@@ -370,7 +400,8 @@
             "value_score":77.27535,
             "region":"부산시 동래구",
             "region_code":"Busan",
-            "sub_region_code":"2626000000_Busan_Dongnae"
+            "sub_region_code":"2626000000_Busan_Dongnae",
+            "shorten_url":"https:\/\/me2.do\/5nbjK728"
         },
         {
             "index":27,
@@ -382,7 +413,8 @@
             "value_score":77.1069,
             "region":"부산시 동래구",
             "region_code":"Busan",
-            "sub_region_code":"2626000000_Busan_Dongnae"
+            "sub_region_code":"2626000000_Busan_Dongnae",
+            "shorten_url":"https:\/\/me2.do\/5nbjK728"
         },
         {
             "index":28,
@@ -394,7 +426,8 @@
             "value_score":76.81645,
             "region":"부산시 동래구",
             "region_code":"Busan",
-            "sub_region_code":"2626000000_Busan_Dongnae"
+            "sub_region_code":"2626000000_Busan_Dongnae",
+            "shorten_url":"https:\/\/me2.do\/5nbjK728"
         },
         {
             "index":29,
@@ -406,7 +439,8 @@
             "value_score":76.6668,
             "region":"부산시 동래구",
             "region_code":"Busan",
-            "sub_region_code":"2626000000_Busan_Dongnae"
+            "sub_region_code":"2626000000_Busan_Dongnae",
+            "shorten_url":"https:\/\/me2.do\/5nbjK728"
         },
         {
             "index":30,
@@ -418,7 +452,8 @@
             "value_score":73.81725,
             "region":"부산시 동래구",
             "region_code":"Busan",
-            "sub_region_code":"2626000000_Busan_Dongnae"
+            "sub_region_code":"2626000000_Busan_Dongnae",
+            "shorten_url":"https:\/\/me2.do\/5nbjK728"
         },
         {
             "index":31,
@@ -430,7 +465,8 @@
             "value_score":72.5615,
             "region":"부산시 동래구",
             "region_code":"Busan",
-            "sub_region_code":"2626000000_Busan_Dongnae"
+            "sub_region_code":"2626000000_Busan_Dongnae",
+            "shorten_url":"https:\/\/me2.do\/5nbjK728"
         },
         {
             "index":32,
@@ -442,7 +478,8 @@
             "value_score":71.91725,
             "region":"부산시 동래구",
             "region_code":"Busan",
-            "sub_region_code":"2626000000_Busan_Dongnae"
+            "sub_region_code":"2626000000_Busan_Dongnae",
+            "shorten_url":"https:\/\/me2.do\/5nbjK728"
         },
         {
             "index":33,
@@ -454,7 +491,8 @@
             "value_score":71.86725,
             "region":"부산시 동래구",
             "region_code":"Busan",
-            "sub_region_code":"2626000000_Busan_Dongnae"
+            "sub_region_code":"2626000000_Busan_Dongnae",
+            "shorten_url":"https:\/\/me2.do\/5nbjK728"
         },
         {
             "index":34,
@@ -466,7 +504,8 @@
             "value_score":71.31175,
             "region":"부산시 동래구",
             "region_code":"Busan",
-            "sub_region_code":"2626000000_Busan_Dongnae"
+            "sub_region_code":"2626000000_Busan_Dongnae",
+            "shorten_url":"https:\/\/me2.do\/5nbjK728"
         },
         {
             "index":35,
@@ -478,7 +517,8 @@
             "value_score":71.06725,
             "region":"부산시 동래구",
             "region_code":"Busan",
-            "sub_region_code":"2626000000_Busan_Dongnae"
+            "sub_region_code":"2626000000_Busan_Dongnae",
+            "shorten_url":"https:\/\/me2.do\/5nbjK728"
         },
         {
             "index":36,
@@ -490,7 +530,8 @@
             "value_score":70.61525,
             "region":"부산시 동래구",
             "region_code":"Busan",
-            "sub_region_code":"2626000000_Busan_Dongnae"
+            "sub_region_code":"2626000000_Busan_Dongnae",
+            "shorten_url":"https:\/\/me2.do\/5nbjK728"
         },
         {
             "index":37,
@@ -502,7 +543,8 @@
             "value_score":70.3425,
             "region":"부산시 동래구",
             "region_code":"Busan",
-            "sub_region_code":"2626000000_Busan_Dongnae"
+            "sub_region_code":"2626000000_Busan_Dongnae",
+            "shorten_url":"https:\/\/me2.do\/5nbjK728"
         },
         {
             "index":38,
@@ -514,7 +556,8 @@
             "value_score":70.2425,
             "region":"부산시 동래구",
             "region_code":"Busan",
-            "sub_region_code":"2626000000_Busan_Dongnae"
+            "sub_region_code":"2626000000_Busan_Dongnae",
+            "shorten_url":"https:\/\/me2.do\/5nbjK728"
         },
         {
             "index":39,
@@ -526,7 +569,8 @@
             "value_score":69.285,
             "region":"부산시 동래구",
             "region_code":"Busan",
-            "sub_region_code":"2626000000_Busan_Dongnae"
+            "sub_region_code":"2626000000_Busan_Dongnae",
+            "shorten_url":"https:\/\/me2.do\/5nbjK728"
         },
         {
             "index":40,
@@ -538,7 +582,8 @@
             "value_score":75.2345,
             "region":"부산시 동래구",
             "region_code":"Busan",
-            "sub_region_code":"2626000000_Busan_Dongnae"
+            "sub_region_code":"2626000000_Busan_Dongnae",
+            "shorten_url":"https:\/\/me2.do\/5nbjK728"
         },
         {
             "index":41,
@@ -550,7 +595,8 @@
             "value_score":72.1345,
             "region":"부산시 동래구",
             "region_code":"Busan",
-            "sub_region_code":"2626000000_Busan_Dongnae"
+            "sub_region_code":"2626000000_Busan_Dongnae",
+            "shorten_url":"https:\/\/me2.do\/5nbjK728"
         },
         {
             "index":42,
@@ -562,7 +608,8 @@
             "value_score":69.885,
             "region":"부산시 동래구",
             "region_code":"Busan",
-            "sub_region_code":"2626000000_Busan_Dongnae"
+            "sub_region_code":"2626000000_Busan_Dongnae",
+            "shorten_url":"https:\/\/me2.do\/5nbjK728"
         },
         {
             "index":43,
@@ -574,7 +621,8 @@
             "value_score":69.523,
             "region":"부산시 동래구",
             "region_code":"Busan",
-            "sub_region_code":"2626000000_Busan_Dongnae"
+            "sub_region_code":"2626000000_Busan_Dongnae",
+            "shorten_url":"https:\/\/me2.do\/5nbjK728"
         },
         {
             "index":44,
@@ -586,7 +634,8 @@
             "value_score":69.4345,
             "region":"부산시 동래구",
             "region_code":"Busan",
-            "sub_region_code":"2626000000_Busan_Dongnae"
+            "sub_region_code":"2626000000_Busan_Dongnae",
+            "shorten_url":"https:\/\/me2.do\/5nbjK728"
         },
         {
             "index":45,
@@ -598,7 +647,8 @@
             "value_score":68.856,
             "region":"부산시 동래구",
             "region_code":"Busan",
-            "sub_region_code":"2626000000_Busan_Dongnae"
+            "sub_region_code":"2626000000_Busan_Dongnae",
+            "shorten_url":"https:\/\/me2.do\/5nbjK728"
         },
         {
             "index":46,
@@ -610,7 +660,8 @@
             "value_score":67.923,
             "region":"부산시 동래구",
             "region_code":"Busan",
-            "sub_region_code":"2626000000_Busan_Dongnae"
+            "sub_region_code":"2626000000_Busan_Dongnae",
+            "shorten_url":"https:\/\/me2.do\/5nbjK728"
         },
         {
             "index":47,
@@ -622,7 +673,8 @@
             "value_score":67.7345,
             "region":"부산시 동래구",
             "region_code":"Busan",
-            "sub_region_code":"2626000000_Busan_Dongnae"
+            "sub_region_code":"2626000000_Busan_Dongnae",
+            "shorten_url":"https:\/\/me2.do\/5nbjK728"
         },
         {
             "index":48,
@@ -634,7 +686,8 @@
             "value_score":67.7235,
             "region":"부산시 동래구",
             "region_code":"Busan",
-            "sub_region_code":"2626000000_Busan_Dongnae"
+            "sub_region_code":"2626000000_Busan_Dongnae",
+            "shorten_url":"https:\/\/me2.do\/5nbjK728"
         },
         {
             "index":49,
@@ -646,7 +699,8 @@
             "value_score":67.056,
             "region":"부산시 동래구",
             "region_code":"Busan",
-            "sub_region_code":"2626000000_Busan_Dongnae"
+            "sub_region_code":"2626000000_Busan_Dongnae",
+            "shorten_url":"https:\/\/me2.do\/5nbjK728"
         }
     ]
 }

@@ -40,6 +40,10 @@
             {
                 "name":"sub_region_code",
                 "type":"string"
+            },
+            {
+                "name":"shorten_url",
+                "type":"string"
             }
         ],
         "primaryKey":[
@@ -58,7 +62,8 @@
             "value_score":65.3504,
             "region":"서울시 금천구",
             "region_code":"Seoul",
-            "sub_region_code":"1154500000_Seoul_Geumcheon"
+            "sub_region_code":"1154500000_Seoul_Geumcheon",
+            "shorten_url":"https:\/\/me2.do\/xNoXKRxw"
         },
         {
             "index":1,
@@ -70,7 +75,8 @@
             "value_score":60.9709,
             "region":"서울시 금천구",
             "region_code":"Seoul",
-            "sub_region_code":"1154500000_Seoul_Geumcheon"
+            "sub_region_code":"1154500000_Seoul_Geumcheon",
+            "shorten_url":"https:\/\/me2.do\/xNoXKRxw"
         },
         {
             "index":2,
@@ -82,7 +88,8 @@
             "value_score":59.2557,
             "region":"서울시 금천구",
             "region_code":"Seoul",
-            "sub_region_code":"1154500000_Seoul_Geumcheon"
+            "sub_region_code":"1154500000_Seoul_Geumcheon",
+            "shorten_url":"https:\/\/me2.do\/xNoXKRxw"
         },
         {
             "index":3,
@@ -94,7 +101,8 @@
             "value_score":58.1004,
             "region":"서울시 금천구",
             "region_code":"Seoul",
-            "sub_region_code":"1154500000_Seoul_Geumcheon"
+            "sub_region_code":"1154500000_Seoul_Geumcheon",
+            "shorten_url":"https:\/\/me2.do\/xNoXKRxw"
         },
         {
             "index":4,
@@ -106,7 +114,8 @@
             "value_score":55.9819,
             "region":"서울시 금천구",
             "region_code":"Seoul",
-            "sub_region_code":"1154500000_Seoul_Geumcheon"
+            "sub_region_code":"1154500000_Seoul_Geumcheon",
+            "shorten_url":"https:\/\/me2.do\/xNoXKRxw"
         },
         {
             "index":5,
@@ -118,7 +127,8 @@
             "value_score":55.6757,
             "region":"서울시 금천구",
             "region_code":"Seoul",
-            "sub_region_code":"1154500000_Seoul_Geumcheon"
+            "sub_region_code":"1154500000_Seoul_Geumcheon",
+            "shorten_url":"https:\/\/me2.do\/xNoXKRxw"
         },
         {
             "index":6,
@@ -130,7 +140,8 @@
             "value_score":55.3004,
             "region":"서울시 금천구",
             "region_code":"Seoul",
-            "sub_region_code":"1154500000_Seoul_Geumcheon"
+            "sub_region_code":"1154500000_Seoul_Geumcheon",
+            "shorten_url":"https:\/\/me2.do\/xNoXKRxw"
         },
         {
             "index":7,
@@ -142,7 +153,8 @@
             "value_score":52.5504,
             "region":"서울시 금천구",
             "region_code":"Seoul",
-            "sub_region_code":"1154500000_Seoul_Geumcheon"
+            "sub_region_code":"1154500000_Seoul_Geumcheon",
+            "shorten_url":"https:\/\/me2.do\/xNoXKRxw"
         },
         {
             "index":8,
@@ -154,7 +166,8 @@
             "value_score":52.2232340785,
             "region":"서울시 금천구",
             "region_code":"Seoul",
-            "sub_region_code":"1154500000_Seoul_Geumcheon"
+            "sub_region_code":"1154500000_Seoul_Geumcheon",
+            "shorten_url":"https:\/\/me2.do\/xNoXKRxw"
         },
         {
             "index":9,
@@ -166,7 +179,8 @@
             "value_score":51.6002,
             "region":"서울시 금천구",
             "region_code":"Seoul",
-            "sub_region_code":"1154500000_Seoul_Geumcheon"
+            "sub_region_code":"1154500000_Seoul_Geumcheon",
+            "shorten_url":"https:\/\/me2.do\/xNoXKRxw"
         },
         {
             "index":10,
@@ -178,7 +192,8 @@
             "value_score":68.9336,
             "region":"서울시 금천구",
             "region_code":"Seoul",
-            "sub_region_code":"1154500000_Seoul_Geumcheon"
+            "sub_region_code":"1154500000_Seoul_Geumcheon",
+            "shorten_url":"https:\/\/me2.do\/xNoXKRxw"
         },
         {
             "index":11,
@@ -190,7 +205,8 @@
             "value_score":65.7806,
             "region":"서울시 금천구",
             "region_code":"Seoul",
-            "sub_region_code":"1154500000_Seoul_Geumcheon"
+            "sub_region_code":"1154500000_Seoul_Geumcheon",
+            "shorten_url":"https:\/\/me2.do\/xNoXKRxw"
         },
         {
             "index":12,
@@ -202,7 +218,8 @@
             "value_score":63.5638,
             "region":"서울시 금천구",
             "region_code":"Seoul",
-            "sub_region_code":"1154500000_Seoul_Geumcheon"
+            "sub_region_code":"1154500000_Seoul_Geumcheon",
+            "shorten_url":"https:\/\/me2.do\/xNoXKRxw"
         },
         {
             "index":13,
@@ -214,7 +231,8 @@
             "value_score":62.3046,
             "region":"서울시 금천구",
             "region_code":"Seoul",
-            "sub_region_code":"1154500000_Seoul_Geumcheon"
+            "sub_region_code":"1154500000_Seoul_Geumcheon",
+            "shorten_url":"https:\/\/me2.do\/xNoXKRxw"
         },
         {
             "index":14,
@@ -226,7 +244,8 @@
             "value_score":57.3836,
             "region":"서울시 금천구",
             "region_code":"Seoul",
-            "sub_region_code":"1154500000_Seoul_Geumcheon"
+            "sub_region_code":"1154500000_Seoul_Geumcheon",
+            "shorten_url":"https:\/\/me2.do\/xNoXKRxw"
         },
         {
             "index":15,
@@ -238,7 +257,8 @@
             "value_score":57.1838,
             "region":"서울시 금천구",
             "region_code":"Seoul",
-            "sub_region_code":"1154500000_Seoul_Geumcheon"
+            "sub_region_code":"1154500000_Seoul_Geumcheon",
+            "shorten_url":"https:\/\/me2.do\/xNoXKRxw"
         },
         {
             "index":16,
@@ -250,7 +270,8 @@
             "value_score":53.2668,
             "region":"서울시 금천구",
             "region_code":"Seoul",
-            "sub_region_code":"1154500000_Seoul_Geumcheon"
+            "sub_region_code":"1154500000_Seoul_Geumcheon",
+            "shorten_url":"https:\/\/me2.do\/xNoXKRxw"
         },
         {
             "index":17,
@@ -262,7 +283,8 @@
             "value_score":51.3336,
             "region":"서울시 금천구",
             "region_code":"Seoul",
-            "sub_region_code":"1154500000_Seoul_Geumcheon"
+            "sub_region_code":"1154500000_Seoul_Geumcheon",
+            "shorten_url":"https:\/\/me2.do\/xNoXKRxw"
         },
         {
             "index":18,
@@ -274,7 +296,8 @@
             "value_score":50.3836,
             "region":"서울시 금천구",
             "region_code":"Seoul",
-            "sub_region_code":"1154500000_Seoul_Geumcheon"
+            "sub_region_code":"1154500000_Seoul_Geumcheon",
+            "shorten_url":"https:\/\/me2.do\/xNoXKRxw"
         },
         {
             "index":19,
@@ -286,7 +309,8 @@
             "value_score":50.3836,
             "region":"서울시 금천구",
             "region_code":"Seoul",
-            "sub_region_code":"1154500000_Seoul_Geumcheon"
+            "sub_region_code":"1154500000_Seoul_Geumcheon",
+            "shorten_url":"https:\/\/me2.do\/xNoXKRxw"
         },
         {
             "index":20,
@@ -298,7 +322,8 @@
             "value_score":66.01785,
             "region":"서울시 금천구",
             "region_code":"Seoul",
-            "sub_region_code":"1154500000_Seoul_Geumcheon"
+            "sub_region_code":"1154500000_Seoul_Geumcheon",
+            "shorten_url":"https:\/\/me2.do\/xNoXKRxw"
         },
         {
             "index":21,
@@ -310,7 +335,8 @@
             "value_score":65.7752,
             "region":"서울시 금천구",
             "region_code":"Seoul",
-            "sub_region_code":"1154500000_Seoul_Geumcheon"
+            "sub_region_code":"1154500000_Seoul_Geumcheon",
+            "shorten_url":"https:\/\/me2.do\/xNoXKRxw"
         },
         {
             "index":22,
@@ -322,7 +348,8 @@
             "value_score":63.4502,
             "region":"서울시 금천구",
             "region_code":"Seoul",
-            "sub_region_code":"1154500000_Seoul_Geumcheon"
+            "sub_region_code":"1154500000_Seoul_Geumcheon",
+            "shorten_url":"https:\/\/me2.do\/xNoXKRxw"
         },
         {
             "index":23,
@@ -334,7 +361,8 @@
             "value_score":62.56785,
             "region":"서울시 금천구",
             "region_code":"Seoul",
-            "sub_region_code":"1154500000_Seoul_Geumcheon"
+            "sub_region_code":"1154500000_Seoul_Geumcheon",
+            "shorten_url":"https:\/\/me2.do\/xNoXKRxw"
         },
         {
             "index":24,
@@ -346,7 +374,8 @@
             "value_score":61.7502,
             "region":"서울시 금천구",
             "region_code":"Seoul",
-            "sub_region_code":"1154500000_Seoul_Geumcheon"
+            "sub_region_code":"1154500000_Seoul_Geumcheon",
+            "shorten_url":"https:\/\/me2.do\/xNoXKRxw"
         },
         {
             "index":25,
@@ -358,7 +387,8 @@
             "value_score":61.08785,
             "region":"서울시 금천구",
             "region_code":"Seoul",
-            "sub_region_code":"1154500000_Seoul_Geumcheon"
+            "sub_region_code":"1154500000_Seoul_Geumcheon",
+            "shorten_url":"https:\/\/me2.do\/xNoXKRxw"
         },
         {
             "index":26,
@@ -370,7 +400,8 @@
             "value_score":59.2752,
             "region":"서울시 금천구",
             "region_code":"Seoul",
-            "sub_region_code":"1154500000_Seoul_Geumcheon"
+            "sub_region_code":"1154500000_Seoul_Geumcheon",
+            "shorten_url":"https:\/\/me2.do\/xNoXKRxw"
         },
         {
             "index":27,
@@ -382,7 +413,8 @@
             "value_score":59.1616170393,
             "region":"서울시 금천구",
             "region_code":"Seoul",
-            "sub_region_code":"1154500000_Seoul_Geumcheon"
+            "sub_region_code":"1154500000_Seoul_Geumcheon",
+            "shorten_url":"https:\/\/me2.do\/xNoXKRxw"
         },
         {
             "index":28,
@@ -394,7 +426,8 @@
             "value_score":58.28545,
             "region":"서울시 금천구",
             "region_code":"Seoul",
-            "sub_region_code":"1154500000_Seoul_Geumcheon"
+            "sub_region_code":"1154500000_Seoul_Geumcheon",
+            "shorten_url":"https:\/\/me2.do\/xNoXKRxw"
         },
         {
             "index":29,
@@ -406,7 +439,8 @@
             "value_score":58.1494,
             "region":"서울시 금천구",
             "region_code":"Seoul",
-            "sub_region_code":"1154500000_Seoul_Geumcheon"
+            "sub_region_code":"1154500000_Seoul_Geumcheon",
+            "shorten_url":"https:\/\/me2.do\/xNoXKRxw"
         },
         {
             "index":30,
@@ -418,7 +452,8 @@
             "value_score":63.2835,
             "region":"서울시 금천구",
             "region_code":"Seoul",
-            "sub_region_code":"1154500000_Seoul_Geumcheon"
+            "sub_region_code":"1154500000_Seoul_Geumcheon",
+            "shorten_url":"https:\/\/me2.do\/xNoXKRxw"
         },
         {
             "index":31,
@@ -430,7 +465,8 @@
             "value_score":62.7110283988,
             "region":"서울시 금천구",
             "region_code":"Seoul",
-            "sub_region_code":"1154500000_Seoul_Geumcheon"
+            "sub_region_code":"1154500000_Seoul_Geumcheon",
+            "shorten_url":"https:\/\/me2.do\/xNoXKRxw"
         },
         {
             "index":32,
@@ -442,7 +478,8 @@
             "value_score":60.1835,
             "region":"서울시 금천구",
             "region_code":"Seoul",
-            "sub_region_code":"1154500000_Seoul_Geumcheon"
+            "sub_region_code":"1154500000_Seoul_Geumcheon",
+            "shorten_url":"https:\/\/me2.do\/xNoXKRxw"
         },
         {
             "index":33,
@@ -454,7 +491,8 @@
             "value_score":59.1335,
             "region":"서울시 금천구",
             "region_code":"Seoul",
-            "sub_region_code":"1154500000_Seoul_Geumcheon"
+            "sub_region_code":"1154500000_Seoul_Geumcheon",
+            "shorten_url":"https:\/\/me2.do\/xNoXKRxw"
         },
         {
             "index":34,
@@ -466,7 +504,8 @@
             "value_score":57.59325,
             "region":"서울시 금천구",
             "region_code":"Seoul",
-            "sub_region_code":"1154500000_Seoul_Geumcheon"
+            "sub_region_code":"1154500000_Seoul_Geumcheon",
+            "shorten_url":"https:\/\/me2.do\/xNoXKRxw"
         },
         {
             "index":35,
@@ -478,7 +517,8 @@
             "value_score":55.142,
             "region":"서울시 금천구",
             "region_code":"Seoul",
-            "sub_region_code":"1154500000_Seoul_Geumcheon"
+            "sub_region_code":"1154500000_Seoul_Geumcheon",
+            "shorten_url":"https:\/\/me2.do\/xNoXKRxw"
         },
         {
             "index":36,
@@ -490,7 +530,8 @@
             "value_score":54.67575,
             "region":"서울시 금천구",
             "region_code":"Seoul",
-            "sub_region_code":"1154500000_Seoul_Geumcheon"
+            "sub_region_code":"1154500000_Seoul_Geumcheon",
+            "shorten_url":"https:\/\/me2.do\/xNoXKRxw"
         },
         {
             "index":37,
@@ -502,7 +543,8 @@
             "value_score":53.6985,
             "region":"서울시 금천구",
             "region_code":"Seoul",
-            "sub_region_code":"1154500000_Seoul_Geumcheon"
+            "sub_region_code":"1154500000_Seoul_Geumcheon",
+            "shorten_url":"https:\/\/me2.do\/xNoXKRxw"
         },
         {
             "index":38,
@@ -514,7 +556,8 @@
             "value_score":53.592,
             "region":"서울시 금천구",
             "region_code":"Seoul",
-            "sub_region_code":"1154500000_Seoul_Geumcheon"
+            "sub_region_code":"1154500000_Seoul_Geumcheon",
+            "shorten_url":"https:\/\/me2.do\/xNoXKRxw"
         },
         {
             "index":39,
@@ -526,7 +569,8 @@
             "value_score":52.224,
             "region":"서울시 금천구",
             "region_code":"Seoul",
-            "sub_region_code":"1154500000_Seoul_Geumcheon"
+            "sub_region_code":"1154500000_Seoul_Geumcheon",
+            "shorten_url":"https:\/\/me2.do\/xNoXKRxw"
         },
         {
             "index":40,
@@ -538,7 +582,8 @@
             "value_score":61.484,
             "region":"서울시 금천구",
             "region_code":"Seoul",
-            "sub_region_code":"1154500000_Seoul_Geumcheon"
+            "sub_region_code":"1154500000_Seoul_Geumcheon",
+            "shorten_url":"https:\/\/me2.do\/xNoXKRxw"
         },
         {
             "index":41,
@@ -550,7 +595,8 @@
             "value_score":57.9515,
             "region":"서울시 금천구",
             "region_code":"Seoul",
-            "sub_region_code":"1154500000_Seoul_Geumcheon"
+            "sub_region_code":"1154500000_Seoul_Geumcheon",
+            "shorten_url":"https:\/\/me2.do\/xNoXKRxw"
         },
         {
             "index":42,
@@ -562,7 +608,8 @@
             "value_score":56.384,
             "region":"서울시 금천구",
             "region_code":"Seoul",
-            "sub_region_code":"1154500000_Seoul_Geumcheon"
+            "sub_region_code":"1154500000_Seoul_Geumcheon",
+            "shorten_url":"https:\/\/me2.do\/xNoXKRxw"
         },
         {
             "index":43,
@@ -574,7 +621,8 @@
             "value_score":54.784,
             "region":"서울시 금천구",
             "region_code":"Seoul",
-            "sub_region_code":"1154500000_Seoul_Geumcheon"
+            "sub_region_code":"1154500000_Seoul_Geumcheon",
+            "shorten_url":"https:\/\/me2.do\/xNoXKRxw"
         },
         {
             "index":44,
@@ -586,7 +634,8 @@
             "value_score":52.7395,
             "region":"서울시 금천구",
             "region_code":"Seoul",
-            "sub_region_code":"1154500000_Seoul_Geumcheon"
+            "sub_region_code":"1154500000_Seoul_Geumcheon",
+            "shorten_url":"https:\/\/me2.do\/xNoXKRxw"
         },
         {
             "index":45,
@@ -598,7 +647,8 @@
             "value_score":52.1865,
             "region":"서울시 금천구",
             "region_code":"Seoul",
-            "sub_region_code":"1154500000_Seoul_Geumcheon"
+            "sub_region_code":"1154500000_Seoul_Geumcheon",
+            "shorten_url":"https:\/\/me2.do\/xNoXKRxw"
         },
         {
             "index":46,
@@ -610,7 +660,8 @@
             "value_score":51.084,
             "region":"서울시 금천구",
             "region_code":"Seoul",
-            "sub_region_code":"1154500000_Seoul_Geumcheon"
+            "sub_region_code":"1154500000_Seoul_Geumcheon",
+            "shorten_url":"https:\/\/me2.do\/xNoXKRxw"
         },
         {
             "index":47,
@@ -622,7 +673,8 @@
             "value_score":50.5595,
             "region":"서울시 금천구",
             "region_code":"Seoul",
-            "sub_region_code":"1154500000_Seoul_Geumcheon"
+            "sub_region_code":"1154500000_Seoul_Geumcheon",
+            "shorten_url":"https:\/\/me2.do\/xNoXKRxw"
         },
         {
             "index":48,
@@ -634,7 +686,8 @@
             "value_score":50.0220567975,
             "region":"서울시 금천구",
             "region_code":"Seoul",
-            "sub_region_code":"1154500000_Seoul_Geumcheon"
+            "sub_region_code":"1154500000_Seoul_Geumcheon",
+            "shorten_url":"https:\/\/me2.do\/xNoXKRxw"
         },
         {
             "index":49,
@@ -646,7 +699,8 @@
             "value_score":49.948,
             "region":"서울시 금천구",
             "region_code":"Seoul",
-            "sub_region_code":"1154500000_Seoul_Geumcheon"
+            "sub_region_code":"1154500000_Seoul_Geumcheon",
+            "shorten_url":"https:\/\/me2.do\/xNoXKRxw"
         }
     ]
 }

@@ -40,6 +40,10 @@
             {
                 "name":"sub_region_code",
                 "type":"string"
+            },
+            {
+                "name":"shorten_url",
+                "type":"string"
             }
         ],
         "primaryKey":[
@@ -58,7 +62,8 @@
             "value_score":42.55565,
             "region":"경상남도 함양군",
             "region_code":"Gyeongsangnamdo",
-            "sub_region_code":"4887000000_Gyeongsangnamdo_Hamyang"
+            "sub_region_code":"4887000000_Gyeongsangnamdo_Hamyang",
+            "shorten_url":"https:\/\/me2.do\/GsaLIS6D"
         },
         {
             "index":1,
@@ -70,7 +75,8 @@
             "value_score":42.35565,
             "region":"경상남도 함양군",
             "region_code":"Gyeongsangnamdo",
-            "sub_region_code":"4887000000_Gyeongsangnamdo_Hamyang"
+            "sub_region_code":"4887000000_Gyeongsangnamdo_Hamyang",
+            "shorten_url":"https:\/\/me2.do\/GsaLIS6D"
         },
         {
             "index":2,
@@ -82,7 +88,8 @@
             "value_score":41.2161,
             "region":"경상남도 함양군",
             "region_code":"Gyeongsangnamdo",
-            "sub_region_code":"4887000000_Gyeongsangnamdo_Hamyang"
+            "sub_region_code":"4887000000_Gyeongsangnamdo_Hamyang",
+            "shorten_url":"https:\/\/me2.do\/GsaLIS6D"
         },
         {
             "index":3,
@@ -94,7 +101,8 @@
             "value_score":36.30565,
             "region":"경상남도 함양군",
             "region_code":"Gyeongsangnamdo",
-            "sub_region_code":"4887000000_Gyeongsangnamdo_Hamyang"
+            "sub_region_code":"4887000000_Gyeongsangnamdo_Hamyang",
+            "shorten_url":"https:\/\/me2.do\/GsaLIS6D"
         },
         {
             "index":4,
@@ -106,7 +114,8 @@
             "value_score":33.55565,
             "region":"경상남도 함양군",
             "region_code":"Gyeongsangnamdo",
-            "sub_region_code":"4887000000_Gyeongsangnamdo_Hamyang"
+            "sub_region_code":"4887000000_Gyeongsangnamdo_Hamyang",
+            "shorten_url":"https:\/\/me2.do\/GsaLIS6D"
         },
         {
             "index":5,
@@ -118,7 +127,8 @@
             "value_score":21.35565,
             "region":"경상남도 함양군",
             "region_code":"Gyeongsangnamdo",
-            "sub_region_code":"4887000000_Gyeongsangnamdo_Hamyang"
+            "sub_region_code":"4887000000_Gyeongsangnamdo_Hamyang",
+            "shorten_url":"https:\/\/me2.do\/GsaLIS6D"
         },
         {
             "index":6,
@@ -130,7 +140,8 @@
             "value_score":43.53975,
             "region":"경상남도 함양군",
             "region_code":"Gyeongsangnamdo",
-            "sub_region_code":"4887000000_Gyeongsangnamdo_Hamyang"
+            "sub_region_code":"4887000000_Gyeongsangnamdo_Hamyang",
+            "shorten_url":"https:\/\/me2.do\/GsaLIS6D"
         },
         {
             "index":7,
@@ -142,7 +153,8 @@
             "value_score":40.28975,
             "region":"경상남도 함양군",
             "region_code":"Gyeongsangnamdo",
-            "sub_region_code":"4887000000_Gyeongsangnamdo_Hamyang"
+            "sub_region_code":"4887000000_Gyeongsangnamdo_Hamyang",
+            "shorten_url":"https:\/\/me2.do\/GsaLIS6D"
         },
         {
             "index":8,
@@ -154,7 +166,8 @@
             "value_score":38.8615,
             "region":"경상남도 함양군",
             "region_code":"Gyeongsangnamdo",
-            "sub_region_code":"4887000000_Gyeongsangnamdo_Hamyang"
+            "sub_region_code":"4887000000_Gyeongsangnamdo_Hamyang",
+            "shorten_url":"https:\/\/me2.do\/GsaLIS6D"
         },
         {
             "index":9,
@@ -166,7 +179,8 @@
             "value_score":35.63975,
             "region":"경상남도 함양군",
             "region_code":"Gyeongsangnamdo",
-            "sub_region_code":"4887000000_Gyeongsangnamdo_Hamyang"
+            "sub_region_code":"4887000000_Gyeongsangnamdo_Hamyang",
+            "shorten_url":"https:\/\/me2.do\/GsaLIS6D"
         },
         {
             "index":10,
@@ -178,7 +192,8 @@
             "value_score":33.28975,
             "region":"경상남도 함양군",
             "region_code":"Gyeongsangnamdo",
-            "sub_region_code":"4887000000_Gyeongsangnamdo_Hamyang"
+            "sub_region_code":"4887000000_Gyeongsangnamdo_Hamyang",
+            "shorten_url":"https:\/\/me2.do\/GsaLIS6D"
         },
         {
             "index":11,
@@ -190,7 +205,8 @@
             "value_score":18.03975,
             "region":"경상남도 함양군",
             "region_code":"Gyeongsangnamdo",
-            "sub_region_code":"4887000000_Gyeongsangnamdo_Hamyang"
+            "sub_region_code":"4887000000_Gyeongsangnamdo_Hamyang",
+            "shorten_url":"https:\/\/me2.do\/GsaLIS6D"
         },
         {
             "index":12,
@@ -202,7 +218,8 @@
             "value_score":40.8133684211,
             "region":"경상남도 함양군",
             "region_code":"Gyeongsangnamdo",
-            "sub_region_code":"4887000000_Gyeongsangnamdo_Hamyang"
+            "sub_region_code":"4887000000_Gyeongsangnamdo_Hamyang",
+            "shorten_url":"https:\/\/me2.do\/GsaLIS6D"
         },
         {
             "index":13,
@@ -214,7 +231,8 @@
             "value_score":38.1724210526,
             "region":"경상남도 함양군",
             "region_code":"Gyeongsangnamdo",
-            "sub_region_code":"4887000000_Gyeongsangnamdo_Hamyang"
+            "sub_region_code":"4887000000_Gyeongsangnamdo_Hamyang",
+            "shorten_url":"https:\/\/me2.do\/GsaLIS6D"
         },
         {
             "index":14,
@@ -226,7 +244,8 @@
             "value_score":30.0502105263,
             "region":"경상남도 함양군",
             "region_code":"Gyeongsangnamdo",
-            "sub_region_code":"4887000000_Gyeongsangnamdo_Hamyang"
+            "sub_region_code":"4887000000_Gyeongsangnamdo_Hamyang",
+            "shorten_url":"https:\/\/me2.do\/GsaLIS6D"
         },
         {
             "index":15,
@@ -238,7 +257,8 @@
             "value_score":29.9712631579,
             "region":"경상남도 함양군",
             "region_code":"Gyeongsangnamdo",
-            "sub_region_code":"4887000000_Gyeongsangnamdo_Hamyang"
+            "sub_region_code":"4887000000_Gyeongsangnamdo_Hamyang",
+            "shorten_url":"https:\/\/me2.do\/GsaLIS6D"
         },
         {
             "index":16,
@@ -250,7 +270,8 @@
             "value_score":21.4449473684,
             "region":"경상남도 함양군",
             "region_code":"Gyeongsangnamdo",
-            "sub_region_code":"4887000000_Gyeongsangnamdo_Hamyang"
+            "sub_region_code":"4887000000_Gyeongsangnamdo_Hamyang",
+            "shorten_url":"https:\/\/me2.do\/GsaLIS6D"
         },
         {
             "index":17,
@@ -262,7 +283,8 @@
             "value_score":16.6291578947,
             "region":"경상남도 함양군",
             "region_code":"Gyeongsangnamdo",
-            "sub_region_code":"4887000000_Gyeongsangnamdo_Hamyang"
+            "sub_region_code":"4887000000_Gyeongsangnamdo_Hamyang",
+            "shorten_url":"https:\/\/me2.do\/GsaLIS6D"
         },
         {
             "index":18,
@@ -274,7 +296,8 @@
             "value_score":45.9545,
             "region":"경상남도 함양군",
             "region_code":"Gyeongsangnamdo",
-            "sub_region_code":"4887000000_Gyeongsangnamdo_Hamyang"
+            "sub_region_code":"4887000000_Gyeongsangnamdo_Hamyang",
+            "shorten_url":"https:\/\/me2.do\/GsaLIS6D"
         },
         {
             "index":19,
@@ -286,7 +309,8 @@
             "value_score":44.748,
             "region":"경상남도 함양군",
             "region_code":"Gyeongsangnamdo",
-            "sub_region_code":"4887000000_Gyeongsangnamdo_Hamyang"
+            "sub_region_code":"4887000000_Gyeongsangnamdo_Hamyang",
+            "shorten_url":"https:\/\/me2.do\/GsaLIS6D"
         },
         {
             "index":20,
@@ -298,7 +322,8 @@
             "value_score":40.5795,
             "region":"경상남도 함양군",
             "region_code":"Gyeongsangnamdo",
-            "sub_region_code":"4887000000_Gyeongsangnamdo_Hamyang"
+            "sub_region_code":"4887000000_Gyeongsangnamdo_Hamyang",
+            "shorten_url":"https:\/\/me2.do\/GsaLIS6D"
         },
         {
             "index":21,
@@ -310,7 +335,8 @@
             "value_score":37.3045,
             "region":"경상남도 함양군",
             "region_code":"Gyeongsangnamdo",
-            "sub_region_code":"4887000000_Gyeongsangnamdo_Hamyang"
+            "sub_region_code":"4887000000_Gyeongsangnamdo_Hamyang",
+            "shorten_url":"https:\/\/me2.do\/GsaLIS6D"
         },
         {
             "index":22,
@@ -322,7 +348,8 @@
             "value_score":33.9545,
             "region":"경상남도 함양군",
             "region_code":"Gyeongsangnamdo",
-            "sub_region_code":"4887000000_Gyeongsangnamdo_Hamyang"
+            "sub_region_code":"4887000000_Gyeongsangnamdo_Hamyang",
+            "shorten_url":"https:\/\/me2.do\/GsaLIS6D"
         },
         {
             "index":23,
@@ -334,7 +361,8 @@
             "value_score":26.3295,
             "region":"경상남도 함양군",
             "region_code":"Gyeongsangnamdo",
-            "sub_region_code":"4887000000_Gyeongsangnamdo_Hamyang"
+            "sub_region_code":"4887000000_Gyeongsangnamdo_Hamyang",
+            "shorten_url":"https:\/\/me2.do\/GsaLIS6D"
         }
     ]
 }

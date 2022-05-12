@@ -40,6 +40,10 @@
             {
                 "name":"sub_region_code",
                 "type":"string"
+            },
+            {
+                "name":"shorten_url",
+                "type":"string"
             }
         ],
         "primaryKey":[
@@ -58,7 +62,8 @@
             "value_score":35.28165,
             "region":"경상북도 청도군",
             "region_code":"Gyeongsangbukdo",
-            "sub_region_code":"4782000000_Gyeongsangbukdo_Cheongdo"
+            "sub_region_code":"4782000000_Gyeongsangbukdo_Cheongdo",
+            "shorten_url":"https:\/\/me2.do\/5SB4VcfK"
         },
         {
             "index":1,
@@ -70,7 +75,8 @@
             "value_score":33.88165,
             "region":"경상북도 청도군",
             "region_code":"Gyeongsangbukdo",
-            "sub_region_code":"4782000000_Gyeongsangbukdo_Cheongdo"
+            "sub_region_code":"4782000000_Gyeongsangbukdo_Cheongdo",
+            "shorten_url":"https:\/\/me2.do\/5SB4VcfK"
         },
         {
             "index":2,
@@ -82,7 +88,8 @@
             "value_score":28.8784,
             "region":"경상북도 청도군",
             "region_code":"Gyeongsangbukdo",
-            "sub_region_code":"4782000000_Gyeongsangbukdo_Cheongdo"
+            "sub_region_code":"4782000000_Gyeongsangbukdo_Cheongdo",
+            "shorten_url":"https:\/\/me2.do\/5SB4VcfK"
         },
         {
             "index":3,
@@ -94,7 +101,8 @@
             "value_score":26.2772,
             "region":"경상북도 청도군",
             "region_code":"Gyeongsangbukdo",
-            "sub_region_code":"4782000000_Gyeongsangbukdo_Cheongdo"
+            "sub_region_code":"4782000000_Gyeongsangbukdo_Cheongdo",
+            "shorten_url":"https:\/\/me2.do\/5SB4VcfK"
         },
         {
             "index":4,
@@ -106,7 +114,8 @@
             "value_score":25.0272,
             "region":"경상북도 청도군",
             "region_code":"Gyeongsangbukdo",
-            "sub_region_code":"4782000000_Gyeongsangbukdo_Cheongdo"
+            "sub_region_code":"4782000000_Gyeongsangbukdo_Cheongdo",
+            "shorten_url":"https:\/\/me2.do\/5SB4VcfK"
         },
         {
             "index":5,
@@ -118,7 +127,8 @@
             "value_score":35.37975,
             "region":"경상북도 청도군",
             "region_code":"Gyeongsangbukdo",
-            "sub_region_code":"4782000000_Gyeongsangbukdo_Cheongdo"
+            "sub_region_code":"4782000000_Gyeongsangbukdo_Cheongdo",
+            "shorten_url":"https:\/\/me2.do\/5SB4VcfK"
         },
         {
             "index":6,
@@ -130,7 +140,8 @@
             "value_score":32.62975,
             "region":"경상북도 청도군",
             "region_code":"Gyeongsangbukdo",
-            "sub_region_code":"4782000000_Gyeongsangbukdo_Cheongdo"
+            "sub_region_code":"4782000000_Gyeongsangbukdo_Cheongdo",
+            "shorten_url":"https:\/\/me2.do\/5SB4VcfK"
         },
         {
             "index":7,
@@ -142,7 +153,8 @@
             "value_score":27.056,
             "region":"경상북도 청도군",
             "region_code":"Gyeongsangbukdo",
-            "sub_region_code":"4782000000_Gyeongsangbukdo_Cheongdo"
+            "sub_region_code":"4782000000_Gyeongsangbukdo_Cheongdo",
+            "shorten_url":"https:\/\/me2.do\/5SB4VcfK"
         },
         {
             "index":8,
@@ -154,7 +166,8 @@
             "value_score":23.698,
             "region":"경상북도 청도군",
             "region_code":"Gyeongsangbukdo",
-            "sub_region_code":"4782000000_Gyeongsangbukdo_Cheongdo"
+            "sub_region_code":"4782000000_Gyeongsangbukdo_Cheongdo",
+            "shorten_url":"https:\/\/me2.do\/5SB4VcfK"
         },
         {
             "index":9,
@@ -166,7 +179,8 @@
             "value_score":21.548,
             "region":"경상북도 청도군",
             "region_code":"Gyeongsangbukdo",
-            "sub_region_code":"4782000000_Gyeongsangbukdo_Cheongdo"
+            "sub_region_code":"4782000000_Gyeongsangbukdo_Cheongdo",
+            "shorten_url":"https:\/\/me2.do\/5SB4VcfK"
         },
         {
             "index":10,
@@ -178,7 +192,8 @@
             "value_score":28.4796842105,
             "region":"경상북도 청도군",
             "region_code":"Gyeongsangbukdo",
-            "sub_region_code":"4782000000_Gyeongsangbukdo_Cheongdo"
+            "sub_region_code":"4782000000_Gyeongsangbukdo_Cheongdo",
+            "shorten_url":"https:\/\/me2.do\/5SB4VcfK"
         },
         {
             "index":11,
@@ -190,7 +205,8 @@
             "value_score":28.0922105263,
             "region":"경상북도 청도군",
             "region_code":"Gyeongsangbukdo",
-            "sub_region_code":"4782000000_Gyeongsangbukdo_Cheongdo"
+            "sub_region_code":"4782000000_Gyeongsangbukdo_Cheongdo",
+            "shorten_url":"https:\/\/me2.do\/5SB4VcfK"
         },
         {
             "index":12,
@@ -202,7 +218,8 @@
             "value_score":24.5658947368,
             "region":"경상북도 청도군",
             "region_code":"Gyeongsangbukdo",
-            "sub_region_code":"4782000000_Gyeongsangbukdo_Cheongdo"
+            "sub_region_code":"4782000000_Gyeongsangbukdo_Cheongdo",
+            "shorten_url":"https:\/\/me2.do\/5SB4VcfK"
         },
         {
             "index":13,
@@ -214,7 +231,8 @@
             "value_score":24.3865263158,
             "region":"경상북도 청도군",
             "region_code":"Gyeongsangbukdo",
-            "sub_region_code":"4782000000_Gyeongsangbukdo_Cheongdo"
+            "sub_region_code":"4782000000_Gyeongsangbukdo_Cheongdo",
+            "shorten_url":"https:\/\/me2.do\/5SB4VcfK"
         },
         {
             "index":14,
@@ -226,7 +244,8 @@
             "value_score":22.1902105263,
             "region":"경상북도 청도군",
             "region_code":"Gyeongsangbukdo",
-            "sub_region_code":"4782000000_Gyeongsangbukdo_Cheongdo"
+            "sub_region_code":"4782000000_Gyeongsangbukdo_Cheongdo",
+            "shorten_url":"https:\/\/me2.do\/5SB4VcfK"
         },
         {
             "index":15,
@@ -238,7 +257,8 @@
             "value_score":35.7595,
             "region":"경상북도 청도군",
             "region_code":"Gyeongsangbukdo",
-            "sub_region_code":"4782000000_Gyeongsangbukdo_Cheongdo"
+            "sub_region_code":"4782000000_Gyeongsangbukdo_Cheongdo",
+            "shorten_url":"https:\/\/me2.do\/5SB4VcfK"
         },
         {
             "index":16,
@@ -250,7 +270,8 @@
             "value_score":35.1345,
             "region":"경상북도 청도군",
             "region_code":"Gyeongsangbukdo",
-            "sub_region_code":"4782000000_Gyeongsangbukdo_Cheongdo"
+            "sub_region_code":"4782000000_Gyeongsangbukdo_Cheongdo",
+            "shorten_url":"https:\/\/me2.do\/5SB4VcfK"
         },
         {
             "index":17,
@@ -262,7 +283,8 @@
             "value_score":31.612,
             "region":"경상북도 청도군",
             "region_code":"Gyeongsangbukdo",
-            "sub_region_code":"4782000000_Gyeongsangbukdo_Cheongdo"
+            "sub_region_code":"4782000000_Gyeongsangbukdo_Cheongdo",
+            "shorten_url":"https:\/\/me2.do\/5SB4VcfK"
         },
         {
             "index":18,
@@ -274,7 +296,8 @@
             "value_score":30.246,
             "region":"경상북도 청도군",
             "region_code":"Gyeongsangbukdo",
-            "sub_region_code":"4782000000_Gyeongsangbukdo_Cheongdo"
+            "sub_region_code":"4782000000_Gyeongsangbukdo_Cheongdo",
+            "shorten_url":"https:\/\/me2.do\/5SB4VcfK"
         },
         {
             "index":19,
@@ -286,7 +309,8 @@
             "value_score":30.146,
             "region":"경상북도 청도군",
             "region_code":"Gyeongsangbukdo",
-            "sub_region_code":"4782000000_Gyeongsangbukdo_Cheongdo"
+            "sub_region_code":"4782000000_Gyeongsangbukdo_Cheongdo",
+            "shorten_url":"https:\/\/me2.do\/5SB4VcfK"
         }
     ]
 }

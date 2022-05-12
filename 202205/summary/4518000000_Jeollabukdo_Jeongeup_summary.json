@@ -40,6 +40,10 @@
             {
                 "name":"sub_region_code",
                 "type":"string"
+            },
+            {
+                "name":"shorten_url",
+                "type":"string"
             }
         ],
         "primaryKey":[
@@ -58,7 +62,8 @@
             "value_score":51.837,
             "region":"전라북도 정읍시",
             "region_code":"Jeollabukdo",
-            "sub_region_code":"4518000000_Jeollabukdo_Jeongeup"
+            "sub_region_code":"4518000000_Jeollabukdo_Jeongeup",
+            "shorten_url":"https:\/\/me2.do\/GDbRGe3v"
         },
         {
             "index":1,
@@ -70,7 +75,8 @@
             "value_score":48.4655,
             "region":"전라북도 정읍시",
             "region_code":"Jeollabukdo",
-            "sub_region_code":"4518000000_Jeollabukdo_Jeongeup"
+            "sub_region_code":"4518000000_Jeollabukdo_Jeongeup",
+            "shorten_url":"https:\/\/me2.do\/GDbRGe3v"
         },
         {
             "index":2,
@@ -82,7 +88,8 @@
             "value_score":48.0655,
             "region":"전라북도 정읍시",
             "region_code":"Jeollabukdo",
-            "sub_region_code":"4518000000_Jeollabukdo_Jeongeup"
+            "sub_region_code":"4518000000_Jeollabukdo_Jeongeup",
+            "shorten_url":"https:\/\/me2.do\/GDbRGe3v"
         },
         {
             "index":3,
@@ -94,7 +101,8 @@
             "value_score":46.02045,
             "region":"전라북도 정읍시",
             "region_code":"Jeollabukdo",
-            "sub_region_code":"4518000000_Jeollabukdo_Jeongeup"
+            "sub_region_code":"4518000000_Jeollabukdo_Jeongeup",
+            "shorten_url":"https:\/\/me2.do\/GDbRGe3v"
         },
         {
             "index":4,
@@ -106,7 +114,8 @@
             "value_score":45.7155,
             "region":"전라북도 정읍시",
             "region_code":"Jeollabukdo",
-            "sub_region_code":"4518000000_Jeollabukdo_Jeongeup"
+            "sub_region_code":"4518000000_Jeollabukdo_Jeongeup",
+            "shorten_url":"https:\/\/me2.do\/GDbRGe3v"
         },
         {
             "index":5,
@@ -118,7 +127,8 @@
             "value_score":44.37,
             "region":"전라북도 정읍시",
             "region_code":"Jeollabukdo",
-            "sub_region_code":"4518000000_Jeollabukdo_Jeongeup"
+            "sub_region_code":"4518000000_Jeollabukdo_Jeongeup",
+            "shorten_url":"https:\/\/me2.do\/GDbRGe3v"
         },
         {
             "index":6,
@@ -130,7 +140,8 @@
             "value_score":43.537,
             "region":"전라북도 정읍시",
             "region_code":"Jeollabukdo",
-            "sub_region_code":"4518000000_Jeollabukdo_Jeongeup"
+            "sub_region_code":"4518000000_Jeollabukdo_Jeongeup",
+            "shorten_url":"https:\/\/me2.do\/GDbRGe3v"
         },
         {
             "index":7,
@@ -142,7 +153,8 @@
             "value_score":43.2155,
             "region":"전라북도 정읍시",
             "region_code":"Jeollabukdo",
-            "sub_region_code":"4518000000_Jeollabukdo_Jeongeup"
+            "sub_region_code":"4518000000_Jeollabukdo_Jeongeup",
+            "shorten_url":"https:\/\/me2.do\/GDbRGe3v"
         },
         {
             "index":8,
@@ -154,7 +166,8 @@
             "value_score":42.5655,
             "region":"전라북도 정읍시",
             "region_code":"Jeollabukdo",
-            "sub_region_code":"4518000000_Jeollabukdo_Jeongeup"
+            "sub_region_code":"4518000000_Jeollabukdo_Jeongeup",
+            "shorten_url":"https:\/\/me2.do\/GDbRGe3v"
         },
         {
             "index":9,
@@ -166,7 +179,8 @@
             "value_score":41.4655,
             "region":"전라북도 정읍시",
             "region_code":"Jeollabukdo",
-            "sub_region_code":"4518000000_Jeollabukdo_Jeongeup"
+            "sub_region_code":"4518000000_Jeollabukdo_Jeongeup",
+            "shorten_url":"https:\/\/me2.do\/GDbRGe3v"
         },
         {
             "index":10,
@@ -178,7 +192,8 @@
             "value_score":54.705,
             "region":"전라북도 정읍시",
             "region_code":"Jeollabukdo",
-            "sub_region_code":"4518000000_Jeollabukdo_Jeongeup"
+            "sub_region_code":"4518000000_Jeollabukdo_Jeongeup",
+            "shorten_url":"https:\/\/me2.do\/GDbRGe3v"
         },
         {
             "index":11,
@@ -190,7 +205,8 @@
             "value_score":49.5825,
             "region":"전라북도 정읍시",
             "region_code":"Jeollabukdo",
-            "sub_region_code":"4518000000_Jeollabukdo_Jeongeup"
+            "sub_region_code":"4518000000_Jeollabukdo_Jeongeup",
+            "shorten_url":"https:\/\/me2.do\/GDbRGe3v"
         },
         {
             "index":12,
@@ -202,7 +218,8 @@
             "value_score":48.3325,
             "region":"전라북도 정읍시",
             "region_code":"Jeollabukdo",
-            "sub_region_code":"4518000000_Jeollabukdo_Jeongeup"
+            "sub_region_code":"4518000000_Jeollabukdo_Jeongeup",
+            "shorten_url":"https:\/\/me2.do\/GDbRGe3v"
         },
         {
             "index":13,
@@ -214,7 +231,8 @@
             "value_score":47.87175,
             "region":"전라북도 정읍시",
             "region_code":"Jeollabukdo",
-            "sub_region_code":"4518000000_Jeollabukdo_Jeongeup"
+            "sub_region_code":"4518000000_Jeollabukdo_Jeongeup",
+            "shorten_url":"https:\/\/me2.do\/GDbRGe3v"
         },
         {
             "index":14,
@@ -226,7 +244,8 @@
             "value_score":46.05,
             "region":"전라북도 정읍시",
             "region_code":"Jeollabukdo",
-            "sub_region_code":"4518000000_Jeollabukdo_Jeongeup"
+            "sub_region_code":"4518000000_Jeollabukdo_Jeongeup",
+            "shorten_url":"https:\/\/me2.do\/GDbRGe3v"
         },
         {
             "index":15,
@@ -238,7 +257,8 @@
             "value_score":44.455,
             "region":"전라북도 정읍시",
             "region_code":"Jeollabukdo",
-            "sub_region_code":"4518000000_Jeollabukdo_Jeongeup"
+            "sub_region_code":"4518000000_Jeollabukdo_Jeongeup",
+            "shorten_url":"https:\/\/me2.do\/GDbRGe3v"
         },
         {
             "index":16,
@@ -250,7 +270,8 @@
             "value_score":43.3325,
             "region":"전라북도 정읍시",
             "region_code":"Jeollabukdo",
-            "sub_region_code":"4518000000_Jeollabukdo_Jeongeup"
+            "sub_region_code":"4518000000_Jeollabukdo_Jeongeup",
+            "shorten_url":"https:\/\/me2.do\/GDbRGe3v"
         },
         {
             "index":17,
@@ -262,7 +283,8 @@
             "value_score":41.65,
             "region":"전라북도 정읍시",
             "region_code":"Jeollabukdo",
-            "sub_region_code":"4518000000_Jeollabukdo_Jeongeup"
+            "sub_region_code":"4518000000_Jeollabukdo_Jeongeup",
+            "shorten_url":"https:\/\/me2.do\/GDbRGe3v"
         },
         {
             "index":18,
@@ -274,7 +296,8 @@
             "value_score":41.3325,
             "region":"전라북도 정읍시",
             "region_code":"Jeollabukdo",
-            "sub_region_code":"4518000000_Jeollabukdo_Jeongeup"
+            "sub_region_code":"4518000000_Jeollabukdo_Jeongeup",
+            "shorten_url":"https:\/\/me2.do\/GDbRGe3v"
         },
         {
             "index":19,
@@ -286,7 +309,8 @@
             "value_score":41.3325,
             "region":"전라북도 정읍시",
             "region_code":"Jeollabukdo",
-            "sub_region_code":"4518000000_Jeollabukdo_Jeongeup"
+            "sub_region_code":"4518000000_Jeollabukdo_Jeongeup",
+            "shorten_url":"https:\/\/me2.do\/GDbRGe3v"
         },
         {
             "index":20,
@@ -298,7 +322,8 @@
             "value_score":42.18,
             "region":"전라북도 정읍시",
             "region_code":"Jeollabukdo",
-            "sub_region_code":"4518000000_Jeollabukdo_Jeongeup"
+            "sub_region_code":"4518000000_Jeollabukdo_Jeongeup",
+            "shorten_url":"https:\/\/me2.do\/GDbRGe3v"
         },
         {
             "index":21,
@@ -310,7 +335,8 @@
             "value_score":41.4463157895,
             "region":"전라북도 정읍시",
             "region_code":"Jeollabukdo",
-            "sub_region_code":"4518000000_Jeollabukdo_Jeongeup"
+            "sub_region_code":"4518000000_Jeollabukdo_Jeongeup",
+            "shorten_url":"https:\/\/me2.do\/GDbRGe3v"
         },
         {
             "index":22,
@@ -322,7 +348,8 @@
             "value_score":40.7357894737,
             "region":"전라북도 정읍시",
             "region_code":"Jeollabukdo",
-            "sub_region_code":"4518000000_Jeollabukdo_Jeongeup"
+            "sub_region_code":"4518000000_Jeollabukdo_Jeongeup",
+            "shorten_url":"https:\/\/me2.do\/GDbRGe3v"
         },
         {
             "index":23,
@@ -334,7 +361,8 @@
             "value_score":39.3936842105,
             "region":"전라북도 정읍시",
             "region_code":"Jeollabukdo",
-            "sub_region_code":"4518000000_Jeollabukdo_Jeongeup"
+            "sub_region_code":"4518000000_Jeollabukdo_Jeongeup",
+            "shorten_url":"https:\/\/me2.do\/GDbRGe3v"
         },
         {
             "index":24,
@@ -346,7 +374,8 @@
             "value_score":39.1273684211,
             "region":"전라북도 정읍시",
             "region_code":"Jeollabukdo",
-            "sub_region_code":"4518000000_Jeollabukdo_Jeongeup"
+            "sub_region_code":"4518000000_Jeollabukdo_Jeongeup",
+            "shorten_url":"https:\/\/me2.do\/GDbRGe3v"
         },
         {
             "index":25,
@@ -358,7 +387,8 @@
             "value_score":38.7094736842,
             "region":"전라북도 정읍시",
             "region_code":"Jeollabukdo",
-            "sub_region_code":"4518000000_Jeollabukdo_Jeongeup"
+            "sub_region_code":"4518000000_Jeollabukdo_Jeongeup",
+            "shorten_url":"https:\/\/me2.do\/GDbRGe3v"
         },
         {
             "index":26,
@@ -370,7 +400,8 @@
             "value_score":38.0484210526,
             "region":"전라북도 정읍시",
             "region_code":"Jeollabukdo",
-            "sub_region_code":"4518000000_Jeollabukdo_Jeongeup"
+            "sub_region_code":"4518000000_Jeollabukdo_Jeongeup",
+            "shorten_url":"https:\/\/me2.do\/GDbRGe3v"
         },
         {
             "index":27,
@@ -382,7 +413,8 @@
             "value_score":37.2590526316,
             "region":"전라북도 정읍시",
             "region_code":"Jeollabukdo",
-            "sub_region_code":"4518000000_Jeollabukdo_Jeongeup"
+            "sub_region_code":"4518000000_Jeollabukdo_Jeongeup",
+            "shorten_url":"https:\/\/me2.do\/GDbRGe3v"
         },
         {
             "index":28,
@@ -394,7 +426,8 @@
             "value_score":36.7589473684,
             "region":"전라북도 정읍시",
             "region_code":"Jeollabukdo",
-            "sub_region_code":"4518000000_Jeollabukdo_Jeongeup"
+            "sub_region_code":"4518000000_Jeollabukdo_Jeongeup",
+            "shorten_url":"https:\/\/me2.do\/GDbRGe3v"
         },
         {
             "index":29,
@@ -406,7 +439,8 @@
             "value_score":36.3789473684,
             "region":"전라북도 정읍시",
             "region_code":"Jeollabukdo",
-            "sub_region_code":"4518000000_Jeollabukdo_Jeongeup"
+            "sub_region_code":"4518000000_Jeollabukdo_Jeongeup",
+            "shorten_url":"https:\/\/me2.do\/GDbRGe3v"
         },
         {
             "index":30,
@@ -418,7 +452,8 @@
             "value_score":49.29,
             "region":"전라북도 정읍시",
             "region_code":"Jeollabukdo",
-            "sub_region_code":"4518000000_Jeollabukdo_Jeongeup"
+            "sub_region_code":"4518000000_Jeollabukdo_Jeongeup",
+            "shorten_url":"https:\/\/me2.do\/GDbRGe3v"
         },
         {
             "index":31,
@@ -430,7 +465,8 @@
             "value_score":47.665,
             "region":"전라북도 정읍시",
             "region_code":"Jeollabukdo",
-            "sub_region_code":"4518000000_Jeollabukdo_Jeongeup"
+            "sub_region_code":"4518000000_Jeollabukdo_Jeongeup",
+            "shorten_url":"https:\/\/me2.do\/GDbRGe3v"
         },
         {
             "index":32,
@@ -442,7 +478,8 @@
             "value_score":47.535,
             "region":"전라북도 정읍시",
             "region_code":"Jeollabukdo",
-            "sub_region_code":"4518000000_Jeollabukdo_Jeongeup"
+            "sub_region_code":"4518000000_Jeollabukdo_Jeongeup",
+            "shorten_url":"https:\/\/me2.do\/GDbRGe3v"
         },
         {
             "index":33,
@@ -454,7 +491,8 @@
             "value_score":46.79,
             "region":"전라북도 정읍시",
             "region_code":"Jeollabukdo",
-            "sub_region_code":"4518000000_Jeollabukdo_Jeongeup"
+            "sub_region_code":"4518000000_Jeollabukdo_Jeongeup",
+            "shorten_url":"https:\/\/me2.do\/GDbRGe3v"
         },
         {
             "index":34,
@@ -466,7 +504,8 @@
             "value_score":46.04,
             "region":"전라북도 정읍시",
             "region_code":"Jeollabukdo",
-            "sub_region_code":"4518000000_Jeollabukdo_Jeongeup"
+            "sub_region_code":"4518000000_Jeollabukdo_Jeongeup",
+            "shorten_url":"https:\/\/me2.do\/GDbRGe3v"
         },
         {
             "index":35,
@@ -478,7 +517,8 @@
             "value_score":45.015,
             "region":"전라북도 정읍시",
             "region_code":"Jeollabukdo",
-            "sub_region_code":"4518000000_Jeollabukdo_Jeongeup"
+            "sub_region_code":"4518000000_Jeollabukdo_Jeongeup",
+            "shorten_url":"https:\/\/me2.do\/GDbRGe3v"
         },
         {
             "index":36,
@@ -490,7 +530,8 @@
             "value_score":44.415,
             "region":"전라북도 정읍시",
             "region_code":"Jeollabukdo",
-            "sub_region_code":"4518000000_Jeollabukdo_Jeongeup"
+            "sub_region_code":"4518000000_Jeollabukdo_Jeongeup",
+            "shorten_url":"https:\/\/me2.do\/GDbRGe3v"
         },
         {
             "index":37,
@@ -502,7 +543,8 @@
             "value_score":43.79,
             "region":"전라북도 정읍시",
             "region_code":"Jeollabukdo",
-            "sub_region_code":"4518000000_Jeollabukdo_Jeongeup"
+            "sub_region_code":"4518000000_Jeollabukdo_Jeongeup",
+            "shorten_url":"https:\/\/me2.do\/GDbRGe3v"
         },
         {
             "index":38,
@@ -514,7 +556,8 @@
             "value_score":43.64,
             "region":"전라북도 정읍시",
             "region_code":"Jeollabukdo",
-            "sub_region_code":"4518000000_Jeollabukdo_Jeongeup"
+            "sub_region_code":"4518000000_Jeollabukdo_Jeongeup",
+            "shorten_url":"https:\/\/me2.do\/GDbRGe3v"
         },
         {
             "index":39,
@@ -526,7 +569,8 @@
             "value_score":43.2435,
             "region":"전라북도 정읍시",
             "region_code":"Jeollabukdo",
-            "sub_region_code":"4518000000_Jeollabukdo_Jeongeup"
+            "sub_region_code":"4518000000_Jeollabukdo_Jeongeup",
+            "shorten_url":"https:\/\/me2.do\/GDbRGe3v"
         }
     ]
 }

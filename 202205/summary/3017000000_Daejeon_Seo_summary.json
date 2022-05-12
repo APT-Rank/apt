@@ -40,6 +40,10 @@
             {
                 "name":"sub_region_code",
                 "type":"string"
+            },
+            {
+                "name":"shorten_url",
+                "type":"string"
             }
         ],
         "primaryKey":[
@@ -58,7 +62,8 @@
             "value_score":71.2912,
             "region":"대전시 서구",
             "region_code":"Daejeon",
-            "sub_region_code":"3017000000_Daejeon_Seo"
+            "sub_region_code":"3017000000_Daejeon_Seo",
+            "shorten_url":"https:\/\/me2.do\/xLSnVHCa"
         },
         {
             "index":1,
@@ -70,7 +75,8 @@
             "value_score":68.6412,
             "region":"대전시 서구",
             "region_code":"Daejeon",
-            "sub_region_code":"3017000000_Daejeon_Seo"
+            "sub_region_code":"3017000000_Daejeon_Seo",
+            "shorten_url":"https:\/\/me2.do\/xLSnVHCa"
         },
         {
             "index":2,
@@ -82,7 +88,8 @@
             "value_score":65.8454,
             "region":"대전시 서구",
             "region_code":"Daejeon",
-            "sub_region_code":"3017000000_Daejeon_Seo"
+            "sub_region_code":"3017000000_Daejeon_Seo",
+            "shorten_url":"https:\/\/me2.do\/xLSnVHCa"
         },
         {
             "index":3,
@@ -94,7 +101,8 @@
             "value_score":65.3704,
             "region":"대전시 서구",
             "region_code":"Daejeon",
-            "sub_region_code":"3017000000_Daejeon_Seo"
+            "sub_region_code":"3017000000_Daejeon_Seo",
+            "shorten_url":"https:\/\/me2.do\/xLSnVHCa"
         },
         {
             "index":4,
@@ -106,7 +114,8 @@
             "value_score":64.5162,
             "region":"대전시 서구",
             "region_code":"Daejeon",
-            "sub_region_code":"3017000000_Daejeon_Seo"
+            "sub_region_code":"3017000000_Daejeon_Seo",
+            "shorten_url":"https:\/\/me2.do\/xLSnVHCa"
         },
         {
             "index":5,
@@ -118,7 +127,8 @@
             "value_score":62.92675,
             "region":"대전시 서구",
             "region_code":"Daejeon",
-            "sub_region_code":"3017000000_Daejeon_Seo"
+            "sub_region_code":"3017000000_Daejeon_Seo",
+            "shorten_url":"https:\/\/me2.do\/xLSnVHCa"
         },
         {
             "index":6,
@@ -130,7 +140,8 @@
             "value_score":62.4662,
             "region":"대전시 서구",
             "region_code":"Daejeon",
-            "sub_region_code":"3017000000_Daejeon_Seo"
+            "sub_region_code":"3017000000_Daejeon_Seo",
+            "shorten_url":"https:\/\/me2.do\/xLSnVHCa"
         },
         {
             "index":7,
@@ -142,7 +153,8 @@
             "value_score":62.3904,
             "region":"대전시 서구",
             "region_code":"Daejeon",
-            "sub_region_code":"3017000000_Daejeon_Seo"
+            "sub_region_code":"3017000000_Daejeon_Seo",
+            "shorten_url":"https:\/\/me2.do\/xLSnVHCa"
         },
         {
             "index":8,
@@ -154,7 +166,8 @@
             "value_score":61.99165,
             "region":"대전시 서구",
             "region_code":"Daejeon",
-            "sub_region_code":"3017000000_Daejeon_Seo"
+            "sub_region_code":"3017000000_Daejeon_Seo",
+            "shorten_url":"https:\/\/me2.do\/xLSnVHCa"
         },
         {
             "index":9,
@@ -166,7 +179,8 @@
             "value_score":61.4842,
             "region":"대전시 서구",
             "region_code":"Daejeon",
-            "sub_region_code":"3017000000_Daejeon_Seo"
+            "sub_region_code":"3017000000_Daejeon_Seo",
+            "shorten_url":"https:\/\/me2.do\/xLSnVHCa"
         },
         {
             "index":10,
@@ -178,7 +192,8 @@
             "value_score":70.5664,
             "region":"대전시 서구",
             "region_code":"Daejeon",
-            "sub_region_code":"3017000000_Daejeon_Seo"
+            "sub_region_code":"3017000000_Daejeon_Seo",
+            "shorten_url":"https:\/\/me2.do\/xLSnVHCa"
         },
         {
             "index":11,
@@ -190,7 +205,8 @@
             "value_score":65.9664,
             "region":"대전시 서구",
             "region_code":"Daejeon",
-            "sub_region_code":"3017000000_Daejeon_Seo"
+            "sub_region_code":"3017000000_Daejeon_Seo",
+            "shorten_url":"https:\/\/me2.do\/xLSnVHCa"
         },
         {
             "index":12,
@@ -202,7 +218,8 @@
             "value_score":65.2388,
             "region":"대전시 서구",
             "region_code":"Daejeon",
-            "sub_region_code":"3017000000_Daejeon_Seo"
+            "sub_region_code":"3017000000_Daejeon_Seo",
+            "shorten_url":"https:\/\/me2.do\/xLSnVHCa"
         },
         {
             "index":13,
@@ -214,7 +231,8 @@
             "value_score":64.3888,
             "region":"대전시 서구",
             "region_code":"Daejeon",
-            "sub_region_code":"3017000000_Daejeon_Seo"
+            "sub_region_code":"3017000000_Daejeon_Seo",
+            "shorten_url":"https:\/\/me2.do\/xLSnVHCa"
         },
         {
             "index":14,
@@ -226,7 +244,8 @@
             "value_score":63.5358,
             "region":"대전시 서구",
             "region_code":"Daejeon",
-            "sub_region_code":"3017000000_Daejeon_Seo"
+            "sub_region_code":"3017000000_Daejeon_Seo",
+            "shorten_url":"https:\/\/me2.do\/xLSnVHCa"
         },
         {
             "index":15,
@@ -238,7 +257,8 @@
             "value_score":63.3124,
             "region":"대전시 서구",
             "region_code":"Daejeon",
-            "sub_region_code":"3017000000_Daejeon_Seo"
+            "sub_region_code":"3017000000_Daejeon_Seo",
+            "shorten_url":"https:\/\/me2.do\/xLSnVHCa"
         },
         {
             "index":16,
@@ -250,7 +270,8 @@
             "value_score":63.2664,
             "region":"대전시 서구",
             "region_code":"Daejeon",
-            "sub_region_code":"3017000000_Daejeon_Seo"
+            "sub_region_code":"3017000000_Daejeon_Seo",
+            "shorten_url":"https:\/\/me2.do\/xLSnVHCa"
         },
         {
             "index":17,
@@ -262,7 +283,8 @@
             "value_score":62.4494,
             "region":"대전시 서구",
             "region_code":"Daejeon",
-            "sub_region_code":"3017000000_Daejeon_Seo"
+            "sub_region_code":"3017000000_Daejeon_Seo",
+            "shorten_url":"https:\/\/me2.do\/xLSnVHCa"
         },
         {
             "index":18,
@@ -274,7 +296,8 @@
             "value_score":62.251,
             "region":"대전시 서구",
             "region_code":"Daejeon",
-            "sub_region_code":"3017000000_Daejeon_Seo"
+            "sub_region_code":"3017000000_Daejeon_Seo",
+            "shorten_url":"https:\/\/me2.do\/xLSnVHCa"
         },
         {
             "index":19,
@@ -286,7 +309,8 @@
             "value_score":61.951,
             "region":"대전시 서구",
             "region_code":"Daejeon",
-            "sub_region_code":"3017000000_Daejeon_Seo"
+            "sub_region_code":"3017000000_Daejeon_Seo",
+            "shorten_url":"https:\/\/me2.do\/xLSnVHCa"
         },
         {
             "index":20,
@@ -298,7 +322,8 @@
             "value_score":73.02575,
             "region":"대전시 서구",
             "region_code":"Daejeon",
-            "sub_region_code":"3017000000_Daejeon_Seo"
+            "sub_region_code":"3017000000_Daejeon_Seo",
+            "shorten_url":"https:\/\/me2.do\/xLSnVHCa"
         },
         {
             "index":21,
@@ -310,7 +335,8 @@
             "value_score":72.8616,
             "region":"대전시 서구",
             "region_code":"Daejeon",
-            "sub_region_code":"3017000000_Daejeon_Seo"
+            "sub_region_code":"3017000000_Daejeon_Seo",
+            "shorten_url":"https:\/\/me2.do\/xLSnVHCa"
         },
         {
             "index":22,
@@ -322,7 +348,8 @@
             "value_score":72.8366,
             "region":"대전시 서구",
             "region_code":"Daejeon",
-            "sub_region_code":"3017000000_Daejeon_Seo"
+            "sub_region_code":"3017000000_Daejeon_Seo",
+            "shorten_url":"https:\/\/me2.do\/xLSnVHCa"
         },
         {
             "index":23,
@@ -334,7 +361,8 @@
             "value_score":71.5116,
             "region":"대전시 서구",
             "region_code":"Daejeon",
-            "sub_region_code":"3017000000_Daejeon_Seo"
+            "sub_region_code":"3017000000_Daejeon_Seo",
+            "shorten_url":"https:\/\/me2.do\/xLSnVHCa"
         },
         {
             "index":24,
@@ -346,7 +374,8 @@
             "value_score":71.4548,
             "region":"대전시 서구",
             "region_code":"Daejeon",
-            "sub_region_code":"3017000000_Daejeon_Seo"
+            "sub_region_code":"3017000000_Daejeon_Seo",
+            "shorten_url":"https:\/\/me2.do\/xLSnVHCa"
         },
         {
             "index":25,
@@ -358,7 +387,8 @@
             "value_score":71.1816,
             "region":"대전시 서구",
             "region_code":"Daejeon",
-            "sub_region_code":"3017000000_Daejeon_Seo"
+            "sub_region_code":"3017000000_Daejeon_Seo",
+            "shorten_url":"https:\/\/me2.do\/xLSnVHCa"
         },
         {
             "index":26,
@@ -370,7 +400,8 @@
             "value_score":70.8748,
             "region":"대전시 서구",
             "region_code":"Daejeon",
-            "sub_region_code":"3017000000_Daejeon_Seo"
+            "sub_region_code":"3017000000_Daejeon_Seo",
+            "shorten_url":"https:\/\/me2.do\/xLSnVHCa"
         },
         {
             "index":27,
@@ -382,7 +413,8 @@
             "value_score":70.5066,
             "region":"대전시 서구",
             "region_code":"Daejeon",
-            "sub_region_code":"3017000000_Daejeon_Seo"
+            "sub_region_code":"3017000000_Daejeon_Seo",
+            "shorten_url":"https:\/\/me2.do\/xLSnVHCa"
         },
         {
             "index":28,
@@ -394,7 +426,8 @@
             "value_score":70.4144,
             "region":"대전시 서구",
             "region_code":"Daejeon",
-            "sub_region_code":"3017000000_Daejeon_Seo"
+            "sub_region_code":"3017000000_Daejeon_Seo",
+            "shorten_url":"https:\/\/me2.do\/xLSnVHCa"
         },
         {
             "index":29,
@@ -406,7 +439,8 @@
             "value_score":69.8455,
             "region":"대전시 서구",
             "region_code":"Daejeon",
-            "sub_region_code":"3017000000_Daejeon_Seo"
+            "sub_region_code":"3017000000_Daejeon_Seo",
+            "shorten_url":"https:\/\/me2.do\/xLSnVHCa"
         },
         {
             "index":30,
@@ -418,7 +452,8 @@
             "value_score":70.00125,
             "region":"대전시 서구",
             "region_code":"Daejeon",
-            "sub_region_code":"3017000000_Daejeon_Seo"
+            "sub_region_code":"3017000000_Daejeon_Seo",
+            "shorten_url":"https:\/\/me2.do\/xLSnVHCa"
         },
         {
             "index":31,
@@ -430,7 +465,8 @@
             "value_score":68.508,
             "region":"대전시 서구",
             "region_code":"Daejeon",
-            "sub_region_code":"3017000000_Daejeon_Seo"
+            "sub_region_code":"3017000000_Daejeon_Seo",
+            "shorten_url":"https:\/\/me2.do\/xLSnVHCa"
         },
         {
             "index":32,
@@ -442,7 +478,8 @@
             "value_score":68.436,
             "region":"대전시 서구",
             "region_code":"Daejeon",
-            "sub_region_code":"3017000000_Daejeon_Seo"
+            "sub_region_code":"3017000000_Daejeon_Seo",
+            "shorten_url":"https:\/\/me2.do\/xLSnVHCa"
         },
         {
             "index":33,
@@ -454,7 +491,8 @@
             "value_score":68.358,
             "region":"대전시 서구",
             "region_code":"Daejeon",
-            "sub_region_code":"3017000000_Daejeon_Seo"
+            "sub_region_code":"3017000000_Daejeon_Seo",
+            "shorten_url":"https:\/\/me2.do\/xLSnVHCa"
         },
         {
             "index":34,
@@ -466,7 +504,8 @@
             "value_score":68.258,
             "region":"대전시 서구",
             "region_code":"Daejeon",
-            "sub_region_code":"3017000000_Daejeon_Seo"
+            "sub_region_code":"3017000000_Daejeon_Seo",
+            "shorten_url":"https:\/\/me2.do\/xLSnVHCa"
         },
         {
             "index":35,
@@ -478,7 +517,8 @@
             "value_score":67.986,
             "region":"대전시 서구",
             "region_code":"Daejeon",
-            "sub_region_code":"3017000000_Daejeon_Seo"
+            "sub_region_code":"3017000000_Daejeon_Seo",
+            "shorten_url":"https:\/\/me2.do\/xLSnVHCa"
         },
         {
             "index":36,
@@ -490,7 +530,8 @@
             "value_score":67.908,
             "region":"대전시 서구",
             "region_code":"Daejeon",
-            "sub_region_code":"3017000000_Daejeon_Seo"
+            "sub_region_code":"3017000000_Daejeon_Seo",
+            "shorten_url":"https:\/\/me2.do\/xLSnVHCa"
         },
         {
             "index":37,
@@ -502,7 +543,8 @@
             "value_score":67.624,
             "region":"대전시 서구",
             "region_code":"Daejeon",
-            "sub_region_code":"3017000000_Daejeon_Seo"
+            "sub_region_code":"3017000000_Daejeon_Seo",
+            "shorten_url":"https:\/\/me2.do\/xLSnVHCa"
         },
         {
             "index":38,
@@ -514,7 +556,8 @@
             "value_score":67.408,
             "region":"대전시 서구",
             "region_code":"Daejeon",
-            "sub_region_code":"3017000000_Daejeon_Seo"
+            "sub_region_code":"3017000000_Daejeon_Seo",
+            "shorten_url":"https:\/\/me2.do\/xLSnVHCa"
         },
         {
             "index":39,
@@ -526,7 +569,8 @@
             "value_score":67.336,
             "region":"대전시 서구",
             "region_code":"Daejeon",
-            "sub_region_code":"3017000000_Daejeon_Seo"
+            "sub_region_code":"3017000000_Daejeon_Seo",
+            "shorten_url":"https:\/\/me2.do\/xLSnVHCa"
         },
         {
             "index":40,
@@ -538,7 +582,8 @@
             "value_score":72.016,
             "region":"대전시 서구",
             "region_code":"Daejeon",
-            "sub_region_code":"3017000000_Daejeon_Seo"
+            "sub_region_code":"3017000000_Daejeon_Seo",
+            "shorten_url":"https:\/\/me2.do\/xLSnVHCa"
         },
         {
             "index":41,
@@ -550,7 +595,8 @@
             "value_score":71.316,
             "region":"대전시 서구",
             "region_code":"Daejeon",
-            "sub_region_code":"3017000000_Daejeon_Seo"
+            "sub_region_code":"3017000000_Daejeon_Seo",
+            "shorten_url":"https:\/\/me2.do\/xLSnVHCa"
         },
         {
             "index":42,
@@ -562,7 +608,8 @@
             "value_score":69.216,
             "region":"대전시 서구",
             "region_code":"Daejeon",
-            "sub_region_code":"3017000000_Daejeon_Seo"
+            "sub_region_code":"3017000000_Daejeon_Seo",
+            "shorten_url":"https:\/\/me2.do\/xLSnVHCa"
         },
         {
             "index":43,
@@ -574,7 +621,8 @@
             "value_score":66.452,
             "region":"대전시 서구",
             "region_code":"Daejeon",
-            "sub_region_code":"3017000000_Daejeon_Seo"
+            "sub_region_code":"3017000000_Daejeon_Seo",
+            "shorten_url":"https:\/\/me2.do\/xLSnVHCa"
         },
         {
             "index":44,
@@ -586,7 +634,8 @@
             "value_score":66.352,
             "region":"대전시 서구",
             "region_code":"Daejeon",
-            "sub_region_code":"3017000000_Daejeon_Seo"
+            "sub_region_code":"3017000000_Daejeon_Seo",
+            "shorten_url":"https:\/\/me2.do\/xLSnVHCa"
         },
         {
             "index":45,
@@ -598,7 +647,8 @@
             "value_score":64.352,
             "region":"대전시 서구",
             "region_code":"Daejeon",
-            "sub_region_code":"3017000000_Daejeon_Seo"
+            "sub_region_code":"3017000000_Daejeon_Seo",
+            "shorten_url":"https:\/\/me2.do\/xLSnVHCa"
         },
         {
             "index":46,
@@ -610,7 +660,8 @@
             "value_score":64.1395,
             "region":"대전시 서구",
             "region_code":"Daejeon",
-            "sub_region_code":"3017000000_Daejeon_Seo"
+            "sub_region_code":"3017000000_Daejeon_Seo",
+            "shorten_url":"https:\/\/me2.do\/xLSnVHCa"
         },
         {
             "index":47,
@@ -622,7 +673,8 @@
             "value_score":63.672,
             "region":"대전시 서구",
             "region_code":"Daejeon",
-            "sub_region_code":"3017000000_Daejeon_Seo"
+            "sub_region_code":"3017000000_Daejeon_Seo",
+            "shorten_url":"https:\/\/me2.do\/xLSnVHCa"
         },
         {
             "index":48,
@@ -634,7 +686,8 @@
             "value_score":63.6025,
             "region":"대전시 서구",
             "region_code":"Daejeon",
-            "sub_region_code":"3017000000_Daejeon_Seo"
+            "sub_region_code":"3017000000_Daejeon_Seo",
+            "shorten_url":"https:\/\/me2.do\/xLSnVHCa"
         },
         {
             "index":49,
@@ -646,7 +699,8 @@
             "value_score":63.372,
             "region":"대전시 서구",
             "region_code":"Daejeon",
-            "sub_region_code":"3017000000_Daejeon_Seo"
+            "sub_region_code":"3017000000_Daejeon_Seo",
+            "shorten_url":"https:\/\/me2.do\/xLSnVHCa"
         }
     ]
 }

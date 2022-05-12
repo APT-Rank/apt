@@ -40,6 +40,10 @@
             {
                 "name":"sub_region_code",
                 "type":"string"
+            },
+            {
+                "name":"shorten_url",
+                "type":"string"
             }
         ],
         "primaryKey":[
@@ -58,7 +62,8 @@
             "value_score":63.7926,
             "region":"경상북도 경산시",
             "region_code":"Gyeongsangbukdo",
-            "sub_region_code":"4729000000_Gyeongsangbukdo_Gyeongsan"
+            "sub_region_code":"4729000000_Gyeongsangbukdo_Gyeongsan",
+            "shorten_url":"https:\/\/me2.do\/IDbfRcz9"
         },
         {
             "index":1,
@@ -70,7 +75,8 @@
             "value_score":61.2926,
             "region":"경상북도 경산시",
             "region_code":"Gyeongsangbukdo",
-            "sub_region_code":"4729000000_Gyeongsangbukdo_Gyeongsan"
+            "sub_region_code":"4729000000_Gyeongsangbukdo_Gyeongsan",
+            "shorten_url":"https:\/\/me2.do\/IDbfRcz9"
         },
         {
             "index":2,
@@ -82,7 +88,8 @@
             "value_score":61.1926,
             "region":"경상북도 경산시",
             "region_code":"Gyeongsangbukdo",
-            "sub_region_code":"4729000000_Gyeongsangbukdo_Gyeongsan"
+            "sub_region_code":"4729000000_Gyeongsangbukdo_Gyeongsan",
+            "shorten_url":"https:\/\/me2.do\/IDbfRcz9"
         },
         {
             "index":3,
@@ -94,7 +101,8 @@
             "value_score":60.66945,
             "region":"경상북도 경산시",
             "region_code":"Gyeongsangbukdo",
-            "sub_region_code":"4729000000_Gyeongsangbukdo_Gyeongsan"
+            "sub_region_code":"4729000000_Gyeongsangbukdo_Gyeongsan",
+            "shorten_url":"https:\/\/me2.do\/IDbfRcz9"
         },
         {
             "index":4,
@@ -106,7 +114,8 @@
             "value_score":59.7806,
             "region":"경상북도 경산시",
             "region_code":"Gyeongsangbukdo",
-            "sub_region_code":"4729000000_Gyeongsangbukdo_Gyeongsan"
+            "sub_region_code":"4729000000_Gyeongsangbukdo_Gyeongsan",
+            "shorten_url":"https:\/\/me2.do\/IDbfRcz9"
         },
         {
             "index":5,
@@ -118,7 +127,8 @@
             "value_score":59.4426,
             "region":"경상북도 경산시",
             "region_code":"Gyeongsangbukdo",
-            "sub_region_code":"4729000000_Gyeongsangbukdo_Gyeongsan"
+            "sub_region_code":"4729000000_Gyeongsangbukdo_Gyeongsan",
+            "shorten_url":"https:\/\/me2.do\/IDbfRcz9"
         },
         {
             "index":6,
@@ -130,7 +140,8 @@
             "value_score":59.1975424708,
             "region":"경상북도 경산시",
             "region_code":"Gyeongsangbukdo",
-            "sub_region_code":"4729000000_Gyeongsangbukdo_Gyeongsan"
+            "sub_region_code":"4729000000_Gyeongsangbukdo_Gyeongsan",
+            "shorten_url":"https:\/\/me2.do\/IDbfRcz9"
         },
         {
             "index":7,
@@ -142,7 +153,8 @@
             "value_score":58.3926,
             "region":"경상북도 경산시",
             "region_code":"Gyeongsangbukdo",
-            "sub_region_code":"4729000000_Gyeongsangbukdo_Gyeongsan"
+            "sub_region_code":"4729000000_Gyeongsangbukdo_Gyeongsan",
+            "shorten_url":"https:\/\/me2.do\/IDbfRcz9"
         },
         {
             "index":8,
@@ -154,7 +166,8 @@
             "value_score":57.49335,
             "region":"경상북도 경산시",
             "region_code":"Gyeongsangbukdo",
-            "sub_region_code":"4729000000_Gyeongsangbukdo_Gyeongsan"
+            "sub_region_code":"4729000000_Gyeongsangbukdo_Gyeongsan",
+            "shorten_url":"https:\/\/me2.do\/IDbfRcz9"
         },
         {
             "index":9,
@@ -166,7 +179,8 @@
             "value_score":57.4926,
             "region":"경상북도 경산시",
             "region_code":"Gyeongsangbukdo",
-            "sub_region_code":"4729000000_Gyeongsangbukdo_Gyeongsan"
+            "sub_region_code":"4729000000_Gyeongsangbukdo_Gyeongsan",
+            "shorten_url":"https:\/\/me2.do\/IDbfRcz9"
         },
         {
             "index":10,
@@ -178,7 +192,8 @@
             "value_score":66.459,
             "region":"경상북도 경산시",
             "region_code":"Gyeongsangbukdo",
-            "sub_region_code":"4729000000_Gyeongsangbukdo_Gyeongsan"
+            "sub_region_code":"4729000000_Gyeongsangbukdo_Gyeongsan",
+            "shorten_url":"https:\/\/me2.do\/IDbfRcz9"
         },
         {
             "index":11,
@@ -190,7 +205,8 @@
             "value_score":65.059,
             "region":"경상북도 경산시",
             "region_code":"Gyeongsangbukdo",
-            "sub_region_code":"4729000000_Gyeongsangbukdo_Gyeongsan"
+            "sub_region_code":"4729000000_Gyeongsangbukdo_Gyeongsan",
+            "shorten_url":"https:\/\/me2.do\/IDbfRcz9"
         },
         {
             "index":12,
@@ -202,7 +218,8 @@
             "value_score":63.459,
             "region":"경상북도 경산시",
             "region_code":"Gyeongsangbukdo",
-            "sub_region_code":"4729000000_Gyeongsangbukdo_Gyeongsan"
+            "sub_region_code":"4729000000_Gyeongsangbukdo_Gyeongsan",
+            "shorten_url":"https:\/\/me2.do\/IDbfRcz9"
         },
         {
             "index":13,
@@ -214,7 +231,8 @@
             "value_score":62.15675,
             "region":"경상북도 경산시",
             "region_code":"Gyeongsangbukdo",
-            "sub_region_code":"4729000000_Gyeongsangbukdo_Gyeongsan"
+            "sub_region_code":"4729000000_Gyeongsangbukdo_Gyeongsan",
+            "shorten_url":"https:\/\/me2.do\/IDbfRcz9"
         },
         {
             "index":14,
@@ -226,7 +244,8 @@
             "value_score":61.3196731934,
             "region":"경상북도 경산시",
             "region_code":"Gyeongsangbukdo",
-            "sub_region_code":"4729000000_Gyeongsangbukdo_Gyeongsan"
+            "sub_region_code":"4729000000_Gyeongsangbukdo_Gyeongsan",
+            "shorten_url":"https:\/\/me2.do\/IDbfRcz9"
         },
         {
             "index":15,
@@ -238,7 +257,8 @@
             "value_score":60.879,
             "region":"경상북도 경산시",
             "region_code":"Gyeongsangbukdo",
-            "sub_region_code":"4729000000_Gyeongsangbukdo_Gyeongsan"
+            "sub_region_code":"4729000000_Gyeongsangbukdo_Gyeongsan",
+            "shorten_url":"https:\/\/me2.do\/IDbfRcz9"
         },
         {
             "index":16,
@@ -250,7 +270,8 @@
             "value_score":60.709,
             "region":"경상북도 경산시",
             "region_code":"Gyeongsangbukdo",
-            "sub_region_code":"4729000000_Gyeongsangbukdo_Gyeongsan"
+            "sub_region_code":"4729000000_Gyeongsangbukdo_Gyeongsan",
+            "shorten_url":"https:\/\/me2.do\/IDbfRcz9"
         },
         {
             "index":17,
@@ -262,7 +283,8 @@
             "value_score":60.709,
             "region":"경상북도 경산시",
             "region_code":"Gyeongsangbukdo",
-            "sub_region_code":"4729000000_Gyeongsangbukdo_Gyeongsan"
+            "sub_region_code":"4729000000_Gyeongsangbukdo_Gyeongsan",
+            "shorten_url":"https:\/\/me2.do\/IDbfRcz9"
         },
         {
             "index":18,
@@ -274,7 +296,8 @@
             "value_score":60.24525,
             "region":"경상북도 경산시",
             "region_code":"Gyeongsangbukdo",
-            "sub_region_code":"4729000000_Gyeongsangbukdo_Gyeongsan"
+            "sub_region_code":"4729000000_Gyeongsangbukdo_Gyeongsan",
+            "shorten_url":"https:\/\/me2.do\/IDbfRcz9"
         },
         {
             "index":19,
@@ -286,7 +309,8 @@
             "value_score":59.459,
             "region":"경상북도 경산시",
             "region_code":"Gyeongsangbukdo",
-            "sub_region_code":"4729000000_Gyeongsangbukdo_Gyeongsan"
+            "sub_region_code":"4729000000_Gyeongsangbukdo_Gyeongsan",
+            "shorten_url":"https:\/\/me2.do\/IDbfRcz9"
         },
         {
             "index":20,
@@ -298,7 +322,8 @@
             "value_score":53.6587368421,
             "region":"경상북도 경산시",
             "region_code":"Gyeongsangbukdo",
-            "sub_region_code":"4729000000_Gyeongsangbukdo_Gyeongsan"
+            "sub_region_code":"4729000000_Gyeongsangbukdo_Gyeongsan",
+            "shorten_url":"https:\/\/me2.do\/IDbfRcz9"
         },
         {
             "index":21,
@@ -310,7 +335,8 @@
             "value_score":53.2376842105,
             "region":"경상북도 경산시",
             "region_code":"Gyeongsangbukdo",
-            "sub_region_code":"4729000000_Gyeongsangbukdo_Gyeongsan"
+            "sub_region_code":"4729000000_Gyeongsangbukdo_Gyeongsan",
+            "shorten_url":"https:\/\/me2.do\/IDbfRcz9"
         },
         {
             "index":22,
@@ -322,7 +348,8 @@
             "value_score":53.1324210526,
             "region":"경상북도 경산시",
             "region_code":"Gyeongsangbukdo",
-            "sub_region_code":"4729000000_Gyeongsangbukdo_Gyeongsan"
+            "sub_region_code":"4729000000_Gyeongsangbukdo_Gyeongsan",
+            "shorten_url":"https:\/\/me2.do\/IDbfRcz9"
         },
         {
             "index":23,
@@ -334,7 +361,8 @@
             "value_score":52.8166315789,
             "region":"경상북도 경산시",
             "region_code":"Gyeongsangbukdo",
-            "sub_region_code":"4729000000_Gyeongsangbukdo_Gyeongsan"
+            "sub_region_code":"4729000000_Gyeongsangbukdo_Gyeongsan",
+            "shorten_url":"https:\/\/me2.do\/IDbfRcz9"
         },
         {
             "index":24,
@@ -346,7 +374,8 @@
             "value_score":51.3955789474,
             "region":"경상북도 경산시",
             "region_code":"Gyeongsangbukdo",
-            "sub_region_code":"4729000000_Gyeongsangbukdo_Gyeongsan"
+            "sub_region_code":"4729000000_Gyeongsangbukdo_Gyeongsan",
+            "shorten_url":"https:\/\/me2.do\/IDbfRcz9"
         },
         {
             "index":25,
@@ -358,7 +387,8 @@
             "value_score":50.1143240338,
             "region":"경상북도 경산시",
             "region_code":"Gyeongsangbukdo",
-            "sub_region_code":"4729000000_Gyeongsangbukdo_Gyeongsan"
+            "sub_region_code":"4729000000_Gyeongsangbukdo_Gyeongsan",
+            "shorten_url":"https:\/\/me2.do\/IDbfRcz9"
         },
         {
             "index":26,
@@ -370,7 +400,8 @@
             "value_score":49.9218947368,
             "region":"경상북도 경산시",
             "region_code":"Gyeongsangbukdo",
-            "sub_region_code":"4729000000_Gyeongsangbukdo_Gyeongsan"
+            "sub_region_code":"4729000000_Gyeongsangbukdo_Gyeongsan",
+            "shorten_url":"https:\/\/me2.do\/IDbfRcz9"
         },
         {
             "index":27,
@@ -382,7 +413,8 @@
             "value_score":48.3955789474,
             "region":"경상북도 경산시",
             "region_code":"Gyeongsangbukdo",
-            "sub_region_code":"4729000000_Gyeongsangbukdo_Gyeongsan"
+            "sub_region_code":"4729000000_Gyeongsangbukdo_Gyeongsan",
+            "shorten_url":"https:\/\/me2.do\/IDbfRcz9"
         },
         {
             "index":28,
@@ -394,7 +426,8 @@
             "value_score":48.1850526316,
             "region":"경상북도 경산시",
             "region_code":"Gyeongsangbukdo",
-            "sub_region_code":"4729000000_Gyeongsangbukdo_Gyeongsan"
+            "sub_region_code":"4729000000_Gyeongsangbukdo_Gyeongsan",
+            "shorten_url":"https:\/\/me2.do\/IDbfRcz9"
         },
         {
             "index":29,
@@ -406,7 +439,8 @@
             "value_score":47.3429473684,
             "region":"경상북도 경산시",
             "region_code":"Gyeongsangbukdo",
-            "sub_region_code":"4729000000_Gyeongsangbukdo_Gyeongsan"
+            "sub_region_code":"4729000000_Gyeongsangbukdo_Gyeongsan",
+            "shorten_url":"https:\/\/me2.do\/IDbfRcz9"
         },
         {
             "index":30,
@@ -418,7 +452,8 @@
             "value_score":59.793,
             "region":"경상북도 경산시",
             "region_code":"Gyeongsangbukdo",
-            "sub_region_code":"4729000000_Gyeongsangbukdo_Gyeongsan"
+            "sub_region_code":"4729000000_Gyeongsangbukdo_Gyeongsan",
+            "shorten_url":"https:\/\/me2.do\/IDbfRcz9"
         },
         {
             "index":31,
@@ -430,7 +465,8 @@
             "value_score":58.4385,
             "region":"경상북도 경산시",
             "region_code":"Gyeongsangbukdo",
-            "sub_region_code":"4729000000_Gyeongsangbukdo_Gyeongsan"
+            "sub_region_code":"4729000000_Gyeongsangbukdo_Gyeongsan",
+            "shorten_url":"https:\/\/me2.do\/IDbfRcz9"
         },
         {
             "index":32,
@@ -442,7 +478,8 @@
             "value_score":58.133,
             "region":"경상북도 경산시",
             "region_code":"Gyeongsangbukdo",
-            "sub_region_code":"4729000000_Gyeongsangbukdo_Gyeongsan"
+            "sub_region_code":"4729000000_Gyeongsangbukdo_Gyeongsan",
+            "shorten_url":"https:\/\/me2.do\/IDbfRcz9"
         },
         {
             "index":33,
@@ -454,7 +491,8 @@
             "value_score":58.043,
             "region":"경상북도 경산시",
             "region_code":"Gyeongsangbukdo",
-            "sub_region_code":"4729000000_Gyeongsangbukdo_Gyeongsan"
+            "sub_region_code":"4729000000_Gyeongsangbukdo_Gyeongsan",
+            "shorten_url":"https:\/\/me2.do\/IDbfRcz9"
         },
         {
             "index":34,
@@ -466,7 +504,8 @@
             "value_score":57.543,
             "region":"경상북도 경산시",
             "region_code":"Gyeongsangbukdo",
-            "sub_region_code":"4729000000_Gyeongsangbukdo_Gyeongsan"
+            "sub_region_code":"4729000000_Gyeongsangbukdo_Gyeongsan",
+            "shorten_url":"https:\/\/me2.do\/IDbfRcz9"
         },
         {
             "index":35,
@@ -478,7 +517,8 @@
             "value_score":56.0143463869,
             "region":"경상북도 경산시",
             "region_code":"Gyeongsangbukdo",
-            "sub_region_code":"4729000000_Gyeongsangbukdo_Gyeongsan"
+            "sub_region_code":"4729000000_Gyeongsangbukdo_Gyeongsan",
+            "shorten_url":"https:\/\/me2.do\/IDbfRcz9"
         },
         {
             "index":36,
@@ -490,7 +530,8 @@
             "value_score":55.393,
             "region":"경상북도 경산시",
             "region_code":"Gyeongsangbukdo",
-            "sub_region_code":"4729000000_Gyeongsangbukdo_Gyeongsan"
+            "sub_region_code":"4729000000_Gyeongsangbukdo_Gyeongsan",
+            "shorten_url":"https:\/\/me2.do\/IDbfRcz9"
         },
         {
             "index":37,
@@ -502,7 +543,8 @@
             "value_score":55.293,
             "region":"경상북도 경산시",
             "region_code":"Gyeongsangbukdo",
-            "sub_region_code":"4729000000_Gyeongsangbukdo_Gyeongsan"
+            "sub_region_code":"4729000000_Gyeongsangbukdo_Gyeongsan",
+            "shorten_url":"https:\/\/me2.do\/IDbfRcz9"
         },
         {
             "index":38,
@@ -514,7 +556,8 @@
             "value_score":54.918,
             "region":"경상북도 경산시",
             "region_code":"Gyeongsangbukdo",
-            "sub_region_code":"4729000000_Gyeongsangbukdo_Gyeongsan"
+            "sub_region_code":"4729000000_Gyeongsangbukdo_Gyeongsan",
+            "shorten_url":"https:\/\/me2.do\/IDbfRcz9"
         },
         {
             "index":39,
@@ -526,7 +569,8 @@
             "value_score":54.543,
             "region":"경상북도 경산시",
             "region_code":"Gyeongsangbukdo",
-            "sub_region_code":"4729000000_Gyeongsangbukdo_Gyeongsan"
+            "sub_region_code":"4729000000_Gyeongsangbukdo_Gyeongsan",
+            "shorten_url":"https:\/\/me2.do\/IDbfRcz9"
         }
     ]
 }

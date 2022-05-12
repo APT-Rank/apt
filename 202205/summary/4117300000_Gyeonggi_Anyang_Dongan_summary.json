@@ -40,6 +40,10 @@
             {
                 "name":"sub_region_code",
                 "type":"string"
+            },
+            {
+                "name":"shorten_url",
+                "type":"string"
             }
         ],
         "primaryKey":[
@@ -58,7 +62,8 @@
             "value_score":75.41495,
             "region":"경기도 안양시 동안구",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4117300000_Gyeonggi_Anyang_Dongan"
+            "sub_region_code":"4117300000_Gyeonggi_Anyang_Dongan",
+            "shorten_url":"https:\/\/me2.do\/xUEWvAeF"
         },
         {
             "index":1,
@@ -70,7 +75,8 @@
             "value_score":75.41495,
             "region":"경기도 안양시 동안구",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4117300000_Gyeonggi_Anyang_Dongan"
+            "sub_region_code":"4117300000_Gyeonggi_Anyang_Dongan",
+            "shorten_url":"https:\/\/me2.do\/xUEWvAeF"
         },
         {
             "index":2,
@@ -82,7 +88,8 @@
             "value_score":74.51495,
             "region":"경기도 안양시 동안구",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4117300000_Gyeonggi_Anyang_Dongan"
+            "sub_region_code":"4117300000_Gyeonggi_Anyang_Dongan",
+            "shorten_url":"https:\/\/me2.do\/xUEWvAeF"
         },
         {
             "index":3,
@@ -94,7 +101,8 @@
             "value_score":72.91395,
             "region":"경기도 안양시 동안구",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4117300000_Gyeonggi_Anyang_Dongan"
+            "sub_region_code":"4117300000_Gyeonggi_Anyang_Dongan",
+            "shorten_url":"https:\/\/me2.do\/xUEWvAeF"
         },
         {
             "index":4,
@@ -106,7 +114,8 @@
             "value_score":70.738,
             "region":"경기도 안양시 동안구",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4117300000_Gyeonggi_Anyang_Dongan"
+            "sub_region_code":"4117300000_Gyeonggi_Anyang_Dongan",
+            "shorten_url":"https:\/\/me2.do\/xUEWvAeF"
         },
         {
             "index":5,
@@ -118,7 +127,8 @@
             "value_score":68.87935,
             "region":"경기도 안양시 동안구",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4117300000_Gyeonggi_Anyang_Dongan"
+            "sub_region_code":"4117300000_Gyeonggi_Anyang_Dongan",
+            "shorten_url":"https:\/\/me2.do\/xUEWvAeF"
         },
         {
             "index":6,
@@ -130,7 +140,8 @@
             "value_score":68.21495,
             "region":"경기도 안양시 동안구",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4117300000_Gyeonggi_Anyang_Dongan"
+            "sub_region_code":"4117300000_Gyeonggi_Anyang_Dongan",
+            "shorten_url":"https:\/\/me2.do\/xUEWvAeF"
         },
         {
             "index":7,
@@ -142,7 +153,8 @@
             "value_score":68.06495,
             "region":"경기도 안양시 동안구",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4117300000_Gyeonggi_Anyang_Dongan"
+            "sub_region_code":"4117300000_Gyeonggi_Anyang_Dongan",
+            "shorten_url":"https:\/\/me2.do\/xUEWvAeF"
         },
         {
             "index":8,
@@ -154,7 +166,8 @@
             "value_score":67.81495,
             "region":"경기도 안양시 동안구",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4117300000_Gyeonggi_Anyang_Dongan"
+            "sub_region_code":"4117300000_Gyeonggi_Anyang_Dongan",
+            "shorten_url":"https:\/\/me2.do\/xUEWvAeF"
         },
         {
             "index":9,
@@ -166,7 +179,8 @@
             "value_score":67.16495,
             "region":"경기도 안양시 동안구",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4117300000_Gyeonggi_Anyang_Dongan"
+            "sub_region_code":"4117300000_Gyeonggi_Anyang_Dongan",
+            "shorten_url":"https:\/\/me2.do\/xUEWvAeF"
         },
         {
             "index":10,
@@ -178,7 +192,8 @@
             "value_score":76.854,
             "region":"경기도 안양시 동안구",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4117300000_Gyeonggi_Anyang_Dongan"
+            "sub_region_code":"4117300000_Gyeonggi_Anyang_Dongan",
+            "shorten_url":"https:\/\/me2.do\/xUEWvAeF"
         },
         {
             "index":11,
@@ -190,7 +205,8 @@
             "value_score":75.7886,
             "region":"경기도 안양시 동안구",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4117300000_Gyeonggi_Anyang_Dongan"
+            "sub_region_code":"4117300000_Gyeonggi_Anyang_Dongan",
+            "shorten_url":"https:\/\/me2.do\/xUEWvAeF"
         },
         {
             "index":12,
@@ -202,7 +218,8 @@
             "value_score":73.1086,
             "region":"경기도 안양시 동안구",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4117300000_Gyeonggi_Anyang_Dongan"
+            "sub_region_code":"4117300000_Gyeonggi_Anyang_Dongan",
+            "shorten_url":"https:\/\/me2.do\/xUEWvAeF"
         },
         {
             "index":13,
@@ -214,7 +231,8 @@
             "value_score":73.0264,
             "region":"경기도 안양시 동안구",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4117300000_Gyeonggi_Anyang_Dongan"
+            "sub_region_code":"4117300000_Gyeonggi_Anyang_Dongan",
+            "shorten_url":"https:\/\/me2.do\/xUEWvAeF"
         },
         {
             "index":14,
@@ -226,7 +244,8 @@
             "value_score":72.8956,
             "region":"경기도 안양시 동안구",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4117300000_Gyeonggi_Anyang_Dongan"
+            "sub_region_code":"4117300000_Gyeonggi_Anyang_Dongan",
+            "shorten_url":"https:\/\/me2.do\/xUEWvAeF"
         },
         {
             "index":15,
@@ -238,7 +257,8 @@
             "value_score":72.2126,
             "region":"경기도 안양시 동안구",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4117300000_Gyeonggi_Anyang_Dongan"
+            "sub_region_code":"4117300000_Gyeonggi_Anyang_Dongan",
+            "shorten_url":"https:\/\/me2.do\/xUEWvAeF"
         },
         {
             "index":16,
@@ -250,7 +270,8 @@
             "value_score":69.2956,
             "region":"경기도 안양시 동안구",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4117300000_Gyeonggi_Anyang_Dongan"
+            "sub_region_code":"4117300000_Gyeonggi_Anyang_Dongan",
+            "shorten_url":"https:\/\/me2.do\/xUEWvAeF"
         },
         {
             "index":17,
@@ -262,7 +283,8 @@
             "value_score":68.5956,
             "region":"경기도 안양시 동안구",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4117300000_Gyeonggi_Anyang_Dongan"
+            "sub_region_code":"4117300000_Gyeonggi_Anyang_Dongan",
+            "shorten_url":"https:\/\/me2.do\/xUEWvAeF"
         },
         {
             "index":18,
@@ -274,7 +296,8 @@
             "value_score":68.1474,
             "region":"경기도 안양시 동안구",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4117300000_Gyeonggi_Anyang_Dongan"
+            "sub_region_code":"4117300000_Gyeonggi_Anyang_Dongan",
+            "shorten_url":"https:\/\/me2.do\/xUEWvAeF"
         },
         {
             "index":19,
@@ -286,7 +309,8 @@
             "value_score":67.2938,
             "region":"경기도 안양시 동안구",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4117300000_Gyeonggi_Anyang_Dongan"
+            "sub_region_code":"4117300000_Gyeonggi_Anyang_Dongan",
+            "shorten_url":"https:\/\/me2.do\/xUEWvAeF"
         },
         {
             "index":20,
@@ -298,7 +322,8 @@
             "value_score":76.03995,
             "region":"경기도 안양시 동안구",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4117300000_Gyeonggi_Anyang_Dongan"
+            "sub_region_code":"4117300000_Gyeonggi_Anyang_Dongan",
+            "shorten_url":"https:\/\/me2.do\/xUEWvAeF"
         },
         {
             "index":21,
@@ -310,7 +335,8 @@
             "value_score":76.03995,
             "region":"경기도 안양시 동안구",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4117300000_Gyeonggi_Anyang_Dongan"
+            "sub_region_code":"4117300000_Gyeonggi_Anyang_Dongan",
+            "shorten_url":"https:\/\/me2.do\/xUEWvAeF"
         },
         {
             "index":22,
@@ -322,7 +348,8 @@
             "value_score":75.51495,
             "region":"경기도 안양시 동안구",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4117300000_Gyeonggi_Anyang_Dongan"
+            "sub_region_code":"4117300000_Gyeonggi_Anyang_Dongan",
+            "shorten_url":"https:\/\/me2.do\/xUEWvAeF"
         },
         {
             "index":23,
@@ -334,7 +361,8 @@
             "value_score":69.44895,
             "region":"경기도 안양시 동안구",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4117300000_Gyeonggi_Anyang_Dongan"
+            "sub_region_code":"4117300000_Gyeonggi_Anyang_Dongan",
+            "shorten_url":"https:\/\/me2.do\/xUEWvAeF"
         },
         {
             "index":24,
@@ -346,7 +374,8 @@
             "value_score":68.47935,
             "region":"경기도 안양시 동안구",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4117300000_Gyeonggi_Anyang_Dongan"
+            "sub_region_code":"4117300000_Gyeonggi_Anyang_Dongan",
+            "shorten_url":"https:\/\/me2.do\/xUEWvAeF"
         },
         {
             "index":25,
@@ -358,7 +387,8 @@
             "value_score":68.18995,
             "region":"경기도 안양시 동안구",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4117300000_Gyeonggi_Anyang_Dongan"
+            "sub_region_code":"4117300000_Gyeonggi_Anyang_Dongan",
+            "shorten_url":"https:\/\/me2.do\/xUEWvAeF"
         },
         {
             "index":26,
@@ -370,7 +400,8 @@
             "value_score":67.923,
             "region":"경기도 안양시 동안구",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4117300000_Gyeonggi_Anyang_Dongan"
+            "sub_region_code":"4117300000_Gyeonggi_Anyang_Dongan",
+            "shorten_url":"https:\/\/me2.do\/xUEWvAeF"
         },
         {
             "index":27,
@@ -382,7 +413,8 @@
             "value_score":67.91495,
             "region":"경기도 안양시 동안구",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4117300000_Gyeonggi_Anyang_Dongan"
+            "sub_region_code":"4117300000_Gyeonggi_Anyang_Dongan",
+            "shorten_url":"https:\/\/me2.do\/xUEWvAeF"
         },
         {
             "index":28,
@@ -394,7 +426,8 @@
             "value_score":66.61495,
             "region":"경기도 안양시 동안구",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4117300000_Gyeonggi_Anyang_Dongan"
+            "sub_region_code":"4117300000_Gyeonggi_Anyang_Dongan",
+            "shorten_url":"https:\/\/me2.do\/xUEWvAeF"
         },
         {
             "index":29,
@@ -406,7 +439,8 @@
             "value_score":65.58995,
             "region":"경기도 안양시 동안구",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4117300000_Gyeonggi_Anyang_Dongan"
+            "sub_region_code":"4117300000_Gyeonggi_Anyang_Dongan",
+            "shorten_url":"https:\/\/me2.do\/xUEWvAeF"
         },
         {
             "index":30,
@@ -418,7 +452,8 @@
             "value_score":78.20825,
             "region":"경기도 안양시 동안구",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4117300000_Gyeonggi_Anyang_Dongan"
+            "sub_region_code":"4117300000_Gyeonggi_Anyang_Dongan",
+            "shorten_url":"https:\/\/me2.do\/xUEWvAeF"
         },
         {
             "index":31,
@@ -430,7 +465,8 @@
             "value_score":78.20825,
             "region":"경기도 안양시 동안구",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4117300000_Gyeonggi_Anyang_Dongan"
+            "sub_region_code":"4117300000_Gyeonggi_Anyang_Dongan",
+            "shorten_url":"https:\/\/me2.do\/xUEWvAeF"
         },
         {
             "index":32,
@@ -442,7 +478,8 @@
             "value_score":76.75825,
             "region":"경기도 안양시 동안구",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4117300000_Gyeonggi_Anyang_Dongan"
+            "sub_region_code":"4117300000_Gyeonggi_Anyang_Dongan",
+            "shorten_url":"https:\/\/me2.do\/xUEWvAeF"
         },
         {
             "index":33,
@@ -454,7 +491,8 @@
             "value_score":75.65825,
             "region":"경기도 안양시 동안구",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4117300000_Gyeonggi_Anyang_Dongan"
+            "sub_region_code":"4117300000_Gyeonggi_Anyang_Dongan",
+            "shorten_url":"https:\/\/me2.do\/xUEWvAeF"
         },
         {
             "index":34,
@@ -466,7 +504,8 @@
             "value_score":75.55825,
             "region":"경기도 안양시 동안구",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4117300000_Gyeonggi_Anyang_Dongan"
+            "sub_region_code":"4117300000_Gyeonggi_Anyang_Dongan",
+            "shorten_url":"https:\/\/me2.do\/xUEWvAeF"
         },
         {
             "index":35,
@@ -478,7 +517,8 @@
             "value_score":74.07325,
             "region":"경기도 안양시 동안구",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4117300000_Gyeonggi_Anyang_Dongan"
+            "sub_region_code":"4117300000_Gyeonggi_Anyang_Dongan",
+            "shorten_url":"https:\/\/me2.do\/xUEWvAeF"
         },
         {
             "index":36,
@@ -490,7 +530,8 @@
             "value_score":74.05825,
             "region":"경기도 안양시 동안구",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4117300000_Gyeonggi_Anyang_Dongan"
+            "sub_region_code":"4117300000_Gyeonggi_Anyang_Dongan",
+            "shorten_url":"https:\/\/me2.do\/xUEWvAeF"
         },
         {
             "index":37,
@@ -502,7 +543,8 @@
             "value_score":72.28575,
             "region":"경기도 안양시 동안구",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4117300000_Gyeonggi_Anyang_Dongan"
+            "sub_region_code":"4117300000_Gyeonggi_Anyang_Dongan",
+            "shorten_url":"https:\/\/me2.do\/xUEWvAeF"
         },
         {
             "index":38,
@@ -514,7 +556,8 @@
             "value_score":71.75825,
             "region":"경기도 안양시 동안구",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4117300000_Gyeonggi_Anyang_Dongan"
+            "sub_region_code":"4117300000_Gyeonggi_Anyang_Dongan",
+            "shorten_url":"https:\/\/me2.do\/xUEWvAeF"
         },
         {
             "index":39,
@@ -526,7 +569,8 @@
             "value_score":71.73575,
             "region":"경기도 안양시 동안구",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4117300000_Gyeonggi_Anyang_Dongan"
+            "sub_region_code":"4117300000_Gyeonggi_Anyang_Dongan",
+            "shorten_url":"https:\/\/me2.do\/xUEWvAeF"
         },
         {
             "index":40,
@@ -538,7 +582,8 @@
             "value_score":74.1165,
             "region":"경기도 안양시 동안구",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4117300000_Gyeonggi_Anyang_Dongan"
+            "sub_region_code":"4117300000_Gyeonggi_Anyang_Dongan",
+            "shorten_url":"https:\/\/me2.do\/xUEWvAeF"
         },
         {
             "index":41,
@@ -550,7 +595,8 @@
             "value_score":73.5165,
             "region":"경기도 안양시 동안구",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4117300000_Gyeonggi_Anyang_Dongan"
+            "sub_region_code":"4117300000_Gyeonggi_Anyang_Dongan",
+            "shorten_url":"https:\/\/me2.do\/xUEWvAeF"
         },
         {
             "index":42,
@@ -562,7 +608,8 @@
             "value_score":72.758,
             "region":"경기도 안양시 동안구",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4117300000_Gyeonggi_Anyang_Dongan"
+            "sub_region_code":"4117300000_Gyeonggi_Anyang_Dongan",
+            "shorten_url":"https:\/\/me2.do\/xUEWvAeF"
         },
         {
             "index":43,
@@ -574,7 +621,8 @@
             "value_score":72.1165,
             "region":"경기도 안양시 동안구",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4117300000_Gyeonggi_Anyang_Dongan"
+            "sub_region_code":"4117300000_Gyeonggi_Anyang_Dongan",
+            "shorten_url":"https:\/\/me2.do\/xUEWvAeF"
         },
         {
             "index":44,
@@ -586,7 +634,8 @@
             "value_score":71.9715,
             "region":"경기도 안양시 동안구",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4117300000_Gyeonggi_Anyang_Dongan"
+            "sub_region_code":"4117300000_Gyeonggi_Anyang_Dongan",
+            "shorten_url":"https:\/\/me2.do\/xUEWvAeF"
         },
         {
             "index":45,
@@ -598,7 +647,8 @@
             "value_score":70.1165,
             "region":"경기도 안양시 동안구",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4117300000_Gyeonggi_Anyang_Dongan"
+            "sub_region_code":"4117300000_Gyeonggi_Anyang_Dongan",
+            "shorten_url":"https:\/\/me2.do\/xUEWvAeF"
         },
         {
             "index":46,
@@ -610,7 +660,8 @@
             "value_score":70.0715,
             "region":"경기도 안양시 동안구",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4117300000_Gyeonggi_Anyang_Dongan"
+            "sub_region_code":"4117300000_Gyeonggi_Anyang_Dongan",
+            "shorten_url":"https:\/\/me2.do\/xUEWvAeF"
         },
         {
             "index":47,
@@ -622,7 +673,8 @@
             "value_score":66.0815,
             "region":"경기도 안양시 동안구",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4117300000_Gyeonggi_Anyang_Dongan"
+            "sub_region_code":"4117300000_Gyeonggi_Anyang_Dongan",
+            "shorten_url":"https:\/\/me2.do\/xUEWvAeF"
         },
         {
             "index":48,
@@ -634,7 +686,8 @@
             "value_score":64.6265,
             "region":"경기도 안양시 동안구",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4117300000_Gyeonggi_Anyang_Dongan"
+            "sub_region_code":"4117300000_Gyeonggi_Anyang_Dongan",
+            "shorten_url":"https:\/\/me2.do\/xUEWvAeF"
         },
         {
             "index":49,
@@ -646,7 +699,8 @@
             "value_score":64.614,
             "region":"경기도 안양시 동안구",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4117300000_Gyeonggi_Anyang_Dongan"
+            "sub_region_code":"4117300000_Gyeonggi_Anyang_Dongan",
+            "shorten_url":"https:\/\/me2.do\/xUEWvAeF"
         }
     ]
 }

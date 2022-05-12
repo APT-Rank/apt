@@ -474,7 +474,8 @@
 
     //shareText += "\n아래 링크를 누르시면 다른 아파트의 랭크를 확인할 수 있습니다."
     shareText += "\n"
-    shareURL = "https://www.aptrank.kr" + "?reg=" + list[0]['region_code'] +"&sub=" + selectedSubRegion + "&mon=" + selectedMonth
+    //shareURL = "https://www.aptrank.kr" + "?reg=" + list[0]['region_code'] +"&sub=" + selectedSubRegion + "&mon=" + selectedMonth
+    shareURL = list[0]["shorten_url"]
 
     if (navigator.share) {
       navigator.share({
@@ -605,7 +606,8 @@ function allShareWithComment(){
     shareText += "ㆍ교통(수도권/광역시) = 역세권 여부, 30분이내 도착 가능 거점역, 1시간 이내 도착 가능 거점역\n"
     shareText += "\n"
     
-    shareURL = "https://www.aptrank.kr" + "?reg=" + balanced[0]["region_code"] +"&sub=" + selectedSubRegion + "&mon=" + selectedMonth
+    //shareURL = "https://www.aptrank.kr" + "?reg=" + balanced[0]["region_code"] +"&sub=" + selectedSubRegion + "&mon=" + selectedMonth
+    shareURL = balanced[0]["shorten_url"]
 
     if (navigator.share) {
       navigator.share({
@@ -717,7 +719,8 @@ function allShare(){
     shareText += "\n"
     shareText += "※ 아파트랭크는 계산된 참조자료 입니다. 실제 임장, 현지 거주 의견, 부동산 조언 등 현장 정보가 가장 정확합니다.\n"
     
-    shareURL = "https://www.aptrank.kr" + "?reg=" + balanced[0]["region_code"] +"&sub=" + selectedSubRegion + "&mon=" + selectedMonth
+    //shareURL = "https://www.aptrank.kr" + "?reg=" + balanced[0]["region_code"] +"&sub=" + selectedSubRegion + "&mon=" + selectedMonth
+    shareURL = balanced[0]["shorten_url"]
 
     if (navigator.share) {
       navigator.share({

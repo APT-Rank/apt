@@ -40,6 +40,10 @@
             {
                 "name":"sub_region_code",
                 "type":"string"
+            },
+            {
+                "name":"shorten_url",
+                "type":"string"
             }
         ],
         "primaryKey":[
@@ -58,7 +62,8 @@
             "value_score":39.3123,
             "region":"전라남도 구례군",
             "region_code":"Jeollanamdo",
-            "sub_region_code":"4673000000_Jeollanamdo_Gurye"
+            "sub_region_code":"4673000000_Jeollanamdo_Gurye",
+            "shorten_url":"https:\/\/me2.do\/GMqauXAz"
         },
         {
             "index":1,
@@ -70,7 +75,8 @@
             "value_score":37.8123,
             "region":"전라남도 구례군",
             "region_code":"Jeollanamdo",
-            "sub_region_code":"4673000000_Jeollanamdo_Gurye"
+            "sub_region_code":"4673000000_Jeollanamdo_Gurye",
+            "shorten_url":"https:\/\/me2.do\/GMqauXAz"
         },
         {
             "index":2,
@@ -82,7 +88,8 @@
             "value_score":35.9603,
             "region":"전라남도 구례군",
             "region_code":"Jeollanamdo",
-            "sub_region_code":"4673000000_Jeollanamdo_Gurye"
+            "sub_region_code":"4673000000_Jeollanamdo_Gurye",
+            "shorten_url":"https:\/\/me2.do\/GMqauXAz"
         },
         {
             "index":3,
@@ -94,7 +101,8 @@
             "value_score":34.4123,
             "region":"전라남도 구례군",
             "region_code":"Jeollanamdo",
-            "sub_region_code":"4673000000_Jeollanamdo_Gurye"
+            "sub_region_code":"4673000000_Jeollanamdo_Gurye",
+            "shorten_url":"https:\/\/me2.do\/GMqauXAz"
         },
         {
             "index":4,
@@ -106,7 +114,8 @@
             "value_score":28.9623,
             "region":"전라남도 구례군",
             "region_code":"Jeollanamdo",
-            "sub_region_code":"4673000000_Jeollanamdo_Gurye"
+            "sub_region_code":"4673000000_Jeollanamdo_Gurye",
+            "shorten_url":"https:\/\/me2.do\/GMqauXAz"
         },
         {
             "index":5,
@@ -118,7 +127,8 @@
             "value_score":26.0123,
             "region":"전라남도 구례군",
             "region_code":"Jeollanamdo",
-            "sub_region_code":"4673000000_Jeollanamdo_Gurye"
+            "sub_region_code":"4673000000_Jeollanamdo_Gurye",
+            "shorten_url":"https:\/\/me2.do\/GMqauXAz"
         },
         {
             "index":6,
@@ -130,7 +140,8 @@
             "value_score":39.5445,
             "region":"전라남도 구례군",
             "region_code":"Jeollanamdo",
-            "sub_region_code":"4673000000_Jeollanamdo_Gurye"
+            "sub_region_code":"4673000000_Jeollanamdo_Gurye",
+            "shorten_url":"https:\/\/me2.do\/GMqauXAz"
         },
         {
             "index":7,
@@ -142,7 +153,8 @@
             "value_score":38.0445,
             "region":"전라남도 구례군",
             "region_code":"Jeollanamdo",
-            "sub_region_code":"4673000000_Jeollanamdo_Gurye"
+            "sub_region_code":"4673000000_Jeollanamdo_Gurye",
+            "shorten_url":"https:\/\/me2.do\/GMqauXAz"
         },
         {
             "index":8,
@@ -154,7 +166,8 @@
             "value_score":35.8645,
             "region":"전라남도 구례군",
             "region_code":"Jeollanamdo",
-            "sub_region_code":"4673000000_Jeollanamdo_Gurye"
+            "sub_region_code":"4673000000_Jeollanamdo_Gurye",
+            "shorten_url":"https:\/\/me2.do\/GMqauXAz"
         },
         {
             "index":9,
@@ -166,7 +179,8 @@
             "value_score":33.3945,
             "region":"전라남도 구례군",
             "region_code":"Jeollanamdo",
-            "sub_region_code":"4673000000_Jeollanamdo_Gurye"
+            "sub_region_code":"4673000000_Jeollanamdo_Gurye",
+            "shorten_url":"https:\/\/me2.do\/GMqauXAz"
         },
         {
             "index":10,
@@ -178,7 +192,8 @@
             "value_score":26.6445,
             "region":"전라남도 구례군",
             "region_code":"Jeollanamdo",
-            "sub_region_code":"4673000000_Jeollanamdo_Gurye"
+            "sub_region_code":"4673000000_Jeollanamdo_Gurye",
+            "shorten_url":"https:\/\/me2.do\/GMqauXAz"
         },
         {
             "index":11,
@@ -190,7 +205,8 @@
             "value_score":23.2945,
             "region":"전라남도 구례군",
             "region_code":"Jeollanamdo",
-            "sub_region_code":"4673000000_Jeollanamdo_Gurye"
+            "sub_region_code":"4673000000_Jeollanamdo_Gurye",
+            "shorten_url":"https:\/\/me2.do\/GMqauXAz"
         },
         {
             "index":12,
@@ -202,7 +218,8 @@
             "value_score":31.2404210526,
             "region":"전라남도 구례군",
             "region_code":"Jeollanamdo",
-            "sub_region_code":"4673000000_Jeollanamdo_Gurye"
+            "sub_region_code":"4673000000_Jeollanamdo_Gurye",
+            "shorten_url":"https:\/\/me2.do\/GMqauXAz"
         },
         {
             "index":13,
@@ -214,7 +231,8 @@
             "value_score":29.4772631579,
             "region":"전라남도 구례군",
             "region_code":"Jeollanamdo",
-            "sub_region_code":"4673000000_Jeollanamdo_Gurye"
+            "sub_region_code":"4673000000_Jeollanamdo_Gurye",
+            "shorten_url":"https:\/\/me2.do\/GMqauXAz"
         },
         {
             "index":14,
@@ -226,7 +244,8 @@
             "value_score":28.0825263158,
             "region":"전라남도 구례군",
             "region_code":"Jeollanamdo",
-            "sub_region_code":"4673000000_Jeollanamdo_Gurye"
+            "sub_region_code":"4673000000_Jeollanamdo_Gurye",
+            "shorten_url":"https:\/\/me2.do\/GMqauXAz"
         },
         {
             "index":15,
@@ -238,7 +257,8 @@
             "value_score":27.2235789474,
             "region":"전라남도 구례군",
             "region_code":"Jeollanamdo",
-            "sub_region_code":"4673000000_Jeollanamdo_Gurye"
+            "sub_region_code":"4673000000_Jeollanamdo_Gurye",
+            "shorten_url":"https:\/\/me2.do\/GMqauXAz"
         },
         {
             "index":16,
@@ -250,7 +270,8 @@
             "value_score":26.8983157895,
             "region":"전라남도 구례군",
             "region_code":"Jeollanamdo",
-            "sub_region_code":"4673000000_Jeollanamdo_Gurye"
+            "sub_region_code":"4673000000_Jeollanamdo_Gurye",
+            "shorten_url":"https:\/\/me2.do\/GMqauXAz"
         },
         {
             "index":17,
@@ -262,7 +283,8 @@
             "value_score":23.4246315789,
             "region":"전라남도 구례군",
             "region_code":"Jeollanamdo",
-            "sub_region_code":"4673000000_Jeollanamdo_Gurye"
+            "sub_region_code":"4673000000_Jeollanamdo_Gurye",
+            "shorten_url":"https:\/\/me2.do\/GMqauXAz"
         },
         {
             "index":18,
@@ -274,7 +296,8 @@
             "value_score":38.964,
             "region":"전라남도 구례군",
             "region_code":"Jeollanamdo",
-            "sub_region_code":"4673000000_Jeollanamdo_Gurye"
+            "sub_region_code":"4673000000_Jeollanamdo_Gurye",
+            "shorten_url":"https:\/\/me2.do\/GMqauXAz"
         },
         {
             "index":19,
@@ -286,7 +309,8 @@
             "value_score":37.464,
             "region":"전라남도 구례군",
             "region_code":"Jeollanamdo",
-            "sub_region_code":"4673000000_Jeollanamdo_Gurye"
+            "sub_region_code":"4673000000_Jeollanamdo_Gurye",
+            "shorten_url":"https:\/\/me2.do\/GMqauXAz"
         },
         {
             "index":20,
@@ -298,7 +322,8 @@
             "value_score":36.104,
             "region":"전라남도 구례군",
             "region_code":"Jeollanamdo",
-            "sub_region_code":"4673000000_Jeollanamdo_Gurye"
+            "sub_region_code":"4673000000_Jeollanamdo_Gurye",
+            "shorten_url":"https:\/\/me2.do\/GMqauXAz"
         },
         {
             "index":21,
@@ -310,7 +335,8 @@
             "value_score":35.939,
             "region":"전라남도 구례군",
             "region_code":"Jeollanamdo",
-            "sub_region_code":"4673000000_Jeollanamdo_Gurye"
+            "sub_region_code":"4673000000_Jeollanamdo_Gurye",
+            "shorten_url":"https:\/\/me2.do\/GMqauXAz"
         },
         {
             "index":22,
@@ -322,7 +348,8 @@
             "value_score":32.439,
             "region":"전라남도 구례군",
             "region_code":"Jeollanamdo",
-            "sub_region_code":"4673000000_Jeollanamdo_Gurye"
+            "sub_region_code":"4673000000_Jeollanamdo_Gurye",
+            "shorten_url":"https:\/\/me2.do\/GMqauXAz"
         },
         {
             "index":23,
@@ -334,7 +361,8 @@
             "value_score":30.089,
             "region":"전라남도 구례군",
             "region_code":"Jeollanamdo",
-            "sub_region_code":"4673000000_Jeollanamdo_Gurye"
+            "sub_region_code":"4673000000_Jeollanamdo_Gurye",
+            "shorten_url":"https:\/\/me2.do\/GMqauXAz"
         }
     ]
 }

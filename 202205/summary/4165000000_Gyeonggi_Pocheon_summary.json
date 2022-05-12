@@ -40,6 +40,10 @@
             {
                 "name":"sub_region_code",
                 "type":"string"
+            },
+            {
+                "name":"shorten_url",
+                "type":"string"
             }
         ],
         "primaryKey":[
@@ -58,7 +62,8 @@
             "value_score":44.1554,
             "region":"경기도 포천시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4165000000_Gyeonggi_Pocheon"
+            "sub_region_code":"4165000000_Gyeonggi_Pocheon",
+            "shorten_url":"https:\/\/me2.do\/5XUtCzfq"
         },
         {
             "index":1,
@@ -70,7 +75,8 @@
             "value_score":41.7554,
             "region":"경기도 포천시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4165000000_Gyeonggi_Pocheon"
+            "sub_region_code":"4165000000_Gyeonggi_Pocheon",
+            "shorten_url":"https:\/\/me2.do\/5XUtCzfq"
         },
         {
             "index":2,
@@ -82,7 +88,8 @@
             "value_score":40.773,
             "region":"경기도 포천시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4165000000_Gyeonggi_Pocheon"
+            "sub_region_code":"4165000000_Gyeonggi_Pocheon",
+            "shorten_url":"https:\/\/me2.do\/5XUtCzfq"
         },
         {
             "index":3,
@@ -94,7 +101,8 @@
             "value_score":40.2054,
             "region":"경기도 포천시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4165000000_Gyeonggi_Pocheon"
+            "sub_region_code":"4165000000_Gyeonggi_Pocheon",
+            "shorten_url":"https:\/\/me2.do\/5XUtCzfq"
         },
         {
             "index":4,
@@ -106,7 +114,8 @@
             "value_score":39.6054,
             "region":"경기도 포천시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4165000000_Gyeonggi_Pocheon"
+            "sub_region_code":"4165000000_Gyeonggi_Pocheon",
+            "shorten_url":"https:\/\/me2.do\/5XUtCzfq"
         },
         {
             "index":5,
@@ -118,7 +127,8 @@
             "value_score":38.173,
             "region":"경기도 포천시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4165000000_Gyeonggi_Pocheon"
+            "sub_region_code":"4165000000_Gyeonggi_Pocheon",
+            "shorten_url":"https:\/\/me2.do\/5XUtCzfq"
         },
         {
             "index":6,
@@ -130,7 +140,8 @@
             "value_score":37.2054,
             "region":"경기도 포천시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4165000000_Gyeonggi_Pocheon"
+            "sub_region_code":"4165000000_Gyeonggi_Pocheon",
+            "shorten_url":"https:\/\/me2.do\/5XUtCzfq"
         },
         {
             "index":7,
@@ -142,7 +153,8 @@
             "value_score":36.93615,
             "region":"경기도 포천시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4165000000_Gyeonggi_Pocheon"
+            "sub_region_code":"4165000000_Gyeonggi_Pocheon",
+            "shorten_url":"https:\/\/me2.do\/5XUtCzfq"
         },
         {
             "index":8,
@@ -154,7 +166,8 @@
             "value_score":36.8054,
             "region":"경기도 포천시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4165000000_Gyeonggi_Pocheon"
+            "sub_region_code":"4165000000_Gyeonggi_Pocheon",
+            "shorten_url":"https:\/\/me2.do\/5XUtCzfq"
         },
         {
             "index":9,
@@ -166,7 +179,8 @@
             "value_score":36.723,
             "region":"경기도 포천시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4165000000_Gyeonggi_Pocheon"
+            "sub_region_code":"4165000000_Gyeonggi_Pocheon",
+            "shorten_url":"https:\/\/me2.do\/5XUtCzfq"
         },
         {
             "index":10,
@@ -178,7 +192,8 @@
             "value_score":53.164,
             "region":"경기도 포천시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4165000000_Gyeonggi_Pocheon"
+            "sub_region_code":"4165000000_Gyeonggi_Pocheon",
+            "shorten_url":"https:\/\/me2.do\/5XUtCzfq"
         },
         {
             "index":11,
@@ -190,7 +205,8 @@
             "value_score":51.914,
             "region":"경기도 포천시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4165000000_Gyeonggi_Pocheon"
+            "sub_region_code":"4165000000_Gyeonggi_Pocheon",
+            "shorten_url":"https:\/\/me2.do\/5XUtCzfq"
         },
         {
             "index":12,
@@ -202,7 +218,8 @@
             "value_score":49.964,
             "region":"경기도 포천시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4165000000_Gyeonggi_Pocheon"
+            "sub_region_code":"4165000000_Gyeonggi_Pocheon",
+            "shorten_url":"https:\/\/me2.do\/5XUtCzfq"
         },
         {
             "index":13,
@@ -214,7 +231,8 @@
             "value_score":47.864,
             "region":"경기도 포천시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4165000000_Gyeonggi_Pocheon"
+            "sub_region_code":"4165000000_Gyeonggi_Pocheon",
+            "shorten_url":"https:\/\/me2.do\/5XUtCzfq"
         },
         {
             "index":14,
@@ -226,7 +244,8 @@
             "value_score":46.6692,
             "region":"경기도 포천시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4165000000_Gyeonggi_Pocheon"
+            "sub_region_code":"4165000000_Gyeonggi_Pocheon",
+            "shorten_url":"https:\/\/me2.do\/5XUtCzfq"
         },
         {
             "index":15,
@@ -238,7 +257,8 @@
             "value_score":45.0572,
             "region":"경기도 포천시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4165000000_Gyeonggi_Pocheon"
+            "sub_region_code":"4165000000_Gyeonggi_Pocheon",
+            "shorten_url":"https:\/\/me2.do\/5XUtCzfq"
         },
         {
             "index":16,
@@ -250,7 +270,8 @@
             "value_score":44.8572,
             "region":"경기도 포천시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4165000000_Gyeonggi_Pocheon"
+            "sub_region_code":"4165000000_Gyeonggi_Pocheon",
+            "shorten_url":"https:\/\/me2.do\/5XUtCzfq"
         },
         {
             "index":17,
@@ -262,7 +283,8 @@
             "value_score":44.2992,
             "region":"경기도 포천시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4165000000_Gyeonggi_Pocheon"
+            "sub_region_code":"4165000000_Gyeonggi_Pocheon",
+            "shorten_url":"https:\/\/me2.do\/5XUtCzfq"
         },
         {
             "index":18,
@@ -274,7 +296,8 @@
             "value_score":44.1492,
             "region":"경기도 포천시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4165000000_Gyeonggi_Pocheon"
+            "sub_region_code":"4165000000_Gyeonggi_Pocheon",
+            "shorten_url":"https:\/\/me2.do\/5XUtCzfq"
         },
         {
             "index":19,
@@ -286,7 +309,8 @@
             "value_score":43.114,
             "region":"경기도 포천시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4165000000_Gyeonggi_Pocheon"
+            "sub_region_code":"4165000000_Gyeonggi_Pocheon",
+            "shorten_url":"https:\/\/me2.do\/5XUtCzfq"
         },
         {
             "index":20,
@@ -298,7 +322,8 @@
             "value_score":43.8304,
             "region":"경기도 포천시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4165000000_Gyeonggi_Pocheon"
+            "sub_region_code":"4165000000_Gyeonggi_Pocheon",
+            "shorten_url":"https:\/\/me2.do\/5XUtCzfq"
         },
         {
             "index":21,
@@ -310,7 +335,8 @@
             "value_score":42.0304,
             "region":"경기도 포천시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4165000000_Gyeonggi_Pocheon"
+            "sub_region_code":"4165000000_Gyeonggi_Pocheon",
+            "shorten_url":"https:\/\/me2.do\/5XUtCzfq"
         },
         {
             "index":22,
@@ -322,7 +348,8 @@
             "value_score":40.9054,
             "region":"경기도 포천시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4165000000_Gyeonggi_Pocheon"
+            "sub_region_code":"4165000000_Gyeonggi_Pocheon",
+            "shorten_url":"https:\/\/me2.do\/5XUtCzfq"
         },
         {
             "index":23,
@@ -334,7 +361,8 @@
             "value_score":40.6554,
             "region":"경기도 포천시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4165000000_Gyeonggi_Pocheon"
+            "sub_region_code":"4165000000_Gyeonggi_Pocheon",
+            "shorten_url":"https:\/\/me2.do\/5XUtCzfq"
         },
         {
             "index":24,
@@ -346,7 +374,8 @@
             "value_score":38.9054,
             "region":"경기도 포천시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4165000000_Gyeonggi_Pocheon"
+            "sub_region_code":"4165000000_Gyeonggi_Pocheon",
+            "shorten_url":"https:\/\/me2.do\/5XUtCzfq"
         },
         {
             "index":25,
@@ -358,7 +387,8 @@
             "value_score":38.62115,
             "region":"경기도 포천시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4165000000_Gyeonggi_Pocheon"
+            "sub_region_code":"4165000000_Gyeonggi_Pocheon",
+            "shorten_url":"https:\/\/me2.do\/5XUtCzfq"
         },
         {
             "index":26,
@@ -370,7 +400,8 @@
             "value_score":37.673,
             "region":"경기도 포천시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4165000000_Gyeonggi_Pocheon"
+            "sub_region_code":"4165000000_Gyeonggi_Pocheon",
+            "shorten_url":"https:\/\/me2.do\/5XUtCzfq"
         },
         {
             "index":27,
@@ -382,7 +413,8 @@
             "value_score":35.873,
             "region":"경기도 포천시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4165000000_Gyeonggi_Pocheon"
+            "sub_region_code":"4165000000_Gyeonggi_Pocheon",
+            "shorten_url":"https:\/\/me2.do\/5XUtCzfq"
         },
         {
             "index":28,
@@ -394,7 +426,8 @@
             "value_score":34.7804,
             "region":"경기도 포천시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4165000000_Gyeonggi_Pocheon"
+            "sub_region_code":"4165000000_Gyeonggi_Pocheon",
+            "shorten_url":"https:\/\/me2.do\/5XUtCzfq"
         },
         {
             "index":29,
@@ -406,7 +439,8 @@
             "value_score":34.723,
             "region":"경기도 포천시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4165000000_Gyeonggi_Pocheon"
+            "sub_region_code":"4165000000_Gyeonggi_Pocheon",
+            "shorten_url":"https:\/\/me2.do\/5XUtCzfq"
         },
         {
             "index":30,
@@ -418,7 +452,8 @@
             "value_score":49.209,
             "region":"경기도 포천시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4165000000_Gyeonggi_Pocheon"
+            "sub_region_code":"4165000000_Gyeonggi_Pocheon",
+            "shorten_url":"https:\/\/me2.do\/5XUtCzfq"
         },
         {
             "index":31,
@@ -430,7 +465,8 @@
             "value_score":46.709,
             "region":"경기도 포천시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4165000000_Gyeonggi_Pocheon"
+            "sub_region_code":"4165000000_Gyeonggi_Pocheon",
+            "shorten_url":"https:\/\/me2.do\/5XUtCzfq"
         },
         {
             "index":32,
@@ -442,7 +478,8 @@
             "value_score":45.305,
             "region":"경기도 포천시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4165000000_Gyeonggi_Pocheon"
+            "sub_region_code":"4165000000_Gyeonggi_Pocheon",
+            "shorten_url":"https:\/\/me2.do\/5XUtCzfq"
         },
         {
             "index":33,
@@ -454,7 +491,8 @@
             "value_score":43.609,
             "region":"경기도 포천시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4165000000_Gyeonggi_Pocheon"
+            "sub_region_code":"4165000000_Gyeonggi_Pocheon",
+            "shorten_url":"https:\/\/me2.do\/5XUtCzfq"
         },
         {
             "index":34,
@@ -466,7 +504,8 @@
             "value_score":41.955,
             "region":"경기도 포천시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4165000000_Gyeonggi_Pocheon"
+            "sub_region_code":"4165000000_Gyeonggi_Pocheon",
+            "shorten_url":"https:\/\/me2.do\/5XUtCzfq"
         },
         {
             "index":35,
@@ -478,7 +517,8 @@
             "value_score":41.709,
             "region":"경기도 포천시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4165000000_Gyeonggi_Pocheon"
+            "sub_region_code":"4165000000_Gyeonggi_Pocheon",
+            "shorten_url":"https:\/\/me2.do\/5XUtCzfq"
         },
         {
             "index":36,
@@ -490,7 +530,8 @@
             "value_score":39.609,
             "region":"경기도 포천시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4165000000_Gyeonggi_Pocheon"
+            "sub_region_code":"4165000000_Gyeonggi_Pocheon",
+            "shorten_url":"https:\/\/me2.do\/5XUtCzfq"
         },
         {
             "index":37,
@@ -502,7 +543,8 @@
             "value_score":39.305,
             "region":"경기도 포천시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4165000000_Gyeonggi_Pocheon"
+            "sub_region_code":"4165000000_Gyeonggi_Pocheon",
+            "shorten_url":"https:\/\/me2.do\/5XUtCzfq"
         },
         {
             "index":38,
@@ -514,7 +556,8 @@
             "value_score":38.959,
             "region":"경기도 포천시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4165000000_Gyeonggi_Pocheon"
+            "sub_region_code":"4165000000_Gyeonggi_Pocheon",
+            "shorten_url":"https:\/\/me2.do\/5XUtCzfq"
         },
         {
             "index":39,
@@ -526,7 +569,8 @@
             "value_score":38.555,
             "region":"경기도 포천시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4165000000_Gyeonggi_Pocheon"
+            "sub_region_code":"4165000000_Gyeonggi_Pocheon",
+            "shorten_url":"https:\/\/me2.do\/5XUtCzfq"
         },
         {
             "index":40,
@@ -538,7 +582,8 @@
             "value_score":50.11,
             "region":"경기도 포천시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4165000000_Gyeonggi_Pocheon"
+            "sub_region_code":"4165000000_Gyeonggi_Pocheon",
+            "shorten_url":"https:\/\/me2.do\/5XUtCzfq"
         },
         {
             "index":41,
@@ -550,7 +595,8 @@
             "value_score":48.11,
             "region":"경기도 포천시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4165000000_Gyeonggi_Pocheon"
+            "sub_region_code":"4165000000_Gyeonggi_Pocheon",
+            "shorten_url":"https:\/\/me2.do\/5XUtCzfq"
         },
         {
             "index":42,
@@ -562,7 +608,8 @@
             "value_score":47.618,
             "region":"경기도 포천시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4165000000_Gyeonggi_Pocheon"
+            "sub_region_code":"4165000000_Gyeonggi_Pocheon",
+            "shorten_url":"https:\/\/me2.do\/5XUtCzfq"
         },
         {
             "index":43,
@@ -574,7 +621,8 @@
             "value_score":46.518,
             "region":"경기도 포천시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4165000000_Gyeonggi_Pocheon"
+            "sub_region_code":"4165000000_Gyeonggi_Pocheon",
+            "shorten_url":"https:\/\/me2.do\/5XUtCzfq"
         },
         {
             "index":44,
@@ -586,7 +634,8 @@
             "value_score":44.018,
             "region":"경기도 포천시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4165000000_Gyeonggi_Pocheon"
+            "sub_region_code":"4165000000_Gyeonggi_Pocheon",
+            "shorten_url":"https:\/\/me2.do\/5XUtCzfq"
         },
         {
             "index":45,
@@ -598,7 +647,8 @@
             "value_score":44.01,
             "region":"경기도 포천시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4165000000_Gyeonggi_Pocheon"
+            "sub_region_code":"4165000000_Gyeonggi_Pocheon",
+            "shorten_url":"https:\/\/me2.do\/5XUtCzfq"
         },
         {
             "index":46,
@@ -610,7 +660,8 @@
             "value_score":43.818,
             "region":"경기도 포천시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4165000000_Gyeonggi_Pocheon"
+            "sub_region_code":"4165000000_Gyeonggi_Pocheon",
+            "shorten_url":"https:\/\/me2.do\/5XUtCzfq"
         },
         {
             "index":47,
@@ -622,7 +673,8 @@
             "value_score":42.818,
             "region":"경기도 포천시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4165000000_Gyeonggi_Pocheon"
+            "sub_region_code":"4165000000_Gyeonggi_Pocheon",
+            "shorten_url":"https:\/\/me2.do\/5XUtCzfq"
         },
         {
             "index":48,
@@ -634,7 +686,8 @@
             "value_score":42.11,
             "region":"경기도 포천시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4165000000_Gyeonggi_Pocheon"
+            "sub_region_code":"4165000000_Gyeonggi_Pocheon",
+            "shorten_url":"https:\/\/me2.do\/5XUtCzfq"
         },
         {
             "index":49,
@@ -646,7 +699,8 @@
             "value_score":41.818,
             "region":"경기도 포천시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4165000000_Gyeonggi_Pocheon"
+            "sub_region_code":"4165000000_Gyeonggi_Pocheon",
+            "shorten_url":"https:\/\/me2.do\/5XUtCzfq"
         }
     ]
 }

@@ -40,6 +40,10 @@
             {
                 "name":"sub_region_code",
                 "type":"string"
+            },
+            {
+                "name":"shorten_url",
+                "type":"string"
             }
         ],
         "primaryKey":[
@@ -58,7 +62,8 @@
             "value_score":41.8674,
             "region":"경상남도 산청군",
             "region_code":"Gyeongsangnamdo",
-            "sub_region_code":"4886000000_Gyeongsangnamdo_Sancheong"
+            "sub_region_code":"4886000000_Gyeongsangnamdo_Sancheong",
+            "shorten_url":"https:\/\/me2.do\/xcuk3rbG"
         },
         {
             "index":1,
@@ -70,7 +75,8 @@
             "value_score":28.8674,
             "region":"경상남도 산청군",
             "region_code":"Gyeongsangnamdo",
-            "sub_region_code":"4886000000_Gyeongsangnamdo_Sancheong"
+            "sub_region_code":"4886000000_Gyeongsangnamdo_Sancheong",
+            "shorten_url":"https:\/\/me2.do\/xcuk3rbG"
         },
         {
             "index":2,
@@ -82,7 +88,8 @@
             "value_score":27.82995,
             "region":"경상남도 산청군",
             "region_code":"Gyeongsangnamdo",
-            "sub_region_code":"4886000000_Gyeongsangnamdo_Sancheong"
+            "sub_region_code":"4886000000_Gyeongsangnamdo_Sancheong",
+            "shorten_url":"https:\/\/me2.do\/xcuk3rbG"
         },
         {
             "index":3,
@@ -94,7 +101,8 @@
             "value_score":42.791,
             "region":"경상남도 산청군",
             "region_code":"Gyeongsangnamdo",
-            "sub_region_code":"4886000000_Gyeongsangnamdo_Sancheong"
+            "sub_region_code":"4886000000_Gyeongsangnamdo_Sancheong",
+            "shorten_url":"https:\/\/me2.do\/xcuk3rbG"
         },
         {
             "index":4,
@@ -106,7 +114,8 @@
             "value_score":26.691,
             "region":"경상남도 산청군",
             "region_code":"Gyeongsangnamdo",
-            "sub_region_code":"4886000000_Gyeongsangnamdo_Sancheong"
+            "sub_region_code":"4886000000_Gyeongsangnamdo_Sancheong",
+            "shorten_url":"https:\/\/me2.do\/xcuk3rbG"
         },
         {
             "index":5,
@@ -118,7 +127,8 @@
             "value_score":25.26425,
             "region":"경상남도 산청군",
             "region_code":"Gyeongsangnamdo",
-            "sub_region_code":"4886000000_Gyeongsangnamdo_Sancheong"
+            "sub_region_code":"4886000000_Gyeongsangnamdo_Sancheong",
+            "shorten_url":"https:\/\/me2.do\/xcuk3rbG"
         },
         {
             "index":6,
@@ -130,7 +140,8 @@
             "value_score":32.3465263158,
             "region":"경상남도 산청군",
             "region_code":"Gyeongsangnamdo",
-            "sub_region_code":"4886000000_Gyeongsangnamdo_Sancheong"
+            "sub_region_code":"4886000000_Gyeongsangnamdo_Sancheong",
+            "shorten_url":"https:\/\/me2.do\/xcuk3rbG"
         },
         {
             "index":7,
@@ -142,7 +153,8 @@
             "value_score":27.8916842105,
             "region":"경상남도 산청군",
             "region_code":"Gyeongsangnamdo",
-            "sub_region_code":"4886000000_Gyeongsangnamdo_Sancheong"
+            "sub_region_code":"4886000000_Gyeongsangnamdo_Sancheong",
+            "shorten_url":"https:\/\/me2.do\/xcuk3rbG"
         },
         {
             "index":8,
@@ -154,7 +166,8 @@
             "value_score":26.1886315789,
             "region":"경상남도 산청군",
             "region_code":"Gyeongsangnamdo",
-            "sub_region_code":"4886000000_Gyeongsangnamdo_Sancheong"
+            "sub_region_code":"4886000000_Gyeongsangnamdo_Sancheong",
+            "shorten_url":"https:\/\/me2.do\/xcuk3rbG"
         },
         {
             "index":9,
@@ -166,7 +179,8 @@
             "value_score":40.482,
             "region":"경상남도 산청군",
             "region_code":"Gyeongsangnamdo",
-            "sub_region_code":"4886000000_Gyeongsangnamdo_Sancheong"
+            "sub_region_code":"4886000000_Gyeongsangnamdo_Sancheong",
+            "shorten_url":"https:\/\/me2.do\/xcuk3rbG"
         },
         {
             "index":10,
@@ -178,7 +192,8 @@
             "value_score":32.132,
             "region":"경상남도 산청군",
             "region_code":"Gyeongsangnamdo",
-            "sub_region_code":"4886000000_Gyeongsangnamdo_Sancheong"
+            "sub_region_code":"4886000000_Gyeongsangnamdo_Sancheong",
+            "shorten_url":"https:\/\/me2.do\/xcuk3rbG"
         },
         {
             "index":11,
@@ -190,7 +205,8 @@
             "value_score":31.6785,
             "region":"경상남도 산청군",
             "region_code":"Gyeongsangnamdo",
-            "sub_region_code":"4886000000_Gyeongsangnamdo_Sancheong"
+            "sub_region_code":"4886000000_Gyeongsangnamdo_Sancheong",
+            "shorten_url":"https:\/\/me2.do\/xcuk3rbG"
         }
     ]
 }

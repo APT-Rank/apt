@@ -40,6 +40,10 @@
             {
                 "name":"sub_region_code",
                 "type":"string"
+            },
+            {
+                "name":"shorten_url",
+                "type":"string"
             }
         ],
         "primaryKey":[
@@ -58,7 +62,8 @@
             "value_score":30.8028,
             "region":"경상북도 봉화군",
             "region_code":"Gyeongsangbukdo",
-            "sub_region_code":"4792000000_Gyeongsangbukdo_Bonghwa"
+            "sub_region_code":"4792000000_Gyeongsangbukdo_Bonghwa",
+            "shorten_url":"https:\/\/me2.do\/xfx0prV7"
         },
         {
             "index":1,
@@ -70,7 +75,8 @@
             "value_score":27.9528,
             "region":"경상북도 봉화군",
             "region_code":"Gyeongsangbukdo",
-            "sub_region_code":"4792000000_Gyeongsangbukdo_Bonghwa"
+            "sub_region_code":"4792000000_Gyeongsangbukdo_Bonghwa",
+            "shorten_url":"https:\/\/me2.do\/xfx0prV7"
         },
         {
             "index":2,
@@ -82,7 +88,8 @@
             "value_score":27.1028,
             "region":"경상북도 봉화군",
             "region_code":"Gyeongsangbukdo",
-            "sub_region_code":"4792000000_Gyeongsangbukdo_Bonghwa"
+            "sub_region_code":"4792000000_Gyeongsangbukdo_Bonghwa",
+            "shorten_url":"https:\/\/me2.do\/xfx0prV7"
         },
         {
             "index":3,
@@ -94,7 +101,8 @@
             "value_score":25.9528,
             "region":"경상북도 봉화군",
             "region_code":"Gyeongsangbukdo",
-            "sub_region_code":"4792000000_Gyeongsangbukdo_Bonghwa"
+            "sub_region_code":"4792000000_Gyeongsangbukdo_Bonghwa",
+            "shorten_url":"https:\/\/me2.do\/xfx0prV7"
         },
         {
             "index":4,
@@ -106,7 +114,8 @@
             "value_score":29.502,
             "region":"경상북도 봉화군",
             "region_code":"Gyeongsangbukdo",
-            "sub_region_code":"4792000000_Gyeongsangbukdo_Bonghwa"
+            "sub_region_code":"4792000000_Gyeongsangbukdo_Bonghwa",
+            "shorten_url":"https:\/\/me2.do\/xfx0prV7"
         },
         {
             "index":5,
@@ -118,7 +127,8 @@
             "value_score":25.352,
             "region":"경상북도 봉화군",
             "region_code":"Gyeongsangbukdo",
-            "sub_region_code":"4792000000_Gyeongsangbukdo_Bonghwa"
+            "sub_region_code":"4792000000_Gyeongsangbukdo_Bonghwa",
+            "shorten_url":"https:\/\/me2.do\/xfx0prV7"
         },
         {
             "index":6,
@@ -130,7 +140,8 @@
             "value_score":24.502,
             "region":"경상북도 봉화군",
             "region_code":"Gyeongsangbukdo",
-            "sub_region_code":"4792000000_Gyeongsangbukdo_Bonghwa"
+            "sub_region_code":"4792000000_Gyeongsangbukdo_Bonghwa",
+            "shorten_url":"https:\/\/me2.do\/xfx0prV7"
         },
         {
             "index":7,
@@ -142,7 +153,8 @@
             "value_score":23.352,
             "region":"경상북도 봉화군",
             "region_code":"Gyeongsangbukdo",
-            "sub_region_code":"4792000000_Gyeongsangbukdo_Bonghwa"
+            "sub_region_code":"4792000000_Gyeongsangbukdo_Bonghwa",
+            "shorten_url":"https:\/\/me2.do\/xfx0prV7"
         },
         {
             "index":8,
@@ -154,7 +166,8 @@
             "value_score":28.0025263158,
             "region":"경상북도 봉화군",
             "region_code":"Gyeongsangbukdo",
-            "sub_region_code":"4792000000_Gyeongsangbukdo_Bonghwa"
+            "sub_region_code":"4792000000_Gyeongsangbukdo_Bonghwa",
+            "shorten_url":"https:\/\/me2.do\/xfx0prV7"
         },
         {
             "index":9,
@@ -166,7 +179,8 @@
             "value_score":26.2130526316,
             "region":"경상북도 봉화군",
             "region_code":"Gyeongsangbukdo",
-            "sub_region_code":"4792000000_Gyeongsangbukdo_Bonghwa"
+            "sub_region_code":"4792000000_Gyeongsangbukdo_Bonghwa",
+            "shorten_url":"https:\/\/me2.do\/xfx0prV7"
         },
         {
             "index":10,
@@ -178,7 +192,8 @@
             "value_score":25.1077894737,
             "region":"경상북도 봉화군",
             "region_code":"Gyeongsangbukdo",
-            "sub_region_code":"4792000000_Gyeongsangbukdo_Bonghwa"
+            "sub_region_code":"4792000000_Gyeongsangbukdo_Bonghwa",
+            "shorten_url":"https:\/\/me2.do\/xfx0prV7"
         },
         {
             "index":11,
@@ -190,7 +205,8 @@
             "value_score":23.792,
             "region":"경상북도 봉화군",
             "region_code":"Gyeongsangbukdo",
-            "sub_region_code":"4792000000_Gyeongsangbukdo_Bonghwa"
+            "sub_region_code":"4792000000_Gyeongsangbukdo_Bonghwa",
+            "shorten_url":"https:\/\/me2.do\/xfx0prV7"
         },
         {
             "index":12,
@@ -202,7 +218,8 @@
             "value_score":32.754,
             "region":"경상북도 봉화군",
             "region_code":"Gyeongsangbukdo",
-            "sub_region_code":"4792000000_Gyeongsangbukdo_Bonghwa"
+            "sub_region_code":"4792000000_Gyeongsangbukdo_Bonghwa",
+            "shorten_url":"https:\/\/me2.do\/xfx0prV7"
         },
         {
             "index":13,
@@ -214,7 +231,8 @@
             "value_score":31.854,
             "region":"경상북도 봉화군",
             "region_code":"Gyeongsangbukdo",
-            "sub_region_code":"4792000000_Gyeongsangbukdo_Bonghwa"
+            "sub_region_code":"4792000000_Gyeongsangbukdo_Bonghwa",
+            "shorten_url":"https:\/\/me2.do\/xfx0prV7"
         },
         {
             "index":14,
@@ -226,7 +244,8 @@
             "value_score":31.004,
             "region":"경상북도 봉화군",
             "region_code":"Gyeongsangbukdo",
-            "sub_region_code":"4792000000_Gyeongsangbukdo_Bonghwa"
+            "sub_region_code":"4792000000_Gyeongsangbukdo_Bonghwa",
+            "shorten_url":"https:\/\/me2.do\/xfx0prV7"
         },
         {
             "index":15,
@@ -238,7 +257,8 @@
             "value_score":29.854,
             "region":"경상북도 봉화군",
             "region_code":"Gyeongsangbukdo",
-            "sub_region_code":"4792000000_Gyeongsangbukdo_Bonghwa"
+            "sub_region_code":"4792000000_Gyeongsangbukdo_Bonghwa",
+            "shorten_url":"https:\/\/me2.do\/xfx0prV7"
         }
     ]
 }

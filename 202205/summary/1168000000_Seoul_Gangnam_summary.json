@@ -40,6 +40,10 @@
             {
                 "name":"sub_region_code",
                 "type":"string"
+            },
+            {
+                "name":"shorten_url",
+                "type":"string"
             }
         ],
         "primaryKey":[
@@ -58,7 +62,8 @@
             "value_score":83.299,
             "region":"서울시 강남구",
             "region_code":"Seoul",
-            "sub_region_code":"1168000000_Seoul_Gangnam"
+            "sub_region_code":"1168000000_Seoul_Gangnam",
+            "shorten_url":"https:\/\/me2.do\/FrvbUc16"
         },
         {
             "index":1,
@@ -70,7 +75,8 @@
             "value_score":79.699,
             "region":"서울시 강남구",
             "region_code":"Seoul",
-            "sub_region_code":"1168000000_Seoul_Gangnam"
+            "sub_region_code":"1168000000_Seoul_Gangnam",
+            "shorten_url":"https:\/\/me2.do\/FrvbUc16"
         },
         {
             "index":2,
@@ -82,7 +88,8 @@
             "value_score":77.749,
             "region":"서울시 강남구",
             "region_code":"Seoul",
-            "sub_region_code":"1168000000_Seoul_Gangnam"
+            "sub_region_code":"1168000000_Seoul_Gangnam",
+            "shorten_url":"https:\/\/me2.do\/FrvbUc16"
         },
         {
             "index":3,
@@ -94,7 +101,8 @@
             "value_score":77.249,
             "region":"서울시 강남구",
             "region_code":"Seoul",
-            "sub_region_code":"1168000000_Seoul_Gangnam"
+            "sub_region_code":"1168000000_Seoul_Gangnam",
+            "shorten_url":"https:\/\/me2.do\/FrvbUc16"
         },
         {
             "index":4,
@@ -106,7 +114,8 @@
             "value_score":76.999,
             "region":"서울시 강남구",
             "region_code":"Seoul",
-            "sub_region_code":"1168000000_Seoul_Gangnam"
+            "sub_region_code":"1168000000_Seoul_Gangnam",
+            "shorten_url":"https:\/\/me2.do\/FrvbUc16"
         },
         {
             "index":5,
@@ -118,7 +127,8 @@
             "value_score":75.8203,
             "region":"서울시 강남구",
             "region_code":"Seoul",
-            "sub_region_code":"1168000000_Seoul_Gangnam"
+            "sub_region_code":"1168000000_Seoul_Gangnam",
+            "shorten_url":"https:\/\/me2.do\/FrvbUc16"
         },
         {
             "index":6,
@@ -130,7 +140,8 @@
             "value_score":75.599,
             "region":"서울시 강남구",
             "region_code":"Seoul",
-            "sub_region_code":"1168000000_Seoul_Gangnam"
+            "sub_region_code":"1168000000_Seoul_Gangnam",
+            "shorten_url":"https:\/\/me2.do\/FrvbUc16"
         },
         {
             "index":7,
@@ -142,7 +153,8 @@
             "value_score":75.1747,
             "region":"서울시 강남구",
             "region_code":"Seoul",
-            "sub_region_code":"1168000000_Seoul_Gangnam"
+            "sub_region_code":"1168000000_Seoul_Gangnam",
+            "shorten_url":"https:\/\/me2.do\/FrvbUc16"
         },
         {
             "index":8,
@@ -154,7 +166,8 @@
             "value_score":75.0747,
             "region":"서울시 강남구",
             "region_code":"Seoul",
-            "sub_region_code":"1168000000_Seoul_Gangnam"
+            "sub_region_code":"1168000000_Seoul_Gangnam",
+            "shorten_url":"https:\/\/me2.do\/FrvbUc16"
         },
         {
             "index":9,
@@ -166,7 +179,8 @@
             "value_score":75.0247,
             "region":"서울시 강남구",
             "region_code":"Seoul",
-            "sub_region_code":"1168000000_Seoul_Gangnam"
+            "sub_region_code":"1168000000_Seoul_Gangnam",
+            "shorten_url":"https:\/\/me2.do\/FrvbUc16"
         },
         {
             "index":10,
@@ -178,7 +192,8 @@
             "value_score":84.716,
             "region":"서울시 강남구",
             "region_code":"Seoul",
-            "sub_region_code":"1168000000_Seoul_Gangnam"
+            "sub_region_code":"1168000000_Seoul_Gangnam",
+            "shorten_url":"https:\/\/me2.do\/FrvbUc16"
         },
         {
             "index":11,
@@ -190,7 +205,8 @@
             "value_score":80.916,
             "region":"서울시 강남구",
             "region_code":"Seoul",
-            "sub_region_code":"1168000000_Seoul_Gangnam"
+            "sub_region_code":"1168000000_Seoul_Gangnam",
+            "shorten_url":"https:\/\/me2.do\/FrvbUc16"
         },
         {
             "index":12,
@@ -202,7 +218,8 @@
             "value_score":79.916,
             "region":"서울시 강남구",
             "region_code":"Seoul",
-            "sub_region_code":"1168000000_Seoul_Gangnam"
+            "sub_region_code":"1168000000_Seoul_Gangnam",
+            "shorten_url":"https:\/\/me2.do\/FrvbUc16"
         },
         {
             "index":13,
@@ -214,7 +231,8 @@
             "value_score":77.666,
             "region":"서울시 강남구",
             "region_code":"Seoul",
-            "sub_region_code":"1168000000_Seoul_Gangnam"
+            "sub_region_code":"1168000000_Seoul_Gangnam",
+            "shorten_url":"https:\/\/me2.do\/FrvbUc16"
         },
         {
             "index":14,
@@ -226,7 +244,8 @@
             "value_score":77.366,
             "region":"서울시 강남구",
             "region_code":"Seoul",
-            "sub_region_code":"1168000000_Seoul_Gangnam"
+            "sub_region_code":"1168000000_Seoul_Gangnam",
+            "shorten_url":"https:\/\/me2.do\/FrvbUc16"
         },
         {
             "index":15,
@@ -238,7 +257,8 @@
             "value_score":76.966,
             "region":"서울시 강남구",
             "region_code":"Seoul",
-            "sub_region_code":"1168000000_Seoul_Gangnam"
+            "sub_region_code":"1168000000_Seoul_Gangnam",
+            "shorten_url":"https:\/\/me2.do\/FrvbUc16"
         },
         {
             "index":16,
@@ -250,7 +270,8 @@
             "value_score":76.2998,
             "region":"서울시 강남구",
             "region_code":"Seoul",
-            "sub_region_code":"1168000000_Seoul_Gangnam"
+            "sub_region_code":"1168000000_Seoul_Gangnam",
+            "shorten_url":"https:\/\/me2.do\/FrvbUc16"
         },
         {
             "index":17,
@@ -262,7 +283,8 @@
             "value_score":75.9998,
             "region":"서울시 강남구",
             "region_code":"Seoul",
-            "sub_region_code":"1168000000_Seoul_Gangnam"
+            "sub_region_code":"1168000000_Seoul_Gangnam",
+            "shorten_url":"https:\/\/me2.do\/FrvbUc16"
         },
         {
             "index":18,
@@ -274,7 +296,8 @@
             "value_score":75.1904,
             "region":"서울시 강남구",
             "region_code":"Seoul",
-            "sub_region_code":"1168000000_Seoul_Gangnam"
+            "sub_region_code":"1168000000_Seoul_Gangnam",
+            "shorten_url":"https:\/\/me2.do\/FrvbUc16"
         },
         {
             "index":19,
@@ -286,7 +309,8 @@
             "value_score":75.1404,
             "region":"서울시 강남구",
             "region_code":"Seoul",
-            "sub_region_code":"1168000000_Seoul_Gangnam"
+            "sub_region_code":"1168000000_Seoul_Gangnam",
+            "shorten_url":"https:\/\/me2.do\/FrvbUc16"
         },
         {
             "index":20,
@@ -298,7 +322,8 @@
             "value_score":85.6495,
             "region":"서울시 강남구",
             "region_code":"Seoul",
-            "sub_region_code":"1168000000_Seoul_Gangnam"
+            "sub_region_code":"1168000000_Seoul_Gangnam",
+            "shorten_url":"https:\/\/me2.do\/FrvbUc16"
         },
         {
             "index":21,
@@ -310,7 +335,8 @@
             "value_score":83.5495,
             "region":"서울시 강남구",
             "region_code":"Seoul",
-            "sub_region_code":"1168000000_Seoul_Gangnam"
+            "sub_region_code":"1168000000_Seoul_Gangnam",
+            "shorten_url":"https:\/\/me2.do\/FrvbUc16"
         },
         {
             "index":22,
@@ -322,7 +348,8 @@
             "value_score":82.9245,
             "region":"서울시 강남구",
             "region_code":"Seoul",
-            "sub_region_code":"1168000000_Seoul_Gangnam"
+            "sub_region_code":"1168000000_Seoul_Gangnam",
+            "shorten_url":"https:\/\/me2.do\/FrvbUc16"
         },
         {
             "index":23,
@@ -334,7 +361,8 @@
             "value_score":82.5745,
             "region":"서울시 강남구",
             "region_code":"Seoul",
-            "sub_region_code":"1168000000_Seoul_Gangnam"
+            "sub_region_code":"1168000000_Seoul_Gangnam",
+            "shorten_url":"https:\/\/me2.do\/FrvbUc16"
         },
         {
             "index":24,
@@ -346,7 +374,8 @@
             "value_score":82.4995,
             "region":"서울시 강남구",
             "region_code":"Seoul",
-            "sub_region_code":"1168000000_Seoul_Gangnam"
+            "sub_region_code":"1168000000_Seoul_Gangnam",
+            "shorten_url":"https:\/\/me2.do\/FrvbUc16"
         },
         {
             "index":25,
@@ -358,7 +387,8 @@
             "value_score":82.2245,
             "region":"서울시 강남구",
             "region_code":"Seoul",
-            "sub_region_code":"1168000000_Seoul_Gangnam"
+            "sub_region_code":"1168000000_Seoul_Gangnam",
+            "shorten_url":"https:\/\/me2.do\/FrvbUc16"
         },
         {
             "index":26,
@@ -370,7 +400,8 @@
             "value_score":81.91015,
             "region":"서울시 강남구",
             "region_code":"Seoul",
-            "sub_region_code":"1168000000_Seoul_Gangnam"
+            "sub_region_code":"1168000000_Seoul_Gangnam",
+            "shorten_url":"https:\/\/me2.do\/FrvbUc16"
         },
         {
             "index":27,
@@ -382,7 +413,8 @@
             "value_score":81.52575,
             "region":"서울시 강남구",
             "region_code":"Seoul",
-            "sub_region_code":"1168000000_Seoul_Gangnam"
+            "sub_region_code":"1168000000_Seoul_Gangnam",
+            "shorten_url":"https:\/\/me2.do\/FrvbUc16"
         },
         {
             "index":28,
@@ -394,7 +426,8 @@
             "value_score":81.3995,
             "region":"서울시 강남구",
             "region_code":"Seoul",
-            "sub_region_code":"1168000000_Seoul_Gangnam"
+            "sub_region_code":"1168000000_Seoul_Gangnam",
+            "shorten_url":"https:\/\/me2.do\/FrvbUc16"
         },
         {
             "index":29,
@@ -406,7 +439,8 @@
             "value_score":80.587,
             "region":"서울시 강남구",
             "region_code":"Seoul",
-            "sub_region_code":"1168000000_Seoul_Gangnam"
+            "sub_region_code":"1168000000_Seoul_Gangnam",
+            "shorten_url":"https:\/\/me2.do\/FrvbUc16"
         },
         {
             "index":30,
@@ -418,7 +452,8 @@
             "value_score":81.1575,
             "region":"서울시 강남구",
             "region_code":"Seoul",
-            "sub_region_code":"1168000000_Seoul_Gangnam"
+            "sub_region_code":"1168000000_Seoul_Gangnam",
+            "shorten_url":"https:\/\/me2.do\/FrvbUc16"
         },
         {
             "index":31,
@@ -430,7 +465,8 @@
             "value_score":79.0575,
             "region":"서울시 강남구",
             "region_code":"Seoul",
-            "sub_region_code":"1168000000_Seoul_Gangnam"
+            "sub_region_code":"1168000000_Seoul_Gangnam",
+            "shorten_url":"https:\/\/me2.do\/FrvbUc16"
         },
         {
             "index":32,
@@ -442,7 +478,8 @@
             "value_score":78.82525,
             "region":"서울시 강남구",
             "region_code":"Seoul",
-            "sub_region_code":"1168000000_Seoul_Gangnam"
+            "sub_region_code":"1168000000_Seoul_Gangnam",
+            "shorten_url":"https:\/\/me2.do\/FrvbUc16"
         },
         {
             "index":33,
@@ -454,7 +491,8 @@
             "value_score":77.7575,
             "region":"서울시 강남구",
             "region_code":"Seoul",
-            "sub_region_code":"1168000000_Seoul_Gangnam"
+            "sub_region_code":"1168000000_Seoul_Gangnam",
+            "shorten_url":"https:\/\/me2.do\/FrvbUc16"
         },
         {
             "index":34,
@@ -466,7 +504,8 @@
             "value_score":77.7575,
             "region":"서울시 강남구",
             "region_code":"Seoul",
-            "sub_region_code":"1168000000_Seoul_Gangnam"
+            "sub_region_code":"1168000000_Seoul_Gangnam",
+            "shorten_url":"https:\/\/me2.do\/FrvbUc16"
         },
         {
             "index":35,
@@ -478,7 +517,8 @@
             "value_score":77.1075,
             "region":"서울시 강남구",
             "region_code":"Seoul",
-            "sub_region_code":"1168000000_Seoul_Gangnam"
+            "sub_region_code":"1168000000_Seoul_Gangnam",
+            "shorten_url":"https:\/\/me2.do\/FrvbUc16"
         },
         {
             "index":36,
@@ -490,7 +530,8 @@
             "value_score":76.897,
             "region":"서울시 강남구",
             "region_code":"Seoul",
-            "sub_region_code":"1168000000_Seoul_Gangnam"
+            "sub_region_code":"1168000000_Seoul_Gangnam",
+            "shorten_url":"https:\/\/me2.do\/FrvbUc16"
         },
         {
             "index":37,
@@ -502,7 +543,8 @@
             "value_score":76.78725,
             "region":"서울시 강남구",
             "region_code":"Seoul",
-            "sub_region_code":"1168000000_Seoul_Gangnam"
+            "sub_region_code":"1168000000_Seoul_Gangnam",
+            "shorten_url":"https:\/\/me2.do\/FrvbUc16"
         },
         {
             "index":38,
@@ -514,7 +556,8 @@
             "value_score":76.5075,
             "region":"서울시 강남구",
             "region_code":"Seoul",
-            "sub_region_code":"1168000000_Seoul_Gangnam"
+            "sub_region_code":"1168000000_Seoul_Gangnam",
+            "shorten_url":"https:\/\/me2.do\/FrvbUc16"
         },
         {
             "index":39,
@@ -526,7 +569,8 @@
             "value_score":76.2075,
             "region":"서울시 강남구",
             "region_code":"Seoul",
-            "sub_region_code":"1168000000_Seoul_Gangnam"
+            "sub_region_code":"1168000000_Seoul_Gangnam",
+            "shorten_url":"https:\/\/me2.do\/FrvbUc16"
         },
         {
             "index":40,
@@ -538,7 +582,8 @@
             "value_score":80.315,
             "region":"서울시 강남구",
             "region_code":"Seoul",
-            "sub_region_code":"1168000000_Seoul_Gangnam"
+            "sub_region_code":"1168000000_Seoul_Gangnam",
+            "shorten_url":"https:\/\/me2.do\/FrvbUc16"
         },
         {
             "index":41,
@@ -550,7 +595,8 @@
             "value_score":76.715,
             "region":"서울시 강남구",
             "region_code":"Seoul",
-            "sub_region_code":"1168000000_Seoul_Gangnam"
+            "sub_region_code":"1168000000_Seoul_Gangnam",
+            "shorten_url":"https:\/\/me2.do\/FrvbUc16"
         },
         {
             "index":42,
@@ -562,7 +608,8 @@
             "value_score":76.115,
             "region":"서울시 강남구",
             "region_code":"Seoul",
-            "sub_region_code":"1168000000_Seoul_Gangnam"
+            "sub_region_code":"1168000000_Seoul_Gangnam",
+            "shorten_url":"https:\/\/me2.do\/FrvbUc16"
         },
         {
             "index":43,
@@ -574,7 +621,8 @@
             "value_score":75.915,
             "region":"서울시 강남구",
             "region_code":"Seoul",
-            "sub_region_code":"1168000000_Seoul_Gangnam"
+            "sub_region_code":"1168000000_Seoul_Gangnam",
+            "shorten_url":"https:\/\/me2.do\/FrvbUc16"
         },
         {
             "index":44,
@@ -586,7 +634,8 @@
             "value_score":75.6505,
             "region":"서울시 강남구",
             "region_code":"Seoul",
-            "sub_region_code":"1168000000_Seoul_Gangnam"
+            "sub_region_code":"1168000000_Seoul_Gangnam",
+            "shorten_url":"https:\/\/me2.do\/FrvbUc16"
         },
         {
             "index":45,
@@ -598,7 +647,8 @@
             "value_score":74.615,
             "region":"서울시 강남구",
             "region_code":"Seoul",
-            "sub_region_code":"1168000000_Seoul_Gangnam"
+            "sub_region_code":"1168000000_Seoul_Gangnam",
+            "shorten_url":"https:\/\/me2.do\/FrvbUc16"
         },
         {
             "index":46,
@@ -610,7 +660,8 @@
             "value_score":74.215,
             "region":"서울시 강남구",
             "region_code":"Seoul",
-            "sub_region_code":"1168000000_Seoul_Gangnam"
+            "sub_region_code":"1168000000_Seoul_Gangnam",
+            "shorten_url":"https:\/\/me2.do\/FrvbUc16"
         },
         {
             "index":47,
@@ -622,7 +673,8 @@
             "value_score":74.074,
             "region":"서울시 강남구",
             "region_code":"Seoul",
-            "sub_region_code":"1168000000_Seoul_Gangnam"
+            "sub_region_code":"1168000000_Seoul_Gangnam",
+            "shorten_url":"https:\/\/me2.do\/FrvbUc16"
         },
         {
             "index":48,
@@ -634,7 +686,8 @@
             "value_score":73.0745,
             "region":"서울시 강남구",
             "region_code":"Seoul",
-            "sub_region_code":"1168000000_Seoul_Gangnam"
+            "sub_region_code":"1168000000_Seoul_Gangnam",
+            "shorten_url":"https:\/\/me2.do\/FrvbUc16"
         },
         {
             "index":49,
@@ -646,7 +699,8 @@
             "value_score":73.0515,
             "region":"서울시 강남구",
             "region_code":"Seoul",
-            "sub_region_code":"1168000000_Seoul_Gangnam"
+            "sub_region_code":"1168000000_Seoul_Gangnam",
+            "shorten_url":"https:\/\/me2.do\/FrvbUc16"
         }
     ]
 }

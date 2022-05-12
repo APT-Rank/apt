@@ -40,6 +40,10 @@
             {
                 "name":"sub_region_code",
                 "type":"string"
+            },
+            {
+                "name":"shorten_url",
+                "type":"string"
             }
         ],
         "primaryKey":[
@@ -58,7 +62,8 @@
             "value_score":46.23595,
             "region":"강원도 양양군",
             "region_code":"Gangwondo",
-            "sub_region_code":"4283000000_Gangwondo_Yangyang"
+            "sub_region_code":"4283000000_Gangwondo_Yangyang",
+            "shorten_url":"https:\/\/me2.do\/FPuGQfX4"
         },
         {
             "index":1,
@@ -70,7 +75,8 @@
             "value_score":40.13595,
             "region":"강원도 양양군",
             "region_code":"Gangwondo",
-            "sub_region_code":"4283000000_Gangwondo_Yangyang"
+            "sub_region_code":"4283000000_Gangwondo_Yangyang",
+            "shorten_url":"https:\/\/me2.do\/FPuGQfX4"
         },
         {
             "index":2,
@@ -82,7 +88,8 @@
             "value_score":39.23595,
             "region":"강원도 양양군",
             "region_code":"Gangwondo",
-            "sub_region_code":"4283000000_Gangwondo_Yangyang"
+            "sub_region_code":"4283000000_Gangwondo_Yangyang",
+            "shorten_url":"https:\/\/me2.do\/FPuGQfX4"
         },
         {
             "index":3,
@@ -94,7 +101,8 @@
             "value_score":38.93715,
             "region":"강원도 양양군",
             "region_code":"Gangwondo",
-            "sub_region_code":"4283000000_Gangwondo_Yangyang"
+            "sub_region_code":"4283000000_Gangwondo_Yangyang",
+            "shorten_url":"https:\/\/me2.do\/FPuGQfX4"
         },
         {
             "index":4,
@@ -106,7 +114,8 @@
             "value_score":37.43595,
             "region":"강원도 양양군",
             "region_code":"Gangwondo",
-            "sub_region_code":"4283000000_Gangwondo_Yangyang"
+            "sub_region_code":"4283000000_Gangwondo_Yangyang",
+            "shorten_url":"https:\/\/me2.do\/FPuGQfX4"
         },
         {
             "index":5,
@@ -118,7 +127,8 @@
             "value_score":33.63595,
             "region":"강원도 양양군",
             "region_code":"Gangwondo",
-            "sub_region_code":"4283000000_Gangwondo_Yangyang"
+            "sub_region_code":"4283000000_Gangwondo_Yangyang",
+            "shorten_url":"https:\/\/me2.do\/FPuGQfX4"
         },
         {
             "index":6,
@@ -130,7 +140,8 @@
             "value_score":33.43595,
             "region":"강원도 양양군",
             "region_code":"Gangwondo",
-            "sub_region_code":"4283000000_Gangwondo_Yangyang"
+            "sub_region_code":"4283000000_Gangwondo_Yangyang",
+            "shorten_url":"https:\/\/me2.do\/FPuGQfX4"
         },
         {
             "index":7,
@@ -142,7 +153,8 @@
             "value_score":32.78595,
             "region":"강원도 양양군",
             "region_code":"Gangwondo",
-            "sub_region_code":"4283000000_Gangwondo_Yangyang"
+            "sub_region_code":"4283000000_Gangwondo_Yangyang",
+            "shorten_url":"https:\/\/me2.do\/FPuGQfX4"
         },
         {
             "index":8,
@@ -154,7 +166,8 @@
             "value_score":32.28595,
             "region":"강원도 양양군",
             "region_code":"Gangwondo",
-            "sub_region_code":"4283000000_Gangwondo_Yangyang"
+            "sub_region_code":"4283000000_Gangwondo_Yangyang",
+            "shorten_url":"https:\/\/me2.do\/FPuGQfX4"
         },
         {
             "index":9,
@@ -166,7 +179,8 @@
             "value_score":31.83595,
             "region":"강원도 양양군",
             "region_code":"Gangwondo",
-            "sub_region_code":"4283000000_Gangwondo_Yangyang"
+            "sub_region_code":"4283000000_Gangwondo_Yangyang",
+            "shorten_url":"https:\/\/me2.do\/FPuGQfX4"
         },
         {
             "index":10,
@@ -178,7 +192,8 @@
             "value_score":49.20425,
             "region":"강원도 양양군",
             "region_code":"Gangwondo",
-            "sub_region_code":"4283000000_Gangwondo_Yangyang"
+            "sub_region_code":"4283000000_Gangwondo_Yangyang",
+            "shorten_url":"https:\/\/me2.do\/FPuGQfX4"
         },
         {
             "index":11,
@@ -190,7 +205,8 @@
             "value_score":40.45425,
             "region":"강원도 양양군",
             "region_code":"Gangwondo",
-            "sub_region_code":"4283000000_Gangwondo_Yangyang"
+            "sub_region_code":"4283000000_Gangwondo_Yangyang",
+            "shorten_url":"https:\/\/me2.do\/FPuGQfX4"
         },
         {
             "index":12,
@@ -202,7 +218,8 @@
             "value_score":40.30425,
             "region":"강원도 양양군",
             "region_code":"Gangwondo",
-            "sub_region_code":"4283000000_Gangwondo_Yangyang"
+            "sub_region_code":"4283000000_Gangwondo_Yangyang",
+            "shorten_url":"https:\/\/me2.do\/FPuGQfX4"
         },
         {
             "index":13,
@@ -214,7 +231,8 @@
             "value_score":39.06225,
             "region":"강원도 양양군",
             "region_code":"Gangwondo",
-            "sub_region_code":"4283000000_Gangwondo_Yangyang"
+            "sub_region_code":"4283000000_Gangwondo_Yangyang",
+            "shorten_url":"https:\/\/me2.do\/FPuGQfX4"
         },
         {
             "index":14,
@@ -226,7 +244,8 @@
             "value_score":38.05425,
             "region":"강원도 양양군",
             "region_code":"Gangwondo",
-            "sub_region_code":"4283000000_Gangwondo_Yangyang"
+            "sub_region_code":"4283000000_Gangwondo_Yangyang",
+            "shorten_url":"https:\/\/me2.do\/FPuGQfX4"
         },
         {
             "index":15,
@@ -238,7 +257,8 @@
             "value_score":33.20425,
             "region":"강원도 양양군",
             "region_code":"Gangwondo",
-            "sub_region_code":"4283000000_Gangwondo_Yangyang"
+            "sub_region_code":"4283000000_Gangwondo_Yangyang",
+            "shorten_url":"https:\/\/me2.do\/FPuGQfX4"
         },
         {
             "index":16,
@@ -250,7 +270,8 @@
             "value_score":32.70425,
             "region":"강원도 양양군",
             "region_code":"Gangwondo",
-            "sub_region_code":"4283000000_Gangwondo_Yangyang"
+            "sub_region_code":"4283000000_Gangwondo_Yangyang",
+            "shorten_url":"https:\/\/me2.do\/FPuGQfX4"
         },
         {
             "index":17,
@@ -262,7 +283,8 @@
             "value_score":31.20425,
             "region":"강원도 양양군",
             "region_code":"Gangwondo",
-            "sub_region_code":"4283000000_Gangwondo_Yangyang"
+            "sub_region_code":"4283000000_Gangwondo_Yangyang",
+            "shorten_url":"https:\/\/me2.do\/FPuGQfX4"
         },
         {
             "index":18,
@@ -274,7 +296,8 @@
             "value_score":29.80425,
             "region":"강원도 양양군",
             "region_code":"Gangwondo",
-            "sub_region_code":"4283000000_Gangwondo_Yangyang"
+            "sub_region_code":"4283000000_Gangwondo_Yangyang",
+            "shorten_url":"https:\/\/me2.do\/FPuGQfX4"
         },
         {
             "index":19,
@@ -286,7 +309,8 @@
             "value_score":29.20425,
             "region":"강원도 양양군",
             "region_code":"Gangwondo",
-            "sub_region_code":"4283000000_Gangwondo_Yangyang"
+            "sub_region_code":"4283000000_Gangwondo_Yangyang",
+            "shorten_url":"https:\/\/me2.do\/FPuGQfX4"
         },
         {
             "index":20,
@@ -298,7 +322,8 @@
             "value_score":32.7053684211,
             "region":"강원도 양양군",
             "region_code":"Gangwondo",
-            "sub_region_code":"4283000000_Gangwondo_Yangyang"
+            "sub_region_code":"4283000000_Gangwondo_Yangyang",
+            "shorten_url":"https:\/\/me2.do\/FPuGQfX4"
         },
         {
             "index":21,
@@ -310,7 +335,8 @@
             "value_score":32.3632631579,
             "region":"강원도 양양군",
             "region_code":"Gangwondo",
-            "sub_region_code":"4283000000_Gangwondo_Yangyang"
+            "sub_region_code":"4283000000_Gangwondo_Yangyang",
+            "shorten_url":"https:\/\/me2.do\/FPuGQfX4"
         },
         {
             "index":22,
@@ -322,7 +348,8 @@
             "value_score":31.3106315789,
             "region":"강원도 양양군",
             "region_code":"Gangwondo",
-            "sub_region_code":"4283000000_Gangwondo_Yangyang"
+            "sub_region_code":"4283000000_Gangwondo_Yangyang",
+            "shorten_url":"https:\/\/me2.do\/FPuGQfX4"
         },
         {
             "index":23,
@@ -334,7 +361,8 @@
             "value_score":30.9422105263,
             "region":"강원도 양양군",
             "region_code":"Gangwondo",
-            "sub_region_code":"4283000000_Gangwondo_Yangyang"
+            "sub_region_code":"4283000000_Gangwondo_Yangyang",
+            "shorten_url":"https:\/\/me2.do\/FPuGQfX4"
         },
         {
             "index":24,
@@ -346,7 +374,8 @@
             "value_score":29.9996842105,
             "region":"강원도 양양군",
             "region_code":"Gangwondo",
-            "sub_region_code":"4283000000_Gangwondo_Yangyang"
+            "sub_region_code":"4283000000_Gangwondo_Yangyang",
+            "shorten_url":"https:\/\/me2.do\/FPuGQfX4"
         },
         {
             "index":25,
@@ -358,7 +387,8 @@
             "value_score":26.5474736842,
             "region":"강원도 양양군",
             "region_code":"Gangwondo",
-            "sub_region_code":"4283000000_Gangwondo_Yangyang"
+            "sub_region_code":"4283000000_Gangwondo_Yangyang",
+            "shorten_url":"https:\/\/me2.do\/FPuGQfX4"
         },
         {
             "index":26,
@@ -370,7 +400,8 @@
             "value_score":26.3895789474,
             "region":"강원도 양양군",
             "region_code":"Gangwondo",
-            "sub_region_code":"4283000000_Gangwondo_Yangyang"
+            "sub_region_code":"4283000000_Gangwondo_Yangyang",
+            "shorten_url":"https:\/\/me2.do\/FPuGQfX4"
         },
         {
             "index":27,
@@ -382,7 +413,8 @@
             "value_score":23.9422105263,
             "region":"강원도 양양군",
             "region_code":"Gangwondo",
-            "sub_region_code":"4283000000_Gangwondo_Yangyang"
+            "sub_region_code":"4283000000_Gangwondo_Yangyang",
+            "shorten_url":"https:\/\/me2.do\/FPuGQfX4"
         },
         {
             "index":28,
@@ -394,7 +426,8 @@
             "value_score":23.6264210526,
             "region":"강원도 양양군",
             "region_code":"Gangwondo",
-            "sub_region_code":"4283000000_Gangwondo_Yangyang"
+            "sub_region_code":"4283000000_Gangwondo_Yangyang",
+            "shorten_url":"https:\/\/me2.do\/FPuGQfX4"
         },
         {
             "index":29,
@@ -406,7 +439,8 @@
             "value_score":21.3369473684,
             "region":"강원도 양양군",
             "region_code":"Gangwondo",
-            "sub_region_code":"4283000000_Gangwondo_Yangyang"
+            "sub_region_code":"4283000000_Gangwondo_Yangyang",
+            "shorten_url":"https:\/\/me2.do\/FPuGQfX4"
         },
         {
             "index":30,
@@ -418,7 +452,8 @@
             "value_score":41.7835,
             "region":"강원도 양양군",
             "region_code":"Gangwondo",
-            "sub_region_code":"4283000000_Gangwondo_Yangyang"
+            "sub_region_code":"4283000000_Gangwondo_Yangyang",
+            "shorten_url":"https:\/\/me2.do\/FPuGQfX4"
         },
         {
             "index":31,
@@ -430,7 +465,8 @@
             "value_score":39.8835,
             "region":"강원도 양양군",
             "region_code":"Gangwondo",
-            "sub_region_code":"4283000000_Gangwondo_Yangyang"
+            "sub_region_code":"4283000000_Gangwondo_Yangyang",
+            "shorten_url":"https:\/\/me2.do\/FPuGQfX4"
         },
         {
             "index":32,
@@ -442,7 +478,8 @@
             "value_score":38.7585,
             "region":"강원도 양양군",
             "region_code":"Gangwondo",
-            "sub_region_code":"4283000000_Gangwondo_Yangyang"
+            "sub_region_code":"4283000000_Gangwondo_Yangyang",
+            "shorten_url":"https:\/\/me2.do\/FPuGQfX4"
         },
         {
             "index":33,
@@ -454,7 +491,8 @@
             "value_score":38.7495,
             "region":"강원도 양양군",
             "region_code":"Gangwondo",
-            "sub_region_code":"4283000000_Gangwondo_Yangyang"
+            "sub_region_code":"4283000000_Gangwondo_Yangyang",
+            "shorten_url":"https:\/\/me2.do\/FPuGQfX4"
         },
         {
             "index":34,
@@ -466,7 +504,8 @@
             "value_score":38.2585,
             "region":"강원도 양양군",
             "region_code":"Gangwondo",
-            "sub_region_code":"4283000000_Gangwondo_Yangyang"
+            "sub_region_code":"4283000000_Gangwondo_Yangyang",
+            "shorten_url":"https:\/\/me2.do\/FPuGQfX4"
         },
         {
             "index":35,
@@ -478,7 +517,8 @@
             "value_score":37.4085,
             "region":"강원도 양양군",
             "region_code":"Gangwondo",
-            "sub_region_code":"4283000000_Gangwondo_Yangyang"
+            "sub_region_code":"4283000000_Gangwondo_Yangyang",
+            "shorten_url":"https:\/\/me2.do\/FPuGQfX4"
         },
         {
             "index":36,
@@ -490,7 +530,8 @@
             "value_score":36.5085,
             "region":"강원도 양양군",
             "region_code":"Gangwondo",
-            "sub_region_code":"4283000000_Gangwondo_Yangyang"
+            "sub_region_code":"4283000000_Gangwondo_Yangyang",
+            "shorten_url":"https:\/\/me2.do\/FPuGQfX4"
         },
         {
             "index":37,
@@ -502,7 +543,8 @@
             "value_score":36.5085,
             "region":"강원도 양양군",
             "region_code":"Gangwondo",
-            "sub_region_code":"4283000000_Gangwondo_Yangyang"
+            "sub_region_code":"4283000000_Gangwondo_Yangyang",
+            "shorten_url":"https:\/\/me2.do\/FPuGQfX4"
         },
         {
             "index":38,
@@ -514,7 +556,8 @@
             "value_score":35.0335,
             "region":"강원도 양양군",
             "region_code":"Gangwondo",
-            "sub_region_code":"4283000000_Gangwondo_Yangyang"
+            "sub_region_code":"4283000000_Gangwondo_Yangyang",
+            "shorten_url":"https:\/\/me2.do\/FPuGQfX4"
         },
         {
             "index":39,
@@ -526,7 +569,8 @@
             "value_score":33.7835,
             "region":"강원도 양양군",
             "region_code":"Gangwondo",
-            "sub_region_code":"4283000000_Gangwondo_Yangyang"
+            "sub_region_code":"4283000000_Gangwondo_Yangyang",
+            "shorten_url":"https:\/\/me2.do\/FPuGQfX4"
         }
     ]
 }

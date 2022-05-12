@@ -40,6 +40,10 @@
             {
                 "name":"sub_region_code",
                 "type":"string"
+            },
+            {
+                "name":"shorten_url",
+                "type":"string"
             }
         ],
         "primaryKey":[
@@ -58,7 +62,8 @@
             "value_score":31.80745,
             "region":"경상남도 하동군",
             "region_code":"Gyeongsangnamdo",
-            "sub_region_code":"4885000000_Gyeongsangnamdo_Hadong"
+            "sub_region_code":"4885000000_Gyeongsangnamdo_Hadong",
+            "shorten_url":"https:\/\/me2.do\/I5oqvPAY"
         },
         {
             "index":1,
@@ -70,7 +75,8 @@
             "value_score":31.1839,
             "region":"경상남도 하동군",
             "region_code":"Gyeongsangnamdo",
-            "sub_region_code":"4885000000_Gyeongsangnamdo_Hadong"
+            "sub_region_code":"4885000000_Gyeongsangnamdo_Hadong",
+            "shorten_url":"https:\/\/me2.do\/I5oqvPAY"
         },
         {
             "index":2,
@@ -82,7 +88,8 @@
             "value_score":28.8253,
             "region":"경상남도 하동군",
             "region_code":"Gyeongsangnamdo",
-            "sub_region_code":"4885000000_Gyeongsangnamdo_Hadong"
+            "sub_region_code":"4885000000_Gyeongsangnamdo_Hadong",
+            "shorten_url":"https:\/\/me2.do\/I5oqvPAY"
         },
         {
             "index":3,
@@ -94,7 +101,8 @@
             "value_score":26.52395,
             "region":"경상남도 하동군",
             "region_code":"Gyeongsangnamdo",
-            "sub_region_code":"4885000000_Gyeongsangnamdo_Hadong"
+            "sub_region_code":"4885000000_Gyeongsangnamdo_Hadong",
+            "shorten_url":"https:\/\/me2.do\/I5oqvPAY"
         },
         {
             "index":4,
@@ -106,7 +114,8 @@
             "value_score":26.20745,
             "region":"경상남도 하동군",
             "region_code":"Gyeongsangnamdo",
-            "sub_region_code":"4885000000_Gyeongsangnamdo_Hadong"
+            "sub_region_code":"4885000000_Gyeongsangnamdo_Hadong",
+            "shorten_url":"https:\/\/me2.do\/I5oqvPAY"
         },
         {
             "index":5,
@@ -118,7 +127,8 @@
             "value_score":25.00745,
             "region":"경상남도 하동군",
             "region_code":"Gyeongsangnamdo",
-            "sub_region_code":"4885000000_Gyeongsangnamdo_Hadong"
+            "sub_region_code":"4885000000_Gyeongsangnamdo_Hadong",
+            "shorten_url":"https:\/\/me2.do\/I5oqvPAY"
         },
         {
             "index":6,
@@ -130,7 +140,8 @@
             "value_score":22.00745,
             "region":"경상남도 하동군",
             "region_code":"Gyeongsangnamdo",
-            "sub_region_code":"4885000000_Gyeongsangnamdo_Hadong"
+            "sub_region_code":"4885000000_Gyeongsangnamdo_Hadong",
+            "shorten_url":"https:\/\/me2.do\/I5oqvPAY"
         },
         {
             "index":7,
@@ -142,7 +153,8 @@
             "value_score":31.07675,
             "region":"경상남도 하동군",
             "region_code":"Gyeongsangnamdo",
-            "sub_region_code":"4885000000_Gyeongsangnamdo_Hadong"
+            "sub_region_code":"4885000000_Gyeongsangnamdo_Hadong",
+            "shorten_url":"https:\/\/me2.do\/I5oqvPAY"
         },
         {
             "index":8,
@@ -154,7 +166,8 @@
             "value_score":30.7385,
             "region":"경상남도 하동군",
             "region_code":"Gyeongsangnamdo",
-            "sub_region_code":"4885000000_Gyeongsangnamdo_Hadong"
+            "sub_region_code":"4885000000_Gyeongsangnamdo_Hadong",
+            "shorten_url":"https:\/\/me2.do\/I5oqvPAY"
         },
         {
             "index":9,
@@ -166,7 +179,8 @@
             "value_score":26.5895,
             "region":"경상남도 하동군",
             "region_code":"Gyeongsangnamdo",
-            "sub_region_code":"4885000000_Gyeongsangnamdo_Hadong"
+            "sub_region_code":"4885000000_Gyeongsangnamdo_Hadong",
+            "shorten_url":"https:\/\/me2.do\/I5oqvPAY"
         },
         {
             "index":10,
@@ -178,7 +192,8 @@
             "value_score":25.37425,
             "region":"경상남도 하동군",
             "region_code":"Gyeongsangnamdo",
-            "sub_region_code":"4885000000_Gyeongsangnamdo_Hadong"
+            "sub_region_code":"4885000000_Gyeongsangnamdo_Hadong",
+            "shorten_url":"https:\/\/me2.do\/I5oqvPAY"
         },
         {
             "index":11,
@@ -190,7 +205,8 @@
             "value_score":24.07675,
             "region":"경상남도 하동군",
             "region_code":"Gyeongsangnamdo",
-            "sub_region_code":"4885000000_Gyeongsangnamdo_Hadong"
+            "sub_region_code":"4885000000_Gyeongsangnamdo_Hadong",
+            "shorten_url":"https:\/\/me2.do\/I5oqvPAY"
         },
         {
             "index":12,
@@ -202,7 +218,8 @@
             "value_score":22.57675,
             "region":"경상남도 하동군",
             "region_code":"Gyeongsangnamdo",
-            "sub_region_code":"4885000000_Gyeongsangnamdo_Hadong"
+            "sub_region_code":"4885000000_Gyeongsangnamdo_Hadong",
+            "shorten_url":"https:\/\/me2.do\/I5oqvPAY"
         },
         {
             "index":13,
@@ -214,7 +231,8 @@
             "value_score":19.57675,
             "region":"경상남도 하동군",
             "region_code":"Gyeongsangnamdo",
-            "sub_region_code":"4885000000_Gyeongsangnamdo_Hadong"
+            "sub_region_code":"4885000000_Gyeongsangnamdo_Hadong",
+            "shorten_url":"https:\/\/me2.do\/I5oqvPAY"
         },
         {
             "index":14,
@@ -226,7 +244,8 @@
             "value_score":25.8498947368,
             "region":"경상남도 하동군",
             "region_code":"Gyeongsangnamdo",
-            "sub_region_code":"4885000000_Gyeongsangnamdo_Hadong"
+            "sub_region_code":"4885000000_Gyeongsangnamdo_Hadong",
+            "shorten_url":"https:\/\/me2.do\/I5oqvPAY"
         },
         {
             "index":15,
@@ -238,7 +257,8 @@
             "value_score":25.2022105263,
             "region":"경상남도 하동군",
             "region_code":"Gyeongsangnamdo",
-            "sub_region_code":"4885000000_Gyeongsangnamdo_Hadong"
+            "sub_region_code":"4885000000_Gyeongsangnamdo_Hadong",
+            "shorten_url":"https:\/\/me2.do\/I5oqvPAY"
         },
         {
             "index":16,
@@ -250,7 +270,8 @@
             "value_score":22.9916842105,
             "region":"경상남도 하동군",
             "region_code":"Gyeongsangnamdo",
-            "sub_region_code":"4885000000_Gyeongsangnamdo_Hadong"
+            "sub_region_code":"4885000000_Gyeongsangnamdo_Hadong",
+            "shorten_url":"https:\/\/me2.do\/I5oqvPAY"
         },
         {
             "index":17,
@@ -262,7 +283,8 @@
             "value_score":22.518,
             "region":"경상남도 하동군",
             "region_code":"Gyeongsangnamdo",
-            "sub_region_code":"4885000000_Gyeongsangnamdo_Hadong"
+            "sub_region_code":"4885000000_Gyeongsangnamdo_Hadong",
+            "shorten_url":"https:\/\/me2.do\/I5oqvPAY"
         },
         {
             "index":18,
@@ -274,7 +296,8 @@
             "value_score":20.1170526316,
             "region":"경상남도 하동군",
             "region_code":"Gyeongsangnamdo",
-            "sub_region_code":"4885000000_Gyeongsangnamdo_Hadong"
+            "sub_region_code":"4885000000_Gyeongsangnamdo_Hadong",
+            "shorten_url":"https:\/\/me2.do\/I5oqvPAY"
         },
         {
             "index":19,
@@ -286,7 +309,8 @@
             "value_score":17.8411578947,
             "region":"경상남도 하동군",
             "region_code":"Gyeongsangnamdo",
-            "sub_region_code":"4885000000_Gyeongsangnamdo_Hadong"
+            "sub_region_code":"4885000000_Gyeongsangnamdo_Hadong",
+            "shorten_url":"https:\/\/me2.do\/I5oqvPAY"
         },
         {
             "index":20,
@@ -298,7 +322,8 @@
             "value_score":16.2022105263,
             "region":"경상남도 하동군",
             "region_code":"Gyeongsangnamdo",
-            "sub_region_code":"4885000000_Gyeongsangnamdo_Hadong"
+            "sub_region_code":"4885000000_Gyeongsangnamdo_Hadong",
+            "shorten_url":"https:\/\/me2.do\/I5oqvPAY"
         },
         {
             "index":21,
@@ -310,7 +335,8 @@
             "value_score":32.9035,
             "region":"경상남도 하동군",
             "region_code":"Gyeongsangnamdo",
-            "sub_region_code":"4885000000_Gyeongsangnamdo_Hadong"
+            "sub_region_code":"4885000000_Gyeongsangnamdo_Hadong",
+            "shorten_url":"https:\/\/me2.do\/I5oqvPAY"
         },
         {
             "index":22,
@@ -322,7 +348,8 @@
             "value_score":32.179,
             "region":"경상남도 하동군",
             "region_code":"Gyeongsangnamdo",
-            "sub_region_code":"4885000000_Gyeongsangnamdo_Hadong"
+            "sub_region_code":"4885000000_Gyeongsangnamdo_Hadong",
+            "shorten_url":"https:\/\/me2.do\/I5oqvPAY"
         },
         {
             "index":23,
@@ -334,7 +361,8 @@
             "value_score":31.852,
             "region":"경상남도 하동군",
             "region_code":"Gyeongsangnamdo",
-            "sub_region_code":"4885000000_Gyeongsangnamdo_Hadong"
+            "sub_region_code":"4885000000_Gyeongsangnamdo_Hadong",
+            "shorten_url":"https:\/\/me2.do\/I5oqvPAY"
         },
         {
             "index":24,
@@ -346,7 +374,8 @@
             "value_score":29.4035,
             "region":"경상남도 하동군",
             "region_code":"Gyeongsangnamdo",
-            "sub_region_code":"4885000000_Gyeongsangnamdo_Hadong"
+            "sub_region_code":"4885000000_Gyeongsangnamdo_Hadong",
+            "shorten_url":"https:\/\/me2.do\/I5oqvPAY"
         },
         {
             "index":25,
@@ -358,7 +387,8 @@
             "value_score":28.6535,
             "region":"경상남도 하동군",
             "region_code":"Gyeongsangnamdo",
-            "sub_region_code":"4885000000_Gyeongsangnamdo_Hadong"
+            "sub_region_code":"4885000000_Gyeongsangnamdo_Hadong",
+            "shorten_url":"https:\/\/me2.do\/I5oqvPAY"
         },
         {
             "index":26,
@@ -370,7 +400,8 @@
             "value_score":28.2485,
             "region":"경상남도 하동군",
             "region_code":"Gyeongsangnamdo",
-            "sub_region_code":"4885000000_Gyeongsangnamdo_Hadong"
+            "sub_region_code":"4885000000_Gyeongsangnamdo_Hadong",
+            "shorten_url":"https:\/\/me2.do\/I5oqvPAY"
         },
         {
             "index":27,
@@ -382,7 +413,8 @@
             "value_score":25.6535,
             "region":"경상남도 하동군",
             "region_code":"Gyeongsangnamdo",
-            "sub_region_code":"4885000000_Gyeongsangnamdo_Hadong"
+            "sub_region_code":"4885000000_Gyeongsangnamdo_Hadong",
+            "shorten_url":"https:\/\/me2.do\/I5oqvPAY"
         }
     ]
 }

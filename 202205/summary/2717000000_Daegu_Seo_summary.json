@@ -40,6 +40,10 @@
             {
                 "name":"sub_region_code",
                 "type":"string"
+            },
+            {
+                "name":"shorten_url",
+                "type":"string"
             }
         ],
         "primaryKey":[
@@ -58,7 +62,8 @@
             "value_score":65.6464,
             "region":"대구시 서구",
             "region_code":"Daegu",
-            "sub_region_code":"2717000000_Daegu_Seo"
+            "sub_region_code":"2717000000_Daegu_Seo",
+            "shorten_url":"https:\/\/me2.do\/GnjJDZPh"
         },
         {
             "index":1,
@@ -70,7 +75,8 @@
             "value_score":59.11065,
             "region":"대구시 서구",
             "region_code":"Daegu",
-            "sub_region_code":"2717000000_Daegu_Seo"
+            "sub_region_code":"2717000000_Daegu_Seo",
+            "shorten_url":"https:\/\/me2.do\/GnjJDZPh"
         },
         {
             "index":2,
@@ -82,7 +88,8 @@
             "value_score":54.0961,
             "region":"대구시 서구",
             "region_code":"Daegu",
-            "sub_region_code":"2717000000_Daegu_Seo"
+            "sub_region_code":"2717000000_Daegu_Seo",
+            "shorten_url":"https:\/\/me2.do\/GnjJDZPh"
         },
         {
             "index":3,
@@ -94,7 +101,8 @@
             "value_score":53.4368,
             "region":"대구시 서구",
             "region_code":"Daegu",
-            "sub_region_code":"2717000000_Daegu_Seo"
+            "sub_region_code":"2717000000_Daegu_Seo",
+            "shorten_url":"https:\/\/me2.do\/GnjJDZPh"
         },
         {
             "index":4,
@@ -106,7 +114,8 @@
             "value_score":52.7118,
             "region":"대구시 서구",
             "region_code":"Daegu",
-            "sub_region_code":"2717000000_Daegu_Seo"
+            "sub_region_code":"2717000000_Daegu_Seo",
+            "shorten_url":"https:\/\/me2.do\/GnjJDZPh"
         },
         {
             "index":5,
@@ -118,7 +127,8 @@
             "value_score":52.1211,
             "region":"대구시 서구",
             "region_code":"Daegu",
-            "sub_region_code":"2717000000_Daegu_Seo"
+            "sub_region_code":"2717000000_Daegu_Seo",
+            "shorten_url":"https:\/\/me2.do\/GnjJDZPh"
         },
         {
             "index":6,
@@ -130,7 +140,8 @@
             "value_score":52.0161,
             "region":"대구시 서구",
             "region_code":"Daegu",
-            "sub_region_code":"2717000000_Daegu_Seo"
+            "sub_region_code":"2717000000_Daegu_Seo",
+            "shorten_url":"https:\/\/me2.do\/GnjJDZPh"
         },
         {
             "index":7,
@@ -142,7 +153,8 @@
             "value_score":51.1911,
             "region":"대구시 서구",
             "region_code":"Daegu",
-            "sub_region_code":"2717000000_Daegu_Seo"
+            "sub_region_code":"2717000000_Daegu_Seo",
+            "shorten_url":"https:\/\/me2.do\/GnjJDZPh"
         },
         {
             "index":8,
@@ -154,7 +166,8 @@
             "value_score":49.09875,
             "region":"대구시 서구",
             "region_code":"Daegu",
-            "sub_region_code":"2717000000_Daegu_Seo"
+            "sub_region_code":"2717000000_Daegu_Seo",
+            "shorten_url":"https:\/\/me2.do\/GnjJDZPh"
         },
         {
             "index":9,
@@ -166,7 +179,8 @@
             "value_score":48.4668,
             "region":"대구시 서구",
             "region_code":"Daegu",
-            "sub_region_code":"2717000000_Daegu_Seo"
+            "sub_region_code":"2717000000_Daegu_Seo",
+            "shorten_url":"https:\/\/me2.do\/GnjJDZPh"
         },
         {
             "index":10,
@@ -178,7 +192,8 @@
             "value_score":72.2908,
             "region":"대구시 서구",
             "region_code":"Daegu",
-            "sub_region_code":"2717000000_Daegu_Seo"
+            "sub_region_code":"2717000000_Daegu_Seo",
+            "shorten_url":"https:\/\/me2.do\/GnjJDZPh"
         },
         {
             "index":11,
@@ -190,7 +205,8 @@
             "value_score":65.6418,
             "region":"대구시 서구",
             "region_code":"Daegu",
-            "sub_region_code":"2717000000_Daegu_Seo"
+            "sub_region_code":"2717000000_Daegu_Seo",
+            "shorten_url":"https:\/\/me2.do\/GnjJDZPh"
         },
         {
             "index":12,
@@ -202,7 +218,8 @@
             "value_score":59.2496,
             "region":"대구시 서구",
             "region_code":"Daegu",
-            "sub_region_code":"2717000000_Daegu_Seo"
+            "sub_region_code":"2717000000_Daegu_Seo",
+            "shorten_url":"https:\/\/me2.do\/GnjJDZPh"
         },
         {
             "index":13,
@@ -214,7 +231,8 @@
             "value_score":58.7392,
             "region":"대구시 서구",
             "region_code":"Daegu",
-            "sub_region_code":"2717000000_Daegu_Seo"
+            "sub_region_code":"2717000000_Daegu_Seo",
+            "shorten_url":"https:\/\/me2.do\/GnjJDZPh"
         },
         {
             "index":14,
@@ -226,7 +244,8 @@
             "value_score":57.9996,
             "region":"대구시 서구",
             "region_code":"Daegu",
-            "sub_region_code":"2717000000_Daegu_Seo"
+            "sub_region_code":"2717000000_Daegu_Seo",
+            "shorten_url":"https:\/\/me2.do\/GnjJDZPh"
         },
         {
             "index":15,
@@ -238,7 +257,8 @@
             "value_score":56.9892,
             "region":"대구시 서구",
             "region_code":"Daegu",
-            "sub_region_code":"2717000000_Daegu_Seo"
+            "sub_region_code":"2717000000_Daegu_Seo",
+            "shorten_url":"https:\/\/me2.do\/GnjJDZPh"
         },
         {
             "index":16,
@@ -250,7 +270,8 @@
             "value_score":56.6592,
             "region":"대구시 서구",
             "region_code":"Daegu",
-            "sub_region_code":"2717000000_Daegu_Seo"
+            "sub_region_code":"2717000000_Daegu_Seo",
+            "shorten_url":"https:\/\/me2.do\/GnjJDZPh"
         },
         {
             "index":17,
@@ -262,7 +283,8 @@
             "value_score":56.2092,
             "region":"대구시 서구",
             "region_code":"Daegu",
-            "sub_region_code":"2717000000_Daegu_Seo"
+            "sub_region_code":"2717000000_Daegu_Seo",
+            "shorten_url":"https:\/\/me2.do\/GnjJDZPh"
         },
         {
             "index":18,
@@ -274,7 +296,8 @@
             "value_score":54.735,
             "region":"대구시 서구",
             "region_code":"Daegu",
-            "sub_region_code":"2717000000_Daegu_Seo"
+            "sub_region_code":"2717000000_Daegu_Seo",
+            "shorten_url":"https:\/\/me2.do\/GnjJDZPh"
         },
         {
             "index":19,
@@ -286,7 +309,8 @@
             "value_score":53.2296,
             "region":"대구시 서구",
             "region_code":"Daegu",
-            "sub_region_code":"2717000000_Daegu_Seo"
+            "sub_region_code":"2717000000_Daegu_Seo",
+            "shorten_url":"https:\/\/me2.do\/GnjJDZPh"
         },
         {
             "index":20,
@@ -298,7 +322,8 @@
             "value_score":58.81885,
             "region":"대구시 서구",
             "region_code":"Daegu",
-            "sub_region_code":"2717000000_Daegu_Seo"
+            "sub_region_code":"2717000000_Daegu_Seo",
+            "shorten_url":"https:\/\/me2.do\/GnjJDZPh"
         },
         {
             "index":21,
@@ -310,7 +335,8 @@
             "value_score":56.7306,
             "region":"대구시 서구",
             "region_code":"Daegu",
-            "sub_region_code":"2717000000_Daegu_Seo"
+            "sub_region_code":"2717000000_Daegu_Seo",
+            "shorten_url":"https:\/\/me2.do\/GnjJDZPh"
         },
         {
             "index":22,
@@ -322,7 +348,8 @@
             "value_score":56.37385,
             "region":"대구시 서구",
             "region_code":"Daegu",
-            "sub_region_code":"2717000000_Daegu_Seo"
+            "sub_region_code":"2717000000_Daegu_Seo",
+            "shorten_url":"https:\/\/me2.do\/GnjJDZPh"
         },
         {
             "index":23,
@@ -334,7 +361,8 @@
             "value_score":56.3056,
             "region":"대구시 서구",
             "region_code":"Daegu",
-            "sub_region_code":"2717000000_Daegu_Seo"
+            "sub_region_code":"2717000000_Daegu_Seo",
+            "shorten_url":"https:\/\/me2.do\/GnjJDZPh"
         },
         {
             "index":24,
@@ -346,7 +374,8 @@
             "value_score":55.2171,
             "region":"대구시 서구",
             "region_code":"Daegu",
-            "sub_region_code":"2717000000_Daegu_Seo"
+            "sub_region_code":"2717000000_Daegu_Seo",
+            "shorten_url":"https:\/\/me2.do\/GnjJDZPh"
         },
         {
             "index":25,
@@ -358,7 +387,8 @@
             "value_score":48.7556,
             "region":"대구시 서구",
             "region_code":"Daegu",
-            "sub_region_code":"2717000000_Daegu_Seo"
+            "sub_region_code":"2717000000_Daegu_Seo",
+            "shorten_url":"https:\/\/me2.do\/GnjJDZPh"
         },
         {
             "index":26,
@@ -370,7 +400,8 @@
             "value_score":48.42385,
             "region":"대구시 서구",
             "region_code":"Daegu",
-            "sub_region_code":"2717000000_Daegu_Seo"
+            "sub_region_code":"2717000000_Daegu_Seo",
+            "shorten_url":"https:\/\/me2.do\/GnjJDZPh"
         },
         {
             "index":27,
@@ -382,7 +413,8 @@
             "value_score":47.9356,
             "region":"대구시 서구",
             "region_code":"Daegu",
-            "sub_region_code":"2717000000_Daegu_Seo"
+            "sub_region_code":"2717000000_Daegu_Seo",
+            "shorten_url":"https:\/\/me2.do\/GnjJDZPh"
         },
         {
             "index":28,
@@ -394,7 +426,8 @@
             "value_score":47.6306,
             "region":"대구시 서구",
             "region_code":"Daegu",
-            "sub_region_code":"2717000000_Daegu_Seo"
+            "sub_region_code":"2717000000_Daegu_Seo",
+            "shorten_url":"https:\/\/me2.do\/GnjJDZPh"
         },
         {
             "index":29,
@@ -406,7 +439,8 @@
             "value_score":47.3421,
             "region":"대구시 서구",
             "region_code":"Daegu",
-            "sub_region_code":"2717000000_Daegu_Seo"
+            "sub_region_code":"2717000000_Daegu_Seo",
+            "shorten_url":"https:\/\/me2.do\/GnjJDZPh"
         },
         {
             "index":30,
@@ -418,7 +452,8 @@
             "value_score":60.601,
             "region":"대구시 서구",
             "region_code":"Daegu",
-            "sub_region_code":"2717000000_Daegu_Seo"
+            "sub_region_code":"2717000000_Daegu_Seo",
+            "shorten_url":"https:\/\/me2.do\/GnjJDZPh"
         },
         {
             "index":31,
@@ -430,7 +465,8 @@
             "value_score":59.88975,
             "region":"대구시 서구",
             "region_code":"Daegu",
-            "sub_region_code":"2717000000_Daegu_Seo"
+            "sub_region_code":"2717000000_Daegu_Seo",
+            "shorten_url":"https:\/\/me2.do\/GnjJDZPh"
         },
         {
             "index":32,
@@ -442,7 +478,8 @@
             "value_score":58.501,
             "region":"대구시 서구",
             "region_code":"Daegu",
-            "sub_region_code":"2717000000_Daegu_Seo"
+            "sub_region_code":"2717000000_Daegu_Seo",
+            "shorten_url":"https:\/\/me2.do\/GnjJDZPh"
         },
         {
             "index":33,
@@ -454,7 +491,8 @@
             "value_score":54.801,
             "region":"대구시 서구",
             "region_code":"Daegu",
-            "sub_region_code":"2717000000_Daegu_Seo"
+            "sub_region_code":"2717000000_Daegu_Seo",
+            "shorten_url":"https:\/\/me2.do\/GnjJDZPh"
         },
         {
             "index":34,
@@ -466,7 +504,8 @@
             "value_score":54.7285,
             "region":"대구시 서구",
             "region_code":"Daegu",
-            "sub_region_code":"2717000000_Daegu_Seo"
+            "sub_region_code":"2717000000_Daegu_Seo",
+            "shorten_url":"https:\/\/me2.do\/GnjJDZPh"
         },
         {
             "index":35,
@@ -478,7 +517,8 @@
             "value_score":53.48975,
             "region":"대구시 서구",
             "region_code":"Daegu",
-            "sub_region_code":"2717000000_Daegu_Seo"
+            "sub_region_code":"2717000000_Daegu_Seo",
+            "shorten_url":"https:\/\/me2.do\/GnjJDZPh"
         },
         {
             "index":36,
@@ -490,7 +530,8 @@
             "value_score":53.3285,
             "region":"대구시 서구",
             "region_code":"Daegu",
-            "sub_region_code":"2717000000_Daegu_Seo"
+            "sub_region_code":"2717000000_Daegu_Seo",
+            "shorten_url":"https:\/\/me2.do\/GnjJDZPh"
         },
         {
             "index":37,
@@ -502,7 +543,8 @@
             "value_score":52.062,
             "region":"대구시 서구",
             "region_code":"Daegu",
-            "sub_region_code":"2717000000_Daegu_Seo"
+            "sub_region_code":"2717000000_Daegu_Seo",
+            "shorten_url":"https:\/\/me2.do\/GnjJDZPh"
         },
         {
             "index":38,
@@ -514,7 +556,8 @@
             "value_score":46.43975,
             "region":"대구시 서구",
             "region_code":"Daegu",
-            "sub_region_code":"2717000000_Daegu_Seo"
+            "sub_region_code":"2717000000_Daegu_Seo",
+            "shorten_url":"https:\/\/me2.do\/GnjJDZPh"
         },
         {
             "index":39,
@@ -526,7 +569,8 @@
             "value_score":45.81825,
             "region":"대구시 서구",
             "region_code":"Daegu",
-            "sub_region_code":"2717000000_Daegu_Seo"
+            "sub_region_code":"2717000000_Daegu_Seo",
+            "shorten_url":"https:\/\/me2.do\/GnjJDZPh"
         },
         {
             "index":40,
@@ -538,7 +582,8 @@
             "value_score":59.002,
             "region":"대구시 서구",
             "region_code":"Daegu",
-            "sub_region_code":"2717000000_Daegu_Seo"
+            "sub_region_code":"2717000000_Daegu_Seo",
+            "shorten_url":"https:\/\/me2.do\/GnjJDZPh"
         },
         {
             "index":41,
@@ -550,7 +595,8 @@
             "value_score":52.5795,
             "region":"대구시 서구",
             "region_code":"Daegu",
-            "sub_region_code":"2717000000_Daegu_Seo"
+            "sub_region_code":"2717000000_Daegu_Seo",
+            "shorten_url":"https:\/\/me2.do\/GnjJDZPh"
         },
         {
             "index":42,
@@ -562,7 +608,8 @@
             "value_score":49.453,
             "region":"대구시 서구",
             "region_code":"Daegu",
-            "sub_region_code":"2717000000_Daegu_Seo"
+            "sub_region_code":"2717000000_Daegu_Seo",
+            "shorten_url":"https:\/\/me2.do\/GnjJDZPh"
         },
         {
             "index":43,
@@ -574,7 +621,8 @@
             "value_score":47.882,
             "region":"대구시 서구",
             "region_code":"Daegu",
-            "sub_region_code":"2717000000_Daegu_Seo"
+            "sub_region_code":"2717000000_Daegu_Seo",
+            "shorten_url":"https:\/\/me2.do\/GnjJDZPh"
         },
         {
             "index":44,
@@ -586,7 +634,8 @@
             "value_score":47.624,
             "region":"대구시 서구",
             "region_code":"Daegu",
-            "sub_region_code":"2717000000_Daegu_Seo"
+            "sub_region_code":"2717000000_Daegu_Seo",
+            "shorten_url":"https:\/\/me2.do\/GnjJDZPh"
         },
         {
             "index":45,
@@ -598,7 +647,8 @@
             "value_score":47.424,
             "region":"대구시 서구",
             "region_code":"Daegu",
-            "sub_region_code":"2717000000_Daegu_Seo"
+            "sub_region_code":"2717000000_Daegu_Seo",
+            "shorten_url":"https:\/\/me2.do\/GnjJDZPh"
         },
         {
             "index":46,
@@ -610,7 +660,8 @@
             "value_score":47.402,
             "region":"대구시 서구",
             "region_code":"Daegu",
-            "sub_region_code":"2717000000_Daegu_Seo"
+            "sub_region_code":"2717000000_Daegu_Seo",
+            "shorten_url":"https:\/\/me2.do\/GnjJDZPh"
         },
         {
             "index":47,
@@ -622,7 +673,8 @@
             "value_score":47.373,
             "region":"대구시 서구",
             "region_code":"Daegu",
-            "sub_region_code":"2717000000_Daegu_Seo"
+            "sub_region_code":"2717000000_Daegu_Seo",
+            "shorten_url":"https:\/\/me2.do\/GnjJDZPh"
         },
         {
             "index":48,
@@ -634,7 +686,8 @@
             "value_score":47.257,
             "region":"대구시 서구",
             "region_code":"Daegu",
-            "sub_region_code":"2717000000_Daegu_Seo"
+            "sub_region_code":"2717000000_Daegu_Seo",
+            "shorten_url":"https:\/\/me2.do\/GnjJDZPh"
         },
         {
             "index":49,
@@ -646,7 +699,8 @@
             "value_score":47.253,
             "region":"대구시 서구",
             "region_code":"Daegu",
-            "sub_region_code":"2717000000_Daegu_Seo"
+            "sub_region_code":"2717000000_Daegu_Seo",
+            "shorten_url":"https:\/\/me2.do\/GnjJDZPh"
         }
     ]
 }

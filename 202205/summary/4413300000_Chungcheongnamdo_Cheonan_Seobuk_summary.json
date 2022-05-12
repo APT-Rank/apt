@@ -40,6 +40,10 @@
             {
                 "name":"sub_region_code",
                 "type":"string"
+            },
+            {
+                "name":"shorten_url",
+                "type":"string"
             }
         ],
         "primaryKey":[
@@ -58,7 +62,8 @@
             "value_score":74.8893,
             "region":"충청남도 천안시 서북구",
             "region_code":"Chungcheongnamdo",
-            "sub_region_code":"4413300000_Chungcheongnamdo_Cheonan_Seobuk"
+            "sub_region_code":"4413300000_Chungcheongnamdo_Cheonan_Seobuk",
+            "shorten_url":"https:\/\/me2.do\/5Db40hqF"
         },
         {
             "index":1,
@@ -70,7 +75,8 @@
             "value_score":74.7143,
             "region":"충청남도 천안시 서북구",
             "region_code":"Chungcheongnamdo",
-            "sub_region_code":"4413300000_Chungcheongnamdo_Cheonan_Seobuk"
+            "sub_region_code":"4413300000_Chungcheongnamdo_Cheonan_Seobuk",
+            "shorten_url":"https:\/\/me2.do\/5Db40hqF"
         },
         {
             "index":2,
@@ -82,7 +88,8 @@
             "value_score":74.5393,
             "region":"충청남도 천안시 서북구",
             "region_code":"Chungcheongnamdo",
-            "sub_region_code":"4413300000_Chungcheongnamdo_Cheonan_Seobuk"
+            "sub_region_code":"4413300000_Chungcheongnamdo_Cheonan_Seobuk",
+            "shorten_url":"https:\/\/me2.do\/5Db40hqF"
         },
         {
             "index":3,
@@ -94,7 +101,8 @@
             "value_score":73.7393,
             "region":"충청남도 천안시 서북구",
             "region_code":"Chungcheongnamdo",
-            "sub_region_code":"4413300000_Chungcheongnamdo_Cheonan_Seobuk"
+            "sub_region_code":"4413300000_Chungcheongnamdo_Cheonan_Seobuk",
+            "shorten_url":"https:\/\/me2.do\/5Db40hqF"
         },
         {
             "index":4,
@@ -106,7 +114,8 @@
             "value_score":72.5643,
             "region":"충청남도 천안시 서북구",
             "region_code":"Chungcheongnamdo",
-            "sub_region_code":"4413300000_Chungcheongnamdo_Cheonan_Seobuk"
+            "sub_region_code":"4413300000_Chungcheongnamdo_Cheonan_Seobuk",
+            "shorten_url":"https:\/\/me2.do\/5Db40hqF"
         },
         {
             "index":5,
@@ -118,7 +127,8 @@
             "value_score":72.3893,
             "region":"충청남도 천안시 서북구",
             "region_code":"Chungcheongnamdo",
-            "sub_region_code":"4413300000_Chungcheongnamdo_Cheonan_Seobuk"
+            "sub_region_code":"4413300000_Chungcheongnamdo_Cheonan_Seobuk",
+            "shorten_url":"https:\/\/me2.do\/5Db40hqF"
         },
         {
             "index":6,
@@ -130,7 +140,8 @@
             "value_score":70.00065,
             "region":"충청남도 천안시 서북구",
             "region_code":"Chungcheongnamdo",
-            "sub_region_code":"4413300000_Chungcheongnamdo_Cheonan_Seobuk"
+            "sub_region_code":"4413300000_Chungcheongnamdo_Cheonan_Seobuk",
+            "shorten_url":"https:\/\/me2.do\/5Db40hqF"
         },
         {
             "index":7,
@@ -142,7 +153,8 @@
             "value_score":69.5893,
             "region":"충청남도 천안시 서북구",
             "region_code":"Chungcheongnamdo",
-            "sub_region_code":"4413300000_Chungcheongnamdo_Cheonan_Seobuk"
+            "sub_region_code":"4413300000_Chungcheongnamdo_Cheonan_Seobuk",
+            "shorten_url":"https:\/\/me2.do\/5Db40hqF"
         },
         {
             "index":8,
@@ -154,7 +166,8 @@
             "value_score":68.0393,
             "region":"충청남도 천안시 서북구",
             "region_code":"Chungcheongnamdo",
-            "sub_region_code":"4413300000_Chungcheongnamdo_Cheonan_Seobuk"
+            "sub_region_code":"4413300000_Chungcheongnamdo_Cheonan_Seobuk",
+            "shorten_url":"https:\/\/me2.do\/5Db40hqF"
         },
         {
             "index":9,
@@ -166,7 +179,8 @@
             "value_score":66.3393,
             "region":"충청남도 천안시 서북구",
             "region_code":"Chungcheongnamdo",
-            "sub_region_code":"4413300000_Chungcheongnamdo_Cheonan_Seobuk"
+            "sub_region_code":"4413300000_Chungcheongnamdo_Cheonan_Seobuk",
+            "shorten_url":"https:\/\/me2.do\/5Db40hqF"
         },
         {
             "index":10,
@@ -178,7 +192,8 @@
             "value_score":76.3495,
             "region":"충청남도 천안시 서북구",
             "region_code":"Chungcheongnamdo",
-            "sub_region_code":"4413300000_Chungcheongnamdo_Cheonan_Seobuk"
+            "sub_region_code":"4413300000_Chungcheongnamdo_Cheonan_Seobuk",
+            "shorten_url":"https:\/\/me2.do\/5Db40hqF"
         },
         {
             "index":11,
@@ -190,7 +205,8 @@
             "value_score":75.0995,
             "region":"충청남도 천안시 서북구",
             "region_code":"Chungcheongnamdo",
-            "sub_region_code":"4413300000_Chungcheongnamdo_Cheonan_Seobuk"
+            "sub_region_code":"4413300000_Chungcheongnamdo_Cheonan_Seobuk",
+            "shorten_url":"https:\/\/me2.do\/5Db40hqF"
         },
         {
             "index":12,
@@ -202,7 +218,8 @@
             "value_score":74.3495,
             "region":"충청남도 천안시 서북구",
             "region_code":"Chungcheongnamdo",
-            "sub_region_code":"4413300000_Chungcheongnamdo_Cheonan_Seobuk"
+            "sub_region_code":"4413300000_Chungcheongnamdo_Cheonan_Seobuk",
+            "shorten_url":"https:\/\/me2.do\/5Db40hqF"
         },
         {
             "index":13,
@@ -214,7 +231,8 @@
             "value_score":73.2245,
             "region":"충청남도 천안시 서북구",
             "region_code":"Chungcheongnamdo",
-            "sub_region_code":"4413300000_Chungcheongnamdo_Cheonan_Seobuk"
+            "sub_region_code":"4413300000_Chungcheongnamdo_Cheonan_Seobuk",
+            "shorten_url":"https:\/\/me2.do\/5Db40hqF"
         },
         {
             "index":14,
@@ -226,7 +244,8 @@
             "value_score":72.9745,
             "region":"충청남도 천안시 서북구",
             "region_code":"Chungcheongnamdo",
-            "sub_region_code":"4413300000_Chungcheongnamdo_Cheonan_Seobuk"
+            "sub_region_code":"4413300000_Chungcheongnamdo_Cheonan_Seobuk",
+            "shorten_url":"https:\/\/me2.do\/5Db40hqF"
         },
         {
             "index":15,
@@ -238,7 +257,8 @@
             "value_score":72.1995,
             "region":"충청남도 천안시 서북구",
             "region_code":"Chungcheongnamdo",
-            "sub_region_code":"4413300000_Chungcheongnamdo_Cheonan_Seobuk"
+            "sub_region_code":"4413300000_Chungcheongnamdo_Cheonan_Seobuk",
+            "shorten_url":"https:\/\/me2.do\/5Db40hqF"
         },
         {
             "index":16,
@@ -250,7 +270,8 @@
             "value_score":69.96475,
             "region":"충청남도 천안시 서북구",
             "region_code":"Chungcheongnamdo",
-            "sub_region_code":"4413300000_Chungcheongnamdo_Cheonan_Seobuk"
+            "sub_region_code":"4413300000_Chungcheongnamdo_Cheonan_Seobuk",
+            "shorten_url":"https:\/\/me2.do\/5Db40hqF"
         },
         {
             "index":17,
@@ -262,7 +283,8 @@
             "value_score":68.8495,
             "region":"충청남도 천안시 서북구",
             "region_code":"Chungcheongnamdo",
-            "sub_region_code":"4413300000_Chungcheongnamdo_Cheonan_Seobuk"
+            "sub_region_code":"4413300000_Chungcheongnamdo_Cheonan_Seobuk",
+            "shorten_url":"https:\/\/me2.do\/5Db40hqF"
         },
         {
             "index":18,
@@ -274,7 +296,8 @@
             "value_score":67.9745,
             "region":"충청남도 천안시 서북구",
             "region_code":"Chungcheongnamdo",
-            "sub_region_code":"4413300000_Chungcheongnamdo_Cheonan_Seobuk"
+            "sub_region_code":"4413300000_Chungcheongnamdo_Cheonan_Seobuk",
+            "shorten_url":"https:\/\/me2.do\/5Db40hqF"
         },
         {
             "index":19,
@@ -286,7 +309,8 @@
             "value_score":67.22575,
             "region":"충청남도 천안시 서북구",
             "region_code":"Chungcheongnamdo",
-            "sub_region_code":"4413300000_Chungcheongnamdo_Cheonan_Seobuk"
+            "sub_region_code":"4413300000_Chungcheongnamdo_Cheonan_Seobuk",
+            "shorten_url":"https:\/\/me2.do\/5Db40hqF"
         },
         {
             "index":20,
@@ -298,7 +322,8 @@
             "value_score":78.6256842105,
             "region":"충청남도 천안시 서북구",
             "region_code":"Chungcheongnamdo",
-            "sub_region_code":"4413300000_Chungcheongnamdo_Cheonan_Seobuk"
+            "sub_region_code":"4413300000_Chungcheongnamdo_Cheonan_Seobuk",
+            "shorten_url":"https:\/\/me2.do\/5Db40hqF"
         },
         {
             "index":21,
@@ -310,7 +335,8 @@
             "value_score":75.9941052632,
             "region":"충청남도 천안시 서북구",
             "region_code":"Chungcheongnamdo",
-            "sub_region_code":"4413300000_Chungcheongnamdo_Cheonan_Seobuk"
+            "sub_region_code":"4413300000_Chungcheongnamdo_Cheonan_Seobuk",
+            "shorten_url":"https:\/\/me2.do\/5Db40hqF"
         },
         {
             "index":22,
@@ -322,7 +348,8 @@
             "value_score":74.4941052632,
             "region":"충청남도 천안시 서북구",
             "region_code":"Chungcheongnamdo",
-            "sub_region_code":"4413300000_Chungcheongnamdo_Cheonan_Seobuk"
+            "sub_region_code":"4413300000_Chungcheongnamdo_Cheonan_Seobuk",
+            "shorten_url":"https:\/\/me2.do\/5Db40hqF"
         },
         {
             "index":23,
@@ -334,7 +361,8 @@
             "value_score":74.3625263158,
             "region":"충청남도 천안시 서북구",
             "region_code":"Chungcheongnamdo",
-            "sub_region_code":"4413300000_Chungcheongnamdo_Cheonan_Seobuk"
+            "sub_region_code":"4413300000_Chungcheongnamdo_Cheonan_Seobuk",
+            "shorten_url":"https:\/\/me2.do\/5Db40hqF"
         },
         {
             "index":24,
@@ -346,7 +374,8 @@
             "value_score":72.0730526316,
             "region":"충청남도 천안시 서북구",
             "region_code":"Chungcheongnamdo",
-            "sub_region_code":"4413300000_Chungcheongnamdo_Cheonan_Seobuk"
+            "sub_region_code":"4413300000_Chungcheongnamdo_Cheonan_Seobuk",
+            "shorten_url":"https:\/\/me2.do\/5Db40hqF"
         },
         {
             "index":25,
@@ -358,7 +387,8 @@
             "value_score":72.0607368421,
             "region":"충청남도 천안시 서북구",
             "region_code":"Chungcheongnamdo",
-            "sub_region_code":"4413300000_Chungcheongnamdo_Cheonan_Seobuk"
+            "sub_region_code":"4413300000_Chungcheongnamdo_Cheonan_Seobuk",
+            "shorten_url":"https:\/\/me2.do\/5Db40hqF"
         },
         {
             "index":26,
@@ -370,7 +400,8 @@
             "value_score":71.4677894737,
             "region":"충청남도 천안시 서북구",
             "region_code":"Chungcheongnamdo",
-            "sub_region_code":"4413300000_Chungcheongnamdo_Cheonan_Seobuk"
+            "sub_region_code":"4413300000_Chungcheongnamdo_Cheonan_Seobuk",
+            "shorten_url":"https:\/\/me2.do\/5Db40hqF"
         },
         {
             "index":27,
@@ -382,7 +413,8 @@
             "value_score":70.3362105263,
             "region":"충청남도 천안시 서북구",
             "region_code":"Chungcheongnamdo",
-            "sub_region_code":"4413300000_Chungcheongnamdo_Cheonan_Seobuk"
+            "sub_region_code":"4413300000_Chungcheongnamdo_Cheonan_Seobuk",
+            "shorten_url":"https:\/\/me2.do\/5Db40hqF"
         },
         {
             "index":28,
@@ -394,7 +426,8 @@
             "value_score":69.4086315789,
             "region":"충청남도 천안시 서북구",
             "region_code":"Chungcheongnamdo",
-            "sub_region_code":"4413300000_Chungcheongnamdo_Cheonan_Seobuk"
+            "sub_region_code":"4413300000_Chungcheongnamdo_Cheonan_Seobuk",
+            "shorten_url":"https:\/\/me2.do\/5Db40hqF"
         },
         {
             "index":29,
@@ -406,7 +439,8 @@
             "value_score":69.3362105263,
             "region":"충청남도 천안시 서북구",
             "region_code":"Chungcheongnamdo",
-            "sub_region_code":"4413300000_Chungcheongnamdo_Cheonan_Seobuk"
+            "sub_region_code":"4413300000_Chungcheongnamdo_Cheonan_Seobuk",
+            "shorten_url":"https:\/\/me2.do\/5Db40hqF"
         },
         {
             "index":30,
@@ -418,7 +452,8 @@
             "value_score":76.949,
             "region":"충청남도 천안시 서북구",
             "region_code":"Chungcheongnamdo",
-            "sub_region_code":"4413300000_Chungcheongnamdo_Cheonan_Seobuk"
+            "sub_region_code":"4413300000_Chungcheongnamdo_Cheonan_Seobuk",
+            "shorten_url":"https:\/\/me2.do\/5Db40hqF"
         },
         {
             "index":31,
@@ -430,7 +465,8 @@
             "value_score":74.824,
             "region":"충청남도 천안시 서북구",
             "region_code":"Chungcheongnamdo",
-            "sub_region_code":"4413300000_Chungcheongnamdo_Cheonan_Seobuk"
+            "sub_region_code":"4413300000_Chungcheongnamdo_Cheonan_Seobuk",
+            "shorten_url":"https:\/\/me2.do\/5Db40hqF"
         },
         {
             "index":32,
@@ -442,7 +478,8 @@
             "value_score":72.699,
             "region":"충청남도 천안시 서북구",
             "region_code":"Chungcheongnamdo",
-            "sub_region_code":"4413300000_Chungcheongnamdo_Cheonan_Seobuk"
+            "sub_region_code":"4413300000_Chungcheongnamdo_Cheonan_Seobuk",
+            "shorten_url":"https:\/\/me2.do\/5Db40hqF"
         },
         {
             "index":33,
@@ -454,7 +491,8 @@
             "value_score":72.674,
             "region":"충청남도 천안시 서북구",
             "region_code":"Chungcheongnamdo",
-            "sub_region_code":"4413300000_Chungcheongnamdo_Cheonan_Seobuk"
+            "sub_region_code":"4413300000_Chungcheongnamdo_Cheonan_Seobuk",
+            "shorten_url":"https:\/\/me2.do\/5Db40hqF"
         },
         {
             "index":34,
@@ -466,7 +504,8 @@
             "value_score":72.449,
             "region":"충청남도 천안시 서북구",
             "region_code":"Chungcheongnamdo",
-            "sub_region_code":"4413300000_Chungcheongnamdo_Cheonan_Seobuk"
+            "sub_region_code":"4413300000_Chungcheongnamdo_Cheonan_Seobuk",
+            "shorten_url":"https:\/\/me2.do\/5Db40hqF"
         },
         {
             "index":35,
@@ -478,7 +517,8 @@
             "value_score":71.949,
             "region":"충청남도 천안시 서북구",
             "region_code":"Chungcheongnamdo",
-            "sub_region_code":"4413300000_Chungcheongnamdo_Cheonan_Seobuk"
+            "sub_region_code":"4413300000_Chungcheongnamdo_Cheonan_Seobuk",
+            "shorten_url":"https:\/\/me2.do\/5Db40hqF"
         },
         {
             "index":36,
@@ -490,7 +530,8 @@
             "value_score":71.699,
             "region":"충청남도 천안시 서북구",
             "region_code":"Chungcheongnamdo",
-            "sub_region_code":"4413300000_Chungcheongnamdo_Cheonan_Seobuk"
+            "sub_region_code":"4413300000_Chungcheongnamdo_Cheonan_Seobuk",
+            "shorten_url":"https:\/\/me2.do\/5Db40hqF"
         },
         {
             "index":37,
@@ -502,7 +543,8 @@
             "value_score":70.699,
             "region":"충청남도 천안시 서북구",
             "region_code":"Chungcheongnamdo",
-            "sub_region_code":"4413300000_Chungcheongnamdo_Cheonan_Seobuk"
+            "sub_region_code":"4413300000_Chungcheongnamdo_Cheonan_Seobuk",
+            "shorten_url":"https:\/\/me2.do\/5Db40hqF"
         },
         {
             "index":38,
@@ -514,7 +556,8 @@
             "value_score":70.0545,
             "region":"충청남도 천안시 서북구",
             "region_code":"Chungcheongnamdo",
-            "sub_region_code":"4413300000_Chungcheongnamdo_Cheonan_Seobuk"
+            "sub_region_code":"4413300000_Chungcheongnamdo_Cheonan_Seobuk",
+            "shorten_url":"https:\/\/me2.do\/5Db40hqF"
         },
         {
             "index":39,
@@ -526,7 +569,8 @@
             "value_score":67.449,
             "region":"충청남도 천안시 서북구",
             "region_code":"Chungcheongnamdo",
-            "sub_region_code":"4413300000_Chungcheongnamdo_Cheonan_Seobuk"
+            "sub_region_code":"4413300000_Chungcheongnamdo_Cheonan_Seobuk",
+            "shorten_url":"https:\/\/me2.do\/5Db40hqF"
         }
     ]
 }

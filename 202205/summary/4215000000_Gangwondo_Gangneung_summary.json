@@ -40,6 +40,10 @@
             {
                 "name":"sub_region_code",
                 "type":"string"
+            },
+            {
+                "name":"shorten_url",
+                "type":"string"
             }
         ],
         "primaryKey":[
@@ -58,7 +62,8 @@
             "value_score":63.62855,
             "region":"강원도 강릉시",
             "region_code":"Gangwondo",
-            "sub_region_code":"4215000000_Gangwondo_Gangneung"
+            "sub_region_code":"4215000000_Gangwondo_Gangneung",
+            "shorten_url":"https:\/\/me2.do\/FSQtrIfg"
         },
         {
             "index":1,
@@ -70,7 +75,8 @@
             "value_score":60.97855,
             "region":"강원도 강릉시",
             "region_code":"Gangwondo",
-            "sub_region_code":"4215000000_Gangwondo_Gangneung"
+            "sub_region_code":"4215000000_Gangwondo_Gangneung",
+            "shorten_url":"https:\/\/me2.do\/FSQtrIfg"
         },
         {
             "index":2,
@@ -82,7 +88,8 @@
             "value_score":57.57855,
             "region":"강원도 강릉시",
             "region_code":"Gangwondo",
-            "sub_region_code":"4215000000_Gangwondo_Gangneung"
+            "sub_region_code":"4215000000_Gangwondo_Gangneung",
+            "shorten_url":"https:\/\/me2.do\/FSQtrIfg"
         },
         {
             "index":3,
@@ -94,7 +101,8 @@
             "value_score":56.991,
             "region":"강원도 강릉시",
             "region_code":"Gangwondo",
-            "sub_region_code":"4215000000_Gangwondo_Gangneung"
+            "sub_region_code":"4215000000_Gangwondo_Gangneung",
+            "shorten_url":"https:\/\/me2.do\/FSQtrIfg"
         },
         {
             "index":4,
@@ -106,7 +114,8 @@
             "value_score":55.9133,
             "region":"강원도 강릉시",
             "region_code":"Gangwondo",
-            "sub_region_code":"4215000000_Gangwondo_Gangneung"
+            "sub_region_code":"4215000000_Gangwondo_Gangneung",
+            "shorten_url":"https:\/\/me2.do\/FSQtrIfg"
         },
         {
             "index":5,
@@ -118,7 +127,8 @@
             "value_score":55.52855,
             "region":"강원도 강릉시",
             "region_code":"Gangwondo",
-            "sub_region_code":"4215000000_Gangwondo_Gangneung"
+            "sub_region_code":"4215000000_Gangwondo_Gangneung",
+            "shorten_url":"https:\/\/me2.do\/FSQtrIfg"
         },
         {
             "index":6,
@@ -130,7 +140,8 @@
             "value_score":54.97855,
             "region":"강원도 강릉시",
             "region_code":"Gangwondo",
-            "sub_region_code":"4215000000_Gangwondo_Gangneung"
+            "sub_region_code":"4215000000_Gangwondo_Gangneung",
+            "shorten_url":"https:\/\/me2.do\/FSQtrIfg"
         },
         {
             "index":7,
@@ -142,7 +153,8 @@
             "value_score":54.92855,
             "region":"강원도 강릉시",
             "region_code":"Gangwondo",
-            "sub_region_code":"4215000000_Gangwondo_Gangneung"
+            "sub_region_code":"4215000000_Gangwondo_Gangneung",
+            "shorten_url":"https:\/\/me2.do\/FSQtrIfg"
         },
         {
             "index":8,
@@ -154,7 +166,8 @@
             "value_score":54.2133,
             "region":"강원도 강릉시",
             "region_code":"Gangwondo",
-            "sub_region_code":"4215000000_Gangwondo_Gangneung"
+            "sub_region_code":"4215000000_Gangwondo_Gangneung",
+            "shorten_url":"https:\/\/me2.do\/FSQtrIfg"
         },
         {
             "index":9,
@@ -166,7 +179,8 @@
             "value_score":52.82855,
             "region":"강원도 강릉시",
             "region_code":"Gangwondo",
-            "sub_region_code":"4215000000_Gangwondo_Gangneung"
+            "sub_region_code":"4215000000_Gangwondo_Gangneung",
+            "shorten_url":"https:\/\/me2.do\/FSQtrIfg"
         },
         {
             "index":10,
@@ -178,7 +192,8 @@
             "value_score":65.66325,
             "region":"강원도 강릉시",
             "region_code":"Gangwondo",
-            "sub_region_code":"4215000000_Gangwondo_Gangneung"
+            "sub_region_code":"4215000000_Gangwondo_Gangneung",
+            "shorten_url":"https:\/\/me2.do\/FSQtrIfg"
         },
         {
             "index":11,
@@ -190,7 +205,8 @@
             "value_score":62.91325,
             "region":"강원도 강릉시",
             "region_code":"Gangwondo",
-            "sub_region_code":"4215000000_Gangwondo_Gangneung"
+            "sub_region_code":"4215000000_Gangwondo_Gangneung",
+            "shorten_url":"https:\/\/me2.do\/FSQtrIfg"
         },
         {
             "index":12,
@@ -202,7 +218,8 @@
             "value_score":61.16325,
             "region":"강원도 강릉시",
             "region_code":"Gangwondo",
-            "sub_region_code":"4215000000_Gangwondo_Gangneung"
+            "sub_region_code":"4215000000_Gangwondo_Gangneung",
+            "shorten_url":"https:\/\/me2.do\/FSQtrIfg"
         },
         {
             "index":13,
@@ -214,7 +231,8 @@
             "value_score":60.915,
             "region":"강원도 강릉시",
             "region_code":"Gangwondo",
-            "sub_region_code":"4215000000_Gangwondo_Gangneung"
+            "sub_region_code":"4215000000_Gangwondo_Gangneung",
+            "shorten_url":"https:\/\/me2.do\/FSQtrIfg"
         },
         {
             "index":14,
@@ -226,7 +244,8 @@
             "value_score":58.66325,
             "region":"강원도 강릉시",
             "region_code":"Gangwondo",
-            "sub_region_code":"4215000000_Gangwondo_Gangneung"
+            "sub_region_code":"4215000000_Gangwondo_Gangneung",
+            "shorten_url":"https:\/\/me2.do\/FSQtrIfg"
         },
         {
             "index":15,
@@ -238,7 +257,8 @@
             "value_score":57.7595,
             "region":"강원도 강릉시",
             "region_code":"Gangwondo",
-            "sub_region_code":"4215000000_Gangwondo_Gangneung"
+            "sub_region_code":"4215000000_Gangwondo_Gangneung",
+            "shorten_url":"https:\/\/me2.do\/FSQtrIfg"
         },
         {
             "index":16,
@@ -250,7 +270,8 @@
             "value_score":55.6095,
             "region":"강원도 강릉시",
             "region_code":"Gangwondo",
-            "sub_region_code":"4215000000_Gangwondo_Gangneung"
+            "sub_region_code":"4215000000_Gangwondo_Gangneung",
+            "shorten_url":"https:\/\/me2.do\/FSQtrIfg"
         },
         {
             "index":17,
@@ -262,7 +283,8 @@
             "value_score":53.91325,
             "region":"강원도 강릉시",
             "region_code":"Gangwondo",
-            "sub_region_code":"4215000000_Gangwondo_Gangneung"
+            "sub_region_code":"4215000000_Gangwondo_Gangneung",
+            "shorten_url":"https:\/\/me2.do\/FSQtrIfg"
         },
         {
             "index":18,
@@ -274,7 +296,8 @@
             "value_score":53.66325,
             "region":"강원도 강릉시",
             "region_code":"Gangwondo",
-            "sub_region_code":"4215000000_Gangwondo_Gangneung"
+            "sub_region_code":"4215000000_Gangwondo_Gangneung",
+            "shorten_url":"https:\/\/me2.do\/FSQtrIfg"
         },
         {
             "index":19,
@@ -286,7 +309,8 @@
             "value_score":52.7595,
             "region":"강원도 강릉시",
             "region_code":"Gangwondo",
-            "sub_region_code":"4215000000_Gangwondo_Gangneung"
+            "sub_region_code":"4215000000_Gangwondo_Gangneung",
+            "shorten_url":"https:\/\/me2.do\/FSQtrIfg"
         },
         {
             "index":20,
@@ -298,7 +322,8 @@
             "value_score":54.1009473684,
             "region":"강원도 강릉시",
             "region_code":"Gangwondo",
-            "sub_region_code":"4215000000_Gangwondo_Gangneung"
+            "sub_region_code":"4215000000_Gangwondo_Gangneung",
+            "shorten_url":"https:\/\/me2.do\/FSQtrIfg"
         },
         {
             "index":21,
@@ -310,7 +335,8 @@
             "value_score":51.7325263158,
             "region":"강원도 강릉시",
             "region_code":"Gangwondo",
-            "sub_region_code":"4215000000_Gangwondo_Gangneung"
+            "sub_region_code":"4215000000_Gangwondo_Gangneung",
+            "shorten_url":"https:\/\/me2.do\/FSQtrIfg"
         },
         {
             "index":22,
@@ -322,7 +348,8 @@
             "value_score":51.1798947368,
             "region":"강원도 강릉시",
             "region_code":"Gangwondo",
-            "sub_region_code":"4215000000_Gangwondo_Gangneung"
+            "sub_region_code":"4215000000_Gangwondo_Gangneung",
+            "shorten_url":"https:\/\/me2.do\/FSQtrIfg"
         },
         {
             "index":23,
@@ -334,7 +361,8 @@
             "value_score":50.4693684211,
             "region":"강원도 강릉시",
             "region_code":"Gangwondo",
-            "sub_region_code":"4215000000_Gangwondo_Gangneung"
+            "sub_region_code":"4215000000_Gangwondo_Gangneung",
+            "shorten_url":"https:\/\/me2.do\/FSQtrIfg"
         },
         {
             "index":24,
@@ -346,7 +374,8 @@
             "value_score":50.0483157895,
             "region":"강원도 강릉시",
             "region_code":"Gangwondo",
-            "sub_region_code":"4215000000_Gangwondo_Gangneung"
+            "sub_region_code":"4215000000_Gangwondo_Gangneung",
+            "shorten_url":"https:\/\/me2.do\/FSQtrIfg"
         },
         {
             "index":25,
@@ -358,7 +387,8 @@
             "value_score":49.2062105263,
             "region":"강원도 강릉시",
             "region_code":"Gangwondo",
-            "sub_region_code":"4215000000_Gangwondo_Gangneung"
+            "sub_region_code":"4215000000_Gangwondo_Gangneung",
+            "shorten_url":"https:\/\/me2.do\/FSQtrIfg"
         },
         {
             "index":26,
@@ -370,7 +400,8 @@
             "value_score":47.4167368421,
             "region":"강원도 강릉시",
             "region_code":"Gangwondo",
-            "sub_region_code":"4215000000_Gangwondo_Gangneung"
+            "sub_region_code":"4215000000_Gangwondo_Gangneung",
+            "shorten_url":"https:\/\/me2.do\/FSQtrIfg"
         },
         {
             "index":27,
@@ -382,7 +413,8 @@
             "value_score":46.4593684211,
             "region":"강원도 강릉시",
             "region_code":"Gangwondo",
-            "sub_region_code":"4215000000_Gangwondo_Gangneung"
+            "sub_region_code":"4215000000_Gangwondo_Gangneung",
+            "shorten_url":"https:\/\/me2.do\/FSQtrIfg"
         },
         {
             "index":28,
@@ -394,7 +426,8 @@
             "value_score":45.9593684211,
             "region":"강원도 강릉시",
             "region_code":"Gangwondo",
-            "sub_region_code":"4215000000_Gangwondo_Gangneung"
+            "sub_region_code":"4215000000_Gangwondo_Gangneung",
+            "shorten_url":"https:\/\/me2.do\/FSQtrIfg"
         },
         {
             "index":29,
@@ -406,7 +439,8 @@
             "value_score":44.8372631579,
             "region":"강원도 강릉시",
             "region_code":"Gangwondo",
-            "sub_region_code":"4215000000_Gangwondo_Gangneung"
+            "sub_region_code":"4215000000_Gangwondo_Gangneung",
+            "shorten_url":"https:\/\/me2.do\/FSQtrIfg"
         },
         {
             "index":30,
@@ -418,7 +452,8 @@
             "value_score":60.5765,
             "region":"강원도 강릉시",
             "region_code":"Gangwondo",
-            "sub_region_code":"4215000000_Gangwondo_Gangneung"
+            "sub_region_code":"4215000000_Gangwondo_Gangneung",
+            "shorten_url":"https:\/\/me2.do\/FSQtrIfg"
         },
         {
             "index":31,
@@ -430,7 +465,8 @@
             "value_score":58.0765,
             "region":"강원도 강릉시",
             "region_code":"Gangwondo",
-            "sub_region_code":"4215000000_Gangwondo_Gangneung"
+            "sub_region_code":"4215000000_Gangwondo_Gangneung",
+            "shorten_url":"https:\/\/me2.do\/FSQtrIfg"
         },
         {
             "index":32,
@@ -442,7 +478,8 @@
             "value_score":56.8265,
             "region":"강원도 강릉시",
             "region_code":"Gangwondo",
-            "sub_region_code":"4215000000_Gangwondo_Gangneung"
+            "sub_region_code":"4215000000_Gangwondo_Gangneung",
+            "shorten_url":"https:\/\/me2.do\/FSQtrIfg"
         },
         {
             "index":33,
@@ -454,7 +491,8 @@
             "value_score":56.5765,
             "region":"강원도 강릉시",
             "region_code":"Gangwondo",
-            "sub_region_code":"4215000000_Gangwondo_Gangneung"
+            "sub_region_code":"4215000000_Gangwondo_Gangneung",
+            "shorten_url":"https:\/\/me2.do\/FSQtrIfg"
         },
         {
             "index":34,
@@ -466,7 +504,8 @@
             "value_score":55.3265,
             "region":"강원도 강릉시",
             "region_code":"Gangwondo",
-            "sub_region_code":"4215000000_Gangwondo_Gangneung"
+            "sub_region_code":"4215000000_Gangwondo_Gangneung",
+            "shorten_url":"https:\/\/me2.do\/FSQtrIfg"
         },
         {
             "index":35,
@@ -478,7 +517,8 @@
             "value_score":54.2015,
             "region":"강원도 강릉시",
             "region_code":"Gangwondo",
-            "sub_region_code":"4215000000_Gangwondo_Gangneung"
+            "sub_region_code":"4215000000_Gangwondo_Gangneung",
+            "shorten_url":"https:\/\/me2.do\/FSQtrIfg"
         },
         {
             "index":36,
@@ -490,7 +530,8 @@
             "value_score":54.0765,
             "region":"강원도 강릉시",
             "region_code":"Gangwondo",
-            "sub_region_code":"4215000000_Gangwondo_Gangneung"
+            "sub_region_code":"4215000000_Gangwondo_Gangneung",
+            "shorten_url":"https:\/\/me2.do\/FSQtrIfg"
         },
         {
             "index":37,
@@ -502,7 +543,8 @@
             "value_score":53.144,
             "region":"강원도 강릉시",
             "region_code":"Gangwondo",
-            "sub_region_code":"4215000000_Gangwondo_Gangneung"
+            "sub_region_code":"4215000000_Gangwondo_Gangneung",
+            "shorten_url":"https:\/\/me2.do\/FSQtrIfg"
         },
         {
             "index":38,
@@ -514,7 +556,8 @@
             "value_score":52.2015,
             "region":"강원도 강릉시",
             "region_code":"Gangwondo",
-            "sub_region_code":"4215000000_Gangwondo_Gangneung"
+            "sub_region_code":"4215000000_Gangwondo_Gangneung",
+            "shorten_url":"https:\/\/me2.do\/FSQtrIfg"
         },
         {
             "index":39,
@@ -526,7 +569,8 @@
             "value_score":52.119,
             "region":"강원도 강릉시",
             "region_code":"Gangwondo",
-            "sub_region_code":"4215000000_Gangwondo_Gangneung"
+            "sub_region_code":"4215000000_Gangwondo_Gangneung",
+            "shorten_url":"https:\/\/me2.do\/FSQtrIfg"
         }
     ]
 }

@@ -40,6 +40,10 @@
             {
                 "name":"sub_region_code",
                 "type":"string"
+            },
+            {
+                "name":"shorten_url",
+                "type":"string"
             }
         ],
         "primaryKey":[
@@ -58,7 +62,8 @@
             "value_score":70.0222,
             "region":"경기도 과천시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4129000000_Gyeonggi_Gwacheon"
+            "sub_region_code":"4129000000_Gyeonggi_Gwacheon",
+            "shorten_url":"https:\/\/me2.do\/FCLCecL4"
         },
         {
             "index":1,
@@ -70,7 +75,8 @@
             "value_score":68.1398,
             "region":"경기도 과천시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4129000000_Gyeonggi_Gwacheon"
+            "sub_region_code":"4129000000_Gyeonggi_Gwacheon",
+            "shorten_url":"https:\/\/me2.do\/FCLCecL4"
         },
         {
             "index":2,
@@ -82,7 +88,8 @@
             "value_score":66.0922,
             "region":"경기도 과천시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4129000000_Gyeonggi_Gwacheon"
+            "sub_region_code":"4129000000_Gyeonggi_Gwacheon",
+            "shorten_url":"https:\/\/me2.do\/FCLCecL4"
         },
         {
             "index":3,
@@ -94,7 +101,8 @@
             "value_score":61.4922,
             "region":"경기도 과천시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4129000000_Gyeonggi_Gwacheon"
+            "sub_region_code":"4129000000_Gyeonggi_Gwacheon",
+            "shorten_url":"https:\/\/me2.do\/FCLCecL4"
         },
         {
             "index":4,
@@ -106,7 +114,8 @@
             "value_score":58.8098,
             "region":"경기도 과천시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4129000000_Gyeonggi_Gwacheon"
+            "sub_region_code":"4129000000_Gyeonggi_Gwacheon",
+            "shorten_url":"https:\/\/me2.do\/FCLCecL4"
         },
         {
             "index":5,
@@ -118,7 +127,8 @@
             "value_score":57.8922,
             "region":"경기도 과천시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4129000000_Gyeonggi_Gwacheon"
+            "sub_region_code":"4129000000_Gyeonggi_Gwacheon",
+            "shorten_url":"https:\/\/me2.do\/FCLCecL4"
         },
         {
             "index":6,
@@ -130,7 +140,8 @@
             "value_score":55.2098,
             "region":"경기도 과천시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4129000000_Gyeonggi_Gwacheon"
+            "sub_region_code":"4129000000_Gyeonggi_Gwacheon",
+            "shorten_url":"https:\/\/me2.do\/FCLCecL4"
         },
         {
             "index":7,
@@ -142,7 +153,8 @@
             "value_score":54.6722,
             "region":"경기도 과천시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4129000000_Gyeonggi_Gwacheon"
+            "sub_region_code":"4129000000_Gyeonggi_Gwacheon",
+            "shorten_url":"https:\/\/me2.do\/FCLCecL4"
         },
         {
             "index":8,
@@ -154,7 +166,8 @@
             "value_score":53.6922,
             "region":"경기도 과천시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4129000000_Gyeonggi_Gwacheon"
+            "sub_region_code":"4129000000_Gyeonggi_Gwacheon",
+            "shorten_url":"https:\/\/me2.do\/FCLCecL4"
         },
         {
             "index":9,
@@ -166,7 +179,8 @@
             "value_score":51.6098,
             "region":"경기도 과천시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4129000000_Gyeonggi_Gwacheon"
+            "sub_region_code":"4129000000_Gyeonggi_Gwacheon",
+            "shorten_url":"https:\/\/me2.do\/FCLCecL4"
         },
         {
             "index":10,
@@ -178,7 +192,8 @@
             "value_score":73.6248,
             "region":"경기도 과천시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4129000000_Gyeonggi_Gwacheon"
+            "sub_region_code":"4129000000_Gyeonggi_Gwacheon",
+            "shorten_url":"https:\/\/me2.do\/FCLCecL4"
         },
         {
             "index":11,
@@ -190,7 +205,8 @@
             "value_score":73.4532,
             "region":"경기도 과천시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4129000000_Gyeonggi_Gwacheon"
+            "sub_region_code":"4129000000_Gyeonggi_Gwacheon",
+            "shorten_url":"https:\/\/me2.do\/FCLCecL4"
         },
         {
             "index":12,
@@ -202,7 +218,8 @@
             "value_score":70.9948,
             "region":"경기도 과천시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4129000000_Gyeonggi_Gwacheon"
+            "sub_region_code":"4129000000_Gyeonggi_Gwacheon",
+            "shorten_url":"https:\/\/me2.do\/FCLCecL4"
         },
         {
             "index":13,
@@ -214,7 +231,8 @@
             "value_score":67.2948,
             "region":"경기도 과천시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4129000000_Gyeonggi_Gwacheon"
+            "sub_region_code":"4129000000_Gyeonggi_Gwacheon",
+            "shorten_url":"https:\/\/me2.do\/FCLCecL4"
         },
         {
             "index":14,
@@ -226,7 +244,8 @@
             "value_score":66.4948,
             "region":"경기도 과천시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4129000000_Gyeonggi_Gwacheon"
+            "sub_region_code":"4129000000_Gyeonggi_Gwacheon",
+            "shorten_url":"https:\/\/me2.do\/FCLCecL4"
         },
         {
             "index":15,
@@ -238,7 +257,8 @@
             "value_score":65.2232,
             "region":"경기도 과천시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4129000000_Gyeonggi_Gwacheon"
+            "sub_region_code":"4129000000_Gyeonggi_Gwacheon",
+            "shorten_url":"https:\/\/me2.do\/FCLCecL4"
         },
         {
             "index":16,
@@ -250,7 +270,8 @@
             "value_score":58.8232,
             "region":"경기도 과천시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4129000000_Gyeonggi_Gwacheon"
+            "sub_region_code":"4129000000_Gyeonggi_Gwacheon",
+            "shorten_url":"https:\/\/me2.do\/FCLCecL4"
         },
         {
             "index":17,
@@ -262,7 +283,8 @@
             "value_score":55.5248,
             "region":"경기도 과천시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4129000000_Gyeonggi_Gwacheon"
+            "sub_region_code":"4129000000_Gyeonggi_Gwacheon",
+            "shorten_url":"https:\/\/me2.do\/FCLCecL4"
         },
         {
             "index":18,
@@ -274,7 +296,8 @@
             "value_score":55.0448,
             "region":"경기도 과천시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4129000000_Gyeonggi_Gwacheon"
+            "sub_region_code":"4129000000_Gyeonggi_Gwacheon",
+            "shorten_url":"https:\/\/me2.do\/FCLCecL4"
         },
         {
             "index":19,
@@ -286,7 +309,8 @@
             "value_score":54.6948,
             "region":"경기도 과천시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4129000000_Gyeonggi_Gwacheon"
+            "sub_region_code":"4129000000_Gyeonggi_Gwacheon",
+            "shorten_url":"https:\/\/me2.do\/FCLCecL4"
         },
         {
             "index":20,
@@ -298,7 +322,8 @@
             "value_score":66.6511,
             "region":"경기도 과천시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4129000000_Gyeonggi_Gwacheon"
+            "sub_region_code":"4129000000_Gyeonggi_Gwacheon",
+            "shorten_url":"https:\/\/me2.do\/FCLCecL4"
         },
         {
             "index":21,
@@ -310,7 +335,8 @@
             "value_score":63.5099,
             "region":"경기도 과천시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4129000000_Gyeonggi_Gwacheon"
+            "sub_region_code":"4129000000_Gyeonggi_Gwacheon",
+            "shorten_url":"https:\/\/me2.do\/FCLCecL4"
         },
         {
             "index":22,
@@ -322,7 +348,8 @@
             "value_score":63.0961,
             "region":"경기도 과천시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4129000000_Gyeonggi_Gwacheon"
+            "sub_region_code":"4129000000_Gyeonggi_Gwacheon",
+            "shorten_url":"https:\/\/me2.do\/FCLCecL4"
         },
         {
             "index":23,
@@ -334,7 +361,8 @@
             "value_score":57.4049,
             "region":"경기도 과천시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4129000000_Gyeonggi_Gwacheon"
+            "sub_region_code":"4129000000_Gyeonggi_Gwacheon",
+            "shorten_url":"https:\/\/me2.do\/FCLCecL4"
         },
         {
             "index":24,
@@ -346,7 +374,8 @@
             "value_score":56.7761,
             "region":"경기도 과천시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4129000000_Gyeonggi_Gwacheon"
+            "sub_region_code":"4129000000_Gyeonggi_Gwacheon",
+            "shorten_url":"https:\/\/me2.do\/FCLCecL4"
         },
         {
             "index":25,
@@ -358,7 +387,8 @@
             "value_score":55.9049,
             "region":"경기도 과천시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4129000000_Gyeonggi_Gwacheon"
+            "sub_region_code":"4129000000_Gyeonggi_Gwacheon",
+            "shorten_url":"https:\/\/me2.do\/FCLCecL4"
         },
         {
             "index":26,
@@ -370,7 +400,8 @@
             "value_score":54.4461,
             "region":"경기도 과천시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4129000000_Gyeonggi_Gwacheon"
+            "sub_region_code":"4129000000_Gyeonggi_Gwacheon",
+            "shorten_url":"https:\/\/me2.do\/FCLCecL4"
         },
         {
             "index":27,
@@ -382,7 +413,8 @@
             "value_score":54.1049,
             "region":"경기도 과천시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4129000000_Gyeonggi_Gwacheon"
+            "sub_region_code":"4129000000_Gyeonggi_Gwacheon",
+            "shorten_url":"https:\/\/me2.do\/FCLCecL4"
         },
         {
             "index":28,
@@ -394,7 +426,8 @@
             "value_score":51.7799,
             "region":"경기도 과천시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4129000000_Gyeonggi_Gwacheon"
+            "sub_region_code":"4129000000_Gyeonggi_Gwacheon",
+            "shorten_url":"https:\/\/me2.do\/FCLCecL4"
         },
         {
             "index":29,
@@ -406,7 +439,8 @@
             "value_score":51.4461,
             "region":"경기도 과천시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4129000000_Gyeonggi_Gwacheon"
+            "sub_region_code":"4129000000_Gyeonggi_Gwacheon",
+            "shorten_url":"https:\/\/me2.do\/FCLCecL4"
         },
         {
             "index":30,
@@ -418,7 +452,8 @@
             "value_score":61.8935,
             "region":"경기도 과천시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4129000000_Gyeonggi_Gwacheon"
+            "sub_region_code":"4129000000_Gyeonggi_Gwacheon",
+            "shorten_url":"https:\/\/me2.do\/FCLCecL4"
         },
         {
             "index":31,
@@ -430,7 +465,8 @@
             "value_score":52.7935,
             "region":"경기도 과천시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4129000000_Gyeonggi_Gwacheon"
+            "sub_region_code":"4129000000_Gyeonggi_Gwacheon",
+            "shorten_url":"https:\/\/me2.do\/FCLCecL4"
         },
         {
             "index":32,
@@ -442,7 +478,8 @@
             "value_score":51.7165,
             "region":"경기도 과천시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4129000000_Gyeonggi_Gwacheon"
+            "sub_region_code":"4129000000_Gyeonggi_Gwacheon",
+            "shorten_url":"https:\/\/me2.do\/FCLCecL4"
         },
         {
             "index":33,
@@ -454,7 +491,8 @@
             "value_score":48.4935,
             "region":"경기도 과천시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4129000000_Gyeonggi_Gwacheon"
+            "sub_region_code":"4129000000_Gyeonggi_Gwacheon",
+            "shorten_url":"https:\/\/me2.do\/FCLCecL4"
         },
         {
             "index":34,
@@ -466,7 +504,8 @@
             "value_score":47.2435,
             "region":"경기도 과천시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4129000000_Gyeonggi_Gwacheon"
+            "sub_region_code":"4129000000_Gyeonggi_Gwacheon",
+            "shorten_url":"https:\/\/me2.do\/FCLCecL4"
         },
         {
             "index":35,
@@ -478,7 +517,8 @@
             "value_score":46.409590479,
             "region":"경기도 과천시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4129000000_Gyeonggi_Gwacheon"
+            "sub_region_code":"4129000000_Gyeonggi_Gwacheon",
+            "shorten_url":"https:\/\/me2.do\/FCLCecL4"
         },
         {
             "index":36,
@@ -490,7 +530,8 @@
             "value_score":44.5935,
             "region":"경기도 과천시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4129000000_Gyeonggi_Gwacheon"
+            "sub_region_code":"4129000000_Gyeonggi_Gwacheon",
+            "shorten_url":"https:\/\/me2.do\/FCLCecL4"
         },
         {
             "index":37,
@@ -502,7 +543,8 @@
             "value_score":43.8435,
             "region":"경기도 과천시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4129000000_Gyeonggi_Gwacheon"
+            "sub_region_code":"4129000000_Gyeonggi_Gwacheon",
+            "shorten_url":"https:\/\/me2.do\/FCLCecL4"
         },
         {
             "index":38,
@@ -514,7 +556,8 @@
             "value_score":40.2935,
             "region":"경기도 과천시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4129000000_Gyeonggi_Gwacheon"
+            "sub_region_code":"4129000000_Gyeonggi_Gwacheon",
+            "shorten_url":"https:\/\/me2.do\/FCLCecL4"
         },
         {
             "index":39,
@@ -526,7 +569,8 @@
             "value_score":39.7665,
             "region":"경기도 과천시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4129000000_Gyeonggi_Gwacheon"
+            "sub_region_code":"4129000000_Gyeonggi_Gwacheon",
+            "shorten_url":"https:\/\/me2.do\/FCLCecL4"
         },
         {
             "index":40,
@@ -538,7 +582,8 @@
             "value_score":68.667,
             "region":"경기도 과천시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4129000000_Gyeonggi_Gwacheon"
+            "sub_region_code":"4129000000_Gyeonggi_Gwacheon",
+            "shorten_url":"https:\/\/me2.do\/FCLCecL4"
         },
         {
             "index":41,
@@ -550,7 +595,8 @@
             "value_score":65.913,
             "region":"경기도 과천시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4129000000_Gyeonggi_Gwacheon"
+            "sub_region_code":"4129000000_Gyeonggi_Gwacheon",
+            "shorten_url":"https:\/\/me2.do\/FCLCecL4"
         },
         {
             "index":42,
@@ -562,7 +608,8 @@
             "value_score":63.187,
             "region":"경기도 과천시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4129000000_Gyeonggi_Gwacheon"
+            "sub_region_code":"4129000000_Gyeonggi_Gwacheon",
+            "shorten_url":"https:\/\/me2.do\/FCLCecL4"
         },
         {
             "index":43,
@@ -574,7 +621,8 @@
             "value_score":60.387,
             "region":"경기도 과천시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4129000000_Gyeonggi_Gwacheon"
+            "sub_region_code":"4129000000_Gyeonggi_Gwacheon",
+            "shorten_url":"https:\/\/me2.do\/FCLCecL4"
         },
         {
             "index":44,
@@ -586,7 +634,8 @@
             "value_score":56.967,
             "region":"경기도 과천시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4129000000_Gyeonggi_Gwacheon"
+            "sub_region_code":"4129000000_Gyeonggi_Gwacheon",
+            "shorten_url":"https:\/\/me2.do\/FCLCecL4"
         },
         {
             "index":45,
@@ -598,7 +647,8 @@
             "value_score":54.987,
             "region":"경기도 과천시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4129000000_Gyeonggi_Gwacheon"
+            "sub_region_code":"4129000000_Gyeonggi_Gwacheon",
+            "shorten_url":"https:\/\/me2.do\/FCLCecL4"
         },
         {
             "index":46,
@@ -610,7 +660,8 @@
             "value_score":53.587,
             "region":"경기도 과천시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4129000000_Gyeonggi_Gwacheon"
+            "sub_region_code":"4129000000_Gyeonggi_Gwacheon",
+            "shorten_url":"https:\/\/me2.do\/FCLCecL4"
         },
         {
             "index":47,
@@ -622,7 +673,8 @@
             "value_score":53.487,
             "region":"경기도 과천시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4129000000_Gyeonggi_Gwacheon"
+            "sub_region_code":"4129000000_Gyeonggi_Gwacheon",
+            "shorten_url":"https:\/\/me2.do\/FCLCecL4"
         },
         {
             "index":48,
@@ -634,7 +686,8 @@
             "value_score":53.333,
             "region":"경기도 과천시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4129000000_Gyeonggi_Gwacheon"
+            "sub_region_code":"4129000000_Gyeonggi_Gwacheon",
+            "shorten_url":"https:\/\/me2.do\/FCLCecL4"
         },
         {
             "index":49,
@@ -646,7 +699,8 @@
             "value_score":53.019180958,
             "region":"경기도 과천시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4129000000_Gyeonggi_Gwacheon"
+            "sub_region_code":"4129000000_Gyeonggi_Gwacheon",
+            "shorten_url":"https:\/\/me2.do\/FCLCecL4"
         }
     ]
 }

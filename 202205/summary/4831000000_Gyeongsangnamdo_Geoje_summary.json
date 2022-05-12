@@ -40,6 +40,10 @@
             {
                 "name":"sub_region_code",
                 "type":"string"
+            },
+            {
+                "name":"shorten_url",
+                "type":"string"
             }
         ],
         "primaryKey":[
@@ -58,7 +62,8 @@
             "value_score":59.6148,
             "region":"경상남도 거제시",
             "region_code":"Gyeongsangnamdo",
-            "sub_region_code":"4831000000_Gyeongsangnamdo_Geoje"
+            "sub_region_code":"4831000000_Gyeongsangnamdo_Geoje",
+            "shorten_url":"https:\/\/me2.do\/IFK0xRqf"
         },
         {
             "index":1,
@@ -70,7 +75,8 @@
             "value_score":58.66345,
             "region":"경상남도 거제시",
             "region_code":"Gyeongsangnamdo",
-            "sub_region_code":"4831000000_Gyeongsangnamdo_Geoje"
+            "sub_region_code":"4831000000_Gyeongsangnamdo_Geoje",
+            "shorten_url":"https:\/\/me2.do\/IFK0xRqf"
         },
         {
             "index":2,
@@ -82,7 +88,8 @@
             "value_score":57.2148,
             "region":"경상남도 거제시",
             "region_code":"Gyeongsangnamdo",
-            "sub_region_code":"4831000000_Gyeongsangnamdo_Geoje"
+            "sub_region_code":"4831000000_Gyeongsangnamdo_Geoje",
+            "shorten_url":"https:\/\/me2.do\/IFK0xRqf"
         },
         {
             "index":3,
@@ -94,7 +101,8 @@
             "value_score":55.7729,
             "region":"경상남도 거제시",
             "region_code":"Gyeongsangnamdo",
-            "sub_region_code":"4831000000_Gyeongsangnamdo_Geoje"
+            "sub_region_code":"4831000000_Gyeongsangnamdo_Geoje",
+            "shorten_url":"https:\/\/me2.do\/IFK0xRqf"
         },
         {
             "index":4,
@@ -106,7 +114,8 @@
             "value_score":54.51345,
             "region":"경상남도 거제시",
             "region_code":"Gyeongsangnamdo",
-            "sub_region_code":"4831000000_Gyeongsangnamdo_Geoje"
+            "sub_region_code":"4831000000_Gyeongsangnamdo_Geoje",
+            "shorten_url":"https:\/\/me2.do\/IFK0xRqf"
         },
         {
             "index":5,
@@ -118,7 +127,8 @@
             "value_score":54.0148,
             "region":"경상남도 거제시",
             "region_code":"Gyeongsangnamdo",
-            "sub_region_code":"4831000000_Gyeongsangnamdo_Geoje"
+            "sub_region_code":"4831000000_Gyeongsangnamdo_Geoje",
+            "shorten_url":"https:\/\/me2.do\/IFK0xRqf"
         },
         {
             "index":6,
@@ -130,7 +140,8 @@
             "value_score":52.66265,
             "region":"경상남도 거제시",
             "region_code":"Gyeongsangnamdo",
-            "sub_region_code":"4831000000_Gyeongsangnamdo_Geoje"
+            "sub_region_code":"4831000000_Gyeongsangnamdo_Geoje",
+            "shorten_url":"https:\/\/me2.do\/IFK0xRqf"
         },
         {
             "index":7,
@@ -142,7 +153,8 @@
             "value_score":52.2162,
             "region":"경상남도 거제시",
             "region_code":"Gyeongsangnamdo",
-            "sub_region_code":"4831000000_Gyeongsangnamdo_Geoje"
+            "sub_region_code":"4831000000_Gyeongsangnamdo_Geoje",
+            "shorten_url":"https:\/\/me2.do\/IFK0xRqf"
         },
         {
             "index":8,
@@ -154,7 +166,8 @@
             "value_score":52.1443,
             "region":"경상남도 거제시",
             "region_code":"Gyeongsangnamdo",
-            "sub_region_code":"4831000000_Gyeongsangnamdo_Geoje"
+            "sub_region_code":"4831000000_Gyeongsangnamdo_Geoje",
+            "shorten_url":"https:\/\/me2.do\/IFK0xRqf"
         },
         {
             "index":9,
@@ -166,7 +179,8 @@
             "value_score":51.81265,
             "region":"경상남도 거제시",
             "region_code":"Gyeongsangnamdo",
-            "sub_region_code":"4831000000_Gyeongsangnamdo_Geoje"
+            "sub_region_code":"4831000000_Gyeongsangnamdo_Geoje",
+            "shorten_url":"https:\/\/me2.do\/IFK0xRqf"
         },
         {
             "index":10,
@@ -178,7 +192,8 @@
             "value_score":62.11675,
             "region":"경상남도 거제시",
             "region_code":"Gyeongsangnamdo",
-            "sub_region_code":"4831000000_Gyeongsangnamdo_Geoje"
+            "sub_region_code":"4831000000_Gyeongsangnamdo_Geoje",
+            "shorten_url":"https:\/\/me2.do\/IFK0xRqf"
         },
         {
             "index":11,
@@ -190,7 +205,8 @@
             "value_score":60.082,
             "region":"경상남도 거제시",
             "region_code":"Gyeongsangnamdo",
-            "sub_region_code":"4831000000_Gyeongsangnamdo_Geoje"
+            "sub_region_code":"4831000000_Gyeongsangnamdo_Geoje",
+            "shorten_url":"https:\/\/me2.do\/IFK0xRqf"
         },
         {
             "index":12,
@@ -202,7 +218,8 @@
             "value_score":58.8735,
             "region":"경상남도 거제시",
             "region_code":"Gyeongsangnamdo",
-            "sub_region_code":"4831000000_Gyeongsangnamdo_Geoje"
+            "sub_region_code":"4831000000_Gyeongsangnamdo_Geoje",
+            "shorten_url":"https:\/\/me2.do\/IFK0xRqf"
         },
         {
             "index":13,
@@ -214,7 +231,8 @@
             "value_score":57.96675,
             "region":"경상남도 거제시",
             "region_code":"Gyeongsangnamdo",
-            "sub_region_code":"4831000000_Gyeongsangnamdo_Geoje"
+            "sub_region_code":"4831000000_Gyeongsangnamdo_Geoje",
+            "shorten_url":"https:\/\/me2.do\/IFK0xRqf"
         },
         {
             "index":14,
@@ -226,7 +244,8 @@
             "value_score":57.332,
             "region":"경상남도 거제시",
             "region_code":"Gyeongsangnamdo",
-            "sub_region_code":"4831000000_Gyeongsangnamdo_Geoje"
+            "sub_region_code":"4831000000_Gyeongsangnamdo_Geoje",
+            "shorten_url":"https:\/\/me2.do\/IFK0xRqf"
         },
         {
             "index":15,
@@ -238,7 +257,8 @@
             "value_score":55.683,
             "region":"경상남도 거제시",
             "region_code":"Gyeongsangnamdo",
-            "sub_region_code":"4831000000_Gyeongsangnamdo_Geoje"
+            "sub_region_code":"4831000000_Gyeongsangnamdo_Geoje",
+            "shorten_url":"https:\/\/me2.do\/IFK0xRqf"
         },
         {
             "index":16,
@@ -250,7 +270,8 @@
             "value_score":54.933,
             "region":"경상남도 거제시",
             "region_code":"Gyeongsangnamdo",
-            "sub_region_code":"4831000000_Gyeongsangnamdo_Geoje"
+            "sub_region_code":"4831000000_Gyeongsangnamdo_Geoje",
+            "shorten_url":"https:\/\/me2.do\/IFK0xRqf"
         },
         {
             "index":17,
@@ -262,7 +283,8 @@
             "value_score":54.54475,
             "region":"경상남도 거제시",
             "region_code":"Gyeongsangnamdo",
-            "sub_region_code":"4831000000_Gyeongsangnamdo_Geoje"
+            "sub_region_code":"4831000000_Gyeongsangnamdo_Geoje",
+            "shorten_url":"https:\/\/me2.do\/IFK0xRqf"
         },
         {
             "index":18,
@@ -274,7 +296,8 @@
             "value_score":54.5245,
             "region":"경상남도 거제시",
             "region_code":"Gyeongsangnamdo",
-            "sub_region_code":"4831000000_Gyeongsangnamdo_Geoje"
+            "sub_region_code":"4831000000_Gyeongsangnamdo_Geoje",
+            "shorten_url":"https:\/\/me2.do\/IFK0xRqf"
         },
         {
             "index":19,
@@ -286,7 +309,8 @@
             "value_score":54.41475,
             "region":"경상남도 거제시",
             "region_code":"Gyeongsangnamdo",
-            "sub_region_code":"4831000000_Gyeongsangnamdo_Geoje"
+            "sub_region_code":"4831000000_Gyeongsangnamdo_Geoje",
+            "shorten_url":"https:\/\/me2.do\/IFK0xRqf"
         },
         {
             "index":20,
@@ -298,7 +322,8 @@
             "value_score":50.7264210526,
             "region":"경상남도 거제시",
             "region_code":"Gyeongsangnamdo",
-            "sub_region_code":"4831000000_Gyeongsangnamdo_Geoje"
+            "sub_region_code":"4831000000_Gyeongsangnamdo_Geoje",
+            "shorten_url":"https:\/\/me2.do\/IFK0xRqf"
         },
         {
             "index":21,
@@ -310,7 +335,8 @@
             "value_score":49.5463157895,
             "region":"경상남도 거제시",
             "region_code":"Gyeongsangnamdo",
-            "sub_region_code":"4831000000_Gyeongsangnamdo_Geoje"
+            "sub_region_code":"4831000000_Gyeongsangnamdo_Geoje",
+            "shorten_url":"https:\/\/me2.do\/IFK0xRqf"
         },
         {
             "index":22,
@@ -322,7 +348,8 @@
             "value_score":48.9983157895,
             "region":"경상남도 거제시",
             "region_code":"Gyeongsangnamdo",
-            "sub_region_code":"4831000000_Gyeongsangnamdo_Geoje"
+            "sub_region_code":"4831000000_Gyeongsangnamdo_Geoje",
+            "shorten_url":"https:\/\/me2.do\/IFK0xRqf"
         },
         {
             "index":23,
@@ -334,7 +361,8 @@
             "value_score":47.0244210526,
             "region":"경상남도 거제시",
             "region_code":"Gyeongsangnamdo",
-            "sub_region_code":"4831000000_Gyeongsangnamdo_Geoje"
+            "sub_region_code":"4831000000_Gyeongsangnamdo_Geoje",
+            "shorten_url":"https:\/\/me2.do\/IFK0xRqf"
         },
         {
             "index":24,
@@ -346,7 +374,8 @@
             "value_score":46.7877894737,
             "region":"경상남도 거제시",
             "region_code":"Gyeongsangnamdo",
-            "sub_region_code":"4831000000_Gyeongsangnamdo_Geoje"
+            "sub_region_code":"4831000000_Gyeongsangnamdo_Geoje",
+            "shorten_url":"https:\/\/me2.do\/IFK0xRqf"
         },
         {
             "index":25,
@@ -358,7 +387,8 @@
             "value_score":46.7001052632,
             "region":"경상남도 거제시",
             "region_code":"Gyeongsangnamdo",
-            "sub_region_code":"4831000000_Gyeongsangnamdo_Geoje"
+            "sub_region_code":"4831000000_Gyeongsangnamdo_Geoje",
+            "shorten_url":"https:\/\/me2.do\/IFK0xRqf"
         },
         {
             "index":26,
@@ -370,7 +400,8 @@
             "value_score":46.4369473684,
             "region":"경상남도 거제시",
             "region_code":"Gyeongsangnamdo",
-            "sub_region_code":"4831000000_Gyeongsangnamdo_Geoje"
+            "sub_region_code":"4831000000_Gyeongsangnamdo_Geoje",
+            "shorten_url":"https:\/\/me2.do\/IFK0xRqf"
         },
         {
             "index":27,
@@ -382,7 +413,8 @@
             "value_score":46.3404210526,
             "region":"경상남도 거제시",
             "region_code":"Gyeongsangnamdo",
-            "sub_region_code":"4831000000_Gyeongsangnamdo_Geoje"
+            "sub_region_code":"4831000000_Gyeongsangnamdo_Geoje",
+            "shorten_url":"https:\/\/me2.do\/IFK0xRqf"
         },
         {
             "index":28,
@@ -394,7 +426,8 @@
             "value_score":45.6737894737,
             "region":"경상남도 거제시",
             "region_code":"Gyeongsangnamdo",
-            "sub_region_code":"4831000000_Gyeongsangnamdo_Geoje"
+            "sub_region_code":"4831000000_Gyeongsangnamdo_Geoje",
+            "shorten_url":"https:\/\/me2.do\/IFK0xRqf"
         },
         {
             "index":29,
@@ -406,7 +439,8 @@
             "value_score":45.4775789474,
             "region":"경상남도 거제시",
             "region_code":"Gyeongsangnamdo",
-            "sub_region_code":"4831000000_Gyeongsangnamdo_Geoje"
+            "sub_region_code":"4831000000_Gyeongsangnamdo_Geoje",
+            "shorten_url":"https:\/\/me2.do\/IFK0xRqf"
         },
         {
             "index":30,
@@ -418,7 +452,8 @@
             "value_score":58.914,
             "region":"경상남도 거제시",
             "region_code":"Gyeongsangnamdo",
-            "sub_region_code":"4831000000_Gyeongsangnamdo_Geoje"
+            "sub_region_code":"4831000000_Gyeongsangnamdo_Geoje",
+            "shorten_url":"https:\/\/me2.do\/IFK0xRqf"
         },
         {
             "index":31,
@@ -430,7 +465,8 @@
             "value_score":57.039,
             "region":"경상남도 거제시",
             "region_code":"Gyeongsangnamdo",
-            "sub_region_code":"4831000000_Gyeongsangnamdo_Geoje"
+            "sub_region_code":"4831000000_Gyeongsangnamdo_Geoje",
+            "shorten_url":"https:\/\/me2.do\/IFK0xRqf"
         },
         {
             "index":32,
@@ -442,7 +478,8 @@
             "value_score":55.414,
             "region":"경상남도 거제시",
             "region_code":"Gyeongsangnamdo",
-            "sub_region_code":"4831000000_Gyeongsangnamdo_Geoje"
+            "sub_region_code":"4831000000_Gyeongsangnamdo_Geoje",
+            "shorten_url":"https:\/\/me2.do\/IFK0xRqf"
         },
         {
             "index":33,
@@ -454,7 +491,8 @@
             "value_score":53.4835,
             "region":"경상남도 거제시",
             "region_code":"Gyeongsangnamdo",
-            "sub_region_code":"4831000000_Gyeongsangnamdo_Geoje"
+            "sub_region_code":"4831000000_Gyeongsangnamdo_Geoje",
+            "shorten_url":"https:\/\/me2.do\/IFK0xRqf"
         },
         {
             "index":34,
@@ -466,7 +504,8 @@
             "value_score":51.9395,
             "region":"경상남도 거제시",
             "region_code":"Gyeongsangnamdo",
-            "sub_region_code":"4831000000_Gyeongsangnamdo_Geoje"
+            "sub_region_code":"4831000000_Gyeongsangnamdo_Geoje",
+            "shorten_url":"https:\/\/me2.do\/IFK0xRqf"
         },
         {
             "index":35,
@@ -478,7 +517,8 @@
             "value_score":51.349,
             "region":"경상남도 거제시",
             "region_code":"Gyeongsangnamdo",
-            "sub_region_code":"4831000000_Gyeongsangnamdo_Geoje"
+            "sub_region_code":"4831000000_Gyeongsangnamdo_Geoje",
+            "shorten_url":"https:\/\/me2.do\/IFK0xRqf"
         },
         {
             "index":36,
@@ -490,7 +530,8 @@
             "value_score":51.122,
             "region":"경상남도 거제시",
             "region_code":"Gyeongsangnamdo",
-            "sub_region_code":"4831000000_Gyeongsangnamdo_Geoje"
+            "sub_region_code":"4831000000_Gyeongsangnamdo_Geoje",
+            "shorten_url":"https:\/\/me2.do\/IFK0xRqf"
         },
         {
             "index":37,
@@ -502,7 +543,8 @@
             "value_score":51.099,
             "region":"경상남도 거제시",
             "region_code":"Gyeongsangnamdo",
-            "sub_region_code":"4831000000_Gyeongsangnamdo_Geoje"
+            "sub_region_code":"4831000000_Gyeongsangnamdo_Geoje",
+            "shorten_url":"https:\/\/me2.do\/IFK0xRqf"
         },
         {
             "index":38,
@@ -514,7 +556,8 @@
             "value_score":50.789,
             "region":"경상남도 거제시",
             "region_code":"Gyeongsangnamdo",
-            "sub_region_code":"4831000000_Gyeongsangnamdo_Geoje"
+            "sub_region_code":"4831000000_Gyeongsangnamdo_Geoje",
+            "shorten_url":"https:\/\/me2.do\/IFK0xRqf"
         },
         {
             "index":39,
@@ -526,7 +569,8 @@
             "value_score":50.199,
             "region":"경상남도 거제시",
             "region_code":"Gyeongsangnamdo",
-            "sub_region_code":"4831000000_Gyeongsangnamdo_Geoje"
+            "sub_region_code":"4831000000_Gyeongsangnamdo_Geoje",
+            "shorten_url":"https:\/\/me2.do\/IFK0xRqf"
         }
     ]
 }

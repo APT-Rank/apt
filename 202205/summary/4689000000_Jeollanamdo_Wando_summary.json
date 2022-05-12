@@ -40,6 +40,10 @@
             {
                 "name":"sub_region_code",
                 "type":"string"
+            },
+            {
+                "name":"shorten_url",
+                "type":"string"
             }
         ],
         "primaryKey":[
@@ -58,7 +62,8 @@
             "value_score":41.4106,
             "region":"전라남도 완도군",
             "region_code":"Jeollanamdo",
-            "sub_region_code":"4689000000_Jeollanamdo_Wando"
+            "sub_region_code":"4689000000_Jeollanamdo_Wando",
+            "shorten_url":"https:\/\/me2.do\/GMqauXrc"
         },
         {
             "index":1,
@@ -70,7 +75,8 @@
             "value_score":35.2106,
             "region":"전라남도 완도군",
             "region_code":"Jeollanamdo",
-            "sub_region_code":"4689000000_Jeollanamdo_Wando"
+            "sub_region_code":"4689000000_Jeollanamdo_Wando",
+            "shorten_url":"https:\/\/me2.do\/GMqauXrc"
         },
         {
             "index":2,
@@ -82,7 +88,8 @@
             "value_score":35.2106,
             "region":"전라남도 완도군",
             "region_code":"Jeollanamdo",
-            "sub_region_code":"4689000000_Jeollanamdo_Wando"
+            "sub_region_code":"4689000000_Jeollanamdo_Wando",
+            "shorten_url":"https:\/\/me2.do\/GMqauXrc"
         },
         {
             "index":3,
@@ -94,7 +101,8 @@
             "value_score":30.5606,
             "region":"전라남도 완도군",
             "region_code":"Jeollanamdo",
-            "sub_region_code":"4689000000_Jeollanamdo_Wando"
+            "sub_region_code":"4689000000_Jeollanamdo_Wando",
+            "shorten_url":"https:\/\/me2.do\/GMqauXrc"
         },
         {
             "index":4,
@@ -106,7 +114,8 @@
             "value_score":29.0106,
             "region":"전라남도 완도군",
             "region_code":"Jeollanamdo",
-            "sub_region_code":"4689000000_Jeollanamdo_Wando"
+            "sub_region_code":"4689000000_Jeollanamdo_Wando",
+            "shorten_url":"https:\/\/me2.do\/GMqauXrc"
         },
         {
             "index":5,
@@ -118,7 +127,8 @@
             "value_score":28.2106,
             "region":"전라남도 완도군",
             "region_code":"Jeollanamdo",
-            "sub_region_code":"4689000000_Jeollanamdo_Wando"
+            "sub_region_code":"4689000000_Jeollanamdo_Wando",
+            "shorten_url":"https:\/\/me2.do\/GMqauXrc"
         },
         {
             "index":6,
@@ -130,7 +140,8 @@
             "value_score":25.6106,
             "region":"전라남도 완도군",
             "region_code":"Jeollanamdo",
-            "sub_region_code":"4689000000_Jeollanamdo_Wando"
+            "sub_region_code":"4689000000_Jeollanamdo_Wando",
+            "shorten_url":"https:\/\/me2.do\/GMqauXrc"
         },
         {
             "index":7,
@@ -142,7 +153,8 @@
             "value_score":43.079,
             "region":"전라남도 완도군",
             "region_code":"Jeollanamdo",
-            "sub_region_code":"4689000000_Jeollanamdo_Wando"
+            "sub_region_code":"4689000000_Jeollanamdo_Wando",
+            "shorten_url":"https:\/\/me2.do\/GMqauXrc"
         },
         {
             "index":8,
@@ -154,7 +166,8 @@
             "value_score":35.329,
             "region":"전라남도 완도군",
             "region_code":"Jeollanamdo",
-            "sub_region_code":"4689000000_Jeollanamdo_Wando"
+            "sub_region_code":"4689000000_Jeollanamdo_Wando",
+            "shorten_url":"https:\/\/me2.do\/GMqauXrc"
         },
         {
             "index":9,
@@ -166,7 +179,8 @@
             "value_score":35.329,
             "region":"전라남도 완도군",
             "region_code":"Jeollanamdo",
-            "sub_region_code":"4689000000_Jeollanamdo_Wando"
+            "sub_region_code":"4689000000_Jeollanamdo_Wando",
+            "shorten_url":"https:\/\/me2.do\/GMqauXrc"
         },
         {
             "index":10,
@@ -178,7 +192,8 @@
             "value_score":28.329,
             "region":"전라남도 완도군",
             "region_code":"Jeollanamdo",
-            "sub_region_code":"4689000000_Jeollanamdo_Wando"
+            "sub_region_code":"4689000000_Jeollanamdo_Wando",
+            "shorten_url":"https:\/\/me2.do\/GMqauXrc"
         },
         {
             "index":11,
@@ -190,7 +205,8 @@
             "value_score":26.929,
             "region":"전라남도 완도군",
             "region_code":"Jeollanamdo",
-            "sub_region_code":"4689000000_Jeollanamdo_Wando"
+            "sub_region_code":"4689000000_Jeollanamdo_Wando",
+            "shorten_url":"https:\/\/me2.do\/GMqauXrc"
         },
         {
             "index":12,
@@ -202,7 +218,8 @@
             "value_score":26.579,
             "region":"전라남도 완도군",
             "region_code":"Jeollanamdo",
-            "sub_region_code":"4689000000_Jeollanamdo_Wando"
+            "sub_region_code":"4689000000_Jeollanamdo_Wando",
+            "shorten_url":"https:\/\/me2.do\/GMqauXrc"
         },
         {
             "index":13,
@@ -214,7 +231,8 @@
             "value_score":23.179,
             "region":"전라남도 완도군",
             "region_code":"Jeollanamdo",
-            "sub_region_code":"4689000000_Jeollanamdo_Wando"
+            "sub_region_code":"4689000000_Jeollanamdo_Wando",
+            "shorten_url":"https:\/\/me2.do\/GMqauXrc"
         },
         {
             "index":14,
@@ -226,7 +244,8 @@
             "value_score":29.1524210526,
             "region":"전라남도 완도군",
             "region_code":"Jeollanamdo",
-            "sub_region_code":"4689000000_Jeollanamdo_Wando"
+            "sub_region_code":"4689000000_Jeollanamdo_Wando",
+            "shorten_url":"https:\/\/me2.do\/GMqauXrc"
         },
         {
             "index":15,
@@ -238,7 +257,8 @@
             "value_score":28.9945263158,
             "region":"전라남도 완도군",
             "region_code":"Jeollanamdo",
-            "sub_region_code":"4689000000_Jeollanamdo_Wando"
+            "sub_region_code":"4689000000_Jeollanamdo_Wando",
+            "shorten_url":"https:\/\/me2.do\/GMqauXrc"
         },
         {
             "index":16,
@@ -250,7 +270,8 @@
             "value_score":26.5471578947,
             "region":"전라남도 완도군",
             "region_code":"Jeollanamdo",
-            "sub_region_code":"4689000000_Jeollanamdo_Wando"
+            "sub_region_code":"4689000000_Jeollanamdo_Wando",
+            "shorten_url":"https:\/\/me2.do\/GMqauXrc"
         },
         {
             "index":17,
@@ -262,7 +283,8 @@
             "value_score":26.5471578947,
             "region":"전라남도 완도군",
             "region_code":"Jeollanamdo",
-            "sub_region_code":"4689000000_Jeollanamdo_Wando"
+            "sub_region_code":"4689000000_Jeollanamdo_Wando",
+            "shorten_url":"https:\/\/me2.do\/GMqauXrc"
         },
         {
             "index":18,
@@ -274,7 +296,8 @@
             "value_score":23.784,
             "region":"전라남도 완도군",
             "region_code":"Jeollanamdo",
-            "sub_region_code":"4689000000_Jeollanamdo_Wando"
+            "sub_region_code":"4689000000_Jeollanamdo_Wando",
+            "shorten_url":"https:\/\/me2.do\/GMqauXrc"
         },
         {
             "index":19,
@@ -286,7 +309,8 @@
             "value_score":23.784,
             "region":"전라남도 완도군",
             "region_code":"Jeollanamdo",
-            "sub_region_code":"4689000000_Jeollanamdo_Wando"
+            "sub_region_code":"4689000000_Jeollanamdo_Wando",
+            "shorten_url":"https:\/\/me2.do\/GMqauXrc"
         },
         {
             "index":20,
@@ -298,7 +322,8 @@
             "value_score":18.9682105263,
             "region":"전라남도 완도군",
             "region_code":"Jeollanamdo",
-            "sub_region_code":"4689000000_Jeollanamdo_Wando"
+            "sub_region_code":"4689000000_Jeollanamdo_Wando",
+            "shorten_url":"https:\/\/me2.do\/GMqauXrc"
         },
         {
             "index":21,
@@ -310,7 +335,8 @@
             "value_score":38.908,
             "region":"전라남도 완도군",
             "region_code":"Jeollanamdo",
-            "sub_region_code":"4689000000_Jeollanamdo_Wando"
+            "sub_region_code":"4689000000_Jeollanamdo_Wando",
+            "shorten_url":"https:\/\/me2.do\/GMqauXrc"
         },
         {
             "index":22,
@@ -322,7 +348,8 @@
             "value_score":36.008,
             "region":"전라남도 완도군",
             "region_code":"Jeollanamdo",
-            "sub_region_code":"4689000000_Jeollanamdo_Wando"
+            "sub_region_code":"4689000000_Jeollanamdo_Wando",
+            "shorten_url":"https:\/\/me2.do\/GMqauXrc"
         },
         {
             "index":23,
@@ -334,7 +361,8 @@
             "value_score":35.033,
             "region":"전라남도 완도군",
             "region_code":"Jeollanamdo",
-            "sub_region_code":"4689000000_Jeollanamdo_Wando"
+            "sub_region_code":"4689000000_Jeollanamdo_Wando",
+            "shorten_url":"https:\/\/me2.do\/GMqauXrc"
         },
         {
             "index":24,
@@ -346,7 +374,8 @@
             "value_score":35.033,
             "region":"전라남도 완도군",
             "region_code":"Jeollanamdo",
-            "sub_region_code":"4689000000_Jeollanamdo_Wando"
+            "sub_region_code":"4689000000_Jeollanamdo_Wando",
+            "shorten_url":"https:\/\/me2.do\/GMqauXrc"
         },
         {
             "index":25,
@@ -358,7 +387,8 @@
             "value_score":30.658,
             "region":"전라남도 완도군",
             "region_code":"Jeollanamdo",
-            "sub_region_code":"4689000000_Jeollanamdo_Wando"
+            "sub_region_code":"4689000000_Jeollanamdo_Wando",
+            "shorten_url":"https:\/\/me2.do\/GMqauXrc"
         },
         {
             "index":26,
@@ -370,7 +400,8 @@
             "value_score":30.033,
             "region":"전라남도 완도군",
             "region_code":"Jeollanamdo",
-            "sub_region_code":"4689000000_Jeollanamdo_Wando"
+            "sub_region_code":"4689000000_Jeollanamdo_Wando",
+            "shorten_url":"https:\/\/me2.do\/GMqauXrc"
         },
         {
             "index":27,
@@ -382,7 +413,8 @@
             "value_score":29.258,
             "region":"전라남도 완도군",
             "region_code":"Jeollanamdo",
-            "sub_region_code":"4689000000_Jeollanamdo_Wando"
+            "sub_region_code":"4689000000_Jeollanamdo_Wando",
+            "shorten_url":"https:\/\/me2.do\/GMqauXrc"
         }
     ]
 }

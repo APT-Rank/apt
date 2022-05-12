@@ -40,6 +40,10 @@
             {
                 "name":"sub_region_code",
                 "type":"string"
+            },
+            {
+                "name":"shorten_url",
+                "type":"string"
             }
         ],
         "primaryKey":[
@@ -58,7 +62,8 @@
             "value_score":63.4975,
             "region":"경기도 고양시 덕양구",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4128100000_Gyeonggi_Goyang_Deogyang"
+            "sub_region_code":"4128100000_Gyeonggi_Goyang_Deogyang",
+            "shorten_url":"https:\/\/me2.do\/FJFdQ4tn"
         },
         {
             "index":1,
@@ -70,7 +75,8 @@
             "value_score":62.0975,
             "region":"경기도 고양시 덕양구",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4128100000_Gyeonggi_Goyang_Deogyang"
+            "sub_region_code":"4128100000_Gyeonggi_Goyang_Deogyang",
+            "shorten_url":"https:\/\/me2.do\/FJFdQ4tn"
         },
         {
             "index":2,
@@ -82,7 +88,8 @@
             "value_score":61.6249,
             "region":"경기도 고양시 덕양구",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4128100000_Gyeonggi_Goyang_Deogyang"
+            "sub_region_code":"4128100000_Gyeonggi_Goyang_Deogyang",
+            "shorten_url":"https:\/\/me2.do\/FJFdQ4tn"
         },
         {
             "index":3,
@@ -94,7 +101,8 @@
             "value_score":61.4249,
             "region":"경기도 고양시 덕양구",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4128100000_Gyeonggi_Goyang_Deogyang"
+            "sub_region_code":"4128100000_Gyeonggi_Goyang_Deogyang",
+            "shorten_url":"https:\/\/me2.do\/FJFdQ4tn"
         },
         {
             "index":4,
@@ -106,7 +114,8 @@
             "value_score":61.4249,
             "region":"경기도 고양시 덕양구",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4128100000_Gyeonggi_Goyang_Deogyang"
+            "sub_region_code":"4128100000_Gyeonggi_Goyang_Deogyang",
+            "shorten_url":"https:\/\/me2.do\/FJFdQ4tn"
         },
         {
             "index":5,
@@ -118,7 +127,8 @@
             "value_score":59.2249,
             "region":"경기도 고양시 덕양구",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4128100000_Gyeonggi_Goyang_Deogyang"
+            "sub_region_code":"4128100000_Gyeonggi_Goyang_Deogyang",
+            "shorten_url":"https:\/\/me2.do\/FJFdQ4tn"
         },
         {
             "index":6,
@@ -130,7 +140,8 @@
             "value_score":58.8249,
             "region":"경기도 고양시 덕양구",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4128100000_Gyeonggi_Goyang_Deogyang"
+            "sub_region_code":"4128100000_Gyeonggi_Goyang_Deogyang",
+            "shorten_url":"https:\/\/me2.do\/FJFdQ4tn"
         },
         {
             "index":7,
@@ -142,7 +153,8 @@
             "value_score":58.5466,
             "region":"경기도 고양시 덕양구",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4128100000_Gyeonggi_Goyang_Deogyang"
+            "sub_region_code":"4128100000_Gyeonggi_Goyang_Deogyang",
+            "shorten_url":"https:\/\/me2.do\/FJFdQ4tn"
         },
         {
             "index":8,
@@ -154,7 +166,8 @@
             "value_score":57.7749,
             "region":"경기도 고양시 덕양구",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4128100000_Gyeonggi_Goyang_Deogyang"
+            "sub_region_code":"4128100000_Gyeonggi_Goyang_Deogyang",
+            "shorten_url":"https:\/\/me2.do\/FJFdQ4tn"
         },
         {
             "index":9,
@@ -166,7 +179,8 @@
             "value_score":56.9666,
             "region":"경기도 고양시 덕양구",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4128100000_Gyeonggi_Goyang_Deogyang"
+            "sub_region_code":"4128100000_Gyeonggi_Goyang_Deogyang",
+            "shorten_url":"https:\/\/me2.do\/FJFdQ4tn"
         },
         {
             "index":10,
@@ -178,7 +192,8 @@
             "value_score":66.38,
             "region":"경기도 고양시 덕양구",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4128100000_Gyeonggi_Goyang_Deogyang"
+            "sub_region_code":"4128100000_Gyeonggi_Goyang_Deogyang",
+            "shorten_url":"https:\/\/me2.do\/FJFdQ4tn"
         },
         {
             "index":11,
@@ -190,7 +205,8 @@
             "value_score":65.8098,
             "region":"경기도 고양시 덕양구",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4128100000_Gyeonggi_Goyang_Deogyang"
+            "sub_region_code":"4128100000_Gyeonggi_Goyang_Deogyang",
+            "shorten_url":"https:\/\/me2.do\/FJFdQ4tn"
         },
         {
             "index":12,
@@ -202,7 +218,8 @@
             "value_score":65.73,
             "region":"경기도 고양시 덕양구",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4128100000_Gyeonggi_Goyang_Deogyang"
+            "sub_region_code":"4128100000_Gyeonggi_Goyang_Deogyang",
+            "shorten_url":"https:\/\/me2.do\/FJFdQ4tn"
         },
         {
             "index":13,
@@ -214,7 +231,8 @@
             "value_score":65.4788,
             "region":"경기도 고양시 덕양구",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4128100000_Gyeonggi_Goyang_Deogyang"
+            "sub_region_code":"4128100000_Gyeonggi_Goyang_Deogyang",
+            "shorten_url":"https:\/\/me2.do\/FJFdQ4tn"
         },
         {
             "index":14,
@@ -226,7 +244,8 @@
             "value_score":64.5588,
             "region":"경기도 고양시 덕양구",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4128100000_Gyeonggi_Goyang_Deogyang"
+            "sub_region_code":"4128100000_Gyeonggi_Goyang_Deogyang",
+            "shorten_url":"https:\/\/me2.do\/FJFdQ4tn"
         },
         {
             "index":15,
@@ -238,7 +257,8 @@
             "value_score":64.3418,
             "region":"경기도 고양시 덕양구",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4128100000_Gyeonggi_Goyang_Deogyang"
+            "sub_region_code":"4128100000_Gyeonggi_Goyang_Deogyang",
+            "shorten_url":"https:\/\/me2.do\/FJFdQ4tn"
         },
         {
             "index":16,
@@ -250,7 +270,8 @@
             "value_score":63.7418,
             "region":"경기도 고양시 덕양구",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4128100000_Gyeonggi_Goyang_Deogyang"
+            "sub_region_code":"4128100000_Gyeonggi_Goyang_Deogyang",
+            "shorten_url":"https:\/\/me2.do\/FJFdQ4tn"
         },
         {
             "index":17,
@@ -262,7 +283,8 @@
             "value_score":63.6288,
             "region":"경기도 고양시 덕양구",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4128100000_Gyeonggi_Goyang_Deogyang"
+            "sub_region_code":"4128100000_Gyeonggi_Goyang_Deogyang",
+            "shorten_url":"https:\/\/me2.do\/FJFdQ4tn"
         },
         {
             "index":18,
@@ -274,7 +296,8 @@
             "value_score":63.1418,
             "region":"경기도 고양시 덕양구",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4128100000_Gyeonggi_Goyang_Deogyang"
+            "sub_region_code":"4128100000_Gyeonggi_Goyang_Deogyang",
+            "shorten_url":"https:\/\/me2.do\/FJFdQ4tn"
         },
         {
             "index":19,
@@ -286,7 +309,8 @@
             "value_score":63.1418,
             "region":"경기도 고양시 덕양구",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4128100000_Gyeonggi_Goyang_Deogyang"
+            "sub_region_code":"4128100000_Gyeonggi_Goyang_Deogyang",
+            "shorten_url":"https:\/\/me2.do\/FJFdQ4tn"
         },
         {
             "index":20,
@@ -298,7 +322,8 @@
             "value_score":63.6975,
             "region":"경기도 고양시 덕양구",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4128100000_Gyeonggi_Goyang_Deogyang"
+            "sub_region_code":"4128100000_Gyeonggi_Goyang_Deogyang",
+            "shorten_url":"https:\/\/me2.do\/FJFdQ4tn"
         },
         {
             "index":21,
@@ -310,7 +335,8 @@
             "value_score":61.8749,
             "region":"경기도 고양시 덕양구",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4128100000_Gyeonggi_Goyang_Deogyang"
+            "sub_region_code":"4128100000_Gyeonggi_Goyang_Deogyang",
+            "shorten_url":"https:\/\/me2.do\/FJFdQ4tn"
         },
         {
             "index":22,
@@ -322,7 +348,8 @@
             "value_score":61.7999,
             "region":"경기도 고양시 덕양구",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4128100000_Gyeonggi_Goyang_Deogyang"
+            "sub_region_code":"4128100000_Gyeonggi_Goyang_Deogyang",
+            "shorten_url":"https:\/\/me2.do\/FJFdQ4tn"
         },
         {
             "index":23,
@@ -334,7 +361,8 @@
             "value_score":61.4749,
             "region":"경기도 고양시 덕양구",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4128100000_Gyeonggi_Goyang_Deogyang"
+            "sub_region_code":"4128100000_Gyeonggi_Goyang_Deogyang",
+            "shorten_url":"https:\/\/me2.do\/FJFdQ4tn"
         },
         {
             "index":24,
@@ -346,7 +374,8 @@
             "value_score":61.4725,
             "region":"경기도 고양시 덕양구",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4128100000_Gyeonggi_Goyang_Deogyang"
+            "sub_region_code":"4128100000_Gyeonggi_Goyang_Deogyang",
+            "shorten_url":"https:\/\/me2.do\/FJFdQ4tn"
         },
         {
             "index":25,
@@ -358,7 +387,8 @@
             "value_score":60.6499,
             "region":"경기도 고양시 덕양구",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4128100000_Gyeonggi_Goyang_Deogyang"
+            "sub_region_code":"4128100000_Gyeonggi_Goyang_Deogyang",
+            "shorten_url":"https:\/\/me2.do\/FJFdQ4tn"
         },
         {
             "index":26,
@@ -370,7 +400,8 @@
             "value_score":60.1716,
             "region":"경기도 고양시 덕양구",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4128100000_Gyeonggi_Goyang_Deogyang"
+            "sub_region_code":"4128100000_Gyeonggi_Goyang_Deogyang",
+            "shorten_url":"https:\/\/me2.do\/FJFdQ4tn"
         },
         {
             "index":27,
@@ -382,7 +413,8 @@
             "value_score":59.8499,
             "region":"경기도 고양시 덕양구",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4128100000_Gyeonggi_Goyang_Deogyang"
+            "sub_region_code":"4128100000_Gyeonggi_Goyang_Deogyang",
+            "shorten_url":"https:\/\/me2.do\/FJFdQ4tn"
         },
         {
             "index":28,
@@ -394,7 +426,8 @@
             "value_score":59.11265,
             "region":"경기도 고양시 덕양구",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4128100000_Gyeonggi_Goyang_Deogyang"
+            "sub_region_code":"4128100000_Gyeonggi_Goyang_Deogyang",
+            "shorten_url":"https:\/\/me2.do\/FJFdQ4tn"
         },
         {
             "index":29,
@@ -406,7 +439,8 @@
             "value_score":58.7016,
             "region":"경기도 고양시 덕양구",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4128100000_Gyeonggi_Goyang_Deogyang"
+            "sub_region_code":"4128100000_Gyeonggi_Goyang_Deogyang",
+            "shorten_url":"https:\/\/me2.do\/FJFdQ4tn"
         },
         {
             "index":30,
@@ -418,7 +452,8 @@
             "value_score":65.7415,
             "region":"경기도 고양시 덕양구",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4128100000_Gyeonggi_Goyang_Deogyang"
+            "sub_region_code":"4128100000_Gyeonggi_Goyang_Deogyang",
+            "shorten_url":"https:\/\/me2.do\/FJFdQ4tn"
         },
         {
             "index":31,
@@ -430,7 +465,8 @@
             "value_score":65.5915,
             "region":"경기도 고양시 덕양구",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4128100000_Gyeonggi_Goyang_Deogyang"
+            "sub_region_code":"4128100000_Gyeonggi_Goyang_Deogyang",
+            "shorten_url":"https:\/\/me2.do\/FJFdQ4tn"
         },
         {
             "index":32,
@@ -442,7 +478,8 @@
             "value_score":64.5415,
             "region":"경기도 고양시 덕양구",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4128100000_Gyeonggi_Goyang_Deogyang"
+            "sub_region_code":"4128100000_Gyeonggi_Goyang_Deogyang",
+            "shorten_url":"https:\/\/me2.do\/FJFdQ4tn"
         },
         {
             "index":33,
@@ -454,7 +491,8 @@
             "value_score":64.2915,
             "region":"경기도 고양시 덕양구",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4128100000_Gyeonggi_Goyang_Deogyang"
+            "sub_region_code":"4128100000_Gyeonggi_Goyang_Deogyang",
+            "shorten_url":"https:\/\/me2.do\/FJFdQ4tn"
         },
         {
             "index":34,
@@ -466,7 +504,8 @@
             "value_score":63.5625,
             "region":"경기도 고양시 덕양구",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4128100000_Gyeonggi_Goyang_Deogyang"
+            "sub_region_code":"4128100000_Gyeonggi_Goyang_Deogyang",
+            "shorten_url":"https:\/\/me2.do\/FJFdQ4tn"
         },
         {
             "index":35,
@@ -478,7 +517,8 @@
             "value_score":63.3415,
             "region":"경기도 고양시 덕양구",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4128100000_Gyeonggi_Goyang_Deogyang"
+            "sub_region_code":"4128100000_Gyeonggi_Goyang_Deogyang",
+            "shorten_url":"https:\/\/me2.do\/FJFdQ4tn"
         },
         {
             "index":36,
@@ -490,7 +530,8 @@
             "value_score":61.9125,
             "region":"경기도 고양시 덕양구",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4128100000_Gyeonggi_Goyang_Deogyang"
+            "sub_region_code":"4128100000_Gyeonggi_Goyang_Deogyang",
+            "shorten_url":"https:\/\/me2.do\/FJFdQ4tn"
         },
         {
             "index":37,
@@ -502,7 +543,8 @@
             "value_score":59.8915,
             "region":"경기도 고양시 덕양구",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4128100000_Gyeonggi_Goyang_Deogyang"
+            "sub_region_code":"4128100000_Gyeonggi_Goyang_Deogyang",
+            "shorten_url":"https:\/\/me2.do\/FJFdQ4tn"
         },
         {
             "index":38,
@@ -514,7 +556,8 @@
             "value_score":58.0415,
             "region":"경기도 고양시 덕양구",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4128100000_Gyeonggi_Goyang_Deogyang"
+            "sub_region_code":"4128100000_Gyeonggi_Goyang_Deogyang",
+            "shorten_url":"https:\/\/me2.do\/FJFdQ4tn"
         },
         {
             "index":39,
@@ -526,7 +569,8 @@
             "value_score":57.21525,
             "region":"경기도 고양시 덕양구",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4128100000_Gyeonggi_Goyang_Deogyang"
+            "sub_region_code":"4128100000_Gyeonggi_Goyang_Deogyang",
+            "shorten_url":"https:\/\/me2.do\/FJFdQ4tn"
         },
         {
             "index":40,
@@ -538,7 +582,8 @@
             "value_score":68.325,
             "region":"경기도 고양시 덕양구",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4128100000_Gyeonggi_Goyang_Deogyang"
+            "sub_region_code":"4128100000_Gyeonggi_Goyang_Deogyang",
+            "shorten_url":"https:\/\/me2.do\/FJFdQ4tn"
         },
         {
             "index":41,
@@ -550,7 +595,8 @@
             "value_score":65.825,
             "region":"경기도 고양시 덕양구",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4128100000_Gyeonggi_Goyang_Deogyang"
+            "sub_region_code":"4128100000_Gyeonggi_Goyang_Deogyang",
+            "shorten_url":"https:\/\/me2.do\/FJFdQ4tn"
         },
         {
             "index":42,
@@ -562,7 +608,8 @@
             "value_score":65.083,
             "region":"경기도 고양시 덕양구",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4128100000_Gyeonggi_Goyang_Deogyang"
+            "sub_region_code":"4128100000_Gyeonggi_Goyang_Deogyang",
+            "shorten_url":"https:\/\/me2.do\/FJFdQ4tn"
         },
         {
             "index":43,
@@ -574,7 +621,8 @@
             "value_score":64.683,
             "region":"경기도 고양시 덕양구",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4128100000_Gyeonggi_Goyang_Deogyang"
+            "sub_region_code":"4128100000_Gyeonggi_Goyang_Deogyang",
+            "shorten_url":"https:\/\/me2.do\/FJFdQ4tn"
         },
         {
             "index":44,
@@ -586,7 +634,8 @@
             "value_score":64.383,
             "region":"경기도 고양시 덕양구",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4128100000_Gyeonggi_Goyang_Deogyang"
+            "sub_region_code":"4128100000_Gyeonggi_Goyang_Deogyang",
+            "shorten_url":"https:\/\/me2.do\/FJFdQ4tn"
         },
         {
             "index":45,
@@ -598,7 +647,8 @@
             "value_score":64.2305,
             "region":"경기도 고양시 덕양구",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4128100000_Gyeonggi_Goyang_Deogyang"
+            "sub_region_code":"4128100000_Gyeonggi_Goyang_Deogyang",
+            "shorten_url":"https:\/\/me2.do\/FJFdQ4tn"
         },
         {
             "index":46,
@@ -610,7 +660,8 @@
             "value_score":64.025,
             "region":"경기도 고양시 덕양구",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4128100000_Gyeonggi_Goyang_Deogyang"
+            "sub_region_code":"4128100000_Gyeonggi_Goyang_Deogyang",
+            "shorten_url":"https:\/\/me2.do\/FJFdQ4tn"
         },
         {
             "index":47,
@@ -622,7 +673,8 @@
             "value_score":61.883,
             "region":"경기도 고양시 덕양구",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4128100000_Gyeonggi_Goyang_Deogyang"
+            "sub_region_code":"4128100000_Gyeonggi_Goyang_Deogyang",
+            "shorten_url":"https:\/\/me2.do\/FJFdQ4tn"
         },
         {
             "index":48,
@@ -634,7 +686,8 @@
             "value_score":61.783,
             "region":"경기도 고양시 덕양구",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4128100000_Gyeonggi_Goyang_Deogyang"
+            "sub_region_code":"4128100000_Gyeonggi_Goyang_Deogyang",
+            "shorten_url":"https:\/\/me2.do\/FJFdQ4tn"
         },
         {
             "index":49,
@@ -646,7 +699,8 @@
             "value_score":60.583,
             "region":"경기도 고양시 덕양구",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4128100000_Gyeonggi_Goyang_Deogyang"
+            "sub_region_code":"4128100000_Gyeonggi_Goyang_Deogyang",
+            "shorten_url":"https:\/\/me2.do\/FJFdQ4tn"
         }
     ]
 }

@@ -40,6 +40,10 @@
             {
                 "name":"sub_region_code",
                 "type":"string"
+            },
+            {
+                "name":"shorten_url",
+                "type":"string"
             }
         ],
         "primaryKey":[
@@ -58,7 +62,8 @@
             "value_score":38.932,
             "region":"전라남도 함평군",
             "region_code":"Jeollanamdo",
-            "sub_region_code":"4686000000_Jeollanamdo_Hampyeong"
+            "sub_region_code":"4686000000_Jeollanamdo_Hampyeong",
+            "shorten_url":"https:\/\/me2.do\/GkpCW6dx"
         },
         {
             "index":1,
@@ -70,7 +75,8 @@
             "value_score":38.7198,
             "region":"전라남도 함평군",
             "region_code":"Jeollanamdo",
-            "sub_region_code":"4686000000_Jeollanamdo_Hampyeong"
+            "sub_region_code":"4686000000_Jeollanamdo_Hampyeong",
+            "shorten_url":"https:\/\/me2.do\/GkpCW6dx"
         },
         {
             "index":2,
@@ -82,7 +88,8 @@
             "value_score":34.4198,
             "region":"전라남도 함평군",
             "region_code":"Jeollanamdo",
-            "sub_region_code":"4686000000_Jeollanamdo_Hampyeong"
+            "sub_region_code":"4686000000_Jeollanamdo_Hampyeong",
+            "shorten_url":"https:\/\/me2.do\/GkpCW6dx"
         },
         {
             "index":3,
@@ -94,7 +101,8 @@
             "value_score":30.8948,
             "region":"전라남도 함평군",
             "region_code":"Jeollanamdo",
-            "sub_region_code":"4686000000_Jeollanamdo_Hampyeong"
+            "sub_region_code":"4686000000_Jeollanamdo_Hampyeong",
+            "shorten_url":"https:\/\/me2.do\/GkpCW6dx"
         },
         {
             "index":4,
@@ -106,7 +114,8 @@
             "value_score":23.5698,
             "region":"전라남도 함평군",
             "region_code":"Jeollanamdo",
-            "sub_region_code":"4686000000_Jeollanamdo_Hampyeong"
+            "sub_region_code":"4686000000_Jeollanamdo_Hampyeong",
+            "shorten_url":"https:\/\/me2.do\/GkpCW6dx"
         },
         {
             "index":5,
@@ -118,7 +127,8 @@
             "value_score":39.13,
             "region":"전라남도 함평군",
             "region_code":"Jeollanamdo",
-            "sub_region_code":"4686000000_Jeollanamdo_Hampyeong"
+            "sub_region_code":"4686000000_Jeollanamdo_Hampyeong",
+            "shorten_url":"https:\/\/me2.do\/GkpCW6dx"
         },
         {
             "index":6,
@@ -130,7 +140,8 @@
             "value_score":38.907,
             "region":"전라남도 함평군",
             "region_code":"Jeollanamdo",
-            "sub_region_code":"4686000000_Jeollanamdo_Hampyeong"
+            "sub_region_code":"4686000000_Jeollanamdo_Hampyeong",
+            "shorten_url":"https:\/\/me2.do\/GkpCW6dx"
         },
         {
             "index":7,
@@ -142,7 +153,8 @@
             "value_score":33.407,
             "region":"전라남도 함평군",
             "region_code":"Jeollanamdo",
-            "sub_region_code":"4686000000_Jeollanamdo_Hampyeong"
+            "sub_region_code":"4686000000_Jeollanamdo_Hampyeong",
+            "shorten_url":"https:\/\/me2.do\/GkpCW6dx"
         },
         {
             "index":8,
@@ -154,7 +166,8 @@
             "value_score":28.532,
             "region":"전라남도 함평군",
             "region_code":"Jeollanamdo",
-            "sub_region_code":"4686000000_Jeollanamdo_Hampyeong"
+            "sub_region_code":"4686000000_Jeollanamdo_Hampyeong",
+            "shorten_url":"https:\/\/me2.do\/GkpCW6dx"
         },
         {
             "index":9,
@@ -166,7 +179,8 @@
             "value_score":19.907,
             "region":"전라남도 함평군",
             "region_code":"Jeollanamdo",
-            "sub_region_code":"4686000000_Jeollanamdo_Hampyeong"
+            "sub_region_code":"4686000000_Jeollanamdo_Hampyeong",
+            "shorten_url":"https:\/\/me2.do\/GkpCW6dx"
         },
         {
             "index":10,
@@ -178,7 +192,8 @@
             "value_score":30.7772631579,
             "region":"전라남도 함평군",
             "region_code":"Jeollanamdo",
-            "sub_region_code":"4686000000_Jeollanamdo_Hampyeong"
+            "sub_region_code":"4686000000_Jeollanamdo_Hampyeong",
+            "shorten_url":"https:\/\/me2.do\/GkpCW6dx"
         },
         {
             "index":11,
@@ -190,7 +205,8 @@
             "value_score":30.2957894737,
             "region":"전라남도 함평군",
             "region_code":"Jeollanamdo",
-            "sub_region_code":"4686000000_Jeollanamdo_Hampyeong"
+            "sub_region_code":"4686000000_Jeollanamdo_Hampyeong",
+            "shorten_url":"https:\/\/me2.do\/GkpCW6dx"
         },
         {
             "index":12,
@@ -202,7 +218,8 @@
             "value_score":29.8035789474,
             "region":"전라남도 함평군",
             "region_code":"Jeollanamdo",
-            "sub_region_code":"4686000000_Jeollanamdo_Hampyeong"
+            "sub_region_code":"4686000000_Jeollanamdo_Hampyeong",
+            "shorten_url":"https:\/\/me2.do\/GkpCW6dx"
         },
         {
             "index":13,
@@ -214,7 +231,8 @@
             "value_score":28.9614736842,
             "region":"전라남도 함평군",
             "region_code":"Jeollanamdo",
-            "sub_region_code":"4686000000_Jeollanamdo_Hampyeong"
+            "sub_region_code":"4686000000_Jeollanamdo_Hampyeong",
+            "shorten_url":"https:\/\/me2.do\/GkpCW6dx"
         },
         {
             "index":14,
@@ -226,7 +244,8 @@
             "value_score":24.2509473684,
             "region":"전라남도 함평군",
             "region_code":"Jeollanamdo",
-            "sub_region_code":"4686000000_Jeollanamdo_Hampyeong"
+            "sub_region_code":"4686000000_Jeollanamdo_Hampyeong",
+            "shorten_url":"https:\/\/me2.do\/GkpCW6dx"
         },
         {
             "index":15,
@@ -238,7 +257,8 @@
             "value_score":38.635,
             "region":"전라남도 함평군",
             "region_code":"Jeollanamdo",
-            "sub_region_code":"4686000000_Jeollanamdo_Hampyeong"
+            "sub_region_code":"4686000000_Jeollanamdo_Hampyeong",
+            "shorten_url":"https:\/\/me2.do\/GkpCW6dx"
         },
         {
             "index":16,
@@ -250,7 +270,8 @@
             "value_score":38.439,
             "region":"전라남도 함평군",
             "region_code":"Jeollanamdo",
-            "sub_region_code":"4686000000_Jeollanamdo_Hampyeong"
+            "sub_region_code":"4686000000_Jeollanamdo_Hampyeong",
+            "shorten_url":"https:\/\/me2.do\/GkpCW6dx"
         },
         {
             "index":17,
@@ -262,7 +283,8 @@
             "value_score":35.939,
             "region":"전라남도 함평군",
             "region_code":"Jeollanamdo",
-            "sub_region_code":"4686000000_Jeollanamdo_Hampyeong"
+            "sub_region_code":"4686000000_Jeollanamdo_Hampyeong",
+            "shorten_url":"https:\/\/me2.do\/GkpCW6dx"
         },
         {
             "index":18,
@@ -274,7 +296,8 @@
             "value_score":34.439,
             "region":"전라남도 함평군",
             "region_code":"Jeollanamdo",
-            "sub_region_code":"4686000000_Jeollanamdo_Hampyeong"
+            "sub_region_code":"4686000000_Jeollanamdo_Hampyeong",
+            "shorten_url":"https:\/\/me2.do\/GkpCW6dx"
         },
         {
             "index":19,
@@ -286,7 +309,8 @@
             "value_score":29.064,
             "region":"전라남도 함평군",
             "region_code":"Jeollanamdo",
-            "sub_region_code":"4686000000_Jeollanamdo_Hampyeong"
+            "sub_region_code":"4686000000_Jeollanamdo_Hampyeong",
+            "shorten_url":"https:\/\/me2.do\/GkpCW6dx"
         }
     ]
 }

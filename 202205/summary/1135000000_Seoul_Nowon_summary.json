@@ -40,6 +40,10 @@
             {
                 "name":"sub_region_code",
                 "type":"string"
+            },
+            {
+                "name":"shorten_url",
+                "type":"string"
             }
         ],
         "primaryKey":[
@@ -58,7 +62,8 @@
             "value_score":69.5228322609,
             "region":"서울시 노원구",
             "region_code":"Seoul",
-            "sub_region_code":"1135000000_Seoul_Nowon"
+            "sub_region_code":"1135000000_Seoul_Nowon",
+            "shorten_url":"https:\/\/me2.do\/xZ9NMFrC"
         },
         {
             "index":1,
@@ -70,7 +75,8 @@
             "value_score":66.0838,
             "region":"서울시 노원구",
             "region_code":"Seoul",
-            "sub_region_code":"1135000000_Seoul_Nowon"
+            "sub_region_code":"1135000000_Seoul_Nowon",
+            "shorten_url":"https:\/\/me2.do\/xZ9NMFrC"
         },
         {
             "index":2,
@@ -82,7 +88,8 @@
             "value_score":60.2687,
             "region":"서울시 노원구",
             "region_code":"Seoul",
-            "sub_region_code":"1135000000_Seoul_Nowon"
+            "sub_region_code":"1135000000_Seoul_Nowon",
+            "shorten_url":"https:\/\/me2.do\/xZ9NMFrC"
         },
         {
             "index":3,
@@ -94,7 +101,8 @@
             "value_score":60.1148,
             "region":"서울시 노원구",
             "region_code":"Seoul",
-            "sub_region_code":"1135000000_Seoul_Nowon"
+            "sub_region_code":"1135000000_Seoul_Nowon",
+            "shorten_url":"https:\/\/me2.do\/xZ9NMFrC"
         },
         {
             "index":4,
@@ -106,7 +114,8 @@
             "value_score":59.0926,
             "region":"서울시 노원구",
             "region_code":"Seoul",
-            "sub_region_code":"1135000000_Seoul_Nowon"
+            "sub_region_code":"1135000000_Seoul_Nowon",
+            "shorten_url":"https:\/\/me2.do\/xZ9NMFrC"
         },
         {
             "index":5,
@@ -118,7 +127,8 @@
             "value_score":58.9931000001,
             "region":"서울시 노원구",
             "region_code":"Seoul",
-            "sub_region_code":"1135000000_Seoul_Nowon"
+            "sub_region_code":"1135000000_Seoul_Nowon",
+            "shorten_url":"https:\/\/me2.do\/xZ9NMFrC"
         },
         {
             "index":6,
@@ -130,7 +140,8 @@
             "value_score":58.1687,
             "region":"서울시 노원구",
             "region_code":"Seoul",
-            "sub_region_code":"1135000000_Seoul_Nowon"
+            "sub_region_code":"1135000000_Seoul_Nowon",
+            "shorten_url":"https:\/\/me2.do\/xZ9NMFrC"
         },
         {
             "index":7,
@@ -142,7 +153,8 @@
             "value_score":57.9338,
             "region":"서울시 노원구",
             "region_code":"Seoul",
-            "sub_region_code":"1135000000_Seoul_Nowon"
+            "sub_region_code":"1135000000_Seoul_Nowon",
+            "shorten_url":"https:\/\/me2.do\/xZ9NMFrC"
         },
         {
             "index":8,
@@ -154,7 +166,8 @@
             "value_score":57.6381,
             "region":"서울시 노원구",
             "region_code":"Seoul",
-            "sub_region_code":"1135000000_Seoul_Nowon"
+            "sub_region_code":"1135000000_Seoul_Nowon",
+            "shorten_url":"https:\/\/me2.do\/xZ9NMFrC"
         },
         {
             "index":9,
@@ -166,7 +179,8 @@
             "value_score":57.6307,
             "region":"서울시 노원구",
             "region_code":"Seoul",
-            "sub_region_code":"1135000000_Seoul_Nowon"
+            "sub_region_code":"1135000000_Seoul_Nowon",
+            "shorten_url":"https:\/\/me2.do\/xZ9NMFrC"
         },
         {
             "index":10,
@@ -178,7 +192,8 @@
             "value_score":76.0318881739,
             "region":"서울시 노원구",
             "region_code":"Seoul",
-            "sub_region_code":"1135000000_Seoul_Nowon"
+            "sub_region_code":"1135000000_Seoul_Nowon",
+            "shorten_url":"https:\/\/me2.do\/xZ9NMFrC"
         },
         {
             "index":11,
@@ -190,7 +205,8 @@
             "value_score":69.8392,
             "region":"서울시 노원구",
             "region_code":"Seoul",
-            "sub_region_code":"1135000000_Seoul_Nowon"
+            "sub_region_code":"1135000000_Seoul_Nowon",
+            "shorten_url":"https:\/\/me2.do\/xZ9NMFrC"
         },
         {
             "index":12,
@@ -202,7 +218,8 @@
             "value_score":66.1432,
             "region":"서울시 노원구",
             "region_code":"Seoul",
-            "sub_region_code":"1135000000_Seoul_Nowon"
+            "sub_region_code":"1135000000_Seoul_Nowon",
+            "shorten_url":"https:\/\/me2.do\/xZ9NMFrC"
         },
         {
             "index":13,
@@ -214,7 +231,8 @@
             "value_score":64.4454000001,
             "region":"서울시 노원구",
             "region_code":"Seoul",
-            "sub_region_code":"1135000000_Seoul_Nowon"
+            "sub_region_code":"1135000000_Seoul_Nowon",
+            "shorten_url":"https:\/\/me2.do\/xZ9NMFrC"
         },
         {
             "index":14,
@@ -226,7 +244,8 @@
             "value_score":61.5254,
             "region":"서울시 노원구",
             "region_code":"Seoul",
-            "sub_region_code":"1135000000_Seoul_Nowon"
+            "sub_region_code":"1135000000_Seoul_Nowon",
+            "shorten_url":"https:\/\/me2.do\/xZ9NMFrC"
         },
         {
             "index":15,
@@ -238,7 +257,8 @@
             "value_score":60.9538,
             "region":"서울시 노원구",
             "region_code":"Seoul",
-            "sub_region_code":"1135000000_Seoul_Nowon"
+            "sub_region_code":"1135000000_Seoul_Nowon",
+            "shorten_url":"https:\/\/me2.do\/xZ9NMFrC"
         },
         {
             "index":16,
@@ -250,7 +270,8 @@
             "value_score":60.8458,
             "region":"서울시 노원구",
             "region_code":"Seoul",
-            "sub_region_code":"1135000000_Seoul_Nowon"
+            "sub_region_code":"1135000000_Seoul_Nowon",
+            "shorten_url":"https:\/\/me2.do\/xZ9NMFrC"
         },
         {
             "index":17,
@@ -262,7 +283,8 @@
             "value_score":58.8754,
             "region":"서울시 노원구",
             "region_code":"Seoul",
-            "sub_region_code":"1135000000_Seoul_Nowon"
+            "sub_region_code":"1135000000_Seoul_Nowon",
+            "shorten_url":"https:\/\/me2.do\/xZ9NMFrC"
         },
         {
             "index":18,
@@ -274,7 +296,8 @@
             "value_score":58.4284,
             "region":"서울시 노원구",
             "region_code":"Seoul",
-            "sub_region_code":"1135000000_Seoul_Nowon"
+            "sub_region_code":"1135000000_Seoul_Nowon",
+            "shorten_url":"https:\/\/me2.do\/xZ9NMFrC"
         },
         {
             "index":19,
@@ -286,7 +309,8 @@
             "value_score":58.2168,
             "region":"서울시 노원구",
             "region_code":"Seoul",
-            "sub_region_code":"1135000000_Seoul_Nowon"
+            "sub_region_code":"1135000000_Seoul_Nowon",
+            "shorten_url":"https:\/\/me2.do\/xZ9NMFrC"
         },
         {
             "index":20,
@@ -298,7 +322,8 @@
             "value_score":63.7614161304,
             "region":"서울시 노원구",
             "region_code":"Seoul",
-            "sub_region_code":"1135000000_Seoul_Nowon"
+            "sub_region_code":"1135000000_Seoul_Nowon",
+            "shorten_url":"https:\/\/me2.do\/xZ9NMFrC"
         },
         {
             "index":21,
@@ -310,7 +335,8 @@
             "value_score":60.6919,
             "region":"서울시 노원구",
             "region_code":"Seoul",
-            "sub_region_code":"1135000000_Seoul_Nowon"
+            "sub_region_code":"1135000000_Seoul_Nowon",
+            "shorten_url":"https:\/\/me2.do\/xZ9NMFrC"
         },
         {
             "index":22,
@@ -322,7 +348,8 @@
             "value_score":59.2939417149,
             "region":"서울시 노원구",
             "region_code":"Seoul",
-            "sub_region_code":"1135000000_Seoul_Nowon"
+            "sub_region_code":"1135000000_Seoul_Nowon",
+            "shorten_url":"https:\/\/me2.do\/xZ9NMFrC"
         },
         {
             "index":23,
@@ -334,7 +361,8 @@
             "value_score":58.88435,
             "region":"서울시 노원구",
             "region_code":"Seoul",
-            "sub_region_code":"1135000000_Seoul_Nowon"
+            "sub_region_code":"1135000000_Seoul_Nowon",
+            "shorten_url":"https:\/\/me2.do\/xZ9NMFrC"
         },
         {
             "index":24,
@@ -346,7 +374,8 @@
             "value_score":58.7669,
             "region":"서울시 노원구",
             "region_code":"Seoul",
-            "sub_region_code":"1135000000_Seoul_Nowon"
+            "sub_region_code":"1135000000_Seoul_Nowon",
+            "shorten_url":"https:\/\/me2.do\/xZ9NMFrC"
         },
         {
             "index":25,
@@ -358,7 +387,8 @@
             "value_score":58.43435,
             "region":"서울시 노원구",
             "region_code":"Seoul",
-            "sub_region_code":"1135000000_Seoul_Nowon"
+            "sub_region_code":"1135000000_Seoul_Nowon",
+            "shorten_url":"https:\/\/me2.do\/xZ9NMFrC"
         },
         {
             "index":26,
@@ -370,7 +400,8 @@
             "value_score":58.0721,
             "region":"서울시 노원구",
             "region_code":"Seoul",
-            "sub_region_code":"1135000000_Seoul_Nowon"
+            "sub_region_code":"1135000000_Seoul_Nowon",
+            "shorten_url":"https:\/\/me2.do\/xZ9NMFrC"
         },
         {
             "index":27,
@@ -382,7 +413,8 @@
             "value_score":56.9401,
             "region":"서울시 노원구",
             "region_code":"Seoul",
-            "sub_region_code":"1135000000_Seoul_Nowon"
+            "sub_region_code":"1135000000_Seoul_Nowon",
+            "shorten_url":"https:\/\/me2.do\/xZ9NMFrC"
         },
         {
             "index":28,
@@ -394,7 +426,8 @@
             "value_score":56.731,
             "region":"서울시 노원구",
             "region_code":"Seoul",
-            "sub_region_code":"1135000000_Seoul_Nowon"
+            "sub_region_code":"1135000000_Seoul_Nowon",
+            "shorten_url":"https:\/\/me2.do\/xZ9NMFrC"
         },
         {
             "index":29,
@@ -406,7 +439,8 @@
             "value_score":56.69765,
             "region":"서울시 노원구",
             "region_code":"Seoul",
-            "sub_region_code":"1135000000_Seoul_Nowon"
+            "sub_region_code":"1135000000_Seoul_Nowon",
+            "shorten_url":"https:\/\/me2.do\/xZ9NMFrC"
         },
         {
             "index":30,
@@ -418,7 +452,8 @@
             "value_score":65.4273602174,
             "region":"서울시 노원구",
             "region_code":"Seoul",
-            "sub_region_code":"1135000000_Seoul_Nowon"
+            "sub_region_code":"1135000000_Seoul_Nowon",
+            "shorten_url":"https:\/\/me2.do\/xZ9NMFrC"
         },
         {
             "index":31,
@@ -430,7 +465,8 @@
             "value_score":64.6105,
             "region":"서울시 노원구",
             "region_code":"Seoul",
-            "sub_region_code":"1135000000_Seoul_Nowon"
+            "sub_region_code":"1135000000_Seoul_Nowon",
+            "shorten_url":"https:\/\/me2.do\/xZ9NMFrC"
         },
         {
             "index":32,
@@ -442,7 +478,8 @@
             "value_score":62.65725,
             "region":"서울시 노원구",
             "region_code":"Seoul",
-            "sub_region_code":"1135000000_Seoul_Nowon"
+            "sub_region_code":"1135000000_Seoul_Nowon",
+            "shorten_url":"https:\/\/me2.do\/xZ9NMFrC"
         },
         {
             "index":33,
@@ -454,7 +491,8 @@
             "value_score":62.5615,
             "region":"서울시 노원구",
             "region_code":"Seoul",
-            "sub_region_code":"1135000000_Seoul_Nowon"
+            "sub_region_code":"1135000000_Seoul_Nowon",
+            "shorten_url":"https:\/\/me2.do\/xZ9NMFrC"
         },
         {
             "index":34,
@@ -466,7 +504,8 @@
             "value_score":62.3192500001,
             "region":"서울시 노원구",
             "region_code":"Seoul",
-            "sub_region_code":"1135000000_Seoul_Nowon"
+            "sub_region_code":"1135000000_Seoul_Nowon",
+            "shorten_url":"https:\/\/me2.do\/xZ9NMFrC"
         },
         {
             "index":35,
@@ -478,7 +517,8 @@
             "value_score":62.28175,
             "region":"서울시 노원구",
             "region_code":"Seoul",
-            "sub_region_code":"1135000000_Seoul_Nowon"
+            "sub_region_code":"1135000000_Seoul_Nowon",
+            "shorten_url":"https:\/\/me2.do\/xZ9NMFrC"
         },
         {
             "index":36,
@@ -490,7 +530,8 @@
             "value_score":61.85725,
             "region":"서울시 노원구",
             "region_code":"Seoul",
-            "sub_region_code":"1135000000_Seoul_Nowon"
+            "sub_region_code":"1135000000_Seoul_Nowon",
+            "shorten_url":"https:\/\/me2.do\/xZ9NMFrC"
         },
         {
             "index":37,
@@ -502,7 +543,8 @@
             "value_score":61.84225,
             "region":"서울시 노원구",
             "region_code":"Seoul",
-            "sub_region_code":"1135000000_Seoul_Nowon"
+            "sub_region_code":"1135000000_Seoul_Nowon",
+            "shorten_url":"https:\/\/me2.do\/xZ9NMFrC"
         },
         {
             "index":38,
@@ -514,7 +556,8 @@
             "value_score":61.6615,
             "region":"서울시 노원구",
             "region_code":"Seoul",
-            "sub_region_code":"1135000000_Seoul_Nowon"
+            "sub_region_code":"1135000000_Seoul_Nowon",
+            "shorten_url":"https:\/\/me2.do\/xZ9NMFrC"
         },
         {
             "index":39,
@@ -526,7 +569,8 @@
             "value_score":61.38175,
             "region":"서울시 노원구",
             "region_code":"Seoul",
-            "sub_region_code":"1135000000_Seoul_Nowon"
+            "sub_region_code":"1135000000_Seoul_Nowon",
+            "shorten_url":"https:\/\/me2.do\/xZ9NMFrC"
         },
         {
             "index":40,
@@ -538,7 +582,8 @@
             "value_score":67.4385000002,
             "region":"서울시 노원구",
             "region_code":"Seoul",
-            "sub_region_code":"1135000000_Seoul_Nowon"
+            "sub_region_code":"1135000000_Seoul_Nowon",
+            "shorten_url":"https:\/\/me2.do\/xZ9NMFrC"
         },
         {
             "index":41,
@@ -550,7 +595,8 @@
             "value_score":67.021,
             "region":"서울시 노원구",
             "region_code":"Seoul",
-            "sub_region_code":"1135000000_Seoul_Nowon"
+            "sub_region_code":"1135000000_Seoul_Nowon",
+            "shorten_url":"https:\/\/me2.do\/xZ9NMFrC"
         },
         {
             "index":42,
@@ -562,7 +608,8 @@
             "value_score":66.8547204348,
             "region":"서울시 노원구",
             "region_code":"Seoul",
-            "sub_region_code":"1135000000_Seoul_Nowon"
+            "sub_region_code":"1135000000_Seoul_Nowon",
+            "shorten_url":"https:\/\/me2.do\/xZ9NMFrC"
         },
         {
             "index":43,
@@ -574,7 +621,8 @@
             "value_score":66.6635,
             "region":"서울시 노원구",
             "region_code":"Seoul",
-            "sub_region_code":"1135000000_Seoul_Nowon"
+            "sub_region_code":"1135000000_Seoul_Nowon",
+            "shorten_url":"https:\/\/me2.do\/xZ9NMFrC"
         },
         {
             "index":44,
@@ -586,7 +634,8 @@
             "value_score":66.5635,
             "region":"서울시 노원구",
             "region_code":"Seoul",
-            "sub_region_code":"1135000000_Seoul_Nowon"
+            "sub_region_code":"1135000000_Seoul_Nowon",
+            "shorten_url":"https:\/\/me2.do\/xZ9NMFrC"
         },
         {
             "index":45,
@@ -598,7 +647,8 @@
             "value_score":65.923,
             "region":"서울시 노원구",
             "region_code":"Seoul",
-            "sub_region_code":"1135000000_Seoul_Nowon"
+            "sub_region_code":"1135000000_Seoul_Nowon",
+            "shorten_url":"https:\/\/me2.do\/xZ9NMFrC"
         },
         {
             "index":46,
@@ -610,7 +660,8 @@
             "value_score":65.1635,
             "region":"서울시 노원구",
             "region_code":"Seoul",
-            "sub_region_code":"1135000000_Seoul_Nowon"
+            "sub_region_code":"1135000000_Seoul_Nowon",
+            "shorten_url":"https:\/\/me2.do\/xZ9NMFrC"
         },
         {
             "index":47,
@@ -622,7 +673,8 @@
             "value_score":64.388,
             "region":"서울시 노원구",
             "region_code":"Seoul",
-            "sub_region_code":"1135000000_Seoul_Nowon"
+            "sub_region_code":"1135000000_Seoul_Nowon",
+            "shorten_url":"https:\/\/me2.do\/xZ9NMFrC"
         },
         {
             "index":48,
@@ -634,7 +686,8 @@
             "value_score":62.988,
             "region":"서울시 노원구",
             "region_code":"Seoul",
-            "sub_region_code":"1135000000_Seoul_Nowon"
+            "sub_region_code":"1135000000_Seoul_Nowon",
+            "shorten_url":"https:\/\/me2.do\/xZ9NMFrC"
         },
         {
             "index":49,
@@ -646,7 +699,8 @@
             "value_score":62.2635,
             "region":"서울시 노원구",
             "region_code":"Seoul",
-            "sub_region_code":"1135000000_Seoul_Nowon"
+            "sub_region_code":"1135000000_Seoul_Nowon",
+            "shorten_url":"https:\/\/me2.do\/xZ9NMFrC"
         }
     ]
 }

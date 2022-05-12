@@ -40,6 +40,10 @@
             {
                 "name":"sub_region_code",
                 "type":"string"
+            },
+            {
+                "name":"shorten_url",
+                "type":"string"
             }
         ],
         "primaryKey":[
@@ -58,7 +62,8 @@
             "value_score":52.2681,
             "region":"경상북도 예천군",
             "region_code":"Gyeongsangbukdo",
-            "sub_region_code":"4790000000_Gyeongsangbukdo_Yecheon"
+            "sub_region_code":"4790000000_Gyeongsangbukdo_Yecheon",
+            "shorten_url":"https:\/\/me2.do\/5wmIgDQj"
         },
         {
             "index":1,
@@ -70,7 +75,8 @@
             "value_score":52.1181,
             "region":"경상북도 예천군",
             "region_code":"Gyeongsangbukdo",
-            "sub_region_code":"4790000000_Gyeongsangbukdo_Yecheon"
+            "sub_region_code":"4790000000_Gyeongsangbukdo_Yecheon",
+            "shorten_url":"https:\/\/me2.do\/5wmIgDQj"
         },
         {
             "index":2,
@@ -82,7 +88,8 @@
             "value_score":51.9681,
             "region":"경상북도 예천군",
             "region_code":"Gyeongsangbukdo",
-            "sub_region_code":"4790000000_Gyeongsangbukdo_Yecheon"
+            "sub_region_code":"4790000000_Gyeongsangbukdo_Yecheon",
+            "shorten_url":"https:\/\/me2.do\/5wmIgDQj"
         },
         {
             "index":3,
@@ -94,7 +101,8 @@
             "value_score":50.8681,
             "region":"경상북도 예천군",
             "region_code":"Gyeongsangbukdo",
-            "sub_region_code":"4790000000_Gyeongsangbukdo_Yecheon"
+            "sub_region_code":"4790000000_Gyeongsangbukdo_Yecheon",
+            "shorten_url":"https:\/\/me2.do\/5wmIgDQj"
         },
         {
             "index":4,
@@ -106,7 +114,8 @@
             "value_score":49.2181,
             "region":"경상북도 예천군",
             "region_code":"Gyeongsangbukdo",
-            "sub_region_code":"4790000000_Gyeongsangbukdo_Yecheon"
+            "sub_region_code":"4790000000_Gyeongsangbukdo_Yecheon",
+            "shorten_url":"https:\/\/me2.do\/5wmIgDQj"
         },
         {
             "index":5,
@@ -118,7 +127,8 @@
             "value_score":49.0681,
             "region":"경상북도 예천군",
             "region_code":"Gyeongsangbukdo",
-            "sub_region_code":"4790000000_Gyeongsangbukdo_Yecheon"
+            "sub_region_code":"4790000000_Gyeongsangbukdo_Yecheon",
+            "shorten_url":"https:\/\/me2.do\/5wmIgDQj"
         },
         {
             "index":6,
@@ -130,7 +140,8 @@
             "value_score":47.3681,
             "region":"경상북도 예천군",
             "region_code":"Gyeongsangbukdo",
-            "sub_region_code":"4790000000_Gyeongsangbukdo_Yecheon"
+            "sub_region_code":"4790000000_Gyeongsangbukdo_Yecheon",
+            "shorten_url":"https:\/\/me2.do\/5wmIgDQj"
         },
         {
             "index":7,
@@ -142,7 +153,8 @@
             "value_score":46.5181,
             "region":"경상북도 예천군",
             "region_code":"Gyeongsangbukdo",
-            "sub_region_code":"4790000000_Gyeongsangbukdo_Yecheon"
+            "sub_region_code":"4790000000_Gyeongsangbukdo_Yecheon",
+            "shorten_url":"https:\/\/me2.do\/5wmIgDQj"
         },
         {
             "index":8,
@@ -154,7 +166,8 @@
             "value_score":46.2681,
             "region":"경상북도 예천군",
             "region_code":"Gyeongsangbukdo",
-            "sub_region_code":"4790000000_Gyeongsangbukdo_Yecheon"
+            "sub_region_code":"4790000000_Gyeongsangbukdo_Yecheon",
+            "shorten_url":"https:\/\/me2.do\/5wmIgDQj"
         },
         {
             "index":9,
@@ -166,7 +179,8 @@
             "value_score":38.6643,
             "region":"경상북도 예천군",
             "region_code":"Gyeongsangbukdo",
-            "sub_region_code":"4790000000_Gyeongsangbukdo_Yecheon"
+            "sub_region_code":"4790000000_Gyeongsangbukdo_Yecheon",
+            "shorten_url":"https:\/\/me2.do\/5wmIgDQj"
         },
         {
             "index":10,
@@ -178,7 +192,8 @@
             "value_score":56.1915,
             "region":"경상북도 예천군",
             "region_code":"Gyeongsangbukdo",
-            "sub_region_code":"4790000000_Gyeongsangbukdo_Yecheon"
+            "sub_region_code":"4790000000_Gyeongsangbukdo_Yecheon",
+            "shorten_url":"https:\/\/me2.do\/5wmIgDQj"
         },
         {
             "index":11,
@@ -190,7 +205,8 @@
             "value_score":54.4415,
             "region":"경상북도 예천군",
             "region_code":"Gyeongsangbukdo",
-            "sub_region_code":"4790000000_Gyeongsangbukdo_Yecheon"
+            "sub_region_code":"4790000000_Gyeongsangbukdo_Yecheon",
+            "shorten_url":"https:\/\/me2.do\/5wmIgDQj"
         },
         {
             "index":12,
@@ -202,7 +218,8 @@
             "value_score":53.9415,
             "region":"경상북도 예천군",
             "region_code":"Gyeongsangbukdo",
-            "sub_region_code":"4790000000_Gyeongsangbukdo_Yecheon"
+            "sub_region_code":"4790000000_Gyeongsangbukdo_Yecheon",
+            "shorten_url":"https:\/\/me2.do\/5wmIgDQj"
         },
         {
             "index":13,
@@ -214,7 +231,8 @@
             "value_score":52.4415,
             "region":"경상북도 예천군",
             "region_code":"Gyeongsangbukdo",
-            "sub_region_code":"4790000000_Gyeongsangbukdo_Yecheon"
+            "sub_region_code":"4790000000_Gyeongsangbukdo_Yecheon",
+            "shorten_url":"https:\/\/me2.do\/5wmIgDQj"
         },
         {
             "index":14,
@@ -226,7 +244,8 @@
             "value_score":51.9415,
             "region":"경상북도 예천군",
             "region_code":"Gyeongsangbukdo",
-            "sub_region_code":"4790000000_Gyeongsangbukdo_Yecheon"
+            "sub_region_code":"4790000000_Gyeongsangbukdo_Yecheon",
+            "shorten_url":"https:\/\/me2.do\/5wmIgDQj"
         },
         {
             "index":15,
@@ -238,7 +257,8 @@
             "value_score":49.6915,
             "region":"경상북도 예천군",
             "region_code":"Gyeongsangbukdo",
-            "sub_region_code":"4790000000_Gyeongsangbukdo_Yecheon"
+            "sub_region_code":"4790000000_Gyeongsangbukdo_Yecheon",
+            "shorten_url":"https:\/\/me2.do\/5wmIgDQj"
         },
         {
             "index":16,
@@ -250,7 +270,8 @@
             "value_score":49.1915,
             "region":"경상북도 예천군",
             "region_code":"Gyeongsangbukdo",
-            "sub_region_code":"4790000000_Gyeongsangbukdo_Yecheon"
+            "sub_region_code":"4790000000_Gyeongsangbukdo_Yecheon",
+            "shorten_url":"https:\/\/me2.do\/5wmIgDQj"
         },
         {
             "index":17,
@@ -262,7 +283,8 @@
             "value_score":48.4415,
             "region":"경상북도 예천군",
             "region_code":"Gyeongsangbukdo",
-            "sub_region_code":"4790000000_Gyeongsangbukdo_Yecheon"
+            "sub_region_code":"4790000000_Gyeongsangbukdo_Yecheon",
+            "shorten_url":"https:\/\/me2.do\/5wmIgDQj"
         },
         {
             "index":18,
@@ -274,7 +296,8 @@
             "value_score":46.1915,
             "region":"경상북도 예천군",
             "region_code":"Gyeongsangbukdo",
-            "sub_region_code":"4790000000_Gyeongsangbukdo_Yecheon"
+            "sub_region_code":"4790000000_Gyeongsangbukdo_Yecheon",
+            "shorten_url":"https:\/\/me2.do\/5wmIgDQj"
         },
         {
             "index":19,
@@ -286,7 +309,8 @@
             "value_score":38.8245,
             "region":"경상북도 예천군",
             "region_code":"Gyeongsangbukdo",
-            "sub_region_code":"4790000000_Gyeongsangbukdo_Yecheon"
+            "sub_region_code":"4790000000_Gyeongsangbukdo_Yecheon",
+            "shorten_url":"https:\/\/me2.do\/5wmIgDQj"
         },
         {
             "index":20,
@@ -298,7 +322,8 @@
             "value_score":39.2155789474,
             "region":"경상북도 예천군",
             "region_code":"Gyeongsangbukdo",
-            "sub_region_code":"4790000000_Gyeongsangbukdo_Yecheon"
+            "sub_region_code":"4790000000_Gyeongsangbukdo_Yecheon",
+            "shorten_url":"https:\/\/me2.do\/5wmIgDQj"
         },
         {
             "index":21,
@@ -310,7 +335,8 @@
             "value_score":38.5050526316,
             "region":"경상북도 예천군",
             "region_code":"Gyeongsangbukdo",
-            "sub_region_code":"4790000000_Gyeongsangbukdo_Yecheon"
+            "sub_region_code":"4790000000_Gyeongsangbukdo_Yecheon",
+            "shorten_url":"https:\/\/me2.do\/5wmIgDQj"
         },
         {
             "index":22,
@@ -322,7 +348,8 @@
             "value_score":38.0576842105,
             "region":"경상북도 예천군",
             "region_code":"Gyeongsangbukdo",
-            "sub_region_code":"4790000000_Gyeongsangbukdo_Yecheon"
+            "sub_region_code":"4790000000_Gyeongsangbukdo_Yecheon",
+            "shorten_url":"https:\/\/me2.do\/5wmIgDQj"
         },
         {
             "index":23,
@@ -334,7 +361,8 @@
             "value_score":37.3997894737,
             "region":"경상북도 예천군",
             "region_code":"Gyeongsangbukdo",
-            "sub_region_code":"4790000000_Gyeongsangbukdo_Yecheon"
+            "sub_region_code":"4790000000_Gyeongsangbukdo_Yecheon",
+            "shorten_url":"https:\/\/me2.do\/5wmIgDQj"
         },
         {
             "index":24,
@@ -346,7 +374,8 @@
             "value_score":34.584,
             "region":"경상북도 예천군",
             "region_code":"Gyeongsangbukdo",
-            "sub_region_code":"4790000000_Gyeongsangbukdo_Yecheon"
+            "sub_region_code":"4790000000_Gyeongsangbukdo_Yecheon",
+            "shorten_url":"https:\/\/me2.do\/5wmIgDQj"
         },
         {
             "index":25,
@@ -358,7 +387,8 @@
             "value_score":34.2945263158,
             "region":"경상북도 예천군",
             "region_code":"Gyeongsangbukdo",
-            "sub_region_code":"4790000000_Gyeongsangbukdo_Yecheon"
+            "sub_region_code":"4790000000_Gyeongsangbukdo_Yecheon",
+            "shorten_url":"https:\/\/me2.do\/5wmIgDQj"
         },
         {
             "index":26,
@@ -370,7 +400,8 @@
             "value_score":32.3734736842,
             "region":"경상북도 예천군",
             "region_code":"Gyeongsangbukdo",
-            "sub_region_code":"4790000000_Gyeongsangbukdo_Yecheon"
+            "sub_region_code":"4790000000_Gyeongsangbukdo_Yecheon",
+            "shorten_url":"https:\/\/me2.do\/5wmIgDQj"
         },
         {
             "index":27,
@@ -382,7 +413,8 @@
             "value_score":31.9524210526,
             "region":"경상북도 예천군",
             "region_code":"Gyeongsangbukdo",
-            "sub_region_code":"4790000000_Gyeongsangbukdo_Yecheon"
+            "sub_region_code":"4790000000_Gyeongsangbukdo_Yecheon",
+            "shorten_url":"https:\/\/me2.do\/5wmIgDQj"
         },
         {
             "index":28,
@@ -394,7 +426,8 @@
             "value_score":31.8471578947,
             "region":"경상북도 예천군",
             "region_code":"Gyeongsangbukdo",
-            "sub_region_code":"4790000000_Gyeongsangbukdo_Yecheon"
+            "sub_region_code":"4790000000_Gyeongsangbukdo_Yecheon",
+            "shorten_url":"https:\/\/me2.do\/5wmIgDQj"
         },
         {
             "index":29,
@@ -406,7 +439,8 @@
             "value_score":29.5730526316,
             "region":"경상북도 예천군",
             "region_code":"Gyeongsangbukdo",
-            "sub_region_code":"4790000000_Gyeongsangbukdo_Yecheon"
+            "sub_region_code":"4790000000_Gyeongsangbukdo_Yecheon",
+            "shorten_url":"https:\/\/me2.do\/5wmIgDQj"
         },
         {
             "index":30,
@@ -418,7 +452,8 @@
             "value_score":49.758,
             "region":"경상북도 예천군",
             "region_code":"Gyeongsangbukdo",
-            "sub_region_code":"4790000000_Gyeongsangbukdo_Yecheon"
+            "sub_region_code":"4790000000_Gyeongsangbukdo_Yecheon",
+            "shorten_url":"https:\/\/me2.do\/5wmIgDQj"
         },
         {
             "index":31,
@@ -430,7 +465,8 @@
             "value_score":49.258,
             "region":"경상북도 예천군",
             "region_code":"Gyeongsangbukdo",
-            "sub_region_code":"4790000000_Gyeongsangbukdo_Yecheon"
+            "sub_region_code":"4790000000_Gyeongsangbukdo_Yecheon",
+            "shorten_url":"https:\/\/me2.do\/5wmIgDQj"
         },
         {
             "index":32,
@@ -442,7 +478,8 @@
             "value_score":48.258,
             "region":"경상북도 예천군",
             "region_code":"Gyeongsangbukdo",
-            "sub_region_code":"4790000000_Gyeongsangbukdo_Yecheon"
+            "sub_region_code":"4790000000_Gyeongsangbukdo_Yecheon",
+            "shorten_url":"https:\/\/me2.do\/5wmIgDQj"
         },
         {
             "index":33,
@@ -454,7 +491,8 @@
             "value_score":48.133,
             "region":"경상북도 예천군",
             "region_code":"Gyeongsangbukdo",
-            "sub_region_code":"4790000000_Gyeongsangbukdo_Yecheon"
+            "sub_region_code":"4790000000_Gyeongsangbukdo_Yecheon",
+            "shorten_url":"https:\/\/me2.do\/5wmIgDQj"
         },
         {
             "index":34,
@@ -466,7 +504,8 @@
             "value_score":46.383,
             "region":"경상북도 예천군",
             "region_code":"Gyeongsangbukdo",
-            "sub_region_code":"4790000000_Gyeongsangbukdo_Yecheon"
+            "sub_region_code":"4790000000_Gyeongsangbukdo_Yecheon",
+            "shorten_url":"https:\/\/me2.do\/5wmIgDQj"
         },
         {
             "index":35,
@@ -478,7 +517,8 @@
             "value_score":46.008,
             "region":"경상북도 예천군",
             "region_code":"Gyeongsangbukdo",
-            "sub_region_code":"4790000000_Gyeongsangbukdo_Yecheon"
+            "sub_region_code":"4790000000_Gyeongsangbukdo_Yecheon",
+            "shorten_url":"https:\/\/me2.do\/5wmIgDQj"
         },
         {
             "index":36,
@@ -490,7 +530,8 @@
             "value_score":45.758,
             "region":"경상북도 예천군",
             "region_code":"Gyeongsangbukdo",
-            "sub_region_code":"4790000000_Gyeongsangbukdo_Yecheon"
+            "sub_region_code":"4790000000_Gyeongsangbukdo_Yecheon",
+            "shorten_url":"https:\/\/me2.do\/5wmIgDQj"
         },
         {
             "index":37,
@@ -502,7 +543,8 @@
             "value_score":44.383,
             "region":"경상북도 예천군",
             "region_code":"Gyeongsangbukdo",
-            "sub_region_code":"4790000000_Gyeongsangbukdo_Yecheon"
+            "sub_region_code":"4790000000_Gyeongsangbukdo_Yecheon",
+            "shorten_url":"https:\/\/me2.do\/5wmIgDQj"
         },
         {
             "index":38,
@@ -514,7 +556,8 @@
             "value_score":42.508,
             "region":"경상북도 예천군",
             "region_code":"Gyeongsangbukdo",
-            "sub_region_code":"4790000000_Gyeongsangbukdo_Yecheon"
+            "sub_region_code":"4790000000_Gyeongsangbukdo_Yecheon",
+            "shorten_url":"https:\/\/me2.do\/5wmIgDQj"
         },
         {
             "index":39,
@@ -526,7 +569,8 @@
             "value_score":38.424,
             "region":"경상북도 예천군",
             "region_code":"Gyeongsangbukdo",
-            "sub_region_code":"4790000000_Gyeongsangbukdo_Yecheon"
+            "sub_region_code":"4790000000_Gyeongsangbukdo_Yecheon",
+            "shorten_url":"https:\/\/me2.do\/5wmIgDQj"
         }
     ]
 }

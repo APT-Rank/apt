@@ -40,6 +40,10 @@
             {
                 "name":"sub_region_code",
                 "type":"string"
+            },
+            {
+                "name":"shorten_url",
+                "type":"string"
             }
         ],
         "primaryKey":[
@@ -58,7 +62,8 @@
             "value_score":40.8604,
             "region":"경기도 양평군",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4183000000_Gyeonggi_Yangpyeong"
+            "sub_region_code":"4183000000_Gyeonggi_Yangpyeong",
+            "shorten_url":"https:\/\/me2.do\/IFK0Y2dx"
         },
         {
             "index":1,
@@ -70,7 +75,8 @@
             "value_score":36.9604,
             "region":"경기도 양평군",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4183000000_Gyeonggi_Yangpyeong"
+            "sub_region_code":"4183000000_Gyeonggi_Yangpyeong",
+            "shorten_url":"https:\/\/me2.do\/IFK0Y2dx"
         },
         {
             "index":2,
@@ -82,7 +88,8 @@
             "value_score":34.5404,
             "region":"경기도 양평군",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4183000000_Gyeonggi_Yangpyeong"
+            "sub_region_code":"4183000000_Gyeonggi_Yangpyeong",
+            "shorten_url":"https:\/\/me2.do\/IFK0Y2dx"
         },
         {
             "index":3,
@@ -94,7 +101,8 @@
             "value_score":33.9904,
             "region":"경기도 양평군",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4183000000_Gyeonggi_Yangpyeong"
+            "sub_region_code":"4183000000_Gyeonggi_Yangpyeong",
+            "shorten_url":"https:\/\/me2.do\/IFK0Y2dx"
         },
         {
             "index":4,
@@ -106,7 +114,8 @@
             "value_score":33.8604,
             "region":"경기도 양평군",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4183000000_Gyeonggi_Yangpyeong"
+            "sub_region_code":"4183000000_Gyeonggi_Yangpyeong",
+            "shorten_url":"https:\/\/me2.do\/IFK0Y2dx"
         },
         {
             "index":5,
@@ -118,7 +127,8 @@
             "value_score":32.9728,
             "region":"경기도 양평군",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4183000000_Gyeonggi_Yangpyeong"
+            "sub_region_code":"4183000000_Gyeonggi_Yangpyeong",
+            "shorten_url":"https:\/\/me2.do\/IFK0Y2dx"
         },
         {
             "index":6,
@@ -130,7 +140,8 @@
             "value_score":32.7604,
             "region":"경기도 양평군",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4183000000_Gyeonggi_Yangpyeong"
+            "sub_region_code":"4183000000_Gyeonggi_Yangpyeong",
+            "shorten_url":"https:\/\/me2.do\/IFK0Y2dx"
         },
         {
             "index":7,
@@ -142,7 +153,8 @@
             "value_score":32.3904,
             "region":"경기도 양평군",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4183000000_Gyeonggi_Yangpyeong"
+            "sub_region_code":"4183000000_Gyeonggi_Yangpyeong",
+            "shorten_url":"https:\/\/me2.do\/IFK0Y2dx"
         },
         {
             "index":8,
@@ -154,7 +166,8 @@
             "value_score":32.2104,
             "region":"경기도 양평군",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4183000000_Gyeonggi_Yangpyeong"
+            "sub_region_code":"4183000000_Gyeonggi_Yangpyeong",
+            "shorten_url":"https:\/\/me2.do\/IFK0Y2dx"
         },
         {
             "index":9,
@@ -166,7 +179,8 @@
             "value_score":32.0404,
             "region":"경기도 양평군",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4183000000_Gyeonggi_Yangpyeong"
+            "sub_region_code":"4183000000_Gyeonggi_Yangpyeong",
+            "shorten_url":"https:\/\/me2.do\/IFK0Y2dx"
         },
         {
             "index":10,
@@ -178,7 +192,8 @@
             "value_score":52.1304,
             "region":"경기도 양평군",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4183000000_Gyeonggi_Yangpyeong"
+            "sub_region_code":"4183000000_Gyeonggi_Yangpyeong",
+            "shorten_url":"https:\/\/me2.do\/IFK0Y2dx"
         },
         {
             "index":11,
@@ -190,7 +205,8 @@
             "value_score":51.2328,
             "region":"경기도 양평군",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4183000000_Gyeonggi_Yangpyeong"
+            "sub_region_code":"4183000000_Gyeonggi_Yangpyeong",
+            "shorten_url":"https:\/\/me2.do\/IFK0Y2dx"
         },
         {
             "index":12,
@@ -202,7 +218,8 @@
             "value_score":49.8372,
             "region":"경기도 양평군",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4183000000_Gyeonggi_Yangpyeong"
+            "sub_region_code":"4183000000_Gyeonggi_Yangpyeong",
+            "shorten_url":"https:\/\/me2.do\/IFK0Y2dx"
         },
         {
             "index":13,
@@ -214,7 +231,8 @@
             "value_score":47.4672,
             "region":"경기도 양평군",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4183000000_Gyeonggi_Yangpyeong"
+            "sub_region_code":"4183000000_Gyeonggi_Yangpyeong",
+            "shorten_url":"https:\/\/me2.do\/IFK0Y2dx"
         },
         {
             "index":14,
@@ -226,7 +244,8 @@
             "value_score":47.2672,
             "region":"경기도 양평군",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4183000000_Gyeonggi_Yangpyeong"
+            "sub_region_code":"4183000000_Gyeonggi_Yangpyeong",
+            "shorten_url":"https:\/\/me2.do\/IFK0Y2dx"
         },
         {
             "index":15,
@@ -238,7 +257,8 @@
             "value_score":46.5372,
             "region":"경기도 양평군",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4183000000_Gyeonggi_Yangpyeong"
+            "sub_region_code":"4183000000_Gyeonggi_Yangpyeong",
+            "shorten_url":"https:\/\/me2.do\/IFK0Y2dx"
         },
         {
             "index":16,
@@ -250,7 +270,8 @@
             "value_score":46.0372,
             "region":"경기도 양평군",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4183000000_Gyeonggi_Yangpyeong"
+            "sub_region_code":"4183000000_Gyeonggi_Yangpyeong",
+            "shorten_url":"https:\/\/me2.do\/IFK0Y2dx"
         },
         {
             "index":17,
@@ -262,7 +283,8 @@
             "value_score":43.1804,
             "region":"경기도 양평군",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4183000000_Gyeonggi_Yangpyeong"
+            "sub_region_code":"4183000000_Gyeonggi_Yangpyeong",
+            "shorten_url":"https:\/\/me2.do\/IFK0Y2dx"
         },
         {
             "index":18,
@@ -274,7 +296,8 @@
             "value_score":42.1672,
             "region":"경기도 양평군",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4183000000_Gyeonggi_Yangpyeong"
+            "sub_region_code":"4183000000_Gyeonggi_Yangpyeong",
+            "shorten_url":"https:\/\/me2.do\/IFK0Y2dx"
         },
         {
             "index":19,
@@ -286,7 +309,8 @@
             "value_score":41.2372,
             "region":"경기도 양평군",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4183000000_Gyeonggi_Yangpyeong"
+            "sub_region_code":"4183000000_Gyeonggi_Yangpyeong",
+            "shorten_url":"https:\/\/me2.do\/IFK0Y2dx"
         },
         {
             "index":20,
@@ -298,7 +322,8 @@
             "value_score":41.3704,
             "region":"경기도 양평군",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4183000000_Gyeonggi_Yangpyeong"
+            "sub_region_code":"4183000000_Gyeonggi_Yangpyeong",
+            "shorten_url":"https:\/\/me2.do\/IFK0Y2dx"
         },
         {
             "index":21,
@@ -310,7 +335,8 @@
             "value_score":39.1204,
             "region":"경기도 양평군",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4183000000_Gyeonggi_Yangpyeong"
+            "sub_region_code":"4183000000_Gyeonggi_Yangpyeong",
+            "shorten_url":"https:\/\/me2.do\/IFK0Y2dx"
         },
         {
             "index":22,
@@ -322,7 +348,8 @@
             "value_score":36.7154,
             "region":"경기도 양평군",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4183000000_Gyeonggi_Yangpyeong"
+            "sub_region_code":"4183000000_Gyeonggi_Yangpyeong",
+            "shorten_url":"https:\/\/me2.do\/IFK0Y2dx"
         },
         {
             "index":23,
@@ -334,7 +361,8 @@
             "value_score":35.9704,
             "region":"경기도 양평군",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4183000000_Gyeonggi_Yangpyeong"
+            "sub_region_code":"4183000000_Gyeonggi_Yangpyeong",
+            "shorten_url":"https:\/\/me2.do\/IFK0Y2dx"
         },
         {
             "index":24,
@@ -346,7 +374,8 @@
             "value_score":35.4654,
             "region":"경기도 양평군",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4183000000_Gyeonggi_Yangpyeong"
+            "sub_region_code":"4183000000_Gyeonggi_Yangpyeong",
+            "shorten_url":"https:\/\/me2.do\/IFK0Y2dx"
         },
         {
             "index":25,
@@ -358,7 +387,8 @@
             "value_score":35.0204,
             "region":"경기도 양평군",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4183000000_Gyeonggi_Yangpyeong"
+            "sub_region_code":"4183000000_Gyeonggi_Yangpyeong",
+            "shorten_url":"https:\/\/me2.do\/IFK0Y2dx"
         },
         {
             "index":26,
@@ -370,7 +400,8 @@
             "value_score":34.8204,
             "region":"경기도 양평군",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4183000000_Gyeonggi_Yangpyeong"
+            "sub_region_code":"4183000000_Gyeonggi_Yangpyeong",
+            "shorten_url":"https:\/\/me2.do\/IFK0Y2dx"
         },
         {
             "index":27,
@@ -382,7 +413,8 @@
             "value_score":34.6954,
             "region":"경기도 양평군",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4183000000_Gyeonggi_Yangpyeong"
+            "sub_region_code":"4183000000_Gyeonggi_Yangpyeong",
+            "shorten_url":"https:\/\/me2.do\/IFK0Y2dx"
         },
         {
             "index":28,
@@ -394,7 +426,8 @@
             "value_score":33.2154,
             "region":"경기도 양평군",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4183000000_Gyeonggi_Yangpyeong"
+            "sub_region_code":"4183000000_Gyeonggi_Yangpyeong",
+            "shorten_url":"https:\/\/me2.do\/IFK0Y2dx"
         },
         {
             "index":29,
@@ -406,7 +439,8 @@
             "value_score":32.7228,
             "region":"경기도 양평군",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4183000000_Gyeonggi_Yangpyeong"
+            "sub_region_code":"4183000000_Gyeonggi_Yangpyeong",
+            "shorten_url":"https:\/\/me2.do\/IFK0Y2dx"
         },
         {
             "index":30,
@@ -418,7 +452,8 @@
             "value_score":39.634,
             "region":"경기도 양평군",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4183000000_Gyeonggi_Yangpyeong"
+            "sub_region_code":"4183000000_Gyeonggi_Yangpyeong",
+            "shorten_url":"https:\/\/me2.do\/IFK0Y2dx"
         },
         {
             "index":31,
@@ -430,7 +465,8 @@
             "value_score":34.784,
             "region":"경기도 양평군",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4183000000_Gyeonggi_Yangpyeong"
+            "sub_region_code":"4183000000_Gyeonggi_Yangpyeong",
+            "shorten_url":"https:\/\/me2.do\/IFK0Y2dx"
         },
         {
             "index":32,
@@ -442,7 +478,8 @@
             "value_score":33.384,
             "region":"경기도 양평군",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4183000000_Gyeonggi_Yangpyeong"
+            "sub_region_code":"4183000000_Gyeonggi_Yangpyeong",
+            "shorten_url":"https:\/\/me2.do\/IFK0Y2dx"
         },
         {
             "index":33,
@@ -454,7 +491,8 @@
             "value_score":32.884,
             "region":"경기도 양평군",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4183000000_Gyeonggi_Yangpyeong"
+            "sub_region_code":"4183000000_Gyeonggi_Yangpyeong",
+            "shorten_url":"https:\/\/me2.do\/IFK0Y2dx"
         },
         {
             "index":34,
@@ -466,7 +504,8 @@
             "value_score":30.434,
             "region":"경기도 양평군",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4183000000_Gyeonggi_Yangpyeong"
+            "sub_region_code":"4183000000_Gyeonggi_Yangpyeong",
+            "shorten_url":"https:\/\/me2.do\/IFK0Y2dx"
         },
         {
             "index":35,
@@ -478,7 +517,8 @@
             "value_score":29.884,
             "region":"경기도 양평군",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4183000000_Gyeonggi_Yangpyeong"
+            "sub_region_code":"4183000000_Gyeonggi_Yangpyeong",
+            "shorten_url":"https:\/\/me2.do\/IFK0Y2dx"
         },
         {
             "index":36,
@@ -490,7 +530,8 @@
             "value_score":29.234,
             "region":"경기도 양평군",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4183000000_Gyeonggi_Yangpyeong"
+            "sub_region_code":"4183000000_Gyeonggi_Yangpyeong",
+            "shorten_url":"https:\/\/me2.do\/IFK0Y2dx"
         },
         {
             "index":37,
@@ -502,7 +543,8 @@
             "value_score":29.134,
             "region":"경기도 양평군",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4183000000_Gyeonggi_Yangpyeong"
+            "sub_region_code":"4183000000_Gyeonggi_Yangpyeong",
+            "shorten_url":"https:\/\/me2.do\/IFK0Y2dx"
         },
         {
             "index":38,
@@ -514,7 +556,8 @@
             "value_score":28.234,
             "region":"경기도 양평군",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4183000000_Gyeonggi_Yangpyeong"
+            "sub_region_code":"4183000000_Gyeonggi_Yangpyeong",
+            "shorten_url":"https:\/\/me2.do\/IFK0Y2dx"
         },
         {
             "index":39,
@@ -526,7 +569,8 @@
             "value_score":27.0555,
             "region":"경기도 양평군",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4183000000_Gyeonggi_Yangpyeong"
+            "sub_region_code":"4183000000_Gyeonggi_Yangpyeong",
+            "shorten_url":"https:\/\/me2.do\/IFK0Y2dx"
         },
         {
             "index":40,
@@ -538,7 +582,8 @@
             "value_score":42.148,
             "region":"경기도 양평군",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4183000000_Gyeonggi_Yangpyeong"
+            "sub_region_code":"4183000000_Gyeonggi_Yangpyeong",
+            "shorten_url":"https:\/\/me2.do\/IFK0Y2dx"
         },
         {
             "index":41,
@@ -550,7 +595,8 @@
             "value_score":41.376,
             "region":"경기도 양평군",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4183000000_Gyeonggi_Yangpyeong"
+            "sub_region_code":"4183000000_Gyeonggi_Yangpyeong",
+            "shorten_url":"https:\/\/me2.do\/IFK0Y2dx"
         },
         {
             "index":42,
@@ -562,7 +608,8 @@
             "value_score":41.148,
             "region":"경기도 양평군",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4183000000_Gyeonggi_Yangpyeong"
+            "sub_region_code":"4183000000_Gyeonggi_Yangpyeong",
+            "shorten_url":"https:\/\/me2.do\/IFK0Y2dx"
         },
         {
             "index":43,
@@ -574,7 +621,8 @@
             "value_score":40.948,
             "region":"경기도 양평군",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4183000000_Gyeonggi_Yangpyeong"
+            "sub_region_code":"4183000000_Gyeonggi_Yangpyeong",
+            "shorten_url":"https:\/\/me2.do\/IFK0Y2dx"
         },
         {
             "index":44,
@@ -586,7 +634,8 @@
             "value_score":40.368,
             "region":"경기도 양평군",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4183000000_Gyeonggi_Yangpyeong"
+            "sub_region_code":"4183000000_Gyeonggi_Yangpyeong",
+            "shorten_url":"https:\/\/me2.do\/IFK0Y2dx"
         },
         {
             "index":45,
@@ -598,7 +647,8 @@
             "value_score":40.168,
             "region":"경기도 양평군",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4183000000_Gyeonggi_Yangpyeong"
+            "sub_region_code":"4183000000_Gyeonggi_Yangpyeong",
+            "shorten_url":"https:\/\/me2.do\/IFK0Y2dx"
         },
         {
             "index":46,
@@ -610,7 +660,8 @@
             "value_score":39.582,
             "region":"경기도 양평군",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4183000000_Gyeonggi_Yangpyeong"
+            "sub_region_code":"4183000000_Gyeonggi_Yangpyeong",
+            "shorten_url":"https:\/\/me2.do\/IFK0Y2dx"
         },
         {
             "index":47,
@@ -622,7 +673,8 @@
             "value_score":38.868,
             "region":"경기도 양평군",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4183000000_Gyeonggi_Yangpyeong"
+            "sub_region_code":"4183000000_Gyeonggi_Yangpyeong",
+            "shorten_url":"https:\/\/me2.do\/IFK0Y2dx"
         },
         {
             "index":48,
@@ -634,7 +686,8 @@
             "value_score":38.368,
             "region":"경기도 양평군",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4183000000_Gyeonggi_Yangpyeong"
+            "sub_region_code":"4183000000_Gyeonggi_Yangpyeong",
+            "shorten_url":"https:\/\/me2.do\/IFK0Y2dx"
         },
         {
             "index":49,
@@ -646,7 +699,8 @@
             "value_score":37.976,
             "region":"경기도 양평군",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4183000000_Gyeonggi_Yangpyeong"
+            "sub_region_code":"4183000000_Gyeonggi_Yangpyeong",
+            "shorten_url":"https:\/\/me2.do\/IFK0Y2dx"
         }
     ]
 }

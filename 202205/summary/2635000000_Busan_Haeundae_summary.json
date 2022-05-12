@@ -40,6 +40,10 @@
             {
                 "name":"sub_region_code",
                 "type":"string"
+            },
+            {
+                "name":"shorten_url",
+                "type":"string"
             }
         ],
         "primaryKey":[
@@ -58,7 +62,8 @@
             "value_score":74.4951,
             "region":"부산시 해운대구",
             "region_code":"Busan",
-            "sub_region_code":"2635000000_Busan_Haeundae"
+            "sub_region_code":"2635000000_Busan_Haeundae",
+            "shorten_url":"https:\/\/me2.do\/5QDBgnCT"
         },
         {
             "index":1,
@@ -70,7 +75,8 @@
             "value_score":73.2951,
             "region":"부산시 해운대구",
             "region_code":"Busan",
-            "sub_region_code":"2635000000_Busan_Haeundae"
+            "sub_region_code":"2635000000_Busan_Haeundae",
+            "shorten_url":"https:\/\/me2.do\/5QDBgnCT"
         },
         {
             "index":2,
@@ -82,7 +88,8 @@
             "value_score":70.3448,
             "region":"부산시 해운대구",
             "region_code":"Busan",
-            "sub_region_code":"2635000000_Busan_Haeundae"
+            "sub_region_code":"2635000000_Busan_Haeundae",
+            "shorten_url":"https:\/\/me2.do\/5QDBgnCT"
         },
         {
             "index":3,
@@ -94,7 +101,8 @@
             "value_score":69.8251,
             "region":"부산시 해운대구",
             "region_code":"Busan",
-            "sub_region_code":"2635000000_Busan_Haeundae"
+            "sub_region_code":"2635000000_Busan_Haeundae",
+            "shorten_url":"https:\/\/me2.do\/5QDBgnCT"
         },
         {
             "index":4,
@@ -106,7 +114,8 @@
             "value_score":69.6396,
             "region":"부산시 해운대구",
             "region_code":"Busan",
-            "sub_region_code":"2635000000_Busan_Haeundae"
+            "sub_region_code":"2635000000_Busan_Haeundae",
+            "shorten_url":"https:\/\/me2.do\/5QDBgnCT"
         },
         {
             "index":5,
@@ -118,7 +127,8 @@
             "value_score":69.3948,
             "region":"부산시 해운대구",
             "region_code":"Busan",
-            "sub_region_code":"2635000000_Busan_Haeundae"
+            "sub_region_code":"2635000000_Busan_Haeundae",
+            "shorten_url":"https:\/\/me2.do\/5QDBgnCT"
         },
         {
             "index":6,
@@ -130,7 +140,8 @@
             "value_score":67.7248,
             "region":"부산시 해운대구",
             "region_code":"Busan",
-            "sub_region_code":"2635000000_Busan_Haeundae"
+            "sub_region_code":"2635000000_Busan_Haeundae",
+            "shorten_url":"https:\/\/me2.do\/5QDBgnCT"
         },
         {
             "index":7,
@@ -142,7 +153,8 @@
             "value_score":67.5448,
             "region":"부산시 해운대구",
             "region_code":"Busan",
-            "sub_region_code":"2635000000_Busan_Haeundae"
+            "sub_region_code":"2635000000_Busan_Haeundae",
+            "shorten_url":"https:\/\/me2.do\/5QDBgnCT"
         },
         {
             "index":8,
@@ -154,7 +166,8 @@
             "value_score":67.2951,
             "region":"부산시 해운대구",
             "region_code":"Busan",
-            "sub_region_code":"2635000000_Busan_Haeundae"
+            "sub_region_code":"2635000000_Busan_Haeundae",
+            "shorten_url":"https:\/\/me2.do\/5QDBgnCT"
         },
         {
             "index":9,
@@ -166,7 +179,8 @@
             "value_score":67.2045,
             "region":"부산시 해운대구",
             "region_code":"Busan",
-            "sub_region_code":"2635000000_Busan_Haeundae"
+            "sub_region_code":"2635000000_Busan_Haeundae",
+            "shorten_url":"https:\/\/me2.do\/5QDBgnCT"
         },
         {
             "index":10,
@@ -178,7 +192,8 @@
             "value_score":77.1634,
             "region":"부산시 해운대구",
             "region_code":"Busan",
-            "sub_region_code":"2635000000_Busan_Haeundae"
+            "sub_region_code":"2635000000_Busan_Haeundae",
+            "shorten_url":"https:\/\/me2.do\/5QDBgnCT"
         },
         {
             "index":11,
@@ -190,7 +205,8 @@
             "value_score":75.9634,
             "region":"부산시 해운대구",
             "region_code":"Busan",
-            "sub_region_code":"2635000000_Busan_Haeundae"
+            "sub_region_code":"2635000000_Busan_Haeundae",
+            "shorten_url":"https:\/\/me2.do\/5QDBgnCT"
         },
         {
             "index":12,
@@ -202,7 +218,8 @@
             "value_score":71.1134,
             "region":"부산시 해운대구",
             "region_code":"Busan",
-            "sub_region_code":"2635000000_Busan_Haeundae"
+            "sub_region_code":"2635000000_Busan_Haeundae",
+            "shorten_url":"https:\/\/me2.do\/5QDBgnCT"
         },
         {
             "index":13,
@@ -214,7 +231,8 @@
             "value_score":69.0632,
             "region":"부산시 해운대구",
             "region_code":"Busan",
-            "sub_region_code":"2635000000_Busan_Haeundae"
+            "sub_region_code":"2635000000_Busan_Haeundae",
+            "shorten_url":"https:\/\/me2.do\/5QDBgnCT"
         },
         {
             "index":14,
@@ -226,7 +244,8 @@
             "value_score":68.8116,
             "region":"부산시 해운대구",
             "region_code":"Busan",
-            "sub_region_code":"2635000000_Busan_Haeundae"
+            "sub_region_code":"2635000000_Busan_Haeundae",
+            "shorten_url":"https:\/\/me2.do\/5QDBgnCT"
         },
         {
             "index":15,
@@ -238,7 +257,8 @@
             "value_score":68.6764,
             "region":"부산시 해운대구",
             "region_code":"Busan",
-            "sub_region_code":"2635000000_Busan_Haeundae"
+            "sub_region_code":"2635000000_Busan_Haeundae",
+            "shorten_url":"https:\/\/me2.do\/5QDBgnCT"
         },
         {
             "index":16,
@@ -250,7 +270,8 @@
             "value_score":68.4434,
             "region":"부산시 해운대구",
             "region_code":"Busan",
-            "sub_region_code":"2635000000_Busan_Haeundae"
+            "sub_region_code":"2635000000_Busan_Haeundae",
+            "shorten_url":"https:\/\/me2.do\/5QDBgnCT"
         },
         {
             "index":17,
@@ -262,7 +283,8 @@
             "value_score":68.3132,
             "region":"부산시 해운대구",
             "region_code":"Busan",
-            "sub_region_code":"2635000000_Busan_Haeundae"
+            "sub_region_code":"2635000000_Busan_Haeundae",
+            "shorten_url":"https:\/\/me2.do\/5QDBgnCT"
         },
         {
             "index":18,
@@ -274,7 +296,8 @@
             "value_score":68.253,
             "region":"부산시 해운대구",
             "region_code":"Busan",
-            "sub_region_code":"2635000000_Busan_Haeundae"
+            "sub_region_code":"2635000000_Busan_Haeundae",
+            "shorten_url":"https:\/\/me2.do\/5QDBgnCT"
         },
         {
             "index":19,
@@ -286,7 +309,8 @@
             "value_score":67.0932,
             "region":"부산시 해운대구",
             "region_code":"Busan",
-            "sub_region_code":"2635000000_Busan_Haeundae"
+            "sub_region_code":"2635000000_Busan_Haeundae",
+            "shorten_url":"https:\/\/me2.do\/5QDBgnCT"
         },
         {
             "index":20,
@@ -298,7 +322,8 @@
             "value_score":80.1224,
             "region":"부산시 해운대구",
             "region_code":"Busan",
-            "sub_region_code":"2635000000_Busan_Haeundae"
+            "sub_region_code":"2635000000_Busan_Haeundae",
+            "shorten_url":"https:\/\/me2.do\/5QDBgnCT"
         },
         {
             "index":21,
@@ -310,7 +335,8 @@
             "value_score":77.95255,
             "region":"부산시 해운대구",
             "region_code":"Busan",
-            "sub_region_code":"2635000000_Busan_Haeundae"
+            "sub_region_code":"2635000000_Busan_Haeundae",
+            "shorten_url":"https:\/\/me2.do\/5QDBgnCT"
         },
         {
             "index":22,
@@ -322,7 +348,8 @@
             "value_score":76.9024,
             "region":"부산시 해운대구",
             "region_code":"Busan",
-            "sub_region_code":"2635000000_Busan_Haeundae"
+            "sub_region_code":"2635000000_Busan_Haeundae",
+            "shorten_url":"https:\/\/me2.do\/5QDBgnCT"
         },
         {
             "index":23,
@@ -334,7 +361,8 @@
             "value_score":75.6474,
             "region":"부산시 해운대구",
             "region_code":"Busan",
-            "sub_region_code":"2635000000_Busan_Haeundae"
+            "sub_region_code":"2635000000_Busan_Haeundae",
+            "shorten_url":"https:\/\/me2.do\/5QDBgnCT"
         },
         {
             "index":24,
@@ -346,7 +374,8 @@
             "value_score":75.00225,
             "region":"부산시 해운대구",
             "region_code":"Busan",
-            "sub_region_code":"2635000000_Busan_Haeundae"
+            "sub_region_code":"2635000000_Busan_Haeundae",
+            "shorten_url":"https:\/\/me2.do\/5QDBgnCT"
         },
         {
             "index":25,
@@ -358,7 +387,8 @@
             "value_score":74.9224,
             "region":"부산시 해운대구",
             "region_code":"Busan",
-            "sub_region_code":"2635000000_Busan_Haeundae"
+            "sub_region_code":"2635000000_Busan_Haeundae",
+            "shorten_url":"https:\/\/me2.do\/5QDBgnCT"
         },
         {
             "index":26,
@@ -370,7 +400,8 @@
             "value_score":74.44755,
             "region":"부산시 해운대구",
             "region_code":"Busan",
-            "sub_region_code":"2635000000_Busan_Haeundae"
+            "sub_region_code":"2635000000_Busan_Haeundae",
+            "shorten_url":"https:\/\/me2.do\/5QDBgnCT"
         },
         {
             "index":27,
@@ -382,7 +413,8 @@
             "value_score":74.32725,
             "region":"부산시 해운대구",
             "region_code":"Busan",
-            "sub_region_code":"2635000000_Busan_Haeundae"
+            "sub_region_code":"2635000000_Busan_Haeundae",
+            "shorten_url":"https:\/\/me2.do\/5QDBgnCT"
         },
         {
             "index":28,
@@ -394,7 +426,8 @@
             "value_score":74.17725,
             "region":"부산시 해운대구",
             "region_code":"Busan",
-            "sub_region_code":"2635000000_Busan_Haeundae"
+            "sub_region_code":"2635000000_Busan_Haeundae",
+            "shorten_url":"https:\/\/me2.do\/5QDBgnCT"
         },
         {
             "index":29,
@@ -406,7 +439,8 @@
             "value_score":73.8198,
             "region":"부산시 해운대구",
             "region_code":"Busan",
-            "sub_region_code":"2635000000_Busan_Haeundae"
+            "sub_region_code":"2635000000_Busan_Haeundae",
+            "shorten_url":"https:\/\/me2.do\/5QDBgnCT"
         },
         {
             "index":30,
@@ -418,7 +452,8 @@
             "value_score":74.62925,
             "region":"부산시 해운대구",
             "region_code":"Busan",
-            "sub_region_code":"2635000000_Busan_Haeundae"
+            "sub_region_code":"2635000000_Busan_Haeundae",
+            "shorten_url":"https:\/\/me2.do\/5QDBgnCT"
         },
         {
             "index":31,
@@ -430,7 +465,8 @@
             "value_score":73.47875,
             "region":"부산시 해운대구",
             "region_code":"Busan",
-            "sub_region_code":"2635000000_Busan_Haeundae"
+            "sub_region_code":"2635000000_Busan_Haeundae",
+            "shorten_url":"https:\/\/me2.do\/5QDBgnCT"
         },
         {
             "index":32,
@@ -442,7 +478,8 @@
             "value_score":71.82875,
             "region":"부산시 해운대구",
             "region_code":"Busan",
-            "sub_region_code":"2635000000_Busan_Haeundae"
+            "sub_region_code":"2635000000_Busan_Haeundae",
+            "shorten_url":"https:\/\/me2.do\/5QDBgnCT"
         },
         {
             "index":33,
@@ -454,7 +491,8 @@
             "value_score":71.62925,
             "region":"부산시 해운대구",
             "region_code":"Busan",
-            "sub_region_code":"2635000000_Busan_Haeundae"
+            "sub_region_code":"2635000000_Busan_Haeundae",
+            "shorten_url":"https:\/\/me2.do\/5QDBgnCT"
         },
         {
             "index":34,
@@ -466,7 +504,8 @@
             "value_score":71.52925,
             "region":"부산시 해운대구",
             "region_code":"Busan",
-            "sub_region_code":"2635000000_Busan_Haeundae"
+            "sub_region_code":"2635000000_Busan_Haeundae",
+            "shorten_url":"https:\/\/me2.do\/5QDBgnCT"
         },
         {
             "index":35,
@@ -478,7 +517,8 @@
             "value_score":69.97925,
             "region":"부산시 해운대구",
             "region_code":"Busan",
-            "sub_region_code":"2635000000_Busan_Haeundae"
+            "sub_region_code":"2635000000_Busan_Haeundae",
+            "shorten_url":"https:\/\/me2.do\/5QDBgnCT"
         },
         {
             "index":36,
@@ -490,7 +530,8 @@
             "value_score":69.5454027138,
             "region":"부산시 해운대구",
             "region_code":"Busan",
-            "sub_region_code":"2635000000_Busan_Haeundae"
+            "sub_region_code":"2635000000_Busan_Haeundae",
+            "shorten_url":"https:\/\/me2.do\/5QDBgnCT"
         },
         {
             "index":37,
@@ -502,7 +543,8 @@
             "value_score":69.42925,
             "region":"부산시 해운대구",
             "region_code":"Busan",
-            "sub_region_code":"2635000000_Busan_Haeundae"
+            "sub_region_code":"2635000000_Busan_Haeundae",
+            "shorten_url":"https:\/\/me2.do\/5QDBgnCT"
         },
         {
             "index":38,
@@ -514,7 +556,8 @@
             "value_score":69.22925,
             "region":"부산시 해운대구",
             "region_code":"Busan",
-            "sub_region_code":"2635000000_Busan_Haeundae"
+            "sub_region_code":"2635000000_Busan_Haeundae",
+            "shorten_url":"https:\/\/me2.do\/5QDBgnCT"
         },
         {
             "index":39,
@@ -526,7 +569,8 @@
             "value_score":69.22875,
             "region":"부산시 해운대구",
             "region_code":"Busan",
-            "sub_region_code":"2635000000_Busan_Haeundae"
+            "sub_region_code":"2635000000_Busan_Haeundae",
+            "shorten_url":"https:\/\/me2.do\/5QDBgnCT"
         },
         {
             "index":40,
@@ -538,7 +582,8 @@
             "value_score":73.0585,
             "region":"부산시 해운대구",
             "region_code":"Busan",
-            "sub_region_code":"2635000000_Busan_Haeundae"
+            "sub_region_code":"2635000000_Busan_Haeundae",
+            "shorten_url":"https:\/\/me2.do\/5QDBgnCT"
         },
         {
             "index":41,
@@ -550,7 +595,8 @@
             "value_score":71.8585,
             "region":"부산시 해운대구",
             "region_code":"Busan",
-            "sub_region_code":"2635000000_Busan_Haeundae"
+            "sub_region_code":"2635000000_Busan_Haeundae",
+            "shorten_url":"https:\/\/me2.do\/5QDBgnCT"
         },
         {
             "index":42,
@@ -562,7 +608,8 @@
             "value_score":68.7385,
             "region":"부산시 해운대구",
             "region_code":"Busan",
-            "sub_region_code":"2635000000_Busan_Haeundae"
+            "sub_region_code":"2635000000_Busan_Haeundae",
+            "shorten_url":"https:\/\/me2.do\/5QDBgnCT"
         },
         {
             "index":43,
@@ -574,7 +621,8 @@
             "value_score":67.816,
             "region":"부산시 해운대구",
             "region_code":"Busan",
-            "sub_region_code":"2635000000_Busan_Haeundae"
+            "sub_region_code":"2635000000_Busan_Haeundae",
+            "shorten_url":"https:\/\/me2.do\/5QDBgnCT"
         },
         {
             "index":44,
@@ -586,7 +634,8 @@
             "value_score":67.7575,
             "region":"부산시 해운대구",
             "region_code":"Busan",
-            "sub_region_code":"2635000000_Busan_Haeundae"
+            "sub_region_code":"2635000000_Busan_Haeundae",
+            "shorten_url":"https:\/\/me2.do\/5QDBgnCT"
         },
         {
             "index":45,
@@ -598,7 +647,8 @@
             "value_score":67.416,
             "region":"부산시 해운대구",
             "region_code":"Busan",
-            "sub_region_code":"2635000000_Busan_Haeundae"
+            "sub_region_code":"2635000000_Busan_Haeundae",
+            "shorten_url":"https:\/\/me2.do\/5QDBgnCT"
         },
         {
             "index":46,
@@ -610,7 +660,8 @@
             "value_score":66.8575,
             "region":"부산시 해운대구",
             "region_code":"Busan",
-            "sub_region_code":"2635000000_Busan_Haeundae"
+            "sub_region_code":"2635000000_Busan_Haeundae",
+            "shorten_url":"https:\/\/me2.do\/5QDBgnCT"
         },
         {
             "index":47,
@@ -622,7 +673,8 @@
             "value_score":66.6605,
             "region":"부산시 해운대구",
             "region_code":"Busan",
-            "sub_region_code":"2635000000_Busan_Haeundae"
+            "sub_region_code":"2635000000_Busan_Haeundae",
+            "shorten_url":"https:\/\/me2.do\/5QDBgnCT"
         },
         {
             "index":48,
@@ -634,7 +686,8 @@
             "value_score":66.1605,
             "region":"부산시 해운대구",
             "region_code":"Busan",
-            "sub_region_code":"2635000000_Busan_Haeundae"
+            "sub_region_code":"2635000000_Busan_Haeundae",
+            "shorten_url":"https:\/\/me2.do\/5QDBgnCT"
         },
         {
             "index":49,
@@ -646,7 +699,8 @@
             "value_score":66.009,
             "region":"부산시 해운대구",
             "region_code":"Busan",
-            "sub_region_code":"2635000000_Busan_Haeundae"
+            "sub_region_code":"2635000000_Busan_Haeundae",
+            "shorten_url":"https:\/\/me2.do\/5QDBgnCT"
         }
     ]
 }

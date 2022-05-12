@@ -40,6 +40,10 @@
             {
                 "name":"sub_region_code",
                 "type":"string"
+            },
+            {
+                "name":"shorten_url",
+                "type":"string"
             }
         ],
         "primaryKey":[
@@ -58,7 +62,8 @@
             "value_score":24.03055,
             "region":"경기도 연천군",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4180000000_Gyeonggi_Yeoncheon"
+            "sub_region_code":"4180000000_Gyeonggi_Yeoncheon",
+            "shorten_url":"https:\/\/me2.do\/5ZOMteFz"
         },
         {
             "index":1,
@@ -70,7 +75,8 @@
             "value_score":20.0132,
             "region":"경기도 연천군",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4180000000_Gyeonggi_Yeoncheon"
+            "sub_region_code":"4180000000_Gyeonggi_Yeoncheon",
+            "shorten_url":"https:\/\/me2.do\/5ZOMteFz"
         },
         {
             "index":2,
@@ -82,7 +88,8 @@
             "value_score":19.7132,
             "region":"경기도 연천군",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4180000000_Gyeonggi_Yeoncheon"
+            "sub_region_code":"4180000000_Gyeonggi_Yeoncheon",
+            "shorten_url":"https:\/\/me2.do\/5ZOMteFz"
         },
         {
             "index":3,
@@ -94,7 +101,8 @@
             "value_score":18.83055,
             "region":"경기도 연천군",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4180000000_Gyeonggi_Yeoncheon"
+            "sub_region_code":"4180000000_Gyeonggi_Yeoncheon",
+            "shorten_url":"https:\/\/me2.do\/5ZOMteFz"
         },
         {
             "index":4,
@@ -106,7 +114,8 @@
             "value_score":18.0932,
             "region":"경기도 연천군",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4180000000_Gyeonggi_Yeoncheon"
+            "sub_region_code":"4180000000_Gyeonggi_Yeoncheon",
+            "shorten_url":"https:\/\/me2.do\/5ZOMteFz"
         },
         {
             "index":5,
@@ -118,7 +127,8 @@
             "value_score":17.1932,
             "region":"경기도 연천군",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4180000000_Gyeonggi_Yeoncheon"
+            "sub_region_code":"4180000000_Gyeonggi_Yeoncheon",
+            "shorten_url":"https:\/\/me2.do\/5ZOMteFz"
         },
         {
             "index":6,
@@ -130,7 +140,8 @@
             "value_score":14.8932,
             "region":"경기도 연천군",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4180000000_Gyeonggi_Yeoncheon"
+            "sub_region_code":"4180000000_Gyeonggi_Yeoncheon",
+            "shorten_url":"https:\/\/me2.do\/5ZOMteFz"
         },
         {
             "index":7,
@@ -142,7 +153,8 @@
             "value_score":14.8932,
             "region":"경기도 연천군",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4180000000_Gyeonggi_Yeoncheon"
+            "sub_region_code":"4180000000_Gyeonggi_Yeoncheon",
+            "shorten_url":"https:\/\/me2.do\/5ZOMteFz"
         },
         {
             "index":8,
@@ -154,7 +166,8 @@
             "value_score":13.73055,
             "region":"경기도 연천군",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4180000000_Gyeonggi_Yeoncheon"
+            "sub_region_code":"4180000000_Gyeonggi_Yeoncheon",
+            "shorten_url":"https:\/\/me2.do\/5ZOMteFz"
         },
         {
             "index":9,
@@ -166,7 +179,8 @@
             "value_score":13.2932,
             "region":"경기도 연천군",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4180000000_Gyeonggi_Yeoncheon"
+            "sub_region_code":"4180000000_Gyeonggi_Yeoncheon",
+            "shorten_url":"https:\/\/me2.do\/5ZOMteFz"
         },
         {
             "index":10,
@@ -178,7 +192,8 @@
             "value_score":44.3274,
             "region":"경기도 연천군",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4180000000_Gyeonggi_Yeoncheon"
+            "sub_region_code":"4180000000_Gyeonggi_Yeoncheon",
+            "shorten_url":"https:\/\/me2.do\/5ZOMteFz"
         },
         {
             "index":11,
@@ -190,7 +205,8 @@
             "value_score":37.6576,
             "region":"경기도 연천군",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4180000000_Gyeonggi_Yeoncheon"
+            "sub_region_code":"4180000000_Gyeonggi_Yeoncheon",
+            "shorten_url":"https:\/\/me2.do\/5ZOMteFz"
         },
         {
             "index":12,
@@ -202,7 +218,8 @@
             "value_score":34.5376,
             "region":"경기도 연천군",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4180000000_Gyeonggi_Yeoncheon"
+            "sub_region_code":"4180000000_Gyeonggi_Yeoncheon",
+            "shorten_url":"https:\/\/me2.do\/5ZOMteFz"
         },
         {
             "index":13,
@@ -214,7 +231,8 @@
             "value_score":31.3274,
             "region":"경기도 연천군",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4180000000_Gyeonggi_Yeoncheon"
+            "sub_region_code":"4180000000_Gyeonggi_Yeoncheon",
+            "shorten_url":"https:\/\/me2.do\/5ZOMteFz"
         },
         {
             "index":14,
@@ -226,7 +244,8 @@
             "value_score":30.4876,
             "region":"경기도 연천군",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4180000000_Gyeonggi_Yeoncheon"
+            "sub_region_code":"4180000000_Gyeonggi_Yeoncheon",
+            "shorten_url":"https:\/\/me2.do\/5ZOMteFz"
         },
         {
             "index":15,
@@ -238,7 +257,8 @@
             "value_score":25.6576,
             "region":"경기도 연천군",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4180000000_Gyeonggi_Yeoncheon"
+            "sub_region_code":"4180000000_Gyeonggi_Yeoncheon",
+            "shorten_url":"https:\/\/me2.do\/5ZOMteFz"
         },
         {
             "index":16,
@@ -250,7 +270,8 @@
             "value_score":23.9076,
             "region":"경기도 연천군",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4180000000_Gyeonggi_Yeoncheon"
+            "sub_region_code":"4180000000_Gyeonggi_Yeoncheon",
+            "shorten_url":"https:\/\/me2.do\/5ZOMteFz"
         },
         {
             "index":17,
@@ -262,7 +283,8 @@
             "value_score":23.8576,
             "region":"경기도 연천군",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4180000000_Gyeonggi_Yeoncheon"
+            "sub_region_code":"4180000000_Gyeonggi_Yeoncheon",
+            "shorten_url":"https:\/\/me2.do\/5ZOMteFz"
         },
         {
             "index":18,
@@ -274,7 +296,8 @@
             "value_score":21.26,
             "region":"경기도 연천군",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4180000000_Gyeonggi_Yeoncheon"
+            "sub_region_code":"4180000000_Gyeonggi_Yeoncheon",
+            "shorten_url":"https:\/\/me2.do\/5ZOMteFz"
         },
         {
             "index":19,
@@ -286,7 +309,8 @@
             "value_score":20.8576,
             "region":"경기도 연천군",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4180000000_Gyeonggi_Yeoncheon"
+            "sub_region_code":"4180000000_Gyeonggi_Yeoncheon",
+            "shorten_url":"https:\/\/me2.do\/5ZOMteFz"
         },
         {
             "index":20,
@@ -298,7 +322,8 @@
             "value_score":19.34055,
             "region":"경기도 연천군",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4180000000_Gyeonggi_Yeoncheon"
+            "sub_region_code":"4180000000_Gyeonggi_Yeoncheon",
+            "shorten_url":"https:\/\/me2.do\/5ZOMteFz"
         },
         {
             "index":21,
@@ -310,7 +335,8 @@
             "value_score":16.2732,
             "region":"경기도 연천군",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4180000000_Gyeonggi_Yeoncheon"
+            "sub_region_code":"4180000000_Gyeonggi_Yeoncheon",
+            "shorten_url":"https:\/\/me2.do\/5ZOMteFz"
         },
         {
             "index":22,
@@ -322,7 +348,8 @@
             "value_score":15.8982,
             "region":"경기도 연천군",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4180000000_Gyeonggi_Yeoncheon"
+            "sub_region_code":"4180000000_Gyeonggi_Yeoncheon",
+            "shorten_url":"https:\/\/me2.do\/5ZOMteFz"
         },
         {
             "index":23,
@@ -334,7 +361,8 @@
             "value_score":15.44055,
             "region":"경기도 연천군",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4180000000_Gyeonggi_Yeoncheon"
+            "sub_region_code":"4180000000_Gyeonggi_Yeoncheon",
+            "shorten_url":"https:\/\/me2.do\/5ZOMteFz"
         },
         {
             "index":24,
@@ -346,7 +374,8 @@
             "value_score":15.1932,
             "region":"경기도 연천군",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4180000000_Gyeonggi_Yeoncheon"
+            "sub_region_code":"4180000000_Gyeonggi_Yeoncheon",
+            "shorten_url":"https:\/\/me2.do\/5ZOMteFz"
         },
         {
             "index":25,
@@ -358,7 +387,8 @@
             "value_score":13.9932,
             "region":"경기도 연천군",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4180000000_Gyeonggi_Yeoncheon"
+            "sub_region_code":"4180000000_Gyeonggi_Yeoncheon",
+            "shorten_url":"https:\/\/me2.do\/5ZOMteFz"
         },
         {
             "index":26,
@@ -370,7 +400,8 @@
             "value_score":12.3932,
             "region":"경기도 연천군",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4180000000_Gyeonggi_Yeoncheon"
+            "sub_region_code":"4180000000_Gyeonggi_Yeoncheon",
+            "shorten_url":"https:\/\/me2.do\/5ZOMteFz"
         },
         {
             "index":27,
@@ -382,7 +413,8 @@
             "value_score":12.3932,
             "region":"경기도 연천군",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4180000000_Gyeonggi_Yeoncheon"
+            "sub_region_code":"4180000000_Gyeonggi_Yeoncheon",
+            "shorten_url":"https:\/\/me2.do\/5ZOMteFz"
         },
         {
             "index":28,
@@ -394,7 +426,8 @@
             "value_score":11.5932,
             "region":"경기도 연천군",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4180000000_Gyeonggi_Yeoncheon"
+            "sub_region_code":"4180000000_Gyeonggi_Yeoncheon",
+            "shorten_url":"https:\/\/me2.do\/5ZOMteFz"
         },
         {
             "index":29,
@@ -406,7 +439,8 @@
             "value_score":11.54055,
             "region":"경기도 연천군",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4180000000_Gyeonggi_Yeoncheon"
+            "sub_region_code":"4180000000_Gyeonggi_Yeoncheon",
+            "shorten_url":"https:\/\/me2.do\/5ZOMteFz"
         },
         {
             "index":30,
@@ -418,7 +452,8 @@
             "value_score":24.88425,
             "region":"경기도 연천군",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4180000000_Gyeonggi_Yeoncheon"
+            "sub_region_code":"4180000000_Gyeonggi_Yeoncheon",
+            "shorten_url":"https:\/\/me2.do\/5ZOMteFz"
         },
         {
             "index":31,
@@ -430,7 +465,8 @@
             "value_score":24.572,
             "region":"경기도 연천군",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4180000000_Gyeonggi_Yeoncheon"
+            "sub_region_code":"4180000000_Gyeonggi_Yeoncheon",
+            "shorten_url":"https:\/\/me2.do\/5ZOMteFz"
         },
         {
             "index":32,
@@ -442,7 +478,8 @@
             "value_score":23.522,
             "region":"경기도 연천군",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4180000000_Gyeonggi_Yeoncheon"
+            "sub_region_code":"4180000000_Gyeonggi_Yeoncheon",
+            "shorten_url":"https:\/\/me2.do\/5ZOMteFz"
         },
         {
             "index":33,
@@ -454,7 +491,8 @@
             "value_score":22.622,
             "region":"경기도 연천군",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4180000000_Gyeonggi_Yeoncheon"
+            "sub_region_code":"4180000000_Gyeonggi_Yeoncheon",
+            "shorten_url":"https:\/\/me2.do\/5ZOMteFz"
         },
         {
             "index":34,
@@ -466,7 +504,8 @@
             "value_score":22.28425,
             "region":"경기도 연천군",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4180000000_Gyeonggi_Yeoncheon"
+            "sub_region_code":"4180000000_Gyeonggi_Yeoncheon",
+            "shorten_url":"https:\/\/me2.do\/5ZOMteFz"
         },
         {
             "index":35,
@@ -478,7 +517,8 @@
             "value_score":20.78425,
             "region":"경기도 연천군",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4180000000_Gyeonggi_Yeoncheon"
+            "sub_region_code":"4180000000_Gyeonggi_Yeoncheon",
+            "shorten_url":"https:\/\/me2.do\/5ZOMteFz"
         },
         {
             "index":36,
@@ -490,7 +530,8 @@
             "value_score":20.622,
             "region":"경기도 연천군",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4180000000_Gyeonggi_Yeoncheon"
+            "sub_region_code":"4180000000_Gyeonggi_Yeoncheon",
+            "shorten_url":"https:\/\/me2.do\/5ZOMteFz"
         },
         {
             "index":37,
@@ -502,7 +543,8 @@
             "value_score":20.622,
             "region":"경기도 연천군",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4180000000_Gyeonggi_Yeoncheon"
+            "sub_region_code":"4180000000_Gyeonggi_Yeoncheon",
+            "shorten_url":"https:\/\/me2.do\/5ZOMteFz"
         },
         {
             "index":38,
@@ -514,7 +556,8 @@
             "value_score":16.622,
             "region":"경기도 연천군",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4180000000_Gyeonggi_Yeoncheon"
+            "sub_region_code":"4180000000_Gyeonggi_Yeoncheon",
+            "shorten_url":"https:\/\/me2.do\/5ZOMteFz"
         },
         {
             "index":39,
@@ -526,7 +569,8 @@
             "value_score":14.222,
             "region":"경기도 연천군",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4180000000_Gyeonggi_Yeoncheon"
+            "sub_region_code":"4180000000_Gyeonggi_Yeoncheon",
+            "shorten_url":"https:\/\/me2.do\/5ZOMteFz"
         },
         {
             "index":40,
@@ -538,7 +582,8 @@
             "value_score":38.2485,
             "region":"경기도 연천군",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4180000000_Gyeonggi_Yeoncheon"
+            "sub_region_code":"4180000000_Gyeonggi_Yeoncheon",
+            "shorten_url":"https:\/\/me2.do\/5ZOMteFz"
         },
         {
             "index":41,
@@ -550,7 +595,8 @@
             "value_score":33.724,
             "region":"경기도 연천군",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4180000000_Gyeonggi_Yeoncheon"
+            "sub_region_code":"4180000000_Gyeonggi_Yeoncheon",
+            "shorten_url":"https:\/\/me2.do\/5ZOMteFz"
         },
         {
             "index":42,
@@ -562,7 +608,8 @@
             "value_score":33.244,
             "region":"경기도 연천군",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4180000000_Gyeonggi_Yeoncheon"
+            "sub_region_code":"4180000000_Gyeonggi_Yeoncheon",
+            "shorten_url":"https:\/\/me2.do\/5ZOMteFz"
         },
         {
             "index":43,
@@ -574,7 +621,8 @@
             "value_score":33.0485,
             "region":"경기도 연천군",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4180000000_Gyeonggi_Yeoncheon"
+            "sub_region_code":"4180000000_Gyeonggi_Yeoncheon",
+            "shorten_url":"https:\/\/me2.do\/5ZOMteFz"
         },
         {
             "index":44,
@@ -586,7 +634,8 @@
             "value_score":32.824,
             "region":"경기도 연천군",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4180000000_Gyeonggi_Yeoncheon"
+            "sub_region_code":"4180000000_Gyeonggi_Yeoncheon",
+            "shorten_url":"https:\/\/me2.do\/5ZOMteFz"
         },
         {
             "index":45,
@@ -598,7 +647,8 @@
             "value_score":30.244,
             "region":"경기도 연천군",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4180000000_Gyeonggi_Yeoncheon"
+            "sub_region_code":"4180000000_Gyeonggi_Yeoncheon",
+            "shorten_url":"https:\/\/me2.do\/5ZOMteFz"
         },
         {
             "index":46,
@@ -610,7 +660,8 @@
             "value_score":28.444,
             "region":"경기도 연천군",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4180000000_Gyeonggi_Yeoncheon"
+            "sub_region_code":"4180000000_Gyeonggi_Yeoncheon",
+            "shorten_url":"https:\/\/me2.do\/5ZOMteFz"
         },
         {
             "index":47,
@@ -622,7 +673,8 @@
             "value_score":28.444,
             "region":"경기도 연천군",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4180000000_Gyeonggi_Yeoncheon"
+            "sub_region_code":"4180000000_Gyeonggi_Yeoncheon",
+            "shorten_url":"https:\/\/me2.do\/5ZOMteFz"
         },
         {
             "index":48,
@@ -634,7 +686,8 @@
             "value_score":28.444,
             "region":"경기도 연천군",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4180000000_Gyeonggi_Yeoncheon"
+            "sub_region_code":"4180000000_Gyeonggi_Yeoncheon",
+            "shorten_url":"https:\/\/me2.do\/5ZOMteFz"
         },
         {
             "index":49,
@@ -646,7 +699,8 @@
             "value_score":27.744,
             "region":"경기도 연천군",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4180000000_Gyeonggi_Yeoncheon"
+            "sub_region_code":"4180000000_Gyeonggi_Yeoncheon",
+            "shorten_url":"https:\/\/me2.do\/5ZOMteFz"
         }
     ]
 }

@@ -40,6 +40,10 @@
             {
                 "name":"sub_region_code",
                 "type":"string"
+            },
+            {
+                "name":"shorten_url",
+                "type":"string"
             }
         ],
         "primaryKey":[
@@ -58,7 +62,8 @@
             "value_score":63.6719,
             "region":"경기도 하남시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4145000000_Gyeonggi_Hanam"
+            "sub_region_code":"4145000000_Gyeonggi_Hanam",
+            "shorten_url":"https:\/\/me2.do\/IIZK3s2o"
         },
         {
             "index":1,
@@ -70,7 +75,8 @@
             "value_score":62.1138,
             "region":"경기도 하남시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4145000000_Gyeonggi_Hanam"
+            "sub_region_code":"4145000000_Gyeonggi_Hanam",
+            "shorten_url":"https:\/\/me2.do\/IIZK3s2o"
         },
         {
             "index":2,
@@ -82,7 +88,8 @@
             "value_score":60.1638,
             "region":"경기도 하남시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4145000000_Gyeonggi_Hanam"
+            "sub_region_code":"4145000000_Gyeonggi_Hanam",
+            "shorten_url":"https:\/\/me2.do\/IIZK3s2o"
         },
         {
             "index":3,
@@ -94,7 +101,8 @@
             "value_score":58.3138,
             "region":"경기도 하남시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4145000000_Gyeonggi_Hanam"
+            "sub_region_code":"4145000000_Gyeonggi_Hanam",
+            "shorten_url":"https:\/\/me2.do\/IIZK3s2o"
         },
         {
             "index":4,
@@ -106,7 +114,8 @@
             "value_score":56.9719,
             "region":"경기도 하남시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4145000000_Gyeonggi_Hanam"
+            "sub_region_code":"4145000000_Gyeonggi_Hanam",
+            "shorten_url":"https:\/\/me2.do\/IIZK3s2o"
         },
         {
             "index":5,
@@ -118,7 +127,8 @@
             "value_score":56.3951,
             "region":"경기도 하남시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4145000000_Gyeonggi_Hanam"
+            "sub_region_code":"4145000000_Gyeonggi_Hanam",
+            "shorten_url":"https:\/\/me2.do\/IIZK3s2o"
         },
         {
             "index":6,
@@ -130,7 +140,8 @@
             "value_score":56.1951,
             "region":"경기도 하남시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4145000000_Gyeonggi_Hanam"
+            "sub_region_code":"4145000000_Gyeonggi_Hanam",
+            "shorten_url":"https:\/\/me2.do\/IIZK3s2o"
         },
         {
             "index":7,
@@ -142,7 +153,8 @@
             "value_score":55.5138,
             "region":"경기도 하남시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4145000000_Gyeonggi_Hanam"
+            "sub_region_code":"4145000000_Gyeonggi_Hanam",
+            "shorten_url":"https:\/\/me2.do\/IIZK3s2o"
         },
         {
             "index":8,
@@ -154,7 +166,8 @@
             "value_score":54.1138,
             "region":"경기도 하남시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4145000000_Gyeonggi_Hanam"
+            "sub_region_code":"4145000000_Gyeonggi_Hanam",
+            "shorten_url":"https:\/\/me2.do\/IIZK3s2o"
         },
         {
             "index":9,
@@ -166,7 +179,8 @@
             "value_score":53.93625,
             "region":"경기도 하남시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4145000000_Gyeonggi_Hanam"
+            "sub_region_code":"4145000000_Gyeonggi_Hanam",
+            "shorten_url":"https:\/\/me2.do\/IIZK3s2o"
         },
         {
             "index":10,
@@ -178,7 +192,8 @@
             "value_score":73.0792,
             "region":"경기도 하남시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4145000000_Gyeonggi_Hanam"
+            "sub_region_code":"4145000000_Gyeonggi_Hanam",
+            "shorten_url":"https:\/\/me2.do\/IIZK3s2o"
         },
         {
             "index":11,
@@ -190,7 +205,8 @@
             "value_score":70.1792,
             "region":"경기도 하남시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4145000000_Gyeonggi_Hanam"
+            "sub_region_code":"4145000000_Gyeonggi_Hanam",
+            "shorten_url":"https:\/\/me2.do\/IIZK3s2o"
         },
         {
             "index":12,
@@ -202,7 +218,8 @@
             "value_score":67.9244,
             "region":"경기도 하남시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4145000000_Gyeonggi_Hanam"
+            "sub_region_code":"4145000000_Gyeonggi_Hanam",
+            "shorten_url":"https:\/\/me2.do\/IIZK3s2o"
         },
         {
             "index":13,
@@ -214,7 +231,8 @@
             "value_score":67.8292,
             "region":"경기도 하남시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4145000000_Gyeonggi_Hanam"
+            "sub_region_code":"4145000000_Gyeonggi_Hanam",
+            "shorten_url":"https:\/\/me2.do\/IIZK3s2o"
         },
         {
             "index":14,
@@ -226,7 +244,8 @@
             "value_score":66.8292,
             "region":"경기도 하남시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4145000000_Gyeonggi_Hanam"
+            "sub_region_code":"4145000000_Gyeonggi_Hanam",
+            "shorten_url":"https:\/\/me2.do\/IIZK3s2o"
         },
         {
             "index":15,
@@ -238,7 +257,8 @@
             "value_score":66.3792,
             "region":"경기도 하남시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4145000000_Gyeonggi_Hanam"
+            "sub_region_code":"4145000000_Gyeonggi_Hanam",
+            "shorten_url":"https:\/\/me2.do\/IIZK3s2o"
         },
         {
             "index":16,
@@ -250,7 +270,8 @@
             "value_score":65.6184,
             "region":"경기도 하남시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4145000000_Gyeonggi_Hanam"
+            "sub_region_code":"4145000000_Gyeonggi_Hanam",
+            "shorten_url":"https:\/\/me2.do\/IIZK3s2o"
         },
         {
             "index":17,
@@ -262,7 +283,8 @@
             "value_score":65.3292,
             "region":"경기도 하남시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4145000000_Gyeonggi_Hanam"
+            "sub_region_code":"4145000000_Gyeonggi_Hanam",
+            "shorten_url":"https:\/\/me2.do\/IIZK3s2o"
         },
         {
             "index":18,
@@ -274,7 +296,8 @@
             "value_score":65.0292,
             "region":"경기도 하남시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4145000000_Gyeonggi_Hanam"
+            "sub_region_code":"4145000000_Gyeonggi_Hanam",
+            "shorten_url":"https:\/\/me2.do\/IIZK3s2o"
         },
         {
             "index":19,
@@ -286,7 +309,8 @@
             "value_score":65.0244,
             "region":"경기도 하남시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4145000000_Gyeonggi_Hanam"
+            "sub_region_code":"4145000000_Gyeonggi_Hanam",
+            "shorten_url":"https:\/\/me2.do\/IIZK3s2o"
         },
         {
             "index":20,
@@ -298,7 +322,8 @@
             "value_score":61.5138,
             "region":"경기도 하남시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4145000000_Gyeonggi_Hanam"
+            "sub_region_code":"4145000000_Gyeonggi_Hanam",
+            "shorten_url":"https:\/\/me2.do\/IIZK3s2o"
         },
         {
             "index":21,
@@ -310,7 +335,8 @@
             "value_score":60.8469,
             "region":"경기도 하남시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4145000000_Gyeonggi_Hanam"
+            "sub_region_code":"4145000000_Gyeonggi_Hanam",
+            "shorten_url":"https:\/\/me2.do\/IIZK3s2o"
         },
         {
             "index":22,
@@ -322,7 +348,8 @@
             "value_score":57.8638,
             "region":"경기도 하남시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4145000000_Gyeonggi_Hanam"
+            "sub_region_code":"4145000000_Gyeonggi_Hanam",
+            "shorten_url":"https:\/\/me2.do\/IIZK3s2o"
         },
         {
             "index":23,
@@ -334,7 +361,8 @@
             "value_score":56.9969,
             "region":"경기도 하남시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4145000000_Gyeonggi_Hanam"
+            "sub_region_code":"4145000000_Gyeonggi_Hanam",
+            "shorten_url":"https:\/\/me2.do\/IIZK3s2o"
         },
         {
             "index":24,
@@ -346,7 +374,8 @@
             "value_score":56.2888,
             "region":"경기도 하남시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4145000000_Gyeonggi_Hanam"
+            "sub_region_code":"4145000000_Gyeonggi_Hanam",
+            "shorten_url":"https:\/\/me2.do\/IIZK3s2o"
         },
         {
             "index":25,
@@ -358,7 +387,8 @@
             "value_score":55.2701,
             "region":"경기도 하남시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4145000000_Gyeonggi_Hanam"
+            "sub_region_code":"4145000000_Gyeonggi_Hanam",
+            "shorten_url":"https:\/\/me2.do\/IIZK3s2o"
         },
         {
             "index":26,
@@ -370,7 +400,8 @@
             "value_score":54.9701,
             "region":"경기도 하남시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4145000000_Gyeonggi_Hanam"
+            "sub_region_code":"4145000000_Gyeonggi_Hanam",
+            "shorten_url":"https:\/\/me2.do\/IIZK3s2o"
         },
         {
             "index":27,
@@ -382,7 +413,8 @@
             "value_score":54.8719,
             "region":"경기도 하남시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4145000000_Gyeonggi_Hanam"
+            "sub_region_code":"4145000000_Gyeonggi_Hanam",
+            "shorten_url":"https:\/\/me2.do\/IIZK3s2o"
         },
         {
             "index":28,
@@ -394,7 +426,8 @@
             "value_score":53.1138,
             "region":"경기도 하남시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4145000000_Gyeonggi_Hanam"
+            "sub_region_code":"4145000000_Gyeonggi_Hanam",
+            "shorten_url":"https:\/\/me2.do\/IIZK3s2o"
         },
         {
             "index":29,
@@ -406,7 +439,8 @@
             "value_score":52.6638,
             "region":"경기도 하남시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4145000000_Gyeonggi_Hanam"
+            "sub_region_code":"4145000000_Gyeonggi_Hanam",
+            "shorten_url":"https:\/\/me2.do\/IIZK3s2o"
         },
         {
             "index":30,
@@ -418,7 +452,8 @@
             "value_score":68.023,
             "region":"경기도 하남시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4145000000_Gyeonggi_Hanam"
+            "sub_region_code":"4145000000_Gyeonggi_Hanam",
+            "shorten_url":"https:\/\/me2.do\/IIZK3s2o"
         },
         {
             "index":31,
@@ -430,7 +465,8 @@
             "value_score":66.373,
             "region":"경기도 하남시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4145000000_Gyeonggi_Hanam"
+            "sub_region_code":"4145000000_Gyeonggi_Hanam",
+            "shorten_url":"https:\/\/me2.do\/IIZK3s2o"
         },
         {
             "index":32,
@@ -442,7 +478,8 @@
             "value_score":64.323,
             "region":"경기도 하남시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4145000000_Gyeonggi_Hanam"
+            "sub_region_code":"4145000000_Gyeonggi_Hanam",
+            "shorten_url":"https:\/\/me2.do\/IIZK3s2o"
         },
         {
             "index":33,
@@ -454,7 +491,8 @@
             "value_score":63.89375,
             "region":"경기도 하남시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4145000000_Gyeonggi_Hanam"
+            "sub_region_code":"4145000000_Gyeonggi_Hanam",
+            "shorten_url":"https:\/\/me2.do\/IIZK3s2o"
         },
         {
             "index":34,
@@ -466,7 +504,8 @@
             "value_score":63.6365,
             "region":"경기도 하남시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4145000000_Gyeonggi_Hanam"
+            "sub_region_code":"4145000000_Gyeonggi_Hanam",
+            "shorten_url":"https:\/\/me2.do\/IIZK3s2o"
         },
         {
             "index":35,
@@ -478,7 +517,8 @@
             "value_score":60.473,
             "region":"경기도 하남시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4145000000_Gyeonggi_Hanam"
+            "sub_region_code":"4145000000_Gyeonggi_Hanam",
+            "shorten_url":"https:\/\/me2.do\/IIZK3s2o"
         },
         {
             "index":36,
@@ -490,7 +530,8 @@
             "value_score":60.223,
             "region":"경기도 하남시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4145000000_Gyeonggi_Hanam"
+            "sub_region_code":"4145000000_Gyeonggi_Hanam",
+            "shorten_url":"https:\/\/me2.do\/IIZK3s2o"
         },
         {
             "index":37,
@@ -502,7 +543,8 @@
             "value_score":60.123,
             "region":"경기도 하남시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4145000000_Gyeonggi_Hanam"
+            "sub_region_code":"4145000000_Gyeonggi_Hanam",
+            "shorten_url":"https:\/\/me2.do\/IIZK3s2o"
         },
         {
             "index":38,
@@ -514,7 +556,8 @@
             "value_score":59.5805,
             "region":"경기도 하남시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4145000000_Gyeonggi_Hanam"
+            "sub_region_code":"4145000000_Gyeonggi_Hanam",
+            "shorten_url":"https:\/\/me2.do\/IIZK3s2o"
         },
         {
             "index":39,
@@ -526,7 +569,8 @@
             "value_score":58.59375,
             "region":"경기도 하남시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4145000000_Gyeonggi_Hanam"
+            "sub_region_code":"4145000000_Gyeonggi_Hanam",
+            "shorten_url":"https:\/\/me2.do\/IIZK3s2o"
         },
         {
             "index":40,
@@ -538,7 +582,8 @@
             "value_score":66.073,
             "region":"경기도 하남시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4145000000_Gyeonggi_Hanam"
+            "sub_region_code":"4145000000_Gyeonggi_Hanam",
+            "shorten_url":"https:\/\/me2.do\/IIZK3s2o"
         },
         {
             "index":41,
@@ -550,7 +595,8 @@
             "value_score":61.673,
             "region":"경기도 하남시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4145000000_Gyeonggi_Hanam"
+            "sub_region_code":"4145000000_Gyeonggi_Hanam",
+            "shorten_url":"https:\/\/me2.do\/IIZK3s2o"
         },
         {
             "index":42,
@@ -562,7 +608,8 @@
             "value_score":61.479,
             "region":"경기도 하남시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4145000000_Gyeonggi_Hanam"
+            "sub_region_code":"4145000000_Gyeonggi_Hanam",
+            "shorten_url":"https:\/\/me2.do\/IIZK3s2o"
         },
         {
             "index":43,
@@ -574,7 +621,8 @@
             "value_score":60.873,
             "region":"경기도 하남시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4145000000_Gyeonggi_Hanam"
+            "sub_region_code":"4145000000_Gyeonggi_Hanam",
+            "shorten_url":"https:\/\/me2.do\/IIZK3s2o"
         },
         {
             "index":44,
@@ -586,7 +634,8 @@
             "value_score":60.09,
             "region":"경기도 하남시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4145000000_Gyeonggi_Hanam"
+            "sub_region_code":"4145000000_Gyeonggi_Hanam",
+            "shorten_url":"https:\/\/me2.do\/IIZK3s2o"
         },
         {
             "index":45,
@@ -598,7 +647,8 @@
             "value_score":60.0145,
             "region":"경기도 하남시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4145000000_Gyeonggi_Hanam"
+            "sub_region_code":"4145000000_Gyeonggi_Hanam",
+            "shorten_url":"https:\/\/me2.do\/IIZK3s2o"
         },
         {
             "index":46,
@@ -610,7 +660,8 @@
             "value_score":59.89,
             "region":"경기도 하남시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4145000000_Gyeonggi_Hanam"
+            "sub_region_code":"4145000000_Gyeonggi_Hanam",
+            "shorten_url":"https:\/\/me2.do\/IIZK3s2o"
         },
         {
             "index":47,
@@ -622,7 +673,8 @@
             "value_score":59.373,
             "region":"경기도 하남시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4145000000_Gyeonggi_Hanam"
+            "sub_region_code":"4145000000_Gyeonggi_Hanam",
+            "shorten_url":"https:\/\/me2.do\/IIZK3s2o"
         },
         {
             "index":48,
@@ -634,7 +686,8 @@
             "value_score":59.373,
             "region":"경기도 하남시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4145000000_Gyeonggi_Hanam"
+            "sub_region_code":"4145000000_Gyeonggi_Hanam",
+            "shorten_url":"https:\/\/me2.do\/IIZK3s2o"
         },
         {
             "index":49,
@@ -646,7 +699,8 @@
             "value_score":59.346,
             "region":"경기도 하남시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4145000000_Gyeonggi_Hanam"
+            "sub_region_code":"4145000000_Gyeonggi_Hanam",
+            "shorten_url":"https:\/\/me2.do\/IIZK3s2o"
         }
     ]
 }

@@ -40,6 +40,10 @@
             {
                 "name":"sub_region_code",
                 "type":"string"
+            },
+            {
+                "name":"shorten_url",
+                "type":"string"
             }
         ],
         "primaryKey":[
@@ -58,7 +62,8 @@
             "value_score":67.8266,
             "region":"서울시 동대문구",
             "region_code":"Seoul",
-            "sub_region_code":"1123000000_Seoul_Dongdaemun"
+            "sub_region_code":"1123000000_Seoul_Dongdaemun",
+            "shorten_url":"https:\/\/me2.do\/F6JgG1NY"
         },
         {
             "index":1,
@@ -70,7 +75,8 @@
             "value_score":65.4266,
             "region":"서울시 동대문구",
             "region_code":"Seoul",
-            "sub_region_code":"1123000000_Seoul_Dongdaemun"
+            "sub_region_code":"1123000000_Seoul_Dongdaemun",
+            "shorten_url":"https:\/\/me2.do\/F6JgG1NY"
         },
         {
             "index":2,
@@ -82,7 +88,8 @@
             "value_score":65.2204,
             "region":"서울시 동대문구",
             "region_code":"Seoul",
-            "sub_region_code":"1123000000_Seoul_Dongdaemun"
+            "sub_region_code":"1123000000_Seoul_Dongdaemun",
+            "shorten_url":"https:\/\/me2.do\/F6JgG1NY"
         },
         {
             "index":3,
@@ -94,7 +101,8 @@
             "value_score":63.9766,
             "region":"서울시 동대문구",
             "region_code":"Seoul",
-            "sub_region_code":"1123000000_Seoul_Dongdaemun"
+            "sub_region_code":"1123000000_Seoul_Dongdaemun",
+            "shorten_url":"https:\/\/me2.do\/F6JgG1NY"
         },
         {
             "index":4,
@@ -106,7 +114,8 @@
             "value_score":63.9704,
             "region":"서울시 동대문구",
             "region_code":"Seoul",
-            "sub_region_code":"1123000000_Seoul_Dongdaemun"
+            "sub_region_code":"1123000000_Seoul_Dongdaemun",
+            "shorten_url":"https:\/\/me2.do\/F6JgG1NY"
         },
         {
             "index":5,
@@ -118,7 +127,8 @@
             "value_score":63.7204,
             "region":"서울시 동대문구",
             "region_code":"Seoul",
-            "sub_region_code":"1123000000_Seoul_Dongdaemun"
+            "sub_region_code":"1123000000_Seoul_Dongdaemun",
+            "shorten_url":"https:\/\/me2.do\/F6JgG1NY"
         },
         {
             "index":6,
@@ -130,7 +140,8 @@
             "value_score":63.1266,
             "region":"서울시 동대문구",
             "region_code":"Seoul",
-            "sub_region_code":"1123000000_Seoul_Dongdaemun"
+            "sub_region_code":"1123000000_Seoul_Dongdaemun",
+            "shorten_url":"https:\/\/me2.do\/F6JgG1NY"
         },
         {
             "index":7,
@@ -142,7 +153,8 @@
             "value_score":63.0766,
             "region":"서울시 동대문구",
             "region_code":"Seoul",
-            "sub_region_code":"1123000000_Seoul_Dongdaemun"
+            "sub_region_code":"1123000000_Seoul_Dongdaemun",
+            "shorten_url":"https:\/\/me2.do\/F6JgG1NY"
         },
         {
             "index":8,
@@ -154,7 +166,8 @@
             "value_score":61.9897,
             "region":"서울시 동대문구",
             "region_code":"Seoul",
-            "sub_region_code":"1123000000_Seoul_Dongdaemun"
+            "sub_region_code":"1123000000_Seoul_Dongdaemun",
+            "shorten_url":"https:\/\/me2.do\/F6JgG1NY"
         },
         {
             "index":9,
@@ -166,7 +179,8 @@
             "value_score":61.2287,
             "region":"서울시 동대문구",
             "region_code":"Seoul",
-            "sub_region_code":"1123000000_Seoul_Dongdaemun"
+            "sub_region_code":"1123000000_Seoul_Dongdaemun",
+            "shorten_url":"https:\/\/me2.do\/F6JgG1NY"
         },
         {
             "index":10,
@@ -178,7 +192,8 @@
             "value_score":71.3844,
             "region":"서울시 동대문구",
             "region_code":"Seoul",
-            "sub_region_code":"1123000000_Seoul_Dongdaemun"
+            "sub_region_code":"1123000000_Seoul_Dongdaemun",
+            "shorten_url":"https:\/\/me2.do\/F6JgG1NY"
         },
         {
             "index":11,
@@ -190,7 +205,8 @@
             "value_score":70.1844,
             "region":"서울시 동대문구",
             "region_code":"Seoul",
-            "sub_region_code":"1123000000_Seoul_Dongdaemun"
+            "sub_region_code":"1123000000_Seoul_Dongdaemun",
+            "shorten_url":"https:\/\/me2.do\/F6JgG1NY"
         },
         {
             "index":12,
@@ -202,7 +218,8 @@
             "value_score":69.4136,
             "region":"서울시 동대문구",
             "region_code":"Seoul",
-            "sub_region_code":"1123000000_Seoul_Dongdaemun"
+            "sub_region_code":"1123000000_Seoul_Dongdaemun",
+            "shorten_url":"https:\/\/me2.do\/F6JgG1NY"
         },
         {
             "index":13,
@@ -214,7 +231,8 @@
             "value_score":68.8636,
             "region":"서울시 동대문구",
             "region_code":"Seoul",
-            "sub_region_code":"1123000000_Seoul_Dongdaemun"
+            "sub_region_code":"1123000000_Seoul_Dongdaemun",
+            "shorten_url":"https:\/\/me2.do\/F6JgG1NY"
         },
         {
             "index":14,
@@ -226,7 +244,8 @@
             "value_score":68.8636,
             "region":"서울시 동대문구",
             "region_code":"Seoul",
-            "sub_region_code":"1123000000_Seoul_Dongdaemun"
+            "sub_region_code":"1123000000_Seoul_Dongdaemun",
+            "shorten_url":"https:\/\/me2.do\/F6JgG1NY"
         },
         {
             "index":15,
@@ -238,7 +257,8 @@
             "value_score":66.6198,
             "region":"서울시 동대문구",
             "region_code":"Seoul",
-            "sub_region_code":"1123000000_Seoul_Dongdaemun"
+            "sub_region_code":"1123000000_Seoul_Dongdaemun",
+            "shorten_url":"https:\/\/me2.do\/F6JgG1NY"
         },
         {
             "index":16,
@@ -250,7 +270,8 @@
             "value_score":65.8844,
             "region":"서울시 동대문구",
             "region_code":"Seoul",
-            "sub_region_code":"1123000000_Seoul_Dongdaemun"
+            "sub_region_code":"1123000000_Seoul_Dongdaemun",
+            "shorten_url":"https:\/\/me2.do\/F6JgG1NY"
         },
         {
             "index":17,
@@ -262,7 +283,8 @@
             "value_score":65.5458,
             "region":"서울시 동대문구",
             "region_code":"Seoul",
-            "sub_region_code":"1123000000_Seoul_Dongdaemun"
+            "sub_region_code":"1123000000_Seoul_Dongdaemun",
+            "shorten_url":"https:\/\/me2.do\/F6JgG1NY"
         },
         {
             "index":18,
@@ -274,7 +296,8 @@
             "value_score":64.9344,
             "region":"서울시 동대문구",
             "region_code":"Seoul",
-            "sub_region_code":"1123000000_Seoul_Dongdaemun"
+            "sub_region_code":"1123000000_Seoul_Dongdaemun",
+            "shorten_url":"https:\/\/me2.do\/F6JgG1NY"
         },
         {
             "index":19,
@@ -286,7 +309,8 @@
             "value_score":64.6344,
             "region":"서울시 동대문구",
             "region_code":"Seoul",
-            "sub_region_code":"1123000000_Seoul_Dongdaemun"
+            "sub_region_code":"1123000000_Seoul_Dongdaemun",
+            "shorten_url":"https:\/\/me2.do\/F6JgG1NY"
         },
         {
             "index":20,
@@ -298,7 +322,8 @@
             "value_score":72.7133,
             "region":"서울시 동대문구",
             "region_code":"Seoul",
-            "sub_region_code":"1123000000_Seoul_Dongdaemun"
+            "sub_region_code":"1123000000_Seoul_Dongdaemun",
+            "shorten_url":"https:\/\/me2.do\/F6JgG1NY"
         },
         {
             "index":21,
@@ -310,7 +335,8 @@
             "value_score":72.3883,
             "region":"서울시 동대문구",
             "region_code":"Seoul",
-            "sub_region_code":"1123000000_Seoul_Dongdaemun"
+            "sub_region_code":"1123000000_Seoul_Dongdaemun",
+            "shorten_url":"https:\/\/me2.do\/F6JgG1NY"
         },
         {
             "index":22,
@@ -322,7 +348,8 @@
             "value_score":71.3662,
             "region":"서울시 동대문구",
             "region_code":"Seoul",
-            "sub_region_code":"1123000000_Seoul_Dongdaemun"
+            "sub_region_code":"1123000000_Seoul_Dongdaemun",
+            "shorten_url":"https:\/\/me2.do\/F6JgG1NY"
         },
         {
             "index":23,
@@ -334,7 +361,8 @@
             "value_score":70.4602,
             "region":"서울시 동대문구",
             "region_code":"Seoul",
-            "sub_region_code":"1123000000_Seoul_Dongdaemun"
+            "sub_region_code":"1123000000_Seoul_Dongdaemun",
+            "shorten_url":"https:\/\/me2.do\/F6JgG1NY"
         },
         {
             "index":24,
@@ -346,7 +374,8 @@
             "value_score":69.4102,
             "region":"서울시 동대문구",
             "region_code":"Seoul",
-            "sub_region_code":"1123000000_Seoul_Dongdaemun"
+            "sub_region_code":"1123000000_Seoul_Dongdaemun",
+            "shorten_url":"https:\/\/me2.do\/F6JgG1NY"
         },
         {
             "index":25,
@@ -358,7 +387,8 @@
             "value_score":69.2383,
             "region":"서울시 동대문구",
             "region_code":"Seoul",
-            "sub_region_code":"1123000000_Seoul_Dongdaemun"
+            "sub_region_code":"1123000000_Seoul_Dongdaemun",
+            "shorten_url":"https:\/\/me2.do\/F6JgG1NY"
         },
         {
             "index":26,
@@ -370,7 +400,8 @@
             "value_score":67.6579,
             "region":"서울시 동대문구",
             "region_code":"Seoul",
-            "sub_region_code":"1123000000_Seoul_Dongdaemun"
+            "sub_region_code":"1123000000_Seoul_Dongdaemun",
+            "shorten_url":"https:\/\/me2.do\/F6JgG1NY"
         },
         {
             "index":27,
@@ -382,7 +413,8 @@
             "value_score":67.2633,
             "region":"서울시 동대문구",
             "region_code":"Seoul",
-            "sub_region_code":"1123000000_Seoul_Dongdaemun"
+            "sub_region_code":"1123000000_Seoul_Dongdaemun",
+            "shorten_url":"https:\/\/me2.do\/F6JgG1NY"
         },
         {
             "index":28,
@@ -394,7 +426,8 @@
             "value_score":66.7133,
             "region":"서울시 동대문구",
             "region_code":"Seoul",
-            "sub_region_code":"1123000000_Seoul_Dongdaemun"
+            "sub_region_code":"1123000000_Seoul_Dongdaemun",
+            "shorten_url":"https:\/\/me2.do\/F6JgG1NY"
         },
         {
             "index":29,
@@ -406,7 +439,8 @@
             "value_score":65.5883,
             "region":"서울시 동대문구",
             "region_code":"Seoul",
-            "sub_region_code":"1123000000_Seoul_Dongdaemun"
+            "sub_region_code":"1123000000_Seoul_Dongdaemun",
+            "shorten_url":"https:\/\/me2.do\/F6JgG1NY"
         },
         {
             "index":30,
@@ -418,7 +452,8 @@
             "value_score":68.7055,
             "region":"서울시 동대문구",
             "region_code":"Seoul",
-            "sub_region_code":"1123000000_Seoul_Dongdaemun"
+            "sub_region_code":"1123000000_Seoul_Dongdaemun",
+            "shorten_url":"https:\/\/me2.do\/F6JgG1NY"
         },
         {
             "index":31,
@@ -430,7 +465,8 @@
             "value_score":66.9055,
             "region":"서울시 동대문구",
             "region_code":"Seoul",
-            "sub_region_code":"1123000000_Seoul_Dongdaemun"
+            "sub_region_code":"1123000000_Seoul_Dongdaemun",
+            "shorten_url":"https:\/\/me2.do\/F6JgG1NY"
         },
         {
             "index":32,
@@ -442,7 +478,8 @@
             "value_score":66.1555,
             "region":"서울시 동대문구",
             "region_code":"Seoul",
-            "sub_region_code":"1123000000_Seoul_Dongdaemun"
+            "sub_region_code":"1123000000_Seoul_Dongdaemun",
+            "shorten_url":"https:\/\/me2.do\/F6JgG1NY"
         },
         {
             "index":33,
@@ -454,7 +491,8 @@
             "value_score":65.86525,
             "region":"서울시 동대문구",
             "region_code":"Seoul",
-            "sub_region_code":"1123000000_Seoul_Dongdaemun"
+            "sub_region_code":"1123000000_Seoul_Dongdaemun",
+            "shorten_url":"https:\/\/me2.do\/F6JgG1NY"
         },
         {
             "index":34,
@@ -466,7 +504,8 @@
             "value_score":64.96525,
             "region":"서울시 동대문구",
             "region_code":"Seoul",
-            "sub_region_code":"1123000000_Seoul_Dongdaemun"
+            "sub_region_code":"1123000000_Seoul_Dongdaemun",
+            "shorten_url":"https:\/\/me2.do\/F6JgG1NY"
         },
         {
             "index":35,
@@ -478,7 +517,8 @@
             "value_score":64.4555,
             "region":"서울시 동대문구",
             "region_code":"Seoul",
-            "sub_region_code":"1123000000_Seoul_Dongdaemun"
+            "sub_region_code":"1123000000_Seoul_Dongdaemun",
+            "shorten_url":"https:\/\/me2.do\/F6JgG1NY"
         },
         {
             "index":36,
@@ -490,7 +530,8 @@
             "value_score":64.142,
             "region":"서울시 동대문구",
             "region_code":"Seoul",
-            "sub_region_code":"1123000000_Seoul_Dongdaemun"
+            "sub_region_code":"1123000000_Seoul_Dongdaemun",
+            "shorten_url":"https:\/\/me2.do\/F6JgG1NY"
         },
         {
             "index":37,
@@ -502,7 +543,8 @@
             "value_score":63.6055,
             "region":"서울시 동대문구",
             "region_code":"Seoul",
-            "sub_region_code":"1123000000_Seoul_Dongdaemun"
+            "sub_region_code":"1123000000_Seoul_Dongdaemun",
+            "shorten_url":"https:\/\/me2.do\/F6JgG1NY"
         },
         {
             "index":38,
@@ -514,7 +556,8 @@
             "value_score":63.4965,
             "region":"서울시 동대문구",
             "region_code":"Seoul",
-            "sub_region_code":"1123000000_Seoul_Dongdaemun"
+            "sub_region_code":"1123000000_Seoul_Dongdaemun",
+            "shorten_url":"https:\/\/me2.do\/F6JgG1NY"
         },
         {
             "index":39,
@@ -526,7 +569,8 @@
             "value_score":63.442,
             "region":"서울시 동대문구",
             "region_code":"Seoul",
-            "sub_region_code":"1123000000_Seoul_Dongdaemun"
+            "sub_region_code":"1123000000_Seoul_Dongdaemun",
+            "shorten_url":"https:\/\/me2.do\/F6JgG1NY"
         },
         {
             "index":40,
@@ -538,7 +582,8 @@
             "value_score":62.084,
             "region":"서울시 동대문구",
             "region_code":"Seoul",
-            "sub_region_code":"1123000000_Seoul_Dongdaemun"
+            "sub_region_code":"1123000000_Seoul_Dongdaemun",
+            "shorten_url":"https:\/\/me2.do\/F6JgG1NY"
         },
         {
             "index":41,
@@ -550,7 +595,8 @@
             "value_score":61.684,
             "region":"서울시 동대문구",
             "region_code":"Seoul",
-            "sub_region_code":"1123000000_Seoul_Dongdaemun"
+            "sub_region_code":"1123000000_Seoul_Dongdaemun",
+            "shorten_url":"https:\/\/me2.do\/F6JgG1NY"
         },
         {
             "index":42,
@@ -562,7 +608,8 @@
             "value_score":61.011,
             "region":"서울시 동대문구",
             "region_code":"Seoul",
-            "sub_region_code":"1123000000_Seoul_Dongdaemun"
+            "sub_region_code":"1123000000_Seoul_Dongdaemun",
+            "shorten_url":"https:\/\/me2.do\/F6JgG1NY"
         },
         {
             "index":43,
@@ -574,7 +621,8 @@
             "value_score":59.811,
             "region":"서울시 동대문구",
             "region_code":"Seoul",
-            "sub_region_code":"1123000000_Seoul_Dongdaemun"
+            "sub_region_code":"1123000000_Seoul_Dongdaemun",
+            "shorten_url":"https:\/\/me2.do\/F6JgG1NY"
         },
         {
             "index":44,
@@ -586,7 +634,8 @@
             "value_score":59.751,
             "region":"서울시 동대문구",
             "region_code":"Seoul",
-            "sub_region_code":"1123000000_Seoul_Dongdaemun"
+            "sub_region_code":"1123000000_Seoul_Dongdaemun",
+            "shorten_url":"https:\/\/me2.do\/F6JgG1NY"
         },
         {
             "index":45,
@@ -598,7 +647,8 @@
             "value_score":58.954,
             "region":"서울시 동대문구",
             "region_code":"Seoul",
-            "sub_region_code":"1123000000_Seoul_Dongdaemun"
+            "sub_region_code":"1123000000_Seoul_Dongdaemun",
+            "shorten_url":"https:\/\/me2.do\/F6JgG1NY"
         },
         {
             "index":46,
@@ -610,7 +660,8 @@
             "value_score":58.1295,
             "region":"서울시 동대문구",
             "region_code":"Seoul",
-            "sub_region_code":"1123000000_Seoul_Dongdaemun"
+            "sub_region_code":"1123000000_Seoul_Dongdaemun",
+            "shorten_url":"https:\/\/me2.do\/F6JgG1NY"
         },
         {
             "index":47,
@@ -622,7 +673,8 @@
             "value_score":58.084,
             "region":"서울시 동대문구",
             "region_code":"Seoul",
-            "sub_region_code":"1123000000_Seoul_Dongdaemun"
+            "sub_region_code":"1123000000_Seoul_Dongdaemun",
+            "shorten_url":"https:\/\/me2.do\/F6JgG1NY"
         },
         {
             "index":48,
@@ -634,7 +686,8 @@
             "value_score":57.951,
             "region":"서울시 동대문구",
             "region_code":"Seoul",
-            "sub_region_code":"1123000000_Seoul_Dongdaemun"
+            "sub_region_code":"1123000000_Seoul_Dongdaemun",
+            "shorten_url":"https:\/\/me2.do\/F6JgG1NY"
         },
         {
             "index":49,
@@ -646,7 +699,8 @@
             "value_score":57.711,
             "region":"서울시 동대문구",
             "region_code":"Seoul",
-            "sub_region_code":"1123000000_Seoul_Dongdaemun"
+            "sub_region_code":"1123000000_Seoul_Dongdaemun",
+            "shorten_url":"https:\/\/me2.do\/F6JgG1NY"
         }
     ]
 }

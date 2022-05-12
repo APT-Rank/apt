@@ -40,6 +40,10 @@
             {
                 "name":"sub_region_code",
                 "type":"string"
+            },
+            {
+                "name":"shorten_url",
+                "type":"string"
             }
         ],
         "primaryKey":[
@@ -58,7 +62,8 @@
             "value_score":65.3535,
             "region":"충청남도 천안시 동남구",
             "region_code":"Chungcheongnamdo",
-            "sub_region_code":"4413100000_Chungcheongnamdo_Cheonan_Dongnam"
+            "sub_region_code":"4413100000_Chungcheongnamdo_Cheonan_Dongnam",
+            "shorten_url":"https:\/\/me2.do\/xI8MKJud"
         },
         {
             "index":1,
@@ -70,7 +75,8 @@
             "value_score":64.84855,
             "region":"충청남도 천안시 동남구",
             "region_code":"Chungcheongnamdo",
-            "sub_region_code":"4413100000_Chungcheongnamdo_Cheonan_Dongnam"
+            "sub_region_code":"4413100000_Chungcheongnamdo_Cheonan_Dongnam",
+            "shorten_url":"https:\/\/me2.do\/xI8MKJud"
         },
         {
             "index":2,
@@ -82,7 +88,8 @@
             "value_score":63.586,
             "region":"충청남도 천안시 동남구",
             "region_code":"Chungcheongnamdo",
-            "sub_region_code":"4413100000_Chungcheongnamdo_Cheonan_Dongnam"
+            "sub_region_code":"4413100000_Chungcheongnamdo_Cheonan_Dongnam",
+            "shorten_url":"https:\/\/me2.do\/xI8MKJud"
         },
         {
             "index":3,
@@ -94,7 +101,8 @@
             "value_score":63.42325,
             "region":"충청남도 천안시 동남구",
             "region_code":"Chungcheongnamdo",
-            "sub_region_code":"4413100000_Chungcheongnamdo_Cheonan_Dongnam"
+            "sub_region_code":"4413100000_Chungcheongnamdo_Cheonan_Dongnam",
+            "shorten_url":"https:\/\/me2.do\/xI8MKJud"
         },
         {
             "index":4,
@@ -106,7 +114,8 @@
             "value_score":63.05815,
             "region":"충청남도 천안시 동남구",
             "region_code":"Chungcheongnamdo",
-            "sub_region_code":"4413100000_Chungcheongnamdo_Cheonan_Dongnam"
+            "sub_region_code":"4413100000_Chungcheongnamdo_Cheonan_Dongnam",
+            "shorten_url":"https:\/\/me2.do\/xI8MKJud"
         },
         {
             "index":5,
@@ -118,7 +127,8 @@
             "value_score":62.836,
             "region":"충청남도 천안시 동남구",
             "region_code":"Chungcheongnamdo",
-            "sub_region_code":"4413100000_Chungcheongnamdo_Cheonan_Dongnam"
+            "sub_region_code":"4413100000_Chungcheongnamdo_Cheonan_Dongnam",
+            "shorten_url":"https:\/\/me2.do\/xI8MKJud"
         },
         {
             "index":6,
@@ -130,7 +140,8 @@
             "value_score":61.32325,
             "region":"충청남도 천안시 동남구",
             "region_code":"Chungcheongnamdo",
-            "sub_region_code":"4413100000_Chungcheongnamdo_Cheonan_Dongnam"
+            "sub_region_code":"4413100000_Chungcheongnamdo_Cheonan_Dongnam",
+            "shorten_url":"https:\/\/me2.do\/xI8MKJud"
         },
         {
             "index":7,
@@ -142,7 +153,8 @@
             "value_score":59.436,
             "region":"충청남도 천안시 동남구",
             "region_code":"Chungcheongnamdo",
-            "sub_region_code":"4413100000_Chungcheongnamdo_Cheonan_Dongnam"
+            "sub_region_code":"4413100000_Chungcheongnamdo_Cheonan_Dongnam",
+            "shorten_url":"https:\/\/me2.do\/xI8MKJud"
         },
         {
             "index":8,
@@ -154,7 +166,8 @@
             "value_score":59.32355,
             "region":"충청남도 천안시 동남구",
             "region_code":"Chungcheongnamdo",
-            "sub_region_code":"4413100000_Chungcheongnamdo_Cheonan_Dongnam"
+            "sub_region_code":"4413100000_Chungcheongnamdo_Cheonan_Dongnam",
+            "shorten_url":"https:\/\/me2.do\/xI8MKJud"
         },
         {
             "index":9,
@@ -166,7 +179,8 @@
             "value_score":59.036,
             "region":"충청남도 천안시 동남구",
             "region_code":"Chungcheongnamdo",
-            "sub_region_code":"4413100000_Chungcheongnamdo_Cheonan_Dongnam"
+            "sub_region_code":"4413100000_Chungcheongnamdo_Cheonan_Dongnam",
+            "shorten_url":"https:\/\/me2.do\/xI8MKJud"
         },
         {
             "index":10,
@@ -178,7 +192,8 @@
             "value_score":69.8525,
             "region":"충청남도 천안시 동남구",
             "region_code":"Chungcheongnamdo",
-            "sub_region_code":"4413100000_Chungcheongnamdo_Cheonan_Dongnam"
+            "sub_region_code":"4413100000_Chungcheongnamdo_Cheonan_Dongnam",
+            "shorten_url":"https:\/\/me2.do\/xI8MKJud"
         },
         {
             "index":11,
@@ -190,7 +205,8 @@
             "value_score":68.96325,
             "region":"충청남도 천안시 동남구",
             "region_code":"Chungcheongnamdo",
-            "sub_region_code":"4413100000_Chungcheongnamdo_Cheonan_Dongnam"
+            "sub_region_code":"4413100000_Chungcheongnamdo_Cheonan_Dongnam",
+            "shorten_url":"https:\/\/me2.do\/xI8MKJud"
         },
         {
             "index":12,
@@ -202,7 +218,8 @@
             "value_score":66.57725,
             "region":"충청남도 천안시 동남구",
             "region_code":"Chungcheongnamdo",
-            "sub_region_code":"4413100000_Chungcheongnamdo_Cheonan_Dongnam"
+            "sub_region_code":"4413100000_Chungcheongnamdo_Cheonan_Dongnam",
+            "shorten_url":"https:\/\/me2.do\/xI8MKJud"
         },
         {
             "index":13,
@@ -214,7 +231,8 @@
             "value_score":66.12375,
             "region":"충청남도 천안시 동남구",
             "region_code":"Chungcheongnamdo",
-            "sub_region_code":"4413100000_Chungcheongnamdo_Cheonan_Dongnam"
+            "sub_region_code":"4413100000_Chungcheongnamdo_Cheonan_Dongnam",
+            "shorten_url":"https:\/\/me2.do\/xI8MKJud"
         },
         {
             "index":14,
@@ -226,7 +244,8 @@
             "value_score":65.24,
             "region":"충청남도 천안시 동남구",
             "region_code":"Chungcheongnamdo",
-            "sub_region_code":"4413100000_Chungcheongnamdo_Cheonan_Dongnam"
+            "sub_region_code":"4413100000_Chungcheongnamdo_Cheonan_Dongnam",
+            "shorten_url":"https:\/\/me2.do\/xI8MKJud"
         },
         {
             "index":15,
@@ -238,7 +257,8 @@
             "value_score":63.97375,
             "region":"충청남도 천안시 동남구",
             "region_code":"Chungcheongnamdo",
-            "sub_region_code":"4413100000_Chungcheongnamdo_Cheonan_Dongnam"
+            "sub_region_code":"4413100000_Chungcheongnamdo_Cheonan_Dongnam",
+            "shorten_url":"https:\/\/me2.do\/xI8MKJud"
         },
         {
             "index":16,
@@ -250,7 +270,8 @@
             "value_score":62.74,
             "region":"충청남도 천안시 동남구",
             "region_code":"Chungcheongnamdo",
-            "sub_region_code":"4413100000_Chungcheongnamdo_Cheonan_Dongnam"
+            "sub_region_code":"4413100000_Chungcheongnamdo_Cheonan_Dongnam",
+            "shorten_url":"https:\/\/me2.do\/xI8MKJud"
         },
         {
             "index":17,
@@ -262,7 +283,8 @@
             "value_score":62.68825,
             "region":"충청남도 천안시 동남구",
             "region_code":"Chungcheongnamdo",
-            "sub_region_code":"4413100000_Chungcheongnamdo_Cheonan_Dongnam"
+            "sub_region_code":"4413100000_Chungcheongnamdo_Cheonan_Dongnam",
+            "shorten_url":"https:\/\/me2.do\/xI8MKJud"
         },
         {
             "index":18,
@@ -274,7 +296,8 @@
             "value_score":61.37375,
             "region":"충청남도 천안시 동남구",
             "region_code":"Chungcheongnamdo",
-            "sub_region_code":"4413100000_Chungcheongnamdo_Cheonan_Dongnam"
+            "sub_region_code":"4413100000_Chungcheongnamdo_Cheonan_Dongnam",
+            "shorten_url":"https:\/\/me2.do\/xI8MKJud"
         },
         {
             "index":19,
@@ -286,7 +309,8 @@
             "value_score":60.33825,
             "region":"충청남도 천안시 동남구",
             "region_code":"Chungcheongnamdo",
-            "sub_region_code":"4413100000_Chungcheongnamdo_Cheonan_Dongnam"
+            "sub_region_code":"4413100000_Chungcheongnamdo_Cheonan_Dongnam",
+            "shorten_url":"https:\/\/me2.do\/xI8MKJud"
         },
         {
             "index":20,
@@ -298,7 +322,8 @@
             "value_score":67.9873684211,
             "region":"충청남도 천안시 동남구",
             "region_code":"Chungcheongnamdo",
-            "sub_region_code":"4413100000_Chungcheongnamdo_Cheonan_Dongnam"
+            "sub_region_code":"4413100000_Chungcheongnamdo_Cheonan_Dongnam",
+            "shorten_url":"https:\/\/me2.do\/xI8MKJud"
         },
         {
             "index":21,
@@ -310,7 +335,8 @@
             "value_score":67.7768421053,
             "region":"충청남도 천안시 동남구",
             "region_code":"Chungcheongnamdo",
-            "sub_region_code":"4413100000_Chungcheongnamdo_Cheonan_Dongnam"
+            "sub_region_code":"4413100000_Chungcheongnamdo_Cheonan_Dongnam",
+            "shorten_url":"https:\/\/me2.do\/xI8MKJud"
         },
         {
             "index":22,
@@ -322,7 +348,8 @@
             "value_score":67.726,
             "region":"충청남도 천안시 동남구",
             "region_code":"Chungcheongnamdo",
-            "sub_region_code":"4413100000_Chungcheongnamdo_Cheonan_Dongnam"
+            "sub_region_code":"4413100000_Chungcheongnamdo_Cheonan_Dongnam",
+            "shorten_url":"https:\/\/me2.do\/xI8MKJud"
         },
         {
             "index":23,
@@ -334,7 +361,8 @@
             "value_score":66.4347368421,
             "region":"충청남도 천안시 동남구",
             "region_code":"Chungcheongnamdo",
-            "sub_region_code":"4413100000_Chungcheongnamdo_Cheonan_Dongnam"
+            "sub_region_code":"4413100000_Chungcheongnamdo_Cheonan_Dongnam",
+            "shorten_url":"https:\/\/me2.do\/xI8MKJud"
         },
         {
             "index":24,
@@ -346,7 +374,8 @@
             "value_score":65.8312631579,
             "region":"충청남도 천안시 동남구",
             "region_code":"Chungcheongnamdo",
-            "sub_region_code":"4413100000_Chungcheongnamdo_Cheonan_Dongnam"
+            "sub_region_code":"4413100000_Chungcheongnamdo_Cheonan_Dongnam",
+            "shorten_url":"https:\/\/me2.do\/xI8MKJud"
         },
         {
             "index":25,
@@ -358,7 +387,8 @@
             "value_score":65.2167368421,
             "region":"충청남도 천안시 동남구",
             "region_code":"Chungcheongnamdo",
-            "sub_region_code":"4413100000_Chungcheongnamdo_Cheonan_Dongnam"
+            "sub_region_code":"4413100000_Chungcheongnamdo_Cheonan_Dongnam",
+            "shorten_url":"https:\/\/me2.do\/xI8MKJud"
         },
         {
             "index":26,
@@ -370,7 +400,8 @@
             "value_score":64.5663157895,
             "region":"충청남도 천안시 동남구",
             "region_code":"Chungcheongnamdo",
-            "sub_region_code":"4413100000_Chungcheongnamdo_Cheonan_Dongnam"
+            "sub_region_code":"4413100000_Chungcheongnamdo_Cheonan_Dongnam",
+            "shorten_url":"https:\/\/me2.do\/xI8MKJud"
         },
         {
             "index":27,
@@ -382,7 +413,8 @@
             "value_score":63.5944210526,
             "region":"충청남도 천안시 동남구",
             "region_code":"Chungcheongnamdo",
-            "sub_region_code":"4413100000_Chungcheongnamdo_Cheonan_Dongnam"
+            "sub_region_code":"4413100000_Chungcheongnamdo_Cheonan_Dongnam",
+            "shorten_url":"https:\/\/me2.do\/xI8MKJud"
         },
         {
             "index":28,
@@ -394,7 +426,8 @@
             "value_score":62.9084210526,
             "region":"충청남도 천안시 동남구",
             "region_code":"Chungcheongnamdo",
-            "sub_region_code":"4413100000_Chungcheongnamdo_Cheonan_Dongnam"
+            "sub_region_code":"4413100000_Chungcheongnamdo_Cheonan_Dongnam",
+            "shorten_url":"https:\/\/me2.do\/xI8MKJud"
         },
         {
             "index":29,
@@ -406,7 +439,8 @@
             "value_score":62.6715789474,
             "region":"충청남도 천안시 동남구",
             "region_code":"Chungcheongnamdo",
-            "sub_region_code":"4413100000_Chungcheongnamdo_Cheonan_Dongnam"
+            "sub_region_code":"4413100000_Chungcheongnamdo_Cheonan_Dongnam",
+            "shorten_url":"https:\/\/me2.do\/xI8MKJud"
         },
         {
             "index":30,
@@ -418,7 +452,8 @@
             "value_score":62.98,
             "region":"충청남도 천안시 동남구",
             "region_code":"Chungcheongnamdo",
-            "sub_region_code":"4413100000_Chungcheongnamdo_Cheonan_Dongnam"
+            "sub_region_code":"4413100000_Chungcheongnamdo_Cheonan_Dongnam",
+            "shorten_url":"https:\/\/me2.do\/xI8MKJud"
         },
         {
             "index":31,
@@ -430,7 +465,8 @@
             "value_score":61.105,
             "region":"충청남도 천안시 동남구",
             "region_code":"Chungcheongnamdo",
-            "sub_region_code":"4413100000_Chungcheongnamdo_Cheonan_Dongnam"
+            "sub_region_code":"4413100000_Chungcheongnamdo_Cheonan_Dongnam",
+            "shorten_url":"https:\/\/me2.do\/xI8MKJud"
         },
         {
             "index":32,
@@ -442,7 +478,8 @@
             "value_score":60.98,
             "region":"충청남도 천안시 동남구",
             "region_code":"Chungcheongnamdo",
-            "sub_region_code":"4413100000_Chungcheongnamdo_Cheonan_Dongnam"
+            "sub_region_code":"4413100000_Chungcheongnamdo_Cheonan_Dongnam",
+            "shorten_url":"https:\/\/me2.do\/xI8MKJud"
         },
         {
             "index":33,
@@ -454,7 +491,8 @@
             "value_score":60.855,
             "region":"충청남도 천안시 동남구",
             "region_code":"Chungcheongnamdo",
-            "sub_region_code":"4413100000_Chungcheongnamdo_Cheonan_Dongnam"
+            "sub_region_code":"4413100000_Chungcheongnamdo_Cheonan_Dongnam",
+            "shorten_url":"https:\/\/me2.do\/xI8MKJud"
         },
         {
             "index":34,
@@ -466,7 +504,8 @@
             "value_score":60.73,
             "region":"충청남도 천안시 동남구",
             "region_code":"Chungcheongnamdo",
-            "sub_region_code":"4413100000_Chungcheongnamdo_Cheonan_Dongnam"
+            "sub_region_code":"4413100000_Chungcheongnamdo_Cheonan_Dongnam",
+            "shorten_url":"https:\/\/me2.do\/xI8MKJud"
         },
         {
             "index":35,
@@ -478,7 +517,8 @@
             "value_score":59.8995,
             "region":"충청남도 천안시 동남구",
             "region_code":"Chungcheongnamdo",
-            "sub_region_code":"4413100000_Chungcheongnamdo_Cheonan_Dongnam"
+            "sub_region_code":"4413100000_Chungcheongnamdo_Cheonan_Dongnam",
+            "shorten_url":"https:\/\/me2.do\/xI8MKJud"
         },
         {
             "index":36,
@@ -490,7 +530,8 @@
             "value_score":59.3995,
             "region":"충청남도 천안시 동남구",
             "region_code":"Chungcheongnamdo",
-            "sub_region_code":"4413100000_Chungcheongnamdo_Cheonan_Dongnam"
+            "sub_region_code":"4413100000_Chungcheongnamdo_Cheonan_Dongnam",
+            "shorten_url":"https:\/\/me2.do\/xI8MKJud"
         },
         {
             "index":37,
@@ -502,7 +543,8 @@
             "value_score":59.3725,
             "region":"충청남도 천안시 동남구",
             "region_code":"Chungcheongnamdo",
-            "sub_region_code":"4413100000_Chungcheongnamdo_Cheonan_Dongnam"
+            "sub_region_code":"4413100000_Chungcheongnamdo_Cheonan_Dongnam",
+            "shorten_url":"https:\/\/me2.do\/xI8MKJud"
         },
         {
             "index":38,
@@ -514,7 +556,8 @@
             "value_score":59.355,
             "region":"충청남도 천안시 동남구",
             "region_code":"Chungcheongnamdo",
-            "sub_region_code":"4413100000_Chungcheongnamdo_Cheonan_Dongnam"
+            "sub_region_code":"4413100000_Chungcheongnamdo_Cheonan_Dongnam",
+            "shorten_url":"https:\/\/me2.do\/xI8MKJud"
         },
         {
             "index":39,
@@ -526,7 +569,8 @@
             "value_score":58.6765,
             "region":"충청남도 천안시 동남구",
             "region_code":"Chungcheongnamdo",
-            "sub_region_code":"4413100000_Chungcheongnamdo_Cheonan_Dongnam"
+            "sub_region_code":"4413100000_Chungcheongnamdo_Cheonan_Dongnam",
+            "shorten_url":"https:\/\/me2.do\/xI8MKJud"
         }
     ]
 }

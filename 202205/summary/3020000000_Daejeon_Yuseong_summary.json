@@ -40,6 +40,10 @@
             {
                 "name":"sub_region_code",
                 "type":"string"
+            },
+            {
+                "name":"shorten_url",
+                "type":"string"
             }
         ],
         "primaryKey":[
@@ -58,7 +62,8 @@
             "value_score":63.34285,
             "region":"대전시 유성구",
             "region_code":"Daejeon",
-            "sub_region_code":"3020000000_Daejeon_Yuseong"
+            "sub_region_code":"3020000000_Daejeon_Yuseong",
+            "shorten_url":"https:\/\/me2.do\/F5LoyzFj"
         },
         {
             "index":1,
@@ -70,7 +75,8 @@
             "value_score":62.9039,
             "region":"대전시 유성구",
             "region_code":"Daejeon",
-            "sub_region_code":"3020000000_Daejeon_Yuseong"
+            "sub_region_code":"3020000000_Daejeon_Yuseong",
+            "shorten_url":"https:\/\/me2.do\/F5LoyzFj"
         },
         {
             "index":2,
@@ -82,7 +88,8 @@
             "value_score":62.9039,
             "region":"대전시 유성구",
             "region_code":"Daejeon",
-            "sub_region_code":"3020000000_Daejeon_Yuseong"
+            "sub_region_code":"3020000000_Daejeon_Yuseong",
+            "shorten_url":"https:\/\/me2.do\/F5LoyzFj"
         },
         {
             "index":3,
@@ -94,7 +101,8 @@
             "value_score":62.71785,
             "region":"대전시 유성구",
             "region_code":"Daejeon",
-            "sub_region_code":"3020000000_Daejeon_Yuseong"
+            "sub_region_code":"3020000000_Daejeon_Yuseong",
+            "shorten_url":"https:\/\/me2.do\/F5LoyzFj"
         },
         {
             "index":4,
@@ -106,7 +114,8 @@
             "value_score":60.95975,
             "region":"대전시 유성구",
             "region_code":"Daejeon",
-            "sub_region_code":"3020000000_Daejeon_Yuseong"
+            "sub_region_code":"3020000000_Daejeon_Yuseong",
+            "shorten_url":"https:\/\/me2.do\/F5LoyzFj"
         },
         {
             "index":5,
@@ -118,7 +127,8 @@
             "value_score":60.67965,
             "region":"대전시 유성구",
             "region_code":"Daejeon",
-            "sub_region_code":"3020000000_Daejeon_Yuseong"
+            "sub_region_code":"3020000000_Daejeon_Yuseong",
+            "shorten_url":"https:\/\/me2.do\/F5LoyzFj"
         },
         {
             "index":6,
@@ -130,7 +140,8 @@
             "value_score":60.03475,
             "region":"대전시 유성구",
             "region_code":"Daejeon",
-            "sub_region_code":"3020000000_Daejeon_Yuseong"
+            "sub_region_code":"3020000000_Daejeon_Yuseong",
+            "shorten_url":"https:\/\/me2.do\/F5LoyzFj"
         },
         {
             "index":7,
@@ -142,7 +153,8 @@
             "value_score":59.8584,
             "region":"대전시 유성구",
             "region_code":"Daejeon",
-            "sub_region_code":"3020000000_Daejeon_Yuseong"
+            "sub_region_code":"3020000000_Daejeon_Yuseong",
+            "shorten_url":"https:\/\/me2.do\/F5LoyzFj"
         },
         {
             "index":8,
@@ -154,7 +166,8 @@
             "value_score":59.4859,
             "region":"대전시 유성구",
             "region_code":"Daejeon",
-            "sub_region_code":"3020000000_Daejeon_Yuseong"
+            "sub_region_code":"3020000000_Daejeon_Yuseong",
+            "shorten_url":"https:\/\/me2.do\/F5LoyzFj"
         },
         {
             "index":9,
@@ -166,7 +179,8 @@
             "value_score":57.40975,
             "region":"대전시 유성구",
             "region_code":"Daejeon",
-            "sub_region_code":"3020000000_Daejeon_Yuseong"
+            "sub_region_code":"3020000000_Daejeon_Yuseong",
+            "shorten_url":"https:\/\/me2.do\/F5LoyzFj"
         },
         {
             "index":10,
@@ -178,7 +192,8 @@
             "value_score":68.8808,
             "region":"대전시 유성구",
             "region_code":"Daejeon",
-            "sub_region_code":"3020000000_Daejeon_Yuseong"
+            "sub_region_code":"3020000000_Daejeon_Yuseong",
+            "shorten_url":"https:\/\/me2.do\/F5LoyzFj"
         },
         {
             "index":11,
@@ -190,7 +205,8 @@
             "value_score":68.8808,
             "region":"대전시 유성구",
             "region_code":"Daejeon",
-            "sub_region_code":"3020000000_Daejeon_Yuseong"
+            "sub_region_code":"3020000000_Daejeon_Yuseong",
+            "shorten_url":"https:\/\/me2.do\/F5LoyzFj"
         },
         {
             "index":12,
@@ -202,7 +218,8 @@
             "value_score":63.1836,
             "region":"대전시 유성구",
             "region_code":"Daejeon",
-            "sub_region_code":"3020000000_Daejeon_Yuseong"
+            "sub_region_code":"3020000000_Daejeon_Yuseong",
+            "shorten_url":"https:\/\/me2.do\/F5LoyzFj"
         },
         {
             "index":13,
@@ -214,7 +231,8 @@
             "value_score":62.2102,
             "region":"대전시 유성구",
             "region_code":"Daejeon",
-            "sub_region_code":"3020000000_Daejeon_Yuseong"
+            "sub_region_code":"3020000000_Daejeon_Yuseong",
+            "shorten_url":"https:\/\/me2.do\/F5LoyzFj"
         },
         {
             "index":14,
@@ -226,7 +244,8 @@
             "value_score":62.1598,
             "region":"대전시 유성구",
             "region_code":"Daejeon",
-            "sub_region_code":"3020000000_Daejeon_Yuseong"
+            "sub_region_code":"3020000000_Daejeon_Yuseong",
+            "shorten_url":"https:\/\/me2.do\/F5LoyzFj"
         },
         {
             "index":15,
@@ -238,7 +257,8 @@
             "value_score":61.9548,
             "region":"대전시 유성구",
             "region_code":"Daejeon",
-            "sub_region_code":"3020000000_Daejeon_Yuseong"
+            "sub_region_code":"3020000000_Daejeon_Yuseong",
+            "shorten_url":"https:\/\/me2.do\/F5LoyzFj"
         },
         {
             "index":16,
@@ -250,7 +270,8 @@
             "value_score":60.4602,
             "region":"대전시 유성구",
             "region_code":"Daejeon",
-            "sub_region_code":"3020000000_Daejeon_Yuseong"
+            "sub_region_code":"3020000000_Daejeon_Yuseong",
+            "shorten_url":"https:\/\/me2.do\/F5LoyzFj"
         },
         {
             "index":17,
@@ -262,7 +283,8 @@
             "value_score":59.9544,
             "region":"대전시 유성구",
             "region_code":"Daejeon",
-            "sub_region_code":"3020000000_Daejeon_Yuseong"
+            "sub_region_code":"3020000000_Daejeon_Yuseong",
+            "shorten_url":"https:\/\/me2.do\/F5LoyzFj"
         },
         {
             "index":18,
@@ -274,7 +296,8 @@
             "value_score":59.5308,
             "region":"대전시 유성구",
             "region_code":"Daejeon",
-            "sub_region_code":"3020000000_Daejeon_Yuseong"
+            "sub_region_code":"3020000000_Daejeon_Yuseong",
+            "shorten_url":"https:\/\/me2.do\/F5LoyzFj"
         },
         {
             "index":19,
@@ -286,7 +309,8 @@
             "value_score":59.5098,
             "region":"대전시 유성구",
             "region_code":"Daejeon",
-            "sub_region_code":"3020000000_Daejeon_Yuseong"
+            "sub_region_code":"3020000000_Daejeon_Yuseong",
+            "shorten_url":"https:\/\/me2.do\/F5LoyzFj"
         },
         {
             "index":20,
@@ -298,7 +322,8 @@
             "value_score":69.33275,
             "region":"대전시 유성구",
             "region_code":"Daejeon",
-            "sub_region_code":"3020000000_Daejeon_Yuseong"
+            "sub_region_code":"3020000000_Daejeon_Yuseong",
+            "shorten_url":"https:\/\/me2.do\/F5LoyzFj"
         },
         {
             "index":21,
@@ -310,7 +335,8 @@
             "value_score":68.70765,
             "region":"대전시 유성구",
             "region_code":"Daejeon",
-            "sub_region_code":"3020000000_Daejeon_Yuseong"
+            "sub_region_code":"3020000000_Daejeon_Yuseong",
+            "shorten_url":"https:\/\/me2.do\/F5LoyzFj"
         },
         {
             "index":22,
@@ -322,7 +348,8 @@
             "value_score":68.2981,
             "region":"대전시 유성구",
             "region_code":"Daejeon",
-            "sub_region_code":"3020000000_Daejeon_Yuseong"
+            "sub_region_code":"3020000000_Daejeon_Yuseong",
+            "shorten_url":"https:\/\/me2.do\/F5LoyzFj"
         },
         {
             "index":23,
@@ -334,7 +361,8 @@
             "value_score":67.83265,
             "region":"대전시 유성구",
             "region_code":"Daejeon",
-            "sub_region_code":"3020000000_Daejeon_Yuseong"
+            "sub_region_code":"3020000000_Daejeon_Yuseong",
+            "shorten_url":"https:\/\/me2.do\/F5LoyzFj"
         },
         {
             "index":24,
@@ -346,7 +374,8 @@
             "value_score":67.71985,
             "region":"대전시 유성구",
             "region_code":"Daejeon",
-            "sub_region_code":"3020000000_Daejeon_Yuseong"
+            "sub_region_code":"3020000000_Daejeon_Yuseong",
+            "shorten_url":"https:\/\/me2.do\/F5LoyzFj"
         },
         {
             "index":25,
@@ -358,7 +387,8 @@
             "value_score":67.59895,
             "region":"대전시 유성구",
             "region_code":"Daejeon",
-            "sub_region_code":"3020000000_Daejeon_Yuseong"
+            "sub_region_code":"3020000000_Daejeon_Yuseong",
+            "shorten_url":"https:\/\/me2.do\/F5LoyzFj"
         },
         {
             "index":26,
@@ -370,7 +400,8 @@
             "value_score":67.38275,
             "region":"대전시 유성구",
             "region_code":"Daejeon",
-            "sub_region_code":"3020000000_Daejeon_Yuseong"
+            "sub_region_code":"3020000000_Daejeon_Yuseong",
+            "shorten_url":"https:\/\/me2.do\/F5LoyzFj"
         },
         {
             "index":27,
@@ -382,7 +413,8 @@
             "value_score":67.1731,
             "region":"대전시 유성구",
             "region_code":"Daejeon",
-            "sub_region_code":"3020000000_Daejeon_Yuseong"
+            "sub_region_code":"3020000000_Daejeon_Yuseong",
+            "shorten_url":"https:\/\/me2.do\/F5LoyzFj"
         },
         {
             "index":28,
@@ -394,7 +426,8 @@
             "value_score":66.75775,
             "region":"대전시 유성구",
             "region_code":"Daejeon",
-            "sub_region_code":"3020000000_Daejeon_Yuseong"
+            "sub_region_code":"3020000000_Daejeon_Yuseong",
+            "shorten_url":"https:\/\/me2.do\/F5LoyzFj"
         },
         {
             "index":29,
@@ -406,7 +439,8 @@
             "value_score":66.7511,
             "region":"대전시 유성구",
             "region_code":"Daejeon",
-            "sub_region_code":"3020000000_Daejeon_Yuseong"
+            "sub_region_code":"3020000000_Daejeon_Yuseong",
+            "shorten_url":"https:\/\/me2.do\/F5LoyzFj"
         },
         {
             "index":30,
@@ -418,7 +452,8 @@
             "value_score":63.5135,
             "region":"대전시 유성구",
             "region_code":"Daejeon",
-            "sub_region_code":"3020000000_Daejeon_Yuseong"
+            "sub_region_code":"3020000000_Daejeon_Yuseong",
+            "shorten_url":"https:\/\/me2.do\/F5LoyzFj"
         },
         {
             "index":31,
@@ -430,7 +465,8 @@
             "value_score":63.04825,
             "region":"대전시 유성구",
             "region_code":"Daejeon",
-            "sub_region_code":"3020000000_Daejeon_Yuseong"
+            "sub_region_code":"3020000000_Daejeon_Yuseong",
+            "shorten_url":"https:\/\/me2.do\/F5LoyzFj"
         },
         {
             "index":32,
@@ -442,7 +478,8 @@
             "value_score":62.09825,
             "region":"대전시 유성구",
             "region_code":"Daejeon",
-            "sub_region_code":"3020000000_Daejeon_Yuseong"
+            "sub_region_code":"3020000000_Daejeon_Yuseong",
+            "shorten_url":"https:\/\/me2.do\/F5LoyzFj"
         },
         {
             "index":33,
@@ -454,7 +491,8 @@
             "value_score":61.64825,
             "region":"대전시 유성구",
             "region_code":"Daejeon",
-            "sub_region_code":"3020000000_Daejeon_Yuseong"
+            "sub_region_code":"3020000000_Daejeon_Yuseong",
+            "shorten_url":"https:\/\/me2.do\/F5LoyzFj"
         },
         {
             "index":34,
@@ -466,7 +504,8 @@
             "value_score":60.74825,
             "region":"대전시 유성구",
             "region_code":"Daejeon",
-            "sub_region_code":"3020000000_Daejeon_Yuseong"
+            "sub_region_code":"3020000000_Daejeon_Yuseong",
+            "shorten_url":"https:\/\/me2.do\/F5LoyzFj"
         },
         {
             "index":35,
@@ -478,7 +517,8 @@
             "value_score":58.09825,
             "region":"대전시 유성구",
             "region_code":"Daejeon",
-            "sub_region_code":"3020000000_Daejeon_Yuseong"
+            "sub_region_code":"3020000000_Daejeon_Yuseong",
+            "shorten_url":"https:\/\/me2.do\/F5LoyzFj"
         },
         {
             "index":36,
@@ -490,7 +530,8 @@
             "value_score":58.0635,
             "region":"대전시 유성구",
             "region_code":"Daejeon",
-            "sub_region_code":"3020000000_Daejeon_Yuseong"
+            "sub_region_code":"3020000000_Daejeon_Yuseong",
+            "shorten_url":"https:\/\/me2.do\/F5LoyzFj"
         },
         {
             "index":37,
@@ -502,7 +543,8 @@
             "value_score":55.88775,
             "region":"대전시 유성구",
             "region_code":"Daejeon",
-            "sub_region_code":"3020000000_Daejeon_Yuseong"
+            "sub_region_code":"3020000000_Daejeon_Yuseong",
+            "shorten_url":"https:\/\/me2.do\/F5LoyzFj"
         },
         {
             "index":38,
@@ -514,7 +556,8 @@
             "value_score":54.37125,
             "region":"대전시 유성구",
             "region_code":"Daejeon",
-            "sub_region_code":"3020000000_Daejeon_Yuseong"
+            "sub_region_code":"3020000000_Daejeon_Yuseong",
+            "shorten_url":"https:\/\/me2.do\/F5LoyzFj"
         },
         {
             "index":39,
@@ -526,7 +569,8 @@
             "value_score":54.3635,
             "region":"대전시 유성구",
             "region_code":"Daejeon",
-            "sub_region_code":"3020000000_Daejeon_Yuseong"
+            "sub_region_code":"3020000000_Daejeon_Yuseong",
+            "shorten_url":"https:\/\/me2.do\/F5LoyzFj"
         },
         {
             "index":40,
@@ -538,7 +582,8 @@
             "value_score":64.9755,
             "region":"대전시 유성구",
             "region_code":"Daejeon",
-            "sub_region_code":"3020000000_Daejeon_Yuseong"
+            "sub_region_code":"3020000000_Daejeon_Yuseong",
+            "shorten_url":"https:\/\/me2.do\/F5LoyzFj"
         },
         {
             "index":41,
@@ -550,7 +595,8 @@
             "value_score":64.4755,
             "region":"대전시 유성구",
             "region_code":"Daejeon",
-            "sub_region_code":"3020000000_Daejeon_Yuseong"
+            "sub_region_code":"3020000000_Daejeon_Yuseong",
+            "shorten_url":"https:\/\/me2.do\/F5LoyzFj"
         },
         {
             "index":42,
@@ -562,7 +608,8 @@
             "value_score":63.3425,
             "region":"대전시 유성구",
             "region_code":"Daejeon",
-            "sub_region_code":"3020000000_Daejeon_Yuseong"
+            "sub_region_code":"3020000000_Daejeon_Yuseong",
+            "shorten_url":"https:\/\/me2.do\/F5LoyzFj"
         },
         {
             "index":43,
@@ -574,7 +621,8 @@
             "value_score":62.6425,
             "region":"대전시 유성구",
             "region_code":"Daejeon",
-            "sub_region_code":"3020000000_Daejeon_Yuseong"
+            "sub_region_code":"3020000000_Daejeon_Yuseong",
+            "shorten_url":"https:\/\/me2.do\/F5LoyzFj"
         },
         {
             "index":44,
@@ -586,7 +634,8 @@
             "value_score":61.8495,
             "region":"대전시 유성구",
             "region_code":"Daejeon",
-            "sub_region_code":"3020000000_Daejeon_Yuseong"
+            "sub_region_code":"3020000000_Daejeon_Yuseong",
+            "shorten_url":"https:\/\/me2.do\/F5LoyzFj"
         },
         {
             "index":45,
@@ -598,7 +647,8 @@
             "value_score":61.6755,
             "region":"대전시 유성구",
             "region_code":"Daejeon",
-            "sub_region_code":"3020000000_Daejeon_Yuseong"
+            "sub_region_code":"3020000000_Daejeon_Yuseong",
+            "shorten_url":"https:\/\/me2.do\/F5LoyzFj"
         },
         {
             "index":46,
@@ -610,7 +660,8 @@
             "value_score":61.1425,
             "region":"대전시 유성구",
             "region_code":"Daejeon",
-            "sub_region_code":"3020000000_Daejeon_Yuseong"
+            "sub_region_code":"3020000000_Daejeon_Yuseong",
+            "shorten_url":"https:\/\/me2.do\/F5LoyzFj"
         },
         {
             "index":47,
@@ -622,7 +673,8 @@
             "value_score":60.8755,
             "region":"대전시 유성구",
             "region_code":"Daejeon",
-            "sub_region_code":"3020000000_Daejeon_Yuseong"
+            "sub_region_code":"3020000000_Daejeon_Yuseong",
+            "shorten_url":"https:\/\/me2.do\/F5LoyzFj"
         },
         {
             "index":48,
@@ -634,7 +686,8 @@
             "value_score":60.487,
             "region":"대전시 유성구",
             "region_code":"Daejeon",
-            "sub_region_code":"3020000000_Daejeon_Yuseong"
+            "sub_region_code":"3020000000_Daejeon_Yuseong",
+            "shorten_url":"https:\/\/me2.do\/F5LoyzFj"
         },
         {
             "index":49,
@@ -646,7 +699,8 @@
             "value_score":60.1755,
             "region":"대전시 유성구",
             "region_code":"Daejeon",
-            "sub_region_code":"3020000000_Daejeon_Yuseong"
+            "sub_region_code":"3020000000_Daejeon_Yuseong",
+            "shorten_url":"https:\/\/me2.do\/F5LoyzFj"
         }
     ]
 }

@@ -40,6 +40,10 @@
             {
                 "name":"sub_region_code",
                 "type":"string"
+            },
+            {
+                "name":"shorten_url",
+                "type":"string"
             }
         ],
         "primaryKey":[
@@ -58,7 +62,8 @@
             "value_score":60.10075,
             "region":"경기도 의정부시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4115000000_Gyeonggi_Uijeongbu"
+            "sub_region_code":"4115000000_Gyeonggi_Uijeongbu",
+            "shorten_url":"https:\/\/me2.do\/55njquVL"
         },
         {
             "index":1,
@@ -70,7 +75,8 @@
             "value_score":59.7738,
             "region":"경기도 의정부시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4115000000_Gyeonggi_Uijeongbu"
+            "sub_region_code":"4115000000_Gyeonggi_Uijeongbu",
+            "shorten_url":"https:\/\/me2.do\/55njquVL"
         },
         {
             "index":2,
@@ -82,7 +88,8 @@
             "value_score":59.45075,
             "region":"경기도 의정부시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4115000000_Gyeonggi_Uijeongbu"
+            "sub_region_code":"4115000000_Gyeonggi_Uijeongbu",
+            "shorten_url":"https:\/\/me2.do\/55njquVL"
         },
         {
             "index":3,
@@ -94,7 +101,8 @@
             "value_score":58.81195,
             "region":"경기도 의정부시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4115000000_Gyeonggi_Uijeongbu"
+            "sub_region_code":"4115000000_Gyeonggi_Uijeongbu",
+            "shorten_url":"https:\/\/me2.do\/55njquVL"
         },
         {
             "index":4,
@@ -106,7 +114,8 @@
             "value_score":58.0254,
             "region":"경기도 의정부시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4115000000_Gyeonggi_Uijeongbu"
+            "sub_region_code":"4115000000_Gyeonggi_Uijeongbu",
+            "shorten_url":"https:\/\/me2.do\/55njquVL"
         },
         {
             "index":5,
@@ -118,7 +127,8 @@
             "value_score":57.8254,
             "region":"경기도 의정부시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4115000000_Gyeonggi_Uijeongbu"
+            "sub_region_code":"4115000000_Gyeonggi_Uijeongbu",
+            "shorten_url":"https:\/\/me2.do\/55njquVL"
         },
         {
             "index":6,
@@ -130,7 +140,8 @@
             "value_score":56.8254,
             "region":"경기도 의정부시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4115000000_Gyeonggi_Uijeongbu"
+            "sub_region_code":"4115000000_Gyeonggi_Uijeongbu",
+            "shorten_url":"https:\/\/me2.do\/55njquVL"
         },
         {
             "index":7,
@@ -142,7 +153,8 @@
             "value_score":56.2987,
             "region":"경기도 의정부시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4115000000_Gyeonggi_Uijeongbu"
+            "sub_region_code":"4115000000_Gyeonggi_Uijeongbu",
+            "shorten_url":"https:\/\/me2.do\/55njquVL"
         },
         {
             "index":8,
@@ -154,7 +166,8 @@
             "value_score":55.52195,
             "region":"경기도 의정부시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4115000000_Gyeonggi_Uijeongbu"
+            "sub_region_code":"4115000000_Gyeonggi_Uijeongbu",
+            "shorten_url":"https:\/\/me2.do\/55njquVL"
         },
         {
             "index":9,
@@ -166,7 +179,8 @@
             "value_score":55.4754,
             "region":"경기도 의정부시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4115000000_Gyeonggi_Uijeongbu"
+            "sub_region_code":"4115000000_Gyeonggi_Uijeongbu",
+            "shorten_url":"https:\/\/me2.do\/55njquVL"
         },
         {
             "index":10,
@@ -178,7 +192,8 @@
             "value_score":65.7672,
             "region":"경기도 의정부시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4115000000_Gyeonggi_Uijeongbu"
+            "sub_region_code":"4115000000_Gyeonggi_Uijeongbu",
+            "shorten_url":"https:\/\/me2.do\/55njquVL"
         },
         {
             "index":11,
@@ -190,7 +205,8 @@
             "value_score":65.551,
             "region":"경기도 의정부시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4115000000_Gyeonggi_Uijeongbu"
+            "sub_region_code":"4115000000_Gyeonggi_Uijeongbu",
+            "shorten_url":"https:\/\/me2.do\/55njquVL"
         },
         {
             "index":12,
@@ -202,7 +218,8 @@
             "value_score":65.2538,
             "region":"경기도 의정부시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4115000000_Gyeonggi_Uijeongbu"
+            "sub_region_code":"4115000000_Gyeonggi_Uijeongbu",
+            "shorten_url":"https:\/\/me2.do\/55njquVL"
         },
         {
             "index":13,
@@ -214,7 +231,8 @@
             "value_score":64.9672,
             "region":"경기도 의정부시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4115000000_Gyeonggi_Uijeongbu"
+            "sub_region_code":"4115000000_Gyeonggi_Uijeongbu",
+            "shorten_url":"https:\/\/me2.do\/55njquVL"
         },
         {
             "index":14,
@@ -226,7 +244,8 @@
             "value_score":64.2862,
             "region":"경기도 의정부시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4115000000_Gyeonggi_Uijeongbu"
+            "sub_region_code":"4115000000_Gyeonggi_Uijeongbu",
+            "shorten_url":"https:\/\/me2.do\/55njquVL"
         },
         {
             "index":15,
@@ -238,7 +257,8 @@
             "value_score":63.9484,
             "region":"경기도 의정부시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4115000000_Gyeonggi_Uijeongbu"
+            "sub_region_code":"4115000000_Gyeonggi_Uijeongbu",
+            "shorten_url":"https:\/\/me2.do\/55njquVL"
         },
         {
             "index":16,
@@ -250,7 +270,8 @@
             "value_score":63.5826,
             "region":"경기도 의정부시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4115000000_Gyeonggi_Uijeongbu"
+            "sub_region_code":"4115000000_Gyeonggi_Uijeongbu",
+            "shorten_url":"https:\/\/me2.do\/55njquVL"
         },
         {
             "index":17,
@@ -262,7 +283,8 @@
             "value_score":63.051,
             "region":"경기도 의정부시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4115000000_Gyeonggi_Uijeongbu"
+            "sub_region_code":"4115000000_Gyeonggi_Uijeongbu",
+            "shorten_url":"https:\/\/me2.do\/55njquVL"
         },
         {
             "index":18,
@@ -274,7 +296,8 @@
             "value_score":63.0172,
             "region":"경기도 의정부시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4115000000_Gyeonggi_Uijeongbu"
+            "sub_region_code":"4115000000_Gyeonggi_Uijeongbu",
+            "shorten_url":"https:\/\/me2.do\/55njquVL"
         },
         {
             "index":19,
@@ -286,7 +309,8 @@
             "value_score":61.0952,
             "region":"경기도 의정부시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4115000000_Gyeonggi_Uijeongbu"
+            "sub_region_code":"4115000000_Gyeonggi_Uijeongbu",
+            "shorten_url":"https:\/\/me2.do\/55njquVL"
         },
         {
             "index":20,
@@ -298,7 +322,8 @@
             "value_score":56.1488,
             "region":"경기도 의정부시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4115000000_Gyeonggi_Uijeongbu"
+            "sub_region_code":"4115000000_Gyeonggi_Uijeongbu",
+            "shorten_url":"https:\/\/me2.do\/55njquVL"
         },
         {
             "index":21,
@@ -310,7 +335,8 @@
             "value_score":54.97575,
             "region":"경기도 의정부시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4115000000_Gyeonggi_Uijeongbu"
+            "sub_region_code":"4115000000_Gyeonggi_Uijeongbu",
+            "shorten_url":"https:\/\/me2.do\/55njquVL"
         },
         {
             "index":22,
@@ -322,7 +348,8 @@
             "value_score":54.7754,
             "region":"경기도 의정부시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4115000000_Gyeonggi_Uijeongbu"
+            "sub_region_code":"4115000000_Gyeonggi_Uijeongbu",
+            "shorten_url":"https:\/\/me2.do\/55njquVL"
         },
         {
             "index":23,
@@ -334,7 +361,8 @@
             "value_score":54.67575,
             "region":"경기도 의정부시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4115000000_Gyeonggi_Uijeongbu"
+            "sub_region_code":"4115000000_Gyeonggi_Uijeongbu",
+            "shorten_url":"https:\/\/me2.do\/55njquVL"
         },
         {
             "index":24,
@@ -346,7 +374,8 @@
             "value_score":54.1987,
             "region":"경기도 의정부시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4115000000_Gyeonggi_Uijeongbu"
+            "sub_region_code":"4115000000_Gyeonggi_Uijeongbu",
+            "shorten_url":"https:\/\/me2.do\/55njquVL"
         },
         {
             "index":25,
@@ -358,7 +387,8 @@
             "value_score":54.06195,
             "region":"경기도 의정부시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4115000000_Gyeonggi_Uijeongbu"
+            "sub_region_code":"4115000000_Gyeonggi_Uijeongbu",
+            "shorten_url":"https:\/\/me2.do\/55njquVL"
         },
         {
             "index":26,
@@ -370,7 +400,8 @@
             "value_score":53.8254,
             "region":"경기도 의정부시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4115000000_Gyeonggi_Uijeongbu"
+            "sub_region_code":"4115000000_Gyeonggi_Uijeongbu",
+            "shorten_url":"https:\/\/me2.do\/55njquVL"
         },
         {
             "index":27,
@@ -382,7 +413,8 @@
             "value_score":53.7504,
             "region":"경기도 의정부시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4115000000_Gyeonggi_Uijeongbu"
+            "sub_region_code":"4115000000_Gyeonggi_Uijeongbu",
+            "shorten_url":"https:\/\/me2.do\/55njquVL"
         },
         {
             "index":28,
@@ -394,7 +426,8 @@
             "value_score":53.2738,
             "region":"경기도 의정부시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4115000000_Gyeonggi_Uijeongbu"
+            "sub_region_code":"4115000000_Gyeonggi_Uijeongbu",
+            "shorten_url":"https:\/\/me2.do\/55njquVL"
         },
         {
             "index":29,
@@ -406,7 +439,8 @@
             "value_score":52.59335,
             "region":"경기도 의정부시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4115000000_Gyeonggi_Uijeongbu"
+            "sub_region_code":"4115000000_Gyeonggi_Uijeongbu",
+            "shorten_url":"https:\/\/me2.do\/55njquVL"
         },
         {
             "index":30,
@@ -418,7 +452,8 @@
             "value_score":68.95125,
             "region":"경기도 의정부시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4115000000_Gyeonggi_Uijeongbu"
+            "sub_region_code":"4115000000_Gyeonggi_Uijeongbu",
+            "shorten_url":"https:\/\/me2.do\/55njquVL"
         },
         {
             "index":31,
@@ -430,7 +465,8 @@
             "value_score":66.00125,
             "region":"경기도 의정부시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4115000000_Gyeonggi_Uijeongbu"
+            "sub_region_code":"4115000000_Gyeonggi_Uijeongbu",
+            "shorten_url":"https:\/\/me2.do\/55njquVL"
         },
         {
             "index":32,
@@ -442,7 +478,8 @@
             "value_score":65.75325,
             "region":"경기도 의정부시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4115000000_Gyeonggi_Uijeongbu"
+            "sub_region_code":"4115000000_Gyeonggi_Uijeongbu",
+            "shorten_url":"https:\/\/me2.do\/55njquVL"
         },
         {
             "index":33,
@@ -454,7 +491,8 @@
             "value_score":65.00325,
             "region":"경기도 의정부시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4115000000_Gyeonggi_Uijeongbu"
+            "sub_region_code":"4115000000_Gyeonggi_Uijeongbu",
+            "shorten_url":"https:\/\/me2.do\/55njquVL"
         },
         {
             "index":34,
@@ -466,7 +504,8 @@
             "value_score":64.659,
             "region":"경기도 의정부시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4115000000_Gyeonggi_Uijeongbu"
+            "sub_region_code":"4115000000_Gyeonggi_Uijeongbu",
+            "shorten_url":"https:\/\/me2.do\/55njquVL"
         },
         {
             "index":35,
@@ -478,7 +517,8 @@
             "value_score":64.173,
             "region":"경기도 의정부시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4115000000_Gyeonggi_Uijeongbu"
+            "sub_region_code":"4115000000_Gyeonggi_Uijeongbu",
+            "shorten_url":"https:\/\/me2.do\/55njquVL"
         },
         {
             "index":36,
@@ -490,7 +530,8 @@
             "value_score":63.523,
             "region":"경기도 의정부시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4115000000_Gyeonggi_Uijeongbu"
+            "sub_region_code":"4115000000_Gyeonggi_Uijeongbu",
+            "shorten_url":"https:\/\/me2.do\/55njquVL"
         },
         {
             "index":37,
@@ -502,7 +543,8 @@
             "value_score":63.109,
             "region":"경기도 의정부시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4115000000_Gyeonggi_Uijeongbu"
+            "sub_region_code":"4115000000_Gyeonggi_Uijeongbu",
+            "shorten_url":"https:\/\/me2.do\/55njquVL"
         },
         {
             "index":38,
@@ -514,7 +556,8 @@
             "value_score":63.009,
             "region":"경기도 의정부시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4115000000_Gyeonggi_Uijeongbu"
+            "sub_region_code":"4115000000_Gyeonggi_Uijeongbu",
+            "shorten_url":"https:\/\/me2.do\/55njquVL"
         },
         {
             "index":39,
@@ -526,7 +569,8 @@
             "value_score":62.459,
             "region":"경기도 의정부시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4115000000_Gyeonggi_Uijeongbu"
+            "sub_region_code":"4115000000_Gyeonggi_Uijeongbu",
+            "shorten_url":"https:\/\/me2.do\/55njquVL"
         },
         {
             "index":40,
@@ -538,7 +582,8 @@
             "value_score":64.8025,
             "region":"경기도 의정부시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4115000000_Gyeonggi_Uijeongbu"
+            "sub_region_code":"4115000000_Gyeonggi_Uijeongbu",
+            "shorten_url":"https:\/\/me2.do\/55njquVL"
         },
         {
             "index":41,
@@ -550,7 +595,8 @@
             "value_score":64.7025,
             "region":"경기도 의정부시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4115000000_Gyeonggi_Uijeongbu"
+            "sub_region_code":"4115000000_Gyeonggi_Uijeongbu",
+            "shorten_url":"https:\/\/me2.do\/55njquVL"
         },
         {
             "index":42,
@@ -562,7 +608,8 @@
             "value_score":63.118,
             "region":"경기도 의정부시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4115000000_Gyeonggi_Uijeongbu"
+            "sub_region_code":"4115000000_Gyeonggi_Uijeongbu",
+            "shorten_url":"https:\/\/me2.do\/55njquVL"
         },
         {
             "index":43,
@@ -574,7 +621,8 @@
             "value_score":63.1065,
             "region":"경기도 의정부시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4115000000_Gyeonggi_Uijeongbu"
+            "sub_region_code":"4115000000_Gyeonggi_Uijeongbu",
+            "shorten_url":"https:\/\/me2.do\/55njquVL"
         },
         {
             "index":44,
@@ -586,7 +634,8 @@
             "value_score":61.546,
             "region":"경기도 의정부시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4115000000_Gyeonggi_Uijeongbu"
+            "sub_region_code":"4115000000_Gyeonggi_Uijeongbu",
+            "shorten_url":"https:\/\/me2.do\/55njquVL"
         },
         {
             "index":45,
@@ -598,7 +647,8 @@
             "value_score":61.118,
             "region":"경기도 의정부시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4115000000_Gyeonggi_Uijeongbu"
+            "sub_region_code":"4115000000_Gyeonggi_Uijeongbu",
+            "shorten_url":"https:\/\/me2.do\/55njquVL"
         },
         {
             "index":46,
@@ -610,7 +660,8 @@
             "value_score":60.618,
             "region":"경기도 의정부시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4115000000_Gyeonggi_Uijeongbu"
+            "sub_region_code":"4115000000_Gyeonggi_Uijeongbu",
+            "shorten_url":"https:\/\/me2.do\/55njquVL"
         },
         {
             "index":47,
@@ -622,7 +673,8 @@
             "value_score":60.218,
             "region":"경기도 의정부시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4115000000_Gyeonggi_Uijeongbu"
+            "sub_region_code":"4115000000_Gyeonggi_Uijeongbu",
+            "shorten_url":"https:\/\/me2.do\/55njquVL"
         },
         {
             "index":48,
@@ -634,7 +686,8 @@
             "value_score":59.9065,
             "region":"경기도 의정부시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4115000000_Gyeonggi_Uijeongbu"
+            "sub_region_code":"4115000000_Gyeonggi_Uijeongbu",
+            "shorten_url":"https:\/\/me2.do\/55njquVL"
         },
         {
             "index":49,
@@ -646,7 +699,8 @@
             "value_score":59.218,
             "region":"경기도 의정부시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4115000000_Gyeonggi_Uijeongbu"
+            "sub_region_code":"4115000000_Gyeonggi_Uijeongbu",
+            "shorten_url":"https:\/\/me2.do\/55njquVL"
         }
     ]
 }

@@ -40,6 +40,10 @@
             {
                 "name":"sub_region_code",
                 "type":"string"
+            },
+            {
+                "name":"shorten_url",
+                "type":"string"
             }
         ],
         "primaryKey":[
@@ -58,7 +62,8 @@
             "value_score":62.4797,
             "region":"전라북도 군산시",
             "region_code":"Jeollabukdo",
-            "sub_region_code":"4513000000_Jeollabukdo_Gunsan"
+            "sub_region_code":"4513000000_Jeollabukdo_Gunsan",
+            "shorten_url":"https:\/\/me2.do\/FjxWQTpu"
         },
         {
             "index":1,
@@ -70,7 +75,8 @@
             "value_score":62.0547,
             "region":"전라북도 군산시",
             "region_code":"Jeollabukdo",
-            "sub_region_code":"4513000000_Jeollabukdo_Gunsan"
+            "sub_region_code":"4513000000_Jeollabukdo_Gunsan",
+            "shorten_url":"https:\/\/me2.do\/FjxWQTpu"
         },
         {
             "index":2,
@@ -82,7 +88,8 @@
             "value_score":60.8297,
             "region":"전라북도 군산시",
             "region_code":"Jeollabukdo",
-            "sub_region_code":"4513000000_Jeollabukdo_Gunsan"
+            "sub_region_code":"4513000000_Jeollabukdo_Gunsan",
+            "shorten_url":"https:\/\/me2.do\/FjxWQTpu"
         },
         {
             "index":3,
@@ -94,7 +101,8 @@
             "value_score":60.7297,
             "region":"전라북도 군산시",
             "region_code":"Jeollabukdo",
-            "sub_region_code":"4513000000_Jeollabukdo_Gunsan"
+            "sub_region_code":"4513000000_Jeollabukdo_Gunsan",
+            "shorten_url":"https:\/\/me2.do\/FjxWQTpu"
         },
         {
             "index":4,
@@ -106,7 +114,8 @@
             "value_score":59.0242,
             "region":"전라북도 군산시",
             "region_code":"Jeollabukdo",
-            "sub_region_code":"4513000000_Jeollabukdo_Gunsan"
+            "sub_region_code":"4513000000_Jeollabukdo_Gunsan",
+            "shorten_url":"https:\/\/me2.do\/FjxWQTpu"
         },
         {
             "index":5,
@@ -118,7 +127,8 @@
             "value_score":58.3742,
             "region":"전라북도 군산시",
             "region_code":"Jeollabukdo",
-            "sub_region_code":"4513000000_Jeollabukdo_Gunsan"
+            "sub_region_code":"4513000000_Jeollabukdo_Gunsan",
+            "shorten_url":"https:\/\/me2.do\/FjxWQTpu"
         },
         {
             "index":6,
@@ -130,7 +140,8 @@
             "value_score":58.21385,
             "region":"전라북도 군산시",
             "region_code":"Jeollabukdo",
-            "sub_region_code":"4513000000_Jeollabukdo_Gunsan"
+            "sub_region_code":"4513000000_Jeollabukdo_Gunsan",
+            "shorten_url":"https:\/\/me2.do\/FjxWQTpu"
         },
         {
             "index":7,
@@ -142,7 +153,8 @@
             "value_score":57.8997,
             "region":"전라북도 군산시",
             "region_code":"Jeollabukdo",
-            "sub_region_code":"4513000000_Jeollabukdo_Gunsan"
+            "sub_region_code":"4513000000_Jeollabukdo_Gunsan",
+            "shorten_url":"https:\/\/me2.do\/FjxWQTpu"
         },
         {
             "index":8,
@@ -154,7 +166,8 @@
             "value_score":57.8907716268,
             "region":"전라북도 군산시",
             "region_code":"Jeollabukdo",
-            "sub_region_code":"4513000000_Jeollabukdo_Gunsan"
+            "sub_region_code":"4513000000_Jeollabukdo_Gunsan",
+            "shorten_url":"https:\/\/me2.do\/FjxWQTpu"
         },
         {
             "index":9,
@@ -166,7 +179,8 @@
             "value_score":57.11385,
             "region":"전라북도 군산시",
             "region_code":"Jeollabukdo",
-            "sub_region_code":"4513000000_Jeollabukdo_Gunsan"
+            "sub_region_code":"4513000000_Jeollabukdo_Gunsan",
+            "shorten_url":"https:\/\/me2.do\/FjxWQTpu"
         },
         {
             "index":10,
@@ -178,7 +192,8 @@
             "value_score":62.7355,
             "region":"전라북도 군산시",
             "region_code":"Jeollabukdo",
-            "sub_region_code":"4513000000_Jeollabukdo_Gunsan"
+            "sub_region_code":"4513000000_Jeollabukdo_Gunsan",
+            "shorten_url":"https:\/\/me2.do\/FjxWQTpu"
         },
         {
             "index":11,
@@ -190,7 +205,8 @@
             "value_score":61.8605,
             "region":"전라북도 군산시",
             "region_code":"Jeollabukdo",
-            "sub_region_code":"4513000000_Jeollabukdo_Gunsan"
+            "sub_region_code":"4513000000_Jeollabukdo_Gunsan",
+            "shorten_url":"https:\/\/me2.do\/FjxWQTpu"
         },
         {
             "index":12,
@@ -202,7 +218,8 @@
             "value_score":61.65275,
             "region":"전라북도 군산시",
             "region_code":"Jeollabukdo",
-            "sub_region_code":"4513000000_Jeollabukdo_Gunsan"
+            "sub_region_code":"4513000000_Jeollabukdo_Gunsan",
+            "shorten_url":"https:\/\/me2.do\/FjxWQTpu"
         },
         {
             "index":13,
@@ -214,7 +231,8 @@
             "value_score":61.2855,
             "region":"전라북도 군산시",
             "region_code":"Jeollabukdo",
-            "sub_region_code":"4513000000_Jeollabukdo_Gunsan"
+            "sub_region_code":"4513000000_Jeollabukdo_Gunsan",
+            "shorten_url":"https:\/\/me2.do\/FjxWQTpu"
         },
         {
             "index":14,
@@ -226,7 +244,8 @@
             "value_score":60.9855,
             "region":"전라북도 군산시",
             "region_code":"Jeollabukdo",
-            "sub_region_code":"4513000000_Jeollabukdo_Gunsan"
+            "sub_region_code":"4513000000_Jeollabukdo_Gunsan",
+            "shorten_url":"https:\/\/me2.do\/FjxWQTpu"
         },
         {
             "index":15,
@@ -238,7 +257,8 @@
             "value_score":60.65275,
             "region":"전라북도 군산시",
             "region_code":"Jeollabukdo",
-            "sub_region_code":"4513000000_Jeollabukdo_Gunsan"
+            "sub_region_code":"4513000000_Jeollabukdo_Gunsan",
+            "shorten_url":"https:\/\/me2.do\/FjxWQTpu"
         },
         {
             "index":16,
@@ -250,7 +270,8 @@
             "value_score":60.4855,
             "region":"전라북도 군산시",
             "region_code":"Jeollabukdo",
-            "sub_region_code":"4513000000_Jeollabukdo_Gunsan"
+            "sub_region_code":"4513000000_Jeollabukdo_Gunsan",
+            "shorten_url":"https:\/\/me2.do\/FjxWQTpu"
         },
         {
             "index":17,
@@ -262,7 +283,8 @@
             "value_score":59.40275,
             "region":"전라북도 군산시",
             "region_code":"Jeollabukdo",
-            "sub_region_code":"4513000000_Jeollabukdo_Gunsan"
+            "sub_region_code":"4513000000_Jeollabukdo_Gunsan",
+            "shorten_url":"https:\/\/me2.do\/FjxWQTpu"
         },
         {
             "index":18,
@@ -274,7 +296,8 @@
             "value_score":59.053,
             "region":"전라북도 군산시",
             "region_code":"Jeollabukdo",
-            "sub_region_code":"4513000000_Jeollabukdo_Gunsan"
+            "sub_region_code":"4513000000_Jeollabukdo_Gunsan",
+            "shorten_url":"https:\/\/me2.do\/FjxWQTpu"
         },
         {
             "index":19,
@@ -286,7 +309,8 @@
             "value_score":59.0291225906,
             "region":"전라북도 군산시",
             "region_code":"Jeollabukdo",
-            "sub_region_code":"4513000000_Jeollabukdo_Gunsan"
+            "sub_region_code":"4513000000_Jeollabukdo_Gunsan",
+            "shorten_url":"https:\/\/me2.do\/FjxWQTpu"
         },
         {
             "index":20,
@@ -298,7 +322,8 @@
             "value_score":60.1922105263,
             "region":"전라북도 군산시",
             "region_code":"Jeollabukdo",
-            "sub_region_code":"4513000000_Jeollabukdo_Gunsan"
+            "sub_region_code":"4513000000_Jeollabukdo_Gunsan",
+            "shorten_url":"https:\/\/me2.do\/FjxWQTpu"
         },
         {
             "index":21,
@@ -310,7 +335,8 @@
             "value_score":58.6395789474,
             "region":"전라북도 군산시",
             "region_code":"Jeollabukdo",
-            "sub_region_code":"4513000000_Jeollabukdo_Gunsan"
+            "sub_region_code":"4513000000_Jeollabukdo_Gunsan",
+            "shorten_url":"https:\/\/me2.do\/FjxWQTpu"
         },
         {
             "index":22,
@@ -322,7 +348,8 @@
             "value_score":58.1458947368,
             "region":"전라북도 군산시",
             "region_code":"Jeollabukdo",
-            "sub_region_code":"4513000000_Jeollabukdo_Gunsan"
+            "sub_region_code":"4513000000_Jeollabukdo_Gunsan",
+            "shorten_url":"https:\/\/me2.do\/FjxWQTpu"
         },
         {
             "index":23,
@@ -334,7 +361,8 @@
             "value_score":58.008,
             "region":"전라북도 군산시",
             "region_code":"Jeollabukdo",
-            "sub_region_code":"4513000000_Jeollabukdo_Gunsan"
+            "sub_region_code":"4513000000_Jeollabukdo_Gunsan",
+            "shorten_url":"https:\/\/me2.do\/FjxWQTpu"
         },
         {
             "index":24,
@@ -346,7 +374,8 @@
             "value_score":54.7248421053,
             "region":"전라북도 군산시",
             "region_code":"Jeollabukdo",
-            "sub_region_code":"4513000000_Jeollabukdo_Gunsan"
+            "sub_region_code":"4513000000_Jeollabukdo_Gunsan",
+            "shorten_url":"https:\/\/me2.do\/FjxWQTpu"
         },
         {
             "index":25,
@@ -358,7 +387,8 @@
             "value_score":54.4803157895,
             "region":"전라북도 군산시",
             "region_code":"Jeollabukdo",
-            "sub_region_code":"4513000000_Jeollabukdo_Gunsan"
+            "sub_region_code":"4513000000_Jeollabukdo_Gunsan",
+            "shorten_url":"https:\/\/me2.do\/FjxWQTpu"
         },
         {
             "index":26,
@@ -370,7 +400,8 @@
             "value_score":54.3237894737,
             "region":"전라북도 군산시",
             "region_code":"Jeollabukdo",
-            "sub_region_code":"4513000000_Jeollabukdo_Gunsan"
+            "sub_region_code":"4513000000_Jeollabukdo_Gunsan",
+            "shorten_url":"https:\/\/me2.do\/FjxWQTpu"
         },
         {
             "index":27,
@@ -382,7 +413,8 @@
             "value_score":52.0631022197,
             "region":"전라북도 군산시",
             "region_code":"Jeollabukdo",
-            "sub_region_code":"4513000000_Jeollabukdo_Gunsan"
+            "sub_region_code":"4513000000_Jeollabukdo_Gunsan",
+            "shorten_url":"https:\/\/me2.do\/FjxWQTpu"
         },
         {
             "index":28,
@@ -394,7 +426,8 @@
             "value_score":51.5606315789,
             "region":"전라북도 군산시",
             "region_code":"Jeollabukdo",
-            "sub_region_code":"4513000000_Jeollabukdo_Gunsan"
+            "sub_region_code":"4513000000_Jeollabukdo_Gunsan",
+            "shorten_url":"https:\/\/me2.do\/FjxWQTpu"
         },
         {
             "index":29,
@@ -406,7 +439,8 @@
             "value_score":51.3301052632,
             "region":"전라북도 군산시",
             "region_code":"Jeollabukdo",
-            "sub_region_code":"4513000000_Jeollabukdo_Gunsan"
+            "sub_region_code":"4513000000_Jeollabukdo_Gunsan",
+            "shorten_url":"https:\/\/me2.do\/FjxWQTpu"
         },
         {
             "index":30,
@@ -418,7 +452,8 @@
             "value_score":62.346,
             "region":"전라북도 군산시",
             "region_code":"Jeollabukdo",
-            "sub_region_code":"4513000000_Jeollabukdo_Gunsan"
+            "sub_region_code":"4513000000_Jeollabukdo_Gunsan",
+            "shorten_url":"https:\/\/me2.do\/FjxWQTpu"
         },
         {
             "index":31,
@@ -430,7 +465,8 @@
             "value_score":62.096,
             "region":"전라북도 군산시",
             "region_code":"Jeollabukdo",
-            "sub_region_code":"4513000000_Jeollabukdo_Gunsan"
+            "sub_region_code":"4513000000_Jeollabukdo_Gunsan",
+            "shorten_url":"https:\/\/me2.do\/FjxWQTpu"
         },
         {
             "index":32,
@@ -442,7 +478,8 @@
             "value_score":61.346,
             "region":"전라북도 군산시",
             "region_code":"Jeollabukdo",
-            "sub_region_code":"4513000000_Jeollabukdo_Gunsan"
+            "sub_region_code":"4513000000_Jeollabukdo_Gunsan",
+            "shorten_url":"https:\/\/me2.do\/FjxWQTpu"
         },
         {
             "index":33,
@@ -454,7 +491,8 @@
             "value_score":60.346,
             "region":"전라북도 군산시",
             "region_code":"Jeollabukdo",
-            "sub_region_code":"4513000000_Jeollabukdo_Gunsan"
+            "sub_region_code":"4513000000_Jeollabukdo_Gunsan",
+            "shorten_url":"https:\/\/me2.do\/FjxWQTpu"
         },
         {
             "index":34,
@@ -466,7 +504,8 @@
             "value_score":59.981,
             "region":"전라북도 군산시",
             "region_code":"Jeollabukdo",
-            "sub_region_code":"4513000000_Jeollabukdo_Gunsan"
+            "sub_region_code":"4513000000_Jeollabukdo_Gunsan",
+            "shorten_url":"https:\/\/me2.do\/FjxWQTpu"
         },
         {
             "index":35,
@@ -478,7 +517,8 @@
             "value_score":59.581,
             "region":"전라북도 군산시",
             "region_code":"Jeollabukdo",
-            "sub_region_code":"4513000000_Jeollabukdo_Gunsan"
+            "sub_region_code":"4513000000_Jeollabukdo_Gunsan",
+            "shorten_url":"https:\/\/me2.do\/FjxWQTpu"
         },
         {
             "index":36,
@@ -490,7 +530,8 @@
             "value_score":56.1832451811,
             "region":"전라북도 군산시",
             "region_code":"Jeollabukdo",
-            "sub_region_code":"4513000000_Jeollabukdo_Gunsan"
+            "sub_region_code":"4513000000_Jeollabukdo_Gunsan",
+            "shorten_url":"https:\/\/me2.do\/FjxWQTpu"
         },
         {
             "index":37,
@@ -502,7 +543,8 @@
             "value_score":55.971,
             "region":"전라북도 군산시",
             "region_code":"Jeollabukdo",
-            "sub_region_code":"4513000000_Jeollabukdo_Gunsan"
+            "sub_region_code":"4513000000_Jeollabukdo_Gunsan",
+            "shorten_url":"https:\/\/me2.do\/FjxWQTpu"
         },
         {
             "index":38,
@@ -514,7 +556,8 @@
             "value_score":55.731,
             "region":"전라북도 군산시",
             "region_code":"Jeollabukdo",
-            "sub_region_code":"4513000000_Jeollabukdo_Gunsan"
+            "sub_region_code":"4513000000_Jeollabukdo_Gunsan",
+            "shorten_url":"https:\/\/me2.do\/FjxWQTpu"
         },
         {
             "index":39,
@@ -526,7 +569,8 @@
             "value_score":55.696,
             "region":"전라북도 군산시",
             "region_code":"Jeollabukdo",
-            "sub_region_code":"4513000000_Jeollabukdo_Gunsan"
+            "sub_region_code":"4513000000_Jeollabukdo_Gunsan",
+            "shorten_url":"https:\/\/me2.do\/FjxWQTpu"
         }
     ]
 }

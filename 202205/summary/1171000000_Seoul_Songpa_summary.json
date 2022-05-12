@@ -40,6 +40,10 @@
             {
                 "name":"sub_region_code",
                 "type":"string"
+            },
+            {
+                "name":"shorten_url",
+                "type":"string"
             }
         ],
         "primaryKey":[
@@ -58,7 +62,8 @@
             "value_score":81.1510603866,
             "region":"서울시 송파구",
             "region_code":"Seoul",
-            "sub_region_code":"1171000000_Seoul_Songpa"
+            "sub_region_code":"1171000000_Seoul_Songpa",
+            "shorten_url":"https:\/\/me2.do\/xdV0Gcrr"
         },
         {
             "index":1,
@@ -70,7 +75,8 @@
             "value_score":80.0815,
             "region":"서울시 송파구",
             "region_code":"Seoul",
-            "sub_region_code":"1171000000_Seoul_Songpa"
+            "sub_region_code":"1171000000_Seoul_Songpa",
+            "shorten_url":"https:\/\/me2.do\/xdV0Gcrr"
         },
         {
             "index":2,
@@ -82,7 +88,8 @@
             "value_score":75.1961,
             "region":"서울시 송파구",
             "region_code":"Seoul",
-            "sub_region_code":"1171000000_Seoul_Songpa"
+            "sub_region_code":"1171000000_Seoul_Songpa",
+            "shorten_url":"https:\/\/me2.do\/xdV0Gcrr"
         },
         {
             "index":3,
@@ -94,7 +101,8 @@
             "value_score":74.0582,
             "region":"서울시 송파구",
             "region_code":"Seoul",
-            "sub_region_code":"1171000000_Seoul_Songpa"
+            "sub_region_code":"1171000000_Seoul_Songpa",
+            "shorten_url":"https:\/\/me2.do\/xdV0Gcrr"
         },
         {
             "index":4,
@@ -106,7 +114,8 @@
             "value_score":73.3552,
             "region":"서울시 송파구",
             "region_code":"Seoul",
-            "sub_region_code":"1171000000_Seoul_Songpa"
+            "sub_region_code":"1171000000_Seoul_Songpa",
+            "shorten_url":"https:\/\/me2.do\/xdV0Gcrr"
         },
         {
             "index":5,
@@ -118,7 +127,8 @@
             "value_score":73.1911,
             "region":"서울시 송파구",
             "region_code":"Seoul",
-            "sub_region_code":"1171000000_Seoul_Songpa"
+            "sub_region_code":"1171000000_Seoul_Songpa",
+            "shorten_url":"https:\/\/me2.do\/xdV0Gcrr"
         },
         {
             "index":6,
@@ -130,7 +140,8 @@
             "value_score":72.3961,
             "region":"서울시 송파구",
             "region_code":"Seoul",
-            "sub_region_code":"1171000000_Seoul_Songpa"
+            "sub_region_code":"1171000000_Seoul_Songpa",
+            "shorten_url":"https:\/\/me2.do\/xdV0Gcrr"
         },
         {
             "index":7,
@@ -142,7 +153,8 @@
             "value_score":69.5461,
             "region":"서울시 송파구",
             "region_code":"Seoul",
-            "sub_region_code":"1171000000_Seoul_Songpa"
+            "sub_region_code":"1171000000_Seoul_Songpa",
+            "shorten_url":"https:\/\/me2.do\/xdV0Gcrr"
         },
         {
             "index":8,
@@ -154,7 +166,8 @@
             "value_score":69.1136,
             "region":"서울시 송파구",
             "region_code":"Seoul",
-            "sub_region_code":"1171000000_Seoul_Songpa"
+            "sub_region_code":"1171000000_Seoul_Songpa",
+            "shorten_url":"https:\/\/me2.do\/xdV0Gcrr"
         },
         {
             "index":9,
@@ -166,7 +179,8 @@
             "value_score":68.8996,
             "region":"서울시 송파구",
             "region_code":"Seoul",
-            "sub_region_code":"1171000000_Seoul_Songpa"
+            "sub_region_code":"1171000000_Seoul_Songpa",
+            "shorten_url":"https:\/\/me2.do\/xdV0Gcrr"
         },
         {
             "index":10,
@@ -178,7 +192,8 @@
             "value_score":81.367373591,
             "region":"서울시 송파구",
             "region_code":"Seoul",
-            "sub_region_code":"1171000000_Seoul_Songpa"
+            "sub_region_code":"1171000000_Seoul_Songpa",
+            "shorten_url":"https:\/\/me2.do\/xdV0Gcrr"
         },
         {
             "index":11,
@@ -190,7 +205,8 @@
             "value_score":80.421,
             "region":"서울시 송파구",
             "region_code":"Seoul",
-            "sub_region_code":"1171000000_Seoul_Songpa"
+            "sub_region_code":"1171000000_Seoul_Songpa",
+            "shorten_url":"https:\/\/me2.do\/xdV0Gcrr"
         },
         {
             "index":12,
@@ -202,7 +218,8 @@
             "value_score":78.1388,
             "region":"서울시 송파구",
             "region_code":"Seoul",
-            "sub_region_code":"1171000000_Seoul_Songpa"
+            "sub_region_code":"1171000000_Seoul_Songpa",
+            "shorten_url":"https:\/\/me2.do\/xdV0Gcrr"
         },
         {
             "index":13,
@@ -214,7 +231,8 @@
             "value_score":76.2874,
             "region":"서울시 송파구",
             "region_code":"Seoul",
-            "sub_region_code":"1171000000_Seoul_Songpa"
+            "sub_region_code":"1171000000_Seoul_Songpa",
+            "shorten_url":"https:\/\/me2.do\/xdV0Gcrr"
         },
         {
             "index":14,
@@ -226,7 +244,8 @@
             "value_score":75.1368,
             "region":"서울시 송파구",
             "region_code":"Seoul",
-            "sub_region_code":"1171000000_Seoul_Songpa"
+            "sub_region_code":"1171000000_Seoul_Songpa",
+            "shorten_url":"https:\/\/me2.do\/xdV0Gcrr"
         },
         {
             "index":15,
@@ -238,7 +257,8 @@
             "value_score":73.5474,
             "region":"서울시 송파구",
             "region_code":"Seoul",
-            "sub_region_code":"1171000000_Seoul_Songpa"
+            "sub_region_code":"1171000000_Seoul_Songpa",
+            "shorten_url":"https:\/\/me2.do\/xdV0Gcrr"
         },
         {
             "index":16,
@@ -250,7 +270,8 @@
             "value_score":72.5431534935,
             "region":"서울시 송파구",
             "region_code":"Seoul",
-            "sub_region_code":"1171000000_Seoul_Songpa"
+            "sub_region_code":"1171000000_Seoul_Songpa",
+            "shorten_url":"https:\/\/me2.do\/xdV0Gcrr"
         },
         {
             "index":17,
@@ -262,7 +283,8 @@
             "value_score":71.3474,
             "region":"서울시 송파구",
             "region_code":"Seoul",
-            "sub_region_code":"1171000000_Seoul_Songpa"
+            "sub_region_code":"1171000000_Seoul_Songpa",
+            "shorten_url":"https:\/\/me2.do\/xdV0Gcrr"
         },
         {
             "index":18,
@@ -274,7 +296,8 @@
             "value_score":70.2268,
             "region":"서울시 송파구",
             "region_code":"Seoul",
-            "sub_region_code":"1171000000_Seoul_Songpa"
+            "sub_region_code":"1171000000_Seoul_Songpa",
+            "shorten_url":"https:\/\/me2.do\/xdV0Gcrr"
         },
         {
             "index":19,
@@ -286,7 +309,8 @@
             "value_score":69.9212,
             "region":"서울시 송파구",
             "region_code":"Seoul",
-            "sub_region_code":"1171000000_Seoul_Songpa"
+            "sub_region_code":"1171000000_Seoul_Songpa",
+            "shorten_url":"https:\/\/me2.do\/xdV0Gcrr"
         },
         {
             "index":20,
@@ -298,7 +322,8 @@
             "value_score":85.0755301933,
             "region":"서울시 송파구",
             "region_code":"Seoul",
-            "sub_region_code":"1171000000_Seoul_Songpa"
+            "sub_region_code":"1171000000_Seoul_Songpa",
+            "shorten_url":"https:\/\/me2.do\/xdV0Gcrr"
         },
         {
             "index":21,
@@ -310,7 +335,8 @@
             "value_score":84.64075,
             "region":"서울시 송파구",
             "region_code":"Seoul",
-            "sub_region_code":"1171000000_Seoul_Songpa"
+            "sub_region_code":"1171000000_Seoul_Songpa",
+            "shorten_url":"https:\/\/me2.do\/xdV0Gcrr"
         },
         {
             "index":22,
@@ -322,7 +348,8 @@
             "value_score":82.39805,
             "region":"서울시 송파구",
             "region_code":"Seoul",
-            "sub_region_code":"1171000000_Seoul_Songpa"
+            "sub_region_code":"1171000000_Seoul_Songpa",
+            "shorten_url":"https:\/\/me2.do\/xdV0Gcrr"
         },
         {
             "index":23,
@@ -334,7 +361,8 @@
             "value_score":79.8208,
             "region":"서울시 송파구",
             "region_code":"Seoul",
-            "sub_region_code":"1171000000_Seoul_Songpa"
+            "sub_region_code":"1171000000_Seoul_Songpa",
+            "shorten_url":"https:\/\/me2.do\/xdV0Gcrr"
         },
         {
             "index":24,
@@ -346,7 +374,8 @@
             "value_score":78.77305,
             "region":"서울시 송파구",
             "region_code":"Seoul",
-            "sub_region_code":"1171000000_Seoul_Songpa"
+            "sub_region_code":"1171000000_Seoul_Songpa",
+            "shorten_url":"https:\/\/me2.do\/xdV0Gcrr"
         },
         {
             "index":25,
@@ -358,7 +387,8 @@
             "value_score":78.42305,
             "region":"서울시 송파구",
             "region_code":"Seoul",
-            "sub_region_code":"1171000000_Seoul_Songpa"
+            "sub_region_code":"1171000000_Seoul_Songpa",
+            "shorten_url":"https:\/\/me2.do\/xdV0Gcrr"
         },
         {
             "index":26,
@@ -370,7 +400,8 @@
             "value_score":77.79805,
             "region":"서울시 송파구",
             "region_code":"Seoul",
-            "sub_region_code":"1171000000_Seoul_Songpa"
+            "sub_region_code":"1171000000_Seoul_Songpa",
+            "shorten_url":"https:\/\/me2.do\/xdV0Gcrr"
         },
         {
             "index":27,
@@ -382,7 +413,8 @@
             "value_score":77.42305,
             "region":"서울시 송파구",
             "region_code":"Seoul",
-            "sub_region_code":"1171000000_Seoul_Songpa"
+            "sub_region_code":"1171000000_Seoul_Songpa",
+            "shorten_url":"https:\/\/me2.do\/xdV0Gcrr"
         },
         {
             "index":28,
@@ -394,7 +426,8 @@
             "value_score":77.3776,
             "region":"서울시 송파구",
             "region_code":"Seoul",
-            "sub_region_code":"1171000000_Seoul_Songpa"
+            "sub_region_code":"1171000000_Seoul_Songpa",
+            "shorten_url":"https:\/\/me2.do\/xdV0Gcrr"
         },
         {
             "index":29,
@@ -406,7 +439,8 @@
             "value_score":76.47305,
             "region":"서울시 송파구",
             "region_code":"Seoul",
-            "sub_region_code":"1171000000_Seoul_Songpa"
+            "sub_region_code":"1171000000_Seoul_Songpa",
+            "shorten_url":"https:\/\/me2.do\/xdV0Gcrr"
         },
         {
             "index":30,
@@ -418,7 +452,8 @@
             "value_score":82.1592169888,
             "region":"서울시 송파구",
             "region_code":"Seoul",
-            "sub_region_code":"1171000000_Seoul_Songpa"
+            "sub_region_code":"1171000000_Seoul_Songpa",
+            "shorten_url":"https:\/\/me2.do\/xdV0Gcrr"
         },
         {
             "index":31,
@@ -430,7 +465,8 @@
             "value_score":81.75125,
             "region":"서울시 송파구",
             "region_code":"Seoul",
-            "sub_region_code":"1171000000_Seoul_Songpa"
+            "sub_region_code":"1171000000_Seoul_Songpa",
+            "shorten_url":"https:\/\/me2.do\/xdV0Gcrr"
         },
         {
             "index":32,
@@ -442,7 +478,8 @@
             "value_score":80.22175,
             "region":"서울시 송파구",
             "region_code":"Seoul",
-            "sub_region_code":"1171000000_Seoul_Songpa"
+            "sub_region_code":"1171000000_Seoul_Songpa",
+            "shorten_url":"https:\/\/me2.do\/xdV0Gcrr"
         },
         {
             "index":33,
@@ -454,7 +491,8 @@
             "value_score":76.27175,
             "region":"서울시 송파구",
             "region_code":"Seoul",
-            "sub_region_code":"1171000000_Seoul_Songpa"
+            "sub_region_code":"1171000000_Seoul_Songpa",
+            "shorten_url":"https:\/\/me2.do\/xdV0Gcrr"
         },
         {
             "index":34,
@@ -466,7 +504,8 @@
             "value_score":75.37175,
             "region":"서울시 송파구",
             "region_code":"Seoul",
-            "sub_region_code":"1171000000_Seoul_Songpa"
+            "sub_region_code":"1171000000_Seoul_Songpa",
+            "shorten_url":"https:\/\/me2.do\/xdV0Gcrr"
         },
         {
             "index":35,
@@ -478,7 +517,8 @@
             "value_score":75.32175,
             "region":"서울시 송파구",
             "region_code":"Seoul",
-            "sub_region_code":"1171000000_Seoul_Songpa"
+            "sub_region_code":"1171000000_Seoul_Songpa",
+            "shorten_url":"https:\/\/me2.do\/xdV0Gcrr"
         },
         {
             "index":36,
@@ -490,7 +530,8 @@
             "value_score":74.87175,
             "region":"서울시 송파구",
             "region_code":"Seoul",
-            "sub_region_code":"1171000000_Seoul_Songpa"
+            "sub_region_code":"1171000000_Seoul_Songpa",
+            "shorten_url":"https:\/\/me2.do\/xdV0Gcrr"
         },
         {
             "index":37,
@@ -502,7 +543,8 @@
             "value_score":74.158,
             "region":"서울시 송파구",
             "region_code":"Seoul",
-            "sub_region_code":"1171000000_Seoul_Songpa"
+            "sub_region_code":"1171000000_Seoul_Songpa",
+            "shorten_url":"https:\/\/me2.do\/xdV0Gcrr"
         },
         {
             "index":38,
@@ -514,7 +556,8 @@
             "value_score":74.158,
             "region":"서울시 송파구",
             "region_code":"Seoul",
-            "sub_region_code":"1171000000_Seoul_Songpa"
+            "sub_region_code":"1171000000_Seoul_Songpa",
+            "shorten_url":"https:\/\/me2.do\/xdV0Gcrr"
         },
         {
             "index":39,
@@ -526,7 +569,8 @@
             "value_score":73.97175,
             "region":"서울시 송파구",
             "region_code":"Seoul",
-            "sub_region_code":"1171000000_Seoul_Songpa"
+            "sub_region_code":"1171000000_Seoul_Songpa",
+            "shorten_url":"https:\/\/me2.do\/xdV0Gcrr"
         },
         {
             "index":40,
@@ -538,7 +582,8 @@
             "value_score":78.3184339776,
             "region":"서울시 송파구",
             "region_code":"Seoul",
-            "sub_region_code":"1171000000_Seoul_Songpa"
+            "sub_region_code":"1171000000_Seoul_Songpa",
+            "shorten_url":"https:\/\/me2.do\/xdV0Gcrr"
         },
         {
             "index":41,
@@ -550,7 +595,8 @@
             "value_score":76.7025,
             "region":"서울시 송파구",
             "region_code":"Seoul",
-            "sub_region_code":"1171000000_Seoul_Songpa"
+            "sub_region_code":"1171000000_Seoul_Songpa",
+            "shorten_url":"https:\/\/me2.do\/xdV0Gcrr"
         },
         {
             "index":42,
@@ -562,7 +608,8 @@
             "value_score":72.316,
             "region":"서울시 송파구",
             "region_code":"Seoul",
-            "sub_region_code":"1171000000_Seoul_Songpa"
+            "sub_region_code":"1171000000_Seoul_Songpa",
+            "shorten_url":"https:\/\/me2.do\/xdV0Gcrr"
         },
         {
             "index":43,
@@ -574,7 +621,8 @@
             "value_score":72.206,
             "region":"서울시 송파구",
             "region_code":"Seoul",
-            "sub_region_code":"1171000000_Seoul_Songpa"
+            "sub_region_code":"1171000000_Seoul_Songpa",
+            "shorten_url":"https:\/\/me2.do\/xdV0Gcrr"
         },
         {
             "index":44,
@@ -586,7 +634,8 @@
             "value_score":72.0435,
             "region":"서울시 송파구",
             "region_code":"Seoul",
-            "sub_region_code":"1171000000_Seoul_Songpa"
+            "sub_region_code":"1171000000_Seoul_Songpa",
+            "shorten_url":"https:\/\/me2.do\/xdV0Gcrr"
         },
         {
             "index":45,
@@ -598,7 +647,8 @@
             "value_score":70.997,
             "region":"서울시 송파구",
             "region_code":"Seoul",
-            "sub_region_code":"1171000000_Seoul_Songpa"
+            "sub_region_code":"1171000000_Seoul_Songpa",
+            "shorten_url":"https:\/\/me2.do\/xdV0Gcrr"
         },
         {
             "index":46,
@@ -610,7 +660,8 @@
             "value_score":69.8435,
             "region":"서울시 송파구",
             "region_code":"Seoul",
-            "sub_region_code":"1171000000_Seoul_Songpa"
+            "sub_region_code":"1171000000_Seoul_Songpa",
+            "shorten_url":"https:\/\/me2.do\/xdV0Gcrr"
         },
         {
             "index":47,
@@ -622,7 +673,8 @@
             "value_score":69.806,
             "region":"서울시 송파구",
             "region_code":"Seoul",
-            "sub_region_code":"1171000000_Seoul_Songpa"
+            "sub_region_code":"1171000000_Seoul_Songpa",
+            "shorten_url":"https:\/\/me2.do\/xdV0Gcrr"
         },
         {
             "index":48,
@@ -634,7 +686,8 @@
             "value_score":69.3985,
             "region":"서울시 송파구",
             "region_code":"Seoul",
-            "sub_region_code":"1171000000_Seoul_Songpa"
+            "sub_region_code":"1171000000_Seoul_Songpa",
+            "shorten_url":"https:\/\/me2.do\/xdV0Gcrr"
         },
         {
             "index":49,
@@ -646,7 +699,8 @@
             "value_score":68.892,
             "region":"서울시 송파구",
             "region_code":"Seoul",
-            "sub_region_code":"1171000000_Seoul_Songpa"
+            "sub_region_code":"1171000000_Seoul_Songpa",
+            "shorten_url":"https:\/\/me2.do\/xdV0Gcrr"
         }
     ]
 }

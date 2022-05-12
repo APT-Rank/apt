@@ -40,6 +40,10 @@
             {
                 "name":"sub_region_code",
                 "type":"string"
+            },
+            {
+                "name":"shorten_url",
+                "type":"string"
             }
         ],
         "primaryKey":[
@@ -58,7 +62,8 @@
             "value_score":60.16815,
             "region":"경기도 수원시 장안구",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4111100000_Gyeonggi_Suwon_Jangan"
+            "sub_region_code":"4111100000_Gyeonggi_Suwon_Jangan",
+            "shorten_url":"https:\/\/me2.do\/FhyVP0ow"
         },
         {
             "index":1,
@@ -70,7 +75,8 @@
             "value_score":58.26815,
             "region":"경기도 수원시 장안구",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4111100000_Gyeonggi_Suwon_Jangan"
+            "sub_region_code":"4111100000_Gyeonggi_Suwon_Jangan",
+            "shorten_url":"https:\/\/me2.do\/FhyVP0ow"
         },
         {
             "index":2,
@@ -82,7 +88,8 @@
             "value_score":56.25745,
             "region":"경기도 수원시 장안구",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4111100000_Gyeonggi_Suwon_Jangan"
+            "sub_region_code":"4111100000_Gyeonggi_Suwon_Jangan",
+            "shorten_url":"https:\/\/me2.do\/FhyVP0ow"
         },
         {
             "index":3,
@@ -94,7 +101,8 @@
             "value_score":55.47515,
             "region":"경기도 수원시 장안구",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4111100000_Gyeonggi_Suwon_Jangan"
+            "sub_region_code":"4111100000_Gyeonggi_Suwon_Jangan",
+            "shorten_url":"https:\/\/me2.do\/FhyVP0ow"
         },
         {
             "index":4,
@@ -106,7 +114,8 @@
             "value_score":54.8756,
             "region":"경기도 수원시 장안구",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4111100000_Gyeonggi_Suwon_Jangan"
+            "sub_region_code":"4111100000_Gyeonggi_Suwon_Jangan",
+            "shorten_url":"https:\/\/me2.do\/FhyVP0ow"
         },
         {
             "index":5,
@@ -118,7 +127,8 @@
             "value_score":52.44555,
             "region":"경기도 수원시 장안구",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4111100000_Gyeonggi_Suwon_Jangan"
+            "sub_region_code":"4111100000_Gyeonggi_Suwon_Jangan",
+            "shorten_url":"https:\/\/me2.do\/FhyVP0ow"
         },
         {
             "index":6,
@@ -130,7 +140,8 @@
             "value_score":51.65435,
             "region":"경기도 수원시 장안구",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4111100000_Gyeonggi_Suwon_Jangan"
+            "sub_region_code":"4111100000_Gyeonggi_Suwon_Jangan",
+            "shorten_url":"https:\/\/me2.do\/FhyVP0ow"
         },
         {
             "index":7,
@@ -142,7 +153,8 @@
             "value_score":51.22435,
             "region":"경기도 수원시 장안구",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4111100000_Gyeonggi_Suwon_Jangan"
+            "sub_region_code":"4111100000_Gyeonggi_Suwon_Jangan",
+            "shorten_url":"https:\/\/me2.do\/FhyVP0ow"
         },
         {
             "index":8,
@@ -154,7 +166,8 @@
             "value_score":50.55745,
             "region":"경기도 수원시 장안구",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4111100000_Gyeonggi_Suwon_Jangan"
+            "sub_region_code":"4111100000_Gyeonggi_Suwon_Jangan",
+            "shorten_url":"https:\/\/me2.do\/FhyVP0ow"
         },
         {
             "index":9,
@@ -166,7 +179,8 @@
             "value_score":50.45435,
             "region":"경기도 수원시 장안구",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4111100000_Gyeonggi_Suwon_Jangan"
+            "sub_region_code":"4111100000_Gyeonggi_Suwon_Jangan",
+            "shorten_url":"https:\/\/me2.do\/FhyVP0ow"
         },
         {
             "index":10,
@@ -178,7 +192,8 @@
             "value_score":72.2742,
             "region":"경기도 수원시 장안구",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4111100000_Gyeonggi_Suwon_Jangan"
+            "sub_region_code":"4111100000_Gyeonggi_Suwon_Jangan",
+            "shorten_url":"https:\/\/me2.do\/FhyVP0ow"
         },
         {
             "index":11,
@@ -190,7 +205,8 @@
             "value_score":68.1428,
             "region":"경기도 수원시 장안구",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4111100000_Gyeonggi_Suwon_Jangan"
+            "sub_region_code":"4111100000_Gyeonggi_Suwon_Jangan",
+            "shorten_url":"https:\/\/me2.do\/FhyVP0ow"
         },
         {
             "index":12,
@@ -202,7 +218,8 @@
             "value_score":67.1502,
             "region":"경기도 수원시 장안구",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4111100000_Gyeonggi_Suwon_Jangan"
+            "sub_region_code":"4111100000_Gyeonggi_Suwon_Jangan",
+            "shorten_url":"https:\/\/me2.do\/FhyVP0ow"
         },
         {
             "index":13,
@@ -214,7 +231,8 @@
             "value_score":65.9742,
             "region":"경기도 수원시 장안구",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4111100000_Gyeonggi_Suwon_Jangan"
+            "sub_region_code":"4111100000_Gyeonggi_Suwon_Jangan",
+            "shorten_url":"https:\/\/me2.do\/FhyVP0ow"
         },
         {
             "index":14,
@@ -226,7 +244,8 @@
             "value_score":64.133,
             "region":"경기도 수원시 장안구",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4111100000_Gyeonggi_Suwon_Jangan"
+            "sub_region_code":"4111100000_Gyeonggi_Suwon_Jangan",
+            "shorten_url":"https:\/\/me2.do\/FhyVP0ow"
         },
         {
             "index":15,
@@ -238,7 +257,8 @@
             "value_score":62.5058,
             "region":"경기도 수원시 장안구",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4111100000_Gyeonggi_Suwon_Jangan"
+            "sub_region_code":"4111100000_Gyeonggi_Suwon_Jangan",
+            "shorten_url":"https:\/\/me2.do\/FhyVP0ow"
         },
         {
             "index":16,
@@ -250,7 +270,8 @@
             "value_score":62.3428,
             "region":"경기도 수원시 장안구",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4111100000_Gyeonggi_Suwon_Jangan"
+            "sub_region_code":"4111100000_Gyeonggi_Suwon_Jangan",
+            "shorten_url":"https:\/\/me2.do\/FhyVP0ow"
         },
         {
             "index":17,
@@ -262,7 +283,8 @@
             "value_score":61.6266,
             "region":"경기도 수원시 장안구",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4111100000_Gyeonggi_Suwon_Jangan"
+            "sub_region_code":"4111100000_Gyeonggi_Suwon_Jangan",
+            "shorten_url":"https:\/\/me2.do\/FhyVP0ow"
         },
         {
             "index":18,
@@ -274,7 +296,8 @@
             "value_score":61.6008,
             "region":"경기도 수원시 장안구",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4111100000_Gyeonggi_Suwon_Jangan"
+            "sub_region_code":"4111100000_Gyeonggi_Suwon_Jangan",
+            "shorten_url":"https:\/\/me2.do\/FhyVP0ow"
         },
         {
             "index":19,
@@ -286,7 +309,8 @@
             "value_score":61.2868,
             "region":"경기도 수원시 장안구",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4111100000_Gyeonggi_Suwon_Jangan"
+            "sub_region_code":"4111100000_Gyeonggi_Suwon_Jangan",
+            "shorten_url":"https:\/\/me2.do\/FhyVP0ow"
         },
         {
             "index":20,
@@ -298,7 +322,8 @@
             "value_score":58.4506,
             "region":"경기도 수원시 장안구",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4111100000_Gyeonggi_Suwon_Jangan"
+            "sub_region_code":"4111100000_Gyeonggi_Suwon_Jangan",
+            "shorten_url":"https:\/\/me2.do\/FhyVP0ow"
         },
         {
             "index":21,
@@ -310,7 +335,8 @@
             "value_score":57.82055,
             "region":"경기도 수원시 장안구",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4111100000_Gyeonggi_Suwon_Jangan"
+            "sub_region_code":"4111100000_Gyeonggi_Suwon_Jangan",
+            "shorten_url":"https:\/\/me2.do\/FhyVP0ow"
         },
         {
             "index":22,
@@ -322,7 +348,8 @@
             "value_score":56.68435,
             "region":"경기도 수원시 장안구",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4111100000_Gyeonggi_Suwon_Jangan"
+            "sub_region_code":"4111100000_Gyeonggi_Suwon_Jangan",
+            "shorten_url":"https:\/\/me2.do\/FhyVP0ow"
         },
         {
             "index":23,
@@ -334,7 +361,8 @@
             "value_score":55.48245,
             "region":"경기도 수원시 장안구",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4111100000_Gyeonggi_Suwon_Jangan"
+            "sub_region_code":"4111100000_Gyeonggi_Suwon_Jangan",
+            "shorten_url":"https:\/\/me2.do\/FhyVP0ow"
         },
         {
             "index":24,
@@ -346,7 +374,8 @@
             "value_score":54.94315,
             "region":"경기도 수원시 장안구",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4111100000_Gyeonggi_Suwon_Jangan"
+            "sub_region_code":"4111100000_Gyeonggi_Suwon_Jangan",
+            "shorten_url":"https:\/\/me2.do\/FhyVP0ow"
         },
         {
             "index":25,
@@ -358,7 +387,8 @@
             "value_score":54.57555,
             "region":"경기도 수원시 장안구",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4111100000_Gyeonggi_Suwon_Jangan"
+            "sub_region_code":"4111100000_Gyeonggi_Suwon_Jangan",
+            "shorten_url":"https:\/\/me2.do\/FhyVP0ow"
         },
         {
             "index":26,
@@ -370,7 +400,8 @@
             "value_score":54.19555,
             "region":"경기도 수원시 장안구",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4111100000_Gyeonggi_Suwon_Jangan"
+            "sub_region_code":"4111100000_Gyeonggi_Suwon_Jangan",
+            "shorten_url":"https:\/\/me2.do\/FhyVP0ow"
         },
         {
             "index":27,
@@ -382,7 +413,8 @@
             "value_score":53.99315,
             "region":"경기도 수원시 장안구",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4111100000_Gyeonggi_Suwon_Jangan"
+            "sub_region_code":"4111100000_Gyeonggi_Suwon_Jangan",
+            "shorten_url":"https:\/\/me2.do\/FhyVP0ow"
         },
         {
             "index":28,
@@ -394,7 +426,8 @@
             "value_score":51.90745,
             "region":"경기도 수원시 장안구",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4111100000_Gyeonggi_Suwon_Jangan"
+            "sub_region_code":"4111100000_Gyeonggi_Suwon_Jangan",
+            "shorten_url":"https:\/\/me2.do\/FhyVP0ow"
         },
         {
             "index":29,
@@ -406,7 +439,8 @@
             "value_score":51.64885,
             "region":"경기도 수원시 장안구",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4111100000_Gyeonggi_Suwon_Jangan"
+            "sub_region_code":"4111100000_Gyeonggi_Suwon_Jangan",
+            "shorten_url":"https:\/\/me2.do\/FhyVP0ow"
         },
         {
             "index":30,
@@ -418,7 +452,8 @@
             "value_score":61.63025,
             "region":"경기도 수원시 장안구",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4111100000_Gyeonggi_Suwon_Jangan"
+            "sub_region_code":"4111100000_Gyeonggi_Suwon_Jangan",
+            "shorten_url":"https:\/\/me2.do\/FhyVP0ow"
         },
         {
             "index":31,
@@ -430,7 +465,8 @@
             "value_score":60.63025,
             "region":"경기도 수원시 장안구",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4111100000_Gyeonggi_Suwon_Jangan"
+            "sub_region_code":"4111100000_Gyeonggi_Suwon_Jangan",
+            "shorten_url":"https:\/\/me2.do\/FhyVP0ow"
         },
         {
             "index":32,
@@ -442,7 +478,8 @@
             "value_score":57.23025,
             "region":"경기도 수원시 장안구",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4111100000_Gyeonggi_Suwon_Jangan"
+            "sub_region_code":"4111100000_Gyeonggi_Suwon_Jangan",
+            "shorten_url":"https:\/\/me2.do\/FhyVP0ow"
         },
         {
             "index":33,
@@ -454,7 +491,8 @@
             "value_score":57.13025,
             "region":"경기도 수원시 장안구",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4111100000_Gyeonggi_Suwon_Jangan"
+            "sub_region_code":"4111100000_Gyeonggi_Suwon_Jangan",
+            "shorten_url":"https:\/\/me2.do\/FhyVP0ow"
         },
         {
             "index":34,
@@ -466,7 +504,8 @@
             "value_score":56.47525,
             "region":"경기도 수원시 장안구",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4111100000_Gyeonggi_Suwon_Jangan"
+            "sub_region_code":"4111100000_Gyeonggi_Suwon_Jangan",
+            "shorten_url":"https:\/\/me2.do\/FhyVP0ow"
         },
         {
             "index":35,
@@ -478,7 +517,8 @@
             "value_score":56.2405,
             "region":"경기도 수원시 장안구",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4111100000_Gyeonggi_Suwon_Jangan"
+            "sub_region_code":"4111100000_Gyeonggi_Suwon_Jangan",
+            "shorten_url":"https:\/\/me2.do\/FhyVP0ow"
         },
         {
             "index":36,
@@ -490,7 +530,8 @@
             "value_score":55.79575,
             "region":"경기도 수원시 장안구",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4111100000_Gyeonggi_Suwon_Jangan"
+            "sub_region_code":"4111100000_Gyeonggi_Suwon_Jangan",
+            "shorten_url":"https:\/\/me2.do\/FhyVP0ow"
         },
         {
             "index":37,
@@ -502,7 +543,8 @@
             "value_score":55.5785,
             "region":"경기도 수원시 장안구",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4111100000_Gyeonggi_Suwon_Jangan"
+            "sub_region_code":"4111100000_Gyeonggi_Suwon_Jangan",
+            "shorten_url":"https:\/\/me2.do\/FhyVP0ow"
         },
         {
             "index":38,
@@ -514,7 +556,8 @@
             "value_score":55.54125,
             "region":"경기도 수원시 장안구",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4111100000_Gyeonggi_Suwon_Jangan"
+            "sub_region_code":"4111100000_Gyeonggi_Suwon_Jangan",
+            "shorten_url":"https:\/\/me2.do\/FhyVP0ow"
         },
         {
             "index":39,
@@ -526,7 +569,8 @@
             "value_score":55.45725,
             "region":"경기도 수원시 장안구",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4111100000_Gyeonggi_Suwon_Jangan"
+            "sub_region_code":"4111100000_Gyeonggi_Suwon_Jangan",
+            "shorten_url":"https:\/\/me2.do\/FhyVP0ow"
         },
         {
             "index":40,
@@ -538,7 +582,8 @@
             "value_score":63.157,
             "region":"경기도 수원시 장안구",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4111100000_Gyeonggi_Suwon_Jangan"
+            "sub_region_code":"4111100000_Gyeonggi_Suwon_Jangan",
+            "shorten_url":"https:\/\/me2.do\/FhyVP0ow"
         },
         {
             "index":41,
@@ -550,7 +595,8 @@
             "value_score":61.9145,
             "region":"경기도 수원시 장안구",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4111100000_Gyeonggi_Suwon_Jangan"
+            "sub_region_code":"4111100000_Gyeonggi_Suwon_Jangan",
+            "shorten_url":"https:\/\/me2.do\/FhyVP0ow"
         },
         {
             "index":42,
@@ -562,7 +608,8 @@
             "value_score":60.8605,
             "region":"경기도 수원시 장안구",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4111100000_Gyeonggi_Suwon_Jangan"
+            "sub_region_code":"4111100000_Gyeonggi_Suwon_Jangan",
+            "shorten_url":"https:\/\/me2.do\/FhyVP0ow"
         },
         {
             "index":43,
@@ -574,7 +621,8 @@
             "value_score":59.957,
             "region":"경기도 수원시 장안구",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4111100000_Gyeonggi_Suwon_Jangan"
+            "sub_region_code":"4111100000_Gyeonggi_Suwon_Jangan",
+            "shorten_url":"https:\/\/me2.do\/FhyVP0ow"
         },
         {
             "index":44,
@@ -586,7 +634,8 @@
             "value_score":59.8605,
             "region":"경기도 수원시 장안구",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4111100000_Gyeonggi_Suwon_Jangan"
+            "sub_region_code":"4111100000_Gyeonggi_Suwon_Jangan",
+            "shorten_url":"https:\/\/me2.do\/FhyVP0ow"
         },
         {
             "index":45,
@@ -598,7 +647,8 @@
             "value_score":59.557,
             "region":"경기도 수원시 장안구",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4111100000_Gyeonggi_Suwon_Jangan"
+            "sub_region_code":"4111100000_Gyeonggi_Suwon_Jangan",
+            "shorten_url":"https:\/\/me2.do\/FhyVP0ow"
         },
         {
             "index":46,
@@ -610,7 +660,8 @@
             "value_score":59.4825,
             "region":"경기도 수원시 장안구",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4111100000_Gyeonggi_Suwon_Jangan"
+            "sub_region_code":"4111100000_Gyeonggi_Suwon_Jangan",
+            "shorten_url":"https:\/\/me2.do\/FhyVP0ow"
         },
         {
             "index":47,
@@ -622,7 +673,8 @@
             "value_score":59.1145,
             "region":"경기도 수원시 장안구",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4111100000_Gyeonggi_Suwon_Jangan"
+            "sub_region_code":"4111100000_Gyeonggi_Suwon_Jangan",
+            "shorten_url":"https:\/\/me2.do\/FhyVP0ow"
         },
         {
             "index":48,
@@ -634,7 +686,8 @@
             "value_score":58.8915,
             "region":"경기도 수원시 장안구",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4111100000_Gyeonggi_Suwon_Jangan"
+            "sub_region_code":"4111100000_Gyeonggi_Suwon_Jangan",
+            "shorten_url":"https:\/\/me2.do\/FhyVP0ow"
         },
         {
             "index":49,
@@ -646,7 +699,8 @@
             "value_score":58.457,
             "region":"경기도 수원시 장안구",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4111100000_Gyeonggi_Suwon_Jangan"
+            "sub_region_code":"4111100000_Gyeonggi_Suwon_Jangan",
+            "shorten_url":"https:\/\/me2.do\/FhyVP0ow"
         }
     ]
 }

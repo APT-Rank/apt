@@ -40,6 +40,10 @@
             {
                 "name":"sub_region_code",
                 "type":"string"
+            },
+            {
+                "name":"shorten_url",
+                "type":"string"
             }
         ],
         "primaryKey":[
@@ -58,7 +62,8 @@
             "value_score":61.84165,
             "region":"울산시 울주군",
             "region_code":"Ulsan",
-            "sub_region_code":"3171000000_Ulsan_Ulju"
+            "sub_region_code":"3171000000_Ulsan_Ulju",
+            "shorten_url":"https:\/\/me2.do\/FvWIv1MF"
         },
         {
             "index":1,
@@ -70,7 +75,8 @@
             "value_score":58.78405,
             "region":"울산시 울주군",
             "region_code":"Ulsan",
-            "sub_region_code":"3171000000_Ulsan_Ulju"
+            "sub_region_code":"3171000000_Ulsan_Ulju",
+            "shorten_url":"https:\/\/me2.do\/FvWIv1MF"
         },
         {
             "index":2,
@@ -82,7 +88,8 @@
             "value_score":57.64165,
             "region":"울산시 울주군",
             "region_code":"Ulsan",
-            "sub_region_code":"3171000000_Ulsan_Ulju"
+            "sub_region_code":"3171000000_Ulsan_Ulju",
+            "shorten_url":"https:\/\/me2.do\/FvWIv1MF"
         },
         {
             "index":3,
@@ -94,7 +101,8 @@
             "value_score":56.81085,
             "region":"울산시 울주군",
             "region_code":"Ulsan",
-            "sub_region_code":"3171000000_Ulsan_Ulju"
+            "sub_region_code":"3171000000_Ulsan_Ulju",
+            "shorten_url":"https:\/\/me2.do\/FvWIv1MF"
         },
         {
             "index":4,
@@ -106,7 +114,8 @@
             "value_score":55.0359,
             "region":"울산시 울주군",
             "region_code":"Ulsan",
-            "sub_region_code":"3171000000_Ulsan_Ulju"
+            "sub_region_code":"3171000000_Ulsan_Ulju",
+            "shorten_url":"https:\/\/me2.do\/FvWIv1MF"
         },
         {
             "index":5,
@@ -118,7 +127,8 @@
             "value_score":54.6247,
             "region":"울산시 울주군",
             "region_code":"Ulsan",
-            "sub_region_code":"3171000000_Ulsan_Ulju"
+            "sub_region_code":"3171000000_Ulsan_Ulju",
+            "shorten_url":"https:\/\/me2.do\/FvWIv1MF"
         },
         {
             "index":6,
@@ -130,7 +140,8 @@
             "value_score":53.91385,
             "region":"울산시 울주군",
             "region_code":"Ulsan",
-            "sub_region_code":"3171000000_Ulsan_Ulju"
+            "sub_region_code":"3171000000_Ulsan_Ulju",
+            "shorten_url":"https:\/\/me2.do\/FvWIv1MF"
         },
         {
             "index":7,
@@ -142,7 +153,8 @@
             "value_score":52.48885,
             "region":"울산시 울주군",
             "region_code":"Ulsan",
-            "sub_region_code":"3171000000_Ulsan_Ulju"
+            "sub_region_code":"3171000000_Ulsan_Ulju",
+            "shorten_url":"https:\/\/me2.do\/FvWIv1MF"
         },
         {
             "index":8,
@@ -154,7 +166,8 @@
             "value_score":52.16385,
             "region":"울산시 울주군",
             "region_code":"Ulsan",
-            "sub_region_code":"3171000000_Ulsan_Ulju"
+            "sub_region_code":"3171000000_Ulsan_Ulju",
+            "shorten_url":"https:\/\/me2.do\/FvWIv1MF"
         },
         {
             "index":9,
@@ -166,7 +179,8 @@
             "value_score":52.16385,
             "region":"울산시 울주군",
             "region_code":"Ulsan",
-            "sub_region_code":"3171000000_Ulsan_Ulju"
+            "sub_region_code":"3171000000_Ulsan_Ulju",
+            "shorten_url":"https:\/\/me2.do\/FvWIv1MF"
         },
         {
             "index":10,
@@ -178,7 +192,8 @@
             "value_score":62.52975,
             "region":"울산시 울주군",
             "region_code":"Ulsan",
-            "sub_region_code":"3171000000_Ulsan_Ulju"
+            "sub_region_code":"3171000000_Ulsan_Ulju",
+            "shorten_url":"https:\/\/me2.do\/FvWIv1MF"
         },
         {
             "index":11,
@@ -190,7 +205,8 @@
             "value_score":59.84575,
             "region":"울산시 울주군",
             "region_code":"Ulsan",
-            "sub_region_code":"3171000000_Ulsan_Ulju"
+            "sub_region_code":"3171000000_Ulsan_Ulju",
+            "shorten_url":"https:\/\/me2.do\/FvWIv1MF"
         },
         {
             "index":12,
@@ -202,7 +218,8 @@
             "value_score":58.9185,
             "region":"울산시 울주군",
             "region_code":"Ulsan",
-            "sub_region_code":"3171000000_Ulsan_Ulju"
+            "sub_region_code":"3171000000_Ulsan_Ulju",
+            "shorten_url":"https:\/\/me2.do\/FvWIv1MF"
         },
         {
             "index":13,
@@ -214,7 +231,8 @@
             "value_score":57.27975,
             "region":"울산시 울주군",
             "region_code":"Ulsan",
-            "sub_region_code":"3171000000_Ulsan_Ulju"
+            "sub_region_code":"3171000000_Ulsan_Ulju",
+            "shorten_url":"https:\/\/me2.do\/FvWIv1MF"
         },
         {
             "index":14,
@@ -226,7 +244,8 @@
             "value_score":56.75775,
             "region":"울산시 울주군",
             "region_code":"Ulsan",
-            "sub_region_code":"3171000000_Ulsan_Ulju"
+            "sub_region_code":"3171000000_Ulsan_Ulju",
+            "shorten_url":"https:\/\/me2.do\/FvWIv1MF"
         },
         {
             "index":15,
@@ -238,7 +257,8 @@
             "value_score":55.4185,
             "region":"울산시 울주군",
             "region_code":"Ulsan",
-            "sub_region_code":"3171000000_Ulsan_Ulju"
+            "sub_region_code":"3171000000_Ulsan_Ulju",
+            "shorten_url":"https:\/\/me2.do\/FvWIv1MF"
         },
         {
             "index":16,
@@ -250,7 +270,8 @@
             "value_score":54.96,
             "region":"울산시 울주군",
             "region_code":"Ulsan",
-            "sub_region_code":"3171000000_Ulsan_Ulju"
+            "sub_region_code":"3171000000_Ulsan_Ulju",
+            "shorten_url":"https:\/\/me2.do\/FvWIv1MF"
         },
         {
             "index":17,
@@ -262,7 +283,8 @@
             "value_score":53.1605,
             "region":"울산시 울주군",
             "region_code":"Ulsan",
-            "sub_region_code":"3171000000_Ulsan_Ulju"
+            "sub_region_code":"3171000000_Ulsan_Ulju",
+            "shorten_url":"https:\/\/me2.do\/FvWIv1MF"
         },
         {
             "index":18,
@@ -274,7 +296,8 @@
             "value_score":52.6685,
             "region":"울산시 울주군",
             "region_code":"Ulsan",
-            "sub_region_code":"3171000000_Ulsan_Ulju"
+            "sub_region_code":"3171000000_Ulsan_Ulju",
+            "shorten_url":"https:\/\/me2.do\/FvWIv1MF"
         },
         {
             "index":19,
@@ -286,7 +309,8 @@
             "value_score":52.50275,
             "region":"울산시 울주군",
             "region_code":"Ulsan",
-            "sub_region_code":"3171000000_Ulsan_Ulju"
+            "sub_region_code":"3171000000_Ulsan_Ulju",
+            "shorten_url":"https:\/\/me2.do\/FvWIv1MF"
         },
         {
             "index":20,
@@ -298,7 +322,8 @@
             "value_score":50.2553684211,
             "region":"울산시 울주군",
             "region_code":"Ulsan",
-            "sub_region_code":"3171000000_Ulsan_Ulju"
+            "sub_region_code":"3171000000_Ulsan_Ulju",
+            "shorten_url":"https:\/\/me2.do\/FvWIv1MF"
         },
         {
             "index":21,
@@ -310,7 +335,8 @@
             "value_score":50.1954736842,
             "region":"울산시 울주군",
             "region_code":"Ulsan",
-            "sub_region_code":"3171000000_Ulsan_Ulju"
+            "sub_region_code":"3171000000_Ulsan_Ulju",
+            "shorten_url":"https:\/\/me2.do\/FvWIv1MF"
         },
         {
             "index":22,
@@ -322,7 +348,8 @@
             "value_score":48.9824210526,
             "region":"울산시 울주군",
             "region_code":"Ulsan",
-            "sub_region_code":"3171000000_Ulsan_Ulju"
+            "sub_region_code":"3171000000_Ulsan_Ulju",
+            "shorten_url":"https:\/\/me2.do\/FvWIv1MF"
         },
         {
             "index":23,
@@ -334,7 +361,8 @@
             "value_score":48.5375789474,
             "region":"울산시 울주군",
             "region_code":"Ulsan",
-            "sub_region_code":"3171000000_Ulsan_Ulju"
+            "sub_region_code":"3171000000_Ulsan_Ulju",
+            "shorten_url":"https:\/\/me2.do\/FvWIv1MF"
         },
         {
             "index":24,
@@ -346,7 +374,8 @@
             "value_score":46.9834736842,
             "region":"울산시 울주군",
             "region_code":"Ulsan",
-            "sub_region_code":"3171000000_Ulsan_Ulju"
+            "sub_region_code":"3171000000_Ulsan_Ulju",
+            "shorten_url":"https:\/\/me2.do\/FvWIv1MF"
         },
         {
             "index":25,
@@ -358,7 +387,8 @@
             "value_score":46.7816842105,
             "region":"울산시 울주군",
             "region_code":"Ulsan",
-            "sub_region_code":"3171000000_Ulsan_Ulju"
+            "sub_region_code":"3171000000_Ulsan_Ulju",
+            "shorten_url":"https:\/\/me2.do\/FvWIv1MF"
         },
         {
             "index":26,
@@ -370,7 +400,8 @@
             "value_score":45.9922105263,
             "region":"울산시 울주군",
             "region_code":"Ulsan",
-            "sub_region_code":"3171000000_Ulsan_Ulju"
+            "sub_region_code":"3171000000_Ulsan_Ulju",
+            "shorten_url":"https:\/\/me2.do\/FvWIv1MF"
         },
         {
             "index":27,
@@ -382,7 +413,8 @@
             "value_score":45.2982105263,
             "region":"울산시 울주군",
             "region_code":"Ulsan",
-            "sub_region_code":"3171000000_Ulsan_Ulju"
+            "sub_region_code":"3171000000_Ulsan_Ulju",
+            "shorten_url":"https:\/\/me2.do\/FvWIv1MF"
         },
         {
             "index":28,
@@ -394,7 +426,8 @@
             "value_score":45.2982105263,
             "region":"울산시 울주군",
             "region_code":"Ulsan",
-            "sub_region_code":"3171000000_Ulsan_Ulju"
+            "sub_region_code":"3171000000_Ulsan_Ulju",
+            "shorten_url":"https:\/\/me2.do\/FvWIv1MF"
         },
         {
             "index":29,
@@ -406,7 +439,8 @@
             "value_score":44.6764210526,
             "region":"울산시 울주군",
             "region_code":"Ulsan",
-            "sub_region_code":"3171000000_Ulsan_Ulju"
+            "sub_region_code":"3171000000_Ulsan_Ulju",
+            "shorten_url":"https:\/\/me2.do\/FvWIv1MF"
         },
         {
             "index":30,
@@ -418,7 +452,8 @@
             "value_score":60.8095,
             "region":"울산시 울주군",
             "region_code":"Ulsan",
-            "sub_region_code":"3171000000_Ulsan_Ulju"
+            "sub_region_code":"3171000000_Ulsan_Ulju",
+            "shorten_url":"https:\/\/me2.do\/FvWIv1MF"
         },
         {
             "index":31,
@@ -430,7 +465,8 @@
             "value_score":58.1845,
             "region":"울산시 울주군",
             "region_code":"Ulsan",
-            "sub_region_code":"3171000000_Ulsan_Ulju"
+            "sub_region_code":"3171000000_Ulsan_Ulju",
+            "shorten_url":"https:\/\/me2.do\/FvWIv1MF"
         },
         {
             "index":32,
@@ -442,7 +478,8 @@
             "value_score":57.1915,
             "region":"울산시 울주군",
             "region_code":"Ulsan",
-            "sub_region_code":"3171000000_Ulsan_Ulju"
+            "sub_region_code":"3171000000_Ulsan_Ulju",
+            "shorten_url":"https:\/\/me2.do\/FvWIv1MF"
         },
         {
             "index":33,
@@ -454,7 +491,8 @@
             "value_score":56.8905,
             "region":"울산시 울주군",
             "region_code":"Ulsan",
-            "sub_region_code":"3171000000_Ulsan_Ulju"
+            "sub_region_code":"3171000000_Ulsan_Ulju",
+            "shorten_url":"https:\/\/me2.do\/FvWIv1MF"
         },
         {
             "index":34,
@@ -466,7 +504,8 @@
             "value_score":56.821,
             "region":"울산시 울주군",
             "region_code":"Ulsan",
-            "sub_region_code":"3171000000_Ulsan_Ulju"
+            "sub_region_code":"3171000000_Ulsan_Ulju",
+            "shorten_url":"https:\/\/me2.do\/FvWIv1MF"
         },
         {
             "index":35,
@@ -478,7 +517,8 @@
             "value_score":56.0305,
             "region":"울산시 울주군",
             "region_code":"Ulsan",
-            "sub_region_code":"3171000000_Ulsan_Ulju"
+            "sub_region_code":"3171000000_Ulsan_Ulju",
+            "shorten_url":"https:\/\/me2.do\/FvWIv1MF"
         },
         {
             "index":36,
@@ -490,7 +530,8 @@
             "value_score":54.2805,
             "region":"울산시 울주군",
             "region_code":"Ulsan",
-            "sub_region_code":"3171000000_Ulsan_Ulju"
+            "sub_region_code":"3171000000_Ulsan_Ulju",
+            "shorten_url":"https:\/\/me2.do\/FvWIv1MF"
         },
         {
             "index":37,
@@ -502,7 +543,8 @@
             "value_score":54.2805,
             "region":"울산시 울주군",
             "region_code":"Ulsan",
-            "sub_region_code":"3171000000_Ulsan_Ulju"
+            "sub_region_code":"3171000000_Ulsan_Ulju",
+            "shorten_url":"https:\/\/me2.do\/FvWIv1MF"
         },
         {
             "index":38,
@@ -514,7 +556,8 @@
             "value_score":53.071,
             "region":"울산시 울주군",
             "region_code":"Ulsan",
-            "sub_region_code":"3171000000_Ulsan_Ulju"
+            "sub_region_code":"3171000000_Ulsan_Ulju",
+            "shorten_url":"https:\/\/me2.do\/FvWIv1MF"
         },
         {
             "index":39,
@@ -526,7 +569,8 @@
             "value_score":53.0555,
             "region":"울산시 울주군",
             "region_code":"Ulsan",
-            "sub_region_code":"3171000000_Ulsan_Ulju"
+            "sub_region_code":"3171000000_Ulsan_Ulju",
+            "shorten_url":"https:\/\/me2.do\/FvWIv1MF"
         }
     ]
 }

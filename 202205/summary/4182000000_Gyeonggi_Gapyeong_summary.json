@@ -40,6 +40,10 @@
             {
                 "name":"sub_region_code",
                 "type":"string"
+            },
+            {
+                "name":"shorten_url",
+                "type":"string"
             }
         ],
         "primaryKey":[
@@ -58,7 +62,8 @@
             "value_score":31.84185,
             "region":"경기도 가평군",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4182000000_Gyeonggi_Gapyeong"
+            "sub_region_code":"4182000000_Gyeonggi_Gapyeong",
+            "shorten_url":"https:\/\/me2.do\/5zvkhNtR"
         },
         {
             "index":1,
@@ -70,7 +75,8 @@
             "value_score":30.1325,
             "region":"경기도 가평군",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4182000000_Gyeonggi_Gapyeong"
+            "sub_region_code":"4182000000_Gyeonggi_Gapyeong",
+            "shorten_url":"https:\/\/me2.do\/5zvkhNtR"
         },
         {
             "index":2,
@@ -82,7 +88,8 @@
             "value_score":30.09185,
             "region":"경기도 가평군",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4182000000_Gyeonggi_Gapyeong"
+            "sub_region_code":"4182000000_Gyeonggi_Gapyeong",
+            "shorten_url":"https:\/\/me2.do\/5zvkhNtR"
         },
         {
             "index":3,
@@ -94,7 +101,8 @@
             "value_score":27.5325,
             "region":"경기도 가평군",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4182000000_Gyeonggi_Gapyeong"
+            "sub_region_code":"4182000000_Gyeonggi_Gapyeong",
+            "shorten_url":"https:\/\/me2.do\/5zvkhNtR"
         },
         {
             "index":4,
@@ -106,7 +114,8 @@
             "value_score":26.24185,
             "region":"경기도 가평군",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4182000000_Gyeonggi_Gapyeong"
+            "sub_region_code":"4182000000_Gyeonggi_Gapyeong",
+            "shorten_url":"https:\/\/me2.do\/5zvkhNtR"
         },
         {
             "index":5,
@@ -118,7 +127,8 @@
             "value_score":26.1325,
             "region":"경기도 가평군",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4182000000_Gyeonggi_Gapyeong"
+            "sub_region_code":"4182000000_Gyeonggi_Gapyeong",
+            "shorten_url":"https:\/\/me2.do\/5zvkhNtR"
         },
         {
             "index":6,
@@ -130,7 +140,8 @@
             "value_score":23.90305,
             "region":"경기도 가평군",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4182000000_Gyeonggi_Gapyeong"
+            "sub_region_code":"4182000000_Gyeonggi_Gapyeong",
+            "shorten_url":"https:\/\/me2.do\/5zvkhNtR"
         },
         {
             "index":7,
@@ -142,7 +153,8 @@
             "value_score":23.81185,
             "region":"경기도 가평군",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4182000000_Gyeonggi_Gapyeong"
+            "sub_region_code":"4182000000_Gyeonggi_Gapyeong",
+            "shorten_url":"https:\/\/me2.do\/5zvkhNtR"
         },
         {
             "index":8,
@@ -154,7 +166,8 @@
             "value_score":23.39185,
             "region":"경기도 가평군",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4182000000_Gyeonggi_Gapyeong"
+            "sub_region_code":"4182000000_Gyeonggi_Gapyeong",
+            "shorten_url":"https:\/\/me2.do\/5zvkhNtR"
         },
         {
             "index":9,
@@ -166,7 +179,8 @@
             "value_score":22.44185,
             "region":"경기도 가평군",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4182000000_Gyeonggi_Gapyeong"
+            "sub_region_code":"4182000000_Gyeonggi_Gapyeong",
+            "shorten_url":"https:\/\/me2.do\/5zvkhNtR"
         },
         {
             "index":10,
@@ -178,7 +192,8 @@
             "value_score":46.0558,
             "region":"경기도 가평군",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4182000000_Gyeonggi_Gapyeong"
+            "sub_region_code":"4182000000_Gyeonggi_Gapyeong",
+            "shorten_url":"https:\/\/me2.do\/5zvkhNtR"
         },
         {
             "index":11,
@@ -190,7 +205,8 @@
             "value_score":44.0358,
             "region":"경기도 가평군",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4182000000_Gyeonggi_Gapyeong"
+            "sub_region_code":"4182000000_Gyeonggi_Gapyeong",
+            "shorten_url":"https:\/\/me2.do\/5zvkhNtR"
         },
         {
             "index":12,
@@ -202,7 +218,8 @@
             "value_score":43.7558,
             "region":"경기도 가평군",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4182000000_Gyeonggi_Gapyeong"
+            "sub_region_code":"4182000000_Gyeonggi_Gapyeong",
+            "shorten_url":"https:\/\/me2.do\/5zvkhNtR"
         },
         {
             "index":13,
@@ -214,7 +231,8 @@
             "value_score":42.1874,
             "region":"경기도 가평군",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4182000000_Gyeonggi_Gapyeong"
+            "sub_region_code":"4182000000_Gyeonggi_Gapyeong",
+            "shorten_url":"https:\/\/me2.do\/5zvkhNtR"
         },
         {
             "index":14,
@@ -226,7 +244,8 @@
             "value_score":41.91,
             "region":"경기도 가평군",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4182000000_Gyeonggi_Gapyeong"
+            "sub_region_code":"4182000000_Gyeonggi_Gapyeong",
+            "shorten_url":"https:\/\/me2.do\/5zvkhNtR"
         },
         {
             "index":15,
@@ -238,7 +257,8 @@
             "value_score":35.0058,
             "region":"경기도 가평군",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4182000000_Gyeonggi_Gapyeong"
+            "sub_region_code":"4182000000_Gyeonggi_Gapyeong",
+            "shorten_url":"https:\/\/me2.do\/5zvkhNtR"
         },
         {
             "index":16,
@@ -250,7 +270,8 @@
             "value_score":34.4358,
             "region":"경기도 가평군",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4182000000_Gyeonggi_Gapyeong"
+            "sub_region_code":"4182000000_Gyeonggi_Gapyeong",
+            "shorten_url":"https:\/\/me2.do\/5zvkhNtR"
         },
         {
             "index":17,
@@ -262,7 +283,8 @@
             "value_score":33.76,
             "region":"경기도 가평군",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4182000000_Gyeonggi_Gapyeong"
+            "sub_region_code":"4182000000_Gyeonggi_Gapyeong",
+            "shorten_url":"https:\/\/me2.do\/5zvkhNtR"
         },
         {
             "index":18,
@@ -274,7 +296,8 @@
             "value_score":32.8874,
             "region":"경기도 가평군",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4182000000_Gyeonggi_Gapyeong"
+            "sub_region_code":"4182000000_Gyeonggi_Gapyeong",
+            "shorten_url":"https:\/\/me2.do\/5zvkhNtR"
         },
         {
             "index":19,
@@ -286,7 +309,8 @@
             "value_score":32.6058,
             "region":"경기도 가평군",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4182000000_Gyeonggi_Gapyeong"
+            "sub_region_code":"4182000000_Gyeonggi_Gapyeong",
+            "shorten_url":"https:\/\/me2.do\/5zvkhNtR"
         },
         {
             "index":20,
@@ -298,7 +322,8 @@
             "value_score":33.39185,
             "region":"경기도 가평군",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4182000000_Gyeonggi_Gapyeong"
+            "sub_region_code":"4182000000_Gyeonggi_Gapyeong",
+            "shorten_url":"https:\/\/me2.do\/5zvkhNtR"
         },
         {
             "index":21,
@@ -310,7 +335,8 @@
             "value_score":31.14185,
             "region":"경기도 가평군",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4182000000_Gyeonggi_Gapyeong"
+            "sub_region_code":"4182000000_Gyeonggi_Gapyeong",
+            "shorten_url":"https:\/\/me2.do\/5zvkhNtR"
         },
         {
             "index":22,
@@ -322,7 +348,8 @@
             "value_score":29.8325,
             "region":"경기도 가평군",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4182000000_Gyeonggi_Gapyeong"
+            "sub_region_code":"4182000000_Gyeonggi_Gapyeong",
+            "shorten_url":"https:\/\/me2.do\/5zvkhNtR"
         },
         {
             "index":23,
@@ -334,7 +361,8 @@
             "value_score":27.8075,
             "region":"경기도 가평군",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4182000000_Gyeonggi_Gapyeong"
+            "sub_region_code":"4182000000_Gyeonggi_Gapyeong",
+            "shorten_url":"https:\/\/me2.do\/5zvkhNtR"
         },
         {
             "index":24,
@@ -346,7 +374,8 @@
             "value_score":26.84185,
             "region":"경기도 가평군",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4182000000_Gyeonggi_Gapyeong"
+            "sub_region_code":"4182000000_Gyeonggi_Gapyeong",
+            "shorten_url":"https:\/\/me2.do\/5zvkhNtR"
         },
         {
             "index":25,
@@ -358,7 +387,8 @@
             "value_score":26.7575,
             "region":"경기도 가평군",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4182000000_Gyeonggi_Gapyeong"
+            "sub_region_code":"4182000000_Gyeonggi_Gapyeong",
+            "shorten_url":"https:\/\/me2.do\/5zvkhNtR"
         },
         {
             "index":26,
@@ -370,7 +400,8 @@
             "value_score":24.09185,
             "region":"경기도 가평군",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4182000000_Gyeonggi_Gapyeong"
+            "sub_region_code":"4182000000_Gyeonggi_Gapyeong",
+            "shorten_url":"https:\/\/me2.do\/5zvkhNtR"
         },
         {
             "index":27,
@@ -382,7 +413,8 @@
             "value_score":23.22185,
             "region":"경기도 가평군",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4182000000_Gyeonggi_Gapyeong"
+            "sub_region_code":"4182000000_Gyeonggi_Gapyeong",
+            "shorten_url":"https:\/\/me2.do\/5zvkhNtR"
         },
         {
             "index":28,
@@ -394,7 +426,8 @@
             "value_score":23.22185,
             "region":"경기도 가평군",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4182000000_Gyeonggi_Gapyeong"
+            "sub_region_code":"4182000000_Gyeonggi_Gapyeong",
+            "shorten_url":"https:\/\/me2.do\/5zvkhNtR"
         },
         {
             "index":29,
@@ -406,7 +439,8 @@
             "value_score":19.12185,
             "region":"경기도 가평군",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4182000000_Gyeonggi_Gapyeong"
+            "sub_region_code":"4182000000_Gyeonggi_Gapyeong",
+            "shorten_url":"https:\/\/me2.do\/5zvkhNtR"
         },
         {
             "index":30,
@@ -418,7 +452,8 @@
             "value_score":27.06975,
             "region":"경기도 가평군",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4182000000_Gyeonggi_Gapyeong"
+            "sub_region_code":"4182000000_Gyeonggi_Gapyeong",
+            "shorten_url":"https:\/\/me2.do\/5zvkhNtR"
         },
         {
             "index":31,
@@ -430,7 +465,8 @@
             "value_score":26.0875,
             "region":"경기도 가평군",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4182000000_Gyeonggi_Gapyeong"
+            "sub_region_code":"4182000000_Gyeonggi_Gapyeong",
+            "shorten_url":"https:\/\/me2.do\/5zvkhNtR"
         },
         {
             "index":32,
@@ -442,7 +478,8 @@
             "value_score":25.8375,
             "region":"경기도 가평군",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4182000000_Gyeonggi_Gapyeong"
+            "sub_region_code":"4182000000_Gyeonggi_Gapyeong",
+            "shorten_url":"https:\/\/me2.do\/5zvkhNtR"
         },
         {
             "index":33,
@@ -454,7 +491,8 @@
             "value_score":25.81975,
             "region":"경기도 가평군",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4182000000_Gyeonggi_Gapyeong"
+            "sub_region_code":"4182000000_Gyeonggi_Gapyeong",
+            "shorten_url":"https:\/\/me2.do\/5zvkhNtR"
         },
         {
             "index":34,
@@ -466,7 +504,8 @@
             "value_score":25.81975,
             "region":"경기도 가평군",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4182000000_Gyeonggi_Gapyeong"
+            "sub_region_code":"4182000000_Gyeonggi_Gapyeong",
+            "shorten_url":"https:\/\/me2.do\/5zvkhNtR"
         },
         {
             "index":35,
@@ -478,7 +517,8 @@
             "value_score":25.72175,
             "region":"경기도 가평군",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4182000000_Gyeonggi_Gapyeong"
+            "sub_region_code":"4182000000_Gyeonggi_Gapyeong",
+            "shorten_url":"https:\/\/me2.do\/5zvkhNtR"
         },
         {
             "index":36,
@@ -490,7 +530,8 @@
             "value_score":25.66975,
             "region":"경기도 가평군",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4182000000_Gyeonggi_Gapyeong"
+            "sub_region_code":"4182000000_Gyeonggi_Gapyeong",
+            "shorten_url":"https:\/\/me2.do\/5zvkhNtR"
         },
         {
             "index":37,
@@ -502,7 +543,8 @@
             "value_score":25.1375,
             "region":"경기도 가평군",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4182000000_Gyeonggi_Gapyeong"
+            "sub_region_code":"4182000000_Gyeonggi_Gapyeong",
+            "shorten_url":"https:\/\/me2.do\/5zvkhNtR"
         },
         {
             "index":38,
@@ -514,7 +556,8 @@
             "value_score":24.86975,
             "region":"경기도 가평군",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4182000000_Gyeonggi_Gapyeong"
+            "sub_region_code":"4182000000_Gyeonggi_Gapyeong",
+            "shorten_url":"https:\/\/me2.do\/5zvkhNtR"
         },
         {
             "index":39,
@@ -526,7 +569,8 @@
             "value_score":24.51975,
             "region":"경기도 가평군",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4182000000_Gyeonggi_Gapyeong"
+            "sub_region_code":"4182000000_Gyeonggi_Gapyeong",
+            "shorten_url":"https:\/\/me2.do\/5zvkhNtR"
         },
         {
             "index":40,
@@ -538,7 +582,8 @@
             "value_score":39.5395,
             "region":"경기도 가평군",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4182000000_Gyeonggi_Gapyeong"
+            "sub_region_code":"4182000000_Gyeonggi_Gapyeong",
+            "shorten_url":"https:\/\/me2.do\/5zvkhNtR"
         },
         {
             "index":41,
@@ -550,7 +595,8 @@
             "value_score":37.575,
             "region":"경기도 가평군",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4182000000_Gyeonggi_Gapyeong"
+            "sub_region_code":"4182000000_Gyeonggi_Gapyeong",
+            "shorten_url":"https:\/\/me2.do\/5zvkhNtR"
         },
         {
             "index":42,
@@ -562,7 +608,8 @@
             "value_score":37.5195,
             "region":"경기도 가평군",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4182000000_Gyeonggi_Gapyeong"
+            "sub_region_code":"4182000000_Gyeonggi_Gapyeong",
+            "shorten_url":"https:\/\/me2.do\/5zvkhNtR"
         },
         {
             "index":43,
@@ -574,7 +621,8 @@
             "value_score":37.2395,
             "region":"경기도 가평군",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4182000000_Gyeonggi_Gapyeong"
+            "sub_region_code":"4182000000_Gyeonggi_Gapyeong",
+            "shorten_url":"https:\/\/me2.do\/5zvkhNtR"
         },
         {
             "index":44,
@@ -586,7 +634,8 @@
             "value_score":36.2435,
             "region":"경기도 가평군",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4182000000_Gyeonggi_Gapyeong"
+            "sub_region_code":"4182000000_Gyeonggi_Gapyeong",
+            "shorten_url":"https:\/\/me2.do\/5zvkhNtR"
         },
         {
             "index":45,
@@ -598,7 +647,8 @@
             "value_score":34.675,
             "region":"경기도 가평군",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4182000000_Gyeonggi_Gapyeong"
+            "sub_region_code":"4182000000_Gyeonggi_Gapyeong",
+            "shorten_url":"https:\/\/me2.do\/5zvkhNtR"
         },
         {
             "index":46,
@@ -610,7 +660,8 @@
             "value_score":34.5195,
             "region":"경기도 가평군",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4182000000_Gyeonggi_Gapyeong"
+            "sub_region_code":"4182000000_Gyeonggi_Gapyeong",
+            "shorten_url":"https:\/\/me2.do\/5zvkhNtR"
         },
         {
             "index":47,
@@ -622,7 +673,8 @@
             "value_score":34.0395,
             "region":"경기도 가평군",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4182000000_Gyeonggi_Gapyeong"
+            "sub_region_code":"4182000000_Gyeonggi_Gapyeong",
+            "shorten_url":"https:\/\/me2.do\/5zvkhNtR"
         },
         {
             "index":48,
@@ -634,7 +686,8 @@
             "value_score":33.7395,
             "region":"경기도 가평군",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4182000000_Gyeonggi_Gapyeong"
+            "sub_region_code":"4182000000_Gyeonggi_Gapyeong",
+            "shorten_url":"https:\/\/me2.do\/5zvkhNtR"
         },
         {
             "index":49,
@@ -646,7 +699,8 @@
             "value_score":33.5395,
             "region":"경기도 가평군",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4182000000_Gyeonggi_Gapyeong"
+            "sub_region_code":"4182000000_Gyeonggi_Gapyeong",
+            "shorten_url":"https:\/\/me2.do\/5zvkhNtR"
         }
     ]
 }

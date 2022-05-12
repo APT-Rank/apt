@@ -40,6 +40,10 @@
             {
                 "name":"sub_region_code",
                 "type":"string"
+            },
+            {
+                "name":"shorten_url",
+                "type":"string"
             }
         ],
         "primaryKey":[
@@ -58,7 +62,8 @@
             "value_score":69.5018,
             "region":"서울시 종로구",
             "region_code":"Seoul",
-            "sub_region_code":"1111000000_Seoul_Jongno"
+            "sub_region_code":"1111000000_Seoul_Jongno",
+            "shorten_url":"https:\/\/me2.do\/xaCAMEEp"
         },
         {
             "index":1,
@@ -70,7 +75,8 @@
             "value_score":68.5372,
             "region":"서울시 종로구",
             "region_code":"Seoul",
-            "sub_region_code":"1111000000_Seoul_Jongno"
+            "sub_region_code":"1111000000_Seoul_Jongno",
+            "shorten_url":"https:\/\/me2.do\/xaCAMEEp"
         },
         {
             "index":2,
@@ -82,7 +88,8 @@
             "value_score":67.2518,
             "region":"서울시 종로구",
             "region_code":"Seoul",
-            "sub_region_code":"1111000000_Seoul_Jongno"
+            "sub_region_code":"1111000000_Seoul_Jongno",
+            "shorten_url":"https:\/\/me2.do\/xaCAMEEp"
         },
         {
             "index":3,
@@ -94,7 +101,8 @@
             "value_score":63.0097,
             "region":"서울시 종로구",
             "region_code":"Seoul",
-            "sub_region_code":"1111000000_Seoul_Jongno"
+            "sub_region_code":"1111000000_Seoul_Jongno",
+            "shorten_url":"https:\/\/me2.do\/xaCAMEEp"
         },
         {
             "index":4,
@@ -106,7 +114,8 @@
             "value_score":62.7372,
             "region":"서울시 종로구",
             "region_code":"Seoul",
-            "sub_region_code":"1111000000_Seoul_Jongno"
+            "sub_region_code":"1111000000_Seoul_Jongno",
+            "shorten_url":"https:\/\/me2.do\/xaCAMEEp"
         },
         {
             "index":5,
@@ -118,7 +127,8 @@
             "value_score":60.9386,
             "region":"서울시 종로구",
             "region_code":"Seoul",
-            "sub_region_code":"1111000000_Seoul_Jongno"
+            "sub_region_code":"1111000000_Seoul_Jongno",
+            "shorten_url":"https:\/\/me2.do\/xaCAMEEp"
         },
         {
             "index":6,
@@ -130,7 +140,8 @@
             "value_score":60.6512,
             "region":"서울시 종로구",
             "region_code":"Seoul",
-            "sub_region_code":"1111000000_Seoul_Jongno"
+            "sub_region_code":"1111000000_Seoul_Jongno",
+            "shorten_url":"https:\/\/me2.do\/xaCAMEEp"
         },
         {
             "index":7,
@@ -142,7 +153,8 @@
             "value_score":59.6781555643,
             "region":"서울시 종로구",
             "region_code":"Seoul",
-            "sub_region_code":"1111000000_Seoul_Jongno"
+            "sub_region_code":"1111000000_Seoul_Jongno",
+            "shorten_url":"https:\/\/me2.do\/xaCAMEEp"
         },
         {
             "index":8,
@@ -154,7 +166,8 @@
             "value_score":58.8175,
             "region":"서울시 종로구",
             "region_code":"Seoul",
-            "sub_region_code":"1111000000_Seoul_Jongno"
+            "sub_region_code":"1111000000_Seoul_Jongno",
+            "shorten_url":"https:\/\/me2.do\/xaCAMEEp"
         },
         {
             "index":9,
@@ -166,7 +179,8 @@
             "value_score":58.5386,
             "region":"서울시 종로구",
             "region_code":"Seoul",
-            "sub_region_code":"1111000000_Seoul_Jongno"
+            "sub_region_code":"1111000000_Seoul_Jongno",
+            "shorten_url":"https:\/\/me2.do\/xaCAMEEp"
         },
         {
             "index":10,
@@ -178,7 +192,8 @@
             "value_score":73.4512,
             "region":"서울시 종로구",
             "region_code":"Seoul",
-            "sub_region_code":"1111000000_Seoul_Jongno"
+            "sub_region_code":"1111000000_Seoul_Jongno",
+            "shorten_url":"https:\/\/me2.do\/xaCAMEEp"
         },
         {
             "index":11,
@@ -190,7 +205,8 @@
             "value_score":70.6248,
             "region":"서울시 종로구",
             "region_code":"Seoul",
-            "sub_region_code":"1111000000_Seoul_Jongno"
+            "sub_region_code":"1111000000_Seoul_Jongno",
+            "shorten_url":"https:\/\/me2.do\/xaCAMEEp"
         },
         {
             "index":12,
@@ -202,7 +218,8 @@
             "value_score":65.4012,
             "region":"서울시 종로구",
             "region_code":"Seoul",
-            "sub_region_code":"1111000000_Seoul_Jongno"
+            "sub_region_code":"1111000000_Seoul_Jongno",
+            "shorten_url":"https:\/\/me2.do\/xaCAMEEp"
         },
         {
             "index":13,
@@ -214,7 +231,8 @@
             "value_score":64.8248,
             "region":"서울시 종로구",
             "region_code":"Seoul",
-            "sub_region_code":"1111000000_Seoul_Jongno"
+            "sub_region_code":"1111000000_Seoul_Jongno",
+            "shorten_url":"https:\/\/me2.do\/xaCAMEEp"
         },
         {
             "index":14,
@@ -226,7 +244,8 @@
             "value_score":58.1687703762,
             "region":"서울시 종로구",
             "region_code":"Seoul",
-            "sub_region_code":"1111000000_Seoul_Jongno"
+            "sub_region_code":"1111000000_Seoul_Jongno",
+            "shorten_url":"https:\/\/me2.do\/xaCAMEEp"
         },
         {
             "index":15,
@@ -238,7 +257,8 @@
             "value_score":57.645,
             "region":"서울시 종로구",
             "region_code":"Seoul",
-            "sub_region_code":"1111000000_Seoul_Jongno"
+            "sub_region_code":"1111000000_Seoul_Jongno",
+            "shorten_url":"https:\/\/me2.do\/xaCAMEEp"
         },
         {
             "index":16,
@@ -250,7 +270,8 @@
             "value_score":56.3398,
             "region":"서울시 종로구",
             "region_code":"Seoul",
-            "sub_region_code":"1111000000_Seoul_Jongno"
+            "sub_region_code":"1111000000_Seoul_Jongno",
+            "shorten_url":"https:\/\/me2.do\/xaCAMEEp"
         },
         {
             "index":17,
@@ -262,7 +283,8 @@
             "value_score":56.1924,
             "region":"서울시 종로구",
             "region_code":"Seoul",
-            "sub_region_code":"1111000000_Seoul_Jongno"
+            "sub_region_code":"1111000000_Seoul_Jongno",
+            "shorten_url":"https:\/\/me2.do\/xaCAMEEp"
         },
         {
             "index":18,
@@ -274,7 +296,8 @@
             "value_score":54.7829971577,
             "region":"서울시 종로구",
             "region_code":"Seoul",
-            "sub_region_code":"1111000000_Seoul_Jongno"
+            "sub_region_code":"1111000000_Seoul_Jongno",
+            "shorten_url":"https:\/\/me2.do\/xaCAMEEp"
         },
         {
             "index":19,
@@ -286,7 +309,8 @@
             "value_score":53.9508,
             "region":"서울시 종로구",
             "region_code":"Seoul",
-            "sub_region_code":"1111000000_Seoul_Jongno"
+            "sub_region_code":"1111000000_Seoul_Jongno",
+            "shorten_url":"https:\/\/me2.do\/xaCAMEEp"
         },
         {
             "index":20,
@@ -298,7 +322,8 @@
             "value_score":80.00485,
             "region":"서울시 종로구",
             "region_code":"Seoul",
-            "sub_region_code":"1111000000_Seoul_Jongno"
+            "sub_region_code":"1111000000_Seoul_Jongno",
+            "shorten_url":"https:\/\/me2.do\/xaCAMEEp"
         },
         {
             "index":21,
@@ -310,7 +335,8 @@
             "value_score":77.5259,
             "region":"서울시 종로구",
             "region_code":"Seoul",
-            "sub_region_code":"1111000000_Seoul_Jongno"
+            "sub_region_code":"1111000000_Seoul_Jongno",
+            "shorten_url":"https:\/\/me2.do\/xaCAMEEp"
         },
         {
             "index":22,
@@ -322,7 +348,8 @@
             "value_score":75.7186,
             "region":"서울시 종로구",
             "region_code":"Seoul",
-            "sub_region_code":"1111000000_Seoul_Jongno"
+            "sub_region_code":"1111000000_Seoul_Jongno",
+            "shorten_url":"https:\/\/me2.do\/xaCAMEEp"
         },
         {
             "index":23,
@@ -334,7 +361,8 @@
             "value_score":75.1256,
             "region":"서울시 종로구",
             "region_code":"Seoul",
-            "sub_region_code":"1111000000_Seoul_Jongno"
+            "sub_region_code":"1111000000_Seoul_Jongno",
+            "shorten_url":"https:\/\/me2.do\/xaCAMEEp"
         },
         {
             "index":24,
@@ -346,7 +374,8 @@
             "value_score":72.2693,
             "region":"서울시 종로구",
             "region_code":"Seoul",
-            "sub_region_code":"1111000000_Seoul_Jongno"
+            "sub_region_code":"1111000000_Seoul_Jongno",
+            "shorten_url":"https:\/\/me2.do\/xaCAMEEp"
         },
         {
             "index":25,
@@ -358,7 +387,8 @@
             "value_score":71.6693,
             "region":"서울시 종로구",
             "region_code":"Seoul",
-            "sub_region_code":"1111000000_Seoul_Jongno"
+            "sub_region_code":"1111000000_Seoul_Jongno",
+            "shorten_url":"https:\/\/me2.do\/xaCAMEEp"
         },
         {
             "index":26,
@@ -370,7 +400,8 @@
             "value_score":70.7009,
             "region":"서울시 종로구",
             "region_code":"Seoul",
-            "sub_region_code":"1111000000_Seoul_Jongno"
+            "sub_region_code":"1111000000_Seoul_Jongno",
+            "shorten_url":"https:\/\/me2.do\/xaCAMEEp"
         },
         {
             "index":27,
@@ -382,7 +413,8 @@
             "value_score":70.4693,
             "region":"서울시 종로구",
             "region_code":"Seoul",
-            "sub_region_code":"1111000000_Seoul_Jongno"
+            "sub_region_code":"1111000000_Seoul_Jongno",
+            "shorten_url":"https:\/\/me2.do\/xaCAMEEp"
         },
         {
             "index":28,
@@ -394,7 +426,8 @@
             "value_score":69.8936,
             "region":"서울시 종로구",
             "region_code":"Seoul",
-            "sub_region_code":"1111000000_Seoul_Jongno"
+            "sub_region_code":"1111000000_Seoul_Jongno",
+            "shorten_url":"https:\/\/me2.do\/xaCAMEEp"
         },
         {
             "index":29,
@@ -406,7 +439,8 @@
             "value_score":69.19235,
             "region":"서울시 종로구",
             "region_code":"Seoul",
-            "sub_region_code":"1111000000_Seoul_Jongno"
+            "sub_region_code":"1111000000_Seoul_Jongno",
+            "shorten_url":"https:\/\/me2.do\/xaCAMEEp"
         },
         {
             "index":30,
@@ -418,7 +452,8 @@
             "value_score":73.17475,
             "region":"서울시 종로구",
             "region_code":"Seoul",
-            "sub_region_code":"1111000000_Seoul_Jongno"
+            "sub_region_code":"1111000000_Seoul_Jongno",
+            "shorten_url":"https:\/\/me2.do\/xaCAMEEp"
         },
         {
             "index":31,
@@ -430,7 +465,8 @@
             "value_score":73.051,
             "region":"서울시 종로구",
             "region_code":"Seoul",
-            "sub_region_code":"1111000000_Seoul_Jongno"
+            "sub_region_code":"1111000000_Seoul_Jongno",
+            "shorten_url":"https:\/\/me2.do\/xaCAMEEp"
         },
         {
             "index":32,
@@ -442,7 +478,8 @@
             "value_score":72.6765,
             "region":"서울시 종로구",
             "region_code":"Seoul",
-            "sub_region_code":"1111000000_Seoul_Jongno"
+            "sub_region_code":"1111000000_Seoul_Jongno",
+            "shorten_url":"https:\/\/me2.do\/xaCAMEEp"
         },
         {
             "index":33,
@@ -454,7 +491,8 @@
             "value_score":72.0655,
             "region":"서울시 종로구",
             "region_code":"Seoul",
-            "sub_region_code":"1111000000_Seoul_Jongno"
+            "sub_region_code":"1111000000_Seoul_Jongno",
+            "shorten_url":"https:\/\/me2.do\/xaCAMEEp"
         },
         {
             "index":34,
@@ -466,7 +504,8 @@
             "value_score":71.7265,
             "region":"서울시 종로구",
             "region_code":"Seoul",
-            "sub_region_code":"1111000000_Seoul_Jongno"
+            "sub_region_code":"1111000000_Seoul_Jongno",
+            "shorten_url":"https:\/\/me2.do\/xaCAMEEp"
         },
         {
             "index":35,
@@ -478,7 +517,8 @@
             "value_score":70.631,
             "region":"서울시 종로구",
             "region_code":"Seoul",
-            "sub_region_code":"1111000000_Seoul_Jongno"
+            "sub_region_code":"1111000000_Seoul_Jongno",
+            "shorten_url":"https:\/\/me2.do\/xaCAMEEp"
         },
         {
             "index":36,
@@ -490,7 +530,8 @@
             "value_score":70.2655,
             "region":"서울시 종로구",
             "region_code":"Seoul",
-            "sub_region_code":"1111000000_Seoul_Jongno"
+            "sub_region_code":"1111000000_Seoul_Jongno",
+            "shorten_url":"https:\/\/me2.do\/xaCAMEEp"
         },
         {
             "index":37,
@@ -502,7 +543,8 @@
             "value_score":69.37475,
             "region":"서울시 종로구",
             "region_code":"Seoul",
-            "sub_region_code":"1111000000_Seoul_Jongno"
+            "sub_region_code":"1111000000_Seoul_Jongno",
+            "shorten_url":"https:\/\/me2.do\/xaCAMEEp"
         },
         {
             "index":38,
@@ -514,7 +556,8 @@
             "value_score":69.37475,
             "region":"서울시 종로구",
             "region_code":"Seoul",
-            "sub_region_code":"1111000000_Seoul_Jongno"
+            "sub_region_code":"1111000000_Seoul_Jongno",
+            "shorten_url":"https:\/\/me2.do\/xaCAMEEp"
         },
         {
             "index":39,
@@ -526,7 +569,8 @@
             "value_score":69.0655,
             "region":"서울시 종로구",
             "region_code":"Seoul",
-            "sub_region_code":"1111000000_Seoul_Jongno"
+            "sub_region_code":"1111000000_Seoul_Jongno",
+            "shorten_url":"https:\/\/me2.do\/xaCAMEEp"
         },
         {
             "index":40,
@@ -538,7 +582,8 @@
             "value_score":64.753,
             "region":"서울시 종로구",
             "region_code":"Seoul",
-            "sub_region_code":"1111000000_Seoul_Jongno"
+            "sub_region_code":"1111000000_Seoul_Jongno",
+            "shorten_url":"https:\/\/me2.do\/xaCAMEEp"
         },
         {
             "index":41,
@@ -550,7 +595,8 @@
             "value_score":62.253,
             "region":"서울시 종로구",
             "region_code":"Seoul",
-            "sub_region_code":"1111000000_Seoul_Jongno"
+            "sub_region_code":"1111000000_Seoul_Jongno",
+            "shorten_url":"https:\/\/me2.do\/xaCAMEEp"
         },
         {
             "index":42,
@@ -562,7 +608,8 @@
             "value_score":61.662,
             "region":"서울시 종로구",
             "region_code":"Seoul",
-            "sub_region_code":"1111000000_Seoul_Jongno"
+            "sub_region_code":"1111000000_Seoul_Jongno",
+            "shorten_url":"https:\/\/me2.do\/xaCAMEEp"
         },
         {
             "index":43,
@@ -574,7 +621,8 @@
             "value_score":58.3495,
             "region":"서울시 종로구",
             "region_code":"Seoul",
-            "sub_region_code":"1111000000_Seoul_Jongno"
+            "sub_region_code":"1111000000_Seoul_Jongno",
+            "shorten_url":"https:\/\/me2.do\/xaCAMEEp"
         },
         {
             "index":44,
@@ -586,7 +634,8 @@
             "value_score":58.131,
             "region":"서울시 종로구",
             "region_code":"Seoul",
-            "sub_region_code":"1111000000_Seoul_Jongno"
+            "sub_region_code":"1111000000_Seoul_Jongno",
+            "shorten_url":"https:\/\/me2.do\/xaCAMEEp"
         },
         {
             "index":45,
@@ -598,7 +647,8 @@
             "value_score":57.702,
             "region":"서울시 종로구",
             "region_code":"Seoul",
-            "sub_region_code":"1111000000_Seoul_Jongno"
+            "sub_region_code":"1111000000_Seoul_Jongno",
+            "shorten_url":"https:\/\/me2.do\/xaCAMEEp"
         },
         {
             "index":46,
@@ -610,7 +660,8 @@
             "value_score":56.931,
             "region":"서울시 종로구",
             "region_code":"Seoul",
-            "sub_region_code":"1111000000_Seoul_Jongno"
+            "sub_region_code":"1111000000_Seoul_Jongno",
+            "shorten_url":"https:\/\/me2.do\/xaCAMEEp"
         },
         {
             "index":47,
@@ -622,7 +673,8 @@
             "value_score":56.762,
             "region":"서울시 종로구",
             "region_code":"Seoul",
-            "sub_region_code":"1111000000_Seoul_Jongno"
+            "sub_region_code":"1111000000_Seoul_Jongno",
+            "shorten_url":"https:\/\/me2.do\/xaCAMEEp"
         },
         {
             "index":48,
@@ -634,7 +686,8 @@
             "value_score":55.731,
             "region":"서울시 종로구",
             "region_code":"Seoul",
-            "sub_region_code":"1111000000_Seoul_Jongno"
+            "sub_region_code":"1111000000_Seoul_Jongno",
+            "shorten_url":"https:\/\/me2.do\/xaCAMEEp"
         },
         {
             "index":49,
@@ -646,7 +699,8 @@
             "value_score":55.6495,
             "region":"서울시 종로구",
             "region_code":"Seoul",
-            "sub_region_code":"1111000000_Seoul_Jongno"
+            "sub_region_code":"1111000000_Seoul_Jongno",
+            "shorten_url":"https:\/\/me2.do\/xaCAMEEp"
         }
     ]
 }

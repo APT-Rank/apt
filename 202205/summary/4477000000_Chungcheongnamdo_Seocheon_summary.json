@@ -40,6 +40,10 @@
             {
                 "name":"sub_region_code",
                 "type":"string"
+            },
+            {
+                "name":"shorten_url",
+                "type":"string"
             }
         ],
         "primaryKey":[
@@ -58,7 +62,8 @@
             "value_score":45.8332,
             "region":"충청남도 서천군",
             "region_code":"Chungcheongnamdo",
-            "sub_region_code":"4477000000_Chungcheongnamdo_Seocheon"
+            "sub_region_code":"4477000000_Chungcheongnamdo_Seocheon",
+            "shorten_url":"https:\/\/me2.do\/I5oqvSzA"
         },
         {
             "index":1,
@@ -70,7 +75,8 @@
             "value_score":44.0332,
             "region":"충청남도 서천군",
             "region_code":"Chungcheongnamdo",
-            "sub_region_code":"4477000000_Chungcheongnamdo_Seocheon"
+            "sub_region_code":"4477000000_Chungcheongnamdo_Seocheon",
+            "shorten_url":"https:\/\/me2.do\/I5oqvSzA"
         },
         {
             "index":2,
@@ -82,7 +88,8 @@
             "value_score":40.9035,
             "region":"충청남도 서천군",
             "region_code":"Chungcheongnamdo",
-            "sub_region_code":"4477000000_Chungcheongnamdo_Seocheon"
+            "sub_region_code":"4477000000_Chungcheongnamdo_Seocheon",
+            "shorten_url":"https:\/\/me2.do\/I5oqvSzA"
         },
         {
             "index":3,
@@ -94,7 +101,8 @@
             "value_score":40.6332,
             "region":"충청남도 서천군",
             "region_code":"Chungcheongnamdo",
-            "sub_region_code":"4477000000_Chungcheongnamdo_Seocheon"
+            "sub_region_code":"4477000000_Chungcheongnamdo_Seocheon",
+            "shorten_url":"https:\/\/me2.do\/I5oqvSzA"
         },
         {
             "index":4,
@@ -106,7 +114,8 @@
             "value_score":40.3332,
             "region":"충청남도 서천군",
             "region_code":"Chungcheongnamdo",
-            "sub_region_code":"4477000000_Chungcheongnamdo_Seocheon"
+            "sub_region_code":"4477000000_Chungcheongnamdo_Seocheon",
+            "shorten_url":"https:\/\/me2.do\/I5oqvSzA"
         },
         {
             "index":5,
@@ -118,7 +127,8 @@
             "value_score":36.87095,
             "region":"충청남도 서천군",
             "region_code":"Chungcheongnamdo",
-            "sub_region_code":"4477000000_Chungcheongnamdo_Seocheon"
+            "sub_region_code":"4477000000_Chungcheongnamdo_Seocheon",
+            "shorten_url":"https:\/\/me2.do\/I5oqvSzA"
         },
         {
             "index":6,
@@ -130,7 +140,8 @@
             "value_score":33.8832,
             "region":"충청남도 서천군",
             "region_code":"Chungcheongnamdo",
-            "sub_region_code":"4477000000_Chungcheongnamdo_Seocheon"
+            "sub_region_code":"4477000000_Chungcheongnamdo_Seocheon",
+            "shorten_url":"https:\/\/me2.do\/I5oqvSzA"
         },
         {
             "index":7,
@@ -142,7 +153,8 @@
             "value_score":33.4832,
             "region":"충청남도 서천군",
             "region_code":"Chungcheongnamdo",
-            "sub_region_code":"4477000000_Chungcheongnamdo_Seocheon"
+            "sub_region_code":"4477000000_Chungcheongnamdo_Seocheon",
+            "shorten_url":"https:\/\/me2.do\/I5oqvSzA"
         },
         {
             "index":8,
@@ -154,7 +166,8 @@
             "value_score":33.0535,
             "region":"충청남도 서천군",
             "region_code":"Chungcheongnamdo",
-            "sub_region_code":"4477000000_Chungcheongnamdo_Seocheon"
+            "sub_region_code":"4477000000_Chungcheongnamdo_Seocheon",
+            "shorten_url":"https:\/\/me2.do\/I5oqvSzA"
         },
         {
             "index":9,
@@ -166,7 +179,8 @@
             "value_score":27.8832,
             "region":"충청남도 서천군",
             "region_code":"Chungcheongnamdo",
-            "sub_region_code":"4477000000_Chungcheongnamdo_Seocheon"
+            "sub_region_code":"4477000000_Chungcheongnamdo_Seocheon",
+            "shorten_url":"https:\/\/me2.do\/I5oqvSzA"
         },
         {
             "index":10,
@@ -178,7 +192,8 @@
             "value_score":45.238,
             "region":"충청남도 서천군",
             "region_code":"Chungcheongnamdo",
-            "sub_region_code":"4477000000_Chungcheongnamdo_Seocheon"
+            "sub_region_code":"4477000000_Chungcheongnamdo_Seocheon",
+            "shorten_url":"https:\/\/me2.do\/I5oqvSzA"
         },
         {
             "index":11,
@@ -190,7 +205,8 @@
             "value_score":44.988,
             "region":"충청남도 서천군",
             "region_code":"Chungcheongnamdo",
-            "sub_region_code":"4477000000_Chungcheongnamdo_Seocheon"
+            "sub_region_code":"4477000000_Chungcheongnamdo_Seocheon",
+            "shorten_url":"https:\/\/me2.do\/I5oqvSzA"
         },
         {
             "index":12,
@@ -202,7 +218,8 @@
             "value_score":42.5025,
             "region":"충청남도 서천군",
             "region_code":"Chungcheongnamdo",
-            "sub_region_code":"4477000000_Chungcheongnamdo_Seocheon"
+            "sub_region_code":"4477000000_Chungcheongnamdo_Seocheon",
+            "shorten_url":"https:\/\/me2.do\/I5oqvSzA"
         },
         {
             "index":13,
@@ -214,7 +231,8 @@
             "value_score":38.488,
             "region":"충청남도 서천군",
             "region_code":"Chungcheongnamdo",
-            "sub_region_code":"4477000000_Chungcheongnamdo_Seocheon"
+            "sub_region_code":"4477000000_Chungcheongnamdo_Seocheon",
+            "shorten_url":"https:\/\/me2.do\/I5oqvSzA"
         },
         {
             "index":14,
@@ -226,7 +244,8 @@
             "value_score":37.988,
             "region":"충청남도 서천군",
             "region_code":"Chungcheongnamdo",
-            "sub_region_code":"4477000000_Chungcheongnamdo_Seocheon"
+            "sub_region_code":"4477000000_Chungcheongnamdo_Seocheon",
+            "shorten_url":"https:\/\/me2.do\/I5oqvSzA"
         },
         {
             "index":15,
@@ -238,7 +257,8 @@
             "value_score":33.47925,
             "region":"충청남도 서천군",
             "region_code":"Chungcheongnamdo",
-            "sub_region_code":"4477000000_Chungcheongnamdo_Seocheon"
+            "sub_region_code":"4477000000_Chungcheongnamdo_Seocheon",
+            "shorten_url":"https:\/\/me2.do\/I5oqvSzA"
         },
         {
             "index":16,
@@ -250,7 +270,8 @@
             "value_score":32.738,
             "region":"충청남도 서천군",
             "region_code":"Chungcheongnamdo",
-            "sub_region_code":"4477000000_Chungcheongnamdo_Seocheon"
+            "sub_region_code":"4477000000_Chungcheongnamdo_Seocheon",
+            "shorten_url":"https:\/\/me2.do\/I5oqvSzA"
         },
         {
             "index":17,
@@ -262,7 +283,8 @@
             "value_score":32.2525,
             "region":"충청남도 서천군",
             "region_code":"Chungcheongnamdo",
-            "sub_region_code":"4477000000_Chungcheongnamdo_Seocheon"
+            "sub_region_code":"4477000000_Chungcheongnamdo_Seocheon",
+            "shorten_url":"https:\/\/me2.do\/I5oqvSzA"
         },
         {
             "index":18,
@@ -274,7 +296,8 @@
             "value_score":29.488,
             "region":"충청남도 서천군",
             "region_code":"Chungcheongnamdo",
-            "sub_region_code":"4477000000_Chungcheongnamdo_Seocheon"
+            "sub_region_code":"4477000000_Chungcheongnamdo_Seocheon",
+            "shorten_url":"https:\/\/me2.do\/I5oqvSzA"
         },
         {
             "index":19,
@@ -286,7 +309,8 @@
             "value_score":25.088,
             "region":"충청남도 서천군",
             "region_code":"Chungcheongnamdo",
-            "sub_region_code":"4477000000_Chungcheongnamdo_Seocheon"
+            "sub_region_code":"4477000000_Chungcheongnamdo_Seocheon",
+            "shorten_url":"https:\/\/me2.do\/I5oqvSzA"
         },
         {
             "index":20,
@@ -298,7 +322,8 @@
             "value_score":38.2216842105,
             "region":"충청남도 서천군",
             "region_code":"Chungcheongnamdo",
-            "sub_region_code":"4477000000_Chungcheongnamdo_Seocheon"
+            "sub_region_code":"4477000000_Chungcheongnamdo_Seocheon",
+            "shorten_url":"https:\/\/me2.do\/I5oqvSzA"
         },
         {
             "index":21,
@@ -310,7 +335,8 @@
             "value_score":37.9211578947,
             "region":"충청남도 서천군",
             "region_code":"Chungcheongnamdo",
-            "sub_region_code":"4477000000_Chungcheongnamdo_Seocheon"
+            "sub_region_code":"4477000000_Chungcheongnamdo_Seocheon",
+            "shorten_url":"https:\/\/me2.do\/I5oqvSzA"
         },
         {
             "index":22,
@@ -322,7 +348,8 @@
             "value_score":36.9058947368,
             "region":"충청남도 서천군",
             "region_code":"Chungcheongnamdo",
-            "sub_region_code":"4477000000_Chungcheongnamdo_Seocheon"
+            "sub_region_code":"4477000000_Chungcheongnamdo_Seocheon",
+            "shorten_url":"https:\/\/me2.do\/I5oqvSzA"
         },
         {
             "index":23,
@@ -334,7 +361,8 @@
             "value_score":36.1690526316,
             "region":"충청남도 서천군",
             "region_code":"Chungcheongnamdo",
-            "sub_region_code":"4477000000_Chungcheongnamdo_Seocheon"
+            "sub_region_code":"4477000000_Chungcheongnamdo_Seocheon",
+            "shorten_url":"https:\/\/me2.do\/I5oqvSzA"
         },
         {
             "index":24,
@@ -346,7 +374,8 @@
             "value_score":33.7743157895,
             "region":"충청남도 서천군",
             "region_code":"Chungcheongnamdo",
-            "sub_region_code":"4477000000_Chungcheongnamdo_Seocheon"
+            "sub_region_code":"4477000000_Chungcheongnamdo_Seocheon",
+            "shorten_url":"https:\/\/me2.do\/I5oqvSzA"
         },
         {
             "index":25,
@@ -358,7 +387,8 @@
             "value_score":33.6690526316,
             "region":"충청남도 서천군",
             "region_code":"Chungcheongnamdo",
-            "sub_region_code":"4477000000_Chungcheongnamdo_Seocheon"
+            "sub_region_code":"4477000000_Chungcheongnamdo_Seocheon",
+            "shorten_url":"https:\/\/me2.do\/I5oqvSzA"
         },
         {
             "index":26,
@@ -370,7 +400,8 @@
             "value_score":28.74,
             "region":"충청남도 서천군",
             "region_code":"Chungcheongnamdo",
-            "sub_region_code":"4477000000_Chungcheongnamdo_Seocheon"
+            "sub_region_code":"4477000000_Chungcheongnamdo_Seocheon",
+            "shorten_url":"https:\/\/me2.do\/I5oqvSzA"
         },
         {
             "index":27,
@@ -382,7 +413,8 @@
             "value_score":28.6347368421,
             "region":"충청남도 서천군",
             "region_code":"Chungcheongnamdo",
-            "sub_region_code":"4477000000_Chungcheongnamdo_Seocheon"
+            "sub_region_code":"4477000000_Chungcheongnamdo_Seocheon",
+            "shorten_url":"https:\/\/me2.do\/I5oqvSzA"
         },
         {
             "index":28,
@@ -394,7 +426,8 @@
             "value_score":28.3795789474,
             "region":"충청남도 서천군",
             "region_code":"Chungcheongnamdo",
-            "sub_region_code":"4477000000_Chungcheongnamdo_Seocheon"
+            "sub_region_code":"4477000000_Chungcheongnamdo_Seocheon",
+            "shorten_url":"https:\/\/me2.do\/I5oqvSzA"
         },
         {
             "index":29,
@@ -406,7 +439,8 @@
             "value_score":27.0374736842,
             "region":"충청남도 서천군",
             "region_code":"Chungcheongnamdo",
-            "sub_region_code":"4477000000_Chungcheongnamdo_Seocheon"
+            "sub_region_code":"4477000000_Chungcheongnamdo_Seocheon",
+            "shorten_url":"https:\/\/me2.do\/I5oqvSzA"
         },
         {
             "index":30,
@@ -418,7 +452,8 @@
             "value_score":47.101,
             "region":"충청남도 서천군",
             "region_code":"Chungcheongnamdo",
-            "sub_region_code":"4477000000_Chungcheongnamdo_Seocheon"
+            "sub_region_code":"4477000000_Chungcheongnamdo_Seocheon",
+            "shorten_url":"https:\/\/me2.do\/I5oqvSzA"
         },
         {
             "index":31,
@@ -430,7 +465,8 @@
             "value_score":43.851,
             "region":"충청남도 서천군",
             "region_code":"Chungcheongnamdo",
-            "sub_region_code":"4477000000_Chungcheongnamdo_Seocheon"
+            "sub_region_code":"4477000000_Chungcheongnamdo_Seocheon",
+            "shorten_url":"https:\/\/me2.do\/I5oqvSzA"
         },
         {
             "index":32,
@@ -442,7 +478,8 @@
             "value_score":43.851,
             "region":"충청남도 서천군",
             "region_code":"Chungcheongnamdo",
-            "sub_region_code":"4477000000_Chungcheongnamdo_Seocheon"
+            "sub_region_code":"4477000000_Chungcheongnamdo_Seocheon",
+            "shorten_url":"https:\/\/me2.do\/I5oqvSzA"
         },
         {
             "index":33,
@@ -454,7 +491,8 @@
             "value_score":42.226,
             "region":"충청남도 서천군",
             "region_code":"Chungcheongnamdo",
-            "sub_region_code":"4477000000_Chungcheongnamdo_Seocheon"
+            "sub_region_code":"4477000000_Chungcheongnamdo_Seocheon",
+            "shorten_url":"https:\/\/me2.do\/I5oqvSzA"
         },
         {
             "index":34,
@@ -466,7 +504,8 @@
             "value_score":41.9585,
             "region":"충청남도 서천군",
             "region_code":"Chungcheongnamdo",
-            "sub_region_code":"4477000000_Chungcheongnamdo_Seocheon"
+            "sub_region_code":"4477000000_Chungcheongnamdo_Seocheon",
+            "shorten_url":"https:\/\/me2.do\/I5oqvSzA"
         },
         {
             "index":35,
@@ -478,7 +517,8 @@
             "value_score":39.476,
             "region":"충청남도 서천군",
             "region_code":"Chungcheongnamdo",
-            "sub_region_code":"4477000000_Chungcheongnamdo_Seocheon"
+            "sub_region_code":"4477000000_Chungcheongnamdo_Seocheon",
+            "shorten_url":"https:\/\/me2.do\/I5oqvSzA"
         },
         {
             "index":36,
@@ -490,7 +530,8 @@
             "value_score":38.505,
             "region":"충청남도 서천군",
             "region_code":"Chungcheongnamdo",
-            "sub_region_code":"4477000000_Chungcheongnamdo_Seocheon"
+            "sub_region_code":"4477000000_Chungcheongnamdo_Seocheon",
+            "shorten_url":"https:\/\/me2.do\/I5oqvSzA"
         },
         {
             "index":37,
@@ -502,7 +543,8 @@
             "value_score":35.601,
             "region":"충청남도 서천군",
             "region_code":"Chungcheongnamdo",
-            "sub_region_code":"4477000000_Chungcheongnamdo_Seocheon"
+            "sub_region_code":"4477000000_Chungcheongnamdo_Seocheon",
+            "shorten_url":"https:\/\/me2.do\/I5oqvSzA"
         },
         {
             "index":38,
@@ -514,7 +556,8 @@
             "value_score":34.255,
             "region":"충청남도 서천군",
             "region_code":"Chungcheongnamdo",
-            "sub_region_code":"4477000000_Chungcheongnamdo_Seocheon"
+            "sub_region_code":"4477000000_Chungcheongnamdo_Seocheon",
+            "shorten_url":"https:\/\/me2.do\/I5oqvSzA"
         },
         {
             "index":39,
@@ -526,7 +569,8 @@
             "value_score":32.076,
             "region":"충청남도 서천군",
             "region_code":"Chungcheongnamdo",
-            "sub_region_code":"4477000000_Chungcheongnamdo_Seocheon"
+            "sub_region_code":"4477000000_Chungcheongnamdo_Seocheon",
+            "shorten_url":"https:\/\/me2.do\/I5oqvSzA"
         }
     ]
 }

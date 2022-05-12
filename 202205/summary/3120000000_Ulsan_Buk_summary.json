@@ -40,6 +40,10 @@
             {
                 "name":"sub_region_code",
                 "type":"string"
+            },
+            {
+                "name":"shorten_url",
+                "type":"string"
             }
         ],
         "primaryKey":[
@@ -58,7 +62,8 @@
             "value_score":61.3696,
             "region":"울산시 북구",
             "region_code":"Ulsan",
-            "sub_region_code":"3120000000_Ulsan_Buk"
+            "sub_region_code":"3120000000_Ulsan_Buk",
+            "shorten_url":"https:\/\/me2.do\/GFndymaW"
         },
         {
             "index":1,
@@ -70,7 +75,8 @@
             "value_score":61.07195,
             "region":"울산시 북구",
             "region_code":"Ulsan",
-            "sub_region_code":"3120000000_Ulsan_Buk"
+            "sub_region_code":"3120000000_Ulsan_Buk",
+            "shorten_url":"https:\/\/me2.do\/GFndymaW"
         },
         {
             "index":2,
@@ -82,7 +88,8 @@
             "value_score":57.7404,
             "region":"울산시 북구",
             "region_code":"Ulsan",
-            "sub_region_code":"3120000000_Ulsan_Buk"
+            "sub_region_code":"3120000000_Ulsan_Buk",
+            "shorten_url":"https:\/\/me2.do\/GFndymaW"
         },
         {
             "index":3,
@@ -94,7 +101,8 @@
             "value_score":57.59565,
             "region":"울산시 북구",
             "region_code":"Ulsan",
-            "sub_region_code":"3120000000_Ulsan_Buk"
+            "sub_region_code":"3120000000_Ulsan_Buk",
+            "shorten_url":"https:\/\/me2.do\/GFndymaW"
         },
         {
             "index":4,
@@ -106,7 +114,8 @@
             "value_score":56.7696,
             "region":"울산시 북구",
             "region_code":"Ulsan",
-            "sub_region_code":"3120000000_Ulsan_Buk"
+            "sub_region_code":"3120000000_Ulsan_Buk",
+            "shorten_url":"https:\/\/me2.do\/GFndymaW"
         },
         {
             "index":5,
@@ -118,7 +127,8 @@
             "value_score":56.69565,
             "region":"울산시 북구",
             "region_code":"Ulsan",
-            "sub_region_code":"3120000000_Ulsan_Buk"
+            "sub_region_code":"3120000000_Ulsan_Buk",
+            "shorten_url":"https:\/\/me2.do\/GFndymaW"
         },
         {
             "index":6,
@@ -130,7 +140,8 @@
             "value_score":56.09565,
             "region":"울산시 북구",
             "region_code":"Ulsan",
-            "sub_region_code":"3120000000_Ulsan_Buk"
+            "sub_region_code":"3120000000_Ulsan_Buk",
+            "shorten_url":"https:\/\/me2.do\/GFndymaW"
         },
         {
             "index":7,
@@ -142,7 +153,8 @@
             "value_score":55.99565,
             "region":"울산시 북구",
             "region_code":"Ulsan",
-            "sub_region_code":"3120000000_Ulsan_Buk"
+            "sub_region_code":"3120000000_Ulsan_Buk",
+            "shorten_url":"https:\/\/me2.do\/GFndymaW"
         },
         {
             "index":8,
@@ -154,7 +166,8 @@
             "value_score":55.6205616575,
             "region":"울산시 북구",
             "region_code":"Ulsan",
-            "sub_region_code":"3120000000_Ulsan_Buk"
+            "sub_region_code":"3120000000_Ulsan_Buk",
+            "shorten_url":"https:\/\/me2.do\/GFndymaW"
         },
         {
             "index":9,
@@ -166,7 +179,8 @@
             "value_score":55.3966,
             "region":"울산시 북구",
             "region_code":"Ulsan",
-            "sub_region_code":"3120000000_Ulsan_Buk"
+            "sub_region_code":"3120000000_Ulsan_Buk",
+            "shorten_url":"https:\/\/me2.do\/GFndymaW"
         },
         {
             "index":10,
@@ -178,7 +192,8 @@
             "value_score":61.94425,
             "region":"울산시 북구",
             "region_code":"Ulsan",
-            "sub_region_code":"3120000000_Ulsan_Buk"
+            "sub_region_code":"3120000000_Ulsan_Buk",
+            "shorten_url":"https:\/\/me2.do\/GFndymaW"
         },
         {
             "index":11,
@@ -190,7 +205,8 @@
             "value_score":61.514,
             "region":"울산시 북구",
             "region_code":"Ulsan",
-            "sub_region_code":"3120000000_Ulsan_Buk"
+            "sub_region_code":"3120000000_Ulsan_Buk",
+            "shorten_url":"https:\/\/me2.do\/GFndymaW"
         },
         {
             "index":12,
@@ -202,7 +218,8 @@
             "value_score":59.13975,
             "region":"울산시 북구",
             "region_code":"Ulsan",
-            "sub_region_code":"3120000000_Ulsan_Buk"
+            "sub_region_code":"3120000000_Ulsan_Buk",
+            "shorten_url":"https:\/\/me2.do\/GFndymaW"
         },
         {
             "index":13,
@@ -214,7 +231,8 @@
             "value_score":58.636,
             "region":"울산시 북구",
             "region_code":"Ulsan",
-            "sub_region_code":"3120000000_Ulsan_Buk"
+            "sub_region_code":"3120000000_Ulsan_Buk",
+            "shorten_url":"https:\/\/me2.do\/GFndymaW"
         },
         {
             "index":14,
@@ -226,7 +244,8 @@
             "value_score":57.88975,
             "region":"울산시 북구",
             "region_code":"Ulsan",
-            "sub_region_code":"3120000000_Ulsan_Buk"
+            "sub_region_code":"3120000000_Ulsan_Buk",
+            "shorten_url":"https:\/\/me2.do\/GFndymaW"
         },
         {
             "index":15,
@@ -238,7 +257,8 @@
             "value_score":57.37575,
             "region":"울산시 북구",
             "region_code":"Ulsan",
-            "sub_region_code":"3120000000_Ulsan_Buk"
+            "sub_region_code":"3120000000_Ulsan_Buk",
+            "shorten_url":"https:\/\/me2.do\/GFndymaW"
         },
         {
             "index":16,
@@ -250,7 +270,8 @@
             "value_score":57.13975,
             "region":"울산시 북구",
             "region_code":"Ulsan",
-            "sub_region_code":"3120000000_Ulsan_Buk"
+            "sub_region_code":"3120000000_Ulsan_Buk",
+            "shorten_url":"https:\/\/me2.do\/GFndymaW"
         },
         {
             "index":17,
@@ -262,7 +283,8 @@
             "value_score":56.62575,
             "region":"울산시 북구",
             "region_code":"Ulsan",
-            "sub_region_code":"3120000000_Ulsan_Buk"
+            "sub_region_code":"3120000000_Ulsan_Buk",
+            "shorten_url":"https:\/\/me2.do\/GFndymaW"
         },
         {
             "index":18,
@@ -274,7 +296,8 @@
             "value_score":56.514,
             "region":"울산시 북구",
             "region_code":"Ulsan",
-            "sub_region_code":"3120000000_Ulsan_Buk"
+            "sub_region_code":"3120000000_Ulsan_Buk",
+            "shorten_url":"https:\/\/me2.do\/GFndymaW"
         },
         {
             "index":19,
@@ -286,7 +309,8 @@
             "value_score":56.319,
             "region":"울산시 북구",
             "region_code":"Ulsan",
-            "sub_region_code":"3120000000_Ulsan_Buk"
+            "sub_region_code":"3120000000_Ulsan_Buk",
+            "shorten_url":"https:\/\/me2.do\/GFndymaW"
         },
         {
             "index":20,
@@ -298,7 +322,8 @@
             "value_score":59.6229473684,
             "region":"울산시 북구",
             "region_code":"Ulsan",
-            "sub_region_code":"3120000000_Ulsan_Buk"
+            "sub_region_code":"3120000000_Ulsan_Buk",
+            "shorten_url":"https:\/\/me2.do\/GFndymaW"
         },
         {
             "index":21,
@@ -310,7 +335,8 @@
             "value_score":58.5703157895,
             "region":"울산시 북구",
             "region_code":"Ulsan",
-            "sub_region_code":"3120000000_Ulsan_Buk"
+            "sub_region_code":"3120000000_Ulsan_Buk",
+            "shorten_url":"https:\/\/me2.do\/GFndymaW"
         },
         {
             "index":22,
@@ -322,7 +348,8 @@
             "value_score":54.3243157895,
             "region":"울산시 북구",
             "region_code":"Ulsan",
-            "sub_region_code":"3120000000_Ulsan_Buk"
+            "sub_region_code":"3120000000_Ulsan_Buk",
+            "shorten_url":"https:\/\/me2.do\/GFndymaW"
         },
         {
             "index":23,
@@ -334,7 +361,8 @@
             "value_score":53.3071578947,
             "region":"울산시 북구",
             "region_code":"Ulsan",
-            "sub_region_code":"3120000000_Ulsan_Buk"
+            "sub_region_code":"3120000000_Ulsan_Buk",
+            "shorten_url":"https:\/\/me2.do\/GFndymaW"
         },
         {
             "index":24,
@@ -346,7 +374,8 @@
             "value_score":53.3071578947,
             "region":"울산시 북구",
             "region_code":"Ulsan",
-            "sub_region_code":"3120000000_Ulsan_Buk"
+            "sub_region_code":"3120000000_Ulsan_Buk",
+            "shorten_url":"https:\/\/me2.do\/GFndymaW"
         },
         {
             "index":25,
@@ -358,7 +387,8 @@
             "value_score":52.6755789474,
             "region":"울산시 북구",
             "region_code":"Ulsan",
-            "sub_region_code":"3120000000_Ulsan_Buk"
+            "sub_region_code":"3120000000_Ulsan_Buk",
+            "shorten_url":"https:\/\/me2.do\/GFndymaW"
         },
         {
             "index":26,
@@ -370,7 +400,8 @@
             "value_score":45.9029473684,
             "region":"울산시 북구",
             "region_code":"Ulsan",
-            "sub_region_code":"3120000000_Ulsan_Buk"
+            "sub_region_code":"3120000000_Ulsan_Buk",
+            "shorten_url":"https:\/\/me2.do\/GFndymaW"
         },
         {
             "index":27,
@@ -382,7 +413,8 @@
             "value_score":45.4029473684,
             "region":"울산시 북구",
             "region_code":"Ulsan",
-            "sub_region_code":"3120000000_Ulsan_Buk"
+            "sub_region_code":"3120000000_Ulsan_Buk",
+            "shorten_url":"https:\/\/me2.do\/GFndymaW"
         },
         {
             "index":28,
@@ -394,7 +426,8 @@
             "value_score":44.1924210526,
             "region":"울산시 북구",
             "region_code":"Ulsan",
-            "sub_region_code":"3120000000_Ulsan_Buk"
+            "sub_region_code":"3120000000_Ulsan_Buk",
+            "shorten_url":"https:\/\/me2.do\/GFndymaW"
         },
         {
             "index":29,
@@ -406,7 +439,8 @@
             "value_score":42.7152631579,
             "region":"울산시 북구",
             "region_code":"Ulsan",
-            "sub_region_code":"3120000000_Ulsan_Buk"
+            "sub_region_code":"3120000000_Ulsan_Buk",
+            "shorten_url":"https:\/\/me2.do\/GFndymaW"
         },
         {
             "index":30,
@@ -418,7 +452,8 @@
             "value_score":61.153,
             "region":"울산시 북구",
             "region_code":"Ulsan",
-            "sub_region_code":"3120000000_Ulsan_Buk"
+            "sub_region_code":"3120000000_Ulsan_Buk",
+            "shorten_url":"https:\/\/me2.do\/GFndymaW"
         },
         {
             "index":31,
@@ -430,7 +465,8 @@
             "value_score":59.7635,
             "region":"울산시 북구",
             "region_code":"Ulsan",
-            "sub_region_code":"3120000000_Ulsan_Buk"
+            "sub_region_code":"3120000000_Ulsan_Buk",
+            "shorten_url":"https:\/\/me2.do\/GFndymaW"
         },
         {
             "index":32,
@@ -442,7 +478,8 @@
             "value_score":57.153,
             "region":"울산시 북구",
             "region_code":"Ulsan",
-            "sub_region_code":"3120000000_Ulsan_Buk"
+            "sub_region_code":"3120000000_Ulsan_Buk",
+            "shorten_url":"https:\/\/me2.do\/GFndymaW"
         },
         {
             "index":33,
@@ -454,7 +491,8 @@
             "value_score":56.4045,
             "region":"울산시 북구",
             "region_code":"Ulsan",
-            "sub_region_code":"3120000000_Ulsan_Buk"
+            "sub_region_code":"3120000000_Ulsan_Buk",
+            "shorten_url":"https:\/\/me2.do\/GFndymaW"
         },
         {
             "index":34,
@@ -466,7 +504,8 @@
             "value_score":56.397,
             "region":"울산시 북구",
             "region_code":"Ulsan",
-            "sub_region_code":"3120000000_Ulsan_Buk"
+            "sub_region_code":"3120000000_Ulsan_Buk",
+            "shorten_url":"https:\/\/me2.do\/GFndymaW"
         },
         {
             "index":35,
@@ -478,7 +517,8 @@
             "value_score":55.2795,
             "region":"울산시 북구",
             "region_code":"Ulsan",
-            "sub_region_code":"3120000000_Ulsan_Buk"
+            "sub_region_code":"3120000000_Ulsan_Buk",
+            "shorten_url":"https:\/\/me2.do\/GFndymaW"
         },
         {
             "index":36,
@@ -490,7 +530,8 @@
             "value_score":54.9045,
             "region":"울산시 북구",
             "region_code":"Ulsan",
-            "sub_region_code":"3120000000_Ulsan_Buk"
+            "sub_region_code":"3120000000_Ulsan_Buk",
+            "shorten_url":"https:\/\/me2.do\/GFndymaW"
         },
         {
             "index":37,
@@ -502,7 +543,8 @@
             "value_score":54.7615166536,
             "region":"울산시 북구",
             "region_code":"Ulsan",
-            "sub_region_code":"3120000000_Ulsan_Buk"
+            "sub_region_code":"3120000000_Ulsan_Buk",
+            "shorten_url":"https:\/\/me2.do\/GFndymaW"
         },
         {
             "index":38,
@@ -514,7 +556,8 @@
             "value_score":54.2795,
             "region":"울산시 북구",
             "region_code":"Ulsan",
-            "sub_region_code":"3120000000_Ulsan_Buk"
+            "sub_region_code":"3120000000_Ulsan_Buk",
+            "shorten_url":"https:\/\/me2.do\/GFndymaW"
         },
         {
             "index":39,
@@ -526,7 +569,8 @@
             "value_score":54.013,
             "region":"울산시 북구",
             "region_code":"Ulsan",
-            "sub_region_code":"3120000000_Ulsan_Buk"
+            "sub_region_code":"3120000000_Ulsan_Buk",
+            "shorten_url":"https:\/\/me2.do\/GFndymaW"
         }
     ]
 }

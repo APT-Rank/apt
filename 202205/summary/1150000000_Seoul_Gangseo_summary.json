@@ -40,6 +40,10 @@
             {
                 "name":"sub_region_code",
                 "type":"string"
+            },
+            {
+                "name":"shorten_url",
+                "type":"string"
             }
         ],
         "primaryKey":[
@@ -58,7 +62,8 @@
             "value_score":74.0332,
             "region":"서울시 강서구",
             "region_code":"Seoul",
-            "sub_region_code":"1150000000_Seoul_Gangseo"
+            "sub_region_code":"1150000000_Seoul_Gangseo",
+            "shorten_url":"https:\/\/me2.do\/GSgNmjX0"
         },
         {
             "index":1,
@@ -70,7 +75,8 @@
             "value_score":71.4832,
             "region":"서울시 강서구",
             "region_code":"Seoul",
-            "sub_region_code":"1150000000_Seoul_Gangseo"
+            "sub_region_code":"1150000000_Seoul_Gangseo",
+            "shorten_url":"https:\/\/me2.do\/GSgNmjX0"
         },
         {
             "index":2,
@@ -82,7 +88,8 @@
             "value_score":69.2332,
             "region":"서울시 강서구",
             "region_code":"Seoul",
-            "sub_region_code":"1150000000_Seoul_Gangseo"
+            "sub_region_code":"1150000000_Seoul_Gangseo",
+            "shorten_url":"https:\/\/me2.do\/GSgNmjX0"
         },
         {
             "index":3,
@@ -94,7 +101,8 @@
             "value_score":69.2332,
             "region":"서울시 강서구",
             "region_code":"Seoul",
-            "sub_region_code":"1150000000_Seoul_Gangseo"
+            "sub_region_code":"1150000000_Seoul_Gangseo",
+            "shorten_url":"https:\/\/me2.do\/GSgNmjX0"
         },
         {
             "index":4,
@@ -106,7 +114,8 @@
             "value_score":68.0711,
             "region":"서울시 강서구",
             "region_code":"Seoul",
-            "sub_region_code":"1150000000_Seoul_Gangseo"
+            "sub_region_code":"1150000000_Seoul_Gangseo",
+            "shorten_url":"https:\/\/me2.do\/GSgNmjX0"
         },
         {
             "index":5,
@@ -118,7 +127,8 @@
             "value_score":67.7711,
             "region":"서울시 강서구",
             "region_code":"Seoul",
-            "sub_region_code":"1150000000_Seoul_Gangseo"
+            "sub_region_code":"1150000000_Seoul_Gangseo",
+            "shorten_url":"https:\/\/me2.do\/GSgNmjX0"
         },
         {
             "index":6,
@@ -130,7 +140,8 @@
             "value_score":67.1221,
             "region":"서울시 강서구",
             "region_code":"Seoul",
-            "sub_region_code":"1150000000_Seoul_Gangseo"
+            "sub_region_code":"1150000000_Seoul_Gangseo",
+            "shorten_url":"https:\/\/me2.do\/GSgNmjX0"
         },
         {
             "index":7,
@@ -142,7 +153,8 @@
             "value_score":66.9208,
             "region":"서울시 강서구",
             "region_code":"Seoul",
-            "sub_region_code":"1150000000_Seoul_Gangseo"
+            "sub_region_code":"1150000000_Seoul_Gangseo",
+            "shorten_url":"https:\/\/me2.do\/GSgNmjX0"
         },
         {
             "index":8,
@@ -154,7 +166,8 @@
             "value_score":66.4332,
             "region":"서울시 강서구",
             "region_code":"Seoul",
-            "sub_region_code":"1150000000_Seoul_Gangseo"
+            "sub_region_code":"1150000000_Seoul_Gangseo",
+            "shorten_url":"https:\/\/me2.do\/GSgNmjX0"
         },
         {
             "index":9,
@@ -166,7 +179,8 @@
             "value_score":65.7332,
             "region":"서울시 강서구",
             "region_code":"Seoul",
-            "sub_region_code":"1150000000_Seoul_Gangseo"
+            "sub_region_code":"1150000000_Seoul_Gangseo",
+            "shorten_url":"https:\/\/me2.do\/GSgNmjX0"
         },
         {
             "index":10,
@@ -178,7 +192,8 @@
             "value_score":77.2388,
             "region":"서울시 강서구",
             "region_code":"Seoul",
-            "sub_region_code":"1150000000_Seoul_Gangseo"
+            "sub_region_code":"1150000000_Seoul_Gangseo",
+            "shorten_url":"https:\/\/me2.do\/GSgNmjX0"
         },
         {
             "index":11,
@@ -190,7 +205,8 @@
             "value_score":74.9888,
             "region":"서울시 강서구",
             "region_code":"Seoul",
-            "sub_region_code":"1150000000_Seoul_Gangseo"
+            "sub_region_code":"1150000000_Seoul_Gangseo",
+            "shorten_url":"https:\/\/me2.do\/GSgNmjX0"
         },
         {
             "index":12,
@@ -202,7 +218,8 @@
             "value_score":71.8474,
             "region":"서울시 강서구",
             "region_code":"Seoul",
-            "sub_region_code":"1150000000_Seoul_Gangseo"
+            "sub_region_code":"1150000000_Seoul_Gangseo",
+            "shorten_url":"https:\/\/me2.do\/GSgNmjX0"
         },
         {
             "index":13,
@@ -214,7 +231,8 @@
             "value_score":71.7972,
             "region":"서울시 강서구",
             "region_code":"Seoul",
-            "sub_region_code":"1150000000_Seoul_Gangseo"
+            "sub_region_code":"1150000000_Seoul_Gangseo",
+            "shorten_url":"https:\/\/me2.do\/GSgNmjX0"
         },
         {
             "index":14,
@@ -226,7 +244,8 @@
             "value_score":71.2814,
             "region":"서울시 강서구",
             "region_code":"Seoul",
-            "sub_region_code":"1150000000_Seoul_Gangseo"
+            "sub_region_code":"1150000000_Seoul_Gangseo",
+            "shorten_url":"https:\/\/me2.do\/GSgNmjX0"
         },
         {
             "index":15,
@@ -238,7 +257,8 @@
             "value_score":70.7474,
             "region":"서울시 강서구",
             "region_code":"Seoul",
-            "sub_region_code":"1150000000_Seoul_Gangseo"
+            "sub_region_code":"1150000000_Seoul_Gangseo",
+            "shorten_url":"https:\/\/me2.do\/GSgNmjX0"
         },
         {
             "index":16,
@@ -250,7 +270,8 @@
             "value_score":70.4388,
             "region":"서울시 강서구",
             "region_code":"Seoul",
-            "sub_region_code":"1150000000_Seoul_Gangseo"
+            "sub_region_code":"1150000000_Seoul_Gangseo",
+            "shorten_url":"https:\/\/me2.do\/GSgNmjX0"
         },
         {
             "index":17,
@@ -262,7 +283,8 @@
             "value_score":70.2388,
             "region":"서울시 강서구",
             "region_code":"Seoul",
-            "sub_region_code":"1150000000_Seoul_Gangseo"
+            "sub_region_code":"1150000000_Seoul_Gangseo",
+            "shorten_url":"https:\/\/me2.do\/GSgNmjX0"
         },
         {
             "index":18,
@@ -274,7 +296,8 @@
             "value_score":70.2104,
             "region":"서울시 강서구",
             "region_code":"Seoul",
-            "sub_region_code":"1150000000_Seoul_Gangseo"
+            "sub_region_code":"1150000000_Seoul_Gangseo",
+            "shorten_url":"https:\/\/me2.do\/GSgNmjX0"
         },
         {
             "index":19,
@@ -286,7 +309,8 @@
             "value_score":68.6388,
             "region":"서울시 강서구",
             "region_code":"Seoul",
-            "sub_region_code":"1150000000_Seoul_Gangseo"
+            "sub_region_code":"1150000000_Seoul_Gangseo",
+            "shorten_url":"https:\/\/me2.do\/GSgNmjX0"
         },
         {
             "index":20,
@@ -298,7 +322,8 @@
             "value_score":75.0166,
             "region":"서울시 강서구",
             "region_code":"Seoul",
-            "sub_region_code":"1150000000_Seoul_Gangseo"
+            "sub_region_code":"1150000000_Seoul_Gangseo",
+            "shorten_url":"https:\/\/me2.do\/GSgNmjX0"
         },
         {
             "index":21,
@@ -310,7 +335,8 @@
             "value_score":72.2166,
             "region":"서울시 강서구",
             "region_code":"Seoul",
-            "sub_region_code":"1150000000_Seoul_Gangseo"
+            "sub_region_code":"1150000000_Seoul_Gangseo",
+            "shorten_url":"https:\/\/me2.do\/GSgNmjX0"
         },
         {
             "index":22,
@@ -322,7 +348,8 @@
             "value_score":70.5166,
             "region":"서울시 강서구",
             "region_code":"Seoul",
-            "sub_region_code":"1150000000_Seoul_Gangseo"
+            "sub_region_code":"1150000000_Seoul_Gangseo",
+            "shorten_url":"https:\/\/me2.do\/GSgNmjX0"
         },
         {
             "index":23,
@@ -334,7 +361,8 @@
             "value_score":69.9166,
             "region":"서울시 강서구",
             "region_code":"Seoul",
-            "sub_region_code":"1150000000_Seoul_Gangseo"
+            "sub_region_code":"1150000000_Seoul_Gangseo",
+            "shorten_url":"https:\/\/me2.do\/GSgNmjX0"
         },
         {
             "index":24,
@@ -346,7 +374,8 @@
             "value_score":69.5416,
             "region":"서울시 강서구",
             "region_code":"Seoul",
-            "sub_region_code":"1150000000_Seoul_Gangseo"
+            "sub_region_code":"1150000000_Seoul_Gangseo",
+            "shorten_url":"https:\/\/me2.do\/GSgNmjX0"
         },
         {
             "index":25,
@@ -358,7 +387,8 @@
             "value_score":69.39445,
             "region":"서울시 강서구",
             "region_code":"Seoul",
-            "sub_region_code":"1150000000_Seoul_Gangseo"
+            "sub_region_code":"1150000000_Seoul_Gangseo",
+            "shorten_url":"https:\/\/me2.do\/GSgNmjX0"
         },
         {
             "index":26,
@@ -370,7 +400,8 @@
             "value_score":68.39445,
             "region":"서울시 강서구",
             "region_code":"Seoul",
-            "sub_region_code":"1150000000_Seoul_Gangseo"
+            "sub_region_code":"1150000000_Seoul_Gangseo",
+            "shorten_url":"https:\/\/me2.do\/GSgNmjX0"
         },
         {
             "index":27,
@@ -382,7 +413,8 @@
             "value_score":68.1336,
             "region":"서울시 강서구",
             "region_code":"Seoul",
-            "sub_region_code":"1150000000_Seoul_Gangseo"
+            "sub_region_code":"1150000000_Seoul_Gangseo",
+            "shorten_url":"https:\/\/me2.do\/GSgNmjX0"
         },
         {
             "index":28,
@@ -394,7 +426,8 @@
             "value_score":67.67305,
             "region":"서울시 강서구",
             "region_code":"Seoul",
-            "sub_region_code":"1150000000_Seoul_Gangseo"
+            "sub_region_code":"1150000000_Seoul_Gangseo",
+            "shorten_url":"https:\/\/me2.do\/GSgNmjX0"
         },
         {
             "index":29,
@@ -406,7 +439,8 @@
             "value_score":67.5604,
             "region":"서울시 강서구",
             "region_code":"Seoul",
-            "sub_region_code":"1150000000_Seoul_Gangseo"
+            "sub_region_code":"1150000000_Seoul_Gangseo",
+            "shorten_url":"https:\/\/me2.do\/GSgNmjX0"
         },
         {
             "index":30,
@@ -418,7 +452,8 @@
             "value_score":70.836,
             "region":"서울시 강서구",
             "region_code":"Seoul",
-            "sub_region_code":"1150000000_Seoul_Gangseo"
+            "sub_region_code":"1150000000_Seoul_Gangseo",
+            "shorten_url":"https:\/\/me2.do\/GSgNmjX0"
         },
         {
             "index":31,
@@ -430,7 +465,8 @@
             "value_score":70.086,
             "region":"서울시 강서구",
             "region_code":"Seoul",
-            "sub_region_code":"1150000000_Seoul_Gangseo"
+            "sub_region_code":"1150000000_Seoul_Gangseo",
+            "shorten_url":"https:\/\/me2.do\/GSgNmjX0"
         },
         {
             "index":32,
@@ -442,7 +478,8 @@
             "value_score":69.986,
             "region":"서울시 강서구",
             "region_code":"Seoul",
-            "sub_region_code":"1150000000_Seoul_Gangseo"
+            "sub_region_code":"1150000000_Seoul_Gangseo",
+            "shorten_url":"https:\/\/me2.do\/GSgNmjX0"
         },
         {
             "index":33,
@@ -454,7 +491,8 @@
             "value_score":69.286,
             "region":"서울시 강서구",
             "region_code":"Seoul",
-            "sub_region_code":"1150000000_Seoul_Gangseo"
+            "sub_region_code":"1150000000_Seoul_Gangseo",
+            "shorten_url":"https:\/\/me2.do\/GSgNmjX0"
         },
         {
             "index":34,
@@ -466,7 +504,8 @@
             "value_score":69.186,
             "region":"서울시 강서구",
             "region_code":"Seoul",
-            "sub_region_code":"1150000000_Seoul_Gangseo"
+            "sub_region_code":"1150000000_Seoul_Gangseo",
+            "shorten_url":"https:\/\/me2.do\/GSgNmjX0"
         },
         {
             "index":35,
@@ -478,7 +517,8 @@
             "value_score":68.7312541857,
             "region":"서울시 강서구",
             "region_code":"Seoul",
-            "sub_region_code":"1150000000_Seoul_Gangseo"
+            "sub_region_code":"1150000000_Seoul_Gangseo",
+            "shorten_url":"https:\/\/me2.do\/GSgNmjX0"
         },
         {
             "index":36,
@@ -490,7 +530,8 @@
             "value_score":67.886,
             "region":"서울시 강서구",
             "region_code":"Seoul",
-            "sub_region_code":"1150000000_Seoul_Gangseo"
+            "sub_region_code":"1150000000_Seoul_Gangseo",
+            "shorten_url":"https:\/\/me2.do\/GSgNmjX0"
         },
         {
             "index":37,
@@ -502,7 +543,8 @@
             "value_score":67.536,
             "region":"서울시 강서구",
             "region_code":"Seoul",
-            "sub_region_code":"1150000000_Seoul_Gangseo"
+            "sub_region_code":"1150000000_Seoul_Gangseo",
+            "shorten_url":"https:\/\/me2.do\/GSgNmjX0"
         },
         {
             "index":38,
@@ -514,7 +556,8 @@
             "value_score":67.434,
             "region":"서울시 강서구",
             "region_code":"Seoul",
-            "sub_region_code":"1150000000_Seoul_Gangseo"
+            "sub_region_code":"1150000000_Seoul_Gangseo",
+            "shorten_url":"https:\/\/me2.do\/GSgNmjX0"
         },
         {
             "index":39,
@@ -526,7 +569,8 @@
             "value_score":66.431,
             "region":"서울시 강서구",
             "region_code":"Seoul",
-            "sub_region_code":"1150000000_Seoul_Gangseo"
+            "sub_region_code":"1150000000_Seoul_Gangseo",
+            "shorten_url":"https:\/\/me2.do\/GSgNmjX0"
         },
         {
             "index":40,
@@ -538,7 +582,8 @@
             "value_score":70.172,
             "region":"서울시 강서구",
             "region_code":"Seoul",
-            "sub_region_code":"1150000000_Seoul_Gangseo"
+            "sub_region_code":"1150000000_Seoul_Gangseo",
+            "shorten_url":"https:\/\/me2.do\/GSgNmjX0"
         },
         {
             "index":41,
@@ -550,7 +595,8 @@
             "value_score":69.272,
             "region":"서울시 강서구",
             "region_code":"Seoul",
-            "sub_region_code":"1150000000_Seoul_Gangseo"
+            "sub_region_code":"1150000000_Seoul_Gangseo",
+            "shorten_url":"https:\/\/me2.do\/GSgNmjX0"
         },
         {
             "index":42,
@@ -562,7 +608,8 @@
             "value_score":67.572,
             "region":"서울시 강서구",
             "region_code":"Seoul",
-            "sub_region_code":"1150000000_Seoul_Gangseo"
+            "sub_region_code":"1150000000_Seoul_Gangseo",
+            "shorten_url":"https:\/\/me2.do\/GSgNmjX0"
         },
         {
             "index":43,
@@ -574,7 +621,8 @@
             "value_score":67.372,
             "region":"서울시 강서구",
             "region_code":"Seoul",
-            "sub_region_code":"1150000000_Seoul_Gangseo"
+            "sub_region_code":"1150000000_Seoul_Gangseo",
+            "shorten_url":"https:\/\/me2.do\/GSgNmjX0"
         },
         {
             "index":44,
@@ -586,7 +634,8 @@
             "value_score":66.9185,
             "region":"서울시 강서구",
             "region_code":"Seoul",
-            "sub_region_code":"1150000000_Seoul_Gangseo"
+            "sub_region_code":"1150000000_Seoul_Gangseo",
+            "shorten_url":"https:\/\/me2.do\/GSgNmjX0"
         },
         {
             "index":45,
@@ -598,7 +647,8 @@
             "value_score":66.068,
             "region":"서울시 강서구",
             "region_code":"Seoul",
-            "sub_region_code":"1150000000_Seoul_Gangseo"
+            "sub_region_code":"1150000000_Seoul_Gangseo",
+            "shorten_url":"https:\/\/me2.do\/GSgNmjX0"
         },
         {
             "index":46,
@@ -610,7 +660,8 @@
             "value_score":65.4035,
             "region":"서울시 강서구",
             "region_code":"Seoul",
-            "sub_region_code":"1150000000_Seoul_Gangseo"
+            "sub_region_code":"1150000000_Seoul_Gangseo",
+            "shorten_url":"https:\/\/me2.do\/GSgNmjX0"
         },
         {
             "index":47,
@@ -622,7 +673,8 @@
             "value_score":65.372,
             "region":"서울시 강서구",
             "region_code":"Seoul",
-            "sub_region_code":"1150000000_Seoul_Gangseo"
+            "sub_region_code":"1150000000_Seoul_Gangseo",
+            "shorten_url":"https:\/\/me2.do\/GSgNmjX0"
         },
         {
             "index":48,
@@ -634,7 +686,8 @@
             "value_score":65.268,
             "region":"서울시 강서구",
             "region_code":"Seoul",
-            "sub_region_code":"1150000000_Seoul_Gangseo"
+            "sub_region_code":"1150000000_Seoul_Gangseo",
+            "shorten_url":"https:\/\/me2.do\/GSgNmjX0"
         },
         {
             "index":49,
@@ -646,7 +699,8 @@
             "value_score":65.0185,
             "region":"서울시 강서구",
             "region_code":"Seoul",
-            "sub_region_code":"1150000000_Seoul_Gangseo"
+            "sub_region_code":"1150000000_Seoul_Gangseo",
+            "shorten_url":"https:\/\/me2.do\/GSgNmjX0"
         }
     ]
 }

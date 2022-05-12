@@ -40,6 +40,10 @@
             {
                 "name":"sub_region_code",
                 "type":"string"
+            },
+            {
+                "name":"shorten_url",
+                "type":"string"
             }
         ],
         "primaryKey":[
@@ -58,7 +62,8 @@
             "value_score":42.90435,
             "region":"경상남도 의령군",
             "region_code":"Gyeongsangnamdo",
-            "sub_region_code":"4872000000_Gyeongsangnamdo_Uiryeong"
+            "sub_region_code":"4872000000_Gyeongsangnamdo_Uiryeong",
+            "shorten_url":"https:\/\/me2.do\/Gm9h6Q99"
         },
         {
             "index":1,
@@ -70,7 +75,8 @@
             "value_score":31.02935,
             "region":"경상남도 의령군",
             "region_code":"Gyeongsangnamdo",
-            "sub_region_code":"4872000000_Gyeongsangnamdo_Uiryeong"
+            "sub_region_code":"4872000000_Gyeongsangnamdo_Uiryeong",
+            "shorten_url":"https:\/\/me2.do\/Gm9h6Q99"
         },
         {
             "index":2,
@@ -82,7 +88,8 @@
             "value_score":27.15435,
             "region":"경상남도 의령군",
             "region_code":"Gyeongsangnamdo",
-            "sub_region_code":"4872000000_Gyeongsangnamdo_Uiryeong"
+            "sub_region_code":"4872000000_Gyeongsangnamdo_Uiryeong",
+            "shorten_url":"https:\/\/me2.do\/Gm9h6Q99"
         },
         {
             "index":3,
@@ -94,7 +101,8 @@
             "value_score":44.36025,
             "region":"경상남도 의령군",
             "region_code":"Gyeongsangnamdo",
-            "sub_region_code":"4872000000_Gyeongsangnamdo_Uiryeong"
+            "sub_region_code":"4872000000_Gyeongsangnamdo_Uiryeong",
+            "shorten_url":"https:\/\/me2.do\/Gm9h6Q99"
         },
         {
             "index":4,
@@ -106,7 +114,8 @@
             "value_score":28.48525,
             "region":"경상남도 의령군",
             "region_code":"Gyeongsangnamdo",
-            "sub_region_code":"4872000000_Gyeongsangnamdo_Uiryeong"
+            "sub_region_code":"4872000000_Gyeongsangnamdo_Uiryeong",
+            "shorten_url":"https:\/\/me2.do\/Gm9h6Q99"
         },
         {
             "index":5,
@@ -118,7 +127,8 @@
             "value_score":24.61025,
             "region":"경상남도 의령군",
             "region_code":"Gyeongsangnamdo",
-            "sub_region_code":"4872000000_Gyeongsangnamdo_Uiryeong"
+            "sub_region_code":"4872000000_Gyeongsangnamdo_Uiryeong",
+            "shorten_url":"https:\/\/me2.do\/Gm9h6Q99"
         },
         {
             "index":6,
@@ -130,7 +140,8 @@
             "value_score":34.7182105263,
             "region":"경상남도 의령군",
             "region_code":"Gyeongsangnamdo",
-            "sub_region_code":"4872000000_Gyeongsangnamdo_Uiryeong"
+            "sub_region_code":"4872000000_Gyeongsangnamdo_Uiryeong",
+            "shorten_url":"https:\/\/me2.do\/Gm9h6Q99"
         },
         {
             "index":7,
@@ -142,7 +153,8 @@
             "value_score":32.3497894737,
             "region":"경상남도 의령군",
             "region_code":"Gyeongsangnamdo",
-            "sub_region_code":"4872000000_Gyeongsangnamdo_Uiryeong"
+            "sub_region_code":"4872000000_Gyeongsangnamdo_Uiryeong",
+            "shorten_url":"https:\/\/me2.do\/Gm9h6Q99"
         },
         {
             "index":8,
@@ -154,7 +166,8 @@
             "value_score":26.5603157895,
             "region":"경상남도 의령군",
             "region_code":"Gyeongsangnamdo",
-            "sub_region_code":"4872000000_Gyeongsangnamdo_Uiryeong"
+            "sub_region_code":"4872000000_Gyeongsangnamdo_Uiryeong",
+            "shorten_url":"https:\/\/me2.do\/Gm9h6Q99"
         },
         {
             "index":9,
@@ -166,7 +179,8 @@
             "value_score":40.7205,
             "region":"경상남도 의령군",
             "region_code":"Gyeongsangnamdo",
-            "sub_region_code":"4872000000_Gyeongsangnamdo_Uiryeong"
+            "sub_region_code":"4872000000_Gyeongsangnamdo_Uiryeong",
+            "shorten_url":"https:\/\/me2.do\/Gm9h6Q99"
         },
         {
             "index":10,
@@ -178,7 +192,8 @@
             "value_score":34.8455,
             "region":"경상남도 의령군",
             "region_code":"Gyeongsangnamdo",
-            "sub_region_code":"4872000000_Gyeongsangnamdo_Uiryeong"
+            "sub_region_code":"4872000000_Gyeongsangnamdo_Uiryeong",
+            "shorten_url":"https:\/\/me2.do\/Gm9h6Q99"
         },
         {
             "index":11,
@@ -190,7 +205,8 @@
             "value_score":30.9705,
             "region":"경상남도 의령군",
             "region_code":"Gyeongsangnamdo",
-            "sub_region_code":"4872000000_Gyeongsangnamdo_Uiryeong"
+            "sub_region_code":"4872000000_Gyeongsangnamdo_Uiryeong",
+            "shorten_url":"https:\/\/me2.do\/Gm9h6Q99"
         }
     ]
 }

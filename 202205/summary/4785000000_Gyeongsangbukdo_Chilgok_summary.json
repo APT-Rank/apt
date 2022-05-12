@@ -40,6 +40,10 @@
             {
                 "name":"sub_region_code",
                 "type":"string"
+            },
+            {
+                "name":"shorten_url",
+                "type":"string"
             }
         ],
         "primaryKey":[
@@ -58,7 +62,8 @@
             "value_score":54.3417,
             "region":"경상북도 칠곡군",
             "region_code":"Gyeongsangbukdo",
-            "sub_region_code":"4785000000_Gyeongsangbukdo_Chilgok"
+            "sub_region_code":"4785000000_Gyeongsangbukdo_Chilgok",
+            "shorten_url":"https:\/\/me2.do\/FjxWQk8O"
         },
         {
             "index":1,
@@ -70,7 +75,8 @@
             "value_score":48.94695,
             "region":"경상북도 칠곡군",
             "region_code":"Gyeongsangbukdo",
-            "sub_region_code":"4785000000_Gyeongsangbukdo_Chilgok"
+            "sub_region_code":"4785000000_Gyeongsangbukdo_Chilgok",
+            "shorten_url":"https:\/\/me2.do\/FjxWQk8O"
         },
         {
             "index":2,
@@ -82,7 +88,8 @@
             "value_score":48.44695,
             "region":"경상북도 칠곡군",
             "region_code":"Gyeongsangbukdo",
-            "sub_region_code":"4785000000_Gyeongsangbukdo_Chilgok"
+            "sub_region_code":"4785000000_Gyeongsangbukdo_Chilgok",
+            "shorten_url":"https:\/\/me2.do\/FjxWQk8O"
         },
         {
             "index":3,
@@ -94,7 +101,8 @@
             "value_score":47.94695,
             "region":"경상북도 칠곡군",
             "region_code":"Gyeongsangbukdo",
-            "sub_region_code":"4785000000_Gyeongsangbukdo_Chilgok"
+            "sub_region_code":"4785000000_Gyeongsangbukdo_Chilgok",
+            "shorten_url":"https:\/\/me2.do\/FjxWQk8O"
         },
         {
             "index":4,
@@ -106,7 +114,8 @@
             "value_score":47.9071,
             "region":"경상북도 칠곡군",
             "region_code":"Gyeongsangbukdo",
-            "sub_region_code":"4785000000_Gyeongsangbukdo_Chilgok"
+            "sub_region_code":"4785000000_Gyeongsangbukdo_Chilgok",
+            "shorten_url":"https:\/\/me2.do\/FjxWQk8O"
         },
         {
             "index":5,
@@ -118,7 +127,8 @@
             "value_score":46.24695,
             "region":"경상북도 칠곡군",
             "region_code":"Gyeongsangbukdo",
-            "sub_region_code":"4785000000_Gyeongsangbukdo_Chilgok"
+            "sub_region_code":"4785000000_Gyeongsangbukdo_Chilgok",
+            "shorten_url":"https:\/\/me2.do\/FjxWQk8O"
         },
         {
             "index":6,
@@ -130,7 +140,8 @@
             "value_score":46.14695,
             "region":"경상북도 칠곡군",
             "region_code":"Gyeongsangbukdo",
-            "sub_region_code":"4785000000_Gyeongsangbukdo_Chilgok"
+            "sub_region_code":"4785000000_Gyeongsangbukdo_Chilgok",
+            "shorten_url":"https:\/\/me2.do\/FjxWQk8O"
         },
         {
             "index":7,
@@ -142,7 +153,8 @@
             "value_score":44.74695,
             "region":"경상북도 칠곡군",
             "region_code":"Gyeongsangbukdo",
-            "sub_region_code":"4785000000_Gyeongsangbukdo_Chilgok"
+            "sub_region_code":"4785000000_Gyeongsangbukdo_Chilgok",
+            "shorten_url":"https:\/\/me2.do\/FjxWQk8O"
         },
         {
             "index":8,
@@ -154,7 +166,8 @@
             "value_score":44.74695,
             "region":"경상북도 칠곡군",
             "region_code":"Gyeongsangbukdo",
-            "sub_region_code":"4785000000_Gyeongsangbukdo_Chilgok"
+            "sub_region_code":"4785000000_Gyeongsangbukdo_Chilgok",
+            "shorten_url":"https:\/\/me2.do\/FjxWQk8O"
         },
         {
             "index":9,
@@ -166,7 +179,8 @@
             "value_score":43.55485,
             "region":"경상북도 칠곡군",
             "region_code":"Gyeongsangbukdo",
-            "sub_region_code":"4785000000_Gyeongsangbukdo_Chilgok"
+            "sub_region_code":"4785000000_Gyeongsangbukdo_Chilgok",
+            "shorten_url":"https:\/\/me2.do\/FjxWQk8O"
         },
         {
             "index":10,
@@ -178,7 +192,8 @@
             "value_score":56.8155,
             "region":"경상북도 칠곡군",
             "region_code":"Gyeongsangbukdo",
-            "sub_region_code":"4785000000_Gyeongsangbukdo_Chilgok"
+            "sub_region_code":"4785000000_Gyeongsangbukdo_Chilgok",
+            "shorten_url":"https:\/\/me2.do\/FjxWQk8O"
         },
         {
             "index":11,
@@ -190,7 +205,8 @@
             "value_score":51.5765,
             "region":"경상북도 칠곡군",
             "region_code":"Gyeongsangbukdo",
-            "sub_region_code":"4785000000_Gyeongsangbukdo_Chilgok"
+            "sub_region_code":"4785000000_Gyeongsangbukdo_Chilgok",
+            "shorten_url":"https:\/\/me2.do\/FjxWQk8O"
         },
         {
             "index":12,
@@ -202,7 +218,8 @@
             "value_score":51.56925,
             "region":"경상북도 칠곡군",
             "region_code":"Gyeongsangbukdo",
-            "sub_region_code":"4785000000_Gyeongsangbukdo_Chilgok"
+            "sub_region_code":"4785000000_Gyeongsangbukdo_Chilgok",
+            "shorten_url":"https:\/\/me2.do\/FjxWQk8O"
         },
         {
             "index":13,
@@ -214,7 +231,8 @@
             "value_score":50.06925,
             "region":"경상북도 칠곡군",
             "region_code":"Gyeongsangbukdo",
-            "sub_region_code":"4785000000_Gyeongsangbukdo_Chilgok"
+            "sub_region_code":"4785000000_Gyeongsangbukdo_Chilgok",
+            "shorten_url":"https:\/\/me2.do\/FjxWQk8O"
         },
         {
             "index":14,
@@ -226,7 +244,8 @@
             "value_score":49.56925,
             "region":"경상북도 칠곡군",
             "region_code":"Gyeongsangbukdo",
-            "sub_region_code":"4785000000_Gyeongsangbukdo_Chilgok"
+            "sub_region_code":"4785000000_Gyeongsangbukdo_Chilgok",
+            "shorten_url":"https:\/\/me2.do\/FjxWQk8O"
         },
         {
             "index":15,
@@ -238,7 +257,8 @@
             "value_score":47.41925,
             "region":"경상북도 칠곡군",
             "region_code":"Gyeongsangbukdo",
-            "sub_region_code":"4785000000_Gyeongsangbukdo_Chilgok"
+            "sub_region_code":"4785000000_Gyeongsangbukdo_Chilgok",
+            "shorten_url":"https:\/\/me2.do\/FjxWQk8O"
         },
         {
             "index":16,
@@ -250,7 +270,8 @@
             "value_score":47.31925,
             "region":"경상북도 칠곡군",
             "region_code":"Gyeongsangbukdo",
-            "sub_region_code":"4785000000_Gyeongsangbukdo_Chilgok"
+            "sub_region_code":"4785000000_Gyeongsangbukdo_Chilgok",
+            "shorten_url":"https:\/\/me2.do\/FjxWQk8O"
         },
         {
             "index":17,
@@ -262,7 +283,8 @@
             "value_score":46.31925,
             "region":"경상북도 칠곡군",
             "region_code":"Gyeongsangbukdo",
-            "sub_region_code":"4785000000_Gyeongsangbukdo_Chilgok"
+            "sub_region_code":"4785000000_Gyeongsangbukdo_Chilgok",
+            "shorten_url":"https:\/\/me2.do\/FjxWQk8O"
         },
         {
             "index":18,
@@ -274,7 +296,8 @@
             "value_score":46.31925,
             "region":"경상북도 칠곡군",
             "region_code":"Gyeongsangbukdo",
-            "sub_region_code":"4785000000_Gyeongsangbukdo_Chilgok"
+            "sub_region_code":"4785000000_Gyeongsangbukdo_Chilgok",
+            "shorten_url":"https:\/\/me2.do\/FjxWQk8O"
         },
         {
             "index":19,
@@ -286,7 +309,8 @@
             "value_score":45.0765,
             "region":"경상북도 칠곡군",
             "region_code":"Gyeongsangbukdo",
-            "sub_region_code":"4785000000_Gyeongsangbukdo_Chilgok"
+            "sub_region_code":"4785000000_Gyeongsangbukdo_Chilgok",
+            "shorten_url":"https:\/\/me2.do\/FjxWQk8O"
         },
         {
             "index":20,
@@ -298,7 +322,8 @@
             "value_score":42.2143157895,
             "region":"경상북도 칠곡군",
             "region_code":"Gyeongsangbukdo",
-            "sub_region_code":"4785000000_Gyeongsangbukdo_Chilgok"
+            "sub_region_code":"4785000000_Gyeongsangbukdo_Chilgok",
+            "shorten_url":"https:\/\/me2.do\/FjxWQk8O"
         },
         {
             "index":21,
@@ -310,7 +335,8 @@
             "value_score":42.0118947368,
             "region":"경상북도 칠곡군",
             "region_code":"Gyeongsangbukdo",
-            "sub_region_code":"4785000000_Gyeongsangbukdo_Chilgok"
+            "sub_region_code":"4785000000_Gyeongsangbukdo_Chilgok",
+            "shorten_url":"https:\/\/me2.do\/FjxWQk8O"
         },
         {
             "index":22,
@@ -322,7 +348,8 @@
             "value_score":40.8506315789,
             "region":"경상북도 칠곡군",
             "region_code":"Gyeongsangbukdo",
-            "sub_region_code":"4785000000_Gyeongsangbukdo_Chilgok"
+            "sub_region_code":"4785000000_Gyeongsangbukdo_Chilgok",
+            "shorten_url":"https:\/\/me2.do\/FjxWQk8O"
         },
         {
             "index":23,
@@ -334,7 +361,8 @@
             "value_score":39.798,
             "region":"경상북도 칠곡군",
             "region_code":"Gyeongsangbukdo",
-            "sub_region_code":"4785000000_Gyeongsangbukdo_Chilgok"
+            "sub_region_code":"4785000000_Gyeongsangbukdo_Chilgok",
+            "shorten_url":"https:\/\/me2.do\/FjxWQk8O"
         },
         {
             "index":24,
@@ -346,7 +374,8 @@
             "value_score":39.298,
             "region":"경상북도 칠곡군",
             "region_code":"Gyeongsangbukdo",
-            "sub_region_code":"4785000000_Gyeongsangbukdo_Chilgok"
+            "sub_region_code":"4785000000_Gyeongsangbukdo_Chilgok",
+            "shorten_url":"https:\/\/me2.do\/FjxWQk8O"
         },
         {
             "index":25,
@@ -358,7 +387,8 @@
             "value_score":39.0874736842,
             "region":"경상북도 칠곡군",
             "region_code":"Gyeongsangbukdo",
-            "sub_region_code":"4785000000_Gyeongsangbukdo_Chilgok"
+            "sub_region_code":"4785000000_Gyeongsangbukdo_Chilgok",
+            "shorten_url":"https:\/\/me2.do\/FjxWQk8O"
         },
         {
             "index":26,
@@ -370,7 +400,8 @@
             "value_score":37.9822105263,
             "region":"경상북도 칠곡군",
             "region_code":"Gyeongsangbukdo",
-            "sub_region_code":"4785000000_Gyeongsangbukdo_Chilgok"
+            "sub_region_code":"4785000000_Gyeongsangbukdo_Chilgok",
+            "shorten_url":"https:\/\/me2.do\/FjxWQk8O"
         },
         {
             "index":27,
@@ -382,7 +413,8 @@
             "value_score":37.9032631579,
             "region":"경상북도 칠곡군",
             "region_code":"Gyeongsangbukdo",
-            "sub_region_code":"4785000000_Gyeongsangbukdo_Chilgok"
+            "sub_region_code":"4785000000_Gyeongsangbukdo_Chilgok",
+            "shorten_url":"https:\/\/me2.do\/FjxWQk8O"
         },
         {
             "index":28,
@@ -394,7 +426,8 @@
             "value_score":37.5037894737,
             "region":"경상북도 칠곡군",
             "region_code":"Gyeongsangbukdo",
-            "sub_region_code":"4785000000_Gyeongsangbukdo_Chilgok"
+            "sub_region_code":"4785000000_Gyeongsangbukdo_Chilgok",
+            "shorten_url":"https:\/\/me2.do\/FjxWQk8O"
         },
         {
             "index":29,
@@ -406,7 +439,8 @@
             "value_score":35.0611578947,
             "region":"경상북도 칠곡군",
             "region_code":"Gyeongsangbukdo",
-            "sub_region_code":"4785000000_Gyeongsangbukdo_Chilgok"
+            "sub_region_code":"4785000000_Gyeongsangbukdo_Chilgok",
+            "shorten_url":"https:\/\/me2.do\/FjxWQk8O"
         },
         {
             "index":30,
@@ -418,7 +452,8 @@
             "value_score":50.631,
             "region":"경상북도 칠곡군",
             "region_code":"Gyeongsangbukdo",
-            "sub_region_code":"4785000000_Gyeongsangbukdo_Chilgok"
+            "sub_region_code":"4785000000_Gyeongsangbukdo_Chilgok",
+            "shorten_url":"https:\/\/me2.do\/FjxWQk8O"
         },
         {
             "index":31,
@@ -430,7 +465,8 @@
             "value_score":46.6855,
             "region":"경상북도 칠곡군",
             "region_code":"Gyeongsangbukdo",
-            "sub_region_code":"4785000000_Gyeongsangbukdo_Chilgok"
+            "sub_region_code":"4785000000_Gyeongsangbukdo_Chilgok",
+            "shorten_url":"https:\/\/me2.do\/FjxWQk8O"
         },
         {
             "index":32,
@@ -442,7 +478,8 @@
             "value_score":46.0135,
             "region":"경상북도 칠곡군",
             "region_code":"Gyeongsangbukdo",
-            "sub_region_code":"4785000000_Gyeongsangbukdo_Chilgok"
+            "sub_region_code":"4785000000_Gyeongsangbukdo_Chilgok",
+            "shorten_url":"https:\/\/me2.do\/FjxWQk8O"
         },
         {
             "index":33,
@@ -454,7 +491,8 @@
             "value_score":45.5135,
             "region":"경상북도 칠곡군",
             "region_code":"Gyeongsangbukdo",
-            "sub_region_code":"4785000000_Gyeongsangbukdo_Chilgok"
+            "sub_region_code":"4785000000_Gyeongsangbukdo_Chilgok",
+            "shorten_url":"https:\/\/me2.do\/FjxWQk8O"
         },
         {
             "index":34,
@@ -466,7 +504,8 @@
             "value_score":45.256,
             "region":"경상북도 칠곡군",
             "region_code":"Gyeongsangbukdo",
-            "sub_region_code":"4785000000_Gyeongsangbukdo_Chilgok"
+            "sub_region_code":"4785000000_Gyeongsangbukdo_Chilgok",
+            "shorten_url":"https:\/\/me2.do\/FjxWQk8O"
         },
         {
             "index":35,
@@ -478,7 +517,8 @@
             "value_score":45.0135,
             "region":"경상북도 칠곡군",
             "region_code":"Gyeongsangbukdo",
-            "sub_region_code":"4785000000_Gyeongsangbukdo_Chilgok"
+            "sub_region_code":"4785000000_Gyeongsangbukdo_Chilgok",
+            "shorten_url":"https:\/\/me2.do\/FjxWQk8O"
         },
         {
             "index":36,
@@ -490,7 +530,8 @@
             "value_score":44.4885,
             "region":"경상북도 칠곡군",
             "region_code":"Gyeongsangbukdo",
-            "sub_region_code":"4785000000_Gyeongsangbukdo_Chilgok"
+            "sub_region_code":"4785000000_Gyeongsangbukdo_Chilgok",
+            "shorten_url":"https:\/\/me2.do\/FjxWQk8O"
         },
         {
             "index":37,
@@ -502,7 +543,8 @@
             "value_score":44.3885,
             "region":"경상북도 칠곡군",
             "region_code":"Gyeongsangbukdo",
-            "sub_region_code":"4785000000_Gyeongsangbukdo_Chilgok"
+            "sub_region_code":"4785000000_Gyeongsangbukdo_Chilgok",
+            "shorten_url":"https:\/\/me2.do\/FjxWQk8O"
         },
         {
             "index":38,
@@ -514,7 +556,8 @@
             "value_score":44.006,
             "region":"경상북도 칠곡군",
             "region_code":"Gyeongsangbukdo",
-            "sub_region_code":"4785000000_Gyeongsangbukdo_Chilgok"
+            "sub_region_code":"4785000000_Gyeongsangbukdo_Chilgok",
+            "shorten_url":"https:\/\/me2.do\/FjxWQk8O"
         },
         {
             "index":39,
@@ -526,7 +569,8 @@
             "value_score":43.006,
             "region":"경상북도 칠곡군",
             "region_code":"Gyeongsangbukdo",
-            "sub_region_code":"4785000000_Gyeongsangbukdo_Chilgok"
+            "sub_region_code":"4785000000_Gyeongsangbukdo_Chilgok",
+            "shorten_url":"https:\/\/me2.do\/FjxWQk8O"
         }
     ]
 }

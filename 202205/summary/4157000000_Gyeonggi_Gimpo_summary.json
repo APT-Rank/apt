@@ -40,6 +40,10 @@
             {
                 "name":"sub_region_code",
                 "type":"string"
+            },
+            {
+                "name":"shorten_url",
+                "type":"string"
             }
         ],
         "primaryKey":[
@@ -58,7 +62,8 @@
             "value_score":57.1204,
             "region":"경기도 김포시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4157000000_Gyeonggi_Gimpo"
+            "sub_region_code":"4157000000_Gyeonggi_Gimpo",
+            "shorten_url":"https:\/\/me2.do\/Gazkr1bg"
         },
         {
             "index":1,
@@ -70,7 +75,8 @@
             "value_score":55.75355,
             "region":"경기도 김포시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4157000000_Gyeonggi_Gimpo"
+            "sub_region_code":"4157000000_Gyeonggi_Gimpo",
+            "shorten_url":"https:\/\/me2.do\/Gazkr1bg"
         },
         {
             "index":2,
@@ -82,7 +88,8 @@
             "value_score":55.25355,
             "region":"경기도 김포시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4157000000_Gyeonggi_Gimpo"
+            "sub_region_code":"4157000000_Gyeonggi_Gimpo",
+            "shorten_url":"https:\/\/me2.do\/Gazkr1bg"
         },
         {
             "index":3,
@@ -94,7 +101,8 @@
             "value_score":55.2004,
             "region":"경기도 김포시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4157000000_Gyeonggi_Gimpo"
+            "sub_region_code":"4157000000_Gyeonggi_Gimpo",
+            "shorten_url":"https:\/\/me2.do\/Gazkr1bg"
         },
         {
             "index":4,
@@ -106,7 +114,8 @@
             "value_score":53.02205,
             "region":"경기도 김포시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4157000000_Gyeonggi_Gimpo"
+            "sub_region_code":"4157000000_Gyeonggi_Gimpo",
+            "shorten_url":"https:\/\/me2.do\/Gazkr1bg"
         },
         {
             "index":5,
@@ -118,7 +127,8 @@
             "value_score":52.7039,
             "region":"경기도 김포시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4157000000_Gyeonggi_Gimpo"
+            "sub_region_code":"4157000000_Gyeonggi_Gimpo",
+            "shorten_url":"https:\/\/me2.do\/Gazkr1bg"
         },
         {
             "index":6,
@@ -130,7 +140,8 @@
             "value_score":52.5039,
             "region":"경기도 김포시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4157000000_Gyeonggi_Gimpo"
+            "sub_region_code":"4157000000_Gyeonggi_Gimpo",
+            "shorten_url":"https:\/\/me2.do\/Gazkr1bg"
         },
         {
             "index":7,
@@ -142,7 +153,8 @@
             "value_score":51.9239,
             "region":"경기도 김포시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4157000000_Gyeonggi_Gimpo"
+            "sub_region_code":"4157000000_Gyeonggi_Gimpo",
+            "shorten_url":"https:\/\/me2.do\/Gazkr1bg"
         },
         {
             "index":8,
@@ -154,7 +166,8 @@
             "value_score":51.8039,
             "region":"경기도 김포시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4157000000_Gyeonggi_Gimpo"
+            "sub_region_code":"4157000000_Gyeonggi_Gimpo",
+            "shorten_url":"https:\/\/me2.do\/Gazkr1bg"
         },
         {
             "index":9,
@@ -166,7 +179,8 @@
             "value_score":51.5239,
             "region":"경기도 김포시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4157000000_Gyeonggi_Gimpo"
+            "sub_region_code":"4157000000_Gyeonggi_Gimpo",
+            "shorten_url":"https:\/\/me2.do\/Gazkr1bg"
         },
         {
             "index":10,
@@ -178,7 +192,8 @@
             "value_score":69.1172,
             "region":"경기도 김포시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4157000000_Gyeonggi_Gimpo"
+            "sub_region_code":"4157000000_Gyeonggi_Gimpo",
+            "shorten_url":"https:\/\/me2.do\/Gazkr1bg"
         },
         {
             "index":11,
@@ -190,7 +205,8 @@
             "value_score":68.7472,
             "region":"경기도 김포시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4157000000_Gyeonggi_Gimpo"
+            "sub_region_code":"4157000000_Gyeonggi_Gimpo",
+            "shorten_url":"https:\/\/me2.do\/Gazkr1bg"
         },
         {
             "index":12,
@@ -202,7 +218,8 @@
             "value_score":66.5052,
             "region":"경기도 김포시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4157000000_Gyeonggi_Gimpo"
+            "sub_region_code":"4157000000_Gyeonggi_Gimpo",
+            "shorten_url":"https:\/\/me2.do\/Gazkr1bg"
         },
         {
             "index":13,
@@ -214,7 +231,8 @@
             "value_score":65.9714,
             "region":"경기도 김포시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4157000000_Gyeonggi_Gimpo"
+            "sub_region_code":"4157000000_Gyeonggi_Gimpo",
+            "shorten_url":"https:\/\/me2.do\/Gazkr1bg"
         },
         {
             "index":14,
@@ -226,7 +244,8 @@
             "value_score":65.6172,
             "region":"경기도 김포시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4157000000_Gyeonggi_Gimpo"
+            "sub_region_code":"4157000000_Gyeonggi_Gimpo",
+            "shorten_url":"https:\/\/me2.do\/Gazkr1bg"
         },
         {
             "index":15,
@@ -238,7 +257,8 @@
             "value_score":65.4552,
             "region":"경기도 김포시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4157000000_Gyeonggi_Gimpo"
+            "sub_region_code":"4157000000_Gyeonggi_Gimpo",
+            "shorten_url":"https:\/\/me2.do\/Gazkr1bg"
         },
         {
             "index":16,
@@ -250,7 +270,8 @@
             "value_score":65.3052,
             "region":"경기도 김포시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4157000000_Gyeonggi_Gimpo"
+            "sub_region_code":"4157000000_Gyeonggi_Gimpo",
+            "shorten_url":"https:\/\/me2.do\/Gazkr1bg"
         },
         {
             "index":17,
@@ -262,7 +283,8 @@
             "value_score":65.2552,
             "region":"경기도 김포시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4157000000_Gyeonggi_Gimpo"
+            "sub_region_code":"4157000000_Gyeonggi_Gimpo",
+            "shorten_url":"https:\/\/me2.do\/Gazkr1bg"
         },
         {
             "index":18,
@@ -274,7 +296,8 @@
             "value_score":64.7352,
             "region":"경기도 김포시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4157000000_Gyeonggi_Gimpo"
+            "sub_region_code":"4157000000_Gyeonggi_Gimpo",
+            "shorten_url":"https:\/\/me2.do\/Gazkr1bg"
         },
         {
             "index":19,
@@ -286,7 +309,8 @@
             "value_score":64.2262,
             "region":"경기도 김포시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4157000000_Gyeonggi_Gimpo"
+            "sub_region_code":"4157000000_Gyeonggi_Gimpo",
+            "shorten_url":"https:\/\/me2.do\/Gazkr1bg"
         },
         {
             "index":20,
@@ -298,7 +322,8 @@
             "value_score":56.40355,
             "region":"경기도 김포시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4157000000_Gyeonggi_Gimpo"
+            "sub_region_code":"4157000000_Gyeonggi_Gimpo",
+            "shorten_url":"https:\/\/me2.do\/Gazkr1bg"
         },
         {
             "index":21,
@@ -310,7 +335,8 @@
             "value_score":55.92855,
             "region":"경기도 김포시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4157000000_Gyeonggi_Gimpo"
+            "sub_region_code":"4157000000_Gyeonggi_Gimpo",
+            "shorten_url":"https:\/\/me2.do\/Gazkr1bg"
         },
         {
             "index":22,
@@ -322,7 +348,8 @@
             "value_score":55.44705,
             "region":"경기도 김포시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4157000000_Gyeonggi_Gimpo"
+            "sub_region_code":"4157000000_Gyeonggi_Gimpo",
+            "shorten_url":"https:\/\/me2.do\/Gazkr1bg"
         },
         {
             "index":23,
@@ -334,7 +361,8 @@
             "value_score":55.0804,
             "region":"경기도 김포시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4157000000_Gyeonggi_Gimpo"
+            "sub_region_code":"4157000000_Gyeonggi_Gimpo",
+            "shorten_url":"https:\/\/me2.do\/Gazkr1bg"
         },
         {
             "index":24,
@@ -346,7 +374,8 @@
             "value_score":54.24705,
             "region":"경기도 김포시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4157000000_Gyeonggi_Gimpo"
+            "sub_region_code":"4157000000_Gyeonggi_Gimpo",
+            "shorten_url":"https:\/\/me2.do\/Gazkr1bg"
         },
         {
             "index":25,
@@ -358,7 +387,8 @@
             "value_score":53.8754,
             "region":"경기도 김포시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4157000000_Gyeonggi_Gimpo"
+            "sub_region_code":"4157000000_Gyeonggi_Gimpo",
+            "shorten_url":"https:\/\/me2.do\/Gazkr1bg"
         },
         {
             "index":26,
@@ -370,7 +400,8 @@
             "value_score":53.57205,
             "region":"경기도 김포시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4157000000_Gyeonggi_Gimpo"
+            "sub_region_code":"4157000000_Gyeonggi_Gimpo",
+            "shorten_url":"https:\/\/me2.do\/Gazkr1bg"
         },
         {
             "index":27,
@@ -382,7 +413,8 @@
             "value_score":53.34705,
             "region":"경기도 김포시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4157000000_Gyeonggi_Gimpo"
+            "sub_region_code":"4157000000_Gyeonggi_Gimpo",
+            "shorten_url":"https:\/\/me2.do\/Gazkr1bg"
         },
         {
             "index":28,
@@ -394,7 +426,8 @@
             "value_score":53.19635,
             "region":"경기도 김포시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4157000000_Gyeonggi_Gimpo"
+            "sub_region_code":"4157000000_Gyeonggi_Gimpo",
+            "shorten_url":"https:\/\/me2.do\/Gazkr1bg"
         },
         {
             "index":29,
@@ -406,7 +439,8 @@
             "value_score":52.39705,
             "region":"경기도 김포시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4157000000_Gyeonggi_Gimpo"
+            "sub_region_code":"4157000000_Gyeonggi_Gimpo",
+            "shorten_url":"https:\/\/me2.do\/Gazkr1bg"
         },
         {
             "index":30,
@@ -418,7 +452,8 @@
             "value_score":56.134,
             "region":"경기도 김포시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4157000000_Gyeonggi_Gimpo"
+            "sub_region_code":"4157000000_Gyeonggi_Gimpo",
+            "shorten_url":"https:\/\/me2.do\/Gazkr1bg"
         },
         {
             "index":31,
@@ -430,7 +465,8 @@
             "value_score":52.89525,
             "region":"경기도 김포시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4157000000_Gyeonggi_Gimpo"
+            "sub_region_code":"4157000000_Gyeonggi_Gimpo",
+            "shorten_url":"https:\/\/me2.do\/Gazkr1bg"
         },
         {
             "index":32,
@@ -442,7 +478,8 @@
             "value_score":52.89525,
             "region":"경기도 김포시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4157000000_Gyeonggi_Gimpo"
+            "sub_region_code":"4157000000_Gyeonggi_Gimpo",
+            "shorten_url":"https:\/\/me2.do\/Gazkr1bg"
         },
         {
             "index":33,
@@ -454,7 +491,8 @@
             "value_score":52.4565,
             "region":"경기도 김포시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4157000000_Gyeonggi_Gimpo"
+            "sub_region_code":"4157000000_Gyeonggi_Gimpo",
+            "shorten_url":"https:\/\/me2.do\/Gazkr1bg"
         },
         {
             "index":34,
@@ -466,7 +504,8 @@
             "value_score":51.934,
             "region":"경기도 김포시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4157000000_Gyeonggi_Gimpo"
+            "sub_region_code":"4157000000_Gyeonggi_Gimpo",
+            "shorten_url":"https:\/\/me2.do\/Gazkr1bg"
         },
         {
             "index":35,
@@ -478,7 +517,8 @@
             "value_score":51.884,
             "region":"경기도 김포시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4157000000_Gyeonggi_Gimpo"
+            "sub_region_code":"4157000000_Gyeonggi_Gimpo",
+            "shorten_url":"https:\/\/me2.do\/Gazkr1bg"
         },
         {
             "index":36,
@@ -490,7 +530,8 @@
             "value_score":51.334,
             "region":"경기도 김포시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4157000000_Gyeonggi_Gimpo"
+            "sub_region_code":"4157000000_Gyeonggi_Gimpo",
+            "shorten_url":"https:\/\/me2.do\/Gazkr1bg"
         },
         {
             "index":37,
@@ -502,7 +543,8 @@
             "value_score":51.04525,
             "region":"경기도 김포시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4157000000_Gyeonggi_Gimpo"
+            "sub_region_code":"4157000000_Gyeonggi_Gimpo",
+            "shorten_url":"https:\/\/me2.do\/Gazkr1bg"
         },
         {
             "index":38,
@@ -514,7 +556,8 @@
             "value_score":49.58675,
             "region":"경기도 김포시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4157000000_Gyeonggi_Gimpo"
+            "sub_region_code":"4157000000_Gyeonggi_Gimpo",
+            "shorten_url":"https:\/\/me2.do\/Gazkr1bg"
         },
         {
             "index":39,
@@ -526,7 +569,8 @@
             "value_score":49.43675,
             "region":"경기도 김포시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4157000000_Gyeonggi_Gimpo"
+            "sub_region_code":"4157000000_Gyeonggi_Gimpo",
+            "shorten_url":"https:\/\/me2.do\/Gazkr1bg"
         },
         {
             "index":40,
@@ -538,7 +582,8 @@
             "value_score":64.348,
             "region":"경기도 김포시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4157000000_Gyeonggi_Gimpo"
+            "sub_region_code":"4157000000_Gyeonggi_Gimpo",
+            "shorten_url":"https:\/\/me2.do\/Gazkr1bg"
         },
         {
             "index":41,
@@ -550,7 +595,8 @@
             "value_score":63.368,
             "region":"경기도 김포시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4157000000_Gyeonggi_Gimpo"
+            "sub_region_code":"4157000000_Gyeonggi_Gimpo",
+            "shorten_url":"https:\/\/me2.do\/Gazkr1bg"
         },
         {
             "index":42,
@@ -562,7 +608,8 @@
             "value_score":61.068,
             "region":"경기도 김포시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4157000000_Gyeonggi_Gimpo"
+            "sub_region_code":"4157000000_Gyeonggi_Gimpo",
+            "shorten_url":"https:\/\/me2.do\/Gazkr1bg"
         },
         {
             "index":43,
@@ -574,7 +621,8 @@
             "value_score":60.7735,
             "region":"경기도 김포시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4157000000_Gyeonggi_Gimpo"
+            "sub_region_code":"4157000000_Gyeonggi_Gimpo",
+            "shorten_url":"https:\/\/me2.do\/Gazkr1bg"
         },
         {
             "index":44,
@@ -586,7 +634,8 @@
             "value_score":60.2905,
             "region":"경기도 김포시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4157000000_Gyeonggi_Gimpo"
+            "sub_region_code":"4157000000_Gyeonggi_Gimpo",
+            "shorten_url":"https:\/\/me2.do\/Gazkr1bg"
         },
         {
             "index":45,
@@ -598,7 +647,8 @@
             "value_score":59.4905,
             "region":"경기도 김포시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4157000000_Gyeonggi_Gimpo"
+            "sub_region_code":"4157000000_Gyeonggi_Gimpo",
+            "shorten_url":"https:\/\/me2.do\/Gazkr1bg"
         },
         {
             "index":46,
@@ -610,7 +660,8 @@
             "value_score":59.0735,
             "region":"경기도 김포시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4157000000_Gyeonggi_Gimpo"
+            "sub_region_code":"4157000000_Gyeonggi_Gimpo",
+            "shorten_url":"https:\/\/me2.do\/Gazkr1bg"
         },
         {
             "index":47,
@@ -622,7 +673,8 @@
             "value_score":59.013,
             "region":"경기도 김포시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4157000000_Gyeonggi_Gimpo"
+            "sub_region_code":"4157000000_Gyeonggi_Gimpo",
+            "shorten_url":"https:\/\/me2.do\/Gazkr1bg"
         },
         {
             "index":48,
@@ -634,7 +686,8 @@
             "value_score":58.7905,
             "region":"경기도 김포시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4157000000_Gyeonggi_Gimpo"
+            "sub_region_code":"4157000000_Gyeonggi_Gimpo",
+            "shorten_url":"https:\/\/me2.do\/Gazkr1bg"
         },
         {
             "index":49,
@@ -646,7 +699,8 @@
             "value_score":58.575,
             "region":"경기도 김포시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4157000000_Gyeonggi_Gimpo"
+            "sub_region_code":"4157000000_Gyeonggi_Gimpo",
+            "shorten_url":"https:\/\/me2.do\/Gazkr1bg"
         }
     ]
 }

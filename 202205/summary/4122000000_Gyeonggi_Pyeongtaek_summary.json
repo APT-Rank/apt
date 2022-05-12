@@ -40,6 +40,10 @@
             {
                 "name":"sub_region_code",
                 "type":"string"
+            },
+            {
+                "name":"shorten_url",
+                "type":"string"
             }
         ],
         "primaryKey":[
@@ -58,7 +62,8 @@
             "value_score":53.02925,
             "region":"경기도 평택시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4122000000_Gyeonggi_Pyeongtaek"
+            "sub_region_code":"4122000000_Gyeonggi_Pyeongtaek",
+            "shorten_url":"https:\/\/me2.do\/FRrv5gUy"
         },
         {
             "index":1,
@@ -70,7 +75,8 @@
             "value_score":51.37925,
             "region":"경기도 평택시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4122000000_Gyeonggi_Pyeongtaek"
+            "sub_region_code":"4122000000_Gyeonggi_Pyeongtaek",
+            "shorten_url":"https:\/\/me2.do\/FRrv5gUy"
         },
         {
             "index":2,
@@ -82,7 +88,8 @@
             "value_score":51.08445,
             "region":"경기도 평택시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4122000000_Gyeonggi_Pyeongtaek"
+            "sub_region_code":"4122000000_Gyeonggi_Pyeongtaek",
+            "shorten_url":"https:\/\/me2.do\/FRrv5gUy"
         },
         {
             "index":3,
@@ -94,7 +101,8 @@
             "value_score":50.92925,
             "region":"경기도 평택시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4122000000_Gyeonggi_Pyeongtaek"
+            "sub_region_code":"4122000000_Gyeonggi_Pyeongtaek",
+            "shorten_url":"https:\/\/me2.do\/FRrv5gUy"
         },
         {
             "index":4,
@@ -106,7 +114,8 @@
             "value_score":48.6029378724,
             "region":"경기도 평택시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4122000000_Gyeonggi_Pyeongtaek"
+            "sub_region_code":"4122000000_Gyeonggi_Pyeongtaek",
+            "shorten_url":"https:\/\/me2.do\/FRrv5gUy"
         },
         {
             "index":5,
@@ -118,7 +127,8 @@
             "value_score":46.4299,
             "region":"경기도 평택시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4122000000_Gyeonggi_Pyeongtaek"
+            "sub_region_code":"4122000000_Gyeonggi_Pyeongtaek",
+            "shorten_url":"https:\/\/me2.do\/FRrv5gUy"
         },
         {
             "index":6,
@@ -130,7 +140,8 @@
             "value_score":44.4799,
             "region":"경기도 평택시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4122000000_Gyeonggi_Pyeongtaek"
+            "sub_region_code":"4122000000_Gyeonggi_Pyeongtaek",
+            "shorten_url":"https:\/\/me2.do\/FRrv5gUy"
         },
         {
             "index":7,
@@ -142,7 +153,8 @@
             "value_score":44.15745,
             "region":"경기도 평택시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4122000000_Gyeonggi_Pyeongtaek"
+            "sub_region_code":"4122000000_Gyeonggi_Pyeongtaek",
+            "shorten_url":"https:\/\/me2.do\/FRrv5gUy"
         },
         {
             "index":8,
@@ -154,7 +166,8 @@
             "value_score":43.21445,
             "region":"경기도 평택시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4122000000_Gyeonggi_Pyeongtaek"
+            "sub_region_code":"4122000000_Gyeonggi_Pyeongtaek",
+            "shorten_url":"https:\/\/me2.do\/FRrv5gUy"
         },
         {
             "index":9,
@@ -166,7 +179,8 @@
             "value_score":42.7629,
             "region":"경기도 평택시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4122000000_Gyeonggi_Pyeongtaek"
+            "sub_region_code":"4122000000_Gyeonggi_Pyeongtaek",
+            "shorten_url":"https:\/\/me2.do\/FRrv5gUy"
         },
         {
             "index":10,
@@ -178,7 +192,8 @@
             "value_score":65.5732,
             "region":"경기도 평택시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4122000000_Gyeonggi_Pyeongtaek"
+            "sub_region_code":"4122000000_Gyeonggi_Pyeongtaek",
+            "shorten_url":"https:\/\/me2.do\/FRrv5gUy"
         },
         {
             "index":11,
@@ -190,7 +205,8 @@
             "value_score":64.7826,
             "region":"경기도 평택시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4122000000_Gyeonggi_Pyeongtaek"
+            "sub_region_code":"4122000000_Gyeonggi_Pyeongtaek",
+            "shorten_url":"https:\/\/me2.do\/FRrv5gUy"
         },
         {
             "index":12,
@@ -202,7 +218,8 @@
             "value_score":64.7732,
             "region":"경기도 평택시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4122000000_Gyeonggi_Pyeongtaek"
+            "sub_region_code":"4122000000_Gyeonggi_Pyeongtaek",
+            "shorten_url":"https:\/\/me2.do\/FRrv5gUy"
         },
         {
             "index":13,
@@ -214,7 +231,8 @@
             "value_score":63.7026,
             "region":"경기도 평택시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4122000000_Gyeonggi_Pyeongtaek"
+            "sub_region_code":"4122000000_Gyeonggi_Pyeongtaek",
+            "shorten_url":"https:\/\/me2.do\/FRrv5gUy"
         },
         {
             "index":14,
@@ -226,7 +244,8 @@
             "value_score":63.5156,
             "region":"경기도 평택시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4122000000_Gyeonggi_Pyeongtaek"
+            "sub_region_code":"4122000000_Gyeonggi_Pyeongtaek",
+            "shorten_url":"https:\/\/me2.do\/FRrv5gUy"
         },
         {
             "index":15,
@@ -238,7 +257,8 @@
             "value_score":61.9172,
             "region":"경기도 평택시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4122000000_Gyeonggi_Pyeongtaek"
+            "sub_region_code":"4122000000_Gyeonggi_Pyeongtaek",
+            "shorten_url":"https:\/\/me2.do\/FRrv5gUy"
         },
         {
             "index":16,
@@ -250,7 +270,8 @@
             "value_score":61.7156,
             "region":"경기도 평택시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4122000000_Gyeonggi_Pyeongtaek"
+            "sub_region_code":"4122000000_Gyeonggi_Pyeongtaek",
+            "shorten_url":"https:\/\/me2.do\/FRrv5gUy"
         },
         {
             "index":17,
@@ -262,7 +283,8 @@
             "value_score":61.6212,
             "region":"경기도 평택시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4122000000_Gyeonggi_Pyeongtaek"
+            "sub_region_code":"4122000000_Gyeonggi_Pyeongtaek",
+            "shorten_url":"https:\/\/me2.do\/FRrv5gUy"
         },
         {
             "index":18,
@@ -274,7 +296,8 @@
             "value_score":61.4526,
             "region":"경기도 평택시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4122000000_Gyeonggi_Pyeongtaek"
+            "sub_region_code":"4122000000_Gyeonggi_Pyeongtaek",
+            "shorten_url":"https:\/\/me2.do\/FRrv5gUy"
         },
         {
             "index":19,
@@ -286,7 +309,8 @@
             "value_score":61.0526,
             "region":"경기도 평택시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4122000000_Gyeonggi_Pyeongtaek"
+            "sub_region_code":"4122000000_Gyeonggi_Pyeongtaek",
+            "shorten_url":"https:\/\/me2.do\/FRrv5gUy"
         },
         {
             "index":20,
@@ -298,7 +322,8 @@
             "value_score":51.90425,
             "region":"경기도 평택시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4122000000_Gyeonggi_Pyeongtaek"
+            "sub_region_code":"4122000000_Gyeonggi_Pyeongtaek",
+            "shorten_url":"https:\/\/me2.do\/FRrv5gUy"
         },
         {
             "index":21,
@@ -310,7 +335,8 @@
             "value_score":51.16945,
             "region":"경기도 평택시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4122000000_Gyeonggi_Pyeongtaek"
+            "sub_region_code":"4122000000_Gyeonggi_Pyeongtaek",
+            "shorten_url":"https:\/\/me2.do\/FRrv5gUy"
         },
         {
             "index":22,
@@ -322,7 +348,8 @@
             "value_score":50.07925,
             "region":"경기도 평택시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4122000000_Gyeonggi_Pyeongtaek"
+            "sub_region_code":"4122000000_Gyeonggi_Pyeongtaek",
+            "shorten_url":"https:\/\/me2.do\/FRrv5gUy"
         },
         {
             "index":23,
@@ -334,7 +361,8 @@
             "value_score":48.7529378724,
             "region":"경기도 평택시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4122000000_Gyeonggi_Pyeongtaek"
+            "sub_region_code":"4122000000_Gyeonggi_Pyeongtaek",
+            "shorten_url":"https:\/\/me2.do\/FRrv5gUy"
         },
         {
             "index":24,
@@ -346,7 +374,8 @@
             "value_score":45.37925,
             "region":"경기도 평택시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4122000000_Gyeonggi_Pyeongtaek"
+            "sub_region_code":"4122000000_Gyeonggi_Pyeongtaek",
+            "shorten_url":"https:\/\/me2.do\/FRrv5gUy"
         },
         {
             "index":25,
@@ -358,7 +387,8 @@
             "value_score":41.73245,
             "region":"경기도 평택시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4122000000_Gyeonggi_Pyeongtaek"
+            "sub_region_code":"4122000000_Gyeonggi_Pyeongtaek",
+            "shorten_url":"https:\/\/me2.do\/FRrv5gUy"
         },
         {
             "index":26,
@@ -370,7 +400,8 @@
             "value_score":40.26445,
             "region":"경기도 평택시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4122000000_Gyeonggi_Pyeongtaek"
+            "sub_region_code":"4122000000_Gyeonggi_Pyeongtaek",
+            "shorten_url":"https:\/\/me2.do\/FRrv5gUy"
         },
         {
             "index":27,
@@ -382,7 +413,8 @@
             "value_score":39.6287,
             "region":"경기도 평택시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4122000000_Gyeonggi_Pyeongtaek"
+            "sub_region_code":"4122000000_Gyeonggi_Pyeongtaek",
+            "shorten_url":"https:\/\/me2.do\/FRrv5gUy"
         },
         {
             "index":28,
@@ -394,7 +426,8 @@
             "value_score":39.55425,
             "region":"경기도 평택시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4122000000_Gyeonggi_Pyeongtaek"
+            "sub_region_code":"4122000000_Gyeonggi_Pyeongtaek",
+            "shorten_url":"https:\/\/me2.do\/FRrv5gUy"
         },
         {
             "index":29,
@@ -406,7 +439,8 @@
             "value_score":39.29605,
             "region":"경기도 평택시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4122000000_Gyeonggi_Pyeongtaek"
+            "sub_region_code":"4122000000_Gyeonggi_Pyeongtaek",
+            "shorten_url":"https:\/\/me2.do\/FRrv5gUy"
         },
         {
             "index":30,
@@ -418,7 +452,8 @@
             "value_score":59.6165,
             "region":"경기도 평택시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4122000000_Gyeonggi_Pyeongtaek"
+            "sub_region_code":"4122000000_Gyeonggi_Pyeongtaek",
+            "shorten_url":"https:\/\/me2.do\/FRrv5gUy"
         },
         {
             "index":31,
@@ -430,7 +465,8 @@
             "value_score":58.3165,
             "region":"경기도 평택시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4122000000_Gyeonggi_Pyeongtaek"
+            "sub_region_code":"4122000000_Gyeonggi_Pyeongtaek",
+            "shorten_url":"https:\/\/me2.do\/FRrv5gUy"
         },
         {
             "index":32,
@@ -442,7 +478,8 @@
             "value_score":58.0165,
             "region":"경기도 평택시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4122000000_Gyeonggi_Pyeongtaek"
+            "sub_region_code":"4122000000_Gyeonggi_Pyeongtaek",
+            "shorten_url":"https:\/\/me2.do\/FRrv5gUy"
         },
         {
             "index":33,
@@ -454,7 +491,8 @@
             "value_score":57.89875,
             "region":"경기도 평택시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4122000000_Gyeonggi_Pyeongtaek"
+            "sub_region_code":"4122000000_Gyeonggi_Pyeongtaek",
+            "shorten_url":"https:\/\/me2.do\/FRrv5gUy"
         },
         {
             "index":34,
@@ -466,7 +504,8 @@
             "value_score":57.8665,
             "region":"경기도 평택시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4122000000_Gyeonggi_Pyeongtaek"
+            "sub_region_code":"4122000000_Gyeonggi_Pyeongtaek",
+            "shorten_url":"https:\/\/me2.do\/FRrv5gUy"
         },
         {
             "index":35,
@@ -478,7 +517,8 @@
             "value_score":57.2665,
             "region":"경기도 평택시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4122000000_Gyeonggi_Pyeongtaek"
+            "sub_region_code":"4122000000_Gyeonggi_Pyeongtaek",
+            "shorten_url":"https:\/\/me2.do\/FRrv5gUy"
         },
         {
             "index":36,
@@ -490,7 +530,8 @@
             "value_score":57.0665,
             "region":"경기도 평택시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4122000000_Gyeonggi_Pyeongtaek"
+            "sub_region_code":"4122000000_Gyeonggi_Pyeongtaek",
+            "shorten_url":"https:\/\/me2.do\/FRrv5gUy"
         },
         {
             "index":37,
@@ -502,7 +543,8 @@
             "value_score":56.7665,
             "region":"경기도 평택시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4122000000_Gyeonggi_Pyeongtaek"
+            "sub_region_code":"4122000000_Gyeonggi_Pyeongtaek",
+            "shorten_url":"https:\/\/me2.do\/FRrv5gUy"
         },
         {
             "index":38,
@@ -514,7 +556,8 @@
             "value_score":56.7215,
             "region":"경기도 평택시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4122000000_Gyeonggi_Pyeongtaek"
+            "sub_region_code":"4122000000_Gyeonggi_Pyeongtaek",
+            "shorten_url":"https:\/\/me2.do\/FRrv5gUy"
         },
         {
             "index":39,
@@ -526,7 +569,8 @@
             "value_score":56.6665,
             "region":"경기도 평택시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4122000000_Gyeonggi_Pyeongtaek"
+            "sub_region_code":"4122000000_Gyeonggi_Pyeongtaek",
+            "shorten_url":"https:\/\/me2.do\/FRrv5gUy"
         },
         {
             "index":40,
@@ -538,7 +582,8 @@
             "value_score":61.033,
             "region":"경기도 평택시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4122000000_Gyeonggi_Pyeongtaek"
+            "sub_region_code":"4122000000_Gyeonggi_Pyeongtaek",
+            "shorten_url":"https:\/\/me2.do\/FRrv5gUy"
         },
         {
             "index":41,
@@ -550,7 +595,8 @@
             "value_score":59.864,
             "region":"경기도 평택시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4122000000_Gyeonggi_Pyeongtaek"
+            "sub_region_code":"4122000000_Gyeonggi_Pyeongtaek",
+            "shorten_url":"https:\/\/me2.do\/FRrv5gUy"
         },
         {
             "index":42,
@@ -562,7 +608,8 @@
             "value_score":59.633,
             "region":"경기도 평택시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4122000000_Gyeonggi_Pyeongtaek"
+            "sub_region_code":"4122000000_Gyeonggi_Pyeongtaek",
+            "shorten_url":"https:\/\/me2.do\/FRrv5gUy"
         },
         {
             "index":43,
@@ -574,7 +621,8 @@
             "value_score":58.564,
             "region":"경기도 평택시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4122000000_Gyeonggi_Pyeongtaek"
+            "sub_region_code":"4122000000_Gyeonggi_Pyeongtaek",
+            "shorten_url":"https:\/\/me2.do\/FRrv5gUy"
         },
         {
             "index":44,
@@ -586,7 +634,8 @@
             "value_score":57.533,
             "region":"경기도 평택시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4122000000_Gyeonggi_Pyeongtaek"
+            "sub_region_code":"4122000000_Gyeonggi_Pyeongtaek",
+            "shorten_url":"https:\/\/me2.do\/FRrv5gUy"
         },
         {
             "index":45,
@@ -598,7 +647,8 @@
             "value_score":57.233,
             "region":"경기도 평택시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4122000000_Gyeonggi_Pyeongtaek"
+            "sub_region_code":"4122000000_Gyeonggi_Pyeongtaek",
+            "shorten_url":"https:\/\/me2.do\/FRrv5gUy"
         },
         {
             "index":46,
@@ -610,7 +660,8 @@
             "value_score":56.833,
             "region":"경기도 평택시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4122000000_Gyeonggi_Pyeongtaek"
+            "sub_region_code":"4122000000_Gyeonggi_Pyeongtaek",
+            "shorten_url":"https:\/\/me2.do\/FRrv5gUy"
         },
         {
             "index":47,
@@ -622,7 +673,8 @@
             "value_score":56.264,
             "region":"경기도 평택시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4122000000_Gyeonggi_Pyeongtaek"
+            "sub_region_code":"4122000000_Gyeonggi_Pyeongtaek",
+            "shorten_url":"https:\/\/me2.do\/FRrv5gUy"
         },
         {
             "index":48,
@@ -634,7 +686,8 @@
             "value_score":56.133,
             "region":"경기도 평택시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4122000000_Gyeonggi_Pyeongtaek"
+            "sub_region_code":"4122000000_Gyeonggi_Pyeongtaek",
+            "shorten_url":"https:\/\/me2.do\/FRrv5gUy"
         },
         {
             "index":49,
@@ -646,7 +699,8 @@
             "value_score":55.043,
             "region":"경기도 평택시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4122000000_Gyeonggi_Pyeongtaek"
+            "sub_region_code":"4122000000_Gyeonggi_Pyeongtaek",
+            "shorten_url":"https:\/\/me2.do\/FRrv5gUy"
         }
     ]
 }

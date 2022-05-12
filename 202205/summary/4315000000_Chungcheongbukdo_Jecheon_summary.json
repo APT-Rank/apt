@@ -40,6 +40,10 @@
             {
                 "name":"sub_region_code",
                 "type":"string"
+            },
+            {
+                "name":"shorten_url",
+                "type":"string"
             }
         ],
         "primaryKey":[
@@ -58,7 +62,8 @@
             "value_score":55.8112,
             "region":"충청북도 제천시",
             "region_code":"Chungcheongbukdo",
-            "sub_region_code":"4315000000_Chungcheongbukdo_Jecheon"
+            "sub_region_code":"4315000000_Chungcheongbukdo_Jecheon",
+            "shorten_url":"https:\/\/me2.do\/FMwM7xLC"
         },
         {
             "index":1,
@@ -70,7 +75,8 @@
             "value_score":50.50885,
             "region":"충청북도 제천시",
             "region_code":"Chungcheongbukdo",
-            "sub_region_code":"4315000000_Chungcheongbukdo_Jecheon"
+            "sub_region_code":"4315000000_Chungcheongbukdo_Jecheon",
+            "shorten_url":"https:\/\/me2.do\/FMwM7xLC"
         },
         {
             "index":2,
@@ -82,7 +88,8 @@
             "value_score":50.32875,
             "region":"충청북도 제천시",
             "region_code":"Chungcheongbukdo",
-            "sub_region_code":"4315000000_Chungcheongbukdo_Jecheon"
+            "sub_region_code":"4315000000_Chungcheongbukdo_Jecheon",
+            "shorten_url":"https:\/\/me2.do\/FMwM7xLC"
         },
         {
             "index":3,
@@ -94,7 +101,8 @@
             "value_score":47.47875,
             "region":"충청북도 제천시",
             "region_code":"Chungcheongbukdo",
-            "sub_region_code":"4315000000_Chungcheongbukdo_Jecheon"
+            "sub_region_code":"4315000000_Chungcheongbukdo_Jecheon",
+            "shorten_url":"https:\/\/me2.do\/FMwM7xLC"
         },
         {
             "index":4,
@@ -106,7 +114,8 @@
             "value_score":45.62875,
             "region":"충청북도 제천시",
             "region_code":"Chungcheongbukdo",
-            "sub_region_code":"4315000000_Chungcheongbukdo_Jecheon"
+            "sub_region_code":"4315000000_Chungcheongbukdo_Jecheon",
+            "shorten_url":"https:\/\/me2.do\/FMwM7xLC"
         },
         {
             "index":5,
@@ -118,7 +127,8 @@
             "value_score":44.60885,
             "region":"충청북도 제천시",
             "region_code":"Chungcheongbukdo",
-            "sub_region_code":"4315000000_Chungcheongbukdo_Jecheon"
+            "sub_region_code":"4315000000_Chungcheongbukdo_Jecheon",
+            "shorten_url":"https:\/\/me2.do\/FMwM7xLC"
         },
         {
             "index":6,
@@ -130,7 +140,8 @@
             "value_score":44.22875,
             "region":"충청북도 제천시",
             "region_code":"Chungcheongbukdo",
-            "sub_region_code":"4315000000_Chungcheongbukdo_Jecheon"
+            "sub_region_code":"4315000000_Chungcheongbukdo_Jecheon",
+            "shorten_url":"https:\/\/me2.do\/FMwM7xLC"
         },
         {
             "index":7,
@@ -142,7 +153,8 @@
             "value_score":43.7612,
             "region":"충청북도 제천시",
             "region_code":"Chungcheongbukdo",
-            "sub_region_code":"4315000000_Chungcheongbukdo_Jecheon"
+            "sub_region_code":"4315000000_Chungcheongbukdo_Jecheon",
+            "shorten_url":"https:\/\/me2.do\/FMwM7xLC"
         },
         {
             "index":8,
@@ -154,7 +166,8 @@
             "value_score":43.5612,
             "region":"충청북도 제천시",
             "region_code":"Chungcheongbukdo",
-            "sub_region_code":"4315000000_Chungcheongbukdo_Jecheon"
+            "sub_region_code":"4315000000_Chungcheongbukdo_Jecheon",
+            "shorten_url":"https:\/\/me2.do\/FMwM7xLC"
         },
         {
             "index":9,
@@ -166,7 +179,8 @@
             "value_score":43.3612,
             "region":"충청북도 제천시",
             "region_code":"Chungcheongbukdo",
-            "sub_region_code":"4315000000_Chungcheongbukdo_Jecheon"
+            "sub_region_code":"4315000000_Chungcheongbukdo_Jecheon",
+            "shorten_url":"https:\/\/me2.do\/FMwM7xLC"
         },
         {
             "index":10,
@@ -178,7 +192,8 @@
             "value_score":57.508,
             "region":"충청북도 제천시",
             "region_code":"Chungcheongbukdo",
-            "sub_region_code":"4315000000_Chungcheongbukdo_Jecheon"
+            "sub_region_code":"4315000000_Chungcheongbukdo_Jecheon",
+            "shorten_url":"https:\/\/me2.do\/FMwM7xLC"
         },
         {
             "index":11,
@@ -190,7 +205,8 @@
             "value_score":53.32775,
             "region":"충청북도 제천시",
             "region_code":"Chungcheongbukdo",
-            "sub_region_code":"4315000000_Chungcheongbukdo_Jecheon"
+            "sub_region_code":"4315000000_Chungcheongbukdo_Jecheon",
+            "shorten_url":"https:\/\/me2.do\/FMwM7xLC"
         },
         {
             "index":12,
@@ -202,7 +218,8 @@
             "value_score":52.80625,
             "region":"충청북도 제천시",
             "region_code":"Chungcheongbukdo",
-            "sub_region_code":"4315000000_Chungcheongbukdo_Jecheon"
+            "sub_region_code":"4315000000_Chungcheongbukdo_Jecheon",
+            "shorten_url":"https:\/\/me2.do\/FMwM7xLC"
         },
         {
             "index":13,
@@ -214,7 +231,8 @@
             "value_score":50.30625,
             "region":"충청북도 제천시",
             "region_code":"Chungcheongbukdo",
-            "sub_region_code":"4315000000_Chungcheongbukdo_Jecheon"
+            "sub_region_code":"4315000000_Chungcheongbukdo_Jecheon",
+            "shorten_url":"https:\/\/me2.do\/FMwM7xLC"
         },
         {
             "index":14,
@@ -226,7 +244,8 @@
             "value_score":47.80625,
             "region":"충청북도 제천시",
             "region_code":"Chungcheongbukdo",
-            "sub_region_code":"4315000000_Chungcheongbukdo_Jecheon"
+            "sub_region_code":"4315000000_Chungcheongbukdo_Jecheon",
+            "shorten_url":"https:\/\/me2.do\/FMwM7xLC"
         },
         {
             "index":15,
@@ -238,7 +257,8 @@
             "value_score":45.30625,
             "region":"충청북도 제천시",
             "region_code":"Chungcheongbukdo",
-            "sub_region_code":"4315000000_Chungcheongbukdo_Jecheon"
+            "sub_region_code":"4315000000_Chungcheongbukdo_Jecheon",
+            "shorten_url":"https:\/\/me2.do\/FMwM7xLC"
         },
         {
             "index":16,
@@ -250,7 +270,8 @@
             "value_score":45.05625,
             "region":"충청북도 제천시",
             "region_code":"Chungcheongbukdo",
-            "sub_region_code":"4315000000_Chungcheongbukdo_Jecheon"
+            "sub_region_code":"4315000000_Chungcheongbukdo_Jecheon",
+            "shorten_url":"https:\/\/me2.do\/FMwM7xLC"
         },
         {
             "index":17,
@@ -262,7 +283,8 @@
             "value_score":45.05625,
             "region":"충청북도 제천시",
             "region_code":"Chungcheongbukdo",
-            "sub_region_code":"4315000000_Chungcheongbukdo_Jecheon"
+            "sub_region_code":"4315000000_Chungcheongbukdo_Jecheon",
+            "shorten_url":"https:\/\/me2.do\/FMwM7xLC"
         },
         {
             "index":18,
@@ -274,7 +296,8 @@
             "value_score":44.82775,
             "region":"충청북도 제천시",
             "region_code":"Chungcheongbukdo",
-            "sub_region_code":"4315000000_Chungcheongbukdo_Jecheon"
+            "sub_region_code":"4315000000_Chungcheongbukdo_Jecheon",
+            "shorten_url":"https:\/\/me2.do\/FMwM7xLC"
         },
         {
             "index":19,
@@ -286,7 +309,8 @@
             "value_score":44.508,
             "region":"충청북도 제천시",
             "region_code":"Chungcheongbukdo",
-            "sub_region_code":"4315000000_Chungcheongbukdo_Jecheon"
+            "sub_region_code":"4315000000_Chungcheongbukdo_Jecheon",
+            "shorten_url":"https:\/\/me2.do\/FMwM7xLC"
         },
         {
             "index":20,
@@ -298,7 +322,8 @@
             "value_score":43.4657894737,
             "region":"충청북도 제천시",
             "region_code":"Chungcheongbukdo",
-            "sub_region_code":"4315000000_Chungcheongbukdo_Jecheon"
+            "sub_region_code":"4315000000_Chungcheongbukdo_Jecheon",
+            "shorten_url":"https:\/\/me2.do\/FMwM7xLC"
         },
         {
             "index":21,
@@ -310,7 +335,8 @@
             "value_score":41.5982105263,
             "region":"충청북도 제천시",
             "region_code":"Chungcheongbukdo",
-            "sub_region_code":"4315000000_Chungcheongbukdo_Jecheon"
+            "sub_region_code":"4315000000_Chungcheongbukdo_Jecheon",
+            "shorten_url":"https:\/\/me2.do\/FMwM7xLC"
         },
         {
             "index":22,
@@ -322,7 +348,8 @@
             "value_score":41.2289473684,
             "region":"충청북도 제천시",
             "region_code":"Chungcheongbukdo",
-            "sub_region_code":"4315000000_Chungcheongbukdo_Jecheon"
+            "sub_region_code":"4315000000_Chungcheongbukdo_Jecheon",
+            "shorten_url":"https:\/\/me2.do\/FMwM7xLC"
         },
         {
             "index":23,
@@ -334,7 +361,8 @@
             "value_score":40.6416842105,
             "region":"충청북도 제천시",
             "region_code":"Chungcheongbukdo",
-            "sub_region_code":"4315000000_Chungcheongbukdo_Jecheon"
+            "sub_region_code":"4315000000_Chungcheongbukdo_Jecheon",
+            "shorten_url":"https:\/\/me2.do\/FMwM7xLC"
         },
         {
             "index":24,
@@ -346,7 +374,8 @@
             "value_score":40.5192631579,
             "region":"충청북도 제천시",
             "region_code":"Chungcheongbukdo",
-            "sub_region_code":"4315000000_Chungcheongbukdo_Jecheon"
+            "sub_region_code":"4315000000_Chungcheongbukdo_Jecheon",
+            "shorten_url":"https:\/\/me2.do\/FMwM7xLC"
         },
         {
             "index":25,
@@ -358,7 +387,8 @@
             "value_score":40.1245263158,
             "region":"충청북도 제천시",
             "region_code":"Chungcheongbukdo",
-            "sub_region_code":"4315000000_Chungcheongbukdo_Jecheon"
+            "sub_region_code":"4315000000_Chungcheongbukdo_Jecheon",
+            "shorten_url":"https:\/\/me2.do\/FMwM7xLC"
         },
         {
             "index":26,
@@ -370,7 +400,8 @@
             "value_score":38.824,
             "region":"충청북도 제천시",
             "region_code":"Chungcheongbukdo",
-            "sub_region_code":"4315000000_Chungcheongbukdo_Jecheon"
+            "sub_region_code":"4315000000_Chungcheongbukdo_Jecheon",
+            "shorten_url":"https:\/\/me2.do\/FMwM7xLC"
         },
         {
             "index":27,
@@ -382,7 +413,8 @@
             "value_score":38.7995789474,
             "region":"충청북도 제천시",
             "region_code":"Chungcheongbukdo",
-            "sub_region_code":"4315000000_Chungcheongbukdo_Jecheon"
+            "sub_region_code":"4315000000_Chungcheongbukdo_Jecheon",
+            "shorten_url":"https:\/\/me2.do\/FMwM7xLC"
         },
         {
             "index":28,
@@ -394,7 +426,8 @@
             "value_score":37.9657894737,
             "region":"충청북도 제천시",
             "region_code":"Chungcheongbukdo",
-            "sub_region_code":"4315000000_Chungcheongbukdo_Jecheon"
+            "sub_region_code":"4315000000_Chungcheongbukdo_Jecheon",
+            "shorten_url":"https:\/\/me2.do\/FMwM7xLC"
         },
         {
             "index":29,
@@ -406,7 +439,8 @@
             "value_score":37.8876842105,
             "region":"충청북도 제천시",
             "region_code":"Chungcheongbukdo",
-            "sub_region_code":"4315000000_Chungcheongbukdo_Jecheon"
+            "sub_region_code":"4315000000_Chungcheongbukdo_Jecheon",
+            "shorten_url":"https:\/\/me2.do\/FMwM7xLC"
         },
         {
             "index":30,
@@ -418,7 +452,8 @@
             "value_score":53.266,
             "region":"충청북도 제천시",
             "region_code":"Chungcheongbukdo",
-            "sub_region_code":"4315000000_Chungcheongbukdo_Jecheon"
+            "sub_region_code":"4315000000_Chungcheongbukdo_Jecheon",
+            "shorten_url":"https:\/\/me2.do\/FMwM7xLC"
         },
         {
             "index":31,
@@ -430,7 +465,8 @@
             "value_score":46.6125,
             "region":"충청북도 제천시",
             "region_code":"Chungcheongbukdo",
-            "sub_region_code":"4315000000_Chungcheongbukdo_Jecheon"
+            "sub_region_code":"4315000000_Chungcheongbukdo_Jecheon",
+            "shorten_url":"https:\/\/me2.do\/FMwM7xLC"
         },
         {
             "index":32,
@@ -442,7 +478,8 @@
             "value_score":46.2805,
             "region":"충청북도 제천시",
             "region_code":"Chungcheongbukdo",
-            "sub_region_code":"4315000000_Chungcheongbukdo_Jecheon"
+            "sub_region_code":"4315000000_Chungcheongbukdo_Jecheon",
+            "shorten_url":"https:\/\/me2.do\/FMwM7xLC"
         },
         {
             "index":33,
@@ -454,7 +491,8 @@
             "value_score":46.266,
             "region":"충청북도 제천시",
             "region_code":"Chungcheongbukdo",
-            "sub_region_code":"4315000000_Chungcheongbukdo_Jecheon"
+            "sub_region_code":"4315000000_Chungcheongbukdo_Jecheon",
+            "shorten_url":"https:\/\/me2.do\/FMwM7xLC"
         },
         {
             "index":34,
@@ -466,7 +504,8 @@
             "value_score":44.2805,
             "region":"충청북도 제천시",
             "region_code":"Chungcheongbukdo",
-            "sub_region_code":"4315000000_Chungcheongbukdo_Jecheon"
+            "sub_region_code":"4315000000_Chungcheongbukdo_Jecheon",
+            "shorten_url":"https:\/\/me2.do\/FMwM7xLC"
         },
         {
             "index":35,
@@ -478,7 +517,8 @@
             "value_score":44.141,
             "region":"충청북도 제천시",
             "region_code":"Chungcheongbukdo",
-            "sub_region_code":"4315000000_Chungcheongbukdo_Jecheon"
+            "sub_region_code":"4315000000_Chungcheongbukdo_Jecheon",
+            "shorten_url":"https:\/\/me2.do\/FMwM7xLC"
         },
         {
             "index":36,
@@ -490,7 +530,8 @@
             "value_score":43.641,
             "region":"충청북도 제천시",
             "region_code":"Chungcheongbukdo",
-            "sub_region_code":"4315000000_Chungcheongbukdo_Jecheon"
+            "sub_region_code":"4315000000_Chungcheongbukdo_Jecheon",
+            "shorten_url":"https:\/\/me2.do\/FMwM7xLC"
         },
         {
             "index":37,
@@ -502,7 +543,8 @@
             "value_score":43.641,
             "region":"충청북도 제천시",
             "region_code":"Chungcheongbukdo",
-            "sub_region_code":"4315000000_Chungcheongbukdo_Jecheon"
+            "sub_region_code":"4315000000_Chungcheongbukdo_Jecheon",
+            "shorten_url":"https:\/\/me2.do\/FMwM7xLC"
         },
         {
             "index":38,
@@ -514,7 +556,8 @@
             "value_score":43.5055,
             "region":"충청북도 제천시",
             "region_code":"Chungcheongbukdo",
-            "sub_region_code":"4315000000_Chungcheongbukdo_Jecheon"
+            "sub_region_code":"4315000000_Chungcheongbukdo_Jecheon",
+            "shorten_url":"https:\/\/me2.do\/FMwM7xLC"
         },
         {
             "index":39,
@@ -526,7 +569,8 @@
             "value_score":43.2375,
             "region":"충청북도 제천시",
             "region_code":"Chungcheongbukdo",
-            "sub_region_code":"4315000000_Chungcheongbukdo_Jecheon"
+            "sub_region_code":"4315000000_Chungcheongbukdo_Jecheon",
+            "shorten_url":"https:\/\/me2.do\/FMwM7xLC"
         }
     ]
 }

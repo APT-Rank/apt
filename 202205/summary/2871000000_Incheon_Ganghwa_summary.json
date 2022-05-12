@@ -40,6 +40,10 @@
             {
                 "name":"sub_region_code",
                 "type":"string"
+            },
+            {
+                "name":"shorten_url",
+                "type":"string"
             }
         ],
         "primaryKey":[
@@ -58,7 +62,8 @@
             "value_score":21.18595,
             "region":"인천시 강화군",
             "region_code":"Incheon",
-            "sub_region_code":"2871000000_Incheon_Ganghwa"
+            "sub_region_code":"2871000000_Incheon_Ganghwa",
+            "shorten_url":"https:\/\/me2.do\/FCLCUEm6"
         },
         {
             "index":1,
@@ -70,7 +75,8 @@
             "value_score":20.38595,
             "region":"인천시 강화군",
             "region_code":"Incheon",
-            "sub_region_code":"2871000000_Incheon_Ganghwa"
+            "sub_region_code":"2871000000_Incheon_Ganghwa",
+            "shorten_url":"https:\/\/me2.do\/FCLCUEm6"
         },
         {
             "index":2,
@@ -82,7 +88,8 @@
             "value_score":19.61285,
             "region":"인천시 강화군",
             "region_code":"Incheon",
-            "sub_region_code":"2871000000_Incheon_Ganghwa"
+            "sub_region_code":"2871000000_Incheon_Ganghwa",
+            "shorten_url":"https:\/\/me2.do\/FCLCUEm6"
         },
         {
             "index":3,
@@ -94,7 +101,8 @@
             "value_score":19.38595,
             "region":"인천시 강화군",
             "region_code":"Incheon",
-            "sub_region_code":"2871000000_Incheon_Ganghwa"
+            "sub_region_code":"2871000000_Incheon_Ganghwa",
+            "shorten_url":"https:\/\/me2.do\/FCLCUEm6"
         },
         {
             "index":4,
@@ -106,7 +114,8 @@
             "value_score":18.68595,
             "region":"인천시 강화군",
             "region_code":"Incheon",
-            "sub_region_code":"2871000000_Incheon_Ganghwa"
+            "sub_region_code":"2871000000_Incheon_Ganghwa",
+            "shorten_url":"https:\/\/me2.do\/FCLCUEm6"
         },
         {
             "index":5,
@@ -118,7 +127,8 @@
             "value_score":18.20595,
             "region":"인천시 강화군",
             "region_code":"Incheon",
-            "sub_region_code":"2871000000_Incheon_Ganghwa"
+            "sub_region_code":"2871000000_Incheon_Ganghwa",
+            "shorten_url":"https:\/\/me2.do\/FCLCUEm6"
         },
         {
             "index":6,
@@ -130,7 +140,8 @@
             "value_score":16.70595,
             "region":"인천시 강화군",
             "region_code":"Incheon",
-            "sub_region_code":"2871000000_Incheon_Ganghwa"
+            "sub_region_code":"2871000000_Incheon_Ganghwa",
+            "shorten_url":"https:\/\/me2.do\/FCLCUEm6"
         },
         {
             "index":7,
@@ -142,7 +153,8 @@
             "value_score":15.98595,
             "region":"인천시 강화군",
             "region_code":"Incheon",
-            "sub_region_code":"2871000000_Incheon_Ganghwa"
+            "sub_region_code":"2871000000_Incheon_Ganghwa",
+            "shorten_url":"https:\/\/me2.do\/FCLCUEm6"
         },
         {
             "index":8,
@@ -154,7 +166,8 @@
             "value_score":15.21285,
             "region":"인천시 강화군",
             "region_code":"Incheon",
-            "sub_region_code":"2871000000_Incheon_Ganghwa"
+            "sub_region_code":"2871000000_Incheon_Ganghwa",
+            "shorten_url":"https:\/\/me2.do\/FCLCUEm6"
         },
         {
             "index":9,
@@ -166,7 +179,8 @@
             "value_score":14.18595,
             "region":"인천시 강화군",
             "region_code":"Incheon",
-            "sub_region_code":"2871000000_Incheon_Ganghwa"
+            "sub_region_code":"2871000000_Incheon_Ganghwa",
+            "shorten_url":"https:\/\/me2.do\/FCLCUEm6"
         },
         {
             "index":10,
@@ -178,7 +192,8 @@
             "value_score":38.2146,
             "region":"인천시 강화군",
             "region_code":"Incheon",
-            "sub_region_code":"2871000000_Incheon_Ganghwa"
+            "sub_region_code":"2871000000_Incheon_Ganghwa",
+            "shorten_url":"https:\/\/me2.do\/FCLCUEm6"
         },
         {
             "index":11,
@@ -190,7 +205,8 @@
             "value_score":36.2146,
             "region":"인천시 강화군",
             "region_code":"Incheon",
-            "sub_region_code":"2871000000_Incheon_Ganghwa"
+            "sub_region_code":"2871000000_Incheon_Ganghwa",
+            "shorten_url":"https:\/\/me2.do\/FCLCUEm6"
         },
         {
             "index":12,
@@ -202,7 +218,8 @@
             "value_score":32.4838,
             "region":"인천시 강화군",
             "region_code":"Incheon",
-            "sub_region_code":"2871000000_Incheon_Ganghwa"
+            "sub_region_code":"2871000000_Incheon_Ganghwa",
+            "shorten_url":"https:\/\/me2.do\/FCLCUEm6"
         },
         {
             "index":13,
@@ -214,7 +231,8 @@
             "value_score":32.0646,
             "region":"인천시 강화군",
             "region_code":"Incheon",
-            "sub_region_code":"2871000000_Incheon_Ganghwa"
+            "sub_region_code":"2871000000_Incheon_Ganghwa",
+            "shorten_url":"https:\/\/me2.do\/FCLCUEm6"
         },
         {
             "index":14,
@@ -226,7 +244,8 @@
             "value_score":29.8646,
             "region":"인천시 강화군",
             "region_code":"Incheon",
-            "sub_region_code":"2871000000_Incheon_Ganghwa"
+            "sub_region_code":"2871000000_Incheon_Ganghwa",
+            "shorten_url":"https:\/\/me2.do\/FCLCUEm6"
         },
         {
             "index":15,
@@ -238,7 +257,8 @@
             "value_score":27.3446,
             "region":"인천시 강화군",
             "region_code":"Incheon",
-            "sub_region_code":"2871000000_Incheon_Ganghwa"
+            "sub_region_code":"2871000000_Incheon_Ganghwa",
+            "shorten_url":"https:\/\/me2.do\/FCLCUEm6"
         },
         {
             "index":16,
@@ -250,7 +270,8 @@
             "value_score":23.5946,
             "region":"인천시 강화군",
             "region_code":"Incheon",
-            "sub_region_code":"2871000000_Incheon_Ganghwa"
+            "sub_region_code":"2871000000_Incheon_Ganghwa",
+            "shorten_url":"https:\/\/me2.do\/FCLCUEm6"
         },
         {
             "index":17,
@@ -262,7 +283,8 @@
             "value_score":23.1146,
             "region":"인천시 강화군",
             "region_code":"Incheon",
-            "sub_region_code":"2871000000_Incheon_Ganghwa"
+            "sub_region_code":"2871000000_Incheon_Ganghwa",
+            "shorten_url":"https:\/\/me2.do\/FCLCUEm6"
         },
         {
             "index":18,
@@ -274,7 +296,8 @@
             "value_score":21.4838,
             "region":"인천시 강화군",
             "region_code":"Incheon",
-            "sub_region_code":"2871000000_Incheon_Ganghwa"
+            "sub_region_code":"2871000000_Incheon_Ganghwa",
+            "shorten_url":"https:\/\/me2.do\/FCLCUEm6"
         },
         {
             "index":19,
@@ -286,7 +309,8 @@
             "value_score":20.7146,
             "region":"인천시 강화군",
             "region_code":"Incheon",
-            "sub_region_code":"2871000000_Incheon_Ganghwa"
+            "sub_region_code":"2871000000_Incheon_Ganghwa",
+            "shorten_url":"https:\/\/me2.do\/FCLCUEm6"
         },
         {
             "index":20,
@@ -298,7 +322,8 @@
             "value_score":17.33595,
             "region":"인천시 강화군",
             "region_code":"Incheon",
-            "sub_region_code":"2871000000_Incheon_Ganghwa"
+            "sub_region_code":"2871000000_Incheon_Ganghwa",
+            "shorten_url":"https:\/\/me2.do\/FCLCUEm6"
         },
         {
             "index":21,
@@ -310,7 +335,8 @@
             "value_score":16.73595,
             "region":"인천시 강화군",
             "region_code":"Incheon",
-            "sub_region_code":"2871000000_Incheon_Ganghwa"
+            "sub_region_code":"2871000000_Incheon_Ganghwa",
+            "shorten_url":"https:\/\/me2.do\/FCLCUEm6"
         },
         {
             "index":22,
@@ -322,7 +348,8 @@
             "value_score":16.11285,
             "region":"인천시 강화군",
             "region_code":"Incheon",
-            "sub_region_code":"2871000000_Incheon_Ganghwa"
+            "sub_region_code":"2871000000_Incheon_Ganghwa",
+            "shorten_url":"https:\/\/me2.do\/FCLCUEm6"
         },
         {
             "index":23,
@@ -334,7 +361,8 @@
             "value_score":15.91095,
             "region":"인천시 강화군",
             "region_code":"Incheon",
-            "sub_region_code":"2871000000_Incheon_Ganghwa"
+            "sub_region_code":"2871000000_Incheon_Ganghwa",
+            "shorten_url":"https:\/\/me2.do\/FCLCUEm6"
         },
         {
             "index":24,
@@ -346,7 +374,8 @@
             "value_score":15.91095,
             "region":"인천시 강화군",
             "region_code":"Incheon",
-            "sub_region_code":"2871000000_Incheon_Ganghwa"
+            "sub_region_code":"2871000000_Incheon_Ganghwa",
+            "shorten_url":"https:\/\/me2.do\/FCLCUEm6"
         },
         {
             "index":25,
@@ -358,7 +387,8 @@
             "value_score":15.49095,
             "region":"인천시 강화군",
             "region_code":"Incheon",
-            "sub_region_code":"2871000000_Incheon_Ganghwa"
+            "sub_region_code":"2871000000_Incheon_Ganghwa",
+            "shorten_url":"https:\/\/me2.do\/FCLCUEm6"
         },
         {
             "index":26,
@@ -370,7 +400,8 @@
             "value_score":14.36595,
             "region":"인천시 강화군",
             "region_code":"Incheon",
-            "sub_region_code":"2871000000_Incheon_Ganghwa"
+            "sub_region_code":"2871000000_Incheon_Ganghwa",
+            "shorten_url":"https:\/\/me2.do\/FCLCUEm6"
         },
         {
             "index":27,
@@ -382,7 +413,8 @@
             "value_score":13.88595,
             "region":"인천시 강화군",
             "region_code":"Incheon",
-            "sub_region_code":"2871000000_Incheon_Ganghwa"
+            "sub_region_code":"2871000000_Incheon_Ganghwa",
+            "shorten_url":"https:\/\/me2.do\/FCLCUEm6"
         },
         {
             "index":28,
@@ -394,7 +426,8 @@
             "value_score":12.81285,
             "region":"인천시 강화군",
             "region_code":"Incheon",
-            "sub_region_code":"2871000000_Incheon_Ganghwa"
+            "sub_region_code":"2871000000_Incheon_Ganghwa",
+            "shorten_url":"https:\/\/me2.do\/FCLCUEm6"
         },
         {
             "index":29,
@@ -406,7 +439,8 @@
             "value_score":12.08595,
             "region":"인천시 강화군",
             "region_code":"Incheon",
-            "sub_region_code":"2871000000_Incheon_Ganghwa"
+            "sub_region_code":"2871000000_Incheon_Ganghwa",
+            "shorten_url":"https:\/\/me2.do\/FCLCUEm6"
         },
         {
             "index":30,
@@ -418,7 +452,8 @@
             "value_score":24.39325,
             "region":"인천시 강화군",
             "region_code":"Incheon",
-            "sub_region_code":"2871000000_Incheon_Ganghwa"
+            "sub_region_code":"2871000000_Incheon_Ganghwa",
+            "shorten_url":"https:\/\/me2.do\/FCLCUEm6"
         },
         {
             "index":31,
@@ -430,7 +465,8 @@
             "value_score":23.79325,
             "region":"인천시 강화군",
             "region_code":"Incheon",
-            "sub_region_code":"2871000000_Incheon_Ganghwa"
+            "sub_region_code":"2871000000_Incheon_Ganghwa",
+            "shorten_url":"https:\/\/me2.do\/FCLCUEm6"
         },
         {
             "index":32,
@@ -442,7 +478,8 @@
             "value_score":23.64325,
             "region":"인천시 강화군",
             "region_code":"Incheon",
-            "sub_region_code":"2871000000_Incheon_Ganghwa"
+            "sub_region_code":"2871000000_Incheon_Ganghwa",
+            "shorten_url":"https:\/\/me2.do\/FCLCUEm6"
         },
         {
             "index":33,
@@ -454,7 +491,8 @@
             "value_score":23.35475,
             "region":"인천시 강화군",
             "region_code":"Incheon",
-            "sub_region_code":"2871000000_Incheon_Ganghwa"
+            "sub_region_code":"2871000000_Incheon_Ganghwa",
+            "shorten_url":"https:\/\/me2.do\/FCLCUEm6"
         },
         {
             "index":34,
@@ -466,7 +504,8 @@
             "value_score":23.09325,
             "region":"인천시 강화군",
             "region_code":"Incheon",
-            "sub_region_code":"2871000000_Incheon_Ganghwa"
+            "sub_region_code":"2871000000_Incheon_Ganghwa",
+            "shorten_url":"https:\/\/me2.do\/FCLCUEm6"
         },
         {
             "index":35,
@@ -478,7 +517,8 @@
             "value_score":22.94325,
             "region":"인천시 강화군",
             "region_code":"Incheon",
-            "sub_region_code":"2871000000_Incheon_Ganghwa"
+            "sub_region_code":"2871000000_Incheon_Ganghwa",
+            "shorten_url":"https:\/\/me2.do\/FCLCUEm6"
         },
         {
             "index":36,
@@ -490,7 +530,8 @@
             "value_score":22.54325,
             "region":"인천시 강화군",
             "region_code":"Incheon",
-            "sub_region_code":"2871000000_Incheon_Ganghwa"
+            "sub_region_code":"2871000000_Incheon_Ganghwa",
+            "shorten_url":"https:\/\/me2.do\/FCLCUEm6"
         },
         {
             "index":37,
@@ -502,7 +543,8 @@
             "value_score":22.44325,
             "region":"인천시 강화군",
             "region_code":"Incheon",
-            "sub_region_code":"2871000000_Incheon_Ganghwa"
+            "sub_region_code":"2871000000_Incheon_Ganghwa",
+            "shorten_url":"https:\/\/me2.do\/FCLCUEm6"
         },
         {
             "index":38,
@@ -514,7 +556,8 @@
             "value_score":21.15475,
             "region":"인천시 강화군",
             "region_code":"Incheon",
-            "sub_region_code":"2871000000_Incheon_Ganghwa"
+            "sub_region_code":"2871000000_Incheon_Ganghwa",
+            "shorten_url":"https:\/\/me2.do\/FCLCUEm6"
         },
         {
             "index":39,
@@ -526,7 +569,8 @@
             "value_score":19.44325,
             "region":"인천시 강화군",
             "region_code":"Incheon",
-            "sub_region_code":"2871000000_Incheon_Ganghwa"
+            "sub_region_code":"2871000000_Incheon_Ganghwa",
+            "shorten_url":"https:\/\/me2.do\/FCLCUEm6"
         },
         {
             "index":40,
@@ -538,7 +582,8 @@
             "value_score":37.9865,
             "region":"인천시 강화군",
             "region_code":"Incheon",
-            "sub_region_code":"2871000000_Incheon_Ganghwa"
+            "sub_region_code":"2871000000_Incheon_Ganghwa",
+            "shorten_url":"https:\/\/me2.do\/FCLCUEm6"
         },
         {
             "index":41,
@@ -550,7 +595,8 @@
             "value_score":37.2665,
             "region":"인천시 강화군",
             "region_code":"Incheon",
-            "sub_region_code":"2871000000_Incheon_Ganghwa"
+            "sub_region_code":"2871000000_Incheon_Ganghwa",
+            "shorten_url":"https:\/\/me2.do\/FCLCUEm6"
         },
         {
             "index":42,
@@ -562,7 +608,8 @@
             "value_score":36.2865,
             "region":"인천시 강화군",
             "region_code":"Incheon",
-            "sub_region_code":"2871000000_Incheon_Ganghwa"
+            "sub_region_code":"2871000000_Incheon_Ganghwa",
+            "shorten_url":"https:\/\/me2.do\/FCLCUEm6"
         },
         {
             "index":43,
@@ -574,7 +621,8 @@
             "value_score":35.7665,
             "region":"인천시 강화군",
             "region_code":"Incheon",
-            "sub_region_code":"2871000000_Incheon_Ganghwa"
+            "sub_region_code":"2871000000_Incheon_Ganghwa",
+            "shorten_url":"https:\/\/me2.do\/FCLCUEm6"
         },
         {
             "index":44,
@@ -586,7 +634,8 @@
             "value_score":35.4865,
             "region":"인천시 강화군",
             "region_code":"Incheon",
-            "sub_region_code":"2871000000_Incheon_Ganghwa"
+            "sub_region_code":"2871000000_Incheon_Ganghwa",
+            "shorten_url":"https:\/\/me2.do\/FCLCUEm6"
         },
         {
             "index":45,
@@ -598,7 +647,8 @@
             "value_score":35.2865,
             "region":"인천시 강화군",
             "region_code":"Incheon",
-            "sub_region_code":"2871000000_Incheon_Ganghwa"
+            "sub_region_code":"2871000000_Incheon_Ganghwa",
+            "shorten_url":"https:\/\/me2.do\/FCLCUEm6"
         },
         {
             "index":46,
@@ -610,7 +660,8 @@
             "value_score":34.7095,
             "region":"인천시 강화군",
             "region_code":"Incheon",
-            "sub_region_code":"2871000000_Incheon_Ganghwa"
+            "sub_region_code":"2871000000_Incheon_Ganghwa",
+            "shorten_url":"https:\/\/me2.do\/FCLCUEm6"
         },
         {
             "index":47,
@@ -622,7 +673,8 @@
             "value_score":34.1865,
             "region":"인천시 강화군",
             "region_code":"Incheon",
-            "sub_region_code":"2871000000_Incheon_Ganghwa"
+            "sub_region_code":"2871000000_Incheon_Ganghwa",
+            "shorten_url":"https:\/\/me2.do\/FCLCUEm6"
         },
         {
             "index":48,
@@ -634,7 +686,8 @@
             "value_score":30.3095,
             "region":"인천시 강화군",
             "region_code":"Incheon",
-            "sub_region_code":"2871000000_Incheon_Ganghwa"
+            "sub_region_code":"2871000000_Incheon_Ganghwa",
+            "shorten_url":"https:\/\/me2.do\/FCLCUEm6"
         },
         {
             "index":49,
@@ -646,7 +699,8 @@
             "value_score":29.2865,
             "region":"인천시 강화군",
             "region_code":"Incheon",
-            "sub_region_code":"2871000000_Incheon_Ganghwa"
+            "sub_region_code":"2871000000_Incheon_Ganghwa",
+            "shorten_url":"https:\/\/me2.do\/FCLCUEm6"
         }
     ]
 }

@@ -40,6 +40,10 @@
             {
                 "name":"sub_region_code",
                 "type":"string"
+            },
+            {
+                "name":"shorten_url",
+                "type":"string"
             }
         ],
         "primaryKey":[
@@ -58,7 +62,8 @@
             "value_score":62.4518,
             "region":"부산시 사하구",
             "region_code":"Busan",
-            "sub_region_code":"2638000000_Busan_Saha"
+            "sub_region_code":"2638000000_Busan_Saha",
+            "shorten_url":"https:\/\/me2.do\/FuWC2AEj"
         },
         {
             "index":1,
@@ -70,7 +75,8 @@
             "value_score":61.0055,
             "region":"부산시 사하구",
             "region_code":"Busan",
-            "sub_region_code":"2638000000_Busan_Saha"
+            "sub_region_code":"2638000000_Busan_Saha",
+            "shorten_url":"https:\/\/me2.do\/FuWC2AEj"
         },
         {
             "index":2,
@@ -82,7 +88,8 @@
             "value_score":60.3718,
             "region":"부산시 사하구",
             "region_code":"Busan",
-            "sub_region_code":"2638000000_Busan_Saha"
+            "sub_region_code":"2638000000_Busan_Saha",
+            "shorten_url":"https:\/\/me2.do\/FuWC2AEj"
         },
         {
             "index":3,
@@ -94,7 +101,8 @@
             "value_score":57.5155,
             "region":"부산시 사하구",
             "region_code":"Busan",
-            "sub_region_code":"2638000000_Busan_Saha"
+            "sub_region_code":"2638000000_Busan_Saha",
+            "shorten_url":"https:\/\/me2.do\/FuWC2AEj"
         },
         {
             "index":4,
@@ -106,7 +114,8 @@
             "value_score":56.4006,
             "region":"부산시 사하구",
             "region_code":"Busan",
-            "sub_region_code":"2638000000_Busan_Saha"
+            "sub_region_code":"2638000000_Busan_Saha",
+            "shorten_url":"https:\/\/me2.do\/FuWC2AEj"
         },
         {
             "index":5,
@@ -118,7 +127,8 @@
             "value_score":56.2018,
             "region":"부산시 사하구",
             "region_code":"Busan",
-            "sub_region_code":"2638000000_Busan_Saha"
+            "sub_region_code":"2638000000_Busan_Saha",
+            "shorten_url":"https:\/\/me2.do\/FuWC2AEj"
         },
         {
             "index":6,
@@ -130,7 +140,8 @@
             "value_score":56.1006,
             "region":"부산시 사하구",
             "region_code":"Busan",
-            "sub_region_code":"2638000000_Busan_Saha"
+            "sub_region_code":"2638000000_Busan_Saha",
+            "shorten_url":"https:\/\/me2.do\/FuWC2AEj"
         },
         {
             "index":7,
@@ -142,7 +153,8 @@
             "value_score":56.0006,
             "region":"부산시 사하구",
             "region_code":"Busan",
-            "sub_region_code":"2638000000_Busan_Saha"
+            "sub_region_code":"2638000000_Busan_Saha",
+            "shorten_url":"https:\/\/me2.do\/FuWC2AEj"
         },
         {
             "index":8,
@@ -154,7 +166,8 @@
             "value_score":55.4555,
             "region":"부산시 사하구",
             "region_code":"Busan",
-            "sub_region_code":"2638000000_Busan_Saha"
+            "sub_region_code":"2638000000_Busan_Saha",
+            "shorten_url":"https:\/\/me2.do\/FuWC2AEj"
         },
         {
             "index":9,
@@ -166,7 +179,8 @@
             "value_score":55.195,
             "region":"부산시 사하구",
             "region_code":"Busan",
-            "sub_region_code":"2638000000_Busan_Saha"
+            "sub_region_code":"2638000000_Busan_Saha",
+            "shorten_url":"https:\/\/me2.do\/FuWC2AEj"
         },
         {
             "index":10,
@@ -178,7 +192,8 @@
             "value_score":63.0812,
             "region":"부산시 사하구",
             "region_code":"Busan",
-            "sub_region_code":"2638000000_Busan_Saha"
+            "sub_region_code":"2638000000_Busan_Saha",
+            "shorten_url":"https:\/\/me2.do\/FuWC2AEj"
         },
         {
             "index":11,
@@ -190,7 +205,8 @@
             "value_score":62.4492,
             "region":"부산시 사하구",
             "region_code":"Busan",
-            "sub_region_code":"2638000000_Busan_Saha"
+            "sub_region_code":"2638000000_Busan_Saha",
+            "shorten_url":"https:\/\/me2.do\/FuWC2AEj"
         },
         {
             "index":12,
@@ -202,7 +218,8 @@
             "value_score":60.5612,
             "region":"부산시 사하구",
             "region_code":"Busan",
-            "sub_region_code":"2638000000_Busan_Saha"
+            "sub_region_code":"2638000000_Busan_Saha",
+            "shorten_url":"https:\/\/me2.do\/FuWC2AEj"
         },
         {
             "index":13,
@@ -214,7 +231,8 @@
             "value_score":59.787,
             "region":"부산시 사하구",
             "region_code":"Busan",
-            "sub_region_code":"2638000000_Busan_Saha"
+            "sub_region_code":"2638000000_Busan_Saha",
+            "shorten_url":"https:\/\/me2.do\/FuWC2AEj"
         },
         {
             "index":14,
@@ -226,7 +244,8 @@
             "value_score":58.5852,
             "region":"부산시 사하구",
             "region_code":"Busan",
-            "sub_region_code":"2638000000_Busan_Saha"
+            "sub_region_code":"2638000000_Busan_Saha",
+            "shorten_url":"https:\/\/me2.do\/FuWC2AEj"
         },
         {
             "index":15,
@@ -238,7 +257,8 @@
             "value_score":57.627,
             "region":"부산시 사하구",
             "region_code":"Busan",
-            "sub_region_code":"2638000000_Busan_Saha"
+            "sub_region_code":"2638000000_Busan_Saha",
+            "shorten_url":"https:\/\/me2.do\/FuWC2AEj"
         },
         {
             "index":16,
@@ -250,7 +270,8 @@
             "value_score":57.1992,
             "region":"부산시 사하구",
             "region_code":"Busan",
-            "sub_region_code":"2638000000_Busan_Saha"
+            "sub_region_code":"2638000000_Busan_Saha",
+            "shorten_url":"https:\/\/me2.do\/FuWC2AEj"
         },
         {
             "index":17,
@@ -262,7 +283,8 @@
             "value_score":57.1992,
             "region":"부산시 사하구",
             "region_code":"Busan",
-            "sub_region_code":"2638000000_Busan_Saha"
+            "sub_region_code":"2638000000_Busan_Saha",
+            "shorten_url":"https:\/\/me2.do\/FuWC2AEj"
         },
         {
             "index":18,
@@ -274,7 +296,8 @@
             "value_score":56.959,
             "region":"부산시 사하구",
             "region_code":"Busan",
-            "sub_region_code":"2638000000_Busan_Saha"
+            "sub_region_code":"2638000000_Busan_Saha",
+            "shorten_url":"https:\/\/me2.do\/FuWC2AEj"
         },
         {
             "index":19,
@@ -286,7 +309,8 @@
             "value_score":56.8388,
             "region":"부산시 사하구",
             "region_code":"Busan",
-            "sub_region_code":"2638000000_Busan_Saha"
+            "sub_region_code":"2638000000_Busan_Saha",
+            "shorten_url":"https:\/\/me2.do\/FuWC2AEj"
         },
         {
             "index":20,
@@ -298,7 +322,8 @@
             "value_score":72.0503,
             "region":"부산시 사하구",
             "region_code":"Busan",
-            "sub_region_code":"2638000000_Busan_Saha"
+            "sub_region_code":"2638000000_Busan_Saha",
+            "shorten_url":"https:\/\/me2.do\/FuWC2AEj"
         },
         {
             "index":21,
@@ -310,7 +335,8 @@
             "value_score":72.0409,
             "region":"부산시 사하구",
             "region_code":"Busan",
-            "sub_region_code":"2638000000_Busan_Saha"
+            "sub_region_code":"2638000000_Busan_Saha",
+            "shorten_url":"https:\/\/me2.do\/FuWC2AEj"
         },
         {
             "index":22,
@@ -322,7 +348,8 @@
             "value_score":71.3753,
             "region":"부산시 사하구",
             "region_code":"Busan",
-            "sub_region_code":"2638000000_Busan_Saha"
+            "sub_region_code":"2638000000_Busan_Saha",
+            "shorten_url":"https:\/\/me2.do\/FuWC2AEj"
         },
         {
             "index":23,
@@ -334,7 +361,8 @@
             "value_score":70.8659,
             "region":"부산시 사하구",
             "region_code":"Busan",
-            "sub_region_code":"2638000000_Busan_Saha"
+            "sub_region_code":"2638000000_Busan_Saha",
+            "shorten_url":"https:\/\/me2.do\/FuWC2AEj"
         },
         {
             "index":24,
@@ -346,7 +374,8 @@
             "value_score":69.72775,
             "region":"부산시 사하구",
             "region_code":"Busan",
-            "sub_region_code":"2638000000_Busan_Saha"
+            "sub_region_code":"2638000000_Busan_Saha",
+            "shorten_url":"https:\/\/me2.do\/FuWC2AEj"
         },
         {
             "index":25,
@@ -358,7 +387,8 @@
             "value_score":68.67775,
             "region":"부산시 사하구",
             "region_code":"Busan",
-            "sub_region_code":"2638000000_Busan_Saha"
+            "sub_region_code":"2638000000_Busan_Saha",
+            "shorten_url":"https:\/\/me2.do\/FuWC2AEj"
         },
         {
             "index":26,
@@ -370,7 +400,8 @@
             "value_score":68.2503,
             "region":"부산시 사하구",
             "region_code":"Busan",
-            "sub_region_code":"2638000000_Busan_Saha"
+            "sub_region_code":"2638000000_Busan_Saha",
+            "shorten_url":"https:\/\/me2.do\/FuWC2AEj"
         },
         {
             "index":27,
@@ -382,7 +413,8 @@
             "value_score":68.1003,
             "region":"부산시 사하구",
             "region_code":"Busan",
-            "sub_region_code":"2638000000_Busan_Saha"
+            "sub_region_code":"2638000000_Busan_Saha",
+            "shorten_url":"https:\/\/me2.do\/FuWC2AEj"
         },
         {
             "index":28,
@@ -394,7 +426,8 @@
             "value_score":67.62775,
             "region":"부산시 사하구",
             "region_code":"Busan",
-            "sub_region_code":"2638000000_Busan_Saha"
+            "sub_region_code":"2638000000_Busan_Saha",
+            "shorten_url":"https:\/\/me2.do\/FuWC2AEj"
         },
         {
             "index":29,
@@ -406,7 +439,8 @@
             "value_score":66.6859,
             "region":"부산시 사하구",
             "region_code":"Busan",
-            "sub_region_code":"2638000000_Busan_Saha"
+            "sub_region_code":"2638000000_Busan_Saha",
+            "shorten_url":"https:\/\/me2.do\/FuWC2AEj"
         },
         {
             "index":30,
@@ -418,7 +452,8 @@
             "value_score":53.57125,
             "region":"부산시 사하구",
             "region_code":"Busan",
-            "sub_region_code":"2638000000_Busan_Saha"
+            "sub_region_code":"2638000000_Busan_Saha",
+            "shorten_url":"https:\/\/me2.do\/FuWC2AEj"
         },
         {
             "index":31,
@@ -430,7 +465,8 @@
             "value_score":53.1755,
             "region":"부산시 사하구",
             "region_code":"Busan",
-            "sub_region_code":"2638000000_Busan_Saha"
+            "sub_region_code":"2638000000_Busan_Saha",
+            "shorten_url":"https:\/\/me2.do\/FuWC2AEj"
         },
         {
             "index":32,
@@ -442,7 +478,8 @@
             "value_score":52.9765,
             "region":"부산시 사하구",
             "region_code":"Busan",
-            "sub_region_code":"2638000000_Busan_Saha"
+            "sub_region_code":"2638000000_Busan_Saha",
+            "shorten_url":"https:\/\/me2.do\/FuWC2AEj"
         },
         {
             "index":33,
@@ -454,7 +491,8 @@
             "value_score":52.9265,
             "region":"부산시 사하구",
             "region_code":"Busan",
-            "sub_region_code":"2638000000_Busan_Saha"
+            "sub_region_code":"2638000000_Busan_Saha",
+            "shorten_url":"https:\/\/me2.do\/FuWC2AEj"
         },
         {
             "index":34,
@@ -466,7 +504,8 @@
             "value_score":52.7255,
             "region":"부산시 사하구",
             "region_code":"Busan",
-            "sub_region_code":"2638000000_Busan_Saha"
+            "sub_region_code":"2638000000_Busan_Saha",
+            "shorten_url":"https:\/\/me2.do\/FuWC2AEj"
         },
         {
             "index":35,
@@ -478,7 +517,8 @@
             "value_score":52.4755,
             "region":"부산시 사하구",
             "region_code":"Busan",
-            "sub_region_code":"2638000000_Busan_Saha"
+            "sub_region_code":"2638000000_Busan_Saha",
+            "shorten_url":"https:\/\/me2.do\/FuWC2AEj"
         },
         {
             "index":36,
@@ -490,7 +530,8 @@
             "value_score":52.3755,
             "region":"부산시 사하구",
             "region_code":"Busan",
-            "sub_region_code":"2638000000_Busan_Saha"
+            "sub_region_code":"2638000000_Busan_Saha",
+            "shorten_url":"https:\/\/me2.do\/FuWC2AEj"
         },
         {
             "index":37,
@@ -502,7 +543,8 @@
             "value_score":51.2255,
             "region":"부산시 사하구",
             "region_code":"Busan",
-            "sub_region_code":"2638000000_Busan_Saha"
+            "sub_region_code":"2638000000_Busan_Saha",
+            "shorten_url":"https:\/\/me2.do\/FuWC2AEj"
         },
         {
             "index":38,
@@ -514,7 +556,8 @@
             "value_score":50.6375,
             "region":"부산시 사하구",
             "region_code":"Busan",
-            "sub_region_code":"2638000000_Busan_Saha"
+            "sub_region_code":"2638000000_Busan_Saha",
+            "shorten_url":"https:\/\/me2.do\/FuWC2AEj"
         },
         {
             "index":39,
@@ -526,7 +569,8 @@
             "value_score":50.12125,
             "region":"부산시 사하구",
             "region_code":"Busan",
-            "sub_region_code":"2638000000_Busan_Saha"
+            "sub_region_code":"2638000000_Busan_Saha",
+            "shorten_url":"https:\/\/me2.do\/FuWC2AEj"
         },
         {
             "index":40,
@@ -538,7 +582,8 @@
             "value_score":59.6925,
             "region":"부산시 사하구",
             "region_code":"Busan",
-            "sub_region_code":"2638000000_Busan_Saha"
+            "sub_region_code":"2638000000_Busan_Saha",
+            "shorten_url":"https:\/\/me2.do\/FuWC2AEj"
         },
         {
             "index":41,
@@ -550,7 +595,8 @@
             "value_score":58.733,
             "region":"부산시 사하구",
             "region_code":"Busan",
-            "sub_region_code":"2638000000_Busan_Saha"
+            "sub_region_code":"2638000000_Busan_Saha",
+            "shorten_url":"https:\/\/me2.do\/FuWC2AEj"
         },
         {
             "index":42,
@@ -562,7 +608,8 @@
             "value_score":55.7925,
             "region":"부산시 사하구",
             "region_code":"Busan",
-            "sub_region_code":"2638000000_Busan_Saha"
+            "sub_region_code":"2638000000_Busan_Saha",
+            "shorten_url":"https:\/\/me2.do\/FuWC2AEj"
         },
         {
             "index":43,
@@ -574,7 +621,8 @@
             "value_score":54.551,
             "region":"부산시 사하구",
             "region_code":"Busan",
-            "sub_region_code":"2638000000_Busan_Saha"
+            "sub_region_code":"2638000000_Busan_Saha",
+            "shorten_url":"https:\/\/me2.do\/FuWC2AEj"
         },
         {
             "index":44,
@@ -586,7 +634,8 @@
             "value_score":54.433,
             "region":"부산시 사하구",
             "region_code":"Busan",
-            "sub_region_code":"2638000000_Busan_Saha"
+            "sub_region_code":"2638000000_Busan_Saha",
+            "shorten_url":"https:\/\/me2.do\/FuWC2AEj"
         },
         {
             "index":45,
@@ -598,7 +647,8 @@
             "value_score":54.3925,
             "region":"부산시 사하구",
             "region_code":"Busan",
-            "sub_region_code":"2638000000_Busan_Saha"
+            "sub_region_code":"2638000000_Busan_Saha",
+            "shorten_url":"https:\/\/me2.do\/FuWC2AEj"
         },
         {
             "index":46,
@@ -610,7 +660,8 @@
             "value_score":54.351,
             "region":"부산시 사하구",
             "region_code":"Busan",
-            "sub_region_code":"2638000000_Busan_Saha"
+            "sub_region_code":"2638000000_Busan_Saha",
+            "shorten_url":"https:\/\/me2.do\/FuWC2AEj"
         },
         {
             "index":47,
@@ -622,7 +673,8 @@
             "value_score":53.951,
             "region":"부산시 사하구",
             "region_code":"Busan",
-            "sub_region_code":"2638000000_Busan_Saha"
+            "sub_region_code":"2638000000_Busan_Saha",
+            "shorten_url":"https:\/\/me2.do\/FuWC2AEj"
         },
         {
             "index":48,
@@ -634,7 +686,8 @@
             "value_score":53.7925,
             "region":"부산시 사하구",
             "region_code":"Busan",
-            "sub_region_code":"2638000000_Busan_Saha"
+            "sub_region_code":"2638000000_Busan_Saha",
+            "shorten_url":"https:\/\/me2.do\/FuWC2AEj"
         },
         {
             "index":49,
@@ -646,7 +699,8 @@
             "value_score":53.5214578962,
             "region":"부산시 사하구",
             "region_code":"Busan",
-            "sub_region_code":"2638000000_Busan_Saha"
+            "sub_region_code":"2638000000_Busan_Saha",
+            "shorten_url":"https:\/\/me2.do\/FuWC2AEj"
         }
     ]
 }

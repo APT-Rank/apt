@@ -40,6 +40,10 @@
             {
                 "name":"sub_region_code",
                 "type":"string"
+            },
+            {
+                "name":"shorten_url",
+                "type":"string"
             }
         ],
         "primaryKey":[
@@ -58,7 +62,8 @@
             "value_score":69.0619,
             "region":"서울시 강동구",
             "region_code":"Seoul",
-            "sub_region_code":"1174000000_Seoul_Gangdong"
+            "sub_region_code":"1174000000_Seoul_Gangdong",
+            "shorten_url":"https:\/\/me2.do\/GHZeBNmN"
         },
         {
             "index":1,
@@ -70,7 +75,8 @@
             "value_score":68.7837,
             "region":"서울시 강동구",
             "region_code":"Seoul",
-            "sub_region_code":"1174000000_Seoul_Gangdong"
+            "sub_region_code":"1174000000_Seoul_Gangdong",
+            "shorten_url":"https:\/\/me2.do\/GHZeBNmN"
         },
         {
             "index":2,
@@ -82,7 +88,8 @@
             "value_score":66.6903,
             "region":"서울시 강동구",
             "region_code":"Seoul",
-            "sub_region_code":"1174000000_Seoul_Gangdong"
+            "sub_region_code":"1174000000_Seoul_Gangdong",
+            "shorten_url":"https:\/\/me2.do\/GHZeBNmN"
         },
         {
             "index":3,
@@ -94,7 +101,8 @@
             "value_score":66.1819367192,
             "region":"서울시 강동구",
             "region_code":"Seoul",
-            "sub_region_code":"1174000000_Seoul_Gangdong"
+            "sub_region_code":"1174000000_Seoul_Gangdong",
+            "shorten_url":"https:\/\/me2.do\/GHZeBNmN"
         },
         {
             "index":4,
@@ -106,7 +114,8 @@
             "value_score":64.8144,
             "region":"서울시 강동구",
             "region_code":"Seoul",
-            "sub_region_code":"1174000000_Seoul_Gangdong"
+            "sub_region_code":"1174000000_Seoul_Gangdong",
+            "shorten_url":"https:\/\/me2.do\/GHZeBNmN"
         },
         {
             "index":5,
@@ -118,7 +127,8 @@
             "value_score":64.8144,
             "region":"서울시 강동구",
             "region_code":"Seoul",
-            "sub_region_code":"1174000000_Seoul_Gangdong"
+            "sub_region_code":"1174000000_Seoul_Gangdong",
+            "shorten_url":"https:\/\/me2.do\/GHZeBNmN"
         },
         {
             "index":6,
@@ -130,7 +140,8 @@
             "value_score":63.81,
             "region":"서울시 강동구",
             "region_code":"Seoul",
-            "sub_region_code":"1174000000_Seoul_Gangdong"
+            "sub_region_code":"1174000000_Seoul_Gangdong",
+            "shorten_url":"https:\/\/me2.do\/GHZeBNmN"
         },
         {
             "index":7,
@@ -142,7 +153,8 @@
             "value_score":62.4192,
             "region":"서울시 강동구",
             "region_code":"Seoul",
-            "sub_region_code":"1174000000_Seoul_Gangdong"
+            "sub_region_code":"1174000000_Seoul_Gangdong",
+            "shorten_url":"https:\/\/me2.do\/GHZeBNmN"
         },
         {
             "index":8,
@@ -154,7 +166,8 @@
             "value_score":61.4122,
             "region":"서울시 강동구",
             "region_code":"Seoul",
-            "sub_region_code":"1174000000_Seoul_Gangdong"
+            "sub_region_code":"1174000000_Seoul_Gangdong",
+            "shorten_url":"https:\/\/me2.do\/GHZeBNmN"
         },
         {
             "index":9,
@@ -166,7 +179,8 @@
             "value_score":60.6619,
             "region":"서울시 강동구",
             "region_code":"Seoul",
-            "sub_region_code":"1174000000_Seoul_Gangdong"
+            "sub_region_code":"1174000000_Seoul_Gangdong",
+            "shorten_url":"https:\/\/me2.do\/GHZeBNmN"
         },
         {
             "index":10,
@@ -178,7 +192,8 @@
             "value_score":73.6746,
             "region":"서울시 강동구",
             "region_code":"Seoul",
-            "sub_region_code":"1174000000_Seoul_Gangdong"
+            "sub_region_code":"1174000000_Seoul_Gangdong",
+            "shorten_url":"https:\/\/me2.do\/GHZeBNmN"
         },
         {
             "index":11,
@@ -190,7 +205,8 @@
             "value_score":71.45,
             "region":"서울시 강동구",
             "region_code":"Seoul",
-            "sub_region_code":"1174000000_Seoul_Gangdong"
+            "sub_region_code":"1174000000_Seoul_Gangdong",
+            "shorten_url":"https:\/\/me2.do\/GHZeBNmN"
         },
         {
             "index":12,
@@ -202,7 +218,8 @@
             "value_score":71.1058,
             "region":"서울시 강동구",
             "region_code":"Seoul",
-            "sub_region_code":"1174000000_Seoul_Gangdong"
+            "sub_region_code":"1174000000_Seoul_Gangdong",
+            "shorten_url":"https:\/\/me2.do\/GHZeBNmN"
         },
         {
             "index":13,
@@ -214,7 +231,8 @@
             "value_score":71.0102,
             "region":"서울시 강동구",
             "region_code":"Seoul",
-            "sub_region_code":"1174000000_Seoul_Gangdong"
+            "sub_region_code":"1174000000_Seoul_Gangdong",
+            "shorten_url":"https:\/\/me2.do\/GHZeBNmN"
         },
         {
             "index":14,
@@ -226,7 +244,8 @@
             "value_score":69.5096,
             "region":"서울시 강동구",
             "region_code":"Seoul",
-            "sub_region_code":"1174000000_Seoul_Gangdong"
+            "sub_region_code":"1174000000_Seoul_Gangdong",
+            "shorten_url":"https:\/\/me2.do\/GHZeBNmN"
         },
         {
             "index":15,
@@ -238,7 +257,8 @@
             "value_score":68.2722,
             "region":"서울시 강동구",
             "region_code":"Seoul",
-            "sub_region_code":"1174000000_Seoul_Gangdong"
+            "sub_region_code":"1174000000_Seoul_Gangdong",
+            "shorten_url":"https:\/\/me2.do\/GHZeBNmN"
         },
         {
             "index":16,
@@ -250,7 +270,8 @@
             "value_score":68.1096,
             "region":"서울시 강동구",
             "region_code":"Seoul",
-            "sub_region_code":"1174000000_Seoul_Gangdong"
+            "sub_region_code":"1174000000_Seoul_Gangdong",
+            "shorten_url":"https:\/\/me2.do\/GHZeBNmN"
         },
         {
             "index":17,
@@ -262,7 +283,8 @@
             "value_score":67.834,
             "region":"서울시 강동구",
             "region_code":"Seoul",
-            "sub_region_code":"1174000000_Seoul_Gangdong"
+            "sub_region_code":"1174000000_Seoul_Gangdong",
+            "shorten_url":"https:\/\/me2.do\/GHZeBNmN"
         },
         {
             "index":18,
@@ -274,7 +296,8 @@
             "value_score":67.3722,
             "region":"서울시 강동구",
             "region_code":"Seoul",
-            "sub_region_code":"1174000000_Seoul_Gangdong"
+            "sub_region_code":"1174000000_Seoul_Gangdong",
+            "shorten_url":"https:\/\/me2.do\/GHZeBNmN"
         },
         {
             "index":19,
@@ -286,7 +309,8 @@
             "value_score":67.2662,
             "region":"서울시 강동구",
             "region_code":"Seoul",
-            "sub_region_code":"1174000000_Seoul_Gangdong"
+            "sub_region_code":"1174000000_Seoul_Gangdong",
+            "shorten_url":"https:\/\/me2.do\/GHZeBNmN"
         },
         {
             "index":20,
@@ -298,7 +322,8 @@
             "value_score":71.93095,
             "region":"서울시 강동구",
             "region_code":"Seoul",
-            "sub_region_code":"1174000000_Seoul_Gangdong"
+            "sub_region_code":"1174000000_Seoul_Gangdong",
+            "shorten_url":"https:\/\/me2.do\/GHZeBNmN"
         },
         {
             "index":21,
@@ -310,7 +335,8 @@
             "value_score":71.7409683596,
             "region":"서울시 강동구",
             "region_code":"Seoul",
-            "sub_region_code":"1174000000_Seoul_Gangdong"
+            "sub_region_code":"1174000000_Seoul_Gangdong",
+            "shorten_url":"https:\/\/me2.do\/GHZeBNmN"
         },
         {
             "index":22,
@@ -322,7 +348,8 @@
             "value_score":71.6788,
             "region":"서울시 강동구",
             "region_code":"Seoul",
-            "sub_region_code":"1174000000_Seoul_Gangdong"
+            "sub_region_code":"1174000000_Seoul_Gangdong",
+            "shorten_url":"https:\/\/me2.do\/GHZeBNmN"
         },
         {
             "index":23,
@@ -334,7 +361,8 @@
             "value_score":70.0561,
             "region":"서울시 강동구",
             "region_code":"Seoul",
-            "sub_region_code":"1174000000_Seoul_Gangdong"
+            "sub_region_code":"1174000000_Seoul_Gangdong",
+            "shorten_url":"https:\/\/me2.do\/GHZeBNmN"
         },
         {
             "index":24,
@@ -346,7 +374,8 @@
             "value_score":69.79515,
             "region":"서울시 강동구",
             "region_code":"Seoul",
-            "sub_region_code":"1174000000_Seoul_Gangdong"
+            "sub_region_code":"1174000000_Seoul_Gangdong",
+            "shorten_url":"https:\/\/me2.do\/GHZeBNmN"
         },
         {
             "index":25,
@@ -358,7 +387,8 @@
             "value_score":69.68095,
             "region":"서울시 강동구",
             "region_code":"Seoul",
-            "sub_region_code":"1174000000_Seoul_Gangdong"
+            "sub_region_code":"1174000000_Seoul_Gangdong",
+            "shorten_url":"https:\/\/me2.do\/GHZeBNmN"
         },
         {
             "index":26,
@@ -370,7 +400,8 @@
             "value_score":68.45595,
             "region":"서울시 강동구",
             "region_code":"Seoul",
-            "sub_region_code":"1174000000_Seoul_Gangdong"
+            "sub_region_code":"1174000000_Seoul_Gangdong",
+            "shorten_url":"https:\/\/me2.do\/GHZeBNmN"
         },
         {
             "index":27,
@@ -382,7 +413,8 @@
             "value_score":67.59515,
             "region":"서울시 강동구",
             "region_code":"Seoul",
-            "sub_region_code":"1174000000_Seoul_Gangdong"
+            "sub_region_code":"1174000000_Seoul_Gangdong",
+            "shorten_url":"https:\/\/me2.do\/GHZeBNmN"
         },
         {
             "index":28,
@@ -394,7 +426,8 @@
             "value_score":67.58095,
             "region":"서울시 강동구",
             "region_code":"Seoul",
-            "sub_region_code":"1174000000_Seoul_Gangdong"
+            "sub_region_code":"1174000000_Seoul_Gangdong",
+            "shorten_url":"https:\/\/me2.do\/GHZeBNmN"
         },
         {
             "index":29,
@@ -406,7 +439,8 @@
             "value_score":67.40595,
             "region":"서울시 강동구",
             "region_code":"Seoul",
-            "sub_region_code":"1174000000_Seoul_Gangdong"
+            "sub_region_code":"1174000000_Seoul_Gangdong",
+            "shorten_url":"https:\/\/me2.do\/GHZeBNmN"
         },
         {
             "index":30,
@@ -418,7 +452,8 @@
             "value_score":72.86825,
             "region":"서울시 강동구",
             "region_code":"Seoul",
-            "sub_region_code":"1174000000_Seoul_Gangdong"
+            "sub_region_code":"1174000000_Seoul_Gangdong",
+            "shorten_url":"https:\/\/me2.do\/GHZeBNmN"
         },
         {
             "index":31,
@@ -430,7 +465,8 @@
             "value_score":72.0935,
             "region":"서울시 강동구",
             "region_code":"Seoul",
-            "sub_region_code":"1174000000_Seoul_Gangdong"
+            "sub_region_code":"1174000000_Seoul_Gangdong",
+            "shorten_url":"https:\/\/me2.do\/GHZeBNmN"
         },
         {
             "index":32,
@@ -442,7 +478,8 @@
             "value_score":70.26825,
             "region":"서울시 강동구",
             "region_code":"Seoul",
-            "sub_region_code":"1174000000_Seoul_Gangdong"
+            "sub_region_code":"1174000000_Seoul_Gangdong",
+            "shorten_url":"https:\/\/me2.do\/GHZeBNmN"
         },
         {
             "index":33,
@@ -454,7 +491,8 @@
             "value_score":70.0935,
             "region":"서울시 강동구",
             "region_code":"Seoul",
-            "sub_region_code":"1174000000_Seoul_Gangdong"
+            "sub_region_code":"1174000000_Seoul_Gangdong",
+            "shorten_url":"https:\/\/me2.do\/GHZeBNmN"
         },
         {
             "index":34,
@@ -466,7 +504,8 @@
             "value_score":69.41825,
             "region":"서울시 강동구",
             "region_code":"Seoul",
-            "sub_region_code":"1174000000_Seoul_Gangdong"
+            "sub_region_code":"1174000000_Seoul_Gangdong",
+            "shorten_url":"https:\/\/me2.do\/GHZeBNmN"
         },
         {
             "index":35,
@@ -478,7 +517,8 @@
             "value_score":69.2435,
             "region":"서울시 강동구",
             "region_code":"Seoul",
-            "sub_region_code":"1174000000_Seoul_Gangdong"
+            "sub_region_code":"1174000000_Seoul_Gangdong",
+            "shorten_url":"https:\/\/me2.do\/GHZeBNmN"
         },
         {
             "index":36,
@@ -490,7 +530,8 @@
             "value_score":68.934947266,
             "region":"서울시 강동구",
             "region_code":"Seoul",
-            "sub_region_code":"1174000000_Seoul_Gangdong"
+            "sub_region_code":"1174000000_Seoul_Gangdong",
+            "shorten_url":"https:\/\/me2.do\/GHZeBNmN"
         },
         {
             "index":37,
@@ -502,7 +543,8 @@
             "value_score":68.28875,
             "region":"서울시 강동구",
             "region_code":"Seoul",
-            "sub_region_code":"1174000000_Seoul_Gangdong"
+            "sub_region_code":"1174000000_Seoul_Gangdong",
+            "shorten_url":"https:\/\/me2.do\/GHZeBNmN"
         },
         {
             "index":38,
@@ -514,7 +556,8 @@
             "value_score":68.18875,
             "region":"서울시 강동구",
             "region_code":"Seoul",
-            "sub_region_code":"1174000000_Seoul_Gangdong"
+            "sub_region_code":"1174000000_Seoul_Gangdong",
+            "shorten_url":"https:\/\/me2.do\/GHZeBNmN"
         },
         {
             "index":39,
@@ -526,7 +569,8 @@
             "value_score":68.13875,
             "region":"서울시 강동구",
             "region_code":"Seoul",
-            "sub_region_code":"1174000000_Seoul_Gangdong"
+            "sub_region_code":"1174000000_Seoul_Gangdong",
+            "shorten_url":"https:\/\/me2.do\/GHZeBNmN"
         },
         {
             "index":40,
@@ -538,7 +582,8 @@
             "value_score":67.5895,
             "region":"서울시 강동구",
             "region_code":"Seoul",
-            "sub_region_code":"1174000000_Seoul_Gangdong"
+            "sub_region_code":"1174000000_Seoul_Gangdong",
+            "shorten_url":"https:\/\/me2.do\/GHZeBNmN"
         },
         {
             "index":41,
@@ -550,7 +595,8 @@
             "value_score":65.311,
             "region":"서울시 강동구",
             "region_code":"Seoul",
-            "sub_region_code":"1174000000_Seoul_Gangdong"
+            "sub_region_code":"1174000000_Seoul_Gangdong",
+            "shorten_url":"https:\/\/me2.do\/GHZeBNmN"
         },
         {
             "index":42,
@@ -562,7 +608,8 @@
             "value_score":64.211,
             "region":"서울시 강동구",
             "region_code":"Seoul",
-            "sub_region_code":"1174000000_Seoul_Gangdong"
+            "sub_region_code":"1174000000_Seoul_Gangdong",
+            "shorten_url":"https:\/\/me2.do\/GHZeBNmN"
         },
         {
             "index":43,
@@ -574,7 +621,8 @@
             "value_score":64.124,
             "region":"서울시 강동구",
             "region_code":"Seoul",
-            "sub_region_code":"1174000000_Seoul_Gangdong"
+            "sub_region_code":"1174000000_Seoul_Gangdong",
+            "shorten_url":"https:\/\/me2.do\/GHZeBNmN"
         },
         {
             "index":44,
@@ -586,7 +634,8 @@
             "value_score":63.924,
             "region":"서울시 강동구",
             "region_code":"Seoul",
-            "sub_region_code":"1174000000_Seoul_Gangdong"
+            "sub_region_code":"1174000000_Seoul_Gangdong",
+            "shorten_url":"https:\/\/me2.do\/GHZeBNmN"
         },
         {
             "index":45,
@@ -598,7 +647,8 @@
             "value_score":63.704,
             "region":"서울시 강동구",
             "region_code":"Seoul",
-            "sub_region_code":"1174000000_Seoul_Gangdong"
+            "sub_region_code":"1174000000_Seoul_Gangdong",
+            "shorten_url":"https:\/\/me2.do\/GHZeBNmN"
         },
         {
             "index":46,
@@ -610,7 +660,8 @@
             "value_score":63.387,
             "region":"서울시 강동구",
             "region_code":"Seoul",
-            "sub_region_code":"1174000000_Seoul_Gangdong"
+            "sub_region_code":"1174000000_Seoul_Gangdong",
+            "shorten_url":"https:\/\/me2.do\/GHZeBNmN"
         },
         {
             "index":47,
@@ -622,7 +673,8 @@
             "value_score":63.311,
             "region":"서울시 강동구",
             "region_code":"Seoul",
-            "sub_region_code":"1174000000_Seoul_Gangdong"
+            "sub_region_code":"1174000000_Seoul_Gangdong",
+            "shorten_url":"https:\/\/me2.do\/GHZeBNmN"
         },
         {
             "index":48,
@@ -634,7 +686,8 @@
             "value_score":62.6698945319,
             "region":"서울시 강동구",
             "region_code":"Seoul",
-            "sub_region_code":"1174000000_Seoul_Gangdong"
+            "sub_region_code":"1174000000_Seoul_Gangdong",
+            "shorten_url":"https:\/\/me2.do\/GHZeBNmN"
         },
         {
             "index":49,
@@ -646,7 +699,8 @@
             "value_score":62.5365,
             "region":"서울시 강동구",
             "region_code":"Seoul",
-            "sub_region_code":"1174000000_Seoul_Gangdong"
+            "sub_region_code":"1174000000_Seoul_Gangdong",
+            "shorten_url":"https:\/\/me2.do\/GHZeBNmN"
         }
     ]
 }

@@ -23,7 +23,7 @@
             },
             {
                 "name":"apt_year",
-                "type":"number"
+                "type":"integer"
             },
             {
                 "name":"value_score",
@@ -40,6 +40,10 @@
             {
                 "name":"sub_region_code",
                 "type":"string"
+            },
+            {
+                "name":"shorten_url",
+                "type":"string"
             }
         ],
         "primaryKey":[
@@ -54,11 +58,12 @@
             "name":"판교푸르지오그랑블",
             "search_code":27508,
             "apt_type":"아파트",
-            "apt_year":11.0,
+            "apt_year":11,
             "value_score":78.71355,
             "region":"경기도 성남시 분당구",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4113500000_Gyeonggi_Seongnam_Bundang"
+            "sub_region_code":"4113500000_Gyeonggi_Seongnam_Bundang",
+            "shorten_url":"https:\/\/me2.do\/FABlNnif"
         },
         {
             "index":1,
@@ -66,11 +71,12 @@
             "name":"까치건영",
             "search_code":11491,
             "apt_type":"아파트",
-            "apt_year":27.0,
+            "apt_year":27,
             "value_score":77.5006,
             "region":"경기도 성남시 분당구",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4113500000_Gyeonggi_Seongnam_Bundang"
+            "sub_region_code":"4113500000_Gyeonggi_Seongnam_Bundang",
+            "shorten_url":"https:\/\/me2.do\/FABlNnif"
         },
         {
             "index":2,
@@ -78,11 +84,12 @@
             "name":"봇들8단지휴먼시아",
             "search_code":27497,
             "apt_type":"아파트",
-            "apt_year":13.0,
+            "apt_year":13,
             "value_score":77.14355,
             "region":"경기도 성남시 분당구",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4113500000_Gyeonggi_Seongnam_Bundang"
+            "sub_region_code":"4113500000_Gyeonggi_Seongnam_Bundang",
+            "shorten_url":"https:\/\/me2.do\/FABlNnif"
         },
         {
             "index":3,
@@ -90,11 +97,12 @@
             "name":"알파리움1단지(주상복합)",
             "search_code":106922,
             "apt_type":"아파트",
-            "apt_year":7.0,
+            "apt_year":7,
             "value_score":77.04355,
             "region":"경기도 성남시 분당구",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4113500000_Gyeonggi_Seongnam_Bundang"
+            "sub_region_code":"4113500000_Gyeonggi_Seongnam_Bundang",
+            "shorten_url":"https:\/\/me2.do\/FABlNnif"
         },
         {
             "index":4,
@@ -102,11 +110,12 @@
             "name":"알파리움2단지(주상복합)",
             "search_code":106923,
             "apt_type":"아파트",
-            "apt_year":7.0,
+            "apt_year":7,
             "value_score":77.01355,
             "region":"경기도 성남시 분당구",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4113500000_Gyeonggi_Seongnam_Bundang"
+            "sub_region_code":"4113500000_Gyeonggi_Seongnam_Bundang",
+            "shorten_url":"https:\/\/me2.do\/FABlNnif"
         },
         {
             "index":5,
@@ -114,11 +123,12 @@
             "name":"아이파크분당3(주상복합)",
             "search_code":100722,
             "apt_type":"아파트",
-            "apt_year":19.0,
+            "apt_year":19,
             "value_score":76.77985,
             "region":"경기도 성남시 분당구",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4113500000_Gyeonggi_Seongnam_Bundang"
+            "sub_region_code":"4113500000_Gyeonggi_Seongnam_Bundang",
+            "shorten_url":"https:\/\/me2.do\/FABlNnif"
         },
         {
             "index":6,
@@ -126,11 +136,12 @@
             "name":"까치신원",
             "search_code":1353,
             "apt_type":"아파트",
-            "apt_year":27.0,
+            "apt_year":27,
             "value_score":76.66645,
             "region":"경기도 성남시 분당구",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4113500000_Gyeonggi_Seongnam_Bundang"
+            "sub_region_code":"4113500000_Gyeonggi_Seongnam_Bundang",
+            "shorten_url":"https:\/\/me2.do\/FABlNnif"
         },
         {
             "index":7,
@@ -138,11 +149,12 @@
             "name":"봇들7단지엔파트",
             "search_code":27570,
             "apt_type":"아파트",
-            "apt_year":13.0,
+            "apt_year":13,
             "value_score":76.24355,
             "region":"경기도 성남시 분당구",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4113500000_Gyeonggi_Seongnam_Bundang"
+            "sub_region_code":"4113500000_Gyeonggi_Seongnam_Bundang",
+            "shorten_url":"https:\/\/me2.do\/FABlNnif"
         },
         {
             "index":8,
@@ -150,11 +162,12 @@
             "name":"탑3단지타워빌",
             "search_code":8859,
             "apt_type":"아파트",
-            "apt_year":29.0,
+            "apt_year":29,
             "value_score":75.3947,
             "region":"경기도 성남시 분당구",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4113500000_Gyeonggi_Seongnam_Bundang"
+            "sub_region_code":"4113500000_Gyeonggi_Seongnam_Bundang",
+            "shorten_url":"https:\/\/me2.do\/FABlNnif"
         },
         {
             "index":9,
@@ -162,11 +175,12 @@
             "name":"판교푸르지오월드마크(주상복합)",
             "search_code":112232,
             "apt_type":"아파트",
-            "apt_year":9.0,
+            "apt_year":9,
             "value_score":75.34355,
             "region":"경기도 성남시 분당구",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4113500000_Gyeonggi_Seongnam_Bundang"
+            "sub_region_code":"4113500000_Gyeonggi_Seongnam_Bundang",
+            "shorten_url":"https:\/\/me2.do\/FABlNnif"
         },
         {
             "index":10,
@@ -174,11 +188,12 @@
             "name":"판교푸르지오그랑블",
             "search_code":27508,
             "apt_type":"아파트",
-            "apt_year":11.0,
+            "apt_year":11,
             "value_score":76.8214,
             "region":"경기도 성남시 분당구",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4113500000_Gyeonggi_Seongnam_Bundang"
+            "sub_region_code":"4113500000_Gyeonggi_Seongnam_Bundang",
+            "shorten_url":"https:\/\/me2.do\/FABlNnif"
         },
         {
             "index":11,
@@ -186,11 +201,12 @@
             "name":"알파리움1단지(주상복합)",
             "search_code":106922,
             "apt_type":"아파트",
-            "apt_year":7.0,
+            "apt_year":7,
             "value_score":73.1414,
             "region":"경기도 성남시 분당구",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4113500000_Gyeonggi_Seongnam_Bundang"
+            "sub_region_code":"4113500000_Gyeonggi_Seongnam_Bundang",
+            "shorten_url":"https:\/\/me2.do\/FABlNnif"
         },
         {
             "index":12,
@@ -198,11 +214,12 @@
             "name":"알파리움2단지(주상복합)",
             "search_code":106923,
             "apt_type":"아파트",
-            "apt_year":7.0,
+            "apt_year":7,
             "value_score":73.1214,
             "region":"경기도 성남시 분당구",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4113500000_Gyeonggi_Seongnam_Bundang"
+            "sub_region_code":"4113500000_Gyeonggi_Seongnam_Bundang",
+            "shorten_url":"https:\/\/me2.do\/FABlNnif"
         },
         {
             "index":13,
@@ -210,11 +227,12 @@
             "name":"파크뷰(주상복합)",
             "search_code":3621,
             "apt_type":"아파트",
-            "apt_year":18.0,
+            "apt_year":18,
             "value_score":72.6398,
             "region":"경기도 성남시 분당구",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4113500000_Gyeonggi_Seongnam_Bundang"
+            "sub_region_code":"4113500000_Gyeonggi_Seongnam_Bundang",
+            "shorten_url":"https:\/\/me2.do\/FABlNnif"
         },
         {
             "index":14,
@@ -222,11 +240,12 @@
             "name":"양지1단지금호",
             "search_code":1954,
             "apt_type":"아파트",
-            "apt_year":30.0,
+            "apt_year":30,
             "value_score":72.0176,
             "region":"경기도 성남시 분당구",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4113500000_Gyeonggi_Seongnam_Bundang"
+            "sub_region_code":"4113500000_Gyeonggi_Seongnam_Bundang",
+            "shorten_url":"https:\/\/me2.do\/FABlNnif"
         },
         {
             "index":15,
@@ -234,11 +253,12 @@
             "name":"봇들9단지휴먼시아어울림",
             "search_code":27341,
             "apt_type":"아파트",
-            "apt_year":13.0,
+            "apt_year":13,
             "value_score":71.839,
             "region":"경기도 성남시 분당구",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4113500000_Gyeonggi_Seongnam_Bundang"
+            "sub_region_code":"4113500000_Gyeonggi_Seongnam_Bundang",
+            "shorten_url":"https:\/\/me2.do\/FABlNnif"
         },
         {
             "index":16,
@@ -246,11 +266,12 @@
             "name":"백현마을2단지",
             "search_code":27643,
             "apt_type":"아파트",
-            "apt_year":13.0,
+            "apt_year":13,
             "value_score":70.6914,
             "region":"경기도 성남시 분당구",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4113500000_Gyeonggi_Seongnam_Bundang"
+            "sub_region_code":"4113500000_Gyeonggi_Seongnam_Bundang",
+            "shorten_url":"https:\/\/me2.do\/FABlNnif"
         },
         {
             "index":17,
@@ -258,11 +279,12 @@
             "name":"로얄팰리스(주상복합)",
             "search_code":12914,
             "apt_type":"아파트",
-            "apt_year":19.0,
+            "apt_year":19,
             "value_score":69.8698,
             "region":"경기도 성남시 분당구",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4113500000_Gyeonggi_Seongnam_Bundang"
+            "sub_region_code":"4113500000_Gyeonggi_Seongnam_Bundang",
+            "shorten_url":"https:\/\/me2.do\/FABlNnif"
         },
         {
             "index":18,
@@ -270,11 +292,12 @@
             "name":"봇들3단지휴먼시아",
             "search_code":100267,
             "apt_type":"아파트",
-            "apt_year":13.0,
+            "apt_year":13,
             "value_score":69.8024,
             "region":"경기도 성남시 분당구",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4113500000_Gyeonggi_Seongnam_Bundang"
+            "sub_region_code":"4113500000_Gyeonggi_Seongnam_Bundang",
+            "shorten_url":"https:\/\/me2.do\/FABlNnif"
         },
         {
             "index":19,
@@ -282,11 +305,12 @@
             "name":"봇들8단지휴먼시아",
             "search_code":27497,
             "apt_type":"아파트",
-            "apt_year":13.0,
+            "apt_year":13,
             "value_score":69.5414,
             "region":"경기도 성남시 분당구",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4113500000_Gyeonggi_Seongnam_Bundang"
+            "sub_region_code":"4113500000_Gyeonggi_Seongnam_Bundang",
+            "shorten_url":"https:\/\/me2.do\/FABlNnif"
         },
         {
             "index":20,
@@ -294,11 +318,12 @@
             "name":"판교푸르지오그랑블",
             "search_code":27508,
             "apt_type":"아파트",
-            "apt_year":11.0,
+            "apt_year":11,
             "value_score":80.39855,
             "region":"경기도 성남시 분당구",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4113500000_Gyeonggi_Seongnam_Bundang"
+            "sub_region_code":"4113500000_Gyeonggi_Seongnam_Bundang",
+            "shorten_url":"https:\/\/me2.do\/FABlNnif"
         },
         {
             "index":21,
@@ -306,11 +331,12 @@
             "name":"아이파크분당3(주상복합)",
             "search_code":100722,
             "apt_type":"아파트",
-            "apt_year":19.0,
+            "apt_year":19,
             "value_score":80.25485,
             "region":"경기도 성남시 분당구",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4113500000_Gyeonggi_Seongnam_Bundang"
+            "sub_region_code":"4113500000_Gyeonggi_Seongnam_Bundang",
+            "shorten_url":"https:\/\/me2.do\/FABlNnif"
         },
         {
             "index":22,
@@ -318,11 +344,12 @@
             "name":"까치건영",
             "search_code":11491,
             "apt_type":"아파트",
-            "apt_year":27.0,
+            "apt_year":27,
             "value_score":79.6756,
             "region":"경기도 성남시 분당구",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4113500000_Gyeonggi_Seongnam_Bundang"
+            "sub_region_code":"4113500000_Gyeonggi_Seongnam_Bundang",
+            "shorten_url":"https:\/\/me2.do\/FABlNnif"
         },
         {
             "index":23,
@@ -330,11 +357,12 @@
             "name":"까치신원",
             "search_code":1353,
             "apt_type":"아파트",
-            "apt_year":27.0,
+            "apt_year":27,
             "value_score":79.26645,
             "region":"경기도 성남시 분당구",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4113500000_Gyeonggi_Seongnam_Bundang"
+            "sub_region_code":"4113500000_Gyeonggi_Seongnam_Bundang",
+            "shorten_url":"https:\/\/me2.do\/FABlNnif"
         },
         {
             "index":24,
@@ -342,11 +370,12 @@
             "name":"알파리움1단지(주상복합)",
             "search_code":106922,
             "apt_type":"아파트",
-            "apt_year":7.0,
+            "apt_year":7,
             "value_score":79.16855,
             "region":"경기도 성남시 분당구",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4113500000_Gyeonggi_Seongnam_Bundang"
+            "sub_region_code":"4113500000_Gyeonggi_Seongnam_Bundang",
+            "shorten_url":"https:\/\/me2.do\/FABlNnif"
         },
         {
             "index":25,
@@ -354,11 +383,12 @@
             "name":"알파리움2단지(주상복합)",
             "search_code":106923,
             "apt_type":"아파트",
-            "apt_year":7.0,
+            "apt_year":7,
             "value_score":79.14855,
             "region":"경기도 성남시 분당구",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4113500000_Gyeonggi_Seongnam_Bundang"
+            "sub_region_code":"4113500000_Gyeonggi_Seongnam_Bundang",
+            "shorten_url":"https:\/\/me2.do\/FABlNnif"
         },
         {
             "index":26,
@@ -366,11 +396,12 @@
             "name":"봇들8단지휴먼시아",
             "search_code":27497,
             "apt_type":"아파트",
-            "apt_year":13.0,
+            "apt_year":13,
             "value_score":79.06855,
             "region":"경기도 성남시 분당구",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4113500000_Gyeonggi_Seongnam_Bundang"
+            "sub_region_code":"4113500000_Gyeonggi_Seongnam_Bundang",
+            "shorten_url":"https:\/\/me2.do\/FABlNnif"
         },
         {
             "index":27,
@@ -378,11 +409,12 @@
             "name":"양지1단지금호",
             "search_code":1954,
             "apt_type":"아파트",
-            "apt_year":30.0,
+            "apt_year":30,
             "value_score":78.8007,
             "region":"경기도 성남시 분당구",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4113500000_Gyeonggi_Seongnam_Bundang"
+            "sub_region_code":"4113500000_Gyeonggi_Seongnam_Bundang",
+            "shorten_url":"https:\/\/me2.do\/FABlNnif"
         },
         {
             "index":28,
@@ -390,11 +422,12 @@
             "name":"위브제니스(주상복합)",
             "search_code":8612,
             "apt_type":"아파트",
-            "apt_year":19.0,
+            "apt_year":19,
             "value_score":78.70985,
             "region":"경기도 성남시 분당구",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4113500000_Gyeonggi_Seongnam_Bundang"
+            "sub_region_code":"4113500000_Gyeonggi_Seongnam_Bundang",
+            "shorten_url":"https:\/\/me2.do\/FABlNnif"
         },
         {
             "index":29,
@@ -402,11 +435,12 @@
             "name":"동양파라곤(주상복합)",
             "search_code":12915,
             "apt_type":"아파트",
-            "apt_year":18.0,
+            "apt_year":18,
             "value_score":78.50485,
             "region":"경기도 성남시 분당구",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4113500000_Gyeonggi_Seongnam_Bundang"
+            "sub_region_code":"4113500000_Gyeonggi_Seongnam_Bundang",
+            "shorten_url":"https:\/\/me2.do\/FABlNnif"
         },
         {
             "index":30,
@@ -414,11 +448,12 @@
             "name":"까치건영",
             "search_code":11491,
             "apt_type":"아파트",
-            "apt_year":27.0,
+            "apt_year":27,
             "value_score":80.251,
             "region":"경기도 성남시 분당구",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4113500000_Gyeonggi_Seongnam_Bundang"
+            "sub_region_code":"4113500000_Gyeonggi_Seongnam_Bundang",
+            "shorten_url":"https:\/\/me2.do\/FABlNnif"
         },
         {
             "index":31,
@@ -426,11 +461,12 @@
             "name":"까치마을금성백조",
             "search_code":8449,
             "apt_type":"아파트",
-            "apt_year":27.0,
+            "apt_year":27,
             "value_score":79.11075,
             "region":"경기도 성남시 분당구",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4113500000_Gyeonggi_Seongnam_Bundang"
+            "sub_region_code":"4113500000_Gyeonggi_Seongnam_Bundang",
+            "shorten_url":"https:\/\/me2.do\/FABlNnif"
         },
         {
             "index":32,
@@ -438,11 +474,12 @@
             "name":"까치롯데,선경",
             "search_code":2591,
             "apt_type":"아파트",
-            "apt_year":27.0,
+            "apt_year":27,
             "value_score":76.11075,
             "region":"경기도 성남시 분당구",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4113500000_Gyeonggi_Seongnam_Bundang"
+            "sub_region_code":"4113500000_Gyeonggi_Seongnam_Bundang",
+            "shorten_url":"https:\/\/me2.do\/FABlNnif"
         },
         {
             "index":33,
@@ -450,11 +487,12 @@
             "name":"청솔서광,영남",
             "search_code":2942,
             "apt_type":"아파트",
-            "apt_year":27.0,
+            "apt_year":27,
             "value_score":75.851,
             "region":"경기도 성남시 분당구",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4113500000_Gyeonggi_Seongnam_Bundang"
+            "sub_region_code":"4113500000_Gyeonggi_Seongnam_Bundang",
+            "shorten_url":"https:\/\/me2.do\/FABlNnif"
         },
         {
             "index":34,
@@ -462,11 +500,12 @@
             "name":"아이파크분당3(주상복합)",
             "search_code":100722,
             "apt_type":"아파트",
-            "apt_year":19.0,
+            "apt_year":19,
             "value_score":74.84975,
             "region":"경기도 성남시 분당구",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4113500000_Gyeonggi_Seongnam_Bundang"
+            "sub_region_code":"4113500000_Gyeonggi_Seongnam_Bundang",
+            "shorten_url":"https:\/\/me2.do\/FABlNnif"
         },
         {
             "index":35,
@@ -474,11 +513,12 @@
             "name":"위브제니스(주상복합)",
             "search_code":8612,
             "apt_type":"아파트",
-            "apt_year":19.0,
+            "apt_year":19,
             "value_score":74.69975,
             "region":"경기도 성남시 분당구",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4113500000_Gyeonggi_Seongnam_Bundang"
+            "sub_region_code":"4113500000_Gyeonggi_Seongnam_Bundang",
+            "shorten_url":"https:\/\/me2.do\/FABlNnif"
         },
         {
             "index":36,
@@ -486,11 +526,12 @@
             "name":"까치신원",
             "search_code":1353,
             "apt_type":"아파트",
-            "apt_year":27.0,
+            "apt_year":27,
             "value_score":74.31075,
             "region":"경기도 성남시 분당구",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4113500000_Gyeonggi_Seongnam_Bundang"
+            "sub_region_code":"4113500000_Gyeonggi_Seongnam_Bundang",
+            "shorten_url":"https:\/\/me2.do\/FABlNnif"
         },
         {
             "index":37,
@@ -498,11 +539,12 @@
             "name":"봇들8단지휴먼시아",
             "search_code":27497,
             "apt_type":"아파트",
-            "apt_year":13.0,
+            "apt_year":13,
             "value_score":73.58925,
             "region":"경기도 성남시 분당구",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4113500000_Gyeonggi_Seongnam_Bundang"
+            "sub_region_code":"4113500000_Gyeonggi_Seongnam_Bundang",
+            "shorten_url":"https:\/\/me2.do\/FABlNnif"
         },
         {
             "index":38,
@@ -510,11 +552,12 @@
             "name":"탑3단지타워빌",
             "search_code":8859,
             "apt_type":"아파트",
-            "apt_year":29.0,
+            "apt_year":29,
             "value_score":73.4745,
             "region":"경기도 성남시 분당구",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4113500000_Gyeonggi_Seongnam_Bundang"
+            "sub_region_code":"4113500000_Gyeonggi_Seongnam_Bundang",
+            "shorten_url":"https:\/\/me2.do\/FABlNnif"
         },
         {
             "index":39,
@@ -522,11 +565,12 @@
             "name":"무지개마을3단지신한,건영",
             "search_code":1873,
             "apt_type":"아파트",
-            "apt_year":26.0,
+            "apt_year":26,
             "value_score":73.2055,
             "region":"경기도 성남시 분당구",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4113500000_Gyeonggi_Seongnam_Bundang"
+            "sub_region_code":"4113500000_Gyeonggi_Seongnam_Bundang",
+            "shorten_url":"https:\/\/me2.do\/FABlNnif"
         },
         {
             "index":40,
@@ -534,11 +578,12 @@
             "name":"아이파크분당3(주상복합)",
             "search_code":100722,
             "apt_type":"아파트",
-            "apt_year":19.0,
+            "apt_year":19,
             "value_score":75.6995,
             "region":"경기도 성남시 분당구",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4113500000_Gyeonggi_Seongnam_Bundang"
+            "sub_region_code":"4113500000_Gyeonggi_Seongnam_Bundang",
+            "shorten_url":"https:\/\/me2.do\/FABlNnif"
         },
         {
             "index":41,
@@ -546,11 +591,12 @@
             "name":"위브제니스(주상복합)",
             "search_code":8612,
             "apt_type":"아파트",
-            "apt_year":19.0,
+            "apt_year":19,
             "value_score":73.4795,
             "region":"경기도 성남시 분당구",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4113500000_Gyeonggi_Seongnam_Bundang"
+            "sub_region_code":"4113500000_Gyeonggi_Seongnam_Bundang",
+            "shorten_url":"https:\/\/me2.do\/FABlNnif"
         },
         {
             "index":42,
@@ -558,11 +604,12 @@
             "name":"로얄팰리스(주상복합)",
             "search_code":12914,
             "apt_type":"아파트",
-            "apt_year":19.0,
+            "apt_year":19,
             "value_score":72.1795,
             "region":"경기도 성남시 분당구",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4113500000_Gyeonggi_Seongnam_Bundang"
+            "sub_region_code":"4113500000_Gyeonggi_Seongnam_Bundang",
+            "shorten_url":"https:\/\/me2.do\/FABlNnif"
         },
         {
             "index":43,
@@ -570,11 +617,12 @@
             "name":"동양파라곤(주상복합)",
             "search_code":12915,
             "apt_type":"아파트",
-            "apt_year":18.0,
+            "apt_year":18,
             "value_score":71.6995,
             "region":"경기도 성남시 분당구",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4113500000_Gyeonggi_Seongnam_Bundang"
+            "sub_region_code":"4113500000_Gyeonggi_Seongnam_Bundang",
+            "shorten_url":"https:\/\/me2.do\/FABlNnif"
         },
         {
             "index":44,
@@ -582,11 +630,12 @@
             "name":"파크타운롯데",
             "search_code":3085,
             "apt_type":"아파트",
-            "apt_year":29.0,
+            "apt_year":29,
             "value_score":71.119,
             "region":"경기도 성남시 분당구",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4113500000_Gyeonggi_Seongnam_Bundang"
+            "sub_region_code":"4113500000_Gyeonggi_Seongnam_Bundang",
+            "shorten_url":"https:\/\/me2.do\/FABlNnif"
         },
         {
             "index":45,
@@ -594,11 +643,12 @@
             "name":"양지1단지금호",
             "search_code":1954,
             "apt_type":"아파트",
-            "apt_year":30.0,
+            "apt_year":30,
             "value_score":70.919,
             "region":"경기도 성남시 분당구",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4113500000_Gyeonggi_Seongnam_Bundang"
+            "sub_region_code":"4113500000_Gyeonggi_Seongnam_Bundang",
+            "shorten_url":"https:\/\/me2.do\/FABlNnif"
         },
         {
             "index":46,
@@ -606,11 +656,12 @@
             "name":"아이파크분당1(주상복합)",
             "search_code":8580,
             "apt_type":"아파트",
-            "apt_year":19.0,
+            "apt_year":19,
             "value_score":70.6995,
             "region":"경기도 성남시 분당구",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4113500000_Gyeonggi_Seongnam_Bundang"
+            "sub_region_code":"4113500000_Gyeonggi_Seongnam_Bundang",
+            "shorten_url":"https:\/\/me2.do\/FABlNnif"
         },
         {
             "index":47,
@@ -618,11 +669,12 @@
             "name":"파크뷰(주상복합)",
             "search_code":3621,
             "apt_type":"아파트",
-            "apt_year":18.0,
+            "apt_year":18,
             "value_score":70.5995,
             "region":"경기도 성남시 분당구",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4113500000_Gyeonggi_Seongnam_Bundang"
+            "sub_region_code":"4113500000_Gyeonggi_Seongnam_Bundang",
+            "shorten_url":"https:\/\/me2.do\/FABlNnif"
         },
         {
             "index":48,
@@ -630,11 +682,12 @@
             "name":"양지5단지한양",
             "search_code":1994,
             "apt_type":"아파트",
-            "apt_year":30.0,
+            "apt_year":30,
             "value_score":70.3995,
             "region":"경기도 성남시 분당구",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4113500000_Gyeonggi_Seongnam_Bundang"
+            "sub_region_code":"4113500000_Gyeonggi_Seongnam_Bundang",
+            "shorten_url":"https:\/\/me2.do\/FABlNnif"
         },
         {
             "index":49,
@@ -642,11 +695,12 @@
             "name":"양지3,5단지금호,한양",
             "search_code":100754,
             "apt_type":"아파트",
-            "apt_year":30.0,
+            "apt_year":30,
             "value_score":69.719,
             "region":"경기도 성남시 분당구",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4113500000_Gyeonggi_Seongnam_Bundang"
+            "sub_region_code":"4113500000_Gyeonggi_Seongnam_Bundang",
+            "shorten_url":"https:\/\/me2.do\/FABlNnif"
         }
     ]
 }

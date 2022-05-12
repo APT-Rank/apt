@@ -40,6 +40,10 @@
             {
                 "name":"sub_region_code",
                 "type":"string"
+            },
+            {
+                "name":"shorten_url",
+                "type":"string"
             }
         ],
         "primaryKey":[
@@ -58,7 +62,8 @@
             "value_score":31.33355,
             "region":"경상북도 군위군",
             "region_code":"Gyeongsangbukdo",
-            "sub_region_code":"4772000000_Gyeongsangbukdo_Gunwi"
+            "sub_region_code":"4772000000_Gyeongsangbukdo_Gunwi",
+            "shorten_url":"https:\/\/me2.do\/GoBERVcs"
         },
         {
             "index":1,
@@ -70,7 +75,8 @@
             "value_score":29.73825,
             "region":"경상북도 군위군",
             "region_code":"Gyeongsangbukdo",
-            "sub_region_code":"4772000000_Gyeongsangbukdo_Gunwi"
+            "sub_region_code":"4772000000_Gyeongsangbukdo_Gunwi",
+            "shorten_url":"https:\/\/me2.do\/GoBERVcs"
         },
         {
             "index":2,
@@ -82,7 +88,8 @@
             "value_score":27.1956842105,
             "region":"경상북도 군위군",
             "region_code":"Gyeongsangbukdo",
-            "sub_region_code":"4772000000_Gyeongsangbukdo_Gunwi"
+            "sub_region_code":"4772000000_Gyeongsangbukdo_Gunwi",
+            "shorten_url":"https:\/\/me2.do\/GoBERVcs"
         },
         {
             "index":3,
@@ -94,7 +101,8 @@
             "value_score":33.7265,
             "region":"경상북도 군위군",
             "region_code":"Gyeongsangbukdo",
-            "sub_region_code":"4772000000_Gyeongsangbukdo_Gunwi"
+            "sub_region_code":"4772000000_Gyeongsangbukdo_Gunwi",
+            "shorten_url":"https:\/\/me2.do\/GoBERVcs"
         }
     ]
 }

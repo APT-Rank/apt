@@ -40,6 +40,10 @@
             {
                 "name":"sub_region_code",
                 "type":"string"
+            },
+            {
+                "name":"shorten_url",
+                "type":"string"
             }
         ],
         "primaryKey":[
@@ -58,7 +62,8 @@
             "value_score":67.05325,
             "region":"경상남도 김해시",
             "region_code":"Gyeongsangnamdo",
-            "sub_region_code":"4825000000_Gyeongsangnamdo_Gimhae"
+            "sub_region_code":"4825000000_Gyeongsangnamdo_Gimhae",
+            "shorten_url":"https:\/\/me2.do\/IFK0xRWd"
         },
         {
             "index":1,
@@ -70,7 +75,8 @@
             "value_score":66.2076,
             "region":"경상남도 김해시",
             "region_code":"Gyeongsangnamdo",
-            "sub_region_code":"4825000000_Gyeongsangnamdo_Gimhae"
+            "sub_region_code":"4825000000_Gyeongsangnamdo_Gimhae",
+            "shorten_url":"https:\/\/me2.do\/IFK0xRWd"
         },
         {
             "index":2,
@@ -82,7 +88,8 @@
             "value_score":65.45325,
             "region":"경상남도 김해시",
             "region_code":"Gyeongsangnamdo",
-            "sub_region_code":"4825000000_Gyeongsangnamdo_Gimhae"
+            "sub_region_code":"4825000000_Gyeongsangnamdo_Gimhae",
+            "shorten_url":"https:\/\/me2.do\/IFK0xRWd"
         },
         {
             "index":3,
@@ -94,7 +101,8 @@
             "value_score":63.5146,
             "region":"경상남도 김해시",
             "region_code":"Gyeongsangnamdo",
-            "sub_region_code":"4825000000_Gyeongsangnamdo_Gimhae"
+            "sub_region_code":"4825000000_Gyeongsangnamdo_Gimhae",
+            "shorten_url":"https:\/\/me2.do\/IFK0xRWd"
         },
         {
             "index":4,
@@ -106,7 +114,8 @@
             "value_score":63.4394,
             "region":"경상남도 김해시",
             "region_code":"Gyeongsangnamdo",
-            "sub_region_code":"4825000000_Gyeongsangnamdo_Gimhae"
+            "sub_region_code":"4825000000_Gyeongsangnamdo_Gimhae",
+            "shorten_url":"https:\/\/me2.do\/IFK0xRWd"
         },
         {
             "index":5,
@@ -118,7 +127,8 @@
             "value_score":63.38245,
             "region":"경상남도 김해시",
             "region_code":"Gyeongsangnamdo",
-            "sub_region_code":"4825000000_Gyeongsangnamdo_Gimhae"
+            "sub_region_code":"4825000000_Gyeongsangnamdo_Gimhae",
+            "shorten_url":"https:\/\/me2.do\/IFK0xRWd"
         },
         {
             "index":6,
@@ -130,7 +140,8 @@
             "value_score":63.35755,
             "region":"경상남도 김해시",
             "region_code":"Gyeongsangnamdo",
-            "sub_region_code":"4825000000_Gyeongsangnamdo_Gimhae"
+            "sub_region_code":"4825000000_Gyeongsangnamdo_Gimhae",
+            "shorten_url":"https:\/\/me2.do\/IFK0xRWd"
         },
         {
             "index":7,
@@ -142,7 +153,8 @@
             "value_score":63.0544,
             "region":"경상남도 김해시",
             "region_code":"Gyeongsangnamdo",
-            "sub_region_code":"4825000000_Gyeongsangnamdo_Gimhae"
+            "sub_region_code":"4825000000_Gyeongsangnamdo_Gimhae",
+            "shorten_url":"https:\/\/me2.do\/IFK0xRWd"
         },
         {
             "index":8,
@@ -154,7 +166,8 @@
             "value_score":63.05325,
             "region":"경상남도 김해시",
             "region_code":"Gyeongsangnamdo",
-            "sub_region_code":"4825000000_Gyeongsangnamdo_Gimhae"
+            "sub_region_code":"4825000000_Gyeongsangnamdo_Gimhae",
+            "shorten_url":"https:\/\/me2.do\/IFK0xRWd"
         },
         {
             "index":9,
@@ -166,7 +179,8 @@
             "value_score":63.00755,
             "region":"경상남도 김해시",
             "region_code":"Gyeongsangnamdo",
-            "sub_region_code":"4825000000_Gyeongsangnamdo_Gimhae"
+            "sub_region_code":"4825000000_Gyeongsangnamdo_Gimhae",
+            "shorten_url":"https:\/\/me2.do\/IFK0xRWd"
         },
         {
             "index":10,
@@ -178,7 +192,8 @@
             "value_score":67.539,
             "region":"경상남도 김해시",
             "region_code":"Gyeongsangnamdo",
-            "sub_region_code":"4825000000_Gyeongsangnamdo_Gimhae"
+            "sub_region_code":"4825000000_Gyeongsangnamdo_Gimhae",
+            "shorten_url":"https:\/\/me2.do\/IFK0xRWd"
         },
         {
             "index":11,
@@ -190,7 +205,8 @@
             "value_score":67.14825,
             "region":"경상남도 김해시",
             "region_code":"Gyeongsangnamdo",
-            "sub_region_code":"4825000000_Gyeongsangnamdo_Gimhae"
+            "sub_region_code":"4825000000_Gyeongsangnamdo_Gimhae",
+            "shorten_url":"https:\/\/me2.do\/IFK0xRWd"
         },
         {
             "index":12,
@@ -202,7 +218,8 @@
             "value_score":66.07375,
             "region":"경상남도 김해시",
             "region_code":"Gyeongsangnamdo",
-            "sub_region_code":"4825000000_Gyeongsangnamdo_Gimhae"
+            "sub_region_code":"4825000000_Gyeongsangnamdo_Gimhae",
+            "shorten_url":"https:\/\/me2.do\/IFK0xRWd"
         },
         {
             "index":13,
@@ -214,7 +231,8 @@
             "value_score":65.14825,
             "region":"경상남도 김해시",
             "region_code":"Gyeongsangnamdo",
-            "sub_region_code":"4825000000_Gyeongsangnamdo_Gimhae"
+            "sub_region_code":"4825000000_Gyeongsangnamdo_Gimhae",
+            "shorten_url":"https:\/\/me2.do\/IFK0xRWd"
         },
         {
             "index":14,
@@ -226,7 +244,8 @@
             "value_score":64.43825,
             "region":"경상남도 김해시",
             "region_code":"Gyeongsangnamdo",
-            "sub_region_code":"4825000000_Gyeongsangnamdo_Gimhae"
+            "sub_region_code":"4825000000_Gyeongsangnamdo_Gimhae",
+            "shorten_url":"https:\/\/me2.do\/IFK0xRWd"
         },
         {
             "index":15,
@@ -238,7 +257,8 @@
             "value_score":64.184,
             "region":"경상남도 김해시",
             "region_code":"Gyeongsangnamdo",
-            "sub_region_code":"4825000000_Gyeongsangnamdo_Gimhae"
+            "sub_region_code":"4825000000_Gyeongsangnamdo_Gimhae",
+            "shorten_url":"https:\/\/me2.do\/IFK0xRWd"
         },
         {
             "index":16,
@@ -250,7 +270,8 @@
             "value_score":64.171,
             "region":"경상남도 김해시",
             "region_code":"Gyeongsangnamdo",
-            "sub_region_code":"4825000000_Gyeongsangnamdo_Gimhae"
+            "sub_region_code":"4825000000_Gyeongsangnamdo_Gimhae",
+            "shorten_url":"https:\/\/me2.do\/IFK0xRWd"
         },
         {
             "index":17,
@@ -262,7 +283,8 @@
             "value_score":64.07375,
             "region":"경상남도 김해시",
             "region_code":"Gyeongsangnamdo",
-            "sub_region_code":"4825000000_Gyeongsangnamdo_Gimhae"
+            "sub_region_code":"4825000000_Gyeongsangnamdo_Gimhae",
+            "shorten_url":"https:\/\/me2.do\/IFK0xRWd"
         },
         {
             "index":18,
@@ -274,7 +296,8 @@
             "value_score":63.99825,
             "region":"경상남도 김해시",
             "region_code":"Gyeongsangnamdo",
-            "sub_region_code":"4825000000_Gyeongsangnamdo_Gimhae"
+            "sub_region_code":"4825000000_Gyeongsangnamdo_Gimhae",
+            "shorten_url":"https:\/\/me2.do\/IFK0xRWd"
         },
         {
             "index":19,
@@ -286,7 +309,8 @@
             "value_score":63.671,
             "region":"경상남도 김해시",
             "region_code":"Gyeongsangnamdo",
-            "sub_region_code":"4825000000_Gyeongsangnamdo_Gimhae"
+            "sub_region_code":"4825000000_Gyeongsangnamdo_Gimhae",
+            "shorten_url":"https:\/\/me2.do\/IFK0xRWd"
         },
         {
             "index":20,
@@ -298,7 +322,8 @@
             "value_score":76.1534736842,
             "region":"경상남도 김해시",
             "region_code":"Gyeongsangnamdo",
-            "sub_region_code":"4825000000_Gyeongsangnamdo_Gimhae"
+            "sub_region_code":"4825000000_Gyeongsangnamdo_Gimhae",
+            "shorten_url":"https:\/\/me2.do\/IFK0xRWd"
         },
         {
             "index":21,
@@ -310,7 +335,8 @@
             "value_score":74.018,
             "region":"경상남도 김해시",
             "region_code":"Gyeongsangnamdo",
-            "sub_region_code":"4825000000_Gyeongsangnamdo_Gimhae"
+            "sub_region_code":"4825000000_Gyeongsangnamdo_Gimhae",
+            "shorten_url":"https:\/\/me2.do\/IFK0xRWd"
         },
         {
             "index":22,
@@ -322,7 +348,8 @@
             "value_score":73.7773684211,
             "region":"경상남도 김해시",
             "region_code":"Gyeongsangnamdo",
-            "sub_region_code":"4825000000_Gyeongsangnamdo_Gimhae"
+            "sub_region_code":"4825000000_Gyeongsangnamdo_Gimhae",
+            "shorten_url":"https:\/\/me2.do\/IFK0xRWd"
         },
         {
             "index":23,
@@ -334,7 +361,8 @@
             "value_score":73.5405263158,
             "region":"경상남도 김해시",
             "region_code":"Gyeongsangnamdo",
-            "sub_region_code":"4825000000_Gyeongsangnamdo_Gimhae"
+            "sub_region_code":"4825000000_Gyeongsangnamdo_Gimhae",
+            "shorten_url":"https:\/\/me2.do\/IFK0xRWd"
         },
         {
             "index":24,
@@ -346,7 +374,8 @@
             "value_score":71.2773684211,
             "region":"경상남도 김해시",
             "region_code":"Gyeongsangnamdo",
-            "sub_region_code":"4825000000_Gyeongsangnamdo_Gimhae"
+            "sub_region_code":"4825000000_Gyeongsangnamdo_Gimhae",
+            "shorten_url":"https:\/\/me2.do\/IFK0xRWd"
         },
         {
             "index":25,
@@ -358,7 +387,8 @@
             "value_score":70.6457894737,
             "region":"경상남도 김해시",
             "region_code":"Gyeongsangnamdo",
-            "sub_region_code":"4825000000_Gyeongsangnamdo_Gimhae"
+            "sub_region_code":"4825000000_Gyeongsangnamdo_Gimhae",
+            "shorten_url":"https:\/\/me2.do\/IFK0xRWd"
         },
         {
             "index":26,
@@ -370,7 +400,8 @@
             "value_score":70.2850526316,
             "region":"경상남도 김해시",
             "region_code":"Gyeongsangnamdo",
-            "sub_region_code":"4825000000_Gyeongsangnamdo_Gimhae"
+            "sub_region_code":"4825000000_Gyeongsangnamdo_Gimhae",
+            "shorten_url":"https:\/\/me2.do\/IFK0xRWd"
         },
         {
             "index":27,
@@ -382,7 +413,8 @@
             "value_score":70.0969473684,
             "region":"경상남도 김해시",
             "region_code":"Gyeongsangnamdo",
-            "sub_region_code":"4825000000_Gyeongsangnamdo_Gimhae"
+            "sub_region_code":"4825000000_Gyeongsangnamdo_Gimhae",
+            "shorten_url":"https:\/\/me2.do\/IFK0xRWd"
         },
         {
             "index":28,
@@ -394,7 +426,8 @@
             "value_score":69.6984210526,
             "region":"경상남도 김해시",
             "region_code":"Gyeongsangnamdo",
-            "sub_region_code":"4825000000_Gyeongsangnamdo_Gimhae"
+            "sub_region_code":"4825000000_Gyeongsangnamdo_Gimhae",
+            "shorten_url":"https:\/\/me2.do\/IFK0xRWd"
         },
         {
             "index":29,
@@ -406,7 +439,8 @@
             "value_score":69.6232631579,
             "region":"경상남도 김해시",
             "region_code":"Gyeongsangnamdo",
-            "sub_region_code":"4825000000_Gyeongsangnamdo_Gimhae"
+            "sub_region_code":"4825000000_Gyeongsangnamdo_Gimhae",
+            "shorten_url":"https:\/\/me2.do\/IFK0xRWd"
         },
         {
             "index":30,
@@ -418,7 +452,8 @@
             "value_score":69.243,
             "region":"경상남도 김해시",
             "region_code":"Gyeongsangnamdo",
-            "sub_region_code":"4825000000_Gyeongsangnamdo_Gimhae"
+            "sub_region_code":"4825000000_Gyeongsangnamdo_Gimhae",
+            "shorten_url":"https:\/\/me2.do\/IFK0xRWd"
         },
         {
             "index":31,
@@ -430,7 +465,8 @@
             "value_score":68.5225,
             "region":"경상남도 김해시",
             "region_code":"Gyeongsangnamdo",
-            "sub_region_code":"4825000000_Gyeongsangnamdo_Gimhae"
+            "sub_region_code":"4825000000_Gyeongsangnamdo_Gimhae",
+            "shorten_url":"https:\/\/me2.do\/IFK0xRWd"
         },
         {
             "index":32,
@@ -442,7 +478,8 @@
             "value_score":67.5225,
             "region":"경상남도 김해시",
             "region_code":"Gyeongsangnamdo",
-            "sub_region_code":"4825000000_Gyeongsangnamdo_Gimhae"
+            "sub_region_code":"4825000000_Gyeongsangnamdo_Gimhae",
+            "shorten_url":"https:\/\/me2.do\/IFK0xRWd"
         },
         {
             "index":33,
@@ -454,7 +491,8 @@
             "value_score":67.0285,
             "region":"경상남도 김해시",
             "region_code":"Gyeongsangnamdo",
-            "sub_region_code":"4825000000_Gyeongsangnamdo_Gimhae"
+            "sub_region_code":"4825000000_Gyeongsangnamdo_Gimhae",
+            "shorten_url":"https:\/\/me2.do\/IFK0xRWd"
         },
         {
             "index":34,
@@ -466,7 +504,8 @@
             "value_score":66.6535,
             "region":"경상남도 김해시",
             "region_code":"Gyeongsangnamdo",
-            "sub_region_code":"4825000000_Gyeongsangnamdo_Gimhae"
+            "sub_region_code":"4825000000_Gyeongsangnamdo_Gimhae",
+            "shorten_url":"https:\/\/me2.do\/IFK0xRWd"
         },
         {
             "index":35,
@@ -478,7 +517,8 @@
             "value_score":66.6475,
             "region":"경상남도 김해시",
             "region_code":"Gyeongsangnamdo",
-            "sub_region_code":"4825000000_Gyeongsangnamdo_Gimhae"
+            "sub_region_code":"4825000000_Gyeongsangnamdo_Gimhae",
+            "shorten_url":"https:\/\/me2.do\/IFK0xRWd"
         },
         {
             "index":36,
@@ -490,7 +530,8 @@
             "value_score":66.2725,
             "region":"경상남도 김해시",
             "region_code":"Gyeongsangnamdo",
-            "sub_region_code":"4825000000_Gyeongsangnamdo_Gimhae"
+            "sub_region_code":"4825000000_Gyeongsangnamdo_Gimhae",
+            "shorten_url":"https:\/\/me2.do\/IFK0xRWd"
         },
         {
             "index":37,
@@ -502,7 +543,8 @@
             "value_score":66.0225,
             "region":"경상남도 김해시",
             "region_code":"Gyeongsangnamdo",
-            "sub_region_code":"4825000000_Gyeongsangnamdo_Gimhae"
+            "sub_region_code":"4825000000_Gyeongsangnamdo_Gimhae",
+            "shorten_url":"https:\/\/me2.do\/IFK0xRWd"
         },
         {
             "index":38,
@@ -514,7 +556,8 @@
             "value_score":65.9035,
             "region":"경상남도 김해시",
             "region_code":"Gyeongsangnamdo",
-            "sub_region_code":"4825000000_Gyeongsangnamdo_Gimhae"
+            "sub_region_code":"4825000000_Gyeongsangnamdo_Gimhae",
+            "shorten_url":"https:\/\/me2.do\/IFK0xRWd"
         },
         {
             "index":39,
@@ -526,7 +569,8 @@
             "value_score":65.493,
             "region":"경상남도 김해시",
             "region_code":"Gyeongsangnamdo",
-            "sub_region_code":"4825000000_Gyeongsangnamdo_Gimhae"
+            "sub_region_code":"4825000000_Gyeongsangnamdo_Gimhae",
+            "shorten_url":"https:\/\/me2.do\/IFK0xRWd"
         }
     ]
 }

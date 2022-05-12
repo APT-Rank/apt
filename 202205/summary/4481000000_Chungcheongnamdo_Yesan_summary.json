@@ -40,6 +40,10 @@
             {
                 "name":"sub_region_code",
                 "type":"string"
+            },
+            {
+                "name":"shorten_url",
+                "type":"string"
             }
         ],
         "primaryKey":[
@@ -58,7 +62,8 @@
             "value_score":52.83595,
             "region":"충청남도 예산군",
             "region_code":"Chungcheongnamdo",
-            "sub_region_code":"4481000000_Chungcheongnamdo_Yesan"
+            "sub_region_code":"4481000000_Chungcheongnamdo_Yesan",
+            "shorten_url":"https:\/\/me2.do\/IGmbIAru"
         },
         {
             "index":1,
@@ -70,7 +75,8 @@
             "value_score":51.5968,
             "region":"충청남도 예산군",
             "region_code":"Chungcheongnamdo",
-            "sub_region_code":"4481000000_Chungcheongnamdo_Yesan"
+            "sub_region_code":"4481000000_Chungcheongnamdo_Yesan",
+            "shorten_url":"https:\/\/me2.do\/IGmbIAru"
         },
         {
             "index":2,
@@ -82,7 +88,8 @@
             "value_score":51.5968,
             "region":"충청남도 예산군",
             "region_code":"Chungcheongnamdo",
-            "sub_region_code":"4481000000_Chungcheongnamdo_Yesan"
+            "sub_region_code":"4481000000_Chungcheongnamdo_Yesan",
+            "shorten_url":"https:\/\/me2.do\/IGmbIAru"
         },
         {
             "index":3,
@@ -94,7 +101,8 @@
             "value_score":50.1968,
             "region":"충청남도 예산군",
             "region_code":"Chungcheongnamdo",
-            "sub_region_code":"4481000000_Chungcheongnamdo_Yesan"
+            "sub_region_code":"4481000000_Chungcheongnamdo_Yesan",
+            "shorten_url":"https:\/\/me2.do\/IGmbIAru"
         },
         {
             "index":4,
@@ -106,7 +114,8 @@
             "value_score":48.63595,
             "region":"충청남도 예산군",
             "region_code":"Chungcheongnamdo",
-            "sub_region_code":"4481000000_Chungcheongnamdo_Yesan"
+            "sub_region_code":"4481000000_Chungcheongnamdo_Yesan",
+            "shorten_url":"https:\/\/me2.do\/IGmbIAru"
         },
         {
             "index":5,
@@ -118,7 +127,8 @@
             "value_score":48.5968,
             "region":"충청남도 예산군",
             "region_code":"Chungcheongnamdo",
-            "sub_region_code":"4481000000_Chungcheongnamdo_Yesan"
+            "sub_region_code":"4481000000_Chungcheongnamdo_Yesan",
+            "shorten_url":"https:\/\/me2.do\/IGmbIAru"
         },
         {
             "index":6,
@@ -130,7 +140,8 @@
             "value_score":48.3968,
             "region":"충청남도 예산군",
             "region_code":"Chungcheongnamdo",
-            "sub_region_code":"4481000000_Chungcheongnamdo_Yesan"
+            "sub_region_code":"4481000000_Chungcheongnamdo_Yesan",
+            "shorten_url":"https:\/\/me2.do\/IGmbIAru"
         },
         {
             "index":7,
@@ -142,7 +153,8 @@
             "value_score":48.2285,
             "region":"충청남도 예산군",
             "region_code":"Chungcheongnamdo",
-            "sub_region_code":"4481000000_Chungcheongnamdo_Yesan"
+            "sub_region_code":"4481000000_Chungcheongnamdo_Yesan",
+            "shorten_url":"https:\/\/me2.do\/IGmbIAru"
         },
         {
             "index":8,
@@ -154,7 +166,8 @@
             "value_score":44.73595,
             "region":"충청남도 예산군",
             "region_code":"Chungcheongnamdo",
-            "sub_region_code":"4481000000_Chungcheongnamdo_Yesan"
+            "sub_region_code":"4481000000_Chungcheongnamdo_Yesan",
+            "shorten_url":"https:\/\/me2.do\/IGmbIAru"
         },
         {
             "index":9,
@@ -166,7 +179,8 @@
             "value_score":44.0535,
             "region":"충청남도 예산군",
             "region_code":"Chungcheongnamdo",
-            "sub_region_code":"4481000000_Chungcheongnamdo_Yesan"
+            "sub_region_code":"4481000000_Chungcheongnamdo_Yesan",
+            "shorten_url":"https:\/\/me2.do\/IGmbIAru"
         },
         {
             "index":10,
@@ -178,7 +192,8 @@
             "value_score":56.462,
             "region":"충청남도 예산군",
             "region_code":"Chungcheongnamdo",
-            "sub_region_code":"4481000000_Chungcheongnamdo_Yesan"
+            "sub_region_code":"4481000000_Chungcheongnamdo_Yesan",
+            "shorten_url":"https:\/\/me2.do\/IGmbIAru"
         },
         {
             "index":11,
@@ -190,7 +205,8 @@
             "value_score":56.462,
             "region":"충청남도 예산군",
             "region_code":"Chungcheongnamdo",
-            "sub_region_code":"4481000000_Chungcheongnamdo_Yesan"
+            "sub_region_code":"4481000000_Chungcheongnamdo_Yesan",
+            "shorten_url":"https:\/\/me2.do\/IGmbIAru"
         },
         {
             "index":12,
@@ -202,7 +218,8 @@
             "value_score":54.712,
             "region":"충청남도 예산군",
             "region_code":"Chungcheongnamdo",
-            "sub_region_code":"4481000000_Chungcheongnamdo_Yesan"
+            "sub_region_code":"4481000000_Chungcheongnamdo_Yesan",
+            "shorten_url":"https:\/\/me2.do\/IGmbIAru"
         },
         {
             "index":13,
@@ -214,7 +231,8 @@
             "value_score":53.20425,
             "region":"충청남도 예산군",
             "region_code":"Chungcheongnamdo",
-            "sub_region_code":"4481000000_Chungcheongnamdo_Yesan"
+            "sub_region_code":"4481000000_Chungcheongnamdo_Yesan",
+            "shorten_url":"https:\/\/me2.do\/IGmbIAru"
         },
         {
             "index":14,
@@ -226,7 +244,8 @@
             "value_score":52.712,
             "region":"충청남도 예산군",
             "region_code":"Chungcheongnamdo",
-            "sub_region_code":"4481000000_Chungcheongnamdo_Yesan"
+            "sub_region_code":"4481000000_Chungcheongnamdo_Yesan",
+            "shorten_url":"https:\/\/me2.do\/IGmbIAru"
         },
         {
             "index":15,
@@ -238,7 +257,8 @@
             "value_score":52.462,
             "region":"충청남도 예산군",
             "region_code":"Chungcheongnamdo",
-            "sub_region_code":"4481000000_Chungcheongnamdo_Yesan"
+            "sub_region_code":"4481000000_Chungcheongnamdo_Yesan",
+            "shorten_url":"https:\/\/me2.do\/IGmbIAru"
         },
         {
             "index":16,
@@ -250,7 +270,8 @@
             "value_score":50.20425,
             "region":"충청남도 예산군",
             "region_code":"Chungcheongnamdo",
-            "sub_region_code":"4481000000_Chungcheongnamdo_Yesan"
+            "sub_region_code":"4481000000_Chungcheongnamdo_Yesan",
+            "shorten_url":"https:\/\/me2.do\/IGmbIAru"
         },
         {
             "index":17,
@@ -262,7 +283,8 @@
             "value_score":50.1275,
             "region":"충청남도 예산군",
             "region_code":"Chungcheongnamdo",
-            "sub_region_code":"4481000000_Chungcheongnamdo_Yesan"
+            "sub_region_code":"4481000000_Chungcheongnamdo_Yesan",
+            "shorten_url":"https:\/\/me2.do\/IGmbIAru"
         },
         {
             "index":18,
@@ -274,7 +296,8 @@
             "value_score":45.45425,
             "region":"충청남도 예산군",
             "region_code":"Chungcheongnamdo",
-            "sub_region_code":"4481000000_Chungcheongnamdo_Yesan"
+            "sub_region_code":"4481000000_Chungcheongnamdo_Yesan",
+            "shorten_url":"https:\/\/me2.do\/IGmbIAru"
         },
         {
             "index":19,
@@ -286,7 +309,8 @@
             "value_score":43.0025,
             "region":"충청남도 예산군",
             "region_code":"Chungcheongnamdo",
-            "sub_region_code":"4481000000_Chungcheongnamdo_Yesan"
+            "sub_region_code":"4481000000_Chungcheongnamdo_Yesan",
+            "shorten_url":"https:\/\/me2.do\/IGmbIAru"
         },
         {
             "index":20,
@@ -298,7 +322,8 @@
             "value_score":44.8106315789,
             "region":"충청남도 예산군",
             "region_code":"Chungcheongnamdo",
-            "sub_region_code":"4481000000_Chungcheongnamdo_Yesan"
+            "sub_region_code":"4481000000_Chungcheongnamdo_Yesan",
+            "shorten_url":"https:\/\/me2.do\/IGmbIAru"
         },
         {
             "index":21,
@@ -310,7 +335,8 @@
             "value_score":42.7843157895,
             "region":"충청남도 예산군",
             "region_code":"Chungcheongnamdo",
-            "sub_region_code":"4481000000_Chungcheongnamdo_Yesan"
+            "sub_region_code":"4481000000_Chungcheongnamdo_Yesan",
+            "shorten_url":"https:\/\/me2.do\/IGmbIAru"
         },
         {
             "index":22,
@@ -322,7 +348,8 @@
             "value_score":42.1084210526,
             "region":"충청남도 예산군",
             "region_code":"Chungcheongnamdo",
-            "sub_region_code":"4481000000_Chungcheongnamdo_Yesan"
+            "sub_region_code":"4481000000_Chungcheongnamdo_Yesan",
+            "shorten_url":"https:\/\/me2.do\/IGmbIAru"
         },
         {
             "index":23,
@@ -334,7 +361,8 @@
             "value_score":41.0211578947,
             "region":"충청남도 예산군",
             "region_code":"Chungcheongnamdo",
-            "sub_region_code":"4481000000_Chungcheongnamdo_Yesan"
+            "sub_region_code":"4481000000_Chungcheongnamdo_Yesan",
+            "shorten_url":"https:\/\/me2.do\/IGmbIAru"
         },
         {
             "index":24,
@@ -346,7 +374,8 @@
             "value_score":40.7053684211,
             "region":"충청남도 예산군",
             "region_code":"Chungcheongnamdo",
-            "sub_region_code":"4481000000_Chungcheongnamdo_Yesan"
+            "sub_region_code":"4481000000_Chungcheongnamdo_Yesan",
+            "shorten_url":"https:\/\/me2.do\/IGmbIAru"
         },
         {
             "index":25,
@@ -358,7 +387,8 @@
             "value_score":40.24,
             "region":"충청남도 예산군",
             "region_code":"Chungcheongnamdo",
-            "sub_region_code":"4481000000_Chungcheongnamdo_Yesan"
+            "sub_region_code":"4481000000_Chungcheongnamdo_Yesan",
+            "shorten_url":"https:\/\/me2.do\/IGmbIAru"
         },
         {
             "index":26,
@@ -370,7 +400,8 @@
             "value_score":38.6264210526,
             "region":"충청남도 예산군",
             "region_code":"Chungcheongnamdo",
-            "sub_region_code":"4481000000_Chungcheongnamdo_Yesan"
+            "sub_region_code":"4481000000_Chungcheongnamdo_Yesan",
+            "shorten_url":"https:\/\/me2.do\/IGmbIAru"
         },
         {
             "index":27,
@@ -382,7 +413,8 @@
             "value_score":35.7663157895,
             "region":"충청남도 예산군",
             "region_code":"Chungcheongnamdo",
-            "sub_region_code":"4481000000_Chungcheongnamdo_Yesan"
+            "sub_region_code":"4481000000_Chungcheongnamdo_Yesan",
+            "shorten_url":"https:\/\/me2.do\/IGmbIAru"
         },
         {
             "index":28,
@@ -394,7 +426,8 @@
             "value_score":35.4685263158,
             "region":"충청남도 예산군",
             "region_code":"Chungcheongnamdo",
-            "sub_region_code":"4481000000_Chungcheongnamdo_Yesan"
+            "sub_region_code":"4481000000_Chungcheongnamdo_Yesan",
+            "shorten_url":"https:\/\/me2.do\/IGmbIAru"
         },
         {
             "index":29,
@@ -406,7 +439,8 @@
             "value_score":35.4685263158,
             "region":"충청남도 예산군",
             "region_code":"Chungcheongnamdo",
-            "sub_region_code":"4481000000_Chungcheongnamdo_Yesan"
+            "sub_region_code":"4481000000_Chungcheongnamdo_Yesan",
+            "shorten_url":"https:\/\/me2.do\/IGmbIAru"
         },
         {
             "index":30,
@@ -418,7 +452,8 @@
             "value_score":52.2835,
             "region":"충청남도 예산군",
             "region_code":"Chungcheongnamdo",
-            "sub_region_code":"4481000000_Chungcheongnamdo_Yesan"
+            "sub_region_code":"4481000000_Chungcheongnamdo_Yesan",
+            "shorten_url":"https:\/\/me2.do\/IGmbIAru"
         },
         {
             "index":31,
@@ -430,7 +465,8 @@
             "value_score":46.2835,
             "region":"충청남도 예산군",
             "region_code":"Chungcheongnamdo",
-            "sub_region_code":"4481000000_Chungcheongnamdo_Yesan"
+            "sub_region_code":"4481000000_Chungcheongnamdo_Yesan",
+            "shorten_url":"https:\/\/me2.do\/IGmbIAru"
         },
         {
             "index":32,
@@ -442,7 +478,8 @@
             "value_score":45.7835,
             "region":"충청남도 예산군",
             "region_code":"Chungcheongnamdo",
-            "sub_region_code":"4481000000_Chungcheongnamdo_Yesan"
+            "sub_region_code":"4481000000_Chungcheongnamdo_Yesan",
+            "shorten_url":"https:\/\/me2.do\/IGmbIAru"
         },
         {
             "index":33,
@@ -454,7 +491,8 @@
             "value_score":45.63,
             "region":"충청남도 예산군",
             "region_code":"Chungcheongnamdo",
-            "sub_region_code":"4481000000_Chungcheongnamdo_Yesan"
+            "sub_region_code":"4481000000_Chungcheongnamdo_Yesan",
+            "shorten_url":"https:\/\/me2.do\/IGmbIAru"
         },
         {
             "index":34,
@@ -466,7 +504,8 @@
             "value_score":45.38,
             "region":"충청남도 예산군",
             "region_code":"Chungcheongnamdo",
-            "sub_region_code":"4481000000_Chungcheongnamdo_Yesan"
+            "sub_region_code":"4481000000_Chungcheongnamdo_Yesan",
+            "shorten_url":"https:\/\/me2.do\/IGmbIAru"
         },
         {
             "index":35,
@@ -478,7 +517,8 @@
             "value_score":44.4085,
             "region":"충청남도 예산군",
             "region_code":"Chungcheongnamdo",
-            "sub_region_code":"4481000000_Chungcheongnamdo_Yesan"
+            "sub_region_code":"4481000000_Chungcheongnamdo_Yesan",
+            "shorten_url":"https:\/\/me2.do\/IGmbIAru"
         },
         {
             "index":36,
@@ -490,7 +530,8 @@
             "value_score":44.299,
             "region":"충청남도 예산군",
             "region_code":"Chungcheongnamdo",
-            "sub_region_code":"4481000000_Chungcheongnamdo_Yesan"
+            "sub_region_code":"4481000000_Chungcheongnamdo_Yesan",
+            "shorten_url":"https:\/\/me2.do\/IGmbIAru"
         },
         {
             "index":37,
@@ -502,7 +543,8 @@
             "value_score":44.299,
             "region":"충청남도 예산군",
             "region_code":"Chungcheongnamdo",
-            "sub_region_code":"4481000000_Chungcheongnamdo_Yesan"
+            "sub_region_code":"4481000000_Chungcheongnamdo_Yesan",
+            "shorten_url":"https:\/\/me2.do\/IGmbIAru"
         },
         {
             "index":38,
@@ -514,7 +556,8 @@
             "value_score":43.6585,
             "region":"충청남도 예산군",
             "region_code":"Chungcheongnamdo",
-            "sub_region_code":"4481000000_Chungcheongnamdo_Yesan"
+            "sub_region_code":"4481000000_Chungcheongnamdo_Yesan",
+            "shorten_url":"https:\/\/me2.do\/IGmbIAru"
         },
         {
             "index":39,
@@ -526,7 +569,8 @@
             "value_score":43.424,
             "region":"충청남도 예산군",
             "region_code":"Chungcheongnamdo",
-            "sub_region_code":"4481000000_Chungcheongnamdo_Yesan"
+            "sub_region_code":"4481000000_Chungcheongnamdo_Yesan",
+            "shorten_url":"https:\/\/me2.do\/IGmbIAru"
         }
     ]
 }

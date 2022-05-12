@@ -40,6 +40,10 @@
             {
                 "name":"sub_region_code",
                 "type":"string"
+            },
+            {
+                "name":"shorten_url",
+                "type":"string"
             }
         ],
         "primaryKey":[
@@ -58,7 +62,8 @@
             "value_score":69.8017,
             "region":"서울시 용산구",
             "region_code":"Seoul",
-            "sub_region_code":"1117000000_Seoul_Yongsan"
+            "sub_region_code":"1117000000_Seoul_Yongsan",
+            "shorten_url":"https:\/\/me2.do\/xNoXKRHu"
         },
         {
             "index":1,
@@ -70,7 +75,8 @@
             "value_score":65.5102,
             "region":"서울시 용산구",
             "region_code":"Seoul",
-            "sub_region_code":"1117000000_Seoul_Yongsan"
+            "sub_region_code":"1117000000_Seoul_Yongsan",
+            "shorten_url":"https:\/\/me2.do\/xNoXKRHu"
         },
         {
             "index":2,
@@ -82,7 +88,8 @@
             "value_score":65.1272,
             "region":"서울시 용산구",
             "region_code":"Seoul",
-            "sub_region_code":"1117000000_Seoul_Yongsan"
+            "sub_region_code":"1117000000_Seoul_Yongsan",
+            "shorten_url":"https:\/\/me2.do\/xNoXKRHu"
         },
         {
             "index":3,
@@ -94,7 +101,8 @@
             "value_score":64.9517,
             "region":"서울시 용산구",
             "region_code":"Seoul",
-            "sub_region_code":"1117000000_Seoul_Yongsan"
+            "sub_region_code":"1117000000_Seoul_Yongsan",
+            "shorten_url":"https:\/\/me2.do\/xNoXKRHu"
         },
         {
             "index":4,
@@ -106,7 +114,8 @@
             "value_score":62.6017,
             "region":"서울시 용산구",
             "region_code":"Seoul",
-            "sub_region_code":"1117000000_Seoul_Yongsan"
+            "sub_region_code":"1117000000_Seoul_Yongsan",
+            "shorten_url":"https:\/\/me2.do\/xNoXKRHu"
         },
         {
             "index":5,
@@ -118,7 +127,8 @@
             "value_score":62.5317,
             "region":"서울시 용산구",
             "region_code":"Seoul",
-            "sub_region_code":"1117000000_Seoul_Yongsan"
+            "sub_region_code":"1117000000_Seoul_Yongsan",
+            "shorten_url":"https:\/\/me2.do\/xNoXKRHu"
         },
         {
             "index":6,
@@ -130,7 +140,8 @@
             "value_score":62.0679,
             "region":"서울시 용산구",
             "region_code":"Seoul",
-            "sub_region_code":"1117000000_Seoul_Yongsan"
+            "sub_region_code":"1117000000_Seoul_Yongsan",
+            "shorten_url":"https:\/\/me2.do\/xNoXKRHu"
         },
         {
             "index":7,
@@ -142,7 +153,8 @@
             "value_score":61.7017,
             "region":"서울시 용산구",
             "region_code":"Seoul",
-            "sub_region_code":"1117000000_Seoul_Yongsan"
+            "sub_region_code":"1117000000_Seoul_Yongsan",
+            "shorten_url":"https:\/\/me2.do\/xNoXKRHu"
         },
         {
             "index":8,
@@ -154,7 +166,8 @@
             "value_score":61.6517,
             "region":"서울시 용산구",
             "region_code":"Seoul",
-            "sub_region_code":"1117000000_Seoul_Yongsan"
+            "sub_region_code":"1117000000_Seoul_Yongsan",
+            "shorten_url":"https:\/\/me2.do\/xNoXKRHu"
         },
         {
             "index":9,
@@ -166,7 +179,8 @@
             "value_score":60.5704,
             "region":"서울시 용산구",
             "region_code":"Seoul",
-            "sub_region_code":"1117000000_Seoul_Yongsan"
+            "sub_region_code":"1117000000_Seoul_Yongsan",
+            "shorten_url":"https:\/\/me2.do\/xNoXKRHu"
         },
         {
             "index":10,
@@ -178,7 +192,8 @@
             "value_score":73.8178,
             "region":"서울시 용산구",
             "region_code":"Seoul",
-            "sub_region_code":"1117000000_Seoul_Yongsan"
+            "sub_region_code":"1117000000_Seoul_Yongsan",
+            "shorten_url":"https:\/\/me2.do\/xNoXKRHu"
         },
         {
             "index":11,
@@ -190,7 +205,8 @@
             "value_score":66.9178,
             "region":"서울시 용산구",
             "region_code":"Seoul",
-            "sub_region_code":"1117000000_Seoul_Yongsan"
+            "sub_region_code":"1117000000_Seoul_Yongsan",
+            "shorten_url":"https:\/\/me2.do\/xNoXKRHu"
         },
         {
             "index":12,
@@ -202,7 +218,8 @@
             "value_score":66.2678,
             "region":"서울시 용산구",
             "region_code":"Seoul",
-            "sub_region_code":"1117000000_Seoul_Yongsan"
+            "sub_region_code":"1117000000_Seoul_Yongsan",
+            "shorten_url":"https:\/\/me2.do\/xNoXKRHu"
         },
         {
             "index":13,
@@ -214,7 +231,8 @@
             "value_score":65.0068,
             "region":"서울시 용산구",
             "region_code":"Seoul",
-            "sub_region_code":"1117000000_Seoul_Yongsan"
+            "sub_region_code":"1117000000_Seoul_Yongsan",
+            "shorten_url":"https:\/\/me2.do\/xNoXKRHu"
         },
         {
             "index":14,
@@ -226,7 +244,8 @@
             "value_score":64.1348,
             "region":"서울시 용산구",
             "region_code":"Seoul",
-            "sub_region_code":"1117000000_Seoul_Yongsan"
+            "sub_region_code":"1117000000_Seoul_Yongsan",
+            "shorten_url":"https:\/\/me2.do\/xNoXKRHu"
         },
         {
             "index":15,
@@ -238,7 +257,8 @@
             "value_score":63.3286,
             "region":"서울시 용산구",
             "region_code":"Seoul",
-            "sub_region_code":"1117000000_Seoul_Yongsan"
+            "sub_region_code":"1117000000_Seoul_Yongsan",
+            "shorten_url":"https:\/\/me2.do\/xNoXKRHu"
         },
         {
             "index":16,
@@ -250,7 +270,8 @@
             "value_score":62.5286,
             "region":"서울시 용산구",
             "region_code":"Seoul",
-            "sub_region_code":"1117000000_Seoul_Yongsan"
+            "sub_region_code":"1117000000_Seoul_Yongsan",
+            "shorten_url":"https:\/\/me2.do\/xNoXKRHu"
         },
         {
             "index":17,
@@ -262,7 +283,8 @@
             "value_score":61.9178,
             "region":"서울시 용산구",
             "region_code":"Seoul",
-            "sub_region_code":"1117000000_Seoul_Yongsan"
+            "sub_region_code":"1117000000_Seoul_Yongsan",
+            "shorten_url":"https:\/\/me2.do\/xNoXKRHu"
         },
         {
             "index":18,
@@ -274,7 +296,8 @@
             "value_score":60.8262,
             "region":"서울시 용산구",
             "region_code":"Seoul",
-            "sub_region_code":"1117000000_Seoul_Yongsan"
+            "sub_region_code":"1117000000_Seoul_Yongsan",
+            "shorten_url":"https:\/\/me2.do\/xNoXKRHu"
         },
         {
             "index":19,
@@ -286,7 +309,8 @@
             "value_score":60.7678,
             "region":"서울시 용산구",
             "region_code":"Seoul",
-            "sub_region_code":"1117000000_Seoul_Yongsan"
+            "sub_region_code":"1117000000_Seoul_Yongsan",
+            "shorten_url":"https:\/\/me2.do\/xNoXKRHu"
         },
         {
             "index":20,
@@ -298,7 +322,8 @@
             "value_score":76.50585,
             "region":"서울시 용산구",
             "region_code":"Seoul",
-            "sub_region_code":"1117000000_Seoul_Yongsan"
+            "sub_region_code":"1117000000_Seoul_Yongsan",
+            "shorten_url":"https:\/\/me2.do\/xNoXKRHu"
         },
         {
             "index":21,
@@ -310,7 +335,8 @@
             "value_score":76.0051,
             "region":"서울시 용산구",
             "region_code":"Seoul",
-            "sub_region_code":"1117000000_Seoul_Yongsan"
+            "sub_region_code":"1117000000_Seoul_Yongsan",
+            "shorten_url":"https:\/\/me2.do\/xNoXKRHu"
         },
         {
             "index":22,
@@ -322,7 +348,8 @@
             "value_score":75.60085,
             "region":"서울시 용산구",
             "region_code":"Seoul",
-            "sub_region_code":"1117000000_Seoul_Yongsan"
+            "sub_region_code":"1117000000_Seoul_Yongsan",
+            "shorten_url":"https:\/\/me2.do\/xNoXKRHu"
         },
         {
             "index":23,
@@ -334,7 +361,8 @@
             "value_score":75.5636,
             "region":"서울시 용산구",
             "region_code":"Seoul",
-            "sub_region_code":"1117000000_Seoul_Yongsan"
+            "sub_region_code":"1117000000_Seoul_Yongsan",
+            "shorten_url":"https:\/\/me2.do\/xNoXKRHu"
         },
         {
             "index":24,
@@ -346,7 +374,8 @@
             "value_score":73.55085,
             "region":"서울시 용산구",
             "region_code":"Seoul",
-            "sub_region_code":"1117000000_Seoul_Yongsan"
+            "sub_region_code":"1117000000_Seoul_Yongsan",
+            "shorten_url":"https:\/\/me2.do\/xNoXKRHu"
         },
         {
             "index":25,
@@ -358,7 +387,8 @@
             "value_score":72.8581741361,
             "region":"서울시 용산구",
             "region_code":"Seoul",
-            "sub_region_code":"1117000000_Seoul_Yongsan"
+            "sub_region_code":"1117000000_Seoul_Yongsan",
+            "shorten_url":"https:\/\/me2.do\/xNoXKRHu"
         },
         {
             "index":26,
@@ -370,7 +400,8 @@
             "value_score":72.77585,
             "region":"서울시 용산구",
             "region_code":"Seoul",
-            "sub_region_code":"1117000000_Seoul_Yongsan"
+            "sub_region_code":"1117000000_Seoul_Yongsan",
+            "shorten_url":"https:\/\/me2.do\/xNoXKRHu"
         },
         {
             "index":27,
@@ -382,7 +413,8 @@
             "value_score":72.6691142206,
             "region":"서울시 용산구",
             "region_code":"Seoul",
-            "sub_region_code":"1117000000_Seoul_Yongsan"
+            "sub_region_code":"1117000000_Seoul_Yongsan",
+            "shorten_url":"https:\/\/me2.do\/xNoXKRHu"
         },
         {
             "index":28,
@@ -394,7 +426,8 @@
             "value_score":71.77485,
             "region":"서울시 용산구",
             "region_code":"Seoul",
-            "sub_region_code":"1117000000_Seoul_Yongsan"
+            "sub_region_code":"1117000000_Seoul_Yongsan",
+            "shorten_url":"https:\/\/me2.do\/xNoXKRHu"
         },
         {
             "index":29,
@@ -406,7 +439,8 @@
             "value_score":71.2386,
             "region":"서울시 용산구",
             "region_code":"Seoul",
-            "sub_region_code":"1117000000_Seoul_Yongsan"
+            "sub_region_code":"1117000000_Seoul_Yongsan",
+            "shorten_url":"https:\/\/me2.do\/xNoXKRHu"
         },
         {
             "index":30,
@@ -418,7 +452,8 @@
             "value_score":68.3085,
             "region":"서울시 용산구",
             "region_code":"Seoul",
-            "sub_region_code":"1117000000_Seoul_Yongsan"
+            "sub_region_code":"1117000000_Seoul_Yongsan",
+            "shorten_url":"https:\/\/me2.do\/xNoXKRHu"
         },
         {
             "index":31,
@@ -430,7 +465,8 @@
             "value_score":68.24525,
             "region":"서울시 용산구",
             "region_code":"Seoul",
-            "sub_region_code":"1117000000_Seoul_Yongsan"
+            "sub_region_code":"1117000000_Seoul_Yongsan",
+            "shorten_url":"https:\/\/me2.do\/xNoXKRHu"
         },
         {
             "index":32,
@@ -442,7 +478,8 @@
             "value_score":67.5085,
             "region":"서울시 용산구",
             "region_code":"Seoul",
-            "sub_region_code":"1117000000_Seoul_Yongsan"
+            "sub_region_code":"1117000000_Seoul_Yongsan",
+            "shorten_url":"https:\/\/me2.do\/xNoXKRHu"
         },
         {
             "index":33,
@@ -454,7 +491,8 @@
             "value_score":66.9895,
             "region":"서울시 용산구",
             "region_code":"Seoul",
-            "sub_region_code":"1117000000_Seoul_Yongsan"
+            "sub_region_code":"1117000000_Seoul_Yongsan",
+            "shorten_url":"https:\/\/me2.do\/xNoXKRHu"
         },
         {
             "index":34,
@@ -466,7 +504,8 @@
             "value_score":66.581,
             "region":"서울시 용산구",
             "region_code":"Seoul",
-            "sub_region_code":"1117000000_Seoul_Yongsan"
+            "sub_region_code":"1117000000_Seoul_Yongsan",
+            "shorten_url":"https:\/\/me2.do\/xNoXKRHu"
         },
         {
             "index":35,
@@ -478,7 +517,8 @@
             "value_score":66.531,
             "region":"서울시 용산구",
             "region_code":"Seoul",
-            "sub_region_code":"1117000000_Seoul_Yongsan"
+            "sub_region_code":"1117000000_Seoul_Yongsan",
+            "shorten_url":"https:\/\/me2.do\/xNoXKRHu"
         },
         {
             "index":36,
@@ -490,7 +530,8 @@
             "value_score":65.9552902268,
             "region":"서울시 용산구",
             "region_code":"Seoul",
-            "sub_region_code":"1117000000_Seoul_Yongsan"
+            "sub_region_code":"1117000000_Seoul_Yongsan",
+            "shorten_url":"https:\/\/me2.do\/xNoXKRHu"
         },
         {
             "index":37,
@@ -502,7 +543,8 @@
             "value_score":65.22325,
             "region":"서울시 용산구",
             "region_code":"Seoul",
-            "sub_region_code":"1117000000_Seoul_Yongsan"
+            "sub_region_code":"1117000000_Seoul_Yongsan",
+            "shorten_url":"https:\/\/me2.do\/xNoXKRHu"
         },
         {
             "index":38,
@@ -514,7 +556,8 @@
             "value_score":65.1585,
             "region":"서울시 용산구",
             "region_code":"Seoul",
-            "sub_region_code":"1117000000_Seoul_Yongsan"
+            "sub_region_code":"1117000000_Seoul_Yongsan",
+            "shorten_url":"https:\/\/me2.do\/xNoXKRHu"
         },
         {
             "index":39,
@@ -526,7 +569,8 @@
             "value_score":64.1568570344,
             "region":"서울시 용산구",
             "region_code":"Seoul",
-            "sub_region_code":"1117000000_Seoul_Yongsan"
+            "sub_region_code":"1117000000_Seoul_Yongsan",
+            "shorten_url":"https:\/\/me2.do\/xNoXKRHu"
         },
         {
             "index":40,
@@ -538,7 +582,8 @@
             "value_score":61.9195,
             "region":"서울시 용산구",
             "region_code":"Seoul",
-            "sub_region_code":"1117000000_Seoul_Yongsan"
+            "sub_region_code":"1117000000_Seoul_Yongsan",
+            "shorten_url":"https:\/\/me2.do\/xNoXKRHu"
         },
         {
             "index":41,
@@ -550,7 +595,8 @@
             "value_score":59.162,
             "region":"서울시 용산구",
             "region_code":"Seoul",
-            "sub_region_code":"1117000000_Seoul_Yongsan"
+            "sub_region_code":"1117000000_Seoul_Yongsan",
+            "shorten_url":"https:\/\/me2.do\/xNoXKRHu"
         },
         {
             "index":42,
@@ -562,7 +608,8 @@
             "value_score":59.017,
             "region":"서울시 용산구",
             "region_code":"Seoul",
-            "sub_region_code":"1117000000_Seoul_Yongsan"
+            "sub_region_code":"1117000000_Seoul_Yongsan",
+            "shorten_url":"https:\/\/me2.do\/xNoXKRHu"
         },
         {
             "index":43,
@@ -574,7 +621,8 @@
             "value_score":58.6195,
             "region":"서울시 용산구",
             "region_code":"Seoul",
-            "sub_region_code":"1117000000_Seoul_Yongsan"
+            "sub_region_code":"1117000000_Seoul_Yongsan",
+            "shorten_url":"https:\/\/me2.do\/xNoXKRHu"
         },
         {
             "index":44,
@@ -586,7 +634,8 @@
             "value_score":58.4195,
             "region":"서울시 용산구",
             "region_code":"Seoul",
-            "sub_region_code":"1117000000_Seoul_Yongsan"
+            "sub_region_code":"1117000000_Seoul_Yongsan",
+            "shorten_url":"https:\/\/me2.do\/xNoXKRHu"
         },
         {
             "index":45,
@@ -598,7 +647,8 @@
             "value_score":57.0995,
             "region":"서울시 용산구",
             "region_code":"Seoul",
-            "sub_region_code":"1117000000_Seoul_Yongsan"
+            "sub_region_code":"1117000000_Seoul_Yongsan",
+            "shorten_url":"https:\/\/me2.do\/xNoXKRHu"
         },
         {
             "index":46,
@@ -610,7 +660,8 @@
             "value_score":56.8905,
             "region":"서울시 용산구",
             "region_code":"Seoul",
-            "sub_region_code":"1117000000_Seoul_Yongsan"
+            "sub_region_code":"1117000000_Seoul_Yongsan",
+            "shorten_url":"https:\/\/me2.do\/xNoXKRHu"
         },
         {
             "index":47,
@@ -622,7 +673,8 @@
             "value_score":56.6965,
             "region":"서울시 용산구",
             "region_code":"Seoul",
-            "sub_region_code":"1117000000_Seoul_Yongsan"
+            "sub_region_code":"1117000000_Seoul_Yongsan",
+            "shorten_url":"https:\/\/me2.do\/xNoXKRHu"
         },
         {
             "index":48,
@@ -634,7 +686,8 @@
             "value_score":56.4905,
             "region":"서울시 용산구",
             "region_code":"Seoul",
-            "sub_region_code":"1117000000_Seoul_Yongsan"
+            "sub_region_code":"1117000000_Seoul_Yongsan",
+            "shorten_url":"https:\/\/me2.do\/xNoXKRHu"
         },
         {
             "index":49,
@@ -646,7 +699,8 @@
             "value_score":56.2465,
             "region":"서울시 용산구",
             "region_code":"Seoul",
-            "sub_region_code":"1117000000_Seoul_Yongsan"
+            "sub_region_code":"1117000000_Seoul_Yongsan",
+            "shorten_url":"https:\/\/me2.do\/xNoXKRHu"
         }
     ]
 }

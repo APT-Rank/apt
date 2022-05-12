@@ -40,6 +40,10 @@
             {
                 "name":"sub_region_code",
                 "type":"string"
+            },
+            {
+                "name":"shorten_url",
+                "type":"string"
             }
         ],
         "primaryKey":[
@@ -58,7 +62,8 @@
             "value_score":55.50225,
             "region":"인천시 연수구",
             "region_code":"Incheon",
-            "sub_region_code":"2818500000_Incheon_Yeonsu"
+            "sub_region_code":"2818500000_Incheon_Yeonsu",
+            "shorten_url":"https:\/\/me2.do\/GNBLMdGJ"
         },
         {
             "index":1,
@@ -70,7 +75,8 @@
             "value_score":54.0425,
             "region":"인천시 연수구",
             "region_code":"Incheon",
-            "sub_region_code":"2818500000_Incheon_Yeonsu"
+            "sub_region_code":"2818500000_Incheon_Yeonsu",
+            "shorten_url":"https:\/\/me2.do\/GNBLMdGJ"
         },
         {
             "index":2,
@@ -82,7 +88,8 @@
             "value_score":52.8604,
             "region":"인천시 연수구",
             "region_code":"Incheon",
-            "sub_region_code":"2818500000_Incheon_Yeonsu"
+            "sub_region_code":"2818500000_Incheon_Yeonsu",
+            "shorten_url":"https:\/\/me2.do\/GNBLMdGJ"
         },
         {
             "index":3,
@@ -94,7 +101,8 @@
             "value_score":52.838,
             "region":"인천시 연수구",
             "region_code":"Incheon",
-            "sub_region_code":"2818500000_Incheon_Yeonsu"
+            "sub_region_code":"2818500000_Incheon_Yeonsu",
+            "shorten_url":"https:\/\/me2.do\/GNBLMdGJ"
         },
         {
             "index":4,
@@ -106,7 +114,8 @@
             "value_score":52.73415,
             "region":"인천시 연수구",
             "region_code":"Incheon",
-            "sub_region_code":"2818500000_Incheon_Yeonsu"
+            "sub_region_code":"2818500000_Incheon_Yeonsu",
+            "shorten_url":"https:\/\/me2.do\/GNBLMdGJ"
         },
         {
             "index":5,
@@ -118,7 +127,8 @@
             "value_score":52.538,
             "region":"인천시 연수구",
             "region_code":"Incheon",
-            "sub_region_code":"2818500000_Incheon_Yeonsu"
+            "sub_region_code":"2818500000_Incheon_Yeonsu",
+            "shorten_url":"https:\/\/me2.do\/GNBLMdGJ"
         },
         {
             "index":6,
@@ -130,7 +140,8 @@
             "value_score":51.30225,
             "region":"인천시 연수구",
             "region_code":"Incheon",
-            "sub_region_code":"2818500000_Incheon_Yeonsu"
+            "sub_region_code":"2818500000_Incheon_Yeonsu",
+            "shorten_url":"https:\/\/me2.do\/GNBLMdGJ"
         },
         {
             "index":7,
@@ -142,7 +153,8 @@
             "value_score":51.088,
             "region":"인천시 연수구",
             "region_code":"Incheon",
-            "sub_region_code":"2818500000_Incheon_Yeonsu"
+            "sub_region_code":"2818500000_Incheon_Yeonsu",
+            "shorten_url":"https:\/\/me2.do\/GNBLMdGJ"
         },
         {
             "index":8,
@@ -154,7 +166,8 @@
             "value_score":51.01215,
             "region":"인천시 연수구",
             "region_code":"Incheon",
-            "sub_region_code":"2818500000_Incheon_Yeonsu"
+            "sub_region_code":"2818500000_Incheon_Yeonsu",
+            "shorten_url":"https:\/\/me2.do\/GNBLMdGJ"
         },
         {
             "index":9,
@@ -166,7 +179,8 @@
             "value_score":50.995615299,
             "region":"인천시 연수구",
             "region_code":"Incheon",
-            "sub_region_code":"2818500000_Incheon_Yeonsu"
+            "sub_region_code":"2818500000_Incheon_Yeonsu",
+            "shorten_url":"https:\/\/me2.do\/GNBLMdGJ"
         },
         {
             "index":10,
@@ -178,7 +192,8 @@
             "value_score":69.984,
             "region":"인천시 연수구",
             "region_code":"Incheon",
-            "sub_region_code":"2818500000_Incheon_Yeonsu"
+            "sub_region_code":"2818500000_Incheon_Yeonsu",
+            "shorten_url":"https:\/\/me2.do\/GNBLMdGJ"
         },
         {
             "index":11,
@@ -190,7 +205,8 @@
             "value_score":67.155,
             "region":"인천시 연수구",
             "region_code":"Incheon",
-            "sub_region_code":"2818500000_Incheon_Yeonsu"
+            "sub_region_code":"2818500000_Incheon_Yeonsu",
+            "shorten_url":"https:\/\/me2.do\/GNBLMdGJ"
         },
         {
             "index":12,
@@ -202,7 +218,8 @@
             "value_score":66.385,
             "region":"인천시 연수구",
             "region_code":"Incheon",
-            "sub_region_code":"2818500000_Incheon_Yeonsu"
+            "sub_region_code":"2818500000_Incheon_Yeonsu",
+            "shorten_url":"https:\/\/me2.do\/GNBLMdGJ"
         },
         {
             "index":13,
@@ -214,7 +231,8 @@
             "value_score":65.405,
             "region":"인천시 연수구",
             "region_code":"Incheon",
-            "sub_region_code":"2818500000_Incheon_Yeonsu"
+            "sub_region_code":"2818500000_Incheon_Yeonsu",
+            "shorten_url":"https:\/\/me2.do\/GNBLMdGJ"
         },
         {
             "index":14,
@@ -226,7 +244,8 @@
             "value_score":65.005,
             "region":"인천시 연수구",
             "region_code":"Incheon",
-            "sub_region_code":"2818500000_Incheon_Yeonsu"
+            "sub_region_code":"2818500000_Incheon_Yeonsu",
+            "shorten_url":"https:\/\/me2.do\/GNBLMdGJ"
         },
         {
             "index":15,
@@ -238,7 +257,8 @@
             "value_score":64.451,
             "region":"인천시 연수구",
             "region_code":"Incheon",
-            "sub_region_code":"2818500000_Incheon_Yeonsu"
+            "sub_region_code":"2818500000_Incheon_Yeonsu",
+            "shorten_url":"https:\/\/me2.do\/GNBLMdGJ"
         },
         {
             "index":16,
@@ -250,7 +270,8 @@
             "value_score":64.2662,
             "region":"인천시 연수구",
             "region_code":"Incheon",
-            "sub_region_code":"2818500000_Incheon_Yeonsu"
+            "sub_region_code":"2818500000_Incheon_Yeonsu",
+            "shorten_url":"https:\/\/me2.do\/GNBLMdGJ"
         },
         {
             "index":17,
@@ -262,7 +283,8 @@
             "value_score":64.1564,
             "region":"인천시 연수구",
             "region_code":"Incheon",
-            "sub_region_code":"2818500000_Incheon_Yeonsu"
+            "sub_region_code":"2818500000_Incheon_Yeonsu",
+            "shorten_url":"https:\/\/me2.do\/GNBLMdGJ"
         },
         {
             "index":18,
@@ -274,7 +296,8 @@
             "value_score":63.7758,
             "region":"인천시 연수구",
             "region_code":"Incheon",
-            "sub_region_code":"2818500000_Incheon_Yeonsu"
+            "sub_region_code":"2818500000_Incheon_Yeonsu",
+            "shorten_url":"https:\/\/me2.do\/GNBLMdGJ"
         },
         {
             "index":19,
@@ -286,7 +309,8 @@
             "value_score":63.7758,
             "region":"인천시 연수구",
             "region_code":"Incheon",
-            "sub_region_code":"2818500000_Incheon_Yeonsu"
+            "sub_region_code":"2818500000_Incheon_Yeonsu",
+            "shorten_url":"https:\/\/me2.do\/GNBLMdGJ"
         },
         {
             "index":20,
@@ -298,7 +322,8 @@
             "value_score":56.70225,
             "region":"인천시 연수구",
             "region_code":"Incheon",
-            "sub_region_code":"2818500000_Incheon_Yeonsu"
+            "sub_region_code":"2818500000_Incheon_Yeonsu",
+            "shorten_url":"https:\/\/me2.do\/GNBLMdGJ"
         },
         {
             "index":21,
@@ -310,7 +335,8 @@
             "value_score":54.7925,
             "region":"인천시 연수구",
             "region_code":"Incheon",
-            "sub_region_code":"2818500000_Incheon_Yeonsu"
+            "sub_region_code":"2818500000_Incheon_Yeonsu",
+            "shorten_url":"https:\/\/me2.do\/GNBLMdGJ"
         },
         {
             "index":22,
@@ -322,7 +348,8 @@
             "value_score":52.4425,
             "region":"인천시 연수구",
             "region_code":"Incheon",
-            "sub_region_code":"2818500000_Incheon_Yeonsu"
+            "sub_region_code":"2818500000_Incheon_Yeonsu",
+            "shorten_url":"https:\/\/me2.do\/GNBLMdGJ"
         },
         {
             "index":23,
@@ -334,7 +361,8 @@
             "value_score":52.363,
             "region":"인천시 연수구",
             "region_code":"Incheon",
-            "sub_region_code":"2818500000_Incheon_Yeonsu"
+            "sub_region_code":"2818500000_Incheon_Yeonsu",
+            "shorten_url":"https:\/\/me2.do\/GNBLMdGJ"
         },
         {
             "index":24,
@@ -346,7 +374,8 @@
             "value_score":52.2854,
             "region":"인천시 연수구",
             "region_code":"Incheon",
-            "sub_region_code":"2818500000_Incheon_Yeonsu"
+            "sub_region_code":"2818500000_Incheon_Yeonsu",
+            "shorten_url":"https:\/\/me2.do\/GNBLMdGJ"
         },
         {
             "index":25,
@@ -358,7 +387,8 @@
             "value_score":52.238,
             "region":"인천시 연수구",
             "region_code":"Incheon",
-            "sub_region_code":"2818500000_Incheon_Yeonsu"
+            "sub_region_code":"2818500000_Incheon_Yeonsu",
+            "shorten_url":"https:\/\/me2.do\/GNBLMdGJ"
         },
         {
             "index":26,
@@ -370,7 +400,8 @@
             "value_score":51.83425,
             "region":"인천시 연수구",
             "region_code":"Incheon",
-            "sub_region_code":"2818500000_Incheon_Yeonsu"
+            "sub_region_code":"2818500000_Incheon_Yeonsu",
+            "shorten_url":"https:\/\/me2.do\/GNBLMdGJ"
         },
         {
             "index":27,
@@ -382,7 +413,8 @@
             "value_score":51.5354,
             "region":"인천시 연수구",
             "region_code":"Incheon",
-            "sub_region_code":"2818500000_Incheon_Yeonsu"
+            "sub_region_code":"2818500000_Incheon_Yeonsu",
+            "shorten_url":"https:\/\/me2.do\/GNBLMdGJ"
         },
         {
             "index":28,
@@ -394,7 +426,8 @@
             "value_score":51.38715,
             "region":"인천시 연수구",
             "region_code":"Incheon",
-            "sub_region_code":"2818500000_Incheon_Yeonsu"
+            "sub_region_code":"2818500000_Incheon_Yeonsu",
+            "shorten_url":"https:\/\/me2.do\/GNBLMdGJ"
         },
         {
             "index":29,
@@ -406,7 +439,8 @@
             "value_score":51.13415,
             "region":"인천시 연수구",
             "region_code":"Incheon",
-            "sub_region_code":"2818500000_Incheon_Yeonsu"
+            "sub_region_code":"2818500000_Incheon_Yeonsu",
+            "shorten_url":"https:\/\/me2.do\/GNBLMdGJ"
         },
         {
             "index":30,
@@ -418,7 +452,8 @@
             "value_score":57.41,
             "region":"인천시 연수구",
             "region_code":"Incheon",
-            "sub_region_code":"2818500000_Incheon_Yeonsu"
+            "sub_region_code":"2818500000_Incheon_Yeonsu",
+            "shorten_url":"https:\/\/me2.do\/GNBLMdGJ"
         },
         {
             "index":31,
@@ -430,7 +465,8 @@
             "value_score":56.984,
             "region":"인천시 연수구",
             "region_code":"Incheon",
-            "sub_region_code":"2818500000_Incheon_Yeonsu"
+            "sub_region_code":"2818500000_Incheon_Yeonsu",
+            "shorten_url":"https:\/\/me2.do\/GNBLMdGJ"
         },
         {
             "index":32,
@@ -442,7 +478,8 @@
             "value_score":55.8593588316,
             "region":"인천시 연수구",
             "region_code":"Incheon",
-            "sub_region_code":"2818500000_Incheon_Yeonsu"
+            "sub_region_code":"2818500000_Incheon_Yeonsu",
+            "shorten_url":"https:\/\/me2.do\/GNBLMdGJ"
         },
         {
             "index":33,
@@ -454,7 +491,8 @@
             "value_score":54.40425,
             "region":"인천시 연수구",
             "region_code":"Incheon",
-            "sub_region_code":"2818500000_Incheon_Yeonsu"
+            "sub_region_code":"2818500000_Incheon_Yeonsu",
+            "shorten_url":"https:\/\/me2.do\/GNBLMdGJ"
         },
         {
             "index":34,
@@ -466,7 +504,8 @@
             "value_score":54.1375,
             "region":"인천시 연수구",
             "region_code":"Incheon",
-            "sub_region_code":"2818500000_Incheon_Yeonsu"
+            "sub_region_code":"2818500000_Incheon_Yeonsu",
+            "shorten_url":"https:\/\/me2.do\/GNBLMdGJ"
         },
         {
             "index":35,
@@ -478,7 +517,8 @@
             "value_score":53.78,
             "region":"인천시 연수구",
             "region_code":"Incheon",
-            "sub_region_code":"2818500000_Incheon_Yeonsu"
+            "sub_region_code":"2818500000_Incheon_Yeonsu",
+            "shorten_url":"https:\/\/me2.do\/GNBLMdGJ"
         },
         {
             "index":36,
@@ -490,7 +530,8 @@
             "value_score":53.50375,
             "region":"인천시 연수구",
             "region_code":"Incheon",
-            "sub_region_code":"2818500000_Incheon_Yeonsu"
+            "sub_region_code":"2818500000_Incheon_Yeonsu",
+            "shorten_url":"https:\/\/me2.do\/GNBLMdGJ"
         },
         {
             "index":37,
@@ -502,7 +543,8 @@
             "value_score":53.049,
             "region":"인천시 연수구",
             "region_code":"Incheon",
-            "sub_region_code":"2818500000_Incheon_Yeonsu"
+            "sub_region_code":"2818500000_Incheon_Yeonsu",
+            "shorten_url":"https:\/\/me2.do\/GNBLMdGJ"
         },
         {
             "index":38,
@@ -514,7 +556,8 @@
             "value_score":52.80375,
             "region":"인천시 연수구",
             "region_code":"Incheon",
-            "sub_region_code":"2818500000_Incheon_Yeonsu"
+            "sub_region_code":"2818500000_Incheon_Yeonsu",
+            "shorten_url":"https:\/\/me2.do\/GNBLMdGJ"
         },
         {
             "index":39,
@@ -526,7 +569,8 @@
             "value_score":52.69025,
             "region":"인천시 연수구",
             "region_code":"Incheon",
-            "sub_region_code":"2818500000_Incheon_Yeonsu"
+            "sub_region_code":"2818500000_Incheon_Yeonsu",
+            "shorten_url":"https:\/\/me2.do\/GNBLMdGJ"
         },
         {
             "index":40,
@@ -538,7 +582,8 @@
             "value_score":63.96,
             "region":"인천시 연수구",
             "region_code":"Incheon",
-            "sub_region_code":"2818500000_Incheon_Yeonsu"
+            "sub_region_code":"2818500000_Incheon_Yeonsu",
+            "shorten_url":"https:\/\/me2.do\/GNBLMdGJ"
         },
         {
             "index":41,
@@ -550,7 +595,8 @@
             "value_score":63.498,
             "region":"인천시 연수구",
             "region_code":"Incheon",
-            "sub_region_code":"2818500000_Incheon_Yeonsu"
+            "sub_region_code":"2818500000_Incheon_Yeonsu",
+            "shorten_url":"https:\/\/me2.do\/GNBLMdGJ"
         },
         {
             "index":42,
@@ -562,7 +608,8 @@
             "value_score":62.66,
             "region":"인천시 연수구",
             "region_code":"Incheon",
-            "sub_region_code":"2818500000_Incheon_Yeonsu"
+            "sub_region_code":"2818500000_Incheon_Yeonsu",
+            "shorten_url":"https:\/\/me2.do\/GNBLMdGJ"
         },
         {
             "index":43,
@@ -574,7 +621,8 @@
             "value_score":61.76,
             "region":"인천시 연수구",
             "region_code":"Incheon",
-            "sub_region_code":"2818500000_Incheon_Yeonsu"
+            "sub_region_code":"2818500000_Incheon_Yeonsu",
+            "shorten_url":"https:\/\/me2.do\/GNBLMdGJ"
         },
         {
             "index":44,
@@ -586,7 +634,8 @@
             "value_score":60.76,
             "region":"인천시 연수구",
             "region_code":"Incheon",
-            "sub_region_code":"2818500000_Incheon_Yeonsu"
+            "sub_region_code":"2818500000_Incheon_Yeonsu",
+            "shorten_url":"https:\/\/me2.do\/GNBLMdGJ"
         },
         {
             "index":45,
@@ -598,7 +647,8 @@
             "value_score":60.6085,
             "region":"인천시 연수구",
             "region_code":"Incheon",
-            "sub_region_code":"2818500000_Incheon_Yeonsu"
+            "sub_region_code":"2818500000_Incheon_Yeonsu",
+            "shorten_url":"https:\/\/me2.do\/GNBLMdGJ"
         },
         {
             "index":46,
@@ -610,7 +660,8 @@
             "value_score":60.56,
             "region":"인천시 연수구",
             "region_code":"Incheon",
-            "sub_region_code":"2818500000_Incheon_Yeonsu"
+            "sub_region_code":"2818500000_Incheon_Yeonsu",
+            "shorten_url":"https:\/\/me2.do\/GNBLMdGJ"
         },
         {
             "index":47,
@@ -622,7 +673,8 @@
             "value_score":60.3895,
             "region":"인천시 연수구",
             "region_code":"Incheon",
-            "sub_region_code":"2818500000_Incheon_Yeonsu"
+            "sub_region_code":"2818500000_Incheon_Yeonsu",
+            "shorten_url":"https:\/\/me2.do\/GNBLMdGJ"
         },
         {
             "index":48,
@@ -634,7 +686,8 @@
             "value_score":59.7695,
             "region":"인천시 연수구",
             "region_code":"Incheon",
-            "sub_region_code":"2818500000_Incheon_Yeonsu"
+            "sub_region_code":"2818500000_Incheon_Yeonsu",
+            "shorten_url":"https:\/\/me2.do\/GNBLMdGJ"
         },
         {
             "index":49,
@@ -646,7 +699,8 @@
             "value_score":59.598,
             "region":"인천시 연수구",
             "region_code":"Incheon",
-            "sub_region_code":"2818500000_Incheon_Yeonsu"
+            "sub_region_code":"2818500000_Incheon_Yeonsu",
+            "shorten_url":"https:\/\/me2.do\/GNBLMdGJ"
         }
     ]
 }

@@ -40,6 +40,10 @@
             {
                 "name":"sub_region_code",
                 "type":"string"
+            },
+            {
+                "name":"shorten_url",
+                "type":"string"
             }
         ],
         "primaryKey":[
@@ -58,7 +62,8 @@
             "value_score":33.587,
             "region":"충청북도 괴산군",
             "region_code":"Chungcheongbukdo",
-            "sub_region_code":"4376000000_Chungcheongbukdo_Goesan"
+            "sub_region_code":"4376000000_Chungcheongbukdo_Goesan",
+            "shorten_url":"https:\/\/me2.do\/xhArjsup"
         },
         {
             "index":1,
@@ -70,7 +75,8 @@
             "value_score":31.837,
             "region":"충청북도 괴산군",
             "region_code":"Chungcheongbukdo",
-            "sub_region_code":"4376000000_Chungcheongbukdo_Goesan"
+            "sub_region_code":"4376000000_Chungcheongbukdo_Goesan",
+            "shorten_url":"https:\/\/me2.do\/xhArjsup"
         },
         {
             "index":2,
@@ -82,7 +88,8 @@
             "value_score":28.1985,
             "region":"충청북도 괴산군",
             "region_code":"Chungcheongbukdo",
-            "sub_region_code":"4376000000_Chungcheongbukdo_Goesan"
+            "sub_region_code":"4376000000_Chungcheongbukdo_Goesan",
+            "shorten_url":"https:\/\/me2.do\/xhArjsup"
         },
         {
             "index":3,
@@ -94,7 +101,8 @@
             "value_score":33.205,
             "region":"충청북도 괴산군",
             "region_code":"Chungcheongbukdo",
-            "sub_region_code":"4376000000_Chungcheongbukdo_Goesan"
+            "sub_region_code":"4376000000_Chungcheongbukdo_Goesan",
+            "shorten_url":"https:\/\/me2.do\/xhArjsup"
         },
         {
             "index":4,
@@ -106,7 +114,8 @@
             "value_score":30.955,
             "region":"충청북도 괴산군",
             "region_code":"Chungcheongbukdo",
-            "sub_region_code":"4376000000_Chungcheongbukdo_Goesan"
+            "sub_region_code":"4376000000_Chungcheongbukdo_Goesan",
+            "shorten_url":"https:\/\/me2.do\/xhArjsup"
         },
         {
             "index":5,
@@ -118,7 +127,8 @@
             "value_score":25.9275,
             "region":"충청북도 괴산군",
             "region_code":"Chungcheongbukdo",
-            "sub_region_code":"4376000000_Chungcheongbukdo_Goesan"
+            "sub_region_code":"4376000000_Chungcheongbukdo_Goesan",
+            "shorten_url":"https:\/\/me2.do\/xhArjsup"
         },
         {
             "index":6,
@@ -130,7 +140,8 @@
             "value_score":25.9957894737,
             "region":"충청북도 괴산군",
             "region_code":"Chungcheongbukdo",
-            "sub_region_code":"4376000000_Chungcheongbukdo_Goesan"
+            "sub_region_code":"4376000000_Chungcheongbukdo_Goesan",
+            "shorten_url":"https:\/\/me2.do\/xhArjsup"
         },
         {
             "index":7,
@@ -142,7 +153,8 @@
             "value_score":25.7326315789,
             "region":"충청북도 괴산군",
             "region_code":"Chungcheongbukdo",
-            "sub_region_code":"4376000000_Chungcheongbukdo_Goesan"
+            "sub_region_code":"4376000000_Chungcheongbukdo_Goesan",
+            "shorten_url":"https:\/\/me2.do\/xhArjsup"
         },
         {
             "index":8,
@@ -154,7 +166,8 @@
             "value_score":25.4873684211,
             "region":"충청북도 괴산군",
             "region_code":"Chungcheongbukdo",
-            "sub_region_code":"4376000000_Chungcheongbukdo_Goesan"
+            "sub_region_code":"4376000000_Chungcheongbukdo_Goesan",
+            "shorten_url":"https:\/\/me2.do\/xhArjsup"
         },
         {
             "index":9,
@@ -166,7 +179,8 @@
             "value_score":34.16,
             "region":"충청북도 괴산군",
             "region_code":"Chungcheongbukdo",
-            "sub_region_code":"4376000000_Chungcheongbukdo_Goesan"
+            "sub_region_code":"4376000000_Chungcheongbukdo_Goesan",
+            "shorten_url":"https:\/\/me2.do\/xhArjsup"
         },
         {
             "index":10,
@@ -178,7 +192,8 @@
             "value_score":33.16,
             "region":"충청북도 괴산군",
             "region_code":"Chungcheongbukdo",
-            "sub_region_code":"4376000000_Chungcheongbukdo_Goesan"
+            "sub_region_code":"4376000000_Chungcheongbukdo_Goesan",
+            "shorten_url":"https:\/\/me2.do\/xhArjsup"
         },
         {
             "index":11,
@@ -190,7 +205,8 @@
             "value_score":31.605,
             "region":"충청북도 괴산군",
             "region_code":"Chungcheongbukdo",
-            "sub_region_code":"4376000000_Chungcheongbukdo_Goesan"
+            "sub_region_code":"4376000000_Chungcheongbukdo_Goesan",
+            "shorten_url":"https:\/\/me2.do\/xhArjsup"
         }
     ]
 }

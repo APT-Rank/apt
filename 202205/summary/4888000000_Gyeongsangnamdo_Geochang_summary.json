@@ -40,6 +40,10 @@
             {
                 "name":"sub_region_code",
                 "type":"string"
+            },
+            {
+                "name":"shorten_url",
+                "type":"string"
             }
         ],
         "primaryKey":[
@@ -58,7 +62,8 @@
             "value_score":49.08285,
             "region":"경상남도 거창군",
             "region_code":"Gyeongsangnamdo",
-            "sub_region_code":"4888000000_Gyeongsangnamdo_Geochang"
+            "sub_region_code":"4888000000_Gyeongsangnamdo_Geochang",
+            "shorten_url":"https:\/\/me2.do\/FOmdHuUz"
         },
         {
             "index":1,
@@ -70,7 +75,8 @@
             "value_score":47.3653,
             "region":"경상남도 거창군",
             "region_code":"Gyeongsangnamdo",
-            "sub_region_code":"4888000000_Gyeongsangnamdo_Geochang"
+            "sub_region_code":"4888000000_Gyeongsangnamdo_Geochang",
+            "shorten_url":"https:\/\/me2.do\/FOmdHuUz"
         },
         {
             "index":2,
@@ -82,7 +88,8 @@
             "value_score":47.2153,
             "region":"경상남도 거창군",
             "region_code":"Gyeongsangnamdo",
-            "sub_region_code":"4888000000_Gyeongsangnamdo_Geochang"
+            "sub_region_code":"4888000000_Gyeongsangnamdo_Geochang",
+            "shorten_url":"https:\/\/me2.do\/FOmdHuUz"
         },
         {
             "index":3,
@@ -94,7 +101,8 @@
             "value_score":43.1653,
             "region":"경상남도 거창군",
             "region_code":"Gyeongsangnamdo",
-            "sub_region_code":"4888000000_Gyeongsangnamdo_Geochang"
+            "sub_region_code":"4888000000_Gyeongsangnamdo_Geochang",
+            "shorten_url":"https:\/\/me2.do\/FOmdHuUz"
         },
         {
             "index":4,
@@ -106,7 +114,8 @@
             "value_score":40.25785,
             "region":"경상남도 거창군",
             "region_code":"Gyeongsangnamdo",
-            "sub_region_code":"4888000000_Gyeongsangnamdo_Geochang"
+            "sub_region_code":"4888000000_Gyeongsangnamdo_Geochang",
+            "shorten_url":"https:\/\/me2.do\/FOmdHuUz"
         },
         {
             "index":5,
@@ -118,7 +127,8 @@
             "value_score":39.454,
             "region":"경상남도 거창군",
             "region_code":"Gyeongsangnamdo",
-            "sub_region_code":"4888000000_Gyeongsangnamdo_Geochang"
+            "sub_region_code":"4888000000_Gyeongsangnamdo_Geochang",
+            "shorten_url":"https:\/\/me2.do\/FOmdHuUz"
         },
         {
             "index":6,
@@ -130,7 +140,8 @@
             "value_score":37.7153,
             "region":"경상남도 거창군",
             "region_code":"Gyeongsangnamdo",
-            "sub_region_code":"4888000000_Gyeongsangnamdo_Geochang"
+            "sub_region_code":"4888000000_Gyeongsangnamdo_Geochang",
+            "shorten_url":"https:\/\/me2.do\/FOmdHuUz"
         },
         {
             "index":7,
@@ -142,7 +153,8 @@
             "value_score":37.3153,
             "region":"경상남도 거창군",
             "region_code":"Gyeongsangnamdo",
-            "sub_region_code":"4888000000_Gyeongsangnamdo_Geochang"
+            "sub_region_code":"4888000000_Gyeongsangnamdo_Geochang",
+            "shorten_url":"https:\/\/me2.do\/FOmdHuUz"
         },
         {
             "index":8,
@@ -154,7 +166,8 @@
             "value_score":36.654,
             "region":"경상남도 거창군",
             "region_code":"Gyeongsangnamdo",
-            "sub_region_code":"4888000000_Gyeongsangnamdo_Geochang"
+            "sub_region_code":"4888000000_Gyeongsangnamdo_Geochang",
+            "shorten_url":"https:\/\/me2.do\/FOmdHuUz"
         },
         {
             "index":9,
@@ -166,7 +179,8 @@
             "value_score":32.98285,
             "region":"경상남도 거창군",
             "region_code":"Gyeongsangnamdo",
-            "sub_region_code":"4888000000_Gyeongsangnamdo_Geochang"
+            "sub_region_code":"4888000000_Gyeongsangnamdo_Geochang",
+            "shorten_url":"https:\/\/me2.do\/FOmdHuUz"
         },
         {
             "index":10,
@@ -178,7 +192,8 @@
             "value_score":51.58775,
             "region":"경상남도 거창군",
             "region_code":"Gyeongsangnamdo",
-            "sub_region_code":"4888000000_Gyeongsangnamdo_Geochang"
+            "sub_region_code":"4888000000_Gyeongsangnamdo_Geochang",
+            "shorten_url":"https:\/\/me2.do\/FOmdHuUz"
         },
         {
             "index":11,
@@ -190,7 +205,8 @@
             "value_score":48.7895,
             "region":"경상남도 거창군",
             "region_code":"Gyeongsangnamdo",
-            "sub_region_code":"4888000000_Gyeongsangnamdo_Geochang"
+            "sub_region_code":"4888000000_Gyeongsangnamdo_Geochang",
+            "shorten_url":"https:\/\/me2.do\/FOmdHuUz"
         },
         {
             "index":12,
@@ -202,7 +218,8 @@
             "value_score":44.9395,
             "region":"경상남도 거창군",
             "region_code":"Gyeongsangnamdo",
-            "sub_region_code":"4888000000_Gyeongsangnamdo_Geochang"
+            "sub_region_code":"4888000000_Gyeongsangnamdo_Geochang",
+            "shorten_url":"https:\/\/me2.do\/FOmdHuUz"
         },
         {
             "index":13,
@@ -214,7 +231,8 @@
             "value_score":41.11,
             "region":"경상남도 거창군",
             "region_code":"Gyeongsangnamdo",
-            "sub_region_code":"4888000000_Gyeongsangnamdo_Geochang"
+            "sub_region_code":"4888000000_Gyeongsangnamdo_Geochang",
+            "shorten_url":"https:\/\/me2.do\/FOmdHuUz"
         },
         {
             "index":14,
@@ -226,7 +244,8 @@
             "value_score":39.9395,
             "region":"경상남도 거창군",
             "region_code":"Gyeongsangnamdo",
-            "sub_region_code":"4888000000_Gyeongsangnamdo_Geochang"
+            "sub_region_code":"4888000000_Gyeongsangnamdo_Geochang",
+            "shorten_url":"https:\/\/me2.do\/FOmdHuUz"
         },
         {
             "index":15,
@@ -238,7 +257,8 @@
             "value_score":39.86275,
             "region":"경상남도 거창군",
             "region_code":"Gyeongsangnamdo",
-            "sub_region_code":"4888000000_Gyeongsangnamdo_Geochang"
+            "sub_region_code":"4888000000_Gyeongsangnamdo_Geochang",
+            "shorten_url":"https:\/\/me2.do\/FOmdHuUz"
         },
         {
             "index":16,
@@ -250,7 +270,8 @@
             "value_score":37.61,
             "region":"경상남도 거창군",
             "region_code":"Gyeongsangnamdo",
-            "sub_region_code":"4888000000_Gyeongsangnamdo_Geochang"
+            "sub_region_code":"4888000000_Gyeongsangnamdo_Geochang",
+            "shorten_url":"https:\/\/me2.do\/FOmdHuUz"
         },
         {
             "index":17,
@@ -262,7 +283,8 @@
             "value_score":36.6895,
             "region":"경상남도 거창군",
             "region_code":"Gyeongsangnamdo",
-            "sub_region_code":"4888000000_Gyeongsangnamdo_Geochang"
+            "sub_region_code":"4888000000_Gyeongsangnamdo_Geochang",
+            "shorten_url":"https:\/\/me2.do\/FOmdHuUz"
         },
         {
             "index":18,
@@ -274,7 +296,8 @@
             "value_score":36.1895,
             "region":"경상남도 거창군",
             "region_code":"Gyeongsangnamdo",
-            "sub_region_code":"4888000000_Gyeongsangnamdo_Geochang"
+            "sub_region_code":"4888000000_Gyeongsangnamdo_Geochang",
+            "shorten_url":"https:\/\/me2.do\/FOmdHuUz"
         },
         {
             "index":19,
@@ -286,7 +309,8 @@
             "value_score":31.33775,
             "region":"경상남도 거창군",
             "region_code":"Gyeongsangnamdo",
-            "sub_region_code":"4888000000_Gyeongsangnamdo_Geochang"
+            "sub_region_code":"4888000000_Gyeongsangnamdo_Geochang",
+            "shorten_url":"https:\/\/me2.do\/FOmdHuUz"
         },
         {
             "index":20,
@@ -298,7 +322,8 @@
             "value_score":38.9762105263,
             "region":"경상남도 거창군",
             "region_code":"Gyeongsangnamdo",
-            "sub_region_code":"4888000000_Gyeongsangnamdo_Geochang"
+            "sub_region_code":"4888000000_Gyeongsangnamdo_Geochang",
+            "shorten_url":"https:\/\/me2.do\/FOmdHuUz"
         },
         {
             "index":21,
@@ -310,7 +335,8 @@
             "value_score":36.9498947368,
             "region":"경상남도 거창군",
             "region_code":"Gyeongsangnamdo",
-            "sub_region_code":"4888000000_Gyeongsangnamdo_Geochang"
+            "sub_region_code":"4888000000_Gyeongsangnamdo_Geochang",
+            "shorten_url":"https:\/\/me2.do\/FOmdHuUz"
         },
         {
             "index":22,
@@ -322,7 +348,8 @@
             "value_score":35.5634736842,
             "region":"경상남도 거창군",
             "region_code":"Gyeongsangnamdo",
-            "sub_region_code":"4888000000_Gyeongsangnamdo_Geochang"
+            "sub_region_code":"4888000000_Gyeongsangnamdo_Geochang",
+            "shorten_url":"https:\/\/me2.do\/FOmdHuUz"
         },
         {
             "index":23,
@@ -334,7 +361,8 @@
             "value_score":34.3003157895,
             "region":"경상남도 거창군",
             "region_code":"Gyeongsangnamdo",
-            "sub_region_code":"4888000000_Gyeongsangnamdo_Geochang"
+            "sub_region_code":"4888000000_Gyeongsangnamdo_Geochang",
+            "shorten_url":"https:\/\/me2.do\/FOmdHuUz"
         },
         {
             "index":24,
@@ -346,7 +374,8 @@
             "value_score":34.2442105263,
             "region":"경상남도 거창군",
             "region_code":"Gyeongsangnamdo",
-            "sub_region_code":"4888000000_Gyeongsangnamdo_Geochang"
+            "sub_region_code":"4888000000_Gyeongsangnamdo_Geochang",
+            "shorten_url":"https:\/\/me2.do\/FOmdHuUz"
         },
         {
             "index":25,
@@ -358,7 +387,8 @@
             "value_score":33.8709473684,
             "region":"경상남도 거창군",
             "region_code":"Gyeongsangnamdo",
-            "sub_region_code":"4888000000_Gyeongsangnamdo_Geochang"
+            "sub_region_code":"4888000000_Gyeongsangnamdo_Geochang",
+            "shorten_url":"https:\/\/me2.do\/FOmdHuUz"
         },
         {
             "index":26,
@@ -370,7 +400,8 @@
             "value_score":30.3183157895,
             "region":"경상남도 거창군",
             "region_code":"Gyeongsangnamdo",
-            "sub_region_code":"4888000000_Gyeongsangnamdo_Geochang"
+            "sub_region_code":"4888000000_Gyeongsangnamdo_Geochang",
+            "shorten_url":"https:\/\/me2.do\/FOmdHuUz"
         },
         {
             "index":27,
@@ -382,7 +413,8 @@
             "value_score":30.1604210526,
             "region":"경상남도 거창군",
             "region_code":"Gyeongsangnamdo",
-            "sub_region_code":"4888000000_Gyeongsangnamdo_Geochang"
+            "sub_region_code":"4888000000_Gyeongsangnamdo_Geochang",
+            "shorten_url":"https:\/\/me2.do\/FOmdHuUz"
         },
         {
             "index":28,
@@ -394,7 +426,8 @@
             "value_score":28.8003157895,
             "region":"경상남도 거창군",
             "region_code":"Gyeongsangnamdo",
-            "sub_region_code":"4888000000_Gyeongsangnamdo_Geochang"
+            "sub_region_code":"4888000000_Gyeongsangnamdo_Geochang",
+            "shorten_url":"https:\/\/me2.do\/FOmdHuUz"
         },
         {
             "index":29,
@@ -406,7 +439,8 @@
             "value_score":28.7178947368,
             "region":"경상남도 거창군",
             "region_code":"Gyeongsangnamdo",
-            "sub_region_code":"4888000000_Gyeongsangnamdo_Geochang"
+            "sub_region_code":"4888000000_Gyeongsangnamdo_Geochang",
+            "shorten_url":"https:\/\/me2.do\/FOmdHuUz"
         },
         {
             "index":30,
@@ -418,7 +452,8 @@
             "value_score":50.629,
             "region":"경상남도 거창군",
             "region_code":"Gyeongsangnamdo",
-            "sub_region_code":"4888000000_Gyeongsangnamdo_Geochang"
+            "sub_region_code":"4888000000_Gyeongsangnamdo_Geochang",
+            "shorten_url":"https:\/\/me2.do\/FOmdHuUz"
         },
         {
             "index":31,
@@ -430,7 +465,8 @@
             "value_score":48.004,
             "region":"경상남도 거창군",
             "region_code":"Gyeongsangnamdo",
-            "sub_region_code":"4888000000_Gyeongsangnamdo_Geochang"
+            "sub_region_code":"4888000000_Gyeongsangnamdo_Geochang",
+            "shorten_url":"https:\/\/me2.do\/FOmdHuUz"
         },
         {
             "index":32,
@@ -442,7 +478,8 @@
             "value_score":45.3255,
             "region":"경상남도 거창군",
             "region_code":"Gyeongsangnamdo",
-            "sub_region_code":"4888000000_Gyeongsangnamdo_Geochang"
+            "sub_region_code":"4888000000_Gyeongsangnamdo_Geochang",
+            "shorten_url":"https:\/\/me2.do\/FOmdHuUz"
         },
         {
             "index":33,
@@ -454,7 +491,8 @@
             "value_score":45.229,
             "region":"경상남도 거창군",
             "region_code":"Gyeongsangnamdo",
-            "sub_region_code":"4888000000_Gyeongsangnamdo_Geochang"
+            "sub_region_code":"4888000000_Gyeongsangnamdo_Geochang",
+            "shorten_url":"https:\/\/me2.do\/FOmdHuUz"
         },
         {
             "index":34,
@@ -466,7 +504,8 @@
             "value_score":40.8505,
             "region":"경상남도 거창군",
             "region_code":"Gyeongsangnamdo",
-            "sub_region_code":"4888000000_Gyeongsangnamdo_Geochang"
+            "sub_region_code":"4888000000_Gyeongsangnamdo_Geochang",
+            "shorten_url":"https:\/\/me2.do\/FOmdHuUz"
         },
         {
             "index":35,
@@ -478,7 +517,8 @@
             "value_score":39.254,
             "region":"경상남도 거창군",
             "region_code":"Gyeongsangnamdo",
-            "sub_region_code":"4888000000_Gyeongsangnamdo_Geochang"
+            "sub_region_code":"4888000000_Gyeongsangnamdo_Geochang",
+            "shorten_url":"https:\/\/me2.do\/FOmdHuUz"
         },
         {
             "index":36,
@@ -490,7 +530,8 @@
             "value_score":39.004,
             "region":"경상남도 거창군",
             "region_code":"Gyeongsangnamdo",
-            "sub_region_code":"4888000000_Gyeongsangnamdo_Geochang"
+            "sub_region_code":"4888000000_Gyeongsangnamdo_Geochang",
+            "shorten_url":"https:\/\/me2.do\/FOmdHuUz"
         },
         {
             "index":37,
@@ -502,7 +543,8 @@
             "value_score":36.97,
             "region":"경상남도 거창군",
             "region_code":"Gyeongsangnamdo",
-            "sub_region_code":"4888000000_Gyeongsangnamdo_Geochang"
+            "sub_region_code":"4888000000_Gyeongsangnamdo_Geochang",
+            "shorten_url":"https:\/\/me2.do\/FOmdHuUz"
         },
         {
             "index":38,
@@ -514,7 +556,8 @@
             "value_score":35.4505,
             "region":"경상남도 거창군",
             "region_code":"Gyeongsangnamdo",
-            "sub_region_code":"4888000000_Gyeongsangnamdo_Geochang"
+            "sub_region_code":"4888000000_Gyeongsangnamdo_Geochang",
+            "shorten_url":"https:\/\/me2.do\/FOmdHuUz"
         },
         {
             "index":39,
@@ -526,7 +569,8 @@
             "value_score":35.22,
             "region":"경상남도 거창군",
             "region_code":"Gyeongsangnamdo",
-            "sub_region_code":"4888000000_Gyeongsangnamdo_Geochang"
+            "sub_region_code":"4888000000_Gyeongsangnamdo_Geochang",
+            "shorten_url":"https:\/\/me2.do\/FOmdHuUz"
         }
     ]
 }

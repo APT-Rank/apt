@@ -40,6 +40,10 @@
             {
                 "name":"sub_region_code",
                 "type":"string"
+            },
+            {
+                "name":"shorten_url",
+                "type":"string"
             }
         ],
         "primaryKey":[
@@ -58,7 +62,8 @@
             "value_score":35.1081,
             "region":"강원도 양구군",
             "region_code":"Gangwondo",
-            "sub_region_code":"4280000000_Gangwondo_Yanggu"
+            "sub_region_code":"4280000000_Gangwondo_Yanggu",
+            "shorten_url":"https:\/\/me2.do\/53Xu7R2J"
         },
         {
             "index":1,
@@ -70,7 +75,8 @@
             "value_score":32.84425,
             "region":"강원도 양구군",
             "region_code":"Gangwondo",
-            "sub_region_code":"4280000000_Gangwondo_Yanggu"
+            "sub_region_code":"4280000000_Gangwondo_Yanggu",
+            "shorten_url":"https:\/\/me2.do\/53Xu7R2J"
         },
         {
             "index":2,
@@ -82,7 +88,8 @@
             "value_score":27.49425,
             "region":"강원도 양구군",
             "region_code":"Gangwondo",
-            "sub_region_code":"4280000000_Gangwondo_Yanggu"
+            "sub_region_code":"4280000000_Gangwondo_Yanggu",
+            "shorten_url":"https:\/\/me2.do\/53Xu7R2J"
         },
         {
             "index":3,
@@ -94,7 +101,8 @@
             "value_score":27.19425,
             "region":"강원도 양구군",
             "region_code":"Gangwondo",
-            "sub_region_code":"4280000000_Gangwondo_Yanggu"
+            "sub_region_code":"4280000000_Gangwondo_Yanggu",
+            "shorten_url":"https:\/\/me2.do\/53Xu7R2J"
         },
         {
             "index":4,
@@ -106,7 +114,8 @@
             "value_score":35.5415,
             "region":"강원도 양구군",
             "region_code":"Gangwondo",
-            "sub_region_code":"4280000000_Gangwondo_Yanggu"
+            "sub_region_code":"4280000000_Gangwondo_Yanggu",
+            "shorten_url":"https:\/\/me2.do\/53Xu7R2J"
         },
         {
             "index":5,
@@ -118,7 +127,8 @@
             "value_score":32.13875,
             "region":"강원도 양구군",
             "region_code":"Gangwondo",
-            "sub_region_code":"4280000000_Gangwondo_Yanggu"
+            "sub_region_code":"4280000000_Gangwondo_Yanggu",
+            "shorten_url":"https:\/\/me2.do\/53Xu7R2J"
         },
         {
             "index":6,
@@ -130,7 +140,8 @@
             "value_score":24.88875,
             "region":"강원도 양구군",
             "region_code":"Gangwondo",
-            "sub_region_code":"4280000000_Gangwondo_Yanggu"
+            "sub_region_code":"4280000000_Gangwondo_Yanggu",
+            "shorten_url":"https:\/\/me2.do\/53Xu7R2J"
         },
         {
             "index":7,
@@ -142,7 +153,8 @@
             "value_score":24.63875,
             "region":"강원도 양구군",
             "region_code":"Gangwondo",
-            "sub_region_code":"4280000000_Gangwondo_Yanggu"
+            "sub_region_code":"4280000000_Gangwondo_Yanggu",
+            "shorten_url":"https:\/\/me2.do\/53Xu7R2J"
         },
         {
             "index":8,
@@ -154,7 +166,8 @@
             "value_score":27.6576842105,
             "region":"강원도 양구군",
             "region_code":"Gangwondo",
-            "sub_region_code":"4280000000_Gangwondo_Yanggu"
+            "sub_region_code":"4280000000_Gangwondo_Yanggu",
+            "shorten_url":"https:\/\/me2.do\/53Xu7R2J"
         },
         {
             "index":9,
@@ -166,7 +179,8 @@
             "value_score":25.9647368421,
             "region":"강원도 양구군",
             "region_code":"Gangwondo",
-            "sub_region_code":"4280000000_Gangwondo_Yanggu"
+            "sub_region_code":"4280000000_Gangwondo_Yanggu",
+            "shorten_url":"https:\/\/me2.do\/53Xu7R2J"
         },
         {
             "index":10,
@@ -178,7 +192,8 @@
             "value_score":22.5173684211,
             "region":"강원도 양구군",
             "region_code":"Gangwondo",
-            "sub_region_code":"4280000000_Gangwondo_Yanggu"
+            "sub_region_code":"4280000000_Gangwondo_Yanggu",
+            "shorten_url":"https:\/\/me2.do\/53Xu7R2J"
         },
         {
             "index":11,
@@ -190,7 +205,8 @@
             "value_score":21.57,
             "region":"강원도 양구군",
             "region_code":"Gangwondo",
-            "sub_region_code":"4280000000_Gangwondo_Yanggu"
+            "sub_region_code":"4280000000_Gangwondo_Yanggu",
+            "shorten_url":"https:\/\/me2.do\/53Xu7R2J"
         },
         {
             "index":12,
@@ -202,7 +218,8 @@
             "value_score":34.458,
             "region":"강원도 양구군",
             "region_code":"Gangwondo",
-            "sub_region_code":"4280000000_Gangwondo_Yanggu"
+            "sub_region_code":"4280000000_Gangwondo_Yanggu",
+            "shorten_url":"https:\/\/me2.do\/53Xu7R2J"
         },
         {
             "index":13,
@@ -214,7 +231,8 @@
             "value_score":33.9025,
             "region":"강원도 양구군",
             "region_code":"Gangwondo",
-            "sub_region_code":"4280000000_Gangwondo_Yanggu"
+            "sub_region_code":"4280000000_Gangwondo_Yanggu",
+            "shorten_url":"https:\/\/me2.do\/53Xu7R2J"
         },
         {
             "index":14,
@@ -226,7 +244,8 @@
             "value_score":31.7775,
             "region":"강원도 양구군",
             "region_code":"Gangwondo",
-            "sub_region_code":"4280000000_Gangwondo_Yanggu"
+            "sub_region_code":"4280000000_Gangwondo_Yanggu",
+            "shorten_url":"https:\/\/me2.do\/53Xu7R2J"
         },
         {
             "index":15,
@@ -238,7 +257,8 @@
             "value_score":30.6525,
             "region":"강원도 양구군",
             "region_code":"Gangwondo",
-            "sub_region_code":"4280000000_Gangwondo_Yanggu"
+            "sub_region_code":"4280000000_Gangwondo_Yanggu",
+            "shorten_url":"https:\/\/me2.do\/53Xu7R2J"
         }
     ]
 }

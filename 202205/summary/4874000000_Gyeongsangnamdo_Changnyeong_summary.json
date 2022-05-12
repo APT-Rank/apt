@@ -40,6 +40,10 @@
             {
                 "name":"sub_region_code",
                 "type":"string"
+            },
+            {
+                "name":"shorten_url",
+                "type":"string"
             }
         ],
         "primaryKey":[
@@ -58,7 +62,8 @@
             "value_score":40.75385,
             "region":"경상남도 창녕군",
             "region_code":"Gyeongsangnamdo",
-            "sub_region_code":"4874000000_Gyeongsangnamdo_Changnyeong"
+            "sub_region_code":"4874000000_Gyeongsangnamdo_Changnyeong",
+            "shorten_url":"https:\/\/me2.do\/FOmdHAaQ"
         },
         {
             "index":1,
@@ -70,7 +75,8 @@
             "value_score":37.809,
             "region":"경상남도 창녕군",
             "region_code":"Gyeongsangnamdo",
-            "sub_region_code":"4874000000_Gyeongsangnamdo_Changnyeong"
+            "sub_region_code":"4874000000_Gyeongsangnamdo_Changnyeong",
+            "shorten_url":"https:\/\/me2.do\/FOmdHAaQ"
         },
         {
             "index":2,
@@ -82,7 +88,8 @@
             "value_score":37.80125,
             "region":"경상남도 창녕군",
             "region_code":"Gyeongsangnamdo",
-            "sub_region_code":"4874000000_Gyeongsangnamdo_Changnyeong"
+            "sub_region_code":"4874000000_Gyeongsangnamdo_Changnyeong",
+            "shorten_url":"https:\/\/me2.do\/FOmdHAaQ"
         },
         {
             "index":3,
@@ -94,7 +101,8 @@
             "value_score":32.35385,
             "region":"경상남도 창녕군",
             "region_code":"Gyeongsangnamdo",
-            "sub_region_code":"4874000000_Gyeongsangnamdo_Changnyeong"
+            "sub_region_code":"4874000000_Gyeongsangnamdo_Changnyeong",
+            "shorten_url":"https:\/\/me2.do\/FOmdHAaQ"
         },
         {
             "index":4,
@@ -106,7 +114,8 @@
             "value_score":32.1613,
             "region":"경상남도 창녕군",
             "region_code":"Gyeongsangnamdo",
-            "sub_region_code":"4874000000_Gyeongsangnamdo_Changnyeong"
+            "sub_region_code":"4874000000_Gyeongsangnamdo_Changnyeong",
+            "shorten_url":"https:\/\/me2.do\/FOmdHAaQ"
         },
         {
             "index":5,
@@ -118,7 +127,8 @@
             "value_score":31.20125,
             "region":"경상남도 창녕군",
             "region_code":"Gyeongsangnamdo",
-            "sub_region_code":"4874000000_Gyeongsangnamdo_Changnyeong"
+            "sub_region_code":"4874000000_Gyeongsangnamdo_Changnyeong",
+            "shorten_url":"https:\/\/me2.do\/FOmdHAaQ"
         },
         {
             "index":6,
@@ -130,7 +140,8 @@
             "value_score":30.70385,
             "region":"경상남도 창녕군",
             "region_code":"Gyeongsangnamdo",
-            "sub_region_code":"4874000000_Gyeongsangnamdo_Changnyeong"
+            "sub_region_code":"4874000000_Gyeongsangnamdo_Changnyeong",
+            "shorten_url":"https:\/\/me2.do\/FOmdHAaQ"
         },
         {
             "index":7,
@@ -142,7 +153,8 @@
             "value_score":29.4113,
             "region":"경상남도 창녕군",
             "region_code":"Gyeongsangnamdo",
-            "sub_region_code":"4874000000_Gyeongsangnamdo_Changnyeong"
+            "sub_region_code":"4874000000_Gyeongsangnamdo_Changnyeong",
+            "shorten_url":"https:\/\/me2.do\/FOmdHAaQ"
         },
         {
             "index":8,
@@ -154,7 +166,8 @@
             "value_score":27.9377,
             "region":"경상남도 창녕군",
             "region_code":"Gyeongsangnamdo",
-            "sub_region_code":"4874000000_Gyeongsangnamdo_Changnyeong"
+            "sub_region_code":"4874000000_Gyeongsangnamdo_Changnyeong",
+            "shorten_url":"https:\/\/me2.do\/FOmdHAaQ"
         },
         {
             "index":9,
@@ -166,7 +179,8 @@
             "value_score":26.00125,
             "region":"경상남도 창녕군",
             "region_code":"Gyeongsangnamdo",
-            "sub_region_code":"4874000000_Gyeongsangnamdo_Changnyeong"
+            "sub_region_code":"4874000000_Gyeongsangnamdo_Changnyeong",
+            "shorten_url":"https:\/\/me2.do\/FOmdHAaQ"
         },
         {
             "index":10,
@@ -178,7 +192,8 @@
             "value_score":42.35275,
             "region":"경상남도 창녕군",
             "region_code":"Gyeongsangnamdo",
-            "sub_region_code":"4874000000_Gyeongsangnamdo_Changnyeong"
+            "sub_region_code":"4874000000_Gyeongsangnamdo_Changnyeong",
+            "shorten_url":"https:\/\/me2.do\/FOmdHAaQ"
         },
         {
             "index":11,
@@ -190,7 +205,8 @@
             "value_score":39.435,
             "region":"경상남도 창녕군",
             "region_code":"Gyeongsangnamdo",
-            "sub_region_code":"4874000000_Gyeongsangnamdo_Changnyeong"
+            "sub_region_code":"4874000000_Gyeongsangnamdo_Changnyeong",
+            "shorten_url":"https:\/\/me2.do\/FOmdHAaQ"
         },
         {
             "index":12,
@@ -202,7 +218,8 @@
             "value_score":38.74375,
             "region":"경상남도 창녕군",
             "region_code":"Gyeongsangnamdo",
-            "sub_region_code":"4874000000_Gyeongsangnamdo_Changnyeong"
+            "sub_region_code":"4874000000_Gyeongsangnamdo_Changnyeong",
+            "shorten_url":"https:\/\/me2.do\/FOmdHAaQ"
         },
         {
             "index":13,
@@ -214,7 +231,8 @@
             "value_score":32.60275,
             "region":"경상남도 창녕군",
             "region_code":"Gyeongsangnamdo",
-            "sub_region_code":"4874000000_Gyeongsangnamdo_Changnyeong"
+            "sub_region_code":"4874000000_Gyeongsangnamdo_Changnyeong",
+            "shorten_url":"https:\/\/me2.do\/FOmdHAaQ"
         },
         {
             "index":14,
@@ -226,7 +244,8 @@
             "value_score":30.64375,
             "region":"경상남도 창녕군",
             "region_code":"Gyeongsangnamdo",
-            "sub_region_code":"4874000000_Gyeongsangnamdo_Changnyeong"
+            "sub_region_code":"4874000000_Gyeongsangnamdo_Changnyeong",
+            "shorten_url":"https:\/\/me2.do\/FOmdHAaQ"
         },
         {
             "index":15,
@@ -238,7 +257,8 @@
             "value_score":29.8295,
             "region":"경상남도 창녕군",
             "region_code":"Gyeongsangnamdo",
-            "sub_region_code":"4874000000_Gyeongsangnamdo_Changnyeong"
+            "sub_region_code":"4874000000_Gyeongsangnamdo_Changnyeong",
+            "shorten_url":"https:\/\/me2.do\/FOmdHAaQ"
         },
         {
             "index":16,
@@ -250,7 +270,8 @@
             "value_score":29.60275,
             "region":"경상남도 창녕군",
             "region_code":"Gyeongsangnamdo",
-            "sub_region_code":"4874000000_Gyeongsangnamdo_Changnyeong"
+            "sub_region_code":"4874000000_Gyeongsangnamdo_Changnyeong",
+            "shorten_url":"https:\/\/me2.do\/FOmdHAaQ"
         },
         {
             "index":17,
@@ -262,7 +283,8 @@
             "value_score":26.5795,
             "region":"경상남도 창녕군",
             "region_code":"Gyeongsangnamdo",
-            "sub_region_code":"4874000000_Gyeongsangnamdo_Changnyeong"
+            "sub_region_code":"4874000000_Gyeongsangnamdo_Changnyeong",
+            "shorten_url":"https:\/\/me2.do\/FOmdHAaQ"
         },
         {
             "index":18,
@@ -274,7 +296,8 @@
             "value_score":26.4555,
             "region":"경상남도 창녕군",
             "region_code":"Gyeongsangnamdo",
-            "sub_region_code":"4874000000_Gyeongsangnamdo_Changnyeong"
+            "sub_region_code":"4874000000_Gyeongsangnamdo_Changnyeong",
+            "shorten_url":"https:\/\/me2.do\/FOmdHAaQ"
         },
         {
             "index":19,
@@ -286,7 +309,8 @@
             "value_score":24.14375,
             "region":"경상남도 창녕군",
             "region_code":"Gyeongsangnamdo",
-            "sub_region_code":"4874000000_Gyeongsangnamdo_Changnyeong"
+            "sub_region_code":"4874000000_Gyeongsangnamdo_Changnyeong",
+            "shorten_url":"https:\/\/me2.do\/FOmdHAaQ"
         },
         {
             "index":20,
@@ -298,7 +322,8 @@
             "value_score":29.5297894737,
             "region":"경상남도 창녕군",
             "region_code":"Gyeongsangnamdo",
-            "sub_region_code":"4874000000_Gyeongsangnamdo_Changnyeong"
+            "sub_region_code":"4874000000_Gyeongsangnamdo_Changnyeong",
+            "shorten_url":"https:\/\/me2.do\/FOmdHAaQ"
         },
         {
             "index":21,
@@ -310,7 +335,8 @@
             "value_score":29.1530526316,
             "region":"경상남도 창녕군",
             "region_code":"Gyeongsangnamdo",
-            "sub_region_code":"4874000000_Gyeongsangnamdo_Changnyeong"
+            "sub_region_code":"4874000000_Gyeongsangnamdo_Changnyeong",
+            "shorten_url":"https:\/\/me2.do\/FOmdHAaQ"
         },
         {
             "index":22,
@@ -322,7 +348,8 @@
             "value_score":28.7929473684,
             "region":"경상남도 창녕군",
             "region_code":"Gyeongsangnamdo",
-            "sub_region_code":"4874000000_Gyeongsangnamdo_Changnyeong"
+            "sub_region_code":"4874000000_Gyeongsangnamdo_Changnyeong",
+            "shorten_url":"https:\/\/me2.do\/FOmdHAaQ"
         },
         {
             "index":23,
@@ -334,7 +361,8 @@
             "value_score":26.8455789474,
             "region":"경상남도 창녕군",
             "region_code":"Gyeongsangnamdo",
-            "sub_region_code":"4874000000_Gyeongsangnamdo_Changnyeong"
+            "sub_region_code":"4874000000_Gyeongsangnamdo_Changnyeong",
+            "shorten_url":"https:\/\/me2.do\/FOmdHAaQ"
         },
         {
             "index":24,
@@ -346,7 +374,8 @@
             "value_score":26.7846315789,
             "region":"경상남도 창녕군",
             "region_code":"Gyeongsangnamdo",
-            "sub_region_code":"4874000000_Gyeongsangnamdo_Changnyeong"
+            "sub_region_code":"4874000000_Gyeongsangnamdo_Changnyeong",
+            "shorten_url":"https:\/\/me2.do\/FOmdHAaQ"
         },
         {
             "index":25,
@@ -358,7 +387,8 @@
             "value_score":23.8657894737,
             "region":"경상남도 창녕군",
             "region_code":"Gyeongsangnamdo",
-            "sub_region_code":"4874000000_Gyeongsangnamdo_Changnyeong"
+            "sub_region_code":"4874000000_Gyeongsangnamdo_Changnyeong",
+            "shorten_url":"https:\/\/me2.do\/FOmdHAaQ"
         },
         {
             "index":26,
@@ -370,7 +400,8 @@
             "value_score":23.8385263158,
             "region":"경상남도 창녕군",
             "region_code":"Gyeongsangnamdo",
-            "sub_region_code":"4874000000_Gyeongsangnamdo_Changnyeong"
+            "sub_region_code":"4874000000_Gyeongsangnamdo_Changnyeong",
+            "shorten_url":"https:\/\/me2.do\/FOmdHAaQ"
         },
         {
             "index":27,
@@ -382,7 +413,8 @@
             "value_score":23.5297894737,
             "region":"경상남도 창녕군",
             "region_code":"Gyeongsangnamdo",
-            "sub_region_code":"4874000000_Gyeongsangnamdo_Changnyeong"
+            "sub_region_code":"4874000000_Gyeongsangnamdo_Changnyeong",
+            "shorten_url":"https:\/\/me2.do\/FOmdHAaQ"
         },
         {
             "index":28,
@@ -394,7 +426,8 @@
             "value_score":22.3389473684,
             "region":"경상남도 창녕군",
             "region_code":"Gyeongsangnamdo",
-            "sub_region_code":"4874000000_Gyeongsangnamdo_Changnyeong"
+            "sub_region_code":"4874000000_Gyeongsangnamdo_Changnyeong",
+            "shorten_url":"https:\/\/me2.do\/FOmdHAaQ"
         },
         {
             "index":29,
@@ -406,7 +439,8 @@
             "value_score":22.1815789474,
             "region":"경상남도 창녕군",
             "region_code":"Gyeongsangnamdo",
-            "sub_region_code":"4874000000_Gyeongsangnamdo_Changnyeong"
+            "sub_region_code":"4874000000_Gyeongsangnamdo_Changnyeong",
+            "shorten_url":"https:\/\/me2.do\/FOmdHAaQ"
         },
         {
             "index":30,
@@ -418,7 +452,8 @@
             "value_score":38.3555,
             "region":"경상남도 창녕군",
             "region_code":"Gyeongsangnamdo",
-            "sub_region_code":"4874000000_Gyeongsangnamdo_Changnyeong"
+            "sub_region_code":"4874000000_Gyeongsangnamdo_Changnyeong",
+            "shorten_url":"https:\/\/me2.do\/FOmdHAaQ"
         },
         {
             "index":31,
@@ -430,7 +465,8 @@
             "value_score":36.3875,
             "region":"경상남도 창녕군",
             "region_code":"Gyeongsangnamdo",
-            "sub_region_code":"4874000000_Gyeongsangnamdo_Changnyeong"
+            "sub_region_code":"4874000000_Gyeongsangnamdo_Changnyeong",
+            "shorten_url":"https:\/\/me2.do\/FOmdHAaQ"
         },
         {
             "index":32,
@@ -442,7 +478,8 @@
             "value_score":35.659,
             "region":"경상남도 창녕군",
             "region_code":"Gyeongsangnamdo",
-            "sub_region_code":"4874000000_Gyeongsangnamdo_Changnyeong"
+            "sub_region_code":"4874000000_Gyeongsangnamdo_Changnyeong",
+            "shorten_url":"https:\/\/me2.do\/FOmdHAaQ"
         },
         {
             "index":33,
@@ -454,7 +491,8 @@
             "value_score":35.37,
             "region":"경상남도 창녕군",
             "region_code":"Gyeongsangnamdo",
-            "sub_region_code":"4874000000_Gyeongsangnamdo_Changnyeong"
+            "sub_region_code":"4874000000_Gyeongsangnamdo_Changnyeong",
+            "shorten_url":"https:\/\/me2.do\/FOmdHAaQ"
         },
         {
             "index":34,
@@ -466,7 +504,8 @@
             "value_score":33.659,
             "region":"경상남도 창녕군",
             "region_code":"Gyeongsangnamdo",
-            "sub_region_code":"4874000000_Gyeongsangnamdo_Changnyeong"
+            "sub_region_code":"4874000000_Gyeongsangnamdo_Changnyeong",
+            "shorten_url":"https:\/\/me2.do\/FOmdHAaQ"
         },
         {
             "index":35,
@@ -478,7 +517,8 @@
             "value_score":32.3555,
             "region":"경상남도 창녕군",
             "region_code":"Gyeongsangnamdo",
-            "sub_region_code":"4874000000_Gyeongsangnamdo_Changnyeong"
+            "sub_region_code":"4874000000_Gyeongsangnamdo_Changnyeong",
+            "shorten_url":"https:\/\/me2.do\/FOmdHAaQ"
         },
         {
             "index":36,
@@ -490,7 +530,8 @@
             "value_score":32.0375,
             "region":"경상남도 창녕군",
             "region_code":"Gyeongsangnamdo",
-            "sub_region_code":"4874000000_Gyeongsangnamdo_Changnyeong"
+            "sub_region_code":"4874000000_Gyeongsangnamdo_Changnyeong",
+            "shorten_url":"https:\/\/me2.do\/FOmdHAaQ"
         },
         {
             "index":37,
@@ -502,7 +543,8 @@
             "value_score":31.9805,
             "region":"경상남도 창녕군",
             "region_code":"Gyeongsangnamdo",
-            "sub_region_code":"4874000000_Gyeongsangnamdo_Changnyeong"
+            "sub_region_code":"4874000000_Gyeongsangnamdo_Changnyeong",
+            "shorten_url":"https:\/\/me2.do\/FOmdHAaQ"
         },
         {
             "index":38,
@@ -514,7 +556,8 @@
             "value_score":30.161,
             "region":"경상남도 창녕군",
             "region_code":"Gyeongsangnamdo",
-            "sub_region_code":"4874000000_Gyeongsangnamdo_Changnyeong"
+            "sub_region_code":"4874000000_Gyeongsangnamdo_Changnyeong",
+            "shorten_url":"https:\/\/me2.do\/FOmdHAaQ"
         },
         {
             "index":39,
@@ -526,7 +569,8 @@
             "value_score":29.6055,
             "region":"경상남도 창녕군",
             "region_code":"Gyeongsangnamdo",
-            "sub_region_code":"4874000000_Gyeongsangnamdo_Changnyeong"
+            "sub_region_code":"4874000000_Gyeongsangnamdo_Changnyeong",
+            "shorten_url":"https:\/\/me2.do\/FOmdHAaQ"
         }
     ]
 }

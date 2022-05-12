@@ -40,6 +40,10 @@
             {
                 "name":"sub_region_code",
                 "type":"string"
+            },
+            {
+                "name":"shorten_url",
+                "type":"string"
             }
         ],
         "primaryKey":[
@@ -58,7 +62,8 @@
             "value_score":55.33765,
             "region":"경기도 시흥시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4139000000_Gyeonggi_Siheung"
+            "sub_region_code":"4139000000_Gyeonggi_Siheung",
+            "shorten_url":"https:\/\/me2.do\/FYAfBQ8F"
         },
         {
             "index":1,
@@ -70,7 +75,8 @@
             "value_score":54.89075,
             "region":"경기도 시흥시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4139000000_Gyeonggi_Siheung"
+            "sub_region_code":"4139000000_Gyeonggi_Siheung",
+            "shorten_url":"https:\/\/me2.do\/FYAfBQ8F"
         },
         {
             "index":2,
@@ -82,7 +88,8 @@
             "value_score":52.34935,
             "region":"경기도 시흥시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4139000000_Gyeonggi_Siheung"
+            "sub_region_code":"4139000000_Gyeonggi_Siheung",
+            "shorten_url":"https:\/\/me2.do\/FYAfBQ8F"
         },
         {
             "index":3,
@@ -94,7 +101,8 @@
             "value_score":50.97935,
             "region":"경기도 시흥시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4139000000_Gyeonggi_Siheung"
+            "sub_region_code":"4139000000_Gyeonggi_Siheung",
+            "shorten_url":"https:\/\/me2.do\/FYAfBQ8F"
         },
         {
             "index":4,
@@ -106,7 +114,8 @@
             "value_score":50.44935,
             "region":"경기도 시흥시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4139000000_Gyeonggi_Siheung"
+            "sub_region_code":"4139000000_Gyeonggi_Siheung",
+            "shorten_url":"https:\/\/me2.do\/FYAfBQ8F"
         },
         {
             "index":5,
@@ -118,7 +127,8 @@
             "value_score":50.3903,
             "region":"경기도 시흥시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4139000000_Gyeonggi_Siheung"
+            "sub_region_code":"4139000000_Gyeonggi_Siheung",
+            "shorten_url":"https:\/\/me2.do\/FYAfBQ8F"
         },
         {
             "index":6,
@@ -130,7 +140,8 @@
             "value_score":49.6308,
             "region":"경기도 시흥시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4139000000_Gyeonggi_Siheung"
+            "sub_region_code":"4139000000_Gyeonggi_Siheung",
+            "shorten_url":"https:\/\/me2.do\/FYAfBQ8F"
         },
         {
             "index":7,
@@ -142,7 +153,8 @@
             "value_score":48.7308,
             "region":"경기도 시흥시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4139000000_Gyeonggi_Siheung"
+            "sub_region_code":"4139000000_Gyeonggi_Siheung",
+            "shorten_url":"https:\/\/me2.do\/FYAfBQ8F"
         },
         {
             "index":8,
@@ -154,7 +166,8 @@
             "value_score":48.13765,
             "region":"경기도 시흥시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4139000000_Gyeonggi_Siheung"
+            "sub_region_code":"4139000000_Gyeonggi_Siheung",
+            "shorten_url":"https:\/\/me2.do\/FYAfBQ8F"
         },
         {
             "index":9,
@@ -166,7 +179,8 @@
             "value_score":48.1308,
             "region":"경기도 시흥시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4139000000_Gyeonggi_Siheung"
+            "sub_region_code":"4139000000_Gyeonggi_Siheung",
+            "shorten_url":"https:\/\/me2.do\/FYAfBQ8F"
         },
         {
             "index":10,
@@ -178,7 +192,8 @@
             "value_score":68.6228,
             "region":"경기도 시흥시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4139000000_Gyeonggi_Siheung"
+            "sub_region_code":"4139000000_Gyeonggi_Siheung",
+            "shorten_url":"https:\/\/me2.do\/FYAfBQ8F"
         },
         {
             "index":11,
@@ -190,7 +205,8 @@
             "value_score":66.8528,
             "region":"경기도 시흥시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4139000000_Gyeonggi_Siheung"
+            "sub_region_code":"4139000000_Gyeonggi_Siheung",
+            "shorten_url":"https:\/\/me2.do\/FYAfBQ8F"
         },
         {
             "index":12,
@@ -202,7 +218,8 @@
             "value_score":65.7028,
             "region":"경기도 시흥시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4139000000_Gyeonggi_Siheung"
+            "sub_region_code":"4139000000_Gyeonggi_Siheung",
+            "shorten_url":"https:\/\/me2.do\/FYAfBQ8F"
         },
         {
             "index":13,
@@ -214,7 +231,8 @@
             "value_score":65.2228,
             "region":"경기도 시흥시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4139000000_Gyeonggi_Siheung"
+            "sub_region_code":"4139000000_Gyeonggi_Siheung",
+            "shorten_url":"https:\/\/me2.do\/FYAfBQ8F"
         },
         {
             "index":14,
@@ -226,7 +244,8 @@
             "value_score":64.9528,
             "region":"경기도 시흥시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4139000000_Gyeonggi_Siheung"
+            "sub_region_code":"4139000000_Gyeonggi_Siheung",
+            "shorten_url":"https:\/\/me2.do\/FYAfBQ8F"
         },
         {
             "index":15,
@@ -238,7 +257,8 @@
             "value_score":64.071,
             "region":"경기도 시흥시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4139000000_Gyeonggi_Siheung"
+            "sub_region_code":"4139000000_Gyeonggi_Siheung",
+            "shorten_url":"https:\/\/me2.do\/FYAfBQ8F"
         },
         {
             "index":16,
@@ -250,7 +270,8 @@
             "value_score":63.771,
             "region":"경기도 시흥시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4139000000_Gyeonggi_Siheung"
+            "sub_region_code":"4139000000_Gyeonggi_Siheung",
+            "shorten_url":"https:\/\/me2.do\/FYAfBQ8F"
         },
         {
             "index":17,
@@ -262,7 +283,8 @@
             "value_score":63.3028,
             "region":"경기도 시흥시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4139000000_Gyeonggi_Siheung"
+            "sub_region_code":"4139000000_Gyeonggi_Siheung",
+            "shorten_url":"https:\/\/me2.do\/FYAfBQ8F"
         },
         {
             "index":18,
@@ -274,7 +296,8 @@
             "value_score":63.0228,
             "region":"경기도 시흥시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4139000000_Gyeonggi_Siheung"
+            "sub_region_code":"4139000000_Gyeonggi_Siheung",
+            "shorten_url":"https:\/\/me2.do\/FYAfBQ8F"
         },
         {
             "index":19,
@@ -286,7 +309,8 @@
             "value_score":62.1566,
             "region":"경기도 시흥시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4139000000_Gyeonggi_Siheung"
+            "sub_region_code":"4139000000_Gyeonggi_Siheung",
+            "shorten_url":"https:\/\/me2.do\/FYAfBQ8F"
         },
         {
             "index":20,
@@ -298,7 +322,8 @@
             "value_score":55.06265,
             "region":"경기도 시흥시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4139000000_Gyeonggi_Siheung"
+            "sub_region_code":"4139000000_Gyeonggi_Siheung",
+            "shorten_url":"https:\/\/me2.do\/FYAfBQ8F"
         },
         {
             "index":21,
@@ -310,7 +335,8 @@
             "value_score":54.33435,
             "region":"경기도 시흥시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4139000000_Gyeonggi_Siheung"
+            "sub_region_code":"4139000000_Gyeonggi_Siheung",
+            "shorten_url":"https:\/\/me2.do\/FYAfBQ8F"
         },
         {
             "index":22,
@@ -322,7 +348,8 @@
             "value_score":53.91575,
             "region":"경기도 시흥시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4139000000_Gyeonggi_Siheung"
+            "sub_region_code":"4139000000_Gyeonggi_Siheung",
+            "shorten_url":"https:\/\/me2.do\/FYAfBQ8F"
         },
         {
             "index":23,
@@ -334,7 +361,8 @@
             "value_score":52.7308,
             "region":"경기도 시흥시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4139000000_Gyeonggi_Siheung"
+            "sub_region_code":"4139000000_Gyeonggi_Siheung",
+            "shorten_url":"https:\/\/me2.do\/FYAfBQ8F"
         },
         {
             "index":24,
@@ -346,7 +374,8 @@
             "value_score":52.1153,
             "region":"경기도 시흥시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4139000000_Gyeonggi_Siheung"
+            "sub_region_code":"4139000000_Gyeonggi_Siheung",
+            "shorten_url":"https:\/\/me2.do\/FYAfBQ8F"
         },
         {
             "index":25,
@@ -358,7 +387,8 @@
             "value_score":52.0558,
             "region":"경기도 시흥시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4139000000_Gyeonggi_Siheung"
+            "sub_region_code":"4139000000_Gyeonggi_Siheung",
+            "shorten_url":"https:\/\/me2.do\/FYAfBQ8F"
         },
         {
             "index":26,
@@ -370,7 +400,8 @@
             "value_score":51.8058,
             "region":"경기도 시흥시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4139000000_Gyeonggi_Siheung"
+            "sub_region_code":"4139000000_Gyeonggi_Siheung",
+            "shorten_url":"https:\/\/me2.do\/FYAfBQ8F"
         },
         {
             "index":27,
@@ -382,7 +413,8 @@
             "value_score":51.4808,
             "region":"경기도 시흥시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4139000000_Gyeonggi_Siheung"
+            "sub_region_code":"4139000000_Gyeonggi_Siheung",
+            "shorten_url":"https:\/\/me2.do\/FYAfBQ8F"
         },
         {
             "index":28,
@@ -394,7 +426,8 @@
             "value_score":51.20435,
             "region":"경기도 시흥시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4139000000_Gyeonggi_Siheung"
+            "sub_region_code":"4139000000_Gyeonggi_Siheung",
+            "shorten_url":"https:\/\/me2.do\/FYAfBQ8F"
         },
         {
             "index":29,
@@ -406,7 +439,8 @@
             "value_score":50.53435,
             "region":"경기도 시흥시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4139000000_Gyeonggi_Siheung"
+            "sub_region_code":"4139000000_Gyeonggi_Siheung",
+            "shorten_url":"https:\/\/me2.do\/FYAfBQ8F"
         },
         {
             "index":30,
@@ -418,7 +452,8 @@
             "value_score":53.7285,
             "region":"경기도 시흥시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4139000000_Gyeonggi_Siheung"
+            "sub_region_code":"4139000000_Gyeonggi_Siheung",
+            "shorten_url":"https:\/\/me2.do\/FYAfBQ8F"
         },
         {
             "index":31,
@@ -430,7 +465,8 @@
             "value_score":53.61275,
             "region":"경기도 시흥시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4139000000_Gyeonggi_Siheung"
+            "sub_region_code":"4139000000_Gyeonggi_Siheung",
+            "shorten_url":"https:\/\/me2.do\/FYAfBQ8F"
         },
         {
             "index":32,
@@ -442,7 +478,8 @@
             "value_score":53.38225,
             "region":"경기도 시흥시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4139000000_Gyeonggi_Siheung"
+            "sub_region_code":"4139000000_Gyeonggi_Siheung",
+            "shorten_url":"https:\/\/me2.do\/FYAfBQ8F"
         },
         {
             "index":33,
@@ -454,7 +491,8 @@
             "value_score":51.5785,
             "region":"경기도 시흥시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4139000000_Gyeonggi_Siheung"
+            "sub_region_code":"4139000000_Gyeonggi_Siheung",
+            "shorten_url":"https:\/\/me2.do\/FYAfBQ8F"
         },
         {
             "index":34,
@@ -466,7 +504,8 @@
             "value_score":51.32075,
             "region":"경기도 시흥시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4139000000_Gyeonggi_Siheung"
+            "sub_region_code":"4139000000_Gyeonggi_Siheung",
+            "shorten_url":"https:\/\/me2.do\/FYAfBQ8F"
         },
         {
             "index":35,
@@ -478,7 +517,8 @@
             "value_score":49.8785,
             "region":"경기도 시흥시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4139000000_Gyeonggi_Siheung"
+            "sub_region_code":"4139000000_Gyeonggi_Siheung",
+            "shorten_url":"https:\/\/me2.do\/FYAfBQ8F"
         },
         {
             "index":36,
@@ -490,7 +530,8 @@
             "value_score":49.8285,
             "region":"경기도 시흥시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4139000000_Gyeonggi_Siheung"
+            "sub_region_code":"4139000000_Gyeonggi_Siheung",
+            "shorten_url":"https:\/\/me2.do\/FYAfBQ8F"
         },
         {
             "index":37,
@@ -502,7 +543,8 @@
             "value_score":49.8285,
             "region":"경기도 시흥시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4139000000_Gyeonggi_Siheung"
+            "sub_region_code":"4139000000_Gyeonggi_Siheung",
+            "shorten_url":"https:\/\/me2.do\/FYAfBQ8F"
         },
         {
             "index":38,
@@ -514,7 +556,8 @@
             "value_score":49.70125,
             "region":"경기도 시흥시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4139000000_Gyeonggi_Siheung"
+            "sub_region_code":"4139000000_Gyeonggi_Siheung",
+            "shorten_url":"https:\/\/me2.do\/FYAfBQ8F"
         },
         {
             "index":39,
@@ -526,7 +569,8 @@
             "value_score":49.1005,
             "region":"경기도 시흥시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4139000000_Gyeonggi_Siheung"
+            "sub_region_code":"4139000000_Gyeonggi_Siheung",
+            "shorten_url":"https:\/\/me2.do\/FYAfBQ8F"
         },
         {
             "index":40,
@@ -538,7 +582,8 @@
             "value_score":63.857,
             "region":"경기도 시흥시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4139000000_Gyeonggi_Siheung"
+            "sub_region_code":"4139000000_Gyeonggi_Siheung",
+            "shorten_url":"https:\/\/me2.do\/FYAfBQ8F"
         },
         {
             "index":41,
@@ -550,7 +595,8 @@
             "value_score":62.237,
             "region":"경기도 시흥시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4139000000_Gyeonggi_Siheung"
+            "sub_region_code":"4139000000_Gyeonggi_Siheung",
+            "shorten_url":"https:\/\/me2.do\/FYAfBQ8F"
         },
         {
             "index":42,
@@ -562,7 +608,8 @@
             "value_score":61.657,
             "region":"경기도 시흥시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4139000000_Gyeonggi_Siheung"
+            "sub_region_code":"4139000000_Gyeonggi_Siheung",
+            "shorten_url":"https:\/\/me2.do\/FYAfBQ8F"
         },
         {
             "index":43,
@@ -574,7 +621,8 @@
             "value_score":57.937,
             "region":"경기도 시흥시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4139000000_Gyeonggi_Siheung"
+            "sub_region_code":"4139000000_Gyeonggi_Siheung",
+            "shorten_url":"https:\/\/me2.do\/FYAfBQ8F"
         },
         {
             "index":44,
@@ -586,7 +634,8 @@
             "value_score":57.657,
             "region":"경기도 시흥시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4139000000_Gyeonggi_Siheung"
+            "sub_region_code":"4139000000_Gyeonggi_Siheung",
+            "shorten_url":"https:\/\/me2.do\/FYAfBQ8F"
         },
         {
             "index":45,
@@ -598,7 +647,8 @@
             "value_score":57.6415,
             "region":"경기도 시흥시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4139000000_Gyeonggi_Siheung"
+            "sub_region_code":"4139000000_Gyeonggi_Siheung",
+            "shorten_url":"https:\/\/me2.do\/FYAfBQ8F"
         },
         {
             "index":46,
@@ -610,7 +660,8 @@
             "value_score":57.637,
             "region":"경기도 시흥시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4139000000_Gyeonggi_Siheung"
+            "sub_region_code":"4139000000_Gyeonggi_Siheung",
+            "shorten_url":"https:\/\/me2.do\/FYAfBQ8F"
         },
         {
             "index":47,
@@ -622,7 +673,8 @@
             "value_score":57.337,
             "region":"경기도 시흥시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4139000000_Gyeonggi_Siheung"
+            "sub_region_code":"4139000000_Gyeonggi_Siheung",
+            "shorten_url":"https:\/\/me2.do\/FYAfBQ8F"
         },
         {
             "index":48,
@@ -634,7 +686,8 @@
             "value_score":57.1215,
             "region":"경기도 시흥시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4139000000_Gyeonggi_Siheung"
+            "sub_region_code":"4139000000_Gyeonggi_Siheung",
+            "shorten_url":"https:\/\/me2.do\/FYAfBQ8F"
         },
         {
             "index":49,
@@ -646,7 +699,8 @@
             "value_score":56.9415,
             "region":"경기도 시흥시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4139000000_Gyeonggi_Siheung"
+            "sub_region_code":"4139000000_Gyeonggi_Siheung",
+            "shorten_url":"https:\/\/me2.do\/FYAfBQ8F"
         }
     ]
 }

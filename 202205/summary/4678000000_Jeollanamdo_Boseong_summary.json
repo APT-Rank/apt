@@ -40,6 +40,10 @@
             {
                 "name":"sub_region_code",
                 "type":"string"
+            },
+            {
+                "name":"shorten_url",
+                "type":"string"
             }
         ],
         "primaryKey":[
@@ -58,7 +62,8 @@
             "value_score":37.2547,
             "region":"전라남도 보성군",
             "region_code":"Jeollanamdo",
-            "sub_region_code":"4678000000_Jeollanamdo_Boseong"
+            "sub_region_code":"4678000000_Jeollanamdo_Boseong",
+            "shorten_url":"https:\/\/me2.do\/xOvn0Gri"
         },
         {
             "index":1,
@@ -70,7 +75,8 @@
             "value_score":35.5047,
             "region":"전라남도 보성군",
             "region_code":"Jeollanamdo",
-            "sub_region_code":"4678000000_Jeollanamdo_Boseong"
+            "sub_region_code":"4678000000_Jeollanamdo_Boseong",
+            "shorten_url":"https:\/\/me2.do\/xOvn0Gri"
         },
         {
             "index":2,
@@ -82,7 +88,8 @@
             "value_score":31.00245,
             "region":"전라남도 보성군",
             "region_code":"Jeollanamdo",
-            "sub_region_code":"4678000000_Jeollanamdo_Boseong"
+            "sub_region_code":"4678000000_Jeollanamdo_Boseong",
+            "shorten_url":"https:\/\/me2.do\/xOvn0Gri"
         },
         {
             "index":3,
@@ -94,7 +101,8 @@
             "value_score":30.0547,
             "region":"전라남도 보성군",
             "region_code":"Jeollanamdo",
-            "sub_region_code":"4678000000_Jeollanamdo_Boseong"
+            "sub_region_code":"4678000000_Jeollanamdo_Boseong",
+            "shorten_url":"https:\/\/me2.do\/xOvn0Gri"
         },
         {
             "index":4,
@@ -106,7 +114,8 @@
             "value_score":28.7255,
             "region":"전라남도 보성군",
             "region_code":"Jeollanamdo",
-            "sub_region_code":"4678000000_Jeollanamdo_Boseong"
+            "sub_region_code":"4678000000_Jeollanamdo_Boseong",
+            "shorten_url":"https:\/\/me2.do\/xOvn0Gri"
         },
         {
             "index":5,
@@ -118,7 +127,8 @@
             "value_score":28.2547,
             "region":"전라남도 보성군",
             "region_code":"Jeollanamdo",
-            "sub_region_code":"4678000000_Jeollanamdo_Boseong"
+            "sub_region_code":"4678000000_Jeollanamdo_Boseong",
+            "shorten_url":"https:\/\/me2.do\/xOvn0Gri"
         },
         {
             "index":6,
@@ -130,7 +140,8 @@
             "value_score":25.7255,
             "region":"전라남도 보성군",
             "region_code":"Jeollanamdo",
-            "sub_region_code":"4678000000_Jeollanamdo_Boseong"
+            "sub_region_code":"4678000000_Jeollanamdo_Boseong",
+            "shorten_url":"https:\/\/me2.do\/xOvn0Gri"
         },
         {
             "index":7,
@@ -142,7 +153,8 @@
             "value_score":24.5255,
             "region":"전라남도 보성군",
             "region_code":"Jeollanamdo",
-            "sub_region_code":"4678000000_Jeollanamdo_Boseong"
+            "sub_region_code":"4678000000_Jeollanamdo_Boseong",
+            "shorten_url":"https:\/\/me2.do\/xOvn0Gri"
         },
         {
             "index":8,
@@ -154,7 +166,8 @@
             "value_score":37.3605,
             "region":"전라남도 보성군",
             "region_code":"Jeollanamdo",
-            "sub_region_code":"4678000000_Jeollanamdo_Boseong"
+            "sub_region_code":"4678000000_Jeollanamdo_Boseong",
+            "shorten_url":"https:\/\/me2.do\/xOvn0Gri"
         },
         {
             "index":9,
@@ -166,7 +179,8 @@
             "value_score":35.6105,
             "region":"전라남도 보성군",
             "region_code":"Jeollanamdo",
-            "sub_region_code":"4678000000_Jeollanamdo_Boseong"
+            "sub_region_code":"4678000000_Jeollanamdo_Boseong",
+            "shorten_url":"https:\/\/me2.do\/xOvn0Gri"
         },
         {
             "index":10,
@@ -178,7 +192,8 @@
             "value_score":28.8605,
             "region":"전라남도 보성군",
             "region_code":"Jeollanamdo",
-            "sub_region_code":"4678000000_Jeollanamdo_Boseong"
+            "sub_region_code":"4678000000_Jeollanamdo_Boseong",
+            "shorten_url":"https:\/\/me2.do\/xOvn0Gri"
         },
         {
             "index":11,
@@ -190,7 +205,8 @@
             "value_score":28.75175,
             "region":"전라남도 보성군",
             "region_code":"Jeollanamdo",
-            "sub_region_code":"4678000000_Jeollanamdo_Boseong"
+            "sub_region_code":"4678000000_Jeollanamdo_Boseong",
+            "shorten_url":"https:\/\/me2.do\/xOvn0Gri"
         },
         {
             "index":12,
@@ -202,7 +218,8 @@
             "value_score":27.3325,
             "region":"전라남도 보성군",
             "region_code":"Jeollanamdo",
-            "sub_region_code":"4678000000_Jeollanamdo_Boseong"
+            "sub_region_code":"4678000000_Jeollanamdo_Boseong",
+            "shorten_url":"https:\/\/me2.do\/xOvn0Gri"
         },
         {
             "index":13,
@@ -214,7 +231,8 @@
             "value_score":26.6105,
             "region":"전라남도 보성군",
             "region_code":"Jeollanamdo",
-            "sub_region_code":"4678000000_Jeollanamdo_Boseong"
+            "sub_region_code":"4678000000_Jeollanamdo_Boseong",
+            "shorten_url":"https:\/\/me2.do\/xOvn0Gri"
         },
         {
             "index":14,
@@ -226,7 +244,8 @@
             "value_score":24.3325,
             "region":"전라남도 보성군",
             "region_code":"Jeollanamdo",
-            "sub_region_code":"4678000000_Jeollanamdo_Boseong"
+            "sub_region_code":"4678000000_Jeollanamdo_Boseong",
+            "shorten_url":"https:\/\/me2.do\/xOvn0Gri"
         },
         {
             "index":15,
@@ -238,7 +257,8 @@
             "value_score":22.2325,
             "region":"전라남도 보성군",
             "region_code":"Jeollanamdo",
-            "sub_region_code":"4678000000_Jeollanamdo_Boseong"
+            "sub_region_code":"4678000000_Jeollanamdo_Boseong",
+            "shorten_url":"https:\/\/me2.do\/xOvn0Gri"
         },
         {
             "index":16,
@@ -250,7 +270,8 @@
             "value_score":30.9232631579,
             "region":"전라남도 보성군",
             "region_code":"Jeollanamdo",
-            "sub_region_code":"4678000000_Jeollanamdo_Boseong"
+            "sub_region_code":"4678000000_Jeollanamdo_Boseong",
+            "shorten_url":"https:\/\/me2.do\/xOvn0Gri"
         },
         {
             "index":17,
@@ -262,7 +283,8 @@
             "value_score":30.7974736842,
             "region":"전라남도 보성군",
             "region_code":"Jeollanamdo",
-            "sub_region_code":"4678000000_Jeollanamdo_Boseong"
+            "sub_region_code":"4678000000_Jeollanamdo_Boseong",
+            "shorten_url":"https:\/\/me2.do\/xOvn0Gri"
         },
         {
             "index":18,
@@ -274,7 +296,8 @@
             "value_score":27.1132631579,
             "region":"전라남도 보성군",
             "region_code":"Jeollanamdo",
-            "sub_region_code":"4678000000_Jeollanamdo_Boseong"
+            "sub_region_code":"4678000000_Jeollanamdo_Boseong",
+            "shorten_url":"https:\/\/me2.do\/xOvn0Gri"
         },
         {
             "index":19,
@@ -286,7 +309,8 @@
             "value_score":24.7673684211,
             "region":"전라남도 보성군",
             "region_code":"Jeollanamdo",
-            "sub_region_code":"4678000000_Jeollanamdo_Boseong"
+            "sub_region_code":"4678000000_Jeollanamdo_Boseong",
+            "shorten_url":"https:\/\/me2.do\/xOvn0Gri"
         },
         {
             "index":20,
@@ -298,7 +322,8 @@
             "value_score":24.5343157895,
             "region":"전라남도 보성군",
             "region_code":"Jeollanamdo",
-            "sub_region_code":"4678000000_Jeollanamdo_Boseong"
+            "sub_region_code":"4678000000_Jeollanamdo_Boseong",
+            "shorten_url":"https:\/\/me2.do\/xOvn0Gri"
         },
         {
             "index":21,
@@ -310,7 +335,8 @@
             "value_score":23.8237894737,
             "region":"전라남도 보성군",
             "region_code":"Jeollanamdo",
-            "sub_region_code":"4678000000_Jeollanamdo_Boseong"
+            "sub_region_code":"4678000000_Jeollanamdo_Boseong",
+            "shorten_url":"https:\/\/me2.do\/xOvn0Gri"
         },
         {
             "index":22,
@@ -322,7 +348,8 @@
             "value_score":22.0831578947,
             "region":"전라남도 보성군",
             "region_code":"Jeollanamdo",
-            "sub_region_code":"4678000000_Jeollanamdo_Boseong"
+            "sub_region_code":"4678000000_Jeollanamdo_Boseong",
+            "shorten_url":"https:\/\/me2.do\/xOvn0Gri"
         },
         {
             "index":23,
@@ -334,7 +361,8 @@
             "value_score":18.4515789474,
             "region":"전라남도 보성군",
             "region_code":"Jeollanamdo",
-            "sub_region_code":"4678000000_Jeollanamdo_Boseong"
+            "sub_region_code":"4678000000_Jeollanamdo_Boseong",
+            "shorten_url":"https:\/\/me2.do\/xOvn0Gri"
         },
         {
             "index":24,
@@ -346,7 +374,8 @@
             "value_score":37.096,
             "region":"전라남도 보성군",
             "region_code":"Jeollanamdo",
-            "sub_region_code":"4678000000_Jeollanamdo_Boseong"
+            "sub_region_code":"4678000000_Jeollanamdo_Boseong",
+            "shorten_url":"https:\/\/me2.do\/xOvn0Gri"
         },
         {
             "index":25,
@@ -358,7 +387,8 @@
             "value_score":35.346,
             "region":"전라남도 보성군",
             "region_code":"Jeollanamdo",
-            "sub_region_code":"4678000000_Jeollanamdo_Boseong"
+            "sub_region_code":"4678000000_Jeollanamdo_Boseong",
+            "shorten_url":"https:\/\/me2.do\/xOvn0Gri"
         },
         {
             "index":26,
@@ -370,7 +400,8 @@
             "value_score":34.3785,
             "region":"전라남도 보성군",
             "region_code":"Jeollanamdo",
-            "sub_region_code":"4678000000_Jeollanamdo_Boseong"
+            "sub_region_code":"4678000000_Jeollanamdo_Boseong",
+            "shorten_url":"https:\/\/me2.do\/xOvn0Gri"
         },
         {
             "index":27,
@@ -382,7 +413,8 @@
             "value_score":31.846,
             "region":"전라남도 보성군",
             "region_code":"Jeollanamdo",
-            "sub_region_code":"4678000000_Jeollanamdo_Boseong"
+            "sub_region_code":"4678000000_Jeollanamdo_Boseong",
+            "shorten_url":"https:\/\/me2.do\/xOvn0Gri"
         },
         {
             "index":28,
@@ -394,7 +426,8 @@
             "value_score":30.815,
             "region":"전라남도 보성군",
             "region_code":"Jeollanamdo",
-            "sub_region_code":"4678000000_Jeollanamdo_Boseong"
+            "sub_region_code":"4678000000_Jeollanamdo_Boseong",
+            "shorten_url":"https:\/\/me2.do\/xOvn0Gri"
         },
         {
             "index":29,
@@ -406,7 +439,8 @@
             "value_score":30.721,
             "region":"전라남도 보성군",
             "region_code":"Jeollanamdo",
-            "sub_region_code":"4678000000_Jeollanamdo_Boseong"
+            "sub_region_code":"4678000000_Jeollanamdo_Boseong",
+            "shorten_url":"https:\/\/me2.do\/xOvn0Gri"
         },
         {
             "index":30,
@@ -418,7 +452,8 @@
             "value_score":27.965,
             "region":"전라남도 보성군",
             "region_code":"Jeollanamdo",
-            "sub_region_code":"4678000000_Jeollanamdo_Boseong"
+            "sub_region_code":"4678000000_Jeollanamdo_Boseong",
+            "shorten_url":"https:\/\/me2.do\/xOvn0Gri"
         },
         {
             "index":31,
@@ -430,7 +465,8 @@
             "value_score":27.815,
             "region":"전라남도 보성군",
             "region_code":"Jeollanamdo",
-            "sub_region_code":"4678000000_Jeollanamdo_Boseong"
+            "sub_region_code":"4678000000_Jeollanamdo_Boseong",
+            "shorten_url":"https:\/\/me2.do\/xOvn0Gri"
         }
     ]
 }

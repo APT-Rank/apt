@@ -40,6 +40,10 @@
             {
                 "name":"sub_region_code",
                 "type":"string"
+            },
+            {
+                "name":"shorten_url",
+                "type":"string"
             }
         ],
         "primaryKey":[
@@ -58,7 +62,8 @@
             "value_score":55.1296,
             "region":"경상북도 영천시",
             "region_code":"Gyeongsangbukdo",
-            "sub_region_code":"4723000000_Gyeongsangbukdo_Yeongcheon"
+            "sub_region_code":"4723000000_Gyeongsangbukdo_Yeongcheon",
+            "shorten_url":"https:\/\/me2.do\/GZ0im7ei"
         },
         {
             "index":1,
@@ -70,7 +75,8 @@
             "value_score":55.126,
             "region":"경상북도 영천시",
             "region_code":"Gyeongsangbukdo",
-            "sub_region_code":"4723000000_Gyeongsangbukdo_Yeongcheon"
+            "sub_region_code":"4723000000_Gyeongsangbukdo_Yeongcheon",
+            "shorten_url":"https:\/\/me2.do\/GZ0im7ei"
         },
         {
             "index":2,
@@ -82,7 +88,8 @@
             "value_score":52.69625,
             "region":"경상북도 영천시",
             "region_code":"Gyeongsangbukdo",
-            "sub_region_code":"4723000000_Gyeongsangbukdo_Yeongcheon"
+            "sub_region_code":"4723000000_Gyeongsangbukdo_Yeongcheon",
+            "shorten_url":"https:\/\/me2.do\/GZ0im7ei"
         },
         {
             "index":3,
@@ -94,7 +101,8 @@
             "value_score":50.8796,
             "region":"경상북도 영천시",
             "region_code":"Gyeongsangbukdo",
-            "sub_region_code":"4723000000_Gyeongsangbukdo_Yeongcheon"
+            "sub_region_code":"4723000000_Gyeongsangbukdo_Yeongcheon",
+            "shorten_url":"https:\/\/me2.do\/GZ0im7ei"
         },
         {
             "index":4,
@@ -106,7 +114,8 @@
             "value_score":50.0296,
             "region":"경상북도 영천시",
             "region_code":"Gyeongsangbukdo",
-            "sub_region_code":"4723000000_Gyeongsangbukdo_Yeongcheon"
+            "sub_region_code":"4723000000_Gyeongsangbukdo_Yeongcheon",
+            "shorten_url":"https:\/\/me2.do\/GZ0im7ei"
         },
         {
             "index":5,
@@ -118,7 +127,8 @@
             "value_score":48.6296,
             "region":"경상북도 영천시",
             "region_code":"Gyeongsangbukdo",
-            "sub_region_code":"4723000000_Gyeongsangbukdo_Yeongcheon"
+            "sub_region_code":"4723000000_Gyeongsangbukdo_Yeongcheon",
+            "shorten_url":"https:\/\/me2.do\/GZ0im7ei"
         },
         {
             "index":6,
@@ -130,7 +140,8 @@
             "value_score":46.5796,
             "region":"경상북도 영천시",
             "region_code":"Gyeongsangbukdo",
-            "sub_region_code":"4723000000_Gyeongsangbukdo_Yeongcheon"
+            "sub_region_code":"4723000000_Gyeongsangbukdo_Yeongcheon",
+            "shorten_url":"https:\/\/me2.do\/GZ0im7ei"
         },
         {
             "index":7,
@@ -142,7 +153,8 @@
             "value_score":46.3796,
             "region":"경상북도 영천시",
             "region_code":"Gyeongsangbukdo",
-            "sub_region_code":"4723000000_Gyeongsangbukdo_Yeongcheon"
+            "sub_region_code":"4723000000_Gyeongsangbukdo_Yeongcheon",
+            "shorten_url":"https:\/\/me2.do\/GZ0im7ei"
         },
         {
             "index":8,
@@ -154,7 +166,8 @@
             "value_score":45.92125,
             "region":"경상북도 영천시",
             "region_code":"Gyeongsangbukdo",
-            "sub_region_code":"4723000000_Gyeongsangbukdo_Yeongcheon"
+            "sub_region_code":"4723000000_Gyeongsangbukdo_Yeongcheon",
+            "shorten_url":"https:\/\/me2.do\/GZ0im7ei"
         },
         {
             "index":9,
@@ -166,7 +179,8 @@
             "value_score":45.2296,
             "region":"경상북도 영천시",
             "region_code":"Gyeongsangbukdo",
-            "sub_region_code":"4723000000_Gyeongsangbukdo_Yeongcheon"
+            "sub_region_code":"4723000000_Gyeongsangbukdo_Yeongcheon",
+            "shorten_url":"https:\/\/me2.do\/GZ0im7ei"
         },
         {
             "index":10,
@@ -178,7 +192,8 @@
             "value_score":58.664,
             "region":"경상북도 영천시",
             "region_code":"Gyeongsangbukdo",
-            "sub_region_code":"4723000000_Gyeongsangbukdo_Yeongcheon"
+            "sub_region_code":"4723000000_Gyeongsangbukdo_Yeongcheon",
+            "shorten_url":"https:\/\/me2.do\/GZ0im7ei"
         },
         {
             "index":11,
@@ -190,7 +205,8 @@
             "value_score":56.09,
             "region":"경상북도 영천시",
             "region_code":"Gyeongsangbukdo",
-            "sub_region_code":"4723000000_Gyeongsangbukdo_Yeongcheon"
+            "sub_region_code":"4723000000_Gyeongsangbukdo_Yeongcheon",
+            "shorten_url":"https:\/\/me2.do\/GZ0im7ei"
         },
         {
             "index":12,
@@ -202,7 +218,8 @@
             "value_score":54.91875,
             "region":"경상북도 영천시",
             "region_code":"Gyeongsangbukdo",
-            "sub_region_code":"4723000000_Gyeongsangbukdo_Yeongcheon"
+            "sub_region_code":"4723000000_Gyeongsangbukdo_Yeongcheon",
+            "shorten_url":"https:\/\/me2.do\/GZ0im7ei"
         },
         {
             "index":13,
@@ -214,7 +231,8 @@
             "value_score":52.914,
             "region":"경상북도 영천시",
             "region_code":"Gyeongsangbukdo",
-            "sub_region_code":"4723000000_Gyeongsangbukdo_Yeongcheon"
+            "sub_region_code":"4723000000_Gyeongsangbukdo_Yeongcheon",
+            "shorten_url":"https:\/\/me2.do\/GZ0im7ei"
         },
         {
             "index":14,
@@ -226,7 +244,8 @@
             "value_score":52.514,
             "region":"경상북도 영천시",
             "region_code":"Gyeongsangbukdo",
-            "sub_region_code":"4723000000_Gyeongsangbukdo_Yeongcheon"
+            "sub_region_code":"4723000000_Gyeongsangbukdo_Yeongcheon",
+            "shorten_url":"https:\/\/me2.do\/GZ0im7ei"
         },
         {
             "index":15,
@@ -238,7 +257,8 @@
             "value_score":51.664,
             "region":"경상북도 영천시",
             "region_code":"Gyeongsangbukdo",
-            "sub_region_code":"4723000000_Gyeongsangbukdo_Yeongcheon"
+            "sub_region_code":"4723000000_Gyeongsangbukdo_Yeongcheon",
+            "shorten_url":"https:\/\/me2.do\/GZ0im7ei"
         },
         {
             "index":16,
@@ -250,7 +270,8 @@
             "value_score":47.914,
             "region":"경상북도 영천시",
             "region_code":"Gyeongsangbukdo",
-            "sub_region_code":"4723000000_Gyeongsangbukdo_Yeongcheon"
+            "sub_region_code":"4723000000_Gyeongsangbukdo_Yeongcheon",
+            "shorten_url":"https:\/\/me2.do\/GZ0im7ei"
         },
         {
             "index":17,
@@ -262,7 +283,8 @@
             "value_score":46.00875,
             "region":"경상북도 영천시",
             "region_code":"Gyeongsangbukdo",
-            "sub_region_code":"4723000000_Gyeongsangbukdo_Yeongcheon"
+            "sub_region_code":"4723000000_Gyeongsangbukdo_Yeongcheon",
+            "shorten_url":"https:\/\/me2.do\/GZ0im7ei"
         },
         {
             "index":18,
@@ -274,7 +296,8 @@
             "value_score":45.91875,
             "region":"경상북도 영천시",
             "region_code":"Gyeongsangbukdo",
-            "sub_region_code":"4723000000_Gyeongsangbukdo_Yeongcheon"
+            "sub_region_code":"4723000000_Gyeongsangbukdo_Yeongcheon",
+            "shorten_url":"https:\/\/me2.do\/GZ0im7ei"
         },
         {
             "index":19,
@@ -286,7 +309,8 @@
             "value_score":45.54375,
             "region":"경상북도 영천시",
             "region_code":"Gyeongsangbukdo",
-            "sub_region_code":"4723000000_Gyeongsangbukdo_Yeongcheon"
+            "sub_region_code":"4723000000_Gyeongsangbukdo_Yeongcheon",
+            "shorten_url":"https:\/\/me2.do\/GZ0im7ei"
         },
         {
             "index":20,
@@ -298,7 +322,8 @@
             "value_score":48.2715789474,
             "region":"경상북도 영천시",
             "region_code":"Gyeongsangbukdo",
-            "sub_region_code":"4723000000_Gyeongsangbukdo_Yeongcheon"
+            "sub_region_code":"4723000000_Gyeongsangbukdo_Yeongcheon",
+            "shorten_url":"https:\/\/me2.do\/GZ0im7ei"
         },
         {
             "index":21,
@@ -310,7 +335,8 @@
             "value_score":47.0078947368,
             "region":"경상북도 영천시",
             "region_code":"Gyeongsangbukdo",
-            "sub_region_code":"4723000000_Gyeongsangbukdo_Yeongcheon"
+            "sub_region_code":"4723000000_Gyeongsangbukdo_Yeongcheon",
+            "shorten_url":"https:\/\/me2.do\/GZ0im7ei"
         },
         {
             "index":22,
@@ -322,7 +348,8 @@
             "value_score":46.8387368421,
             "region":"경상북도 영천시",
             "region_code":"Gyeongsangbukdo",
-            "sub_region_code":"4723000000_Gyeongsangbukdo_Yeongcheon"
+            "sub_region_code":"4723000000_Gyeongsangbukdo_Yeongcheon",
+            "shorten_url":"https:\/\/me2.do\/GZ0im7ei"
         },
         {
             "index":23,
@@ -334,7 +361,8 @@
             "value_score":46.7597894737,
             "region":"경상북도 영천시",
             "region_code":"Gyeongsangbukdo",
-            "sub_region_code":"4723000000_Gyeongsangbukdo_Yeongcheon"
+            "sub_region_code":"4723000000_Gyeongsangbukdo_Yeongcheon",
+            "shorten_url":"https:\/\/me2.do\/GZ0im7ei"
         },
         {
             "index":24,
@@ -346,7 +374,8 @@
             "value_score":46.1282105263,
             "region":"경상북도 영천시",
             "region_code":"Gyeongsangbukdo",
-            "sub_region_code":"4723000000_Gyeongsangbukdo_Yeongcheon"
+            "sub_region_code":"4723000000_Gyeongsangbukdo_Yeongcheon",
+            "shorten_url":"https:\/\/me2.do\/GZ0im7ei"
         },
         {
             "index":25,
@@ -358,7 +387,8 @@
             "value_score":45.7715789474,
             "region":"경상북도 영천시",
             "region_code":"Gyeongsangbukdo",
-            "sub_region_code":"4723000000_Gyeongsangbukdo_Yeongcheon"
+            "sub_region_code":"4723000000_Gyeongsangbukdo_Yeongcheon",
+            "shorten_url":"https:\/\/me2.do\/GZ0im7ei"
         },
         {
             "index":26,
@@ -370,7 +400,8 @@
             "value_score":45.0229473684,
             "region":"경상북도 영천시",
             "region_code":"Gyeongsangbukdo",
-            "sub_region_code":"4723000000_Gyeongsangbukdo_Yeongcheon"
+            "sub_region_code":"4723000000_Gyeongsangbukdo_Yeongcheon",
+            "shorten_url":"https:\/\/me2.do\/GZ0im7ei"
         },
         {
             "index":27,
@@ -382,7 +413,8 @@
             "value_score":44.0755789474,
             "region":"경상북도 영천시",
             "region_code":"Gyeongsangbukdo",
-            "sub_region_code":"4723000000_Gyeongsangbukdo_Yeongcheon"
+            "sub_region_code":"4723000000_Gyeongsangbukdo_Yeongcheon",
+            "shorten_url":"https:\/\/me2.do\/GZ0im7ei"
         },
         {
             "index":28,
@@ -394,7 +426,8 @@
             "value_score":43.8387368421,
             "region":"경상북도 영천시",
             "region_code":"Gyeongsangbukdo",
-            "sub_region_code":"4723000000_Gyeongsangbukdo_Yeongcheon"
+            "sub_region_code":"4723000000_Gyeongsangbukdo_Yeongcheon",
+            "shorten_url":"https:\/\/me2.do\/GZ0im7ei"
         },
         {
             "index":29,
@@ -406,7 +439,8 @@
             "value_score":43.4815789474,
             "region":"경상북도 영천시",
             "region_code":"Gyeongsangbukdo",
-            "sub_region_code":"4723000000_Gyeongsangbukdo_Yeongcheon"
+            "sub_region_code":"4723000000_Gyeongsangbukdo_Yeongcheon",
+            "shorten_url":"https:\/\/me2.do\/GZ0im7ei"
         },
         {
             "index":30,
@@ -418,7 +452,8 @@
             "value_score":53.68,
             "region":"경상북도 영천시",
             "region_code":"Gyeongsangbukdo",
-            "sub_region_code":"4723000000_Gyeongsangbukdo_Yeongcheon"
+            "sub_region_code":"4723000000_Gyeongsangbukdo_Yeongcheon",
+            "shorten_url":"https:\/\/me2.do\/GZ0im7ei"
         },
         {
             "index":31,
@@ -430,7 +465,8 @@
             "value_score":49.828,
             "region":"경상북도 영천시",
             "region_code":"Gyeongsangbukdo",
-            "sub_region_code":"4723000000_Gyeongsangbukdo_Yeongcheon"
+            "sub_region_code":"4723000000_Gyeongsangbukdo_Yeongcheon",
+            "shorten_url":"https:\/\/me2.do\/GZ0im7ei"
         },
         {
             "index":32,
@@ -442,7 +478,8 @@
             "value_score":49.3625,
             "region":"경상북도 영천시",
             "region_code":"Gyeongsangbukdo",
-            "sub_region_code":"4723000000_Gyeongsangbukdo_Yeongcheon"
+            "sub_region_code":"4723000000_Gyeongsangbukdo_Yeongcheon",
+            "shorten_url":"https:\/\/me2.do\/GZ0im7ei"
         },
         {
             "index":33,
@@ -454,7 +491,8 @@
             "value_score":49.078,
             "region":"경상북도 영천시",
             "region_code":"Gyeongsangbukdo",
-            "sub_region_code":"4723000000_Gyeongsangbukdo_Yeongcheon"
+            "sub_region_code":"4723000000_Gyeongsangbukdo_Yeongcheon",
+            "shorten_url":"https:\/\/me2.do\/GZ0im7ei"
         },
         {
             "index":34,
@@ -466,7 +504,8 @@
             "value_score":48.953,
             "region":"경상북도 영천시",
             "region_code":"Gyeongsangbukdo",
-            "sub_region_code":"4723000000_Gyeongsangbukdo_Yeongcheon"
+            "sub_region_code":"4723000000_Gyeongsangbukdo_Yeongcheon",
+            "shorten_url":"https:\/\/me2.do\/GZ0im7ei"
         },
         {
             "index":35,
@@ -478,7 +517,8 @@
             "value_score":47.953,
             "region":"경상북도 영천시",
             "region_code":"Gyeongsangbukdo",
-            "sub_region_code":"4723000000_Gyeongsangbukdo_Yeongcheon"
+            "sub_region_code":"4723000000_Gyeongsangbukdo_Yeongcheon",
+            "shorten_url":"https:\/\/me2.do\/GZ0im7ei"
         },
         {
             "index":36,
@@ -490,7 +530,8 @@
             "value_score":47.828,
             "region":"경상북도 영천시",
             "region_code":"Gyeongsangbukdo",
-            "sub_region_code":"4723000000_Gyeongsangbukdo_Yeongcheon"
+            "sub_region_code":"4723000000_Gyeongsangbukdo_Yeongcheon",
+            "shorten_url":"https:\/\/me2.do\/GZ0im7ei"
         },
         {
             "index":37,
@@ -502,7 +543,8 @@
             "value_score":46.4875,
             "region":"경상북도 영천시",
             "region_code":"Gyeongsangbukdo",
-            "sub_region_code":"4723000000_Gyeongsangbukdo_Yeongcheon"
+            "sub_region_code":"4723000000_Gyeongsangbukdo_Yeongcheon",
+            "shorten_url":"https:\/\/me2.do\/GZ0im7ei"
         },
         {
             "index":38,
@@ -514,7 +556,8 @@
             "value_score":46.303,
             "region":"경상북도 영천시",
             "region_code":"Gyeongsangbukdo",
-            "sub_region_code":"4723000000_Gyeongsangbukdo_Yeongcheon"
+            "sub_region_code":"4723000000_Gyeongsangbukdo_Yeongcheon",
+            "shorten_url":"https:\/\/me2.do\/GZ0im7ei"
         },
         {
             "index":39,
@@ -526,7 +569,8 @@
             "value_score":46.203,
             "region":"경상북도 영천시",
             "region_code":"Gyeongsangbukdo",
-            "sub_region_code":"4723000000_Gyeongsangbukdo_Yeongcheon"
+            "sub_region_code":"4723000000_Gyeongsangbukdo_Yeongcheon",
+            "shorten_url":"https:\/\/me2.do\/GZ0im7ei"
         }
     ]
 }

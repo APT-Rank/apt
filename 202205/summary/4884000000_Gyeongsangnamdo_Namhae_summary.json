@@ -40,6 +40,10 @@
             {
                 "name":"sub_region_code",
                 "type":"string"
+            },
+            {
+                "name":"shorten_url",
+                "type":"string"
             }
         ],
         "primaryKey":[
@@ -58,7 +62,8 @@
             "value_score":48.6027,
             "region":"경상남도 남해군",
             "region_code":"Gyeongsangnamdo",
-            "sub_region_code":"4884000000_Gyeongsangnamdo_Namhae"
+            "sub_region_code":"4884000000_Gyeongsangnamdo_Namhae",
+            "shorten_url":"https:\/\/me2.do\/5EWY2THg"
         },
         {
             "index":1,
@@ -70,7 +75,8 @@
             "value_score":46.9027,
             "region":"경상남도 남해군",
             "region_code":"Gyeongsangnamdo",
-            "sub_region_code":"4884000000_Gyeongsangnamdo_Namhae"
+            "sub_region_code":"4884000000_Gyeongsangnamdo_Namhae",
+            "shorten_url":"https:\/\/me2.do\/5EWY2THg"
         },
         {
             "index":2,
@@ -82,7 +88,8 @@
             "value_score":37.5356,
             "region":"경상남도 남해군",
             "region_code":"Gyeongsangnamdo",
-            "sub_region_code":"4884000000_Gyeongsangnamdo_Namhae"
+            "sub_region_code":"4884000000_Gyeongsangnamdo_Namhae",
+            "shorten_url":"https:\/\/me2.do\/5EWY2THg"
         },
         {
             "index":3,
@@ -94,7 +101,8 @@
             "value_score":28.4777,
             "region":"경상남도 남해군",
             "region_code":"Gyeongsangnamdo",
-            "sub_region_code":"4884000000_Gyeongsangnamdo_Namhae"
+            "sub_region_code":"4884000000_Gyeongsangnamdo_Namhae",
+            "shorten_url":"https:\/\/me2.do\/5EWY2THg"
         },
         {
             "index":4,
@@ -106,7 +114,8 @@
             "value_score":27.3356,
             "region":"경상남도 남해군",
             "region_code":"Gyeongsangnamdo",
-            "sub_region_code":"4884000000_Gyeongsangnamdo_Namhae"
+            "sub_region_code":"4884000000_Gyeongsangnamdo_Namhae",
+            "shorten_url":"https:\/\/me2.do\/5EWY2THg"
         },
         {
             "index":5,
@@ -118,7 +127,8 @@
             "value_score":26.7277,
             "region":"경상남도 남해군",
             "region_code":"Gyeongsangnamdo",
-            "sub_region_code":"4884000000_Gyeongsangnamdo_Namhae"
+            "sub_region_code":"4884000000_Gyeongsangnamdo_Namhae",
+            "shorten_url":"https:\/\/me2.do\/5EWY2THg"
         },
         {
             "index":6,
@@ -130,7 +140,8 @@
             "value_score":23.3777,
             "region":"경상남도 남해군",
             "region_code":"Gyeongsangnamdo",
-            "sub_region_code":"4884000000_Gyeongsangnamdo_Namhae"
+            "sub_region_code":"4884000000_Gyeongsangnamdo_Namhae",
+            "shorten_url":"https:\/\/me2.do\/5EWY2THg"
         },
         {
             "index":7,
@@ -142,7 +153,8 @@
             "value_score":47.5305,
             "region":"경상남도 남해군",
             "region_code":"Gyeongsangnamdo",
-            "sub_region_code":"4884000000_Gyeongsangnamdo_Namhae"
+            "sub_region_code":"4884000000_Gyeongsangnamdo_Namhae",
+            "shorten_url":"https:\/\/me2.do\/5EWY2THg"
         },
         {
             "index":8,
@@ -154,7 +166,8 @@
             "value_score":45.4305,
             "region":"경상남도 남해군",
             "region_code":"Gyeongsangnamdo",
-            "sub_region_code":"4884000000_Gyeongsangnamdo_Namhae"
+            "sub_region_code":"4884000000_Gyeongsangnamdo_Namhae",
+            "shorten_url":"https:\/\/me2.do\/5EWY2THg"
         },
         {
             "index":9,
@@ -166,7 +179,8 @@
             "value_score":37.204,
             "region":"경상남도 남해군",
             "region_code":"Gyeongsangnamdo",
-            "sub_region_code":"4884000000_Gyeongsangnamdo_Namhae"
+            "sub_region_code":"4884000000_Gyeongsangnamdo_Namhae",
+            "shorten_url":"https:\/\/me2.do\/5EWY2THg"
         },
         {
             "index":10,
@@ -178,7 +192,8 @@
             "value_score":25.6555,
             "region":"경상남도 남해군",
             "region_code":"Gyeongsangnamdo",
-            "sub_region_code":"4884000000_Gyeongsangnamdo_Namhae"
+            "sub_region_code":"4884000000_Gyeongsangnamdo_Namhae",
+            "shorten_url":"https:\/\/me2.do\/5EWY2THg"
         },
         {
             "index":11,
@@ -190,7 +205,8 @@
             "value_score":24.454,
             "region":"경상남도 남해군",
             "region_code":"Gyeongsangnamdo",
-            "sub_region_code":"4884000000_Gyeongsangnamdo_Namhae"
+            "sub_region_code":"4884000000_Gyeongsangnamdo_Namhae",
+            "shorten_url":"https:\/\/me2.do\/5EWY2THg"
         },
         {
             "index":12,
@@ -202,7 +218,8 @@
             "value_score":23.4055,
             "region":"경상남도 남해군",
             "region_code":"Gyeongsangnamdo",
-            "sub_region_code":"4884000000_Gyeongsangnamdo_Namhae"
+            "sub_region_code":"4884000000_Gyeongsangnamdo_Namhae",
+            "shorten_url":"https:\/\/me2.do\/5EWY2THg"
         },
         {
             "index":13,
@@ -214,7 +231,8 @@
             "value_score":20.5555,
             "region":"경상남도 남해군",
             "region_code":"Gyeongsangnamdo",
-            "sub_region_code":"4884000000_Gyeongsangnamdo_Namhae"
+            "sub_region_code":"4884000000_Gyeongsangnamdo_Namhae",
+            "shorten_url":"https:\/\/me2.do\/5EWY2THg"
         },
         {
             "index":14,
@@ -226,7 +244,8 @@
             "value_score":45.3069473684,
             "region":"경상남도 남해군",
             "region_code":"Gyeongsangnamdo",
-            "sub_region_code":"4884000000_Gyeongsangnamdo_Namhae"
+            "sub_region_code":"4884000000_Gyeongsangnamdo_Namhae",
+            "shorten_url":"https:\/\/me2.do\/5EWY2THg"
         },
         {
             "index":15,
@@ -238,7 +257,8 @@
             "value_score":44.4648421053,
             "region":"경상남도 남해군",
             "region_code":"Gyeongsangnamdo",
-            "sub_region_code":"4884000000_Gyeongsangnamdo_Namhae"
+            "sub_region_code":"4884000000_Gyeongsangnamdo_Namhae",
+            "shorten_url":"https:\/\/me2.do\/5EWY2THg"
         },
         {
             "index":16,
@@ -250,7 +270,8 @@
             "value_score":29.5471578947,
             "region":"경상남도 남해군",
             "region_code":"Gyeongsangnamdo",
-            "sub_region_code":"4884000000_Gyeongsangnamdo_Namhae"
+            "sub_region_code":"4884000000_Gyeongsangnamdo_Namhae",
+            "shorten_url":"https:\/\/me2.do\/5EWY2THg"
         },
         {
             "index":17,
@@ -262,7 +283,8 @@
             "value_score":28.1753684211,
             "region":"경상남도 남해군",
             "region_code":"Gyeongsangnamdo",
-            "sub_region_code":"4884000000_Gyeongsangnamdo_Namhae"
+            "sub_region_code":"4884000000_Gyeongsangnamdo_Namhae",
+            "shorten_url":"https:\/\/me2.do\/5EWY2THg"
         },
         {
             "index":18,
@@ -274,7 +296,8 @@
             "value_score":27.9122105263,
             "region":"경상남도 남해군",
             "region_code":"Gyeongsangnamdo",
-            "sub_region_code":"4884000000_Gyeongsangnamdo_Namhae"
+            "sub_region_code":"4884000000_Gyeongsangnamdo_Namhae",
+            "shorten_url":"https:\/\/me2.do\/5EWY2THg"
         },
         {
             "index":19,
@@ -286,7 +309,8 @@
             "value_score":25.5208421053,
             "region":"경상남도 남해군",
             "region_code":"Gyeongsangnamdo",
-            "sub_region_code":"4884000000_Gyeongsangnamdo_Namhae"
+            "sub_region_code":"4884000000_Gyeongsangnamdo_Namhae",
+            "shorten_url":"https:\/\/me2.do\/5EWY2THg"
         },
         {
             "index":20,
@@ -298,7 +322,8 @@
             "value_score":17.4385263158,
             "region":"경상남도 남해군",
             "region_code":"Gyeongsangnamdo",
-            "sub_region_code":"4884000000_Gyeongsangnamdo_Namhae"
+            "sub_region_code":"4884000000_Gyeongsangnamdo_Namhae",
+            "shorten_url":"https:\/\/me2.do\/5EWY2THg"
         },
         {
             "index":21,
@@ -310,7 +335,8 @@
             "value_score":50.211,
             "region":"경상남도 남해군",
             "region_code":"Gyeongsangnamdo",
-            "sub_region_code":"4884000000_Gyeongsangnamdo_Namhae"
+            "sub_region_code":"4884000000_Gyeongsangnamdo_Namhae",
+            "shorten_url":"https:\/\/me2.do\/5EWY2THg"
         },
         {
             "index":22,
@@ -322,7 +348,8 @@
             "value_score":49.111,
             "region":"경상남도 남해군",
             "region_code":"Gyeongsangnamdo",
-            "sub_region_code":"4884000000_Gyeongsangnamdo_Namhae"
+            "sub_region_code":"4884000000_Gyeongsangnamdo_Namhae",
+            "shorten_url":"https:\/\/me2.do\/5EWY2THg"
         },
         {
             "index":23,
@@ -334,7 +361,8 @@
             "value_score":38.033,
             "region":"경상남도 남해군",
             "region_code":"Gyeongsangnamdo",
-            "sub_region_code":"4884000000_Gyeongsangnamdo_Namhae"
+            "sub_region_code":"4884000000_Gyeongsangnamdo_Namhae",
+            "shorten_url":"https:\/\/me2.do\/5EWY2THg"
         },
         {
             "index":24,
@@ -346,7 +374,8 @@
             "value_score":32.711,
             "region":"경상남도 남해군",
             "region_code":"Gyeongsangnamdo",
-            "sub_region_code":"4884000000_Gyeongsangnamdo_Namhae"
+            "sub_region_code":"4884000000_Gyeongsangnamdo_Namhae",
+            "shorten_url":"https:\/\/me2.do\/5EWY2THg"
         },
         {
             "index":25,
@@ -358,7 +387,8 @@
             "value_score":31.711,
             "region":"경상남도 남해군",
             "region_code":"Gyeongsangnamdo",
-            "sub_region_code":"4884000000_Gyeongsangnamdo_Namhae"
+            "sub_region_code":"4884000000_Gyeongsangnamdo_Namhae",
+            "shorten_url":"https:\/\/me2.do\/5EWY2THg"
         },
         {
             "index":26,
@@ -370,7 +400,8 @@
             "value_score":31.658,
             "region":"경상남도 남해군",
             "region_code":"Gyeongsangnamdo",
-            "sub_region_code":"4884000000_Gyeongsangnamdo_Namhae"
+            "sub_region_code":"4884000000_Gyeongsangnamdo_Namhae",
+            "shorten_url":"https:\/\/me2.do\/5EWY2THg"
         },
         {
             "index":27,
@@ -382,7 +413,8 @@
             "value_score":27.611,
             "region":"경상남도 남해군",
             "region_code":"Gyeongsangnamdo",
-            "sub_region_code":"4884000000_Gyeongsangnamdo_Namhae"
+            "sub_region_code":"4884000000_Gyeongsangnamdo_Namhae",
+            "shorten_url":"https:\/\/me2.do\/5EWY2THg"
         }
     ]
 }

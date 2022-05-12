@@ -40,6 +40,10 @@
             {
                 "name":"sub_region_code",
                 "type":"string"
+            },
+            {
+                "name":"shorten_url",
+                "type":"string"
             }
         ],
         "primaryKey":[
@@ -58,7 +62,8 @@
             "value_score":43.2671,
             "region":"경기도 동두천시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4125000000_Gyeonggi_Dongducheon"
+            "sub_region_code":"4125000000_Gyeonggi_Dongducheon",
+            "shorten_url":"https:\/\/me2.do\/Ixbgh4q5"
         },
         {
             "index":1,
@@ -70,7 +75,8 @@
             "value_score":41.6671,
             "region":"경기도 동두천시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4125000000_Gyeonggi_Dongducheon"
+            "sub_region_code":"4125000000_Gyeonggi_Dongducheon",
+            "shorten_url":"https:\/\/me2.do\/Ixbgh4q5"
         },
         {
             "index":2,
@@ -82,7 +88,8 @@
             "value_score":40.2671,
             "region":"경기도 동두천시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4125000000_Gyeonggi_Dongducheon"
+            "sub_region_code":"4125000000_Gyeonggi_Dongducheon",
+            "shorten_url":"https:\/\/me2.do\/Ixbgh4q5"
         },
         {
             "index":3,
@@ -94,7 +101,8 @@
             "value_score":39.5891,
             "region":"경기도 동두천시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4125000000_Gyeonggi_Dongducheon"
+            "sub_region_code":"4125000000_Gyeonggi_Dongducheon",
+            "shorten_url":"https:\/\/me2.do\/Ixbgh4q5"
         },
         {
             "index":4,
@@ -106,7 +114,8 @@
             "value_score":39.1391,
             "region":"경기도 동두천시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4125000000_Gyeonggi_Dongducheon"
+            "sub_region_code":"4125000000_Gyeonggi_Dongducheon",
+            "shorten_url":"https:\/\/me2.do\/Ixbgh4q5"
         },
         {
             "index":5,
@@ -118,7 +127,8 @@
             "value_score":38.93095,
             "region":"경기도 동두천시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4125000000_Gyeonggi_Dongducheon"
+            "sub_region_code":"4125000000_Gyeonggi_Dongducheon",
+            "shorten_url":"https:\/\/me2.do\/Ixbgh4q5"
         },
         {
             "index":6,
@@ -130,7 +140,8 @@
             "value_score":37.8171,
             "region":"경기도 동두천시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4125000000_Gyeonggi_Dongducheon"
+            "sub_region_code":"4125000000_Gyeonggi_Dongducheon",
+            "shorten_url":"https:\/\/me2.do\/Ixbgh4q5"
         },
         {
             "index":7,
@@ -142,7 +153,8 @@
             "value_score":37.1171,
             "region":"경기도 동두천시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4125000000_Gyeonggi_Dongducheon"
+            "sub_region_code":"4125000000_Gyeonggi_Dongducheon",
+            "shorten_url":"https:\/\/me2.do\/Ixbgh4q5"
         },
         {
             "index":8,
@@ -154,7 +166,8 @@
             "value_score":36.9171,
             "region":"경기도 동두천시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4125000000_Gyeonggi_Dongducheon"
+            "sub_region_code":"4125000000_Gyeonggi_Dongducheon",
+            "shorten_url":"https:\/\/me2.do\/Ixbgh4q5"
         },
         {
             "index":9,
@@ -166,7 +179,8 @@
             "value_score":36.3171,
             "region":"경기도 동두천시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4125000000_Gyeonggi_Dongducheon"
+            "sub_region_code":"4125000000_Gyeonggi_Dongducheon",
+            "shorten_url":"https:\/\/me2.do\/Ixbgh4q5"
         },
         {
             "index":10,
@@ -178,7 +192,8 @@
             "value_score":53.1188,
             "region":"경기도 동두천시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4125000000_Gyeonggi_Dongducheon"
+            "sub_region_code":"4125000000_Gyeonggi_Dongducheon",
+            "shorten_url":"https:\/\/me2.do\/Ixbgh4q5"
         },
         {
             "index":11,
@@ -190,7 +205,8 @@
             "value_score":49.3728,
             "region":"경기도 동두천시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4125000000_Gyeonggi_Dongducheon"
+            "sub_region_code":"4125000000_Gyeonggi_Dongducheon",
+            "shorten_url":"https:\/\/me2.do\/Ixbgh4q5"
         },
         {
             "index":12,
@@ -202,7 +218,8 @@
             "value_score":48.8228,
             "region":"경기도 동두천시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4125000000_Gyeonggi_Dongducheon"
+            "sub_region_code":"4125000000_Gyeonggi_Dongducheon",
+            "shorten_url":"https:\/\/me2.do\/Ixbgh4q5"
         },
         {
             "index":13,
@@ -214,7 +231,8 @@
             "value_score":47.9228,
             "region":"경기도 동두천시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4125000000_Gyeonggi_Dongducheon"
+            "sub_region_code":"4125000000_Gyeonggi_Dongducheon",
+            "shorten_url":"https:\/\/me2.do\/Ixbgh4q5"
         },
         {
             "index":14,
@@ -226,7 +244,8 @@
             "value_score":45.8728,
             "region":"경기도 동두천시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4125000000_Gyeonggi_Dongducheon"
+            "sub_region_code":"4125000000_Gyeonggi_Dongducheon",
+            "shorten_url":"https:\/\/me2.do\/Ixbgh4q5"
         },
         {
             "index":15,
@@ -238,7 +257,8 @@
             "value_score":44.8188,
             "region":"경기도 동두천시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4125000000_Gyeonggi_Dongducheon"
+            "sub_region_code":"4125000000_Gyeonggi_Dongducheon",
+            "shorten_url":"https:\/\/me2.do\/Ixbgh4q5"
         },
         {
             "index":16,
@@ -250,7 +270,8 @@
             "value_score":44.6688,
             "region":"경기도 동두천시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4125000000_Gyeonggi_Dongducheon"
+            "sub_region_code":"4125000000_Gyeonggi_Dongducheon",
+            "shorten_url":"https:\/\/me2.do\/Ixbgh4q5"
         },
         {
             "index":17,
@@ -262,7 +283,8 @@
             "value_score":44.3228,
             "region":"경기도 동두천시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4125000000_Gyeonggi_Dongducheon"
+            "sub_region_code":"4125000000_Gyeonggi_Dongducheon",
+            "shorten_url":"https:\/\/me2.do\/Ixbgh4q5"
         },
         {
             "index":18,
@@ -274,7 +296,8 @@
             "value_score":43.8728,
             "region":"경기도 동두천시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4125000000_Gyeonggi_Dongducheon"
+            "sub_region_code":"4125000000_Gyeonggi_Dongducheon",
+            "shorten_url":"https:\/\/me2.do\/Ixbgh4q5"
         },
         {
             "index":19,
@@ -286,7 +309,8 @@
             "value_score":43.7188,
             "region":"경기도 동두천시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4125000000_Gyeonggi_Dongducheon"
+            "sub_region_code":"4125000000_Gyeonggi_Dongducheon",
+            "shorten_url":"https:\/\/me2.do\/Ixbgh4q5"
         },
         {
             "index":20,
@@ -298,7 +322,8 @@
             "value_score":43.4421,
             "region":"경기도 동두천시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4125000000_Gyeonggi_Dongducheon"
+            "sub_region_code":"4125000000_Gyeonggi_Dongducheon",
+            "shorten_url":"https:\/\/me2.do\/Ixbgh4q5"
         },
         {
             "index":21,
@@ -310,7 +335,8 @@
             "value_score":42.2421,
             "region":"경기도 동두천시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4125000000_Gyeonggi_Dongducheon"
+            "sub_region_code":"4125000000_Gyeonggi_Dongducheon",
+            "shorten_url":"https:\/\/me2.do\/Ixbgh4q5"
         },
         {
             "index":22,
@@ -322,7 +348,8 @@
             "value_score":41.4421,
             "region":"경기도 동두천시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4125000000_Gyeonggi_Dongducheon"
+            "sub_region_code":"4125000000_Gyeonggi_Dongducheon",
+            "shorten_url":"https:\/\/me2.do\/Ixbgh4q5"
         },
         {
             "index":23,
@@ -334,7 +361,8 @@
             "value_score":40.8891,
             "region":"경기도 동두천시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4125000000_Gyeonggi_Dongducheon"
+            "sub_region_code":"4125000000_Gyeonggi_Dongducheon",
+            "shorten_url":"https:\/\/me2.do\/Ixbgh4q5"
         },
         {
             "index":24,
@@ -346,7 +374,8 @@
             "value_score":39.51595,
             "region":"경기도 동두천시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4125000000_Gyeonggi_Dongducheon"
+            "sub_region_code":"4125000000_Gyeonggi_Dongducheon",
+            "shorten_url":"https:\/\/me2.do\/Ixbgh4q5"
         },
         {
             "index":25,
@@ -358,7 +387,8 @@
             "value_score":38.5171,
             "region":"경기도 동두천시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4125000000_Gyeonggi_Dongducheon"
+            "sub_region_code":"4125000000_Gyeonggi_Dongducheon",
+            "shorten_url":"https:\/\/me2.do\/Ixbgh4q5"
         },
         {
             "index":26,
@@ -370,7 +400,8 @@
             "value_score":38.4671,
             "region":"경기도 동두천시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4125000000_Gyeonggi_Dongducheon"
+            "sub_region_code":"4125000000_Gyeonggi_Dongducheon",
+            "shorten_url":"https:\/\/me2.do\/Ixbgh4q5"
         },
         {
             "index":27,
@@ -382,7 +413,8 @@
             "value_score":38.0891,
             "region":"경기도 동두천시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4125000000_Gyeonggi_Dongducheon"
+            "sub_region_code":"4125000000_Gyeonggi_Dongducheon",
+            "shorten_url":"https:\/\/me2.do\/Ixbgh4q5"
         },
         {
             "index":28,
@@ -394,7 +426,8 @@
             "value_score":37.8421,
             "region":"경기도 동두천시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4125000000_Gyeonggi_Dongducheon"
+            "sub_region_code":"4125000000_Gyeonggi_Dongducheon",
+            "shorten_url":"https:\/\/me2.do\/Ixbgh4q5"
         },
         {
             "index":29,
@@ -406,7 +439,8 @@
             "value_score":37.2171,
             "region":"경기도 동두천시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4125000000_Gyeonggi_Dongducheon"
+            "sub_region_code":"4125000000_Gyeonggi_Dongducheon",
+            "shorten_url":"https:\/\/me2.do\/Ixbgh4q5"
         },
         {
             "index":30,
@@ -418,7 +452,8 @@
             "value_score":44.6285,
             "region":"경기도 동두천시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4125000000_Gyeonggi_Dongducheon"
+            "sub_region_code":"4125000000_Gyeonggi_Dongducheon",
+            "shorten_url":"https:\/\/me2.do\/Ixbgh4q5"
         },
         {
             "index":31,
@@ -430,7 +465,8 @@
             "value_score":43.8285,
             "region":"경기도 동두천시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4125000000_Gyeonggi_Dongducheon"
+            "sub_region_code":"4125000000_Gyeonggi_Dongducheon",
+            "shorten_url":"https:\/\/me2.do\/Ixbgh4q5"
         },
         {
             "index":32,
@@ -442,7 +478,8 @@
             "value_score":39.6285,
             "region":"경기도 동두천시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4125000000_Gyeonggi_Dongducheon"
+            "sub_region_code":"4125000000_Gyeonggi_Dongducheon",
+            "shorten_url":"https:\/\/me2.do\/Ixbgh4q5"
         },
         {
             "index":33,
@@ -454,7 +491,8 @@
             "value_score":38.9985,
             "region":"경기도 동두천시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4125000000_Gyeonggi_Dongducheon"
+            "sub_region_code":"4125000000_Gyeonggi_Dongducheon",
+            "shorten_url":"https:\/\/me2.do\/Ixbgh4q5"
         },
         {
             "index":34,
@@ -466,7 +504,8 @@
             "value_score":38.7785,
             "region":"경기도 동두천시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4125000000_Gyeonggi_Dongducheon"
+            "sub_region_code":"4125000000_Gyeonggi_Dongducheon",
+            "shorten_url":"https:\/\/me2.do\/Ixbgh4q5"
         },
         {
             "index":35,
@@ -478,7 +517,8 @@
             "value_score":38.1485,
             "region":"경기도 동두천시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4125000000_Gyeonggi_Dongducheon"
+            "sub_region_code":"4125000000_Gyeonggi_Dongducheon",
+            "shorten_url":"https:\/\/me2.do\/Ixbgh4q5"
         },
         {
             "index":36,
@@ -490,7 +530,8 @@
             "value_score":36.8785,
             "region":"경기도 동두천시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4125000000_Gyeonggi_Dongducheon"
+            "sub_region_code":"4125000000_Gyeonggi_Dongducheon",
+            "shorten_url":"https:\/\/me2.do\/Ixbgh4q5"
         },
         {
             "index":37,
@@ -502,7 +543,8 @@
             "value_score":36.46825,
             "region":"경기도 동두천시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4125000000_Gyeonggi_Dongducheon"
+            "sub_region_code":"4125000000_Gyeonggi_Dongducheon",
+            "shorten_url":"https:\/\/me2.do\/Ixbgh4q5"
         },
         {
             "index":38,
@@ -514,7 +556,8 @@
             "value_score":36.0785,
             "region":"경기도 동두천시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4125000000_Gyeonggi_Dongducheon"
+            "sub_region_code":"4125000000_Gyeonggi_Dongducheon",
+            "shorten_url":"https:\/\/me2.do\/Ixbgh4q5"
         },
         {
             "index":39,
@@ -526,7 +569,8 @@
             "value_score":35.7285,
             "region":"경기도 동두천시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4125000000_Gyeonggi_Dongducheon"
+            "sub_region_code":"4125000000_Gyeonggi_Dongducheon",
+            "shorten_url":"https:\/\/me2.do\/Ixbgh4q5"
         },
         {
             "index":40,
@@ -538,7 +582,8 @@
             "value_score":52.057,
             "region":"경기도 동두천시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4125000000_Gyeonggi_Dongducheon"
+            "sub_region_code":"4125000000_Gyeonggi_Dongducheon",
+            "shorten_url":"https:\/\/me2.do\/Ixbgh4q5"
         },
         {
             "index":41,
@@ -550,7 +595,8 @@
             "value_score":51.797,
             "region":"경기도 동두천시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4125000000_Gyeonggi_Dongducheon"
+            "sub_region_code":"4125000000_Gyeonggi_Dongducheon",
+            "shorten_url":"https:\/\/me2.do\/Ixbgh4q5"
         },
         {
             "index":42,
@@ -562,7 +608,8 @@
             "value_score":51.357,
             "region":"경기도 동두천시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4125000000_Gyeonggi_Dongducheon"
+            "sub_region_code":"4125000000_Gyeonggi_Dongducheon",
+            "shorten_url":"https:\/\/me2.do\/Ixbgh4q5"
         },
         {
             "index":43,
@@ -574,7 +621,8 @@
             "value_score":50.457,
             "region":"경기도 동두천시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4125000000_Gyeonggi_Dongducheon"
+            "sub_region_code":"4125000000_Gyeonggi_Dongducheon",
+            "shorten_url":"https:\/\/me2.do\/Ixbgh4q5"
         },
         {
             "index":44,
@@ -586,7 +634,8 @@
             "value_score":50.057,
             "region":"경기도 동두천시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4125000000_Gyeonggi_Dongducheon"
+            "sub_region_code":"4125000000_Gyeonggi_Dongducheon",
+            "shorten_url":"https:\/\/me2.do\/Ixbgh4q5"
         },
         {
             "index":45,
@@ -598,7 +647,8 @@
             "value_score":48.697,
             "region":"경기도 동두천시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4125000000_Gyeonggi_Dongducheon"
+            "sub_region_code":"4125000000_Gyeonggi_Dongducheon",
+            "shorten_url":"https:\/\/me2.do\/Ixbgh4q5"
         },
         {
             "index":46,
@@ -610,7 +660,8 @@
             "value_score":47.957,
             "region":"경기도 동두천시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4125000000_Gyeonggi_Dongducheon"
+            "sub_region_code":"4125000000_Gyeonggi_Dongducheon",
+            "shorten_url":"https:\/\/me2.do\/Ixbgh4q5"
         },
         {
             "index":47,
@@ -622,7 +673,8 @@
             "value_score":46.357,
             "region":"경기도 동두천시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4125000000_Gyeonggi_Dongducheon"
+            "sub_region_code":"4125000000_Gyeonggi_Dongducheon",
+            "shorten_url":"https:\/\/me2.do\/Ixbgh4q5"
         },
         {
             "index":48,
@@ -634,7 +686,8 @@
             "value_score":44.397,
             "region":"경기도 동두천시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4125000000_Gyeonggi_Dongducheon"
+            "sub_region_code":"4125000000_Gyeonggi_Dongducheon",
+            "shorten_url":"https:\/\/me2.do\/Ixbgh4q5"
         },
         {
             "index":49,
@@ -646,7 +699,8 @@
             "value_score":43.997,
             "region":"경기도 동두천시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4125000000_Gyeonggi_Dongducheon"
+            "sub_region_code":"4125000000_Gyeonggi_Dongducheon",
+            "shorten_url":"https:\/\/me2.do\/Ixbgh4q5"
         }
     ]
 }

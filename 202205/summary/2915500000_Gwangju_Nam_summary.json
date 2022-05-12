@@ -40,6 +40,10 @@
             {
                 "name":"sub_region_code",
                 "type":"string"
+            },
+            {
+                "name":"shorten_url",
+                "type":"string"
             }
         ],
         "primaryKey":[
@@ -58,7 +62,8 @@
             "value_score":60.9751,
             "region":"광주시 남구",
             "region_code":"Gwangju",
-            "sub_region_code":"2915500000_Gwangju_Nam"
+            "sub_region_code":"2915500000_Gwangju_Nam",
+            "shorten_url":"https:\/\/me2.do\/FOmdHr7W"
         },
         {
             "index":1,
@@ -70,7 +75,8 @@
             "value_score":60.9001,
             "region":"광주시 남구",
             "region_code":"Gwangju",
-            "sub_region_code":"2915500000_Gwangju_Nam"
+            "sub_region_code":"2915500000_Gwangju_Nam",
+            "shorten_url":"https:\/\/me2.do\/FOmdHr7W"
         },
         {
             "index":2,
@@ -82,7 +88,8 @@
             "value_score":60.72805,
             "region":"광주시 남구",
             "region_code":"Gwangju",
-            "sub_region_code":"2915500000_Gwangju_Nam"
+            "sub_region_code":"2915500000_Gwangju_Nam",
+            "shorten_url":"https:\/\/me2.do\/FOmdHr7W"
         },
         {
             "index":3,
@@ -94,7 +101,8 @@
             "value_score":59.70015,
             "region":"광주시 남구",
             "region_code":"Gwangju",
-            "sub_region_code":"2915500000_Gwangju_Nam"
+            "sub_region_code":"2915500000_Gwangju_Nam",
+            "shorten_url":"https:\/\/me2.do\/FOmdHr7W"
         },
         {
             "index":4,
@@ -106,7 +114,8 @@
             "value_score":59.54815,
             "region":"광주시 남구",
             "region_code":"Gwangju",
-            "sub_region_code":"2915500000_Gwangju_Nam"
+            "sub_region_code":"2915500000_Gwangju_Nam",
+            "shorten_url":"https:\/\/me2.do\/FOmdHr7W"
         },
         {
             "index":5,
@@ -118,7 +127,8 @@
             "value_score":58.27805,
             "region":"광주시 남구",
             "region_code":"Gwangju",
-            "sub_region_code":"2915500000_Gwangju_Nam"
+            "sub_region_code":"2915500000_Gwangju_Nam",
+            "shorten_url":"https:\/\/me2.do\/FOmdHr7W"
         },
         {
             "index":6,
@@ -130,7 +140,8 @@
             "value_score":58.25785,
             "region":"광주시 남구",
             "region_code":"Gwangju",
-            "sub_region_code":"2915500000_Gwangju_Nam"
+            "sub_region_code":"2915500000_Gwangju_Nam",
+            "shorten_url":"https:\/\/me2.do\/FOmdHr7W"
         },
         {
             "index":7,
@@ -142,7 +153,8 @@
             "value_score":57.8602,
             "region":"광주시 남구",
             "region_code":"Gwangju",
-            "sub_region_code":"2915500000_Gwangju_Nam"
+            "sub_region_code":"2915500000_Gwangju_Nam",
+            "shorten_url":"https:\/\/me2.do\/FOmdHr7W"
         },
         {
             "index":8,
@@ -154,7 +166,8 @@
             "value_score":57.2352,
             "region":"광주시 남구",
             "region_code":"Gwangju",
-            "sub_region_code":"2915500000_Gwangju_Nam"
+            "sub_region_code":"2915500000_Gwangju_Nam",
+            "shorten_url":"https:\/\/me2.do\/FOmdHr7W"
         },
         {
             "index":9,
@@ -166,7 +179,8 @@
             "value_score":57.1162,
             "region":"광주시 남구",
             "region_code":"Gwangju",
-            "sub_region_code":"2915500000_Gwangju_Nam"
+            "sub_region_code":"2915500000_Gwangju_Nam",
+            "shorten_url":"https:\/\/me2.do\/FOmdHr7W"
         },
         {
             "index":10,
@@ -178,7 +192,8 @@
             "value_score":64.7358,
             "region":"광주시 남구",
             "region_code":"Gwangju",
-            "sub_region_code":"2915500000_Gwangju_Nam"
+            "sub_region_code":"2915500000_Gwangju_Nam",
+            "shorten_url":"https:\/\/me2.do\/FOmdHr7W"
         },
         {
             "index":11,
@@ -190,7 +205,8 @@
             "value_score":63.3418,
             "region":"광주시 남구",
             "region_code":"Gwangju",
-            "sub_region_code":"2915500000_Gwangju_Nam"
+            "sub_region_code":"2915500000_Gwangju_Nam",
+            "shorten_url":"https:\/\/me2.do\/FOmdHr7W"
         },
         {
             "index":12,
@@ -202,7 +218,8 @@
             "value_score":61.2844,
             "region":"광주시 남구",
             "region_code":"Gwangju",
-            "sub_region_code":"2915500000_Gwangju_Nam"
+            "sub_region_code":"2915500000_Gwangju_Nam",
+            "shorten_url":"https:\/\/me2.do\/FOmdHr7W"
         },
         {
             "index":13,
@@ -214,7 +231,8 @@
             "value_score":60.5164,
             "region":"광주시 남구",
             "region_code":"Gwangju",
-            "sub_region_code":"2915500000_Gwangju_Nam"
+            "sub_region_code":"2915500000_Gwangju_Nam",
+            "shorten_url":"https:\/\/me2.do\/FOmdHr7W"
         },
         {
             "index":14,
@@ -226,7 +244,8 @@
             "value_score":60.2846,
             "region":"광주시 남구",
             "region_code":"Gwangju",
-            "sub_region_code":"2915500000_Gwangju_Nam"
+            "sub_region_code":"2915500000_Gwangju_Nam",
+            "shorten_url":"https:\/\/me2.do\/FOmdHr7W"
         },
         {
             "index":15,
@@ -238,7 +257,8 @@
             "value_score":60.1344,
             "region":"광주시 남구",
             "region_code":"Gwangju",
-            "sub_region_code":"2915500000_Gwangju_Nam"
+            "sub_region_code":"2915500000_Gwangju_Nam",
+            "shorten_url":"https:\/\/me2.do\/FOmdHr7W"
         },
         {
             "index":16,
@@ -250,7 +270,8 @@
             "value_score":59.0572,
             "region":"광주시 남구",
             "region_code":"Gwangju",
-            "sub_region_code":"2915500000_Gwangju_Nam"
+            "sub_region_code":"2915500000_Gwangju_Nam",
+            "shorten_url":"https:\/\/me2.do\/FOmdHr7W"
         },
         {
             "index":17,
@@ -262,7 +283,8 @@
             "value_score":58.9664,
             "region":"광주시 남구",
             "region_code":"Gwangju",
-            "sub_region_code":"2915500000_Gwangju_Nam"
+            "sub_region_code":"2915500000_Gwangju_Nam",
+            "shorten_url":"https:\/\/me2.do\/FOmdHr7W"
         },
         {
             "index":18,
@@ -274,7 +296,8 @@
             "value_score":58.7358,
             "region":"광주시 남구",
             "region_code":"Gwangju",
-            "sub_region_code":"2915500000_Gwangju_Nam"
+            "sub_region_code":"2915500000_Gwangju_Nam",
+            "shorten_url":"https:\/\/me2.do\/FOmdHr7W"
         },
         {
             "index":19,
@@ -286,7 +309,8 @@
             "value_score":58.5946,
             "region":"광주시 남구",
             "region_code":"Gwangju",
-            "sub_region_code":"2915500000_Gwangju_Nam"
+            "sub_region_code":"2915500000_Gwangju_Nam",
+            "shorten_url":"https:\/\/me2.do\/FOmdHr7W"
         },
         {
             "index":20,
@@ -298,7 +322,8 @@
             "value_score":65.01435,
             "region":"광주시 남구",
             "region_code":"Gwangju",
-            "sub_region_code":"2915500000_Gwangju_Nam"
+            "sub_region_code":"2915500000_Gwangju_Nam",
+            "shorten_url":"https:\/\/me2.do\/FOmdHr7W"
         },
         {
             "index":21,
@@ -310,7 +335,8 @@
             "value_score":61.1008,
             "region":"광주시 남구",
             "region_code":"Gwangju",
-            "sub_region_code":"2915500000_Gwangju_Nam"
+            "sub_region_code":"2915500000_Gwangju_Nam",
+            "shorten_url":"https:\/\/me2.do\/FOmdHr7W"
         },
         {
             "index":22,
@@ -322,7 +348,8 @@
             "value_score":61.0258,
             "region":"광주시 남구",
             "region_code":"Gwangju",
-            "sub_region_code":"2915500000_Gwangju_Nam"
+            "sub_region_code":"2915500000_Gwangju_Nam",
+            "shorten_url":"https:\/\/me2.do\/FOmdHr7W"
         },
         {
             "index":23,
@@ -334,7 +361,8 @@
             "value_score":60.08935,
             "region":"광주시 남구",
             "region_code":"Gwangju",
-            "sub_region_code":"2915500000_Gwangju_Nam"
+            "sub_region_code":"2915500000_Gwangju_Nam",
+            "shorten_url":"https:\/\/me2.do\/FOmdHr7W"
         },
         {
             "index":24,
@@ -346,7 +374,8 @@
             "value_score":56.60635,
             "region":"광주시 남구",
             "region_code":"Gwangju",
-            "sub_region_code":"2915500000_Gwangju_Nam"
+            "sub_region_code":"2915500000_Gwangju_Nam",
+            "shorten_url":"https:\/\/me2.do\/FOmdHr7W"
         },
         {
             "index":25,
@@ -358,7 +387,8 @@
             "value_score":56.41435,
             "region":"광주시 남구",
             "region_code":"Gwangju",
-            "sub_region_code":"2915500000_Gwangju_Nam"
+            "sub_region_code":"2915500000_Gwangju_Nam",
+            "shorten_url":"https:\/\/me2.do\/FOmdHr7W"
         },
         {
             "index":26,
@@ -370,7 +400,8 @@
             "value_score":55.58935,
             "region":"광주시 남구",
             "region_code":"Gwangju",
-            "sub_region_code":"2915500000_Gwangju_Nam"
+            "sub_region_code":"2915500000_Gwangju_Nam",
+            "shorten_url":"https:\/\/me2.do\/FOmdHr7W"
         },
         {
             "index":27,
@@ -382,7 +413,8 @@
             "value_score":55.03935,
             "region":"광주시 남구",
             "region_code":"Gwangju",
-            "sub_region_code":"2915500000_Gwangju_Nam"
+            "sub_region_code":"2915500000_Gwangju_Nam",
+            "shorten_url":"https:\/\/me2.do\/FOmdHr7W"
         },
         {
             "index":28,
@@ -394,7 +426,8 @@
             "value_score":50.78935,
             "region":"광주시 남구",
             "region_code":"Gwangju",
-            "sub_region_code":"2915500000_Gwangju_Nam"
+            "sub_region_code":"2915500000_Gwangju_Nam",
+            "shorten_url":"https:\/\/me2.do\/FOmdHr7W"
         },
         {
             "index":29,
@@ -406,7 +439,8 @@
             "value_score":49.92585,
             "region":"광주시 남구",
             "region_code":"Gwangju",
-            "sub_region_code":"2915500000_Gwangju_Nam"
+            "sub_region_code":"2915500000_Gwangju_Nam",
+            "shorten_url":"https:\/\/me2.do\/FOmdHr7W"
         },
         {
             "index":30,
@@ -418,7 +452,8 @@
             "value_score":61.93775,
             "region":"광주시 남구",
             "region_code":"Gwangju",
-            "sub_region_code":"2915500000_Gwangju_Nam"
+            "sub_region_code":"2915500000_Gwangju_Nam",
+            "shorten_url":"https:\/\/me2.do\/FOmdHr7W"
         },
         {
             "index":31,
@@ -430,7 +465,8 @@
             "value_score":60.17725,
             "region":"광주시 남구",
             "region_code":"Gwangju",
-            "sub_region_code":"2915500000_Gwangju_Nam"
+            "sub_region_code":"2915500000_Gwangju_Nam",
+            "shorten_url":"https:\/\/me2.do\/FOmdHr7W"
         },
         {
             "index":32,
@@ -442,7 +478,8 @@
             "value_score":59.63775,
             "region":"광주시 남구",
             "region_code":"Gwangju",
-            "sub_region_code":"2915500000_Gwangju_Nam"
+            "sub_region_code":"2915500000_Gwangju_Nam",
+            "shorten_url":"https:\/\/me2.do\/FOmdHr7W"
         },
         {
             "index":33,
@@ -454,7 +491,8 @@
             "value_score":58.344,
             "region":"광주시 남구",
             "region_code":"Gwangju",
-            "sub_region_code":"2915500000_Gwangju_Nam"
+            "sub_region_code":"2915500000_Gwangju_Nam",
+            "shorten_url":"https:\/\/me2.do\/FOmdHr7W"
         },
         {
             "index":34,
@@ -466,7 +504,8 @@
             "value_score":57.89325,
             "region":"광주시 남구",
             "region_code":"Gwangju",
-            "sub_region_code":"2915500000_Gwangju_Nam"
+            "sub_region_code":"2915500000_Gwangju_Nam",
+            "shorten_url":"https:\/\/me2.do\/FOmdHr7W"
         },
         {
             "index":35,
@@ -478,7 +517,8 @@
             "value_score":57.54325,
             "region":"광주시 남구",
             "region_code":"Gwangju",
-            "sub_region_code":"2915500000_Gwangju_Nam"
+            "sub_region_code":"2915500000_Gwangju_Nam",
+            "shorten_url":"https:\/\/me2.do\/FOmdHr7W"
         },
         {
             "index":36,
@@ -490,7 +530,8 @@
             "value_score":57.33225,
             "region":"광주시 남구",
             "region_code":"Gwangju",
-            "sub_region_code":"2915500000_Gwangju_Nam"
+            "sub_region_code":"2915500000_Gwangju_Nam",
+            "shorten_url":"https:\/\/me2.do\/FOmdHr7W"
         },
         {
             "index":37,
@@ -502,7 +543,8 @@
             "value_score":56.944,
             "region":"광주시 남구",
             "region_code":"Gwangju",
-            "sub_region_code":"2915500000_Gwangju_Nam"
+            "sub_region_code":"2915500000_Gwangju_Nam",
+            "shorten_url":"https:\/\/me2.do\/FOmdHr7W"
         },
         {
             "index":38,
@@ -514,7 +556,8 @@
             "value_score":56.894,
             "region":"광주시 남구",
             "region_code":"Gwangju",
-            "sub_region_code":"2915500000_Gwangju_Nam"
+            "sub_region_code":"2915500000_Gwangju_Nam",
+            "shorten_url":"https:\/\/me2.do\/FOmdHr7W"
         },
         {
             "index":39,
@@ -526,7 +569,8 @@
             "value_score":56.444,
             "region":"광주시 남구",
             "region_code":"Gwangju",
-            "sub_region_code":"2915500000_Gwangju_Nam"
+            "sub_region_code":"2915500000_Gwangju_Nam",
+            "shorten_url":"https:\/\/me2.do\/FOmdHr7W"
         },
         {
             "index":40,
@@ -538,7 +582,8 @@
             "value_score":63.793,
             "region":"광주시 남구",
             "region_code":"Gwangju",
-            "sub_region_code":"2915500000_Gwangju_Nam"
+            "sub_region_code":"2915500000_Gwangju_Nam",
+            "shorten_url":"https:\/\/me2.do\/FOmdHr7W"
         },
         {
             "index":41,
@@ -550,7 +595,8 @@
             "value_score":62.893,
             "region":"광주시 남구",
             "region_code":"Gwangju",
-            "sub_region_code":"2915500000_Gwangju_Nam"
+            "sub_region_code":"2915500000_Gwangju_Nam",
+            "shorten_url":"https:\/\/me2.do\/FOmdHr7W"
         },
         {
             "index":42,
@@ -562,7 +608,8 @@
             "value_score":62.8615,
             "region":"광주시 남구",
             "region_code":"Gwangju",
-            "sub_region_code":"2915500000_Gwangju_Nam"
+            "sub_region_code":"2915500000_Gwangju_Nam",
+            "shorten_url":"https:\/\/me2.do\/FOmdHr7W"
         },
         {
             "index":43,
@@ -574,7 +621,8 @@
             "value_score":61.1755,
             "region":"광주시 남구",
             "region_code":"Gwangju",
-            "sub_region_code":"2915500000_Gwangju_Nam"
+            "sub_region_code":"2915500000_Gwangju_Nam",
+            "shorten_url":"https:\/\/me2.do\/FOmdHr7W"
         },
         {
             "index":44,
@@ -586,7 +634,8 @@
             "value_score":61.1615,
             "region":"광주시 남구",
             "region_code":"Gwangju",
-            "sub_region_code":"2915500000_Gwangju_Nam"
+            "sub_region_code":"2915500000_Gwangju_Nam",
+            "shorten_url":"https:\/\/me2.do\/FOmdHr7W"
         },
         {
             "index":45,
@@ -598,7 +647,8 @@
             "value_score":60.893,
             "region":"광주시 남구",
             "region_code":"Gwangju",
-            "sub_region_code":"2915500000_Gwangju_Nam"
+            "sub_region_code":"2915500000_Gwangju_Nam",
+            "shorten_url":"https:\/\/me2.do\/FOmdHr7W"
         },
         {
             "index":46,
@@ -610,7 +660,8 @@
             "value_score":60.788,
             "region":"광주시 남구",
             "region_code":"Gwangju",
-            "sub_region_code":"2915500000_Gwangju_Nam"
+            "sub_region_code":"2915500000_Gwangju_Nam",
+            "shorten_url":"https:\/\/me2.do\/FOmdHr7W"
         },
         {
             "index":47,
@@ -622,7 +673,8 @@
             "value_score":59.9615,
             "region":"광주시 남구",
             "region_code":"Gwangju",
-            "sub_region_code":"2915500000_Gwangju_Nam"
+            "sub_region_code":"2915500000_Gwangju_Nam",
+            "shorten_url":"https:\/\/me2.do\/FOmdHr7W"
         },
         {
             "index":48,
@@ -634,7 +686,8 @@
             "value_score":59.1615,
             "region":"광주시 남구",
             "region_code":"Gwangju",
-            "sub_region_code":"2915500000_Gwangju_Nam"
+            "sub_region_code":"2915500000_Gwangju_Nam",
+            "shorten_url":"https:\/\/me2.do\/FOmdHr7W"
         },
         {
             "index":49,
@@ -646,7 +699,8 @@
             "value_score":58.988,
             "region":"광주시 남구",
             "region_code":"Gwangju",
-            "sub_region_code":"2915500000_Gwangju_Nam"
+            "sub_region_code":"2915500000_Gwangju_Nam",
+            "shorten_url":"https:\/\/me2.do\/FOmdHr7W"
         }
     ]
 }

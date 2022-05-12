@@ -40,6 +40,10 @@
             {
                 "name":"sub_region_code",
                 "type":"string"
+            },
+            {
+                "name":"shorten_url",
+                "type":"string"
             }
         ],
         "primaryKey":[
@@ -58,7 +62,8 @@
             "value_score":71.6823,
             "region":"경기도 안양시 만안구",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4117100000_Gyeonggi_Anyang_Manan"
+            "sub_region_code":"4117100000_Gyeonggi_Anyang_Manan",
+            "shorten_url":"https:\/\/me2.do\/GhPqDm4Q"
         },
         {
             "index":1,
@@ -70,7 +75,8 @@
             "value_score":71.1438,
             "region":"경기도 안양시 만안구",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4117100000_Gyeonggi_Anyang_Manan"
+            "sub_region_code":"4117100000_Gyeonggi_Anyang_Manan",
+            "shorten_url":"https:\/\/me2.do\/GhPqDm4Q"
         },
         {
             "index":2,
@@ -82,7 +88,8 @@
             "value_score":71.0238,
             "region":"경기도 안양시 만안구",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4117100000_Gyeonggi_Anyang_Manan"
+            "sub_region_code":"4117100000_Gyeonggi_Anyang_Manan",
+            "shorten_url":"https:\/\/me2.do\/GhPqDm4Q"
         },
         {
             "index":3,
@@ -94,7 +101,8 @@
             "value_score":66.60975,
             "region":"경기도 안양시 만안구",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4117100000_Gyeonggi_Anyang_Manan"
+            "sub_region_code":"4117100000_Gyeonggi_Anyang_Manan",
+            "shorten_url":"https:\/\/me2.do\/GhPqDm4Q"
         },
         {
             "index":4,
@@ -106,7 +114,8 @@
             "value_score":64.90975,
             "region":"경기도 안양시 만안구",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4117100000_Gyeonggi_Anyang_Manan"
+            "sub_region_code":"4117100000_Gyeonggi_Anyang_Manan",
+            "shorten_url":"https:\/\/me2.do\/GhPqDm4Q"
         },
         {
             "index":5,
@@ -118,7 +127,8 @@
             "value_score":63.55975,
             "region":"경기도 안양시 만안구",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4117100000_Gyeonggi_Anyang_Manan"
+            "sub_region_code":"4117100000_Gyeonggi_Anyang_Manan",
+            "shorten_url":"https:\/\/me2.do\/GhPqDm4Q"
         },
         {
             "index":6,
@@ -130,7 +140,8 @@
             "value_score":62.68845,
             "region":"경기도 안양시 만안구",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4117100000_Gyeonggi_Anyang_Manan"
+            "sub_region_code":"4117100000_Gyeonggi_Anyang_Manan",
+            "shorten_url":"https:\/\/me2.do\/GhPqDm4Q"
         },
         {
             "index":7,
@@ -142,7 +153,8 @@
             "value_score":62.65975,
             "region":"경기도 안양시 만안구",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4117100000_Gyeonggi_Anyang_Manan"
+            "sub_region_code":"4117100000_Gyeonggi_Anyang_Manan",
+            "shorten_url":"https:\/\/me2.do\/GhPqDm4Q"
         },
         {
             "index":8,
@@ -154,7 +166,8 @@
             "value_score":62.354,
             "region":"경기도 안양시 만안구",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4117100000_Gyeonggi_Anyang_Manan"
+            "sub_region_code":"4117100000_Gyeonggi_Anyang_Manan",
+            "shorten_url":"https:\/\/me2.do\/GhPqDm4Q"
         },
         {
             "index":9,
@@ -166,7 +179,8 @@
             "value_score":62.30975,
             "region":"경기도 안양시 만안구",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4117100000_Gyeonggi_Anyang_Manan"
+            "sub_region_code":"4117100000_Gyeonggi_Anyang_Manan",
+            "shorten_url":"https:\/\/me2.do\/GhPqDm4Q"
         },
         {
             "index":10,
@@ -178,7 +192,8 @@
             "value_score":79.2764,
             "region":"경기도 안양시 만안구",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4117100000_Gyeonggi_Anyang_Manan"
+            "sub_region_code":"4117100000_Gyeonggi_Anyang_Manan",
+            "shorten_url":"https:\/\/me2.do\/GhPqDm4Q"
         },
         {
             "index":11,
@@ -190,7 +205,8 @@
             "value_score":67.7784,
             "region":"경기도 안양시 만안구",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4117100000_Gyeonggi_Anyang_Manan"
+            "sub_region_code":"4117100000_Gyeonggi_Anyang_Manan",
+            "shorten_url":"https:\/\/me2.do\/GhPqDm4Q"
         },
         {
             "index":12,
@@ -202,7 +218,8 @@
             "value_score":67.5064,
             "region":"경기도 안양시 만안구",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4117100000_Gyeonggi_Anyang_Manan"
+            "sub_region_code":"4117100000_Gyeonggi_Anyang_Manan",
+            "shorten_url":"https:\/\/me2.do\/GhPqDm4Q"
         },
         {
             "index":13,
@@ -214,7 +231,8 @@
             "value_score":65.612,
             "region":"경기도 안양시 만안구",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4117100000_Gyeonggi_Anyang_Manan"
+            "sub_region_code":"4117100000_Gyeonggi_Anyang_Manan",
+            "shorten_url":"https:\/\/me2.do\/GhPqDm4Q"
         },
         {
             "index":14,
@@ -226,7 +244,8 @@
             "value_score":64.5956,
             "region":"경기도 안양시 만안구",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4117100000_Gyeonggi_Anyang_Manan"
+            "sub_region_code":"4117100000_Gyeonggi_Anyang_Manan",
+            "shorten_url":"https:\/\/me2.do\/GhPqDm4Q"
         },
         {
             "index":15,
@@ -238,7 +257,8 @@
             "value_score":64.1484,
             "region":"경기도 안양시 만안구",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4117100000_Gyeonggi_Anyang_Manan"
+            "sub_region_code":"4117100000_Gyeonggi_Anyang_Manan",
+            "shorten_url":"https:\/\/me2.do\/GhPqDm4Q"
         },
         {
             "index":16,
@@ -250,7 +270,8 @@
             "value_score":60.8468,
             "region":"경기도 안양시 만안구",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4117100000_Gyeonggi_Anyang_Manan"
+            "sub_region_code":"4117100000_Gyeonggi_Anyang_Manan",
+            "shorten_url":"https:\/\/me2.do\/GhPqDm4Q"
         },
         {
             "index":17,
@@ -262,7 +283,8 @@
             "value_score":60.7984,
             "region":"경기도 안양시 만안구",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4117100000_Gyeonggi_Anyang_Manan"
+            "sub_region_code":"4117100000_Gyeonggi_Anyang_Manan",
+            "shorten_url":"https:\/\/me2.do\/GhPqDm4Q"
         },
         {
             "index":18,
@@ -274,7 +296,8 @@
             "value_score":60.7846,
             "region":"경기도 안양시 만안구",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4117100000_Gyeonggi_Anyang_Manan"
+            "sub_region_code":"4117100000_Gyeonggi_Anyang_Manan",
+            "shorten_url":"https:\/\/me2.do\/GhPqDm4Q"
         },
         {
             "index":19,
@@ -286,7 +309,8 @@
             "value_score":60.2784,
             "region":"경기도 안양시 만안구",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4117100000_Gyeonggi_Anyang_Manan"
+            "sub_region_code":"4117100000_Gyeonggi_Anyang_Manan",
+            "shorten_url":"https:\/\/me2.do\/GhPqDm4Q"
         },
         {
             "index":20,
@@ -298,7 +322,8 @@
             "value_score":71.4988,
             "region":"경기도 안양시 만안구",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4117100000_Gyeonggi_Anyang_Manan"
+            "sub_region_code":"4117100000_Gyeonggi_Anyang_Manan",
+            "shorten_url":"https:\/\/me2.do\/GhPqDm4Q"
         },
         {
             "index":21,
@@ -310,7 +335,8 @@
             "value_score":70.18475,
             "region":"경기도 안양시 만안구",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4117100000_Gyeonggi_Anyang_Manan"
+            "sub_region_code":"4117100000_Gyeonggi_Anyang_Manan",
+            "shorten_url":"https:\/\/me2.do\/GhPqDm4Q"
         },
         {
             "index":22,
@@ -322,7 +348,8 @@
             "value_score":70.1038,
             "region":"경기도 안양시 만안구",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4117100000_Gyeonggi_Anyang_Manan"
+            "sub_region_code":"4117100000_Gyeonggi_Anyang_Manan",
+            "shorten_url":"https:\/\/me2.do\/GhPqDm4Q"
         },
         {
             "index":23,
@@ -334,7 +361,8 @@
             "value_score":69.38475,
             "region":"경기도 안양시 만안구",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4117100000_Gyeonggi_Anyang_Manan"
+            "sub_region_code":"4117100000_Gyeonggi_Anyang_Manan",
+            "shorten_url":"https:\/\/me2.do\/GhPqDm4Q"
         },
         {
             "index":24,
@@ -346,7 +374,8 @@
             "value_score":67.0323,
             "region":"경기도 안양시 만안구",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4117100000_Gyeonggi_Anyang_Manan"
+            "sub_region_code":"4117100000_Gyeonggi_Anyang_Manan",
+            "shorten_url":"https:\/\/me2.do\/GhPqDm4Q"
         },
         {
             "index":25,
@@ -358,7 +387,8 @@
             "value_score":65.95975,
             "region":"경기도 안양시 만안구",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4117100000_Gyeonggi_Anyang_Manan"
+            "sub_region_code":"4117100000_Gyeonggi_Anyang_Manan",
+            "shorten_url":"https:\/\/me2.do\/GhPqDm4Q"
         },
         {
             "index":26,
@@ -370,7 +400,8 @@
             "value_score":65.93845,
             "region":"경기도 안양시 만안구",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4117100000_Gyeonggi_Anyang_Manan"
+            "sub_region_code":"4117100000_Gyeonggi_Anyang_Manan",
+            "shorten_url":"https:\/\/me2.do\/GhPqDm4Q"
         },
         {
             "index":27,
@@ -382,7 +413,8 @@
             "value_score":65.28475,
             "region":"경기도 안양시 만안구",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4117100000_Gyeonggi_Anyang_Manan"
+            "sub_region_code":"4117100000_Gyeonggi_Anyang_Manan",
+            "shorten_url":"https:\/\/me2.do\/GhPqDm4Q"
         },
         {
             "index":28,
@@ -394,7 +426,8 @@
             "value_score":65.05975,
             "region":"경기도 안양시 만안구",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4117100000_Gyeonggi_Anyang_Manan"
+            "sub_region_code":"4117100000_Gyeonggi_Anyang_Manan",
+            "shorten_url":"https:\/\/me2.do\/GhPqDm4Q"
         },
         {
             "index":29,
@@ -406,7 +439,8 @@
             "value_score":64.364,
             "region":"경기도 안양시 만안구",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4117100000_Gyeonggi_Anyang_Manan"
+            "sub_region_code":"4117100000_Gyeonggi_Anyang_Manan",
+            "shorten_url":"https:\/\/me2.do\/GhPqDm4Q"
         },
         {
             "index":30,
@@ -418,7 +452,8 @@
             "value_score":74.8705,
             "region":"경기도 안양시 만안구",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4117100000_Gyeonggi_Anyang_Manan"
+            "sub_region_code":"4117100000_Gyeonggi_Anyang_Manan",
+            "shorten_url":"https:\/\/me2.do\/GhPqDm4Q"
         },
         {
             "index":31,
@@ -430,7 +465,8 @@
             "value_score":71.273,
             "region":"경기도 안양시 만안구",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4117100000_Gyeonggi_Anyang_Manan"
+            "sub_region_code":"4117100000_Gyeonggi_Anyang_Manan",
+            "shorten_url":"https:\/\/me2.do\/GhPqDm4Q"
         },
         {
             "index":32,
@@ -442,7 +478,8 @@
             "value_score":70.223,
             "region":"경기도 안양시 만안구",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4117100000_Gyeonggi_Anyang_Manan"
+            "sub_region_code":"4117100000_Gyeonggi_Anyang_Manan",
+            "shorten_url":"https:\/\/me2.do\/GhPqDm4Q"
         },
         {
             "index":33,
@@ -454,7 +491,8 @@
             "value_score":65.9705,
             "region":"경기도 안양시 만안구",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4117100000_Gyeonggi_Anyang_Manan"
+            "sub_region_code":"4117100000_Gyeonggi_Anyang_Manan",
+            "shorten_url":"https:\/\/me2.do\/GhPqDm4Q"
         },
         {
             "index":34,
@@ -466,7 +504,8 @@
             "value_score":64.473,
             "region":"경기도 안양시 만안구",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4117100000_Gyeonggi_Anyang_Manan"
+            "sub_region_code":"4117100000_Gyeonggi_Anyang_Manan",
+            "shorten_url":"https:\/\/me2.do\/GhPqDm4Q"
         },
         {
             "index":35,
@@ -478,7 +517,8 @@
             "value_score":64.3705,
             "region":"경기도 안양시 만안구",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4117100000_Gyeonggi_Anyang_Manan"
+            "sub_region_code":"4117100000_Gyeonggi_Anyang_Manan",
+            "shorten_url":"https:\/\/me2.do\/GhPqDm4Q"
         },
         {
             "index":36,
@@ -490,7 +530,8 @@
             "value_score":63.723,
             "region":"경기도 안양시 만안구",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4117100000_Gyeonggi_Anyang_Manan"
+            "sub_region_code":"4117100000_Gyeonggi_Anyang_Manan",
+            "shorten_url":"https:\/\/me2.do\/GhPqDm4Q"
         },
         {
             "index":37,
@@ -502,7 +543,8 @@
             "value_score":63.7205,
             "region":"경기도 안양시 만안구",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4117100000_Gyeonggi_Anyang_Manan"
+            "sub_region_code":"4117100000_Gyeonggi_Anyang_Manan",
+            "shorten_url":"https:\/\/me2.do\/GhPqDm4Q"
         },
         {
             "index":38,
@@ -514,7 +556,8 @@
             "value_score":63.4205,
             "region":"경기도 안양시 만안구",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4117100000_Gyeonggi_Anyang_Manan"
+            "sub_region_code":"4117100000_Gyeonggi_Anyang_Manan",
+            "shorten_url":"https:\/\/me2.do\/GhPqDm4Q"
         },
         {
             "index":39,
@@ -526,7 +569,8 @@
             "value_score":63.1205,
             "region":"경기도 안양시 만안구",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4117100000_Gyeonggi_Anyang_Manan"
+            "sub_region_code":"4117100000_Gyeonggi_Anyang_Manan",
+            "shorten_url":"https:\/\/me2.do\/GhPqDm4Q"
         },
         {
             "index":40,
@@ -538,7 +582,8 @@
             "value_score":71.141,
             "region":"경기도 안양시 만안구",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4117100000_Gyeonggi_Anyang_Manan"
+            "sub_region_code":"4117100000_Gyeonggi_Anyang_Manan",
+            "shorten_url":"https:\/\/me2.do\/GhPqDm4Q"
         },
         {
             "index":41,
@@ -550,7 +595,8 @@
             "value_score":61.514,
             "region":"경기도 안양시 만안구",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4117100000_Gyeonggi_Anyang_Manan"
+            "sub_region_code":"4117100000_Gyeonggi_Anyang_Manan",
+            "shorten_url":"https:\/\/me2.do\/GhPqDm4Q"
         },
         {
             "index":42,
@@ -562,7 +608,8 @@
             "value_score":61.026,
             "region":"경기도 안양시 만안구",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4117100000_Gyeonggi_Anyang_Manan"
+            "sub_region_code":"4117100000_Gyeonggi_Anyang_Manan",
+            "shorten_url":"https:\/\/me2.do\/GhPqDm4Q"
         },
         {
             "index":43,
@@ -574,7 +621,8 @@
             "value_score":60.346,
             "region":"경기도 안양시 만안구",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4117100000_Gyeonggi_Anyang_Manan"
+            "sub_region_code":"4117100000_Gyeonggi_Anyang_Manan",
+            "shorten_url":"https:\/\/me2.do\/GhPqDm4Q"
         },
         {
             "index":44,
@@ -586,7 +634,8 @@
             "value_score":59.646,
             "region":"경기도 안양시 만안구",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4117100000_Gyeonggi_Anyang_Manan"
+            "sub_region_code":"4117100000_Gyeonggi_Anyang_Manan",
+            "shorten_url":"https:\/\/me2.do\/GhPqDm4Q"
         },
         {
             "index":45,
@@ -598,7 +647,8 @@
             "value_score":59.146,
             "region":"경기도 안양시 만안구",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4117100000_Gyeonggi_Anyang_Manan"
+            "sub_region_code":"4117100000_Gyeonggi_Anyang_Manan",
+            "shorten_url":"https:\/\/me2.do\/GhPqDm4Q"
         },
         {
             "index":46,
@@ -610,7 +660,8 @@
             "value_score":58.326,
             "region":"경기도 안양시 만안구",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4117100000_Gyeonggi_Anyang_Manan"
+            "sub_region_code":"4117100000_Gyeonggi_Anyang_Manan",
+            "shorten_url":"https:\/\/me2.do\/GhPqDm4Q"
         },
         {
             "index":47,
@@ -622,7 +673,8 @@
             "value_score":58.28,
             "region":"경기도 안양시 만안구",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4117100000_Gyeonggi_Anyang_Manan"
+            "sub_region_code":"4117100000_Gyeonggi_Anyang_Manan",
+            "shorten_url":"https:\/\/me2.do\/GhPqDm4Q"
         },
         {
             "index":48,
@@ -634,7 +686,8 @@
             "value_score":57.746,
             "region":"경기도 안양시 만안구",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4117100000_Gyeonggi_Anyang_Manan"
+            "sub_region_code":"4117100000_Gyeonggi_Anyang_Manan",
+            "shorten_url":"https:\/\/me2.do\/GhPqDm4Q"
         },
         {
             "index":49,
@@ -646,7 +699,8 @@
             "value_score":57.641,
             "region":"경기도 안양시 만안구",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4117100000_Gyeonggi_Anyang_Manan"
+            "sub_region_code":"4117100000_Gyeonggi_Anyang_Manan",
+            "shorten_url":"https:\/\/me2.do\/GhPqDm4Q"
         }
     ]
 }

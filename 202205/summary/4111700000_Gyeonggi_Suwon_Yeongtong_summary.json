@@ -40,6 +40,10 @@
             {
                 "name":"sub_region_code",
                 "type":"string"
+            },
+            {
+                "name":"shorten_url",
+                "type":"string"
             }
         ],
         "primaryKey":[
@@ -58,7 +62,8 @@
             "value_score":80.5408,
             "region":"경기도 수원시 영통구",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4111700000_Gyeonggi_Suwon_Yeongtong"
+            "sub_region_code":"4111700000_Gyeonggi_Suwon_Yeongtong",
+            "shorten_url":"https:\/\/me2.do\/5Cb2khHn"
         },
         {
             "index":1,
@@ -70,7 +75,8 @@
             "value_score":78.42325,
             "region":"경기도 수원시 영통구",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4111700000_Gyeonggi_Suwon_Yeongtong"
+            "sub_region_code":"4111700000_Gyeonggi_Suwon_Yeongtong",
+            "shorten_url":"https:\/\/me2.do\/5Cb2khHn"
         },
         {
             "index":2,
@@ -82,7 +88,8 @@
             "value_score":76.02325,
             "region":"경기도 수원시 영통구",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4111700000_Gyeonggi_Suwon_Yeongtong"
+            "sub_region_code":"4111700000_Gyeonggi_Suwon_Yeongtong",
+            "shorten_url":"https:\/\/me2.do\/5Cb2khHn"
         },
         {
             "index":3,
@@ -94,7 +101,8 @@
             "value_score":74.0408,
             "region":"경기도 수원시 영통구",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4111700000_Gyeonggi_Suwon_Yeongtong"
+            "sub_region_code":"4111700000_Gyeonggi_Suwon_Yeongtong",
+            "shorten_url":"https:\/\/me2.do\/5Cb2khHn"
         },
         {
             "index":4,
@@ -106,7 +114,8 @@
             "value_score":73.8408,
             "region":"경기도 수원시 영통구",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4111700000_Gyeonggi_Suwon_Yeongtong"
+            "sub_region_code":"4111700000_Gyeonggi_Suwon_Yeongtong",
+            "shorten_url":"https:\/\/me2.do\/5Cb2khHn"
         },
         {
             "index":5,
@@ -118,7 +127,8 @@
             "value_score":71.89325,
             "region":"경기도 수원시 영통구",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4111700000_Gyeonggi_Suwon_Yeongtong"
+            "sub_region_code":"4111700000_Gyeonggi_Suwon_Yeongtong",
+            "shorten_url":"https:\/\/me2.do\/5Cb2khHn"
         },
         {
             "index":6,
@@ -130,7 +140,8 @@
             "value_score":71.22325,
             "region":"경기도 수원시 영통구",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4111700000_Gyeonggi_Suwon_Yeongtong"
+            "sub_region_code":"4111700000_Gyeonggi_Suwon_Yeongtong",
+            "shorten_url":"https:\/\/me2.do\/5Cb2khHn"
         },
         {
             "index":7,
@@ -142,7 +153,8 @@
             "value_score":70.2408,
             "region":"경기도 수원시 영통구",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4111700000_Gyeonggi_Suwon_Yeongtong"
+            "sub_region_code":"4111700000_Gyeonggi_Suwon_Yeongtong",
+            "shorten_url":"https:\/\/me2.do\/5Cb2khHn"
         },
         {
             "index":8,
@@ -154,7 +166,8 @@
             "value_score":67.41495,
             "region":"경기도 수원시 영통구",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4111700000_Gyeonggi_Suwon_Yeongtong"
+            "sub_region_code":"4111700000_Gyeonggi_Suwon_Yeongtong",
+            "shorten_url":"https:\/\/me2.do\/5Cb2khHn"
         },
         {
             "index":9,
@@ -166,7 +179,8 @@
             "value_score":67.39765,
             "region":"경기도 수원시 영통구",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4111700000_Gyeonggi_Suwon_Yeongtong"
+            "sub_region_code":"4111700000_Gyeonggi_Suwon_Yeongtong",
+            "shorten_url":"https:\/\/me2.do\/5Cb2khHn"
         },
         {
             "index":10,
@@ -178,7 +192,8 @@
             "value_score":80.8544,
             "region":"경기도 수원시 영통구",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4111700000_Gyeonggi_Suwon_Yeongtong"
+            "sub_region_code":"4111700000_Gyeonggi_Suwon_Yeongtong",
+            "shorten_url":"https:\/\/me2.do\/5Cb2khHn"
         },
         {
             "index":11,
@@ -190,7 +205,8 @@
             "value_score":79.931,
             "region":"경기도 수원시 영통구",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4111700000_Gyeonggi_Suwon_Yeongtong"
+            "sub_region_code":"4111700000_Gyeonggi_Suwon_Yeongtong",
+            "shorten_url":"https:\/\/me2.do\/5Cb2khHn"
         },
         {
             "index":12,
@@ -202,7 +218,8 @@
             "value_score":77.6344,
             "region":"경기도 수원시 영통구",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4111700000_Gyeonggi_Suwon_Yeongtong"
+            "sub_region_code":"4111700000_Gyeonggi_Suwon_Yeongtong",
+            "shorten_url":"https:\/\/me2.do\/5Cb2khHn"
         },
         {
             "index":13,
@@ -214,7 +231,8 @@
             "value_score":75.781,
             "region":"경기도 수원시 영통구",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4111700000_Gyeonggi_Suwon_Yeongtong"
+            "sub_region_code":"4111700000_Gyeonggi_Suwon_Yeongtong",
+            "shorten_url":"https:\/\/me2.do\/5Cb2khHn"
         },
         {
             "index":14,
@@ -226,7 +244,8 @@
             "value_score":75.5802,
             "region":"경기도 수원시 영통구",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4111700000_Gyeonggi_Suwon_Yeongtong"
+            "sub_region_code":"4111700000_Gyeonggi_Suwon_Yeongtong",
+            "shorten_url":"https:\/\/me2.do\/5Cb2khHn"
         },
         {
             "index":15,
@@ -238,7 +257,8 @@
             "value_score":73.7866,
             "region":"경기도 수원시 영통구",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4111700000_Gyeonggi_Suwon_Yeongtong"
+            "sub_region_code":"4111700000_Gyeonggi_Suwon_Yeongtong",
+            "shorten_url":"https:\/\/me2.do\/5Cb2khHn"
         },
         {
             "index":16,
@@ -250,7 +270,8 @@
             "value_score":73.551,
             "region":"경기도 수원시 영통구",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4111700000_Gyeonggi_Suwon_Yeongtong"
+            "sub_region_code":"4111700000_Gyeonggi_Suwon_Yeongtong",
+            "shorten_url":"https:\/\/me2.do\/5Cb2khHn"
         },
         {
             "index":17,
@@ -262,7 +283,8 @@
             "value_score":72.611,
             "region":"경기도 수원시 영통구",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4111700000_Gyeonggi_Suwon_Yeongtong"
+            "sub_region_code":"4111700000_Gyeonggi_Suwon_Yeongtong",
+            "shorten_url":"https:\/\/me2.do\/5Cb2khHn"
         },
         {
             "index":18,
@@ -274,7 +296,8 @@
             "value_score":70.9746,
             "region":"경기도 수원시 영통구",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4111700000_Gyeonggi_Suwon_Yeongtong"
+            "sub_region_code":"4111700000_Gyeonggi_Suwon_Yeongtong",
+            "shorten_url":"https:\/\/me2.do\/5Cb2khHn"
         },
         {
             "index":19,
@@ -286,7 +309,8 @@
             "value_score":70.9044,
             "region":"경기도 수원시 영통구",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4111700000_Gyeonggi_Suwon_Yeongtong"
+            "sub_region_code":"4111700000_Gyeonggi_Suwon_Yeongtong",
+            "shorten_url":"https:\/\/me2.do\/5Cb2khHn"
         },
         {
             "index":20,
@@ -298,7 +322,8 @@
             "value_score":80.9408,
             "region":"경기도 수원시 영통구",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4111700000_Gyeonggi_Suwon_Yeongtong"
+            "sub_region_code":"4111700000_Gyeonggi_Suwon_Yeongtong",
+            "shorten_url":"https:\/\/me2.do\/5Cb2khHn"
         },
         {
             "index":21,
@@ -310,7 +335,8 @@
             "value_score":77.44825,
             "region":"경기도 수원시 영통구",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4111700000_Gyeonggi_Suwon_Yeongtong"
+            "sub_region_code":"4111700000_Gyeonggi_Suwon_Yeongtong",
+            "shorten_url":"https:\/\/me2.do\/5Cb2khHn"
         },
         {
             "index":22,
@@ -322,7 +348,8 @@
             "value_score":74.7158,
             "region":"경기도 수원시 영통구",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4111700000_Gyeonggi_Suwon_Yeongtong"
+            "sub_region_code":"4111700000_Gyeonggi_Suwon_Yeongtong",
+            "shorten_url":"https:\/\/me2.do\/5Cb2khHn"
         },
         {
             "index":23,
@@ -334,7 +361,8 @@
             "value_score":74.47325,
             "region":"경기도 수원시 영통구",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4111700000_Gyeonggi_Suwon_Yeongtong"
+            "sub_region_code":"4111700000_Gyeonggi_Suwon_Yeongtong",
+            "shorten_url":"https:\/\/me2.do\/5Cb2khHn"
         },
         {
             "index":24,
@@ -346,7 +374,8 @@
             "value_score":72.8658,
             "region":"경기도 수원시 영통구",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4111700000_Gyeonggi_Suwon_Yeongtong"
+            "sub_region_code":"4111700000_Gyeonggi_Suwon_Yeongtong",
+            "shorten_url":"https:\/\/me2.do\/5Cb2khHn"
         },
         {
             "index":25,
@@ -358,7 +387,8 @@
             "value_score":71.8908,
             "region":"경기도 수원시 영통구",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4111700000_Gyeonggi_Suwon_Yeongtong"
+            "sub_region_code":"4111700000_Gyeonggi_Suwon_Yeongtong",
+            "shorten_url":"https:\/\/me2.do\/5Cb2khHn"
         },
         {
             "index":26,
@@ -370,7 +400,8 @@
             "value_score":70.99825,
             "region":"경기도 수원시 영통구",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4111700000_Gyeonggi_Suwon_Yeongtong"
+            "sub_region_code":"4111700000_Gyeonggi_Suwon_Yeongtong",
+            "shorten_url":"https:\/\/me2.do\/5Cb2khHn"
         },
         {
             "index":27,
@@ -382,7 +413,8 @@
             "value_score":70.41035,
             "region":"경기도 수원시 영통구",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4111700000_Gyeonggi_Suwon_Yeongtong"
+            "sub_region_code":"4111700000_Gyeonggi_Suwon_Yeongtong",
+            "shorten_url":"https:\/\/me2.do\/5Cb2khHn"
         },
         {
             "index":28,
@@ -394,7 +426,8 @@
             "value_score":70.36495,
             "region":"경기도 수원시 영통구",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4111700000_Gyeonggi_Suwon_Yeongtong"
+            "sub_region_code":"4111700000_Gyeonggi_Suwon_Yeongtong",
+            "shorten_url":"https:\/\/me2.do\/5Cb2khHn"
         },
         {
             "index":29,
@@ -406,7 +439,8 @@
             "value_score":70.03995,
             "region":"경기도 수원시 영통구",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4111700000_Gyeonggi_Suwon_Yeongtong"
+            "sub_region_code":"4111700000_Gyeonggi_Suwon_Yeongtong",
+            "shorten_url":"https:\/\/me2.do\/5Cb2khHn"
         },
         {
             "index":30,
@@ -418,7 +452,8 @@
             "value_score":79.28875,
             "region":"경기도 수원시 영통구",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4111700000_Gyeonggi_Suwon_Yeongtong"
+            "sub_region_code":"4111700000_Gyeonggi_Suwon_Yeongtong",
+            "shorten_url":"https:\/\/me2.do\/5Cb2khHn"
         },
         {
             "index":31,
@@ -430,7 +465,8 @@
             "value_score":77.768,
             "region":"경기도 수원시 영통구",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4111700000_Gyeonggi_Suwon_Yeongtong"
+            "sub_region_code":"4111700000_Gyeonggi_Suwon_Yeongtong",
+            "shorten_url":"https:\/\/me2.do\/5Cb2khHn"
         },
         {
             "index":32,
@@ -442,7 +478,8 @@
             "value_score":77.518,
             "region":"경기도 수원시 영통구",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4111700000_Gyeonggi_Suwon_Yeongtong"
+            "sub_region_code":"4111700000_Gyeonggi_Suwon_Yeongtong",
+            "shorten_url":"https:\/\/me2.do\/5Cb2khHn"
         },
         {
             "index":33,
@@ -454,7 +491,8 @@
             "value_score":77.23875,
             "region":"경기도 수원시 영통구",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4111700000_Gyeonggi_Suwon_Yeongtong"
+            "sub_region_code":"4111700000_Gyeonggi_Suwon_Yeongtong",
+            "shorten_url":"https:\/\/me2.do\/5Cb2khHn"
         },
         {
             "index":34,
@@ -466,7 +504,8 @@
             "value_score":74.78875,
             "region":"경기도 수원시 영통구",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4111700000_Gyeonggi_Suwon_Yeongtong"
+            "sub_region_code":"4111700000_Gyeonggi_Suwon_Yeongtong",
+            "shorten_url":"https:\/\/me2.do\/5Cb2khHn"
         },
         {
             "index":35,
@@ -478,7 +517,8 @@
             "value_score":74.73875,
             "region":"경기도 수원시 영통구",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4111700000_Gyeonggi_Suwon_Yeongtong"
+            "sub_region_code":"4111700000_Gyeonggi_Suwon_Yeongtong",
+            "shorten_url":"https:\/\/me2.do\/5Cb2khHn"
         },
         {
             "index":36,
@@ -490,7 +530,8 @@
             "value_score":73.81275,
             "region":"경기도 수원시 영통구",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4111700000_Gyeonggi_Suwon_Yeongtong"
+            "sub_region_code":"4111700000_Gyeonggi_Suwon_Yeongtong",
+            "shorten_url":"https:\/\/me2.do\/5Cb2khHn"
         },
         {
             "index":37,
@@ -502,7 +543,8 @@
             "value_score":73.618,
             "region":"경기도 수원시 영통구",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4111700000_Gyeonggi_Suwon_Yeongtong"
+            "sub_region_code":"4111700000_Gyeonggi_Suwon_Yeongtong",
+            "shorten_url":"https:\/\/me2.do\/5Cb2khHn"
         },
         {
             "index":38,
@@ -514,7 +556,8 @@
             "value_score":71.368,
             "region":"경기도 수원시 영통구",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4111700000_Gyeonggi_Suwon_Yeongtong"
+            "sub_region_code":"4111700000_Gyeonggi_Suwon_Yeongtong",
+            "shorten_url":"https:\/\/me2.do\/5Cb2khHn"
         },
         {
             "index":39,
@@ -526,7 +569,8 @@
             "value_score":70.73075,
             "region":"경기도 수원시 영통구",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4111700000_Gyeonggi_Suwon_Yeongtong"
+            "sub_region_code":"4111700000_Gyeonggi_Suwon_Yeongtong",
+            "shorten_url":"https:\/\/me2.do\/5Cb2khHn"
         },
         {
             "index":40,
@@ -538,7 +582,8 @@
             "value_score":75.536,
             "region":"경기도 수원시 영통구",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4111700000_Gyeonggi_Suwon_Yeongtong"
+            "sub_region_code":"4111700000_Gyeonggi_Suwon_Yeongtong",
+            "shorten_url":"https:\/\/me2.do\/5Cb2khHn"
         },
         {
             "index":41,
@@ -550,7 +595,8 @@
             "value_score":71.8775,
             "region":"경기도 수원시 영통구",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4111700000_Gyeonggi_Suwon_Yeongtong"
+            "sub_region_code":"4111700000_Gyeonggi_Suwon_Yeongtong",
+            "shorten_url":"https:\/\/me2.do\/5Cb2khHn"
         },
         {
             "index":42,
@@ -562,7 +608,8 @@
             "value_score":71.7775,
             "region":"경기도 수원시 영통구",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4111700000_Gyeonggi_Suwon_Yeongtong"
+            "sub_region_code":"4111700000_Gyeonggi_Suwon_Yeongtong",
+            "shorten_url":"https:\/\/me2.do\/5Cb2khHn"
         },
         {
             "index":43,
@@ -574,7 +621,8 @@
             "value_score":71.4255,
             "region":"경기도 수원시 영통구",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4111700000_Gyeonggi_Suwon_Yeongtong"
+            "sub_region_code":"4111700000_Gyeonggi_Suwon_Yeongtong",
+            "shorten_url":"https:\/\/me2.do\/5Cb2khHn"
         },
         {
             "index":44,
@@ -586,7 +634,8 @@
             "value_score":71.036,
             "region":"경기도 수원시 영통구",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4111700000_Gyeonggi_Suwon_Yeongtong"
+            "sub_region_code":"4111700000_Gyeonggi_Suwon_Yeongtong",
+            "shorten_url":"https:\/\/me2.do\/5Cb2khHn"
         },
         {
             "index":45,
@@ -598,7 +647,8 @@
             "value_score":70.836,
             "region":"경기도 수원시 영통구",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4111700000_Gyeonggi_Suwon_Yeongtong"
+            "sub_region_code":"4111700000_Gyeonggi_Suwon_Yeongtong",
+            "shorten_url":"https:\/\/me2.do\/5Cb2khHn"
         },
         {
             "index":46,
@@ -610,7 +660,8 @@
             "value_score":68.7775,
             "region":"경기도 수원시 영통구",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4111700000_Gyeonggi_Suwon_Yeongtong"
+            "sub_region_code":"4111700000_Gyeonggi_Suwon_Yeongtong",
+            "shorten_url":"https:\/\/me2.do\/5Cb2khHn"
         },
         {
             "index":47,
@@ -622,7 +673,8 @@
             "value_score":68.7575,
             "region":"경기도 수원시 영통구",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4111700000_Gyeonggi_Suwon_Yeongtong"
+            "sub_region_code":"4111700000_Gyeonggi_Suwon_Yeongtong",
+            "shorten_url":"https:\/\/me2.do\/5Cb2khHn"
         },
         {
             "index":48,
@@ -634,7 +686,8 @@
             "value_score":68.1165,
             "region":"경기도 수원시 영통구",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4111700000_Gyeonggi_Suwon_Yeongtong"
+            "sub_region_code":"4111700000_Gyeonggi_Suwon_Yeongtong",
+            "shorten_url":"https:\/\/me2.do\/5Cb2khHn"
         },
         {
             "index":49,
@@ -646,7 +699,8 @@
             "value_score":68.116,
             "region":"경기도 수원시 영통구",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4111700000_Gyeonggi_Suwon_Yeongtong"
+            "sub_region_code":"4111700000_Gyeonggi_Suwon_Yeongtong",
+            "shorten_url":"https:\/\/me2.do\/5Cb2khHn"
         }
     ]
 }

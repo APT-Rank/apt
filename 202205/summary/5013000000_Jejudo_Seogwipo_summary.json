@@ -40,6 +40,10 @@
             {
                 "name":"sub_region_code",
                 "type":"string"
+            },
+            {
+                "name":"shorten_url",
+                "type":"string"
             }
         ],
         "primaryKey":[
@@ -58,7 +62,8 @@
             "value_score":47.64745,
             "region":"제주도 서귀포시",
             "region_code":"Jejudo",
-            "sub_region_code":"5013000000_Jejudo_Seogwipo"
+            "sub_region_code":"5013000000_Jejudo_Seogwipo",
+            "shorten_url":"https:\/\/me2.do\/5HUQwNqT"
         },
         {
             "index":1,
@@ -70,7 +75,8 @@
             "value_score":47.36865,
             "region":"제주도 서귀포시",
             "region_code":"Jejudo",
-            "sub_region_code":"5013000000_Jejudo_Seogwipo"
+            "sub_region_code":"5013000000_Jejudo_Seogwipo",
+            "shorten_url":"https:\/\/me2.do\/5HUQwNqT"
         },
         {
             "index":2,
@@ -82,7 +88,8 @@
             "value_score":45.41865,
             "region":"제주도 서귀포시",
             "region_code":"Jejudo",
-            "sub_region_code":"5013000000_Jejudo_Seogwipo"
+            "sub_region_code":"5013000000_Jejudo_Seogwipo",
+            "shorten_url":"https:\/\/me2.do\/5HUQwNqT"
         },
         {
             "index":3,
@@ -94,7 +101,8 @@
             "value_score":45.35415,
             "region":"제주도 서귀포시",
             "region_code":"Jejudo",
-            "sub_region_code":"5013000000_Jejudo_Seogwipo"
+            "sub_region_code":"5013000000_Jejudo_Seogwipo",
+            "shorten_url":"https:\/\/me2.do\/5HUQwNqT"
         },
         {
             "index":4,
@@ -106,7 +114,8 @@
             "value_score":45.35415,
             "region":"제주도 서귀포시",
             "region_code":"Jejudo",
-            "sub_region_code":"5013000000_Jejudo_Seogwipo"
+            "sub_region_code":"5013000000_Jejudo_Seogwipo",
+            "shorten_url":"https:\/\/me2.do\/5HUQwNqT"
         },
         {
             "index":5,
@@ -118,7 +127,8 @@
             "value_score":44.36865,
             "region":"제주도 서귀포시",
             "region_code":"Jejudo",
-            "sub_region_code":"5013000000_Jejudo_Seogwipo"
+            "sub_region_code":"5013000000_Jejudo_Seogwipo",
+            "shorten_url":"https:\/\/me2.do\/5HUQwNqT"
         },
         {
             "index":6,
@@ -130,7 +140,8 @@
             "value_score":44.36865,
             "region":"제주도 서귀포시",
             "region_code":"Jejudo",
-            "sub_region_code":"5013000000_Jejudo_Seogwipo"
+            "sub_region_code":"5013000000_Jejudo_Seogwipo",
+            "shorten_url":"https:\/\/me2.do\/5HUQwNqT"
         },
         {
             "index":7,
@@ -142,7 +153,8 @@
             "value_score":44.2785,
             "region":"제주도 서귀포시",
             "region_code":"Jejudo",
-            "sub_region_code":"5013000000_Jejudo_Seogwipo"
+            "sub_region_code":"5013000000_Jejudo_Seogwipo",
+            "shorten_url":"https:\/\/me2.do\/5HUQwNqT"
         },
         {
             "index":8,
@@ -154,7 +166,8 @@
             "value_score":42.6013,
             "region":"제주도 서귀포시",
             "region_code":"Jejudo",
-            "sub_region_code":"5013000000_Jejudo_Seogwipo"
+            "sub_region_code":"5013000000_Jejudo_Seogwipo",
+            "shorten_url":"https:\/\/me2.do\/5HUQwNqT"
         },
         {
             "index":9,
@@ -166,7 +179,8 @@
             "value_score":42.44745,
             "region":"제주도 서귀포시",
             "region_code":"Jejudo",
-            "sub_region_code":"5013000000_Jejudo_Seogwipo"
+            "sub_region_code":"5013000000_Jejudo_Seogwipo",
+            "shorten_url":"https:\/\/me2.do\/5HUQwNqT"
         },
         {
             "index":10,
@@ -178,7 +192,8 @@
             "value_score":48.83475,
             "region":"제주도 서귀포시",
             "region_code":"Jejudo",
-            "sub_region_code":"5013000000_Jejudo_Seogwipo"
+            "sub_region_code":"5013000000_Jejudo_Seogwipo",
+            "shorten_url":"https:\/\/me2.do\/5HUQwNqT"
         },
         {
             "index":11,
@@ -190,7 +205,8 @@
             "value_score":47.71725,
             "region":"제주도 서귀포시",
             "region_code":"Jejudo",
-            "sub_region_code":"5013000000_Jejudo_Seogwipo"
+            "sub_region_code":"5013000000_Jejudo_Seogwipo",
+            "shorten_url":"https:\/\/me2.do\/5HUQwNqT"
         },
         {
             "index":12,
@@ -202,7 +218,8 @@
             "value_score":46.67675,
             "region":"제주도 서귀포시",
             "region_code":"Jejudo",
-            "sub_region_code":"5013000000_Jejudo_Seogwipo"
+            "sub_region_code":"5013000000_Jejudo_Seogwipo",
+            "shorten_url":"https:\/\/me2.do\/5HUQwNqT"
         },
         {
             "index":13,
@@ -214,7 +231,8 @@
             "value_score":46.43475,
             "region":"제주도 서귀포시",
             "region_code":"Jejudo",
-            "sub_region_code":"5013000000_Jejudo_Seogwipo"
+            "sub_region_code":"5013000000_Jejudo_Seogwipo",
+            "shorten_url":"https:\/\/me2.do\/5HUQwNqT"
         },
         {
             "index":14,
@@ -226,7 +244,8 @@
             "value_score":45.83475,
             "region":"제주도 서귀포시",
             "region_code":"Jejudo",
-            "sub_region_code":"5013000000_Jejudo_Seogwipo"
+            "sub_region_code":"5013000000_Jejudo_Seogwipo",
+            "shorten_url":"https:\/\/me2.do\/5HUQwNqT"
         },
         {
             "index":15,
@@ -238,7 +257,8 @@
             "value_score":45.83475,
             "region":"제주도 서귀포시",
             "region_code":"Jejudo",
-            "sub_region_code":"5013000000_Jejudo_Seogwipo"
+            "sub_region_code":"5013000000_Jejudo_Seogwipo",
+            "shorten_url":"https:\/\/me2.do\/5HUQwNqT"
         },
         {
             "index":16,
@@ -250,7 +270,8 @@
             "value_score":45.46725,
             "region":"제주도 서귀포시",
             "region_code":"Jejudo",
-            "sub_region_code":"5013000000_Jejudo_Seogwipo"
+            "sub_region_code":"5013000000_Jejudo_Seogwipo",
+            "shorten_url":"https:\/\/me2.do\/5HUQwNqT"
         },
         {
             "index":17,
@@ -262,7 +283,8 @@
             "value_score":45.1275,
             "region":"제주도 서귀포시",
             "region_code":"Jejudo",
-            "sub_region_code":"5013000000_Jejudo_Seogwipo"
+            "sub_region_code":"5013000000_Jejudo_Seogwipo",
+            "shorten_url":"https:\/\/me2.do\/5HUQwNqT"
         },
         {
             "index":18,
@@ -274,7 +296,8 @@
             "value_score":43.0295,
             "region":"제주도 서귀포시",
             "region_code":"Jejudo",
-            "sub_region_code":"5013000000_Jejudo_Seogwipo"
+            "sub_region_code":"5013000000_Jejudo_Seogwipo",
+            "shorten_url":"https:\/\/me2.do\/5HUQwNqT"
         },
         {
             "index":19,
@@ -286,7 +309,8 @@
             "value_score":42.42675,
             "region":"제주도 서귀포시",
             "region_code":"Jejudo",
-            "sub_region_code":"5013000000_Jejudo_Seogwipo"
+            "sub_region_code":"5013000000_Jejudo_Seogwipo",
+            "shorten_url":"https:\/\/me2.do\/5HUQwNqT"
         },
         {
             "index":20,
@@ -298,7 +322,8 @@
             "value_score":40.9601052632,
             "region":"제주도 서귀포시",
             "region_code":"Jejudo",
-            "sub_region_code":"5013000000_Jejudo_Seogwipo"
+            "sub_region_code":"5013000000_Jejudo_Seogwipo",
+            "shorten_url":"https:\/\/me2.do\/5HUQwNqT"
         },
         {
             "index":21,
@@ -310,7 +335,8 @@
             "value_score":38.4754736842,
             "region":"제주도 서귀포시",
             "region_code":"Jejudo",
-            "sub_region_code":"5013000000_Jejudo_Seogwipo"
+            "sub_region_code":"5013000000_Jejudo_Seogwipo",
+            "shorten_url":"https:\/\/me2.do\/5HUQwNqT"
         },
         {
             "index":22,
@@ -322,7 +348,8 @@
             "value_score":37.4491578947,
             "region":"제주도 서귀포시",
             "region_code":"Jejudo",
-            "sub_region_code":"5013000000_Jejudo_Seogwipo"
+            "sub_region_code":"5013000000_Jejudo_Seogwipo",
+            "shorten_url":"https:\/\/me2.do\/5HUQwNqT"
         },
         {
             "index":23,
@@ -334,7 +361,8 @@
             "value_score":36.7758947368,
             "region":"제주도 서귀포시",
             "region_code":"Jejudo",
-            "sub_region_code":"5013000000_Jejudo_Seogwipo"
+            "sub_region_code":"5013000000_Jejudo_Seogwipo",
+            "shorten_url":"https:\/\/me2.do\/5HUQwNqT"
         },
         {
             "index":24,
@@ -346,7 +374,8 @@
             "value_score":36.2267368421,
             "region":"제주도 서귀포시",
             "region_code":"Jejudo",
-            "sub_region_code":"5013000000_Jejudo_Seogwipo"
+            "sub_region_code":"5013000000_Jejudo_Seogwipo",
+            "shorten_url":"https:\/\/me2.do\/5HUQwNqT"
         },
         {
             "index":25,
@@ -358,7 +387,8 @@
             "value_score":36.0916842105,
             "region":"제주도 서귀포시",
             "region_code":"Jejudo",
-            "sub_region_code":"5013000000_Jejudo_Seogwipo"
+            "sub_region_code":"5013000000_Jejudo_Seogwipo",
+            "shorten_url":"https:\/\/me2.do\/5HUQwNqT"
         },
         {
             "index":26,
@@ -370,7 +400,8 @@
             "value_score":36.0031578947,
             "region":"제주도 서귀포시",
             "region_code":"Jejudo",
-            "sub_region_code":"5013000000_Jejudo_Seogwipo"
+            "sub_region_code":"5013000000_Jejudo_Seogwipo",
+            "shorten_url":"https:\/\/me2.do\/5HUQwNqT"
         },
         {
             "index":27,
@@ -382,7 +413,8 @@
             "value_score":35.4074736842,
             "region":"제주도 서귀포시",
             "region_code":"Jejudo",
-            "sub_region_code":"5013000000_Jejudo_Seogwipo"
+            "sub_region_code":"5013000000_Jejudo_Seogwipo",
+            "shorten_url":"https:\/\/me2.do\/5HUQwNqT"
         },
         {
             "index":28,
@@ -394,7 +426,8 @@
             "value_score":33.8548421053,
             "region":"제주도 서귀포시",
             "region_code":"Jejudo",
-            "sub_region_code":"5013000000_Jejudo_Seogwipo"
+            "sub_region_code":"5013000000_Jejudo_Seogwipo",
+            "shorten_url":"https:\/\/me2.do\/5HUQwNqT"
         },
         {
             "index":29,
@@ -406,7 +439,8 @@
             "value_score":33.8548421053,
             "region":"제주도 서귀포시",
             "region_code":"Jejudo",
-            "sub_region_code":"5013000000_Jejudo_Seogwipo"
+            "sub_region_code":"5013000000_Jejudo_Seogwipo",
+            "shorten_url":"https:\/\/me2.do\/5HUQwNqT"
         },
         {
             "index":30,
@@ -418,7 +452,8 @@
             "value_score":49.1035,
             "region":"제주도 서귀포시",
             "region_code":"Jejudo",
-            "sub_region_code":"5013000000_Jejudo_Seogwipo"
+            "sub_region_code":"5013000000_Jejudo_Seogwipo",
+            "shorten_url":"https:\/\/me2.do\/5HUQwNqT"
         },
         {
             "index":31,
@@ -430,7 +465,8 @@
             "value_score":45.1845,
             "region":"제주도 서귀포시",
             "region_code":"Jejudo",
-            "sub_region_code":"5013000000_Jejudo_Seogwipo"
+            "sub_region_code":"5013000000_Jejudo_Seogwipo",
+            "shorten_url":"https:\/\/me2.do\/5HUQwNqT"
         },
         {
             "index":32,
@@ -442,7 +478,8 @@
             "value_score":45.1695,
             "region":"제주도 서귀포시",
             "region_code":"Jejudo",
-            "sub_region_code":"5013000000_Jejudo_Seogwipo"
+            "sub_region_code":"5013000000_Jejudo_Seogwipo",
+            "shorten_url":"https:\/\/me2.do\/5HUQwNqT"
         },
         {
             "index":33,
@@ -454,7 +491,8 @@
             "value_score":43.8945,
             "region":"제주도 서귀포시",
             "region_code":"Jejudo",
-            "sub_region_code":"5013000000_Jejudo_Seogwipo"
+            "sub_region_code":"5013000000_Jejudo_Seogwipo",
+            "shorten_url":"https:\/\/me2.do\/5HUQwNqT"
         },
         {
             "index":34,
@@ -466,7 +504,8 @@
             "value_score":43.2285,
             "region":"제주도 서귀포시",
             "region_code":"Jejudo",
-            "sub_region_code":"5013000000_Jejudo_Seogwipo"
+            "sub_region_code":"5013000000_Jejudo_Seogwipo",
+            "shorten_url":"https:\/\/me2.do\/5HUQwNqT"
         },
         {
             "index":35,
@@ -478,7 +517,8 @@
             "value_score":43.005,
             "region":"제주도 서귀포시",
             "region_code":"Jejudo",
-            "sub_region_code":"5013000000_Jejudo_Seogwipo"
+            "sub_region_code":"5013000000_Jejudo_Seogwipo",
+            "shorten_url":"https:\/\/me2.do\/5HUQwNqT"
         },
         {
             "index":36,
@@ -490,7 +530,8 @@
             "value_score":42.4785,
             "region":"제주도 서귀포시",
             "region_code":"Jejudo",
-            "sub_region_code":"5013000000_Jejudo_Seogwipo"
+            "sub_region_code":"5013000000_Jejudo_Seogwipo",
+            "shorten_url":"https:\/\/me2.do\/5HUQwNqT"
         },
         {
             "index":37,
@@ -502,7 +543,8 @@
             "value_score":42.1695,
             "region":"제주도 서귀포시",
             "region_code":"Jejudo",
-            "sub_region_code":"5013000000_Jejudo_Seogwipo"
+            "sub_region_code":"5013000000_Jejudo_Seogwipo",
+            "shorten_url":"https:\/\/me2.do\/5HUQwNqT"
         },
         {
             "index":38,
@@ -514,7 +556,8 @@
             "value_score":42.1695,
             "region":"제주도 서귀포시",
             "region_code":"Jejudo",
-            "sub_region_code":"5013000000_Jejudo_Seogwipo"
+            "sub_region_code":"5013000000_Jejudo_Seogwipo",
+            "shorten_url":"https:\/\/me2.do\/5HUQwNqT"
         },
         {
             "index":39,
@@ -526,7 +569,8 @@
             "value_score":41.959,
             "region":"제주도 서귀포시",
             "region_code":"Jejudo",
-            "sub_region_code":"5013000000_Jejudo_Seogwipo"
+            "sub_region_code":"5013000000_Jejudo_Seogwipo",
+            "shorten_url":"https:\/\/me2.do\/5HUQwNqT"
         }
     ]
 }

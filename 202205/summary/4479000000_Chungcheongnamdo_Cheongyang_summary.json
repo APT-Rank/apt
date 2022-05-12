@@ -40,6 +40,10 @@
             {
                 "name":"sub_region_code",
                 "type":"string"
+            },
+            {
+                "name":"shorten_url",
+                "type":"string"
             }
         ],
         "primaryKey":[
@@ -58,7 +62,8 @@
             "value_score":31.80105,
             "region":"충청남도 청양군",
             "region_code":"Chungcheongnamdo",
-            "sub_region_code":"4479000000_Chungcheongnamdo_Cheongyang"
+            "sub_region_code":"4479000000_Chungcheongnamdo_Cheongyang",
+            "shorten_url":"https:\/\/me2.do\/FZqxCgEM"
         },
         {
             "index":1,
@@ -70,7 +75,8 @@
             "value_score":31.10105,
             "region":"충청남도 청양군",
             "region_code":"Chungcheongnamdo",
-            "sub_region_code":"4479000000_Chungcheongnamdo_Cheongyang"
+            "sub_region_code":"4479000000_Chungcheongnamdo_Cheongyang",
+            "shorten_url":"https:\/\/me2.do\/FZqxCgEM"
         },
         {
             "index":2,
@@ -82,7 +88,8 @@
             "value_score":28.70105,
             "region":"충청남도 청양군",
             "region_code":"Chungcheongnamdo",
-            "sub_region_code":"4479000000_Chungcheongnamdo_Cheongyang"
+            "sub_region_code":"4479000000_Chungcheongnamdo_Cheongyang",
+            "shorten_url":"https:\/\/me2.do\/FZqxCgEM"
         },
         {
             "index":3,
@@ -94,7 +101,8 @@
             "value_score":26.00105,
             "region":"충청남도 청양군",
             "region_code":"Chungcheongnamdo",
-            "sub_region_code":"4479000000_Chungcheongnamdo_Cheongyang"
+            "sub_region_code":"4479000000_Chungcheongnamdo_Cheongyang",
+            "shorten_url":"https:\/\/me2.do\/FZqxCgEM"
         },
         {
             "index":4,
@@ -106,7 +114,8 @@
             "value_score":29.25075,
             "region":"충청남도 청양군",
             "region_code":"Chungcheongnamdo",
-            "sub_region_code":"4479000000_Chungcheongnamdo_Cheongyang"
+            "sub_region_code":"4479000000_Chungcheongnamdo_Cheongyang",
+            "shorten_url":"https:\/\/me2.do\/FZqxCgEM"
         },
         {
             "index":5,
@@ -118,7 +127,8 @@
             "value_score":28.50075,
             "region":"충청남도 청양군",
             "region_code":"Chungcheongnamdo",
-            "sub_region_code":"4479000000_Chungcheongnamdo_Cheongyang"
+            "sub_region_code":"4479000000_Chungcheongnamdo_Cheongyang",
+            "shorten_url":"https:\/\/me2.do\/FZqxCgEM"
         },
         {
             "index":6,
@@ -130,7 +140,8 @@
             "value_score":25.50075,
             "region":"충청남도 청양군",
             "region_code":"Chungcheongnamdo",
-            "sub_region_code":"4479000000_Chungcheongnamdo_Cheongyang"
+            "sub_region_code":"4479000000_Chungcheongnamdo_Cheongyang",
+            "shorten_url":"https:\/\/me2.do\/FZqxCgEM"
         },
         {
             "index":7,
@@ -142,7 +153,8 @@
             "value_score":22.00075,
             "region":"충청남도 청양군",
             "region_code":"Chungcheongnamdo",
-            "sub_region_code":"4479000000_Chungcheongnamdo_Cheongyang"
+            "sub_region_code":"4479000000_Chungcheongnamdo_Cheongyang",
+            "shorten_url":"https:\/\/me2.do\/FZqxCgEM"
         },
         {
             "index":8,
@@ -154,7 +166,8 @@
             "value_score":30.2377894737,
             "region":"충청남도 청양군",
             "region_code":"Chungcheongnamdo",
-            "sub_region_code":"4479000000_Chungcheongnamdo_Cheongyang"
+            "sub_region_code":"4479000000_Chungcheongnamdo_Cheongyang",
+            "shorten_url":"https:\/\/me2.do\/FZqxCgEM"
         },
         {
             "index":9,
@@ -166,7 +179,8 @@
             "value_score":29.1062105263,
             "region":"충청남도 청양군",
             "region_code":"Chungcheongnamdo",
-            "sub_region_code":"4479000000_Chungcheongnamdo_Cheongyang"
+            "sub_region_code":"4479000000_Chungcheongnamdo_Cheongyang",
+            "shorten_url":"https:\/\/me2.do\/FZqxCgEM"
         },
         {
             "index":10,
@@ -178,7 +192,8 @@
             "value_score":28.1588421053,
             "region":"충청남도 청양군",
             "region_code":"Chungcheongnamdo",
-            "sub_region_code":"4479000000_Chungcheongnamdo_Cheongyang"
+            "sub_region_code":"4479000000_Chungcheongnamdo_Cheongyang",
+            "shorten_url":"https:\/\/me2.do\/FZqxCgEM"
         },
         {
             "index":11,
@@ -190,7 +205,8 @@
             "value_score":27.9483157895,
             "region":"충청남도 청양군",
             "region_code":"Chungcheongnamdo",
-            "sub_region_code":"4479000000_Chungcheongnamdo_Cheongyang"
+            "sub_region_code":"4479000000_Chungcheongnamdo_Cheongyang",
+            "shorten_url":"https:\/\/me2.do\/FZqxCgEM"
         },
         {
             "index":12,
@@ -202,7 +218,8 @@
             "value_score":35.6265,
             "region":"충청남도 청양군",
             "region_code":"Chungcheongnamdo",
-            "sub_region_code":"4479000000_Chungcheongnamdo_Cheongyang"
+            "sub_region_code":"4479000000_Chungcheongnamdo_Cheongyang",
+            "shorten_url":"https:\/\/me2.do\/FZqxCgEM"
         },
         {
             "index":13,
@@ -214,7 +231,8 @@
             "value_score":35.0015,
             "region":"충청남도 청양군",
             "region_code":"Chungcheongnamdo",
-            "sub_region_code":"4479000000_Chungcheongnamdo_Cheongyang"
+            "sub_region_code":"4479000000_Chungcheongnamdo_Cheongyang",
+            "shorten_url":"https:\/\/me2.do\/FZqxCgEM"
         },
         {
             "index":14,
@@ -226,7 +244,8 @@
             "value_score":33.5015,
             "region":"충청남도 청양군",
             "region_code":"Chungcheongnamdo",
-            "sub_region_code":"4479000000_Chungcheongnamdo_Cheongyang"
+            "sub_region_code":"4479000000_Chungcheongnamdo_Cheongyang",
+            "shorten_url":"https:\/\/me2.do\/FZqxCgEM"
         },
         {
             "index":15,
@@ -238,7 +257,8 @@
             "value_score":32.0015,
             "region":"충청남도 청양군",
             "region_code":"Chungcheongnamdo",
-            "sub_region_code":"4479000000_Chungcheongnamdo_Cheongyang"
+            "sub_region_code":"4479000000_Chungcheongnamdo_Cheongyang",
+            "shorten_url":"https:\/\/me2.do\/FZqxCgEM"
         }
     ]
 }

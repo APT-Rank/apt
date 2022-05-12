@@ -40,6 +40,10 @@
             {
                 "name":"sub_region_code",
                 "type":"string"
+            },
+            {
+                "name":"shorten_url",
+                "type":"string"
             }
         ],
         "primaryKey":[
@@ -58,7 +62,8 @@
             "value_score":49.0506,
             "region":"부산시 강서구",
             "region_code":"Busan",
-            "sub_region_code":"2644000000_Busan_Gangseo"
+            "sub_region_code":"2644000000_Busan_Gangseo",
+            "shorten_url":"https:\/\/me2.do\/Fp1a5nWR"
         },
         {
             "index":1,
@@ -70,7 +75,8 @@
             "value_score":48.3506,
             "region":"부산시 강서구",
             "region_code":"Busan",
-            "sub_region_code":"2644000000_Busan_Gangseo"
+            "sub_region_code":"2644000000_Busan_Gangseo",
+            "shorten_url":"https:\/\/me2.do\/Fp1a5nWR"
         },
         {
             "index":2,
@@ -82,7 +88,8 @@
             "value_score":48.1506,
             "region":"부산시 강서구",
             "region_code":"Busan",
-            "sub_region_code":"2644000000_Busan_Gangseo"
+            "sub_region_code":"2644000000_Busan_Gangseo",
+            "shorten_url":"https:\/\/me2.do\/Fp1a5nWR"
         },
         {
             "index":3,
@@ -94,7 +101,8 @@
             "value_score":47.8074,
             "region":"부산시 강서구",
             "region_code":"Busan",
-            "sub_region_code":"2644000000_Busan_Gangseo"
+            "sub_region_code":"2644000000_Busan_Gangseo",
+            "shorten_url":"https:\/\/me2.do\/Fp1a5nWR"
         },
         {
             "index":4,
@@ -106,7 +114,8 @@
             "value_score":46.6374,
             "region":"부산시 강서구",
             "region_code":"Busan",
-            "sub_region_code":"2644000000_Busan_Gangseo"
+            "sub_region_code":"2644000000_Busan_Gangseo",
+            "shorten_url":"https:\/\/me2.do\/Fp1a5nWR"
         },
         {
             "index":5,
@@ -118,7 +127,8 @@
             "value_score":46.3574,
             "region":"부산시 강서구",
             "region_code":"Busan",
-            "sub_region_code":"2644000000_Busan_Gangseo"
+            "sub_region_code":"2644000000_Busan_Gangseo",
+            "shorten_url":"https:\/\/me2.do\/Fp1a5nWR"
         },
         {
             "index":6,
@@ -130,7 +140,8 @@
             "value_score":45.9574,
             "region":"부산시 강서구",
             "region_code":"Busan",
-            "sub_region_code":"2644000000_Busan_Gangseo"
+            "sub_region_code":"2644000000_Busan_Gangseo",
+            "shorten_url":"https:\/\/me2.do\/Fp1a5nWR"
         },
         {
             "index":7,
@@ -142,7 +153,8 @@
             "value_score":45.4074,
             "region":"부산시 강서구",
             "region_code":"Busan",
-            "sub_region_code":"2644000000_Busan_Gangseo"
+            "sub_region_code":"2644000000_Busan_Gangseo",
+            "shorten_url":"https:\/\/me2.do\/Fp1a5nWR"
         },
         {
             "index":8,
@@ -154,7 +166,8 @@
             "value_score":45.2506,
             "region":"부산시 강서구",
             "region_code":"Busan",
-            "sub_region_code":"2644000000_Busan_Gangseo"
+            "sub_region_code":"2644000000_Busan_Gangseo",
+            "shorten_url":"https:\/\/me2.do\/Fp1a5nWR"
         },
         {
             "index":9,
@@ -166,7 +179,8 @@
             "value_score":44.6574,
             "region":"부산시 강서구",
             "region_code":"Busan",
-            "sub_region_code":"2644000000_Busan_Gangseo"
+            "sub_region_code":"2644000000_Busan_Gangseo",
+            "shorten_url":"https:\/\/me2.do\/Fp1a5nWR"
         },
         {
             "index":10,
@@ -178,7 +192,8 @@
             "value_score":57.3504,
             "region":"부산시 강서구",
             "region_code":"Busan",
-            "sub_region_code":"2644000000_Busan_Gangseo"
+            "sub_region_code":"2644000000_Busan_Gangseo",
+            "shorten_url":"https:\/\/me2.do\/Fp1a5nWR"
         },
         {
             "index":11,
@@ -190,7 +205,8 @@
             "value_score":57.0716,
             "region":"부산시 강서구",
             "region_code":"Busan",
-            "sub_region_code":"2644000000_Busan_Gangseo"
+            "sub_region_code":"2644000000_Busan_Gangseo",
+            "shorten_url":"https:\/\/me2.do\/Fp1a5nWR"
         },
         {
             "index":12,
@@ -202,7 +218,8 @@
             "value_score":56.4216,
             "region":"부산시 강서구",
             "region_code":"Busan",
-            "sub_region_code":"2644000000_Busan_Gangseo"
+            "sub_region_code":"2644000000_Busan_Gangseo",
+            "shorten_url":"https:\/\/me2.do\/Fp1a5nWR"
         },
         {
             "index":13,
@@ -214,7 +231,8 @@
             "value_score":55.5216,
             "region":"부산시 강서구",
             "region_code":"Busan",
-            "sub_region_code":"2644000000_Busan_Gangseo"
+            "sub_region_code":"2644000000_Busan_Gangseo",
+            "shorten_url":"https:\/\/me2.do\/Fp1a5nWR"
         },
         {
             "index":14,
@@ -226,7 +244,8 @@
             "value_score":55.3216,
             "region":"부산시 강서구",
             "region_code":"Busan",
-            "sub_region_code":"2644000000_Busan_Gangseo"
+            "sub_region_code":"2644000000_Busan_Gangseo",
+            "shorten_url":"https:\/\/me2.do\/Fp1a5nWR"
         },
         {
             "index":15,
@@ -238,7 +257,8 @@
             "value_score":55.2504,
             "region":"부산시 강서구",
             "region_code":"Busan",
-            "sub_region_code":"2644000000_Busan_Gangseo"
+            "sub_region_code":"2644000000_Busan_Gangseo",
+            "shorten_url":"https:\/\/me2.do\/Fp1a5nWR"
         },
         {
             "index":16,
@@ -250,7 +270,8 @@
             "value_score":55.2504,
             "region":"부산시 강서구",
             "region_code":"Busan",
-            "sub_region_code":"2644000000_Busan_Gangseo"
+            "sub_region_code":"2644000000_Busan_Gangseo",
+            "shorten_url":"https:\/\/me2.do\/Fp1a5nWR"
         },
         {
             "index":17,
@@ -262,7 +283,8 @@
             "value_score":55.2216,
             "region":"부산시 강서구",
             "region_code":"Busan",
-            "sub_region_code":"2644000000_Busan_Gangseo"
+            "sub_region_code":"2644000000_Busan_Gangseo",
+            "shorten_url":"https:\/\/me2.do\/Fp1a5nWR"
         },
         {
             "index":18,
@@ -274,7 +296,8 @@
             "value_score":55.2016,
             "region":"부산시 강서구",
             "region_code":"Busan",
-            "sub_region_code":"2644000000_Busan_Gangseo"
+            "sub_region_code":"2644000000_Busan_Gangseo",
+            "shorten_url":"https:\/\/me2.do\/Fp1a5nWR"
         },
         {
             "index":19,
@@ -286,7 +309,8 @@
             "value_score":55.1216,
             "region":"부산시 강서구",
             "region_code":"Busan",
-            "sub_region_code":"2644000000_Busan_Gangseo"
+            "sub_region_code":"2644000000_Busan_Gangseo",
+            "shorten_url":"https:\/\/me2.do\/Fp1a5nWR"
         },
         {
             "index":20,
@@ -298,7 +322,8 @@
             "value_score":49.92125,
             "region":"부산시 강서구",
             "region_code":"Busan",
-            "sub_region_code":"2644000000_Busan_Gangseo"
+            "sub_region_code":"2644000000_Busan_Gangseo",
+            "shorten_url":"https:\/\/me2.do\/Fp1a5nWR"
         },
         {
             "index":21,
@@ -310,7 +335,8 @@
             "value_score":31.0253,
             "region":"부산시 강서구",
             "region_code":"Busan",
-            "sub_region_code":"2644000000_Busan_Gangseo"
+            "sub_region_code":"2644000000_Busan_Gangseo",
+            "shorten_url":"https:\/\/me2.do\/Fp1a5nWR"
         },
         {
             "index":22,
@@ -322,7 +348,8 @@
             "value_score":30.6753,
             "region":"부산시 강서구",
             "region_code":"Busan",
-            "sub_region_code":"2644000000_Busan_Gangseo"
+            "sub_region_code":"2644000000_Busan_Gangseo",
+            "shorten_url":"https:\/\/me2.do\/Fp1a5nWR"
         },
         {
             "index":23,
@@ -334,7 +361,8 @@
             "value_score":30.2253,
             "region":"부산시 강서구",
             "region_code":"Busan",
-            "sub_region_code":"2644000000_Busan_Gangseo"
+            "sub_region_code":"2644000000_Busan_Gangseo",
+            "shorten_url":"https:\/\/me2.do\/Fp1a5nWR"
         },
         {
             "index":24,
@@ -346,7 +374,8 @@
             "value_score":28.4037,
             "region":"부산시 강서구",
             "region_code":"Busan",
-            "sub_region_code":"2644000000_Busan_Gangseo"
+            "sub_region_code":"2644000000_Busan_Gangseo",
+            "shorten_url":"https:\/\/me2.do\/Fp1a5nWR"
         },
         {
             "index":25,
@@ -358,7 +387,8 @@
             "value_score":27.7587,
             "region":"부산시 강서구",
             "region_code":"Busan",
-            "sub_region_code":"2644000000_Busan_Gangseo"
+            "sub_region_code":"2644000000_Busan_Gangseo",
+            "shorten_url":"https:\/\/me2.do\/Fp1a5nWR"
         },
         {
             "index":26,
@@ -370,7 +400,8 @@
             "value_score":27.4287,
             "region":"부산시 강서구",
             "region_code":"Busan",
-            "sub_region_code":"2644000000_Busan_Gangseo"
+            "sub_region_code":"2644000000_Busan_Gangseo",
+            "shorten_url":"https:\/\/me2.do\/Fp1a5nWR"
         },
         {
             "index":27,
@@ -382,7 +413,8 @@
             "value_score":27.0037,
             "region":"부산시 강서구",
             "region_code":"Busan",
-            "sub_region_code":"2644000000_Busan_Gangseo"
+            "sub_region_code":"2644000000_Busan_Gangseo",
+            "shorten_url":"https:\/\/me2.do\/Fp1a5nWR"
         },
         {
             "index":28,
@@ -394,7 +426,8 @@
             "value_score":26.8787,
             "region":"부산시 강서구",
             "region_code":"Busan",
-            "sub_region_code":"2644000000_Busan_Gangseo"
+            "sub_region_code":"2644000000_Busan_Gangseo",
+            "shorten_url":"https:\/\/me2.do\/Fp1a5nWR"
         },
         {
             "index":29,
@@ -406,7 +439,8 @@
             "value_score":26.8753,
             "region":"부산시 강서구",
             "region_code":"Busan",
-            "sub_region_code":"2644000000_Busan_Gangseo"
+            "sub_region_code":"2644000000_Busan_Gangseo",
+            "shorten_url":"https:\/\/me2.do\/Fp1a5nWR"
         },
         {
             "index":30,
@@ -418,7 +452,8 @@
             "value_score":33.86875,
             "region":"부산시 강서구",
             "region_code":"Busan",
-            "sub_region_code":"2644000000_Busan_Gangseo"
+            "sub_region_code":"2644000000_Busan_Gangseo",
+            "shorten_url":"https:\/\/me2.do\/Fp1a5nWR"
         },
         {
             "index":31,
@@ -430,7 +465,8 @@
             "value_score":33.1005,
             "region":"부산시 강서구",
             "region_code":"Busan",
-            "sub_region_code":"2644000000_Busan_Gangseo"
+            "sub_region_code":"2644000000_Busan_Gangseo",
+            "shorten_url":"https:\/\/me2.do\/Fp1a5nWR"
         },
         {
             "index":32,
@@ -442,7 +478,8 @@
             "value_score":32.9005,
             "region":"부산시 강서구",
             "region_code":"Busan",
-            "sub_region_code":"2644000000_Busan_Gangseo"
+            "sub_region_code":"2644000000_Busan_Gangseo",
+            "shorten_url":"https:\/\/me2.do\/Fp1a5nWR"
         },
         {
             "index":33,
@@ -454,7 +491,8 @@
             "value_score":31.7395,
             "region":"부산시 강서구",
             "region_code":"Busan",
-            "sub_region_code":"2644000000_Busan_Gangseo"
+            "sub_region_code":"2644000000_Busan_Gangseo",
+            "shorten_url":"https:\/\/me2.do\/Fp1a5nWR"
         },
         {
             "index":34,
@@ -466,7 +504,8 @@
             "value_score":31.0895,
             "region":"부산시 강서구",
             "region_code":"Busan",
-            "sub_region_code":"2644000000_Busan_Gangseo"
+            "sub_region_code":"2644000000_Busan_Gangseo",
+            "shorten_url":"https:\/\/me2.do\/Fp1a5nWR"
         },
         {
             "index":35,
@@ -478,7 +517,8 @@
             "value_score":31.0895,
             "region":"부산시 강서구",
             "region_code":"Busan",
-            "sub_region_code":"2644000000_Busan_Gangseo"
+            "sub_region_code":"2644000000_Busan_Gangseo",
+            "shorten_url":"https:\/\/me2.do\/Fp1a5nWR"
         },
         {
             "index":36,
@@ -490,7 +530,8 @@
             "value_score":30.5895,
             "region":"부산시 강서구",
             "region_code":"Busan",
-            "sub_region_code":"2644000000_Busan_Gangseo"
+            "sub_region_code":"2644000000_Busan_Gangseo",
+            "shorten_url":"https:\/\/me2.do\/Fp1a5nWR"
         },
         {
             "index":37,
@@ -502,7 +543,8 @@
             "value_score":30.5505,
             "region":"부산시 강서구",
             "region_code":"Busan",
-            "sub_region_code":"2644000000_Busan_Gangseo"
+            "sub_region_code":"2644000000_Busan_Gangseo",
+            "shorten_url":"https:\/\/me2.do\/Fp1a5nWR"
         },
         {
             "index":38,
@@ -514,7 +556,8 @@
             "value_score":30.3395,
             "region":"부산시 강서구",
             "region_code":"Busan",
-            "sub_region_code":"2644000000_Busan_Gangseo"
+            "sub_region_code":"2644000000_Busan_Gangseo",
+            "shorten_url":"https:\/\/me2.do\/Fp1a5nWR"
         },
         {
             "index":39,
@@ -526,7 +569,8 @@
             "value_score":30.1005,
             "region":"부산시 강서구",
             "region_code":"Busan",
-            "sub_region_code":"2644000000_Busan_Gangseo"
+            "sub_region_code":"2644000000_Busan_Gangseo",
+            "shorten_url":"https:\/\/me2.do\/Fp1a5nWR"
         },
         {
             "index":40,
@@ -538,7 +582,8 @@
             "value_score":53.001,
             "region":"부산시 강서구",
             "region_code":"Busan",
-            "sub_region_code":"2644000000_Busan_Gangseo"
+            "sub_region_code":"2644000000_Busan_Gangseo",
+            "shorten_url":"https:\/\/me2.do\/Fp1a5nWR"
         },
         {
             "index":41,
@@ -550,7 +595,8 @@
             "value_score":53.001,
             "region":"부산시 강서구",
             "region_code":"Busan",
-            "sub_region_code":"2644000000_Busan_Gangseo"
+            "sub_region_code":"2644000000_Busan_Gangseo",
+            "shorten_url":"https:\/\/me2.do\/Fp1a5nWR"
         },
         {
             "index":42,
@@ -562,7 +608,8 @@
             "value_score":53.001,
             "region":"부산시 강서구",
             "region_code":"Busan",
-            "sub_region_code":"2644000000_Busan_Gangseo"
+            "sub_region_code":"2644000000_Busan_Gangseo",
+            "shorten_url":"https:\/\/me2.do\/Fp1a5nWR"
         },
         {
             "index":43,
@@ -574,7 +621,8 @@
             "value_score":51.479,
             "region":"부산시 강서구",
             "region_code":"Busan",
-            "sub_region_code":"2644000000_Busan_Gangseo"
+            "sub_region_code":"2644000000_Busan_Gangseo",
+            "shorten_url":"https:\/\/me2.do\/Fp1a5nWR"
         },
         {
             "index":44,
@@ -586,7 +634,8 @@
             "value_score":51.101,
             "region":"부산시 강서구",
             "region_code":"Busan",
-            "sub_region_code":"2644000000_Busan_Gangseo"
+            "sub_region_code":"2644000000_Busan_Gangseo",
+            "shorten_url":"https:\/\/me2.do\/Fp1a5nWR"
         },
         {
             "index":45,
@@ -598,7 +647,8 @@
             "value_score":50.659,
             "region":"부산시 강서구",
             "region_code":"Busan",
-            "sub_region_code":"2644000000_Busan_Gangseo"
+            "sub_region_code":"2644000000_Busan_Gangseo",
+            "shorten_url":"https:\/\/me2.do\/Fp1a5nWR"
         },
         {
             "index":46,
@@ -610,7 +660,8 @@
             "value_score":50.579,
             "region":"부산시 강서구",
             "region_code":"Busan",
-            "sub_region_code":"2644000000_Busan_Gangseo"
+            "sub_region_code":"2644000000_Busan_Gangseo",
+            "shorten_url":"https:\/\/me2.do\/Fp1a5nWR"
         },
         {
             "index":47,
@@ -622,7 +673,8 @@
             "value_score":49.701,
             "region":"부산시 강서구",
             "region_code":"Busan",
-            "sub_region_code":"2644000000_Busan_Gangseo"
+            "sub_region_code":"2644000000_Busan_Gangseo",
+            "shorten_url":"https:\/\/me2.do\/Fp1a5nWR"
         },
         {
             "index":48,
@@ -634,7 +686,8 @@
             "value_score":49.579,
             "region":"부산시 강서구",
             "region_code":"Busan",
-            "sub_region_code":"2644000000_Busan_Gangseo"
+            "sub_region_code":"2644000000_Busan_Gangseo",
+            "shorten_url":"https:\/\/me2.do\/Fp1a5nWR"
         },
         {
             "index":49,
@@ -646,7 +699,8 @@
             "value_score":49.279,
             "region":"부산시 강서구",
             "region_code":"Busan",
-            "sub_region_code":"2644000000_Busan_Gangseo"
+            "sub_region_code":"2644000000_Busan_Gangseo",
+            "shorten_url":"https:\/\/me2.do\/Fp1a5nWR"
         }
     ]
 }

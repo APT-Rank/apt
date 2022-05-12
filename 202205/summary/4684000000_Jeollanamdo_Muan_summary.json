@@ -40,6 +40,10 @@
             {
                 "name":"sub_region_code",
                 "type":"string"
+            },
+            {
+                "name":"shorten_url",
+                "type":"string"
             }
         ],
         "primaryKey":[
@@ -58,7 +62,8 @@
             "value_score":60.03275,
             "region":"전라남도 무안군",
             "region_code":"Jeollanamdo",
-            "sub_region_code":"4684000000_Jeollanamdo_Muan"
+            "sub_region_code":"4684000000_Jeollanamdo_Muan",
+            "shorten_url":"https:\/\/me2.do\/FcIfNCnX"
         },
         {
             "index":1,
@@ -70,7 +75,8 @@
             "value_score":58.65775,
             "region":"전라남도 무안군",
             "region_code":"Jeollanamdo",
-            "sub_region_code":"4684000000_Jeollanamdo_Muan"
+            "sub_region_code":"4684000000_Jeollanamdo_Muan",
+            "shorten_url":"https:\/\/me2.do\/FcIfNCnX"
         },
         {
             "index":2,
@@ -82,7 +88,8 @@
             "value_score":55.85775,
             "region":"전라남도 무안군",
             "region_code":"Jeollanamdo",
-            "sub_region_code":"4684000000_Jeollanamdo_Muan"
+            "sub_region_code":"4684000000_Jeollanamdo_Muan",
+            "shorten_url":"https:\/\/me2.do\/FcIfNCnX"
         },
         {
             "index":3,
@@ -94,7 +101,8 @@
             "value_score":55.6996,
             "region":"전라남도 무안군",
             "region_code":"Jeollanamdo",
-            "sub_region_code":"4684000000_Jeollanamdo_Muan"
+            "sub_region_code":"4684000000_Jeollanamdo_Muan",
+            "shorten_url":"https:\/\/me2.do\/FcIfNCnX"
         },
         {
             "index":4,
@@ -106,7 +114,8 @@
             "value_score":55.65775,
             "region":"전라남도 무안군",
             "region_code":"Jeollanamdo",
-            "sub_region_code":"4684000000_Jeollanamdo_Muan"
+            "sub_region_code":"4684000000_Jeollanamdo_Muan",
+            "shorten_url":"https:\/\/me2.do\/FcIfNCnX"
         },
         {
             "index":5,
@@ -118,7 +127,8 @@
             "value_score":55.5822,
             "region":"전라남도 무안군",
             "region_code":"Jeollanamdo",
-            "sub_region_code":"4684000000_Jeollanamdo_Muan"
+            "sub_region_code":"4684000000_Jeollanamdo_Muan",
+            "shorten_url":"https:\/\/me2.do\/FcIfNCnX"
         },
         {
             "index":6,
@@ -130,7 +140,8 @@
             "value_score":55.5496,
             "region":"전라남도 무안군",
             "region_code":"Jeollanamdo",
-            "sub_region_code":"4684000000_Jeollanamdo_Muan"
+            "sub_region_code":"4684000000_Jeollanamdo_Muan",
+            "shorten_url":"https:\/\/me2.do\/FcIfNCnX"
         },
         {
             "index":7,
@@ -142,7 +153,8 @@
             "value_score":54.71325,
             "region":"전라남도 무안군",
             "region_code":"Jeollanamdo",
-            "sub_region_code":"4684000000_Jeollanamdo_Muan"
+            "sub_region_code":"4684000000_Jeollanamdo_Muan",
+            "shorten_url":"https:\/\/me2.do\/FcIfNCnX"
         },
         {
             "index":8,
@@ -154,7 +166,8 @@
             "value_score":54.6822,
             "region":"전라남도 무안군",
             "region_code":"Jeollanamdo",
-            "sub_region_code":"4684000000_Jeollanamdo_Muan"
+            "sub_region_code":"4684000000_Jeollanamdo_Muan",
+            "shorten_url":"https:\/\/me2.do\/FcIfNCnX"
         },
         {
             "index":9,
@@ -166,7 +179,8 @@
             "value_score":54.46325,
             "region":"전라남도 무안군",
             "region_code":"Jeollanamdo",
-            "sub_region_code":"4684000000_Jeollanamdo_Muan"
+            "sub_region_code":"4684000000_Jeollanamdo_Muan",
+            "shorten_url":"https:\/\/me2.do\/FcIfNCnX"
         },
         {
             "index":10,
@@ -178,7 +192,8 @@
             "value_score":60.66625,
             "region":"전라남도 무안군",
             "region_code":"Jeollanamdo",
-            "sub_region_code":"4684000000_Jeollanamdo_Muan"
+            "sub_region_code":"4684000000_Jeollanamdo_Muan",
+            "shorten_url":"https:\/\/me2.do\/FcIfNCnX"
         },
         {
             "index":11,
@@ -190,7 +205,8 @@
             "value_score":58.04125,
             "region":"전라남도 무안군",
             "region_code":"Jeollanamdo",
-            "sub_region_code":"4684000000_Jeollanamdo_Muan"
+            "sub_region_code":"4684000000_Jeollanamdo_Muan",
+            "shorten_url":"https:\/\/me2.do\/FcIfNCnX"
         },
         {
             "index":12,
@@ -202,7 +218,8 @@
             "value_score":54.54125,
             "region":"전라남도 무안군",
             "region_code":"Jeollanamdo",
-            "sub_region_code":"4684000000_Jeollanamdo_Muan"
+            "sub_region_code":"4684000000_Jeollanamdo_Muan",
+            "shorten_url":"https:\/\/me2.do\/FcIfNCnX"
         },
         {
             "index":13,
@@ -214,7 +231,8 @@
             "value_score":54.523,
             "region":"전라남도 무안군",
             "region_code":"Jeollanamdo",
-            "sub_region_code":"4684000000_Jeollanamdo_Muan"
+            "sub_region_code":"4684000000_Jeollanamdo_Muan",
+            "shorten_url":"https:\/\/me2.do\/FcIfNCnX"
         },
         {
             "index":14,
@@ -226,7 +244,8 @@
             "value_score":54.47375,
             "region":"전라남도 무안군",
             "region_code":"Jeollanamdo",
-            "sub_region_code":"4684000000_Jeollanamdo_Muan"
+            "sub_region_code":"4684000000_Jeollanamdo_Muan",
+            "shorten_url":"https:\/\/me2.do\/FcIfNCnX"
         },
         {
             "index":15,
@@ -238,7 +257,8 @@
             "value_score":54.47375,
             "region":"전라남도 무안군",
             "region_code":"Jeollanamdo",
-            "sub_region_code":"4684000000_Jeollanamdo_Muan"
+            "sub_region_code":"4684000000_Jeollanamdo_Muan",
+            "shorten_url":"https:\/\/me2.do\/FcIfNCnX"
         },
         {
             "index":16,
@@ -250,7 +270,8 @@
             "value_score":54.22375,
             "region":"전라남도 무안군",
             "region_code":"Jeollanamdo",
-            "sub_region_code":"4684000000_Jeollanamdo_Muan"
+            "sub_region_code":"4684000000_Jeollanamdo_Muan",
+            "shorten_url":"https:\/\/me2.do\/FcIfNCnX"
         },
         {
             "index":17,
@@ -262,7 +283,8 @@
             "value_score":54.22375,
             "region":"전라남도 무안군",
             "region_code":"Jeollanamdo",
-            "sub_region_code":"4684000000_Jeollanamdo_Muan"
+            "sub_region_code":"4684000000_Jeollanamdo_Muan",
+            "shorten_url":"https:\/\/me2.do\/FcIfNCnX"
         },
         {
             "index":18,
@@ -274,7 +296,8 @@
             "value_score":53.964,
             "region":"전라남도 무안군",
             "region_code":"Jeollanamdo",
-            "sub_region_code":"4684000000_Jeollanamdo_Muan"
+            "sub_region_code":"4684000000_Jeollanamdo_Muan",
+            "shorten_url":"https:\/\/me2.do\/FcIfNCnX"
         },
         {
             "index":19,
@@ -286,7 +309,8 @@
             "value_score":53.814,
             "region":"전라남도 무안군",
             "region_code":"Jeollanamdo",
-            "sub_region_code":"4684000000_Jeollanamdo_Muan"
+            "sub_region_code":"4684000000_Jeollanamdo_Muan",
+            "shorten_url":"https:\/\/me2.do\/FcIfNCnX"
         },
         {
             "index":20,
@@ -298,7 +322,8 @@
             "value_score":57.4205263158,
             "region":"전라남도 무안군",
             "region_code":"Jeollanamdo",
-            "sub_region_code":"4684000000_Jeollanamdo_Muan"
+            "sub_region_code":"4684000000_Jeollanamdo_Muan",
+            "shorten_url":"https:\/\/me2.do\/FcIfNCnX"
         },
         {
             "index":21,
@@ -310,7 +335,8 @@
             "value_score":56.9018947368,
             "region":"전라남도 무안군",
             "region_code":"Jeollanamdo",
-            "sub_region_code":"4684000000_Jeollanamdo_Muan"
+            "sub_region_code":"4684000000_Jeollanamdo_Muan",
+            "shorten_url":"https:\/\/me2.do\/FcIfNCnX"
         },
         {
             "index":22,
@@ -322,7 +348,8 @@
             "value_score":56.5861052632,
             "region":"전라남도 무안군",
             "region_code":"Jeollanamdo",
-            "sub_region_code":"4684000000_Jeollanamdo_Muan"
+            "sub_region_code":"4684000000_Jeollanamdo_Muan",
+            "shorten_url":"https:\/\/me2.do\/FcIfNCnX"
         },
         {
             "index":23,
@@ -334,7 +361,8 @@
             "value_score":54.4468421053,
             "region":"전라남도 무안군",
             "region_code":"Jeollanamdo",
-            "sub_region_code":"4684000000_Jeollanamdo_Muan"
+            "sub_region_code":"4684000000_Jeollanamdo_Muan",
+            "shorten_url":"https:\/\/me2.do\/FcIfNCnX"
         },
         {
             "index":24,
@@ -346,7 +374,8 @@
             "value_score":53.9764210526,
             "region":"전라남도 무안군",
             "region_code":"Jeollanamdo",
-            "sub_region_code":"4684000000_Jeollanamdo_Muan"
+            "sub_region_code":"4684000000_Jeollanamdo_Muan",
+            "shorten_url":"https:\/\/me2.do\/FcIfNCnX"
         },
         {
             "index":25,
@@ -358,7 +387,8 @@
             "value_score":53.4731578947,
             "region":"전라남도 무안군",
             "region_code":"Jeollanamdo",
-            "sub_region_code":"4684000000_Jeollanamdo_Muan"
+            "sub_region_code":"4684000000_Jeollanamdo_Muan",
+            "shorten_url":"https:\/\/me2.do\/FcIfNCnX"
         },
         {
             "index":26,
@@ -370,7 +400,8 @@
             "value_score":52.7658947368,
             "region":"전라남도 무안군",
             "region_code":"Jeollanamdo",
-            "sub_region_code":"4684000000_Jeollanamdo_Muan"
+            "sub_region_code":"4684000000_Jeollanamdo_Muan",
+            "shorten_url":"https:\/\/me2.do\/FcIfNCnX"
         },
         {
             "index":27,
@@ -382,7 +413,8 @@
             "value_score":52.3678947368,
             "region":"전라남도 무안군",
             "region_code":"Jeollanamdo",
-            "sub_region_code":"4684000000_Jeollanamdo_Muan"
+            "sub_region_code":"4684000000_Jeollanamdo_Muan",
+            "shorten_url":"https:\/\/me2.do\/FcIfNCnX"
         },
         {
             "index":28,
@@ -394,7 +426,8 @@
             "value_score":52.2703157895,
             "region":"전라남도 무안군",
             "region_code":"Jeollanamdo",
-            "sub_region_code":"4684000000_Jeollanamdo_Muan"
+            "sub_region_code":"4684000000_Jeollanamdo_Muan",
+            "shorten_url":"https:\/\/me2.do\/FcIfNCnX"
         },
         {
             "index":29,
@@ -406,7 +439,8 @@
             "value_score":51.5334736842,
             "region":"전라남도 무안군",
             "region_code":"Jeollanamdo",
-            "sub_region_code":"4684000000_Jeollanamdo_Muan"
+            "sub_region_code":"4684000000_Jeollanamdo_Muan",
+            "shorten_url":"https:\/\/me2.do\/FcIfNCnX"
         },
         {
             "index":30,
@@ -418,7 +452,8 @@
             "value_score":59.5825,
             "region":"전라남도 무안군",
             "region_code":"Jeollanamdo",
-            "sub_region_code":"4684000000_Jeollanamdo_Muan"
+            "sub_region_code":"4684000000_Jeollanamdo_Muan",
+            "shorten_url":"https:\/\/me2.do\/FcIfNCnX"
         },
         {
             "index":31,
@@ -430,7 +465,8 @@
             "value_score":59.0825,
             "region":"전라남도 무안군",
             "region_code":"Jeollanamdo",
-            "sub_region_code":"4684000000_Jeollanamdo_Muan"
+            "sub_region_code":"4684000000_Jeollanamdo_Muan",
+            "shorten_url":"https:\/\/me2.do\/FcIfNCnX"
         },
         {
             "index":32,
@@ -442,7 +478,8 @@
             "value_score":58.8325,
             "region":"전라남도 무안군",
             "region_code":"Jeollanamdo",
-            "sub_region_code":"4684000000_Jeollanamdo_Muan"
+            "sub_region_code":"4684000000_Jeollanamdo_Muan",
+            "shorten_url":"https:\/\/me2.do\/FcIfNCnX"
         },
         {
             "index":33,
@@ -454,7 +491,8 @@
             "value_score":58.303,
             "region":"전라남도 무안군",
             "region_code":"Jeollanamdo",
-            "sub_region_code":"4684000000_Jeollanamdo_Muan"
+            "sub_region_code":"4684000000_Jeollanamdo_Muan",
+            "shorten_url":"https:\/\/me2.do\/FcIfNCnX"
         },
         {
             "index":34,
@@ -466,7 +504,8 @@
             "value_score":58.153,
             "region":"전라남도 무안군",
             "region_code":"Jeollanamdo",
-            "sub_region_code":"4684000000_Jeollanamdo_Muan"
+            "sub_region_code":"4684000000_Jeollanamdo_Muan",
+            "shorten_url":"https:\/\/me2.do\/FcIfNCnX"
         },
         {
             "index":35,
@@ -478,7 +517,8 @@
             "value_score":57.8325,
             "region":"전라남도 무안군",
             "region_code":"Jeollanamdo",
-            "sub_region_code":"4684000000_Jeollanamdo_Muan"
+            "sub_region_code":"4684000000_Jeollanamdo_Muan",
+            "shorten_url":"https:\/\/me2.do\/FcIfNCnX"
         },
         {
             "index":36,
@@ -490,7 +530,8 @@
             "value_score":57.171,
             "region":"전라남도 무안군",
             "region_code":"Jeollanamdo",
-            "sub_region_code":"4684000000_Jeollanamdo_Muan"
+            "sub_region_code":"4684000000_Jeollanamdo_Muan",
+            "shorten_url":"https:\/\/me2.do\/FcIfNCnX"
         },
         {
             "index":37,
@@ -502,7 +543,8 @@
             "value_score":56.421,
             "region":"전라남도 무안군",
             "region_code":"Jeollanamdo",
-            "sub_region_code":"4684000000_Jeollanamdo_Muan"
+            "sub_region_code":"4684000000_Jeollanamdo_Muan",
+            "shorten_url":"https:\/\/me2.do\/FcIfNCnX"
         },
         {
             "index":38,
@@ -514,7 +556,8 @@
             "value_score":55.0725,
             "region":"전라남도 무안군",
             "region_code":"Jeollanamdo",
-            "sub_region_code":"4684000000_Jeollanamdo_Muan"
+            "sub_region_code":"4684000000_Jeollanamdo_Muan",
+            "shorten_url":"https:\/\/me2.do\/FcIfNCnX"
         },
         {
             "index":39,
@@ -526,7 +569,8 @@
             "value_score":54.528,
             "region":"전라남도 무안군",
             "region_code":"Jeollanamdo",
-            "sub_region_code":"4684000000_Jeollanamdo_Muan"
+            "sub_region_code":"4684000000_Jeollanamdo_Muan",
+            "shorten_url":"https:\/\/me2.do\/FcIfNCnX"
         }
     ]
 }

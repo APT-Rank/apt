@@ -40,6 +40,10 @@
             {
                 "name":"sub_region_code",
                 "type":"string"
+            },
+            {
+                "name":"shorten_url",
+                "type":"string"
             }
         ],
         "primaryKey":[
@@ -58,7 +62,8 @@
             "value_score":45.56035,
             "region":"충청북도 보은군",
             "region_code":"Chungcheongbukdo",
-            "sub_region_code":"4372000000_Chungcheongbukdo_Boeun"
+            "sub_region_code":"4372000000_Chungcheongbukdo_Boeun",
+            "shorten_url":"https:\/\/me2.do\/Ff0oX42D"
         },
         {
             "index":1,
@@ -70,7 +75,8 @@
             "value_score":33.9237,
             "region":"충청북도 보은군",
             "region_code":"Chungcheongbukdo",
-            "sub_region_code":"4372000000_Chungcheongbukdo_Boeun"
+            "sub_region_code":"4372000000_Chungcheongbukdo_Boeun",
+            "shorten_url":"https:\/\/me2.do\/Ff0oX42D"
         },
         {
             "index":2,
@@ -82,7 +88,8 @@
             "value_score":32.6237,
             "region":"충청북도 보은군",
             "region_code":"Chungcheongbukdo",
-            "sub_region_code":"4372000000_Chungcheongbukdo_Boeun"
+            "sub_region_code":"4372000000_Chungcheongbukdo_Boeun",
+            "shorten_url":"https:\/\/me2.do\/Ff0oX42D"
         },
         {
             "index":3,
@@ -94,7 +101,8 @@
             "value_score":27.6237,
             "region":"충청북도 보은군",
             "region_code":"Chungcheongbukdo",
-            "sub_region_code":"4372000000_Chungcheongbukdo_Boeun"
+            "sub_region_code":"4372000000_Chungcheongbukdo_Boeun",
+            "shorten_url":"https:\/\/me2.do\/Ff0oX42D"
         },
         {
             "index":4,
@@ -106,7 +114,8 @@
             "value_score":27.2237,
             "region":"충청북도 보은군",
             "region_code":"Chungcheongbukdo",
-            "sub_region_code":"4372000000_Chungcheongbukdo_Boeun"
+            "sub_region_code":"4372000000_Chungcheongbukdo_Boeun",
+            "shorten_url":"https:\/\/me2.do\/Ff0oX42D"
         },
         {
             "index":5,
@@ -118,7 +127,8 @@
             "value_score":21.7237,
             "region":"충청북도 보은군",
             "region_code":"Chungcheongbukdo",
-            "sub_region_code":"4372000000_Chungcheongbukdo_Boeun"
+            "sub_region_code":"4372000000_Chungcheongbukdo_Boeun",
+            "shorten_url":"https:\/\/me2.do\/Ff0oX42D"
         },
         {
             "index":6,
@@ -130,7 +140,8 @@
             "value_score":20.16035,
             "region":"충청북도 보은군",
             "region_code":"Chungcheongbukdo",
-            "sub_region_code":"4372000000_Chungcheongbukdo_Boeun"
+            "sub_region_code":"4372000000_Chungcheongbukdo_Boeun",
+            "shorten_url":"https:\/\/me2.do\/Ff0oX42D"
         },
         {
             "index":7,
@@ -142,7 +153,8 @@
             "value_score":20.1237,
             "region":"충청북도 보은군",
             "region_code":"Chungcheongbukdo",
-            "sub_region_code":"4372000000_Chungcheongbukdo_Boeun"
+            "sub_region_code":"4372000000_Chungcheongbukdo_Boeun",
+            "shorten_url":"https:\/\/me2.do\/Ff0oX42D"
         },
         {
             "index":8,
@@ -154,7 +166,8 @@
             "value_score":47.50025,
             "region":"충청북도 보은군",
             "region_code":"Chungcheongbukdo",
-            "sub_region_code":"4372000000_Chungcheongbukdo_Boeun"
+            "sub_region_code":"4372000000_Chungcheongbukdo_Boeun",
+            "shorten_url":"https:\/\/me2.do\/Ff0oX42D"
         },
         {
             "index":9,
@@ -166,7 +179,8 @@
             "value_score":33.7955,
             "region":"충청북도 보은군",
             "region_code":"Chungcheongbukdo",
-            "sub_region_code":"4372000000_Chungcheongbukdo_Boeun"
+            "sub_region_code":"4372000000_Chungcheongbukdo_Boeun",
+            "shorten_url":"https:\/\/me2.do\/Ff0oX42D"
         },
         {
             "index":10,
@@ -178,7 +192,8 @@
             "value_score":32.0455,
             "region":"충청북도 보은군",
             "region_code":"Chungcheongbukdo",
-            "sub_region_code":"4372000000_Chungcheongbukdo_Boeun"
+            "sub_region_code":"4372000000_Chungcheongbukdo_Boeun",
+            "shorten_url":"https:\/\/me2.do\/Ff0oX42D"
         },
         {
             "index":11,
@@ -190,7 +205,8 @@
             "value_score":25.2955,
             "region":"충청북도 보은군",
             "region_code":"Chungcheongbukdo",
-            "sub_region_code":"4372000000_Chungcheongbukdo_Boeun"
+            "sub_region_code":"4372000000_Chungcheongbukdo_Boeun",
+            "shorten_url":"https:\/\/me2.do\/Ff0oX42D"
         },
         {
             "index":12,
@@ -202,7 +218,8 @@
             "value_score":24.9455,
             "region":"충청북도 보은군",
             "region_code":"Chungcheongbukdo",
-            "sub_region_code":"4372000000_Chungcheongbukdo_Boeun"
+            "sub_region_code":"4372000000_Chungcheongbukdo_Boeun",
+            "shorten_url":"https:\/\/me2.do\/Ff0oX42D"
         },
         {
             "index":13,
@@ -214,7 +231,8 @@
             "value_score":18.5455,
             "region":"충청북도 보은군",
             "region_code":"Chungcheongbukdo",
-            "sub_region_code":"4372000000_Chungcheongbukdo_Boeun"
+            "sub_region_code":"4372000000_Chungcheongbukdo_Boeun",
+            "shorten_url":"https:\/\/me2.do\/Ff0oX42D"
         },
         {
             "index":14,
@@ -226,7 +244,8 @@
             "value_score":16.5455,
             "region":"충청북도 보은군",
             "region_code":"Chungcheongbukdo",
-            "sub_region_code":"4372000000_Chungcheongbukdo_Boeun"
+            "sub_region_code":"4372000000_Chungcheongbukdo_Boeun",
+            "shorten_url":"https:\/\/me2.do\/Ff0oX42D"
         },
         {
             "index":15,
@@ -238,7 +257,8 @@
             "value_score":16.50025,
             "region":"충청북도 보은군",
             "region_code":"Chungcheongbukdo",
-            "sub_region_code":"4372000000_Chungcheongbukdo_Boeun"
+            "sub_region_code":"4372000000_Chungcheongbukdo_Boeun",
+            "shorten_url":"https:\/\/me2.do\/Ff0oX42D"
         },
         {
             "index":16,
@@ -250,7 +270,8 @@
             "value_score":32.2424210526,
             "region":"충청북도 보은군",
             "region_code":"Chungcheongbukdo",
-            "sub_region_code":"4372000000_Chungcheongbukdo_Boeun"
+            "sub_region_code":"4372000000_Chungcheongbukdo_Boeun",
+            "shorten_url":"https:\/\/me2.do\/Ff0oX42D"
         },
         {
             "index":17,
@@ -262,7 +283,8 @@
             "value_score":26.9837894737,
             "region":"충청북도 보은군",
             "region_code":"Chungcheongbukdo",
-            "sub_region_code":"4372000000_Chungcheongbukdo_Boeun"
+            "sub_region_code":"4372000000_Chungcheongbukdo_Boeun",
+            "shorten_url":"https:\/\/me2.do\/Ff0oX42D"
         },
         {
             "index":18,
@@ -274,7 +296,8 @@
             "value_score":23.1416842105,
             "region":"충청북도 보은군",
             "region_code":"Chungcheongbukdo",
-            "sub_region_code":"4372000000_Chungcheongbukdo_Boeun"
+            "sub_region_code":"4372000000_Chungcheongbukdo_Boeun",
+            "shorten_url":"https:\/\/me2.do\/Ff0oX42D"
         },
         {
             "index":19,
@@ -286,7 +309,8 @@
             "value_score":22.7995789474,
             "region":"충청북도 보은군",
             "region_code":"Chungcheongbukdo",
-            "sub_region_code":"4372000000_Chungcheongbukdo_Boeun"
+            "sub_region_code":"4372000000_Chungcheongbukdo_Boeun",
+            "shorten_url":"https:\/\/me2.do\/Ff0oX42D"
         },
         {
             "index":20,
@@ -298,7 +322,8 @@
             "value_score":21.0101052632,
             "region":"충청북도 보은군",
             "region_code":"Chungcheongbukdo",
-            "sub_region_code":"4372000000_Chungcheongbukdo_Boeun"
+            "sub_region_code":"4372000000_Chungcheongbukdo_Boeun",
+            "shorten_url":"https:\/\/me2.do\/Ff0oX42D"
         },
         {
             "index":21,
@@ -310,7 +335,8 @@
             "value_score":17.9837894737,
             "region":"충청북도 보은군",
             "region_code":"Chungcheongbukdo",
-            "sub_region_code":"4372000000_Chungcheongbukdo_Boeun"
+            "sub_region_code":"4372000000_Chungcheongbukdo_Boeun",
+            "shorten_url":"https:\/\/me2.do\/Ff0oX42D"
         },
         {
             "index":22,
@@ -322,7 +348,8 @@
             "value_score":17.3522105263,
             "region":"충청북도 보은군",
             "region_code":"Chungcheongbukdo",
-            "sub_region_code":"4372000000_Chungcheongbukdo_Boeun"
+            "sub_region_code":"4372000000_Chungcheongbukdo_Boeun",
+            "shorten_url":"https:\/\/me2.do\/Ff0oX42D"
         },
         {
             "index":23,
@@ -334,7 +361,8 @@
             "value_score":17.0845263158,
             "region":"충청북도 보은군",
             "region_code":"Chungcheongbukdo",
-            "sub_region_code":"4372000000_Chungcheongbukdo_Boeun"
+            "sub_region_code":"4372000000_Chungcheongbukdo_Boeun",
+            "shorten_url":"https:\/\/me2.do\/Ff0oX42D"
         },
         {
             "index":24,
@@ -346,7 +374,8 @@
             "value_score":42.6505,
             "region":"충청북도 보은군",
             "region_code":"Chungcheongbukdo",
-            "sub_region_code":"4372000000_Chungcheongbukdo_Boeun"
+            "sub_region_code":"4372000000_Chungcheongbukdo_Boeun",
+            "shorten_url":"https:\/\/me2.do\/Ff0oX42D"
         },
         {
             "index":25,
@@ -358,7 +387,8 @@
             "value_score":34.116,
             "region":"충청북도 보은군",
             "region_code":"Chungcheongbukdo",
-            "sub_region_code":"4372000000_Chungcheongbukdo_Boeun"
+            "sub_region_code":"4372000000_Chungcheongbukdo_Boeun",
+            "shorten_url":"https:\/\/me2.do\/Ff0oX42D"
         },
         {
             "index":26,
@@ -370,7 +400,8 @@
             "value_score":33.491,
             "region":"충청북도 보은군",
             "region_code":"Chungcheongbukdo",
-            "sub_region_code":"4372000000_Chungcheongbukdo_Boeun"
+            "sub_region_code":"4372000000_Chungcheongbukdo_Boeun",
+            "shorten_url":"https:\/\/me2.do\/Ff0oX42D"
         },
         {
             "index":27,
@@ -382,7 +413,8 @@
             "value_score":31.641,
             "region":"충청북도 보은군",
             "region_code":"Chungcheongbukdo",
-            "sub_region_code":"4372000000_Chungcheongbukdo_Boeun"
+            "sub_region_code":"4372000000_Chungcheongbukdo_Boeun",
+            "shorten_url":"https:\/\/me2.do\/Ff0oX42D"
         },
         {
             "index":28,
@@ -394,7 +426,8 @@
             "value_score":30.116,
             "region":"충청북도 보은군",
             "region_code":"Chungcheongbukdo",
-            "sub_region_code":"4372000000_Chungcheongbukdo_Boeun"
+            "sub_region_code":"4372000000_Chungcheongbukdo_Boeun",
+            "shorten_url":"https:\/\/me2.do\/Ff0oX42D"
         },
         {
             "index":29,
@@ -406,7 +439,8 @@
             "value_score":26.491,
             "region":"충청북도 보은군",
             "region_code":"Chungcheongbukdo",
-            "sub_region_code":"4372000000_Chungcheongbukdo_Boeun"
+            "sub_region_code":"4372000000_Chungcheongbukdo_Boeun",
+            "shorten_url":"https:\/\/me2.do\/Ff0oX42D"
         },
         {
             "index":30,
@@ -418,7 +452,8 @@
             "value_score":25.6505,
             "region":"충청북도 보은군",
             "region_code":"Chungcheongbukdo",
-            "sub_region_code":"4372000000_Chungcheongbukdo_Boeun"
+            "sub_region_code":"4372000000_Chungcheongbukdo_Boeun",
+            "shorten_url":"https:\/\/me2.do\/Ff0oX42D"
         },
         {
             "index":31,
@@ -430,7 +465,8 @@
             "value_score":25.491,
             "region":"충청북도 보은군",
             "region_code":"Chungcheongbukdo",
-            "sub_region_code":"4372000000_Chungcheongbukdo_Boeun"
+            "sub_region_code":"4372000000_Chungcheongbukdo_Boeun",
+            "shorten_url":"https:\/\/me2.do\/Ff0oX42D"
         }
     ]
 }

@@ -40,6 +40,10 @@
             {
                 "name":"sub_region_code",
                 "type":"string"
+            },
+            {
+                "name":"shorten_url",
+                "type":"string"
             }
         ],
         "primaryKey":[
@@ -58,7 +62,8 @@
             "value_score":49.91035,
             "region":"경상남도 사천시",
             "region_code":"Gyeongsangnamdo",
-            "sub_region_code":"4824000000_Gyeongsangnamdo_Sacheon"
+            "sub_region_code":"4824000000_Gyeongsangnamdo_Sacheon",
+            "shorten_url":"https:\/\/me2.do\/GUQqdKhQ"
         },
         {
             "index":1,
@@ -70,7 +75,8 @@
             "value_score":48.43115,
             "region":"경상남도 사천시",
             "region_code":"Gyeongsangnamdo",
-            "sub_region_code":"4824000000_Gyeongsangnamdo_Sacheon"
+            "sub_region_code":"4824000000_Gyeongsangnamdo_Sacheon",
+            "shorten_url":"https:\/\/me2.do\/GUQqdKhQ"
         },
         {
             "index":2,
@@ -82,7 +88,8 @@
             "value_score":47.03115,
             "region":"경상남도 사천시",
             "region_code":"Gyeongsangnamdo",
-            "sub_region_code":"4824000000_Gyeongsangnamdo_Sacheon"
+            "sub_region_code":"4824000000_Gyeongsangnamdo_Sacheon",
+            "shorten_url":"https:\/\/me2.do\/GUQqdKhQ"
         },
         {
             "index":3,
@@ -94,7 +101,8 @@
             "value_score":44.4406,
             "region":"경상남도 사천시",
             "region_code":"Gyeongsangnamdo",
-            "sub_region_code":"4824000000_Gyeongsangnamdo_Sacheon"
+            "sub_region_code":"4824000000_Gyeongsangnamdo_Sacheon",
+            "shorten_url":"https:\/\/me2.do\/GUQqdKhQ"
         },
         {
             "index":4,
@@ -106,7 +114,8 @@
             "value_score":43.5906,
             "region":"경상남도 사천시",
             "region_code":"Gyeongsangnamdo",
-            "sub_region_code":"4824000000_Gyeongsangnamdo_Sacheon"
+            "sub_region_code":"4824000000_Gyeongsangnamdo_Sacheon",
+            "shorten_url":"https:\/\/me2.do\/GUQqdKhQ"
         },
         {
             "index":5,
@@ -118,7 +127,8 @@
             "value_score":43.43425,
             "region":"경상남도 사천시",
             "region_code":"Gyeongsangnamdo",
-            "sub_region_code":"4824000000_Gyeongsangnamdo_Sacheon"
+            "sub_region_code":"4824000000_Gyeongsangnamdo_Sacheon",
+            "shorten_url":"https:\/\/me2.do\/GUQqdKhQ"
         },
         {
             "index":6,
@@ -130,7 +140,8 @@
             "value_score":42.43425,
             "region":"경상남도 사천시",
             "region_code":"Gyeongsangnamdo",
-            "sub_region_code":"4824000000_Gyeongsangnamdo_Sacheon"
+            "sub_region_code":"4824000000_Gyeongsangnamdo_Sacheon",
+            "shorten_url":"https:\/\/me2.do\/GUQqdKhQ"
         },
         {
             "index":7,
@@ -142,7 +153,8 @@
             "value_score":42.3753,
             "region":"경상남도 사천시",
             "region_code":"Gyeongsangnamdo",
-            "sub_region_code":"4824000000_Gyeongsangnamdo_Sacheon"
+            "sub_region_code":"4824000000_Gyeongsangnamdo_Sacheon",
+            "shorten_url":"https:\/\/me2.do\/GUQqdKhQ"
         },
         {
             "index":8,
@@ -154,7 +166,8 @@
             "value_score":42.03115,
             "region":"경상남도 사천시",
             "region_code":"Gyeongsangnamdo",
-            "sub_region_code":"4824000000_Gyeongsangnamdo_Sacheon"
+            "sub_region_code":"4824000000_Gyeongsangnamdo_Sacheon",
+            "shorten_url":"https:\/\/me2.do\/GUQqdKhQ"
         },
         {
             "index":9,
@@ -166,7 +179,8 @@
             "value_score":41.71035,
             "region":"경상남도 사천시",
             "region_code":"Gyeongsangnamdo",
-            "sub_region_code":"4824000000_Gyeongsangnamdo_Sacheon"
+            "sub_region_code":"4824000000_Gyeongsangnamdo_Sacheon",
+            "shorten_url":"https:\/\/me2.do\/GUQqdKhQ"
         },
         {
             "index":10,
@@ -178,7 +192,8 @@
             "value_score":52.27225,
             "region":"경상남도 사천시",
             "region_code":"Gyeongsangnamdo",
-            "sub_region_code":"4824000000_Gyeongsangnamdo_Sacheon"
+            "sub_region_code":"4824000000_Gyeongsangnamdo_Sacheon",
+            "shorten_url":"https:\/\/me2.do\/GUQqdKhQ"
         },
         {
             "index":11,
@@ -190,7 +205,8 @@
             "value_score":50.65025,
             "region":"경상남도 사천시",
             "region_code":"Gyeongsangnamdo",
-            "sub_region_code":"4824000000_Gyeongsangnamdo_Sacheon"
+            "sub_region_code":"4824000000_Gyeongsangnamdo_Sacheon",
+            "shorten_url":"https:\/\/me2.do\/GUQqdKhQ"
         },
         {
             "index":12,
@@ -202,7 +218,8 @@
             "value_score":50.52225,
             "region":"경상남도 사천시",
             "region_code":"Gyeongsangnamdo",
-            "sub_region_code":"4824000000_Gyeongsangnamdo_Sacheon"
+            "sub_region_code":"4824000000_Gyeongsangnamdo_Sacheon",
+            "shorten_url":"https:\/\/me2.do\/GUQqdKhQ"
         },
         {
             "index":13,
@@ -214,7 +231,8 @@
             "value_score":46.529,
             "region":"경상남도 사천시",
             "region_code":"Gyeongsangnamdo",
-            "sub_region_code":"4824000000_Gyeongsangnamdo_Sacheon"
+            "sub_region_code":"4824000000_Gyeongsangnamdo_Sacheon",
+            "shorten_url":"https:\/\/me2.do\/GUQqdKhQ"
         },
         {
             "index":14,
@@ -226,7 +244,8 @@
             "value_score":46.23875,
             "region":"경상남도 사천시",
             "region_code":"Gyeongsangnamdo",
-            "sub_region_code":"4824000000_Gyeongsangnamdo_Sacheon"
+            "sub_region_code":"4824000000_Gyeongsangnamdo_Sacheon",
+            "shorten_url":"https:\/\/me2.do\/GUQqdKhQ"
         },
         {
             "index":15,
@@ -238,7 +257,8 @@
             "value_score":45.279,
             "region":"경상남도 사천시",
             "region_code":"Gyeongsangnamdo",
-            "sub_region_code":"4824000000_Gyeongsangnamdo_Sacheon"
+            "sub_region_code":"4824000000_Gyeongsangnamdo_Sacheon",
+            "shorten_url":"https:\/\/me2.do\/GUQqdKhQ"
         },
         {
             "index":16,
@@ -250,7 +270,8 @@
             "value_score":44.83875,
             "region":"경상남도 사천시",
             "region_code":"Gyeongsangnamdo",
-            "sub_region_code":"4824000000_Gyeongsangnamdo_Sacheon"
+            "sub_region_code":"4824000000_Gyeongsangnamdo_Sacheon",
+            "shorten_url":"https:\/\/me2.do\/GUQqdKhQ"
         },
         {
             "index":17,
@@ -262,7 +283,8 @@
             "value_score":44.12225,
             "region":"경상남도 사천시",
             "region_code":"Gyeongsangnamdo",
-            "sub_region_code":"4824000000_Gyeongsangnamdo_Sacheon"
+            "sub_region_code":"4824000000_Gyeongsangnamdo_Sacheon",
+            "shorten_url":"https:\/\/me2.do\/GUQqdKhQ"
         },
         {
             "index":18,
@@ -274,7 +296,8 @@
             "value_score":43.52225,
             "region":"경상남도 사천시",
             "region_code":"Gyeongsangnamdo",
-            "sub_region_code":"4824000000_Gyeongsangnamdo_Sacheon"
+            "sub_region_code":"4824000000_Gyeongsangnamdo_Sacheon",
+            "shorten_url":"https:\/\/me2.do\/GUQqdKhQ"
         },
         {
             "index":19,
@@ -286,7 +309,8 @@
             "value_score":43.23875,
             "region":"경상남도 사천시",
             "region_code":"Gyeongsangnamdo",
-            "sub_region_code":"4824000000_Gyeongsangnamdo_Sacheon"
+            "sub_region_code":"4824000000_Gyeongsangnamdo_Sacheon",
+            "shorten_url":"https:\/\/me2.do\/GUQqdKhQ"
         },
         {
             "index":20,
@@ -298,7 +322,8 @@
             "value_score":37.1403157895,
             "region":"경상남도 사천시",
             "region_code":"Gyeongsangnamdo",
-            "sub_region_code":"4824000000_Gyeongsangnamdo_Sacheon"
+            "sub_region_code":"4824000000_Gyeongsangnamdo_Sacheon",
+            "shorten_url":"https:\/\/me2.do\/GUQqdKhQ"
         },
         {
             "index":21,
@@ -310,7 +335,8 @@
             "value_score":36.7424210526,
             "region":"경상남도 사천시",
             "region_code":"Gyeongsangnamdo",
-            "sub_region_code":"4824000000_Gyeongsangnamdo_Sacheon"
+            "sub_region_code":"4824000000_Gyeongsangnamdo_Sacheon",
+            "shorten_url":"https:\/\/me2.do\/GUQqdKhQ"
         },
         {
             "index":22,
@@ -322,7 +348,8 @@
             "value_score":36.3476842105,
             "region":"경상남도 사천시",
             "region_code":"Gyeongsangnamdo",
-            "sub_region_code":"4824000000_Gyeongsangnamdo_Sacheon"
+            "sub_region_code":"4824000000_Gyeongsangnamdo_Sacheon",
+            "shorten_url":"https:\/\/me2.do\/GUQqdKhQ"
         },
         {
             "index":23,
@@ -334,7 +361,8 @@
             "value_score":36.3245263158,
             "region":"경상남도 사천시",
             "region_code":"Gyeongsangnamdo",
-            "sub_region_code":"4824000000_Gyeongsangnamdo_Sacheon"
+            "sub_region_code":"4824000000_Gyeongsangnamdo_Sacheon",
+            "shorten_url":"https:\/\/me2.do\/GUQqdKhQ"
         },
         {
             "index":24,
@@ -346,7 +374,8 @@
             "value_score":34.6130526316,
             "region":"경상남도 사천시",
             "region_code":"Gyeongsangnamdo",
-            "sub_region_code":"4824000000_Gyeongsangnamdo_Sacheon"
+            "sub_region_code":"4824000000_Gyeongsangnamdo_Sacheon",
+            "shorten_url":"https:\/\/me2.do\/GUQqdKhQ"
         },
         {
             "index":25,
@@ -358,7 +387,8 @@
             "value_score":31.4576842105,
             "region":"경상남도 사천시",
             "region_code":"Gyeongsangnamdo",
-            "sub_region_code":"4824000000_Gyeongsangnamdo_Sacheon"
+            "sub_region_code":"4824000000_Gyeongsangnamdo_Sacheon",
+            "shorten_url":"https:\/\/me2.do\/GUQqdKhQ"
         },
         {
             "index":26,
@@ -370,7 +400,8 @@
             "value_score":31.2192631579,
             "region":"경상남도 사천시",
             "region_code":"Gyeongsangnamdo",
-            "sub_region_code":"4824000000_Gyeongsangnamdo_Sacheon"
+            "sub_region_code":"4824000000_Gyeongsangnamdo_Sacheon",
+            "shorten_url":"https:\/\/me2.do\/GUQqdKhQ"
         },
         {
             "index":27,
@@ -382,7 +413,8 @@
             "value_score":31.0613684211,
             "region":"경상남도 사천시",
             "region_code":"Gyeongsangnamdo",
-            "sub_region_code":"4824000000_Gyeongsangnamdo_Sacheon"
+            "sub_region_code":"4824000000_Gyeongsangnamdo_Sacheon",
+            "shorten_url":"https:\/\/me2.do\/GUQqdKhQ"
         },
         {
             "index":28,
@@ -394,7 +426,8 @@
             "value_score":30.5103157895,
             "region":"경상남도 사천시",
             "region_code":"Gyeongsangnamdo",
-            "sub_region_code":"4824000000_Gyeongsangnamdo_Sacheon"
+            "sub_region_code":"4824000000_Gyeongsangnamdo_Sacheon",
+            "shorten_url":"https:\/\/me2.do\/GUQqdKhQ"
         },
         {
             "index":29,
@@ -406,7 +439,8 @@
             "value_score":30.4594736842,
             "region":"경상남도 사천시",
             "region_code":"Gyeongsangnamdo",
-            "sub_region_code":"4824000000_Gyeongsangnamdo_Sacheon"
+            "sub_region_code":"4824000000_Gyeongsangnamdo_Sacheon",
+            "shorten_url":"https:\/\/me2.do\/GUQqdKhQ"
         },
         {
             "index":30,
@@ -418,7 +452,8 @@
             "value_score":48.8005,
             "region":"경상남도 사천시",
             "region_code":"Gyeongsangnamdo",
-            "sub_region_code":"4824000000_Gyeongsangnamdo_Sacheon"
+            "sub_region_code":"4824000000_Gyeongsangnamdo_Sacheon",
+            "shorten_url":"https:\/\/me2.do\/GUQqdKhQ"
         },
         {
             "index":31,
@@ -430,7 +465,8 @@
             "value_score":45.9255,
             "region":"경상남도 사천시",
             "region_code":"Gyeongsangnamdo",
-            "sub_region_code":"4824000000_Gyeongsangnamdo_Sacheon"
+            "sub_region_code":"4824000000_Gyeongsangnamdo_Sacheon",
+            "shorten_url":"https:\/\/me2.do\/GUQqdKhQ"
         },
         {
             "index":32,
@@ -442,7 +478,8 @@
             "value_score":44.304,
             "region":"경상남도 사천시",
             "region_code":"Gyeongsangnamdo",
-            "sub_region_code":"4824000000_Gyeongsangnamdo_Sacheon"
+            "sub_region_code":"4824000000_Gyeongsangnamdo_Sacheon",
+            "shorten_url":"https:\/\/me2.do\/GUQqdKhQ"
         },
         {
             "index":33,
@@ -454,7 +491,8 @@
             "value_score":42.6695,
             "region":"경상남도 사천시",
             "region_code":"Gyeongsangnamdo",
-            "sub_region_code":"4824000000_Gyeongsangnamdo_Sacheon"
+            "sub_region_code":"4824000000_Gyeongsangnamdo_Sacheon",
+            "shorten_url":"https:\/\/me2.do\/GUQqdKhQ"
         },
         {
             "index":34,
@@ -466,7 +504,8 @@
             "value_score":41.7945,
             "region":"경상남도 사천시",
             "region_code":"Gyeongsangnamdo",
-            "sub_region_code":"4824000000_Gyeongsangnamdo_Sacheon"
+            "sub_region_code":"4824000000_Gyeongsangnamdo_Sacheon",
+            "shorten_url":"https:\/\/me2.do\/GUQqdKhQ"
         },
         {
             "index":35,
@@ -478,7 +517,8 @@
             "value_score":41.4195,
             "region":"경상남도 사천시",
             "region_code":"Gyeongsangnamdo",
-            "sub_region_code":"4824000000_Gyeongsangnamdo_Sacheon"
+            "sub_region_code":"4824000000_Gyeongsangnamdo_Sacheon",
+            "shorten_url":"https:\/\/me2.do\/GUQqdKhQ"
         },
         {
             "index":36,
@@ -490,7 +530,8 @@
             "value_score":41.308,
             "region":"경상남도 사천시",
             "region_code":"Gyeongsangnamdo",
-            "sub_region_code":"4824000000_Gyeongsangnamdo_Sacheon"
+            "sub_region_code":"4824000000_Gyeongsangnamdo_Sacheon",
+            "shorten_url":"https:\/\/me2.do\/GUQqdKhQ"
         },
         {
             "index":37,
@@ -502,7 +543,8 @@
             "value_score":41.058,
             "region":"경상남도 사천시",
             "region_code":"Gyeongsangnamdo",
-            "sub_region_code":"4824000000_Gyeongsangnamdo_Sacheon"
+            "sub_region_code":"4824000000_Gyeongsangnamdo_Sacheon",
+            "shorten_url":"https:\/\/me2.do\/GUQqdKhQ"
         },
         {
             "index":38,
@@ -514,7 +556,8 @@
             "value_score":40.7805,
             "region":"경상남도 사천시",
             "region_code":"Gyeongsangnamdo",
-            "sub_region_code":"4824000000_Gyeongsangnamdo_Sacheon"
+            "sub_region_code":"4824000000_Gyeongsangnamdo_Sacheon",
+            "shorten_url":"https:\/\/me2.do\/GUQqdKhQ"
         },
         {
             "index":39,
@@ -526,7 +569,8 @@
             "value_score":39.4775,
             "region":"경상남도 사천시",
             "region_code":"Gyeongsangnamdo",
-            "sub_region_code":"4824000000_Gyeongsangnamdo_Sacheon"
+            "sub_region_code":"4824000000_Gyeongsangnamdo_Sacheon",
+            "shorten_url":"https:\/\/me2.do\/GUQqdKhQ"
         }
     ]
 }

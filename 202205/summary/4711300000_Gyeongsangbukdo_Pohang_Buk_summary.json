@@ -40,6 +40,10 @@
             {
                 "name":"sub_region_code",
                 "type":"string"
+            },
+            {
+                "name":"shorten_url",
+                "type":"string"
             }
         ],
         "primaryKey":[
@@ -58,7 +62,8 @@
             "value_score":67.4628,
             "region":"경상북도 포항시 북구",
             "region_code":"Gyeongsangbukdo",
-            "sub_region_code":"4711300000_Gyeongsangbukdo_Pohang_Buk"
+            "sub_region_code":"4711300000_Gyeongsangbukdo_Pohang_Buk",
+            "shorten_url":"https:\/\/me2.do\/GUQqdzEN"
         },
         {
             "index":1,
@@ -70,7 +75,8 @@
             "value_score":64.5628,
             "region":"경상북도 포항시 북구",
             "region_code":"Gyeongsangbukdo",
-            "sub_region_code":"4711300000_Gyeongsangbukdo_Pohang_Buk"
+            "sub_region_code":"4711300000_Gyeongsangbukdo_Pohang_Buk",
+            "shorten_url":"https:\/\/me2.do\/GUQqdzEN"
         },
         {
             "index":2,
@@ -82,7 +88,8 @@
             "value_score":63.9674,
             "region":"경상북도 포항시 북구",
             "region_code":"Gyeongsangbukdo",
-            "sub_region_code":"4711300000_Gyeongsangbukdo_Pohang_Buk"
+            "sub_region_code":"4711300000_Gyeongsangbukdo_Pohang_Buk",
+            "shorten_url":"https:\/\/me2.do\/GUQqdzEN"
         },
         {
             "index":3,
@@ -94,7 +101,8 @@
             "value_score":63.2628,
             "region":"경상북도 포항시 북구",
             "region_code":"Gyeongsangbukdo",
-            "sub_region_code":"4711300000_Gyeongsangbukdo_Pohang_Buk"
+            "sub_region_code":"4711300000_Gyeongsangbukdo_Pohang_Buk",
+            "shorten_url":"https:\/\/me2.do\/GUQqdzEN"
         },
         {
             "index":4,
@@ -106,7 +114,8 @@
             "value_score":61.9128,
             "region":"경상북도 포항시 북구",
             "region_code":"Gyeongsangbukdo",
-            "sub_region_code":"4711300000_Gyeongsangbukdo_Pohang_Buk"
+            "sub_region_code":"4711300000_Gyeongsangbukdo_Pohang_Buk",
+            "shorten_url":"https:\/\/me2.do\/GUQqdzEN"
         },
         {
             "index":5,
@@ -118,7 +127,8 @@
             "value_score":61.5588,
             "region":"경상북도 포항시 북구",
             "region_code":"Gyeongsangbukdo",
-            "sub_region_code":"4711300000_Gyeongsangbukdo_Pohang_Buk"
+            "sub_region_code":"4711300000_Gyeongsangbukdo_Pohang_Buk",
+            "shorten_url":"https:\/\/me2.do\/GUQqdzEN"
         },
         {
             "index":6,
@@ -130,7 +140,8 @@
             "value_score":60.5628,
             "region":"경상북도 포항시 북구",
             "region_code":"Gyeongsangbukdo",
-            "sub_region_code":"4711300000_Gyeongsangbukdo_Pohang_Buk"
+            "sub_region_code":"4711300000_Gyeongsangbukdo_Pohang_Buk",
+            "shorten_url":"https:\/\/me2.do\/GUQqdzEN"
         },
         {
             "index":7,
@@ -142,7 +153,8 @@
             "value_score":60.4628,
             "region":"경상북도 포항시 북구",
             "region_code":"Gyeongsangbukdo",
-            "sub_region_code":"4711300000_Gyeongsangbukdo_Pohang_Buk"
+            "sub_region_code":"4711300000_Gyeongsangbukdo_Pohang_Buk",
+            "shorten_url":"https:\/\/me2.do\/GUQqdzEN"
         },
         {
             "index":8,
@@ -154,7 +166,8 @@
             "value_score":60.3628,
             "region":"경상북도 포항시 북구",
             "region_code":"Gyeongsangbukdo",
-            "sub_region_code":"4711300000_Gyeongsangbukdo_Pohang_Buk"
+            "sub_region_code":"4711300000_Gyeongsangbukdo_Pohang_Buk",
+            "shorten_url":"https:\/\/me2.do\/GUQqdzEN"
         },
         {
             "index":9,
@@ -166,7 +179,8 @@
             "value_score":60.29425,
             "region":"경상북도 포항시 북구",
             "region_code":"Gyeongsangbukdo",
-            "sub_region_code":"4711300000_Gyeongsangbukdo_Pohang_Buk"
+            "sub_region_code":"4711300000_Gyeongsangbukdo_Pohang_Buk",
+            "shorten_url":"https:\/\/me2.do\/GUQqdzEN"
         },
         {
             "index":10,
@@ -178,7 +192,8 @@
             "value_score":67.652,
             "region":"경상북도 포항시 북구",
             "region_code":"Gyeongsangbukdo",
-            "sub_region_code":"4711300000_Gyeongsangbukdo_Pohang_Buk"
+            "sub_region_code":"4711300000_Gyeongsangbukdo_Pohang_Buk",
+            "shorten_url":"https:\/\/me2.do\/GUQqdzEN"
         },
         {
             "index":11,
@@ -190,7 +205,8 @@
             "value_score":66.152,
             "region":"경상북도 포항시 북구",
             "region_code":"Gyeongsangbukdo",
-            "sub_region_code":"4711300000_Gyeongsangbukdo_Pohang_Buk"
+            "sub_region_code":"4711300000_Gyeongsangbukdo_Pohang_Buk",
+            "shorten_url":"https:\/\/me2.do\/GUQqdzEN"
         },
         {
             "index":12,
@@ -202,7 +218,8 @@
             "value_score":65.402,
             "region":"경상북도 포항시 북구",
             "region_code":"Gyeongsangbukdo",
-            "sub_region_code":"4711300000_Gyeongsangbukdo_Pohang_Buk"
+            "sub_region_code":"4711300000_Gyeongsangbukdo_Pohang_Buk",
+            "shorten_url":"https:\/\/me2.do\/GUQqdzEN"
         },
         {
             "index":13,
@@ -214,7 +231,8 @@
             "value_score":65.292,
             "region":"경상북도 포항시 북구",
             "region_code":"Gyeongsangbukdo",
-            "sub_region_code":"4711300000_Gyeongsangbukdo_Pohang_Buk"
+            "sub_region_code":"4711300000_Gyeongsangbukdo_Pohang_Buk",
+            "shorten_url":"https:\/\/me2.do\/GUQqdzEN"
         },
         {
             "index":14,
@@ -226,7 +244,8 @@
             "value_score":64.441,
             "region":"경상북도 포항시 북구",
             "region_code":"Gyeongsangbukdo",
-            "sub_region_code":"4711300000_Gyeongsangbukdo_Pohang_Buk"
+            "sub_region_code":"4711300000_Gyeongsangbukdo_Pohang_Buk",
+            "shorten_url":"https:\/\/me2.do\/GUQqdzEN"
         },
         {
             "index":15,
@@ -238,7 +257,8 @@
             "value_score":62.88875,
             "region":"경상북도 포항시 북구",
             "region_code":"Gyeongsangbukdo",
-            "sub_region_code":"4711300000_Gyeongsangbukdo_Pohang_Buk"
+            "sub_region_code":"4711300000_Gyeongsangbukdo_Pohang_Buk",
+            "shorten_url":"https:\/\/me2.do\/GUQqdzEN"
         },
         {
             "index":16,
@@ -250,7 +270,8 @@
             "value_score":62.402,
             "region":"경상북도 포항시 북구",
             "region_code":"Gyeongsangbukdo",
-            "sub_region_code":"4711300000_Gyeongsangbukdo_Pohang_Buk"
+            "sub_region_code":"4711300000_Gyeongsangbukdo_Pohang_Buk",
+            "shorten_url":"https:\/\/me2.do\/GUQqdzEN"
         },
         {
             "index":17,
@@ -262,7 +283,8 @@
             "value_score":61.152,
             "region":"경상북도 포항시 북구",
             "region_code":"Gyeongsangbukdo",
-            "sub_region_code":"4711300000_Gyeongsangbukdo_Pohang_Buk"
+            "sub_region_code":"4711300000_Gyeongsangbukdo_Pohang_Buk",
+            "shorten_url":"https:\/\/me2.do\/GUQqdzEN"
         },
         {
             "index":18,
@@ -274,7 +296,8 @@
             "value_score":60.902,
             "region":"경상북도 포항시 북구",
             "region_code":"Gyeongsangbukdo",
-            "sub_region_code":"4711300000_Gyeongsangbukdo_Pohang_Buk"
+            "sub_region_code":"4711300000_Gyeongsangbukdo_Pohang_Buk",
+            "shorten_url":"https:\/\/me2.do\/GUQqdzEN"
         },
         {
             "index":19,
@@ -286,7 +309,8 @@
             "value_score":60.816,
             "region":"경상북도 포항시 북구",
             "region_code":"Gyeongsangbukdo",
-            "sub_region_code":"4711300000_Gyeongsangbukdo_Pohang_Buk"
+            "sub_region_code":"4711300000_Gyeongsangbukdo_Pohang_Buk",
+            "shorten_url":"https:\/\/me2.do\/GUQqdzEN"
         },
         {
             "index":20,
@@ -298,7 +322,8 @@
             "value_score":68.2183157895,
             "region":"경상북도 포항시 북구",
             "region_code":"Gyeongsangbukdo",
-            "sub_region_code":"4711300000_Gyeongsangbukdo_Pohang_Buk"
+            "sub_region_code":"4711300000_Gyeongsangbukdo_Pohang_Buk",
+            "shorten_url":"https:\/\/me2.do\/GUQqdzEN"
         },
         {
             "index":21,
@@ -310,7 +335,8 @@
             "value_score":66.5604210526,
             "region":"경상북도 포항시 북구",
             "region_code":"Gyeongsangbukdo",
-            "sub_region_code":"4711300000_Gyeongsangbukdo_Pohang_Buk"
+            "sub_region_code":"4711300000_Gyeongsangbukdo_Pohang_Buk",
+            "shorten_url":"https:\/\/me2.do\/GUQqdzEN"
         },
         {
             "index":22,
@@ -322,7 +348,8 @@
             "value_score":63.6393684211,
             "region":"경상북도 포항시 북구",
             "region_code":"Gyeongsangbukdo",
-            "sub_region_code":"4711300000_Gyeongsangbukdo_Pohang_Buk"
+            "sub_region_code":"4711300000_Gyeongsangbukdo_Pohang_Buk",
+            "shorten_url":"https:\/\/me2.do\/GUQqdzEN"
         },
         {
             "index":23,
@@ -334,7 +361,8 @@
             "value_score":63.3498947368,
             "region":"경상북도 포항시 북구",
             "region_code":"Gyeongsangbukdo",
-            "sub_region_code":"4711300000_Gyeongsangbukdo_Pohang_Buk"
+            "sub_region_code":"4711300000_Gyeongsangbukdo_Pohang_Buk",
+            "shorten_url":"https:\/\/me2.do\/GUQqdzEN"
         },
         {
             "index":24,
@@ -346,7 +374,8 @@
             "value_score":62.1130526316,
             "region":"경상북도 포항시 북구",
             "region_code":"Gyeongsangbukdo",
-            "sub_region_code":"4711300000_Gyeongsangbukdo_Pohang_Buk"
+            "sub_region_code":"4711300000_Gyeongsangbukdo_Pohang_Buk",
+            "shorten_url":"https:\/\/me2.do\/GUQqdzEN"
         },
         {
             "index":25,
@@ -358,7 +387,8 @@
             "value_score":61.6656842105,
             "region":"경상북도 포항시 북구",
             "region_code":"Gyeongsangbukdo",
-            "sub_region_code":"4711300000_Gyeongsangbukdo_Pohang_Buk"
+            "sub_region_code":"4711300000_Gyeongsangbukdo_Pohang_Buk",
+            "shorten_url":"https:\/\/me2.do\/GUQqdzEN"
         },
         {
             "index":26,
@@ -370,7 +400,8 @@
             "value_score":60.8762105263,
             "region":"경상북도 포항시 북구",
             "region_code":"Gyeongsangbukdo",
-            "sub_region_code":"4711300000_Gyeongsangbukdo_Pohang_Buk"
+            "sub_region_code":"4711300000_Gyeongsangbukdo_Pohang_Buk",
+            "shorten_url":"https:\/\/me2.do\/GUQqdzEN"
         },
         {
             "index":27,
@@ -382,7 +413,8 @@
             "value_score":60.3384210526,
             "region":"경상북도 포항시 북구",
             "region_code":"Gyeongsangbukdo",
-            "sub_region_code":"4711300000_Gyeongsangbukdo_Pohang_Buk"
+            "sub_region_code":"4711300000_Gyeongsangbukdo_Pohang_Buk",
+            "shorten_url":"https:\/\/me2.do\/GUQqdzEN"
         },
         {
             "index":28,
@@ -394,7 +426,8 @@
             "value_score":60.3235789474,
             "region":"경상북도 포항시 북구",
             "region_code":"Gyeongsangbukdo",
-            "sub_region_code":"4711300000_Gyeongsangbukdo_Pohang_Buk"
+            "sub_region_code":"4711300000_Gyeongsangbukdo_Pohang_Buk",
+            "shorten_url":"https:\/\/me2.do\/GUQqdzEN"
         },
         {
             "index":29,
@@ -406,7 +439,8 @@
             "value_score":60.0867368421,
             "region":"경상북도 포항시 북구",
             "region_code":"Gyeongsangbukdo",
-            "sub_region_code":"4711300000_Gyeongsangbukdo_Pohang_Buk"
+            "sub_region_code":"4711300000_Gyeongsangbukdo_Pohang_Buk",
+            "shorten_url":"https:\/\/me2.do\/GUQqdzEN"
         },
         {
             "index":30,
@@ -418,7 +452,8 @@
             "value_score":67.179,
             "region":"경상북도 포항시 북구",
             "region_code":"Gyeongsangbukdo",
-            "sub_region_code":"4711300000_Gyeongsangbukdo_Pohang_Buk"
+            "sub_region_code":"4711300000_Gyeongsangbukdo_Pohang_Buk",
+            "shorten_url":"https:\/\/me2.do\/GUQqdzEN"
         },
         {
             "index":31,
@@ -430,7 +465,8 @@
             "value_score":64.554,
             "region":"경상북도 포항시 북구",
             "region_code":"Gyeongsangbukdo",
-            "sub_region_code":"4711300000_Gyeongsangbukdo_Pohang_Buk"
+            "sub_region_code":"4711300000_Gyeongsangbukdo_Pohang_Buk",
+            "shorten_url":"https:\/\/me2.do\/GUQqdzEN"
         },
         {
             "index":32,
@@ -442,7 +478,8 @@
             "value_score":63.257,
             "region":"경상북도 포항시 북구",
             "region_code":"Gyeongsangbukdo",
-            "sub_region_code":"4711300000_Gyeongsangbukdo_Pohang_Buk"
+            "sub_region_code":"4711300000_Gyeongsangbukdo_Pohang_Buk",
+            "shorten_url":"https:\/\/me2.do\/GUQqdzEN"
         },
         {
             "index":33,
@@ -454,7 +491,8 @@
             "value_score":62.179,
             "region":"경상북도 포항시 북구",
             "region_code":"Gyeongsangbukdo",
-            "sub_region_code":"4711300000_Gyeongsangbukdo_Pohang_Buk"
+            "sub_region_code":"4711300000_Gyeongsangbukdo_Pohang_Buk",
+            "shorten_url":"https:\/\/me2.do\/GUQqdzEN"
         },
         {
             "index":34,
@@ -466,7 +504,8 @@
             "value_score":61.804,
             "region":"경상북도 포항시 북구",
             "region_code":"Gyeongsangbukdo",
-            "sub_region_code":"4711300000_Gyeongsangbukdo_Pohang_Buk"
+            "sub_region_code":"4711300000_Gyeongsangbukdo_Pohang_Buk",
+            "shorten_url":"https:\/\/me2.do\/GUQqdzEN"
         },
         {
             "index":35,
@@ -478,7 +517,8 @@
             "value_score":61.679,
             "region":"경상북도 포항시 북구",
             "region_code":"Gyeongsangbukdo",
-            "sub_region_code":"4711300000_Gyeongsangbukdo_Pohang_Buk"
+            "sub_region_code":"4711300000_Gyeongsangbukdo_Pohang_Buk",
+            "shorten_url":"https:\/\/me2.do\/GUQqdzEN"
         },
         {
             "index":36,
@@ -490,7 +530,8 @@
             "value_score":59.679,
             "region":"경상북도 포항시 북구",
             "region_code":"Gyeongsangbukdo",
-            "sub_region_code":"4711300000_Gyeongsangbukdo_Pohang_Buk"
+            "sub_region_code":"4711300000_Gyeongsangbukdo_Pohang_Buk",
+            "shorten_url":"https:\/\/me2.do\/GUQqdzEN"
         },
         {
             "index":37,
@@ -502,7 +543,8 @@
             "value_score":59.554,
             "region":"경상북도 포항시 북구",
             "region_code":"Gyeongsangbukdo",
-            "sub_region_code":"4711300000_Gyeongsangbukdo_Pohang_Buk"
+            "sub_region_code":"4711300000_Gyeongsangbukdo_Pohang_Buk",
+            "shorten_url":"https:\/\/me2.do\/GUQqdzEN"
         },
         {
             "index":38,
@@ -514,7 +556,8 @@
             "value_score":58.679,
             "region":"경상북도 포항시 북구",
             "region_code":"Gyeongsangbukdo",
-            "sub_region_code":"4711300000_Gyeongsangbukdo_Pohang_Buk"
+            "sub_region_code":"4711300000_Gyeongsangbukdo_Pohang_Buk",
+            "shorten_url":"https:\/\/me2.do\/GUQqdzEN"
         },
         {
             "index":39,
@@ -526,7 +569,8 @@
             "value_score":58.304,
             "region":"경상북도 포항시 북구",
             "region_code":"Gyeongsangbukdo",
-            "sub_region_code":"4711300000_Gyeongsangbukdo_Pohang_Buk"
+            "sub_region_code":"4711300000_Gyeongsangbukdo_Pohang_Buk",
+            "shorten_url":"https:\/\/me2.do\/GUQqdzEN"
         }
     ]
 }

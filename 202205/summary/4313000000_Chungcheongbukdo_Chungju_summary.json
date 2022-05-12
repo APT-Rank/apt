@@ -40,6 +40,10 @@
             {
                 "name":"sub_region_code",
                 "type":"string"
+            },
+            {
+                "name":"shorten_url",
+                "type":"string"
             }
         ],
         "primaryKey":[
@@ -58,7 +62,8 @@
             "value_score":59.80255,
             "region":"충청북도 충주시",
             "region_code":"Chungcheongbukdo",
-            "sub_region_code":"4313000000_Chungcheongbukdo_Chungju"
+            "sub_region_code":"4313000000_Chungcheongbukdo_Chungju",
+            "shorten_url":"https:\/\/me2.do\/5cD7ITXE"
         },
         {
             "index":1,
@@ -70,7 +75,8 @@
             "value_score":57.9155,
             "region":"충청북도 충주시",
             "region_code":"Chungcheongbukdo",
-            "sub_region_code":"4313000000_Chungcheongbukdo_Chungju"
+            "sub_region_code":"4313000000_Chungcheongbukdo_Chungju",
+            "shorten_url":"https:\/\/me2.do\/5cD7ITXE"
         },
         {
             "index":2,
@@ -82,7 +88,8 @@
             "value_score":55.60255,
             "region":"충청북도 충주시",
             "region_code":"Chungcheongbukdo",
-            "sub_region_code":"4313000000_Chungcheongbukdo_Chungju"
+            "sub_region_code":"4313000000_Chungcheongbukdo_Chungju",
+            "shorten_url":"https:\/\/me2.do\/5cD7ITXE"
         },
         {
             "index":3,
@@ -94,7 +101,8 @@
             "value_score":54.30255,
             "region":"충청북도 충주시",
             "region_code":"Chungcheongbukdo",
-            "sub_region_code":"4313000000_Chungcheongbukdo_Chungju"
+            "sub_region_code":"4313000000_Chungcheongbukdo_Chungju",
+            "shorten_url":"https:\/\/me2.do\/5cD7ITXE"
         },
         {
             "index":4,
@@ -106,7 +114,8 @@
             "value_score":54.30255,
             "region":"충청북도 충주시",
             "region_code":"Chungcheongbukdo",
-            "sub_region_code":"4313000000_Chungcheongbukdo_Chungju"
+            "sub_region_code":"4313000000_Chungcheongbukdo_Chungju",
+            "shorten_url":"https:\/\/me2.do\/5cD7ITXE"
         },
         {
             "index":5,
@@ -118,7 +127,8 @@
             "value_score":53.02255,
             "region":"충청북도 충주시",
             "region_code":"Chungcheongbukdo",
-            "sub_region_code":"4313000000_Chungcheongbukdo_Chungju"
+            "sub_region_code":"4313000000_Chungcheongbukdo_Chungju",
+            "shorten_url":"https:\/\/me2.do\/5cD7ITXE"
         },
         {
             "index":6,
@@ -130,7 +140,8 @@
             "value_score":52.83295,
             "region":"충청북도 충주시",
             "region_code":"Chungcheongbukdo",
-            "sub_region_code":"4313000000_Chungcheongbukdo_Chungju"
+            "sub_region_code":"4313000000_Chungcheongbukdo_Chungju",
+            "shorten_url":"https:\/\/me2.do\/5cD7ITXE"
         },
         {
             "index":7,
@@ -142,7 +153,8 @@
             "value_score":52.52255,
             "region":"충청북도 충주시",
             "region_code":"Chungcheongbukdo",
-            "sub_region_code":"4313000000_Chungcheongbukdo_Chungju"
+            "sub_region_code":"4313000000_Chungcheongbukdo_Chungju",
+            "shorten_url":"https:\/\/me2.do\/5cD7ITXE"
         },
         {
             "index":8,
@@ -154,7 +166,8 @@
             "value_score":52.2155,
             "region":"충청북도 충주시",
             "region_code":"Chungcheongbukdo",
-            "sub_region_code":"4313000000_Chungcheongbukdo_Chungju"
+            "sub_region_code":"4313000000_Chungcheongbukdo_Chungju",
+            "shorten_url":"https:\/\/me2.do\/5cD7ITXE"
         },
         {
             "index":9,
@@ -166,7 +179,8 @@
             "value_score":52.0863,
             "region":"충청북도 충주시",
             "region_code":"Chungcheongbukdo",
-            "sub_region_code":"4313000000_Chungcheongbukdo_Chungju"
+            "sub_region_code":"4313000000_Chungcheongbukdo_Chungju",
+            "shorten_url":"https:\/\/me2.do\/5cD7ITXE"
         },
         {
             "index":10,
@@ -178,7 +192,8 @@
             "value_score":60.3325,
             "region":"충청북도 충주시",
             "region_code":"Chungcheongbukdo",
-            "sub_region_code":"4313000000_Chungcheongbukdo_Chungju"
+            "sub_region_code":"4313000000_Chungcheongbukdo_Chungju",
+            "shorten_url":"https:\/\/me2.do\/5cD7ITXE"
         },
         {
             "index":11,
@@ -190,7 +205,8 @@
             "value_score":60.07325,
             "region":"충청북도 충주시",
             "region_code":"Chungcheongbukdo",
-            "sub_region_code":"4313000000_Chungcheongbukdo_Chungju"
+            "sub_region_code":"4313000000_Chungcheongbukdo_Chungju",
+            "shorten_url":"https:\/\/me2.do\/5cD7ITXE"
         },
         {
             "index":12,
@@ -202,7 +218,8 @@
             "value_score":56.47325,
             "region":"충청북도 충주시",
             "region_code":"Chungcheongbukdo",
-            "sub_region_code":"4313000000_Chungcheongbukdo_Chungju"
+            "sub_region_code":"4313000000_Chungcheongbukdo_Chungju",
+            "shorten_url":"https:\/\/me2.do\/5cD7ITXE"
         },
         {
             "index":13,
@@ -214,7 +231,8 @@
             "value_score":55.97325,
             "region":"충청북도 충주시",
             "region_code":"Chungcheongbukdo",
-            "sub_region_code":"4313000000_Chungcheongbukdo_Chungju"
+            "sub_region_code":"4313000000_Chungcheongbukdo_Chungju",
+            "shorten_url":"https:\/\/me2.do\/5cD7ITXE"
         },
         {
             "index":14,
@@ -226,7 +244,8 @@
             "value_score":55.22325,
             "region":"충청북도 충주시",
             "region_code":"Chungcheongbukdo",
-            "sub_region_code":"4313000000_Chungcheongbukdo_Chungju"
+            "sub_region_code":"4313000000_Chungcheongbukdo_Chungju",
+            "shorten_url":"https:\/\/me2.do\/5cD7ITXE"
         },
         {
             "index":15,
@@ -238,7 +257,8 @@
             "value_score":55.05925,
             "region":"충청북도 충주시",
             "region_code":"Chungcheongbukdo",
-            "sub_region_code":"4313000000_Chungcheongbukdo_Chungju"
+            "sub_region_code":"4313000000_Chungcheongbukdo_Chungju",
+            "shorten_url":"https:\/\/me2.do\/5cD7ITXE"
         },
         {
             "index":16,
@@ -250,7 +270,8 @@
             "value_score":54.82325,
             "region":"충청북도 충주시",
             "region_code":"Chungcheongbukdo",
-            "sub_region_code":"4313000000_Chungcheongbukdo_Chungju"
+            "sub_region_code":"4313000000_Chungcheongbukdo_Chungju",
+            "shorten_url":"https:\/\/me2.do\/5cD7ITXE"
         },
         {
             "index":17,
@@ -262,7 +283,8 @@
             "value_score":54.5545,
             "region":"충청북도 충주시",
             "region_code":"Chungcheongbukdo",
-            "sub_region_code":"4313000000_Chungcheongbukdo_Chungju"
+            "sub_region_code":"4313000000_Chungcheongbukdo_Chungju",
+            "shorten_url":"https:\/\/me2.do\/5cD7ITXE"
         },
         {
             "index":18,
@@ -274,7 +296,8 @@
             "value_score":53.3325,
             "region":"충청북도 충주시",
             "region_code":"Chungcheongbukdo",
-            "sub_region_code":"4313000000_Chungcheongbukdo_Chungju"
+            "sub_region_code":"4313000000_Chungcheongbukdo_Chungju",
+            "shorten_url":"https:\/\/me2.do\/5cD7ITXE"
         },
         {
             "index":19,
@@ -286,7 +309,8 @@
             "value_score":52.89975,
             "region":"충청북도 충주시",
             "region_code":"Chungcheongbukdo",
-            "sub_region_code":"4313000000_Chungcheongbukdo_Chungju"
+            "sub_region_code":"4313000000_Chungcheongbukdo_Chungju",
+            "shorten_url":"https:\/\/me2.do\/5cD7ITXE"
         },
         {
             "index":20,
@@ -298,7 +322,8 @@
             "value_score":53.9872631579,
             "region":"충청북도 충주시",
             "region_code":"Chungcheongbukdo",
-            "sub_region_code":"4313000000_Chungcheongbukdo_Chungju"
+            "sub_region_code":"4313000000_Chungcheongbukdo_Chungju",
+            "shorten_url":"https:\/\/me2.do\/5cD7ITXE"
         },
         {
             "index":21,
@@ -310,7 +335,8 @@
             "value_score":53.9872631579,
             "region":"충청북도 충주시",
             "region_code":"Chungcheongbukdo",
-            "sub_region_code":"4313000000_Chungcheongbukdo_Chungju"
+            "sub_region_code":"4313000000_Chungcheongbukdo_Chungju",
+            "shorten_url":"https:\/\/me2.do\/5cD7ITXE"
         },
         {
             "index":22,
@@ -322,7 +348,8 @@
             "value_score":51.882,
             "region":"충청북도 충주시",
             "region_code":"Chungcheongbukdo",
-            "sub_region_code":"4313000000_Chungcheongbukdo_Chungju"
+            "sub_region_code":"4313000000_Chungcheongbukdo_Chungju",
+            "shorten_url":"https:\/\/me2.do\/5cD7ITXE"
         },
         {
             "index":23,
@@ -334,7 +361,8 @@
             "value_score":50.2241052632,
             "region":"충청북도 충주시",
             "region_code":"Chungcheongbukdo",
-            "sub_region_code":"4313000000_Chungcheongbukdo_Chungju"
+            "sub_region_code":"4313000000_Chungcheongbukdo_Chungju",
+            "shorten_url":"https:\/\/me2.do\/5cD7ITXE"
         },
         {
             "index":24,
@@ -346,7 +374,8 @@
             "value_score":50.0971578947,
             "region":"충청북도 충주시",
             "region_code":"Chungcheongbukdo",
-            "sub_region_code":"4313000000_Chungcheongbukdo_Chungju"
+            "sub_region_code":"4313000000_Chungcheongbukdo_Chungju",
+            "shorten_url":"https:\/\/me2.do\/5cD7ITXE"
         },
         {
             "index":25,
@@ -358,7 +387,8 @@
             "value_score":49.4872631579,
             "region":"충청북도 충주시",
             "region_code":"Chungcheongbukdo",
-            "sub_region_code":"4313000000_Chungcheongbukdo_Chungju"
+            "sub_region_code":"4313000000_Chungcheongbukdo_Chungju",
+            "shorten_url":"https:\/\/me2.do\/5cD7ITXE"
         },
         {
             "index":26,
@@ -370,7 +400,8 @@
             "value_score":47.3207368421,
             "region":"충청북도 충주시",
             "region_code":"Chungcheongbukdo",
-            "sub_region_code":"4313000000_Chungcheongbukdo_Chungju"
+            "sub_region_code":"4313000000_Chungcheongbukdo_Chungju",
+            "shorten_url":"https:\/\/me2.do\/5cD7ITXE"
         },
         {
             "index":27,
@@ -382,7 +413,8 @@
             "value_score":46.8293684211,
             "region":"충청북도 충주시",
             "region_code":"Chungcheongbukdo",
-            "sub_region_code":"4313000000_Chungcheongbukdo_Chungju"
+            "sub_region_code":"4313000000_Chungcheongbukdo_Chungju",
+            "shorten_url":"https:\/\/me2.do\/5cD7ITXE"
         },
         {
             "index":28,
@@ -394,7 +426,8 @@
             "value_score":46.7504210526,
             "region":"충청북도 충주시",
             "region_code":"Chungcheongbukdo",
-            "sub_region_code":"4313000000_Chungcheongbukdo_Chungju"
+            "sub_region_code":"4313000000_Chungcheongbukdo_Chungju",
+            "shorten_url":"https:\/\/me2.do\/5cD7ITXE"
         },
         {
             "index":29,
@@ -406,7 +439,8 @@
             "value_score":46.7504210526,
             "region":"충청북도 충주시",
             "region_code":"Chungcheongbukdo",
-            "sub_region_code":"4313000000_Chungcheongbukdo_Chungju"
+            "sub_region_code":"4313000000_Chungcheongbukdo_Chungju",
+            "shorten_url":"https:\/\/me2.do\/5cD7ITXE"
         },
         {
             "index":30,
@@ -418,7 +452,8 @@
             "value_score":59.3965,
             "region":"충청북도 충주시",
             "region_code":"Chungcheongbukdo",
-            "sub_region_code":"4313000000_Chungcheongbukdo_Chungju"
+            "sub_region_code":"4313000000_Chungcheongbukdo_Chungju",
+            "shorten_url":"https:\/\/me2.do\/5cD7ITXE"
         },
         {
             "index":31,
@@ -430,7 +465,8 @@
             "value_score":56.8965,
             "region":"충청북도 충주시",
             "region_code":"Chungcheongbukdo",
-            "sub_region_code":"4313000000_Chungcheongbukdo_Chungju"
+            "sub_region_code":"4313000000_Chungcheongbukdo_Chungju",
+            "shorten_url":"https:\/\/me2.do\/5cD7ITXE"
         },
         {
             "index":32,
@@ -442,7 +478,8 @@
             "value_score":56.8965,
             "region":"충청북도 충주시",
             "region_code":"Chungcheongbukdo",
-            "sub_region_code":"4313000000_Chungcheongbukdo_Chungju"
+            "sub_region_code":"4313000000_Chungcheongbukdo_Chungju",
+            "shorten_url":"https:\/\/me2.do\/5cD7ITXE"
         },
         {
             "index":33,
@@ -454,7 +491,8 @@
             "value_score":56.7715,
             "region":"충청북도 충주시",
             "region_code":"Chungcheongbukdo",
-            "sub_region_code":"4313000000_Chungcheongbukdo_Chungju"
+            "sub_region_code":"4313000000_Chungcheongbukdo_Chungju",
+            "shorten_url":"https:\/\/me2.do\/5cD7ITXE"
         },
         {
             "index":34,
@@ -466,7 +504,8 @@
             "value_score":54.29,
             "region":"충청북도 충주시",
             "region_code":"Chungcheongbukdo",
-            "sub_region_code":"4313000000_Chungcheongbukdo_Chungju"
+            "sub_region_code":"4313000000_Chungcheongbukdo_Chungju",
+            "shorten_url":"https:\/\/me2.do\/5cD7ITXE"
         },
         {
             "index":35,
@@ -478,7 +517,8 @@
             "value_score":53.1465,
             "region":"충청북도 충주시",
             "region_code":"Chungcheongbukdo",
-            "sub_region_code":"4313000000_Chungcheongbukdo_Chungju"
+            "sub_region_code":"4313000000_Chungcheongbukdo_Chungju",
+            "shorten_url":"https:\/\/me2.do\/5cD7ITXE"
         },
         {
             "index":36,
@@ -490,7 +530,8 @@
             "value_score":51.54,
             "region":"충청북도 충주시",
             "region_code":"Chungcheongbukdo",
-            "sub_region_code":"4313000000_Chungcheongbukdo_Chungju"
+            "sub_region_code":"4313000000_Chungcheongbukdo_Chungju",
+            "shorten_url":"https:\/\/me2.do\/5cD7ITXE"
         },
         {
             "index":37,
@@ -502,7 +543,8 @@
             "value_score":51.3205,
             "region":"충청북도 충주시",
             "region_code":"Chungcheongbukdo",
-            "sub_region_code":"4313000000_Chungcheongbukdo_Chungju"
+            "sub_region_code":"4313000000_Chungcheongbukdo_Chungju",
+            "shorten_url":"https:\/\/me2.do\/5cD7ITXE"
         },
         {
             "index":38,
@@ -514,7 +556,8 @@
             "value_score":51.2715,
             "region":"충청북도 충주시",
             "region_code":"Chungcheongbukdo",
-            "sub_region_code":"4313000000_Chungcheongbukdo_Chungju"
+            "sub_region_code":"4313000000_Chungcheongbukdo_Chungju",
+            "shorten_url":"https:\/\/me2.do\/5cD7ITXE"
         },
         {
             "index":39,
@@ -526,7 +569,8 @@
             "value_score":51.2715,
             "region":"충청북도 충주시",
             "region_code":"Chungcheongbukdo",
-            "sub_region_code":"4313000000_Chungcheongbukdo_Chungju"
+            "sub_region_code":"4313000000_Chungcheongbukdo_Chungju",
+            "shorten_url":"https:\/\/me2.do\/5cD7ITXE"
         }
     ]
 }

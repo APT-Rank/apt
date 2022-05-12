@@ -40,6 +40,10 @@
             {
                 "name":"sub_region_code",
                 "type":"string"
+            },
+            {
+                "name":"shorten_url",
+                "type":"string"
             }
         ],
         "primaryKey":[
@@ -58,7 +62,8 @@
             "value_score":57.17975,
             "region":"경상남도 창원시 진해구",
             "region_code":"Gyeongsangnamdo",
-            "sub_region_code":"4812900000_Gyeongsangnamdo_Changwon_Jinhae"
+            "sub_region_code":"4812900000_Gyeongsangnamdo_Changwon_Jinhae",
+            "shorten_url":"https:\/\/me2.do\/xsUKPxa7"
         },
         {
             "index":1,
@@ -70,7 +75,8 @@
             "value_score":56.6237,
             "region":"경상남도 창원시 진해구",
             "region_code":"Gyeongsangnamdo",
-            "sub_region_code":"4812900000_Gyeongsangnamdo_Changwon_Jinhae"
+            "sub_region_code":"4812900000_Gyeongsangnamdo_Changwon_Jinhae",
+            "shorten_url":"https:\/\/me2.do\/xsUKPxa7"
         },
         {
             "index":2,
@@ -82,7 +88,8 @@
             "value_score":53.97975,
             "region":"경상남도 창원시 진해구",
             "region_code":"Gyeongsangnamdo",
-            "sub_region_code":"4812900000_Gyeongsangnamdo_Changwon_Jinhae"
+            "sub_region_code":"4812900000_Gyeongsangnamdo_Changwon_Jinhae",
+            "shorten_url":"https:\/\/me2.do\/xsUKPxa7"
         },
         {
             "index":3,
@@ -94,7 +101,8 @@
             "value_score":52.5737,
             "region":"경상남도 창원시 진해구",
             "region_code":"Gyeongsangnamdo",
-            "sub_region_code":"4812900000_Gyeongsangnamdo_Changwon_Jinhae"
+            "sub_region_code":"4812900000_Gyeongsangnamdo_Changwon_Jinhae",
+            "shorten_url":"https:\/\/me2.do\/xsUKPxa7"
         },
         {
             "index":4,
@@ -106,7 +114,8 @@
             "value_score":52.27975,
             "region":"경상남도 창원시 진해구",
             "region_code":"Gyeongsangnamdo",
-            "sub_region_code":"4812900000_Gyeongsangnamdo_Changwon_Jinhae"
+            "sub_region_code":"4812900000_Gyeongsangnamdo_Changwon_Jinhae",
+            "shorten_url":"https:\/\/me2.do\/xsUKPxa7"
         },
         {
             "index":5,
@@ -118,7 +127,8 @@
             "value_score":51.8237,
             "region":"경상남도 창원시 진해구",
             "region_code":"Gyeongsangnamdo",
-            "sub_region_code":"4812900000_Gyeongsangnamdo_Changwon_Jinhae"
+            "sub_region_code":"4812900000_Gyeongsangnamdo_Changwon_Jinhae",
+            "shorten_url":"https:\/\/me2.do\/xsUKPxa7"
         },
         {
             "index":6,
@@ -130,7 +140,8 @@
             "value_score":50.80475,
             "region":"경상남도 창원시 진해구",
             "region_code":"Gyeongsangnamdo",
-            "sub_region_code":"4812900000_Gyeongsangnamdo_Changwon_Jinhae"
+            "sub_region_code":"4812900000_Gyeongsangnamdo_Changwon_Jinhae",
+            "shorten_url":"https:\/\/me2.do\/xsUKPxa7"
         },
         {
             "index":7,
@@ -142,7 +153,8 @@
             "value_score":50.1646,
             "region":"경상남도 창원시 진해구",
             "region_code":"Gyeongsangnamdo",
-            "sub_region_code":"4812900000_Gyeongsangnamdo_Changwon_Jinhae"
+            "sub_region_code":"4812900000_Gyeongsangnamdo_Changwon_Jinhae",
+            "shorten_url":"https:\/\/me2.do\/xsUKPxa7"
         },
         {
             "index":8,
@@ -154,7 +166,8 @@
             "value_score":50.1646,
             "region":"경상남도 창원시 진해구",
             "region_code":"Gyeongsangnamdo",
-            "sub_region_code":"4812900000_Gyeongsangnamdo_Changwon_Jinhae"
+            "sub_region_code":"4812900000_Gyeongsangnamdo_Changwon_Jinhae",
+            "shorten_url":"https:\/\/me2.do\/xsUKPxa7"
         },
         {
             "index":9,
@@ -166,7 +179,8 @@
             "value_score":50.0737,
             "region":"경상남도 창원시 진해구",
             "region_code":"Gyeongsangnamdo",
-            "sub_region_code":"4812900000_Gyeongsangnamdo_Changwon_Jinhae"
+            "sub_region_code":"4812900000_Gyeongsangnamdo_Changwon_Jinhae",
+            "shorten_url":"https:\/\/me2.do\/xsUKPxa7"
         },
         {
             "index":10,
@@ -178,7 +192,8 @@
             "value_score":59.6955,
             "region":"경상남도 창원시 진해구",
             "region_code":"Gyeongsangnamdo",
-            "sub_region_code":"4812900000_Gyeongsangnamdo_Changwon_Jinhae"
+            "sub_region_code":"4812900000_Gyeongsangnamdo_Changwon_Jinhae",
+            "shorten_url":"https:\/\/me2.do\/xsUKPxa7"
         },
         {
             "index":11,
@@ -190,7 +205,8 @@
             "value_score":59.02125,
             "region":"경상남도 창원시 진해구",
             "region_code":"Gyeongsangnamdo",
-            "sub_region_code":"4812900000_Gyeongsangnamdo_Changwon_Jinhae"
+            "sub_region_code":"4812900000_Gyeongsangnamdo_Changwon_Jinhae",
+            "shorten_url":"https:\/\/me2.do\/xsUKPxa7"
         },
         {
             "index":12,
@@ -202,7 +218,8 @@
             "value_score":55.12125,
             "region":"경상남도 창원시 진해구",
             "region_code":"Gyeongsangnamdo",
-            "sub_region_code":"4812900000_Gyeongsangnamdo_Changwon_Jinhae"
+            "sub_region_code":"4812900000_Gyeongsangnamdo_Changwon_Jinhae",
+            "shorten_url":"https:\/\/me2.do\/xsUKPxa7"
         },
         {
             "index":13,
@@ -214,7 +231,8 @@
             "value_score":53.1955,
             "region":"경상남도 창원시 진해구",
             "region_code":"Gyeongsangnamdo",
-            "sub_region_code":"4812900000_Gyeongsangnamdo_Changwon_Jinhae"
+            "sub_region_code":"4812900000_Gyeongsangnamdo_Changwon_Jinhae",
+            "shorten_url":"https:\/\/me2.do\/xsUKPxa7"
         },
         {
             "index":14,
@@ -226,7 +244,8 @@
             "value_score":52.421,
             "region":"경상남도 창원시 진해구",
             "region_code":"Gyeongsangnamdo",
-            "sub_region_code":"4812900000_Gyeongsangnamdo_Changwon_Jinhae"
+            "sub_region_code":"4812900000_Gyeongsangnamdo_Changwon_Jinhae",
+            "shorten_url":"https:\/\/me2.do\/xsUKPxa7"
         },
         {
             "index":15,
@@ -238,7 +257,8 @@
             "value_score":52.37125,
             "region":"경상남도 창원시 진해구",
             "region_code":"Gyeongsangnamdo",
-            "sub_region_code":"4812900000_Gyeongsangnamdo_Changwon_Jinhae"
+            "sub_region_code":"4812900000_Gyeongsangnamdo_Changwon_Jinhae",
+            "shorten_url":"https:\/\/me2.do\/xsUKPxa7"
         },
         {
             "index":16,
@@ -250,7 +270,8 @@
             "value_score":52.2955,
             "region":"경상남도 창원시 진해구",
             "region_code":"Gyeongsangnamdo",
-            "sub_region_code":"4812900000_Gyeongsangnamdo_Changwon_Jinhae"
+            "sub_region_code":"4812900000_Gyeongsangnamdo_Changwon_Jinhae",
+            "shorten_url":"https:\/\/me2.do\/xsUKPxa7"
         },
         {
             "index":17,
@@ -262,7 +283,8 @@
             "value_score":52.1955,
             "region":"경상남도 창원시 진해구",
             "region_code":"Gyeongsangnamdo",
-            "sub_region_code":"4812900000_Gyeongsangnamdo_Changwon_Jinhae"
+            "sub_region_code":"4812900000_Gyeongsangnamdo_Changwon_Jinhae",
+            "shorten_url":"https:\/\/me2.do\/xsUKPxa7"
         },
         {
             "index":18,
@@ -274,7 +296,8 @@
             "value_score":51.4455,
             "region":"경상남도 창원시 진해구",
             "region_code":"Gyeongsangnamdo",
-            "sub_region_code":"4812900000_Gyeongsangnamdo_Changwon_Jinhae"
+            "sub_region_code":"4812900000_Gyeongsangnamdo_Changwon_Jinhae",
+            "shorten_url":"https:\/\/me2.do\/xsUKPxa7"
         },
         {
             "index":19,
@@ -286,7 +309,8 @@
             "value_score":51.171,
             "region":"경상남도 창원시 진해구",
             "region_code":"Gyeongsangnamdo",
-            "sub_region_code":"4812900000_Gyeongsangnamdo_Changwon_Jinhae"
+            "sub_region_code":"4812900000_Gyeongsangnamdo_Changwon_Jinhae",
+            "shorten_url":"https:\/\/me2.do\/xsUKPxa7"
         },
         {
             "index":20,
@@ -298,7 +322,8 @@
             "value_score":50.5101052632,
             "region":"경상남도 창원시 진해구",
             "region_code":"Gyeongsangnamdo",
-            "sub_region_code":"4812900000_Gyeongsangnamdo_Changwon_Jinhae"
+            "sub_region_code":"4812900000_Gyeongsangnamdo_Changwon_Jinhae",
+            "shorten_url":"https:\/\/me2.do\/xsUKPxa7"
         },
         {
             "index":21,
@@ -310,7 +335,8 @@
             "value_score":48.9311578947,
             "region":"경상남도 창원시 진해구",
             "region_code":"Gyeongsangnamdo",
-            "sub_region_code":"4812900000_Gyeongsangnamdo_Changwon_Jinhae"
+            "sub_region_code":"4812900000_Gyeongsangnamdo_Changwon_Jinhae",
+            "shorten_url":"https:\/\/me2.do\/xsUKPxa7"
         },
         {
             "index":22,
@@ -322,7 +348,8 @@
             "value_score":48.6943157895,
             "region":"경상남도 창원시 진해구",
             "region_code":"Gyeongsangnamdo",
-            "sub_region_code":"4812900000_Gyeongsangnamdo_Changwon_Jinhae"
+            "sub_region_code":"4812900000_Gyeongsangnamdo_Changwon_Jinhae",
+            "shorten_url":"https:\/\/me2.do\/xsUKPxa7"
         },
         {
             "index":23,
@@ -334,7 +361,8 @@
             "value_score":45.5364210526,
             "region":"경상남도 창원시 진해구",
             "region_code":"Gyeongsangnamdo",
-            "sub_region_code":"4812900000_Gyeongsangnamdo_Changwon_Jinhae"
+            "sub_region_code":"4812900000_Gyeongsangnamdo_Changwon_Jinhae",
+            "shorten_url":"https:\/\/me2.do\/xsUKPxa7"
         },
         {
             "index":24,
@@ -346,7 +374,8 @@
             "value_score":45.5101052632,
             "region":"경상남도 창원시 진해구",
             "region_code":"Gyeongsangnamdo",
-            "sub_region_code":"4812900000_Gyeongsangnamdo_Changwon_Jinhae"
+            "sub_region_code":"4812900000_Gyeongsangnamdo_Changwon_Jinhae",
+            "shorten_url":"https:\/\/me2.do\/xsUKPxa7"
         },
         {
             "index":25,
@@ -358,7 +387,8 @@
             "value_score":45.4410526316,
             "region":"경상남도 창원시 진해구",
             "region_code":"Gyeongsangnamdo",
-            "sub_region_code":"4812900000_Gyeongsangnamdo_Changwon_Jinhae"
+            "sub_region_code":"4812900000_Gyeongsangnamdo_Changwon_Jinhae",
+            "shorten_url":"https:\/\/me2.do\/xsUKPxa7"
         },
         {
             "index":26,
@@ -370,7 +400,8 @@
             "value_score":44.2995789474,
             "region":"경상남도 창원시 진해구",
             "region_code":"Gyeongsangnamdo",
-            "sub_region_code":"4812900000_Gyeongsangnamdo_Changwon_Jinhae"
+            "sub_region_code":"4812900000_Gyeongsangnamdo_Changwon_Jinhae",
+            "shorten_url":"https:\/\/me2.do\/xsUKPxa7"
         },
         {
             "index":27,
@@ -382,7 +413,8 @@
             "value_score":43.0268421053,
             "region":"경상남도 창원시 진해구",
             "region_code":"Gyeongsangnamdo",
-            "sub_region_code":"4812900000_Gyeongsangnamdo_Changwon_Jinhae"
+            "sub_region_code":"4812900000_Gyeongsangnamdo_Changwon_Jinhae",
+            "shorten_url":"https:\/\/me2.do\/xsUKPxa7"
         },
         {
             "index":28,
@@ -394,7 +426,8 @@
             "value_score":42.9410526316,
             "region":"경상남도 창원시 진해구",
             "region_code":"Gyeongsangnamdo",
-            "sub_region_code":"4812900000_Gyeongsangnamdo_Changwon_Jinhae"
+            "sub_region_code":"4812900000_Gyeongsangnamdo_Changwon_Jinhae",
+            "shorten_url":"https:\/\/me2.do\/xsUKPxa7"
         },
         {
             "index":29,
@@ -406,7 +439,8 @@
             "value_score":42.0364210526,
             "region":"경상남도 창원시 진해구",
             "region_code":"Gyeongsangnamdo",
-            "sub_region_code":"4812900000_Gyeongsangnamdo_Changwon_Jinhae"
+            "sub_region_code":"4812900000_Gyeongsangnamdo_Changwon_Jinhae",
+            "shorten_url":"https:\/\/me2.do\/xsUKPxa7"
         },
         {
             "index":30,
@@ -418,7 +452,8 @@
             "value_score":54.4175,
             "region":"경상남도 창원시 진해구",
             "region_code":"Gyeongsangnamdo",
-            "sub_region_code":"4812900000_Gyeongsangnamdo_Changwon_Jinhae"
+            "sub_region_code":"4812900000_Gyeongsangnamdo_Changwon_Jinhae",
+            "shorten_url":"https:\/\/me2.do\/xsUKPxa7"
         },
         {
             "index":31,
@@ -430,7 +465,8 @@
             "value_score":53.141,
             "region":"경상남도 창원시 진해구",
             "region_code":"Gyeongsangnamdo",
-            "sub_region_code":"4812900000_Gyeongsangnamdo_Changwon_Jinhae"
+            "sub_region_code":"4812900000_Gyeongsangnamdo_Changwon_Jinhae",
+            "shorten_url":"https:\/\/me2.do\/xsUKPxa7"
         },
         {
             "index":32,
@@ -442,7 +478,8 @@
             "value_score":52.391,
             "region":"경상남도 창원시 진해구",
             "region_code":"Gyeongsangnamdo",
-            "sub_region_code":"4812900000_Gyeongsangnamdo_Changwon_Jinhae"
+            "sub_region_code":"4812900000_Gyeongsangnamdo_Changwon_Jinhae",
+            "shorten_url":"https:\/\/me2.do\/xsUKPxa7"
         },
         {
             "index":33,
@@ -454,7 +491,8 @@
             "value_score":52.2675,
             "region":"경상남도 창원시 진해구",
             "region_code":"Gyeongsangnamdo",
-            "sub_region_code":"4812900000_Gyeongsangnamdo_Changwon_Jinhae"
+            "sub_region_code":"4812900000_Gyeongsangnamdo_Changwon_Jinhae",
+            "shorten_url":"https:\/\/me2.do\/xsUKPxa7"
         },
         {
             "index":34,
@@ -466,7 +504,8 @@
             "value_score":52.1425,
             "region":"경상남도 창원시 진해구",
             "region_code":"Gyeongsangnamdo",
-            "sub_region_code":"4812900000_Gyeongsangnamdo_Changwon_Jinhae"
+            "sub_region_code":"4812900000_Gyeongsangnamdo_Changwon_Jinhae",
+            "shorten_url":"https:\/\/me2.do\/xsUKPxa7"
         },
         {
             "index":35,
@@ -478,7 +517,8 @@
             "value_score":52.016,
             "region":"경상남도 창원시 진해구",
             "region_code":"Gyeongsangnamdo",
-            "sub_region_code":"4812900000_Gyeongsangnamdo_Changwon_Jinhae"
+            "sub_region_code":"4812900000_Gyeongsangnamdo_Changwon_Jinhae",
+            "shorten_url":"https:\/\/me2.do\/xsUKPxa7"
         },
         {
             "index":36,
@@ -490,7 +530,8 @@
             "value_score":51.0425,
             "region":"경상남도 창원시 진해구",
             "region_code":"Gyeongsangnamdo",
-            "sub_region_code":"4812900000_Gyeongsangnamdo_Changwon_Jinhae"
+            "sub_region_code":"4812900000_Gyeongsangnamdo_Changwon_Jinhae",
+            "shorten_url":"https:\/\/me2.do\/xsUKPxa7"
         },
         {
             "index":37,
@@ -502,7 +543,8 @@
             "value_score":49.6425,
             "region":"경상남도 창원시 진해구",
             "region_code":"Gyeongsangnamdo",
-            "sub_region_code":"4812900000_Gyeongsangnamdo_Changwon_Jinhae"
+            "sub_region_code":"4812900000_Gyeongsangnamdo_Changwon_Jinhae",
+            "shorten_url":"https:\/\/me2.do\/xsUKPxa7"
         },
         {
             "index":38,
@@ -514,7 +556,8 @@
             "value_score":49.141,
             "region":"경상남도 창원시 진해구",
             "region_code":"Gyeongsangnamdo",
-            "sub_region_code":"4812900000_Gyeongsangnamdo_Changwon_Jinhae"
+            "sub_region_code":"4812900000_Gyeongsangnamdo_Changwon_Jinhae",
+            "shorten_url":"https:\/\/me2.do\/xsUKPxa7"
         },
         {
             "index":39,
@@ -526,7 +569,8 @@
             "value_score":49.003,
             "region":"경상남도 창원시 진해구",
             "region_code":"Gyeongsangnamdo",
-            "sub_region_code":"4812900000_Gyeongsangnamdo_Changwon_Jinhae"
+            "sub_region_code":"4812900000_Gyeongsangnamdo_Changwon_Jinhae",
+            "shorten_url":"https:\/\/me2.do\/xsUKPxa7"
         }
     ]
 }

@@ -40,6 +40,10 @@
             {
                 "name":"sub_region_code",
                 "type":"string"
+            },
+            {
+                "name":"shorten_url",
+                "type":"string"
             }
         ],
         "primaryKey":[
@@ -58,7 +62,8 @@
             "value_score":47.18415,
             "region":"경기도 성남시 중원구",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4113300000_Gyeonggi_Seongnam_Jungwon"
+            "sub_region_code":"4113300000_Gyeonggi_Seongnam_Jungwon",
+            "shorten_url":"https:\/\/me2.do\/GbURLaO9"
         },
         {
             "index":1,
@@ -70,7 +75,8 @@
             "value_score":44.4782,
             "region":"경기도 성남시 중원구",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4113300000_Gyeonggi_Seongnam_Jungwon"
+            "sub_region_code":"4113300000_Gyeonggi_Seongnam_Jungwon",
+            "shorten_url":"https:\/\/me2.do\/GbURLaO9"
         },
         {
             "index":2,
@@ -82,7 +88,8 @@
             "value_score":44.17575,
             "region":"경기도 성남시 중원구",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4113300000_Gyeonggi_Seongnam_Jungwon"
+            "sub_region_code":"4113300000_Gyeonggi_Seongnam_Jungwon",
+            "shorten_url":"https:\/\/me2.do\/GbURLaO9"
         },
         {
             "index":3,
@@ -94,7 +101,8 @@
             "value_score":43.36805,
             "region":"경기도 성남시 중원구",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4113300000_Gyeonggi_Seongnam_Jungwon"
+            "sub_region_code":"4113300000_Gyeonggi_Seongnam_Jungwon",
+            "shorten_url":"https:\/\/me2.do\/GbURLaO9"
         },
         {
             "index":4,
@@ -106,7 +114,8 @@
             "value_score":41.27305,
             "region":"경기도 성남시 중원구",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4113300000_Gyeonggi_Seongnam_Jungwon"
+            "sub_region_code":"4113300000_Gyeonggi_Seongnam_Jungwon",
+            "shorten_url":"https:\/\/me2.do\/GbURLaO9"
         },
         {
             "index":5,
@@ -118,7 +127,8 @@
             "value_score":40.6435,
             "region":"경기도 성남시 중원구",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4113300000_Gyeonggi_Seongnam_Jungwon"
+            "sub_region_code":"4113300000_Gyeonggi_Seongnam_Jungwon",
+            "shorten_url":"https:\/\/me2.do\/GbURLaO9"
         },
         {
             "index":6,
@@ -130,7 +140,8 @@
             "value_score":40.42575,
             "region":"경기도 성남시 중원구",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4113300000_Gyeonggi_Seongnam_Jungwon"
+            "sub_region_code":"4113300000_Gyeonggi_Seongnam_Jungwon",
+            "shorten_url":"https:\/\/me2.do\/GbURLaO9"
         },
         {
             "index":7,
@@ -142,7 +153,8 @@
             "value_score":40.27305,
             "region":"경기도 성남시 중원구",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4113300000_Gyeonggi_Seongnam_Jungwon"
+            "sub_region_code":"4113300000_Gyeonggi_Seongnam_Jungwon",
+            "shorten_url":"https:\/\/me2.do\/GbURLaO9"
         },
         {
             "index":8,
@@ -154,7 +166,8 @@
             "value_score":39.66805,
             "region":"경기도 성남시 중원구",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4113300000_Gyeonggi_Seongnam_Jungwon"
+            "sub_region_code":"4113300000_Gyeonggi_Seongnam_Jungwon",
+            "shorten_url":"https:\/\/me2.do\/GbURLaO9"
         },
         {
             "index":9,
@@ -166,7 +179,8 @@
             "value_score":39.58985,
             "region":"경기도 성남시 중원구",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4113300000_Gyeonggi_Seongnam_Jungwon"
+            "sub_region_code":"4113300000_Gyeonggi_Seongnam_Jungwon",
+            "shorten_url":"https:\/\/me2.do\/GbURLaO9"
         },
         {
             "index":10,
@@ -178,7 +192,8 @@
             "value_score":63.1622,
             "region":"경기도 성남시 중원구",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4113300000_Gyeonggi_Seongnam_Jungwon"
+            "sub_region_code":"4113300000_Gyeonggi_Seongnam_Jungwon",
+            "shorten_url":"https:\/\/me2.do\/GbURLaO9"
         },
         {
             "index":11,
@@ -190,7 +205,8 @@
             "value_score":60.051,
             "region":"경기도 성남시 중원구",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4113300000_Gyeonggi_Seongnam_Jungwon"
+            "sub_region_code":"4113300000_Gyeonggi_Seongnam_Jungwon",
+            "shorten_url":"https:\/\/me2.do\/GbURLaO9"
         },
         {
             "index":12,
@@ -202,7 +218,8 @@
             "value_score":59.0574,
             "region":"경기도 성남시 중원구",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4113300000_Gyeonggi_Seongnam_Jungwon"
+            "sub_region_code":"4113300000_Gyeonggi_Seongnam_Jungwon",
+            "shorten_url":"https:\/\/me2.do\/GbURLaO9"
         },
         {
             "index":13,
@@ -214,7 +231,8 @@
             "value_score":53.4122,
             "region":"경기도 성남시 중원구",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4113300000_Gyeonggi_Seongnam_Jungwon"
+            "sub_region_code":"4113300000_Gyeonggi_Seongnam_Jungwon",
+            "shorten_url":"https:\/\/me2.do\/GbURLaO9"
         },
         {
             "index":14,
@@ -226,7 +244,8 @@
             "value_score":53.3868,
             "region":"경기도 성남시 중원구",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4113300000_Gyeonggi_Seongnam_Jungwon"
+            "sub_region_code":"4113300000_Gyeonggi_Seongnam_Jungwon",
+            "shorten_url":"https:\/\/me2.do\/GbURLaO9"
         },
         {
             "index":15,
@@ -238,7 +257,8 @@
             "value_score":53.1074,
             "region":"경기도 성남시 중원구",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4113300000_Gyeonggi_Seongnam_Jungwon"
+            "sub_region_code":"4113300000_Gyeonggi_Seongnam_Jungwon",
+            "shorten_url":"https:\/\/me2.do\/GbURLaO9"
         },
         {
             "index":16,
@@ -250,7 +270,8 @@
             "value_score":51.5008,
             "region":"경기도 성남시 중원구",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4113300000_Gyeonggi_Seongnam_Jungwon"
+            "sub_region_code":"4113300000_Gyeonggi_Seongnam_Jungwon",
+            "shorten_url":"https:\/\/me2.do\/GbURLaO9"
         },
         {
             "index":17,
@@ -262,7 +283,8 @@
             "value_score":49.8074,
             "region":"경기도 성남시 중원구",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4113300000_Gyeonggi_Seongnam_Jungwon"
+            "sub_region_code":"4113300000_Gyeonggi_Seongnam_Jungwon",
+            "shorten_url":"https:\/\/me2.do\/GbURLaO9"
         },
         {
             "index":18,
@@ -274,7 +296,8 @@
             "value_score":49.6376,
             "region":"경기도 성남시 중원구",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4113300000_Gyeonggi_Seongnam_Jungwon"
+            "sub_region_code":"4113300000_Gyeonggi_Seongnam_Jungwon",
+            "shorten_url":"https:\/\/me2.do\/GbURLaO9"
         },
         {
             "index":19,
@@ -286,7 +309,8 @@
             "value_score":49.551,
             "region":"경기도 성남시 중원구",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4113300000_Gyeonggi_Seongnam_Jungwon"
+            "sub_region_code":"4113300000_Gyeonggi_Seongnam_Jungwon",
+            "shorten_url":"https:\/\/me2.do\/GbURLaO9"
         },
         {
             "index":20,
@@ -298,7 +322,8 @@
             "value_score":43.75075,
             "region":"경기도 성남시 중원구",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4113300000_Gyeonggi_Seongnam_Jungwon"
+            "sub_region_code":"4113300000_Gyeonggi_Seongnam_Jungwon",
+            "shorten_url":"https:\/\/me2.do\/GbURLaO9"
         },
         {
             "index":21,
@@ -310,7 +335,8 @@
             "value_score":43.4782,
             "region":"경기도 성남시 중원구",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4113300000_Gyeonggi_Seongnam_Jungwon"
+            "sub_region_code":"4113300000_Gyeonggi_Seongnam_Jungwon",
+            "shorten_url":"https:\/\/me2.do\/GbURLaO9"
         },
         {
             "index":22,
@@ -322,7 +348,8 @@
             "value_score":41.55915,
             "region":"경기도 성남시 중원구",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4113300000_Gyeonggi_Seongnam_Jungwon"
+            "sub_region_code":"4113300000_Gyeonggi_Seongnam_Jungwon",
+            "shorten_url":"https:\/\/me2.do\/GbURLaO9"
         },
         {
             "index":23,
@@ -334,7 +361,8 @@
             "value_score":41.49805,
             "region":"경기도 성남시 중원구",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4113300000_Gyeonggi_Seongnam_Jungwon"
+            "sub_region_code":"4113300000_Gyeonggi_Seongnam_Jungwon",
+            "shorten_url":"https:\/\/me2.do\/GbURLaO9"
         },
         {
             "index":24,
@@ -346,7 +374,8 @@
             "value_score":40.67305,
             "region":"경기도 성남시 중원구",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4113300000_Gyeonggi_Seongnam_Jungwon"
+            "sub_region_code":"4113300000_Gyeonggi_Seongnam_Jungwon",
+            "shorten_url":"https:\/\/me2.do\/GbURLaO9"
         },
         {
             "index":25,
@@ -358,7 +387,8 @@
             "value_score":40.4185,
             "region":"경기도 성남시 중원구",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4113300000_Gyeonggi_Seongnam_Jungwon"
+            "sub_region_code":"4113300000_Gyeonggi_Seongnam_Jungwon",
+            "shorten_url":"https:\/\/me2.do\/GbURLaO9"
         },
         {
             "index":26,
@@ -370,7 +400,8 @@
             "value_score":39.3228190894,
             "region":"경기도 성남시 중원구",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4113300000_Gyeonggi_Seongnam_Jungwon"
+            "sub_region_code":"4113300000_Gyeonggi_Seongnam_Jungwon",
+            "shorten_url":"https:\/\/me2.do\/GbURLaO9"
         },
         {
             "index":27,
@@ -382,7 +413,8 @@
             "value_score":39.31805,
             "region":"경기도 성남시 중원구",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4113300000_Gyeonggi_Seongnam_Jungwon"
+            "sub_region_code":"4113300000_Gyeonggi_Seongnam_Jungwon",
+            "shorten_url":"https:\/\/me2.do\/GbURLaO9"
         },
         {
             "index":28,
@@ -394,7 +426,8 @@
             "value_score":37.75075,
             "region":"경기도 성남시 중원구",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4113300000_Gyeonggi_Seongnam_Jungwon"
+            "sub_region_code":"4113300000_Gyeonggi_Seongnam_Jungwon",
+            "shorten_url":"https:\/\/me2.do\/GbURLaO9"
         },
         {
             "index":29,
@@ -406,7 +439,8 @@
             "value_score":37.2735,
             "region":"경기도 성남시 중원구",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4113300000_Gyeonggi_Seongnam_Jungwon"
+            "sub_region_code":"4113300000_Gyeonggi_Seongnam_Jungwon",
+            "shorten_url":"https:\/\/me2.do\/GbURLaO9"
         },
         {
             "index":30,
@@ -418,7 +452,8 @@
             "value_score":48.09025,
             "region":"경기도 성남시 중원구",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4113300000_Gyeonggi_Seongnam_Jungwon"
+            "sub_region_code":"4113300000_Gyeonggi_Seongnam_Jungwon",
+            "shorten_url":"https:\/\/me2.do\/GbURLaO9"
         },
         {
             "index":31,
@@ -430,7 +465,8 @@
             "value_score":44.99975,
             "region":"경기도 성남시 중원구",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4113300000_Gyeonggi_Seongnam_Jungwon"
+            "sub_region_code":"4113300000_Gyeonggi_Seongnam_Jungwon",
+            "shorten_url":"https:\/\/me2.do\/GbURLaO9"
         },
         {
             "index":32,
@@ -442,7 +478,8 @@
             "value_score":43.72175,
             "region":"경기도 성남시 중원구",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4113300000_Gyeonggi_Seongnam_Jungwon"
+            "sub_region_code":"4113300000_Gyeonggi_Seongnam_Jungwon",
+            "shorten_url":"https:\/\/me2.do\/GbURLaO9"
         },
         {
             "index":33,
@@ -454,7 +491,8 @@
             "value_score":43.57625,
             "region":"경기도 성남시 중원구",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4113300000_Gyeonggi_Seongnam_Jungwon"
+            "sub_region_code":"4113300000_Gyeonggi_Seongnam_Jungwon",
+            "shorten_url":"https:\/\/me2.do\/GbURLaO9"
         },
         {
             "index":34,
@@ -466,7 +504,8 @@
             "value_score":43.497,
             "region":"경기도 성남시 중원구",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4113300000_Gyeonggi_Seongnam_Jungwon"
+            "sub_region_code":"4113300000_Gyeonggi_Seongnam_Jungwon",
+            "shorten_url":"https:\/\/me2.do\/GbURLaO9"
         },
         {
             "index":35,
@@ -478,7 +517,8 @@
             "value_score":43.24675,
             "region":"경기도 성남시 중원구",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4113300000_Gyeonggi_Seongnam_Jungwon"
+            "sub_region_code":"4113300000_Gyeonggi_Seongnam_Jungwon",
+            "shorten_url":"https:\/\/me2.do\/GbURLaO9"
         },
         {
             "index":36,
@@ -490,7 +530,8 @@
             "value_score":43.17175,
             "region":"경기도 성남시 중원구",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4113300000_Gyeonggi_Seongnam_Jungwon"
+            "sub_region_code":"4113300000_Gyeonggi_Seongnam_Jungwon",
+            "shorten_url":"https:\/\/me2.do\/GbURLaO9"
         },
         {
             "index":37,
@@ -502,7 +543,8 @@
             "value_score":42.1225,
             "region":"경기도 성남시 중원구",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4113300000_Gyeonggi_Seongnam_Jungwon"
+            "sub_region_code":"4113300000_Gyeonggi_Seongnam_Jungwon",
+            "shorten_url":"https:\/\/me2.do\/GbURLaO9"
         },
         {
             "index":38,
@@ -514,7 +556,8 @@
             "value_score":40.7296984823,
             "region":"경기도 성남시 중원구",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4113300000_Gyeonggi_Seongnam_Jungwon"
+            "sub_region_code":"4113300000_Gyeonggi_Seongnam_Jungwon",
+            "shorten_url":"https:\/\/me2.do\/GbURLaO9"
         },
         {
             "index":39,
@@ -526,7 +569,8 @@
             "value_score":39.29675,
             "region":"경기도 성남시 중원구",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4113300000_Gyeonggi_Seongnam_Jungwon"
+            "sub_region_code":"4113300000_Gyeonggi_Seongnam_Jungwon",
+            "shorten_url":"https:\/\/me2.do\/GbURLaO9"
         },
         {
             "index":40,
@@ -538,7 +582,8 @@
             "value_score":51.0525,
             "region":"경기도 성남시 중원구",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4113300000_Gyeonggi_Seongnam_Jungwon"
+            "sub_region_code":"4113300000_Gyeonggi_Seongnam_Jungwon",
+            "shorten_url":"https:\/\/me2.do\/GbURLaO9"
         },
         {
             "index":41,
@@ -550,7 +595,8 @@
             "value_score":50.2935,
             "region":"경기도 성남시 중원구",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4113300000_Gyeonggi_Seongnam_Jungwon"
+            "sub_region_code":"4113300000_Gyeonggi_Seongnam_Jungwon",
+            "shorten_url":"https:\/\/me2.do\/GbURLaO9"
         },
         {
             "index":42,
@@ -562,7 +608,8 @@
             "value_score":49.9805,
             "region":"경기도 성남시 중원구",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4113300000_Gyeonggi_Seongnam_Jungwon"
+            "sub_region_code":"4113300000_Gyeonggi_Seongnam_Jungwon",
+            "shorten_url":"https:\/\/me2.do\/GbURLaO9"
         },
         {
             "index":43,
@@ -574,7 +621,8 @@
             "value_score":49.7995,
             "region":"경기도 성남시 중원구",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4113300000_Gyeonggi_Seongnam_Jungwon"
+            "sub_region_code":"4113300000_Gyeonggi_Seongnam_Jungwon",
+            "shorten_url":"https:\/\/me2.do\/GbURLaO9"
         },
         {
             "index":44,
@@ -586,7 +634,8 @@
             "value_score":49.5525,
             "region":"경기도 성남시 중원구",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4113300000_Gyeonggi_Seongnam_Jungwon"
+            "sub_region_code":"4113300000_Gyeonggi_Seongnam_Jungwon",
+            "shorten_url":"https:\/\/me2.do\/GbURLaO9"
         },
         {
             "index":45,
@@ -598,7 +647,8 @@
             "value_score":47.742,
             "region":"경기도 성남시 중원구",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4113300000_Gyeonggi_Seongnam_Jungwon"
+            "sub_region_code":"4113300000_Gyeonggi_Seongnam_Jungwon",
+            "shorten_url":"https:\/\/me2.do\/GbURLaO9"
         },
         {
             "index":46,
@@ -610,7 +660,8 @@
             "value_score":47.1945,
             "region":"경기도 성남시 중원구",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4113300000_Gyeonggi_Seongnam_Jungwon"
+            "sub_region_code":"4113300000_Gyeonggi_Seongnam_Jungwon",
+            "shorten_url":"https:\/\/me2.do\/GbURLaO9"
         },
         {
             "index":47,
@@ -622,7 +673,8 @@
             "value_score":47.1935,
             "region":"경기도 성남시 중원구",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4113300000_Gyeonggi_Seongnam_Jungwon"
+            "sub_region_code":"4113300000_Gyeonggi_Seongnam_Jungwon",
+            "shorten_url":"https:\/\/me2.do\/GbURLaO9"
         },
         {
             "index":48,
@@ -634,7 +686,8 @@
             "value_score":46.3435,
             "region":"경기도 성남시 중원구",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4113300000_Gyeonggi_Seongnam_Jungwon"
+            "sub_region_code":"4113300000_Gyeonggi_Seongnam_Jungwon",
+            "shorten_url":"https:\/\/me2.do\/GbURLaO9"
         },
         {
             "index":49,
@@ -646,7 +699,8 @@
             "value_score":46.327,
             "region":"경기도 성남시 중원구",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4113300000_Gyeonggi_Seongnam_Jungwon"
+            "sub_region_code":"4113300000_Gyeonggi_Seongnam_Jungwon",
+            "shorten_url":"https:\/\/me2.do\/GbURLaO9"
         }
     ]
 }

@@ -40,6 +40,10 @@
             {
                 "name":"sub_region_code",
                 "type":"string"
+            },
+            {
+                "name":"shorten_url",
+                "type":"string"
             }
         ],
         "primaryKey":[
@@ -58,7 +62,8 @@
             "value_score":62.1357,
             "region":"부산시 사상구",
             "region_code":"Busan",
-            "sub_region_code":"2653000000_Busan_Sasang"
+            "sub_region_code":"2653000000_Busan_Sasang",
+            "shorten_url":"https:\/\/me2.do\/FZqxC5Kj"
         },
         {
             "index":1,
@@ -70,7 +75,8 @@
             "value_score":61.2357,
             "region":"부산시 사상구",
             "region_code":"Busan",
-            "sub_region_code":"2653000000_Busan_Sasang"
+            "sub_region_code":"2653000000_Busan_Sasang",
+            "shorten_url":"https:\/\/me2.do\/FZqxC5Kj"
         },
         {
             "index":2,
@@ -82,7 +88,8 @@
             "value_score":59.4221,
             "region":"부산시 사상구",
             "region_code":"Busan",
-            "sub_region_code":"2653000000_Busan_Sasang"
+            "sub_region_code":"2653000000_Busan_Sasang",
+            "shorten_url":"https:\/\/me2.do\/FZqxC5Kj"
         },
         {
             "index":3,
@@ -94,7 +101,8 @@
             "value_score":55.714,
             "region":"부산시 사상구",
             "region_code":"Busan",
-            "sub_region_code":"2653000000_Busan_Sasang"
+            "sub_region_code":"2653000000_Busan_Sasang",
+            "shorten_url":"https:\/\/me2.do\/FZqxC5Kj"
         },
         {
             "index":4,
@@ -106,7 +114,8 @@
             "value_score":55.0921,
             "region":"부산시 사상구",
             "region_code":"Busan",
-            "sub_region_code":"2653000000_Busan_Sasang"
+            "sub_region_code":"2653000000_Busan_Sasang",
+            "shorten_url":"https:\/\/me2.do\/FZqxC5Kj"
         },
         {
             "index":5,
@@ -118,7 +127,8 @@
             "value_score":54.9835,
             "region":"부산시 사상구",
             "region_code":"Busan",
-            "sub_region_code":"2653000000_Busan_Sasang"
+            "sub_region_code":"2653000000_Busan_Sasang",
+            "shorten_url":"https:\/\/me2.do\/FZqxC5Kj"
         },
         {
             "index":6,
@@ -130,7 +140,8 @@
             "value_score":52.897,
             "region":"부산시 사상구",
             "region_code":"Busan",
-            "sub_region_code":"2653000000_Busan_Sasang"
+            "sub_region_code":"2653000000_Busan_Sasang",
+            "shorten_url":"https:\/\/me2.do\/FZqxC5Kj"
         },
         {
             "index":7,
@@ -142,7 +153,8 @@
             "value_score":52.8835,
             "region":"부산시 사상구",
             "region_code":"Busan",
-            "sub_region_code":"2653000000_Busan_Sasang"
+            "sub_region_code":"2653000000_Busan_Sasang",
+            "shorten_url":"https:\/\/me2.do\/FZqxC5Kj"
         },
         {
             "index":8,
@@ -154,7 +166,8 @@
             "value_score":52.5094803388,
             "region":"부산시 사상구",
             "region_code":"Busan",
-            "sub_region_code":"2653000000_Busan_Sasang"
+            "sub_region_code":"2653000000_Busan_Sasang",
+            "shorten_url":"https:\/\/me2.do\/FZqxC5Kj"
         },
         {
             "index":9,
@@ -166,7 +179,8 @@
             "value_score":51.7721,
             "region":"부산시 사상구",
             "region_code":"Busan",
-            "sub_region_code":"2653000000_Busan_Sasang"
+            "sub_region_code":"2653000000_Busan_Sasang",
+            "shorten_url":"https:\/\/me2.do\/FZqxC5Kj"
         },
         {
             "index":10,
@@ -178,7 +192,8 @@
             "value_score":65.2838,
             "region":"부산시 사상구",
             "region_code":"Busan",
-            "sub_region_code":"2653000000_Busan_Sasang"
+            "sub_region_code":"2653000000_Busan_Sasang",
+            "shorten_url":"https:\/\/me2.do\/FZqxC5Kj"
         },
         {
             "index":11,
@@ -190,7 +205,8 @@
             "value_score":62.3838,
             "region":"부산시 사상구",
             "region_code":"Busan",
-            "sub_region_code":"2653000000_Busan_Sasang"
+            "sub_region_code":"2653000000_Busan_Sasang",
+            "shorten_url":"https:\/\/me2.do\/FZqxC5Kj"
         },
         {
             "index":12,
@@ -202,7 +218,8 @@
             "value_score":61.5414,
             "region":"부산시 사상구",
             "region_code":"Busan",
-            "sub_region_code":"2653000000_Busan_Sasang"
+            "sub_region_code":"2653000000_Busan_Sasang",
+            "shorten_url":"https:\/\/me2.do\/FZqxC5Kj"
         },
         {
             "index":13,
@@ -214,7 +231,8 @@
             "value_score":57.1498,
             "region":"부산시 사상구",
             "region_code":"Busan",
-            "sub_region_code":"2653000000_Busan_Sasang"
+            "sub_region_code":"2653000000_Busan_Sasang",
+            "shorten_url":"https:\/\/me2.do\/FZqxC5Kj"
         },
         {
             "index":14,
@@ -226,7 +244,8 @@
             "value_score":56.9114,
             "region":"부산시 사상구",
             "region_code":"Busan",
-            "sub_region_code":"2653000000_Busan_Sasang"
+            "sub_region_code":"2653000000_Busan_Sasang",
+            "shorten_url":"https:\/\/me2.do\/FZqxC5Kj"
         },
         {
             "index":15,
@@ -238,7 +257,8 @@
             "value_score":56.026,
             "region":"부산시 사상구",
             "region_code":"Busan",
-            "sub_region_code":"2653000000_Busan_Sasang"
+            "sub_region_code":"2653000000_Busan_Sasang",
+            "shorten_url":"https:\/\/me2.do\/FZqxC5Kj"
         },
         {
             "index":16,
@@ -250,7 +270,8 @@
             "value_score":52.1106,
             "region":"부산시 사상구",
             "region_code":"Busan",
-            "sub_region_code":"2653000000_Busan_Sasang"
+            "sub_region_code":"2653000000_Busan_Sasang",
+            "shorten_url":"https:\/\/me2.do\/FZqxC5Kj"
         },
         {
             "index":17,
@@ -262,7 +283,8 @@
             "value_score":51.3038,
             "region":"부산시 사상구",
             "region_code":"Busan",
-            "sub_region_code":"2653000000_Busan_Sasang"
+            "sub_region_code":"2653000000_Busan_Sasang",
+            "shorten_url":"https:\/\/me2.do\/FZqxC5Kj"
         },
         {
             "index":18,
@@ -274,7 +296,8 @@
             "value_score":50.439,
             "region":"부산시 사상구",
             "region_code":"Busan",
-            "sub_region_code":"2653000000_Busan_Sasang"
+            "sub_region_code":"2653000000_Busan_Sasang",
+            "shorten_url":"https:\/\/me2.do\/FZqxC5Kj"
         },
         {
             "index":19,
@@ -286,7 +309,8 @@
             "value_score":49.9082,
             "region":"부산시 사상구",
             "region_code":"Busan",
-            "sub_region_code":"2653000000_Busan_Sasang"
+            "sub_region_code":"2653000000_Busan_Sasang",
+            "shorten_url":"https:\/\/me2.do\/FZqxC5Kj"
         },
         {
             "index":20,
@@ -298,7 +322,8 @@
             "value_score":68.80785,
             "region":"부산시 사상구",
             "region_code":"Busan",
-            "sub_region_code":"2653000000_Busan_Sasang"
+            "sub_region_code":"2653000000_Busan_Sasang",
+            "shorten_url":"https:\/\/me2.do\/FZqxC5Kj"
         },
         {
             "index":21,
@@ -310,7 +335,8 @@
             "value_score":67.55105,
             "region":"부산시 사상구",
             "region_code":"Busan",
-            "sub_region_code":"2653000000_Busan_Sasang"
+            "sub_region_code":"2653000000_Busan_Sasang",
+            "shorten_url":"https:\/\/me2.do\/FZqxC5Kj"
         },
         {
             "index":22,
@@ -322,7 +348,8 @@
             "value_score":66.85785,
             "region":"부산시 사상구",
             "region_code":"Busan",
-            "sub_region_code":"2653000000_Busan_Sasang"
+            "sub_region_code":"2653000000_Busan_Sasang",
+            "shorten_url":"https:\/\/me2.do\/FZqxC5Kj"
         },
         {
             "index":23,
@@ -334,7 +361,8 @@
             "value_score":65.9485,
             "region":"부산시 사상구",
             "region_code":"Busan",
-            "sub_region_code":"2653000000_Busan_Sasang"
+            "sub_region_code":"2653000000_Busan_Sasang",
+            "shorten_url":"https:\/\/me2.do\/FZqxC5Kj"
         },
         {
             "index":24,
@@ -346,7 +374,8 @@
             "value_score":64.40105,
             "region":"부산시 사상구",
             "region_code":"Busan",
-            "sub_region_code":"2653000000_Busan_Sasang"
+            "sub_region_code":"2653000000_Busan_Sasang",
+            "shorten_url":"https:\/\/me2.do\/FZqxC5Kj"
         },
         {
             "index":25,
@@ -358,7 +387,8 @@
             "value_score":64.057,
             "region":"부산시 사상구",
             "region_code":"Busan",
-            "sub_region_code":"2653000000_Busan_Sasang"
+            "sub_region_code":"2653000000_Busan_Sasang",
+            "shorten_url":"https:\/\/me2.do\/FZqxC5Kj"
         },
         {
             "index":26,
@@ -370,7 +400,8 @@
             "value_score":63.69175,
             "region":"부산시 사상구",
             "region_code":"Busan",
-            "sub_region_code":"2653000000_Busan_Sasang"
+            "sub_region_code":"2653000000_Busan_Sasang",
+            "shorten_url":"https:\/\/me2.do\/FZqxC5Kj"
         },
         {
             "index":27,
@@ -382,7 +413,8 @@
             "value_score":63.48285,
             "region":"부산시 사상구",
             "region_code":"Busan",
-            "sub_region_code":"2653000000_Busan_Sasang"
+            "sub_region_code":"2653000000_Busan_Sasang",
+            "shorten_url":"https:\/\/me2.do\/FZqxC5Kj"
         },
         {
             "index":28,
@@ -394,7 +426,8 @@
             "value_score":62.94175,
             "region":"부산시 사상구",
             "region_code":"Busan",
-            "sub_region_code":"2653000000_Busan_Sasang"
+            "sub_region_code":"2653000000_Busan_Sasang",
+            "shorten_url":"https:\/\/me2.do\/FZqxC5Kj"
         },
         {
             "index":29,
@@ -406,7 +439,8 @@
             "value_score":62.82605,
             "region":"부산시 사상구",
             "region_code":"Busan",
-            "sub_region_code":"2653000000_Busan_Sasang"
+            "sub_region_code":"2653000000_Busan_Sasang",
+            "shorten_url":"https:\/\/me2.do\/FZqxC5Kj"
         },
         {
             "index":30,
@@ -418,7 +452,8 @@
             "value_score":54.27975,
             "region":"부산시 사상구",
             "region_code":"Busan",
-            "sub_region_code":"2653000000_Busan_Sasang"
+            "sub_region_code":"2653000000_Busan_Sasang",
+            "shorten_url":"https:\/\/me2.do\/FZqxC5Kj"
         },
         {
             "index":31,
@@ -430,7 +465,8 @@
             "value_score":54.07975,
             "region":"부산시 사상구",
             "region_code":"Busan",
-            "sub_region_code":"2653000000_Busan_Sasang"
+            "sub_region_code":"2653000000_Busan_Sasang",
+            "shorten_url":"https:\/\/me2.do\/FZqxC5Kj"
         },
         {
             "index":32,
@@ -442,7 +478,8 @@
             "value_score":50.72975,
             "region":"부산시 사상구",
             "region_code":"Busan",
-            "sub_region_code":"2653000000_Busan_Sasang"
+            "sub_region_code":"2653000000_Busan_Sasang",
+            "shorten_url":"https:\/\/me2.do\/FZqxC5Kj"
         },
         {
             "index":33,
@@ -454,7 +491,8 @@
             "value_score":50.52975,
             "region":"부산시 사상구",
             "region_code":"Busan",
-            "sub_region_code":"2653000000_Busan_Sasang"
+            "sub_region_code":"2653000000_Busan_Sasang",
+            "shorten_url":"https:\/\/me2.do\/FZqxC5Kj"
         },
         {
             "index":34,
@@ -466,7 +504,8 @@
             "value_score":49.67975,
             "region":"부산시 사상구",
             "region_code":"Busan",
-            "sub_region_code":"2653000000_Busan_Sasang"
+            "sub_region_code":"2653000000_Busan_Sasang",
+            "shorten_url":"https:\/\/me2.do\/FZqxC5Kj"
         },
         {
             "index":35,
@@ -478,7 +517,8 @@
             "value_score":48.82975,
             "region":"부산시 사상구",
             "region_code":"Busan",
-            "sub_region_code":"2653000000_Busan_Sasang"
+            "sub_region_code":"2653000000_Busan_Sasang",
+            "shorten_url":"https:\/\/me2.do\/FZqxC5Kj"
         },
         {
             "index":36,
@@ -490,7 +530,8 @@
             "value_score":46.8975,
             "region":"부산시 사상구",
             "region_code":"Busan",
-            "sub_region_code":"2653000000_Busan_Sasang"
+            "sub_region_code":"2653000000_Busan_Sasang",
+            "shorten_url":"https:\/\/me2.do\/FZqxC5Kj"
         },
         {
             "index":37,
@@ -502,7 +543,8 @@
             "value_score":46.57975,
             "region":"부산시 사상구",
             "region_code":"Busan",
-            "sub_region_code":"2653000000_Busan_Sasang"
+            "sub_region_code":"2653000000_Busan_Sasang",
+            "shorten_url":"https:\/\/me2.do\/FZqxC5Kj"
         },
         {
             "index":38,
@@ -514,7 +556,8 @@
             "value_score":46.26125,
             "region":"부산시 사상구",
             "region_code":"Busan",
-            "sub_region_code":"2653000000_Busan_Sasang"
+            "sub_region_code":"2653000000_Busan_Sasang",
+            "shorten_url":"https:\/\/me2.do\/FZqxC5Kj"
         },
         {
             "index":39,
@@ -526,7 +569,8 @@
             "value_score":45.75175,
             "region":"부산시 사상구",
             "region_code":"Busan",
-            "sub_region_code":"2653000000_Busan_Sasang"
+            "sub_region_code":"2653000000_Busan_Sasang",
+            "shorten_url":"https:\/\/me2.do\/FZqxC5Kj"
         },
         {
             "index":40,
@@ -538,7 +582,8 @@
             "value_score":55.8395,
             "region":"부산시 사상구",
             "region_code":"Busan",
-            "sub_region_code":"2653000000_Busan_Sasang"
+            "sub_region_code":"2653000000_Busan_Sasang",
+            "shorten_url":"https:\/\/me2.do\/FZqxC5Kj"
         },
         {
             "index":41,
@@ -550,7 +595,8 @@
             "value_score":55.0395,
             "region":"부산시 사상구",
             "region_code":"Busan",
-            "sub_region_code":"2653000000_Busan_Sasang"
+            "sub_region_code":"2653000000_Busan_Sasang",
+            "shorten_url":"https:\/\/me2.do\/FZqxC5Kj"
         },
         {
             "index":42,
@@ -562,7 +608,8 @@
             "value_score":53.7225,
             "region":"부산시 사상구",
             "region_code":"Busan",
-            "sub_region_code":"2653000000_Busan_Sasang"
+            "sub_region_code":"2653000000_Busan_Sasang",
+            "shorten_url":"https:\/\/me2.do\/FZqxC5Kj"
         },
         {
             "index":43,
@@ -574,7 +621,8 @@
             "value_score":52.5225,
             "region":"부산시 사상구",
             "region_code":"Busan",
-            "sub_region_code":"2653000000_Busan_Sasang"
+            "sub_region_code":"2653000000_Busan_Sasang",
+            "shorten_url":"https:\/\/me2.do\/FZqxC5Kj"
         },
         {
             "index":44,
@@ -586,7 +634,8 @@
             "value_score":51.9991338979,
             "region":"부산시 사상구",
             "region_code":"Busan",
-            "sub_region_code":"2653000000_Busan_Sasang"
+            "sub_region_code":"2653000000_Busan_Sasang",
+            "shorten_url":"https:\/\/me2.do\/FZqxC5Kj"
         },
         {
             "index":45,
@@ -598,7 +647,8 @@
             "value_score":51.8835,
             "region":"부산시 사상구",
             "region_code":"Busan",
-            "sub_region_code":"2653000000_Busan_Sasang"
+            "sub_region_code":"2653000000_Busan_Sasang",
+            "shorten_url":"https:\/\/me2.do\/FZqxC5Kj"
         },
         {
             "index":46,
@@ -610,7 +660,8 @@
             "value_score":49.84,
             "region":"부산시 사상구",
             "region_code":"Busan",
-            "sub_region_code":"2653000000_Busan_Sasang"
+            "sub_region_code":"2653000000_Busan_Sasang",
+            "shorten_url":"https:\/\/me2.do\/FZqxC5Kj"
         },
         {
             "index":47,
@@ -622,7 +673,8 @@
             "value_score":49.5035,
             "region":"부산시 사상구",
             "region_code":"Busan",
-            "sub_region_code":"2653000000_Busan_Sasang"
+            "sub_region_code":"2653000000_Busan_Sasang",
+            "shorten_url":"https:\/\/me2.do\/FZqxC5Kj"
         },
         {
             "index":48,
@@ -634,7 +686,8 @@
             "value_score":48.7395,
             "region":"부산시 사상구",
             "region_code":"Busan",
-            "sub_region_code":"2653000000_Busan_Sasang"
+            "sub_region_code":"2653000000_Busan_Sasang",
+            "shorten_url":"https:\/\/me2.do\/FZqxC5Kj"
         },
         {
             "index":49,
@@ -646,7 +699,8 @@
             "value_score":47.9835,
             "region":"부산시 사상구",
             "region_code":"Busan",
-            "sub_region_code":"2653000000_Busan_Sasang"
+            "sub_region_code":"2653000000_Busan_Sasang",
+            "shorten_url":"https:\/\/me2.do\/FZqxC5Kj"
         }
     ]
 }

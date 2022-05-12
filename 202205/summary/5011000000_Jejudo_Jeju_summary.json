@@ -40,6 +40,10 @@
             {
                 "name":"sub_region_code",
                 "type":"string"
+            },
+            {
+                "name":"shorten_url",
+                "type":"string"
             }
         ],
         "primaryKey":[
@@ -58,7 +62,8 @@
             "value_score":61.0628,
             "region":"제주도 제주시",
             "region_code":"Jejudo",
-            "sub_region_code":"5011000000_Jejudo_Jeju"
+            "sub_region_code":"5011000000_Jejudo_Jeju",
+            "shorten_url":"https:\/\/me2.do\/F1LPGpb5"
         },
         {
             "index":1,
@@ -70,7 +75,8 @@
             "value_score":59.0627,
             "region":"제주도 제주시",
             "region_code":"Jejudo",
-            "sub_region_code":"5011000000_Jejudo_Jeju"
+            "sub_region_code":"5011000000_Jejudo_Jeju",
+            "shorten_url":"https:\/\/me2.do\/F1LPGpb5"
         },
         {
             "index":2,
@@ -82,7 +88,8 @@
             "value_score":58.1627,
             "region":"제주도 제주시",
             "region_code":"Jejudo",
-            "sub_region_code":"5011000000_Jejudo_Jeju"
+            "sub_region_code":"5011000000_Jejudo_Jeju",
+            "shorten_url":"https:\/\/me2.do\/F1LPGpb5"
         },
         {
             "index":3,
@@ -94,7 +101,8 @@
             "value_score":58.0627,
             "region":"제주도 제주시",
             "region_code":"Jejudo",
-            "sub_region_code":"5011000000_Jejudo_Jeju"
+            "sub_region_code":"5011000000_Jejudo_Jeju",
+            "shorten_url":"https:\/\/me2.do\/F1LPGpb5"
         },
         {
             "index":4,
@@ -106,7 +114,8 @@
             "value_score":56.3627,
             "region":"제주도 제주시",
             "region_code":"Jejudo",
-            "sub_region_code":"5011000000_Jejudo_Jeju"
+            "sub_region_code":"5011000000_Jejudo_Jeju",
+            "shorten_url":"https:\/\/me2.do\/F1LPGpb5"
         },
         {
             "index":5,
@@ -118,7 +127,8 @@
             "value_score":54.0809,
             "region":"제주도 제주시",
             "region_code":"Jejudo",
-            "sub_region_code":"5011000000_Jejudo_Jeju"
+            "sub_region_code":"5011000000_Jejudo_Jeju",
+            "shorten_url":"https:\/\/me2.do\/F1LPGpb5"
         },
         {
             "index":6,
@@ -130,7 +140,8 @@
             "value_score":53.5804,
             "region":"제주도 제주시",
             "region_code":"Jejudo",
-            "sub_region_code":"5011000000_Jejudo_Jeju"
+            "sub_region_code":"5011000000_Jejudo_Jeju",
+            "shorten_url":"https:\/\/me2.do\/F1LPGpb5"
         },
         {
             "index":7,
@@ -142,7 +153,8 @@
             "value_score":53.5804,
             "region":"제주도 제주시",
             "region_code":"Jejudo",
-            "sub_region_code":"5011000000_Jejudo_Jeju"
+            "sub_region_code":"5011000000_Jejudo_Jeju",
+            "shorten_url":"https:\/\/me2.do\/F1LPGpb5"
         },
         {
             "index":8,
@@ -154,7 +166,8 @@
             "value_score":52.7195,
             "region":"제주도 제주시",
             "region_code":"Jejudo",
-            "sub_region_code":"5011000000_Jejudo_Jeju"
+            "sub_region_code":"5011000000_Jejudo_Jeju",
+            "shorten_url":"https:\/\/me2.do\/F1LPGpb5"
         },
         {
             "index":9,
@@ -166,7 +179,8 @@
             "value_score":52.3628,
             "region":"제주도 제주시",
             "region_code":"Jejudo",
-            "sub_region_code":"5011000000_Jejudo_Jeju"
+            "sub_region_code":"5011000000_Jejudo_Jeju",
+            "shorten_url":"https:\/\/me2.do\/F1LPGpb5"
         },
         {
             "index":10,
@@ -178,7 +192,8 @@
             "value_score":61.902,
             "region":"제주도 제주시",
             "region_code":"Jejudo",
-            "sub_region_code":"5011000000_Jejudo_Jeju"
+            "sub_region_code":"5011000000_Jejudo_Jeju",
+            "shorten_url":"https:\/\/me2.do\/F1LPGpb5"
         },
         {
             "index":11,
@@ -190,7 +205,8 @@
             "value_score":56.5805,
             "region":"제주도 제주시",
             "region_code":"Jejudo",
-            "sub_region_code":"5011000000_Jejudo_Jeju"
+            "sub_region_code":"5011000000_Jejudo_Jeju",
+            "shorten_url":"https:\/\/me2.do\/F1LPGpb5"
         },
         {
             "index":12,
@@ -202,7 +218,8 @@
             "value_score":56.5805,
             "region":"제주도 제주시",
             "region_code":"Jejudo",
-            "sub_region_code":"5011000000_Jejudo_Jeju"
+            "sub_region_code":"5011000000_Jejudo_Jeju",
+            "shorten_url":"https:\/\/me2.do\/F1LPGpb5"
         },
         {
             "index":13,
@@ -214,7 +231,8 @@
             "value_score":55.3305,
             "region":"제주도 제주시",
             "region_code":"Jejudo",
-            "sub_region_code":"5011000000_Jejudo_Jeju"
+            "sub_region_code":"5011000000_Jejudo_Jeju",
+            "shorten_url":"https:\/\/me2.do\/F1LPGpb5"
         },
         {
             "index":14,
@@ -226,7 +244,8 @@
             "value_score":54.3305,
             "region":"제주도 제주시",
             "region_code":"Jejudo",
-            "sub_region_code":"5011000000_Jejudo_Jeju"
+            "sub_region_code":"5011000000_Jejudo_Jeju",
+            "shorten_url":"https:\/\/me2.do\/F1LPGpb5"
         },
         {
             "index":15,
@@ -238,7 +257,8 @@
             "value_score":53.986,
             "region":"제주도 제주시",
             "region_code":"Jejudo",
-            "sub_region_code":"5011000000_Jejudo_Jeju"
+            "sub_region_code":"5011000000_Jejudo_Jeju",
+            "shorten_url":"https:\/\/me2.do\/F1LPGpb5"
         },
         {
             "index":16,
@@ -250,7 +270,8 @@
             "value_score":53.986,
             "region":"제주도 제주시",
             "region_code":"Jejudo",
-            "sub_region_code":"5011000000_Jejudo_Jeju"
+            "sub_region_code":"5011000000_Jejudo_Jeju",
+            "shorten_url":"https:\/\/me2.do\/F1LPGpb5"
         },
         {
             "index":17,
@@ -262,7 +283,8 @@
             "value_score":53.8435,
             "region":"제주도 제주시",
             "region_code":"Jejudo",
-            "sub_region_code":"5011000000_Jejudo_Jeju"
+            "sub_region_code":"5011000000_Jejudo_Jeju",
+            "shorten_url":"https:\/\/me2.do\/F1LPGpb5"
         },
         {
             "index":18,
@@ -274,7 +296,8 @@
             "value_score":53.305,
             "region":"제주도 제주시",
             "region_code":"Jejudo",
-            "sub_region_code":"5011000000_Jejudo_Jeju"
+            "sub_region_code":"5011000000_Jejudo_Jeju",
+            "shorten_url":"https:\/\/me2.do\/F1LPGpb5"
         },
         {
             "index":19,
@@ -286,7 +309,8 @@
             "value_score":52.4425,
             "region":"제주도 제주시",
             "region_code":"Jejudo",
-            "sub_region_code":"5011000000_Jejudo_Jeju"
+            "sub_region_code":"5011000000_Jejudo_Jeju",
+            "shorten_url":"https:\/\/me2.do\/F1LPGpb5"
         },
         {
             "index":20,
@@ -298,7 +322,8 @@
             "value_score":59.7332631579,
             "region":"제주도 제주시",
             "region_code":"Jejudo",
-            "sub_region_code":"5011000000_Jejudo_Jeju"
+            "sub_region_code":"5011000000_Jejudo_Jeju",
+            "shorten_url":"https:\/\/me2.do\/F1LPGpb5"
         },
         {
             "index":21,
@@ -310,7 +335,8 @@
             "value_score":59.3385263158,
             "region":"제주도 제주시",
             "region_code":"Jejudo",
-            "sub_region_code":"5011000000_Jejudo_Jeju"
+            "sub_region_code":"5011000000_Jejudo_Jeju",
+            "shorten_url":"https:\/\/me2.do\/F1LPGpb5"
         },
         {
             "index":22,
@@ -322,7 +348,8 @@
             "value_score":58.3122105263,
             "region":"제주도 제주시",
             "region_code":"Jejudo",
-            "sub_region_code":"5011000000_Jejudo_Jeju"
+            "sub_region_code":"5011000000_Jejudo_Jeju",
+            "shorten_url":"https:\/\/me2.do\/F1LPGpb5"
         },
         {
             "index":23,
@@ -334,7 +361,8 @@
             "value_score":51.8648421053,
             "region":"제주도 제주시",
             "region_code":"Jejudo",
-            "sub_region_code":"5011000000_Jejudo_Jeju"
+            "sub_region_code":"5011000000_Jejudo_Jeju",
+            "shorten_url":"https:\/\/me2.do\/F1LPGpb5"
         },
         {
             "index":24,
@@ -346,7 +374,8 @@
             "value_score":51.7069473684,
             "region":"제주도 제주시",
             "region_code":"Jejudo",
-            "sub_region_code":"5011000000_Jejudo_Jeju"
+            "sub_region_code":"5011000000_Jejudo_Jeju",
+            "shorten_url":"https:\/\/me2.do\/F1LPGpb5"
         },
         {
             "index":25,
@@ -358,7 +387,8 @@
             "value_score":50.9701052632,
             "region":"제주도 제주시",
             "region_code":"Jejudo",
-            "sub_region_code":"5011000000_Jejudo_Jeju"
+            "sub_region_code":"5011000000_Jejudo_Jeju",
+            "shorten_url":"https:\/\/me2.do\/F1LPGpb5"
         },
         {
             "index":26,
@@ -370,7 +400,8 @@
             "value_score":50.8385263158,
             "region":"제주도 제주시",
             "region_code":"Jejudo",
-            "sub_region_code":"5011000000_Jejudo_Jeju"
+            "sub_region_code":"5011000000_Jejudo_Jeju",
+            "shorten_url":"https:\/\/me2.do\/F1LPGpb5"
         },
         {
             "index":27,
@@ -382,7 +413,8 @@
             "value_score":50.2972631579,
             "region":"제주도 제주시",
             "region_code":"Jejudo",
-            "sub_region_code":"5011000000_Jejudo_Jeju"
+            "sub_region_code":"5011000000_Jejudo_Jeju",
+            "shorten_url":"https:\/\/me2.do\/F1LPGpb5"
         },
         {
             "index":28,
@@ -394,7 +426,8 @@
             "value_score":49.8549473684,
             "region":"제주도 제주시",
             "region_code":"Jejudo",
-            "sub_region_code":"5011000000_Jejudo_Jeju"
+            "sub_region_code":"5011000000_Jejudo_Jeju",
+            "shorten_url":"https:\/\/me2.do\/F1LPGpb5"
         },
         {
             "index":29,
@@ -406,7 +439,8 @@
             "value_score":49.7332631579,
             "region":"제주도 제주시",
             "region_code":"Jejudo",
-            "sub_region_code":"5011000000_Jejudo_Jeju"
+            "sub_region_code":"5011000000_Jejudo_Jeju",
+            "shorten_url":"https:\/\/me2.do\/F1LPGpb5"
         },
         {
             "index":30,
@@ -418,7 +452,8 @@
             "value_score":62.786,
             "region":"제주도 제주시",
             "region_code":"Jejudo",
-            "sub_region_code":"5011000000_Jejudo_Jeju"
+            "sub_region_code":"5011000000_Jejudo_Jeju",
+            "shorten_url":"https:\/\/me2.do\/F1LPGpb5"
         },
         {
             "index":31,
@@ -430,7 +465,8 @@
             "value_score":62.161,
             "region":"제주도 제주시",
             "region_code":"Jejudo",
-            "sub_region_code":"5011000000_Jejudo_Jeju"
+            "sub_region_code":"5011000000_Jejudo_Jeju",
+            "shorten_url":"https:\/\/me2.do\/F1LPGpb5"
         },
         {
             "index":32,
@@ -442,7 +478,8 @@
             "value_score":60.536,
             "region":"제주도 제주시",
             "region_code":"Jejudo",
-            "sub_region_code":"5011000000_Jejudo_Jeju"
+            "sub_region_code":"5011000000_Jejudo_Jeju",
+            "shorten_url":"https:\/\/me2.do\/F1LPGpb5"
         },
         {
             "index":33,
@@ -454,7 +491,8 @@
             "value_score":59.804,
             "region":"제주도 제주시",
             "region_code":"Jejudo",
-            "sub_region_code":"5011000000_Jejudo_Jeju"
+            "sub_region_code":"5011000000_Jejudo_Jeju",
+            "shorten_url":"https:\/\/me2.do\/F1LPGpb5"
         },
         {
             "index":34,
@@ -466,7 +504,8 @@
             "value_score":59.411,
             "region":"제주도 제주시",
             "region_code":"Jejudo",
-            "sub_region_code":"5011000000_Jejudo_Jeju"
+            "sub_region_code":"5011000000_Jejudo_Jeju",
+            "shorten_url":"https:\/\/me2.do\/F1LPGpb5"
         },
         {
             "index":35,
@@ -478,7 +517,8 @@
             "value_score":56.161,
             "region":"제주도 제주시",
             "region_code":"Jejudo",
-            "sub_region_code":"5011000000_Jejudo_Jeju"
+            "sub_region_code":"5011000000_Jejudo_Jeju",
+            "shorten_url":"https:\/\/me2.do\/F1LPGpb5"
         },
         {
             "index":36,
@@ -490,7 +530,8 @@
             "value_score":55.911,
             "region":"제주도 제주시",
             "region_code":"Jejudo",
-            "sub_region_code":"5011000000_Jejudo_Jeju"
+            "sub_region_code":"5011000000_Jejudo_Jeju",
+            "shorten_url":"https:\/\/me2.do\/F1LPGpb5"
         },
         {
             "index":37,
@@ -502,7 +543,8 @@
             "value_score":55.411,
             "region":"제주도 제주시",
             "region_code":"Jejudo",
-            "sub_region_code":"5011000000_Jejudo_Jeju"
+            "sub_region_code":"5011000000_Jejudo_Jeju",
+            "shorten_url":"https:\/\/me2.do\/F1LPGpb5"
         },
         {
             "index":38,
@@ -514,7 +556,8 @@
             "value_score":55.036,
             "region":"제주도 제주시",
             "region_code":"Jejudo",
-            "sub_region_code":"5011000000_Jejudo_Jeju"
+            "sub_region_code":"5011000000_Jejudo_Jeju",
+            "shorten_url":"https:\/\/me2.do\/F1LPGpb5"
         },
         {
             "index":39,
@@ -526,7 +569,8 @@
             "value_score":54.661,
             "region":"제주도 제주시",
             "region_code":"Jejudo",
-            "sub_region_code":"5011000000_Jejudo_Jeju"
+            "sub_region_code":"5011000000_Jejudo_Jeju",
+            "shorten_url":"https:\/\/me2.do\/F1LPGpb5"
         }
     ]
 }

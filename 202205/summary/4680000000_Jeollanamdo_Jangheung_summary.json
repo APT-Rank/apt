@@ -40,6 +40,10 @@
             {
                 "name":"sub_region_code",
                 "type":"string"
+            },
+            {
+                "name":"shorten_url",
+                "type":"string"
             }
         ],
         "primaryKey":[
@@ -58,7 +62,8 @@
             "value_score":49.14155,
             "region":"전라남도 장흥군",
             "region_code":"Jeollanamdo",
-            "sub_region_code":"4680000000_Jeollanamdo_Jangheung"
+            "sub_region_code":"4680000000_Jeollanamdo_Jangheung",
+            "shorten_url":"https:\/\/me2.do\/xfx0peq7"
         },
         {
             "index":1,
@@ -70,7 +75,8 @@
             "value_score":45.88005,
             "region":"전라남도 장흥군",
             "region_code":"Jeollanamdo",
-            "sub_region_code":"4680000000_Jeollanamdo_Jangheung"
+            "sub_region_code":"4680000000_Jeollanamdo_Jangheung",
+            "shorten_url":"https:\/\/me2.do\/xfx0peq7"
         },
         {
             "index":2,
@@ -82,7 +88,8 @@
             "value_score":45.28005,
             "region":"전라남도 장흥군",
             "region_code":"Jeollanamdo",
-            "sub_region_code":"4680000000_Jeollanamdo_Jangheung"
+            "sub_region_code":"4680000000_Jeollanamdo_Jangheung",
+            "shorten_url":"https:\/\/me2.do\/xfx0peq7"
         },
         {
             "index":3,
@@ -94,7 +101,8 @@
             "value_score":39.70505,
             "region":"전라남도 장흥군",
             "region_code":"Jeollanamdo",
-            "sub_region_code":"4680000000_Jeollanamdo_Jangheung"
+            "sub_region_code":"4680000000_Jeollanamdo_Jangheung",
+            "shorten_url":"https:\/\/me2.do\/xfx0peq7"
         },
         {
             "index":4,
@@ -106,7 +114,8 @@
             "value_score":38.31655,
             "region":"전라남도 장흥군",
             "region_code":"Jeollanamdo",
-            "sub_region_code":"4680000000_Jeollanamdo_Jangheung"
+            "sub_region_code":"4680000000_Jeollanamdo_Jangheung",
+            "shorten_url":"https:\/\/me2.do\/xfx0peq7"
         },
         {
             "index":5,
@@ -118,7 +127,8 @@
             "value_score":37.33005,
             "region":"전라남도 장흥군",
             "region_code":"Jeollanamdo",
-            "sub_region_code":"4680000000_Jeollanamdo_Jangheung"
+            "sub_region_code":"4680000000_Jeollanamdo_Jangheung",
+            "shorten_url":"https:\/\/me2.do\/xfx0peq7"
         },
         {
             "index":6,
@@ -130,7 +140,8 @@
             "value_score":32.91655,
             "region":"전라남도 장흥군",
             "region_code":"Jeollanamdo",
-            "sub_region_code":"4680000000_Jeollanamdo_Jangheung"
+            "sub_region_code":"4680000000_Jeollanamdo_Jangheung",
+            "shorten_url":"https:\/\/me2.do\/xfx0peq7"
         },
         {
             "index":7,
@@ -142,7 +153,8 @@
             "value_score":31.31655,
             "region":"전라남도 장흥군",
             "region_code":"Jeollanamdo",
-            "sub_region_code":"4680000000_Jeollanamdo_Jangheung"
+            "sub_region_code":"4680000000_Jeollanamdo_Jangheung",
+            "shorten_url":"https:\/\/me2.do\/xfx0peq7"
         },
         {
             "index":8,
@@ -154,7 +166,8 @@
             "value_score":29.71655,
             "region":"전라남도 장흥군",
             "region_code":"Jeollanamdo",
-            "sub_region_code":"4680000000_Jeollanamdo_Jangheung"
+            "sub_region_code":"4680000000_Jeollanamdo_Jangheung",
+            "shorten_url":"https:\/\/me2.do\/xfx0peq7"
         },
         {
             "index":9,
@@ -166,7 +179,8 @@
             "value_score":27.93005,
             "region":"전라남도 장흥군",
             "region_code":"Jeollanamdo",
-            "sub_region_code":"4680000000_Jeollanamdo_Jangheung"
+            "sub_region_code":"4680000000_Jeollanamdo_Jangheung",
+            "shorten_url":"https:\/\/me2.do\/xfx0peq7"
         },
         {
             "index":10,
@@ -178,7 +192,8 @@
             "value_score":47.95825,
             "region":"전라남도 장흥군",
             "region_code":"Jeollanamdo",
-            "sub_region_code":"4680000000_Jeollanamdo_Jangheung"
+            "sub_region_code":"4680000000_Jeollanamdo_Jangheung",
+            "shorten_url":"https:\/\/me2.do\/xfx0peq7"
         },
         {
             "index":11,
@@ -190,7 +205,8 @@
             "value_score":46.48575,
             "region":"전라남도 장흥군",
             "region_code":"Jeollanamdo",
-            "sub_region_code":"4680000000_Jeollanamdo_Jangheung"
+            "sub_region_code":"4680000000_Jeollanamdo_Jangheung",
+            "shorten_url":"https:\/\/me2.do\/xfx0peq7"
         },
         {
             "index":12,
@@ -202,7 +218,8 @@
             "value_score":44.83575,
             "region":"전라남도 장흥군",
             "region_code":"Jeollanamdo",
-            "sub_region_code":"4680000000_Jeollanamdo_Jangheung"
+            "sub_region_code":"4680000000_Jeollanamdo_Jangheung",
+            "shorten_url":"https:\/\/me2.do\/xfx0peq7"
         },
         {
             "index":13,
@@ -214,7 +231,8 @@
             "value_score":37.93325,
             "region":"전라남도 장흥군",
             "region_code":"Jeollanamdo",
-            "sub_region_code":"4680000000_Jeollanamdo_Jangheung"
+            "sub_region_code":"4680000000_Jeollanamdo_Jangheung",
+            "shorten_url":"https:\/\/me2.do\/xfx0peq7"
         },
         {
             "index":14,
@@ -226,7 +244,8 @@
             "value_score":35.71075,
             "region":"전라남도 장흥군",
             "region_code":"Jeollanamdo",
-            "sub_region_code":"4680000000_Jeollanamdo_Jangheung"
+            "sub_region_code":"4680000000_Jeollanamdo_Jangheung",
+            "shorten_url":"https:\/\/me2.do\/xfx0peq7"
         },
         {
             "index":15,
@@ -238,7 +257,8 @@
             "value_score":33.73575,
             "region":"전라남도 장흥군",
             "region_code":"Jeollanamdo",
-            "sub_region_code":"4680000000_Jeollanamdo_Jangheung"
+            "sub_region_code":"4680000000_Jeollanamdo_Jangheung",
+            "shorten_url":"https:\/\/me2.do\/xfx0peq7"
         },
         {
             "index":16,
@@ -250,7 +270,8 @@
             "value_score":31.18325,
             "region":"전라남도 장흥군",
             "region_code":"Jeollanamdo",
-            "sub_region_code":"4680000000_Jeollanamdo_Jangheung"
+            "sub_region_code":"4680000000_Jeollanamdo_Jangheung",
+            "shorten_url":"https:\/\/me2.do\/xfx0peq7"
         },
         {
             "index":17,
@@ -262,7 +283,8 @@
             "value_score":29.18325,
             "region":"전라남도 장흥군",
             "region_code":"Jeollanamdo",
-            "sub_region_code":"4680000000_Jeollanamdo_Jangheung"
+            "sub_region_code":"4680000000_Jeollanamdo_Jangheung",
+            "shorten_url":"https:\/\/me2.do\/xfx0peq7"
         },
         {
             "index":18,
@@ -274,7 +296,8 @@
             "value_score":27.18325,
             "region":"전라남도 장흥군",
             "region_code":"Jeollanamdo",
-            "sub_region_code":"4680000000_Jeollanamdo_Jangheung"
+            "sub_region_code":"4680000000_Jeollanamdo_Jangheung",
+            "shorten_url":"https:\/\/me2.do\/xfx0peq7"
         },
         {
             "index":19,
@@ -286,7 +309,8 @@
             "value_score":24.23575,
             "region":"전라남도 장흥군",
             "region_code":"Jeollanamdo",
-            "sub_region_code":"4680000000_Jeollanamdo_Jangheung"
+            "sub_region_code":"4680000000_Jeollanamdo_Jangheung",
+            "shorten_url":"https:\/\/me2.do\/xfx0peq7"
         },
         {
             "index":20,
@@ -298,7 +322,8 @@
             "value_score":50.3946315789,
             "region":"전라남도 장흥군",
             "region_code":"Jeollanamdo",
-            "sub_region_code":"4680000000_Jeollanamdo_Jangheung"
+            "sub_region_code":"4680000000_Jeollanamdo_Jangheung",
+            "shorten_url":"https:\/\/me2.do\/xfx0peq7"
         },
         {
             "index":21,
@@ -310,7 +335,8 @@
             "value_score":46.8767368421,
             "region":"전라남도 장흥군",
             "region_code":"Jeollanamdo",
-            "sub_region_code":"4680000000_Jeollanamdo_Jangheung"
+            "sub_region_code":"4680000000_Jeollanamdo_Jangheung",
+            "shorten_url":"https:\/\/me2.do\/xfx0peq7"
         },
         {
             "index":22,
@@ -322,7 +348,8 @@
             "value_score":39.6925263158,
             "region":"전라남도 장흥군",
             "region_code":"Jeollanamdo",
-            "sub_region_code":"4680000000_Jeollanamdo_Jangheung"
+            "sub_region_code":"4680000000_Jeollanamdo_Jangheung",
+            "shorten_url":"https:\/\/me2.do\/xfx0peq7"
         },
         {
             "index":23,
@@ -334,7 +361,8 @@
             "value_score":39.1398947368,
             "region":"전라남도 장흥군",
             "region_code":"Jeollanamdo",
-            "sub_region_code":"4680000000_Jeollanamdo_Jangheung"
+            "sub_region_code":"4680000000_Jeollanamdo_Jangheung",
+            "shorten_url":"https:\/\/me2.do\/xfx0peq7"
         },
         {
             "index":24,
@@ -346,7 +374,8 @@
             "value_score":36.2977894737,
             "region":"전라남도 장흥군",
             "region_code":"Jeollanamdo",
-            "sub_region_code":"4680000000_Jeollanamdo_Jangheung"
+            "sub_region_code":"4680000000_Jeollanamdo_Jangheung",
+            "shorten_url":"https:\/\/me2.do\/xfx0peq7"
         },
         {
             "index":25,
@@ -358,7 +387,8 @@
             "value_score":35.3946315789,
             "region":"전라남도 장흥군",
             "region_code":"Jeollanamdo",
-            "sub_region_code":"4680000000_Jeollanamdo_Jangheung"
+            "sub_region_code":"4680000000_Jeollanamdo_Jangheung",
+            "shorten_url":"https:\/\/me2.do\/xfx0peq7"
         },
         {
             "index":26,
@@ -370,7 +400,8 @@
             "value_score":33.2977894737,
             "region":"전라남도 장흥군",
             "region_code":"Jeollanamdo",
-            "sub_region_code":"4680000000_Jeollanamdo_Jangheung"
+            "sub_region_code":"4680000000_Jeollanamdo_Jangheung",
+            "shorten_url":"https:\/\/me2.do\/xfx0peq7"
         },
         {
             "index":27,
@@ -382,7 +413,8 @@
             "value_score":33.2630526316,
             "region":"전라남도 장흥군",
             "region_code":"Jeollanamdo",
-            "sub_region_code":"4680000000_Jeollanamdo_Jangheung"
+            "sub_region_code":"4680000000_Jeollanamdo_Jangheung",
+            "shorten_url":"https:\/\/me2.do\/xfx0peq7"
         },
         {
             "index":28,
@@ -394,7 +426,8 @@
             "value_score":32.6314736842,
             "region":"전라남도 장흥군",
             "region_code":"Jeollanamdo",
-            "sub_region_code":"4680000000_Jeollanamdo_Jangheung"
+            "sub_region_code":"4680000000_Jeollanamdo_Jangheung",
+            "shorten_url":"https:\/\/me2.do\/xfx0peq7"
         },
         {
             "index":29,
@@ -406,7 +439,8 @@
             "value_score":31.9998947368,
             "region":"전라남도 장흥군",
             "region_code":"Jeollanamdo",
-            "sub_region_code":"4680000000_Jeollanamdo_Jangheung"
+            "sub_region_code":"4680000000_Jeollanamdo_Jangheung",
+            "shorten_url":"https:\/\/me2.do\/xfx0peq7"
         },
         {
             "index":30,
@@ -418,7 +452,8 @@
             "value_score":50.9165,
             "region":"전라남도 장흥군",
             "region_code":"Jeollanamdo",
-            "sub_region_code":"4680000000_Jeollanamdo_Jangheung"
+            "sub_region_code":"4680000000_Jeollanamdo_Jangheung",
+            "shorten_url":"https:\/\/me2.do\/xfx0peq7"
         },
         {
             "index":31,
@@ -430,7 +465,8 @@
             "value_score":47.4465,
             "region":"전라남도 장흥군",
             "region_code":"Jeollanamdo",
-            "sub_region_code":"4680000000_Jeollanamdo_Jangheung"
+            "sub_region_code":"4680000000_Jeollanamdo_Jangheung",
+            "shorten_url":"https:\/\/me2.do\/xfx0peq7"
         },
         {
             "index":32,
@@ -442,7 +478,8 @@
             "value_score":45.6965,
             "region":"전라남도 장흥군",
             "region_code":"Jeollanamdo",
-            "sub_region_code":"4680000000_Jeollanamdo_Jangheung"
+            "sub_region_code":"4680000000_Jeollanamdo_Jangheung",
+            "shorten_url":"https:\/\/me2.do\/xfx0peq7"
         },
         {
             "index":33,
@@ -454,7 +491,8 @@
             "value_score":43.4715,
             "region":"전라남도 장흥군",
             "region_code":"Jeollanamdo",
-            "sub_region_code":"4680000000_Jeollanamdo_Jangheung"
+            "sub_region_code":"4680000000_Jeollanamdo_Jangheung",
+            "shorten_url":"https:\/\/me2.do\/xfx0peq7"
         },
         {
             "index":34,
@@ -466,7 +504,8 @@
             "value_score":42.7215,
             "region":"전라남도 장흥군",
             "region_code":"Jeollanamdo",
-            "sub_region_code":"4680000000_Jeollanamdo_Jangheung"
+            "sub_region_code":"4680000000_Jeollanamdo_Jangheung",
+            "shorten_url":"https:\/\/me2.do\/xfx0peq7"
         },
         {
             "index":35,
@@ -478,7 +517,8 @@
             "value_score":38.8915,
             "region":"전라남도 장흥군",
             "region_code":"Jeollanamdo",
-            "sub_region_code":"4680000000_Jeollanamdo_Jangheung"
+            "sub_region_code":"4680000000_Jeollanamdo_Jangheung",
+            "shorten_url":"https:\/\/me2.do\/xfx0peq7"
         },
         {
             "index":36,
@@ -490,7 +530,8 @@
             "value_score":35.5165,
             "region":"전라남도 장흥군",
             "region_code":"Jeollanamdo",
-            "sub_region_code":"4680000000_Jeollanamdo_Jangheung"
+            "sub_region_code":"4680000000_Jeollanamdo_Jangheung",
+            "shorten_url":"https:\/\/me2.do\/xfx0peq7"
         },
         {
             "index":37,
@@ -502,7 +543,8 @@
             "value_score":34.5165,
             "region":"전라남도 장흥군",
             "region_code":"Jeollanamdo",
-            "sub_region_code":"4680000000_Jeollanamdo_Jangheung"
+            "sub_region_code":"4680000000_Jeollanamdo_Jangheung",
+            "shorten_url":"https:\/\/me2.do\/xfx0peq7"
         },
         {
             "index":38,
@@ -514,7 +556,8 @@
             "value_score":33.5165,
             "region":"전라남도 장흥군",
             "region_code":"Jeollanamdo",
-            "sub_region_code":"4680000000_Jeollanamdo_Jangheung"
+            "sub_region_code":"4680000000_Jeollanamdo_Jangheung",
+            "shorten_url":"https:\/\/me2.do\/xfx0peq7"
         },
         {
             "index":39,
@@ -526,7 +569,8 @@
             "value_score":33.4715,
             "region":"전라남도 장흥군",
             "region_code":"Jeollanamdo",
-            "sub_region_code":"4680000000_Jeollanamdo_Jangheung"
+            "sub_region_code":"4680000000_Jeollanamdo_Jangheung",
+            "shorten_url":"https:\/\/me2.do\/xfx0peq7"
         }
     ]
 }

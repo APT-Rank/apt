@@ -40,6 +40,10 @@
             {
                 "name":"sub_region_code",
                 "type":"string"
+            },
+            {
+                "name":"shorten_url",
+                "type":"string"
             }
         ],
         "primaryKey":[
@@ -58,7 +62,8 @@
             "value_score":65.2264,
             "region":"강원도 원주시",
             "region_code":"Gangwondo",
-            "sub_region_code":"4213000000_Gangwondo_Wonju"
+            "sub_region_code":"4213000000_Gangwondo_Wonju",
+            "shorten_url":"https:\/\/me2.do\/xOvn06PY"
         },
         {
             "index":1,
@@ -70,7 +75,8 @@
             "value_score":64.243,
             "region":"강원도 원주시",
             "region_code":"Gangwondo",
-            "sub_region_code":"4213000000_Gangwondo_Wonju"
+            "sub_region_code":"4213000000_Gangwondo_Wonju",
+            "shorten_url":"https:\/\/me2.do\/xOvn06PY"
         },
         {
             "index":2,
@@ -82,7 +88,8 @@
             "value_score":63.97785,
             "region":"강원도 원주시",
             "region_code":"Gangwondo",
-            "sub_region_code":"4213000000_Gangwondo_Wonju"
+            "sub_region_code":"4213000000_Gangwondo_Wonju",
+            "shorten_url":"https:\/\/me2.do\/xOvn06PY"
         },
         {
             "index":3,
@@ -94,7 +101,8 @@
             "value_score":63.943,
             "region":"강원도 원주시",
             "region_code":"Gangwondo",
-            "sub_region_code":"4213000000_Gangwondo_Wonju"
+            "sub_region_code":"4213000000_Gangwondo_Wonju",
+            "shorten_url":"https:\/\/me2.do\/xOvn06PY"
         },
         {
             "index":4,
@@ -106,7 +114,8 @@
             "value_score":63.57205,
             "region":"강원도 원주시",
             "region_code":"Gangwondo",
-            "sub_region_code":"4213000000_Gangwondo_Wonju"
+            "sub_region_code":"4213000000_Gangwondo_Wonju",
+            "shorten_url":"https:\/\/me2.do\/xOvn06PY"
         },
         {
             "index":5,
@@ -118,7 +127,8 @@
             "value_score":62.793,
             "region":"강원도 원주시",
             "region_code":"Gangwondo",
-            "sub_region_code":"4213000000_Gangwondo_Wonju"
+            "sub_region_code":"4213000000_Gangwondo_Wonju",
+            "shorten_url":"https:\/\/me2.do\/xOvn06PY"
         },
         {
             "index":6,
@@ -130,7 +140,8 @@
             "value_score":62.77785,
             "region":"강원도 원주시",
             "region_code":"Gangwondo",
-            "sub_region_code":"4213000000_Gangwondo_Wonju"
+            "sub_region_code":"4213000000_Gangwondo_Wonju",
+            "shorten_url":"https:\/\/me2.do\/xOvn06PY"
         },
         {
             "index":7,
@@ -142,7 +153,8 @@
             "value_score":62.7264,
             "region":"강원도 원주시",
             "region_code":"Gangwondo",
-            "sub_region_code":"4213000000_Gangwondo_Wonju"
+            "sub_region_code":"4213000000_Gangwondo_Wonju",
+            "shorten_url":"https:\/\/me2.do\/xOvn06PY"
         },
         {
             "index":8,
@@ -154,7 +166,8 @@
             "value_score":61.5764,
             "region":"강원도 원주시",
             "region_code":"Gangwondo",
-            "sub_region_code":"4213000000_Gangwondo_Wonju"
+            "sub_region_code":"4213000000_Gangwondo_Wonju",
+            "shorten_url":"https:\/\/me2.do\/xOvn06PY"
         },
         {
             "index":9,
@@ -166,7 +179,8 @@
             "value_score":61.3187,
             "region":"강원도 원주시",
             "region_code":"Gangwondo",
-            "sub_region_code":"4213000000_Gangwondo_Wonju"
+            "sub_region_code":"4213000000_Gangwondo_Wonju",
+            "shorten_url":"https:\/\/me2.do\/xOvn06PY"
         },
         {
             "index":10,
@@ -178,7 +192,8 @@
             "value_score":67.26575,
             "region":"강원도 원주시",
             "region_code":"Gangwondo",
-            "sub_region_code":"4213000000_Gangwondo_Wonju"
+            "sub_region_code":"4213000000_Gangwondo_Wonju",
+            "shorten_url":"https:\/\/me2.do\/xOvn06PY"
         },
         {
             "index":11,
@@ -190,7 +205,8 @@
             "value_score":66.376,
             "region":"강원도 원주시",
             "region_code":"Gangwondo",
-            "sub_region_code":"4213000000_Gangwondo_Wonju"
+            "sub_region_code":"4213000000_Gangwondo_Wonju",
+            "shorten_url":"https:\/\/me2.do\/xOvn06PY"
         },
         {
             "index":12,
@@ -202,7 +218,8 @@
             "value_score":65.876,
             "region":"강원도 원주시",
             "region_code":"Gangwondo",
-            "sub_region_code":"4213000000_Gangwondo_Wonju"
+            "sub_region_code":"4213000000_Gangwondo_Wonju",
+            "shorten_url":"https:\/\/me2.do\/xOvn06PY"
         },
         {
             "index":13,
@@ -214,7 +231,8 @@
             "value_score":65.41275,
             "region":"강원도 원주시",
             "region_code":"Gangwondo",
-            "sub_region_code":"4213000000_Gangwondo_Wonju"
+            "sub_region_code":"4213000000_Gangwondo_Wonju",
+            "shorten_url":"https:\/\/me2.do\/xOvn06PY"
         },
         {
             "index":14,
@@ -226,7 +244,8 @@
             "value_score":65.126,
             "region":"강원도 원주시",
             "region_code":"Gangwondo",
-            "sub_region_code":"4213000000_Gangwondo_Wonju"
+            "sub_region_code":"4213000000_Gangwondo_Wonju",
+            "shorten_url":"https:\/\/me2.do\/xOvn06PY"
         },
         {
             "index":15,
@@ -238,7 +257,8 @@
             "value_score":63.9705,
             "region":"강원도 원주시",
             "region_code":"Gangwondo",
-            "sub_region_code":"4213000000_Gangwondo_Wonju"
+            "sub_region_code":"4213000000_Gangwondo_Wonju",
+            "shorten_url":"https:\/\/me2.do\/xOvn06PY"
         },
         {
             "index":16,
@@ -250,7 +270,8 @@
             "value_score":63.41275,
             "region":"강원도 원주시",
             "region_code":"Gangwondo",
-            "sub_region_code":"4213000000_Gangwondo_Wonju"
+            "sub_region_code":"4213000000_Gangwondo_Wonju",
+            "shorten_url":"https:\/\/me2.do\/xOvn06PY"
         },
         {
             "index":17,
@@ -262,7 +283,8 @@
             "value_score":62.745,
             "region":"강원도 원주시",
             "region_code":"Gangwondo",
-            "sub_region_code":"4213000000_Gangwondo_Wonju"
+            "sub_region_code":"4213000000_Gangwondo_Wonju",
+            "shorten_url":"https:\/\/me2.do\/xOvn06PY"
         },
         {
             "index":18,
@@ -274,7 +296,8 @@
             "value_score":62.745,
             "region":"강원도 원주시",
             "region_code":"Gangwondo",
-            "sub_region_code":"4213000000_Gangwondo_Wonju"
+            "sub_region_code":"4213000000_Gangwondo_Wonju",
+            "shorten_url":"https:\/\/me2.do\/xOvn06PY"
         },
         {
             "index":19,
@@ -286,7 +309,8 @@
             "value_score":62.495,
             "region":"강원도 원주시",
             "region_code":"Gangwondo",
-            "sub_region_code":"4213000000_Gangwondo_Wonju"
+            "sub_region_code":"4213000000_Gangwondo_Wonju",
+            "shorten_url":"https:\/\/me2.do\/xOvn06PY"
         },
         {
             "index":20,
@@ -298,7 +322,8 @@
             "value_score":65.9410526316,
             "region":"강원도 원주시",
             "region_code":"Gangwondo",
-            "sub_region_code":"4213000000_Gangwondo_Wonju"
+            "sub_region_code":"4213000000_Gangwondo_Wonju",
+            "shorten_url":"https:\/\/me2.do\/xOvn06PY"
         },
         {
             "index":21,
@@ -310,7 +335,8 @@
             "value_score":64.9673684211,
             "region":"강원도 원주시",
             "region_code":"Gangwondo",
-            "sub_region_code":"4213000000_Gangwondo_Wonju"
+            "sub_region_code":"4213000000_Gangwondo_Wonju",
+            "shorten_url":"https:\/\/me2.do\/xOvn06PY"
         },
         {
             "index":22,
@@ -322,7 +348,8 @@
             "value_score":64.896,
             "region":"강원도 원주시",
             "region_code":"Gangwondo",
-            "sub_region_code":"4213000000_Gangwondo_Wonju"
+            "sub_region_code":"4213000000_Gangwondo_Wonju",
+            "shorten_url":"https:\/\/me2.do\/xOvn06PY"
         },
         {
             "index":23,
@@ -334,7 +361,8 @@
             "value_score":64.6529473684,
             "region":"강원도 원주시",
             "region_code":"Gangwondo",
-            "sub_region_code":"4213000000_Gangwondo_Wonju"
+            "sub_region_code":"4213000000_Gangwondo_Wonju",
+            "shorten_url":"https:\/\/me2.do\/xOvn06PY"
         },
         {
             "index":24,
@@ -346,7 +374,8 @@
             "value_score":63.4416842105,
             "region":"강원도 원주시",
             "region_code":"Gangwondo",
-            "sub_region_code":"4213000000_Gangwondo_Wonju"
+            "sub_region_code":"4213000000_Gangwondo_Wonju",
+            "shorten_url":"https:\/\/me2.do\/xOvn06PY"
         },
         {
             "index":25,
@@ -358,7 +387,8 @@
             "value_score":62.4153684211,
             "region":"강원도 원주시",
             "region_code":"Gangwondo",
-            "sub_region_code":"4213000000_Gangwondo_Wonju"
+            "sub_region_code":"4213000000_Gangwondo_Wonju",
+            "shorten_url":"https:\/\/me2.do\/xOvn06PY"
         },
         {
             "index":26,
@@ -370,7 +400,8 @@
             "value_score":61.9749473684,
             "region":"강원도 원주시",
             "region_code":"Gangwondo",
-            "sub_region_code":"4213000000_Gangwondo_Wonju"
+            "sub_region_code":"4213000000_Gangwondo_Wonju",
+            "shorten_url":"https:\/\/me2.do\/xOvn06PY"
         },
         {
             "index":27,
@@ -382,7 +413,8 @@
             "value_score":61.7055789474,
             "region":"강원도 원주시",
             "region_code":"Gangwondo",
-            "sub_region_code":"4213000000_Gangwondo_Wonju"
+            "sub_region_code":"4213000000_Gangwondo_Wonju",
+            "shorten_url":"https:\/\/me2.do\/xOvn06PY"
         },
         {
             "index":28,
@@ -394,7 +426,8 @@
             "value_score":61.4486315789,
             "region":"강원도 원주시",
             "region_code":"Gangwondo",
-            "sub_region_code":"4213000000_Gangwondo_Wonju"
+            "sub_region_code":"4213000000_Gangwondo_Wonju",
+            "shorten_url":"https:\/\/me2.do\/xOvn06PY"
         },
         {
             "index":29,
@@ -406,7 +439,8 @@
             "value_score":61.0223157895,
             "region":"강원도 원주시",
             "region_code":"Gangwondo",
-            "sub_region_code":"4213000000_Gangwondo_Wonju"
+            "sub_region_code":"4213000000_Gangwondo_Wonju",
+            "shorten_url":"https:\/\/me2.do\/xOvn06PY"
         },
         {
             "index":30,
@@ -418,7 +452,8 @@
             "value_score":66.49,
             "region":"강원도 원주시",
             "region_code":"Gangwondo",
-            "sub_region_code":"4213000000_Gangwondo_Wonju"
+            "sub_region_code":"4213000000_Gangwondo_Wonju",
+            "shorten_url":"https:\/\/me2.do\/xOvn06PY"
         },
         {
             "index":31,
@@ -430,7 +465,8 @@
             "value_score":66.115,
             "region":"강원도 원주시",
             "region_code":"Gangwondo",
-            "sub_region_code":"4213000000_Gangwondo_Wonju"
+            "sub_region_code":"4213000000_Gangwondo_Wonju",
+            "shorten_url":"https:\/\/me2.do\/xOvn06PY"
         },
         {
             "index":32,
@@ -442,7 +478,8 @@
             "value_score":64.252,
             "region":"강원도 원주시",
             "region_code":"Gangwondo",
-            "sub_region_code":"4213000000_Gangwondo_Wonju"
+            "sub_region_code":"4213000000_Gangwondo_Wonju",
+            "shorten_url":"https:\/\/me2.do\/xOvn06PY"
         },
         {
             "index":33,
@@ -454,7 +491,8 @@
             "value_score":62.865,
             "region":"강원도 원주시",
             "region_code":"Gangwondo",
-            "sub_region_code":"4213000000_Gangwondo_Wonju"
+            "sub_region_code":"4213000000_Gangwondo_Wonju",
+            "shorten_url":"https:\/\/me2.do\/xOvn06PY"
         },
         {
             "index":34,
@@ -466,7 +504,8 @@
             "value_score":61.8255,
             "region":"강원도 원주시",
             "region_code":"Gangwondo",
-            "sub_region_code":"4213000000_Gangwondo_Wonju"
+            "sub_region_code":"4213000000_Gangwondo_Wonju",
+            "shorten_url":"https:\/\/me2.do\/xOvn06PY"
         },
         {
             "index":35,
@@ -478,7 +517,8 @@
             "value_score":61.8255,
             "region":"강원도 원주시",
             "region_code":"Gangwondo",
-            "sub_region_code":"4213000000_Gangwondo_Wonju"
+            "sub_region_code":"4213000000_Gangwondo_Wonju",
+            "shorten_url":"https:\/\/me2.do\/xOvn06PY"
         },
         {
             "index":36,
@@ -490,7 +530,8 @@
             "value_score":61.377,
             "region":"강원도 원주시",
             "region_code":"Gangwondo",
-            "sub_region_code":"4213000000_Gangwondo_Wonju"
+            "sub_region_code":"4213000000_Gangwondo_Wonju",
+            "shorten_url":"https:\/\/me2.do\/xOvn06PY"
         },
         {
             "index":37,
@@ -502,7 +543,8 @@
             "value_score":59.188,
             "region":"강원도 원주시",
             "region_code":"Gangwondo",
-            "sub_region_code":"4213000000_Gangwondo_Wonju"
+            "sub_region_code":"4213000000_Gangwondo_Wonju",
+            "shorten_url":"https:\/\/me2.do\/xOvn06PY"
         },
         {
             "index":38,
@@ -514,7 +556,8 @@
             "value_score":58.577,
             "region":"강원도 원주시",
             "region_code":"Gangwondo",
-            "sub_region_code":"4213000000_Gangwondo_Wonju"
+            "sub_region_code":"4213000000_Gangwondo_Wonju",
+            "shorten_url":"https:\/\/me2.do\/xOvn06PY"
         },
         {
             "index":39,
@@ -526,7 +569,8 @@
             "value_score":58.0315,
             "region":"강원도 원주시",
             "region_code":"Gangwondo",
-            "sub_region_code":"4213000000_Gangwondo_Wonju"
+            "sub_region_code":"4213000000_Gangwondo_Wonju",
+            "shorten_url":"https:\/\/me2.do\/xOvn06PY"
         }
     ]
 }

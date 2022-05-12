@@ -40,6 +40,10 @@
             {
                 "name":"sub_region_code",
                 "type":"string"
+            },
+            {
+                "name":"shorten_url",
+                "type":"string"
             }
         ],
         "primaryKey":[
@@ -58,7 +62,8 @@
             "value_score":35.4348,
             "region":"강원도 화천군",
             "region_code":"Gangwondo",
-            "sub_region_code":"4279000000_Gangwondo_Hwacheon"
+            "sub_region_code":"4279000000_Gangwondo_Hwacheon",
+            "shorten_url":"https:\/\/me2.do\/51Q8k6Ts"
         },
         {
             "index":1,
@@ -70,7 +75,8 @@
             "value_score":34.2848,
             "region":"강원도 화천군",
             "region_code":"Gangwondo",
-            "sub_region_code":"4279000000_Gangwondo_Hwacheon"
+            "sub_region_code":"4279000000_Gangwondo_Hwacheon",
+            "shorten_url":"https:\/\/me2.do\/51Q8k6Ts"
         },
         {
             "index":2,
@@ -82,7 +88,8 @@
             "value_score":29.0848,
             "region":"강원도 화천군",
             "region_code":"Gangwondo",
-            "sub_region_code":"4279000000_Gangwondo_Hwacheon"
+            "sub_region_code":"4279000000_Gangwondo_Hwacheon",
+            "shorten_url":"https:\/\/me2.do\/51Q8k6Ts"
         },
         {
             "index":3,
@@ -94,7 +101,8 @@
             "value_score":28.0848,
             "region":"강원도 화천군",
             "region_code":"Gangwondo",
-            "sub_region_code":"4279000000_Gangwondo_Hwacheon"
+            "sub_region_code":"4279000000_Gangwondo_Hwacheon",
+            "shorten_url":"https:\/\/me2.do\/51Q8k6Ts"
         },
         {
             "index":4,
@@ -106,7 +114,8 @@
             "value_score":34.632,
             "region":"강원도 화천군",
             "region_code":"Gangwondo",
-            "sub_region_code":"4279000000_Gangwondo_Hwacheon"
+            "sub_region_code":"4279000000_Gangwondo_Hwacheon",
+            "shorten_url":"https:\/\/me2.do\/51Q8k6Ts"
         },
         {
             "index":5,
@@ -118,7 +127,8 @@
             "value_score":33.982,
             "region":"강원도 화천군",
             "region_code":"Gangwondo",
-            "sub_region_code":"4279000000_Gangwondo_Hwacheon"
+            "sub_region_code":"4279000000_Gangwondo_Hwacheon",
+            "shorten_url":"https:\/\/me2.do\/51Q8k6Ts"
         },
         {
             "index":6,
@@ -130,7 +140,8 @@
             "value_score":27.482,
             "region":"강원도 화천군",
             "region_code":"Gangwondo",
-            "sub_region_code":"4279000000_Gangwondo_Hwacheon"
+            "sub_region_code":"4279000000_Gangwondo_Hwacheon",
+            "shorten_url":"https:\/\/me2.do\/51Q8k6Ts"
         },
         {
             "index":7,
@@ -142,7 +153,8 @@
             "value_score":25.632,
             "region":"강원도 화천군",
             "region_code":"Gangwondo",
-            "sub_region_code":"4279000000_Gangwondo_Hwacheon"
+            "sub_region_code":"4279000000_Gangwondo_Hwacheon",
+            "shorten_url":"https:\/\/me2.do\/51Q8k6Ts"
         },
         {
             "index":8,
@@ -154,7 +166,8 @@
             "value_score":28.6667368421,
             "region":"강원도 화천군",
             "region_code":"Gangwondo",
-            "sub_region_code":"4279000000_Gangwondo_Hwacheon"
+            "sub_region_code":"4279000000_Gangwondo_Hwacheon",
+            "shorten_url":"https:\/\/me2.do\/51Q8k6Ts"
         },
         {
             "index":9,
@@ -166,7 +179,8 @@
             "value_score":24.4825263158,
             "region":"강원도 화천군",
             "region_code":"Gangwondo",
-            "sub_region_code":"4279000000_Gangwondo_Hwacheon"
+            "sub_region_code":"4279000000_Gangwondo_Hwacheon",
+            "shorten_url":"https:\/\/me2.do\/51Q8k6Ts"
         },
         {
             "index":10,
@@ -178,7 +192,8 @@
             "value_score":22.8246315789,
             "region":"강원도 화천군",
             "region_code":"Gangwondo",
-            "sub_region_code":"4279000000_Gangwondo_Hwacheon"
+            "sub_region_code":"4279000000_Gangwondo_Hwacheon",
+            "shorten_url":"https:\/\/me2.do\/51Q8k6Ts"
         },
         {
             "index":11,
@@ -190,7 +205,8 @@
             "value_score":20.772,
             "region":"강원도 화천군",
             "region_code":"Gangwondo",
-            "sub_region_code":"4279000000_Gangwondo_Hwacheon"
+            "sub_region_code":"4279000000_Gangwondo_Hwacheon",
+            "shorten_url":"https:\/\/me2.do\/51Q8k6Ts"
         },
         {
             "index":12,
@@ -202,7 +218,8 @@
             "value_score":36.639,
             "region":"강원도 화천군",
             "region_code":"Gangwondo",
-            "sub_region_code":"4279000000_Gangwondo_Hwacheon"
+            "sub_region_code":"4279000000_Gangwondo_Hwacheon",
+            "shorten_url":"https:\/\/me2.do\/51Q8k6Ts"
         },
         {
             "index":13,
@@ -214,7 +231,8 @@
             "value_score":34.739,
             "region":"강원도 화천군",
             "region_code":"Gangwondo",
-            "sub_region_code":"4279000000_Gangwondo_Hwacheon"
+            "sub_region_code":"4279000000_Gangwondo_Hwacheon",
+            "shorten_url":"https:\/\/me2.do\/51Q8k6Ts"
         },
         {
             "index":14,
@@ -226,7 +244,8 @@
             "value_score":31.764,
             "region":"강원도 화천군",
             "region_code":"Gangwondo",
-            "sub_region_code":"4279000000_Gangwondo_Hwacheon"
+            "sub_region_code":"4279000000_Gangwondo_Hwacheon",
+            "shorten_url":"https:\/\/me2.do\/51Q8k6Ts"
         },
         {
             "index":15,
@@ -238,7 +257,8 @@
             "value_score":31.489,
             "region":"강원도 화천군",
             "region_code":"Gangwondo",
-            "sub_region_code":"4279000000_Gangwondo_Hwacheon"
+            "sub_region_code":"4279000000_Gangwondo_Hwacheon",
+            "shorten_url":"https:\/\/me2.do\/51Q8k6Ts"
         }
     ]
 }

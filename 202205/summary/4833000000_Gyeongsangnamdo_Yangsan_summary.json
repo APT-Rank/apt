@@ -40,6 +40,10 @@
             {
                 "name":"sub_region_code",
                 "type":"string"
+            },
+            {
+                "name":"shorten_url",
+                "type":"string"
             }
         ],
         "primaryKey":[
@@ -58,7 +62,8 @@
             "value_score":64.99175,
             "region":"경상남도 양산시",
             "region_code":"Gyeongsangnamdo",
-            "sub_region_code":"4833000000_Gyeongsangnamdo_Yangsan"
+            "sub_region_code":"4833000000_Gyeongsangnamdo_Yangsan",
+            "shorten_url":"https:\/\/me2.do\/FABlU773"
         },
         {
             "index":1,
@@ -70,7 +75,8 @@
             "value_score":63.64175,
             "region":"경상남도 양산시",
             "region_code":"Gyeongsangnamdo",
-            "sub_region_code":"4833000000_Gyeongsangnamdo_Yangsan"
+            "sub_region_code":"4833000000_Gyeongsangnamdo_Yangsan",
+            "shorten_url":"https:\/\/me2.do\/FABlU773"
         },
         {
             "index":2,
@@ -82,7 +88,8 @@
             "value_score":63.04175,
             "region":"경상남도 양산시",
             "region_code":"Gyeongsangnamdo",
-            "sub_region_code":"4833000000_Gyeongsangnamdo_Yangsan"
+            "sub_region_code":"4833000000_Gyeongsangnamdo_Yangsan",
+            "shorten_url":"https:\/\/me2.do\/FABlU773"
         },
         {
             "index":3,
@@ -94,7 +101,8 @@
             "value_score":62.6092,
             "region":"경상남도 양산시",
             "region_code":"Gyeongsangnamdo",
-            "sub_region_code":"4833000000_Gyeongsangnamdo_Yangsan"
+            "sub_region_code":"4833000000_Gyeongsangnamdo_Yangsan",
+            "shorten_url":"https:\/\/me2.do\/FABlU773"
         },
         {
             "index":4,
@@ -106,7 +114,8 @@
             "value_score":62.54175,
             "region":"경상남도 양산시",
             "region_code":"Gyeongsangnamdo",
-            "sub_region_code":"4833000000_Gyeongsangnamdo_Yangsan"
+            "sub_region_code":"4833000000_Gyeongsangnamdo_Yangsan",
+            "shorten_url":"https:\/\/me2.do\/FABlU773"
         },
         {
             "index":5,
@@ -118,7 +127,8 @@
             "value_score":62.09175,
             "region":"경상남도 양산시",
             "region_code":"Gyeongsangnamdo",
-            "sub_region_code":"4833000000_Gyeongsangnamdo_Yangsan"
+            "sub_region_code":"4833000000_Gyeongsangnamdo_Yangsan",
+            "shorten_url":"https:\/\/me2.do\/FABlU773"
         },
         {
             "index":6,
@@ -130,7 +140,8 @@
             "value_score":61.8774,
             "region":"경상남도 양산시",
             "region_code":"Gyeongsangnamdo",
-            "sub_region_code":"4833000000_Gyeongsangnamdo_Yangsan"
+            "sub_region_code":"4833000000_Gyeongsangnamdo_Yangsan",
+            "shorten_url":"https:\/\/me2.do\/FABlU773"
         },
         {
             "index":7,
@@ -142,7 +153,8 @@
             "value_score":61.6774,
             "region":"경상남도 양산시",
             "region_code":"Gyeongsangnamdo",
-            "sub_region_code":"4833000000_Gyeongsangnamdo_Yangsan"
+            "sub_region_code":"4833000000_Gyeongsangnamdo_Yangsan",
+            "shorten_url":"https:\/\/me2.do\/FABlU773"
         },
         {
             "index":8,
@@ -154,7 +166,8 @@
             "value_score":61.1592,
             "region":"경상남도 양산시",
             "region_code":"Gyeongsangnamdo",
-            "sub_region_code":"4833000000_Gyeongsangnamdo_Yangsan"
+            "sub_region_code":"4833000000_Gyeongsangnamdo_Yangsan",
+            "shorten_url":"https:\/\/me2.do\/FABlU773"
         },
         {
             "index":9,
@@ -166,7 +179,8 @@
             "value_score":60.8092,
             "region":"경상남도 양산시",
             "region_code":"Gyeongsangnamdo",
-            "sub_region_code":"4833000000_Gyeongsangnamdo_Yangsan"
+            "sub_region_code":"4833000000_Gyeongsangnamdo_Yangsan",
+            "shorten_url":"https:\/\/me2.do\/FABlU773"
         },
         {
             "index":10,
@@ -178,7 +192,8 @@
             "value_score":67.45125,
             "region":"경상남도 양산시",
             "region_code":"Gyeongsangnamdo",
-            "sub_region_code":"4833000000_Gyeongsangnamdo_Yangsan"
+            "sub_region_code":"4833000000_Gyeongsangnamdo_Yangsan",
+            "shorten_url":"https:\/\/me2.do\/FABlU773"
         },
         {
             "index":11,
@@ -190,7 +205,8 @@
             "value_score":65.70125,
             "region":"경상남도 양산시",
             "region_code":"Gyeongsangnamdo",
-            "sub_region_code":"4833000000_Gyeongsangnamdo_Yangsan"
+            "sub_region_code":"4833000000_Gyeongsangnamdo_Yangsan",
+            "shorten_url":"https:\/\/me2.do\/FABlU773"
         },
         {
             "index":12,
@@ -202,7 +218,8 @@
             "value_score":65.10125,
             "region":"경상남도 양산시",
             "region_code":"Gyeongsangnamdo",
-            "sub_region_code":"4833000000_Gyeongsangnamdo_Yangsan"
+            "sub_region_code":"4833000000_Gyeongsangnamdo_Yangsan",
+            "shorten_url":"https:\/\/me2.do\/FABlU773"
         },
         {
             "index":13,
@@ -214,7 +231,8 @@
             "value_score":65.10125,
             "region":"경상남도 양산시",
             "region_code":"Gyeongsangnamdo",
-            "sub_region_code":"4833000000_Gyeongsangnamdo_Yangsan"
+            "sub_region_code":"4833000000_Gyeongsangnamdo_Yangsan",
+            "shorten_url":"https:\/\/me2.do\/FABlU773"
         },
         {
             "index":14,
@@ -226,7 +244,8 @@
             "value_score":64.828,
             "region":"경상남도 양산시",
             "region_code":"Gyeongsangnamdo",
-            "sub_region_code":"4833000000_Gyeongsangnamdo_Yangsan"
+            "sub_region_code":"4833000000_Gyeongsangnamdo_Yangsan",
+            "shorten_url":"https:\/\/me2.do\/FABlU773"
         },
         {
             "index":15,
@@ -238,7 +257,8 @@
             "value_score":64.60125,
             "region":"경상남도 양산시",
             "region_code":"Gyeongsangnamdo",
-            "sub_region_code":"4833000000_Gyeongsangnamdo_Yangsan"
+            "sub_region_code":"4833000000_Gyeongsangnamdo_Yangsan",
+            "shorten_url":"https:\/\/me2.do\/FABlU773"
         },
         {
             "index":16,
@@ -250,7 +270,8 @@
             "value_score":63.841,
             "region":"경상남도 양산시",
             "region_code":"Gyeongsangnamdo",
-            "sub_region_code":"4833000000_Gyeongsangnamdo_Yangsan"
+            "sub_region_code":"4833000000_Gyeongsangnamdo_Yangsan",
+            "shorten_url":"https:\/\/me2.do\/FABlU773"
         },
         {
             "index":17,
@@ -262,7 +283,8 @@
             "value_score":63.091,
             "region":"경상남도 양산시",
             "region_code":"Gyeongsangnamdo",
-            "sub_region_code":"4833000000_Gyeongsangnamdo_Yangsan"
+            "sub_region_code":"4833000000_Gyeongsangnamdo_Yangsan",
+            "shorten_url":"https:\/\/me2.do\/FABlU773"
         },
         {
             "index":18,
@@ -274,7 +296,8 @@
             "value_score":62.85125,
             "region":"경상남도 양산시",
             "region_code":"Gyeongsangnamdo",
-            "sub_region_code":"4833000000_Gyeongsangnamdo_Yangsan"
+            "sub_region_code":"4833000000_Gyeongsangnamdo_Yangsan",
+            "shorten_url":"https:\/\/me2.do\/FABlU773"
         },
         {
             "index":19,
@@ -286,7 +309,8 @@
             "value_score":62.578,
             "region":"경상남도 양산시",
             "region_code":"Gyeongsangnamdo",
-            "sub_region_code":"4833000000_Gyeongsangnamdo_Yangsan"
+            "sub_region_code":"4833000000_Gyeongsangnamdo_Yangsan",
+            "shorten_url":"https:\/\/me2.do\/FABlU773"
         },
         {
             "index":20,
@@ -298,7 +322,8 @@
             "value_score":52.3647368421,
             "region":"경상남도 양산시",
             "region_code":"Gyeongsangnamdo",
-            "sub_region_code":"4833000000_Gyeongsangnamdo_Yangsan"
+            "sub_region_code":"4833000000_Gyeongsangnamdo_Yangsan",
+            "shorten_url":"https:\/\/me2.do\/FABlU773"
         },
         {
             "index":21,
@@ -310,7 +335,8 @@
             "value_score":52.3121052632,
             "region":"경상남도 양산시",
             "region_code":"Gyeongsangnamdo",
-            "sub_region_code":"4833000000_Gyeongsangnamdo_Yangsan"
+            "sub_region_code":"4833000000_Gyeongsangnamdo_Yangsan",
+            "shorten_url":"https:\/\/me2.do\/FABlU773"
         },
         {
             "index":22,
@@ -322,7 +348,8 @@
             "value_score":52.1278947368,
             "region":"경상남도 양산시",
             "region_code":"Gyeongsangnamdo",
-            "sub_region_code":"4833000000_Gyeongsangnamdo_Yangsan"
+            "sub_region_code":"4833000000_Gyeongsangnamdo_Yangsan",
+            "shorten_url":"https:\/\/me2.do\/FABlU773"
         },
         {
             "index":23,
@@ -334,7 +361,8 @@
             "value_score":52.0226315789,
             "region":"경상남도 양산시",
             "region_code":"Gyeongsangnamdo",
-            "sub_region_code":"4833000000_Gyeongsangnamdo_Yangsan"
+            "sub_region_code":"4833000000_Gyeongsangnamdo_Yangsan",
+            "shorten_url":"https:\/\/me2.do\/FABlU773"
         },
         {
             "index":24,
@@ -346,7 +374,8 @@
             "value_score":51.388,
             "region":"경상남도 양산시",
             "region_code":"Gyeongsangnamdo",
-            "sub_region_code":"4833000000_Gyeongsangnamdo_Yangsan"
+            "sub_region_code":"4833000000_Gyeongsangnamdo_Yangsan",
+            "shorten_url":"https:\/\/me2.do\/FABlU773"
         },
         {
             "index":25,
@@ -358,7 +387,8 @@
             "value_score":51.0722105263,
             "region":"경상남도 양산시",
             "region_code":"Gyeongsangnamdo",
-            "sub_region_code":"4833000000_Gyeongsangnamdo_Yangsan"
+            "sub_region_code":"4833000000_Gyeongsangnamdo_Yangsan",
+            "shorten_url":"https:\/\/me2.do\/FABlU773"
         },
         {
             "index":26,
@@ -370,7 +400,8 @@
             "value_score":51.0285520456,
             "region":"경상남도 양산시",
             "region_code":"Gyeongsangnamdo",
-            "sub_region_code":"4833000000_Gyeongsangnamdo_Yangsan"
+            "sub_region_code":"4833000000_Gyeongsangnamdo_Yangsan",
+            "shorten_url":"https:\/\/me2.do\/FABlU773"
         },
         {
             "index":27,
@@ -382,7 +413,8 @@
             "value_score":50.7594736842,
             "region":"경상남도 양산시",
             "region_code":"Gyeongsangnamdo",
-            "sub_region_code":"4833000000_Gyeongsangnamdo_Yangsan"
+            "sub_region_code":"4833000000_Gyeongsangnamdo_Yangsan",
+            "shorten_url":"https:\/\/me2.do\/FABlU773"
         },
         {
             "index":28,
@@ -394,7 +426,8 @@
             "value_score":49.7597894737,
             "region":"경상남도 양산시",
             "region_code":"Gyeongsangnamdo",
-            "sub_region_code":"4833000000_Gyeongsangnamdo_Yangsan"
+            "sub_region_code":"4833000000_Gyeongsangnamdo_Yangsan",
+            "shorten_url":"https:\/\/me2.do\/FABlU773"
         },
         {
             "index":29,
@@ -406,7 +439,8 @@
             "value_score":49.7068421053,
             "region":"경상남도 양산시",
             "region_code":"Gyeongsangnamdo",
-            "sub_region_code":"4833000000_Gyeongsangnamdo_Yangsan"
+            "sub_region_code":"4833000000_Gyeongsangnamdo_Yangsan",
+            "shorten_url":"https:\/\/me2.do\/FABlU773"
         },
         {
             "index":30,
@@ -418,7 +452,8 @@
             "value_score":61.3025,
             "region":"경상남도 양산시",
             "region_code":"Gyeongsangnamdo",
-            "sub_region_code":"4833000000_Gyeongsangnamdo_Yangsan"
+            "sub_region_code":"4833000000_Gyeongsangnamdo_Yangsan",
+            "shorten_url":"https:\/\/me2.do\/FABlU773"
         },
         {
             "index":31,
@@ -430,7 +465,8 @@
             "value_score":60.5525,
             "region":"경상남도 양산시",
             "region_code":"Gyeongsangnamdo",
-            "sub_region_code":"4833000000_Gyeongsangnamdo_Yangsan"
+            "sub_region_code":"4833000000_Gyeongsangnamdo_Yangsan",
+            "shorten_url":"https:\/\/me2.do\/FABlU773"
         },
         {
             "index":32,
@@ -442,7 +478,8 @@
             "value_score":60.057,
             "region":"경상남도 양산시",
             "region_code":"Gyeongsangnamdo",
-            "sub_region_code":"4833000000_Gyeongsangnamdo_Yangsan"
+            "sub_region_code":"4833000000_Gyeongsangnamdo_Yangsan",
+            "shorten_url":"https:\/\/me2.do\/FABlU773"
         },
         {
             "index":33,
@@ -454,7 +491,8 @@
             "value_score":59.9525,
             "region":"경상남도 양산시",
             "region_code":"Gyeongsangnamdo",
-            "sub_region_code":"4833000000_Gyeongsangnamdo_Yangsan"
+            "sub_region_code":"4833000000_Gyeongsangnamdo_Yangsan",
+            "shorten_url":"https:\/\/me2.do\/FABlU773"
         },
         {
             "index":34,
@@ -466,7 +504,8 @@
             "value_score":59.4525,
             "region":"경상남도 양산시",
             "region_code":"Gyeongsangnamdo",
-            "sub_region_code":"4833000000_Gyeongsangnamdo_Yangsan"
+            "sub_region_code":"4833000000_Gyeongsangnamdo_Yangsan",
+            "shorten_url":"https:\/\/me2.do\/FABlU773"
         },
         {
             "index":35,
@@ -478,7 +517,8 @@
             "value_score":59.281,
             "region":"경상남도 양산시",
             "region_code":"Gyeongsangnamdo",
-            "sub_region_code":"4833000000_Gyeongsangnamdo_Yangsan"
+            "sub_region_code":"4833000000_Gyeongsangnamdo_Yangsan",
+            "shorten_url":"https:\/\/me2.do\/FABlU773"
         },
         {
             "index":36,
@@ -490,7 +530,8 @@
             "value_score":59.031,
             "region":"경상남도 양산시",
             "region_code":"Gyeongsangnamdo",
-            "sub_region_code":"4833000000_Gyeongsangnamdo_Yangsan"
+            "sub_region_code":"4833000000_Gyeongsangnamdo_Yangsan",
+            "shorten_url":"https:\/\/me2.do\/FABlU773"
         },
         {
             "index":37,
@@ -502,7 +543,8 @@
             "value_score":58.432,
             "region":"경상남도 양산시",
             "region_code":"Gyeongsangnamdo",
-            "sub_region_code":"4833000000_Gyeongsangnamdo_Yangsan"
+            "sub_region_code":"4833000000_Gyeongsangnamdo_Yangsan",
+            "shorten_url":"https:\/\/me2.do\/FABlU773"
         },
         {
             "index":38,
@@ -514,7 +556,8 @@
             "value_score":58.236,
             "region":"경상남도 양산시",
             "region_code":"Gyeongsangnamdo",
-            "sub_region_code":"4833000000_Gyeongsangnamdo_Yangsan"
+            "sub_region_code":"4833000000_Gyeongsangnamdo_Yangsan",
+            "shorten_url":"https:\/\/me2.do\/FABlU773"
         },
         {
             "index":39,
@@ -526,7 +569,8 @@
             "value_score":58.156,
             "region":"경상남도 양산시",
             "region_code":"Gyeongsangnamdo",
-            "sub_region_code":"4833000000_Gyeongsangnamdo_Yangsan"
+            "sub_region_code":"4833000000_Gyeongsangnamdo_Yangsan",
+            "shorten_url":"https:\/\/me2.do\/FABlU773"
         }
     ]
 }

@@ -40,6 +40,10 @@
             {
                 "name":"sub_region_code",
                 "type":"string"
+            },
+            {
+                "name":"shorten_url",
+                "type":"string"
             }
         ],
         "primaryKey":[
@@ -58,7 +62,8 @@
             "value_score":36.1748,
             "region":"충청북도 영동군",
             "region_code":"Chungcheongbukdo",
-            "sub_region_code":"4374000000_Chungcheongbukdo_Yeongdong"
+            "sub_region_code":"4374000000_Chungcheongbukdo_Yeongdong",
+            "shorten_url":"https:\/\/me2.do\/Ff0oX4ST"
         },
         {
             "index":1,
@@ -70,7 +75,8 @@
             "value_score":32.53525,
             "region":"충청북도 영동군",
             "region_code":"Chungcheongbukdo",
-            "sub_region_code":"4374000000_Chungcheongbukdo_Yeongdong"
+            "sub_region_code":"4374000000_Chungcheongbukdo_Yeongdong",
+            "shorten_url":"https:\/\/me2.do\/Ff0oX4ST"
         },
         {
             "index":2,
@@ -82,7 +88,8 @@
             "value_score":30.93525,
             "region":"충청북도 영동군",
             "region_code":"Chungcheongbukdo",
-            "sub_region_code":"4374000000_Chungcheongbukdo_Yeongdong"
+            "sub_region_code":"4374000000_Chungcheongbukdo_Yeongdong",
+            "shorten_url":"https:\/\/me2.do\/Ff0oX4ST"
         },
         {
             "index":3,
@@ -94,7 +101,8 @@
             "value_score":30.73525,
             "region":"충청북도 영동군",
             "region_code":"Chungcheongbukdo",
-            "sub_region_code":"4374000000_Chungcheongbukdo_Yeongdong"
+            "sub_region_code":"4374000000_Chungcheongbukdo_Yeongdong",
+            "shorten_url":"https:\/\/me2.do\/Ff0oX4ST"
         },
         {
             "index":4,
@@ -106,7 +114,8 @@
             "value_score":27.1748,
             "region":"충청북도 영동군",
             "region_code":"Chungcheongbukdo",
-            "sub_region_code":"4374000000_Chungcheongbukdo_Yeongdong"
+            "sub_region_code":"4374000000_Chungcheongbukdo_Yeongdong",
+            "shorten_url":"https:\/\/me2.do\/Ff0oX4ST"
         },
         {
             "index":5,
@@ -118,7 +127,8 @@
             "value_score":26.0248,
             "region":"충청북도 영동군",
             "region_code":"Chungcheongbukdo",
-            "sub_region_code":"4374000000_Chungcheongbukdo_Yeongdong"
+            "sub_region_code":"4374000000_Chungcheongbukdo_Yeongdong",
+            "shorten_url":"https:\/\/me2.do\/Ff0oX4ST"
         },
         {
             "index":6,
@@ -130,7 +140,8 @@
             "value_score":25.43525,
             "region":"충청북도 영동군",
             "region_code":"Chungcheongbukdo",
-            "sub_region_code":"4374000000_Chungcheongbukdo_Yeongdong"
+            "sub_region_code":"4374000000_Chungcheongbukdo_Yeongdong",
+            "shorten_url":"https:\/\/me2.do\/Ff0oX4ST"
         },
         {
             "index":7,
@@ -142,7 +153,8 @@
             "value_score":23.9748,
             "region":"충청북도 영동군",
             "region_code":"Chungcheongbukdo",
-            "sub_region_code":"4374000000_Chungcheongbukdo_Yeongdong"
+            "sub_region_code":"4374000000_Chungcheongbukdo_Yeongdong",
+            "shorten_url":"https:\/\/me2.do\/Ff0oX4ST"
         },
         {
             "index":8,
@@ -154,7 +166,8 @@
             "value_score":23.93525,
             "region":"충청북도 영동군",
             "region_code":"Chungcheongbukdo",
-            "sub_region_code":"4374000000_Chungcheongbukdo_Yeongdong"
+            "sub_region_code":"4374000000_Chungcheongbukdo_Yeongdong",
+            "shorten_url":"https:\/\/me2.do\/Ff0oX4ST"
         },
         {
             "index":9,
@@ -166,7 +179,8 @@
             "value_score":23.93525,
             "region":"충청북도 영동군",
             "region_code":"Chungcheongbukdo",
-            "sub_region_code":"4374000000_Chungcheongbukdo_Yeongdong"
+            "sub_region_code":"4374000000_Chungcheongbukdo_Yeongdong",
+            "shorten_url":"https:\/\/me2.do\/Ff0oX4ST"
         },
         {
             "index":10,
@@ -178,7 +192,8 @@
             "value_score":36.232,
             "region":"충청북도 영동군",
             "region_code":"Chungcheongbukdo",
-            "sub_region_code":"4374000000_Chungcheongbukdo_Yeongdong"
+            "sub_region_code":"4374000000_Chungcheongbukdo_Yeongdong",
+            "shorten_url":"https:\/\/me2.do\/Ff0oX4ST"
         },
         {
             "index":11,
@@ -190,7 +205,8 @@
             "value_score":31.70375,
             "region":"충청북도 영동군",
             "region_code":"Chungcheongbukdo",
-            "sub_region_code":"4374000000_Chungcheongbukdo_Yeongdong"
+            "sub_region_code":"4374000000_Chungcheongbukdo_Yeongdong",
+            "shorten_url":"https:\/\/me2.do\/Ff0oX4ST"
         },
         {
             "index":12,
@@ -202,7 +218,8 @@
             "value_score":29.70375,
             "region":"충청북도 영동군",
             "region_code":"Chungcheongbukdo",
-            "sub_region_code":"4374000000_Chungcheongbukdo_Yeongdong"
+            "sub_region_code":"4374000000_Chungcheongbukdo_Yeongdong",
+            "shorten_url":"https:\/\/me2.do\/Ff0oX4ST"
         },
         {
             "index":13,
@@ -214,7 +231,8 @@
             "value_score":29.45375,
             "region":"충청북도 영동군",
             "region_code":"Chungcheongbukdo",
-            "sub_region_code":"4374000000_Chungcheongbukdo_Yeongdong"
+            "sub_region_code":"4374000000_Chungcheongbukdo_Yeongdong",
+            "shorten_url":"https:\/\/me2.do\/Ff0oX4ST"
         },
         {
             "index":14,
@@ -226,7 +244,8 @@
             "value_score":24.982,
             "region":"충청북도 영동군",
             "region_code":"Chungcheongbukdo",
-            "sub_region_code":"4374000000_Chungcheongbukdo_Yeongdong"
+            "sub_region_code":"4374000000_Chungcheongbukdo_Yeongdong",
+            "shorten_url":"https:\/\/me2.do\/Ff0oX4ST"
         },
         {
             "index":15,
@@ -238,7 +257,8 @@
             "value_score":24.482,
             "region":"충청북도 영동군",
             "region_code":"Chungcheongbukdo",
-            "sub_region_code":"4374000000_Chungcheongbukdo_Yeongdong"
+            "sub_region_code":"4374000000_Chungcheongbukdo_Yeongdong",
+            "shorten_url":"https:\/\/me2.do\/Ff0oX4ST"
         },
         {
             "index":16,
@@ -250,7 +270,8 @@
             "value_score":22.45375,
             "region":"충청북도 영동군",
             "region_code":"Chungcheongbukdo",
-            "sub_region_code":"4374000000_Chungcheongbukdo_Yeongdong"
+            "sub_region_code":"4374000000_Chungcheongbukdo_Yeongdong",
+            "shorten_url":"https:\/\/me2.do\/Ff0oX4ST"
         },
         {
             "index":17,
@@ -262,7 +283,8 @@
             "value_score":21.732,
             "region":"충청북도 영동군",
             "region_code":"Chungcheongbukdo",
-            "sub_region_code":"4374000000_Chungcheongbukdo_Yeongdong"
+            "sub_region_code":"4374000000_Chungcheongbukdo_Yeongdong",
+            "shorten_url":"https:\/\/me2.do\/Ff0oX4ST"
         },
         {
             "index":18,
@@ -274,7 +296,8 @@
             "value_score":20.982,
             "region":"충청북도 영동군",
             "region_code":"Chungcheongbukdo",
-            "sub_region_code":"4374000000_Chungcheongbukdo_Yeongdong"
+            "sub_region_code":"4374000000_Chungcheongbukdo_Yeongdong",
+            "shorten_url":"https:\/\/me2.do\/Ff0oX4ST"
         },
         {
             "index":19,
@@ -286,7 +309,8 @@
             "value_score":20.95375,
             "region":"충청북도 영동군",
             "region_code":"Chungcheongbukdo",
-            "sub_region_code":"4374000000_Chungcheongbukdo_Yeongdong"
+            "sub_region_code":"4374000000_Chungcheongbukdo_Yeongdong",
+            "shorten_url":"https:\/\/me2.do\/Ff0oX4ST"
         },
         {
             "index":20,
@@ -298,7 +322,8 @@
             "value_score":28.3193684211,
             "region":"충청북도 영동군",
             "region_code":"Chungcheongbukdo",
-            "sub_region_code":"4374000000_Chungcheongbukdo_Yeongdong"
+            "sub_region_code":"4374000000_Chungcheongbukdo_Yeongdong",
+            "shorten_url":"https:\/\/me2.do\/Ff0oX4ST"
         },
         {
             "index":21,
@@ -310,7 +335,8 @@
             "value_score":24.7667368421,
             "region":"충청북도 영동군",
             "region_code":"Chungcheongbukdo",
-            "sub_region_code":"4374000000_Chungcheongbukdo_Yeongdong"
+            "sub_region_code":"4374000000_Chungcheongbukdo_Yeongdong",
+            "shorten_url":"https:\/\/me2.do\/Ff0oX4ST"
         },
         {
             "index":22,
@@ -322,7 +348,8 @@
             "value_score":23.5035789474,
             "region":"충청북도 영동군",
             "region_code":"Chungcheongbukdo",
-            "sub_region_code":"4374000000_Chungcheongbukdo_Yeongdong"
+            "sub_region_code":"4374000000_Chungcheongbukdo_Yeongdong",
+            "shorten_url":"https:\/\/me2.do\/Ff0oX4ST"
         },
         {
             "index":23,
@@ -334,7 +361,8 @@
             "value_score":22.5562105263,
             "region":"충청북도 영동군",
             "region_code":"Chungcheongbukdo",
-            "sub_region_code":"4374000000_Chungcheongbukdo_Yeongdong"
+            "sub_region_code":"4374000000_Chungcheongbukdo_Yeongdong",
+            "shorten_url":"https:\/\/me2.do\/Ff0oX4ST"
         },
         {
             "index":24,
@@ -346,7 +374,8 @@
             "value_score":21.3363157895,
             "region":"충청북도 영동군",
             "region_code":"Chungcheongbukdo",
-            "sub_region_code":"4374000000_Chungcheongbukdo_Yeongdong"
+            "sub_region_code":"4374000000_Chungcheongbukdo_Yeongdong",
+            "shorten_url":"https:\/\/me2.do\/Ff0oX4ST"
         },
         {
             "index":25,
@@ -358,7 +387,8 @@
             "value_score":21.0994736842,
             "region":"충청북도 영동군",
             "region_code":"Chungcheongbukdo",
-            "sub_region_code":"4374000000_Chungcheongbukdo_Yeongdong"
+            "sub_region_code":"4374000000_Chungcheongbukdo_Yeongdong",
+            "shorten_url":"https:\/\/me2.do\/Ff0oX4ST"
         },
         {
             "index":26,
@@ -370,7 +400,8 @@
             "value_score":20.7047368421,
             "region":"충청북도 영동군",
             "region_code":"Chungcheongbukdo",
-            "sub_region_code":"4374000000_Chungcheongbukdo_Yeongdong"
+            "sub_region_code":"4374000000_Chungcheongbukdo_Yeongdong",
+            "shorten_url":"https:\/\/me2.do\/Ff0oX4ST"
         },
         {
             "index":27,
@@ -382,7 +413,8 @@
             "value_score":20.6257894737,
             "region":"충청북도 영동군",
             "region_code":"Chungcheongbukdo",
-            "sub_region_code":"4374000000_Chungcheongbukdo_Yeongdong"
+            "sub_region_code":"4374000000_Chungcheongbukdo_Yeongdong",
+            "shorten_url":"https:\/\/me2.do\/Ff0oX4ST"
         },
         {
             "index":28,
@@ -394,7 +426,8 @@
             "value_score":17.9415789474,
             "region":"충청북도 영동군",
             "region_code":"Chungcheongbukdo",
-            "sub_region_code":"4374000000_Chungcheongbukdo_Yeongdong"
+            "sub_region_code":"4374000000_Chungcheongbukdo_Yeongdong",
+            "shorten_url":"https:\/\/me2.do\/Ff0oX4ST"
         },
         {
             "index":29,
@@ -406,7 +439,8 @@
             "value_score":17.9415789474,
             "region":"충청북도 영동군",
             "region_code":"Chungcheongbukdo",
-            "sub_region_code":"4374000000_Chungcheongbukdo_Yeongdong"
+            "sub_region_code":"4374000000_Chungcheongbukdo_Yeongdong",
+            "shorten_url":"https:\/\/me2.do\/Ff0oX4ST"
         },
         {
             "index":30,
@@ -418,7 +452,8 @@
             "value_score":36.089,
             "region":"충청북도 영동군",
             "region_code":"Chungcheongbukdo",
-            "sub_region_code":"4374000000_Chungcheongbukdo_Yeongdong"
+            "sub_region_code":"4374000000_Chungcheongbukdo_Yeongdong",
+            "shorten_url":"https:\/\/me2.do\/Ff0oX4ST"
         },
         {
             "index":31,
@@ -430,7 +465,8 @@
             "value_score":33.7825,
             "region":"충청북도 영동군",
             "region_code":"Chungcheongbukdo",
-            "sub_region_code":"4374000000_Chungcheongbukdo_Yeongdong"
+            "sub_region_code":"4374000000_Chungcheongbukdo_Yeongdong",
+            "shorten_url":"https:\/\/me2.do\/Ff0oX4ST"
         },
         {
             "index":32,
@@ -442,7 +478,8 @@
             "value_score":32.7825,
             "region":"충청북도 영동군",
             "region_code":"Chungcheongbukdo",
-            "sub_region_code":"4374000000_Chungcheongbukdo_Yeongdong"
+            "sub_region_code":"4374000000_Chungcheongbukdo_Yeongdong",
+            "shorten_url":"https:\/\/me2.do\/Ff0oX4ST"
         },
         {
             "index":33,
@@ -454,7 +491,8 @@
             "value_score":32.6575,
             "region":"충청북도 영동군",
             "region_code":"Chungcheongbukdo",
-            "sub_region_code":"4374000000_Chungcheongbukdo_Yeongdong"
+            "sub_region_code":"4374000000_Chungcheongbukdo_Yeongdong",
+            "shorten_url":"https:\/\/me2.do\/Ff0oX4ST"
         },
         {
             "index":34,
@@ -466,7 +504,8 @@
             "value_score":30.464,
             "region":"충청북도 영동군",
             "region_code":"Chungcheongbukdo",
-            "sub_region_code":"4374000000_Chungcheongbukdo_Yeongdong"
+            "sub_region_code":"4374000000_Chungcheongbukdo_Yeongdong",
+            "shorten_url":"https:\/\/me2.do\/Ff0oX4ST"
         },
         {
             "index":35,
@@ -478,7 +517,8 @@
             "value_score":29.9075,
             "region":"충청북도 영동군",
             "region_code":"Chungcheongbukdo",
-            "sub_region_code":"4374000000_Chungcheongbukdo_Yeongdong"
+            "sub_region_code":"4374000000_Chungcheongbukdo_Yeongdong",
+            "shorten_url":"https:\/\/me2.do\/Ff0oX4ST"
         },
         {
             "index":36,
@@ -490,7 +530,8 @@
             "value_score":28.464,
             "region":"충청북도 영동군",
             "region_code":"Chungcheongbukdo",
-            "sub_region_code":"4374000000_Chungcheongbukdo_Yeongdong"
+            "sub_region_code":"4374000000_Chungcheongbukdo_Yeongdong",
+            "shorten_url":"https:\/\/me2.do\/Ff0oX4ST"
         },
         {
             "index":37,
@@ -502,7 +543,8 @@
             "value_score":28.4075,
             "region":"충청북도 영동군",
             "region_code":"Chungcheongbukdo",
-            "sub_region_code":"4374000000_Chungcheongbukdo_Yeongdong"
+            "sub_region_code":"4374000000_Chungcheongbukdo_Yeongdong",
+            "shorten_url":"https:\/\/me2.do\/Ff0oX4ST"
         },
         {
             "index":38,
@@ -514,7 +556,8 @@
             "value_score":28.4075,
             "region":"충청북도 영동군",
             "region_code":"Chungcheongbukdo",
-            "sub_region_code":"4374000000_Chungcheongbukdo_Yeongdong"
+            "sub_region_code":"4374000000_Chungcheongbukdo_Yeongdong",
+            "shorten_url":"https:\/\/me2.do\/Ff0oX4ST"
         },
         {
             "index":39,
@@ -526,7 +569,8 @@
             "value_score":28.339,
             "region":"충청북도 영동군",
             "region_code":"Chungcheongbukdo",
-            "sub_region_code":"4374000000_Chungcheongbukdo_Yeongdong"
+            "sub_region_code":"4374000000_Chungcheongbukdo_Yeongdong",
+            "shorten_url":"https:\/\/me2.do\/Ff0oX4ST"
         }
     ]
 }

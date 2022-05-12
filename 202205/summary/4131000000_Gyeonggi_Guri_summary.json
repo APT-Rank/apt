@@ -40,6 +40,10 @@
             {
                 "name":"sub_region_code",
                 "type":"string"
+            },
+            {
+                "name":"shorten_url",
+                "type":"string"
             }
         ],
         "primaryKey":[
@@ -58,7 +62,8 @@
             "value_score":64.97115,
             "region":"경기도 구리시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4131000000_Gyeonggi_Guri"
+            "sub_region_code":"4131000000_Gyeonggi_Guri",
+            "shorten_url":"https:\/\/me2.do\/I5oqWO8w"
         },
         {
             "index":1,
@@ -70,7 +75,8 @@
             "value_score":61.3357,
             "region":"경기도 구리시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4131000000_Gyeonggi_Guri"
+            "sub_region_code":"4131000000_Gyeonggi_Guri",
+            "shorten_url":"https:\/\/me2.do\/I5oqWO8w"
         },
         {
             "index":2,
@@ -82,7 +88,8 @@
             "value_score":60.77115,
             "region":"경기도 구리시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4131000000_Gyeonggi_Guri"
+            "sub_region_code":"4131000000_Gyeonggi_Guri",
+            "shorten_url":"https:\/\/me2.do\/I5oqWO8w"
         },
         {
             "index":3,
@@ -94,7 +101,8 @@
             "value_score":60.5357,
             "region":"경기도 구리시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4131000000_Gyeonggi_Guri"
+            "sub_region_code":"4131000000_Gyeonggi_Guri",
+            "shorten_url":"https:\/\/me2.do\/I5oqWO8w"
         },
         {
             "index":4,
@@ -106,7 +114,8 @@
             "value_score":60.49395,
             "region":"경기도 구리시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4131000000_Gyeonggi_Guri"
+            "sub_region_code":"4131000000_Gyeonggi_Guri",
+            "shorten_url":"https:\/\/me2.do\/I5oqWO8w"
         },
         {
             "index":5,
@@ -118,7 +127,8 @@
             "value_score":60.47115,
             "region":"경기도 구리시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4131000000_Gyeonggi_Guri"
+            "sub_region_code":"4131000000_Gyeonggi_Guri",
+            "shorten_url":"https:\/\/me2.do\/I5oqWO8w"
         },
         {
             "index":6,
@@ -130,7 +140,8 @@
             "value_score":60.4357,
             "region":"경기도 구리시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4131000000_Gyeonggi_Guri"
+            "sub_region_code":"4131000000_Gyeonggi_Guri",
+            "shorten_url":"https:\/\/me2.do\/I5oqWO8w"
         },
         {
             "index":7,
@@ -142,7 +153,8 @@
             "value_score":60.3713,
             "region":"경기도 구리시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4131000000_Gyeonggi_Guri"
+            "sub_region_code":"4131000000_Gyeonggi_Guri",
+            "shorten_url":"https:\/\/me2.do\/I5oqWO8w"
         },
         {
             "index":8,
@@ -154,7 +166,8 @@
             "value_score":59.4713,
             "region":"경기도 구리시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4131000000_Gyeonggi_Guri"
+            "sub_region_code":"4131000000_Gyeonggi_Guri",
+            "shorten_url":"https:\/\/me2.do\/I5oqWO8w"
         },
         {
             "index":9,
@@ -166,7 +179,8 @@
             "value_score":58.9713,
             "region":"경기도 구리시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4131000000_Gyeonggi_Guri"
+            "sub_region_code":"4131000000_Gyeonggi_Guri",
+            "shorten_url":"https:\/\/me2.do\/I5oqWO8w"
         },
         {
             "index":10,
@@ -178,7 +192,8 @@
             "value_score":69.7086,
             "region":"경기도 구리시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4131000000_Gyeonggi_Guri"
+            "sub_region_code":"4131000000_Gyeonggi_Guri",
+            "shorten_url":"https:\/\/me2.do\/I5oqWO8w"
         },
         {
             "index":11,
@@ -190,7 +205,8 @@
             "value_score":68.5784,
             "region":"경기도 구리시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4131000000_Gyeonggi_Guri"
+            "sub_region_code":"4131000000_Gyeonggi_Guri",
+            "shorten_url":"https:\/\/me2.do\/I5oqWO8w"
         },
         {
             "index":12,
@@ -202,7 +218,8 @@
             "value_score":66.6966,
             "region":"경기도 구리시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4131000000_Gyeonggi_Guri"
+            "sub_region_code":"4131000000_Gyeonggi_Guri",
+            "shorten_url":"https:\/\/me2.do\/I5oqWO8w"
         },
         {
             "index":13,
@@ -214,7 +231,8 @@
             "value_score":64.1586,
             "region":"경기도 구리시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4131000000_Gyeonggi_Guri"
+            "sub_region_code":"4131000000_Gyeonggi_Guri",
+            "shorten_url":"https:\/\/me2.do\/I5oqWO8w"
         },
         {
             "index":14,
@@ -226,7 +244,8 @@
             "value_score":64.0086,
             "region":"경기도 구리시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4131000000_Gyeonggi_Guri"
+            "sub_region_code":"4131000000_Gyeonggi_Guri",
+            "shorten_url":"https:\/\/me2.do\/I5oqWO8w"
         },
         {
             "index":15,
@@ -238,7 +257,8 @@
             "value_score":63.2282,
             "region":"경기도 구리시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4131000000_Gyeonggi_Guri"
+            "sub_region_code":"4131000000_Gyeonggi_Guri",
+            "shorten_url":"https:\/\/me2.do\/I5oqWO8w"
         },
         {
             "index":16,
@@ -250,7 +270,8 @@
             "value_score":62.5586,
             "region":"경기도 구리시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4131000000_Gyeonggi_Guri"
+            "sub_region_code":"4131000000_Gyeonggi_Guri",
+            "shorten_url":"https:\/\/me2.do\/I5oqWO8w"
         },
         {
             "index":17,
@@ -262,7 +283,8 @@
             "value_score":62.0976,
             "region":"경기도 구리시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4131000000_Gyeonggi_Guri"
+            "sub_region_code":"4131000000_Gyeonggi_Guri",
+            "shorten_url":"https:\/\/me2.do\/I5oqWO8w"
         },
         {
             "index":18,
@@ -274,7 +296,8 @@
             "value_score":60.4976,
             "region":"경기도 구리시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4131000000_Gyeonggi_Guri"
+            "sub_region_code":"4131000000_Gyeonggi_Guri",
+            "shorten_url":"https:\/\/me2.do\/I5oqWO8w"
         },
         {
             "index":19,
@@ -286,7 +309,8 @@
             "value_score":59.9282,
             "region":"경기도 구리시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4131000000_Gyeonggi_Guri"
+            "sub_region_code":"4131000000_Gyeonggi_Guri",
+            "shorten_url":"https:\/\/me2.do\/I5oqWO8w"
         },
         {
             "index":20,
@@ -298,7 +322,8 @@
             "value_score":63.77115,
             "region":"경기도 구리시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4131000000_Gyeonggi_Guri"
+            "sub_region_code":"4131000000_Gyeonggi_Guri",
+            "shorten_url":"https:\/\/me2.do\/I5oqWO8w"
         },
         {
             "index":21,
@@ -310,7 +335,8 @@
             "value_score":60.04615,
             "region":"경기도 구리시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4131000000_Gyeonggi_Guri"
+            "sub_region_code":"4131000000_Gyeonggi_Guri",
+            "shorten_url":"https:\/\/me2.do\/I5oqWO8w"
         },
         {
             "index":22,
@@ -322,7 +348,8 @@
             "value_score":57.4107,
             "region":"경기도 구리시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4131000000_Gyeonggi_Guri"
+            "sub_region_code":"4131000000_Gyeonggi_Guri",
+            "shorten_url":"https:\/\/me2.do\/I5oqWO8w"
         },
         {
             "index":23,
@@ -334,7 +361,8 @@
             "value_score":57.3107,
             "region":"경기도 구리시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4131000000_Gyeonggi_Guri"
+            "sub_region_code":"4131000000_Gyeonggi_Guri",
+            "shorten_url":"https:\/\/me2.do\/I5oqWO8w"
         },
         {
             "index":24,
@@ -346,7 +374,8 @@
             "value_score":57.2857,
             "region":"경기도 구리시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4131000000_Gyeonggi_Guri"
+            "sub_region_code":"4131000000_Gyeonggi_Guri",
+            "shorten_url":"https:\/\/me2.do\/I5oqWO8w"
         },
         {
             "index":25,
@@ -358,7 +387,8 @@
             "value_score":57.19615,
             "region":"경기도 구리시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4131000000_Gyeonggi_Guri"
+            "sub_region_code":"4131000000_Gyeonggi_Guri",
+            "shorten_url":"https:\/\/me2.do\/I5oqWO8w"
         },
         {
             "index":26,
@@ -370,7 +400,8 @@
             "value_score":57.07115,
             "region":"경기도 구리시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4131000000_Gyeonggi_Guri"
+            "sub_region_code":"4131000000_Gyeonggi_Guri",
+            "shorten_url":"https:\/\/me2.do\/I5oqWO8w"
         },
         {
             "index":27,
@@ -382,7 +413,8 @@
             "value_score":56.66895,
             "region":"경기도 구리시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4131000000_Gyeonggi_Guri"
+            "sub_region_code":"4131000000_Gyeonggi_Guri",
+            "shorten_url":"https:\/\/me2.do\/I5oqWO8w"
         },
         {
             "index":28,
@@ -394,7 +426,8 @@
             "value_score":56.5213,
             "region":"경기도 구리시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4131000000_Gyeonggi_Guri"
+            "sub_region_code":"4131000000_Gyeonggi_Guri",
+            "shorten_url":"https:\/\/me2.do\/I5oqWO8w"
         },
         {
             "index":29,
@@ -406,7 +439,8 @@
             "value_score":56.2463,
             "region":"경기도 구리시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4131000000_Gyeonggi_Guri"
+            "sub_region_code":"4131000000_Gyeonggi_Guri",
+            "shorten_url":"https:\/\/me2.do\/I5oqWO8w"
         },
         {
             "index":30,
@@ -418,7 +452,8 @@
             "value_score":70.4355,
             "region":"경기도 구리시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4131000000_Gyeonggi_Guri"
+            "sub_region_code":"4131000000_Gyeonggi_Guri",
+            "shorten_url":"https:\/\/me2.do\/I5oqWO8w"
         },
         {
             "index":31,
@@ -430,7 +465,8 @@
             "value_score":70.32325,
             "region":"경기도 구리시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4131000000_Gyeonggi_Guri"
+            "sub_region_code":"4131000000_Gyeonggi_Guri",
+            "shorten_url":"https:\/\/me2.do\/I5oqWO8w"
         },
         {
             "index":32,
@@ -442,7 +478,8 @@
             "value_score":69.6855,
             "region":"경기도 구리시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4131000000_Gyeonggi_Guri"
+            "sub_region_code":"4131000000_Gyeonggi_Guri",
+            "shorten_url":"https:\/\/me2.do\/I5oqWO8w"
         },
         {
             "index":33,
@@ -454,7 +491,8 @@
             "value_score":69.37325,
             "region":"경기도 구리시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4131000000_Gyeonggi_Guri"
+            "sub_region_code":"4131000000_Gyeonggi_Guri",
+            "shorten_url":"https:\/\/me2.do\/I5oqWO8w"
         },
         {
             "index":34,
@@ -466,7 +504,8 @@
             "value_score":69.1095,
             "region":"경기도 구리시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4131000000_Gyeonggi_Guri"
+            "sub_region_code":"4131000000_Gyeonggi_Guri",
+            "shorten_url":"https:\/\/me2.do\/I5oqWO8w"
         },
         {
             "index":35,
@@ -478,7 +517,8 @@
             "value_score":68.6595,
             "region":"경기도 구리시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4131000000_Gyeonggi_Guri"
+            "sub_region_code":"4131000000_Gyeonggi_Guri",
+            "shorten_url":"https:\/\/me2.do\/I5oqWO8w"
         },
         {
             "index":36,
@@ -490,7 +530,8 @@
             "value_score":68.58525,
             "region":"경기도 구리시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4131000000_Gyeonggi_Guri"
+            "sub_region_code":"4131000000_Gyeonggi_Guri",
+            "shorten_url":"https:\/\/me2.do\/I5oqWO8w"
         },
         {
             "index":37,
@@ -502,7 +543,8 @@
             "value_score":68.38525,
             "region":"경기도 구리시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4131000000_Gyeonggi_Guri"
+            "sub_region_code":"4131000000_Gyeonggi_Guri",
+            "shorten_url":"https:\/\/me2.do\/I5oqWO8w"
         },
         {
             "index":38,
@@ -514,7 +556,8 @@
             "value_score":68.0355,
             "region":"경기도 구리시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4131000000_Gyeonggi_Guri"
+            "sub_region_code":"4131000000_Gyeonggi_Guri",
+            "shorten_url":"https:\/\/me2.do\/I5oqWO8w"
         },
         {
             "index":39,
@@ -526,7 +569,8 @@
             "value_score":67.7855,
             "region":"경기도 구리시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4131000000_Gyeonggi_Guri"
+            "sub_region_code":"4131000000_Gyeonggi_Guri",
+            "shorten_url":"https:\/\/me2.do\/I5oqWO8w"
         },
         {
             "index":40,
@@ -538,7 +582,8 @@
             "value_score":65.019,
             "region":"경기도 구리시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4131000000_Gyeonggi_Guri"
+            "sub_region_code":"4131000000_Gyeonggi_Guri",
+            "shorten_url":"https:\/\/me2.do\/I5oqWO8w"
         },
         {
             "index":41,
@@ -550,7 +595,8 @@
             "value_score":64.371,
             "region":"경기도 구리시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4131000000_Gyeonggi_Guri"
+            "sub_region_code":"4131000000_Gyeonggi_Guri",
+            "shorten_url":"https:\/\/me2.do\/I5oqWO8w"
         },
         {
             "index":42,
@@ -562,7 +608,8 @@
             "value_score":64.019,
             "region":"경기도 구리시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4131000000_Gyeonggi_Guri"
+            "sub_region_code":"4131000000_Gyeonggi_Guri",
+            "shorten_url":"https:\/\/me2.do\/I5oqWO8w"
         },
         {
             "index":43,
@@ -574,7 +621,8 @@
             "value_score":63.719,
             "region":"경기도 구리시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4131000000_Gyeonggi_Guri"
+            "sub_region_code":"4131000000_Gyeonggi_Guri",
+            "shorten_url":"https:\/\/me2.do\/I5oqWO8w"
         },
         {
             "index":44,
@@ -586,7 +634,8 @@
             "value_score":63.371,
             "region":"경기도 구리시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4131000000_Gyeonggi_Guri"
+            "sub_region_code":"4131000000_Gyeonggi_Guri",
+            "shorten_url":"https:\/\/me2.do\/I5oqWO8w"
         },
         {
             "index":45,
@@ -598,7 +647,8 @@
             "value_score":63.271,
             "region":"경기도 구리시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4131000000_Gyeonggi_Guri"
+            "sub_region_code":"4131000000_Gyeonggi_Guri",
+            "shorten_url":"https:\/\/me2.do\/I5oqWO8w"
         },
         {
             "index":46,
@@ -610,7 +660,8 @@
             "value_score":63.0155,
             "region":"경기도 구리시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4131000000_Gyeonggi_Guri"
+            "sub_region_code":"4131000000_Gyeonggi_Guri",
+            "shorten_url":"https:\/\/me2.do\/I5oqWO8w"
         },
         {
             "index":47,
@@ -622,7 +673,8 @@
             "value_score":62.1465,
             "region":"경기도 구리시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4131000000_Gyeonggi_Guri"
+            "sub_region_code":"4131000000_Gyeonggi_Guri",
+            "shorten_url":"https:\/\/me2.do\/I5oqWO8w"
         },
         {
             "index":48,
@@ -634,7 +686,8 @@
             "value_score":61.4465,
             "region":"경기도 구리시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4131000000_Gyeonggi_Guri"
+            "sub_region_code":"4131000000_Gyeonggi_Guri",
+            "shorten_url":"https:\/\/me2.do\/I5oqWO8w"
         },
         {
             "index":49,
@@ -646,7 +699,8 @@
             "value_score":61.368,
             "region":"경기도 구리시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4131000000_Gyeonggi_Guri"
+            "sub_region_code":"4131000000_Gyeonggi_Guri",
+            "shorten_url":"https:\/\/me2.do\/I5oqWO8w"
         }
     ]
 }

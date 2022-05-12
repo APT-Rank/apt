@@ -40,6 +40,10 @@
             {
                 "name":"sub_region_code",
                 "type":"string"
+            },
+            {
+                "name":"shorten_url",
+                "type":"string"
             }
         ],
         "primaryKey":[
@@ -58,7 +62,8 @@
             "value_score":72.5027,
             "region":"서울시 성북구",
             "region_code":"Seoul",
-            "sub_region_code":"1129000000_Seoul_Seongbuk"
+            "sub_region_code":"1129000000_Seoul_Seongbuk",
+            "shorten_url":"https:\/\/me2.do\/Gd6cgRwM"
         },
         {
             "index":1,
@@ -70,7 +75,8 @@
             "value_score":67.4547,
             "region":"서울시 성북구",
             "region_code":"Seoul",
-            "sub_region_code":"1129000000_Seoul_Seongbuk"
+            "sub_region_code":"1129000000_Seoul_Seongbuk",
+            "shorten_url":"https:\/\/me2.do\/Gd6cgRwM"
         },
         {
             "index":2,
@@ -82,7 +88,8 @@
             "value_score":66.6444,
             "region":"서울시 성북구",
             "region_code":"Seoul",
-            "sub_region_code":"1129000000_Seoul_Seongbuk"
+            "sub_region_code":"1129000000_Seoul_Seongbuk",
+            "shorten_url":"https:\/\/me2.do\/Gd6cgRwM"
         },
         {
             "index":3,
@@ -94,7 +101,8 @@
             "value_score":65.7119,
             "region":"서울시 성북구",
             "region_code":"Seoul",
-            "sub_region_code":"1129000000_Seoul_Seongbuk"
+            "sub_region_code":"1129000000_Seoul_Seongbuk",
+            "shorten_url":"https:\/\/me2.do\/Gd6cgRwM"
         },
         {
             "index":4,
@@ -106,7 +114,8 @@
             "value_score":65.6944,
             "region":"서울시 성북구",
             "region_code":"Seoul",
-            "sub_region_code":"1129000000_Seoul_Seongbuk"
+            "sub_region_code":"1129000000_Seoul_Seongbuk",
+            "shorten_url":"https:\/\/me2.do\/Gd6cgRwM"
         },
         {
             "index":5,
@@ -118,7 +127,8 @@
             "value_score":64.5119,
             "region":"서울시 성북구",
             "region_code":"Seoul",
-            "sub_region_code":"1129000000_Seoul_Seongbuk"
+            "sub_region_code":"1129000000_Seoul_Seongbuk",
+            "shorten_url":"https:\/\/me2.do\/Gd6cgRwM"
         },
         {
             "index":6,
@@ -130,7 +140,8 @@
             "value_score":64.4422,
             "region":"서울시 성북구",
             "region_code":"Seoul",
-            "sub_region_code":"1129000000_Seoul_Seongbuk"
+            "sub_region_code":"1129000000_Seoul_Seongbuk",
+            "shorten_url":"https:\/\/me2.do\/Gd6cgRwM"
         },
         {
             "index":7,
@@ -142,7 +153,8 @@
             "value_score":64.2527,
             "region":"서울시 성북구",
             "region_code":"Seoul",
-            "sub_region_code":"1129000000_Seoul_Seongbuk"
+            "sub_region_code":"1129000000_Seoul_Seongbuk",
+            "shorten_url":"https:\/\/me2.do\/Gd6cgRwM"
         },
         {
             "index":8,
@@ -154,7 +166,8 @@
             "value_score":64.2119,
             "region":"서울시 성북구",
             "region_code":"Seoul",
-            "sub_region_code":"1129000000_Seoul_Seongbuk"
+            "sub_region_code":"1129000000_Seoul_Seongbuk",
+            "shorten_url":"https:\/\/me2.do\/Gd6cgRwM"
         },
         {
             "index":9,
@@ -166,7 +179,8 @@
             "value_score":63.8837,
             "region":"서울시 성북구",
             "region_code":"Seoul",
-            "sub_region_code":"1129000000_Seoul_Seongbuk"
+            "sub_region_code":"1129000000_Seoul_Seongbuk",
+            "shorten_url":"https:\/\/me2.do\/Gd6cgRwM"
         },
         {
             "index":10,
@@ -178,7 +192,8 @@
             "value_score":74.9518,
             "region":"서울시 성북구",
             "region_code":"Seoul",
-            "sub_region_code":"1129000000_Seoul_Seongbuk"
+            "sub_region_code":"1129000000_Seoul_Seongbuk",
+            "shorten_url":"https:\/\/me2.do\/Gd6cgRwM"
         },
         {
             "index":11,
@@ -190,7 +205,8 @@
             "value_score":72.4796,
             "region":"서울시 성북구",
             "region_code":"Seoul",
-            "sub_region_code":"1129000000_Seoul_Seongbuk"
+            "sub_region_code":"1129000000_Seoul_Seongbuk",
+            "shorten_url":"https:\/\/me2.do\/Gd6cgRwM"
         },
         {
             "index":12,
@@ -202,7 +218,8 @@
             "value_score":67.4698,
             "region":"서울시 성북구",
             "region_code":"Seoul",
-            "sub_region_code":"1129000000_Seoul_Seongbuk"
+            "sub_region_code":"1129000000_Seoul_Seongbuk",
+            "shorten_url":"https:\/\/me2.do\/Gd6cgRwM"
         },
         {
             "index":13,
@@ -214,7 +231,8 @@
             "value_score":67.0948,
             "region":"서울시 성북구",
             "region_code":"Seoul",
-            "sub_region_code":"1129000000_Seoul_Seongbuk"
+            "sub_region_code":"1129000000_Seoul_Seongbuk",
+            "shorten_url":"https:\/\/me2.do\/Gd6cgRwM"
         },
         {
             "index":14,
@@ -226,7 +244,8 @@
             "value_score":66.9296,
             "region":"서울시 성북구",
             "region_code":"Seoul",
-            "sub_region_code":"1129000000_Seoul_Seongbuk"
+            "sub_region_code":"1129000000_Seoul_Seongbuk",
+            "shorten_url":"https:\/\/me2.do\/Gd6cgRwM"
         },
         {
             "index":15,
@@ -238,7 +257,8 @@
             "value_score":66.8246,
             "region":"서울시 성북구",
             "region_code":"Seoul",
-            "sub_region_code":"1129000000_Seoul_Seongbuk"
+            "sub_region_code":"1129000000_Seoul_Seongbuk",
+            "shorten_url":"https:\/\/me2.do\/Gd6cgRwM"
         },
         {
             "index":16,
@@ -250,7 +270,8 @@
             "value_score":66.4746,
             "region":"서울시 성북구",
             "region_code":"Seoul",
-            "sub_region_code":"1129000000_Seoul_Seongbuk"
+            "sub_region_code":"1129000000_Seoul_Seongbuk",
+            "shorten_url":"https:\/\/me2.do\/Gd6cgRwM"
         },
         {
             "index":17,
@@ -262,7 +283,8 @@
             "value_score":66.4688,
             "region":"서울시 성북구",
             "region_code":"Seoul",
-            "sub_region_code":"1129000000_Seoul_Seongbuk"
+            "sub_region_code":"1129000000_Seoul_Seongbuk",
+            "shorten_url":"https:\/\/me2.do\/Gd6cgRwM"
         },
         {
             "index":18,
@@ -274,7 +296,8 @@
             "value_score":66.3018,
             "region":"서울시 성북구",
             "region_code":"Seoul",
-            "sub_region_code":"1129000000_Seoul_Seongbuk"
+            "sub_region_code":"1129000000_Seoul_Seongbuk",
+            "shorten_url":"https:\/\/me2.do\/Gd6cgRwM"
         },
         {
             "index":19,
@@ -286,7 +309,8 @@
             "value_score":65.7796,
             "region":"서울시 성북구",
             "region_code":"Seoul",
-            "sub_region_code":"1129000000_Seoul_Seongbuk"
+            "sub_region_code":"1129000000_Seoul_Seongbuk",
+            "shorten_url":"https:\/\/me2.do\/Gd6cgRwM"
         },
         {
             "index":20,
@@ -298,7 +322,8 @@
             "value_score":71.45135,
             "region":"서울시 성북구",
             "region_code":"Seoul",
-            "sub_region_code":"1129000000_Seoul_Seongbuk"
+            "sub_region_code":"1129000000_Seoul_Seongbuk",
+            "shorten_url":"https:\/\/me2.do\/Gd6cgRwM"
         },
         {
             "index":21,
@@ -310,7 +335,8 @@
             "value_score":70.59185,
             "region":"서울시 성북구",
             "region_code":"Seoul",
-            "sub_region_code":"1129000000_Seoul_Seongbuk"
+            "sub_region_code":"1129000000_Seoul_Seongbuk",
+            "shorten_url":"https:\/\/me2.do\/Gd6cgRwM"
         },
         {
             "index":22,
@@ -322,7 +348,8 @@
             "value_score":69.72735,
             "region":"서울시 성북구",
             "region_code":"Seoul",
-            "sub_region_code":"1129000000_Seoul_Seongbuk"
+            "sub_region_code":"1129000000_Seoul_Seongbuk",
+            "shorten_url":"https:\/\/me2.do\/Gd6cgRwM"
         },
         {
             "index":23,
@@ -334,7 +361,8 @@
             "value_score":69.4391359369,
             "region":"서울시 성북구",
             "region_code":"Seoul",
-            "sub_region_code":"1129000000_Seoul_Seongbuk"
+            "sub_region_code":"1129000000_Seoul_Seongbuk",
+            "shorten_url":"https:\/\/me2.do\/Gd6cgRwM"
         },
         {
             "index":24,
@@ -346,7 +374,8 @@
             "value_score":69.20485,
             "region":"서울시 성북구",
             "region_code":"Seoul",
-            "sub_region_code":"1129000000_Seoul_Seongbuk"
+            "sub_region_code":"1129000000_Seoul_Seongbuk",
+            "shorten_url":"https:\/\/me2.do\/Gd6cgRwM"
         },
         {
             "index":25,
@@ -358,7 +387,8 @@
             "value_score":68.7472,
             "region":"서울시 성북구",
             "region_code":"Seoul",
-            "sub_region_code":"1129000000_Seoul_Seongbuk"
+            "sub_region_code":"1129000000_Seoul_Seongbuk",
+            "shorten_url":"https:\/\/me2.do\/Gd6cgRwM"
         },
         {
             "index":26,
@@ -370,7 +400,8 @@
             "value_score":68.31775,
             "region":"서울시 성북구",
             "region_code":"Seoul",
-            "sub_region_code":"1129000000_Seoul_Seongbuk"
+            "sub_region_code":"1129000000_Seoul_Seongbuk",
+            "shorten_url":"https:\/\/me2.do\/Gd6cgRwM"
         },
         {
             "index":27,
@@ -382,7 +413,8 @@
             "value_score":67.68775,
             "region":"서울시 성북구",
             "region_code":"Seoul",
-            "sub_region_code":"1129000000_Seoul_Seongbuk"
+            "sub_region_code":"1129000000_Seoul_Seongbuk",
+            "shorten_url":"https:\/\/me2.do\/Gd6cgRwM"
         },
         {
             "index":28,
@@ -394,7 +426,8 @@
             "value_score":67.56685,
             "region":"서울시 성북구",
             "region_code":"Seoul",
-            "sub_region_code":"1129000000_Seoul_Seongbuk"
+            "sub_region_code":"1129000000_Seoul_Seongbuk",
+            "shorten_url":"https:\/\/me2.do\/Gd6cgRwM"
         },
         {
             "index":29,
@@ -406,7 +439,8 @@
             "value_score":67.23095,
             "region":"서울시 성북구",
             "region_code":"Seoul",
-            "sub_region_code":"1129000000_Seoul_Seongbuk"
+            "sub_region_code":"1129000000_Seoul_Seongbuk",
+            "shorten_url":"https:\/\/me2.do\/Gd6cgRwM"
         },
         {
             "index":30,
@@ -418,7 +452,8 @@
             "value_score":70.29325,
             "region":"서울시 성북구",
             "region_code":"Seoul",
-            "sub_region_code":"1129000000_Seoul_Seongbuk"
+            "sub_region_code":"1129000000_Seoul_Seongbuk",
+            "shorten_url":"https:\/\/me2.do\/Gd6cgRwM"
         },
         {
             "index":31,
@@ -430,7 +465,8 @@
             "value_score":69.99475,
             "region":"서울시 성북구",
             "region_code":"Seoul",
-            "sub_region_code":"1129000000_Seoul_Seongbuk"
+            "sub_region_code":"1129000000_Seoul_Seongbuk",
+            "shorten_url":"https:\/\/me2.do\/Gd6cgRwM"
         },
         {
             "index":32,
@@ -442,7 +478,8 @@
             "value_score":69.762,
             "region":"서울시 성북구",
             "region_code":"Seoul",
-            "sub_region_code":"1129000000_Seoul_Seongbuk"
+            "sub_region_code":"1129000000_Seoul_Seongbuk",
+            "shorten_url":"https:\/\/me2.do\/Gd6cgRwM"
         },
         {
             "index":33,
@@ -454,7 +491,8 @@
             "value_score":68.99475,
             "region":"서울시 성북구",
             "region_code":"Seoul",
-            "sub_region_code":"1129000000_Seoul_Seongbuk"
+            "sub_region_code":"1129000000_Seoul_Seongbuk",
+            "shorten_url":"https:\/\/me2.do\/Gd6cgRwM"
         },
         {
             "index":34,
@@ -466,7 +504,8 @@
             "value_score":68.96225,
             "region":"서울시 성북구",
             "region_code":"Seoul",
-            "sub_region_code":"1129000000_Seoul_Seongbuk"
+            "sub_region_code":"1129000000_Seoul_Seongbuk",
+            "shorten_url":"https:\/\/me2.do\/Gd6cgRwM"
         },
         {
             "index":35,
@@ -478,7 +517,8 @@
             "value_score":68.29475,
             "region":"서울시 성북구",
             "region_code":"Seoul",
-            "sub_region_code":"1129000000_Seoul_Seongbuk"
+            "sub_region_code":"1129000000_Seoul_Seongbuk",
+            "shorten_url":"https:\/\/me2.do\/Gd6cgRwM"
         },
         {
             "index":36,
@@ -490,7 +530,8 @@
             "value_score":68.17725,
             "region":"서울시 성북구",
             "region_code":"Seoul",
-            "sub_region_code":"1129000000_Seoul_Seongbuk"
+            "sub_region_code":"1129000000_Seoul_Seongbuk",
+            "shorten_url":"https:\/\/me2.do\/Gd6cgRwM"
         },
         {
             "index":37,
@@ -502,7 +543,8 @@
             "value_score":67.59325,
             "region":"서울시 성북구",
             "region_code":"Seoul",
-            "sub_region_code":"1129000000_Seoul_Seongbuk"
+            "sub_region_code":"1129000000_Seoul_Seongbuk",
+            "shorten_url":"https:\/\/me2.do\/Gd6cgRwM"
         },
         {
             "index":38,
@@ -514,7 +556,8 @@
             "value_score":67.44325,
             "region":"서울시 성북구",
             "region_code":"Seoul",
-            "sub_region_code":"1129000000_Seoul_Seongbuk"
+            "sub_region_code":"1129000000_Seoul_Seongbuk",
+            "shorten_url":"https:\/\/me2.do\/Gd6cgRwM"
         },
         {
             "index":39,
@@ -526,7 +569,8 @@
             "value_score":67.312,
             "region":"서울시 성북구",
             "region_code":"Seoul",
-            "sub_region_code":"1129000000_Seoul_Seongbuk"
+            "sub_region_code":"1129000000_Seoul_Seongbuk",
+            "shorten_url":"https:\/\/me2.do\/Gd6cgRwM"
         },
         {
             "index":40,
@@ -538,7 +582,8 @@
             "value_score":70.7545,
             "region":"서울시 성북구",
             "region_code":"Seoul",
-            "sub_region_code":"1129000000_Seoul_Seongbuk"
+            "sub_region_code":"1129000000_Seoul_Seongbuk",
+            "shorten_url":"https:\/\/me2.do\/Gd6cgRwM"
         },
         {
             "index":41,
@@ -550,7 +595,8 @@
             "value_score":66.7545,
             "region":"서울시 성북구",
             "region_code":"Seoul",
-            "sub_region_code":"1129000000_Seoul_Seongbuk"
+            "sub_region_code":"1129000000_Seoul_Seongbuk",
+            "shorten_url":"https:\/\/me2.do\/Gd6cgRwM"
         },
         {
             "index":42,
@@ -562,7 +608,8 @@
             "value_score":65.9245,
             "region":"서울시 성북구",
             "region_code":"Seoul",
-            "sub_region_code":"1129000000_Seoul_Seongbuk"
+            "sub_region_code":"1129000000_Seoul_Seongbuk",
+            "shorten_url":"https:\/\/me2.do\/Gd6cgRwM"
         },
         {
             "index":43,
@@ -574,7 +621,8 @@
             "value_score":64.4865,
             "region":"서울시 성북구",
             "region_code":"Seoul",
-            "sub_region_code":"1129000000_Seoul_Seongbuk"
+            "sub_region_code":"1129000000_Seoul_Seongbuk",
+            "shorten_url":"https:\/\/me2.do\/Gd6cgRwM"
         },
         {
             "index":44,
@@ -586,7 +634,8 @@
             "value_score":64.424,
             "region":"서울시 성북구",
             "region_code":"Seoul",
-            "sub_region_code":"1129000000_Seoul_Seongbuk"
+            "sub_region_code":"1129000000_Seoul_Seongbuk",
+            "shorten_url":"https:\/\/me2.do\/Gd6cgRwM"
         },
         {
             "index":45,
@@ -598,7 +647,8 @@
             "value_score":64.1865,
             "region":"서울시 성북구",
             "region_code":"Seoul",
-            "sub_region_code":"1129000000_Seoul_Seongbuk"
+            "sub_region_code":"1129000000_Seoul_Seongbuk",
+            "shorten_url":"https:\/\/me2.do\/Gd6cgRwM"
         },
         {
             "index":46,
@@ -610,7 +660,8 @@
             "value_score":63.872,
             "region":"서울시 성북구",
             "region_code":"Seoul",
-            "sub_region_code":"1129000000_Seoul_Seongbuk"
+            "sub_region_code":"1129000000_Seoul_Seongbuk",
+            "shorten_url":"https:\/\/me2.do\/Gd6cgRwM"
         },
         {
             "index":47,
@@ -622,7 +673,8 @@
             "value_score":63.5865,
             "region":"서울시 성북구",
             "region_code":"Seoul",
-            "sub_region_code":"1129000000_Seoul_Seongbuk"
+            "sub_region_code":"1129000000_Seoul_Seongbuk",
+            "shorten_url":"https:\/\/me2.do\/Gd6cgRwM"
         },
         {
             "index":48,
@@ -634,7 +686,8 @@
             "value_score":63.524,
             "region":"서울시 성북구",
             "region_code":"Seoul",
-            "sub_region_code":"1129000000_Seoul_Seongbuk"
+            "sub_region_code":"1129000000_Seoul_Seongbuk",
+            "shorten_url":"https:\/\/me2.do\/Gd6cgRwM"
         },
         {
             "index":49,
@@ -646,7 +699,8 @@
             "value_score":63.337,
             "region":"서울시 성북구",
             "region_code":"Seoul",
-            "sub_region_code":"1129000000_Seoul_Seongbuk"
+            "sub_region_code":"1129000000_Seoul_Seongbuk",
+            "shorten_url":"https:\/\/me2.do\/Gd6cgRwM"
         }
     ]
 }

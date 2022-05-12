@@ -40,6 +40,10 @@
             {
                 "name":"sub_region_code",
                 "type":"string"
+            },
+            {
+                "name":"shorten_url",
+                "type":"string"
             }
         ],
         "primaryKey":[
@@ -58,7 +62,8 @@
             "value_score":50.86145,
             "region":"강원도 동해시",
             "region_code":"Gangwondo",
-            "sub_region_code":"4217000000_Gangwondo_Donghae"
+            "sub_region_code":"4217000000_Gangwondo_Donghae",
+            "shorten_url":"https:\/\/me2.do\/Fp1a5D6t"
         },
         {
             "index":1,
@@ -70,7 +75,8 @@
             "value_score":50.50405,
             "region":"강원도 동해시",
             "region_code":"Gangwondo",
-            "sub_region_code":"4217000000_Gangwondo_Donghae"
+            "sub_region_code":"4217000000_Gangwondo_Donghae",
+            "shorten_url":"https:\/\/me2.do\/Fp1a5D6t"
         },
         {
             "index":2,
@@ -82,7 +88,8 @@
             "value_score":48.88645,
             "region":"강원도 동해시",
             "region_code":"Gangwondo",
-            "sub_region_code":"4217000000_Gangwondo_Donghae"
+            "sub_region_code":"4217000000_Gangwondo_Donghae",
+            "shorten_url":"https:\/\/me2.do\/Fp1a5D6t"
         },
         {
             "index":3,
@@ -94,7 +101,8 @@
             "value_score":48.88645,
             "region":"강원도 동해시",
             "region_code":"Gangwondo",
-            "sub_region_code":"4217000000_Gangwondo_Donghae"
+            "sub_region_code":"4217000000_Gangwondo_Donghae",
+            "shorten_url":"https:\/\/me2.do\/Fp1a5D6t"
         },
         {
             "index":4,
@@ -106,7 +114,8 @@
             "value_score":47.20075,
             "region":"강원도 동해시",
             "region_code":"Gangwondo",
-            "sub_region_code":"4217000000_Gangwondo_Donghae"
+            "sub_region_code":"4217000000_Gangwondo_Donghae",
+            "shorten_url":"https:\/\/me2.do\/Fp1a5D6t"
         },
         {
             "index":5,
@@ -118,7 +127,8 @@
             "value_score":46.98645,
             "region":"강원도 동해시",
             "region_code":"Gangwondo",
-            "sub_region_code":"4217000000_Gangwondo_Donghae"
+            "sub_region_code":"4217000000_Gangwondo_Donghae",
+            "shorten_url":"https:\/\/me2.do\/Fp1a5D6t"
         },
         {
             "index":6,
@@ -130,7 +140,8 @@
             "value_score":46.65075,
             "region":"강원도 동해시",
             "region_code":"Gangwondo",
-            "sub_region_code":"4217000000_Gangwondo_Donghae"
+            "sub_region_code":"4217000000_Gangwondo_Donghae",
+            "shorten_url":"https:\/\/me2.do\/Fp1a5D6t"
         },
         {
             "index":7,
@@ -142,7 +153,8 @@
             "value_score":46.55075,
             "region":"강원도 동해시",
             "region_code":"Gangwondo",
-            "sub_region_code":"4217000000_Gangwondo_Donghae"
+            "sub_region_code":"4217000000_Gangwondo_Donghae",
+            "shorten_url":"https:\/\/me2.do\/Fp1a5D6t"
         },
         {
             "index":8,
@@ -154,7 +166,8 @@
             "value_score":46.30075,
             "region":"강원도 동해시",
             "region_code":"Gangwondo",
-            "sub_region_code":"4217000000_Gangwondo_Donghae"
+            "sub_region_code":"4217000000_Gangwondo_Donghae",
+            "shorten_url":"https:\/\/me2.do\/Fp1a5D6t"
         },
         {
             "index":9,
@@ -166,7 +179,8 @@
             "value_score":46.22205,
             "region":"강원도 동해시",
             "region_code":"Gangwondo",
-            "sub_region_code":"4217000000_Gangwondo_Donghae"
+            "sub_region_code":"4217000000_Gangwondo_Donghae",
+            "shorten_url":"https:\/\/me2.do\/Fp1a5D6t"
         },
         {
             "index":10,
@@ -178,7 +192,8 @@
             "value_score":52.89575,
             "region":"강원도 동해시",
             "region_code":"Gangwondo",
-            "sub_region_code":"4217000000_Gangwondo_Donghae"
+            "sub_region_code":"4217000000_Gangwondo_Donghae",
+            "shorten_url":"https:\/\/me2.do\/Fp1a5D6t"
         },
         {
             "index":11,
@@ -190,7 +205,8 @@
             "value_score":50.56175,
             "region":"강원도 동해시",
             "region_code":"Gangwondo",
-            "sub_region_code":"4217000000_Gangwondo_Donghae"
+            "sub_region_code":"4217000000_Gangwondo_Donghae",
+            "shorten_url":"https:\/\/me2.do\/Fp1a5D6t"
         },
         {
             "index":12,
@@ -202,7 +218,8 @@
             "value_score":50.56175,
             "region":"강원도 동해시",
             "region_code":"Gangwondo",
-            "sub_region_code":"4217000000_Gangwondo_Donghae"
+            "sub_region_code":"4217000000_Gangwondo_Donghae",
+            "shorten_url":"https:\/\/me2.do\/Fp1a5D6t"
         },
         {
             "index":13,
@@ -214,7 +231,8 @@
             "value_score":49.43675,
             "region":"강원도 동해시",
             "region_code":"Gangwondo",
-            "sub_region_code":"4217000000_Gangwondo_Donghae"
+            "sub_region_code":"4217000000_Gangwondo_Donghae",
+            "shorten_url":"https:\/\/me2.do\/Fp1a5D6t"
         },
         {
             "index":14,
@@ -226,7 +244,8 @@
             "value_score":48.78625,
             "region":"강원도 동해시",
             "region_code":"Gangwondo",
-            "sub_region_code":"4217000000_Gangwondo_Donghae"
+            "sub_region_code":"4217000000_Gangwondo_Donghae",
+            "shorten_url":"https:\/\/me2.do\/Fp1a5D6t"
         },
         {
             "index":15,
@@ -238,7 +257,8 @@
             "value_score":48.01575,
             "region":"강원도 동해시",
             "region_code":"Gangwondo",
-            "sub_region_code":"4217000000_Gangwondo_Donghae"
+            "sub_region_code":"4217000000_Gangwondo_Donghae",
+            "shorten_url":"https:\/\/me2.do\/Fp1a5D6t"
         },
         {
             "index":16,
@@ -250,7 +270,8 @@
             "value_score":46.53625,
             "region":"강원도 동해시",
             "region_code":"Gangwondo",
-            "sub_region_code":"4217000000_Gangwondo_Donghae"
+            "sub_region_code":"4217000000_Gangwondo_Donghae",
+            "shorten_url":"https:\/\/me2.do\/Fp1a5D6t"
         },
         {
             "index":17,
@@ -262,7 +283,8 @@
             "value_score":46.389,
             "region":"강원도 동해시",
             "region_code":"Gangwondo",
-            "sub_region_code":"4217000000_Gangwondo_Donghae"
+            "sub_region_code":"4217000000_Gangwondo_Donghae",
+            "shorten_url":"https:\/\/me2.do\/Fp1a5D6t"
         },
         {
             "index":18,
@@ -274,7 +296,8 @@
             "value_score":46.03625,
             "region":"강원도 동해시",
             "region_code":"Gangwondo",
-            "sub_region_code":"4217000000_Gangwondo_Donghae"
+            "sub_region_code":"4217000000_Gangwondo_Donghae",
+            "shorten_url":"https:\/\/me2.do\/Fp1a5D6t"
         },
         {
             "index":19,
@@ -286,7 +309,8 @@
             "value_score":45.78625,
             "region":"강원도 동해시",
             "region_code":"Gangwondo",
-            "sub_region_code":"4217000000_Gangwondo_Donghae"
+            "sub_region_code":"4217000000_Gangwondo_Donghae",
+            "shorten_url":"https:\/\/me2.do\/Fp1a5D6t"
         },
         {
             "index":20,
@@ -298,7 +322,8 @@
             "value_score":50.2358947368,
             "region":"강원도 동해시",
             "region_code":"Gangwondo",
-            "sub_region_code":"4217000000_Gangwondo_Donghae"
+            "sub_region_code":"4217000000_Gangwondo_Donghae",
+            "shorten_url":"https:\/\/me2.do\/Fp1a5D6t"
         },
         {
             "index":21,
@@ -310,7 +335,8 @@
             "value_score":48.2622105263,
             "region":"강원도 동해시",
             "region_code":"Gangwondo",
-            "sub_region_code":"4217000000_Gangwondo_Donghae"
+            "sub_region_code":"4217000000_Gangwondo_Donghae",
+            "shorten_url":"https:\/\/me2.do\/Fp1a5D6t"
         },
         {
             "index":22,
@@ -322,7 +348,8 @@
             "value_score":48.1832631579,
             "region":"강원도 동해시",
             "region_code":"Gangwondo",
-            "sub_region_code":"4217000000_Gangwondo_Donghae"
+            "sub_region_code":"4217000000_Gangwondo_Donghae",
+            "shorten_url":"https:\/\/me2.do\/Fp1a5D6t"
         },
         {
             "index":23,
@@ -334,7 +361,8 @@
             "value_score":46.6043157895,
             "region":"강원도 동해시",
             "region_code":"Gangwondo",
-            "sub_region_code":"4217000000_Gangwondo_Donghae"
+            "sub_region_code":"4217000000_Gangwondo_Donghae",
+            "shorten_url":"https:\/\/me2.do\/Fp1a5D6t"
         },
         {
             "index":24,
@@ -346,7 +374,8 @@
             "value_score":44.0721052632,
             "region":"강원도 동해시",
             "region_code":"Gangwondo",
-            "sub_region_code":"4217000000_Gangwondo_Donghae"
+            "sub_region_code":"4217000000_Gangwondo_Donghae",
+            "shorten_url":"https:\/\/me2.do\/Fp1a5D6t"
         },
         {
             "index":25,
@@ -358,7 +387,8 @@
             "value_score":42.5721052632,
             "region":"강원도 동해시",
             "region_code":"Gangwondo",
-            "sub_region_code":"4217000000_Gangwondo_Donghae"
+            "sub_region_code":"4217000000_Gangwondo_Donghae",
+            "shorten_url":"https:\/\/me2.do\/Fp1a5D6t"
         },
         {
             "index":26,
@@ -370,7 +400,8 @@
             "value_score":42.078,
             "region":"강원도 동해시",
             "region_code":"Gangwondo",
-            "sub_region_code":"4217000000_Gangwondo_Donghae"
+            "sub_region_code":"4217000000_Gangwondo_Donghae",
+            "shorten_url":"https:\/\/me2.do\/Fp1a5D6t"
         },
         {
             "index":27,
@@ -382,7 +413,8 @@
             "value_score":41.1510526316,
             "region":"강원도 동해시",
             "region_code":"Gangwondo",
-            "sub_region_code":"4217000000_Gangwondo_Donghae"
+            "sub_region_code":"4217000000_Gangwondo_Donghae",
+            "shorten_url":"https:\/\/me2.do\/Fp1a5D6t"
         },
         {
             "index":28,
@@ -394,7 +426,8 @@
             "value_score":40.9464210526,
             "region":"강원도 동해시",
             "region_code":"Gangwondo",
-            "sub_region_code":"4217000000_Gangwondo_Donghae"
+            "sub_region_code":"4217000000_Gangwondo_Donghae",
+            "shorten_url":"https:\/\/me2.do\/Fp1a5D6t"
         },
         {
             "index":29,
@@ -406,7 +439,8 @@
             "value_score":40.5516842105,
             "region":"강원도 동해시",
             "region_code":"Gangwondo",
-            "sub_region_code":"4217000000_Gangwondo_Donghae"
+            "sub_region_code":"4217000000_Gangwondo_Donghae",
+            "shorten_url":"https:\/\/me2.do\/Fp1a5D6t"
         },
         {
             "index":30,
@@ -418,7 +452,8 @@
             "value_score":52.9985,
             "region":"강원도 동해시",
             "region_code":"Gangwondo",
-            "sub_region_code":"4217000000_Gangwondo_Donghae"
+            "sub_region_code":"4217000000_Gangwondo_Donghae",
+            "shorten_url":"https:\/\/me2.do\/Fp1a5D6t"
         },
         {
             "index":31,
@@ -430,7 +465,8 @@
             "value_score":49.1235,
             "region":"강원도 동해시",
             "region_code":"Gangwondo",
-            "sub_region_code":"4217000000_Gangwondo_Donghae"
+            "sub_region_code":"4217000000_Gangwondo_Donghae",
+            "shorten_url":"https:\/\/me2.do\/Fp1a5D6t"
         },
         {
             "index":32,
@@ -442,7 +478,8 @@
             "value_score":48.9985,
             "region":"강원도 동해시",
             "region_code":"Gangwondo",
-            "sub_region_code":"4217000000_Gangwondo_Donghae"
+            "sub_region_code":"4217000000_Gangwondo_Donghae",
+            "shorten_url":"https:\/\/me2.do\/Fp1a5D6t"
         },
         {
             "index":33,
@@ -454,7 +491,8 @@
             "value_score":48.1975,
             "region":"강원도 동해시",
             "region_code":"Gangwondo",
-            "sub_region_code":"4217000000_Gangwondo_Donghae"
+            "sub_region_code":"4217000000_Gangwondo_Donghae",
+            "shorten_url":"https:\/\/me2.do\/Fp1a5D6t"
         },
         {
             "index":34,
@@ -466,7 +504,8 @@
             "value_score":47.8735,
             "region":"강원도 동해시",
             "region_code":"Gangwondo",
-            "sub_region_code":"4217000000_Gangwondo_Donghae"
+            "sub_region_code":"4217000000_Gangwondo_Donghae",
+            "shorten_url":"https:\/\/me2.do\/Fp1a5D6t"
         },
         {
             "index":35,
@@ -478,7 +517,8 @@
             "value_score":47.5725,
             "region":"강원도 동해시",
             "region_code":"Gangwondo",
-            "sub_region_code":"4217000000_Gangwondo_Donghae"
+            "sub_region_code":"4217000000_Gangwondo_Donghae",
+            "shorten_url":"https:\/\/me2.do\/Fp1a5D6t"
         },
         {
             "index":36,
@@ -490,7 +530,8 @@
             "value_score":47.1235,
             "region":"강원도 동해시",
             "region_code":"Gangwondo",
-            "sub_region_code":"4217000000_Gangwondo_Donghae"
+            "sub_region_code":"4217000000_Gangwondo_Donghae",
+            "shorten_url":"https:\/\/me2.do\/Fp1a5D6t"
         },
         {
             "index":37,
@@ -502,7 +543,8 @@
             "value_score":47.0725,
             "region":"강원도 동해시",
             "region_code":"Gangwondo",
-            "sub_region_code":"4217000000_Gangwondo_Donghae"
+            "sub_region_code":"4217000000_Gangwondo_Donghae",
+            "shorten_url":"https:\/\/me2.do\/Fp1a5D6t"
         },
         {
             "index":38,
@@ -514,7 +556,8 @@
             "value_score":46.9165,
             "region":"강원도 동해시",
             "region_code":"Gangwondo",
-            "sub_region_code":"4217000000_Gangwondo_Donghae"
+            "sub_region_code":"4217000000_Gangwondo_Donghae",
+            "shorten_url":"https:\/\/me2.do\/Fp1a5D6t"
         },
         {
             "index":39,
@@ -526,7 +569,8 @@
             "value_score":46.3735,
             "region":"강원도 동해시",
             "region_code":"Gangwondo",
-            "sub_region_code":"4217000000_Gangwondo_Donghae"
+            "sub_region_code":"4217000000_Gangwondo_Donghae",
+            "shorten_url":"https:\/\/me2.do\/Fp1a5D6t"
         }
     ]
 }

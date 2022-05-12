@@ -40,6 +40,10 @@
             {
                 "name":"sub_region_code",
                 "type":"string"
+            },
+            {
+                "name":"shorten_url",
+                "type":"string"
             }
         ],
         "primaryKey":[
@@ -58,7 +62,8 @@
             "value_score":40.65135,
             "region":"강원도 영월군",
             "region_code":"Gangwondo",
-            "sub_region_code":"4275000000_Gangwondo_Yeongwol"
+            "sub_region_code":"4275000000_Gangwondo_Yeongwol",
+            "shorten_url":"https:\/\/me2.do\/xgG2yMae"
         },
         {
             "index":1,
@@ -70,7 +75,8 @@
             "value_score":40.64385,
             "region":"강원도 영월군",
             "region_code":"Gangwondo",
-            "sub_region_code":"4275000000_Gangwondo_Yeongwol"
+            "sub_region_code":"4275000000_Gangwondo_Yeongwol",
+            "shorten_url":"https:\/\/me2.do\/xgG2yMae"
         },
         {
             "index":2,
@@ -82,7 +88,8 @@
             "value_score":40.20135,
             "region":"강원도 영월군",
             "region_code":"Gangwondo",
-            "sub_region_code":"4275000000_Gangwondo_Yeongwol"
+            "sub_region_code":"4275000000_Gangwondo_Yeongwol",
+            "shorten_url":"https:\/\/me2.do\/xgG2yMae"
         },
         {
             "index":3,
@@ -94,7 +101,8 @@
             "value_score":40.09385,
             "region":"강원도 영월군",
             "region_code":"Gangwondo",
-            "sub_region_code":"4275000000_Gangwondo_Yeongwol"
+            "sub_region_code":"4275000000_Gangwondo_Yeongwol",
+            "shorten_url":"https:\/\/me2.do\/xgG2yMae"
         },
         {
             "index":4,
@@ -106,7 +114,8 @@
             "value_score":39.84385,
             "region":"강원도 영월군",
             "region_code":"Gangwondo",
-            "sub_region_code":"4275000000_Gangwondo_Yeongwol"
+            "sub_region_code":"4275000000_Gangwondo_Yeongwol",
+            "shorten_url":"https:\/\/me2.do\/xgG2yMae"
         },
         {
             "index":5,
@@ -118,7 +127,8 @@
             "value_score":39.34385,
             "region":"강원도 영월군",
             "region_code":"Gangwondo",
-            "sub_region_code":"4275000000_Gangwondo_Yeongwol"
+            "sub_region_code":"4275000000_Gangwondo_Yeongwol",
+            "shorten_url":"https:\/\/me2.do\/xgG2yMae"
         },
         {
             "index":6,
@@ -130,7 +140,8 @@
             "value_score":36.97275,
             "region":"강원도 영월군",
             "region_code":"Gangwondo",
-            "sub_region_code":"4275000000_Gangwondo_Yeongwol"
+            "sub_region_code":"4275000000_Gangwondo_Yeongwol",
+            "shorten_url":"https:\/\/me2.do\/xgG2yMae"
         },
         {
             "index":7,
@@ -142,7 +153,8 @@
             "value_score":35.69385,
             "region":"강원도 영월군",
             "region_code":"Gangwondo",
-            "sub_region_code":"4275000000_Gangwondo_Yeongwol"
+            "sub_region_code":"4275000000_Gangwondo_Yeongwol",
+            "shorten_url":"https:\/\/me2.do\/xgG2yMae"
         },
         {
             "index":8,
@@ -154,7 +166,8 @@
             "value_score":34.14385,
             "region":"강원도 영월군",
             "region_code":"Gangwondo",
-            "sub_region_code":"4275000000_Gangwondo_Yeongwol"
+            "sub_region_code":"4275000000_Gangwondo_Yeongwol",
+            "shorten_url":"https:\/\/me2.do\/xgG2yMae"
         },
         {
             "index":9,
@@ -166,7 +179,8 @@
             "value_score":31.94385,
             "region":"강원도 영월군",
             "region_code":"Gangwondo",
-            "sub_region_code":"4275000000_Gangwondo_Yeongwol"
+            "sub_region_code":"4275000000_Gangwondo_Yeongwol",
+            "shorten_url":"https:\/\/me2.do\/xgG2yMae"
         },
         {
             "index":10,
@@ -178,7 +192,8 @@
             "value_score":41.20275,
             "region":"강원도 영월군",
             "region_code":"Gangwondo",
-            "sub_region_code":"4275000000_Gangwondo_Yeongwol"
+            "sub_region_code":"4275000000_Gangwondo_Yeongwol",
+            "shorten_url":"https:\/\/me2.do\/xgG2yMae"
         },
         {
             "index":11,
@@ -190,7 +205,8 @@
             "value_score":40.71525,
             "region":"강원도 영월군",
             "region_code":"Gangwondo",
-            "sub_region_code":"4275000000_Gangwondo_Yeongwol"
+            "sub_region_code":"4275000000_Gangwondo_Yeongwol",
+            "shorten_url":"https:\/\/me2.do\/xgG2yMae"
         },
         {
             "index":12,
@@ -202,7 +218,8 @@
             "value_score":40.31525,
             "region":"강원도 영월군",
             "region_code":"Gangwondo",
-            "sub_region_code":"4275000000_Gangwondo_Yeongwol"
+            "sub_region_code":"4275000000_Gangwondo_Yeongwol",
+            "shorten_url":"https:\/\/me2.do\/xgG2yMae"
         },
         {
             "index":13,
@@ -214,7 +231,8 @@
             "value_score":40.20275,
             "region":"강원도 영월군",
             "region_code":"Gangwondo",
-            "sub_region_code":"4275000000_Gangwondo_Yeongwol"
+            "sub_region_code":"4275000000_Gangwondo_Yeongwol",
+            "shorten_url":"https:\/\/me2.do\/xgG2yMae"
         },
         {
             "index":14,
@@ -226,7 +244,8 @@
             "value_score":39.35275,
             "region":"강원도 영월군",
             "region_code":"Gangwondo",
-            "sub_region_code":"4275000000_Gangwondo_Yeongwol"
+            "sub_region_code":"4275000000_Gangwondo_Yeongwol",
+            "shorten_url":"https:\/\/me2.do\/xgG2yMae"
         },
         {
             "index":15,
@@ -238,7 +257,8 @@
             "value_score":38.60275,
             "region":"강원도 영월군",
             "region_code":"Gangwondo",
-            "sub_region_code":"4275000000_Gangwondo_Yeongwol"
+            "sub_region_code":"4275000000_Gangwondo_Yeongwol",
+            "shorten_url":"https:\/\/me2.do\/xgG2yMae"
         },
         {
             "index":16,
@@ -250,7 +270,8 @@
             "value_score":37.61625,
             "region":"강원도 영월군",
             "region_code":"Gangwondo",
-            "sub_region_code":"4275000000_Gangwondo_Yeongwol"
+            "sub_region_code":"4275000000_Gangwondo_Yeongwol",
+            "shorten_url":"https:\/\/me2.do\/xgG2yMae"
         },
         {
             "index":17,
@@ -262,7 +283,8 @@
             "value_score":34.10275,
             "region":"강원도 영월군",
             "region_code":"Gangwondo",
-            "sub_region_code":"4275000000_Gangwondo_Yeongwol"
+            "sub_region_code":"4275000000_Gangwondo_Yeongwol",
+            "shorten_url":"https:\/\/me2.do\/xgG2yMae"
         },
         {
             "index":18,
@@ -274,7 +296,8 @@
             "value_score":32.95275,
             "region":"강원도 영월군",
             "region_code":"Gangwondo",
-            "sub_region_code":"4275000000_Gangwondo_Yeongwol"
+            "sub_region_code":"4275000000_Gangwondo_Yeongwol",
+            "shorten_url":"https:\/\/me2.do\/xgG2yMae"
         },
         {
             "index":19,
@@ -286,7 +309,8 @@
             "value_score":29.10275,
             "region":"강원도 영월군",
             "region_code":"Gangwondo",
-            "sub_region_code":"4275000000_Gangwondo_Yeongwol"
+            "sub_region_code":"4275000000_Gangwondo_Yeongwol",
+            "shorten_url":"https:\/\/me2.do\/xgG2yMae"
         },
         {
             "index":20,
@@ -298,7 +322,8 @@
             "value_score":38.1824210526,
             "region":"강원도 영월군",
             "region_code":"Gangwondo",
-            "sub_region_code":"4275000000_Gangwondo_Yeongwol"
+            "sub_region_code":"4275000000_Gangwondo_Yeongwol",
+            "shorten_url":"https:\/\/me2.do\/xgG2yMae"
         },
         {
             "index":21,
@@ -310,7 +335,8 @@
             "value_score":36.6034736842,
             "region":"강원도 영월군",
             "region_code":"Gangwondo",
-            "sub_region_code":"4275000000_Gangwondo_Yeongwol"
+            "sub_region_code":"4275000000_Gangwondo_Yeongwol",
+            "shorten_url":"https:\/\/me2.do\/xgG2yMae"
         },
         {
             "index":22,
@@ -322,7 +348,8 @@
             "value_score":36.0876842105,
             "region":"강원도 영월군",
             "region_code":"Gangwondo",
-            "sub_region_code":"4275000000_Gangwondo_Yeongwol"
+            "sub_region_code":"4275000000_Gangwondo_Yeongwol",
+            "shorten_url":"https:\/\/me2.do\/xgG2yMae"
         },
         {
             "index":23,
@@ -334,7 +361,8 @@
             "value_score":35.3929473684,
             "region":"강원도 영월군",
             "region_code":"Gangwondo",
-            "sub_region_code":"4275000000_Gangwondo_Yeongwol"
+            "sub_region_code":"4275000000_Gangwondo_Yeongwol",
+            "shorten_url":"https:\/\/me2.do\/xgG2yMae"
         },
         {
             "index":24,
@@ -346,7 +374,8 @@
             "value_score":35.3929473684,
             "region":"강원도 영월군",
             "region_code":"Gangwondo",
-            "sub_region_code":"4275000000_Gangwondo_Yeongwol"
+            "sub_region_code":"4275000000_Gangwondo_Yeongwol",
+            "shorten_url":"https:\/\/me2.do\/xgG2yMae"
         },
         {
             "index":25,
@@ -358,7 +387,8 @@
             "value_score":34.7350526316,
             "region":"강원도 영월군",
             "region_code":"Gangwondo",
-            "sub_region_code":"4275000000_Gangwondo_Yeongwol"
+            "sub_region_code":"4275000000_Gangwondo_Yeongwol",
+            "shorten_url":"https:\/\/me2.do\/xgG2yMae"
         },
         {
             "index":26,
@@ -370,7 +400,8 @@
             "value_score":32.7613684211,
             "region":"강원도 영월군",
             "region_code":"Gangwondo",
-            "sub_region_code":"4275000000_Gangwondo_Yeongwol"
+            "sub_region_code":"4275000000_Gangwondo_Yeongwol",
+            "shorten_url":"https:\/\/me2.do\/xgG2yMae"
         },
         {
             "index":27,
@@ -382,7 +413,8 @@
             "value_score":30.4455789474,
             "region":"강원도 영월군",
             "region_code":"Gangwondo",
-            "sub_region_code":"4275000000_Gangwondo_Yeongwol"
+            "sub_region_code":"4275000000_Gangwondo_Yeongwol",
+            "shorten_url":"https:\/\/me2.do\/xgG2yMae"
         },
         {
             "index":28,
@@ -394,7 +426,8 @@
             "value_score":30.2718947368,
             "region":"강원도 영월군",
             "region_code":"Gangwondo",
-            "sub_region_code":"4275000000_Gangwondo_Yeongwol"
+            "sub_region_code":"4275000000_Gangwondo_Yeongwol",
+            "shorten_url":"https:\/\/me2.do\/xgG2yMae"
         },
         {
             "index":29,
@@ -406,7 +439,8 @@
             "value_score":30.1297894737,
             "region":"강원도 영월군",
             "region_code":"Gangwondo",
-            "sub_region_code":"4275000000_Gangwondo_Yeongwol"
+            "sub_region_code":"4275000000_Gangwondo_Yeongwol",
+            "shorten_url":"https:\/\/me2.do\/xgG2yMae"
         },
         {
             "index":30,
@@ -418,7 +452,8 @@
             "value_score":41.2055,
             "region":"강원도 영월군",
             "region_code":"Gangwondo",
-            "sub_region_code":"4275000000_Gangwondo_Yeongwol"
+            "sub_region_code":"4275000000_Gangwondo_Yeongwol",
+            "shorten_url":"https:\/\/me2.do\/xgG2yMae"
         },
         {
             "index":31,
@@ -430,7 +465,8 @@
             "value_score":41.1555,
             "region":"강원도 영월군",
             "region_code":"Gangwondo",
-            "sub_region_code":"4275000000_Gangwondo_Yeongwol"
+            "sub_region_code":"4275000000_Gangwondo_Yeongwol",
+            "shorten_url":"https:\/\/me2.do\/xgG2yMae"
         },
         {
             "index":32,
@@ -442,7 +478,8 @@
             "value_score":40.4555,
             "region":"강원도 영월군",
             "region_code":"Gangwondo",
-            "sub_region_code":"4275000000_Gangwondo_Yeongwol"
+            "sub_region_code":"4275000000_Gangwondo_Yeongwol",
+            "shorten_url":"https:\/\/me2.do\/xgG2yMae"
         },
         {
             "index":33,
@@ -454,7 +491,8 @@
             "value_score":39.8055,
             "region":"강원도 영월군",
             "region_code":"Gangwondo",
-            "sub_region_code":"4275000000_Gangwondo_Yeongwol"
+            "sub_region_code":"4275000000_Gangwondo_Yeongwol",
+            "shorten_url":"https:\/\/me2.do\/xgG2yMae"
         },
         {
             "index":34,
@@ -466,7 +504,8 @@
             "value_score":39.4305,
             "region":"강원도 영월군",
             "region_code":"Gangwondo",
-            "sub_region_code":"4275000000_Gangwondo_Yeongwol"
+            "sub_region_code":"4275000000_Gangwondo_Yeongwol",
+            "shorten_url":"https:\/\/me2.do\/xgG2yMae"
         },
         {
             "index":35,
@@ -478,7 +517,8 @@
             "value_score":39.3055,
             "region":"강원도 영월군",
             "region_code":"Gangwondo",
-            "sub_region_code":"4275000000_Gangwondo_Yeongwol"
+            "sub_region_code":"4275000000_Gangwondo_Yeongwol",
+            "shorten_url":"https:\/\/me2.do\/xgG2yMae"
         },
         {
             "index":36,
@@ -490,7 +530,8 @@
             "value_score":38.0805,
             "region":"강원도 영월군",
             "region_code":"Gangwondo",
-            "sub_region_code":"4275000000_Gangwondo_Yeongwol"
+            "sub_region_code":"4275000000_Gangwondo_Yeongwol",
+            "shorten_url":"https:\/\/me2.do\/xgG2yMae"
         },
         {
             "index":37,
@@ -502,7 +543,8 @@
             "value_score":36.2055,
             "region":"강원도 영월군",
             "region_code":"Gangwondo",
-            "sub_region_code":"4275000000_Gangwondo_Yeongwol"
+            "sub_region_code":"4275000000_Gangwondo_Yeongwol",
+            "shorten_url":"https:\/\/me2.do\/xgG2yMae"
         },
         {
             "index":38,
@@ -514,7 +556,8 @@
             "value_score":36.2055,
             "region":"강원도 영월군",
             "region_code":"Gangwondo",
-            "sub_region_code":"4275000000_Gangwondo_Yeongwol"
+            "sub_region_code":"4275000000_Gangwondo_Yeongwol",
+            "shorten_url":"https:\/\/me2.do\/xgG2yMae"
         },
         {
             "index":39,
@@ -526,7 +569,8 @@
             "value_score":36.0075,
             "region":"강원도 영월군",
             "region_code":"Gangwondo",
-            "sub_region_code":"4275000000_Gangwondo_Yeongwol"
+            "sub_region_code":"4275000000_Gangwondo_Yeongwol",
+            "shorten_url":"https:\/\/me2.do\/xgG2yMae"
         }
     ]
 }

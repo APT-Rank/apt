@@ -40,6 +40,10 @@
             {
                 "name":"sub_region_code",
                 "type":"string"
+            },
+            {
+                "name":"shorten_url",
+                "type":"string"
             }
         ],
         "primaryKey":[
@@ -58,7 +62,8 @@
             "value_score":69.2736,
             "region":"부산시 수영구",
             "region_code":"Busan",
-            "sub_region_code":"2650000000_Busan_Suyeong"
+            "sub_region_code":"2650000000_Busan_Suyeong",
+            "shorten_url":"https:\/\/me2.do\/xhArjYB9"
         },
         {
             "index":1,
@@ -70,7 +75,8 @@
             "value_score":68.3036,
             "region":"부산시 수영구",
             "region_code":"Busan",
-            "sub_region_code":"2650000000_Busan_Suyeong"
+            "sub_region_code":"2650000000_Busan_Suyeong",
+            "shorten_url":"https:\/\/me2.do\/xhArjYB9"
         },
         {
             "index":2,
@@ -82,7 +88,8 @@
             "value_score":67.7536,
             "region":"부산시 수영구",
             "region_code":"Busan",
-            "sub_region_code":"2650000000_Busan_Suyeong"
+            "sub_region_code":"2650000000_Busan_Suyeong",
+            "shorten_url":"https:\/\/me2.do\/xhArjYB9"
         },
         {
             "index":3,
@@ -94,7 +101,8 @@
             "value_score":66.588,
             "region":"부산시 수영구",
             "region_code":"Busan",
-            "sub_region_code":"2650000000_Busan_Suyeong"
+            "sub_region_code":"2650000000_Busan_Suyeong",
+            "shorten_url":"https:\/\/me2.do\/xhArjYB9"
         },
         {
             "index":4,
@@ -106,7 +114,8 @@
             "value_score":65.5948,
             "region":"부산시 수영구",
             "region_code":"Busan",
-            "sub_region_code":"2650000000_Busan_Suyeong"
+            "sub_region_code":"2650000000_Busan_Suyeong",
+            "shorten_url":"https:\/\/me2.do\/xhArjYB9"
         },
         {
             "index":5,
@@ -118,7 +127,8 @@
             "value_score":65.338,
             "region":"부산시 수영구",
             "region_code":"Busan",
-            "sub_region_code":"2650000000_Busan_Suyeong"
+            "sub_region_code":"2650000000_Busan_Suyeong",
+            "shorten_url":"https:\/\/me2.do\/xhArjYB9"
         },
         {
             "index":6,
@@ -130,7 +140,8 @@
             "value_score":63.2948,
             "region":"부산시 수영구",
             "region_code":"Busan",
-            "sub_region_code":"2650000000_Busan_Suyeong"
+            "sub_region_code":"2650000000_Busan_Suyeong",
+            "shorten_url":"https:\/\/me2.do\/xhArjYB9"
         },
         {
             "index":7,
@@ -142,7 +153,8 @@
             "value_score":63.1122,
             "region":"부산시 수영구",
             "region_code":"Busan",
-            "sub_region_code":"2650000000_Busan_Suyeong"
+            "sub_region_code":"2650000000_Busan_Suyeong",
+            "shorten_url":"https:\/\/me2.do\/xhArjYB9"
         },
         {
             "index":8,
@@ -154,7 +166,8 @@
             "value_score":62.4609,
             "region":"부산시 수영구",
             "region_code":"Busan",
-            "sub_region_code":"2650000000_Busan_Suyeong"
+            "sub_region_code":"2650000000_Busan_Suyeong",
+            "shorten_url":"https:\/\/me2.do\/xhArjYB9"
         },
         {
             "index":9,
@@ -166,7 +179,8 @@
             "value_score":60.8283,
             "region":"부산시 수영구",
             "region_code":"Busan",
-            "sub_region_code":"2650000000_Busan_Suyeong"
+            "sub_region_code":"2650000000_Busan_Suyeong",
+            "shorten_url":"https:\/\/me2.do\/xhArjYB9"
         },
         {
             "index":10,
@@ -178,7 +192,8 @@
             "value_score":68.6824,
             "region":"부산시 수영구",
             "region_code":"Busan",
-            "sub_region_code":"2650000000_Busan_Suyeong"
+            "sub_region_code":"2650000000_Busan_Suyeong",
+            "shorten_url":"https:\/\/me2.do\/xhArjYB9"
         },
         {
             "index":11,
@@ -190,7 +205,8 @@
             "value_score":67.892,
             "region":"부산시 수영구",
             "region_code":"Busan",
-            "sub_region_code":"2650000000_Busan_Suyeong"
+            "sub_region_code":"2650000000_Busan_Suyeong",
+            "shorten_url":"https:\/\/me2.do\/xhArjYB9"
         },
         {
             "index":12,
@@ -202,7 +218,8 @@
             "value_score":67.542,
             "region":"부산시 수영구",
             "region_code":"Busan",
-            "sub_region_code":"2650000000_Busan_Suyeong"
+            "sub_region_code":"2650000000_Busan_Suyeong",
+            "shorten_url":"https:\/\/me2.do\/xhArjYB9"
         },
         {
             "index":13,
@@ -214,7 +231,8 @@
             "value_score":66.6632,
             "region":"부산시 수영구",
             "region_code":"Busan",
-            "sub_region_code":"2650000000_Busan_Suyeong"
+            "sub_region_code":"2650000000_Busan_Suyeong",
+            "shorten_url":"https:\/\/me2.do\/xhArjYB9"
         },
         {
             "index":14,
@@ -226,7 +244,8 @@
             "value_score":66.6124,
             "region":"부산시 수영구",
             "region_code":"Busan",
-            "sub_region_code":"2650000000_Busan_Suyeong"
+            "sub_region_code":"2650000000_Busan_Suyeong",
+            "shorten_url":"https:\/\/me2.do\/xhArjYB9"
         },
         {
             "index":15,
@@ -238,7 +257,8 @@
             "value_score":66.0406,
             "region":"부산시 수영구",
             "region_code":"Busan",
-            "sub_region_code":"2650000000_Busan_Suyeong"
+            "sub_region_code":"2650000000_Busan_Suyeong",
+            "shorten_url":"https:\/\/me2.do\/xhArjYB9"
         },
         {
             "index":16,
@@ -250,7 +270,8 @@
             "value_score":65.5522,
             "region":"부산시 수영구",
             "region_code":"Busan",
-            "sub_region_code":"2650000000_Busan_Suyeong"
+            "sub_region_code":"2650000000_Busan_Suyeong",
+            "shorten_url":"https:\/\/me2.do\/xhArjYB9"
         },
         {
             "index":17,
@@ -262,7 +283,8 @@
             "value_score":64.3624,
             "region":"부산시 수영구",
             "region_code":"Busan",
-            "sub_region_code":"2650000000_Busan_Suyeong"
+            "sub_region_code":"2650000000_Busan_Suyeong",
+            "shorten_url":"https:\/\/me2.do\/xhArjYB9"
         },
         {
             "index":18,
@@ -274,7 +296,8 @@
             "value_score":63.5748,
             "region":"부산시 수영구",
             "region_code":"Busan",
-            "sub_region_code":"2650000000_Busan_Suyeong"
+            "sub_region_code":"2650000000_Busan_Suyeong",
+            "shorten_url":"https:\/\/me2.do\/xhArjYB9"
         },
         {
             "index":19,
@@ -286,7 +309,8 @@
             "value_score":61.9934,
             "region":"부산시 수영구",
             "region_code":"Busan",
-            "sub_region_code":"2650000000_Busan_Suyeong"
+            "sub_region_code":"2650000000_Busan_Suyeong",
+            "shorten_url":"https:\/\/me2.do\/xhArjYB9"
         },
         {
             "index":20,
@@ -298,7 +322,8 @@
             "value_score":75.674,
             "region":"부산시 수영구",
             "region_code":"Busan",
-            "sub_region_code":"2650000000_Busan_Suyeong"
+            "sub_region_code":"2650000000_Busan_Suyeong",
+            "shorten_url":"https:\/\/me2.do\/xhArjYB9"
         },
         {
             "index":21,
@@ -310,7 +335,8 @@
             "value_score":75.294,
             "region":"부산시 수영구",
             "region_code":"Busan",
-            "sub_region_code":"2650000000_Busan_Suyeong"
+            "sub_region_code":"2650000000_Busan_Suyeong",
+            "shorten_url":"https:\/\/me2.do\/xhArjYB9"
         },
         {
             "index":22,
@@ -322,7 +348,8 @@
             "value_score":73.9168,
             "region":"부산시 수영구",
             "region_code":"Busan",
-            "sub_region_code":"2650000000_Busan_Suyeong"
+            "sub_region_code":"2650000000_Busan_Suyeong",
+            "shorten_url":"https:\/\/me2.do\/xhArjYB9"
         },
         {
             "index":23,
@@ -334,7 +361,8 @@
             "value_score":73.649,
             "region":"부산시 수영구",
             "region_code":"Busan",
-            "sub_region_code":"2650000000_Busan_Suyeong"
+            "sub_region_code":"2650000000_Busan_Suyeong",
+            "shorten_url":"https:\/\/me2.do\/xhArjYB9"
         },
         {
             "index":24,
@@ -346,7 +374,8 @@
             "value_score":73.4974,
             "region":"부산시 수영구",
             "region_code":"Busan",
-            "sub_region_code":"2650000000_Busan_Suyeong"
+            "sub_region_code":"2650000000_Busan_Suyeong",
+            "shorten_url":"https:\/\/me2.do\/xhArjYB9"
         },
         {
             "index":25,
@@ -358,7 +387,8 @@
             "value_score":73.4474,
             "region":"부산시 수영구",
             "region_code":"Busan",
-            "sub_region_code":"2650000000_Busan_Suyeong"
+            "sub_region_code":"2650000000_Busan_Suyeong",
+            "shorten_url":"https:\/\/me2.do\/xhArjYB9"
         },
         {
             "index":26,
@@ -370,7 +400,8 @@
             "value_score":73.369,
             "region":"부산시 수영구",
             "region_code":"Busan",
-            "sub_region_code":"2650000000_Busan_Suyeong"
+            "sub_region_code":"2650000000_Busan_Suyeong",
+            "shorten_url":"https:\/\/me2.do\/xhArjYB9"
         },
         {
             "index":27,
@@ -382,7 +413,8 @@
             "value_score":73.3368,
             "region":"부산시 수영구",
             "region_code":"Busan",
-            "sub_region_code":"2650000000_Busan_Suyeong"
+            "sub_region_code":"2650000000_Busan_Suyeong",
+            "shorten_url":"https:\/\/me2.do\/xhArjYB9"
         },
         {
             "index":28,
@@ -394,7 +426,8 @@
             "value_score":73.1918,
             "region":"부산시 수영구",
             "region_code":"Busan",
-            "sub_region_code":"2650000000_Busan_Suyeong"
+            "sub_region_code":"2650000000_Busan_Suyeong",
+            "shorten_url":"https:\/\/me2.do\/xhArjYB9"
         },
         {
             "index":29,
@@ -406,7 +439,8 @@
             "value_score":72.3561,
             "region":"부산시 수영구",
             "region_code":"Busan",
-            "sub_region_code":"2650000000_Busan_Suyeong"
+            "sub_region_code":"2650000000_Busan_Suyeong",
+            "shorten_url":"https:\/\/me2.do\/xhArjYB9"
         },
         {
             "index":30,
@@ -418,7 +452,8 @@
             "value_score":62.74,
             "region":"부산시 수영구",
             "region_code":"Busan",
-            "sub_region_code":"2650000000_Busan_Suyeong"
+            "sub_region_code":"2650000000_Busan_Suyeong",
+            "shorten_url":"https:\/\/me2.do\/xhArjYB9"
         },
         {
             "index":31,
@@ -430,7 +465,8 @@
             "value_score":61.49,
             "region":"부산시 수영구",
             "region_code":"Busan",
-            "sub_region_code":"2650000000_Busan_Suyeong"
+            "sub_region_code":"2650000000_Busan_Suyeong",
+            "shorten_url":"https:\/\/me2.do\/xhArjYB9"
         },
         {
             "index":32,
@@ -442,7 +478,8 @@
             "value_score":61.429,
             "region":"부산시 수영구",
             "region_code":"Busan",
-            "sub_region_code":"2650000000_Busan_Suyeong"
+            "sub_region_code":"2650000000_Busan_Suyeong",
+            "shorten_url":"https:\/\/me2.do\/xhArjYB9"
         },
         {
             "index":33,
@@ -454,7 +491,8 @@
             "value_score":60.74,
             "region":"부산시 수영구",
             "region_code":"Busan",
-            "sub_region_code":"2650000000_Busan_Suyeong"
+            "sub_region_code":"2650000000_Busan_Suyeong",
+            "shorten_url":"https:\/\/me2.do\/xhArjYB9"
         },
         {
             "index":34,
@@ -466,7 +504,8 @@
             "value_score":60.14,
             "region":"부산시 수영구",
             "region_code":"Busan",
-            "sub_region_code":"2650000000_Busan_Suyeong"
+            "sub_region_code":"2650000000_Busan_Suyeong",
+            "shorten_url":"https:\/\/me2.do\/xhArjYB9"
         },
         {
             "index":35,
@@ -478,7 +517,8 @@
             "value_score":59.879,
             "region":"부산시 수영구",
             "region_code":"Busan",
-            "sub_region_code":"2650000000_Busan_Suyeong"
+            "sub_region_code":"2650000000_Busan_Suyeong",
+            "shorten_url":"https:\/\/me2.do\/xhArjYB9"
         },
         {
             "index":36,
@@ -490,7 +530,8 @@
             "value_score":59.17325,
             "region":"부산시 수영구",
             "region_code":"Busan",
-            "sub_region_code":"2650000000_Busan_Suyeong"
+            "sub_region_code":"2650000000_Busan_Suyeong",
+            "shorten_url":"https:\/\/me2.do\/xhArjYB9"
         },
         {
             "index":37,
@@ -502,7 +543,8 @@
             "value_score":59.02325,
             "region":"부산시 수영구",
             "region_code":"Busan",
-            "sub_region_code":"2650000000_Busan_Suyeong"
+            "sub_region_code":"2650000000_Busan_Suyeong",
+            "shorten_url":"https:\/\/me2.do\/xhArjYB9"
         },
         {
             "index":38,
@@ -514,7 +556,8 @@
             "value_score":58.87325,
             "region":"부산시 수영구",
             "region_code":"Busan",
-            "sub_region_code":"2650000000_Busan_Suyeong"
+            "sub_region_code":"2650000000_Busan_Suyeong",
+            "shorten_url":"https:\/\/me2.do\/xhArjYB9"
         },
         {
             "index":39,
@@ -526,7 +569,8 @@
             "value_score":58.87325,
             "region":"부산시 수영구",
             "region_code":"Busan",
-            "sub_region_code":"2650000000_Busan_Suyeong"
+            "sub_region_code":"2650000000_Busan_Suyeong",
+            "shorten_url":"https:\/\/me2.do\/xhArjYB9"
         },
         {
             "index":40,
@@ -538,7 +582,8 @@
             "value_score":67.156,
             "region":"부산시 수영구",
             "region_code":"Busan",
-            "sub_region_code":"2650000000_Busan_Suyeong"
+            "sub_region_code":"2650000000_Busan_Suyeong",
+            "shorten_url":"https:\/\/me2.do\/xhArjYB9"
         },
         {
             "index":41,
@@ -550,7 +595,8 @@
             "value_score":67.036,
             "region":"부산시 수영구",
             "region_code":"Busan",
-            "sub_region_code":"2650000000_Busan_Suyeong"
+            "sub_region_code":"2650000000_Busan_Suyeong",
+            "shorten_url":"https:\/\/me2.do\/xhArjYB9"
         },
         {
             "index":42,
@@ -562,7 +608,8 @@
             "value_score":66.736,
             "region":"부산시 수영구",
             "region_code":"Busan",
-            "sub_region_code":"2650000000_Busan_Suyeong"
+            "sub_region_code":"2650000000_Busan_Suyeong",
+            "shorten_url":"https:\/\/me2.do\/xhArjYB9"
         },
         {
             "index":43,
@@ -574,7 +621,8 @@
             "value_score":61.356,
             "region":"부산시 수영구",
             "region_code":"Busan",
-            "sub_region_code":"2650000000_Busan_Suyeong"
+            "sub_region_code":"2650000000_Busan_Suyeong",
+            "shorten_url":"https:\/\/me2.do\/xhArjYB9"
         },
         {
             "index":44,
@@ -586,7 +634,8 @@
             "value_score":60.856,
             "region":"부산시 수영구",
             "region_code":"Busan",
-            "sub_region_code":"2650000000_Busan_Suyeong"
+            "sub_region_code":"2650000000_Busan_Suyeong",
+            "shorten_url":"https:\/\/me2.do\/xhArjYB9"
         },
         {
             "index":45,
@@ -598,7 +647,8 @@
             "value_score":60.736,
             "region":"부산시 수영구",
             "region_code":"Busan",
-            "sub_region_code":"2650000000_Busan_Suyeong"
+            "sub_region_code":"2650000000_Busan_Suyeong",
+            "shorten_url":"https:\/\/me2.do\/xhArjYB9"
         },
         {
             "index":46,
@@ -610,7 +660,8 @@
             "value_score":59.956,
             "region":"부산시 수영구",
             "region_code":"Busan",
-            "sub_region_code":"2650000000_Busan_Suyeong"
+            "sub_region_code":"2650000000_Busan_Suyeong",
+            "shorten_url":"https:\/\/me2.do\/xhArjYB9"
         },
         {
             "index":47,
@@ -622,7 +673,8 @@
             "value_score":59.48,
             "region":"부산시 수영구",
             "region_code":"Busan",
-            "sub_region_code":"2650000000_Busan_Suyeong"
+            "sub_region_code":"2650000000_Busan_Suyeong",
+            "shorten_url":"https:\/\/me2.do\/xhArjYB9"
         },
         {
             "index":48,
@@ -634,7 +686,8 @@
             "value_score":59.258,
             "region":"부산시 수영구",
             "region_code":"Busan",
-            "sub_region_code":"2650000000_Busan_Suyeong"
+            "sub_region_code":"2650000000_Busan_Suyeong",
+            "shorten_url":"https:\/\/me2.do\/xhArjYB9"
         },
         {
             "index":49,
@@ -646,7 +699,8 @@
             "value_score":58.836,
             "region":"부산시 수영구",
             "region_code":"Busan",
-            "sub_region_code":"2650000000_Busan_Suyeong"
+            "sub_region_code":"2650000000_Busan_Suyeong",
+            "shorten_url":"https:\/\/me2.do\/xhArjYB9"
         }
     ]
 }

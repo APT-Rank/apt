@@ -40,6 +40,10 @@
             {
                 "name":"sub_region_code",
                 "type":"string"
+            },
+            {
+                "name":"shorten_url",
+                "type":"string"
             }
         ],
         "primaryKey":[
@@ -58,7 +62,8 @@
             "value_score":40.57185,
             "region":"전라남도 담양군",
             "region_code":"Jeollanamdo",
-            "sub_region_code":"4671000000_Jeollanamdo_Damyang"
+            "sub_region_code":"4671000000_Jeollanamdo_Damyang",
+            "shorten_url":"https:\/\/me2.do\/F4rAsPr3"
         },
         {
             "index":1,
@@ -70,7 +75,8 @@
             "value_score":40.57185,
             "region":"전라남도 담양군",
             "region_code":"Jeollanamdo",
-            "sub_region_code":"4671000000_Jeollanamdo_Damyang"
+            "sub_region_code":"4671000000_Jeollanamdo_Damyang",
+            "shorten_url":"https:\/\/me2.do\/F4rAsPr3"
         },
         {
             "index":2,
@@ -82,7 +88,8 @@
             "value_score":36.10365,
             "region":"전라남도 담양군",
             "region_code":"Jeollanamdo",
-            "sub_region_code":"4671000000_Jeollanamdo_Damyang"
+            "sub_region_code":"4671000000_Jeollanamdo_Damyang",
+            "shorten_url":"https:\/\/me2.do\/F4rAsPr3"
         },
         {
             "index":3,
@@ -94,7 +101,8 @@
             "value_score":33.90365,
             "region":"전라남도 담양군",
             "region_code":"Jeollanamdo",
-            "sub_region_code":"4671000000_Jeollanamdo_Damyang"
+            "sub_region_code":"4671000000_Jeollanamdo_Damyang",
+            "shorten_url":"https:\/\/me2.do\/F4rAsPr3"
         },
         {
             "index":4,
@@ -106,7 +114,8 @@
             "value_score":23.10365,
             "region":"전라남도 담양군",
             "region_code":"Jeollanamdo",
-            "sub_region_code":"4671000000_Jeollanamdo_Damyang"
+            "sub_region_code":"4671000000_Jeollanamdo_Damyang",
+            "shorten_url":"https:\/\/me2.do\/F4rAsPr3"
         },
         {
             "index":5,
@@ -118,7 +127,8 @@
             "value_score":41.62275,
             "region":"전라남도 담양군",
             "region_code":"Jeollanamdo",
-            "sub_region_code":"4671000000_Jeollanamdo_Damyang"
+            "sub_region_code":"4671000000_Jeollanamdo_Damyang",
+            "shorten_url":"https:\/\/me2.do\/F4rAsPr3"
         },
         {
             "index":6,
@@ -130,7 +140,8 @@
             "value_score":41.62275,
             "region":"전라남도 담양군",
             "region_code":"Jeollanamdo",
-            "sub_region_code":"4671000000_Jeollanamdo_Damyang"
+            "sub_region_code":"4671000000_Jeollanamdo_Damyang",
+            "shorten_url":"https:\/\/me2.do\/F4rAsPr3"
         },
         {
             "index":7,
@@ -142,7 +153,8 @@
             "value_score":35.10975,
             "region":"전라남도 담양군",
             "region_code":"Jeollanamdo",
-            "sub_region_code":"4671000000_Jeollanamdo_Damyang"
+            "sub_region_code":"4671000000_Jeollanamdo_Damyang",
+            "shorten_url":"https:\/\/me2.do\/F4rAsPr3"
         },
         {
             "index":8,
@@ -154,7 +166,8 @@
             "value_score":33.70975,
             "region":"전라남도 담양군",
             "region_code":"Jeollanamdo",
-            "sub_region_code":"4671000000_Jeollanamdo_Damyang"
+            "sub_region_code":"4671000000_Jeollanamdo_Damyang",
+            "shorten_url":"https:\/\/me2.do\/F4rAsPr3"
         },
         {
             "index":9,
@@ -166,7 +179,8 @@
             "value_score":20.35975,
             "region":"전라남도 담양군",
             "region_code":"Jeollanamdo",
-            "sub_region_code":"4671000000_Jeollanamdo_Damyang"
+            "sub_region_code":"4671000000_Jeollanamdo_Damyang",
+            "shorten_url":"https:\/\/me2.do\/F4rAsPr3"
         },
         {
             "index":10,
@@ -178,7 +192,8 @@
             "value_score":32.586,
             "region":"전라남도 담양군",
             "region_code":"Jeollanamdo",
-            "sub_region_code":"4671000000_Jeollanamdo_Damyang"
+            "sub_region_code":"4671000000_Jeollanamdo_Damyang",
+            "shorten_url":"https:\/\/me2.do\/F4rAsPr3"
         },
         {
             "index":11,
@@ -190,7 +205,8 @@
             "value_score":25.734,
             "region":"전라남도 담양군",
             "region_code":"Jeollanamdo",
-            "sub_region_code":"4671000000_Jeollanamdo_Damyang"
+            "sub_region_code":"4671000000_Jeollanamdo_Damyang",
+            "shorten_url":"https:\/\/me2.do\/F4rAsPr3"
         },
         {
             "index":12,
@@ -202,7 +218,8 @@
             "value_score":25.734,
             "region":"전라남도 담양군",
             "region_code":"Jeollanamdo",
-            "sub_region_code":"4671000000_Jeollanamdo_Damyang"
+            "sub_region_code":"4671000000_Jeollanamdo_Damyang",
+            "shorten_url":"https:\/\/me2.do\/F4rAsPr3"
         },
         {
             "index":13,
@@ -214,7 +231,8 @@
             "value_score":22.4807368421,
             "region":"전라남도 담양군",
             "region_code":"Jeollanamdo",
-            "sub_region_code":"4671000000_Jeollanamdo_Damyang"
+            "sub_region_code":"4671000000_Jeollanamdo_Damyang",
+            "shorten_url":"https:\/\/me2.do\/F4rAsPr3"
         },
         {
             "index":14,
@@ -226,7 +244,8 @@
             "value_score":17.1912631579,
             "region":"전라남도 담양군",
             "region_code":"Jeollanamdo",
-            "sub_region_code":"4671000000_Jeollanamdo_Damyang"
+            "sub_region_code":"4671000000_Jeollanamdo_Damyang",
+            "shorten_url":"https:\/\/me2.do\/F4rAsPr3"
         },
         {
             "index":15,
@@ -238,7 +257,8 @@
             "value_score":38.9955,
             "region":"전라남도 담양군",
             "region_code":"Jeollanamdo",
-            "sub_region_code":"4671000000_Jeollanamdo_Damyang"
+            "sub_region_code":"4671000000_Jeollanamdo_Damyang",
+            "shorten_url":"https:\/\/me2.do\/F4rAsPr3"
         },
         {
             "index":16,
@@ -250,7 +270,8 @@
             "value_score":38.9955,
             "region":"전라남도 담양군",
             "region_code":"Jeollanamdo",
-            "sub_region_code":"4671000000_Jeollanamdo_Damyang"
+            "sub_region_code":"4671000000_Jeollanamdo_Damyang",
+            "shorten_url":"https:\/\/me2.do\/F4rAsPr3"
         },
         {
             "index":17,
@@ -262,7 +283,8 @@
             "value_score":37.5945,
             "region":"전라남도 담양군",
             "region_code":"Jeollanamdo",
-            "sub_region_code":"4671000000_Jeollanamdo_Damyang"
+            "sub_region_code":"4671000000_Jeollanamdo_Damyang",
+            "shorten_url":"https:\/\/me2.do\/F4rAsPr3"
         },
         {
             "index":18,
@@ -274,7 +296,8 @@
             "value_score":34.1945,
             "region":"전라남도 담양군",
             "region_code":"Jeollanamdo",
-            "sub_region_code":"4671000000_Jeollanamdo_Damyang"
+            "sub_region_code":"4671000000_Jeollanamdo_Damyang",
+            "shorten_url":"https:\/\/me2.do\/F4rAsPr3"
         },
         {
             "index":19,
@@ -286,7 +309,8 @@
             "value_score":27.2195,
             "region":"전라남도 담양군",
             "region_code":"Jeollanamdo",
-            "sub_region_code":"4671000000_Jeollanamdo_Damyang"
+            "sub_region_code":"4671000000_Jeollanamdo_Damyang",
+            "shorten_url":"https:\/\/me2.do\/F4rAsPr3"
         }
     ]
 }

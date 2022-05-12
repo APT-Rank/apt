@@ -40,6 +40,10 @@
             {
                 "name":"sub_region_code",
                 "type":"string"
+            },
+            {
+                "name":"shorten_url",
+                "type":"string"
             }
         ],
         "primaryKey":[
@@ -58,7 +62,8 @@
             "value_score":69.3883,
             "region":"부산시 금정구",
             "region_code":"Busan",
-            "sub_region_code":"2641000000_Busan_Geumjeong"
+            "sub_region_code":"2641000000_Busan_Geumjeong",
+            "shorten_url":"https:\/\/me2.do\/GB0z6NZj"
         },
         {
             "index":1,
@@ -70,7 +75,8 @@
             "value_score":67.5256,
             "region":"부산시 금정구",
             "region_code":"Busan",
-            "sub_region_code":"2641000000_Busan_Geumjeong"
+            "sub_region_code":"2641000000_Busan_Geumjeong",
+            "shorten_url":"https:\/\/me2.do\/GB0z6NZj"
         },
         {
             "index":2,
@@ -82,7 +88,8 @@
             "value_score":66.9883,
             "region":"부산시 금정구",
             "region_code":"Busan",
-            "sub_region_code":"2641000000_Busan_Geumjeong"
+            "sub_region_code":"2641000000_Busan_Geumjeong",
+            "shorten_url":"https:\/\/me2.do\/GB0z6NZj"
         },
         {
             "index":3,
@@ -94,7 +101,8 @@
             "value_score":64.8703,
             "region":"부산시 금정구",
             "region_code":"Busan",
-            "sub_region_code":"2641000000_Busan_Geumjeong"
+            "sub_region_code":"2641000000_Busan_Geumjeong",
+            "shorten_url":"https:\/\/me2.do\/GB0z6NZj"
         },
         {
             "index":4,
@@ -106,7 +114,8 @@
             "value_score":64.4173410134,
             "region":"부산시 금정구",
             "region_code":"Busan",
-            "sub_region_code":"2641000000_Busan_Geumjeong"
+            "sub_region_code":"2641000000_Busan_Geumjeong",
+            "shorten_url":"https:\/\/me2.do\/GB0z6NZj"
         },
         {
             "index":5,
@@ -118,7 +127,8 @@
             "value_score":63.7871,
             "region":"부산시 금정구",
             "region_code":"Busan",
-            "sub_region_code":"2641000000_Busan_Geumjeong"
+            "sub_region_code":"2641000000_Busan_Geumjeong",
+            "shorten_url":"https:\/\/me2.do\/GB0z6NZj"
         },
         {
             "index":6,
@@ -130,7 +140,8 @@
             "value_score":63.1983,
             "region":"부산시 금정구",
             "region_code":"Busan",
-            "sub_region_code":"2641000000_Busan_Geumjeong"
+            "sub_region_code":"2641000000_Busan_Geumjeong",
+            "shorten_url":"https:\/\/me2.do\/GB0z6NZj"
         },
         {
             "index":7,
@@ -142,7 +153,8 @@
             "value_score":62.9326367408,
             "region":"부산시 금정구",
             "region_code":"Busan",
-            "sub_region_code":"2641000000_Busan_Geumjeong"
+            "sub_region_code":"2641000000_Busan_Geumjeong",
+            "shorten_url":"https:\/\/me2.do\/GB0z6NZj"
         },
         {
             "index":8,
@@ -154,7 +166,8 @@
             "value_score":62.4671,
             "region":"부산시 금정구",
             "region_code":"Busan",
-            "sub_region_code":"2641000000_Busan_Geumjeong"
+            "sub_region_code":"2641000000_Busan_Geumjeong",
+            "shorten_url":"https:\/\/me2.do\/GB0z6NZj"
         },
         {
             "index":9,
@@ -166,7 +179,8 @@
             "value_score":62.0106,
             "region":"부산시 금정구",
             "region_code":"Busan",
-            "sub_region_code":"2641000000_Busan_Geumjeong"
+            "sub_region_code":"2641000000_Busan_Geumjeong",
+            "shorten_url":"https:\/\/me2.do\/GB0z6NZj"
         },
         {
             "index":10,
@@ -178,7 +192,8 @@
             "value_score":67.8282273423,
             "region":"부산시 금정구",
             "region_code":"Busan",
-            "sub_region_code":"2641000000_Busan_Geumjeong"
+            "sub_region_code":"2641000000_Busan_Geumjeong",
+            "shorten_url":"https:\/\/me2.do\/GB0z6NZj"
         },
         {
             "index":11,
@@ -190,7 +205,8 @@
             "value_score":66.8422,
             "region":"부산시 금정구",
             "region_code":"Busan",
-            "sub_region_code":"2641000000_Busan_Geumjeong"
+            "sub_region_code":"2641000000_Busan_Geumjeong",
+            "shorten_url":"https:\/\/me2.do\/GB0z6NZj"
         },
         {
             "index":12,
@@ -202,7 +218,8 @@
             "value_score":66.5384244939,
             "region":"부산시 금정구",
             "region_code":"Busan",
-            "sub_region_code":"2641000000_Busan_Geumjeong"
+            "sub_region_code":"2641000000_Busan_Geumjeong",
+            "shorten_url":"https:\/\/me2.do\/GB0z6NZj"
         },
         {
             "index":13,
@@ -214,7 +231,8 @@
             "value_score":65.9604,
             "region":"부산시 금정구",
             "region_code":"Busan",
-            "sub_region_code":"2641000000_Busan_Geumjeong"
+            "sub_region_code":"2641000000_Busan_Geumjeong",
+            "shorten_url":"https:\/\/me2.do\/GB0z6NZj"
         },
         {
             "index":14,
@@ -226,7 +244,8 @@
             "value_score":64.6422,
             "region":"부산시 금정구",
             "region_code":"Busan",
-            "sub_region_code":"2641000000_Busan_Geumjeong"
+            "sub_region_code":"2641000000_Busan_Geumjeong",
+            "shorten_url":"https:\/\/me2.do\/GB0z6NZj"
         },
         {
             "index":15,
@@ -238,7 +257,8 @@
             "value_score":63.1914,
             "region":"부산시 금정구",
             "region_code":"Busan",
-            "sub_region_code":"2641000000_Busan_Geumjeong"
+            "sub_region_code":"2641000000_Busan_Geumjeong",
+            "shorten_url":"https:\/\/me2.do\/GB0z6NZj"
         },
         {
             "index":16,
@@ -250,7 +270,8 @@
             "value_score":59.8402,
             "region":"부산시 금정구",
             "region_code":"Busan",
-            "sub_region_code":"2641000000_Busan_Geumjeong"
+            "sub_region_code":"2641000000_Busan_Geumjeong",
+            "shorten_url":"https:\/\/me2.do\/GB0z6NZj"
         },
         {
             "index":17,
@@ -262,7 +283,8 @@
             "value_score":59.1422,
             "region":"부산시 금정구",
             "region_code":"Busan",
-            "sub_region_code":"2641000000_Busan_Geumjeong"
+            "sub_region_code":"2641000000_Busan_Geumjeong",
+            "shorten_url":"https:\/\/me2.do\/GB0z6NZj"
         },
         {
             "index":18,
@@ -274,7 +296,8 @@
             "value_score":58.8822,
             "region":"부산시 금정구",
             "region_code":"Busan",
-            "sub_region_code":"2641000000_Busan_Geumjeong"
+            "sub_region_code":"2641000000_Busan_Geumjeong",
+            "shorten_url":"https:\/\/me2.do\/GB0z6NZj"
         },
         {
             "index":19,
@@ -286,7 +309,8 @@
             "value_score":58.1714,
             "region":"부산시 금정구",
             "region_code":"Busan",
-            "sub_region_code":"2641000000_Busan_Geumjeong"
+            "sub_region_code":"2641000000_Busan_Geumjeong",
+            "shorten_url":"https:\/\/me2.do\/GB0z6NZj"
         },
         {
             "index":20,
@@ -298,7 +322,8 @@
             "value_score":81.39415,
             "region":"부산시 금정구",
             "region_code":"Busan",
-            "sub_region_code":"2641000000_Busan_Geumjeong"
+            "sub_region_code":"2641000000_Busan_Geumjeong",
+            "shorten_url":"https:\/\/me2.do\/GB0z6NZj"
         },
         {
             "index":21,
@@ -310,7 +335,8 @@
             "value_score":76.22515,
             "region":"부산시 금정구",
             "region_code":"Busan",
-            "sub_region_code":"2641000000_Busan_Geumjeong"
+            "sub_region_code":"2641000000_Busan_Geumjeong",
+            "shorten_url":"https:\/\/me2.do\/GB0z6NZj"
         },
         {
             "index":22,
@@ -322,7 +348,8 @@
             "value_score":75.99415,
             "region":"부산시 금정구",
             "region_code":"Busan",
-            "sub_region_code":"2641000000_Busan_Geumjeong"
+            "sub_region_code":"2641000000_Busan_Geumjeong",
+            "shorten_url":"https:\/\/me2.do\/GB0z6NZj"
         },
         {
             "index":23,
@@ -334,7 +361,8 @@
             "value_score":75.82355,
             "region":"부산시 금정구",
             "region_code":"Busan",
-            "sub_region_code":"2641000000_Busan_Geumjeong"
+            "sub_region_code":"2641000000_Busan_Geumjeong",
+            "shorten_url":"https:\/\/me2.do\/GB0z6NZj"
         },
         {
             "index":24,
@@ -346,7 +374,8 @@
             "value_score":74.64915,
             "region":"부산시 금정구",
             "region_code":"Busan",
-            "sub_region_code":"2641000000_Busan_Geumjeong"
+            "sub_region_code":"2641000000_Busan_Geumjeong",
+            "shorten_url":"https:\/\/me2.do\/GB0z6NZj"
         },
         {
             "index":25,
@@ -358,7 +387,8 @@
             "value_score":74.2088,
             "region":"부산시 금정구",
             "region_code":"Busan",
-            "sub_region_code":"2641000000_Busan_Geumjeong"
+            "sub_region_code":"2641000000_Busan_Geumjeong",
+            "shorten_url":"https:\/\/me2.do\/GB0z6NZj"
         },
         {
             "index":26,
@@ -370,7 +400,8 @@
             "value_score":74.2053,
             "region":"부산시 금정구",
             "region_code":"Busan",
-            "sub_region_code":"2641000000_Busan_Geumjeong"
+            "sub_region_code":"2641000000_Busan_Geumjeong",
+            "shorten_url":"https:\/\/me2.do\/GB0z6NZj"
         },
         {
             "index":27,
@@ -382,7 +413,8 @@
             "value_score":73.97415,
             "region":"부산시 금정구",
             "region_code":"Busan",
-            "sub_region_code":"2641000000_Busan_Geumjeong"
+            "sub_region_code":"2641000000_Busan_Geumjeong",
+            "shorten_url":"https:\/\/me2.do\/GB0z6NZj"
         },
         {
             "index":28,
@@ -394,7 +426,8 @@
             "value_score":73.9528,
             "region":"부산시 금정구",
             "region_code":"Busan",
-            "sub_region_code":"2641000000_Busan_Geumjeong"
+            "sub_region_code":"2641000000_Busan_Geumjeong",
+            "shorten_url":"https:\/\/me2.do\/GB0z6NZj"
         },
         {
             "index":29,
@@ -406,7 +439,8 @@
             "value_score":73.7338,
             "region":"부산시 금정구",
             "region_code":"Busan",
-            "sub_region_code":"2641000000_Busan_Geumjeong"
+            "sub_region_code":"2641000000_Busan_Geumjeong",
+            "shorten_url":"https:\/\/me2.do\/GB0z6NZj"
         },
         {
             "index":30,
@@ -418,7 +452,8 @@
             "value_score":69.86525,
             "region":"부산시 금정구",
             "region_code":"Busan",
-            "sub_region_code":"2641000000_Busan_Geumjeong"
+            "sub_region_code":"2641000000_Busan_Geumjeong",
+            "shorten_url":"https:\/\/me2.do\/GB0z6NZj"
         },
         {
             "index":31,
@@ -430,7 +465,8 @@
             "value_score":68.21525,
             "region":"부산시 금정구",
             "region_code":"Busan",
-            "sub_region_code":"2641000000_Busan_Geumjeong"
+            "sub_region_code":"2641000000_Busan_Geumjeong",
+            "shorten_url":"https:\/\/me2.do\/GB0z6NZj"
         },
         {
             "index":32,
@@ -442,7 +478,8 @@
             "value_score":68.148,
             "region":"부산시 금정구",
             "region_code":"Busan",
-            "sub_region_code":"2641000000_Busan_Geumjeong"
+            "sub_region_code":"2641000000_Busan_Geumjeong",
+            "shorten_url":"https:\/\/me2.do\/GB0z6NZj"
         },
         {
             "index":33,
@@ -454,7 +491,8 @@
             "value_score":67.76525,
             "region":"부산시 금정구",
             "region_code":"Busan",
-            "sub_region_code":"2641000000_Busan_Geumjeong"
+            "sub_region_code":"2641000000_Busan_Geumjeong",
+            "shorten_url":"https:\/\/me2.do\/GB0z6NZj"
         },
         {
             "index":34,
@@ -466,7 +504,8 @@
             "value_score":67.7255,
             "region":"부산시 금정구",
             "region_code":"Busan",
-            "sub_region_code":"2641000000_Busan_Geumjeong"
+            "sub_region_code":"2641000000_Busan_Geumjeong",
+            "shorten_url":"https:\/\/me2.do\/GB0z6NZj"
         },
         {
             "index":35,
@@ -478,7 +517,8 @@
             "value_score":67.31525,
             "region":"부산시 금정구",
             "region_code":"Busan",
-            "sub_region_code":"2641000000_Busan_Geumjeong"
+            "sub_region_code":"2641000000_Busan_Geumjeong",
+            "shorten_url":"https:\/\/me2.do\/GB0z6NZj"
         },
         {
             "index":36,
@@ -490,7 +530,8 @@
             "value_score":67.163,
             "region":"부산시 금정구",
             "region_code":"Busan",
-            "sub_region_code":"2641000000_Busan_Geumjeong"
+            "sub_region_code":"2641000000_Busan_Geumjeong",
+            "shorten_url":"https:\/\/me2.do\/GB0z6NZj"
         },
         {
             "index":37,
@@ -502,7 +543,8 @@
             "value_score":66.898,
             "region":"부산시 금정구",
             "region_code":"Busan",
-            "sub_region_code":"2641000000_Busan_Geumjeong"
+            "sub_region_code":"2641000000_Busan_Geumjeong",
+            "shorten_url":"https:\/\/me2.do\/GB0z6NZj"
         },
         {
             "index":38,
@@ -514,7 +556,8 @@
             "value_score":66.548,
             "region":"부산시 금정구",
             "region_code":"Busan",
-            "sub_region_code":"2641000000_Busan_Geumjeong"
+            "sub_region_code":"2641000000_Busan_Geumjeong",
+            "shorten_url":"https:\/\/me2.do\/GB0z6NZj"
         },
         {
             "index":39,
@@ -526,7 +569,8 @@
             "value_score":65.56525,
             "region":"부산시 금정구",
             "region_code":"Busan",
-            "sub_region_code":"2641000000_Busan_Geumjeong"
+            "sub_region_code":"2641000000_Busan_Geumjeong",
+            "shorten_url":"https:\/\/me2.do\/GB0z6NZj"
         },
         {
             "index":40,
@@ -538,7 +582,8 @@
             "value_score":66.1305,
             "region":"부산시 금정구",
             "region_code":"Busan",
-            "sub_region_code":"2641000000_Busan_Geumjeong"
+            "sub_region_code":"2641000000_Busan_Geumjeong",
+            "shorten_url":"https:\/\/me2.do\/GB0z6NZj"
         },
         {
             "index":41,
@@ -550,7 +595,8 @@
             "value_score":64.806,
             "region":"부산시 금정구",
             "region_code":"Busan",
-            "sub_region_code":"2641000000_Busan_Geumjeong"
+            "sub_region_code":"2641000000_Busan_Geumjeong",
+            "shorten_url":"https:\/\/me2.do\/GB0z6NZj"
         },
         {
             "index":42,
@@ -562,7 +608,8 @@
             "value_score":63.1455683557,
             "region":"부산시 금정구",
             "region_code":"Busan",
-            "sub_region_code":"2641000000_Busan_Geumjeong"
+            "sub_region_code":"2641000000_Busan_Geumjeong",
+            "shorten_url":"https:\/\/me2.do\/GB0z6NZj"
         },
         {
             "index":43,
@@ -574,7 +621,8 @@
             "value_score":62.5785,
             "region":"부산시 금정구",
             "region_code":"Busan",
-            "sub_region_code":"2641000000_Busan_Geumjeong"
+            "sub_region_code":"2641000000_Busan_Geumjeong",
+            "shorten_url":"https:\/\/me2.do\/GB0z6NZj"
         },
         {
             "index":44,
@@ -586,7 +634,8 @@
             "value_score":62.3305,
             "region":"부산시 금정구",
             "region_code":"Busan",
-            "sub_region_code":"2641000000_Busan_Geumjeong"
+            "sub_region_code":"2641000000_Busan_Geumjeong",
+            "shorten_url":"https:\/\/me2.do\/GB0z6NZj"
         },
         {
             "index":45,
@@ -598,7 +647,8 @@
             "value_score":62.0305,
             "region":"부산시 금정구",
             "region_code":"Busan",
-            "sub_region_code":"2641000000_Busan_Geumjeong"
+            "sub_region_code":"2641000000_Busan_Geumjeong",
+            "shorten_url":"https:\/\/me2.do\/GB0z6NZj"
         },
         {
             "index":46,
@@ -610,7 +660,8 @@
             "value_score":61.7585,
             "region":"부산시 금정구",
             "region_code":"Busan",
-            "sub_region_code":"2641000000_Busan_Geumjeong"
+            "sub_region_code":"2641000000_Busan_Geumjeong",
+            "shorten_url":"https:\/\/me2.do\/GB0z6NZj"
         },
         {
             "index":47,
@@ -622,7 +673,8 @@
             "value_score":61.176,
             "region":"부산시 금정구",
             "region_code":"Busan",
-            "sub_region_code":"2641000000_Busan_Geumjeong"
+            "sub_region_code":"2641000000_Busan_Geumjeong",
+            "shorten_url":"https:\/\/me2.do\/GB0z6NZj"
         },
         {
             "index":48,
@@ -634,7 +686,8 @@
             "value_score":61.1305,
             "region":"부산시 금정구",
             "region_code":"Busan",
-            "sub_region_code":"2641000000_Busan_Geumjeong"
+            "sub_region_code":"2641000000_Busan_Geumjeong",
+            "shorten_url":"https:\/\/me2.do\/GB0z6NZj"
         },
         {
             "index":49,
@@ -646,7 +699,8 @@
             "value_score":61.1305,
             "region":"부산시 금정구",
             "region_code":"Busan",
-            "sub_region_code":"2641000000_Busan_Geumjeong"
+            "sub_region_code":"2641000000_Busan_Geumjeong",
+            "shorten_url":"https:\/\/me2.do\/GB0z6NZj"
         }
     ]
 }

@@ -40,6 +40,10 @@
             {
                 "name":"sub_region_code",
                 "type":"string"
+            },
+            {
+                "name":"shorten_url",
+                "type":"string"
             }
         ],
         "primaryKey":[
@@ -58,7 +62,8 @@
             "value_score":36.0987,
             "region":"전라북도 임실군",
             "region_code":"Jeollabukdo",
-            "sub_region_code":"4575000000_Jeollabukdo_Imsil"
+            "sub_region_code":"4575000000_Jeollabukdo_Imsil",
+            "shorten_url":"https:\/\/me2.do\/xUEW5DYz"
         },
         {
             "index":1,
@@ -70,7 +75,8 @@
             "value_score":33.9987,
             "region":"전라북도 임실군",
             "region_code":"Jeollabukdo",
-            "sub_region_code":"4575000000_Jeollabukdo_Imsil"
+            "sub_region_code":"4575000000_Jeollabukdo_Imsil",
+            "shorten_url":"https:\/\/me2.do\/xUEW5DYz"
         },
         {
             "index":2,
@@ -82,7 +88,8 @@
             "value_score":27.50745,
             "region":"전라북도 임실군",
             "region_code":"Jeollabukdo",
-            "sub_region_code":"4575000000_Jeollabukdo_Imsil"
+            "sub_region_code":"4575000000_Jeollabukdo_Imsil",
+            "shorten_url":"https:\/\/me2.do\/xUEW5DYz"
         },
         {
             "index":3,
@@ -94,7 +101,8 @@
             "value_score":27.4987,
             "region":"전라북도 임실군",
             "region_code":"Jeollabukdo",
-            "sub_region_code":"4575000000_Jeollabukdo_Imsil"
+            "sub_region_code":"4575000000_Jeollabukdo_Imsil",
+            "shorten_url":"https:\/\/me2.do\/xUEW5DYz"
         },
         {
             "index":4,
@@ -106,7 +114,8 @@
             "value_score":36.8205,
             "region":"전라북도 임실군",
             "region_code":"Jeollabukdo",
-            "sub_region_code":"4575000000_Jeollabukdo_Imsil"
+            "sub_region_code":"4575000000_Jeollabukdo_Imsil",
+            "shorten_url":"https:\/\/me2.do\/xUEW5DYz"
         },
         {
             "index":5,
@@ -118,7 +127,8 @@
             "value_score":33.8205,
             "region":"전라북도 임실군",
             "region_code":"Jeollabukdo",
-            "sub_region_code":"4575000000_Jeollabukdo_Imsil"
+            "sub_region_code":"4575000000_Jeollabukdo_Imsil",
+            "shorten_url":"https:\/\/me2.do\/xUEW5DYz"
         },
         {
             "index":6,
@@ -130,7 +140,8 @@
             "value_score":25.5705,
             "region":"전라북도 임실군",
             "region_code":"Jeollabukdo",
-            "sub_region_code":"4575000000_Jeollabukdo_Imsil"
+            "sub_region_code":"4575000000_Jeollabukdo_Imsil",
+            "shorten_url":"https:\/\/me2.do\/xUEW5DYz"
         },
         {
             "index":7,
@@ -142,7 +153,8 @@
             "value_score":25.07675,
             "region":"전라북도 임실군",
             "region_code":"Jeollabukdo",
-            "sub_region_code":"4575000000_Jeollabukdo_Imsil"
+            "sub_region_code":"4575000000_Jeollabukdo_Imsil",
+            "shorten_url":"https:\/\/me2.do\/xUEW5DYz"
         },
         {
             "index":8,
@@ -154,7 +166,8 @@
             "value_score":28.2732631579,
             "region":"전라북도 임실군",
             "region_code":"Jeollabukdo",
-            "sub_region_code":"4575000000_Jeollabukdo_Imsil"
+            "sub_region_code":"4575000000_Jeollabukdo_Imsil",
+            "shorten_url":"https:\/\/me2.do\/xUEW5DYz"
         },
         {
             "index":9,
@@ -166,7 +179,8 @@
             "value_score":27.7811578947,
             "region":"전라북도 임실군",
             "region_code":"Jeollabukdo",
-            "sub_region_code":"4575000000_Jeollabukdo_Imsil"
+            "sub_region_code":"4575000000_Jeollabukdo_Imsil",
+            "shorten_url":"https:\/\/me2.do\/xUEW5DYz"
         },
         {
             "index":10,
@@ -178,7 +192,8 @@
             "value_score":26.5627368421,
             "region":"전라북도 임실군",
             "region_code":"Jeollabukdo",
-            "sub_region_code":"4575000000_Jeollabukdo_Imsil"
+            "sub_region_code":"4575000000_Jeollabukdo_Imsil",
+            "shorten_url":"https:\/\/me2.do\/xUEW5DYz"
         },
         {
             "index":11,
@@ -190,7 +205,8 @@
             "value_score":26.5364210526,
             "region":"전라북도 임실군",
             "region_code":"Jeollabukdo",
-            "sub_region_code":"4575000000_Jeollabukdo_Imsil"
+            "sub_region_code":"4575000000_Jeollabukdo_Imsil",
+            "shorten_url":"https:\/\/me2.do\/xUEW5DYz"
         },
         {
             "index":12,
@@ -202,7 +218,8 @@
             "value_score":35.016,
             "region":"전라북도 임실군",
             "region_code":"Jeollabukdo",
-            "sub_region_code":"4575000000_Jeollabukdo_Imsil"
+            "sub_region_code":"4575000000_Jeollabukdo_Imsil",
+            "shorten_url":"https:\/\/me2.do\/xUEW5DYz"
         },
         {
             "index":13,
@@ -214,7 +231,8 @@
             "value_score":34.266,
             "region":"전라북도 임실군",
             "region_code":"Jeollabukdo",
-            "sub_region_code":"4575000000_Jeollabukdo_Imsil"
+            "sub_region_code":"4575000000_Jeollabukdo_Imsil",
+            "shorten_url":"https:\/\/me2.do\/xUEW5DYz"
         },
         {
             "index":14,
@@ -226,7 +244,8 @@
             "value_score":31.1535,
             "region":"전라북도 임실군",
             "region_code":"Jeollabukdo",
-            "sub_region_code":"4575000000_Jeollabukdo_Imsil"
+            "sub_region_code":"4575000000_Jeollabukdo_Imsil",
+            "shorten_url":"https:\/\/me2.do\/xUEW5DYz"
         },
         {
             "index":15,
@@ -238,7 +257,8 @@
             "value_score":30.391,
             "region":"전라북도 임실군",
             "region_code":"Jeollabukdo",
-            "sub_region_code":"4575000000_Jeollabukdo_Imsil"
+            "sub_region_code":"4575000000_Jeollabukdo_Imsil",
+            "shorten_url":"https:\/\/me2.do\/xUEW5DYz"
         }
     ]
 }

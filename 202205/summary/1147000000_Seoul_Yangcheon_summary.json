@@ -40,6 +40,10 @@
             {
                 "name":"sub_region_code",
                 "type":"string"
+            },
+            {
+                "name":"shorten_url",
+                "type":"string"
             }
         ],
         "primaryKey":[
@@ -58,7 +62,8 @@
             "value_score":75.4824,
             "region":"서울시 양천구",
             "region_code":"Seoul",
-            "sub_region_code":"1147000000_Seoul_Yangcheon"
+            "sub_region_code":"1147000000_Seoul_Yangcheon",
+            "shorten_url":"https:\/\/me2.do\/xS8CVgWv"
         },
         {
             "index":1,
@@ -70,7 +75,8 @@
             "value_score":72.9215529486,
             "region":"서울시 양천구",
             "region_code":"Seoul",
-            "sub_region_code":"1147000000_Seoul_Yangcheon"
+            "sub_region_code":"1147000000_Seoul_Yangcheon",
+            "shorten_url":"https:\/\/me2.do\/xS8CVgWv"
         },
         {
             "index":2,
@@ -82,7 +88,8 @@
             "value_score":71.6859,
             "region":"서울시 양천구",
             "region_code":"Seoul",
-            "sub_region_code":"1147000000_Seoul_Yangcheon"
+            "sub_region_code":"1147000000_Seoul_Yangcheon",
+            "shorten_url":"https:\/\/me2.do\/xS8CVgWv"
         },
         {
             "index":3,
@@ -94,7 +101,8 @@
             "value_score":71.3324,
             "region":"서울시 양천구",
             "region_code":"Seoul",
-            "sub_region_code":"1147000000_Seoul_Yangcheon"
+            "sub_region_code":"1147000000_Seoul_Yangcheon",
+            "shorten_url":"https:\/\/me2.do\/xS8CVgWv"
         },
         {
             "index":4,
@@ -106,7 +114,8 @@
             "value_score":71.2859,
             "region":"서울시 양천구",
             "region_code":"Seoul",
-            "sub_region_code":"1147000000_Seoul_Yangcheon"
+            "sub_region_code":"1147000000_Seoul_Yangcheon",
+            "shorten_url":"https:\/\/me2.do\/xS8CVgWv"
         },
         {
             "index":5,
@@ -118,7 +127,8 @@
             "value_score":70.5324,
             "region":"서울시 양천구",
             "region_code":"Seoul",
-            "sub_region_code":"1147000000_Seoul_Yangcheon"
+            "sub_region_code":"1147000000_Seoul_Yangcheon",
+            "shorten_url":"https:\/\/me2.do\/xS8CVgWv"
         },
         {
             "index":6,
@@ -130,7 +140,8 @@
             "value_score":70.5324,
             "region":"서울시 양천구",
             "region_code":"Seoul",
-            "sub_region_code":"1147000000_Seoul_Yangcheon"
+            "sub_region_code":"1147000000_Seoul_Yangcheon",
+            "shorten_url":"https:\/\/me2.do\/xS8CVgWv"
         },
         {
             "index":7,
@@ -142,7 +153,8 @@
             "value_score":69.0496,
             "region":"서울시 양천구",
             "region_code":"Seoul",
-            "sub_region_code":"1147000000_Seoul_Yangcheon"
+            "sub_region_code":"1147000000_Seoul_Yangcheon",
+            "shorten_url":"https:\/\/me2.do\/xS8CVgWv"
         },
         {
             "index":8,
@@ -154,7 +166,8 @@
             "value_score":68.8359,
             "region":"서울시 양천구",
             "region_code":"Seoul",
-            "sub_region_code":"1147000000_Seoul_Yangcheon"
+            "sub_region_code":"1147000000_Seoul_Yangcheon",
+            "shorten_url":"https:\/\/me2.do\/xS8CVgWv"
         },
         {
             "index":9,
@@ -166,7 +179,8 @@
             "value_score":68.7359,
             "region":"서울시 양천구",
             "region_code":"Seoul",
-            "sub_region_code":"1147000000_Seoul_Yangcheon"
+            "sub_region_code":"1147000000_Seoul_Yangcheon",
+            "shorten_url":"https:\/\/me2.do\/xS8CVgWv"
         },
         {
             "index":10,
@@ -178,7 +192,8 @@
             "value_score":74.359,
             "region":"서울시 양천구",
             "region_code":"Seoul",
-            "sub_region_code":"1147000000_Seoul_Yangcheon"
+            "sub_region_code":"1147000000_Seoul_Yangcheon",
+            "shorten_url":"https:\/\/me2.do\/xS8CVgWv"
         },
         {
             "index":11,
@@ -190,7 +205,8 @@
             "value_score":71.9716,
             "region":"서울시 양천구",
             "region_code":"Seoul",
-            "sub_region_code":"1147000000_Seoul_Yangcheon"
+            "sub_region_code":"1147000000_Seoul_Yangcheon",
+            "shorten_url":"https:\/\/me2.do\/xS8CVgWv"
         },
         {
             "index":12,
@@ -202,7 +218,8 @@
             "value_score":71.9243686324,
             "region":"서울시 양천구",
             "region_code":"Seoul",
-            "sub_region_code":"1147000000_Seoul_Yangcheon"
+            "sub_region_code":"1147000000_Seoul_Yangcheon",
+            "shorten_url":"https:\/\/me2.do\/xS8CVgWv"
         },
         {
             "index":13,
@@ -214,7 +231,8 @@
             "value_score":70.1664,
             "region":"서울시 양천구",
             "region_code":"Seoul",
-            "sub_region_code":"1147000000_Seoul_Yangcheon"
+            "sub_region_code":"1147000000_Seoul_Yangcheon",
+            "shorten_url":"https:\/\/me2.do\/xS8CVgWv"
         },
         {
             "index":14,
@@ -226,7 +244,8 @@
             "value_score":67.8426,
             "region":"서울시 양천구",
             "region_code":"Seoul",
-            "sub_region_code":"1147000000_Seoul_Yangcheon"
+            "sub_region_code":"1147000000_Seoul_Yangcheon",
+            "shorten_url":"https:\/\/me2.do\/xS8CVgWv"
         },
         {
             "index":15,
@@ -238,7 +257,8 @@
             "value_score":66.9216,
             "region":"서울시 양천구",
             "region_code":"Seoul",
-            "sub_region_code":"1147000000_Seoul_Yangcheon"
+            "sub_region_code":"1147000000_Seoul_Yangcheon",
+            "shorten_url":"https:\/\/me2.do\/xS8CVgWv"
         },
         {
             "index":16,
@@ -250,7 +270,8 @@
             "value_score":66.5216,
             "region":"서울시 양천구",
             "region_code":"Seoul",
-            "sub_region_code":"1147000000_Seoul_Yangcheon"
+            "sub_region_code":"1147000000_Seoul_Yangcheon",
+            "shorten_url":"https:\/\/me2.do\/xS8CVgWv"
         },
         {
             "index":17,
@@ -262,7 +283,8 @@
             "value_score":66.5216,
             "region":"서울시 양천구",
             "region_code":"Seoul",
-            "sub_region_code":"1147000000_Seoul_Yangcheon"
+            "sub_region_code":"1147000000_Seoul_Yangcheon",
+            "shorten_url":"https:\/\/me2.do\/xS8CVgWv"
         },
         {
             "index":18,
@@ -274,7 +296,8 @@
             "value_score":66.4406,
             "region":"서울시 양천구",
             "region_code":"Seoul",
-            "sub_region_code":"1147000000_Seoul_Yangcheon"
+            "sub_region_code":"1147000000_Seoul_Yangcheon",
+            "shorten_url":"https:\/\/me2.do\/xS8CVgWv"
         },
         {
             "index":19,
@@ -286,7 +309,8 @@
             "value_score":66.009,
             "region":"서울시 양천구",
             "region_code":"Seoul",
-            "sub_region_code":"1147000000_Seoul_Yangcheon"
+            "sub_region_code":"1147000000_Seoul_Yangcheon",
+            "shorten_url":"https:\/\/me2.do\/xS8CVgWv"
         },
         {
             "index":20,
@@ -298,7 +322,8 @@
             "value_score":79.1162,
             "region":"서울시 양천구",
             "region_code":"Seoul",
-            "sub_region_code":"1147000000_Seoul_Yangcheon"
+            "sub_region_code":"1147000000_Seoul_Yangcheon",
+            "shorten_url":"https:\/\/me2.do\/xS8CVgWv"
         },
         {
             "index":21,
@@ -310,7 +335,8 @@
             "value_score":78.8912,
             "region":"서울시 양천구",
             "region_code":"Seoul",
-            "sub_region_code":"1147000000_Seoul_Yangcheon"
+            "sub_region_code":"1147000000_Seoul_Yangcheon",
+            "shorten_url":"https:\/\/me2.do\/xS8CVgWv"
         },
         {
             "index":22,
@@ -322,7 +348,8 @@
             "value_score":78.5412,
             "region":"서울시 양천구",
             "region_code":"Seoul",
-            "sub_region_code":"1147000000_Seoul_Yangcheon"
+            "sub_region_code":"1147000000_Seoul_Yangcheon",
+            "shorten_url":"https:\/\/me2.do\/xS8CVgWv"
         },
         {
             "index":23,
@@ -334,7 +361,8 @@
             "value_score":77.5007764743,
             "region":"서울시 양천구",
             "region_code":"Seoul",
-            "sub_region_code":"1147000000_Seoul_Yangcheon"
+            "sub_region_code":"1147000000_Seoul_Yangcheon",
+            "shorten_url":"https:\/\/me2.do\/xS8CVgWv"
         },
         {
             "index":24,
@@ -346,7 +374,8 @@
             "value_score":76.84295,
             "region":"서울시 양천구",
             "region_code":"Seoul",
-            "sub_region_code":"1147000000_Seoul_Yangcheon"
+            "sub_region_code":"1147000000_Seoul_Yangcheon",
+            "shorten_url":"https:\/\/me2.do\/xS8CVgWv"
         },
         {
             "index":25,
@@ -358,7 +387,8 @@
             "value_score":76.64295,
             "region":"서울시 양천구",
             "region_code":"Seoul",
-            "sub_region_code":"1147000000_Seoul_Yangcheon"
+            "sub_region_code":"1147000000_Seoul_Yangcheon",
+            "shorten_url":"https:\/\/me2.do\/xS8CVgWv"
         },
         {
             "index":26,
@@ -370,7 +400,8 @@
             "value_score":76.2912,
             "region":"서울시 양천구",
             "region_code":"Seoul",
-            "sub_region_code":"1147000000_Seoul_Yangcheon"
+            "sub_region_code":"1147000000_Seoul_Yangcheon",
+            "shorten_url":"https:\/\/me2.do\/xS8CVgWv"
         },
         {
             "index":27,
@@ -382,7 +413,8 @@
             "value_score":75.16795,
             "region":"서울시 양천구",
             "region_code":"Seoul",
-            "sub_region_code":"1147000000_Seoul_Yangcheon"
+            "sub_region_code":"1147000000_Seoul_Yangcheon",
+            "shorten_url":"https:\/\/me2.do\/xS8CVgWv"
         },
         {
             "index":28,
@@ -394,7 +426,8 @@
             "value_score":74.86795,
             "region":"서울시 양천구",
             "region_code":"Seoul",
-            "sub_region_code":"1147000000_Seoul_Yangcheon"
+            "sub_region_code":"1147000000_Seoul_Yangcheon",
+            "shorten_url":"https:\/\/me2.do\/xS8CVgWv"
         },
         {
             "index":29,
@@ -406,7 +439,8 @@
             "value_score":74.71795,
             "region":"서울시 양천구",
             "region_code":"Seoul",
-            "sub_region_code":"1147000000_Seoul_Yangcheon"
+            "sub_region_code":"1147000000_Seoul_Yangcheon",
+            "shorten_url":"https:\/\/me2.do\/xS8CVgWv"
         },
         {
             "index":30,
@@ -418,7 +452,8 @@
             "value_score":77.96325,
             "region":"서울시 양천구",
             "region_code":"Seoul",
-            "sub_region_code":"1147000000_Seoul_Yangcheon"
+            "sub_region_code":"1147000000_Seoul_Yangcheon",
+            "shorten_url":"https:\/\/me2.do\/xS8CVgWv"
         },
         {
             "index":31,
@@ -430,7 +465,8 @@
             "value_score":76.96325,
             "region":"서울시 양천구",
             "region_code":"Seoul",
-            "sub_region_code":"1147000000_Seoul_Yangcheon"
+            "sub_region_code":"1147000000_Seoul_Yangcheon",
+            "shorten_url":"https:\/\/me2.do\/xS8CVgWv"
         },
         {
             "index":32,
@@ -442,7 +478,8 @@
             "value_score":75.71325,
             "region":"서울시 양천구",
             "region_code":"Seoul",
-            "sub_region_code":"1147000000_Seoul_Yangcheon"
+            "sub_region_code":"1147000000_Seoul_Yangcheon",
+            "shorten_url":"https:\/\/me2.do\/xS8CVgWv"
         },
         {
             "index":33,
@@ -454,7 +491,8 @@
             "value_score":75.677,
             "region":"서울시 양천구",
             "region_code":"Seoul",
-            "sub_region_code":"1147000000_Seoul_Yangcheon"
+            "sub_region_code":"1147000000_Seoul_Yangcheon",
+            "shorten_url":"https:\/\/me2.do\/xS8CVgWv"
         },
         {
             "index":34,
@@ -466,7 +504,8 @@
             "value_score":75.61325,
             "region":"서울시 양천구",
             "region_code":"Seoul",
-            "sub_region_code":"1147000000_Seoul_Yangcheon"
+            "sub_region_code":"1147000000_Seoul_Yangcheon",
+            "shorten_url":"https:\/\/me2.do\/xS8CVgWv"
         },
         {
             "index":35,
@@ -478,7 +517,8 @@
             "value_score":74.26325,
             "region":"서울시 양천구",
             "region_code":"Seoul",
-            "sub_region_code":"1147000000_Seoul_Yangcheon"
+            "sub_region_code":"1147000000_Seoul_Yangcheon",
+            "shorten_url":"https:\/\/me2.do\/xS8CVgWv"
         },
         {
             "index":36,
@@ -490,7 +530,8 @@
             "value_score":74.077,
             "region":"서울시 양천구",
             "region_code":"Seoul",
-            "sub_region_code":"1147000000_Seoul_Yangcheon"
+            "sub_region_code":"1147000000_Seoul_Yangcheon",
+            "shorten_url":"https:\/\/me2.do\/xS8CVgWv"
         },
         {
             "index":37,
@@ -502,7 +543,8 @@
             "value_score":74.01325,
             "region":"서울시 양천구",
             "region_code":"Seoul",
-            "sub_region_code":"1147000000_Seoul_Yangcheon"
+            "sub_region_code":"1147000000_Seoul_Yangcheon",
+            "shorten_url":"https:\/\/me2.do\/xS8CVgWv"
         },
         {
             "index":38,
@@ -514,7 +556,8 @@
             "value_score":73.927,
             "region":"서울시 양천구",
             "region_code":"Seoul",
-            "sub_region_code":"1147000000_Seoul_Yangcheon"
+            "sub_region_code":"1147000000_Seoul_Yangcheon",
+            "shorten_url":"https:\/\/me2.do\/xS8CVgWv"
         },
         {
             "index":39,
@@ -526,7 +569,8 @@
             "value_score":73.927,
             "region":"서울시 양천구",
             "region_code":"Seoul",
-            "sub_region_code":"1147000000_Seoul_Yangcheon"
+            "sub_region_code":"1147000000_Seoul_Yangcheon",
+            "shorten_url":"https:\/\/me2.do\/xS8CVgWv"
         },
         {
             "index":40,
@@ -538,7 +582,8 @@
             "value_score":76.954,
             "region":"서울시 양천구",
             "region_code":"Seoul",
-            "sub_region_code":"1147000000_Seoul_Yangcheon"
+            "sub_region_code":"1147000000_Seoul_Yangcheon",
+            "shorten_url":"https:\/\/me2.do\/xS8CVgWv"
         },
         {
             "index":41,
@@ -550,7 +595,8 @@
             "value_score":73.6265,
             "region":"서울시 양천구",
             "region_code":"Seoul",
-            "sub_region_code":"1147000000_Seoul_Yangcheon"
+            "sub_region_code":"1147000000_Seoul_Yangcheon",
+            "shorten_url":"https:\/\/me2.do\/xS8CVgWv"
         },
         {
             "index":42,
@@ -562,7 +608,8 @@
             "value_score":73.6265,
             "region":"서울시 양천구",
             "region_code":"Seoul",
-            "sub_region_code":"1147000000_Seoul_Yangcheon"
+            "sub_region_code":"1147000000_Seoul_Yangcheon",
+            "shorten_url":"https:\/\/me2.do\/xS8CVgWv"
         },
         {
             "index":43,
@@ -574,7 +621,8 @@
             "value_score":72.8265,
             "region":"서울시 양천구",
             "region_code":"Seoul",
-            "sub_region_code":"1147000000_Seoul_Yangcheon"
+            "sub_region_code":"1147000000_Seoul_Yangcheon",
+            "shorten_url":"https:\/\/me2.do\/xS8CVgWv"
         },
         {
             "index":44,
@@ -586,7 +634,8 @@
             "value_score":72.4265,
             "region":"서울시 양천구",
             "region_code":"Seoul",
-            "sub_region_code":"1147000000_Seoul_Yangcheon"
+            "sub_region_code":"1147000000_Seoul_Yangcheon",
+            "shorten_url":"https:\/\/me2.do\/xS8CVgWv"
         },
         {
             "index":45,
@@ -598,7 +647,8 @@
             "value_score":72.254,
             "region":"서울시 양천구",
             "region_code":"Seoul",
-            "sub_region_code":"1147000000_Seoul_Yangcheon"
+            "sub_region_code":"1147000000_Seoul_Yangcheon",
+            "shorten_url":"https:\/\/me2.do\/xS8CVgWv"
         },
         {
             "index":46,
@@ -610,7 +660,8 @@
             "value_score":72.254,
             "region":"서울시 양천구",
             "region_code":"Seoul",
-            "sub_region_code":"1147000000_Seoul_Yangcheon"
+            "sub_region_code":"1147000000_Seoul_Yangcheon",
+            "shorten_url":"https:\/\/me2.do\/xS8CVgWv"
         },
         {
             "index":47,
@@ -622,7 +673,8 @@
             "value_score":70.8659215809,
             "region":"서울시 양천구",
             "region_code":"Seoul",
-            "sub_region_code":"1147000000_Seoul_Yangcheon"
+            "sub_region_code":"1147000000_Seoul_Yangcheon",
+            "shorten_url":"https:\/\/me2.do\/xS8CVgWv"
         },
         {
             "index":48,
@@ -634,7 +686,8 @@
             "value_score":70.554,
             "region":"서울시 양천구",
             "region_code":"Seoul",
-            "sub_region_code":"1147000000_Seoul_Yangcheon"
+            "sub_region_code":"1147000000_Seoul_Yangcheon",
+            "shorten_url":"https:\/\/me2.do\/xS8CVgWv"
         },
         {
             "index":49,
@@ -646,7 +699,8 @@
             "value_score":70.3265,
             "region":"서울시 양천구",
             "region_code":"Seoul",
-            "sub_region_code":"1147000000_Seoul_Yangcheon"
+            "sub_region_code":"1147000000_Seoul_Yangcheon",
+            "shorten_url":"https:\/\/me2.do\/xS8CVgWv"
         }
     ]
 }

@@ -40,6 +40,10 @@
             {
                 "name":"sub_region_code",
                 "type":"string"
+            },
+            {
+                "name":"shorten_url",
+                "type":"string"
             }
         ],
         "primaryKey":[
@@ -58,7 +62,8 @@
             "value_score":46.03215,
             "region":"충청북도 옥천군",
             "region_code":"Chungcheongbukdo",
-            "sub_region_code":"4373000000_Chungcheongbukdo_Okcheon"
+            "sub_region_code":"4373000000_Chungcheongbukdo_Okcheon",
+            "shorten_url":"https:\/\/me2.do\/5HUQwvHV"
         },
         {
             "index":1,
@@ -70,7 +75,8 @@
             "value_score":42.78555,
             "region":"충청북도 옥천군",
             "region_code":"Chungcheongbukdo",
-            "sub_region_code":"4373000000_Chungcheongbukdo_Okcheon"
+            "sub_region_code":"4373000000_Chungcheongbukdo_Okcheon",
+            "shorten_url":"https:\/\/me2.do\/5HUQwvHV"
         },
         {
             "index":2,
@@ -82,7 +88,8 @@
             "value_score":40.78555,
             "region":"충청북도 옥천군",
             "region_code":"Chungcheongbukdo",
-            "sub_region_code":"4373000000_Chungcheongbukdo_Okcheon"
+            "sub_region_code":"4373000000_Chungcheongbukdo_Okcheon",
+            "shorten_url":"https:\/\/me2.do\/5HUQwvHV"
         },
         {
             "index":3,
@@ -94,7 +101,8 @@
             "value_score":39.88215,
             "region":"충청북도 옥천군",
             "region_code":"Chungcheongbukdo",
-            "sub_region_code":"4373000000_Chungcheongbukdo_Okcheon"
+            "sub_region_code":"4373000000_Chungcheongbukdo_Okcheon",
+            "shorten_url":"https:\/\/me2.do\/5HUQwvHV"
         },
         {
             "index":4,
@@ -106,7 +114,8 @@
             "value_score":37.13555,
             "region":"충청북도 옥천군",
             "region_code":"Chungcheongbukdo",
-            "sub_region_code":"4373000000_Chungcheongbukdo_Okcheon"
+            "sub_region_code":"4373000000_Chungcheongbukdo_Okcheon",
+            "shorten_url":"https:\/\/me2.do\/5HUQwvHV"
         },
         {
             "index":5,
@@ -118,7 +127,8 @@
             "value_score":35.53555,
             "region":"충청북도 옥천군",
             "region_code":"Chungcheongbukdo",
-            "sub_region_code":"4373000000_Chungcheongbukdo_Okcheon"
+            "sub_region_code":"4373000000_Chungcheongbukdo_Okcheon",
+            "shorten_url":"https:\/\/me2.do\/5HUQwvHV"
         },
         {
             "index":6,
@@ -130,7 +140,8 @@
             "value_score":34.78555,
             "region":"충청북도 옥천군",
             "region_code":"Chungcheongbukdo",
-            "sub_region_code":"4373000000_Chungcheongbukdo_Okcheon"
+            "sub_region_code":"4373000000_Chungcheongbukdo_Okcheon",
+            "shorten_url":"https:\/\/me2.do\/5HUQwvHV"
         },
         {
             "index":7,
@@ -142,7 +153,8 @@
             "value_score":34.78555,
             "region":"충청북도 옥천군",
             "region_code":"Chungcheongbukdo",
-            "sub_region_code":"4373000000_Chungcheongbukdo_Okcheon"
+            "sub_region_code":"4373000000_Chungcheongbukdo_Okcheon",
+            "shorten_url":"https:\/\/me2.do\/5HUQwvHV"
         },
         {
             "index":8,
@@ -154,7 +166,8 @@
             "value_score":34.33215,
             "region":"충청북도 옥천군",
             "region_code":"Chungcheongbukdo",
-            "sub_region_code":"4373000000_Chungcheongbukdo_Okcheon"
+            "sub_region_code":"4373000000_Chungcheongbukdo_Okcheon",
+            "shorten_url":"https:\/\/me2.do\/5HUQwvHV"
         },
         {
             "index":9,
@@ -166,7 +179,8 @@
             "value_score":31.98555,
             "region":"충청북도 옥천군",
             "region_code":"Chungcheongbukdo",
-            "sub_region_code":"4373000000_Chungcheongbukdo_Okcheon"
+            "sub_region_code":"4373000000_Chungcheongbukdo_Okcheon",
+            "shorten_url":"https:\/\/me2.do\/5HUQwvHV"
         },
         {
             "index":10,
@@ -178,7 +192,8 @@
             "value_score":47.23725,
             "region":"충청북도 옥천군",
             "region_code":"Chungcheongbukdo",
-            "sub_region_code":"4373000000_Chungcheongbukdo_Okcheon"
+            "sub_region_code":"4373000000_Chungcheongbukdo_Okcheon",
+            "shorten_url":"https:\/\/me2.do\/5HUQwvHV"
         },
         {
             "index":11,
@@ -190,7 +205,8 @@
             "value_score":44.01825,
             "region":"충청북도 옥천군",
             "region_code":"Chungcheongbukdo",
-            "sub_region_code":"4373000000_Chungcheongbukdo_Okcheon"
+            "sub_region_code":"4373000000_Chungcheongbukdo_Okcheon",
+            "shorten_url":"https:\/\/me2.do\/5HUQwvHV"
         },
         {
             "index":12,
@@ -202,7 +218,8 @@
             "value_score":41.51825,
             "region":"충청북도 옥천군",
             "region_code":"Chungcheongbukdo",
-            "sub_region_code":"4373000000_Chungcheongbukdo_Okcheon"
+            "sub_region_code":"4373000000_Chungcheongbukdo_Okcheon",
+            "shorten_url":"https:\/\/me2.do\/5HUQwvHV"
         },
         {
             "index":13,
@@ -214,7 +231,8 @@
             "value_score":39.73725,
             "region":"충청북도 옥천군",
             "region_code":"Chungcheongbukdo",
-            "sub_region_code":"4373000000_Chungcheongbukdo_Okcheon"
+            "sub_region_code":"4373000000_Chungcheongbukdo_Okcheon",
+            "shorten_url":"https:\/\/me2.do\/5HUQwvHV"
         },
         {
             "index":14,
@@ -226,7 +244,8 @@
             "value_score":36.91825,
             "region":"충청북도 옥천군",
             "region_code":"Chungcheongbukdo",
-            "sub_region_code":"4373000000_Chungcheongbukdo_Okcheon"
+            "sub_region_code":"4373000000_Chungcheongbukdo_Okcheon",
+            "shorten_url":"https:\/\/me2.do\/5HUQwvHV"
         },
         {
             "index":15,
@@ -238,7 +257,8 @@
             "value_score":34.91825,
             "region":"충청북도 옥천군",
             "region_code":"Chungcheongbukdo",
-            "sub_region_code":"4373000000_Chungcheongbukdo_Okcheon"
+            "sub_region_code":"4373000000_Chungcheongbukdo_Okcheon",
+            "shorten_url":"https:\/\/me2.do\/5HUQwvHV"
         },
         {
             "index":16,
@@ -250,7 +270,8 @@
             "value_score":34.16825,
             "region":"충청북도 옥천군",
             "region_code":"Chungcheongbukdo",
-            "sub_region_code":"4373000000_Chungcheongbukdo_Okcheon"
+            "sub_region_code":"4373000000_Chungcheongbukdo_Okcheon",
+            "shorten_url":"https:\/\/me2.do\/5HUQwvHV"
         },
         {
             "index":17,
@@ -262,7 +283,8 @@
             "value_score":34.16825,
             "region":"충청북도 옥천군",
             "region_code":"Chungcheongbukdo",
-            "sub_region_code":"4373000000_Chungcheongbukdo_Okcheon"
+            "sub_region_code":"4373000000_Chungcheongbukdo_Okcheon",
+            "shorten_url":"https:\/\/me2.do\/5HUQwvHV"
         },
         {
             "index":18,
@@ -274,7 +296,8 @@
             "value_score":32.98725,
             "region":"충청북도 옥천군",
             "region_code":"Chungcheongbukdo",
-            "sub_region_code":"4373000000_Chungcheongbukdo_Okcheon"
+            "sub_region_code":"4373000000_Chungcheongbukdo_Okcheon",
+            "shorten_url":"https:\/\/me2.do\/5HUQwvHV"
         },
         {
             "index":19,
@@ -286,7 +309,8 @@
             "value_score":30.51825,
             "region":"충청북도 옥천군",
             "region_code":"Chungcheongbukdo",
-            "sub_region_code":"4373000000_Chungcheongbukdo_Okcheon"
+            "sub_region_code":"4373000000_Chungcheongbukdo_Okcheon",
+            "shorten_url":"https:\/\/me2.do\/5HUQwvHV"
         },
         {
             "index":20,
@@ -298,7 +322,8 @@
             "value_score":34.5628421053,
             "region":"충청북도 옥천군",
             "region_code":"Chungcheongbukdo",
-            "sub_region_code":"4373000000_Chungcheongbukdo_Okcheon"
+            "sub_region_code":"4373000000_Chungcheongbukdo_Okcheon",
+            "shorten_url":"https:\/\/me2.do\/5HUQwvHV"
         },
         {
             "index":21,
@@ -310,7 +335,8 @@
             "value_score":31.1598947368,
             "region":"충청북도 옥천군",
             "region_code":"Chungcheongbukdo",
-            "sub_region_code":"4373000000_Chungcheongbukdo_Okcheon"
+            "sub_region_code":"4373000000_Chungcheongbukdo_Okcheon",
+            "shorten_url":"https:\/\/me2.do\/5HUQwvHV"
         },
         {
             "index":22,
@@ -322,7 +348,8 @@
             "value_score":30.8523157895,
             "region":"충청북도 옥천군",
             "region_code":"Chungcheongbukdo",
-            "sub_region_code":"4373000000_Chungcheongbukdo_Okcheon"
+            "sub_region_code":"4373000000_Chungcheongbukdo_Okcheon",
+            "shorten_url":"https:\/\/me2.do\/5HUQwvHV"
         },
         {
             "index":23,
@@ -334,7 +361,8 @@
             "value_score":30.3704210526,
             "region":"충청북도 옥천군",
             "region_code":"Chungcheongbukdo",
-            "sub_region_code":"4373000000_Chungcheongbukdo_Okcheon"
+            "sub_region_code":"4373000000_Chungcheongbukdo_Okcheon",
+            "shorten_url":"https:\/\/me2.do\/5HUQwvHV"
         },
         {
             "index":24,
@@ -346,7 +374,8 @@
             "value_score":29.1862105263,
             "region":"충청북도 옥천군",
             "region_code":"Chungcheongbukdo",
-            "sub_region_code":"4373000000_Chungcheongbukdo_Okcheon"
+            "sub_region_code":"4373000000_Chungcheongbukdo_Okcheon",
+            "shorten_url":"https:\/\/me2.do\/5HUQwvHV"
         },
         {
             "index":25,
@@ -358,7 +387,8 @@
             "value_score":28.5546315789,
             "region":"충청북도 옥천군",
             "region_code":"Chungcheongbukdo",
-            "sub_region_code":"4373000000_Chungcheongbukdo_Okcheon"
+            "sub_region_code":"4373000000_Chungcheongbukdo_Okcheon",
+            "shorten_url":"https:\/\/me2.do\/5HUQwvHV"
         },
         {
             "index":26,
@@ -370,7 +400,8 @@
             "value_score":27.3786315789,
             "region":"충청북도 옥천군",
             "region_code":"Chungcheongbukdo",
-            "sub_region_code":"4373000000_Chungcheongbukdo_Okcheon"
+            "sub_region_code":"4373000000_Chungcheongbukdo_Okcheon",
+            "shorten_url":"https:\/\/me2.do\/5HUQwvHV"
         },
         {
             "index":27,
@@ -382,7 +413,8 @@
             "value_score":27.2651578947,
             "region":"충청북도 옥천군",
             "region_code":"Chungcheongbukdo",
-            "sub_region_code":"4373000000_Chungcheongbukdo_Okcheon"
+            "sub_region_code":"4373000000_Chungcheongbukdo_Okcheon",
+            "shorten_url":"https:\/\/me2.do\/5HUQwvHV"
         },
         {
             "index":28,
@@ -394,7 +426,8 @@
             "value_score":26.9756842105,
             "region":"충청북도 옥천군",
             "region_code":"Chungcheongbukdo",
-            "sub_region_code":"4373000000_Chungcheongbukdo_Okcheon"
+            "sub_region_code":"4373000000_Chungcheongbukdo_Okcheon",
+            "shorten_url":"https:\/\/me2.do\/5HUQwvHV"
         },
         {
             "index":29,
@@ -406,7 +439,8 @@
             "value_score":26.9756842105,
             "region":"충청북도 옥천군",
             "region_code":"Chungcheongbukdo",
-            "sub_region_code":"4373000000_Chungcheongbukdo_Okcheon"
+            "sub_region_code":"4373000000_Chungcheongbukdo_Okcheon",
+            "shorten_url":"https:\/\/me2.do\/5HUQwvHV"
         },
         {
             "index":30,
@@ -418,7 +452,8 @@
             "value_score":44.2245,
             "region":"충청북도 옥천군",
             "region_code":"Chungcheongbukdo",
-            "sub_region_code":"4373000000_Chungcheongbukdo_Okcheon"
+            "sub_region_code":"4373000000_Chungcheongbukdo_Okcheon",
+            "shorten_url":"https:\/\/me2.do\/5HUQwvHV"
         },
         {
             "index":31,
@@ -430,7 +465,8 @@
             "value_score":40.9365,
             "region":"충청북도 옥천군",
             "region_code":"Chungcheongbukdo",
-            "sub_region_code":"4373000000_Chungcheongbukdo_Okcheon"
+            "sub_region_code":"4373000000_Chungcheongbukdo_Okcheon",
+            "shorten_url":"https:\/\/me2.do\/5HUQwvHV"
         },
         {
             "index":32,
@@ -442,7 +478,8 @@
             "value_score":40.0995,
             "region":"충청북도 옥천군",
             "region_code":"Chungcheongbukdo",
-            "sub_region_code":"4373000000_Chungcheongbukdo_Okcheon"
+            "sub_region_code":"4373000000_Chungcheongbukdo_Okcheon",
+            "shorten_url":"https:\/\/me2.do\/5HUQwvHV"
         },
         {
             "index":33,
@@ -454,7 +491,8 @@
             "value_score":39.6865,
             "region":"충청북도 옥천군",
             "region_code":"Chungcheongbukdo",
-            "sub_region_code":"4373000000_Chungcheongbukdo_Okcheon"
+            "sub_region_code":"4373000000_Chungcheongbukdo_Okcheon",
+            "shorten_url":"https:\/\/me2.do\/5HUQwvHV"
         },
         {
             "index":34,
@@ -466,7 +504,8 @@
             "value_score":37.4615,
             "region":"충청북도 옥천군",
             "region_code":"Chungcheongbukdo",
-            "sub_region_code":"4373000000_Chungcheongbukdo_Okcheon"
+            "sub_region_code":"4373000000_Chungcheongbukdo_Okcheon",
+            "shorten_url":"https:\/\/me2.do\/5HUQwvHV"
         },
         {
             "index":35,
@@ -478,7 +517,8 @@
             "value_score":36.4615,
             "region":"충청북도 옥천군",
             "region_code":"Chungcheongbukdo",
-            "sub_region_code":"4373000000_Chungcheongbukdo_Okcheon"
+            "sub_region_code":"4373000000_Chungcheongbukdo_Okcheon",
+            "shorten_url":"https:\/\/me2.do\/5HUQwvHV"
         },
         {
             "index":36,
@@ -490,7 +530,8 @@
             "value_score":36.3495,
             "region":"충청북도 옥천군",
             "region_code":"Chungcheongbukdo",
-            "sub_region_code":"4373000000_Chungcheongbukdo_Okcheon"
+            "sub_region_code":"4373000000_Chungcheongbukdo_Okcheon",
+            "shorten_url":"https:\/\/me2.do\/5HUQwvHV"
         },
         {
             "index":37,
@@ -502,7 +543,8 @@
             "value_score":35.7115,
             "region":"충청북도 옥천군",
             "region_code":"Chungcheongbukdo",
-            "sub_region_code":"4373000000_Chungcheongbukdo_Okcheon"
+            "sub_region_code":"4373000000_Chungcheongbukdo_Okcheon",
+            "shorten_url":"https:\/\/me2.do\/5HUQwvHV"
         },
         {
             "index":38,
@@ -514,7 +556,8 @@
             "value_score":35.7115,
             "region":"충청북도 옥천군",
             "region_code":"Chungcheongbukdo",
-            "sub_region_code":"4373000000_Chungcheongbukdo_Okcheon"
+            "sub_region_code":"4373000000_Chungcheongbukdo_Okcheon",
+            "shorten_url":"https:\/\/me2.do\/5HUQwvHV"
         },
         {
             "index":39,
@@ -526,7 +569,8 @@
             "value_score":34.1865,
             "region":"충청북도 옥천군",
             "region_code":"Chungcheongbukdo",
-            "sub_region_code":"4373000000_Chungcheongbukdo_Okcheon"
+            "sub_region_code":"4373000000_Chungcheongbukdo_Okcheon",
+            "shorten_url":"https:\/\/me2.do\/5HUQwvHV"
         }
     ]
 }

@@ -40,6 +40,10 @@
             {
                 "name":"sub_region_code",
                 "type":"string"
+            },
+            {
+                "name":"shorten_url",
+                "type":"string"
             }
         ],
         "primaryKey":[
@@ -58,7 +62,8 @@
             "value_score":60.3954,
             "region":"서울시 도봉구",
             "region_code":"Seoul",
-            "sub_region_code":"1132000000_Seoul_Dobong"
+            "sub_region_code":"1132000000_Seoul_Dobong",
+            "shorten_url":"https:\/\/me2.do\/xi2e98Ub"
         },
         {
             "index":1,
@@ -70,7 +75,8 @@
             "value_score":59.2255,
             "region":"서울시 도봉구",
             "region_code":"Seoul",
-            "sub_region_code":"1132000000_Seoul_Dobong"
+            "sub_region_code":"1132000000_Seoul_Dobong",
+            "shorten_url":"https:\/\/me2.do\/xi2e98Ub"
         },
         {
             "index":2,
@@ -82,7 +88,8 @@
             "value_score":58.5454,
             "region":"서울시 도봉구",
             "region_code":"Seoul",
-            "sub_region_code":"1132000000_Seoul_Dobong"
+            "sub_region_code":"1132000000_Seoul_Dobong",
+            "shorten_url":"https:\/\/me2.do\/xi2e98Ub"
         },
         {
             "index":3,
@@ -94,7 +101,8 @@
             "value_score":56.7755,
             "region":"서울시 도봉구",
             "region_code":"Seoul",
-            "sub_region_code":"1132000000_Seoul_Dobong"
+            "sub_region_code":"1132000000_Seoul_Dobong",
+            "shorten_url":"https:\/\/me2.do\/xi2e98Ub"
         },
         {
             "index":4,
@@ -106,7 +114,8 @@
             "value_score":56.5755,
             "region":"서울시 도봉구",
             "region_code":"Seoul",
-            "sub_region_code":"1132000000_Seoul_Dobong"
+            "sub_region_code":"1132000000_Seoul_Dobong",
+            "shorten_url":"https:\/\/me2.do\/xi2e98Ub"
         },
         {
             "index":5,
@@ -118,7 +127,8 @@
             "value_score":55.9576858852,
             "region":"서울시 도봉구",
             "region_code":"Seoul",
-            "sub_region_code":"1132000000_Seoul_Dobong"
+            "sub_region_code":"1132000000_Seoul_Dobong",
+            "shorten_url":"https:\/\/me2.do\/xi2e98Ub"
         },
         {
             "index":6,
@@ -130,7 +140,8 @@
             "value_score":55.6297,
             "region":"서울시 도봉구",
             "region_code":"Seoul",
-            "sub_region_code":"1132000000_Seoul_Dobong"
+            "sub_region_code":"1132000000_Seoul_Dobong",
+            "shorten_url":"https:\/\/me2.do\/xi2e98Ub"
         },
         {
             "index":7,
@@ -142,7 +153,8 @@
             "value_score":55.3695,
             "region":"서울시 도봉구",
             "region_code":"Seoul",
-            "sub_region_code":"1132000000_Seoul_Dobong"
+            "sub_region_code":"1132000000_Seoul_Dobong",
+            "shorten_url":"https:\/\/me2.do\/xi2e98Ub"
         },
         {
             "index":8,
@@ -154,7 +166,8 @@
             "value_score":54.2454,
             "region":"서울시 도봉구",
             "region_code":"Seoul",
-            "sub_region_code":"1132000000_Seoul_Dobong"
+            "sub_region_code":"1132000000_Seoul_Dobong",
+            "shorten_url":"https:\/\/me2.do\/xi2e98Ub"
         },
         {
             "index":9,
@@ -166,7 +179,8 @@
             "value_score":53.7039,
             "region":"서울시 도봉구",
             "region_code":"Seoul",
-            "sub_region_code":"1132000000_Seoul_Dobong"
+            "sub_region_code":"1132000000_Seoul_Dobong",
+            "shorten_url":"https:\/\/me2.do\/xi2e98Ub"
         },
         {
             "index":10,
@@ -178,7 +192,8 @@
             "value_score":66.1636,
             "region":"서울시 도봉구",
             "region_code":"Seoul",
-            "sub_region_code":"1132000000_Seoul_Dobong"
+            "sub_region_code":"1132000000_Seoul_Dobong",
+            "shorten_url":"https:\/\/me2.do\/xi2e98Ub"
         },
         {
             "index":11,
@@ -190,7 +205,8 @@
             "value_score":62.3136,
             "region":"서울시 도봉구",
             "region_code":"Seoul",
-            "sub_region_code":"1132000000_Seoul_Dobong"
+            "sub_region_code":"1132000000_Seoul_Dobong",
+            "shorten_url":"https:\/\/me2.do\/xi2e98Ub"
         },
         {
             "index":12,
@@ -202,7 +218,8 @@
             "value_score":60.017,
             "region":"서울시 도봉구",
             "region_code":"Seoul",
-            "sub_region_code":"1132000000_Seoul_Dobong"
+            "sub_region_code":"1132000000_Seoul_Dobong",
+            "shorten_url":"https:\/\/me2.do\/xi2e98Ub"
         },
         {
             "index":13,
@@ -214,7 +231,8 @@
             "value_score":55.8552,
             "region":"서울시 도봉구",
             "region_code":"Seoul",
-            "sub_region_code":"1132000000_Seoul_Dobong"
+            "sub_region_code":"1132000000_Seoul_Dobong",
+            "shorten_url":"https:\/\/me2.do\/xi2e98Ub"
         },
         {
             "index":14,
@@ -226,7 +244,8 @@
             "value_score":55.4136,
             "region":"서울시 도봉구",
             "region_code":"Seoul",
-            "sub_region_code":"1132000000_Seoul_Dobong"
+            "sub_region_code":"1132000000_Seoul_Dobong",
+            "shorten_url":"https:\/\/me2.do\/xi2e98Ub"
         },
         {
             "index":15,
@@ -238,7 +257,8 @@
             "value_score":55.3298,
             "region":"서울시 도봉구",
             "region_code":"Seoul",
-            "sub_region_code":"1132000000_Seoul_Dobong"
+            "sub_region_code":"1132000000_Seoul_Dobong",
+            "shorten_url":"https:\/\/me2.do\/xi2e98Ub"
         },
         {
             "index":16,
@@ -250,7 +270,8 @@
             "value_score":55.3136,
             "region":"서울시 도봉구",
             "region_code":"Seoul",
-            "sub_region_code":"1132000000_Seoul_Dobong"
+            "sub_region_code":"1132000000_Seoul_Dobong",
+            "shorten_url":"https:\/\/me2.do\/xi2e98Ub"
         },
         {
             "index":17,
@@ -262,7 +283,8 @@
             "value_score":55.067,
             "region":"서울시 도봉구",
             "region_code":"Seoul",
-            "sub_region_code":"1132000000_Seoul_Dobong"
+            "sub_region_code":"1132000000_Seoul_Dobong",
+            "shorten_url":"https:\/\/me2.do\/xi2e98Ub"
         },
         {
             "index":18,
@@ -274,7 +296,8 @@
             "value_score":54.8526,
             "region":"서울시 도봉구",
             "region_code":"Seoul",
-            "sub_region_code":"1132000000_Seoul_Dobong"
+            "sub_region_code":"1132000000_Seoul_Dobong",
+            "shorten_url":"https:\/\/me2.do\/xi2e98Ub"
         },
         {
             "index":19,
@@ -286,7 +309,8 @@
             "value_score":53.817,
             "region":"서울시 도봉구",
             "region_code":"Seoul",
-            "sub_region_code":"1132000000_Seoul_Dobong"
+            "sub_region_code":"1132000000_Seoul_Dobong",
+            "shorten_url":"https:\/\/me2.do\/xi2e98Ub"
         },
         {
             "index":20,
@@ -298,7 +322,8 @@
             "value_score":57.53775,
             "region":"서울시 도봉구",
             "region_code":"Seoul",
-            "sub_region_code":"1132000000_Seoul_Dobong"
+            "sub_region_code":"1132000000_Seoul_Dobong",
+            "shorten_url":"https:\/\/me2.do\/xi2e98Ub"
         },
         {
             "index":21,
@@ -310,7 +335,8 @@
             "value_score":57.12695,
             "region":"서울시 도봉구",
             "region_code":"Seoul",
-            "sub_region_code":"1132000000_Seoul_Dobong"
+            "sub_region_code":"1132000000_Seoul_Dobong",
+            "shorten_url":"https:\/\/me2.do\/xi2e98Ub"
         },
         {
             "index":22,
@@ -322,7 +348,8 @@
             "value_score":56.9288429426,
             "region":"서울시 도봉구",
             "region_code":"Seoul",
-            "sub_region_code":"1132000000_Seoul_Dobong"
+            "sub_region_code":"1132000000_Seoul_Dobong",
+            "shorten_url":"https:\/\/me2.do\/xi2e98Ub"
         },
         {
             "index":23,
@@ -334,7 +361,8 @@
             "value_score":56.81275,
             "region":"서울시 도봉구",
             "region_code":"Seoul",
-            "sub_region_code":"1132000000_Seoul_Dobong"
+            "sub_region_code":"1132000000_Seoul_Dobong",
+            "shorten_url":"https:\/\/me2.do\/xi2e98Ub"
         },
         {
             "index":24,
@@ -346,7 +374,8 @@
             "value_score":56.23775,
             "region":"서울시 도봉구",
             "region_code":"Seoul",
-            "sub_region_code":"1132000000_Seoul_Dobong"
+            "sub_region_code":"1132000000_Seoul_Dobong",
+            "shorten_url":"https:\/\/me2.do\/xi2e98Ub"
         },
         {
             "index":25,
@@ -358,7 +387,8 @@
             "value_score":55.88475,
             "region":"서울시 도봉구",
             "region_code":"Seoul",
-            "sub_region_code":"1132000000_Seoul_Dobong"
+            "sub_region_code":"1132000000_Seoul_Dobong",
+            "shorten_url":"https:\/\/me2.do\/xi2e98Ub"
         },
         {
             "index":26,
@@ -370,7 +400,8 @@
             "value_score":55.69435,
             "region":"서울시 도봉구",
             "region_code":"Seoul",
-            "sub_region_code":"1132000000_Seoul_Dobong"
+            "sub_region_code":"1132000000_Seoul_Dobong",
+            "shorten_url":"https:\/\/me2.do\/xi2e98Ub"
         },
         {
             "index":27,
@@ -382,7 +413,8 @@
             "value_score":55.4227,
             "region":"서울시 도봉구",
             "region_code":"Seoul",
-            "sub_region_code":"1132000000_Seoul_Dobong"
+            "sub_region_code":"1132000000_Seoul_Dobong",
+            "shorten_url":"https:\/\/me2.do\/xi2e98Ub"
         },
         {
             "index":28,
@@ -394,7 +426,8 @@
             "value_score":54.95485,
             "region":"서울시 도봉구",
             "region_code":"Seoul",
-            "sub_region_code":"1132000000_Seoul_Dobong"
+            "sub_region_code":"1132000000_Seoul_Dobong",
+            "shorten_url":"https:\/\/me2.do\/xi2e98Ub"
         },
         {
             "index":29,
@@ -406,7 +439,8 @@
             "value_score":54.75195,
             "region":"서울시 도봉구",
             "region_code":"Seoul",
-            "sub_region_code":"1132000000_Seoul_Dobong"
+            "sub_region_code":"1132000000_Seoul_Dobong",
+            "shorten_url":"https:\/\/me2.do\/xi2e98Ub"
         },
         {
             "index":30,
@@ -418,7 +452,8 @@
             "value_score":66.42125,
             "region":"서울시 도봉구",
             "region_code":"Seoul",
-            "sub_region_code":"1132000000_Seoul_Dobong"
+            "sub_region_code":"1132000000_Seoul_Dobong",
+            "shorten_url":"https:\/\/me2.do\/xi2e98Ub"
         },
         {
             "index":31,
@@ -430,7 +465,8 @@
             "value_score":64.9064049043,
             "region":"서울시 도봉구",
             "region_code":"Seoul",
-            "sub_region_code":"1132000000_Seoul_Dobong"
+            "sub_region_code":"1132000000_Seoul_Dobong",
+            "shorten_url":"https:\/\/me2.do\/xi2e98Ub"
         },
         {
             "index":32,
@@ -442,7 +478,8 @@
             "value_score":64.39125,
             "region":"서울시 도봉구",
             "region_code":"Seoul",
-            "sub_region_code":"1132000000_Seoul_Dobong"
+            "sub_region_code":"1132000000_Seoul_Dobong",
+            "shorten_url":"https:\/\/me2.do\/xi2e98Ub"
         },
         {
             "index":33,
@@ -454,7 +491,8 @@
             "value_score":62.82125,
             "region":"서울시 도봉구",
             "region_code":"Seoul",
-            "sub_region_code":"1132000000_Seoul_Dobong"
+            "sub_region_code":"1132000000_Seoul_Dobong",
+            "shorten_url":"https:\/\/me2.do\/xi2e98Ub"
         },
         {
             "index":34,
@@ -466,7 +504,8 @@
             "value_score":61.97125,
             "region":"서울시 도봉구",
             "region_code":"Seoul",
-            "sub_region_code":"1132000000_Seoul_Dobong"
+            "sub_region_code":"1132000000_Seoul_Dobong",
+            "shorten_url":"https:\/\/me2.do\/xi2e98Ub"
         },
         {
             "index":35,
@@ -478,7 +517,8 @@
             "value_score":61.0295,
             "region":"서울시 도봉구",
             "region_code":"Seoul",
-            "sub_region_code":"1132000000_Seoul_Dobong"
+            "sub_region_code":"1132000000_Seoul_Dobong",
+            "shorten_url":"https:\/\/me2.do\/xi2e98Ub"
         },
         {
             "index":36,
@@ -490,7 +530,8 @@
             "value_score":60.82125,
             "region":"서울시 도봉구",
             "region_code":"Seoul",
-            "sub_region_code":"1132000000_Seoul_Dobong"
+            "sub_region_code":"1132000000_Seoul_Dobong",
+            "shorten_url":"https:\/\/me2.do\/xi2e98Ub"
         },
         {
             "index":37,
@@ -502,7 +543,8 @@
             "value_score":60.7295,
             "region":"서울시 도봉구",
             "region_code":"Seoul",
-            "sub_region_code":"1132000000_Seoul_Dobong"
+            "sub_region_code":"1132000000_Seoul_Dobong",
+            "shorten_url":"https:\/\/me2.do\/xi2e98Ub"
         },
         {
             "index":38,
@@ -514,7 +556,8 @@
             "value_score":59.59125,
             "region":"서울시 도봉구",
             "region_code":"Seoul",
-            "sub_region_code":"1132000000_Seoul_Dobong"
+            "sub_region_code":"1132000000_Seoul_Dobong",
+            "shorten_url":"https:\/\/me2.do\/xi2e98Ub"
         },
         {
             "index":39,
@@ -526,7 +569,8 @@
             "value_score":59.52825,
             "region":"서울시 도봉구",
             "region_code":"Seoul",
-            "sub_region_code":"1132000000_Seoul_Dobong"
+            "sub_region_code":"1132000000_Seoul_Dobong",
+            "shorten_url":"https:\/\/me2.do\/xi2e98Ub"
         },
         {
             "index":40,
@@ -538,7 +582,8 @@
             "value_score":62.059,
             "region":"서울시 도봉구",
             "region_code":"Seoul",
-            "sub_region_code":"1132000000_Seoul_Dobong"
+            "sub_region_code":"1132000000_Seoul_Dobong",
+            "shorten_url":"https:\/\/me2.do\/xi2e98Ub"
         },
         {
             "index":41,
@@ -550,7 +595,8 @@
             "value_score":60.8425,
             "region":"서울시 도봉구",
             "region_code":"Seoul",
-            "sub_region_code":"1132000000_Seoul_Dobong"
+            "sub_region_code":"1132000000_Seoul_Dobong",
+            "shorten_url":"https:\/\/me2.do\/xi2e98Ub"
         },
         {
             "index":42,
@@ -562,7 +608,8 @@
             "value_score":60.2128098086,
             "region":"서울시 도봉구",
             "region_code":"Seoul",
-            "sub_region_code":"1132000000_Seoul_Dobong"
+            "sub_region_code":"1132000000_Seoul_Dobong",
+            "shorten_url":"https:\/\/me2.do\/xi2e98Ub"
         },
         {
             "index":43,
@@ -574,7 +621,8 @@
             "value_score":60.0425,
             "region":"서울시 도봉구",
             "region_code":"Seoul",
-            "sub_region_code":"1132000000_Seoul_Dobong"
+            "sub_region_code":"1132000000_Seoul_Dobong",
+            "shorten_url":"https:\/\/me2.do\/xi2e98Ub"
         },
         {
             "index":44,
@@ -586,7 +634,8 @@
             "value_score":59.1825,
             "region":"서울시 도봉구",
             "region_code":"Seoul",
-            "sub_region_code":"1132000000_Seoul_Dobong"
+            "sub_region_code":"1132000000_Seoul_Dobong",
+            "shorten_url":"https:\/\/me2.do\/xi2e98Ub"
         },
         {
             "index":45,
@@ -598,7 +647,8 @@
             "value_score":58.8425,
             "region":"서울시 도봉구",
             "region_code":"Seoul",
-            "sub_region_code":"1132000000_Seoul_Dobong"
+            "sub_region_code":"1132000000_Seoul_Dobong",
+            "shorten_url":"https:\/\/me2.do\/xi2e98Ub"
         },
         {
             "index":46,
@@ -610,7 +660,8 @@
             "value_score":56.859,
             "region":"서울시 도봉구",
             "region_code":"Seoul",
-            "sub_region_code":"1132000000_Seoul_Dobong"
+            "sub_region_code":"1132000000_Seoul_Dobong",
+            "shorten_url":"https:\/\/me2.do\/xi2e98Ub"
         },
         {
             "index":47,
@@ -622,7 +673,8 @@
             "value_score":56.5425,
             "region":"서울시 도봉구",
             "region_code":"Seoul",
-            "sub_region_code":"1132000000_Seoul_Dobong"
+            "sub_region_code":"1132000000_Seoul_Dobong",
+            "shorten_url":"https:\/\/me2.do\/xi2e98Ub"
         },
         {
             "index":48,
@@ -634,7 +686,8 @@
             "value_score":56.3795,
             "region":"서울시 도봉구",
             "region_code":"Seoul",
-            "sub_region_code":"1132000000_Seoul_Dobong"
+            "sub_region_code":"1132000000_Seoul_Dobong",
+            "shorten_url":"https:\/\/me2.do\/xi2e98Ub"
         },
         {
             "index":49,
@@ -646,7 +699,8 @@
             "value_score":56.163,
             "region":"서울시 도봉구",
             "region_code":"Seoul",
-            "sub_region_code":"1132000000_Seoul_Dobong"
+            "sub_region_code":"1132000000_Seoul_Dobong",
+            "shorten_url":"https:\/\/me2.do\/xi2e98Ub"
         }
     ]
 }

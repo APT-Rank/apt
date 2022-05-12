@@ -40,6 +40,10 @@
             {
                 "name":"sub_region_code",
                 "type":"string"
+            },
+            {
+                "name":"shorten_url",
+                "type":"string"
             }
         ],
         "primaryKey":[
@@ -58,7 +62,8 @@
             "value_score":76.8371,
             "region":"서울시 구로구",
             "region_code":"Seoul",
-            "sub_region_code":"1153000000_Seoul_Guro"
+            "sub_region_code":"1153000000_Seoul_Guro",
+            "shorten_url":"https:\/\/me2.do\/xZ9NMFXU"
         },
         {
             "index":1,
@@ -70,7 +75,8 @@
             "value_score":72.3371,
             "region":"서울시 구로구",
             "region_code":"Seoul",
-            "sub_region_code":"1153000000_Seoul_Guro"
+            "sub_region_code":"1153000000_Seoul_Guro",
+            "shorten_url":"https:\/\/me2.do\/xZ9NMFXU"
         },
         {
             "index":2,
@@ -82,7 +88,8 @@
             "value_score":68.3371,
             "region":"서울시 구로구",
             "region_code":"Seoul",
-            "sub_region_code":"1153000000_Seoul_Guro"
+            "sub_region_code":"1153000000_Seoul_Guro",
+            "shorten_url":"https:\/\/me2.do\/xZ9NMFXU"
         },
         {
             "index":3,
@@ -94,7 +101,8 @@
             "value_score":66.9871,
             "region":"서울시 구로구",
             "region_code":"Seoul",
-            "sub_region_code":"1153000000_Seoul_Guro"
+            "sub_region_code":"1153000000_Seoul_Guro",
+            "shorten_url":"https:\/\/me2.do\/xZ9NMFXU"
         },
         {
             "index":4,
@@ -106,7 +114,8 @@
             "value_score":66.3871,
             "region":"서울시 구로구",
             "region_code":"Seoul",
-            "sub_region_code":"1153000000_Seoul_Guro"
+            "sub_region_code":"1153000000_Seoul_Guro",
+            "shorten_url":"https:\/\/me2.do\/xZ9NMFXU"
         },
         {
             "index":5,
@@ -118,7 +127,8 @@
             "value_score":65.8371,
             "region":"서울시 구로구",
             "region_code":"Seoul",
-            "sub_region_code":"1153000000_Seoul_Guro"
+            "sub_region_code":"1153000000_Seoul_Guro",
+            "shorten_url":"https:\/\/me2.do\/xZ9NMFXU"
         },
         {
             "index":6,
@@ -130,7 +140,8 @@
             "value_score":65.4871,
             "region":"서울시 구로구",
             "region_code":"Seoul",
-            "sub_region_code":"1153000000_Seoul_Guro"
+            "sub_region_code":"1153000000_Seoul_Guro",
+            "shorten_url":"https:\/\/me2.do\/xZ9NMFXU"
         },
         {
             "index":7,
@@ -142,7 +153,8 @@
             "value_score":65.2371,
             "region":"서울시 구로구",
             "region_code":"Seoul",
-            "sub_region_code":"1153000000_Seoul_Guro"
+            "sub_region_code":"1153000000_Seoul_Guro",
+            "shorten_url":"https:\/\/me2.do\/xZ9NMFXU"
         },
         {
             "index":8,
@@ -154,7 +166,8 @@
             "value_score":64.146,
             "region":"서울시 구로구",
             "region_code":"Seoul",
-            "sub_region_code":"1153000000_Seoul_Guro"
+            "sub_region_code":"1153000000_Seoul_Guro",
+            "shorten_url":"https:\/\/me2.do\/xZ9NMFXU"
         },
         {
             "index":9,
@@ -166,7 +179,8 @@
             "value_score":63.8171,
             "region":"서울시 구로구",
             "region_code":"Seoul",
-            "sub_region_code":"1153000000_Seoul_Guro"
+            "sub_region_code":"1153000000_Seoul_Guro",
+            "shorten_url":"https:\/\/me2.do\/xZ9NMFXU"
         },
         {
             "index":10,
@@ -178,7 +192,8 @@
             "value_score":76.5414,
             "region":"서울시 구로구",
             "region_code":"Seoul",
-            "sub_region_code":"1153000000_Seoul_Guro"
+            "sub_region_code":"1153000000_Seoul_Guro",
+            "shorten_url":"https:\/\/me2.do\/xZ9NMFXU"
         },
         {
             "index":11,
@@ -190,7 +205,8 @@
             "value_score":71.2414,
             "region":"서울시 구로구",
             "region_code":"Seoul",
-            "sub_region_code":"1153000000_Seoul_Guro"
+            "sub_region_code":"1153000000_Seoul_Guro",
+            "shorten_url":"https:\/\/me2.do\/xZ9NMFXU"
         },
         {
             "index":12,
@@ -202,7 +218,8 @@
             "value_score":67.1914,
             "region":"서울시 구로구",
             "region_code":"Seoul",
-            "sub_region_code":"1153000000_Seoul_Guro"
+            "sub_region_code":"1153000000_Seoul_Guro",
+            "shorten_url":"https:\/\/me2.do\/xZ9NMFXU"
         },
         {
             "index":13,
@@ -214,7 +231,8 @@
             "value_score":66.6914,
             "region":"서울시 구로구",
             "region_code":"Seoul",
-            "sub_region_code":"1153000000_Seoul_Guro"
+            "sub_region_code":"1153000000_Seoul_Guro",
+            "shorten_url":"https:\/\/me2.do\/xZ9NMFXU"
         },
         {
             "index":14,
@@ -226,7 +244,8 @@
             "value_score":66.6414,
             "region":"서울시 구로구",
             "region_code":"Seoul",
-            "sub_region_code":"1153000000_Seoul_Guro"
+            "sub_region_code":"1153000000_Seoul_Guro",
+            "shorten_url":"https:\/\/me2.do\/xZ9NMFXU"
         },
         {
             "index":15,
@@ -238,7 +257,8 @@
             "value_score":63.6414,
             "region":"서울시 구로구",
             "region_code":"Seoul",
-            "sub_region_code":"1153000000_Seoul_Guro"
+            "sub_region_code":"1153000000_Seoul_Guro",
+            "shorten_url":"https:\/\/me2.do\/xZ9NMFXU"
         },
         {
             "index":16,
@@ -250,7 +270,8 @@
             "value_score":63.5214,
             "region":"서울시 구로구",
             "region_code":"Seoul",
-            "sub_region_code":"1153000000_Seoul_Guro"
+            "sub_region_code":"1153000000_Seoul_Guro",
+            "shorten_url":"https:\/\/me2.do\/xZ9NMFXU"
         },
         {
             "index":17,
@@ -262,7 +283,8 @@
             "value_score":63.3592,
             "region":"서울시 구로구",
             "region_code":"Seoul",
-            "sub_region_code":"1153000000_Seoul_Guro"
+            "sub_region_code":"1153000000_Seoul_Guro",
+            "shorten_url":"https:\/\/me2.do\/xZ9NMFXU"
         },
         {
             "index":18,
@@ -274,7 +296,8 @@
             "value_score":62.7592,
             "region":"서울시 구로구",
             "region_code":"Seoul",
-            "sub_region_code":"1153000000_Seoul_Guro"
+            "sub_region_code":"1153000000_Seoul_Guro",
+            "shorten_url":"https:\/\/me2.do\/xZ9NMFXU"
         },
         {
             "index":19,
@@ -286,7 +309,8 @@
             "value_score":62.6858,
             "region":"서울시 구로구",
             "region_code":"Seoul",
-            "sub_region_code":"1153000000_Seoul_Guro"
+            "sub_region_code":"1153000000_Seoul_Guro",
+            "shorten_url":"https:\/\/me2.do\/xZ9NMFXU"
         },
         {
             "index":20,
@@ -298,7 +322,8 @@
             "value_score":80.66855,
             "region":"서울시 구로구",
             "region_code":"Seoul",
-            "sub_region_code":"1153000000_Seoul_Guro"
+            "sub_region_code":"1153000000_Seoul_Guro",
+            "shorten_url":"https:\/\/me2.do\/xZ9NMFXU"
         },
         {
             "index":21,
@@ -310,7 +335,8 @@
             "value_score":78.11855,
             "region":"서울시 구로구",
             "region_code":"Seoul",
-            "sub_region_code":"1153000000_Seoul_Guro"
+            "sub_region_code":"1153000000_Seoul_Guro",
+            "shorten_url":"https:\/\/me2.do\/xZ9NMFXU"
         },
         {
             "index":22,
@@ -322,7 +348,8 @@
             "value_score":73.44355,
             "region":"서울시 구로구",
             "region_code":"Seoul",
-            "sub_region_code":"1153000000_Seoul_Guro"
+            "sub_region_code":"1153000000_Seoul_Guro",
+            "shorten_url":"https:\/\/me2.do\/xZ9NMFXU"
         },
         {
             "index":23,
@@ -334,7 +361,8 @@
             "value_score":72.39135,
             "region":"서울시 구로구",
             "region_code":"Seoul",
-            "sub_region_code":"1153000000_Seoul_Guro"
+            "sub_region_code":"1153000000_Seoul_Guro",
+            "shorten_url":"https:\/\/me2.do\/xZ9NMFXU"
         },
         {
             "index":24,
@@ -346,7 +374,8 @@
             "value_score":72.288,
             "region":"서울시 구로구",
             "region_code":"Seoul",
-            "sub_region_code":"1153000000_Seoul_Guro"
+            "sub_region_code":"1153000000_Seoul_Guro",
+            "shorten_url":"https:\/\/me2.do\/xZ9NMFXU"
         },
         {
             "index":25,
@@ -358,7 +387,8 @@
             "value_score":72.24355,
             "region":"서울시 구로구",
             "region_code":"Seoul",
-            "sub_region_code":"1153000000_Seoul_Guro"
+            "sub_region_code":"1153000000_Seoul_Guro",
+            "shorten_url":"https:\/\/me2.do\/xZ9NMFXU"
         },
         {
             "index":26,
@@ -370,7 +400,8 @@
             "value_score":72.09355,
             "region":"서울시 구로구",
             "region_code":"Seoul",
-            "sub_region_code":"1153000000_Seoul_Guro"
+            "sub_region_code":"1153000000_Seoul_Guro",
+            "shorten_url":"https:\/\/me2.do\/xZ9NMFXU"
         },
         {
             "index":27,
@@ -382,7 +413,8 @@
             "value_score":71.91855,
             "region":"서울시 구로구",
             "region_code":"Seoul",
-            "sub_region_code":"1153000000_Seoul_Guro"
+            "sub_region_code":"1153000000_Seoul_Guro",
+            "shorten_url":"https:\/\/me2.do\/xZ9NMFXU"
         },
         {
             "index":28,
@@ -394,7 +426,8 @@
             "value_score":71.9154,
             "region":"서울시 구로구",
             "region_code":"Seoul",
-            "sub_region_code":"1153000000_Seoul_Guro"
+            "sub_region_code":"1153000000_Seoul_Guro",
+            "shorten_url":"https:\/\/me2.do\/xZ9NMFXU"
         },
         {
             "index":29,
@@ -406,7 +439,8 @@
             "value_score":71.51855,
             "region":"서울시 구로구",
             "region_code":"Seoul",
-            "sub_region_code":"1153000000_Seoul_Guro"
+            "sub_region_code":"1153000000_Seoul_Guro",
+            "shorten_url":"https:\/\/me2.do\/xZ9NMFXU"
         },
         {
             "index":30,
@@ -418,7 +452,8 @@
             "value_score":80.28925,
             "region":"서울시 구로구",
             "region_code":"Seoul",
-            "sub_region_code":"1153000000_Seoul_Guro"
+            "sub_region_code":"1153000000_Seoul_Guro",
+            "shorten_url":"https:\/\/me2.do\/xZ9NMFXU"
         },
         {
             "index":31,
@@ -430,7 +465,8 @@
             "value_score":76.58925,
             "region":"서울시 구로구",
             "region_code":"Seoul",
-            "sub_region_code":"1153000000_Seoul_Guro"
+            "sub_region_code":"1153000000_Seoul_Guro",
+            "shorten_url":"https:\/\/me2.do\/xZ9NMFXU"
         },
         {
             "index":32,
@@ -442,7 +478,8 @@
             "value_score":74.18925,
             "region":"서울시 구로구",
             "region_code":"Seoul",
-            "sub_region_code":"1153000000_Seoul_Guro"
+            "sub_region_code":"1153000000_Seoul_Guro",
+            "shorten_url":"https:\/\/me2.do\/xZ9NMFXU"
         },
         {
             "index":33,
@@ -454,7 +491,8 @@
             "value_score":73.08925,
             "region":"서울시 구로구",
             "region_code":"Seoul",
-            "sub_region_code":"1153000000_Seoul_Guro"
+            "sub_region_code":"1153000000_Seoul_Guro",
+            "shorten_url":"https:\/\/me2.do\/xZ9NMFXU"
         },
         {
             "index":34,
@@ -466,7 +504,8 @@
             "value_score":72.68925,
             "region":"서울시 구로구",
             "region_code":"Seoul",
-            "sub_region_code":"1153000000_Seoul_Guro"
+            "sub_region_code":"1153000000_Seoul_Guro",
+            "shorten_url":"https:\/\/me2.do\/xZ9NMFXU"
         },
         {
             "index":35,
@@ -478,7 +517,8 @@
             "value_score":71.68925,
             "region":"서울시 구로구",
             "region_code":"Seoul",
-            "sub_region_code":"1153000000_Seoul_Guro"
+            "sub_region_code":"1153000000_Seoul_Guro",
+            "shorten_url":"https:\/\/me2.do\/xZ9NMFXU"
         },
         {
             "index":36,
@@ -490,7 +530,8 @@
             "value_score":71.53925,
             "region":"서울시 구로구",
             "region_code":"Seoul",
-            "sub_region_code":"1153000000_Seoul_Guro"
+            "sub_region_code":"1153000000_Seoul_Guro",
+            "shorten_url":"https:\/\/me2.do\/xZ9NMFXU"
         },
         {
             "index":37,
@@ -502,7 +543,8 @@
             "value_score":69.83925,
             "region":"서울시 구로구",
             "region_code":"Seoul",
-            "sub_region_code":"1153000000_Seoul_Guro"
+            "sub_region_code":"1153000000_Seoul_Guro",
+            "shorten_url":"https:\/\/me2.do\/xZ9NMFXU"
         },
         {
             "index":38,
@@ -514,7 +556,8 @@
             "value_score":69.78,
             "region":"서울시 구로구",
             "region_code":"Seoul",
-            "sub_region_code":"1153000000_Seoul_Guro"
+            "sub_region_code":"1153000000_Seoul_Guro",
+            "shorten_url":"https:\/\/me2.do\/xZ9NMFXU"
         },
         {
             "index":39,
@@ -526,7 +569,8 @@
             "value_score":69.68925,
             "region":"서울시 구로구",
             "region_code":"Seoul",
-            "sub_region_code":"1153000000_Seoul_Guro"
+            "sub_region_code":"1153000000_Seoul_Guro",
+            "shorten_url":"https:\/\/me2.do\/xZ9NMFXU"
         },
         {
             "index":40,
@@ -538,7 +582,8 @@
             "value_score":74.5785,
             "region":"서울시 구로구",
             "region_code":"Seoul",
-            "sub_region_code":"1153000000_Seoul_Guro"
+            "sub_region_code":"1153000000_Seoul_Guro",
+            "shorten_url":"https:\/\/me2.do\/xZ9NMFXU"
         },
         {
             "index":41,
@@ -550,7 +595,8 @@
             "value_score":69.5785,
             "region":"서울시 구로구",
             "region_code":"Seoul",
-            "sub_region_code":"1153000000_Seoul_Guro"
+            "sub_region_code":"1153000000_Seoul_Guro",
+            "shorten_url":"https:\/\/me2.do\/xZ9NMFXU"
         },
         {
             "index":42,
@@ -562,7 +608,8 @@
             "value_score":68.5785,
             "region":"서울시 구로구",
             "region_code":"Seoul",
-            "sub_region_code":"1153000000_Seoul_Guro"
+            "sub_region_code":"1153000000_Seoul_Guro",
+            "shorten_url":"https:\/\/me2.do\/xZ9NMFXU"
         },
         {
             "index":43,
@@ -574,7 +621,8 @@
             "value_score":67.8785,
             "region":"서울시 구로구",
             "region_code":"Seoul",
-            "sub_region_code":"1153000000_Seoul_Guro"
+            "sub_region_code":"1153000000_Seoul_Guro",
+            "shorten_url":"https:\/\/me2.do\/xZ9NMFXU"
         },
         {
             "index":44,
@@ -586,7 +634,8 @@
             "value_score":66.7785,
             "region":"서울시 구로구",
             "region_code":"Seoul",
-            "sub_region_code":"1153000000_Seoul_Guro"
+            "sub_region_code":"1153000000_Seoul_Guro",
+            "shorten_url":"https:\/\/me2.do\/xZ9NMFXU"
         },
         {
             "index":45,
@@ -598,7 +647,8 @@
             "value_score":66.5785,
             "region":"서울시 구로구",
             "region_code":"Seoul",
-            "sub_region_code":"1153000000_Seoul_Guro"
+            "sub_region_code":"1153000000_Seoul_Guro",
+            "shorten_url":"https:\/\/me2.do\/xZ9NMFXU"
         },
         {
             "index":46,
@@ -610,7 +660,8 @@
             "value_score":65.0785,
             "region":"서울시 구로구",
             "region_code":"Seoul",
-            "sub_region_code":"1153000000_Seoul_Guro"
+            "sub_region_code":"1153000000_Seoul_Guro",
+            "shorten_url":"https:\/\/me2.do\/xZ9NMFXU"
         },
         {
             "index":47,
@@ -622,7 +673,8 @@
             "value_score":64.9785,
             "region":"서울시 구로구",
             "region_code":"Seoul",
-            "sub_region_code":"1153000000_Seoul_Guro"
+            "sub_region_code":"1153000000_Seoul_Guro",
+            "shorten_url":"https:\/\/me2.do\/xZ9NMFXU"
         },
         {
             "index":48,
@@ -634,7 +686,8 @@
             "value_score":64.1705974047,
             "region":"서울시 구로구",
             "region_code":"Seoul",
-            "sub_region_code":"1153000000_Seoul_Guro"
+            "sub_region_code":"1153000000_Seoul_Guro",
+            "shorten_url":"https:\/\/me2.do\/xZ9NMFXU"
         },
         {
             "index":49,
@@ -646,7 +699,8 @@
             "value_score":63.7785,
             "region":"서울시 구로구",
             "region_code":"Seoul",
-            "sub_region_code":"1153000000_Seoul_Guro"
+            "sub_region_code":"1153000000_Seoul_Guro",
+            "shorten_url":"https:\/\/me2.do\/xZ9NMFXU"
         }
     ]
 }

@@ -40,6 +40,10 @@
             {
                 "name":"sub_region_code",
                 "type":"string"
+            },
+            {
+                "name":"shorten_url",
+                "type":"string"
             }
         ],
         "primaryKey":[
@@ -58,7 +62,8 @@
             "value_score":57.9237,
             "region":"부산시 영도구",
             "region_code":"Busan",
-            "sub_region_code":"2620000000_Busan_Yeongdo"
+            "sub_region_code":"2620000000_Busan_Yeongdo",
+            "shorten_url":"https:\/\/me2.do\/F31sybJo"
         },
         {
             "index":1,
@@ -70,7 +75,8 @@
             "value_score":56.9338,
             "region":"부산시 영도구",
             "region_code":"Busan",
-            "sub_region_code":"2620000000_Busan_Yeongdo"
+            "sub_region_code":"2620000000_Busan_Yeongdo",
+            "shorten_url":"https:\/\/me2.do\/F31sybJo"
         },
         {
             "index":2,
@@ -82,7 +88,8 @@
             "value_score":55.7737,
             "region":"부산시 영도구",
             "region_code":"Busan",
-            "sub_region_code":"2620000000_Busan_Yeongdo"
+            "sub_region_code":"2620000000_Busan_Yeongdo",
+            "shorten_url":"https:\/\/me2.do\/F31sybJo"
         },
         {
             "index":3,
@@ -94,7 +101,8 @@
             "value_score":53.8237,
             "region":"부산시 영도구",
             "region_code":"Busan",
-            "sub_region_code":"2620000000_Busan_Yeongdo"
+            "sub_region_code":"2620000000_Busan_Yeongdo",
+            "shorten_url":"https:\/\/me2.do\/F31sybJo"
         },
         {
             "index":4,
@@ -106,7 +114,8 @@
             "value_score":51.8737,
             "region":"부산시 영도구",
             "region_code":"Busan",
-            "sub_region_code":"2620000000_Busan_Yeongdo"
+            "sub_region_code":"2620000000_Busan_Yeongdo",
+            "shorten_url":"https:\/\/me2.do\/F31sybJo"
         },
         {
             "index":5,
@@ -118,7 +127,8 @@
             "value_score":50.2237,
             "region":"부산시 영도구",
             "region_code":"Busan",
-            "sub_region_code":"2620000000_Busan_Yeongdo"
+            "sub_region_code":"2620000000_Busan_Yeongdo",
+            "shorten_url":"https:\/\/me2.do\/F31sybJo"
         },
         {
             "index":6,
@@ -130,7 +140,8 @@
             "value_score":48.6338,
             "region":"부산시 영도구",
             "region_code":"Busan",
-            "sub_region_code":"2620000000_Busan_Yeongdo"
+            "sub_region_code":"2620000000_Busan_Yeongdo",
+            "shorten_url":"https:\/\/me2.do\/F31sybJo"
         },
         {
             "index":7,
@@ -142,7 +153,8 @@
             "value_score":48.1237,
             "region":"부산시 영도구",
             "region_code":"Busan",
-            "sub_region_code":"2620000000_Busan_Yeongdo"
+            "sub_region_code":"2620000000_Busan_Yeongdo",
+            "shorten_url":"https:\/\/me2.do\/F31sybJo"
         },
         {
             "index":8,
@@ -154,7 +166,8 @@
             "value_score":47.9338,
             "region":"부산시 영도구",
             "region_code":"Busan",
-            "sub_region_code":"2620000000_Busan_Yeongdo"
+            "sub_region_code":"2620000000_Busan_Yeongdo",
+            "shorten_url":"https:\/\/me2.do\/F31sybJo"
         },
         {
             "index":9,
@@ -166,7 +179,8 @@
             "value_score":47.8237,
             "region":"부산시 영도구",
             "region_code":"Busan",
-            "sub_region_code":"2620000000_Busan_Yeongdo"
+            "sub_region_code":"2620000000_Busan_Yeongdo",
+            "shorten_url":"https:\/\/me2.do\/F31sybJo"
         },
         {
             "index":10,
@@ -178,7 +192,8 @@
             "value_score":64.1892,
             "region":"부산시 영도구",
             "region_code":"Busan",
-            "sub_region_code":"2620000000_Busan_Yeongdo"
+            "sub_region_code":"2620000000_Busan_Yeongdo",
+            "shorten_url":"https:\/\/me2.do\/F31sybJo"
         },
         {
             "index":11,
@@ -190,7 +205,8 @@
             "value_score":56.9158,
             "region":"부산시 영도구",
             "region_code":"Busan",
-            "sub_region_code":"2620000000_Busan_Yeongdo"
+            "sub_region_code":"2620000000_Busan_Yeongdo",
+            "shorten_url":"https:\/\/me2.do\/F31sybJo"
         },
         {
             "index":12,
@@ -202,7 +218,8 @@
             "value_score":53.2658,
             "region":"부산시 영도구",
             "region_code":"Busan",
-            "sub_region_code":"2620000000_Busan_Yeongdo"
+            "sub_region_code":"2620000000_Busan_Yeongdo",
+            "shorten_url":"https:\/\/me2.do\/F31sybJo"
         },
         {
             "index":13,
@@ -214,7 +231,8 @@
             "value_score":52.079,
             "region":"부산시 영도구",
             "region_code":"Busan",
-            "sub_region_code":"2620000000_Busan_Yeongdo"
+            "sub_region_code":"2620000000_Busan_Yeongdo",
+            "shorten_url":"https:\/\/me2.do\/F31sybJo"
         },
         {
             "index":14,
@@ -226,7 +244,8 @@
             "value_score":51.4158,
             "region":"부산시 영도구",
             "region_code":"Busan",
-            "sub_region_code":"2620000000_Busan_Yeongdo"
+            "sub_region_code":"2620000000_Busan_Yeongdo",
+            "shorten_url":"https:\/\/me2.do\/F31sybJo"
         },
         {
             "index":15,
@@ -238,7 +257,8 @@
             "value_score":50.7892,
             "region":"부산시 영도구",
             "region_code":"Busan",
-            "sub_region_code":"2620000000_Busan_Yeongdo"
+            "sub_region_code":"2620000000_Busan_Yeongdo",
+            "shorten_url":"https:\/\/me2.do\/F31sybJo"
         },
         {
             "index":16,
@@ -250,7 +270,8 @@
             "value_score":50.697,
             "region":"부산시 영도구",
             "region_code":"Busan",
-            "sub_region_code":"2620000000_Busan_Yeongdo"
+            "sub_region_code":"2620000000_Busan_Yeongdo",
+            "shorten_url":"https:\/\/me2.do\/F31sybJo"
         },
         {
             "index":17,
@@ -262,7 +283,8 @@
             "value_score":49.7246,
             "region":"부산시 영도구",
             "region_code":"Busan",
-            "sub_region_code":"2620000000_Busan_Yeongdo"
+            "sub_region_code":"2620000000_Busan_Yeongdo",
+            "shorten_url":"https:\/\/me2.do\/F31sybJo"
         },
         {
             "index":18,
@@ -274,7 +296,8 @@
             "value_score":49.6892,
             "region":"부산시 영도구",
             "region_code":"Busan",
-            "sub_region_code":"2620000000_Busan_Yeongdo"
+            "sub_region_code":"2620000000_Busan_Yeongdo",
+            "shorten_url":"https:\/\/me2.do\/F31sybJo"
         },
         {
             "index":19,
@@ -286,7 +309,8 @@
             "value_score":46.9658,
             "region":"부산시 영도구",
             "region_code":"Busan",
-            "sub_region_code":"2620000000_Busan_Yeongdo"
+            "sub_region_code":"2620000000_Busan_Yeongdo",
+            "shorten_url":"https:\/\/me2.do\/F31sybJo"
         },
         {
             "index":20,
@@ -298,7 +322,8 @@
             "value_score":64.38685,
             "region":"부산시 영도구",
             "region_code":"Busan",
-            "sub_region_code":"2620000000_Busan_Yeongdo"
+            "sub_region_code":"2620000000_Busan_Yeongdo",
+            "shorten_url":"https:\/\/me2.do\/F31sybJo"
         },
         {
             "index":21,
@@ -310,7 +335,8 @@
             "value_score":64.06185,
             "region":"부산시 영도구",
             "region_code":"Busan",
-            "sub_region_code":"2620000000_Busan_Yeongdo"
+            "sub_region_code":"2620000000_Busan_Yeongdo",
+            "shorten_url":"https:\/\/me2.do\/F31sybJo"
         },
         {
             "index":22,
@@ -322,7 +348,8 @@
             "value_score":62.28685,
             "region":"부산시 영도구",
             "region_code":"Busan",
-            "sub_region_code":"2620000000_Busan_Yeongdo"
+            "sub_region_code":"2620000000_Busan_Yeongdo",
+            "shorten_url":"https:\/\/me2.do\/F31sybJo"
         },
         {
             "index":23,
@@ -334,7 +361,8 @@
             "value_score":61.61185,
             "region":"부산시 영도구",
             "region_code":"Busan",
-            "sub_region_code":"2620000000_Busan_Yeongdo"
+            "sub_region_code":"2620000000_Busan_Yeongdo",
+            "shorten_url":"https:\/\/me2.do\/F31sybJo"
         },
         {
             "index":24,
@@ -346,7 +374,8 @@
             "value_score":61.01185,
             "region":"부산시 영도구",
             "region_code":"Busan",
-            "sub_region_code":"2620000000_Busan_Yeongdo"
+            "sub_region_code":"2620000000_Busan_Yeongdo",
+            "shorten_url":"https:\/\/me2.do\/F31sybJo"
         },
         {
             "index":25,
@@ -358,7 +387,8 @@
             "value_score":60.56185,
             "region":"부산시 영도구",
             "region_code":"Busan",
-            "sub_region_code":"2620000000_Busan_Yeongdo"
+            "sub_region_code":"2620000000_Busan_Yeongdo",
+            "shorten_url":"https:\/\/me2.do\/F31sybJo"
         },
         {
             "index":26,
@@ -370,7 +400,8 @@
             "value_score":60.26185,
             "region":"부산시 영도구",
             "region_code":"Busan",
-            "sub_region_code":"2620000000_Busan_Yeongdo"
+            "sub_region_code":"2620000000_Busan_Yeongdo",
+            "shorten_url":"https:\/\/me2.do\/F31sybJo"
         },
         {
             "index":27,
@@ -382,7 +413,8 @@
             "value_score":60.03685,
             "region":"부산시 영도구",
             "region_code":"Busan",
-            "sub_region_code":"2620000000_Busan_Yeongdo"
+            "sub_region_code":"2620000000_Busan_Yeongdo",
+            "shorten_url":"https:\/\/me2.do\/F31sybJo"
         },
         {
             "index":28,
@@ -394,7 +426,8 @@
             "value_score":51.61185,
             "region":"부산시 영도구",
             "region_code":"Busan",
-            "sub_region_code":"2620000000_Busan_Yeongdo"
+            "sub_region_code":"2620000000_Busan_Yeongdo",
+            "shorten_url":"https:\/\/me2.do\/F31sybJo"
         },
         {
             "index":29,
@@ -406,7 +439,8 @@
             "value_score":49.3669,
             "region":"부산시 영도구",
             "region_code":"Busan",
-            "sub_region_code":"2620000000_Busan_Yeongdo"
+            "sub_region_code":"2620000000_Busan_Yeongdo",
+            "shorten_url":"https:\/\/me2.do\/F31sybJo"
         },
         {
             "index":30,
@@ -418,7 +452,8 @@
             "value_score":64.31975,
             "region":"부산시 영도구",
             "region_code":"Busan",
-            "sub_region_code":"2620000000_Busan_Yeongdo"
+            "sub_region_code":"2620000000_Busan_Yeongdo",
+            "shorten_url":"https:\/\/me2.do\/F31sybJo"
         },
         {
             "index":31,
@@ -430,7 +465,8 @@
             "value_score":59.76975,
             "region":"부산시 영도구",
             "region_code":"Busan",
-            "sub_region_code":"2620000000_Busan_Yeongdo"
+            "sub_region_code":"2620000000_Busan_Yeongdo",
+            "shorten_url":"https:\/\/me2.do\/F31sybJo"
         },
         {
             "index":32,
@@ -442,7 +478,8 @@
             "value_score":58.61975,
             "region":"부산시 영도구",
             "region_code":"Busan",
-            "sub_region_code":"2620000000_Busan_Yeongdo"
+            "sub_region_code":"2620000000_Busan_Yeongdo",
+            "shorten_url":"https:\/\/me2.do\/F31sybJo"
         },
         {
             "index":33,
@@ -454,7 +491,8 @@
             "value_score":57.91975,
             "region":"부산시 영도구",
             "region_code":"Busan",
-            "sub_region_code":"2620000000_Busan_Yeongdo"
+            "sub_region_code":"2620000000_Busan_Yeongdo",
+            "shorten_url":"https:\/\/me2.do\/F31sybJo"
         },
         {
             "index":34,
@@ -466,7 +504,8 @@
             "value_score":57.86975,
             "region":"부산시 영도구",
             "region_code":"Busan",
-            "sub_region_code":"2620000000_Busan_Yeongdo"
+            "sub_region_code":"2620000000_Busan_Yeongdo",
+            "shorten_url":"https:\/\/me2.do\/F31sybJo"
         },
         {
             "index":35,
@@ -478,7 +517,8 @@
             "value_score":57.81975,
             "region":"부산시 영도구",
             "region_code":"Busan",
-            "sub_region_code":"2620000000_Busan_Yeongdo"
+            "sub_region_code":"2620000000_Busan_Yeongdo",
+            "shorten_url":"https:\/\/me2.do\/F31sybJo"
         },
         {
             "index":36,
@@ -490,7 +530,8 @@
             "value_score":57.21975,
             "region":"부산시 영도구",
             "region_code":"Busan",
-            "sub_region_code":"2620000000_Busan_Yeongdo"
+            "sub_region_code":"2620000000_Busan_Yeongdo",
+            "shorten_url":"https:\/\/me2.do\/F31sybJo"
         },
         {
             "index":37,
@@ -502,7 +543,8 @@
             "value_score":56.46975,
             "region":"부산시 영도구",
             "region_code":"Busan",
-            "sub_region_code":"2620000000_Busan_Yeongdo"
+            "sub_region_code":"2620000000_Busan_Yeongdo",
+            "shorten_url":"https:\/\/me2.do\/F31sybJo"
         },
         {
             "index":38,
@@ -514,7 +556,8 @@
             "value_score":56.31975,
             "region":"부산시 영도구",
             "region_code":"Busan",
-            "sub_region_code":"2620000000_Busan_Yeongdo"
+            "sub_region_code":"2620000000_Busan_Yeongdo",
+            "shorten_url":"https:\/\/me2.do\/F31sybJo"
         },
         {
             "index":39,
@@ -526,7 +569,8 @@
             "value_score":53.9615,
             "region":"부산시 영도구",
             "region_code":"Busan",
-            "sub_region_code":"2620000000_Busan_Yeongdo"
+            "sub_region_code":"2620000000_Busan_Yeongdo",
+            "shorten_url":"https:\/\/me2.do\/F31sybJo"
         },
         {
             "index":40,
@@ -538,7 +582,8 @@
             "value_score":54.8395,
             "region":"부산시 영도구",
             "region_code":"Busan",
-            "sub_region_code":"2620000000_Busan_Yeongdo"
+            "sub_region_code":"2620000000_Busan_Yeongdo",
+            "shorten_url":"https:\/\/me2.do\/F31sybJo"
         },
         {
             "index":41,
@@ -550,7 +595,8 @@
             "value_score":54.723,
             "region":"부산시 영도구",
             "region_code":"Busan",
-            "sub_region_code":"2620000000_Busan_Yeongdo"
+            "sub_region_code":"2620000000_Busan_Yeongdo",
+            "shorten_url":"https:\/\/me2.do\/F31sybJo"
         },
         {
             "index":42,
@@ -562,7 +608,8 @@
             "value_score":52.5395,
             "region":"부산시 영도구",
             "region_code":"Busan",
-            "sub_region_code":"2620000000_Busan_Yeongdo"
+            "sub_region_code":"2620000000_Busan_Yeongdo",
+            "shorten_url":"https:\/\/me2.do\/F31sybJo"
         },
         {
             "index":43,
@@ -574,7 +621,8 @@
             "value_score":51.4395,
             "region":"부산시 영도구",
             "region_code":"Busan",
-            "sub_region_code":"2620000000_Busan_Yeongdo"
+            "sub_region_code":"2620000000_Busan_Yeongdo",
+            "shorten_url":"https:\/\/me2.do\/F31sybJo"
         },
         {
             "index":44,
@@ -586,7 +634,8 @@
             "value_score":49.8395,
             "region":"부산시 영도구",
             "region_code":"Busan",
-            "sub_region_code":"2620000000_Busan_Yeongdo"
+            "sub_region_code":"2620000000_Busan_Yeongdo",
+            "shorten_url":"https:\/\/me2.do\/F31sybJo"
         },
         {
             "index":45,
@@ -598,7 +647,8 @@
             "value_score":49.523,
             "region":"부산시 영도구",
             "region_code":"Busan",
-            "sub_region_code":"2620000000_Busan_Yeongdo"
+            "sub_region_code":"2620000000_Busan_Yeongdo",
+            "shorten_url":"https:\/\/me2.do\/F31sybJo"
         },
         {
             "index":46,
@@ -610,7 +660,8 @@
             "value_score":48.8395,
             "region":"부산시 영도구",
             "region_code":"Busan",
-            "sub_region_code":"2620000000_Busan_Yeongdo"
+            "sub_region_code":"2620000000_Busan_Yeongdo",
+            "shorten_url":"https:\/\/me2.do\/F31sybJo"
         },
         {
             "index":47,
@@ -622,7 +673,8 @@
             "value_score":47.923,
             "region":"부산시 영도구",
             "region_code":"Busan",
-            "sub_region_code":"2620000000_Busan_Yeongdo"
+            "sub_region_code":"2620000000_Busan_Yeongdo",
+            "shorten_url":"https:\/\/me2.do\/F31sybJo"
         },
         {
             "index":48,
@@ -634,7 +686,8 @@
             "value_score":47.8865,
             "region":"부산시 영도구",
             "region_code":"Busan",
-            "sub_region_code":"2620000000_Busan_Yeongdo"
+            "sub_region_code":"2620000000_Busan_Yeongdo",
+            "shorten_url":"https:\/\/me2.do\/F31sybJo"
         },
         {
             "index":49,
@@ -646,7 +699,8 @@
             "value_score":47.4395,
             "region":"부산시 영도구",
             "region_code":"Busan",
-            "sub_region_code":"2620000000_Busan_Yeongdo"
+            "sub_region_code":"2620000000_Busan_Yeongdo",
+            "shorten_url":"https:\/\/me2.do\/F31sybJo"
         }
     ]
 }

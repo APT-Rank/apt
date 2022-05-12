@@ -40,6 +40,10 @@
             {
                 "name":"sub_region_code",
                 "type":"string"
+            },
+            {
+                "name":"shorten_url",
+                "type":"string"
             }
         ],
         "primaryKey":[
@@ -58,7 +62,8 @@
             "value_score":57.9191,
             "region":"전라남도 나주시",
             "region_code":"Jeollanamdo",
-            "sub_region_code":"4617000000_Jeollanamdo_Naju"
+            "sub_region_code":"4617000000_Jeollanamdo_Naju",
+            "shorten_url":"https:\/\/me2.do\/xRcDudV2"
         },
         {
             "index":1,
@@ -70,7 +75,8 @@
             "value_score":57.43145,
             "region":"전라남도 나주시",
             "region_code":"Jeollanamdo",
-            "sub_region_code":"4617000000_Jeollanamdo_Naju"
+            "sub_region_code":"4617000000_Jeollanamdo_Naju",
+            "shorten_url":"https:\/\/me2.do\/xRcDudV2"
         },
         {
             "index":2,
@@ -82,7 +88,8 @@
             "value_score":57.4191,
             "region":"전라남도 나주시",
             "region_code":"Jeollanamdo",
-            "sub_region_code":"4617000000_Jeollanamdo_Naju"
+            "sub_region_code":"4617000000_Jeollanamdo_Naju",
+            "shorten_url":"https:\/\/me2.do\/xRcDudV2"
         },
         {
             "index":3,
@@ -94,7 +101,8 @@
             "value_score":55.93145,
             "region":"전라남도 나주시",
             "region_code":"Jeollanamdo",
-            "sub_region_code":"4617000000_Jeollanamdo_Naju"
+            "sub_region_code":"4617000000_Jeollanamdo_Naju",
+            "shorten_url":"https:\/\/me2.do\/xRcDudV2"
         },
         {
             "index":4,
@@ -106,7 +114,8 @@
             "value_score":55.78145,
             "region":"전라남도 나주시",
             "region_code":"Jeollanamdo",
-            "sub_region_code":"4617000000_Jeollanamdo_Naju"
+            "sub_region_code":"4617000000_Jeollanamdo_Naju",
+            "shorten_url":"https:\/\/me2.do\/xRcDudV2"
         },
         {
             "index":5,
@@ -118,7 +127,8 @@
             "value_score":54.63145,
             "region":"전라남도 나주시",
             "region_code":"Jeollanamdo",
-            "sub_region_code":"4617000000_Jeollanamdo_Naju"
+            "sub_region_code":"4617000000_Jeollanamdo_Naju",
+            "shorten_url":"https:\/\/me2.do\/xRcDudV2"
         },
         {
             "index":6,
@@ -130,7 +140,8 @@
             "value_score":54.17105,
             "region":"전라남도 나주시",
             "region_code":"Jeollanamdo",
-            "sub_region_code":"4617000000_Jeollanamdo_Naju"
+            "sub_region_code":"4617000000_Jeollanamdo_Naju",
+            "shorten_url":"https:\/\/me2.do\/xRcDudV2"
         },
         {
             "index":7,
@@ -142,7 +153,8 @@
             "value_score":53.8191,
             "region":"전라남도 나주시",
             "region_code":"Jeollanamdo",
-            "sub_region_code":"4617000000_Jeollanamdo_Naju"
+            "sub_region_code":"4617000000_Jeollanamdo_Naju",
+            "shorten_url":"https:\/\/me2.do\/xRcDudV2"
         },
         {
             "index":8,
@@ -154,7 +166,8 @@
             "value_score":53.2191,
             "region":"전라남도 나주시",
             "region_code":"Jeollanamdo",
-            "sub_region_code":"4617000000_Jeollanamdo_Naju"
+            "sub_region_code":"4617000000_Jeollanamdo_Naju",
+            "shorten_url":"https:\/\/me2.do\/xRcDudV2"
         },
         {
             "index":9,
@@ -166,7 +179,8 @@
             "value_score":53.2191,
             "region":"전라남도 나주시",
             "region_code":"Jeollanamdo",
-            "sub_region_code":"4617000000_Jeollanamdo_Naju"
+            "sub_region_code":"4617000000_Jeollanamdo_Naju",
+            "shorten_url":"https:\/\/me2.do\/xRcDudV2"
         },
         {
             "index":10,
@@ -178,7 +192,8 @@
             "value_score":60.23675,
             "region":"전라남도 나주시",
             "region_code":"Jeollanamdo",
-            "sub_region_code":"4617000000_Jeollanamdo_Naju"
+            "sub_region_code":"4617000000_Jeollanamdo_Naju",
+            "shorten_url":"https:\/\/me2.do\/xRcDudV2"
         },
         {
             "index":11,
@@ -190,7 +205,8 @@
             "value_score":60.1565,
             "region":"전라남도 나주시",
             "region_code":"Jeollanamdo",
-            "sub_region_code":"4617000000_Jeollanamdo_Naju"
+            "sub_region_code":"4617000000_Jeollanamdo_Naju",
+            "shorten_url":"https:\/\/me2.do\/xRcDudV2"
         },
         {
             "index":12,
@@ -202,7 +218,8 @@
             "value_score":59.6565,
             "region":"전라남도 나주시",
             "region_code":"Jeollanamdo",
-            "sub_region_code":"4617000000_Jeollanamdo_Naju"
+            "sub_region_code":"4617000000_Jeollanamdo_Naju",
+            "shorten_url":"https:\/\/me2.do\/xRcDudV2"
         },
         {
             "index":13,
@@ -214,7 +231,8 @@
             "value_score":59.48675,
             "region":"전라남도 나주시",
             "region_code":"Jeollanamdo",
-            "sub_region_code":"4617000000_Jeollanamdo_Naju"
+            "sub_region_code":"4617000000_Jeollanamdo_Naju",
+            "shorten_url":"https:\/\/me2.do\/xRcDudV2"
         },
         {
             "index":14,
@@ -226,7 +244,8 @@
             "value_score":59.05075,
             "region":"전라남도 나주시",
             "region_code":"Jeollanamdo",
-            "sub_region_code":"4617000000_Jeollanamdo_Naju"
+            "sub_region_code":"4617000000_Jeollanamdo_Naju",
+            "shorten_url":"https:\/\/me2.do\/xRcDudV2"
         },
         {
             "index":15,
@@ -238,7 +257,8 @@
             "value_score":58.73675,
             "region":"전라남도 나주시",
             "region_code":"Jeollanamdo",
-            "sub_region_code":"4617000000_Jeollanamdo_Naju"
+            "sub_region_code":"4617000000_Jeollanamdo_Naju",
+            "shorten_url":"https:\/\/me2.do\/xRcDudV2"
         },
         {
             "index":16,
@@ -250,7 +270,8 @@
             "value_score":58.23675,
             "region":"전라남도 나주시",
             "region_code":"Jeollanamdo",
-            "sub_region_code":"4617000000_Jeollanamdo_Naju"
+            "sub_region_code":"4617000000_Jeollanamdo_Naju",
+            "shorten_url":"https:\/\/me2.do\/xRcDudV2"
         },
         {
             "index":17,
@@ -262,7 +283,8 @@
             "value_score":57.4065,
             "region":"전라남도 나주시",
             "region_code":"Jeollanamdo",
-            "sub_region_code":"4617000000_Jeollanamdo_Naju"
+            "sub_region_code":"4617000000_Jeollanamdo_Naju",
+            "shorten_url":"https:\/\/me2.do\/xRcDudV2"
         },
         {
             "index":18,
@@ -274,7 +296,8 @@
             "value_score":56.6565,
             "region":"전라남도 나주시",
             "region_code":"Jeollanamdo",
-            "sub_region_code":"4617000000_Jeollanamdo_Naju"
+            "sub_region_code":"4617000000_Jeollanamdo_Naju",
+            "shorten_url":"https:\/\/me2.do\/xRcDudV2"
         },
         {
             "index":19,
@@ -286,7 +309,8 @@
             "value_score":56.6565,
             "region":"전라남도 나주시",
             "region_code":"Jeollanamdo",
-            "sub_region_code":"4617000000_Jeollanamdo_Naju"
+            "sub_region_code":"4617000000_Jeollanamdo_Naju",
+            "shorten_url":"https:\/\/me2.do\/xRcDudV2"
         },
         {
             "index":20,
@@ -298,7 +322,8 @@
             "value_score":42.5732631579,
             "region":"전라남도 나주시",
             "region_code":"Jeollanamdo",
-            "sub_region_code":"4617000000_Jeollanamdo_Naju"
+            "sub_region_code":"4617000000_Jeollanamdo_Naju",
+            "shorten_url":"https:\/\/me2.do\/xRcDudV2"
         },
         {
             "index":21,
@@ -310,7 +335,8 @@
             "value_score":42.0885263158,
             "region":"전라남도 나주시",
             "region_code":"Jeollanamdo",
-            "sub_region_code":"4617000000_Jeollanamdo_Naju"
+            "sub_region_code":"4617000000_Jeollanamdo_Naju",
+            "shorten_url":"https:\/\/me2.do\/xRcDudV2"
         },
         {
             "index":22,
@@ -322,7 +348,8 @@
             "value_score":41.6973684211,
             "region":"전라남도 나주시",
             "region_code":"Jeollanamdo",
-            "sub_region_code":"4617000000_Jeollanamdo_Naju"
+            "sub_region_code":"4617000000_Jeollanamdo_Naju",
+            "shorten_url":"https:\/\/me2.do\/xRcDudV2"
         },
         {
             "index":23,
@@ -334,7 +361,8 @@
             "value_score":41.0095789474,
             "region":"전라남도 나주시",
             "region_code":"Jeollanamdo",
-            "sub_region_code":"4617000000_Jeollanamdo_Naju"
+            "sub_region_code":"4617000000_Jeollanamdo_Naju",
+            "shorten_url":"https:\/\/me2.do\/xRcDudV2"
         },
         {
             "index":24,
@@ -346,7 +374,8 @@
             "value_score":40.724,
             "region":"전라남도 나주시",
             "region_code":"Jeollanamdo",
-            "sub_region_code":"4617000000_Jeollanamdo_Naju"
+            "sub_region_code":"4617000000_Jeollanamdo_Naju",
+            "shorten_url":"https:\/\/me2.do\/xRcDudV2"
         },
         {
             "index":25,
@@ -358,7 +387,8 @@
             "value_score":39.6713684211,
             "region":"전라남도 나주시",
             "region_code":"Jeollanamdo",
-            "sub_region_code":"4617000000_Jeollanamdo_Naju"
+            "sub_region_code":"4617000000_Jeollanamdo_Naju",
+            "shorten_url":"https:\/\/me2.do\/xRcDudV2"
         },
         {
             "index":26,
@@ -370,7 +400,8 @@
             "value_score":38.9306315789,
             "region":"전라남도 나주시",
             "region_code":"Jeollanamdo",
-            "sub_region_code":"4617000000_Jeollanamdo_Naju"
+            "sub_region_code":"4617000000_Jeollanamdo_Naju",
+            "shorten_url":"https:\/\/me2.do\/xRcDudV2"
         },
         {
             "index":27,
@@ -382,7 +413,8 @@
             "value_score":38.5206315789,
             "region":"전라남도 나주시",
             "region_code":"Jeollanamdo",
-            "sub_region_code":"4617000000_Jeollanamdo_Naju"
+            "sub_region_code":"4617000000_Jeollanamdo_Naju",
+            "shorten_url":"https:\/\/me2.do\/xRcDudV2"
         },
         {
             "index":28,
@@ -394,7 +426,8 @@
             "value_score":38.4325263158,
             "region":"전라남도 나주시",
             "region_code":"Jeollanamdo",
-            "sub_region_code":"4617000000_Jeollanamdo_Naju"
+            "sub_region_code":"4617000000_Jeollanamdo_Naju",
+            "shorten_url":"https:\/\/me2.do\/xRcDudV2"
         },
         {
             "index":29,
@@ -406,7 +439,8 @@
             "value_score":37.8890526316,
             "region":"전라남도 나주시",
             "region_code":"Jeollanamdo",
-            "sub_region_code":"4617000000_Jeollanamdo_Naju"
+            "sub_region_code":"4617000000_Jeollanamdo_Naju",
+            "shorten_url":"https:\/\/me2.do\/xRcDudV2"
         },
         {
             "index":30,
@@ -418,7 +452,8 @@
             "value_score":54.563,
             "region":"전라남도 나주시",
             "region_code":"Jeollanamdo",
-            "sub_region_code":"4617000000_Jeollanamdo_Naju"
+            "sub_region_code":"4617000000_Jeollanamdo_Naju",
+            "shorten_url":"https:\/\/me2.do\/xRcDudV2"
         },
         {
             "index":31,
@@ -430,7 +465,8 @@
             "value_score":54.063,
             "region":"전라남도 나주시",
             "region_code":"Jeollanamdo",
-            "sub_region_code":"4617000000_Jeollanamdo_Naju"
+            "sub_region_code":"4617000000_Jeollanamdo_Naju",
+            "shorten_url":"https:\/\/me2.do\/xRcDudV2"
         },
         {
             "index":32,
@@ -442,7 +478,8 @@
             "value_score":53.2235,
             "region":"전라남도 나주시",
             "region_code":"Jeollanamdo",
-            "sub_region_code":"4617000000_Jeollanamdo_Naju"
+            "sub_region_code":"4617000000_Jeollanamdo_Naju",
+            "shorten_url":"https:\/\/me2.do\/xRcDudV2"
         },
         {
             "index":33,
@@ -454,7 +491,8 @@
             "value_score":52.0985,
             "region":"전라남도 나주시",
             "region_code":"Jeollanamdo",
-            "sub_region_code":"4617000000_Jeollanamdo_Naju"
+            "sub_region_code":"4617000000_Jeollanamdo_Naju",
+            "shorten_url":"https:\/\/me2.do\/xRcDudV2"
         },
         {
             "index":34,
@@ -466,7 +504,8 @@
             "value_score":51.7235,
             "region":"전라남도 나주시",
             "region_code":"Jeollanamdo",
-            "sub_region_code":"4617000000_Jeollanamdo_Naju"
+            "sub_region_code":"4617000000_Jeollanamdo_Naju",
+            "shorten_url":"https:\/\/me2.do\/xRcDudV2"
         },
         {
             "index":35,
@@ -478,7 +517,8 @@
             "value_score":50.563,
             "region":"전라남도 나주시",
             "region_code":"Jeollanamdo",
-            "sub_region_code":"4617000000_Jeollanamdo_Naju"
+            "sub_region_code":"4617000000_Jeollanamdo_Naju",
+            "shorten_url":"https:\/\/me2.do\/xRcDudV2"
         },
         {
             "index":36,
@@ -490,7 +530,8 @@
             "value_score":48.438,
             "region":"전라남도 나주시",
             "region_code":"Jeollanamdo",
-            "sub_region_code":"4617000000_Jeollanamdo_Naju"
+            "sub_region_code":"4617000000_Jeollanamdo_Naju",
+            "shorten_url":"https:\/\/me2.do\/xRcDudV2"
         },
         {
             "index":37,
@@ -502,7 +543,8 @@
             "value_score":48.063,
             "region":"전라남도 나주시",
             "region_code":"Jeollanamdo",
-            "sub_region_code":"4617000000_Jeollanamdo_Naju"
+            "sub_region_code":"4617000000_Jeollanamdo_Naju",
+            "shorten_url":"https:\/\/me2.do\/xRcDudV2"
         },
         {
             "index":38,
@@ -514,7 +556,8 @@
             "value_score":48.063,
             "region":"전라남도 나주시",
             "region_code":"Jeollanamdo",
-            "sub_region_code":"4617000000_Jeollanamdo_Naju"
+            "sub_region_code":"4617000000_Jeollanamdo_Naju",
+            "shorten_url":"https:\/\/me2.do\/xRcDudV2"
         },
         {
             "index":39,
@@ -526,7 +569,8 @@
             "value_score":47.438,
             "region":"전라남도 나주시",
             "region_code":"Jeollanamdo",
-            "sub_region_code":"4617000000_Jeollanamdo_Naju"
+            "sub_region_code":"4617000000_Jeollanamdo_Naju",
+            "shorten_url":"https:\/\/me2.do\/xRcDudV2"
         }
     ]
 }

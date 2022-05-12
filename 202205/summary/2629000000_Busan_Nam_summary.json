@@ -40,6 +40,10 @@
             {
                 "name":"sub_region_code",
                 "type":"string"
+            },
+            {
+                "name":"shorten_url",
+                "type":"string"
             }
         ],
         "primaryKey":[
@@ -58,7 +62,8 @@
             "value_score":71.2727,
             "region":"부산시 남구",
             "region_code":"Busan",
-            "sub_region_code":"2629000000_Busan_Nam"
+            "sub_region_code":"2629000000_Busan_Nam",
+            "shorten_url":"https:\/\/me2.do\/xsUKP7V6"
         },
         {
             "index":1,
@@ -70,7 +75,8 @@
             "value_score":68.8727,
             "region":"부산시 남구",
             "region_code":"Busan",
-            "sub_region_code":"2629000000_Busan_Nam"
+            "sub_region_code":"2629000000_Busan_Nam",
+            "shorten_url":"https:\/\/me2.do\/xsUKP7V6"
         },
         {
             "index":2,
@@ -82,7 +88,8 @@
             "value_score":68.416,
             "region":"부산시 남구",
             "region_code":"Busan",
-            "sub_region_code":"2629000000_Busan_Nam"
+            "sub_region_code":"2629000000_Busan_Nam",
+            "shorten_url":"https:\/\/me2.do\/xsUKP7V6"
         },
         {
             "index":3,
@@ -94,7 +101,8 @@
             "value_score":68.2662,
             "region":"부산시 남구",
             "region_code":"Busan",
-            "sub_region_code":"2629000000_Busan_Nam"
+            "sub_region_code":"2629000000_Busan_Nam",
+            "shorten_url":"https:\/\/me2.do\/xsUKP7V6"
         },
         {
             "index":4,
@@ -106,7 +114,8 @@
             "value_score":67.9727,
             "region":"부산시 남구",
             "region_code":"Busan",
-            "sub_region_code":"2629000000_Busan_Nam"
+            "sub_region_code":"2629000000_Busan_Nam",
+            "shorten_url":"https:\/\/me2.do\/xsUKP7V6"
         },
         {
             "index":5,
@@ -118,7 +127,8 @@
             "value_score":67.9662,
             "region":"부산시 남구",
             "region_code":"Busan",
-            "sub_region_code":"2629000000_Busan_Nam"
+            "sub_region_code":"2629000000_Busan_Nam",
+            "shorten_url":"https:\/\/me2.do\/xsUKP7V6"
         },
         {
             "index":6,
@@ -130,7 +140,8 @@
             "value_score":66.196,
             "region":"부산시 남구",
             "region_code":"Busan",
-            "sub_region_code":"2629000000_Busan_Nam"
+            "sub_region_code":"2629000000_Busan_Nam",
+            "shorten_url":"https:\/\/me2.do\/xsUKP7V6"
         },
         {
             "index":7,
@@ -142,7 +153,8 @@
             "value_score":66.046,
             "region":"부산시 남구",
             "region_code":"Busan",
-            "sub_region_code":"2629000000_Busan_Nam"
+            "sub_region_code":"2629000000_Busan_Nam",
+            "shorten_url":"https:\/\/me2.do\/xsUKP7V6"
         },
         {
             "index":8,
@@ -154,7 +166,8 @@
             "value_score":64.9961,
             "region":"부산시 남구",
             "region_code":"Busan",
-            "sub_region_code":"2629000000_Busan_Nam"
+            "sub_region_code":"2629000000_Busan_Nam",
+            "shorten_url":"https:\/\/me2.do\/xsUKP7V6"
         },
         {
             "index":9,
@@ -166,7 +179,8 @@
             "value_score":63.7662,
             "region":"부산시 남구",
             "region_code":"Busan",
-            "sub_region_code":"2629000000_Busan_Nam"
+            "sub_region_code":"2629000000_Busan_Nam",
+            "shorten_url":"https:\/\/me2.do\/xsUKP7V6"
         },
         {
             "index":10,
@@ -178,7 +192,8 @@
             "value_score":70.3318,
             "region":"부산시 남구",
             "region_code":"Busan",
-            "sub_region_code":"2629000000_Busan_Nam"
+            "sub_region_code":"2629000000_Busan_Nam",
+            "shorten_url":"https:\/\/me2.do\/xsUKP7V6"
         },
         {
             "index":11,
@@ -190,7 +205,8 @@
             "value_score":70.094,
             "region":"부산시 남구",
             "region_code":"Busan",
-            "sub_region_code":"2629000000_Busan_Nam"
+            "sub_region_code":"2629000000_Busan_Nam",
+            "shorten_url":"https:\/\/me2.do\/xsUKP7V6"
         },
         {
             "index":12,
@@ -202,7 +218,8 @@
             "value_score":70.0108,
             "region":"부산시 남구",
             "region_code":"Busan",
-            "sub_region_code":"2629000000_Busan_Nam"
+            "sub_region_code":"2629000000_Busan_Nam",
+            "shorten_url":"https:\/\/me2.do\/xsUKP7V6"
         },
         {
             "index":13,
@@ -214,7 +231,8 @@
             "value_score":69.1108,
             "region":"부산시 남구",
             "region_code":"Busan",
-            "sub_region_code":"2629000000_Busan_Nam"
+            "sub_region_code":"2629000000_Busan_Nam",
+            "shorten_url":"https:\/\/me2.do\/xsUKP7V6"
         },
         {
             "index":14,
@@ -226,7 +244,8 @@
             "value_score":68.3318,
             "region":"부산시 남구",
             "region_code":"Busan",
-            "sub_region_code":"2629000000_Busan_Nam"
+            "sub_region_code":"2629000000_Busan_Nam",
+            "shorten_url":"https:\/\/me2.do\/xsUKP7V6"
         },
         {
             "index":15,
@@ -238,7 +257,8 @@
             "value_score":66.5636,
             "region":"부산시 남구",
             "region_code":"Busan",
-            "sub_region_code":"2629000000_Busan_Nam"
+            "sub_region_code":"2629000000_Busan_Nam",
+            "shorten_url":"https:\/\/me2.do\/xsUKP7V6"
         },
         {
             "index":16,
@@ -250,7 +270,8 @@
             "value_score":66.3318,
             "region":"부산시 남구",
             "region_code":"Busan",
-            "sub_region_code":"2629000000_Busan_Nam"
+            "sub_region_code":"2629000000_Busan_Nam",
+            "shorten_url":"https:\/\/me2.do\/xsUKP7V6"
         },
         {
             "index":17,
@@ -262,7 +283,8 @@
             "value_score":64.024,
             "region":"부산시 남구",
             "region_code":"Busan",
-            "sub_region_code":"2629000000_Busan_Nam"
+            "sub_region_code":"2629000000_Busan_Nam",
+            "shorten_url":"https:\/\/me2.do\/xsUKP7V6"
         },
         {
             "index":18,
@@ -274,7 +296,8 @@
             "value_score":63.7436,
             "region":"부산시 남구",
             "region_code":"Busan",
-            "sub_region_code":"2629000000_Busan_Nam"
+            "sub_region_code":"2629000000_Busan_Nam",
+            "shorten_url":"https:\/\/me2.do\/xsUKP7V6"
         },
         {
             "index":19,
@@ -286,7 +309,8 @@
             "value_score":63.0108,
             "region":"부산시 남구",
             "region_code":"Busan",
-            "sub_region_code":"2629000000_Busan_Nam"
+            "sub_region_code":"2629000000_Busan_Nam",
+            "shorten_url":"https:\/\/me2.do\/xsUKP7V6"
         },
         {
             "index":20,
@@ -298,7 +322,8 @@
             "value_score":78.79805,
             "region":"부산시 남구",
             "region_code":"Busan",
-            "sub_region_code":"2629000000_Busan_Nam"
+            "sub_region_code":"2629000000_Busan_Nam",
+            "shorten_url":"https:\/\/me2.do\/xsUKP7V6"
         },
         {
             "index":21,
@@ -310,7 +335,8 @@
             "value_score":78.63635,
             "region":"부산시 남구",
             "region_code":"Busan",
-            "sub_region_code":"2629000000_Busan_Nam"
+            "sub_region_code":"2629000000_Busan_Nam",
+            "shorten_url":"https:\/\/me2.do\/xsUKP7V6"
         },
         {
             "index":22,
@@ -322,7 +348,8 @@
             "value_score":77.43635,
             "region":"부산시 남구",
             "region_code":"Busan",
-            "sub_region_code":"2629000000_Busan_Nam"
+            "sub_region_code":"2629000000_Busan_Nam",
+            "shorten_url":"https:\/\/me2.do\/xsUKP7V6"
         },
         {
             "index":23,
@@ -334,7 +361,8 @@
             "value_score":76.558,
             "region":"부산시 남구",
             "region_code":"Busan",
-            "sub_region_code":"2629000000_Busan_Nam"
+            "sub_region_code":"2629000000_Busan_Nam",
+            "shorten_url":"https:\/\/me2.do\/xsUKP7V6"
         },
         {
             "index":24,
@@ -346,7 +374,8 @@
             "value_score":75.9831,
             "region":"부산시 남구",
             "region_code":"Busan",
-            "sub_region_code":"2629000000_Busan_Nam"
+            "sub_region_code":"2629000000_Busan_Nam",
+            "shorten_url":"https:\/\/me2.do\/xsUKP7V6"
         },
         {
             "index":25,
@@ -358,7 +387,8 @@
             "value_score":75.538,
             "region":"부산시 남구",
             "region_code":"Busan",
-            "sub_region_code":"2629000000_Busan_Nam"
+            "sub_region_code":"2629000000_Busan_Nam",
+            "shorten_url":"https:\/\/me2.do\/xsUKP7V6"
         },
         {
             "index":26,
@@ -370,7 +400,8 @@
             "value_score":74.4831,
             "region":"부산시 남구",
             "region_code":"Busan",
-            "sub_region_code":"2629000000_Busan_Nam"
+            "sub_region_code":"2629000000_Busan_Nam",
+            "shorten_url":"https:\/\/me2.do\/xsUKP7V6"
         },
         {
             "index":27,
@@ -382,7 +413,8 @@
             "value_score":74.34805,
             "region":"부산시 남구",
             "region_code":"Busan",
-            "sub_region_code":"2629000000_Busan_Nam"
+            "sub_region_code":"2629000000_Busan_Nam",
+            "shorten_url":"https:\/\/me2.do\/xsUKP7V6"
         },
         {
             "index":28,
@@ -394,7 +426,8 @@
             "value_score":74.263,
             "region":"부산시 남구",
             "region_code":"Busan",
-            "sub_region_code":"2629000000_Busan_Nam"
+            "sub_region_code":"2629000000_Busan_Nam",
+            "shorten_url":"https:\/\/me2.do\/xsUKP7V6"
         },
         {
             "index":29,
@@ -406,7 +439,8 @@
             "value_score":73.8831,
             "region":"부산시 남구",
             "region_code":"Busan",
-            "sub_region_code":"2629000000_Busan_Nam"
+            "sub_region_code":"2629000000_Busan_Nam",
+            "shorten_url":"https:\/\/me2.do\/xsUKP7V6"
         },
         {
             "index":30,
@@ -418,7 +452,8 @@
             "value_score":70.65225,
             "region":"부산시 남구",
             "region_code":"Busan",
-            "sub_region_code":"2629000000_Busan_Nam"
+            "sub_region_code":"2629000000_Busan_Nam",
+            "shorten_url":"https:\/\/me2.do\/xsUKP7V6"
         },
         {
             "index":31,
@@ -430,7 +465,8 @@
             "value_score":69.85225,
             "region":"부산시 남구",
             "region_code":"Busan",
-            "sub_region_code":"2629000000_Busan_Nam"
+            "sub_region_code":"2629000000_Busan_Nam",
+            "shorten_url":"https:\/\/me2.do\/xsUKP7V6"
         },
         {
             "index":32,
@@ -442,7 +478,8 @@
             "value_score":68.30225,
             "region":"부산시 남구",
             "region_code":"Busan",
-            "sub_region_code":"2629000000_Busan_Nam"
+            "sub_region_code":"2629000000_Busan_Nam",
+            "shorten_url":"https:\/\/me2.do\/xsUKP7V6"
         },
         {
             "index":33,
@@ -454,7 +491,8 @@
             "value_score":68.29675,
             "region":"부산시 남구",
             "region_code":"Busan",
-            "sub_region_code":"2629000000_Busan_Nam"
+            "sub_region_code":"2629000000_Busan_Nam",
+            "shorten_url":"https:\/\/me2.do\/xsUKP7V6"
         },
         {
             "index":34,
@@ -466,7 +504,8 @@
             "value_score":67.24675,
             "region":"부산시 남구",
             "region_code":"Busan",
-            "sub_region_code":"2629000000_Busan_Nam"
+            "sub_region_code":"2629000000_Busan_Nam",
+            "shorten_url":"https:\/\/me2.do\/xsUKP7V6"
         },
         {
             "index":35,
@@ -478,7 +517,8 @@
             "value_score":66.84675,
             "region":"부산시 남구",
             "region_code":"Busan",
-            "sub_region_code":"2629000000_Busan_Nam"
+            "sub_region_code":"2629000000_Busan_Nam",
+            "shorten_url":"https:\/\/me2.do\/xsUKP7V6"
         },
         {
             "index":36,
@@ -490,7 +530,8 @@
             "value_score":66.505,
             "region":"부산시 남구",
             "region_code":"Busan",
-            "sub_region_code":"2629000000_Busan_Nam"
+            "sub_region_code":"2629000000_Busan_Nam",
+            "shorten_url":"https:\/\/me2.do\/xsUKP7V6"
         },
         {
             "index":37,
@@ -502,7 +543,8 @@
             "value_score":66.14675,
             "region":"부산시 남구",
             "region_code":"Busan",
-            "sub_region_code":"2629000000_Busan_Nam"
+            "sub_region_code":"2629000000_Busan_Nam",
+            "shorten_url":"https:\/\/me2.do\/xsUKP7V6"
         },
         {
             "index":38,
@@ -514,7 +556,8 @@
             "value_score":65.90225,
             "region":"부산시 남구",
             "region_code":"Busan",
-            "sub_region_code":"2629000000_Busan_Nam"
+            "sub_region_code":"2629000000_Busan_Nam",
+            "shorten_url":"https:\/\/me2.do\/xsUKP7V6"
         },
         {
             "index":39,
@@ -526,7 +569,8 @@
             "value_score":65.055,
             "region":"부산시 남구",
             "region_code":"Busan",
-            "sub_region_code":"2629000000_Busan_Nam"
+            "sub_region_code":"2629000000_Busan_Nam",
+            "shorten_url":"https:\/\/me2.do\/xsUKP7V6"
         },
         {
             "index":40,
@@ -538,7 +582,8 @@
             "value_score":67.3045,
             "region":"부산시 남구",
             "region_code":"Busan",
-            "sub_region_code":"2629000000_Busan_Nam"
+            "sub_region_code":"2629000000_Busan_Nam",
+            "shorten_url":"https:\/\/me2.do\/xsUKP7V6"
         },
         {
             "index":41,
@@ -550,7 +595,8 @@
             "value_score":65.7045,
             "region":"부산시 남구",
             "region_code":"Busan",
-            "sub_region_code":"2629000000_Busan_Nam"
+            "sub_region_code":"2629000000_Busan_Nam",
+            "shorten_url":"https:\/\/me2.do\/xsUKP7V6"
         },
         {
             "index":42,
@@ -562,7 +608,8 @@
             "value_score":65.6045,
             "region":"부산시 남구",
             "region_code":"Busan",
-            "sub_region_code":"2629000000_Busan_Nam"
+            "sub_region_code":"2629000000_Busan_Nam",
+            "shorten_url":"https:\/\/me2.do\/xsUKP7V6"
         },
         {
             "index":43,
@@ -574,7 +621,8 @@
             "value_score":63.49,
             "region":"부산시 남구",
             "region_code":"Busan",
-            "sub_region_code":"2629000000_Busan_Nam"
+            "sub_region_code":"2629000000_Busan_Nam",
+            "shorten_url":"https:\/\/me2.do\/xsUKP7V6"
         },
         {
             "index":44,
@@ -586,7 +634,8 @@
             "value_score":63.277,
             "region":"부산시 남구",
             "region_code":"Busan",
-            "sub_region_code":"2629000000_Busan_Nam"
+            "sub_region_code":"2629000000_Busan_Nam",
+            "shorten_url":"https:\/\/me2.do\/xsUKP7V6"
         },
         {
             "index":45,
@@ -598,7 +647,8 @@
             "value_score":62.59,
             "region":"부산시 남구",
             "region_code":"Busan",
-            "sub_region_code":"2629000000_Busan_Nam"
+            "sub_region_code":"2629000000_Busan_Nam",
+            "shorten_url":"https:\/\/me2.do\/xsUKP7V6"
         },
         {
             "index":46,
@@ -610,7 +660,8 @@
             "value_score":61.8935,
             "region":"부산시 남구",
             "region_code":"Busan",
-            "sub_region_code":"2629000000_Busan_Nam"
+            "sub_region_code":"2629000000_Busan_Nam",
+            "shorten_url":"https:\/\/me2.do\/xsUKP7V6"
         },
         {
             "index":47,
@@ -622,7 +673,8 @@
             "value_score":61.31,
             "region":"부산시 남구",
             "region_code":"Busan",
-            "sub_region_code":"2629000000_Busan_Nam"
+            "sub_region_code":"2629000000_Busan_Nam",
+            "shorten_url":"https:\/\/me2.do\/xsUKP7V6"
         },
         {
             "index":48,
@@ -634,7 +686,8 @@
             "value_score":61.2935,
             "region":"부산시 남구",
             "region_code":"Busan",
-            "sub_region_code":"2629000000_Busan_Nam"
+            "sub_region_code":"2629000000_Busan_Nam",
+            "shorten_url":"https:\/\/me2.do\/xsUKP7V6"
         },
         {
             "index":49,
@@ -646,7 +699,8 @@
             "value_score":60.577,
             "region":"부산시 남구",
             "region_code":"Busan",
-            "sub_region_code":"2629000000_Busan_Nam"
+            "sub_region_code":"2629000000_Busan_Nam",
+            "shorten_url":"https:\/\/me2.do\/xsUKP7V6"
         }
     ]
 }

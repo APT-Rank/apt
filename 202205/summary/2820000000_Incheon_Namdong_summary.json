@@ -40,6 +40,10 @@
             {
                 "name":"sub_region_code",
                 "type":"string"
+            },
+            {
+                "name":"shorten_url",
+                "type":"string"
             }
         ],
         "primaryKey":[
@@ -58,7 +62,8 @@
             "value_score":61.10885,
             "region":"인천시 남동구",
             "region_code":"Incheon",
-            "sub_region_code":"2820000000_Incheon_Namdong"
+            "sub_region_code":"2820000000_Incheon_Namdong",
+            "shorten_url":"https:\/\/me2.do\/GPBWRDKx"
         },
         {
             "index":1,
@@ -70,7 +75,8 @@
             "value_score":59.50745,
             "region":"인천시 남동구",
             "region_code":"Incheon",
-            "sub_region_code":"2820000000_Incheon_Namdong"
+            "sub_region_code":"2820000000_Incheon_Namdong",
+            "shorten_url":"https:\/\/me2.do\/GPBWRDKx"
         },
         {
             "index":2,
@@ -82,7 +88,8 @@
             "value_score":58.20885,
             "region":"인천시 남동구",
             "region_code":"Incheon",
-            "sub_region_code":"2820000000_Incheon_Namdong"
+            "sub_region_code":"2820000000_Incheon_Namdong",
+            "shorten_url":"https:\/\/me2.do\/GPBWRDKx"
         },
         {
             "index":3,
@@ -94,7 +101,8 @@
             "value_score":57.8366,
             "region":"인천시 남동구",
             "region_code":"Incheon",
-            "sub_region_code":"2820000000_Incheon_Namdong"
+            "sub_region_code":"2820000000_Incheon_Namdong",
+            "shorten_url":"https:\/\/me2.do\/GPBWRDKx"
         },
         {
             "index":4,
@@ -106,7 +114,8 @@
             "value_score":57.71535,
             "region":"인천시 남동구",
             "region_code":"Incheon",
-            "sub_region_code":"2820000000_Incheon_Namdong"
+            "sub_region_code":"2820000000_Incheon_Namdong",
+            "shorten_url":"https:\/\/me2.do\/GPBWRDKx"
         },
         {
             "index":5,
@@ -118,7 +127,8 @@
             "value_score":57.21535,
             "region":"인천시 남동구",
             "region_code":"Incheon",
-            "sub_region_code":"2820000000_Incheon_Namdong"
+            "sub_region_code":"2820000000_Incheon_Namdong",
+            "shorten_url":"https:\/\/me2.do\/GPBWRDKx"
         },
         {
             "index":6,
@@ -130,7 +140,8 @@
             "value_score":56.8018816534,
             "region":"인천시 남동구",
             "region_code":"Incheon",
-            "sub_region_code":"2820000000_Incheon_Namdong"
+            "sub_region_code":"2820000000_Incheon_Namdong",
+            "shorten_url":"https:\/\/me2.do\/GPBWRDKx"
         },
         {
             "index":7,
@@ -142,7 +153,8 @@
             "value_score":56.77745,
             "region":"인천시 남동구",
             "region_code":"Incheon",
-            "sub_region_code":"2820000000_Incheon_Namdong"
+            "sub_region_code":"2820000000_Incheon_Namdong",
+            "shorten_url":"https:\/\/me2.do\/GPBWRDKx"
         },
         {
             "index":8,
@@ -154,7 +166,8 @@
             "value_score":56.75905,
             "region":"인천시 남동구",
             "region_code":"Incheon",
-            "sub_region_code":"2820000000_Incheon_Namdong"
+            "sub_region_code":"2820000000_Incheon_Namdong",
+            "shorten_url":"https:\/\/me2.do\/GPBWRDKx"
         },
         {
             "index":9,
@@ -166,7 +179,8 @@
             "value_score":56.01535,
             "region":"인천시 남동구",
             "region_code":"Incheon",
-            "sub_region_code":"2820000000_Incheon_Namdong"
+            "sub_region_code":"2820000000_Incheon_Namdong",
+            "shorten_url":"https:\/\/me2.do\/GPBWRDKx"
         },
         {
             "index":10,
@@ -178,7 +192,8 @@
             "value_score":68.1118,
             "region":"인천시 남동구",
             "region_code":"Incheon",
-            "sub_region_code":"2820000000_Incheon_Namdong"
+            "sub_region_code":"2820000000_Incheon_Namdong",
+            "shorten_url":"https:\/\/me2.do\/GPBWRDKx"
         },
         {
             "index":11,
@@ -190,7 +205,8 @@
             "value_score":66.8038,
             "region":"인천시 남동구",
             "region_code":"Incheon",
-            "sub_region_code":"2820000000_Incheon_Namdong"
+            "sub_region_code":"2820000000_Incheon_Namdong",
+            "shorten_url":"https:\/\/me2.do\/GPBWRDKx"
         },
         {
             "index":12,
@@ -202,7 +218,8 @@
             "value_score":66.3618,
             "region":"인천시 남동구",
             "region_code":"Incheon",
-            "sub_region_code":"2820000000_Incheon_Namdong"
+            "sub_region_code":"2820000000_Incheon_Namdong",
+            "shorten_url":"https:\/\/me2.do\/GPBWRDKx"
         },
         {
             "index":13,
@@ -214,7 +231,8 @@
             "value_score":65.7766,
             "region":"인천시 남동구",
             "region_code":"Incheon",
-            "sub_region_code":"2820000000_Incheon_Namdong"
+            "sub_region_code":"2820000000_Incheon_Namdong",
+            "shorten_url":"https:\/\/me2.do\/GPBWRDKx"
         },
         {
             "index":14,
@@ -226,7 +244,8 @@
             "value_score":65.6038,
             "region":"인천시 남동구",
             "region_code":"Incheon",
-            "sub_region_code":"2820000000_Incheon_Namdong"
+            "sub_region_code":"2820000000_Incheon_Namdong",
+            "shorten_url":"https:\/\/me2.do\/GPBWRDKx"
         },
         {
             "index":15,
@@ -238,7 +257,8 @@
             "value_score":65.1038,
             "region":"인천시 남동구",
             "region_code":"Incheon",
-            "sub_region_code":"2820000000_Incheon_Namdong"
+            "sub_region_code":"2820000000_Incheon_Namdong",
+            "shorten_url":"https:\/\/me2.do\/GPBWRDKx"
         },
         {
             "index":16,
@@ -250,7 +270,8 @@
             "value_score":64.5988,
             "region":"인천시 남동구",
             "region_code":"Incheon",
-            "sub_region_code":"2820000000_Incheon_Namdong"
+            "sub_region_code":"2820000000_Incheon_Namdong",
+            "shorten_url":"https:\/\/me2.do\/GPBWRDKx"
         },
         {
             "index":17,
@@ -262,7 +283,8 @@
             "value_score":64.3538,
             "region":"인천시 남동구",
             "region_code":"Incheon",
-            "sub_region_code":"2820000000_Incheon_Namdong"
+            "sub_region_code":"2820000000_Incheon_Namdong",
+            "shorten_url":"https:\/\/me2.do\/GPBWRDKx"
         },
         {
             "index":18,
@@ -274,7 +296,8 @@
             "value_score":63.8832,
             "region":"인천시 남동구",
             "region_code":"Incheon",
-            "sub_region_code":"2820000000_Incheon_Namdong"
+            "sub_region_code":"2820000000_Incheon_Namdong",
+            "shorten_url":"https:\/\/me2.do\/GPBWRDKx"
         },
         {
             "index":19,
@@ -286,7 +309,8 @@
             "value_score":63.7538,
             "region":"인천시 남동구",
             "region_code":"Incheon",
-            "sub_region_code":"2820000000_Incheon_Namdong"
+            "sub_region_code":"2820000000_Incheon_Namdong",
+            "shorten_url":"https:\/\/me2.do\/GPBWRDKx"
         },
         {
             "index":20,
@@ -298,7 +322,8 @@
             "value_score":60.75885,
             "region":"인천시 남동구",
             "region_code":"Incheon",
-            "sub_region_code":"2820000000_Incheon_Namdong"
+            "sub_region_code":"2820000000_Incheon_Namdong",
+            "shorten_url":"https:\/\/me2.do\/GPBWRDKx"
         },
         {
             "index":21,
@@ -310,7 +335,8 @@
             "value_score":58.89035,
             "region":"인천시 남동구",
             "region_code":"Incheon",
-            "sub_region_code":"2820000000_Incheon_Namdong"
+            "sub_region_code":"2820000000_Incheon_Namdong",
+            "shorten_url":"https:\/\/me2.do\/GPBWRDKx"
         },
         {
             "index":22,
@@ -322,7 +348,8 @@
             "value_score":58.83385,
             "region":"인천시 남동구",
             "region_code":"Incheon",
-            "sub_region_code":"2820000000_Incheon_Namdong"
+            "sub_region_code":"2820000000_Incheon_Namdong",
+            "shorten_url":"https:\/\/me2.do\/GPBWRDKx"
         },
         {
             "index":23,
@@ -334,7 +361,8 @@
             "value_score":58.79035,
             "region":"인천시 남동구",
             "region_code":"Incheon",
-            "sub_region_code":"2820000000_Incheon_Namdong"
+            "sub_region_code":"2820000000_Incheon_Namdong",
+            "shorten_url":"https:\/\/me2.do\/GPBWRDKx"
         },
         {
             "index":24,
@@ -346,7 +374,8 @@
             "value_score":57.34035,
             "region":"인천시 남동구",
             "region_code":"Incheon",
-            "sub_region_code":"2820000000_Incheon_Namdong"
+            "sub_region_code":"2820000000_Incheon_Namdong",
+            "shorten_url":"https:\/\/me2.do\/GPBWRDKx"
         },
         {
             "index":25,
@@ -358,7 +387,8 @@
             "value_score":57.04035,
             "region":"인천시 남동구",
             "region_code":"Incheon",
-            "sub_region_code":"2820000000_Incheon_Namdong"
+            "sub_region_code":"2820000000_Incheon_Namdong",
+            "shorten_url":"https:\/\/me2.do\/GPBWRDKx"
         },
         {
             "index":26,
@@ -370,7 +400,8 @@
             "value_score":56.70745,
             "region":"인천시 남동구",
             "region_code":"Incheon",
-            "sub_region_code":"2820000000_Incheon_Namdong"
+            "sub_region_code":"2820000000_Incheon_Namdong",
+            "shorten_url":"https:\/\/me2.do\/GPBWRDKx"
         },
         {
             "index":27,
@@ -382,7 +413,8 @@
             "value_score":55.94035,
             "region":"인천시 남동구",
             "region_code":"Incheon",
-            "sub_region_code":"2820000000_Incheon_Namdong"
+            "sub_region_code":"2820000000_Incheon_Namdong",
+            "shorten_url":"https:\/\/me2.do\/GPBWRDKx"
         },
         {
             "index":28,
@@ -394,7 +426,8 @@
             "value_score":55.3768816534,
             "region":"인천시 남동구",
             "region_code":"Incheon",
-            "sub_region_code":"2820000000_Incheon_Namdong"
+            "sub_region_code":"2820000000_Incheon_Namdong",
+            "shorten_url":"https:\/\/me2.do\/GPBWRDKx"
         },
         {
             "index":29,
@@ -406,7 +439,8 @@
             "value_score":55.165853565,
             "region":"인천시 남동구",
             "region_code":"Incheon",
-            "sub_region_code":"2820000000_Incheon_Namdong"
+            "sub_region_code":"2820000000_Incheon_Namdong",
+            "shorten_url":"https:\/\/me2.do\/GPBWRDKx"
         },
         {
             "index":30,
@@ -418,7 +452,8 @@
             "value_score":64.84575,
             "region":"인천시 남동구",
             "region_code":"Incheon",
-            "sub_region_code":"2820000000_Incheon_Namdong"
+            "sub_region_code":"2820000000_Incheon_Namdong",
+            "shorten_url":"https:\/\/me2.do\/GPBWRDKx"
         },
         {
             "index":31,
@@ -430,7 +465,8 @@
             "value_score":60.92375,
             "region":"인천시 남동구",
             "region_code":"Incheon",
-            "sub_region_code":"2820000000_Incheon_Namdong"
+            "sub_region_code":"2820000000_Incheon_Namdong",
+            "shorten_url":"https:\/\/me2.do\/GPBWRDKx"
         },
         {
             "index":32,
@@ -442,7 +478,8 @@
             "value_score":59.711,
             "region":"인천시 남동구",
             "region_code":"Incheon",
-            "sub_region_code":"2820000000_Incheon_Namdong"
+            "sub_region_code":"2820000000_Incheon_Namdong",
+            "shorten_url":"https:\/\/me2.do\/GPBWRDKx"
         },
         {
             "index":33,
@@ -454,7 +491,8 @@
             "value_score":58.54575,
             "region":"인천시 남동구",
             "region_code":"Incheon",
-            "sub_region_code":"2820000000_Incheon_Namdong"
+            "sub_region_code":"2820000000_Incheon_Namdong",
+            "shorten_url":"https:\/\/me2.do\/GPBWRDKx"
         },
         {
             "index":34,
@@ -466,7 +504,8 @@
             "value_score":58.54575,
             "region":"인천시 남동구",
             "region_code":"Incheon",
-            "sub_region_code":"2820000000_Incheon_Namdong"
+            "sub_region_code":"2820000000_Incheon_Namdong",
+            "shorten_url":"https:\/\/me2.do\/GPBWRDKx"
         },
         {
             "index":35,
@@ -478,7 +517,8 @@
             "value_score":58.51475,
             "region":"인천시 남동구",
             "region_code":"Incheon",
-            "sub_region_code":"2820000000_Incheon_Namdong"
+            "sub_region_code":"2820000000_Incheon_Namdong",
+            "shorten_url":"https:\/\/me2.do\/GPBWRDKx"
         },
         {
             "index":36,
@@ -490,7 +530,8 @@
             "value_score":58.4198027556,
             "region":"인천시 남동구",
             "region_code":"Incheon",
-            "sub_region_code":"2820000000_Incheon_Namdong"
+            "sub_region_code":"2820000000_Incheon_Namdong",
+            "shorten_url":"https:\/\/me2.do\/GPBWRDKx"
         },
         {
             "index":37,
@@ -502,7 +543,8 @@
             "value_score":57.48175,
             "region":"인천시 남동구",
             "region_code":"Incheon",
-            "sub_region_code":"2820000000_Incheon_Namdong"
+            "sub_region_code":"2820000000_Incheon_Namdong",
+            "shorten_url":"https:\/\/me2.do\/GPBWRDKx"
         },
         {
             "index":38,
@@ -514,7 +556,8 @@
             "value_score":56.70975,
             "region":"인천시 남동구",
             "region_code":"Incheon",
-            "sub_region_code":"2820000000_Incheon_Namdong"
+            "sub_region_code":"2820000000_Incheon_Namdong",
+            "shorten_url":"https:\/\/me2.do\/GPBWRDKx"
         },
         {
             "index":39,
@@ -526,7 +569,8 @@
             "value_score":56.50975,
             "region":"인천시 남동구",
             "region_code":"Incheon",
-            "sub_region_code":"2820000000_Incheon_Namdong"
+            "sub_region_code":"2820000000_Incheon_Namdong",
+            "shorten_url":"https:\/\/me2.do\/GPBWRDKx"
         },
         {
             "index":40,
@@ -538,7 +582,8 @@
             "value_score":64.2295,
             "region":"인천시 남동구",
             "region_code":"Incheon",
-            "sub_region_code":"2820000000_Incheon_Namdong"
+            "sub_region_code":"2820000000_Incheon_Namdong",
+            "shorten_url":"https:\/\/me2.do\/GPBWRDKx"
         },
         {
             "index":41,
@@ -550,7 +595,8 @@
             "value_score":63.2915,
             "region":"인천시 남동구",
             "region_code":"Incheon",
-            "sub_region_code":"2820000000_Incheon_Namdong"
+            "sub_region_code":"2820000000_Incheon_Namdong",
+            "shorten_url":"https:\/\/me2.do\/GPBWRDKx"
         },
         {
             "index":42,
@@ -562,7 +608,8 @@
             "value_score":62.6195,
             "region":"인천시 남동구",
             "region_code":"Incheon",
-            "sub_region_code":"2820000000_Incheon_Namdong"
+            "sub_region_code":"2820000000_Incheon_Namdong",
+            "shorten_url":"https:\/\/me2.do\/GPBWRDKx"
         },
         {
             "index":43,
@@ -574,7 +621,8 @@
             "value_score":62.3295,
             "region":"인천시 남동구",
             "region_code":"Incheon",
-            "sub_region_code":"2820000000_Incheon_Namdong"
+            "sub_region_code":"2820000000_Incheon_Namdong",
+            "shorten_url":"https:\/\/me2.do\/GPBWRDKx"
         },
         {
             "index":44,
@@ -586,7 +634,8 @@
             "value_score":62.0845,
             "region":"인천시 남동구",
             "region_code":"Incheon",
-            "sub_region_code":"2820000000_Incheon_Namdong"
+            "sub_region_code":"2820000000_Incheon_Namdong",
+            "shorten_url":"https:\/\/me2.do\/GPBWRDKx"
         },
         {
             "index":45,
@@ -598,7 +647,8 @@
             "value_score":61.0845,
             "region":"인천시 남동구",
             "region_code":"Incheon",
-            "sub_region_code":"2820000000_Incheon_Namdong"
+            "sub_region_code":"2820000000_Incheon_Namdong",
+            "shorten_url":"https:\/\/me2.do\/GPBWRDKx"
         },
         {
             "index":46,
@@ -610,7 +660,8 @@
             "value_score":60.9915,
             "region":"인천시 남동구",
             "region_code":"Incheon",
-            "sub_region_code":"2820000000_Incheon_Namdong"
+            "sub_region_code":"2820000000_Incheon_Namdong",
+            "shorten_url":"https:\/\/me2.do\/GPBWRDKx"
         },
         {
             "index":47,
@@ -622,7 +673,8 @@
             "value_score":60.4396055112,
             "region":"인천시 남동구",
             "region_code":"Incheon",
-            "sub_region_code":"2820000000_Incheon_Namdong"
+            "sub_region_code":"2820000000_Incheon_Namdong",
+            "shorten_url":"https:\/\/me2.do\/GPBWRDKx"
         },
         {
             "index":48,
@@ -634,7 +686,8 @@
             "value_score":60.3845,
             "region":"인천시 남동구",
             "region_code":"Incheon",
-            "sub_region_code":"2820000000_Incheon_Namdong"
+            "sub_region_code":"2820000000_Incheon_Namdong",
+            "shorten_url":"https:\/\/me2.do\/GPBWRDKx"
         },
         {
             "index":49,
@@ -646,7 +699,8 @@
             "value_score":60.2845,
             "region":"인천시 남동구",
             "region_code":"Incheon",
-            "sub_region_code":"2820000000_Incheon_Namdong"
+            "sub_region_code":"2820000000_Incheon_Namdong",
+            "shorten_url":"https:\/\/me2.do\/GPBWRDKx"
         }
     ]
 }

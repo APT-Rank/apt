@@ -40,6 +40,10 @@
             {
                 "name":"sub_region_code",
                 "type":"string"
+            },
+            {
+                "name":"shorten_url",
+                "type":"string"
             }
         ],
         "primaryKey":[
@@ -58,7 +62,8 @@
             "value_score":31.792,
             "region":"경상북도 울진군",
             "region_code":"Gyeongsangbukdo",
-            "sub_region_code":"4793000000_Gyeongsangbukdo_Uljin"
+            "sub_region_code":"4793000000_Gyeongsangbukdo_Uljin",
+            "shorten_url":"https:\/\/me2.do\/FErOX8V5"
         },
         {
             "index":1,
@@ -70,7 +75,8 @@
             "value_score":31.2454,
             "region":"경상북도 울진군",
             "region_code":"Gyeongsangbukdo",
-            "sub_region_code":"4793000000_Gyeongsangbukdo_Uljin"
+            "sub_region_code":"4793000000_Gyeongsangbukdo_Uljin",
+            "shorten_url":"https:\/\/me2.do\/FErOX8V5"
         },
         {
             "index":2,
@@ -82,7 +88,8 @@
             "value_score":30.8454,
             "region":"경상북도 울진군",
             "region_code":"Gyeongsangbukdo",
-            "sub_region_code":"4793000000_Gyeongsangbukdo_Uljin"
+            "sub_region_code":"4793000000_Gyeongsangbukdo_Uljin",
+            "shorten_url":"https:\/\/me2.do\/FErOX8V5"
         },
         {
             "index":3,
@@ -94,7 +101,8 @@
             "value_score":29.87195,
             "region":"경상북도 울진군",
             "region_code":"Gyeongsangbukdo",
-            "sub_region_code":"4793000000_Gyeongsangbukdo_Uljin"
+            "sub_region_code":"4793000000_Gyeongsangbukdo_Uljin",
+            "shorten_url":"https:\/\/me2.do\/FErOX8V5"
         },
         {
             "index":4,
@@ -106,7 +114,8 @@
             "value_score":28.22195,
             "region":"경상북도 울진군",
             "region_code":"Gyeongsangbukdo",
-            "sub_region_code":"4793000000_Gyeongsangbukdo_Uljin"
+            "sub_region_code":"4793000000_Gyeongsangbukdo_Uljin",
+            "shorten_url":"https:\/\/me2.do\/FErOX8V5"
         },
         {
             "index":5,
@@ -118,7 +127,8 @@
             "value_score":26.2119,
             "region":"경상북도 울진군",
             "region_code":"Gyeongsangbukdo",
-            "sub_region_code":"4793000000_Gyeongsangbukdo_Uljin"
+            "sub_region_code":"4793000000_Gyeongsangbukdo_Uljin",
+            "shorten_url":"https:\/\/me2.do\/FErOX8V5"
         },
         {
             "index":6,
@@ -130,7 +140,8 @@
             "value_score":25.9954,
             "region":"경상북도 울진군",
             "region_code":"Gyeongsangbukdo",
-            "sub_region_code":"4793000000_Gyeongsangbukdo_Uljin"
+            "sub_region_code":"4793000000_Gyeongsangbukdo_Uljin",
+            "shorten_url":"https:\/\/me2.do\/FErOX8V5"
         },
         {
             "index":7,
@@ -142,7 +153,8 @@
             "value_score":23.242,
             "region":"경상북도 울진군",
             "region_code":"Gyeongsangbukdo",
-            "sub_region_code":"4793000000_Gyeongsangbukdo_Uljin"
+            "sub_region_code":"4793000000_Gyeongsangbukdo_Uljin",
+            "shorten_url":"https:\/\/me2.do\/FErOX8V5"
         },
         {
             "index":8,
@@ -154,7 +166,8 @@
             "value_score":31.28,
             "region":"경상북도 울진군",
             "region_code":"Gyeongsangbukdo",
-            "sub_region_code":"4793000000_Gyeongsangbukdo_Uljin"
+            "sub_region_code":"4793000000_Gyeongsangbukdo_Uljin",
+            "shorten_url":"https:\/\/me2.do\/FErOX8V5"
         },
         {
             "index":9,
@@ -166,7 +179,8 @@
             "value_score":29.711,
             "region":"경상북도 울진군",
             "region_code":"Gyeongsangbukdo",
-            "sub_region_code":"4793000000_Gyeongsangbukdo_Uljin"
+            "sub_region_code":"4793000000_Gyeongsangbukdo_Uljin",
+            "shorten_url":"https:\/\/me2.do\/FErOX8V5"
         },
         {
             "index":10,
@@ -178,7 +192,8 @@
             "value_score":29.211,
             "region":"경상북도 울진군",
             "region_code":"Gyeongsangbukdo",
-            "sub_region_code":"4793000000_Gyeongsangbukdo_Uljin"
+            "sub_region_code":"4793000000_Gyeongsangbukdo_Uljin",
+            "shorten_url":"https:\/\/me2.do\/FErOX8V5"
         },
         {
             "index":11,
@@ -190,7 +205,8 @@
             "value_score":27.19425,
             "region":"경상북도 울진군",
             "region_code":"Gyeongsangbukdo",
-            "sub_region_code":"4793000000_Gyeongsangbukdo_Uljin"
+            "sub_region_code":"4793000000_Gyeongsangbukdo_Uljin",
+            "shorten_url":"https:\/\/me2.do\/FErOX8V5"
         },
         {
             "index":12,
@@ -202,7 +218,8 @@
             "value_score":25.04425,
             "region":"경상북도 울진군",
             "region_code":"Gyeongsangbukdo",
-            "sub_region_code":"4793000000_Gyeongsangbukdo_Uljin"
+            "sub_region_code":"4793000000_Gyeongsangbukdo_Uljin",
+            "shorten_url":"https:\/\/me2.do\/FErOX8V5"
         },
         {
             "index":13,
@@ -214,7 +231,8 @@
             "value_score":23.5085,
             "region":"경상북도 울진군",
             "region_code":"Gyeongsangbukdo",
-            "sub_region_code":"4793000000_Gyeongsangbukdo_Uljin"
+            "sub_region_code":"4793000000_Gyeongsangbukdo_Uljin",
+            "shorten_url":"https:\/\/me2.do\/FErOX8V5"
         },
         {
             "index":14,
@@ -226,7 +244,8 @@
             "value_score":23.211,
             "region":"경상북도 울진군",
             "region_code":"Gyeongsangbukdo",
-            "sub_region_code":"4793000000_Gyeongsangbukdo_Uljin"
+            "sub_region_code":"4793000000_Gyeongsangbukdo_Uljin",
+            "shorten_url":"https:\/\/me2.do\/FErOX8V5"
         },
         {
             "index":15,
@@ -238,7 +257,8 @@
             "value_score":20.13,
             "region":"경상북도 울진군",
             "region_code":"Gyeongsangbukdo",
-            "sub_region_code":"4793000000_Gyeongsangbukdo_Uljin"
+            "sub_region_code":"4793000000_Gyeongsangbukdo_Uljin",
+            "shorten_url":"https:\/\/me2.do\/FErOX8V5"
         },
         {
             "index":16,
@@ -250,7 +270,8 @@
             "value_score":26.1927368421,
             "region":"경상북도 울진군",
             "region_code":"Gyeongsangbukdo",
-            "sub_region_code":"4793000000_Gyeongsangbukdo_Uljin"
+            "sub_region_code":"4793000000_Gyeongsangbukdo_Uljin",
+            "shorten_url":"https:\/\/me2.do\/FErOX8V5"
         },
         {
             "index":17,
@@ -262,7 +283,8 @@
             "value_score":26.1401052632,
             "region":"경상북도 울진군",
             "region_code":"Gyeongsangbukdo",
-            "sub_region_code":"4793000000_Gyeongsangbukdo_Uljin"
+            "sub_region_code":"4793000000_Gyeongsangbukdo_Uljin",
+            "shorten_url":"https:\/\/me2.do\/FErOX8V5"
         },
         {
             "index":18,
@@ -274,7 +296,8 @@
             "value_score":26.0905263158,
             "region":"경상북도 울진군",
             "region_code":"Gyeongsangbukdo",
-            "sub_region_code":"4793000000_Gyeongsangbukdo_Uljin"
+            "sub_region_code":"4793000000_Gyeongsangbukdo_Uljin",
+            "shorten_url":"https:\/\/me2.do\/FErOX8V5"
         },
         {
             "index":19,
@@ -286,7 +309,8 @@
             "value_score":25.88,
             "region":"경상북도 울진군",
             "region_code":"Gyeongsangbukdo",
-            "sub_region_code":"4793000000_Gyeongsangbukdo_Uljin"
+            "sub_region_code":"4793000000_Gyeongsangbukdo_Uljin",
+            "shorten_url":"https:\/\/me2.do\/FErOX8V5"
         },
         {
             "index":20,
@@ -298,7 +322,8 @@
             "value_score":25.6086315789,
             "region":"경상북도 울진군",
             "region_code":"Gyeongsangbukdo",
-            "sub_region_code":"4793000000_Gyeongsangbukdo_Uljin"
+            "sub_region_code":"4793000000_Gyeongsangbukdo_Uljin",
+            "shorten_url":"https:\/\/me2.do\/FErOX8V5"
         },
         {
             "index":21,
@@ -310,7 +335,8 @@
             "value_score":25.4507368421,
             "region":"경상북도 울진군",
             "region_code":"Gyeongsangbukdo",
-            "sub_region_code":"4793000000_Gyeongsangbukdo_Uljin"
+            "sub_region_code":"4793000000_Gyeongsangbukdo_Uljin",
+            "shorten_url":"https:\/\/me2.do\/FErOX8V5"
         },
         {
             "index":22,
@@ -322,7 +348,8 @@
             "value_score":23.9054736842,
             "region":"경상북도 울진군",
             "region_code":"Gyeongsangbukdo",
-            "sub_region_code":"4793000000_Gyeongsangbukdo_Uljin"
+            "sub_region_code":"4793000000_Gyeongsangbukdo_Uljin",
+            "shorten_url":"https:\/\/me2.do\/FErOX8V5"
         },
         {
             "index":23,
@@ -334,7 +361,8 @@
             "value_score":23.1086315789,
             "region":"경상북도 울진군",
             "region_code":"Gyeongsangbukdo",
-            "sub_region_code":"4793000000_Gyeongsangbukdo_Uljin"
+            "sub_region_code":"4793000000_Gyeongsangbukdo_Uljin",
+            "shorten_url":"https:\/\/me2.do\/FErOX8V5"
         },
         {
             "index":24,
@@ -346,7 +374,8 @@
             "value_score":33.8885,
             "region":"경상북도 울진군",
             "region_code":"Gyeongsangbukdo",
-            "sub_region_code":"4793000000_Gyeongsangbukdo_Uljin"
+            "sub_region_code":"4793000000_Gyeongsangbukdo_Uljin",
+            "shorten_url":"https:\/\/me2.do\/FErOX8V5"
         },
         {
             "index":25,
@@ -358,7 +387,8 @@
             "value_score":33.547,
             "region":"경상북도 울진군",
             "region_code":"Gyeongsangbukdo",
-            "sub_region_code":"4793000000_Gyeongsangbukdo_Uljin"
+            "sub_region_code":"4793000000_Gyeongsangbukdo_Uljin",
+            "shorten_url":"https:\/\/me2.do\/FErOX8V5"
         },
         {
             "index":26,
@@ -370,7 +400,8 @@
             "value_score":33.297,
             "region":"경상북도 울진군",
             "region_code":"Gyeongsangbukdo",
-            "sub_region_code":"4793000000_Gyeongsangbukdo_Uljin"
+            "sub_region_code":"4793000000_Gyeongsangbukdo_Uljin",
+            "shorten_url":"https:\/\/me2.do\/FErOX8V5"
         },
         {
             "index":27,
@@ -382,7 +413,8 @@
             "value_score":32.9885,
             "region":"경상북도 울진군",
             "region_code":"Gyeongsangbukdo",
-            "sub_region_code":"4793000000_Gyeongsangbukdo_Uljin"
+            "sub_region_code":"4793000000_Gyeongsangbukdo_Uljin",
+            "shorten_url":"https:\/\/me2.do\/FErOX8V5"
         },
         {
             "index":28,
@@ -394,7 +426,8 @@
             "value_score":32.56,
             "region":"경상북도 울진군",
             "region_code":"Gyeongsangbukdo",
-            "sub_region_code":"4793000000_Gyeongsangbukdo_Uljin"
+            "sub_region_code":"4793000000_Gyeongsangbukdo_Uljin",
+            "shorten_url":"https:\/\/me2.do\/FErOX8V5"
         },
         {
             "index":29,
@@ -406,7 +439,8 @@
             "value_score":30.267,
             "region":"경상북도 울진군",
             "region_code":"Gyeongsangbukdo",
-            "sub_region_code":"4793000000_Gyeongsangbukdo_Uljin"
+            "sub_region_code":"4793000000_Gyeongsangbukdo_Uljin",
+            "shorten_url":"https:\/\/me2.do\/FErOX8V5"
         },
         {
             "index":30,
@@ -418,7 +452,8 @@
             "value_score":30.172,
             "region":"경상북도 울진군",
             "region_code":"Gyeongsangbukdo",
-            "sub_region_code":"4793000000_Gyeongsangbukdo_Uljin"
+            "sub_region_code":"4793000000_Gyeongsangbukdo_Uljin",
+            "shorten_url":"https:\/\/me2.do\/FErOX8V5"
         },
         {
             "index":31,
@@ -430,7 +465,8 @@
             "value_score":27.91,
             "region":"경상북도 울진군",
             "region_code":"Gyeongsangbukdo",
-            "sub_region_code":"4793000000_Gyeongsangbukdo_Uljin"
+            "sub_region_code":"4793000000_Gyeongsangbukdo_Uljin",
+            "shorten_url":"https:\/\/me2.do\/FErOX8V5"
         }
     ]
 }

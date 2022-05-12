@@ -40,6 +40,10 @@
             {
                 "name":"sub_region_code",
                 "type":"string"
+            },
+            {
+                "name":"shorten_url",
+                "type":"string"
             }
         ],
         "primaryKey":[
@@ -58,7 +62,8 @@
             "value_score":66.81485,
             "region":"세종시 세종시",
             "region_code":"Sejong",
-            "sub_region_code":"3611000000_Sejong_Sejong"
+            "sub_region_code":"3611000000_Sejong_Sejong",
+            "shorten_url":"https:\/\/me2.do\/Gtbysh1H"
         },
         {
             "index":1,
@@ -70,7 +75,8 @@
             "value_score":65.71485,
             "region":"세종시 세종시",
             "region_code":"Sejong",
-            "sub_region_code":"3611000000_Sejong_Sejong"
+            "sub_region_code":"3611000000_Sejong_Sejong",
+            "shorten_url":"https:\/\/me2.do\/Gtbysh1H"
         },
         {
             "index":2,
@@ -82,7 +88,8 @@
             "value_score":64.98525,
             "region":"세종시 세종시",
             "region_code":"Sejong",
-            "sub_region_code":"3611000000_Sejong_Sejong"
+            "sub_region_code":"3611000000_Sejong_Sejong",
+            "shorten_url":"https:\/\/me2.do\/Gtbysh1H"
         },
         {
             "index":3,
@@ -94,7 +101,8 @@
             "value_score":64.96485,
             "region":"세종시 세종시",
             "region_code":"Sejong",
-            "sub_region_code":"3611000000_Sejong_Sejong"
+            "sub_region_code":"3611000000_Sejong_Sejong",
+            "shorten_url":"https:\/\/me2.do\/Gtbysh1H"
         },
         {
             "index":4,
@@ -106,7 +114,8 @@
             "value_score":64.2623,
             "region":"세종시 세종시",
             "region_code":"Sejong",
-            "sub_region_code":"3611000000_Sejong_Sejong"
+            "sub_region_code":"3611000000_Sejong_Sejong",
+            "shorten_url":"https:\/\/me2.do\/Gtbysh1H"
         },
         {
             "index":5,
@@ -118,7 +127,8 @@
             "value_score":64.1623,
             "region":"세종시 세종시",
             "region_code":"Sejong",
-            "sub_region_code":"3611000000_Sejong_Sejong"
+            "sub_region_code":"3611000000_Sejong_Sejong",
+            "shorten_url":"https:\/\/me2.do\/Gtbysh1H"
         },
         {
             "index":6,
@@ -130,7 +140,8 @@
             "value_score":64.0559,
             "region":"세종시 세종시",
             "region_code":"Sejong",
-            "sub_region_code":"3611000000_Sejong_Sejong"
+            "sub_region_code":"3611000000_Sejong_Sejong",
+            "shorten_url":"https:\/\/me2.do\/Gtbysh1H"
         },
         {
             "index":7,
@@ -142,7 +153,8 @@
             "value_score":63.98525,
             "region":"세종시 세종시",
             "region_code":"Sejong",
-            "sub_region_code":"3611000000_Sejong_Sejong"
+            "sub_region_code":"3611000000_Sejong_Sejong",
+            "shorten_url":"https:\/\/me2.do\/Gtbysh1H"
         },
         {
             "index":8,
@@ -154,7 +166,8 @@
             "value_score":63.83525,
             "region":"세종시 세종시",
             "region_code":"Sejong",
-            "sub_region_code":"3611000000_Sejong_Sejong"
+            "sub_region_code":"3611000000_Sejong_Sejong",
+            "shorten_url":"https:\/\/me2.do\/Gtbysh1H"
         },
         {
             "index":9,
@@ -166,7 +179,8 @@
             "value_score":62.71445,
             "region":"세종시 세종시",
             "region_code":"Sejong",
-            "sub_region_code":"3611000000_Sejong_Sejong"
+            "sub_region_code":"3611000000_Sejong_Sejong",
+            "shorten_url":"https:\/\/me2.do\/Gtbysh1H"
         },
         {
             "index":10,
@@ -178,7 +192,8 @@
             "value_score":68.11775,
             "region":"세종시 세종시",
             "region_code":"Sejong",
-            "sub_region_code":"3611000000_Sejong_Sejong"
+            "sub_region_code":"3611000000_Sejong_Sejong",
+            "shorten_url":"https:\/\/me2.do\/Gtbysh1H"
         },
         {
             "index":11,
@@ -190,7 +205,8 @@
             "value_score":67.61775,
             "region":"세종시 세종시",
             "region_code":"Sejong",
-            "sub_region_code":"3611000000_Sejong_Sejong"
+            "sub_region_code":"3611000000_Sejong_Sejong",
+            "shorten_url":"https:\/\/me2.do\/Gtbysh1H"
         },
         {
             "index":12,
@@ -202,7 +218,8 @@
             "value_score":66.95375,
             "region":"세종시 세종시",
             "region_code":"Sejong",
-            "sub_region_code":"3611000000_Sejong_Sejong"
+            "sub_region_code":"3611000000_Sejong_Sejong",
+            "shorten_url":"https:\/\/me2.do\/Gtbysh1H"
         },
         {
             "index":13,
@@ -214,7 +231,8 @@
             "value_score":66.86775,
             "region":"세종시 세종시",
             "region_code":"Sejong",
-            "sub_region_code":"3611000000_Sejong_Sejong"
+            "sub_region_code":"3611000000_Sejong_Sejong",
+            "shorten_url":"https:\/\/me2.do\/Gtbysh1H"
         },
         {
             "index":14,
@@ -226,7 +244,8 @@
             "value_score":66.5445,
             "region":"세종시 세종시",
             "region_code":"Sejong",
-            "sub_region_code":"3611000000_Sejong_Sejong"
+            "sub_region_code":"3611000000_Sejong_Sejong",
+            "shorten_url":"https:\/\/me2.do\/Gtbysh1H"
         },
         {
             "index":15,
@@ -238,7 +257,8 @@
             "value_score":66.5445,
             "region":"세종시 세종시",
             "region_code":"Sejong",
-            "sub_region_code":"3611000000_Sejong_Sejong"
+            "sub_region_code":"3611000000_Sejong_Sejong",
+            "shorten_url":"https:\/\/me2.do\/Gtbysh1H"
         },
         {
             "index":16,
@@ -250,7 +270,8 @@
             "value_score":65.9685,
             "region":"세종시 세종시",
             "region_code":"Sejong",
-            "sub_region_code":"3611000000_Sejong_Sejong"
+            "sub_region_code":"3611000000_Sejong_Sejong",
+            "shorten_url":"https:\/\/me2.do\/Gtbysh1H"
         },
         {
             "index":17,
@@ -262,7 +283,8 @@
             "value_score":65.95375,
             "region":"세종시 세종시",
             "region_code":"Sejong",
-            "sub_region_code":"3611000000_Sejong_Sejong"
+            "sub_region_code":"3611000000_Sejong_Sejong",
+            "shorten_url":"https:\/\/me2.do\/Gtbysh1H"
         },
         {
             "index":18,
@@ -274,7 +296,8 @@
             "value_score":65.70375,
             "region":"세종시 세종시",
             "region_code":"Sejong",
-            "sub_region_code":"3611000000_Sejong_Sejong"
+            "sub_region_code":"3611000000_Sejong_Sejong",
+            "shorten_url":"https:\/\/me2.do\/Gtbysh1H"
         },
         {
             "index":19,
@@ -286,7 +309,8 @@
             "value_score":65.45375,
             "region":"세종시 세종시",
             "region_code":"Sejong",
-            "sub_region_code":"3611000000_Sejong_Sejong"
+            "sub_region_code":"3611000000_Sejong_Sejong",
+            "shorten_url":"https:\/\/me2.do\/Gtbysh1H"
         },
         {
             "index":20,
@@ -298,7 +322,8 @@
             "value_score":52.4908421053,
             "region":"세종시 세종시",
             "region_code":"Sejong",
-            "sub_region_code":"3611000000_Sejong_Sejong"
+            "sub_region_code":"3611000000_Sejong_Sejong",
+            "shorten_url":"https:\/\/me2.do\/Gtbysh1H"
         },
         {
             "index":21,
@@ -310,7 +335,8 @@
             "value_score":51.1707368421,
             "region":"세종시 세종시",
             "region_code":"Sejong",
-            "sub_region_code":"3611000000_Sejong_Sejong"
+            "sub_region_code":"3611000000_Sejong_Sejong",
+            "shorten_url":"https:\/\/me2.do\/Gtbysh1H"
         },
         {
             "index":22,
@@ -322,7 +348,8 @@
             "value_score":51.0171578947,
             "region":"세종시 세종시",
             "region_code":"Sejong",
-            "sub_region_code":"3611000000_Sejong_Sejong"
+            "sub_region_code":"3611000000_Sejong_Sejong",
+            "shorten_url":"https:\/\/me2.do\/Gtbysh1H"
         },
         {
             "index":23,
@@ -334,7 +361,8 @@
             "value_score":50.754,
             "region":"세종시 세종시",
             "region_code":"Sejong",
-            "sub_region_code":"3611000000_Sejong_Sejong"
+            "sub_region_code":"3611000000_Sejong_Sejong",
+            "shorten_url":"https:\/\/me2.do\/Gtbysh1H"
         },
         {
             "index":24,
@@ -346,7 +374,8 @@
             "value_score":50.5994736842,
             "region":"세종시 세종시",
             "region_code":"Sejong",
-            "sub_region_code":"3611000000_Sejong_Sejong"
+            "sub_region_code":"3611000000_Sejong_Sejong",
+            "shorten_url":"https:\/\/me2.do\/Gtbysh1H"
         },
         {
             "index":25,
@@ -358,7 +387,8 @@
             "value_score":50.5731578947,
             "region":"세종시 세종시",
             "region_code":"Sejong",
-            "sub_region_code":"3611000000_Sejong_Sejong"
+            "sub_region_code":"3611000000_Sejong_Sejong",
+            "shorten_url":"https:\/\/me2.do\/Gtbysh1H"
         },
         {
             "index":26,
@@ -370,7 +400,8 @@
             "value_score":50.5434736842,
             "region":"세종시 세종시",
             "region_code":"Sejong",
-            "sub_region_code":"3611000000_Sejong_Sejong"
+            "sub_region_code":"3611000000_Sejong_Sejong",
+            "shorten_url":"https:\/\/me2.do\/Gtbysh1H"
         },
         {
             "index":27,
@@ -382,7 +413,8 @@
             "value_score":50.0205263158,
             "region":"세종시 세종시",
             "region_code":"Sejong",
-            "sub_region_code":"3611000000_Sejong_Sejong"
+            "sub_region_code":"3611000000_Sejong_Sejong",
+            "shorten_url":"https:\/\/me2.do\/Gtbysh1H"
         },
         {
             "index":28,
@@ -394,7 +426,8 @@
             "value_score":49.9716842105,
             "region":"세종시 세종시",
             "region_code":"Sejong",
-            "sub_region_code":"3611000000_Sejong_Sejong"
+            "sub_region_code":"3611000000_Sejong_Sejong",
+            "shorten_url":"https:\/\/me2.do\/Gtbysh1H"
         },
         {
             "index":29,
@@ -406,7 +439,8 @@
             "value_score":49.8927368421,
             "region":"세종시 세종시",
             "region_code":"Sejong",
-            "sub_region_code":"3611000000_Sejong_Sejong"
+            "sub_region_code":"3611000000_Sejong_Sejong",
+            "shorten_url":"https:\/\/me2.do\/Gtbysh1H"
         },
         {
             "index":30,
@@ -418,7 +452,8 @@
             "value_score":64.8605,
             "region":"세종시 세종시",
             "region_code":"Sejong",
-            "sub_region_code":"3611000000_Sejong_Sejong"
+            "sub_region_code":"3611000000_Sejong_Sejong",
+            "shorten_url":"https:\/\/me2.do\/Gtbysh1H"
         },
         {
             "index":31,
@@ -430,7 +465,8 @@
             "value_score":62.8605,
             "region":"세종시 세종시",
             "region_code":"Sejong",
-            "sub_region_code":"3611000000_Sejong_Sejong"
+            "sub_region_code":"3611000000_Sejong_Sejong",
+            "shorten_url":"https:\/\/me2.do\/Gtbysh1H"
         },
         {
             "index":32,
@@ -442,7 +478,8 @@
             "value_score":62.1105,
             "region":"세종시 세종시",
             "region_code":"Sejong",
-            "sub_region_code":"3611000000_Sejong_Sejong"
+            "sub_region_code":"3611000000_Sejong_Sejong",
+            "shorten_url":"https:\/\/me2.do\/Gtbysh1H"
         },
         {
             "index":33,
@@ -454,7 +491,8 @@
             "value_score":62.1105,
             "region":"세종시 세종시",
             "region_code":"Sejong",
-            "sub_region_code":"3611000000_Sejong_Sejong"
+            "sub_region_code":"3611000000_Sejong_Sejong",
+            "shorten_url":"https:\/\/me2.do\/Gtbysh1H"
         },
         {
             "index":34,
@@ -466,7 +504,8 @@
             "value_score":62.1105,
             "region":"세종시 세종시",
             "region_code":"Sejong",
-            "sub_region_code":"3611000000_Sejong_Sejong"
+            "sub_region_code":"3611000000_Sejong_Sejong",
+            "shorten_url":"https:\/\/me2.do\/Gtbysh1H"
         },
         {
             "index":35,
@@ -478,7 +517,8 @@
             "value_score":62.0325,
             "region":"세종시 세종시",
             "region_code":"Sejong",
-            "sub_region_code":"3611000000_Sejong_Sejong"
+            "sub_region_code":"3611000000_Sejong_Sejong",
+            "shorten_url":"https:\/\/me2.do\/Gtbysh1H"
         },
         {
             "index":36,
@@ -490,7 +530,8 @@
             "value_score":61.4075,
             "region":"세종시 세종시",
             "region_code":"Sejong",
-            "sub_region_code":"3611000000_Sejong_Sejong"
+            "sub_region_code":"3611000000_Sejong_Sejong",
+            "shorten_url":"https:\/\/me2.do\/Gtbysh1H"
         },
         {
             "index":37,
@@ -502,7 +543,8 @@
             "value_score":61.3605,
             "region":"세종시 세종시",
             "region_code":"Sejong",
-            "sub_region_code":"3611000000_Sejong_Sejong"
+            "sub_region_code":"3611000000_Sejong_Sejong",
+            "shorten_url":"https:\/\/me2.do\/Gtbysh1H"
         },
         {
             "index":38,
@@ -514,7 +556,8 @@
             "value_score":61.187,
             "region":"세종시 세종시",
             "region_code":"Sejong",
-            "sub_region_code":"3611000000_Sejong_Sejong"
+            "sub_region_code":"3611000000_Sejong_Sejong",
+            "shorten_url":"https:\/\/me2.do\/Gtbysh1H"
         },
         {
             "index":39,
@@ -526,7 +569,8 @@
             "value_score":61.0385,
             "region":"세종시 세종시",
             "region_code":"Sejong",
-            "sub_region_code":"3611000000_Sejong_Sejong"
+            "sub_region_code":"3611000000_Sejong_Sejong",
+            "shorten_url":"https:\/\/me2.do\/Gtbysh1H"
         }
     ]
 }

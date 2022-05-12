@@ -40,6 +40,10 @@
             {
                 "name":"sub_region_code",
                 "type":"string"
+            },
+            {
+                "name":"shorten_url",
+                "type":"string"
             }
         ],
         "primaryKey":[
@@ -58,7 +62,8 @@
             "value_score":58.2064,
             "region":"전라남도 여수시",
             "region_code":"Jeollanamdo",
-            "sub_region_code":"4613000000_Jeollanamdo_Yeosu"
+            "sub_region_code":"4613000000_Jeollanamdo_Yeosu",
+            "shorten_url":"https:\/\/me2.do\/xDMXfBPj"
         },
         {
             "index":1,
@@ -70,7 +75,8 @@
             "value_score":57.72805,
             "region":"전라남도 여수시",
             "region_code":"Jeollanamdo",
-            "sub_region_code":"4613000000_Jeollanamdo_Yeosu"
+            "sub_region_code":"4613000000_Jeollanamdo_Yeosu",
+            "shorten_url":"https:\/\/me2.do\/xDMXfBPj"
         },
         {
             "index":2,
@@ -82,7 +88,8 @@
             "value_score":57.6064,
             "region":"전라남도 여수시",
             "region_code":"Jeollanamdo",
-            "sub_region_code":"4613000000_Jeollanamdo_Yeosu"
+            "sub_region_code":"4613000000_Jeollanamdo_Yeosu",
+            "shorten_url":"https:\/\/me2.do\/xDMXfBPj"
         },
         {
             "index":3,
@@ -94,7 +101,8 @@
             "value_score":55.22805,
             "region":"전라남도 여수시",
             "region_code":"Jeollanamdo",
-            "sub_region_code":"4613000000_Jeollanamdo_Yeosu"
+            "sub_region_code":"4613000000_Jeollanamdo_Yeosu",
+            "shorten_url":"https:\/\/me2.do\/xDMXfBPj"
         },
         {
             "index":4,
@@ -106,7 +114,8 @@
             "value_score":54.33015,
             "region":"전라남도 여수시",
             "region_code":"Jeollanamdo",
-            "sub_region_code":"4613000000_Jeollanamdo_Yeosu"
+            "sub_region_code":"4613000000_Jeollanamdo_Yeosu",
+            "shorten_url":"https:\/\/me2.do\/xDMXfBPj"
         },
         {
             "index":5,
@@ -118,7 +127,8 @@
             "value_score":53.51775,
             "region":"전라남도 여수시",
             "region_code":"Jeollanamdo",
-            "sub_region_code":"4613000000_Jeollanamdo_Yeosu"
+            "sub_region_code":"4613000000_Jeollanamdo_Yeosu",
+            "shorten_url":"https:\/\/me2.do\/xDMXfBPj"
         },
         {
             "index":6,
@@ -130,7 +140,8 @@
             "value_score":53.15305,
             "region":"전라남도 여수시",
             "region_code":"Jeollanamdo",
-            "sub_region_code":"4613000000_Jeollanamdo_Yeosu"
+            "sub_region_code":"4613000000_Jeollanamdo_Yeosu",
+            "shorten_url":"https:\/\/me2.do\/xDMXfBPj"
         },
         {
             "index":7,
@@ -142,7 +153,8 @@
             "value_score":52.43185,
             "region":"전라남도 여수시",
             "region_code":"Jeollanamdo",
-            "sub_region_code":"4613000000_Jeollanamdo_Yeosu"
+            "sub_region_code":"4613000000_Jeollanamdo_Yeosu",
+            "shorten_url":"https:\/\/me2.do\/xDMXfBPj"
         },
         {
             "index":8,
@@ -154,7 +166,8 @@
             "value_score":52.11775,
             "region":"전라남도 여수시",
             "region_code":"Jeollanamdo",
-            "sub_region_code":"4613000000_Jeollanamdo_Yeosu"
+            "sub_region_code":"4613000000_Jeollanamdo_Yeosu",
+            "shorten_url":"https:\/\/me2.do\/xDMXfBPj"
         },
         {
             "index":9,
@@ -166,7 +179,8 @@
             "value_score":51.57805,
             "region":"전라남도 여수시",
             "region_code":"Jeollanamdo",
-            "sub_region_code":"4613000000_Jeollanamdo_Yeosu"
+            "sub_region_code":"4613000000_Jeollanamdo_Yeosu",
+            "shorten_url":"https:\/\/me2.do\/xDMXfBPj"
         },
         {
             "index":10,
@@ -178,7 +192,8 @@
             "value_score":59.55575,
             "region":"전라남도 여수시",
             "region_code":"Jeollanamdo",
-            "sub_region_code":"4613000000_Jeollanamdo_Yeosu"
+            "sub_region_code":"4613000000_Jeollanamdo_Yeosu",
+            "shorten_url":"https:\/\/me2.do\/xDMXfBPj"
         },
         {
             "index":11,
@@ -190,7 +205,8 @@
             "value_score":59.326,
             "region":"전라남도 여수시",
             "region_code":"Jeollanamdo",
-            "sub_region_code":"4613000000_Jeollanamdo_Yeosu"
+            "sub_region_code":"4613000000_Jeollanamdo_Yeosu",
+            "shorten_url":"https:\/\/me2.do\/xDMXfBPj"
         },
         {
             "index":12,
@@ -202,7 +218,8 @@
             "value_score":59.05575,
             "region":"전라남도 여수시",
             "region_code":"Jeollanamdo",
-            "sub_region_code":"4613000000_Jeollanamdo_Yeosu"
+            "sub_region_code":"4613000000_Jeollanamdo_Yeosu",
+            "shorten_url":"https:\/\/me2.do\/xDMXfBPj"
         },
         {
             "index":13,
@@ -214,7 +231,8 @@
             "value_score":58.826,
             "region":"전라남도 여수시",
             "region_code":"Jeollanamdo",
-            "sub_region_code":"4613000000_Jeollanamdo_Yeosu"
+            "sub_region_code":"4613000000_Jeollanamdo_Yeosu",
+            "shorten_url":"https:\/\/me2.do\/xDMXfBPj"
         },
         {
             "index":14,
@@ -226,7 +244,8 @@
             "value_score":55.44125,
             "region":"전라남도 여수시",
             "region_code":"Jeollanamdo",
-            "sub_region_code":"4613000000_Jeollanamdo_Yeosu"
+            "sub_region_code":"4613000000_Jeollanamdo_Yeosu",
+            "shorten_url":"https:\/\/me2.do\/xDMXfBPj"
         },
         {
             "index":15,
@@ -238,7 +257,8 @@
             "value_score":55.27275,
             "region":"전라남도 여수시",
             "region_code":"Jeollanamdo",
-            "sub_region_code":"4613000000_Jeollanamdo_Yeosu"
+            "sub_region_code":"4613000000_Jeollanamdo_Yeosu",
+            "shorten_url":"https:\/\/me2.do\/xDMXfBPj"
         },
         {
             "index":16,
@@ -250,7 +270,8 @@
             "value_score":54.55575,
             "region":"전라남도 여수시",
             "region_code":"Jeollanamdo",
-            "sub_region_code":"4613000000_Jeollanamdo_Yeosu"
+            "sub_region_code":"4613000000_Jeollanamdo_Yeosu",
+            "shorten_url":"https:\/\/me2.do\/xDMXfBPj"
         },
         {
             "index":17,
@@ -262,7 +283,8 @@
             "value_score":54.44125,
             "region":"전라남도 여수시",
             "region_code":"Jeollanamdo",
-            "sub_region_code":"4613000000_Jeollanamdo_Yeosu"
+            "sub_region_code":"4613000000_Jeollanamdo_Yeosu",
+            "shorten_url":"https:\/\/me2.do\/xDMXfBPj"
         },
         {
             "index":18,
@@ -274,7 +296,8 @@
             "value_score":54.05725,
             "region":"전라남도 여수시",
             "region_code":"Jeollanamdo",
-            "sub_region_code":"4613000000_Jeollanamdo_Yeosu"
+            "sub_region_code":"4613000000_Jeollanamdo_Yeosu",
+            "shorten_url":"https:\/\/me2.do\/xDMXfBPj"
         },
         {
             "index":19,
@@ -286,7 +309,8 @@
             "value_score":54.007,
             "region":"전라남도 여수시",
             "region_code":"Jeollanamdo",
-            "sub_region_code":"4613000000_Jeollanamdo_Yeosu"
+            "sub_region_code":"4613000000_Jeollanamdo_Yeosu",
+            "shorten_url":"https:\/\/me2.do\/xDMXfBPj"
         },
         {
             "index":20,
@@ -298,7 +322,8 @@
             "value_score":47.8862105263,
             "region":"전라남도 여수시",
             "region_code":"Jeollanamdo",
-            "sub_region_code":"4613000000_Jeollanamdo_Yeosu"
+            "sub_region_code":"4613000000_Jeollanamdo_Yeosu",
+            "shorten_url":"https:\/\/me2.do\/xDMXfBPj"
         },
         {
             "index":21,
@@ -310,7 +335,8 @@
             "value_score":47.7546315789,
             "region":"전라남도 여수시",
             "region_code":"Jeollanamdo",
-            "sub_region_code":"4613000000_Jeollanamdo_Yeosu"
+            "sub_region_code":"4613000000_Jeollanamdo_Yeosu",
+            "shorten_url":"https:\/\/me2.do\/xDMXfBPj"
         },
         {
             "index":22,
@@ -322,7 +348,8 @@
             "value_score":46.9651578947,
             "region":"전라남도 여수시",
             "region_code":"Jeollanamdo",
-            "sub_region_code":"4613000000_Jeollanamdo_Yeosu"
+            "sub_region_code":"4613000000_Jeollanamdo_Yeosu",
+            "shorten_url":"https:\/\/me2.do\/xDMXfBPj"
         },
         {
             "index":23,
@@ -334,7 +361,8 @@
             "value_score":46.5967368421,
             "region":"전라남도 여수시",
             "region_code":"Jeollanamdo",
-            "sub_region_code":"4613000000_Jeollanamdo_Yeosu"
+            "sub_region_code":"4613000000_Jeollanamdo_Yeosu",
+            "shorten_url":"https:\/\/me2.do\/xDMXfBPj"
         },
         {
             "index":24,
@@ -346,7 +374,8 @@
             "value_score":46.2283157895,
             "region":"전라남도 여수시",
             "region_code":"Jeollanamdo",
-            "sub_region_code":"4613000000_Jeollanamdo_Yeosu"
+            "sub_region_code":"4613000000_Jeollanamdo_Yeosu",
+            "shorten_url":"https:\/\/me2.do\/xDMXfBPj"
         },
         {
             "index":25,
@@ -358,7 +387,8 @@
             "value_score":45.7809473684,
             "region":"전라남도 여수시",
             "region_code":"Jeollanamdo",
-            "sub_region_code":"4613000000_Jeollanamdo_Yeosu"
+            "sub_region_code":"4613000000_Jeollanamdo_Yeosu",
+            "shorten_url":"https:\/\/me2.do\/xDMXfBPj"
         },
         {
             "index":26,
@@ -370,7 +400,8 @@
             "value_score":45.6230526316,
             "region":"전라남도 여수시",
             "region_code":"Jeollanamdo",
-            "sub_region_code":"4613000000_Jeollanamdo_Yeosu"
+            "sub_region_code":"4613000000_Jeollanamdo_Yeosu",
+            "shorten_url":"https:\/\/me2.do\/xDMXfBPj"
         },
         {
             "index":27,
@@ -382,7 +413,8 @@
             "value_score":45.1493684211,
             "region":"전라남도 여수시",
             "region_code":"Jeollanamdo",
-            "sub_region_code":"4613000000_Jeollanamdo_Yeosu"
+            "sub_region_code":"4613000000_Jeollanamdo_Yeosu",
+            "shorten_url":"https:\/\/me2.do\/xDMXfBPj"
         },
         {
             "index":28,
@@ -394,7 +426,8 @@
             "value_score":44.9117894737,
             "region":"전라남도 여수시",
             "region_code":"Jeollanamdo",
-            "sub_region_code":"4613000000_Jeollanamdo_Yeosu"
+            "sub_region_code":"4613000000_Jeollanamdo_Yeosu",
+            "shorten_url":"https:\/\/me2.do\/xDMXfBPj"
         },
         {
             "index":29,
@@ -406,7 +439,8 @@
             "value_score":44.4234736842,
             "region":"전라남도 여수시",
             "region_code":"Jeollanamdo",
-            "sub_region_code":"4613000000_Jeollanamdo_Yeosu"
+            "sub_region_code":"4613000000_Jeollanamdo_Yeosu",
+            "shorten_url":"https:\/\/me2.do\/xDMXfBPj"
         },
         {
             "index":30,
@@ -418,7 +452,8 @@
             "value_score":56.527,
             "region":"전라남도 여수시",
             "region_code":"Jeollanamdo",
-            "sub_region_code":"4613000000_Jeollanamdo_Yeosu"
+            "sub_region_code":"4613000000_Jeollanamdo_Yeosu",
+            "shorten_url":"https:\/\/me2.do\/xDMXfBPj"
         },
         {
             "index":31,
@@ -430,7 +465,8 @@
             "value_score":55.777,
             "region":"전라남도 여수시",
             "region_code":"Jeollanamdo",
-            "sub_region_code":"4613000000_Jeollanamdo_Yeosu"
+            "sub_region_code":"4613000000_Jeollanamdo_Yeosu",
+            "shorten_url":"https:\/\/me2.do\/xDMXfBPj"
         },
         {
             "index":32,
@@ -442,7 +478,8 @@
             "value_score":54.9865,
             "region":"전라남도 여수시",
             "region_code":"Jeollanamdo",
-            "sub_region_code":"4613000000_Jeollanamdo_Yeosu"
+            "sub_region_code":"4613000000_Jeollanamdo_Yeosu",
+            "shorten_url":"https:\/\/me2.do\/xDMXfBPj"
         },
         {
             "index":33,
@@ -454,7 +491,8 @@
             "value_score":54.7395,
             "region":"전라남도 여수시",
             "region_code":"Jeollanamdo",
-            "sub_region_code":"4613000000_Jeollanamdo_Yeosu"
+            "sub_region_code":"4613000000_Jeollanamdo_Yeosu",
+            "shorten_url":"https:\/\/me2.do\/xDMXfBPj"
         },
         {
             "index":34,
@@ -466,7 +504,8 @@
             "value_score":54.2365,
             "region":"전라남도 여수시",
             "region_code":"Jeollanamdo",
-            "sub_region_code":"4613000000_Jeollanamdo_Yeosu"
+            "sub_region_code":"4613000000_Jeollanamdo_Yeosu",
+            "shorten_url":"https:\/\/me2.do\/xDMXfBPj"
         },
         {
             "index":35,
@@ -478,7 +517,8 @@
             "value_score":52.8615,
             "region":"전라남도 여수시",
             "region_code":"Jeollanamdo",
-            "sub_region_code":"4613000000_Jeollanamdo_Yeosu"
+            "sub_region_code":"4613000000_Jeollanamdo_Yeosu",
+            "shorten_url":"https:\/\/me2.do\/xDMXfBPj"
         },
         {
             "index":36,
@@ -490,7 +530,8 @@
             "value_score":51.4415,
             "region":"전라남도 여수시",
             "region_code":"Jeollanamdo",
-            "sub_region_code":"4613000000_Jeollanamdo_Yeosu"
+            "sub_region_code":"4613000000_Jeollanamdo_Yeosu",
+            "shorten_url":"https:\/\/me2.do\/xDMXfBPj"
         },
         {
             "index":37,
@@ -502,7 +543,8 @@
             "value_score":51.3615,
             "region":"전라남도 여수시",
             "region_code":"Jeollanamdo",
-            "sub_region_code":"4613000000_Jeollanamdo_Yeosu"
+            "sub_region_code":"4613000000_Jeollanamdo_Yeosu",
+            "shorten_url":"https:\/\/me2.do\/xDMXfBPj"
         },
         {
             "index":38,
@@ -514,7 +556,8 @@
             "value_score":50.6325,
             "region":"전라남도 여수시",
             "region_code":"Jeollanamdo",
-            "sub_region_code":"4613000000_Jeollanamdo_Yeosu"
+            "sub_region_code":"4613000000_Jeollanamdo_Yeosu",
+            "shorten_url":"https:\/\/me2.do\/xDMXfBPj"
         },
         {
             "index":39,
@@ -526,7 +569,8 @@
             "value_score":49.8615,
             "region":"전라남도 여수시",
             "region_code":"Jeollanamdo",
-            "sub_region_code":"4613000000_Jeollanamdo_Yeosu"
+            "sub_region_code":"4613000000_Jeollanamdo_Yeosu",
+            "shorten_url":"https:\/\/me2.do\/xDMXfBPj"
         }
     ]
 }

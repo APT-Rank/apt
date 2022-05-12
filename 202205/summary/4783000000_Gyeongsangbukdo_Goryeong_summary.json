@@ -40,6 +40,10 @@
             {
                 "name":"sub_region_code",
                 "type":"string"
+            },
+            {
+                "name":"shorten_url",
+                "type":"string"
             }
         ],
         "primaryKey":[
@@ -58,7 +62,8 @@
             "value_score":49.2356,
             "region":"경상북도 고령군",
             "region_code":"Gyeongsangbukdo",
-            "sub_region_code":"4783000000_Gyeongsangbukdo_Goryeong"
+            "sub_region_code":"4783000000_Gyeongsangbukdo_Goryeong",
+            "shorten_url":"https:\/\/me2.do\/FhyV73A5"
         },
         {
             "index":1,
@@ -70,7 +75,8 @@
             "value_score":33.8356,
             "region":"경상북도 고령군",
             "region_code":"Gyeongsangbukdo",
-            "sub_region_code":"4783000000_Gyeongsangbukdo_Goryeong"
+            "sub_region_code":"4783000000_Gyeongsangbukdo_Goryeong",
+            "shorten_url":"https:\/\/me2.do\/FhyV73A5"
         },
         {
             "index":2,
@@ -82,7 +88,8 @@
             "value_score":33.8356,
             "region":"경상북도 고령군",
             "region_code":"Gyeongsangbukdo",
-            "sub_region_code":"4783000000_Gyeongsangbukdo_Goryeong"
+            "sub_region_code":"4783000000_Gyeongsangbukdo_Goryeong",
+            "shorten_url":"https:\/\/me2.do\/FhyV73A5"
         },
         {
             "index":3,
@@ -94,7 +101,8 @@
             "value_score":29.6437,
             "region":"경상북도 고령군",
             "region_code":"Gyeongsangbukdo",
-            "sub_region_code":"4783000000_Gyeongsangbukdo_Goryeong"
+            "sub_region_code":"4783000000_Gyeongsangbukdo_Goryeong",
+            "shorten_url":"https:\/\/me2.do\/FhyV73A5"
         },
         {
             "index":4,
@@ -106,7 +114,8 @@
             "value_score":23.9937,
             "region":"경상북도 고령군",
             "region_code":"Gyeongsangbukdo",
-            "sub_region_code":"4783000000_Gyeongsangbukdo_Goryeong"
+            "sub_region_code":"4783000000_Gyeongsangbukdo_Goryeong",
+            "shorten_url":"https:\/\/me2.do\/FhyV73A5"
         },
         {
             "index":5,
@@ -118,7 +127,8 @@
             "value_score":23.8437,
             "region":"경상북도 고령군",
             "region_code":"Gyeongsangbukdo",
-            "sub_region_code":"4783000000_Gyeongsangbukdo_Goryeong"
+            "sub_region_code":"4783000000_Gyeongsangbukdo_Goryeong",
+            "shorten_url":"https:\/\/me2.do\/FhyV73A5"
         },
         {
             "index":6,
@@ -130,7 +140,8 @@
             "value_score":22.8937,
             "region":"경상북도 고령군",
             "region_code":"Gyeongsangbukdo",
-            "sub_region_code":"4783000000_Gyeongsangbukdo_Goryeong"
+            "sub_region_code":"4783000000_Gyeongsangbukdo_Goryeong",
+            "shorten_url":"https:\/\/me2.do\/FhyV73A5"
         },
         {
             "index":7,
@@ -142,7 +153,8 @@
             "value_score":51.054,
             "region":"경상북도 고령군",
             "region_code":"Gyeongsangbukdo",
-            "sub_region_code":"4783000000_Gyeongsangbukdo_Goryeong"
+            "sub_region_code":"4783000000_Gyeongsangbukdo_Goryeong",
+            "shorten_url":"https:\/\/me2.do\/FhyV73A5"
         },
         {
             "index":8,
@@ -154,7 +166,8 @@
             "value_score":31.804,
             "region":"경상북도 고령군",
             "region_code":"Gyeongsangbukdo",
-            "sub_region_code":"4783000000_Gyeongsangbukdo_Goryeong"
+            "sub_region_code":"4783000000_Gyeongsangbukdo_Goryeong",
+            "shorten_url":"https:\/\/me2.do\/FhyV73A5"
         },
         {
             "index":9,
@@ -166,7 +179,8 @@
             "value_score":31.804,
             "region":"경상북도 고령군",
             "region_code":"Gyeongsangbukdo",
-            "sub_region_code":"4783000000_Gyeongsangbukdo_Goryeong"
+            "sub_region_code":"4783000000_Gyeongsangbukdo_Goryeong",
+            "shorten_url":"https:\/\/me2.do\/FhyV73A5"
         },
         {
             "index":10,
@@ -178,7 +192,8 @@
             "value_score":28.9955,
             "region":"경상북도 고령군",
             "region_code":"Gyeongsangbukdo",
-            "sub_region_code":"4783000000_Gyeongsangbukdo_Goryeong"
+            "sub_region_code":"4783000000_Gyeongsangbukdo_Goryeong",
+            "shorten_url":"https:\/\/me2.do\/FhyV73A5"
         },
         {
             "index":11,
@@ -190,7 +205,8 @@
             "value_score":21.7455,
             "region":"경상북도 고령군",
             "region_code":"Gyeongsangbukdo",
-            "sub_region_code":"4783000000_Gyeongsangbukdo_Goryeong"
+            "sub_region_code":"4783000000_Gyeongsangbukdo_Goryeong",
+            "shorten_url":"https:\/\/me2.do\/FhyV73A5"
         },
         {
             "index":12,
@@ -202,7 +218,8 @@
             "value_score":21.4955,
             "region":"경상북도 고령군",
             "region_code":"Gyeongsangbukdo",
-            "sub_region_code":"4783000000_Gyeongsangbukdo_Goryeong"
+            "sub_region_code":"4783000000_Gyeongsangbukdo_Goryeong",
+            "shorten_url":"https:\/\/me2.do\/FhyV73A5"
         },
         {
             "index":13,
@@ -214,7 +231,8 @@
             "value_score":19.4955,
             "region":"경상북도 고령군",
             "region_code":"Gyeongsangbukdo",
-            "sub_region_code":"4783000000_Gyeongsangbukdo_Goryeong"
+            "sub_region_code":"4783000000_Gyeongsangbukdo_Goryeong",
+            "shorten_url":"https:\/\/me2.do\/FhyV73A5"
         },
         {
             "index":14,
@@ -226,7 +244,8 @@
             "value_score":39.4682105263,
             "region":"경상북도 고령군",
             "region_code":"Gyeongsangbukdo",
-            "sub_region_code":"4783000000_Gyeongsangbukdo_Goryeong"
+            "sub_region_code":"4783000000_Gyeongsangbukdo_Goryeong",
+            "shorten_url":"https:\/\/me2.do\/FhyV73A5"
         },
         {
             "index":15,
@@ -238,7 +257,8 @@
             "value_score":33.3892631579,
             "region":"경상북도 고령군",
             "region_code":"Gyeongsangbukdo",
-            "sub_region_code":"4783000000_Gyeongsangbukdo_Goryeong"
+            "sub_region_code":"4783000000_Gyeongsangbukdo_Goryeong",
+            "shorten_url":"https:\/\/me2.do\/FhyV73A5"
         },
         {
             "index":16,
@@ -250,7 +270,8 @@
             "value_score":33.3892631579,
             "region":"경상북도 고령군",
             "region_code":"Gyeongsangbukdo",
-            "sub_region_code":"4783000000_Gyeongsangbukdo_Goryeong"
+            "sub_region_code":"4783000000_Gyeongsangbukdo_Goryeong",
+            "shorten_url":"https:\/\/me2.do\/FhyV73A5"
         },
         {
             "index":17,
@@ -262,7 +283,8 @@
             "value_score":23.9416842105,
             "region":"경상북도 고령군",
             "region_code":"Gyeongsangbukdo",
-            "sub_region_code":"4783000000_Gyeongsangbukdo_Goryeong"
+            "sub_region_code":"4783000000_Gyeongsangbukdo_Goryeong",
+            "shorten_url":"https:\/\/me2.do\/FhyV73A5"
         },
         {
             "index":18,
@@ -274,7 +296,8 @@
             "value_score":20.0995789474,
             "region":"경상북도 고령군",
             "region_code":"Gyeongsangbukdo",
-            "sub_region_code":"4783000000_Gyeongsangbukdo_Goryeong"
+            "sub_region_code":"4783000000_Gyeongsangbukdo_Goryeong",
+            "shorten_url":"https:\/\/me2.do\/FhyV73A5"
         },
         {
             "index":19,
@@ -286,7 +309,8 @@
             "value_score":19.3364210526,
             "region":"경상북도 고령군",
             "region_code":"Gyeongsangbukdo",
-            "sub_region_code":"4783000000_Gyeongsangbukdo_Goryeong"
+            "sub_region_code":"4783000000_Gyeongsangbukdo_Goryeong",
+            "shorten_url":"https:\/\/me2.do\/FhyV73A5"
         },
         {
             "index":20,
@@ -298,7 +322,8 @@
             "value_score":17.0469473684,
             "region":"경상북도 고령군",
             "region_code":"Gyeongsangbukdo",
-            "sub_region_code":"4783000000_Gyeongsangbukdo_Goryeong"
+            "sub_region_code":"4783000000_Gyeongsangbukdo_Goryeong",
+            "shorten_url":"https:\/\/me2.do\/FhyV73A5"
         },
         {
             "index":21,
@@ -310,7 +335,8 @@
             "value_score":46.508,
             "region":"경상북도 고령군",
             "region_code":"Gyeongsangbukdo",
-            "sub_region_code":"4783000000_Gyeongsangbukdo_Goryeong"
+            "sub_region_code":"4783000000_Gyeongsangbukdo_Goryeong",
+            "shorten_url":"https:\/\/me2.do\/FhyV73A5"
         },
         {
             "index":22,
@@ -322,7 +348,8 @@
             "value_score":36.883,
             "region":"경상북도 고령군",
             "region_code":"Gyeongsangbukdo",
-            "sub_region_code":"4783000000_Gyeongsangbukdo_Goryeong"
+            "sub_region_code":"4783000000_Gyeongsangbukdo_Goryeong",
+            "shorten_url":"https:\/\/me2.do\/FhyV73A5"
         },
         {
             "index":23,
@@ -334,7 +361,8 @@
             "value_score":36.883,
             "region":"경상북도 고령군",
             "region_code":"Gyeongsangbukdo",
-            "sub_region_code":"4783000000_Gyeongsangbukdo_Goryeong"
+            "sub_region_code":"4783000000_Gyeongsangbukdo_Goryeong",
+            "shorten_url":"https:\/\/me2.do\/FhyV73A5"
         },
         {
             "index":24,
@@ -346,7 +374,8 @@
             "value_score":30.616,
             "region":"경상북도 고령군",
             "region_code":"Gyeongsangbukdo",
-            "sub_region_code":"4783000000_Gyeongsangbukdo_Goryeong"
+            "sub_region_code":"4783000000_Gyeongsangbukdo_Goryeong",
+            "shorten_url":"https:\/\/me2.do\/FhyV73A5"
         },
         {
             "index":25,
@@ -358,7 +387,8 @@
             "value_score":27.991,
             "region":"경상북도 고령군",
             "region_code":"Gyeongsangbukdo",
-            "sub_region_code":"4783000000_Gyeongsangbukdo_Goryeong"
+            "sub_region_code":"4783000000_Gyeongsangbukdo_Goryeong",
+            "shorten_url":"https:\/\/me2.do\/FhyV73A5"
         },
         {
             "index":26,
@@ -370,7 +400,8 @@
             "value_score":27.741,
             "region":"경상북도 고령군",
             "region_code":"Gyeongsangbukdo",
-            "sub_region_code":"4783000000_Gyeongsangbukdo_Goryeong"
+            "sub_region_code":"4783000000_Gyeongsangbukdo_Goryeong",
+            "shorten_url":"https:\/\/me2.do\/FhyV73A5"
         },
         {
             "index":27,
@@ -382,7 +413,8 @@
             "value_score":26.991,
             "region":"경상북도 고령군",
             "region_code":"Gyeongsangbukdo",
-            "sub_region_code":"4783000000_Gyeongsangbukdo_Goryeong"
+            "sub_region_code":"4783000000_Gyeongsangbukdo_Goryeong",
+            "shorten_url":"https:\/\/me2.do\/FhyV73A5"
         }
     ]
 }

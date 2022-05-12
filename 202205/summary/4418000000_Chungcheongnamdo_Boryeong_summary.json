@@ -40,6 +40,10 @@
             {
                 "name":"sub_region_code",
                 "type":"string"
+            },
+            {
+                "name":"shorten_url",
+                "type":"string"
             }
         ],
         "primaryKey":[
@@ -58,7 +62,8 @@
             "value_score":48.7705,
             "region":"충청남도 보령시",
             "region_code":"Chungcheongnamdo",
-            "sub_region_code":"4418000000_Chungcheongnamdo_Boryeong"
+            "sub_region_code":"4418000000_Chungcheongnamdo_Boryeong",
+            "shorten_url":"https:\/\/me2.do\/5dOYinEb"
         },
         {
             "index":1,
@@ -70,7 +75,8 @@
             "value_score":48.29145,
             "region":"충청남도 보령시",
             "region_code":"Chungcheongnamdo",
-            "sub_region_code":"4418000000_Chungcheongnamdo_Boryeong"
+            "sub_region_code":"4418000000_Chungcheongnamdo_Boryeong",
+            "shorten_url":"https:\/\/me2.do\/5dOYinEb"
         },
         {
             "index":2,
@@ -82,7 +88,8 @@
             "value_score":47.09145,
             "region":"충청남도 보령시",
             "region_code":"Chungcheongnamdo",
-            "sub_region_code":"4418000000_Chungcheongnamdo_Boryeong"
+            "sub_region_code":"4418000000_Chungcheongnamdo_Boryeong",
+            "shorten_url":"https:\/\/me2.do\/5dOYinEb"
         },
         {
             "index":3,
@@ -94,7 +101,8 @@
             "value_score":45.8205,
             "region":"충청남도 보령시",
             "region_code":"Chungcheongnamdo",
-            "sub_region_code":"4418000000_Chungcheongnamdo_Boryeong"
+            "sub_region_code":"4418000000_Chungcheongnamdo_Boryeong",
+            "shorten_url":"https:\/\/me2.do\/5dOYinEb"
         },
         {
             "index":4,
@@ -106,7 +114,8 @@
             "value_score":45.09145,
             "region":"충청남도 보령시",
             "region_code":"Chungcheongnamdo",
-            "sub_region_code":"4418000000_Chungcheongnamdo_Boryeong"
+            "sub_region_code":"4418000000_Chungcheongnamdo_Boryeong",
+            "shorten_url":"https:\/\/me2.do\/5dOYinEb"
         },
         {
             "index":5,
@@ -118,7 +127,8 @@
             "value_score":45.0205,
             "region":"충청남도 보령시",
             "region_code":"Chungcheongnamdo",
-            "sub_region_code":"4418000000_Chungcheongnamdo_Boryeong"
+            "sub_region_code":"4418000000_Chungcheongnamdo_Boryeong",
+            "shorten_url":"https:\/\/me2.do\/5dOYinEb"
         },
         {
             "index":6,
@@ -130,7 +140,8 @@
             "value_score":45.0205,
             "region":"충청남도 보령시",
             "region_code":"Chungcheongnamdo",
-            "sub_region_code":"4418000000_Chungcheongnamdo_Boryeong"
+            "sub_region_code":"4418000000_Chungcheongnamdo_Boryeong",
+            "shorten_url":"https:\/\/me2.do\/5dOYinEb"
         },
         {
             "index":7,
@@ -142,7 +153,8 @@
             "value_score":44.7205,
             "region":"충청남도 보령시",
             "region_code":"Chungcheongnamdo",
-            "sub_region_code":"4418000000_Chungcheongnamdo_Boryeong"
+            "sub_region_code":"4418000000_Chungcheongnamdo_Boryeong",
+            "shorten_url":"https:\/\/me2.do\/5dOYinEb"
         },
         {
             "index":8,
@@ -154,7 +166,8 @@
             "value_score":40.5205,
             "region":"충청남도 보령시",
             "region_code":"Chungcheongnamdo",
-            "sub_region_code":"4418000000_Chungcheongnamdo_Boryeong"
+            "sub_region_code":"4418000000_Chungcheongnamdo_Boryeong",
+            "shorten_url":"https:\/\/me2.do\/5dOYinEb"
         },
         {
             "index":9,
@@ -166,7 +179,8 @@
             "value_score":39.9205,
             "region":"충청남도 보령시",
             "region_code":"Chungcheongnamdo",
-            "sub_region_code":"4418000000_Chungcheongnamdo_Boryeong"
+            "sub_region_code":"4418000000_Chungcheongnamdo_Boryeong",
+            "shorten_url":"https:\/\/me2.do\/5dOYinEb"
         },
         {
             "index":10,
@@ -178,7 +192,8 @@
             "value_score":50.9075,
             "region":"충청남도 보령시",
             "region_code":"Chungcheongnamdo",
-            "sub_region_code":"4418000000_Chungcheongnamdo_Boryeong"
+            "sub_region_code":"4418000000_Chungcheongnamdo_Boryeong",
+            "shorten_url":"https:\/\/me2.do\/5dOYinEb"
         },
         {
             "index":11,
@@ -190,7 +205,8 @@
             "value_score":50.88675,
             "region":"충청남도 보령시",
             "region_code":"Chungcheongnamdo",
-            "sub_region_code":"4418000000_Chungcheongnamdo_Boryeong"
+            "sub_region_code":"4418000000_Chungcheongnamdo_Boryeong",
+            "shorten_url":"https:\/\/me2.do\/5dOYinEb"
         },
         {
             "index":12,
@@ -202,7 +218,8 @@
             "value_score":48.63675,
             "region":"충청남도 보령시",
             "region_code":"Chungcheongnamdo",
-            "sub_region_code":"4418000000_Chungcheongnamdo_Boryeong"
+            "sub_region_code":"4418000000_Chungcheongnamdo_Boryeong",
+            "shorten_url":"https:\/\/me2.do\/5dOYinEb"
         },
         {
             "index":13,
@@ -214,7 +231,8 @@
             "value_score":47.1575,
             "region":"충청남도 보령시",
             "region_code":"Chungcheongnamdo",
-            "sub_region_code":"4418000000_Chungcheongnamdo_Boryeong"
+            "sub_region_code":"4418000000_Chungcheongnamdo_Boryeong",
+            "shorten_url":"https:\/\/me2.do\/5dOYinEb"
         },
         {
             "index":14,
@@ -226,7 +244,8 @@
             "value_score":47.1575,
             "region":"충청남도 보령시",
             "region_code":"Chungcheongnamdo",
-            "sub_region_code":"4418000000_Chungcheongnamdo_Boryeong"
+            "sub_region_code":"4418000000_Chungcheongnamdo_Boryeong",
+            "shorten_url":"https:\/\/me2.do\/5dOYinEb"
         },
         {
             "index":15,
@@ -238,7 +257,8 @@
             "value_score":47.1575,
             "region":"충청남도 보령시",
             "region_code":"Chungcheongnamdo",
-            "sub_region_code":"4418000000_Chungcheongnamdo_Boryeong"
+            "sub_region_code":"4418000000_Chungcheongnamdo_Boryeong",
+            "shorten_url":"https:\/\/me2.do\/5dOYinEb"
         },
         {
             "index":16,
@@ -250,7 +270,8 @@
             "value_score":46.13675,
             "region":"충청남도 보령시",
             "region_code":"Chungcheongnamdo",
-            "sub_region_code":"4418000000_Chungcheongnamdo_Boryeong"
+            "sub_region_code":"4418000000_Chungcheongnamdo_Boryeong",
+            "shorten_url":"https:\/\/me2.do\/5dOYinEb"
         },
         {
             "index":17,
@@ -262,7 +283,8 @@
             "value_score":45.6575,
             "region":"충청남도 보령시",
             "region_code":"Chungcheongnamdo",
-            "sub_region_code":"4418000000_Chungcheongnamdo_Boryeong"
+            "sub_region_code":"4418000000_Chungcheongnamdo_Boryeong",
+            "shorten_url":"https:\/\/me2.do\/5dOYinEb"
         },
         {
             "index":18,
@@ -274,7 +296,8 @@
             "value_score":40.1575,
             "region":"충청남도 보령시",
             "region_code":"Chungcheongnamdo",
-            "sub_region_code":"4418000000_Chungcheongnamdo_Boryeong"
+            "sub_region_code":"4418000000_Chungcheongnamdo_Boryeong",
+            "shorten_url":"https:\/\/me2.do\/5dOYinEb"
         },
         {
             "index":19,
@@ -286,7 +309,8 @@
             "value_score":39.6575,
             "region":"충청남도 보령시",
             "region_code":"Chungcheongnamdo",
-            "sub_region_code":"4418000000_Chungcheongnamdo_Boryeong"
+            "sub_region_code":"4418000000_Chungcheongnamdo_Boryeong",
+            "shorten_url":"https:\/\/me2.do\/5dOYinEb"
         },
         {
             "index":20,
@@ -298,7 +322,8 @@
             "value_score":40.8413684211,
             "region":"충청남도 보령시",
             "region_code":"Chungcheongnamdo",
-            "sub_region_code":"4418000000_Chungcheongnamdo_Boryeong"
+            "sub_region_code":"4418000000_Chungcheongnamdo_Boryeong",
+            "shorten_url":"https:\/\/me2.do\/5dOYinEb"
         },
         {
             "index":21,
@@ -310,7 +335,8 @@
             "value_score":39.9203157895,
             "region":"충청남도 보령시",
             "region_code":"Chungcheongnamdo",
-            "sub_region_code":"4418000000_Chungcheongnamdo_Boryeong"
+            "sub_region_code":"4418000000_Chungcheongnamdo_Boryeong",
+            "shorten_url":"https:\/\/me2.do\/5dOYinEb"
         },
         {
             "index":22,
@@ -322,7 +348,8 @@
             "value_score":39.8305263158,
             "region":"충청남도 보령시",
             "region_code":"Chungcheongnamdo",
-            "sub_region_code":"4418000000_Chungcheongnamdo_Boryeong"
+            "sub_region_code":"4418000000_Chungcheongnamdo_Boryeong",
+            "shorten_url":"https:\/\/me2.do\/5dOYinEb"
         },
         {
             "index":23,
@@ -334,7 +361,8 @@
             "value_score":39.5673684211,
             "region":"충청남도 보령시",
             "region_code":"Chungcheongnamdo",
-            "sub_region_code":"4418000000_Chungcheongnamdo_Boryeong"
+            "sub_region_code":"4418000000_Chungcheongnamdo_Boryeong",
+            "shorten_url":"https:\/\/me2.do\/5dOYinEb"
         },
         {
             "index":24,
@@ -346,7 +374,8 @@
             "value_score":39.5147368421,
             "region":"충청남도 보령시",
             "region_code":"Chungcheongnamdo",
-            "sub_region_code":"4418000000_Chungcheongnamdo_Boryeong"
+            "sub_region_code":"4418000000_Chungcheongnamdo_Boryeong",
+            "shorten_url":"https:\/\/me2.do\/5dOYinEb"
         },
         {
             "index":25,
@@ -358,7 +387,8 @@
             "value_score":39.0936842105,
             "region":"충청남도 보령시",
             "region_code":"Chungcheongnamdo",
-            "sub_region_code":"4418000000_Chungcheongnamdo_Boryeong"
+            "sub_region_code":"4418000000_Chungcheongnamdo_Boryeong",
+            "shorten_url":"https:\/\/me2.do\/5dOYinEb"
         },
         {
             "index":26,
@@ -370,7 +400,8 @@
             "value_score":38.2253684211,
             "region":"충청남도 보령시",
             "region_code":"Chungcheongnamdo",
-            "sub_region_code":"4418000000_Chungcheongnamdo_Boryeong"
+            "sub_region_code":"4418000000_Chungcheongnamdo_Boryeong",
+            "shorten_url":"https:\/\/me2.do\/5dOYinEb"
         },
         {
             "index":27,
@@ -382,7 +413,8 @@
             "value_score":37.62,
             "region":"충청남도 보령시",
             "region_code":"Chungcheongnamdo",
-            "sub_region_code":"4418000000_Chungcheongnamdo_Boryeong"
+            "sub_region_code":"4418000000_Chungcheongnamdo_Boryeong",
+            "shorten_url":"https:\/\/me2.do\/5dOYinEb"
         },
         {
             "index":28,
@@ -394,7 +426,8 @@
             "value_score":37.4358947368,
             "region":"충청남도 보령시",
             "region_code":"Chungcheongnamdo",
-            "sub_region_code":"4418000000_Chungcheongnamdo_Boryeong"
+            "sub_region_code":"4418000000_Chungcheongnamdo_Boryeong",
+            "shorten_url":"https:\/\/me2.do\/5dOYinEb"
         },
         {
             "index":29,
@@ -406,7 +439,8 @@
             "value_score":37.4357894737,
             "region":"충청남도 보령시",
             "region_code":"Chungcheongnamdo",
-            "sub_region_code":"4418000000_Chungcheongnamdo_Boryeong"
+            "sub_region_code":"4418000000_Chungcheongnamdo_Boryeong",
+            "shorten_url":"https:\/\/me2.do\/5dOYinEb"
         },
         {
             "index":30,
@@ -418,7 +452,8 @@
             "value_score":45.565,
             "region":"충청남도 보령시",
             "region_code":"Chungcheongnamdo",
-            "sub_region_code":"4418000000_Chungcheongnamdo_Boryeong"
+            "sub_region_code":"4418000000_Chungcheongnamdo_Boryeong",
+            "shorten_url":"https:\/\/me2.do\/5dOYinEb"
         },
         {
             "index":31,
@@ -430,7 +465,8 @@
             "value_score":44.7735,
             "region":"충청남도 보령시",
             "region_code":"Chungcheongnamdo",
-            "sub_region_code":"4418000000_Chungcheongnamdo_Boryeong"
+            "sub_region_code":"4418000000_Chungcheongnamdo_Boryeong",
+            "shorten_url":"https:\/\/me2.do\/5dOYinEb"
         },
         {
             "index":32,
@@ -442,7 +478,8 @@
             "value_score":44.3985,
             "region":"충청남도 보령시",
             "region_code":"Chungcheongnamdo",
-            "sub_region_code":"4418000000_Chungcheongnamdo_Boryeong"
+            "sub_region_code":"4418000000_Chungcheongnamdo_Boryeong",
+            "shorten_url":"https:\/\/me2.do\/5dOYinEb"
         },
         {
             "index":33,
@@ -454,7 +491,8 @@
             "value_score":43.815,
             "region":"충청남도 보령시",
             "region_code":"Chungcheongnamdo",
-            "sub_region_code":"4418000000_Chungcheongnamdo_Boryeong"
+            "sub_region_code":"4418000000_Chungcheongnamdo_Boryeong",
+            "shorten_url":"https:\/\/me2.do\/5dOYinEb"
         },
         {
             "index":34,
@@ -466,7 +504,8 @@
             "value_score":43.5235,
             "region":"충청남도 보령시",
             "region_code":"Chungcheongnamdo",
-            "sub_region_code":"4418000000_Chungcheongnamdo_Boryeong"
+            "sub_region_code":"4418000000_Chungcheongnamdo_Boryeong",
+            "shorten_url":"https:\/\/me2.do\/5dOYinEb"
         },
         {
             "index":35,
@@ -478,7 +517,8 @@
             "value_score":43.315,
             "region":"충청남도 보령시",
             "region_code":"Chungcheongnamdo",
-            "sub_region_code":"4418000000_Chungcheongnamdo_Boryeong"
+            "sub_region_code":"4418000000_Chungcheongnamdo_Boryeong",
+            "shorten_url":"https:\/\/me2.do\/5dOYinEb"
         },
         {
             "index":36,
@@ -490,7 +530,8 @@
             "value_score":41.815,
             "region":"충청남도 보령시",
             "region_code":"Chungcheongnamdo",
-            "sub_region_code":"4418000000_Chungcheongnamdo_Boryeong"
+            "sub_region_code":"4418000000_Chungcheongnamdo_Boryeong",
+            "shorten_url":"https:\/\/me2.do\/5dOYinEb"
         },
         {
             "index":37,
@@ -502,7 +543,8 @@
             "value_score":41.815,
             "region":"충청남도 보령시",
             "region_code":"Chungcheongnamdo",
-            "sub_region_code":"4418000000_Chungcheongnamdo_Boryeong"
+            "sub_region_code":"4418000000_Chungcheongnamdo_Boryeong",
+            "shorten_url":"https:\/\/me2.do\/5dOYinEb"
         },
         {
             "index":38,
@@ -514,7 +556,8 @@
             "value_score":41.065,
             "region":"충청남도 보령시",
             "region_code":"Chungcheongnamdo",
-            "sub_region_code":"4418000000_Chungcheongnamdo_Boryeong"
+            "sub_region_code":"4418000000_Chungcheongnamdo_Boryeong",
+            "shorten_url":"https:\/\/me2.do\/5dOYinEb"
         },
         {
             "index":39,
@@ -526,7 +569,8 @@
             "value_score":41.0405,
             "region":"충청남도 보령시",
             "region_code":"Chungcheongnamdo",
-            "sub_region_code":"4418000000_Chungcheongnamdo_Boryeong"
+            "sub_region_code":"4418000000_Chungcheongnamdo_Boryeong",
+            "shorten_url":"https:\/\/me2.do\/5dOYinEb"
         }
     ]
 }

@@ -40,6 +40,10 @@
             {
                 "name":"sub_region_code",
                 "type":"string"
+            },
+            {
+                "name":"shorten_url",
+                "type":"string"
             }
         ],
         "primaryKey":[
@@ -58,7 +62,8 @@
             "value_score":37.53595,
             "region":"강원도 정선군",
             "region_code":"Gangwondo",
-            "sub_region_code":"4277000000_Gangwondo_Jeongseon"
+            "sub_region_code":"4277000000_Gangwondo_Jeongseon",
+            "shorten_url":"https:\/\/me2.do\/FTOZe4zc"
         },
         {
             "index":1,
@@ -70,7 +75,8 @@
             "value_score":36.8473,
             "region":"강원도 정선군",
             "region_code":"Gangwondo",
-            "sub_region_code":"4277000000_Gangwondo_Jeongseon"
+            "sub_region_code":"4277000000_Gangwondo_Jeongseon",
+            "shorten_url":"https:\/\/me2.do\/FTOZe4zc"
         },
         {
             "index":2,
@@ -82,7 +88,8 @@
             "value_score":32.58595,
             "region":"강원도 정선군",
             "region_code":"Gangwondo",
-            "sub_region_code":"4277000000_Gangwondo_Jeongseon"
+            "sub_region_code":"4277000000_Gangwondo_Jeongseon",
+            "shorten_url":"https:\/\/me2.do\/FTOZe4zc"
         },
         {
             "index":3,
@@ -94,7 +101,8 @@
             "value_score":31.82295,
             "region":"강원도 정선군",
             "region_code":"Gangwondo",
-            "sub_region_code":"4277000000_Gangwondo_Jeongseon"
+            "sub_region_code":"4277000000_Gangwondo_Jeongseon",
+            "shorten_url":"https:\/\/me2.do\/FTOZe4zc"
         },
         {
             "index":4,
@@ -106,7 +114,8 @@
             "value_score":29.6027,
             "region":"강원도 정선군",
             "region_code":"Gangwondo",
-            "sub_region_code":"4277000000_Gangwondo_Jeongseon"
+            "sub_region_code":"4277000000_Gangwondo_Jeongseon",
+            "shorten_url":"https:\/\/me2.do\/FTOZe4zc"
         },
         {
             "index":5,
@@ -118,7 +127,8 @@
             "value_score":28.58595,
             "region":"강원도 정선군",
             "region_code":"Gangwondo",
-            "sub_region_code":"4277000000_Gangwondo_Jeongseon"
+            "sub_region_code":"4277000000_Gangwondo_Jeongseon",
+            "shorten_url":"https:\/\/me2.do\/FTOZe4zc"
         },
         {
             "index":6,
@@ -130,7 +140,8 @@
             "value_score":26.6027,
             "region":"강원도 정선군",
             "region_code":"Gangwondo",
-            "sub_region_code":"4277000000_Gangwondo_Jeongseon"
+            "sub_region_code":"4277000000_Gangwondo_Jeongseon",
+            "shorten_url":"https:\/\/me2.do\/FTOZe4zc"
         },
         {
             "index":7,
@@ -142,7 +153,8 @@
             "value_score":25.0027,
             "region":"강원도 정선군",
             "region_code":"Gangwondo",
-            "sub_region_code":"4277000000_Gangwondo_Jeongseon"
+            "sub_region_code":"4277000000_Gangwondo_Jeongseon",
+            "shorten_url":"https:\/\/me2.do\/FTOZe4zc"
         },
         {
             "index":8,
@@ -154,7 +166,8 @@
             "value_score":23.83595,
             "region":"강원도 정선군",
             "region_code":"Gangwondo",
-            "sub_region_code":"4277000000_Gangwondo_Jeongseon"
+            "sub_region_code":"4277000000_Gangwondo_Jeongseon",
+            "shorten_url":"https:\/\/me2.do\/FTOZe4zc"
         },
         {
             "index":9,
@@ -166,7 +179,8 @@
             "value_score":23.38595,
             "region":"강원도 정선군",
             "region_code":"Gangwondo",
-            "sub_region_code":"4277000000_Gangwondo_Jeongseon"
+            "sub_region_code":"4277000000_Gangwondo_Jeongseon",
+            "shorten_url":"https:\/\/me2.do\/FTOZe4zc"
         },
         {
             "index":10,
@@ -178,7 +192,8 @@
             "value_score":37.20425,
             "region":"강원도 정선군",
             "region_code":"Gangwondo",
-            "sub_region_code":"4277000000_Gangwondo_Jeongseon"
+            "sub_region_code":"4277000000_Gangwondo_Jeongseon",
+            "shorten_url":"https:\/\/me2.do\/FTOZe4zc"
         },
         {
             "index":11,
@@ -190,7 +205,8 @@
             "value_score":36.8195,
             "region":"강원도 정선군",
             "region_code":"Gangwondo",
-            "sub_region_code":"4277000000_Gangwondo_Jeongseon"
+            "sub_region_code":"4277000000_Gangwondo_Jeongseon",
+            "shorten_url":"https:\/\/me2.do\/FTOZe4zc"
         },
         {
             "index":12,
@@ -202,7 +218,8 @@
             "value_score":32.90925,
             "region":"강원도 정선군",
             "region_code":"Gangwondo",
-            "sub_region_code":"4277000000_Gangwondo_Jeongseon"
+            "sub_region_code":"4277000000_Gangwondo_Jeongseon",
+            "shorten_url":"https:\/\/me2.do\/FTOZe4zc"
         },
         {
             "index":13,
@@ -214,7 +231,8 @@
             "value_score":31.95425,
             "region":"강원도 정선군",
             "region_code":"Gangwondo",
-            "sub_region_code":"4277000000_Gangwondo_Jeongseon"
+            "sub_region_code":"4277000000_Gangwondo_Jeongseon",
+            "shorten_url":"https:\/\/me2.do\/FTOZe4zc"
         },
         {
             "index":14,
@@ -226,7 +244,8 @@
             "value_score":29.1805,
             "region":"강원도 정선군",
             "region_code":"Gangwondo",
-            "sub_region_code":"4277000000_Gangwondo_Jeongseon"
+            "sub_region_code":"4277000000_Gangwondo_Jeongseon",
+            "shorten_url":"https:\/\/me2.do\/FTOZe4zc"
         },
         {
             "index":15,
@@ -238,7 +257,8 @@
             "value_score":26.20425,
             "region":"강원도 정선군",
             "region_code":"Gangwondo",
-            "sub_region_code":"4277000000_Gangwondo_Jeongseon"
+            "sub_region_code":"4277000000_Gangwondo_Jeongseon",
+            "shorten_url":"https:\/\/me2.do\/FTOZe4zc"
         },
         {
             "index":16,
@@ -250,7 +270,8 @@
             "value_score":25.2805,
             "region":"강원도 정선군",
             "region_code":"Gangwondo",
-            "sub_region_code":"4277000000_Gangwondo_Jeongseon"
+            "sub_region_code":"4277000000_Gangwondo_Jeongseon",
+            "shorten_url":"https:\/\/me2.do\/FTOZe4zc"
         },
         {
             "index":17,
@@ -262,7 +283,8 @@
             "value_score":23.4305,
             "region":"강원도 정선군",
             "region_code":"Gangwondo",
-            "sub_region_code":"4277000000_Gangwondo_Jeongseon"
+            "sub_region_code":"4277000000_Gangwondo_Jeongseon",
+            "shorten_url":"https:\/\/me2.do\/FTOZe4zc"
         },
         {
             "index":18,
@@ -274,7 +296,8 @@
             "value_score":21.05425,
             "region":"강원도 정선군",
             "region_code":"Gangwondo",
-            "sub_region_code":"4277000000_Gangwondo_Jeongseon"
+            "sub_region_code":"4277000000_Gangwondo_Jeongseon",
+            "shorten_url":"https:\/\/me2.do\/FTOZe4zc"
         },
         {
             "index":19,
@@ -286,7 +309,8 @@
             "value_score":19.70425,
             "region":"강원도 정선군",
             "region_code":"Gangwondo",
-            "sub_region_code":"4277000000_Gangwondo_Jeongseon"
+            "sub_region_code":"4277000000_Gangwondo_Jeongseon",
+            "shorten_url":"https:\/\/me2.do\/FTOZe4zc"
         },
         {
             "index":20,
@@ -298,7 +322,8 @@
             "value_score":30.6527368421,
             "region":"강원도 정선군",
             "region_code":"Gangwondo",
-            "sub_region_code":"4277000000_Gangwondo_Jeongseon"
+            "sub_region_code":"4277000000_Gangwondo_Jeongseon",
+            "shorten_url":"https:\/\/me2.do\/FTOZe4zc"
         },
         {
             "index":21,
@@ -310,7 +335,8 @@
             "value_score":28.8246315789,
             "region":"강원도 정선군",
             "region_code":"Gangwondo",
-            "sub_region_code":"4277000000_Gangwondo_Jeongseon"
+            "sub_region_code":"4277000000_Gangwondo_Jeongseon",
+            "shorten_url":"https:\/\/me2.do\/FTOZe4zc"
         },
         {
             "index":22,
@@ -322,7 +348,8 @@
             "value_score":25.8369473684,
             "region":"강원도 정선군",
             "region_code":"Gangwondo",
-            "sub_region_code":"4277000000_Gangwondo_Jeongseon"
+            "sub_region_code":"4277000000_Gangwondo_Jeongseon",
+            "shorten_url":"https:\/\/me2.do\/FTOZe4zc"
         },
         {
             "index":23,
@@ -334,7 +361,8 @@
             "value_score":23.7843157895,
             "region":"강원도 정선군",
             "region_code":"Gangwondo",
-            "sub_region_code":"4277000000_Gangwondo_Jeongseon"
+            "sub_region_code":"4277000000_Gangwondo_Jeongseon",
+            "shorten_url":"https:\/\/me2.do\/FTOZe4zc"
         },
         {
             "index":24,
@@ -346,7 +374,8 @@
             "value_score":22.2843157895,
             "region":"강원도 정선군",
             "region_code":"Gangwondo",
-            "sub_region_code":"4277000000_Gangwondo_Jeongseon"
+            "sub_region_code":"4277000000_Gangwondo_Jeongseon",
+            "shorten_url":"https:\/\/me2.do\/FTOZe4zc"
         },
         {
             "index":25,
@@ -358,7 +387,8 @@
             "value_score":19.0964210526,
             "region":"강원도 정선군",
             "region_code":"Gangwondo",
-            "sub_region_code":"4277000000_Gangwondo_Jeongseon"
+            "sub_region_code":"4277000000_Gangwondo_Jeongseon",
+            "shorten_url":"https:\/\/me2.do\/FTOZe4zc"
         },
         {
             "index":26,
@@ -370,7 +400,8 @@
             "value_score":19.0695789474,
             "region":"강원도 정선군",
             "region_code":"Gangwondo",
-            "sub_region_code":"4277000000_Gangwondo_Jeongseon"
+            "sub_region_code":"4277000000_Gangwondo_Jeongseon",
+            "shorten_url":"https:\/\/me2.do\/FTOZe4zc"
         },
         {
             "index":27,
@@ -382,7 +413,8 @@
             "value_score":18.9385263158,
             "region":"강원도 정선군",
             "region_code":"Gangwondo",
-            "sub_region_code":"4277000000_Gangwondo_Jeongseon"
+            "sub_region_code":"4277000000_Gangwondo_Jeongseon",
+            "shorten_url":"https:\/\/me2.do\/FTOZe4zc"
         },
         {
             "index":28,
@@ -394,7 +426,8 @@
             "value_score":18.5737894737,
             "region":"강원도 정선군",
             "region_code":"Gangwondo",
-            "sub_region_code":"4277000000_Gangwondo_Jeongseon"
+            "sub_region_code":"4277000000_Gangwondo_Jeongseon",
+            "shorten_url":"https:\/\/me2.do\/FTOZe4zc"
         },
         {
             "index":29,
@@ -406,7 +439,8 @@
             "value_score":17.2806315789,
             "region":"강원도 정선군",
             "region_code":"Gangwondo",
-            "sub_region_code":"4277000000_Gangwondo_Jeongseon"
+            "sub_region_code":"4277000000_Gangwondo_Jeongseon",
+            "shorten_url":"https:\/\/me2.do\/FTOZe4zc"
         },
         {
             "index":30,
@@ -418,7 +452,8 @@
             "value_score":38.0335,
             "region":"강원도 정선군",
             "region_code":"Gangwondo",
-            "sub_region_code":"4277000000_Gangwondo_Jeongseon"
+            "sub_region_code":"4277000000_Gangwondo_Jeongseon",
+            "shorten_url":"https:\/\/me2.do\/FTOZe4zc"
         },
         {
             "index":31,
@@ -430,7 +465,8 @@
             "value_score":36.889,
             "region":"강원도 정선군",
             "region_code":"Gangwondo",
-            "sub_region_code":"4277000000_Gangwondo_Jeongseon"
+            "sub_region_code":"4277000000_Gangwondo_Jeongseon",
+            "shorten_url":"https:\/\/me2.do\/FTOZe4zc"
         },
         {
             "index":32,
@@ -442,7 +478,8 @@
             "value_score":33.5335,
             "region":"강원도 정선군",
             "region_code":"Gangwondo",
-            "sub_region_code":"4277000000_Gangwondo_Jeongseon"
+            "sub_region_code":"4277000000_Gangwondo_Jeongseon",
+            "shorten_url":"https:\/\/me2.do\/FTOZe4zc"
         },
         {
             "index":33,
@@ -454,7 +491,8 @@
             "value_score":32.1585,
             "region":"강원도 정선군",
             "region_code":"Gangwondo",
-            "sub_region_code":"4277000000_Gangwondo_Jeongseon"
+            "sub_region_code":"4277000000_Gangwondo_Jeongseon",
+            "shorten_url":"https:\/\/me2.do\/FTOZe4zc"
         },
         {
             "index":34,
@@ -466,7 +504,8 @@
             "value_score":30.236,
             "region":"강원도 정선군",
             "region_code":"Gangwondo",
-            "sub_region_code":"4277000000_Gangwondo_Jeongseon"
+            "sub_region_code":"4277000000_Gangwondo_Jeongseon",
+            "shorten_url":"https:\/\/me2.do\/FTOZe4zc"
         },
         {
             "index":35,
@@ -478,7 +517,8 @@
             "value_score":30.1935,
             "region":"강원도 정선군",
             "region_code":"Gangwondo",
-            "sub_region_code":"4277000000_Gangwondo_Jeongseon"
+            "sub_region_code":"4277000000_Gangwondo_Jeongseon",
+            "shorten_url":"https:\/\/me2.do\/FTOZe4zc"
         },
         {
             "index":36,
@@ -490,7 +530,8 @@
             "value_score":28.9085,
             "region":"강원도 정선군",
             "region_code":"Gangwondo",
-            "sub_region_code":"4277000000_Gangwondo_Jeongseon"
+            "sub_region_code":"4277000000_Gangwondo_Jeongseon",
+            "shorten_url":"https:\/\/me2.do\/FTOZe4zc"
         },
         {
             "index":37,
@@ -502,7 +543,8 @@
             "value_score":28.586,
             "region":"강원도 정선군",
             "region_code":"Gangwondo",
-            "sub_region_code":"4277000000_Gangwondo_Jeongseon"
+            "sub_region_code":"4277000000_Gangwondo_Jeongseon",
+            "shorten_url":"https:\/\/me2.do\/FTOZe4zc"
         },
         {
             "index":38,
@@ -514,7 +556,8 @@
             "value_score":28.0085,
             "region":"강원도 정선군",
             "region_code":"Gangwondo",
-            "sub_region_code":"4277000000_Gangwondo_Jeongseon"
+            "sub_region_code":"4277000000_Gangwondo_Jeongseon",
+            "shorten_url":"https:\/\/me2.do\/FTOZe4zc"
         },
         {
             "index":39,
@@ -526,7 +569,8 @@
             "value_score":27.361,
             "region":"강원도 정선군",
             "region_code":"Gangwondo",
-            "sub_region_code":"4277000000_Gangwondo_Jeongseon"
+            "sub_region_code":"4277000000_Gangwondo_Jeongseon",
+            "shorten_url":"https:\/\/me2.do\/FTOZe4zc"
         }
     ]
 }

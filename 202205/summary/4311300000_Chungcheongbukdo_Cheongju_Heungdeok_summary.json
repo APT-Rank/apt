@@ -40,6 +40,10 @@
             {
                 "name":"sub_region_code",
                 "type":"string"
+            },
+            {
+                "name":"shorten_url",
+                "type":"string"
             }
         ],
         "primaryKey":[
@@ -58,7 +62,8 @@
             "value_score":80.72515,
             "region":"충청북도 청주시 흥덕구",
             "region_code":"Chungcheongbukdo",
-            "sub_region_code":"4311300000_Chungcheongbukdo_Cheongju_Heungdeok"
+            "sub_region_code":"4311300000_Chungcheongbukdo_Cheongju_Heungdeok",
+            "shorten_url":"https:\/\/me2.do\/FLDvfBsL"
         },
         {
             "index":1,
@@ -70,7 +75,8 @@
             "value_score":79.87515,
             "region":"충청북도 청주시 흥덕구",
             "region_code":"Chungcheongbukdo",
-            "sub_region_code":"4311300000_Chungcheongbukdo_Cheongju_Heungdeok"
+            "sub_region_code":"4311300000_Chungcheongbukdo_Cheongju_Heungdeok",
+            "shorten_url":"https:\/\/me2.do\/FLDvfBsL"
         },
         {
             "index":2,
@@ -82,7 +88,8 @@
             "value_score":75.57515,
             "region":"충청북도 청주시 흥덕구",
             "region_code":"Chungcheongbukdo",
-            "sub_region_code":"4311300000_Chungcheongbukdo_Cheongju_Heungdeok"
+            "sub_region_code":"4311300000_Chungcheongbukdo_Cheongju_Heungdeok",
+            "shorten_url":"https:\/\/me2.do\/FLDvfBsL"
         },
         {
             "index":3,
@@ -94,7 +101,8 @@
             "value_score":73.27515,
             "region":"충청북도 청주시 흥덕구",
             "region_code":"Chungcheongbukdo",
-            "sub_region_code":"4311300000_Chungcheongbukdo_Cheongju_Heungdeok"
+            "sub_region_code":"4311300000_Chungcheongbukdo_Cheongju_Heungdeok",
+            "shorten_url":"https:\/\/me2.do\/FLDvfBsL"
         },
         {
             "index":4,
@@ -106,7 +114,8 @@
             "value_score":71.16915,
             "region":"충청북도 청주시 흥덕구",
             "region_code":"Chungcheongbukdo",
-            "sub_region_code":"4311300000_Chungcheongbukdo_Cheongju_Heungdeok"
+            "sub_region_code":"4311300000_Chungcheongbukdo_Cheongju_Heungdeok",
+            "shorten_url":"https:\/\/me2.do\/FLDvfBsL"
         },
         {
             "index":5,
@@ -118,7 +127,8 @@
             "value_score":69.66915,
             "region":"충청북도 청주시 흥덕구",
             "region_code":"Chungcheongbukdo",
-            "sub_region_code":"4311300000_Chungcheongbukdo_Cheongju_Heungdeok"
+            "sub_region_code":"4311300000_Chungcheongbukdo_Cheongju_Heungdeok",
+            "shorten_url":"https:\/\/me2.do\/FLDvfBsL"
         },
         {
             "index":6,
@@ -130,7 +140,8 @@
             "value_score":67.71915,
             "region":"충청북도 청주시 흥덕구",
             "region_code":"Chungcheongbukdo",
-            "sub_region_code":"4311300000_Chungcheongbukdo_Cheongju_Heungdeok"
+            "sub_region_code":"4311300000_Chungcheongbukdo_Cheongju_Heungdeok",
+            "shorten_url":"https:\/\/me2.do\/FLDvfBsL"
         },
         {
             "index":7,
@@ -142,7 +153,8 @@
             "value_score":67.712,
             "region":"충청북도 청주시 흥덕구",
             "region_code":"Chungcheongbukdo",
-            "sub_region_code":"4311300000_Chungcheongbukdo_Cheongju_Heungdeok"
+            "sub_region_code":"4311300000_Chungcheongbukdo_Cheongju_Heungdeok",
+            "shorten_url":"https:\/\/me2.do\/FLDvfBsL"
         },
         {
             "index":8,
@@ -154,7 +166,8 @@
             "value_score":65.06915,
             "region":"충청북도 청주시 흥덕구",
             "region_code":"Chungcheongbukdo",
-            "sub_region_code":"4311300000_Chungcheongbukdo_Cheongju_Heungdeok"
+            "sub_region_code":"4311300000_Chungcheongbukdo_Cheongju_Heungdeok",
+            "shorten_url":"https:\/\/me2.do\/FLDvfBsL"
         },
         {
             "index":9,
@@ -166,7 +179,8 @@
             "value_score":64.97515,
             "region":"충청북도 청주시 흥덕구",
             "region_code":"Chungcheongbukdo",
-            "sub_region_code":"4311300000_Chungcheongbukdo_Cheongju_Heungdeok"
+            "sub_region_code":"4311300000_Chungcheongbukdo_Cheongju_Heungdeok",
+            "shorten_url":"https:\/\/me2.do\/FLDvfBsL"
         },
         {
             "index":10,
@@ -178,7 +192,8 @@
             "value_score":82.73225,
             "region":"충청북도 청주시 흥덕구",
             "region_code":"Chungcheongbukdo",
-            "sub_region_code":"4311300000_Chungcheongbukdo_Cheongju_Heungdeok"
+            "sub_region_code":"4311300000_Chungcheongbukdo_Cheongju_Heungdeok",
+            "shorten_url":"https:\/\/me2.do\/FLDvfBsL"
         },
         {
             "index":11,
@@ -190,7 +205,8 @@
             "value_score":81.98225,
             "region":"충청북도 청주시 흥덕구",
             "region_code":"Chungcheongbukdo",
-            "sub_region_code":"4311300000_Chungcheongbukdo_Cheongju_Heungdeok"
+            "sub_region_code":"4311300000_Chungcheongbukdo_Cheongju_Heungdeok",
+            "shorten_url":"https:\/\/me2.do\/FLDvfBsL"
         },
         {
             "index":12,
@@ -202,7 +218,8 @@
             "value_score":76.33225,
             "region":"충청북도 청주시 흥덕구",
             "region_code":"Chungcheongbukdo",
-            "sub_region_code":"4311300000_Chungcheongbukdo_Cheongju_Heungdeok"
+            "sub_region_code":"4311300000_Chungcheongbukdo_Cheongju_Heungdeok",
+            "shorten_url":"https:\/\/me2.do\/FLDvfBsL"
         },
         {
             "index":13,
@@ -214,7 +231,8 @@
             "value_score":73.23225,
             "region":"충청북도 청주시 흥덕구",
             "region_code":"Chungcheongbukdo",
-            "sub_region_code":"4311300000_Chungcheongbukdo_Cheongju_Heungdeok"
+            "sub_region_code":"4311300000_Chungcheongbukdo_Cheongju_Heungdeok",
+            "shorten_url":"https:\/\/me2.do\/FLDvfBsL"
         },
         {
             "index":14,
@@ -226,7 +244,8 @@
             "value_score":71.94225,
             "region":"충청북도 청주시 흥덕구",
             "region_code":"Chungcheongbukdo",
-            "sub_region_code":"4311300000_Chungcheongbukdo_Cheongju_Heungdeok"
+            "sub_region_code":"4311300000_Chungcheongbukdo_Cheongju_Heungdeok",
+            "shorten_url":"https:\/\/me2.do\/FLDvfBsL"
         },
         {
             "index":15,
@@ -238,7 +257,8 @@
             "value_score":71.33,
             "region":"충청북도 청주시 흥덕구",
             "region_code":"Chungcheongbukdo",
-            "sub_region_code":"4311300000_Chungcheongbukdo_Cheongju_Heungdeok"
+            "sub_region_code":"4311300000_Chungcheongbukdo_Cheongju_Heungdeok",
+            "shorten_url":"https:\/\/me2.do\/FLDvfBsL"
         },
         {
             "index":16,
@@ -250,7 +270,8 @@
             "value_score":70.69225,
             "region":"충청북도 청주시 흥덕구",
             "region_code":"Chungcheongbukdo",
-            "sub_region_code":"4311300000_Chungcheongbukdo_Cheongju_Heungdeok"
+            "sub_region_code":"4311300000_Chungcheongbukdo_Cheongju_Heungdeok",
+            "shorten_url":"https:\/\/me2.do\/FLDvfBsL"
         },
         {
             "index":17,
@@ -262,7 +283,8 @@
             "value_score":70.44225,
             "region":"충청북도 청주시 흥덕구",
             "region_code":"Chungcheongbukdo",
-            "sub_region_code":"4311300000_Chungcheongbukdo_Cheongju_Heungdeok"
+            "sub_region_code":"4311300000_Chungcheongbukdo_Cheongju_Heungdeok",
+            "shorten_url":"https:\/\/me2.do\/FLDvfBsL"
         },
         {
             "index":18,
@@ -274,7 +296,8 @@
             "value_score":65.48225,
             "region":"충청북도 청주시 흥덕구",
             "region_code":"Chungcheongbukdo",
-            "sub_region_code":"4311300000_Chungcheongbukdo_Cheongju_Heungdeok"
+            "sub_region_code":"4311300000_Chungcheongbukdo_Cheongju_Heungdeok",
+            "shorten_url":"https:\/\/me2.do\/FLDvfBsL"
         },
         {
             "index":19,
@@ -286,7 +309,8 @@
             "value_score":65.44225,
             "region":"충청북도 청주시 흥덕구",
             "region_code":"Chungcheongbukdo",
-            "sub_region_code":"4311300000_Chungcheongbukdo_Cheongju_Heungdeok"
+            "sub_region_code":"4311300000_Chungcheongbukdo_Cheongju_Heungdeok",
+            "shorten_url":"https:\/\/me2.do\/FLDvfBsL"
         },
         {
             "index":20,
@@ -298,7 +322,8 @@
             "value_score":80.0302105263,
             "region":"충청북도 청주시 흥덕구",
             "region_code":"Chungcheongbukdo",
-            "sub_region_code":"4311300000_Chungcheongbukdo_Cheongju_Heungdeok"
+            "sub_region_code":"4311300000_Chungcheongbukdo_Cheongju_Heungdeok",
+            "shorten_url":"https:\/\/me2.do\/FLDvfBsL"
         },
         {
             "index":21,
@@ -310,7 +335,8 @@
             "value_score":78.3723157895,
             "region":"충청북도 청주시 흥덕구",
             "region_code":"Chungcheongbukdo",
-            "sub_region_code":"4311300000_Chungcheongbukdo_Cheongju_Heungdeok"
+            "sub_region_code":"4311300000_Chungcheongbukdo_Cheongju_Heungdeok",
+            "shorten_url":"https:\/\/me2.do\/FLDvfBsL"
         },
         {
             "index":22,
@@ -322,7 +348,8 @@
             "value_score":77.7407368421,
             "region":"충청북도 청주시 흥덕구",
             "region_code":"Chungcheongbukdo",
-            "sub_region_code":"4311300000_Chungcheongbukdo_Cheongju_Heungdeok"
+            "sub_region_code":"4311300000_Chungcheongbukdo_Cheongju_Heungdeok",
+            "shorten_url":"https:\/\/me2.do\/FLDvfBsL"
         },
         {
             "index":23,
@@ -334,7 +361,8 @@
             "value_score":77.5565263158,
             "region":"충청북도 청주시 흥덕구",
             "region_code":"Chungcheongbukdo",
-            "sub_region_code":"4311300000_Chungcheongbukdo_Cheongju_Heungdeok"
+            "sub_region_code":"4311300000_Chungcheongbukdo_Cheongju_Heungdeok",
+            "shorten_url":"https:\/\/me2.do\/FLDvfBsL"
         },
         {
             "index":24,
@@ -346,7 +374,8 @@
             "value_score":77.3744210526,
             "region":"충청북도 청주시 흥덕구",
             "region_code":"Chungcheongbukdo",
-            "sub_region_code":"4311300000_Chungcheongbukdo_Cheongju_Heungdeok"
+            "sub_region_code":"4311300000_Chungcheongbukdo_Cheongju_Heungdeok",
+            "shorten_url":"https:\/\/me2.do\/FLDvfBsL"
         },
         {
             "index":25,
@@ -358,7 +387,8 @@
             "value_score":75.1375789474,
             "region":"충청북도 청주시 흥덕구",
             "region_code":"Chungcheongbukdo",
-            "sub_region_code":"4311300000_Chungcheongbukdo_Cheongju_Heungdeok"
+            "sub_region_code":"4311300000_Chungcheongbukdo_Cheongju_Heungdeok",
+            "shorten_url":"https:\/\/me2.do\/FLDvfBsL"
         },
         {
             "index":26,
@@ -370,7 +400,8 @@
             "value_score":74.2165263158,
             "region":"충청북도 청주시 흥덕구",
             "region_code":"Chungcheongbukdo",
-            "sub_region_code":"4311300000_Chungcheongbukdo_Cheongju_Heungdeok"
+            "sub_region_code":"4311300000_Chungcheongbukdo_Cheongju_Heungdeok",
+            "shorten_url":"https:\/\/me2.do\/FLDvfBsL"
         },
         {
             "index":27,
@@ -382,7 +413,8 @@
             "value_score":70.8744210526,
             "region":"충청북도 청주시 흥덕구",
             "region_code":"Chungcheongbukdo",
-            "sub_region_code":"4311300000_Chungcheongbukdo_Cheongju_Heungdeok"
+            "sub_region_code":"4311300000_Chungcheongbukdo_Cheongju_Heungdeok",
+            "shorten_url":"https:\/\/me2.do\/FLDvfBsL"
         },
         {
             "index":28,
@@ -394,7 +426,8 @@
             "value_score":70.8196842105,
             "region":"충청북도 청주시 흥덕구",
             "region_code":"Chungcheongbukdo",
-            "sub_region_code":"4311300000_Chungcheongbukdo_Cheongju_Heungdeok"
+            "sub_region_code":"4311300000_Chungcheongbukdo_Cheongju_Heungdeok",
+            "shorten_url":"https:\/\/me2.do\/FLDvfBsL"
         },
         {
             "index":29,
@@ -406,7 +439,8 @@
             "value_score":67.8723157895,
             "region":"충청북도 청주시 흥덕구",
             "region_code":"Chungcheongbukdo",
-            "sub_region_code":"4311300000_Chungcheongbukdo_Cheongju_Heungdeok"
+            "sub_region_code":"4311300000_Chungcheongbukdo_Cheongju_Heungdeok",
+            "shorten_url":"https:\/\/me2.do\/FLDvfBsL"
         },
         {
             "index":30,
@@ -418,7 +452,8 @@
             "value_score":77.7145,
             "region":"충청북도 청주시 흥덕구",
             "region_code":"Chungcheongbukdo",
-            "sub_region_code":"4311300000_Chungcheongbukdo_Cheongju_Heungdeok"
+            "sub_region_code":"4311300000_Chungcheongbukdo_Cheongju_Heungdeok",
+            "shorten_url":"https:\/\/me2.do\/FLDvfBsL"
         },
         {
             "index":31,
@@ -430,7 +465,8 @@
             "value_score":76.7145,
             "region":"충청북도 청주시 흥덕구",
             "region_code":"Chungcheongbukdo",
-            "sub_region_code":"4311300000_Chungcheongbukdo_Cheongju_Heungdeok"
+            "sub_region_code":"4311300000_Chungcheongbukdo_Cheongju_Heungdeok",
+            "shorten_url":"https:\/\/me2.do\/FLDvfBsL"
         },
         {
             "index":32,
@@ -442,7 +478,8 @@
             "value_score":74.4395,
             "region":"충청북도 청주시 흥덕구",
             "region_code":"Chungcheongbukdo",
-            "sub_region_code":"4311300000_Chungcheongbukdo_Cheongju_Heungdeok"
+            "sub_region_code":"4311300000_Chungcheongbukdo_Cheongju_Heungdeok",
+            "shorten_url":"https:\/\/me2.do\/FLDvfBsL"
         },
         {
             "index":33,
@@ -454,7 +491,8 @@
             "value_score":73.3395,
             "region":"충청북도 청주시 흥덕구",
             "region_code":"Chungcheongbukdo",
-            "sub_region_code":"4311300000_Chungcheongbukdo_Cheongju_Heungdeok"
+            "sub_region_code":"4311300000_Chungcheongbukdo_Cheongju_Heungdeok",
+            "shorten_url":"https:\/\/me2.do\/FLDvfBsL"
         },
         {
             "index":34,
@@ -466,7 +504,8 @@
             "value_score":70.0095,
             "region":"충청북도 청주시 흥덕구",
             "region_code":"Chungcheongbukdo",
-            "sub_region_code":"4311300000_Chungcheongbukdo_Cheongju_Heungdeok"
+            "sub_region_code":"4311300000_Chungcheongbukdo_Cheongju_Heungdeok",
+            "shorten_url":"https:\/\/me2.do\/FLDvfBsL"
         },
         {
             "index":35,
@@ -478,7 +517,8 @@
             "value_score":68.5095,
             "region":"충청북도 청주시 흥덕구",
             "region_code":"Chungcheongbukdo",
-            "sub_region_code":"4311300000_Chungcheongbukdo_Cheongju_Heungdeok"
+            "sub_region_code":"4311300000_Chungcheongbukdo_Cheongju_Heungdeok",
+            "shorten_url":"https:\/\/me2.do\/FLDvfBsL"
         },
         {
             "index":36,
@@ -490,7 +530,8 @@
             "value_score":67.2145,
             "region":"충청북도 청주시 흥덕구",
             "region_code":"Chungcheongbukdo",
-            "sub_region_code":"4311300000_Chungcheongbukdo_Cheongju_Heungdeok"
+            "sub_region_code":"4311300000_Chungcheongbukdo_Cheongju_Heungdeok",
+            "shorten_url":"https:\/\/me2.do\/FLDvfBsL"
         },
         {
             "index":37,
@@ -502,7 +543,8 @@
             "value_score":65.4645,
             "region":"충청북도 청주시 흥덕구",
             "region_code":"Chungcheongbukdo",
-            "sub_region_code":"4311300000_Chungcheongbukdo_Cheongju_Heungdeok"
+            "sub_region_code":"4311300000_Chungcheongbukdo_Cheongju_Heungdeok",
+            "shorten_url":"https:\/\/me2.do\/FLDvfBsL"
         },
         {
             "index":38,
@@ -514,7 +556,8 @@
             "value_score":65.0095,
             "region":"충청북도 청주시 흥덕구",
             "region_code":"Chungcheongbukdo",
-            "sub_region_code":"4311300000_Chungcheongbukdo_Cheongju_Heungdeok"
+            "sub_region_code":"4311300000_Chungcheongbukdo_Cheongju_Heungdeok",
+            "shorten_url":"https:\/\/me2.do\/FLDvfBsL"
         },
         {
             "index":39,
@@ -526,7 +569,8 @@
             "value_score":64.5095,
             "region":"충청북도 청주시 흥덕구",
             "region_code":"Chungcheongbukdo",
-            "sub_region_code":"4311300000_Chungcheongbukdo_Cheongju_Heungdeok"
+            "sub_region_code":"4311300000_Chungcheongbukdo_Cheongju_Heungdeok",
+            "shorten_url":"https:\/\/me2.do\/FLDvfBsL"
         }
     ]
 }

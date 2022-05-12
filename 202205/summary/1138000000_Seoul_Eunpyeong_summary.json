@@ -40,6 +40,10 @@
             {
                 "name":"sub_region_code",
                 "type":"string"
+            },
+            {
+                "name":"shorten_url",
+                "type":"string"
             }
         ],
         "primaryKey":[
@@ -58,7 +62,8 @@
             "value_score":62.1981,
             "region":"서울시 은평구",
             "region_code":"Seoul",
-            "sub_region_code":"1138000000_Seoul_Eunpyeong"
+            "sub_region_code":"1138000000_Seoul_Eunpyeong",
+            "shorten_url":"https:\/\/me2.do\/xTlFAah1"
         },
         {
             "index":1,
@@ -70,7 +75,8 @@
             "value_score":62.1823,
             "region":"서울시 은평구",
             "region_code":"Seoul",
-            "sub_region_code":"1138000000_Seoul_Eunpyeong"
+            "sub_region_code":"1138000000_Seoul_Eunpyeong",
+            "shorten_url":"https:\/\/me2.do\/xTlFAah1"
         },
         {
             "index":2,
@@ -82,7 +88,8 @@
             "value_score":61.2216907647,
             "region":"서울시 은평구",
             "region_code":"Seoul",
-            "sub_region_code":"1138000000_Seoul_Eunpyeong"
+            "sub_region_code":"1138000000_Seoul_Eunpyeong",
+            "shorten_url":"https:\/\/me2.do\/xTlFAah1"
         },
         {
             "index":3,
@@ -94,7 +101,8 @@
             "value_score":59.5909,
             "region":"서울시 은평구",
             "region_code":"Seoul",
-            "sub_region_code":"1138000000_Seoul_Eunpyeong"
+            "sub_region_code":"1138000000_Seoul_Eunpyeong",
+            "shorten_url":"https:\/\/me2.do\/xTlFAah1"
         },
         {
             "index":4,
@@ -106,7 +114,8 @@
             "value_score":59.5019,
             "region":"서울시 은평구",
             "region_code":"Seoul",
-            "sub_region_code":"1138000000_Seoul_Eunpyeong"
+            "sub_region_code":"1138000000_Seoul_Eunpyeong",
+            "shorten_url":"https:\/\/me2.do\/xTlFAah1"
         },
         {
             "index":5,
@@ -118,7 +127,8 @@
             "value_score":58.7323,
             "region":"서울시 은평구",
             "region_code":"Seoul",
-            "sub_region_code":"1138000000_Seoul_Eunpyeong"
+            "sub_region_code":"1138000000_Seoul_Eunpyeong",
+            "shorten_url":"https:\/\/me2.do\/xTlFAah1"
         },
         {
             "index":6,
@@ -130,7 +140,8 @@
             "value_score":58.2019,
             "region":"서울시 은평구",
             "region_code":"Seoul",
-            "sub_region_code":"1138000000_Seoul_Eunpyeong"
+            "sub_region_code":"1138000000_Seoul_Eunpyeong",
+            "shorten_url":"https:\/\/me2.do\/xTlFAah1"
         },
         {
             "index":7,
@@ -142,7 +153,8 @@
             "value_score":57.9171,
             "region":"서울시 은평구",
             "region_code":"Seoul",
-            "sub_region_code":"1138000000_Seoul_Eunpyeong"
+            "sub_region_code":"1138000000_Seoul_Eunpyeong",
+            "shorten_url":"https:\/\/me2.do\/xTlFAah1"
         },
         {
             "index":8,
@@ -154,7 +166,8 @@
             "value_score":57.5741,
             "region":"서울시 은평구",
             "region_code":"Seoul",
-            "sub_region_code":"1138000000_Seoul_Eunpyeong"
+            "sub_region_code":"1138000000_Seoul_Eunpyeong",
+            "shorten_url":"https:\/\/me2.do\/xTlFAah1"
         },
         {
             "index":9,
@@ -166,7 +179,8 @@
             "value_score":57.3323,
             "region":"서울시 은평구",
             "region_code":"Seoul",
-            "sub_region_code":"1138000000_Seoul_Eunpyeong"
+            "sub_region_code":"1138000000_Seoul_Eunpyeong",
+            "shorten_url":"https:\/\/me2.do\/xTlFAah1"
         },
         {
             "index":10,
@@ -178,7 +192,8 @@
             "value_score":64.9382,
             "region":"서울시 은평구",
             "region_code":"Seoul",
-            "sub_region_code":"1138000000_Seoul_Eunpyeong"
+            "sub_region_code":"1138000000_Seoul_Eunpyeong",
+            "shorten_url":"https:\/\/me2.do\/xTlFAah1"
         },
         {
             "index":11,
@@ -190,7 +205,8 @@
             "value_score":64.8144605098,
             "region":"서울시 은평구",
             "region_code":"Seoul",
-            "sub_region_code":"1138000000_Seoul_Eunpyeong"
+            "sub_region_code":"1138000000_Seoul_Eunpyeong",
+            "shorten_url":"https:\/\/me2.do\/xTlFAah1"
         },
         {
             "index":12,
@@ -202,7 +218,8 @@
             "value_score":63.3206,
             "region":"서울시 은평구",
             "region_code":"Seoul",
-            "sub_region_code":"1138000000_Seoul_Eunpyeong"
+            "sub_region_code":"1138000000_Seoul_Eunpyeong",
+            "shorten_url":"https:\/\/me2.do\/xTlFAah1"
         },
         {
             "index":13,
@@ -214,7 +231,8 @@
             "value_score":63.2882,
             "region":"서울시 은평구",
             "region_code":"Seoul",
-            "sub_region_code":"1138000000_Seoul_Eunpyeong"
+            "sub_region_code":"1138000000_Seoul_Eunpyeong",
+            "shorten_url":"https:\/\/me2.do\/xTlFAah1"
         },
         {
             "index":14,
@@ -226,7 +244,8 @@
             "value_score":63.2154,
             "region":"서울시 은평구",
             "region_code":"Seoul",
-            "sub_region_code":"1138000000_Seoul_Eunpyeong"
+            "sub_region_code":"1138000000_Seoul_Eunpyeong",
+            "shorten_url":"https:\/\/me2.do\/xTlFAah1"
         },
         {
             "index":15,
@@ -238,7 +257,8 @@
             "value_score":62.9882,
             "region":"서울시 은평구",
             "region_code":"Seoul",
-            "sub_region_code":"1138000000_Seoul_Eunpyeong"
+            "sub_region_code":"1138000000_Seoul_Eunpyeong",
+            "shorten_url":"https:\/\/me2.do\/xTlFAah1"
         },
         {
             "index":16,
@@ -250,7 +270,8 @@
             "value_score":61.4088,
             "region":"서울시 은평구",
             "region_code":"Seoul",
-            "sub_region_code":"1138000000_Seoul_Eunpyeong"
+            "sub_region_code":"1138000000_Seoul_Eunpyeong",
+            "shorten_url":"https:\/\/me2.do\/xTlFAah1"
         },
         {
             "index":17,
@@ -262,7 +283,8 @@
             "value_score":61.0114,
             "region":"서울시 은평구",
             "region_code":"Seoul",
-            "sub_region_code":"1138000000_Seoul_Eunpyeong"
+            "sub_region_code":"1138000000_Seoul_Eunpyeong",
+            "shorten_url":"https:\/\/me2.do\/xTlFAah1"
         },
         {
             "index":18,
@@ -274,7 +296,8 @@
             "value_score":60.6346,
             "region":"서울시 은평구",
             "region_code":"Seoul",
-            "sub_region_code":"1138000000_Seoul_Eunpyeong"
+            "sub_region_code":"1138000000_Seoul_Eunpyeong",
+            "shorten_url":"https:\/\/me2.do\/xTlFAah1"
         },
         {
             "index":19,
@@ -286,7 +309,8 @@
             "value_score":60.0945751202,
             "region":"서울시 은평구",
             "region_code":"Seoul",
-            "sub_region_code":"1138000000_Seoul_Eunpyeong"
+            "sub_region_code":"1138000000_Seoul_Eunpyeong",
+            "shorten_url":"https:\/\/me2.do\/xTlFAah1"
         },
         {
             "index":20,
@@ -298,7 +322,8 @@
             "value_score":63.84115,
             "region":"서울시 은평구",
             "region_code":"Seoul",
-            "sub_region_code":"1138000000_Seoul_Eunpyeong"
+            "sub_region_code":"1138000000_Seoul_Eunpyeong",
+            "shorten_url":"https:\/\/me2.do\/xTlFAah1"
         },
         {
             "index":21,
@@ -310,7 +335,8 @@
             "value_score":62.70095,
             "region":"서울시 은평구",
             "region_code":"Seoul",
-            "sub_region_code":"1138000000_Seoul_Eunpyeong"
+            "sub_region_code":"1138000000_Seoul_Eunpyeong",
+            "shorten_url":"https:\/\/me2.do\/xTlFAah1"
         },
         {
             "index":22,
@@ -322,7 +348,8 @@
             "value_score":62.14905,
             "region":"서울시 은평구",
             "region_code":"Seoul",
-            "sub_region_code":"1138000000_Seoul_Eunpyeong"
+            "sub_region_code":"1138000000_Seoul_Eunpyeong",
+            "shorten_url":"https:\/\/me2.do\/xTlFAah1"
         },
         {
             "index":23,
@@ -334,7 +361,8 @@
             "value_score":61.96615,
             "region":"서울시 은평구",
             "region_code":"Seoul",
-            "sub_region_code":"1138000000_Seoul_Eunpyeong"
+            "sub_region_code":"1138000000_Seoul_Eunpyeong",
+            "shorten_url":"https:\/\/me2.do\/xTlFAah1"
         },
         {
             "index":24,
@@ -346,7 +374,8 @@
             "value_score":61.65545,
             "region":"서울시 은평구",
             "region_code":"Seoul",
-            "sub_region_code":"1138000000_Seoul_Eunpyeong"
+            "sub_region_code":"1138000000_Seoul_Eunpyeong",
+            "shorten_url":"https:\/\/me2.do\/xTlFAah1"
         },
         {
             "index":25,
@@ -358,7 +387,8 @@
             "value_score":61.2108453823,
             "region":"서울시 은평구",
             "region_code":"Seoul",
-            "sub_region_code":"1138000000_Seoul_Eunpyeong"
+            "sub_region_code":"1138000000_Seoul_Eunpyeong",
+            "shorten_url":"https:\/\/me2.do\/xTlFAah1"
         },
         {
             "index":26,
@@ -370,7 +400,8 @@
             "value_score":61.20545,
             "region":"서울시 은평구",
             "region_code":"Seoul",
-            "sub_region_code":"1138000000_Seoul_Eunpyeong"
+            "sub_region_code":"1138000000_Seoul_Eunpyeong",
+            "shorten_url":"https:\/\/me2.do\/xTlFAah1"
         },
         {
             "index":27,
@@ -382,7 +413,8 @@
             "value_score":60.45855,
             "region":"서울시 은평구",
             "region_code":"Seoul",
-            "sub_region_code":"1138000000_Seoul_Eunpyeong"
+            "sub_region_code":"1138000000_Seoul_Eunpyeong",
+            "shorten_url":"https:\/\/me2.do\/xTlFAah1"
         },
         {
             "index":28,
@@ -394,7 +426,8 @@
             "value_score":59.93355,
             "region":"서울시 은평구",
             "region_code":"Seoul",
-            "sub_region_code":"1138000000_Seoul_Eunpyeong"
+            "sub_region_code":"1138000000_Seoul_Eunpyeong",
+            "shorten_url":"https:\/\/me2.do\/xTlFAah1"
         },
         {
             "index":29,
@@ -406,7 +439,8 @@
             "value_score":59.63705,
             "region":"서울시 은평구",
             "region_code":"Seoul",
-            "sub_region_code":"1138000000_Seoul_Eunpyeong"
+            "sub_region_code":"1138000000_Seoul_Eunpyeong",
+            "shorten_url":"https:\/\/me2.do\/xTlFAah1"
         },
         {
             "index":30,
@@ -418,7 +452,8 @@
             "value_score":55.80675,
             "region":"서울시 은평구",
             "region_code":"Seoul",
-            "sub_region_code":"1138000000_Seoul_Eunpyeong"
+            "sub_region_code":"1138000000_Seoul_Eunpyeong",
+            "shorten_url":"https:\/\/me2.do\/xTlFAah1"
         },
         {
             "index":31,
@@ -430,7 +465,8 @@
             "value_score":53.01175,
             "region":"서울시 은평구",
             "region_code":"Seoul",
-            "sub_region_code":"1138000000_Seoul_Eunpyeong"
+            "sub_region_code":"1138000000_Seoul_Eunpyeong",
+            "shorten_url":"https:\/\/me2.do\/xTlFAah1"
         },
         {
             "index":32,
@@ -442,7 +478,8 @@
             "value_score":52.46825,
             "region":"서울시 은평구",
             "region_code":"Seoul",
-            "sub_region_code":"1138000000_Seoul_Eunpyeong"
+            "sub_region_code":"1138000000_Seoul_Eunpyeong",
+            "shorten_url":"https:\/\/me2.do\/xTlFAah1"
         },
         {
             "index":33,
@@ -454,7 +491,8 @@
             "value_score":52.2180756372,
             "region":"서울시 은평구",
             "region_code":"Seoul",
-            "sub_region_code":"1138000000_Seoul_Eunpyeong"
+            "sub_region_code":"1138000000_Seoul_Eunpyeong",
+            "shorten_url":"https:\/\/me2.do\/xTlFAah1"
         },
         {
             "index":34,
@@ -466,7 +504,8 @@
             "value_score":52.21175,
             "region":"서울시 은평구",
             "region_code":"Seoul",
-            "sub_region_code":"1138000000_Seoul_Eunpyeong"
+            "sub_region_code":"1138000000_Seoul_Eunpyeong",
+            "shorten_url":"https:\/\/me2.do\/xTlFAah1"
         },
         {
             "index":35,
@@ -478,7 +517,8 @@
             "value_score":52.16025,
             "region":"서울시 은평구",
             "region_code":"Seoul",
-            "sub_region_code":"1138000000_Seoul_Eunpyeong"
+            "sub_region_code":"1138000000_Seoul_Eunpyeong",
+            "shorten_url":"https:\/\/me2.do\/xTlFAah1"
         },
         {
             "index":36,
@@ -490,7 +530,8 @@
             "value_score":51.31175,
             "region":"서울시 은평구",
             "region_code":"Seoul",
-            "sub_region_code":"1138000000_Seoul_Eunpyeong"
+            "sub_region_code":"1138000000_Seoul_Eunpyeong",
+            "shorten_url":"https:\/\/me2.do\/xTlFAah1"
         },
         {
             "index":37,
@@ -502,7 +543,8 @@
             "value_score":51.09575,
             "region":"서울시 은평구",
             "region_code":"Seoul",
-            "sub_region_code":"1138000000_Seoul_Eunpyeong"
+            "sub_region_code":"1138000000_Seoul_Eunpyeong",
+            "shorten_url":"https:\/\/me2.do\/xTlFAah1"
         },
         {
             "index":38,
@@ -514,7 +556,8 @@
             "value_score":50.219,
             "region":"서울시 은평구",
             "region_code":"Seoul",
-            "sub_region_code":"1138000000_Seoul_Eunpyeong"
+            "sub_region_code":"1138000000_Seoul_Eunpyeong",
+            "shorten_url":"https:\/\/me2.do\/xTlFAah1"
         },
         {
             "index":39,
@@ -526,7 +569,8 @@
             "value_score":49.51825,
             "region":"서울시 은평구",
             "region_code":"Seoul",
-            "sub_region_code":"1138000000_Seoul_Eunpyeong"
+            "sub_region_code":"1138000000_Seoul_Eunpyeong",
+            "shorten_url":"https:\/\/me2.do\/xTlFAah1"
         },
         {
             "index":40,
@@ -538,7 +582,8 @@
             "value_score":61.2135,
             "region":"서울시 은평구",
             "region_code":"Seoul",
-            "sub_region_code":"1138000000_Seoul_Eunpyeong"
+            "sub_region_code":"1138000000_Seoul_Eunpyeong",
+            "shorten_url":"https:\/\/me2.do\/xTlFAah1"
         },
         {
             "index":41,
@@ -550,7 +595,8 @@
             "value_score":58.3205,
             "region":"서울시 은평구",
             "region_code":"Seoul",
-            "sub_region_code":"1138000000_Seoul_Eunpyeong"
+            "sub_region_code":"1138000000_Seoul_Eunpyeong",
+            "shorten_url":"https:\/\/me2.do\/xTlFAah1"
         },
         {
             "index":42,
@@ -562,7 +608,8 @@
             "value_score":57.6361512745,
             "region":"서울시 은평구",
             "region_code":"Seoul",
-            "sub_region_code":"1138000000_Seoul_Eunpyeong"
+            "sub_region_code":"1138000000_Seoul_Eunpyeong",
+            "shorten_url":"https:\/\/me2.do\/xTlFAah1"
         },
         {
             "index":43,
@@ -574,7 +621,8 @@
             "value_score":57.3365,
             "region":"서울시 은평구",
             "region_code":"Seoul",
-            "sub_region_code":"1138000000_Seoul_Eunpyeong"
+            "sub_region_code":"1138000000_Seoul_Eunpyeong",
+            "shorten_url":"https:\/\/me2.do\/xTlFAah1"
         },
         {
             "index":44,
@@ -586,7 +634,8 @@
             "value_score":57.2235,
             "region":"서울시 은평구",
             "region_code":"Seoul",
-            "sub_region_code":"1138000000_Seoul_Eunpyeong"
+            "sub_region_code":"1138000000_Seoul_Eunpyeong",
+            "shorten_url":"https:\/\/me2.do\/xTlFAah1"
         },
         {
             "index":45,
@@ -598,7 +647,8 @@
             "value_score":56.6365,
             "region":"서울시 은평구",
             "region_code":"Seoul",
-            "sub_region_code":"1138000000_Seoul_Eunpyeong"
+            "sub_region_code":"1138000000_Seoul_Eunpyeong",
+            "shorten_url":"https:\/\/me2.do\/xTlFAah1"
         },
         {
             "index":46,
@@ -610,7 +660,8 @@
             "value_score":56.2205,
             "region":"서울시 은평구",
             "region_code":"Seoul",
-            "sub_region_code":"1138000000_Seoul_Eunpyeong"
+            "sub_region_code":"1138000000_Seoul_Eunpyeong",
+            "shorten_url":"https:\/\/me2.do\/xTlFAah1"
         },
         {
             "index":47,
@@ -622,7 +673,8 @@
             "value_score":56.038,
             "region":"서울시 은평구",
             "region_code":"Seoul",
-            "sub_region_code":"1138000000_Seoul_Eunpyeong"
+            "sub_region_code":"1138000000_Seoul_Eunpyeong",
+            "shorten_url":"https:\/\/me2.do\/xTlFAah1"
         },
         {
             "index":48,
@@ -634,7 +686,8 @@
             "value_score":56.0315,
             "region":"서울시 은평구",
             "region_code":"Seoul",
-            "sub_region_code":"1138000000_Seoul_Eunpyeong"
+            "sub_region_code":"1138000000_Seoul_Eunpyeong",
+            "shorten_url":"https:\/\/me2.do\/xTlFAah1"
         },
         {
             "index":49,
@@ -646,7 +699,8 @@
             "value_score":55.6235,
             "region":"서울시 은평구",
             "region_code":"Seoul",
-            "sub_region_code":"1138000000_Seoul_Eunpyeong"
+            "sub_region_code":"1138000000_Seoul_Eunpyeong",
+            "shorten_url":"https:\/\/me2.do\/xTlFAah1"
         }
     ]
 }

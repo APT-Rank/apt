@@ -40,6 +40,10 @@
             {
                 "name":"sub_region_code",
                 "type":"string"
+            },
+            {
+                "name":"shorten_url",
+                "type":"string"
             }
         ],
         "primaryKey":[
@@ -58,7 +62,8 @@
             "value_score":48.94455,
             "region":"충청남도 부여군",
             "region_code":"Chungcheongnamdo",
-            "sub_region_code":"4476000000_Chungcheongnamdo_Buyeo"
+            "sub_region_code":"4476000000_Chungcheongnamdo_Buyeo",
+            "shorten_url":"https:\/\/me2.do\/52MVpPVA"
         },
         {
             "index":1,
@@ -70,7 +75,8 @@
             "value_score":46.54455,
             "region":"충청남도 부여군",
             "region_code":"Chungcheongnamdo",
-            "sub_region_code":"4476000000_Chungcheongnamdo_Buyeo"
+            "sub_region_code":"4476000000_Chungcheongnamdo_Buyeo",
+            "shorten_url":"https:\/\/me2.do\/52MVpPVA"
         },
         {
             "index":2,
@@ -82,7 +88,8 @@
             "value_score":40.9103,
             "region":"충청남도 부여군",
             "region_code":"Chungcheongnamdo",
-            "sub_region_code":"4476000000_Chungcheongnamdo_Buyeo"
+            "sub_region_code":"4476000000_Chungcheongnamdo_Buyeo",
+            "shorten_url":"https:\/\/me2.do\/52MVpPVA"
         },
         {
             "index":3,
@@ -94,7 +101,8 @@
             "value_score":38.9103,
             "region":"충청남도 부여군",
             "region_code":"Chungcheongnamdo",
-            "sub_region_code":"4476000000_Chungcheongnamdo_Buyeo"
+            "sub_region_code":"4476000000_Chungcheongnamdo_Buyeo",
+            "shorten_url":"https:\/\/me2.do\/52MVpPVA"
         },
         {
             "index":4,
@@ -106,7 +114,8 @@
             "value_score":33.14455,
             "region":"충청남도 부여군",
             "region_code":"Chungcheongnamdo",
-            "sub_region_code":"4476000000_Chungcheongnamdo_Buyeo"
+            "sub_region_code":"4476000000_Chungcheongnamdo_Buyeo",
+            "shorten_url":"https:\/\/me2.do\/52MVpPVA"
         },
         {
             "index":5,
@@ -118,7 +127,8 @@
             "value_score":32.34455,
             "region":"충청남도 부여군",
             "region_code":"Chungcheongnamdo",
-            "sub_region_code":"4476000000_Chungcheongnamdo_Buyeo"
+            "sub_region_code":"4476000000_Chungcheongnamdo_Buyeo",
+            "shorten_url":"https:\/\/me2.do\/52MVpPVA"
         },
         {
             "index":6,
@@ -130,7 +140,8 @@
             "value_score":31.7984,
             "region":"충청남도 부여군",
             "region_code":"Chungcheongnamdo",
-            "sub_region_code":"4476000000_Chungcheongnamdo_Buyeo"
+            "sub_region_code":"4476000000_Chungcheongnamdo_Buyeo",
+            "shorten_url":"https:\/\/me2.do\/52MVpPVA"
         },
         {
             "index":7,
@@ -142,7 +153,8 @@
             "value_score":30.7103,
             "region":"충청남도 부여군",
             "region_code":"Chungcheongnamdo",
-            "sub_region_code":"4476000000_Chungcheongnamdo_Buyeo"
+            "sub_region_code":"4476000000_Chungcheongnamdo_Buyeo",
+            "shorten_url":"https:\/\/me2.do\/52MVpPVA"
         },
         {
             "index":8,
@@ -154,7 +166,8 @@
             "value_score":28.34455,
             "region":"충청남도 부여군",
             "region_code":"Chungcheongnamdo",
-            "sub_region_code":"4476000000_Chungcheongnamdo_Buyeo"
+            "sub_region_code":"4476000000_Chungcheongnamdo_Buyeo",
+            "shorten_url":"https:\/\/me2.do\/52MVpPVA"
         },
         {
             "index":9,
@@ -166,7 +179,8 @@
             "value_score":24.34455,
             "region":"충청남도 부여군",
             "region_code":"Chungcheongnamdo",
-            "sub_region_code":"4476000000_Chungcheongnamdo_Buyeo"
+            "sub_region_code":"4476000000_Chungcheongnamdo_Buyeo",
+            "shorten_url":"https:\/\/me2.do\/52MVpPVA"
         },
         {
             "index":10,
@@ -178,7 +192,8 @@
             "value_score":51.45325,
             "region":"충청남도 부여군",
             "region_code":"Chungcheongnamdo",
-            "sub_region_code":"4476000000_Chungcheongnamdo_Buyeo"
+            "sub_region_code":"4476000000_Chungcheongnamdo_Buyeo",
+            "shorten_url":"https:\/\/me2.do\/52MVpPVA"
         },
         {
             "index":11,
@@ -190,7 +205,8 @@
             "value_score":48.60325,
             "region":"충청남도 부여군",
             "region_code":"Chungcheongnamdo",
-            "sub_region_code":"4476000000_Chungcheongnamdo_Buyeo"
+            "sub_region_code":"4476000000_Chungcheongnamdo_Buyeo",
+            "shorten_url":"https:\/\/me2.do\/52MVpPVA"
         },
         {
             "index":12,
@@ -202,7 +218,8 @@
             "value_score":41.3645,
             "region":"충청남도 부여군",
             "region_code":"Chungcheongnamdo",
-            "sub_region_code":"4476000000_Chungcheongnamdo_Buyeo"
+            "sub_region_code":"4476000000_Chungcheongnamdo_Buyeo",
+            "shorten_url":"https:\/\/me2.do\/52MVpPVA"
         },
         {
             "index":13,
@@ -214,7 +231,8 @@
             "value_score":38.8645,
             "region":"충청남도 부여군",
             "region_code":"Chungcheongnamdo",
-            "sub_region_code":"4476000000_Chungcheongnamdo_Buyeo"
+            "sub_region_code":"4476000000_Chungcheongnamdo_Buyeo",
+            "shorten_url":"https:\/\/me2.do\/52MVpPVA"
         },
         {
             "index":14,
@@ -226,7 +244,8 @@
             "value_score":33.10325,
             "region":"충청남도 부여군",
             "region_code":"Chungcheongnamdo",
-            "sub_region_code":"4476000000_Chungcheongnamdo_Buyeo"
+            "sub_region_code":"4476000000_Chungcheongnamdo_Buyeo",
+            "shorten_url":"https:\/\/me2.do\/52MVpPVA"
         },
         {
             "index":15,
@@ -238,7 +257,8 @@
             "value_score":31.60325,
             "region":"충청남도 부여군",
             "region_code":"Chungcheongnamdo",
-            "sub_region_code":"4476000000_Chungcheongnamdo_Buyeo"
+            "sub_region_code":"4476000000_Chungcheongnamdo_Buyeo",
+            "shorten_url":"https:\/\/me2.do\/52MVpPVA"
         },
         {
             "index":16,
@@ -250,7 +270,8 @@
             "value_score":31.106,
             "region":"충청남도 부여군",
             "region_code":"Chungcheongnamdo",
-            "sub_region_code":"4476000000_Chungcheongnamdo_Buyeo"
+            "sub_region_code":"4476000000_Chungcheongnamdo_Buyeo",
+            "shorten_url":"https:\/\/me2.do\/52MVpPVA"
         },
         {
             "index":17,
@@ -262,7 +283,8 @@
             "value_score":28.6145,
             "region":"충청남도 부여군",
             "region_code":"Chungcheongnamdo",
-            "sub_region_code":"4476000000_Chungcheongnamdo_Buyeo"
+            "sub_region_code":"4476000000_Chungcheongnamdo_Buyeo",
+            "shorten_url":"https:\/\/me2.do\/52MVpPVA"
         },
         {
             "index":18,
@@ -274,7 +296,8 @@
             "value_score":25.70325,
             "region":"충청남도 부여군",
             "region_code":"Chungcheongnamdo",
-            "sub_region_code":"4476000000_Chungcheongnamdo_Buyeo"
+            "sub_region_code":"4476000000_Chungcheongnamdo_Buyeo",
+            "shorten_url":"https:\/\/me2.do\/52MVpPVA"
         },
         {
             "index":19,
@@ -286,7 +309,8 @@
             "value_score":22.10325,
             "region":"충청남도 부여군",
             "region_code":"Chungcheongnamdo",
-            "sub_region_code":"4476000000_Chungcheongnamdo_Buyeo"
+            "sub_region_code":"4476000000_Chungcheongnamdo_Buyeo",
+            "shorten_url":"https:\/\/me2.do\/52MVpPVA"
         },
         {
             "index":20,
@@ -298,7 +322,8 @@
             "value_score":36.7883157895,
             "region":"충청남도 부여군",
             "region_code":"Chungcheongnamdo",
-            "sub_region_code":"4476000000_Chungcheongnamdo_Buyeo"
+            "sub_region_code":"4476000000_Chungcheongnamdo_Buyeo",
+            "shorten_url":"https:\/\/me2.do\/52MVpPVA"
         },
         {
             "index":21,
@@ -310,7 +335,8 @@
             "value_score":34.8146315789,
             "region":"충청남도 부여군",
             "region_code":"Chungcheongnamdo",
-            "sub_region_code":"4476000000_Chungcheongnamdo_Buyeo"
+            "sub_region_code":"4476000000_Chungcheongnamdo_Buyeo",
+            "shorten_url":"https:\/\/me2.do\/52MVpPVA"
         },
         {
             "index":22,
@@ -322,7 +348,8 @@
             "value_score":33.8814736842,
             "region":"충청남도 부여군",
             "region_code":"Chungcheongnamdo",
-            "sub_region_code":"4476000000_Chungcheongnamdo_Buyeo"
+            "sub_region_code":"4476000000_Chungcheongnamdo_Buyeo",
+            "shorten_url":"https:\/\/me2.do\/52MVpPVA"
         },
         {
             "index":23,
@@ -334,7 +361,8 @@
             "value_score":33.092,
             "region":"충청남도 부여군",
             "region_code":"Chungcheongnamdo",
-            "sub_region_code":"4476000000_Chungcheongnamdo_Buyeo"
+            "sub_region_code":"4476000000_Chungcheongnamdo_Buyeo",
+            "shorten_url":"https:\/\/me2.do\/52MVpPVA"
         },
         {
             "index":24,
@@ -346,7 +374,8 @@
             "value_score":29.8551578947,
             "region":"충청남도 부여군",
             "region_code":"Chungcheongnamdo",
-            "sub_region_code":"4476000000_Chungcheongnamdo_Buyeo"
+            "sub_region_code":"4476000000_Chungcheongnamdo_Buyeo",
+            "shorten_url":"https:\/\/me2.do\/52MVpPVA"
         },
         {
             "index":25,
@@ -358,7 +387,8 @@
             "value_score":28.6567368421,
             "region":"충청남도 부여군",
             "region_code":"Chungcheongnamdo",
-            "sub_region_code":"4476000000_Chungcheongnamdo_Buyeo"
+            "sub_region_code":"4476000000_Chungcheongnamdo_Buyeo",
+            "shorten_url":"https:\/\/me2.do\/52MVpPVA"
         },
         {
             "index":26,
@@ -370,7 +400,8 @@
             "value_score":24.7917894737,
             "region":"충청남도 부여군",
             "region_code":"Chungcheongnamdo",
-            "sub_region_code":"4476000000_Chungcheongnamdo_Buyeo"
+            "sub_region_code":"4476000000_Chungcheongnamdo_Buyeo",
+            "shorten_url":"https:\/\/me2.do\/52MVpPVA"
         },
         {
             "index":27,
@@ -382,7 +413,8 @@
             "value_score":24.0777894737,
             "region":"충청남도 부여군",
             "region_code":"Chungcheongnamdo",
-            "sub_region_code":"4476000000_Chungcheongnamdo_Buyeo"
+            "sub_region_code":"4476000000_Chungcheongnamdo_Buyeo",
+            "shorten_url":"https:\/\/me2.do\/52MVpPVA"
         },
         {
             "index":28,
@@ -394,7 +426,8 @@
             "value_score":20.9725263158,
             "region":"충청남도 부여군",
             "region_code":"Chungcheongnamdo",
-            "sub_region_code":"4476000000_Chungcheongnamdo_Buyeo"
+            "sub_region_code":"4476000000_Chungcheongnamdo_Buyeo",
+            "shorten_url":"https:\/\/me2.do\/52MVpPVA"
         },
         {
             "index":29,
@@ -406,7 +439,8 @@
             "value_score":17.4988421053,
             "region":"충청남도 부여군",
             "region_code":"Chungcheongnamdo",
-            "sub_region_code":"4476000000_Chungcheongnamdo_Buyeo"
+            "sub_region_code":"4476000000_Chungcheongnamdo_Buyeo",
+            "shorten_url":"https:\/\/me2.do\/52MVpPVA"
         },
         {
             "index":30,
@@ -418,7 +452,8 @@
             "value_score":45.1815,
             "region":"충청남도 부여군",
             "region_code":"Chungcheongnamdo",
-            "sub_region_code":"4476000000_Chungcheongnamdo_Buyeo"
+            "sub_region_code":"4476000000_Chungcheongnamdo_Buyeo",
+            "shorten_url":"https:\/\/me2.do\/52MVpPVA"
         },
         {
             "index":31,
@@ -430,7 +465,8 @@
             "value_score":43.4565,
             "region":"충청남도 부여군",
             "region_code":"Chungcheongnamdo",
-            "sub_region_code":"4476000000_Chungcheongnamdo_Buyeo"
+            "sub_region_code":"4476000000_Chungcheongnamdo_Buyeo",
+            "shorten_url":"https:\/\/me2.do\/52MVpPVA"
         },
         {
             "index":32,
@@ -442,7 +478,8 @@
             "value_score":40.229,
             "region":"충청남도 부여군",
             "region_code":"Chungcheongnamdo",
-            "sub_region_code":"4476000000_Chungcheongnamdo_Buyeo"
+            "sub_region_code":"4476000000_Chungcheongnamdo_Buyeo",
+            "shorten_url":"https:\/\/me2.do\/52MVpPVA"
         },
         {
             "index":33,
@@ -454,7 +491,8 @@
             "value_score":38.979,
             "region":"충청남도 부여군",
             "region_code":"Chungcheongnamdo",
-            "sub_region_code":"4476000000_Chungcheongnamdo_Buyeo"
+            "sub_region_code":"4476000000_Chungcheongnamdo_Buyeo",
+            "shorten_url":"https:\/\/me2.do\/52MVpPVA"
         },
         {
             "index":34,
@@ -466,7 +504,8 @@
             "value_score":33.854,
             "region":"충청남도 부여군",
             "region_code":"Chungcheongnamdo",
-            "sub_region_code":"4476000000_Chungcheongnamdo_Buyeo"
+            "sub_region_code":"4476000000_Chungcheongnamdo_Buyeo",
+            "shorten_url":"https:\/\/me2.do\/52MVpPVA"
         },
         {
             "index":35,
@@ -478,7 +517,8 @@
             "value_score":33.4565,
             "region":"충청남도 부여군",
             "region_code":"Chungcheongnamdo",
-            "sub_region_code":"4476000000_Chungcheongnamdo_Buyeo"
+            "sub_region_code":"4476000000_Chungcheongnamdo_Buyeo",
+            "shorten_url":"https:\/\/me2.do\/52MVpPVA"
         },
         {
             "index":36,
@@ -490,7 +530,8 @@
             "value_score":33.2065,
             "region":"충청남도 부여군",
             "region_code":"Chungcheongnamdo",
-            "sub_region_code":"4476000000_Chungcheongnamdo_Buyeo"
+            "sub_region_code":"4476000000_Chungcheongnamdo_Buyeo",
+            "shorten_url":"https:\/\/me2.do\/52MVpPVA"
         },
         {
             "index":37,
@@ -502,7 +543,8 @@
             "value_score":32.837,
             "region":"충청남도 부여군",
             "region_code":"Chungcheongnamdo",
-            "sub_region_code":"4476000000_Chungcheongnamdo_Buyeo"
+            "sub_region_code":"4476000000_Chungcheongnamdo_Buyeo",
+            "shorten_url":"https:\/\/me2.do\/52MVpPVA"
         },
         {
             "index":38,
@@ -514,7 +556,8 @@
             "value_score":32.3065,
             "region":"충청남도 부여군",
             "region_code":"Chungcheongnamdo",
-            "sub_region_code":"4476000000_Chungcheongnamdo_Buyeo"
+            "sub_region_code":"4476000000_Chungcheongnamdo_Buyeo",
+            "shorten_url":"https:\/\/me2.do\/52MVpPVA"
         },
         {
             "index":39,
@@ -526,7 +569,8 @@
             "value_score":27.7065,
             "region":"충청남도 부여군",
             "region_code":"Chungcheongnamdo",
-            "sub_region_code":"4476000000_Chungcheongnamdo_Buyeo"
+            "sub_region_code":"4476000000_Chungcheongnamdo_Buyeo",
+            "shorten_url":"https:\/\/me2.do\/52MVpPVA"
         }
     ]
 }

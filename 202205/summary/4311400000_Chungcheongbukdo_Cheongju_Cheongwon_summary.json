@@ -40,6 +40,10 @@
             {
                 "name":"sub_region_code",
                 "type":"string"
+            },
+            {
+                "name":"shorten_url",
+                "type":"string"
             }
         ],
         "primaryKey":[
@@ -58,7 +62,8 @@
             "value_score":63.95325,
             "region":"충청북도 청주시 청원구",
             "region_code":"Chungcheongbukdo",
-            "sub_region_code":"4311400000_Chungcheongbukdo_Cheongju_Cheongwon"
+            "sub_region_code":"4311400000_Chungcheongbukdo_Cheongju_Cheongwon",
+            "shorten_url":"https:\/\/me2.do\/FRrv5D1N"
         },
         {
             "index":1,
@@ -70,7 +75,8 @@
             "value_score":62.55325,
             "region":"충청북도 청주시 청원구",
             "region_code":"Chungcheongbukdo",
-            "sub_region_code":"4311400000_Chungcheongbukdo_Cheongju_Cheongwon"
+            "sub_region_code":"4311400000_Chungcheongbukdo_Cheongju_Cheongwon",
+            "shorten_url":"https:\/\/me2.do\/FRrv5D1N"
         },
         {
             "index":2,
@@ -82,7 +88,8 @@
             "value_score":60.80325,
             "region":"충청북도 청주시 청원구",
             "region_code":"Chungcheongbukdo",
-            "sub_region_code":"4311400000_Chungcheongbukdo_Cheongju_Cheongwon"
+            "sub_region_code":"4311400000_Chungcheongbukdo_Cheongju_Cheongwon",
+            "shorten_url":"https:\/\/me2.do\/FRrv5D1N"
         },
         {
             "index":3,
@@ -94,7 +101,8 @@
             "value_score":58.45175,
             "region":"충청북도 청주시 청원구",
             "region_code":"Chungcheongbukdo",
-            "sub_region_code":"4311400000_Chungcheongbukdo_Cheongju_Cheongwon"
+            "sub_region_code":"4311400000_Chungcheongbukdo_Cheongju_Cheongwon",
+            "shorten_url":"https:\/\/me2.do\/FRrv5D1N"
         },
         {
             "index":4,
@@ -106,7 +114,8 @@
             "value_score":58.35325,
             "region":"충청북도 청주시 청원구",
             "region_code":"Chungcheongbukdo",
-            "sub_region_code":"4311400000_Chungcheongbukdo_Cheongju_Cheongwon"
+            "sub_region_code":"4311400000_Chungcheongbukdo_Cheongju_Cheongwon",
+            "shorten_url":"https:\/\/me2.do\/FRrv5D1N"
         },
         {
             "index":5,
@@ -118,7 +127,8 @@
             "value_score":58.10325,
             "region":"충청북도 청주시 청원구",
             "region_code":"Chungcheongbukdo",
-            "sub_region_code":"4311400000_Chungcheongbukdo_Cheongju_Cheongwon"
+            "sub_region_code":"4311400000_Chungcheongbukdo_Cheongju_Cheongwon",
+            "shorten_url":"https:\/\/me2.do\/FRrv5D1N"
         },
         {
             "index":6,
@@ -130,7 +140,8 @@
             "value_score":56.70175,
             "region":"충청북도 청주시 청원구",
             "region_code":"Chungcheongbukdo",
-            "sub_region_code":"4311400000_Chungcheongbukdo_Cheongju_Cheongwon"
+            "sub_region_code":"4311400000_Chungcheongbukdo_Cheongju_Cheongwon",
+            "shorten_url":"https:\/\/me2.do\/FRrv5D1N"
         },
         {
             "index":7,
@@ -142,7 +153,8 @@
             "value_score":55.20325,
             "region":"충청북도 청주시 청원구",
             "region_code":"Chungcheongbukdo",
-            "sub_region_code":"4311400000_Chungcheongbukdo_Cheongju_Cheongwon"
+            "sub_region_code":"4311400000_Chungcheongbukdo_Cheongju_Cheongwon",
+            "shorten_url":"https:\/\/me2.do\/FRrv5D1N"
         },
         {
             "index":8,
@@ -154,7 +166,8 @@
             "value_score":55.03035,
             "region":"충청북도 청주시 청원구",
             "region_code":"Chungcheongbukdo",
-            "sub_region_code":"4311400000_Chungcheongbukdo_Cheongju_Cheongwon"
+            "sub_region_code":"4311400000_Chungcheongbukdo_Cheongju_Cheongwon",
+            "shorten_url":"https:\/\/me2.do\/FRrv5D1N"
         },
         {
             "index":9,
@@ -166,7 +179,8 @@
             "value_score":54.95535,
             "region":"충청북도 청주시 청원구",
             "region_code":"Chungcheongbukdo",
-            "sub_region_code":"4311400000_Chungcheongbukdo_Cheongju_Cheongwon"
+            "sub_region_code":"4311400000_Chungcheongbukdo_Cheongju_Cheongwon",
+            "shorten_url":"https:\/\/me2.do\/FRrv5D1N"
         },
         {
             "index":10,
@@ -178,7 +192,8 @@
             "value_score":65.57375,
             "region":"충청북도 청주시 청원구",
             "region_code":"Chungcheongbukdo",
-            "sub_region_code":"4311400000_Chungcheongbukdo_Cheongju_Cheongwon"
+            "sub_region_code":"4311400000_Chungcheongbukdo_Cheongju_Cheongwon",
+            "shorten_url":"https:\/\/me2.do\/FRrv5D1N"
         },
         {
             "index":11,
@@ -190,7 +205,8 @@
             "value_score":63.82375,
             "region":"충청북도 청주시 청원구",
             "region_code":"Chungcheongbukdo",
-            "sub_region_code":"4311400000_Chungcheongbukdo_Cheongju_Cheongwon"
+            "sub_region_code":"4311400000_Chungcheongbukdo_Cheongju_Cheongwon",
+            "shorten_url":"https:\/\/me2.do\/FRrv5D1N"
         },
         {
             "index":12,
@@ -202,7 +218,8 @@
             "value_score":62.07375,
             "region":"충청북도 청주시 청원구",
             "region_code":"Chungcheongbukdo",
-            "sub_region_code":"4311400000_Chungcheongbukdo_Cheongju_Cheongwon"
+            "sub_region_code":"4311400000_Chungcheongbukdo_Cheongju_Cheongwon",
+            "shorten_url":"https:\/\/me2.do\/FRrv5D1N"
         },
         {
             "index":13,
@@ -214,7 +231,8 @@
             "value_score":61.75125,
             "region":"충청북도 청주시 청원구",
             "region_code":"Chungcheongbukdo",
-            "sub_region_code":"4311400000_Chungcheongbukdo_Cheongju_Cheongwon"
+            "sub_region_code":"4311400000_Chungcheongbukdo_Cheongju_Cheongwon",
+            "shorten_url":"https:\/\/me2.do\/FRrv5D1N"
         },
         {
             "index":14,
@@ -226,7 +244,8 @@
             "value_score":60.00125,
             "region":"충청북도 청주시 청원구",
             "region_code":"Chungcheongbukdo",
-            "sub_region_code":"4311400000_Chungcheongbukdo_Cheongju_Cheongwon"
+            "sub_region_code":"4311400000_Chungcheongbukdo_Cheongju_Cheongwon",
+            "shorten_url":"https:\/\/me2.do\/FRrv5D1N"
         },
         {
             "index":15,
@@ -238,7 +257,8 @@
             "value_score":58.82525,
             "region":"충청북도 청주시 청원구",
             "region_code":"Chungcheongbukdo",
-            "sub_region_code":"4311400000_Chungcheongbukdo_Cheongju_Cheongwon"
+            "sub_region_code":"4311400000_Chungcheongbukdo_Cheongju_Cheongwon",
+            "shorten_url":"https:\/\/me2.do\/FRrv5D1N"
         },
         {
             "index":16,
@@ -250,7 +270,8 @@
             "value_score":58.67375,
             "region":"충청북도 청주시 청원구",
             "region_code":"Chungcheongbukdo",
-            "sub_region_code":"4311400000_Chungcheongbukdo_Cheongju_Cheongwon"
+            "sub_region_code":"4311400000_Chungcheongbukdo_Cheongju_Cheongwon",
+            "shorten_url":"https:\/\/me2.do\/FRrv5D1N"
         },
         {
             "index":17,
@@ -262,7 +283,8 @@
             "value_score":58.57375,
             "region":"충청북도 청주시 청원구",
             "region_code":"Chungcheongbukdo",
-            "sub_region_code":"4311400000_Chungcheongbukdo_Cheongju_Cheongwon"
+            "sub_region_code":"4311400000_Chungcheongbukdo_Cheongju_Cheongwon",
+            "shorten_url":"https:\/\/me2.do\/FRrv5D1N"
         },
         {
             "index":18,
@@ -274,7 +296,8 @@
             "value_score":58.17525,
             "region":"충청북도 청주시 청원구",
             "region_code":"Chungcheongbukdo",
-            "sub_region_code":"4311400000_Chungcheongbukdo_Cheongju_Cheongwon"
+            "sub_region_code":"4311400000_Chungcheongbukdo_Cheongju_Cheongwon",
+            "shorten_url":"https:\/\/me2.do\/FRrv5D1N"
         },
         {
             "index":19,
@@ -286,7 +309,8 @@
             "value_score":57.92375,
             "region":"충청북도 청주시 청원구",
             "region_code":"Chungcheongbukdo",
-            "sub_region_code":"4311400000_Chungcheongbukdo_Cheongju_Cheongwon"
+            "sub_region_code":"4311400000_Chungcheongbukdo_Cheongju_Cheongwon",
+            "shorten_url":"https:\/\/me2.do\/FRrv5D1N"
         },
         {
             "index":20,
@@ -298,7 +322,8 @@
             "value_score":53.5931578947,
             "region":"충청북도 청주시 청원구",
             "region_code":"Chungcheongbukdo",
-            "sub_region_code":"4311400000_Chungcheongbukdo_Cheongju_Cheongwon"
+            "sub_region_code":"4311400000_Chungcheongbukdo_Cheongju_Cheongwon",
+            "shorten_url":"https:\/\/me2.do\/FRrv5D1N"
         },
         {
             "index":21,
@@ -310,7 +335,8 @@
             "value_score":53.5931578947,
             "region":"충청북도 청주시 청원구",
             "region_code":"Chungcheongbukdo",
-            "sub_region_code":"4311400000_Chungcheongbukdo_Cheongju_Cheongwon"
+            "sub_region_code":"4311400000_Chungcheongbukdo_Cheongju_Cheongwon",
+            "shorten_url":"https:\/\/me2.do\/FRrv5D1N"
         },
         {
             "index":22,
@@ -322,7 +348,8 @@
             "value_score":53.0405263158,
             "region":"충청북도 청주시 청원구",
             "region_code":"Chungcheongbukdo",
-            "sub_region_code":"4311400000_Chungcheongbukdo_Cheongju_Cheongwon"
+            "sub_region_code":"4311400000_Chungcheongbukdo_Cheongju_Cheongwon",
+            "shorten_url":"https:\/\/me2.do\/FRrv5D1N"
         },
         {
             "index":23,
@@ -334,7 +361,8 @@
             "value_score":51.3826315789,
             "region":"충청북도 청주시 청원구",
             "region_code":"Chungcheongbukdo",
-            "sub_region_code":"4311400000_Chungcheongbukdo_Cheongju_Cheongwon"
+            "sub_region_code":"4311400000_Chungcheongbukdo_Cheongju_Cheongwon",
+            "shorten_url":"https:\/\/me2.do\/FRrv5D1N"
         },
         {
             "index":24,
@@ -346,7 +374,8 @@
             "value_score":49.3563157895,
             "region":"충청북도 청주시 청원구",
             "region_code":"Chungcheongbukdo",
-            "sub_region_code":"4311400000_Chungcheongbukdo_Cheongju_Cheongwon"
+            "sub_region_code":"4311400000_Chungcheongbukdo_Cheongju_Cheongwon",
+            "shorten_url":"https:\/\/me2.do\/FRrv5D1N"
         },
         {
             "index":25,
@@ -358,7 +387,8 @@
             "value_score":49.2773684211,
             "region":"충청북도 청주시 청원구",
             "region_code":"Chungcheongbukdo",
-            "sub_region_code":"4311400000_Chungcheongbukdo_Cheongju_Cheongwon"
+            "sub_region_code":"4311400000_Chungcheongbukdo_Cheongju_Cheongwon",
+            "shorten_url":"https:\/\/me2.do\/FRrv5D1N"
         },
         {
             "index":26,
@@ -370,7 +400,8 @@
             "value_score":48.5278947368,
             "region":"충청북도 청주시 청원구",
             "region_code":"Chungcheongbukdo",
-            "sub_region_code":"4311400000_Chungcheongbukdo_Cheongju_Cheongwon"
+            "sub_region_code":"4311400000_Chungcheongbukdo_Cheongju_Cheongwon",
+            "shorten_url":"https:\/\/me2.do\/FRrv5D1N"
         },
         {
             "index":27,
@@ -382,7 +413,8 @@
             "value_score":47.8563157895,
             "region":"충청북도 청주시 청원구",
             "region_code":"Chungcheongbukdo",
-            "sub_region_code":"4311400000_Chungcheongbukdo_Cheongju_Cheongwon"
+            "sub_region_code":"4311400000_Chungcheongbukdo_Cheongju_Cheongwon",
+            "shorten_url":"https:\/\/me2.do\/FRrv5D1N"
         },
         {
             "index":28,
@@ -394,7 +426,8 @@
             "value_score":47.3036842105,
             "region":"충청북도 청주시 청원구",
             "region_code":"Chungcheongbukdo",
-            "sub_region_code":"4311400000_Chungcheongbukdo_Cheongju_Cheongwon"
+            "sub_region_code":"4311400000_Chungcheongbukdo_Cheongju_Cheongwon",
+            "shorten_url":"https:\/\/me2.do\/FRrv5D1N"
         },
         {
             "index":29,
@@ -406,7 +439,8 @@
             "value_score":46.9182105263,
             "region":"충청북도 청주시 청원구",
             "region_code":"Chungcheongbukdo",
-            "sub_region_code":"4311400000_Chungcheongbukdo_Cheongju_Cheongwon"
+            "sub_region_code":"4311400000_Chungcheongbukdo_Cheongju_Cheongwon",
+            "shorten_url":"https:\/\/me2.do\/FRrv5D1N"
         },
         {
             "index":30,
@@ -418,7 +452,8 @@
             "value_score":61.5225,
             "region":"충청북도 청주시 청원구",
             "region_code":"Chungcheongbukdo",
-            "sub_region_code":"4311400000_Chungcheongbukdo_Cheongju_Cheongwon"
+            "sub_region_code":"4311400000_Chungcheongbukdo_Cheongju_Cheongwon",
+            "shorten_url":"https:\/\/me2.do\/FRrv5D1N"
         },
         {
             "index":31,
@@ -430,7 +465,8 @@
             "value_score":60.6475,
             "region":"충청북도 청주시 청원구",
             "region_code":"Chungcheongbukdo",
-            "sub_region_code":"4311400000_Chungcheongbukdo_Cheongju_Cheongwon"
+            "sub_region_code":"4311400000_Chungcheongbukdo_Cheongju_Cheongwon",
+            "shorten_url":"https:\/\/me2.do\/FRrv5D1N"
         },
         {
             "index":32,
@@ -442,7 +478,8 @@
             "value_score":58.8975,
             "region":"충청북도 청주시 청원구",
             "region_code":"Chungcheongbukdo",
-            "sub_region_code":"4311400000_Chungcheongbukdo_Cheongju_Cheongwon"
+            "sub_region_code":"4311400000_Chungcheongbukdo_Cheongju_Cheongwon",
+            "shorten_url":"https:\/\/me2.do\/FRrv5D1N"
         },
         {
             "index":33,
@@ -454,7 +491,8 @@
             "value_score":58.3725,
             "region":"충청북도 청주시 청원구",
             "region_code":"Chungcheongbukdo",
-            "sub_region_code":"4311400000_Chungcheongbukdo_Cheongju_Cheongwon"
+            "sub_region_code":"4311400000_Chungcheongbukdo_Cheongju_Cheongwon",
+            "shorten_url":"https:\/\/me2.do\/FRrv5D1N"
         },
         {
             "index":34,
@@ -466,7 +504,8 @@
             "value_score":58.0225,
             "region":"충청북도 청주시 청원구",
             "region_code":"Chungcheongbukdo",
-            "sub_region_code":"4311400000_Chungcheongbukdo_Cheongju_Cheongwon"
+            "sub_region_code":"4311400000_Chungcheongbukdo_Cheongju_Cheongwon",
+            "shorten_url":"https:\/\/me2.do\/FRrv5D1N"
         },
         {
             "index":35,
@@ -478,7 +517,8 @@
             "value_score":54.0255,
             "region":"충청북도 청주시 청원구",
             "region_code":"Chungcheongbukdo",
-            "sub_region_code":"4311400000_Chungcheongbukdo_Cheongju_Cheongwon"
+            "sub_region_code":"4311400000_Chungcheongbukdo_Cheongju_Cheongwon",
+            "shorten_url":"https:\/\/me2.do\/FRrv5D1N"
         },
         {
             "index":36,
@@ -490,7 +530,8 @@
             "value_score":53.5025,
             "region":"충청북도 청주시 청원구",
             "region_code":"Chungcheongbukdo",
-            "sub_region_code":"4311400000_Chungcheongbukdo_Cheongju_Cheongwon"
+            "sub_region_code":"4311400000_Chungcheongbukdo_Cheongju_Cheongwon",
+            "shorten_url":"https:\/\/me2.do\/FRrv5D1N"
         },
         {
             "index":37,
@@ -502,7 +543,8 @@
             "value_score":53.2755,
             "region":"충청북도 청주시 청원구",
             "region_code":"Chungcheongbukdo",
-            "sub_region_code":"4311400000_Chungcheongbukdo_Cheongju_Cheongwon"
+            "sub_region_code":"4311400000_Chungcheongbukdo_Cheongju_Cheongwon",
+            "shorten_url":"https:\/\/me2.do\/FRrv5D1N"
         },
         {
             "index":38,
@@ -514,7 +556,8 @@
             "value_score":53.2755,
             "region":"충청북도 청주시 청원구",
             "region_code":"Chungcheongbukdo",
-            "sub_region_code":"4311400000_Chungcheongbukdo_Cheongju_Cheongwon"
+            "sub_region_code":"4311400000_Chungcheongbukdo_Cheongju_Cheongwon",
+            "shorten_url":"https:\/\/me2.do\/FRrv5D1N"
         },
         {
             "index":39,
@@ -526,7 +569,8 @@
             "value_score":53.0255,
             "region":"충청북도 청주시 청원구",
             "region_code":"Chungcheongbukdo",
-            "sub_region_code":"4311400000_Chungcheongbukdo_Cheongju_Cheongwon"
+            "sub_region_code":"4311400000_Chungcheongbukdo_Cheongju_Cheongwon",
+            "shorten_url":"https:\/\/me2.do\/FRrv5D1N"
         }
     ]
 }

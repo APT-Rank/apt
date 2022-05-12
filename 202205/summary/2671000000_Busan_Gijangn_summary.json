@@ -40,6 +40,10 @@
             {
                 "name":"sub_region_code",
                 "type":"string"
+            },
+            {
+                "name":"shorten_url",
+                "type":"string"
             }
         ],
         "primaryKey":[
@@ -58,7 +62,8 @@
             "value_score":50.7757,
             "region":"부산시 기장군",
             "region_code":"Busan",
-            "sub_region_code":"2671000000_Busan_Gijangn"
+            "sub_region_code":"2671000000_Busan_Gijangn",
+            "shorten_url":"https:\/\/me2.do\/FshXYgvZ"
         },
         {
             "index":1,
@@ -70,7 +75,8 @@
             "value_score":46.823,
             "region":"부산시 기장군",
             "region_code":"Busan",
-            "sub_region_code":"2671000000_Busan_Gijangn"
+            "sub_region_code":"2671000000_Busan_Gijangn",
+            "shorten_url":"https:\/\/me2.do\/FshXYgvZ"
         },
         {
             "index":2,
@@ -82,7 +88,8 @@
             "value_score":45.7457,
             "region":"부산시 기장군",
             "region_code":"Busan",
-            "sub_region_code":"2671000000_Busan_Gijangn"
+            "sub_region_code":"2671000000_Busan_Gijangn",
+            "shorten_url":"https:\/\/me2.do\/FshXYgvZ"
         },
         {
             "index":3,
@@ -94,7 +101,8 @@
             "value_score":45.323,
             "region":"부산시 기장군",
             "region_code":"Busan",
-            "sub_region_code":"2671000000_Busan_Gijangn"
+            "sub_region_code":"2671000000_Busan_Gijangn",
+            "shorten_url":"https:\/\/me2.do\/FshXYgvZ"
         },
         {
             "index":4,
@@ -106,7 +114,8 @@
             "value_score":45.223,
             "region":"부산시 기장군",
             "region_code":"Busan",
-            "sub_region_code":"2671000000_Busan_Gijangn"
+            "sub_region_code":"2671000000_Busan_Gijangn",
+            "shorten_url":"https:\/\/me2.do\/FshXYgvZ"
         },
         {
             "index":5,
@@ -118,7 +127,8 @@
             "value_score":45.0457,
             "region":"부산시 기장군",
             "region_code":"Busan",
-            "sub_region_code":"2671000000_Busan_Gijangn"
+            "sub_region_code":"2671000000_Busan_Gijangn",
+            "shorten_url":"https:\/\/me2.do\/FshXYgvZ"
         },
         {
             "index":6,
@@ -130,7 +140,8 @@
             "value_score":44.473,
             "region":"부산시 기장군",
             "region_code":"Busan",
-            "sub_region_code":"2671000000_Busan_Gijangn"
+            "sub_region_code":"2671000000_Busan_Gijangn",
+            "shorten_url":"https:\/\/me2.do\/FshXYgvZ"
         },
         {
             "index":7,
@@ -142,7 +153,8 @@
             "value_score":44.373,
             "region":"부산시 기장군",
             "region_code":"Busan",
-            "sub_region_code":"2671000000_Busan_Gijangn"
+            "sub_region_code":"2671000000_Busan_Gijangn",
+            "shorten_url":"https:\/\/me2.do\/FshXYgvZ"
         },
         {
             "index":8,
@@ -154,7 +166,8 @@
             "value_score":44.0781,
             "region":"부산시 기장군",
             "region_code":"Busan",
-            "sub_region_code":"2671000000_Busan_Gijangn"
+            "sub_region_code":"2671000000_Busan_Gijangn",
+            "shorten_url":"https:\/\/me2.do\/FshXYgvZ"
         },
         {
             "index":9,
@@ -166,7 +179,8 @@
             "value_score":44.0642,
             "region":"부산시 기장군",
             "region_code":"Busan",
-            "sub_region_code":"2671000000_Busan_Gijangn"
+            "sub_region_code":"2671000000_Busan_Gijangn",
+            "shorten_url":"https:\/\/me2.do\/FshXYgvZ"
         },
         {
             "index":10,
@@ -178,7 +192,8 @@
             "value_score":58.0938,
             "region":"부산시 기장군",
             "region_code":"Busan",
-            "sub_region_code":"2671000000_Busan_Gijangn"
+            "sub_region_code":"2671000000_Busan_Gijangn",
+            "shorten_url":"https:\/\/me2.do\/FshXYgvZ"
         },
         {
             "index":11,
@@ -190,7 +205,8 @@
             "value_score":57.282,
             "region":"부산시 기장군",
             "region_code":"Busan",
-            "sub_region_code":"2671000000_Busan_Gijangn"
+            "sub_region_code":"2671000000_Busan_Gijangn",
+            "shorten_url":"https:\/\/me2.do\/FshXYgvZ"
         },
         {
             "index":12,
@@ -202,7 +218,8 @@
             "value_score":55.732,
             "region":"부산시 기장군",
             "region_code":"Busan",
-            "sub_region_code":"2671000000_Busan_Gijangn"
+            "sub_region_code":"2671000000_Busan_Gijangn",
+            "shorten_url":"https:\/\/me2.do\/FshXYgvZ"
         },
         {
             "index":13,
@@ -214,7 +231,8 @@
             "value_score":55.632,
             "region":"부산시 기장군",
             "region_code":"Busan",
-            "sub_region_code":"2671000000_Busan_Gijangn"
+            "sub_region_code":"2671000000_Busan_Gijangn",
+            "shorten_url":"https:\/\/me2.do\/FshXYgvZ"
         },
         {
             "index":14,
@@ -226,7 +244,8 @@
             "value_score":55.182,
             "region":"부산시 기장군",
             "region_code":"Busan",
-            "sub_region_code":"2671000000_Busan_Gijangn"
+            "sub_region_code":"2671000000_Busan_Gijangn",
+            "shorten_url":"https:\/\/me2.do\/FshXYgvZ"
         },
         {
             "index":15,
@@ -238,7 +257,8 @@
             "value_score":55.082,
             "region":"부산시 기장군",
             "region_code":"Busan",
-            "sub_region_code":"2671000000_Busan_Gijangn"
+            "sub_region_code":"2671000000_Busan_Gijangn",
+            "shorten_url":"https:\/\/me2.do\/FshXYgvZ"
         },
         {
             "index":16,
@@ -250,7 +270,8 @@
             "value_score":55.082,
             "region":"부산시 기장군",
             "region_code":"Busan",
-            "sub_region_code":"2671000000_Busan_Gijangn"
+            "sub_region_code":"2671000000_Busan_Gijangn",
+            "shorten_url":"https:\/\/me2.do\/FshXYgvZ"
         },
         {
             "index":17,
@@ -262,7 +283,8 @@
             "value_score":53.882,
             "region":"부산시 기장군",
             "region_code":"Busan",
-            "sub_region_code":"2671000000_Busan_Gijangn"
+            "sub_region_code":"2671000000_Busan_Gijangn",
+            "shorten_url":"https:\/\/me2.do\/FshXYgvZ"
         },
         {
             "index":18,
@@ -274,7 +296,8 @@
             "value_score":53.2638,
             "region":"부산시 기장군",
             "region_code":"Busan",
-            "sub_region_code":"2671000000_Busan_Gijangn"
+            "sub_region_code":"2671000000_Busan_Gijangn",
+            "shorten_url":"https:\/\/me2.do\/FshXYgvZ"
         },
         {
             "index":19,
@@ -286,7 +309,8 @@
             "value_score":52.832,
             "region":"부산시 기장군",
             "region_code":"Busan",
-            "sub_region_code":"2671000000_Busan_Gijangn"
+            "sub_region_code":"2671000000_Busan_Gijangn",
+            "shorten_url":"https:\/\/me2.do\/FshXYgvZ"
         },
         {
             "index":20,
@@ -298,7 +322,8 @@
             "value_score":48.02785,
             "region":"부산시 기장군",
             "region_code":"Busan",
-            "sub_region_code":"2671000000_Busan_Gijangn"
+            "sub_region_code":"2671000000_Busan_Gijangn",
+            "shorten_url":"https:\/\/me2.do\/FshXYgvZ"
         },
         {
             "index":21,
@@ -310,7 +335,8 @@
             "value_score":46.74785,
             "region":"부산시 기장군",
             "region_code":"Busan",
-            "sub_region_code":"2671000000_Busan_Gijangn"
+            "sub_region_code":"2671000000_Busan_Gijangn",
+            "shorten_url":"https:\/\/me2.do\/FshXYgvZ"
         },
         {
             "index":22,
@@ -322,7 +348,8 @@
             "value_score":46.33905,
             "region":"부산시 기장군",
             "region_code":"Busan",
-            "sub_region_code":"2671000000_Busan_Gijangn"
+            "sub_region_code":"2671000000_Busan_Gijangn",
+            "shorten_url":"https:\/\/me2.do\/FshXYgvZ"
         },
         {
             "index":23,
@@ -334,7 +361,8 @@
             "value_score":45.33905,
             "region":"부산시 기장군",
             "region_code":"Busan",
-            "sub_region_code":"2671000000_Busan_Gijangn"
+            "sub_region_code":"2671000000_Busan_Gijangn",
+            "shorten_url":"https:\/\/me2.do\/FshXYgvZ"
         },
         {
             "index":24,
@@ -346,7 +374,8 @@
             "value_score":44.79785,
             "region":"부산시 기장군",
             "region_code":"Busan",
-            "sub_region_code":"2671000000_Busan_Gijangn"
+            "sub_region_code":"2671000000_Busan_Gijangn",
+            "shorten_url":"https:\/\/me2.do\/FshXYgvZ"
         },
         {
             "index":25,
@@ -358,7 +387,8 @@
             "value_score":43.04785,
             "region":"부산시 기장군",
             "region_code":"Busan",
-            "sub_region_code":"2671000000_Busan_Gijangn"
+            "sub_region_code":"2671000000_Busan_Gijangn",
+            "shorten_url":"https:\/\/me2.do\/FshXYgvZ"
         },
         {
             "index":26,
@@ -370,7 +400,8 @@
             "value_score":39.92285,
             "region":"부산시 기장군",
             "region_code":"Busan",
-            "sub_region_code":"2671000000_Busan_Gijangn"
+            "sub_region_code":"2671000000_Busan_Gijangn",
+            "shorten_url":"https:\/\/me2.do\/FshXYgvZ"
         },
         {
             "index":27,
@@ -382,7 +413,8 @@
             "value_score":39.47285,
             "region":"부산시 기장군",
             "region_code":"Busan",
-            "sub_region_code":"2671000000_Busan_Gijangn"
+            "sub_region_code":"2671000000_Busan_Gijangn",
+            "shorten_url":"https:\/\/me2.do\/FshXYgvZ"
         },
         {
             "index":28,
@@ -394,7 +426,8 @@
             "value_score":39.2321,
             "region":"부산시 기장군",
             "region_code":"Busan",
-            "sub_region_code":"2671000000_Busan_Gijangn"
+            "sub_region_code":"2671000000_Busan_Gijangn",
+            "shorten_url":"https:\/\/me2.do\/FshXYgvZ"
         },
         {
             "index":29,
@@ -406,7 +439,8 @@
             "value_score":38.32285,
             "region":"부산시 기장군",
             "region_code":"Busan",
-            "sub_region_code":"2671000000_Busan_Gijangn"
+            "sub_region_code":"2671000000_Busan_Gijangn",
+            "shorten_url":"https:\/\/me2.do\/FshXYgvZ"
         },
         {
             "index":30,
@@ -418,7 +452,8 @@
             "value_score":34.9535,
             "region":"부산시 기장군",
             "region_code":"Busan",
-            "sub_region_code":"2671000000_Busan_Gijangn"
+            "sub_region_code":"2671000000_Busan_Gijangn",
+            "shorten_url":"https:\/\/me2.do\/FshXYgvZ"
         },
         {
             "index":31,
@@ -430,7 +465,8 @@
             "value_score":34.0525,
             "region":"부산시 기장군",
             "region_code":"Busan",
-            "sub_region_code":"2671000000_Busan_Gijangn"
+            "sub_region_code":"2671000000_Busan_Gijangn",
+            "shorten_url":"https:\/\/me2.do\/FshXYgvZ"
         },
         {
             "index":32,
@@ -442,7 +478,8 @@
             "value_score":32.8035,
             "region":"부산시 기장군",
             "region_code":"Busan",
-            "sub_region_code":"2671000000_Busan_Gijangn"
+            "sub_region_code":"2671000000_Busan_Gijangn",
+            "shorten_url":"https:\/\/me2.do\/FshXYgvZ"
         },
         {
             "index":33,
@@ -454,7 +491,8 @@
             "value_score":32.4025,
             "region":"부산시 기장군",
             "region_code":"Busan",
-            "sub_region_code":"2671000000_Busan_Gijangn"
+            "sub_region_code":"2671000000_Busan_Gijangn",
+            "shorten_url":"https:\/\/me2.do\/FshXYgvZ"
         },
         {
             "index":34,
@@ -466,7 +504,8 @@
             "value_score":32.2525,
             "region":"부산시 기장군",
             "region_code":"Busan",
-            "sub_region_code":"2671000000_Busan_Gijangn"
+            "sub_region_code":"2671000000_Busan_Gijangn",
+            "shorten_url":"https:\/\/me2.do\/FshXYgvZ"
         },
         {
             "index":35,
@@ -478,7 +517,8 @@
             "value_score":32.0025,
             "region":"부산시 기장군",
             "region_code":"Busan",
-            "sub_region_code":"2671000000_Busan_Gijangn"
+            "sub_region_code":"2671000000_Busan_Gijangn",
+            "shorten_url":"https:\/\/me2.do\/FshXYgvZ"
         },
         {
             "index":36,
@@ -490,7 +530,8 @@
             "value_score":31.5525,
             "region":"부산시 기장군",
             "region_code":"Busan",
-            "sub_region_code":"2671000000_Busan_Gijangn"
+            "sub_region_code":"2671000000_Busan_Gijangn",
+            "shorten_url":"https:\/\/me2.do\/FshXYgvZ"
         },
         {
             "index":37,
@@ -502,7 +543,8 @@
             "value_score":30.9525,
             "region":"부산시 기장군",
             "region_code":"Busan",
-            "sub_region_code":"2671000000_Busan_Gijangn"
+            "sub_region_code":"2671000000_Busan_Gijangn",
+            "shorten_url":"https:\/\/me2.do\/FshXYgvZ"
         },
         {
             "index":38,
@@ -514,7 +556,8 @@
             "value_score":30.8525,
             "region":"부산시 기장군",
             "region_code":"Busan",
-            "sub_region_code":"2671000000_Busan_Gijangn"
+            "sub_region_code":"2671000000_Busan_Gijangn",
+            "shorten_url":"https:\/\/me2.do\/FshXYgvZ"
         },
         {
             "index":39,
@@ -526,7 +569,8 @@
             "value_score":30.8025,
             "region":"부산시 기장군",
             "region_code":"Busan",
-            "sub_region_code":"2671000000_Busan_Gijangn"
+            "sub_region_code":"2671000000_Busan_Gijangn",
+            "shorten_url":"https:\/\/me2.do\/FshXYgvZ"
         },
         {
             "index":40,
@@ -538,7 +582,8 @@
             "value_score":50.505,
             "region":"부산시 기장군",
             "region_code":"Busan",
-            "sub_region_code":"2671000000_Busan_Gijangn"
+            "sub_region_code":"2671000000_Busan_Gijangn",
+            "shorten_url":"https:\/\/me2.do\/FshXYgvZ"
         },
         {
             "index":41,
@@ -550,7 +595,8 @@
             "value_score":50.005,
             "region":"부산시 기장군",
             "region_code":"Busan",
-            "sub_region_code":"2671000000_Busan_Gijangn"
+            "sub_region_code":"2671000000_Busan_Gijangn",
+            "shorten_url":"https:\/\/me2.do\/FshXYgvZ"
         },
         {
             "index":42,
@@ -562,7 +608,8 @@
             "value_score":49.305,
             "region":"부산시 기장군",
             "region_code":"Busan",
-            "sub_region_code":"2671000000_Busan_Gijangn"
+            "sub_region_code":"2671000000_Busan_Gijangn",
+            "shorten_url":"https:\/\/me2.do\/FshXYgvZ"
         },
         {
             "index":43,
@@ -574,7 +621,8 @@
             "value_score":49.205,
             "region":"부산시 기장군",
             "region_code":"Busan",
-            "sub_region_code":"2671000000_Busan_Gijangn"
+            "sub_region_code":"2671000000_Busan_Gijangn",
+            "shorten_url":"https:\/\/me2.do\/FshXYgvZ"
         },
         {
             "index":44,
@@ -586,7 +634,8 @@
             "value_score":48.005,
             "region":"부산시 기장군",
             "region_code":"Busan",
-            "sub_region_code":"2671000000_Busan_Gijangn"
+            "sub_region_code":"2671000000_Busan_Gijangn",
+            "shorten_url":"https:\/\/me2.do\/FshXYgvZ"
         },
         {
             "index":45,
@@ -598,7 +647,8 @@
             "value_score":47.805,
             "region":"부산시 기장군",
             "region_code":"Busan",
-            "sub_region_code":"2671000000_Busan_Gijangn"
+            "sub_region_code":"2671000000_Busan_Gijangn",
+            "shorten_url":"https:\/\/me2.do\/FshXYgvZ"
         },
         {
             "index":46,
@@ -610,7 +660,8 @@
             "value_score":47.605,
             "region":"부산시 기장군",
             "region_code":"Busan",
-            "sub_region_code":"2671000000_Busan_Gijangn"
+            "sub_region_code":"2671000000_Busan_Gijangn",
+            "shorten_url":"https:\/\/me2.do\/FshXYgvZ"
         },
         {
             "index":47,
@@ -622,7 +673,8 @@
             "value_score":47.205,
             "region":"부산시 기장군",
             "region_code":"Busan",
-            "sub_region_code":"2671000000_Busan_Gijangn"
+            "sub_region_code":"2671000000_Busan_Gijangn",
+            "shorten_url":"https:\/\/me2.do\/FshXYgvZ"
         },
         {
             "index":48,
@@ -634,7 +686,8 @@
             "value_score":47.105,
             "region":"부산시 기장군",
             "region_code":"Busan",
-            "sub_region_code":"2671000000_Busan_Gijangn"
+            "sub_region_code":"2671000000_Busan_Gijangn",
+            "shorten_url":"https:\/\/me2.do\/FshXYgvZ"
         },
         {
             "index":49,
@@ -646,7 +699,8 @@
             "value_score":47.105,
             "region":"부산시 기장군",
             "region_code":"Busan",
-            "sub_region_code":"2671000000_Busan_Gijangn"
+            "sub_region_code":"2671000000_Busan_Gijangn",
+            "shorten_url":"https:\/\/me2.do\/FshXYgvZ"
         }
     ]
 }

@@ -40,6 +40,10 @@
             {
                 "name":"sub_region_code",
                 "type":"string"
+            },
+            {
+                "name":"shorten_url",
+                "type":"string"
             }
         ],
         "primaryKey":[
@@ -58,7 +62,8 @@
             "value_score":72.6327,
             "region":"서울시 동작구",
             "region_code":"Seoul",
-            "sub_region_code":"1159000000_Seoul_Dongjak"
+            "sub_region_code":"1159000000_Seoul_Dongjak",
+            "shorten_url":"https:\/\/me2.do\/GOCm8i3q"
         },
         {
             "index":1,
@@ -70,7 +75,8 @@
             "value_score":67.1747,
             "region":"서울시 동작구",
             "region_code":"Seoul",
-            "sub_region_code":"1159000000_Seoul_Dongjak"
+            "sub_region_code":"1159000000_Seoul_Dongjak",
+            "shorten_url":"https:\/\/me2.do\/GOCm8i3q"
         },
         {
             "index":2,
@@ -82,7 +88,8 @@
             "value_score":67.0747,
             "region":"서울시 동작구",
             "region_code":"Seoul",
-            "sub_region_code":"1159000000_Seoul_Dongjak"
+            "sub_region_code":"1159000000_Seoul_Dongjak",
+            "shorten_url":"https:\/\/me2.do\/GOCm8i3q"
         },
         {
             "index":3,
@@ -94,7 +101,8 @@
             "value_score":66.2286,
             "region":"서울시 동작구",
             "region_code":"Seoul",
-            "sub_region_code":"1159000000_Seoul_Dongjak"
+            "sub_region_code":"1159000000_Seoul_Dongjak",
+            "shorten_url":"https:\/\/me2.do\/GOCm8i3q"
         },
         {
             "index":4,
@@ -106,7 +114,8 @@
             "value_score":66.1069,
             "region":"서울시 동작구",
             "region_code":"Seoul",
-            "sub_region_code":"1159000000_Seoul_Dongjak"
+            "sub_region_code":"1159000000_Seoul_Dongjak",
+            "shorten_url":"https:\/\/me2.do\/GOCm8i3q"
         },
         {
             "index":5,
@@ -118,7 +127,8 @@
             "value_score":65.3986,
             "region":"서울시 동작구",
             "region_code":"Seoul",
-            "sub_region_code":"1159000000_Seoul_Dongjak"
+            "sub_region_code":"1159000000_Seoul_Dongjak",
+            "shorten_url":"https:\/\/me2.do\/GOCm8i3q"
         },
         {
             "index":6,
@@ -130,7 +140,8 @@
             "value_score":65.2939,
             "region":"서울시 동작구",
             "region_code":"Seoul",
-            "sub_region_code":"1159000000_Seoul_Dongjak"
+            "sub_region_code":"1159000000_Seoul_Dongjak",
+            "shorten_url":"https:\/\/me2.do\/GOCm8i3q"
         },
         {
             "index":7,
@@ -142,7 +153,8 @@
             "value_score":64.9343,
             "region":"서울시 동작구",
             "region_code":"Seoul",
-            "sub_region_code":"1159000000_Seoul_Dongjak"
+            "sub_region_code":"1159000000_Seoul_Dongjak",
+            "shorten_url":"https:\/\/me2.do\/GOCm8i3q"
         },
         {
             "index":8,
@@ -154,7 +166,8 @@
             "value_score":64.3247,
             "region":"서울시 동작구",
             "region_code":"Seoul",
-            "sub_region_code":"1159000000_Seoul_Dongjak"
+            "sub_region_code":"1159000000_Seoul_Dongjak",
+            "shorten_url":"https:\/\/me2.do\/GOCm8i3q"
         },
         {
             "index":9,
@@ -166,7 +179,8 @@
             "value_score":62.4439,
             "region":"서울시 동작구",
             "region_code":"Seoul",
-            "sub_region_code":"1159000000_Seoul_Dongjak"
+            "sub_region_code":"1159000000_Seoul_Dongjak",
+            "shorten_url":"https:\/\/me2.do\/GOCm8i3q"
         },
         {
             "index":10,
@@ -178,7 +192,8 @@
             "value_score":73.2718,
             "region":"서울시 동작구",
             "region_code":"Seoul",
-            "sub_region_code":"1159000000_Seoul_Dongjak"
+            "sub_region_code":"1159000000_Seoul_Dongjak",
+            "shorten_url":"https:\/\/me2.do\/GOCm8i3q"
         },
         {
             "index":11,
@@ -190,7 +205,8 @@
             "value_score":69.9498,
             "region":"서울시 동작구",
             "region_code":"Seoul",
-            "sub_region_code":"1159000000_Seoul_Dongjak"
+            "sub_region_code":"1159000000_Seoul_Dongjak",
+            "shorten_url":"https:\/\/me2.do\/GOCm8i3q"
         },
         {
             "index":12,
@@ -202,7 +218,8 @@
             "value_score":69.4498,
             "region":"서울시 동작구",
             "region_code":"Seoul",
-            "sub_region_code":"1159000000_Seoul_Dongjak"
+            "sub_region_code":"1159000000_Seoul_Dongjak",
+            "shorten_url":"https:\/\/me2.do\/GOCm8i3q"
         },
         {
             "index":13,
@@ -214,7 +231,8 @@
             "value_score":67.9624,
             "region":"서울시 동작구",
             "region_code":"Seoul",
-            "sub_region_code":"1159000000_Seoul_Dongjak"
+            "sub_region_code":"1159000000_Seoul_Dongjak",
+            "shorten_url":"https:\/\/me2.do\/GOCm8i3q"
         },
         {
             "index":14,
@@ -226,7 +244,8 @@
             "value_score":67.4324,
             "region":"서울시 동작구",
             "region_code":"Seoul",
-            "sub_region_code":"1159000000_Seoul_Dongjak"
+            "sub_region_code":"1159000000_Seoul_Dongjak",
+            "shorten_url":"https:\/\/me2.do\/GOCm8i3q"
         },
         {
             "index":15,
@@ -238,7 +257,8 @@
             "value_score":67.4046,
             "region":"서울시 동작구",
             "region_code":"Seoul",
-            "sub_region_code":"1159000000_Seoul_Dongjak"
+            "sub_region_code":"1159000000_Seoul_Dongjak",
+            "shorten_url":"https:\/\/me2.do\/GOCm8i3q"
         },
         {
             "index":16,
@@ -250,7 +270,8 @@
             "value_score":65.1062,
             "region":"서울시 동작구",
             "region_code":"Seoul",
-            "sub_region_code":"1159000000_Seoul_Dongjak"
+            "sub_region_code":"1159000000_Seoul_Dongjak",
+            "shorten_url":"https:\/\/me2.do\/GOCm8i3q"
         },
         {
             "index":17,
@@ -262,7 +283,8 @@
             "value_score":64.9998,
             "region":"서울시 동작구",
             "region_code":"Seoul",
-            "sub_region_code":"1159000000_Seoul_Dongjak"
+            "sub_region_code":"1159000000_Seoul_Dongjak",
+            "shorten_url":"https:\/\/me2.do\/GOCm8i3q"
         },
         {
             "index":18,
@@ -274,7 +296,8 @@
             "value_score":64.1226,
             "region":"서울시 동작구",
             "region_code":"Seoul",
-            "sub_region_code":"1159000000_Seoul_Dongjak"
+            "sub_region_code":"1159000000_Seoul_Dongjak",
+            "shorten_url":"https:\/\/me2.do\/GOCm8i3q"
         },
         {
             "index":19,
@@ -286,7 +309,8 @@
             "value_score":62.583,
             "region":"서울시 동작구",
             "region_code":"Seoul",
-            "sub_region_code":"1159000000_Seoul_Dongjak"
+            "sub_region_code":"1159000000_Seoul_Dongjak",
+            "shorten_url":"https:\/\/me2.do\/GOCm8i3q"
         },
         {
             "index":20,
@@ -298,7 +322,8 @@
             "value_score":75.16635,
             "region":"서울시 동작구",
             "region_code":"Seoul",
-            "sub_region_code":"1159000000_Seoul_Dongjak"
+            "sub_region_code":"1159000000_Seoul_Dongjak",
+            "shorten_url":"https:\/\/me2.do\/GOCm8i3q"
         },
         {
             "index":21,
@@ -310,7 +335,8 @@
             "value_score":74.41715,
             "region":"서울시 동작구",
             "region_code":"Seoul",
-            "sub_region_code":"1159000000_Seoul_Dongjak"
+            "sub_region_code":"1159000000_Seoul_Dongjak",
+            "shorten_url":"https:\/\/me2.do\/GOCm8i3q"
         },
         {
             "index":22,
@@ -322,7 +348,8 @@
             "value_score":74.29775,
             "region":"서울시 동작구",
             "region_code":"Seoul",
-            "sub_region_code":"1159000000_Seoul_Dongjak"
+            "sub_region_code":"1159000000_Seoul_Dongjak",
+            "shorten_url":"https:\/\/me2.do\/GOCm8i3q"
         },
         {
             "index":23,
@@ -334,7 +361,8 @@
             "value_score":72.55695,
             "region":"서울시 동작구",
             "region_code":"Seoul",
-            "sub_region_code":"1159000000_Seoul_Dongjak"
+            "sub_region_code":"1159000000_Seoul_Dongjak",
+            "shorten_url":"https:\/\/me2.do\/GOCm8i3q"
         },
         {
             "index":24,
@@ -346,7 +374,8 @@
             "value_score":72.16195,
             "region":"서울시 동작구",
             "region_code":"Seoul",
-            "sub_region_code":"1159000000_Seoul_Dongjak"
+            "sub_region_code":"1159000000_Seoul_Dongjak",
+            "shorten_url":"https:\/\/me2.do\/GOCm8i3q"
         },
         {
             "index":25,
@@ -358,7 +387,8 @@
             "value_score":70.11715,
             "region":"서울시 동작구",
             "region_code":"Seoul",
-            "sub_region_code":"1159000000_Seoul_Dongjak"
+            "sub_region_code":"1159000000_Seoul_Dongjak",
+            "shorten_url":"https:\/\/me2.do\/GOCm8i3q"
         },
         {
             "index":26,
@@ -370,7 +400,8 @@
             "value_score":69.96235,
             "region":"서울시 동작구",
             "region_code":"Seoul",
-            "sub_region_code":"1159000000_Seoul_Dongjak"
+            "sub_region_code":"1159000000_Seoul_Dongjak",
+            "shorten_url":"https:\/\/me2.do\/GOCm8i3q"
         },
         {
             "index":27,
@@ -382,7 +413,8 @@
             "value_score":69.73735,
             "region":"서울시 동작구",
             "region_code":"Seoul",
-            "sub_region_code":"1159000000_Seoul_Dongjak"
+            "sub_region_code":"1159000000_Seoul_Dongjak",
+            "shorten_url":"https:\/\/me2.do\/GOCm8i3q"
         },
         {
             "index":28,
@@ -394,7 +426,8 @@
             "value_score":69.4895,
             "region":"서울시 동작구",
             "region_code":"Seoul",
-            "sub_region_code":"1159000000_Seoul_Dongjak"
+            "sub_region_code":"1159000000_Seoul_Dongjak",
+            "shorten_url":"https:\/\/me2.do\/GOCm8i3q"
         },
         {
             "index":29,
@@ -406,7 +439,8 @@
             "value_score":69.40345,
             "region":"서울시 동작구",
             "region_code":"Seoul",
-            "sub_region_code":"1159000000_Seoul_Dongjak"
+            "sub_region_code":"1159000000_Seoul_Dongjak",
+            "shorten_url":"https:\/\/me2.do\/GOCm8i3q"
         },
         {
             "index":30,
@@ -418,7 +452,8 @@
             "value_score":73.55225,
             "region":"서울시 동작구",
             "region_code":"Seoul",
-            "sub_region_code":"1159000000_Seoul_Dongjak"
+            "sub_region_code":"1159000000_Seoul_Dongjak",
+            "shorten_url":"https:\/\/me2.do\/GOCm8i3q"
         },
         {
             "index":31,
@@ -430,7 +465,8 @@
             "value_score":71.02025,
             "region":"서울시 동작구",
             "region_code":"Seoul",
-            "sub_region_code":"1159000000_Seoul_Dongjak"
+            "sub_region_code":"1159000000_Seoul_Dongjak",
+            "shorten_url":"https:\/\/me2.do\/GOCm8i3q"
         },
         {
             "index":32,
@@ -442,7 +478,8 @@
             "value_score":69.9325,
             "region":"서울시 동작구",
             "region_code":"Seoul",
-            "sub_region_code":"1159000000_Seoul_Dongjak"
+            "sub_region_code":"1159000000_Seoul_Dongjak",
+            "shorten_url":"https:\/\/me2.do\/GOCm8i3q"
         },
         {
             "index":33,
@@ -454,7 +491,8 @@
             "value_score":69.57025,
             "region":"서울시 동작구",
             "region_code":"Seoul",
-            "sub_region_code":"1159000000_Seoul_Dongjak"
+            "sub_region_code":"1159000000_Seoul_Dongjak",
+            "shorten_url":"https:\/\/me2.do\/GOCm8i3q"
         },
         {
             "index":34,
@@ -466,7 +504,8 @@
             "value_score":69.02825,
             "region":"서울시 동작구",
             "region_code":"Seoul",
-            "sub_region_code":"1159000000_Seoul_Dongjak"
+            "sub_region_code":"1159000000_Seoul_Dongjak",
+            "shorten_url":"https:\/\/me2.do\/GOCm8i3q"
         },
         {
             "index":35,
@@ -478,7 +517,8 @@
             "value_score":67.82825,
             "region":"서울시 동작구",
             "region_code":"Seoul",
-            "sub_region_code":"1159000000_Seoul_Dongjak"
+            "sub_region_code":"1159000000_Seoul_Dongjak",
+            "shorten_url":"https:\/\/me2.do\/GOCm8i3q"
         },
         {
             "index":36,
@@ -490,7 +530,8 @@
             "value_score":67.60225,
             "region":"서울시 동작구",
             "region_code":"Seoul",
-            "sub_region_code":"1159000000_Seoul_Dongjak"
+            "sub_region_code":"1159000000_Seoul_Dongjak",
+            "shorten_url":"https:\/\/me2.do\/GOCm8i3q"
         },
         {
             "index":37,
@@ -502,7 +543,8 @@
             "value_score":66.70225,
             "region":"서울시 동작구",
             "region_code":"Seoul",
-            "sub_region_code":"1159000000_Seoul_Dongjak"
+            "sub_region_code":"1159000000_Seoul_Dongjak",
+            "shorten_url":"https:\/\/me2.do\/GOCm8i3q"
         },
         {
             "index":38,
@@ -514,7 +556,8 @@
             "value_score":66.40225,
             "region":"서울시 동작구",
             "region_code":"Seoul",
-            "sub_region_code":"1159000000_Seoul_Dongjak"
+            "sub_region_code":"1159000000_Seoul_Dongjak",
+            "shorten_url":"https:\/\/me2.do\/GOCm8i3q"
         },
         {
             "index":39,
@@ -526,7 +569,8 @@
             "value_score":66.15225,
             "region":"서울시 동작구",
             "region_code":"Seoul",
-            "sub_region_code":"1159000000_Seoul_Dongjak"
+            "sub_region_code":"1159000000_Seoul_Dongjak",
+            "shorten_url":"https:\/\/me2.do\/GOCm8i3q"
         },
         {
             "index":40,
@@ -538,7 +582,8 @@
             "value_score":70.3045,
             "region":"서울시 동작구",
             "region_code":"Seoul",
-            "sub_region_code":"1159000000_Seoul_Dongjak"
+            "sub_region_code":"1159000000_Seoul_Dongjak",
+            "shorten_url":"https:\/\/me2.do\/GOCm8i3q"
         },
         {
             "index":41,
@@ -550,7 +595,8 @@
             "value_score":66.7365,
             "region":"서울시 동작구",
             "region_code":"Seoul",
-            "sub_region_code":"1159000000_Seoul_Dongjak"
+            "sub_region_code":"1159000000_Seoul_Dongjak",
+            "shorten_url":"https:\/\/me2.do\/GOCm8i3q"
         },
         {
             "index":42,
@@ -562,7 +608,8 @@
             "value_score":63.7245,
             "region":"서울시 동작구",
             "region_code":"Seoul",
-            "sub_region_code":"1159000000_Seoul_Dongjak"
+            "sub_region_code":"1159000000_Seoul_Dongjak",
+            "shorten_url":"https:\/\/me2.do\/GOCm8i3q"
         },
         {
             "index":43,
@@ -574,7 +621,8 @@
             "value_score":63.511,
             "region":"서울시 동작구",
             "region_code":"Seoul",
-            "sub_region_code":"1159000000_Seoul_Dongjak"
+            "sub_region_code":"1159000000_Seoul_Dongjak",
+            "shorten_url":"https:\/\/me2.do\/GOCm8i3q"
         },
         {
             "index":44,
@@ -586,7 +634,8 @@
             "value_score":62.9245,
             "region":"서울시 동작구",
             "region_code":"Seoul",
-            "sub_region_code":"1159000000_Seoul_Dongjak"
+            "sub_region_code":"1159000000_Seoul_Dongjak",
+            "shorten_url":"https:\/\/me2.do\/GOCm8i3q"
         },
         {
             "index":45,
@@ -598,7 +647,8 @@
             "value_score":62.6115,
             "region":"서울시 동작구",
             "region_code":"Seoul",
-            "sub_region_code":"1159000000_Seoul_Dongjak"
+            "sub_region_code":"1159000000_Seoul_Dongjak",
+            "shorten_url":"https:\/\/me2.do\/GOCm8i3q"
         },
         {
             "index":46,
@@ -610,7 +660,8 @@
             "value_score":62.5365,
             "region":"서울시 동작구",
             "region_code":"Seoul",
-            "sub_region_code":"1159000000_Seoul_Dongjak"
+            "sub_region_code":"1159000000_Seoul_Dongjak",
+            "shorten_url":"https:\/\/me2.do\/GOCm8i3q"
         },
         {
             "index":47,
@@ -622,7 +673,8 @@
             "value_score":62.531,
             "region":"서울시 동작구",
             "region_code":"Seoul",
-            "sub_region_code":"1159000000_Seoul_Dongjak"
+            "sub_region_code":"1159000000_Seoul_Dongjak",
+            "shorten_url":"https:\/\/me2.do\/GOCm8i3q"
         },
         {
             "index":48,
@@ -634,7 +686,8 @@
             "value_score":61.6845,
             "region":"서울시 동작구",
             "region_code":"Seoul",
-            "sub_region_code":"1159000000_Seoul_Dongjak"
+            "sub_region_code":"1159000000_Seoul_Dongjak",
+            "shorten_url":"https:\/\/me2.do\/GOCm8i3q"
         },
         {
             "index":49,
@@ -646,7 +699,8 @@
             "value_score":61.0245,
             "region":"서울시 동작구",
             "region_code":"Seoul",
-            "sub_region_code":"1159000000_Seoul_Dongjak"
+            "sub_region_code":"1159000000_Seoul_Dongjak",
+            "shorten_url":"https:\/\/me2.do\/GOCm8i3q"
         }
     ]
 }

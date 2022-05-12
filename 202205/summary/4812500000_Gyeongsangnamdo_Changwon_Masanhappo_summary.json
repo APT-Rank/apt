@@ -40,6 +40,10 @@
             {
                 "name":"sub_region_code",
                 "type":"string"
+            },
+            {
+                "name":"shorten_url",
+                "type":"string"
             }
         ],
         "primaryKey":[
@@ -58,7 +62,8 @@
             "value_score":64.2857,
             "region":"경상남도 창원시 마산합포구",
             "region_code":"Gyeongsangnamdo",
-            "sub_region_code":"4812500000_Gyeongsangnamdo_Changwon_Masanhappo"
+            "sub_region_code":"4812500000_Gyeongsangnamdo_Changwon_Masanhappo",
+            "shorten_url":"https:\/\/me2.do\/FH7kWb6q"
         },
         {
             "index":1,
@@ -70,7 +75,8 @@
             "value_score":63.0509,
             "region":"경상남도 창원시 마산합포구",
             "region_code":"Gyeongsangnamdo",
-            "sub_region_code":"4812500000_Gyeongsangnamdo_Changwon_Masanhappo"
+            "sub_region_code":"4812500000_Gyeongsangnamdo_Changwon_Masanhappo",
+            "shorten_url":"https:\/\/me2.do\/FH7kWb6q"
         },
         {
             "index":2,
@@ -82,7 +88,8 @@
             "value_score":62.70335,
             "region":"경상남도 창원시 마산합포구",
             "region_code":"Gyeongsangnamdo",
-            "sub_region_code":"4812500000_Gyeongsangnamdo_Changwon_Masanhappo"
+            "sub_region_code":"4812500000_Gyeongsangnamdo_Changwon_Masanhappo",
+            "shorten_url":"https:\/\/me2.do\/FH7kWb6q"
         },
         {
             "index":3,
@@ -94,7 +101,8 @@
             "value_score":61.7357,
             "region":"경상남도 창원시 마산합포구",
             "region_code":"Gyeongsangnamdo",
-            "sub_region_code":"4812500000_Gyeongsangnamdo_Changwon_Masanhappo"
+            "sub_region_code":"4812500000_Gyeongsangnamdo_Changwon_Masanhappo",
+            "shorten_url":"https:\/\/me2.do\/FH7kWb6q"
         },
         {
             "index":4,
@@ -106,7 +114,8 @@
             "value_score":61.32835,
             "region":"경상남도 창원시 마산합포구",
             "region_code":"Gyeongsangnamdo",
-            "sub_region_code":"4812500000_Gyeongsangnamdo_Changwon_Masanhappo"
+            "sub_region_code":"4812500000_Gyeongsangnamdo_Changwon_Masanhappo",
+            "shorten_url":"https:\/\/me2.do\/FH7kWb6q"
         },
         {
             "index":5,
@@ -118,7 +127,8 @@
             "value_score":60.4509,
             "region":"경상남도 창원시 마산합포구",
             "region_code":"Gyeongsangnamdo",
-            "sub_region_code":"4812500000_Gyeongsangnamdo_Changwon_Masanhappo"
+            "sub_region_code":"4812500000_Gyeongsangnamdo_Changwon_Masanhappo",
+            "shorten_url":"https:\/\/me2.do\/FH7kWb6q"
         },
         {
             "index":6,
@@ -130,7 +140,8 @@
             "value_score":60.1009,
             "region":"경상남도 창원시 마산합포구",
             "region_code":"Gyeongsangnamdo",
-            "sub_region_code":"4812500000_Gyeongsangnamdo_Changwon_Masanhappo"
+            "sub_region_code":"4812500000_Gyeongsangnamdo_Changwon_Masanhappo",
+            "shorten_url":"https:\/\/me2.do\/FH7kWb6q"
         },
         {
             "index":7,
@@ -142,7 +153,8 @@
             "value_score":60.0857,
             "region":"경상남도 창원시 마산합포구",
             "region_code":"Gyeongsangnamdo",
-            "sub_region_code":"4812500000_Gyeongsangnamdo_Changwon_Masanhappo"
+            "sub_region_code":"4812500000_Gyeongsangnamdo_Changwon_Masanhappo",
+            "shorten_url":"https:\/\/me2.do\/FH7kWb6q"
         },
         {
             "index":8,
@@ -154,7 +166,8 @@
             "value_score":59.19305,
             "region":"경상남도 창원시 마산합포구",
             "region_code":"Gyeongsangnamdo",
-            "sub_region_code":"4812500000_Gyeongsangnamdo_Changwon_Masanhappo"
+            "sub_region_code":"4812500000_Gyeongsangnamdo_Changwon_Masanhappo",
+            "shorten_url":"https:\/\/me2.do\/FH7kWb6q"
         },
         {
             "index":9,
@@ -166,7 +179,8 @@
             "value_score":58.4509,
             "region":"경상남도 창원시 마산합포구",
             "region_code":"Gyeongsangnamdo",
-            "sub_region_code":"4812500000_Gyeongsangnamdo_Changwon_Masanhappo"
+            "sub_region_code":"4812500000_Gyeongsangnamdo_Changwon_Masanhappo",
+            "shorten_url":"https:\/\/me2.do\/FH7kWb6q"
         },
         {
             "index":10,
@@ -178,7 +192,8 @@
             "value_score":65.8935,
             "region":"경상남도 창원시 마산합포구",
             "region_code":"Gyeongsangnamdo",
-            "sub_region_code":"4812500000_Gyeongsangnamdo_Changwon_Masanhappo"
+            "sub_region_code":"4812500000_Gyeongsangnamdo_Changwon_Masanhappo",
+            "shorten_url":"https:\/\/me2.do\/FH7kWb6q"
         },
         {
             "index":11,
@@ -190,7 +205,8 @@
             "value_score":64.5255,
             "region":"경상남도 창원시 마산합포구",
             "region_code":"Gyeongsangnamdo",
-            "sub_region_code":"4812500000_Gyeongsangnamdo_Changwon_Masanhappo"
+            "sub_region_code":"4812500000_Gyeongsangnamdo_Changwon_Masanhappo",
+            "shorten_url":"https:\/\/me2.do\/FH7kWb6q"
         },
         {
             "index":12,
@@ -202,7 +218,8 @@
             "value_score":64.0255,
             "region":"경상남도 창원시 마산합포구",
             "region_code":"Gyeongsangnamdo",
-            "sub_region_code":"4812500000_Gyeongsangnamdo_Changwon_Masanhappo"
+            "sub_region_code":"4812500000_Gyeongsangnamdo_Changwon_Masanhappo",
+            "shorten_url":"https:\/\/me2.do\/FH7kWb6q"
         },
         {
             "index":13,
@@ -214,7 +231,8 @@
             "value_score":63.64525,
             "region":"경상남도 창원시 마산합포구",
             "region_code":"Gyeongsangnamdo",
-            "sub_region_code":"4812500000_Gyeongsangnamdo_Changwon_Masanhappo"
+            "sub_region_code":"4812500000_Gyeongsangnamdo_Changwon_Masanhappo",
+            "shorten_url":"https:\/\/me2.do\/FH7kWb6q"
         },
         {
             "index":14,
@@ -226,7 +244,8 @@
             "value_score":63.28075,
             "region":"경상남도 창원시 마산합포구",
             "region_code":"Gyeongsangnamdo",
-            "sub_region_code":"4812500000_Gyeongsangnamdo_Changwon_Masanhappo"
+            "sub_region_code":"4812500000_Gyeongsangnamdo_Changwon_Masanhappo",
+            "shorten_url":"https:\/\/me2.do\/FH7kWb6q"
         },
         {
             "index":15,
@@ -238,7 +257,8 @@
             "value_score":62.6435,
             "region":"경상남도 창원시 마산합포구",
             "region_code":"Gyeongsangnamdo",
-            "sub_region_code":"4812500000_Gyeongsangnamdo_Changwon_Masanhappo"
+            "sub_region_code":"4812500000_Gyeongsangnamdo_Changwon_Masanhappo",
+            "shorten_url":"https:\/\/me2.do\/FH7kWb6q"
         },
         {
             "index":16,
@@ -250,7 +270,8 @@
             "value_score":62.6435,
             "region":"경상남도 창원시 마산합포구",
             "region_code":"Gyeongsangnamdo",
-            "sub_region_code":"4812500000_Gyeongsangnamdo_Changwon_Masanhappo"
+            "sub_region_code":"4812500000_Gyeongsangnamdo_Changwon_Masanhappo",
+            "shorten_url":"https:\/\/me2.do\/FH7kWb6q"
         },
         {
             "index":17,
@@ -262,7 +283,8 @@
             "value_score":60.1435,
             "region":"경상남도 창원시 마산합포구",
             "region_code":"Gyeongsangnamdo",
-            "sub_region_code":"4812500000_Gyeongsangnamdo_Changwon_Masanhappo"
+            "sub_region_code":"4812500000_Gyeongsangnamdo_Changwon_Masanhappo",
+            "shorten_url":"https:\/\/me2.do\/FH7kWb6q"
         },
         {
             "index":18,
@@ -274,7 +296,8 @@
             "value_score":59.2755,
             "region":"경상남도 창원시 마산합포구",
             "region_code":"Gyeongsangnamdo",
-            "sub_region_code":"4812500000_Gyeongsangnamdo_Changwon_Masanhappo"
+            "sub_region_code":"4812500000_Gyeongsangnamdo_Changwon_Masanhappo",
+            "shorten_url":"https:\/\/me2.do\/FH7kWb6q"
         },
         {
             "index":19,
@@ -286,7 +309,8 @@
             "value_score":59.1435,
             "region":"경상남도 창원시 마산합포구",
             "region_code":"Gyeongsangnamdo",
-            "sub_region_code":"4812500000_Gyeongsangnamdo_Changwon_Masanhappo"
+            "sub_region_code":"4812500000_Gyeongsangnamdo_Changwon_Masanhappo",
+            "shorten_url":"https:\/\/me2.do\/FH7kWb6q"
         },
         {
             "index":20,
@@ -298,7 +322,8 @@
             "value_score":71.7361052632,
             "region":"경상남도 창원시 마산합포구",
             "region_code":"Gyeongsangnamdo",
-            "sub_region_code":"4812500000_Gyeongsangnamdo_Changwon_Masanhappo"
+            "sub_region_code":"4812500000_Gyeongsangnamdo_Changwon_Masanhappo",
+            "shorten_url":"https:\/\/me2.do\/FH7kWb6q"
         },
         {
             "index":21,
@@ -310,7 +335,8 @@
             "value_score":69.6834736842,
             "region":"경상남도 창원시 마산합포구",
             "region_code":"Gyeongsangnamdo",
-            "sub_region_code":"4812500000_Gyeongsangnamdo_Changwon_Masanhappo"
+            "sub_region_code":"4812500000_Gyeongsangnamdo_Changwon_Masanhappo",
+            "shorten_url":"https:\/\/me2.do\/FH7kWb6q"
         },
         {
             "index":22,
@@ -322,7 +348,8 @@
             "value_score":66.394,
             "region":"경상남도 창원시 마산합포구",
             "region_code":"Gyeongsangnamdo",
-            "sub_region_code":"4812500000_Gyeongsangnamdo_Changwon_Masanhappo"
+            "sub_region_code":"4812500000_Gyeongsangnamdo_Changwon_Masanhappo",
+            "shorten_url":"https:\/\/me2.do\/FH7kWb6q"
         },
         {
             "index":23,
@@ -334,7 +361,8 @@
             "value_score":66.2493684211,
             "region":"경상남도 창원시 마산합포구",
             "region_code":"Gyeongsangnamdo",
-            "sub_region_code":"4812500000_Gyeongsangnamdo_Changwon_Masanhappo"
+            "sub_region_code":"4812500000_Gyeongsangnamdo_Changwon_Masanhappo",
+            "shorten_url":"https:\/\/me2.do\/FH7kWb6q"
         },
         {
             "index":24,
@@ -346,7 +374,8 @@
             "value_score":66.1637894737,
             "region":"경상남도 창원시 마산합포구",
             "region_code":"Gyeongsangnamdo",
-            "sub_region_code":"4812500000_Gyeongsangnamdo_Changwon_Masanhappo"
+            "sub_region_code":"4812500000_Gyeongsangnamdo_Changwon_Masanhappo",
+            "shorten_url":"https:\/\/me2.do\/FH7kWb6q"
         },
         {
             "index":25,
@@ -358,7 +387,8 @@
             "value_score":64.5058947368,
             "region":"경상남도 창원시 마산합포구",
             "region_code":"Gyeongsangnamdo",
-            "sub_region_code":"4812500000_Gyeongsangnamdo_Changwon_Masanhappo"
+            "sub_region_code":"4812500000_Gyeongsangnamdo_Changwon_Masanhappo",
+            "shorten_url":"https:\/\/me2.do\/FH7kWb6q"
         },
         {
             "index":26,
@@ -370,7 +400,8 @@
             "value_score":64.0322105263,
             "region":"경상남도 창원시 마산합포구",
             "region_code":"Gyeongsangnamdo",
-            "sub_region_code":"4812500000_Gyeongsangnamdo_Changwon_Masanhappo"
+            "sub_region_code":"4812500000_Gyeongsangnamdo_Changwon_Masanhappo",
+            "shorten_url":"https:\/\/me2.do\/FH7kWb6q"
         },
         {
             "index":27,
@@ -382,7 +413,8 @@
             "value_score":62.9181052632,
             "region":"경상남도 창원시 마산합포구",
             "region_code":"Gyeongsangnamdo",
-            "sub_region_code":"4812500000_Gyeongsangnamdo_Changwon_Masanhappo"
+            "sub_region_code":"4812500000_Gyeongsangnamdo_Changwon_Masanhappo",
+            "shorten_url":"https:\/\/me2.do\/FH7kWb6q"
         },
         {
             "index":28,
@@ -394,7 +426,8 @@
             "value_score":62.6441052632,
             "region":"경상남도 창원시 마산합포구",
             "region_code":"Gyeongsangnamdo",
-            "sub_region_code":"4812500000_Gyeongsangnamdo_Changwon_Masanhappo"
+            "sub_region_code":"4812500000_Gyeongsangnamdo_Changwon_Masanhappo",
+            "shorten_url":"https:\/\/me2.do\/FH7kWb6q"
         },
         {
             "index":29,
@@ -406,7 +439,8 @@
             "value_score":61.8917894737,
             "region":"경상남도 창원시 마산합포구",
             "region_code":"Gyeongsangnamdo",
-            "sub_region_code":"4812500000_Gyeongsangnamdo_Changwon_Masanhappo"
+            "sub_region_code":"4812500000_Gyeongsangnamdo_Changwon_Masanhappo",
+            "shorten_url":"https:\/\/me2.do\/FH7kWb6q"
         },
         {
             "index":30,
@@ -418,7 +452,8 @@
             "value_score":64.6405,
             "region":"경상남도 창원시 마산합포구",
             "region_code":"Gyeongsangnamdo",
-            "sub_region_code":"4812500000_Gyeongsangnamdo_Changwon_Masanhappo"
+            "sub_region_code":"4812500000_Gyeongsangnamdo_Changwon_Masanhappo",
+            "shorten_url":"https:\/\/me2.do\/FH7kWb6q"
         },
         {
             "index":31,
@@ -430,7 +465,8 @@
             "value_score":63.926,
             "region":"경상남도 창원시 마산합포구",
             "region_code":"Gyeongsangnamdo",
-            "sub_region_code":"4812500000_Gyeongsangnamdo_Changwon_Masanhappo"
+            "sub_region_code":"4812500000_Gyeongsangnamdo_Changwon_Masanhappo",
+            "shorten_url":"https:\/\/me2.do\/FH7kWb6q"
         },
         {
             "index":32,
@@ -442,7 +478,8 @@
             "value_score":61.3905,
             "region":"경상남도 창원시 마산합포구",
             "region_code":"Gyeongsangnamdo",
-            "sub_region_code":"4812500000_Gyeongsangnamdo_Changwon_Masanhappo"
+            "sub_region_code":"4812500000_Gyeongsangnamdo_Changwon_Masanhappo",
+            "shorten_url":"https:\/\/me2.do\/FH7kWb6q"
         },
         {
             "index":33,
@@ -454,7 +491,8 @@
             "value_score":61.301,
             "region":"경상남도 창원시 마산합포구",
             "region_code":"Gyeongsangnamdo",
-            "sub_region_code":"4812500000_Gyeongsangnamdo_Changwon_Masanhappo"
+            "sub_region_code":"4812500000_Gyeongsangnamdo_Changwon_Masanhappo",
+            "shorten_url":"https:\/\/me2.do\/FH7kWb6q"
         },
         {
             "index":34,
@@ -466,7 +504,8 @@
             "value_score":61.2905,
             "region":"경상남도 창원시 마산합포구",
             "region_code":"Gyeongsangnamdo",
-            "sub_region_code":"4812500000_Gyeongsangnamdo_Changwon_Masanhappo"
+            "sub_region_code":"4812500000_Gyeongsangnamdo_Changwon_Masanhappo",
+            "shorten_url":"https:\/\/me2.do\/FH7kWb6q"
         },
         {
             "index":35,
@@ -478,7 +517,8 @@
             "value_score":59.0405,
             "region":"경상남도 창원시 마산합포구",
             "region_code":"Gyeongsangnamdo",
-            "sub_region_code":"4812500000_Gyeongsangnamdo_Changwon_Masanhappo"
+            "sub_region_code":"4812500000_Gyeongsangnamdo_Changwon_Masanhappo",
+            "shorten_url":"https:\/\/me2.do\/FH7kWb6q"
         },
         {
             "index":36,
@@ -490,7 +530,8 @@
             "value_score":58.801,
             "region":"경상남도 창원시 마산합포구",
             "region_code":"Gyeongsangnamdo",
-            "sub_region_code":"4812500000_Gyeongsangnamdo_Changwon_Masanhappo"
+            "sub_region_code":"4812500000_Gyeongsangnamdo_Changwon_Masanhappo",
+            "shorten_url":"https:\/\/me2.do\/FH7kWb6q"
         },
         {
             "index":37,
@@ -502,7 +543,8 @@
             "value_score":58.787,
             "region":"경상남도 창원시 마산합포구",
             "region_code":"Gyeongsangnamdo",
-            "sub_region_code":"4812500000_Gyeongsangnamdo_Changwon_Masanhappo"
+            "sub_region_code":"4812500000_Gyeongsangnamdo_Changwon_Masanhappo",
+            "shorten_url":"https:\/\/me2.do\/FH7kWb6q"
         },
         {
             "index":38,
@@ -514,7 +556,8 @@
             "value_score":58.301,
             "region":"경상남도 창원시 마산합포구",
             "region_code":"Gyeongsangnamdo",
-            "sub_region_code":"4812500000_Gyeongsangnamdo_Changwon_Masanhappo"
+            "sub_region_code":"4812500000_Gyeongsangnamdo_Changwon_Masanhappo",
+            "shorten_url":"https:\/\/me2.do\/FH7kWb6q"
         },
         {
             "index":39,
@@ -526,7 +569,8 @@
             "value_score":57.1865,
             "region":"경상남도 창원시 마산합포구",
             "region_code":"Gyeongsangnamdo",
-            "sub_region_code":"4812500000_Gyeongsangnamdo_Changwon_Masanhappo"
+            "sub_region_code":"4812500000_Gyeongsangnamdo_Changwon_Masanhappo",
+            "shorten_url":"https:\/\/me2.do\/FH7kWb6q"
         }
     ]
 }

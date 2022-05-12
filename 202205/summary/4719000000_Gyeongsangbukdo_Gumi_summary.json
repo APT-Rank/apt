@@ -40,6 +40,10 @@
             {
                 "name":"sub_region_code",
                 "type":"string"
+            },
+            {
+                "name":"shorten_url",
+                "type":"string"
             }
         ],
         "primaryKey":[
@@ -58,7 +62,8 @@
             "value_score":61.88845,
             "region":"경상북도 구미시",
             "region_code":"Gyeongsangbukdo",
-            "sub_region_code":"4719000000_Gyeongsangbukdo_Gumi"
+            "sub_region_code":"4719000000_Gyeongsangbukdo_Gumi",
+            "shorten_url":"https:\/\/me2.do\/GC6imR6P"
         },
         {
             "index":1,
@@ -70,7 +75,8 @@
             "value_score":58.78845,
             "region":"경상북도 구미시",
             "region_code":"Gyeongsangbukdo",
-            "sub_region_code":"4719000000_Gyeongsangbukdo_Gumi"
+            "sub_region_code":"4719000000_Gyeongsangbukdo_Gumi",
+            "shorten_url":"https:\/\/me2.do\/GC6imR6P"
         },
         {
             "index":2,
@@ -82,7 +88,8 @@
             "value_score":58.7313,
             "region":"경상북도 구미시",
             "region_code":"Gyeongsangbukdo",
-            "sub_region_code":"4719000000_Gyeongsangbukdo_Gumi"
+            "sub_region_code":"4719000000_Gyeongsangbukdo_Gumi",
+            "shorten_url":"https:\/\/me2.do\/GC6imR6P"
         },
         {
             "index":3,
@@ -94,7 +101,8 @@
             "value_score":58.32565,
             "region":"경상북도 구미시",
             "region_code":"Gyeongsangbukdo",
-            "sub_region_code":"4719000000_Gyeongsangbukdo_Gumi"
+            "sub_region_code":"4719000000_Gyeongsangbukdo_Gumi",
+            "shorten_url":"https:\/\/me2.do\/GC6imR6P"
         },
         {
             "index":4,
@@ -106,7 +114,8 @@
             "value_score":56.4125,
             "region":"경상북도 구미시",
             "region_code":"Gyeongsangbukdo",
-            "sub_region_code":"4719000000_Gyeongsangbukdo_Gumi"
+            "sub_region_code":"4719000000_Gyeongsangbukdo_Gumi",
+            "shorten_url":"https:\/\/me2.do\/GC6imR6P"
         },
         {
             "index":5,
@@ -118,7 +127,8 @@
             "value_score":55.7313,
             "region":"경상북도 구미시",
             "region_code":"Gyeongsangbukdo",
-            "sub_region_code":"4719000000_Gyeongsangbukdo_Gumi"
+            "sub_region_code":"4719000000_Gyeongsangbukdo_Gumi",
+            "shorten_url":"https:\/\/me2.do\/GC6imR6P"
         },
         {
             "index":6,
@@ -130,7 +140,8 @@
             "value_score":55.3729,
             "region":"경상북도 구미시",
             "region_code":"Gyeongsangbukdo",
-            "sub_region_code":"4719000000_Gyeongsangbukdo_Gumi"
+            "sub_region_code":"4719000000_Gyeongsangbukdo_Gumi",
+            "shorten_url":"https:\/\/me2.do\/GC6imR6P"
         },
         {
             "index":7,
@@ -142,7 +153,8 @@
             "value_score":55.3313,
             "region":"경상북도 구미시",
             "region_code":"Gyeongsangbukdo",
-            "sub_region_code":"4719000000_Gyeongsangbukdo_Gumi"
+            "sub_region_code":"4719000000_Gyeongsangbukdo_Gumi",
+            "shorten_url":"https:\/\/me2.do\/GC6imR6P"
         },
         {
             "index":8,
@@ -154,7 +166,8 @@
             "value_score":55.27565,
             "region":"경상북도 구미시",
             "region_code":"Gyeongsangbukdo",
-            "sub_region_code":"4719000000_Gyeongsangbukdo_Gumi"
+            "sub_region_code":"4719000000_Gyeongsangbukdo_Gumi",
+            "shorten_url":"https:\/\/me2.do\/GC6imR6P"
         },
         {
             "index":9,
@@ -166,7 +179,8 @@
             "value_score":55.1625,
             "region":"경상북도 구미시",
             "region_code":"Gyeongsangbukdo",
-            "sub_region_code":"4719000000_Gyeongsangbukdo_Gumi"
+            "sub_region_code":"4719000000_Gyeongsangbukdo_Gumi",
+            "shorten_url":"https:\/\/me2.do\/GC6imR6P"
         },
         {
             "index":10,
@@ -178,7 +192,8 @@
             "value_score":62.74175,
             "region":"경상북도 구미시",
             "region_code":"Gyeongsangbukdo",
-            "sub_region_code":"4719000000_Gyeongsangbukdo_Gumi"
+            "sub_region_code":"4719000000_Gyeongsangbukdo_Gumi",
+            "shorten_url":"https:\/\/me2.do\/GC6imR6P"
         },
         {
             "index":11,
@@ -190,7 +205,8 @@
             "value_score":60.58975,
             "region":"경상북도 구미시",
             "region_code":"Gyeongsangbukdo",
-            "sub_region_code":"4719000000_Gyeongsangbukdo_Gumi"
+            "sub_region_code":"4719000000_Gyeongsangbukdo_Gumi",
+            "shorten_url":"https:\/\/me2.do\/GC6imR6P"
         },
         {
             "index":12,
@@ -202,7 +218,8 @@
             "value_score":58.8795,
             "region":"경상북도 구미시",
             "region_code":"Gyeongsangbukdo",
-            "sub_region_code":"4719000000_Gyeongsangbukdo_Gumi"
+            "sub_region_code":"4719000000_Gyeongsangbukdo_Gumi",
+            "shorten_url":"https:\/\/me2.do\/GC6imR6P"
         },
         {
             "index":13,
@@ -214,7 +231,8 @@
             "value_score":58.83975,
             "region":"경상북도 구미시",
             "region_code":"Gyeongsangbukdo",
-            "sub_region_code":"4719000000_Gyeongsangbukdo_Gumi"
+            "sub_region_code":"4719000000_Gyeongsangbukdo_Gumi",
+            "shorten_url":"https:\/\/me2.do\/GC6imR6P"
         },
         {
             "index":14,
@@ -226,7 +244,8 @@
             "value_score":58.4375,
             "region":"경상북도 구미시",
             "region_code":"Gyeongsangbukdo",
-            "sub_region_code":"4719000000_Gyeongsangbukdo_Gumi"
+            "sub_region_code":"4719000000_Gyeongsangbukdo_Gumi",
+            "shorten_url":"https:\/\/me2.do\/GC6imR6P"
         },
         {
             "index":15,
@@ -238,7 +257,8 @@
             "value_score":58.3735,
             "region":"경상북도 구미시",
             "region_code":"Gyeongsangbukdo",
-            "sub_region_code":"4719000000_Gyeongsangbukdo_Gumi"
+            "sub_region_code":"4719000000_Gyeongsangbukdo_Gumi",
+            "shorten_url":"https:\/\/me2.do\/GC6imR6P"
         },
         {
             "index":16,
@@ -250,7 +270,8 @@
             "value_score":58.359,
             "region":"경상북도 구미시",
             "region_code":"Gyeongsangbukdo",
-            "sub_region_code":"4719000000_Gyeongsangbukdo_Gumi"
+            "sub_region_code":"4719000000_Gyeongsangbukdo_Gumi",
+            "shorten_url":"https:\/\/me2.do\/GC6imR6P"
         },
         {
             "index":17,
@@ -262,7 +283,8 @@
             "value_score":58.24175,
             "region":"경상북도 구미시",
             "region_code":"Gyeongsangbukdo",
-            "sub_region_code":"4719000000_Gyeongsangbukdo_Gumi"
+            "sub_region_code":"4719000000_Gyeongsangbukdo_Gumi",
+            "shorten_url":"https:\/\/me2.do\/GC6imR6P"
         },
         {
             "index":18,
@@ -274,7 +296,8 @@
             "value_score":56.8735,
             "region":"경상북도 구미시",
             "region_code":"Gyeongsangbukdo",
-            "sub_region_code":"4719000000_Gyeongsangbukdo_Gumi"
+            "sub_region_code":"4719000000_Gyeongsangbukdo_Gumi",
+            "shorten_url":"https:\/\/me2.do\/GC6imR6P"
         },
         {
             "index":19,
@@ -286,7 +309,8 @@
             "value_score":56.7875,
             "region":"경상북도 구미시",
             "region_code":"Gyeongsangbukdo",
-            "sub_region_code":"4719000000_Gyeongsangbukdo_Gumi"
+            "sub_region_code":"4719000000_Gyeongsangbukdo_Gumi",
+            "shorten_url":"https:\/\/me2.do\/GC6imR6P"
         },
         {
             "index":20,
@@ -298,7 +322,8 @@
             "value_score":53.4895789474,
             "region":"경상북도 구미시",
             "region_code":"Gyeongsangbukdo",
-            "sub_region_code":"4719000000_Gyeongsangbukdo_Gumi"
+            "sub_region_code":"4719000000_Gyeongsangbukdo_Gumi",
+            "shorten_url":"https:\/\/me2.do\/GC6imR6P"
         },
         {
             "index":21,
@@ -310,7 +335,8 @@
             "value_score":50.4369473684,
             "region":"경상북도 구미시",
             "region_code":"Gyeongsangbukdo",
-            "sub_region_code":"4719000000_Gyeongsangbukdo_Gumi"
+            "sub_region_code":"4719000000_Gyeongsangbukdo_Gumi",
+            "shorten_url":"https:\/\/me2.do\/GC6imR6P"
         },
         {
             "index":22,
@@ -322,7 +348,8 @@
             "value_score":50.2162105263,
             "region":"경상북도 구미시",
             "region_code":"Gyeongsangbukdo",
-            "sub_region_code":"4719000000_Gyeongsangbukdo_Gumi"
+            "sub_region_code":"4719000000_Gyeongsangbukdo_Gumi",
+            "shorten_url":"https:\/\/me2.do\/GC6imR6P"
         },
         {
             "index":23,
@@ -334,7 +361,8 @@
             "value_score":49.032,
             "region":"경상북도 구미시",
             "region_code":"Gyeongsangbukdo",
-            "sub_region_code":"4719000000_Gyeongsangbukdo_Gumi"
+            "sub_region_code":"4719000000_Gyeongsangbukdo_Gumi",
+            "shorten_url":"https:\/\/me2.do\/GC6imR6P"
         },
         {
             "index":24,
@@ -346,7 +374,8 @@
             "value_score":48.8741052632,
             "region":"경상북도 구미시",
             "region_code":"Gyeongsangbukdo",
-            "sub_region_code":"4719000000_Gyeongsangbukdo_Gumi"
+            "sub_region_code":"4719000000_Gyeongsangbukdo_Gumi",
+            "shorten_url":"https:\/\/me2.do\/GC6imR6P"
         },
         {
             "index":25,
@@ -358,7 +387,8 @@
             "value_score":47.9473684211,
             "region":"경상북도 구미시",
             "region_code":"Gyeongsangbukdo",
-            "sub_region_code":"4719000000_Gyeongsangbukdo_Gumi"
+            "sub_region_code":"4719000000_Gyeongsangbukdo_Gumi",
+            "shorten_url":"https:\/\/me2.do\/GC6imR6P"
         },
         {
             "index":26,
@@ -370,7 +400,8 @@
             "value_score":47.9271578947,
             "region":"경상북도 구미시",
             "region_code":"Gyeongsangbukdo",
-            "sub_region_code":"4719000000_Gyeongsangbukdo_Gumi"
+            "sub_region_code":"4719000000_Gyeongsangbukdo_Gumi",
+            "shorten_url":"https:\/\/me2.do\/GC6imR6P"
         },
         {
             "index":27,
@@ -382,7 +413,8 @@
             "value_score":47.2937894737,
             "region":"경상북도 구미시",
             "region_code":"Gyeongsangbukdo",
-            "sub_region_code":"4719000000_Gyeongsangbukdo_Gumi"
+            "sub_region_code":"4719000000_Gyeongsangbukdo_Gumi",
+            "shorten_url":"https:\/\/me2.do\/GC6imR6P"
         },
         {
             "index":28,
@@ -394,7 +426,8 @@
             "value_score":47.0850526316,
             "region":"경상북도 구미시",
             "region_code":"Gyeongsangbukdo",
-            "sub_region_code":"4719000000_Gyeongsangbukdo_Gumi"
+            "sub_region_code":"4719000000_Gyeongsangbukdo_Gumi",
+            "shorten_url":"https:\/\/me2.do\/GC6imR6P"
         },
         {
             "index":29,
@@ -406,7 +439,8 @@
             "value_score":46.5832631579,
             "region":"경상북도 구미시",
             "region_code":"Gyeongsangbukdo",
-            "sub_region_code":"4719000000_Gyeongsangbukdo_Gumi"
+            "sub_region_code":"4719000000_Gyeongsangbukdo_Gumi",
+            "shorten_url":"https:\/\/me2.do\/GC6imR6P"
         },
         {
             "index":30,
@@ -418,7 +452,8 @@
             "value_score":60.6085,
             "region":"경상북도 구미시",
             "region_code":"Gyeongsangbukdo",
-            "sub_region_code":"4719000000_Gyeongsangbukdo_Gumi"
+            "sub_region_code":"4719000000_Gyeongsangbukdo_Gumi",
+            "shorten_url":"https:\/\/me2.do\/GC6imR6P"
         },
         {
             "index":31,
@@ -430,7 +465,8 @@
             "value_score":59.6085,
             "region":"경상북도 구미시",
             "region_code":"Gyeongsangbukdo",
-            "sub_region_code":"4719000000_Gyeongsangbukdo_Gumi"
+            "sub_region_code":"4719000000_Gyeongsangbukdo_Gumi",
+            "shorten_url":"https:\/\/me2.do\/GC6imR6P"
         },
         {
             "index":32,
@@ -442,7 +478,8 @@
             "value_score":58.509,
             "region":"경상북도 구미시",
             "region_code":"Gyeongsangbukdo",
-            "sub_region_code":"4719000000_Gyeongsangbukdo_Gumi"
+            "sub_region_code":"4719000000_Gyeongsangbukdo_Gumi",
+            "shorten_url":"https:\/\/me2.do\/GC6imR6P"
         },
         {
             "index":33,
@@ -454,7 +491,8 @@
             "value_score":56.634,
             "region":"경상북도 구미시",
             "region_code":"Gyeongsangbukdo",
-            "sub_region_code":"4719000000_Gyeongsangbukdo_Gumi"
+            "sub_region_code":"4719000000_Gyeongsangbukdo_Gumi",
+            "shorten_url":"https:\/\/me2.do\/GC6imR6P"
         },
         {
             "index":34,
@@ -466,7 +504,8 @@
             "value_score":56.384,
             "region":"경상북도 구미시",
             "region_code":"Gyeongsangbukdo",
-            "sub_region_code":"4719000000_Gyeongsangbukdo_Gumi"
+            "sub_region_code":"4719000000_Gyeongsangbukdo_Gumi",
+            "shorten_url":"https:\/\/me2.do\/GC6imR6P"
         },
         {
             "index":35,
@@ -478,7 +517,8 @@
             "value_score":55.85,
             "region":"경상북도 구미시",
             "region_code":"Gyeongsangbukdo",
-            "sub_region_code":"4719000000_Gyeongsangbukdo_Gumi"
+            "sub_region_code":"4719000000_Gyeongsangbukdo_Gumi",
+            "shorten_url":"https:\/\/me2.do\/GC6imR6P"
         },
         {
             "index":36,
@@ -490,7 +530,8 @@
             "value_score":54.9295,
             "region":"경상북도 구미시",
             "region_code":"Gyeongsangbukdo",
-            "sub_region_code":"4719000000_Gyeongsangbukdo_Gumi"
+            "sub_region_code":"4719000000_Gyeongsangbukdo_Gumi",
+            "shorten_url":"https:\/\/me2.do\/GC6imR6P"
         },
         {
             "index":37,
@@ -502,7 +543,8 @@
             "value_score":54.1085,
             "region":"경상북도 구미시",
             "region_code":"Gyeongsangbukdo",
-            "sub_region_code":"4719000000_Gyeongsangbukdo_Gumi"
+            "sub_region_code":"4719000000_Gyeongsangbukdo_Gumi",
+            "shorten_url":"https:\/\/me2.do\/GC6imR6P"
         },
         {
             "index":38,
@@ -514,7 +556,8 @@
             "value_score":53.2985,
             "region":"경상북도 구미시",
             "region_code":"Gyeongsangbukdo",
-            "sub_region_code":"4719000000_Gyeongsangbukdo_Gumi"
+            "sub_region_code":"4719000000_Gyeongsangbukdo_Gumi",
+            "shorten_url":"https:\/\/me2.do\/GC6imR6P"
         },
         {
             "index":39,
@@ -526,7 +569,8 @@
             "value_score":53.122,
             "region":"경상북도 구미시",
             "region_code":"Gyeongsangbukdo",
-            "sub_region_code":"4719000000_Gyeongsangbukdo_Gumi"
+            "sub_region_code":"4719000000_Gyeongsangbukdo_Gumi",
+            "shorten_url":"https:\/\/me2.do\/GC6imR6P"
         }
     ]
 }

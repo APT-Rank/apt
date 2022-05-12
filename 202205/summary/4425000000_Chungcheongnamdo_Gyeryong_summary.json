@@ -40,6 +40,10 @@
             {
                 "name":"sub_region_code",
                 "type":"string"
+            },
+            {
+                "name":"shorten_url",
+                "type":"string"
             }
         ],
         "primaryKey":[
@@ -58,7 +62,8 @@
             "value_score":49.29,
             "region":"충청남도 계룡시",
             "region_code":"Chungcheongnamdo",
-            "sub_region_code":"4425000000_Chungcheongnamdo_Gyeryong"
+            "sub_region_code":"4425000000_Chungcheongnamdo_Gyeryong",
+            "shorten_url":"https:\/\/me2.do\/Gq1lhO8j"
         },
         {
             "index":1,
@@ -70,7 +75,8 @@
             "value_score":47.89,
             "region":"충청남도 계룡시",
             "region_code":"Chungcheongnamdo",
-            "sub_region_code":"4425000000_Chungcheongnamdo_Gyeryong"
+            "sub_region_code":"4425000000_Chungcheongnamdo_Gyeryong",
+            "shorten_url":"https:\/\/me2.do\/Gq1lhO8j"
         },
         {
             "index":2,
@@ -82,7 +88,8 @@
             "value_score":47.74,
             "region":"충청남도 계룡시",
             "region_code":"Chungcheongnamdo",
-            "sub_region_code":"4425000000_Chungcheongnamdo_Gyeryong"
+            "sub_region_code":"4425000000_Chungcheongnamdo_Gyeryong",
+            "shorten_url":"https:\/\/me2.do\/Gq1lhO8j"
         },
         {
             "index":3,
@@ -94,7 +101,8 @@
             "value_score":47.74,
             "region":"충청남도 계룡시",
             "region_code":"Chungcheongnamdo",
-            "sub_region_code":"4425000000_Chungcheongnamdo_Gyeryong"
+            "sub_region_code":"4425000000_Chungcheongnamdo_Gyeryong",
+            "shorten_url":"https:\/\/me2.do\/Gq1lhO8j"
         },
         {
             "index":4,
@@ -106,7 +114,8 @@
             "value_score":46.84,
             "region":"충청남도 계룡시",
             "region_code":"Chungcheongnamdo",
-            "sub_region_code":"4425000000_Chungcheongnamdo_Gyeryong"
+            "sub_region_code":"4425000000_Chungcheongnamdo_Gyeryong",
+            "shorten_url":"https:\/\/me2.do\/Gq1lhO8j"
         },
         {
             "index":5,
@@ -118,7 +127,8 @@
             "value_score":46.84,
             "region":"충청남도 계룡시",
             "region_code":"Chungcheongnamdo",
-            "sub_region_code":"4425000000_Chungcheongnamdo_Gyeryong"
+            "sub_region_code":"4425000000_Chungcheongnamdo_Gyeryong",
+            "shorten_url":"https:\/\/me2.do\/Gq1lhO8j"
         },
         {
             "index":6,
@@ -130,7 +140,8 @@
             "value_score":43.69,
             "region":"충청남도 계룡시",
             "region_code":"Chungcheongnamdo",
-            "sub_region_code":"4425000000_Chungcheongnamdo_Gyeryong"
+            "sub_region_code":"4425000000_Chungcheongnamdo_Gyeryong",
+            "shorten_url":"https:\/\/me2.do\/Gq1lhO8j"
         },
         {
             "index":7,
@@ -142,7 +153,8 @@
             "value_score":43.69,
             "region":"충청남도 계룡시",
             "region_code":"Chungcheongnamdo",
-            "sub_region_code":"4425000000_Chungcheongnamdo_Gyeryong"
+            "sub_region_code":"4425000000_Chungcheongnamdo_Gyeryong",
+            "shorten_url":"https:\/\/me2.do\/Gq1lhO8j"
         },
         {
             "index":8,
@@ -154,7 +166,8 @@
             "value_score":43.54,
             "region":"충청남도 계룡시",
             "region_code":"Chungcheongnamdo",
-            "sub_region_code":"4425000000_Chungcheongnamdo_Gyeryong"
+            "sub_region_code":"4425000000_Chungcheongnamdo_Gyeryong",
+            "shorten_url":"https:\/\/me2.do\/Gq1lhO8j"
         },
         {
             "index":9,
@@ -166,7 +179,8 @@
             "value_score":42.99145,
             "region":"충청남도 계룡시",
             "region_code":"Chungcheongnamdo",
-            "sub_region_code":"4425000000_Chungcheongnamdo_Gyeryong"
+            "sub_region_code":"4425000000_Chungcheongnamdo_Gyeryong",
+            "shorten_url":"https:\/\/me2.do\/Gq1lhO8j"
         },
         {
             "index":10,
@@ -178,7 +192,8 @@
             "value_score":52.35,
             "region":"충청남도 계룡시",
             "region_code":"Chungcheongnamdo",
-            "sub_region_code":"4425000000_Chungcheongnamdo_Gyeryong"
+            "sub_region_code":"4425000000_Chungcheongnamdo_Gyeryong",
+            "shorten_url":"https:\/\/me2.do\/Gq1lhO8j"
         },
         {
             "index":11,
@@ -190,7 +205,8 @@
             "value_score":50.6,
             "region":"충청남도 계룡시",
             "region_code":"Chungcheongnamdo",
-            "sub_region_code":"4425000000_Chungcheongnamdo_Gyeryong"
+            "sub_region_code":"4425000000_Chungcheongnamdo_Gyeryong",
+            "shorten_url":"https:\/\/me2.do\/Gq1lhO8j"
         },
         {
             "index":12,
@@ -202,7 +218,8 @@
             "value_score":50.45,
             "region":"충청남도 계룡시",
             "region_code":"Chungcheongnamdo",
-            "sub_region_code":"4425000000_Chungcheongnamdo_Gyeryong"
+            "sub_region_code":"4425000000_Chungcheongnamdo_Gyeryong",
+            "shorten_url":"https:\/\/me2.do\/Gq1lhO8j"
         },
         {
             "index":13,
@@ -214,7 +231,8 @@
             "value_score":49.6,
             "region":"충청남도 계룡시",
             "region_code":"Chungcheongnamdo",
-            "sub_region_code":"4425000000_Chungcheongnamdo_Gyeryong"
+            "sub_region_code":"4425000000_Chungcheongnamdo_Gyeryong",
+            "shorten_url":"https:\/\/me2.do\/Gq1lhO8j"
         },
         {
             "index":14,
@@ -226,7 +244,8 @@
             "value_score":48.35,
             "region":"충청남도 계룡시",
             "region_code":"Chungcheongnamdo",
-            "sub_region_code":"4425000000_Chungcheongnamdo_Gyeryong"
+            "sub_region_code":"4425000000_Chungcheongnamdo_Gyeryong",
+            "shorten_url":"https:\/\/me2.do\/Gq1lhO8j"
         },
         {
             "index":15,
@@ -238,7 +257,8 @@
             "value_score":48.35,
             "region":"충청남도 계룡시",
             "region_code":"Chungcheongnamdo",
-            "sub_region_code":"4425000000_Chungcheongnamdo_Gyeryong"
+            "sub_region_code":"4425000000_Chungcheongnamdo_Gyeryong",
+            "shorten_url":"https:\/\/me2.do\/Gq1lhO8j"
         },
         {
             "index":16,
@@ -250,7 +270,8 @@
             "value_score":45.35,
             "region":"충청남도 계룡시",
             "region_code":"Chungcheongnamdo",
-            "sub_region_code":"4425000000_Chungcheongnamdo_Gyeryong"
+            "sub_region_code":"4425000000_Chungcheongnamdo_Gyeryong",
+            "shorten_url":"https:\/\/me2.do\/Gq1lhO8j"
         },
         {
             "index":17,
@@ -262,7 +283,8 @@
             "value_score":45.35,
             "region":"충청남도 계룡시",
             "region_code":"Chungcheongnamdo",
-            "sub_region_code":"4425000000_Chungcheongnamdo_Gyeryong"
+            "sub_region_code":"4425000000_Chungcheongnamdo_Gyeryong",
+            "shorten_url":"https:\/\/me2.do\/Gq1lhO8j"
         },
         {
             "index":18,
@@ -274,7 +296,8 @@
             "value_score":44.45,
             "region":"충청남도 계룡시",
             "region_code":"Chungcheongnamdo",
-            "sub_region_code":"4425000000_Chungcheongnamdo_Gyeryong"
+            "sub_region_code":"4425000000_Chungcheongnamdo_Gyeryong",
+            "shorten_url":"https:\/\/me2.do\/Gq1lhO8j"
         },
         {
             "index":19,
@@ -286,7 +309,8 @@
             "value_score":41.63675,
             "region":"충청남도 계룡시",
             "region_code":"Chungcheongnamdo",
-            "sub_region_code":"4425000000_Chungcheongnamdo_Gyeryong"
+            "sub_region_code":"4425000000_Chungcheongnamdo_Gyeryong",
+            "shorten_url":"https:\/\/me2.do\/Gq1lhO8j"
         },
         {
             "index":20,
@@ -298,7 +322,8 @@
             "value_score":37.5674736842,
             "region":"충청남도 계룡시",
             "region_code":"Chungcheongnamdo",
-            "sub_region_code":"4425000000_Chungcheongnamdo_Gyeryong"
+            "sub_region_code":"4425000000_Chungcheongnamdo_Gyeryong",
+            "shorten_url":"https:\/\/me2.do\/Gq1lhO8j"
         },
         {
             "index":21,
@@ -310,7 +335,8 @@
             "value_score":37.4885263158,
             "region":"충청남도 계룡시",
             "region_code":"Chungcheongnamdo",
-            "sub_region_code":"4425000000_Chungcheongnamdo_Gyeryong"
+            "sub_region_code":"4425000000_Chungcheongnamdo_Gyeryong",
+            "shorten_url":"https:\/\/me2.do\/Gq1lhO8j"
         },
         {
             "index":22,
@@ -322,7 +348,8 @@
             "value_score":36.1727368421,
             "region":"충청남도 계룡시",
             "region_code":"Chungcheongnamdo",
-            "sub_region_code":"4425000000_Chungcheongnamdo_Gyeryong"
+            "sub_region_code":"4425000000_Chungcheongnamdo_Gyeryong",
+            "shorten_url":"https:\/\/me2.do\/Gq1lhO8j"
         },
         {
             "index":23,
@@ -334,7 +361,8 @@
             "value_score":34.7842105263,
             "region":"충청남도 계룡시",
             "region_code":"Chungcheongnamdo",
-            "sub_region_code":"4425000000_Chungcheongnamdo_Gyeryong"
+            "sub_region_code":"4425000000_Chungcheongnamdo_Gyeryong",
+            "shorten_url":"https:\/\/me2.do\/Gq1lhO8j"
         },
         {
             "index":24,
@@ -346,7 +374,8 @@
             "value_score":34.7842105263,
             "region":"충청남도 계룡시",
             "region_code":"Chungcheongnamdo",
-            "sub_region_code":"4425000000_Chungcheongnamdo_Gyeryong"
+            "sub_region_code":"4425000000_Chungcheongnamdo_Gyeryong",
+            "shorten_url":"https:\/\/me2.do\/Gq1lhO8j"
         },
         {
             "index":25,
@@ -358,7 +387,8 @@
             "value_score":34.2842105263,
             "region":"충청남도 계룡시",
             "region_code":"Chungcheongnamdo",
-            "sub_region_code":"4425000000_Chungcheongnamdo_Gyeryong"
+            "sub_region_code":"4425000000_Chungcheongnamdo_Gyeryong",
+            "shorten_url":"https:\/\/me2.do\/Gq1lhO8j"
         },
         {
             "index":26,
@@ -370,7 +400,8 @@
             "value_score":33.4095789474,
             "region":"충청남도 계룡시",
             "region_code":"Chungcheongnamdo",
-            "sub_region_code":"4425000000_Chungcheongnamdo_Gyeryong"
+            "sub_region_code":"4425000000_Chungcheongnamdo_Gyeryong",
+            "shorten_url":"https:\/\/me2.do\/Gq1lhO8j"
         },
         {
             "index":27,
@@ -382,7 +413,8 @@
             "value_score":31.9421052632,
             "region":"충청남도 계룡시",
             "region_code":"Chungcheongnamdo",
-            "sub_region_code":"4425000000_Chungcheongnamdo_Gyeryong"
+            "sub_region_code":"4425000000_Chungcheongnamdo_Gyeryong",
+            "shorten_url":"https:\/\/me2.do\/Gq1lhO8j"
         },
         {
             "index":28,
@@ -394,7 +426,8 @@
             "value_score":31.0411578947,
             "region":"충청남도 계룡시",
             "region_code":"Chungcheongnamdo",
-            "sub_region_code":"4425000000_Chungcheongnamdo_Gyeryong"
+            "sub_region_code":"4425000000_Chungcheongnamdo_Gyeryong",
+            "shorten_url":"https:\/\/me2.do\/Gq1lhO8j"
         },
         {
             "index":29,
@@ -406,7 +439,8 @@
             "value_score":29.3368421053,
             "region":"충청남도 계룡시",
             "region_code":"Chungcheongnamdo",
-            "sub_region_code":"4425000000_Chungcheongnamdo_Gyeryong"
+            "sub_region_code":"4425000000_Chungcheongnamdo_Gyeryong",
+            "shorten_url":"https:\/\/me2.do\/Gq1lhO8j"
         },
         {
             "index":30,
@@ -418,7 +452,8 @@
             "value_score":45.0235,
             "region":"충청남도 계룡시",
             "region_code":"Chungcheongnamdo",
-            "sub_region_code":"4425000000_Chungcheongnamdo_Gyeryong"
+            "sub_region_code":"4425000000_Chungcheongnamdo_Gyeryong",
+            "shorten_url":"https:\/\/me2.do\/Gq1lhO8j"
         },
         {
             "index":31,
@@ -430,7 +465,8 @@
             "value_score":44.95,
             "region":"충청남도 계룡시",
             "region_code":"Chungcheongnamdo",
-            "sub_region_code":"4425000000_Chungcheongnamdo_Gyeryong"
+            "sub_region_code":"4425000000_Chungcheongnamdo_Gyeryong",
+            "shorten_url":"https:\/\/me2.do\/Gq1lhO8j"
         },
         {
             "index":32,
@@ -442,7 +478,8 @@
             "value_score":44.7,
             "region":"충청남도 계룡시",
             "region_code":"Chungcheongnamdo",
-            "sub_region_code":"4425000000_Chungcheongnamdo_Gyeryong"
+            "sub_region_code":"4425000000_Chungcheongnamdo_Gyeryong",
+            "shorten_url":"https:\/\/me2.do\/Gq1lhO8j"
         },
         {
             "index":33,
@@ -454,7 +491,8 @@
             "value_score":44.575,
             "region":"충청남도 계룡시",
             "region_code":"Chungcheongnamdo",
-            "sub_region_code":"4425000000_Chungcheongnamdo_Gyeryong"
+            "sub_region_code":"4425000000_Chungcheongnamdo_Gyeryong",
+            "shorten_url":"https:\/\/me2.do\/Gq1lhO8j"
         },
         {
             "index":34,
@@ -466,7 +504,8 @@
             "value_score":44.575,
             "region":"충청남도 계룡시",
             "region_code":"Chungcheongnamdo",
-            "sub_region_code":"4425000000_Chungcheongnamdo_Gyeryong"
+            "sub_region_code":"4425000000_Chungcheongnamdo_Gyeryong",
+            "shorten_url":"https:\/\/me2.do\/Gq1lhO8j"
         },
         {
             "index":35,
@@ -478,7 +517,8 @@
             "value_score":43.825,
             "region":"충청남도 계룡시",
             "region_code":"Chungcheongnamdo",
-            "sub_region_code":"4425000000_Chungcheongnamdo_Gyeryong"
+            "sub_region_code":"4425000000_Chungcheongnamdo_Gyeryong",
+            "shorten_url":"https:\/\/me2.do\/Gq1lhO8j"
         },
         {
             "index":36,
@@ -490,7 +530,8 @@
             "value_score":43.675,
             "region":"충청남도 계룡시",
             "region_code":"Chungcheongnamdo",
-            "sub_region_code":"4425000000_Chungcheongnamdo_Gyeryong"
+            "sub_region_code":"4425000000_Chungcheongnamdo_Gyeryong",
+            "shorten_url":"https:\/\/me2.do\/Gq1lhO8j"
         },
         {
             "index":37,
@@ -502,7 +543,8 @@
             "value_score":42.175,
             "region":"충청남도 계룡시",
             "region_code":"Chungcheongnamdo",
-            "sub_region_code":"4425000000_Chungcheongnamdo_Gyeryong"
+            "sub_region_code":"4425000000_Chungcheongnamdo_Gyeryong",
+            "shorten_url":"https:\/\/me2.do\/Gq1lhO8j"
         },
         {
             "index":38,
@@ -514,7 +556,8 @@
             "value_score":41.3985,
             "region":"충청남도 계룡시",
             "region_code":"Chungcheongnamdo",
-            "sub_region_code":"4425000000_Chungcheongnamdo_Gyeryong"
+            "sub_region_code":"4425000000_Chungcheongnamdo_Gyeryong",
+            "shorten_url":"https:\/\/me2.do\/Gq1lhO8j"
         },
         {
             "index":39,
@@ -526,7 +569,8 @@
             "value_score":41.2,
             "region":"충청남도 계룡시",
             "region_code":"Chungcheongnamdo",
-            "sub_region_code":"4425000000_Chungcheongnamdo_Gyeryong"
+            "sub_region_code":"4425000000_Chungcheongnamdo_Gyeryong",
+            "shorten_url":"https:\/\/me2.do\/Gq1lhO8j"
         }
     ]
 }

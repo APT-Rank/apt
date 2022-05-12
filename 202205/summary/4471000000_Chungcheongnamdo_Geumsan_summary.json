@@ -40,6 +40,10 @@
             {
                 "name":"sub_region_code",
                 "type":"string"
+            },
+            {
+                "name":"shorten_url",
+                "type":"string"
             }
         ],
         "primaryKey":[
@@ -58,7 +62,8 @@
             "value_score":44.7121,
             "region":"충청남도 금산군",
             "region_code":"Chungcheongnamdo",
-            "sub_region_code":"4471000000_Chungcheongnamdo_Geumsan"
+            "sub_region_code":"4471000000_Chungcheongnamdo_Geumsan",
+            "shorten_url":"https:\/\/me2.do\/GK5PRMWs"
         },
         {
             "index":1,
@@ -70,7 +75,8 @@
             "value_score":43.6791,
             "region":"충청남도 금산군",
             "region_code":"Chungcheongnamdo",
-            "sub_region_code":"4471000000_Chungcheongnamdo_Geumsan"
+            "sub_region_code":"4471000000_Chungcheongnamdo_Geumsan",
+            "shorten_url":"https:\/\/me2.do\/GK5PRMWs"
         },
         {
             "index":2,
@@ -82,7 +88,8 @@
             "value_score":40.7791,
             "region":"충청남도 금산군",
             "region_code":"Chungcheongnamdo",
-            "sub_region_code":"4471000000_Chungcheongnamdo_Geumsan"
+            "sub_region_code":"4471000000_Chungcheongnamdo_Geumsan",
+            "shorten_url":"https:\/\/me2.do\/GK5PRMWs"
         },
         {
             "index":3,
@@ -94,7 +101,8 @@
             "value_score":36.6851,
             "region":"충청남도 금산군",
             "region_code":"Chungcheongnamdo",
-            "sub_region_code":"4471000000_Chungcheongnamdo_Geumsan"
+            "sub_region_code":"4471000000_Chungcheongnamdo_Geumsan",
+            "shorten_url":"https:\/\/me2.do\/GK5PRMWs"
         },
         {
             "index":4,
@@ -106,7 +114,8 @@
             "value_score":31.6851,
             "region":"충청남도 금산군",
             "region_code":"Chungcheongnamdo",
-            "sub_region_code":"4471000000_Chungcheongnamdo_Geumsan"
+            "sub_region_code":"4471000000_Chungcheongnamdo_Geumsan",
+            "shorten_url":"https:\/\/me2.do\/GK5PRMWs"
         },
         {
             "index":5,
@@ -118,7 +127,8 @@
             "value_score":27.8205,
             "region":"충청남도 금산군",
             "region_code":"Chungcheongnamdo",
-            "sub_region_code":"4471000000_Chungcheongnamdo_Geumsan"
+            "sub_region_code":"4471000000_Chungcheongnamdo_Geumsan",
+            "shorten_url":"https:\/\/me2.do\/GK5PRMWs"
         },
         {
             "index":6,
@@ -130,7 +140,8 @@
             "value_score":27.8121,
             "region":"충청남도 금산군",
             "region_code":"Chungcheongnamdo",
-            "sub_region_code":"4471000000_Chungcheongnamdo_Geumsan"
+            "sub_region_code":"4471000000_Chungcheongnamdo_Geumsan",
+            "shorten_url":"https:\/\/me2.do\/GK5PRMWs"
         },
         {
             "index":7,
@@ -142,7 +153,8 @@
             "value_score":27.4851,
             "region":"충청남도 금산군",
             "region_code":"Chungcheongnamdo",
-            "sub_region_code":"4471000000_Chungcheongnamdo_Geumsan"
+            "sub_region_code":"4471000000_Chungcheongnamdo_Geumsan",
+            "shorten_url":"https:\/\/me2.do\/GK5PRMWs"
         },
         {
             "index":8,
@@ -154,7 +166,8 @@
             "value_score":26.3351,
             "region":"충청남도 금산군",
             "region_code":"Chungcheongnamdo",
-            "sub_region_code":"4471000000_Chungcheongnamdo_Geumsan"
+            "sub_region_code":"4471000000_Chungcheongnamdo_Geumsan",
+            "shorten_url":"https:\/\/me2.do\/GK5PRMWs"
         },
         {
             "index":9,
@@ -166,7 +179,8 @@
             "value_score":24.6705,
             "region":"충청남도 금산군",
             "region_code":"Chungcheongnamdo",
-            "sub_region_code":"4471000000_Chungcheongnamdo_Geumsan"
+            "sub_region_code":"4471000000_Chungcheongnamdo_Geumsan",
+            "shorten_url":"https:\/\/me2.do\/GK5PRMWs"
         },
         {
             "index":10,
@@ -178,7 +192,8 @@
             "value_score":47.1515,
             "region":"충청남도 금산군",
             "region_code":"Chungcheongnamdo",
-            "sub_region_code":"4471000000_Chungcheongnamdo_Geumsan"
+            "sub_region_code":"4471000000_Chungcheongnamdo_Geumsan",
+            "shorten_url":"https:\/\/me2.do\/GK5PRMWs"
         },
         {
             "index":11,
@@ -190,7 +205,8 @@
             "value_score":45.5565,
             "region":"충청남도 금산군",
             "region_code":"Chungcheongnamdo",
-            "sub_region_code":"4471000000_Chungcheongnamdo_Geumsan"
+            "sub_region_code":"4471000000_Chungcheongnamdo_Geumsan",
+            "shorten_url":"https:\/\/me2.do\/GK5PRMWs"
         },
         {
             "index":12,
@@ -202,7 +218,8 @@
             "value_score":43.0565,
             "region":"충청남도 금산군",
             "region_code":"Chungcheongnamdo",
-            "sub_region_code":"4471000000_Chungcheongnamdo_Geumsan"
+            "sub_region_code":"4471000000_Chungcheongnamdo_Geumsan",
+            "shorten_url":"https:\/\/me2.do\/GK5PRMWs"
         },
         {
             "index":13,
@@ -214,7 +231,8 @@
             "value_score":36.3465,
             "region":"충청남도 금산군",
             "region_code":"Chungcheongnamdo",
-            "sub_region_code":"4471000000_Chungcheongnamdo_Geumsan"
+            "sub_region_code":"4471000000_Chungcheongnamdo_Geumsan",
+            "shorten_url":"https:\/\/me2.do\/GK5PRMWs"
         },
         {
             "index":14,
@@ -226,7 +244,8 @@
             "value_score":30.0965,
             "region":"충청남도 금산군",
             "region_code":"Chungcheongnamdo",
-            "sub_region_code":"4471000000_Chungcheongnamdo_Geumsan"
+            "sub_region_code":"4471000000_Chungcheongnamdo_Geumsan",
+            "shorten_url":"https:\/\/me2.do\/GK5PRMWs"
         },
         {
             "index":15,
@@ -238,7 +257,8 @@
             "value_score":25.9015,
             "region":"충청남도 금산군",
             "region_code":"Chungcheongnamdo",
-            "sub_region_code":"4471000000_Chungcheongnamdo_Geumsan"
+            "sub_region_code":"4471000000_Chungcheongnamdo_Geumsan",
+            "shorten_url":"https:\/\/me2.do\/GK5PRMWs"
         },
         {
             "index":16,
@@ -250,7 +270,8 @@
             "value_score":25.6575,
             "region":"충청남도 금산군",
             "region_code":"Chungcheongnamdo",
-            "sub_region_code":"4471000000_Chungcheongnamdo_Geumsan"
+            "sub_region_code":"4471000000_Chungcheongnamdo_Geumsan",
+            "shorten_url":"https:\/\/me2.do\/GK5PRMWs"
         },
         {
             "index":17,
@@ -262,7 +283,8 @@
             "value_score":24.8465,
             "region":"충청남도 금산군",
             "region_code":"Chungcheongnamdo",
-            "sub_region_code":"4471000000_Chungcheongnamdo_Geumsan"
+            "sub_region_code":"4471000000_Chungcheongnamdo_Geumsan",
+            "shorten_url":"https:\/\/me2.do\/GK5PRMWs"
         },
         {
             "index":18,
@@ -274,7 +296,8 @@
             "value_score":23.6965,
             "region":"충청남도 금산군",
             "region_code":"Chungcheongnamdo",
-            "sub_region_code":"4471000000_Chungcheongnamdo_Geumsan"
+            "sub_region_code":"4471000000_Chungcheongnamdo_Geumsan",
+            "shorten_url":"https:\/\/me2.do\/GK5PRMWs"
         },
         {
             "index":19,
@@ -286,7 +309,8 @@
             "value_score":22.5075,
             "region":"충청남도 금산군",
             "region_code":"Chungcheongnamdo",
-            "sub_region_code":"4471000000_Chungcheongnamdo_Geumsan"
+            "sub_region_code":"4471000000_Chungcheongnamdo_Geumsan",
+            "shorten_url":"https:\/\/me2.do\/GK5PRMWs"
         },
         {
             "index":20,
@@ -298,7 +322,8 @@
             "value_score":32.5597894737,
             "region":"충청남도 금산군",
             "region_code":"Chungcheongnamdo",
-            "sub_region_code":"4471000000_Chungcheongnamdo_Geumsan"
+            "sub_region_code":"4471000000_Chungcheongnamdo_Geumsan",
+            "shorten_url":"https:\/\/me2.do\/GK5PRMWs"
         },
         {
             "index":21,
@@ -310,7 +335,8 @@
             "value_score":32.4397894737,
             "region":"충청남도 금산군",
             "region_code":"Chungcheongnamdo",
-            "sub_region_code":"4471000000_Chungcheongnamdo_Geumsan"
+            "sub_region_code":"4471000000_Chungcheongnamdo_Geumsan",
+            "shorten_url":"https:\/\/me2.do\/GK5PRMWs"
         },
         {
             "index":22,
@@ -322,7 +348,8 @@
             "value_score":30.4903157895,
             "region":"충청남도 금산군",
             "region_code":"Chungcheongnamdo",
-            "sub_region_code":"4471000000_Chungcheongnamdo_Geumsan"
+            "sub_region_code":"4471000000_Chungcheongnamdo_Geumsan",
+            "shorten_url":"https:\/\/me2.do\/GK5PRMWs"
         },
         {
             "index":23,
@@ -334,7 +361,8 @@
             "value_score":28.5166315789,
             "region":"충청남도 금산군",
             "region_code":"Chungcheongnamdo",
-            "sub_region_code":"4471000000_Chungcheongnamdo_Geumsan"
+            "sub_region_code":"4471000000_Chungcheongnamdo_Geumsan",
+            "shorten_url":"https:\/\/me2.do\/GK5PRMWs"
         },
         {
             "index":24,
@@ -346,7 +374,8 @@
             "value_score":26.8587368421,
             "region":"충청남도 금산군",
             "region_code":"Chungcheongnamdo",
-            "sub_region_code":"4471000000_Chungcheongnamdo_Geumsan"
+            "sub_region_code":"4471000000_Chungcheongnamdo_Geumsan",
+            "shorten_url":"https:\/\/me2.do\/GK5PRMWs"
         },
         {
             "index":25,
@@ -358,7 +387,8 @@
             "value_score":26.744,
             "region":"충청남도 금산군",
             "region_code":"Chungcheongnamdo",
-            "sub_region_code":"4471000000_Chungcheongnamdo_Geumsan"
+            "sub_region_code":"4471000000_Chungcheongnamdo_Geumsan",
+            "shorten_url":"https:\/\/me2.do\/GK5PRMWs"
         },
         {
             "index":26,
@@ -370,7 +400,8 @@
             "value_score":25.1463157895,
             "region":"충청남도 금산군",
             "region_code":"Chungcheongnamdo",
-            "sub_region_code":"4471000000_Chungcheongnamdo_Geumsan"
+            "sub_region_code":"4471000000_Chungcheongnamdo_Geumsan",
+            "shorten_url":"https:\/\/me2.do\/GK5PRMWs"
         },
         {
             "index":27,
@@ -382,7 +413,8 @@
             "value_score":24.4376842105,
             "region":"충청남도 금산군",
             "region_code":"Chungcheongnamdo",
-            "sub_region_code":"4471000000_Chungcheongnamdo_Geumsan"
+            "sub_region_code":"4471000000_Chungcheongnamdo_Geumsan",
+            "shorten_url":"https:\/\/me2.do\/GK5PRMWs"
         },
         {
             "index":28,
@@ -394,7 +426,8 @@
             "value_score":23.5976842105,
             "region":"충청남도 금산군",
             "region_code":"Chungcheongnamdo",
-            "sub_region_code":"4471000000_Chungcheongnamdo_Geumsan"
+            "sub_region_code":"4471000000_Chungcheongnamdo_Geumsan",
+            "shorten_url":"https:\/\/me2.do\/GK5PRMWs"
         },
         {
             "index":29,
@@ -406,7 +439,8 @@
             "value_score":18.5147368421,
             "region":"충청남도 금산군",
             "region_code":"Chungcheongnamdo",
-            "sub_region_code":"4471000000_Chungcheongnamdo_Geumsan"
+            "sub_region_code":"4471000000_Chungcheongnamdo_Geumsan",
+            "shorten_url":"https:\/\/me2.do\/GK5PRMWs"
         },
         {
             "index":30,
@@ -418,7 +452,8 @@
             "value_score":41.053,
             "region":"충청남도 금산군",
             "region_code":"Chungcheongnamdo",
-            "sub_region_code":"4471000000_Chungcheongnamdo_Geumsan"
+            "sub_region_code":"4471000000_Chungcheongnamdo_Geumsan",
+            "shorten_url":"https:\/\/me2.do\/GK5PRMWs"
         },
         {
             "index":31,
@@ -430,7 +465,8 @@
             "value_score":40.863,
             "region":"충청남도 금산군",
             "region_code":"Chungcheongnamdo",
-            "sub_region_code":"4471000000_Chungcheongnamdo_Geumsan"
+            "sub_region_code":"4471000000_Chungcheongnamdo_Geumsan",
+            "shorten_url":"https:\/\/me2.do\/GK5PRMWs"
         },
         {
             "index":32,
@@ -442,7 +478,8 @@
             "value_score":37.363,
             "region":"충청남도 금산군",
             "region_code":"Chungcheongnamdo",
-            "sub_region_code":"4471000000_Chungcheongnamdo_Geumsan"
+            "sub_region_code":"4471000000_Chungcheongnamdo_Geumsan",
+            "shorten_url":"https:\/\/me2.do\/GK5PRMWs"
         },
         {
             "index":33,
@@ -454,7 +491,8 @@
             "value_score":37.193,
             "region":"충청남도 금산군",
             "region_code":"Chungcheongnamdo",
-            "sub_region_code":"4471000000_Chungcheongnamdo_Geumsan"
+            "sub_region_code":"4471000000_Chungcheongnamdo_Geumsan",
+            "shorten_url":"https:\/\/me2.do\/GK5PRMWs"
         },
         {
             "index":34,
@@ -466,7 +504,8 @@
             "value_score":34.068,
             "region":"충청남도 금산군",
             "region_code":"Chungcheongnamdo",
-            "sub_region_code":"4471000000_Chungcheongnamdo_Geumsan"
+            "sub_region_code":"4471000000_Chungcheongnamdo_Geumsan",
+            "shorten_url":"https:\/\/me2.do\/GK5PRMWs"
         },
         {
             "index":35,
@@ -478,7 +517,8 @@
             "value_score":31.443,
             "region":"충청남도 금산군",
             "region_code":"Chungcheongnamdo",
-            "sub_region_code":"4471000000_Chungcheongnamdo_Geumsan"
+            "sub_region_code":"4471000000_Chungcheongnamdo_Geumsan",
+            "shorten_url":"https:\/\/me2.do\/GK5PRMWs"
         },
         {
             "index":36,
@@ -490,7 +530,8 @@
             "value_score":31.065,
             "region":"충청남도 금산군",
             "region_code":"Chungcheongnamdo",
-            "sub_region_code":"4471000000_Chungcheongnamdo_Geumsan"
+            "sub_region_code":"4471000000_Chungcheongnamdo_Geumsan",
+            "shorten_url":"https:\/\/me2.do\/GK5PRMWs"
         },
         {
             "index":37,
@@ -502,7 +543,8 @@
             "value_score":30.678,
             "region":"충청남도 금산군",
             "region_code":"Chungcheongnamdo",
-            "sub_region_code":"4471000000_Chungcheongnamdo_Geumsan"
+            "sub_region_code":"4471000000_Chungcheongnamdo_Geumsan",
+            "shorten_url":"https:\/\/me2.do\/GK5PRMWs"
         },
         {
             "index":38,
@@ -514,7 +556,8 @@
             "value_score":30.293,
             "region":"충청남도 금산군",
             "region_code":"Chungcheongnamdo",
-            "sub_region_code":"4471000000_Chungcheongnamdo_Geumsan"
+            "sub_region_code":"4471000000_Chungcheongnamdo_Geumsan",
+            "shorten_url":"https:\/\/me2.do\/GK5PRMWs"
         },
         {
             "index":39,
@@ -526,7 +569,8 @@
             "value_score":27.915,
             "region":"충청남도 금산군",
             "region_code":"Chungcheongnamdo",
-            "sub_region_code":"4471000000_Chungcheongnamdo_Geumsan"
+            "sub_region_code":"4471000000_Chungcheongnamdo_Geumsan",
+            "shorten_url":"https:\/\/me2.do\/GK5PRMWs"
         }
     ]
 }

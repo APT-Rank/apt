@@ -40,6 +40,10 @@
             {
                 "name":"sub_region_code",
                 "type":"string"
+            },
+            {
+                "name":"shorten_url",
+                "type":"string"
             }
         ],
         "primaryKey":[
@@ -58,7 +62,8 @@
             "value_score":47.92255,
             "region":"전라북도 부안군",
             "region_code":"Jeollabukdo",
-            "sub_region_code":"4580000000_Jeollabukdo_Buan"
+            "sub_region_code":"4580000000_Jeollabukdo_Buan",
+            "shorten_url":"https:\/\/me2.do\/50pvnqoB"
         },
         {
             "index":1,
@@ -70,7 +75,8 @@
             "value_score":46.02255,
             "region":"전라북도 부안군",
             "region_code":"Jeollabukdo",
-            "sub_region_code":"4580000000_Jeollabukdo_Buan"
+            "sub_region_code":"4580000000_Jeollabukdo_Buan",
+            "shorten_url":"https:\/\/me2.do\/50pvnqoB"
         },
         {
             "index":2,
@@ -82,7 +88,8 @@
             "value_score":42.97255,
             "region":"전라북도 부안군",
             "region_code":"Jeollabukdo",
-            "sub_region_code":"4580000000_Jeollabukdo_Buan"
+            "sub_region_code":"4580000000_Jeollabukdo_Buan",
+            "shorten_url":"https:\/\/me2.do\/50pvnqoB"
         },
         {
             "index":3,
@@ -94,7 +101,8 @@
             "value_score":41.9643,
             "region":"전라북도 부안군",
             "region_code":"Jeollabukdo",
-            "sub_region_code":"4580000000_Jeollabukdo_Buan"
+            "sub_region_code":"4580000000_Jeollabukdo_Buan",
+            "shorten_url":"https:\/\/me2.do\/50pvnqoB"
         },
         {
             "index":4,
@@ -106,7 +114,8 @@
             "value_score":39.7393,
             "region":"전라북도 부안군",
             "region_code":"Jeollabukdo",
-            "sub_region_code":"4580000000_Jeollabukdo_Buan"
+            "sub_region_code":"4580000000_Jeollabukdo_Buan",
+            "shorten_url":"https:\/\/me2.do\/50pvnqoB"
         },
         {
             "index":5,
@@ -118,7 +127,8 @@
             "value_score":39.32255,
             "region":"전라북도 부안군",
             "region_code":"Jeollabukdo",
-            "sub_region_code":"4580000000_Jeollabukdo_Buan"
+            "sub_region_code":"4580000000_Jeollabukdo_Buan",
+            "shorten_url":"https:\/\/me2.do\/50pvnqoB"
         },
         {
             "index":6,
@@ -130,7 +140,8 @@
             "value_score":39.0463,
             "region":"전라북도 부안군",
             "region_code":"Jeollabukdo",
-            "sub_region_code":"4580000000_Jeollabukdo_Buan"
+            "sub_region_code":"4580000000_Jeollabukdo_Buan",
+            "shorten_url":"https:\/\/me2.do\/50pvnqoB"
         },
         {
             "index":7,
@@ -142,7 +153,8 @@
             "value_score":35.7643,
             "region":"전라북도 부안군",
             "region_code":"Jeollabukdo",
-            "sub_region_code":"4580000000_Jeollabukdo_Buan"
+            "sub_region_code":"4580000000_Jeollabukdo_Buan",
+            "shorten_url":"https:\/\/me2.do\/50pvnqoB"
         },
         {
             "index":8,
@@ -154,7 +166,8 @@
             "value_score":35.2643,
             "region":"전라북도 부안군",
             "region_code":"Jeollabukdo",
-            "sub_region_code":"4580000000_Jeollabukdo_Buan"
+            "sub_region_code":"4580000000_Jeollabukdo_Buan",
+            "shorten_url":"https:\/\/me2.do\/50pvnqoB"
         },
         {
             "index":9,
@@ -166,7 +179,8 @@
             "value_score":34.3143,
             "region":"전라북도 부안군",
             "region_code":"Jeollabukdo",
-            "sub_region_code":"4580000000_Jeollabukdo_Buan"
+            "sub_region_code":"4580000000_Jeollabukdo_Buan",
+            "shorten_url":"https:\/\/me2.do\/50pvnqoB"
         },
         {
             "index":10,
@@ -178,7 +192,8 @@
             "value_score":49.87325,
             "region":"전라북도 부안군",
             "region_code":"Jeollabukdo",
-            "sub_region_code":"4580000000_Jeollabukdo_Buan"
+            "sub_region_code":"4580000000_Jeollabukdo_Buan",
+            "shorten_url":"https:\/\/me2.do\/50pvnqoB"
         },
         {
             "index":11,
@@ -190,7 +205,8 @@
             "value_score":47.12325,
             "region":"전라북도 부안군",
             "region_code":"Jeollabukdo",
-            "sub_region_code":"4580000000_Jeollabukdo_Buan"
+            "sub_region_code":"4580000000_Jeollabukdo_Buan",
+            "shorten_url":"https:\/\/me2.do\/50pvnqoB"
         },
         {
             "index":12,
@@ -202,7 +218,8 @@
             "value_score":43.62325,
             "region":"전라북도 부안군",
             "region_code":"Jeollabukdo",
-            "sub_region_code":"4580000000_Jeollabukdo_Buan"
+            "sub_region_code":"4580000000_Jeollabukdo_Buan",
+            "shorten_url":"https:\/\/me2.do\/50pvnqoB"
         },
         {
             "index":13,
@@ -214,7 +231,8 @@
             "value_score":41.9745,
             "region":"전라북도 부안군",
             "region_code":"Jeollabukdo",
-            "sub_region_code":"4580000000_Jeollabukdo_Buan"
+            "sub_region_code":"4580000000_Jeollabukdo_Buan",
+            "shorten_url":"https:\/\/me2.do\/50pvnqoB"
         },
         {
             "index":14,
@@ -226,7 +244,8 @@
             "value_score":39.8545,
             "region":"전라북도 부안군",
             "region_code":"Jeollabukdo",
-            "sub_region_code":"4580000000_Jeollabukdo_Buan"
+            "sub_region_code":"4580000000_Jeollabukdo_Buan",
+            "shorten_url":"https:\/\/me2.do\/50pvnqoB"
         },
         {
             "index":15,
@@ -238,7 +257,8 @@
             "value_score":39.12325,
             "region":"전라북도 부안군",
             "region_code":"Jeollabukdo",
-            "sub_region_code":"4580000000_Jeollabukdo_Buan"
+            "sub_region_code":"4580000000_Jeollabukdo_Buan",
+            "shorten_url":"https:\/\/me2.do\/50pvnqoB"
         },
         {
             "index":16,
@@ -250,7 +270,8 @@
             "value_score":38.6995,
             "region":"전라북도 부안군",
             "region_code":"Jeollabukdo",
-            "sub_region_code":"4580000000_Jeollabukdo_Buan"
+            "sub_region_code":"4580000000_Jeollabukdo_Buan",
+            "shorten_url":"https:\/\/me2.do\/50pvnqoB"
         },
         {
             "index":17,
@@ -262,7 +283,8 @@
             "value_score":34.2245,
             "region":"전라북도 부안군",
             "region_code":"Jeollabukdo",
-            "sub_region_code":"4580000000_Jeollabukdo_Buan"
+            "sub_region_code":"4580000000_Jeollabukdo_Buan",
+            "shorten_url":"https:\/\/me2.do\/50pvnqoB"
         },
         {
             "index":18,
@@ -274,7 +296,8 @@
             "value_score":32.9745,
             "region":"전라북도 부안군",
             "region_code":"Jeollabukdo",
-            "sub_region_code":"4580000000_Jeollabukdo_Buan"
+            "sub_region_code":"4580000000_Jeollabukdo_Buan",
+            "shorten_url":"https:\/\/me2.do\/50pvnqoB"
         },
         {
             "index":19,
@@ -286,7 +309,8 @@
             "value_score":32.7245,
             "region":"전라북도 부안군",
             "region_code":"Jeollabukdo",
-            "sub_region_code":"4580000000_Jeollabukdo_Buan"
+            "sub_region_code":"4580000000_Jeollabukdo_Buan",
+            "shorten_url":"https:\/\/me2.do\/50pvnqoB"
         },
         {
             "index":20,
@@ -298,7 +322,8 @@
             "value_score":40.0467368421,
             "region":"전라북도 부안군",
             "region_code":"Jeollabukdo",
-            "sub_region_code":"4580000000_Jeollabukdo_Buan"
+            "sub_region_code":"4580000000_Jeollabukdo_Buan",
+            "shorten_url":"https:\/\/me2.do\/50pvnqoB"
         },
         {
             "index":21,
@@ -310,7 +335,8 @@
             "value_score":39.1783157895,
             "region":"전라북도 부안군",
             "region_code":"Jeollabukdo",
-            "sub_region_code":"4580000000_Jeollabukdo_Buan"
+            "sub_region_code":"4580000000_Jeollabukdo_Buan",
+            "shorten_url":"https:\/\/me2.do\/50pvnqoB"
         },
         {
             "index":22,
@@ -322,7 +348,8 @@
             "value_score":39.0767368421,
             "region":"전라북도 부안군",
             "region_code":"Jeollabukdo",
-            "sub_region_code":"4580000000_Jeollabukdo_Buan"
+            "sub_region_code":"4580000000_Jeollabukdo_Buan",
+            "shorten_url":"https:\/\/me2.do\/50pvnqoB"
         },
         {
             "index":23,
@@ -334,7 +361,8 @@
             "value_score":37.5467368421,
             "region":"전라북도 부안군",
             "region_code":"Jeollabukdo",
-            "sub_region_code":"4580000000_Jeollabukdo_Buan"
+            "sub_region_code":"4580000000_Jeollabukdo_Buan",
+            "shorten_url":"https:\/\/me2.do\/50pvnqoB"
         },
         {
             "index":24,
@@ -346,7 +374,8 @@
             "value_score":37.2609473684,
             "region":"전라북도 부안군",
             "region_code":"Jeollabukdo",
-            "sub_region_code":"4580000000_Jeollabukdo_Buan"
+            "sub_region_code":"4580000000_Jeollabukdo_Buan",
+            "shorten_url":"https:\/\/me2.do\/50pvnqoB"
         },
         {
             "index":25,
@@ -358,7 +387,8 @@
             "value_score":35.7346315789,
             "region":"전라북도 부안군",
             "region_code":"Jeollabukdo",
-            "sub_region_code":"4580000000_Jeollabukdo_Buan"
+            "sub_region_code":"4580000000_Jeollabukdo_Buan",
+            "shorten_url":"https:\/\/me2.do\/50pvnqoB"
         },
         {
             "index":26,
@@ -370,7 +400,8 @@
             "value_score":35.0993684211,
             "region":"전라북도 부안군",
             "region_code":"Jeollabukdo",
-            "sub_region_code":"4580000000_Jeollabukdo_Buan"
+            "sub_region_code":"4580000000_Jeollabukdo_Buan",
+            "shorten_url":"https:\/\/me2.do\/50pvnqoB"
         },
         {
             "index":27,
@@ -382,7 +413,8 @@
             "value_score":33.8662105263,
             "region":"전라북도 부안군",
             "region_code":"Jeollabukdo",
-            "sub_region_code":"4580000000_Jeollabukdo_Buan"
+            "sub_region_code":"4580000000_Jeollabukdo_Buan",
+            "shorten_url":"https:\/\/me2.do\/50pvnqoB"
         },
         {
             "index":28,
@@ -394,7 +426,8 @@
             "value_score":33.4941052632,
             "region":"전라북도 부안군",
             "region_code":"Jeollabukdo",
-            "sub_region_code":"4580000000_Jeollabukdo_Buan"
+            "sub_region_code":"4580000000_Jeollabukdo_Buan",
+            "shorten_url":"https:\/\/me2.do\/50pvnqoB"
         },
         {
             "index":29,
@@ -406,7 +439,8 @@
             "value_score":33.1056842105,
             "region":"전라북도 부안군",
             "region_code":"Jeollabukdo",
-            "sub_region_code":"4580000000_Jeollabukdo_Buan"
+            "sub_region_code":"4580000000_Jeollabukdo_Buan",
+            "shorten_url":"https:\/\/me2.do\/50pvnqoB"
         },
         {
             "index":30,
@@ -418,7 +452,8 @@
             "value_score":44.9965,
             "region":"전라북도 부안군",
             "region_code":"Jeollabukdo",
-            "sub_region_code":"4580000000_Jeollabukdo_Buan"
+            "sub_region_code":"4580000000_Jeollabukdo_Buan",
+            "shorten_url":"https:\/\/me2.do\/50pvnqoB"
         },
         {
             "index":31,
@@ -430,7 +465,8 @@
             "value_score":44.3715,
             "region":"전라북도 부안군",
             "region_code":"Jeollabukdo",
-            "sub_region_code":"4580000000_Jeollabukdo_Buan"
+            "sub_region_code":"4580000000_Jeollabukdo_Buan",
+            "shorten_url":"https:\/\/me2.do\/50pvnqoB"
         },
         {
             "index":32,
@@ -442,7 +478,8 @@
             "value_score":41.9965,
             "region":"전라북도 부안군",
             "region_code":"Jeollabukdo",
-            "sub_region_code":"4580000000_Jeollabukdo_Buan"
+            "sub_region_code":"4580000000_Jeollabukdo_Buan",
+            "shorten_url":"https:\/\/me2.do\/50pvnqoB"
         },
         {
             "index":33,
@@ -454,7 +491,8 @@
             "value_score":41.949,
             "region":"전라북도 부안군",
             "region_code":"Jeollabukdo",
-            "sub_region_code":"4580000000_Jeollabukdo_Buan"
+            "sub_region_code":"4580000000_Jeollabukdo_Buan",
+            "shorten_url":"https:\/\/me2.do\/50pvnqoB"
         },
         {
             "index":34,
@@ -466,7 +504,8 @@
             "value_score":41.299,
             "region":"전라북도 부안군",
             "region_code":"Jeollabukdo",
-            "sub_region_code":"4580000000_Jeollabukdo_Buan"
+            "sub_region_code":"4580000000_Jeollabukdo_Buan",
+            "shorten_url":"https:\/\/me2.do\/50pvnqoB"
         },
         {
             "index":35,
@@ -478,7 +517,8 @@
             "value_score":39.6215,
             "region":"전라북도 부안군",
             "region_code":"Jeollabukdo",
-            "sub_region_code":"4580000000_Jeollabukdo_Buan"
+            "sub_region_code":"4580000000_Jeollabukdo_Buan",
+            "shorten_url":"https:\/\/me2.do\/50pvnqoB"
         },
         {
             "index":36,
@@ -490,7 +530,8 @@
             "value_score":38.699,
             "region":"전라북도 부안군",
             "region_code":"Jeollabukdo",
-            "sub_region_code":"4580000000_Jeollabukdo_Buan"
+            "sub_region_code":"4580000000_Jeollabukdo_Buan",
+            "shorten_url":"https:\/\/me2.do\/50pvnqoB"
         },
         {
             "index":37,
@@ -502,7 +543,8 @@
             "value_score":38.074,
             "region":"전라북도 부안군",
             "region_code":"Jeollabukdo",
-            "sub_region_code":"4580000000_Jeollabukdo_Buan"
+            "sub_region_code":"4580000000_Jeollabukdo_Buan",
+            "shorten_url":"https:\/\/me2.do\/50pvnqoB"
         },
         {
             "index":38,
@@ -514,7 +556,8 @@
             "value_score":37.834,
             "region":"전라북도 부안군",
             "region_code":"Jeollabukdo",
-            "sub_region_code":"4580000000_Jeollabukdo_Buan"
+            "sub_region_code":"4580000000_Jeollabukdo_Buan",
+            "shorten_url":"https:\/\/me2.do\/50pvnqoB"
         },
         {
             "index":39,
@@ -526,7 +569,8 @@
             "value_score":36.699,
             "region":"전라북도 부안군",
             "region_code":"Jeollabukdo",
-            "sub_region_code":"4580000000_Jeollabukdo_Buan"
+            "sub_region_code":"4580000000_Jeollabukdo_Buan",
+            "shorten_url":"https:\/\/me2.do\/50pvnqoB"
         }
     ]
 }

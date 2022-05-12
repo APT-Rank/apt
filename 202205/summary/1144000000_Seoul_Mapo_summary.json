@@ -40,6 +40,10 @@
             {
                 "name":"sub_region_code",
                 "type":"string"
+            },
+            {
+                "name":"shorten_url",
+                "type":"string"
             }
         ],
         "primaryKey":[
@@ -58,7 +62,8 @@
             "value_score":75.7592,
             "region":"서울시 마포구",
             "region_code":"Seoul",
-            "sub_region_code":"1144000000_Seoul_Mapo"
+            "sub_region_code":"1144000000_Seoul_Mapo",
+            "shorten_url":"https:\/\/me2.do\/xCrXvkAq"
         },
         {
             "index":1,
@@ -70,7 +75,8 @@
             "value_score":74.1515,
             "region":"서울시 마포구",
             "region_code":"Seoul",
-            "sub_region_code":"1144000000_Seoul_Mapo"
+            "sub_region_code":"1144000000_Seoul_Mapo",
+            "shorten_url":"https:\/\/me2.do\/xCrXvkAq"
         },
         {
             "index":2,
@@ -82,7 +88,8 @@
             "value_score":70.9255,
             "region":"서울시 마포구",
             "region_code":"Seoul",
-            "sub_region_code":"1144000000_Seoul_Mapo"
+            "sub_region_code":"1144000000_Seoul_Mapo",
+            "shorten_url":"https:\/\/me2.do\/xCrXvkAq"
         },
         {
             "index":3,
@@ -94,7 +101,8 @@
             "value_score":70.7755,
             "region":"서울시 마포구",
             "region_code":"Seoul",
-            "sub_region_code":"1144000000_Seoul_Mapo"
+            "sub_region_code":"1144000000_Seoul_Mapo",
+            "shorten_url":"https:\/\/me2.do\/xCrXvkAq"
         },
         {
             "index":4,
@@ -106,7 +114,8 @@
             "value_score":70.7255,
             "region":"서울시 마포구",
             "region_code":"Seoul",
-            "sub_region_code":"1144000000_Seoul_Mapo"
+            "sub_region_code":"1144000000_Seoul_Mapo",
+            "shorten_url":"https:\/\/me2.do\/xCrXvkAq"
         },
         {
             "index":5,
@@ -118,7 +127,8 @@
             "value_score":70.4892,
             "region":"서울시 마포구",
             "region_code":"Seoul",
-            "sub_region_code":"1144000000_Seoul_Mapo"
+            "sub_region_code":"1144000000_Seoul_Mapo",
+            "shorten_url":"https:\/\/me2.do\/xCrXvkAq"
         },
         {
             "index":6,
@@ -130,7 +140,8 @@
             "value_score":68.8755,
             "region":"서울시 마포구",
             "region_code":"Seoul",
-            "sub_region_code":"1144000000_Seoul_Mapo"
+            "sub_region_code":"1144000000_Seoul_Mapo",
+            "shorten_url":"https:\/\/me2.do\/xCrXvkAq"
         },
         {
             "index":7,
@@ -142,7 +153,8 @@
             "value_score":68.725,
             "region":"서울시 마포구",
             "region_code":"Seoul",
-            "sub_region_code":"1144000000_Seoul_Mapo"
+            "sub_region_code":"1144000000_Seoul_Mapo",
+            "shorten_url":"https:\/\/me2.do\/xCrXvkAq"
         },
         {
             "index":8,
@@ -154,7 +166,8 @@
             "value_score":68.2255,
             "region":"서울시 마포구",
             "region_code":"Seoul",
-            "sub_region_code":"1144000000_Seoul_Mapo"
+            "sub_region_code":"1144000000_Seoul_Mapo",
+            "shorten_url":"https:\/\/me2.do\/xCrXvkAq"
         },
         {
             "index":9,
@@ -166,7 +179,8 @@
             "value_score":68.0755,
             "region":"서울시 마포구",
             "region_code":"Seoul",
-            "sub_region_code":"1144000000_Seoul_Mapo"
+            "sub_region_code":"1144000000_Seoul_Mapo",
+            "shorten_url":"https:\/\/me2.do\/xCrXvkAq"
         },
         {
             "index":10,
@@ -178,7 +192,8 @@
             "value_score":78.551,
             "region":"서울시 마포구",
             "region_code":"Seoul",
-            "sub_region_code":"1144000000_Seoul_Mapo"
+            "sub_region_code":"1144000000_Seoul_Mapo",
+            "shorten_url":"https:\/\/me2.do\/xCrXvkAq"
         },
         {
             "index":11,
@@ -190,7 +205,8 @@
             "value_score":72.6228,
             "region":"서울시 마포구",
             "region_code":"Seoul",
-            "sub_region_code":"1144000000_Seoul_Mapo"
+            "sub_region_code":"1144000000_Seoul_Mapo",
+            "shorten_url":"https:\/\/me2.do\/xCrXvkAq"
         },
         {
             "index":12,
@@ -202,7 +218,8 @@
             "value_score":72.4528,
             "region":"서울시 마포구",
             "region_code":"Seoul",
-            "sub_region_code":"1144000000_Seoul_Mapo"
+            "sub_region_code":"1144000000_Seoul_Mapo",
+            "shorten_url":"https:\/\/me2.do\/xCrXvkAq"
         },
         {
             "index":13,
@@ -214,7 +231,8 @@
             "value_score":72.1,
             "region":"서울시 마포구",
             "region_code":"Seoul",
-            "sub_region_code":"1144000000_Seoul_Mapo"
+            "sub_region_code":"1144000000_Seoul_Mapo",
+            "shorten_url":"https:\/\/me2.do\/xCrXvkAq"
         },
         {
             "index":14,
@@ -226,7 +244,8 @@
             "value_score":70.417,
             "region":"서울시 마포구",
             "region_code":"Seoul",
-            "sub_region_code":"1144000000_Seoul_Mapo"
+            "sub_region_code":"1144000000_Seoul_Mapo",
+            "shorten_url":"https:\/\/me2.do\/xCrXvkAq"
         },
         {
             "index":15,
@@ -238,7 +257,8 @@
             "value_score":70.0422,
             "region":"서울시 마포구",
             "region_code":"Seoul",
-            "sub_region_code":"1144000000_Seoul_Mapo"
+            "sub_region_code":"1144000000_Seoul_Mapo",
+            "shorten_url":"https:\/\/me2.do\/xCrXvkAq"
         },
         {
             "index":16,
@@ -250,7 +270,8 @@
             "value_score":69.677,
             "region":"서울시 마포구",
             "region_code":"Seoul",
-            "sub_region_code":"1144000000_Seoul_Mapo"
+            "sub_region_code":"1144000000_Seoul_Mapo",
+            "shorten_url":"https:\/\/me2.do\/xCrXvkAq"
         },
         {
             "index":17,
@@ -262,7 +283,8 @@
             "value_score":69.4228,
             "region":"서울시 마포구",
             "region_code":"Seoul",
-            "sub_region_code":"1144000000_Seoul_Mapo"
+            "sub_region_code":"1144000000_Seoul_Mapo",
+            "shorten_url":"https:\/\/me2.do\/xCrXvkAq"
         },
         {
             "index":18,
@@ -274,7 +296,8 @@
             "value_score":69.267,
             "region":"서울시 마포구",
             "region_code":"Seoul",
-            "sub_region_code":"1144000000_Seoul_Mapo"
+            "sub_region_code":"1144000000_Seoul_Mapo",
+            "shorten_url":"https:\/\/me2.do\/xCrXvkAq"
         },
         {
             "index":19,
@@ -286,7 +309,8 @@
             "value_score":68.617,
             "region":"서울시 마포구",
             "region_code":"Seoul",
-            "sub_region_code":"1144000000_Seoul_Mapo"
+            "sub_region_code":"1144000000_Seoul_Mapo",
+            "shorten_url":"https:\/\/me2.do\/xCrXvkAq"
         },
         {
             "index":20,
@@ -298,7 +322,8 @@
             "value_score":82.73775,
             "region":"서울시 마포구",
             "region_code":"Seoul",
-            "sub_region_code":"1144000000_Seoul_Mapo"
+            "sub_region_code":"1144000000_Seoul_Mapo",
+            "shorten_url":"https:\/\/me2.do\/xCrXvkAq"
         },
         {
             "index":21,
@@ -310,7 +335,8 @@
             "value_score":82.0796,
             "region":"서울시 마포구",
             "region_code":"Seoul",
-            "sub_region_code":"1144000000_Seoul_Mapo"
+            "sub_region_code":"1144000000_Seoul_Mapo",
+            "shorten_url":"https:\/\/me2.do\/xCrXvkAq"
         },
         {
             "index":22,
@@ -322,7 +348,8 @@
             "value_score":81.31275,
             "region":"서울시 마포구",
             "region_code":"Seoul",
-            "sub_region_code":"1144000000_Seoul_Mapo"
+            "sub_region_code":"1144000000_Seoul_Mapo",
+            "shorten_url":"https:\/\/me2.do\/xCrXvkAq"
         },
         {
             "index":23,
@@ -334,7 +361,8 @@
             "value_score":80.52575,
             "region":"서울시 마포구",
             "region_code":"Seoul",
-            "sub_region_code":"1144000000_Seoul_Mapo"
+            "sub_region_code":"1144000000_Seoul_Mapo",
+            "shorten_url":"https:\/\/me2.do\/xCrXvkAq"
         },
         {
             "index":24,
@@ -346,7 +374,8 @@
             "value_score":79.42575,
             "region":"서울시 마포구",
             "region_code":"Seoul",
-            "sub_region_code":"1144000000_Seoul_Mapo"
+            "sub_region_code":"1144000000_Seoul_Mapo",
+            "shorten_url":"https:\/\/me2.do\/xCrXvkAq"
         },
         {
             "index":25,
@@ -358,7 +387,8 @@
             "value_score":78.3846,
             "region":"서울시 마포구",
             "region_code":"Seoul",
-            "sub_region_code":"1144000000_Seoul_Mapo"
+            "sub_region_code":"1144000000_Seoul_Mapo",
+            "shorten_url":"https:\/\/me2.do\/xCrXvkAq"
         },
         {
             "index":26,
@@ -370,7 +400,8 @@
             "value_score":78.34525,
             "region":"서울시 마포구",
             "region_code":"Seoul",
-            "sub_region_code":"1144000000_Seoul_Mapo"
+            "sub_region_code":"1144000000_Seoul_Mapo",
+            "shorten_url":"https:\/\/me2.do\/xCrXvkAq"
         },
         {
             "index":27,
@@ -382,7 +413,8 @@
             "value_score":78.18775,
             "region":"서울시 마포구",
             "region_code":"Seoul",
-            "sub_region_code":"1144000000_Seoul_Mapo"
+            "sub_region_code":"1144000000_Seoul_Mapo",
+            "shorten_url":"https:\/\/me2.do\/xCrXvkAq"
         },
         {
             "index":28,
@@ -394,7 +426,8 @@
             "value_score":78.01275,
             "region":"서울시 마포구",
             "region_code":"Seoul",
-            "sub_region_code":"1144000000_Seoul_Mapo"
+            "sub_region_code":"1144000000_Seoul_Mapo",
+            "shorten_url":"https:\/\/me2.do\/xCrXvkAq"
         },
         {
             "index":29,
@@ -406,7 +439,8 @@
             "value_score":76.87025,
             "region":"서울시 마포구",
             "region_code":"Seoul",
-            "sub_region_code":"1144000000_Seoul_Mapo"
+            "sub_region_code":"1144000000_Seoul_Mapo",
+            "shorten_url":"https:\/\/me2.do\/xCrXvkAq"
         },
         {
             "index":30,
@@ -418,7 +452,8 @@
             "value_score":79.141,
             "region":"서울시 마포구",
             "region_code":"Seoul",
-            "sub_region_code":"1144000000_Seoul_Mapo"
+            "sub_region_code":"1144000000_Seoul_Mapo",
+            "shorten_url":"https:\/\/me2.do\/xCrXvkAq"
         },
         {
             "index":31,
@@ -430,7 +465,8 @@
             "value_score":76.27125,
             "region":"서울시 마포구",
             "region_code":"Seoul",
-            "sub_region_code":"1144000000_Seoul_Mapo"
+            "sub_region_code":"1144000000_Seoul_Mapo",
+            "shorten_url":"https:\/\/me2.do\/xCrXvkAq"
         },
         {
             "index":32,
@@ -442,7 +478,8 @@
             "value_score":75.62125,
             "region":"서울시 마포구",
             "region_code":"Seoul",
-            "sub_region_code":"1144000000_Seoul_Mapo"
+            "sub_region_code":"1144000000_Seoul_Mapo",
+            "shorten_url":"https:\/\/me2.do\/xCrXvkAq"
         },
         {
             "index":33,
@@ -454,7 +491,8 @@
             "value_score":74.40125,
             "region":"서울시 마포구",
             "region_code":"Seoul",
-            "sub_region_code":"1144000000_Seoul_Mapo"
+            "sub_region_code":"1144000000_Seoul_Mapo",
+            "shorten_url":"https:\/\/me2.do\/xCrXvkAq"
         },
         {
             "index":34,
@@ -466,7 +504,8 @@
             "value_score":73.77125,
             "region":"서울시 마포구",
             "region_code":"Seoul",
-            "sub_region_code":"1144000000_Seoul_Mapo"
+            "sub_region_code":"1144000000_Seoul_Mapo",
+            "shorten_url":"https:\/\/me2.do\/xCrXvkAq"
         },
         {
             "index":35,
@@ -478,7 +517,8 @@
             "value_score":73.52125,
             "region":"서울시 마포구",
             "region_code":"Seoul",
-            "sub_region_code":"1144000000_Seoul_Mapo"
+            "sub_region_code":"1144000000_Seoul_Mapo",
+            "shorten_url":"https:\/\/me2.do\/xCrXvkAq"
         },
         {
             "index":36,
@@ -490,7 +530,8 @@
             "value_score":73.35125,
             "region":"서울시 마포구",
             "region_code":"Seoul",
-            "sub_region_code":"1144000000_Seoul_Mapo"
+            "sub_region_code":"1144000000_Seoul_Mapo",
+            "shorten_url":"https:\/\/me2.do\/xCrXvkAq"
         },
         {
             "index":37,
@@ -502,7 +543,8 @@
             "value_score":72.92125,
             "region":"서울시 마포구",
             "region_code":"Seoul",
-            "sub_region_code":"1144000000_Seoul_Mapo"
+            "sub_region_code":"1144000000_Seoul_Mapo",
+            "shorten_url":"https:\/\/me2.do\/xCrXvkAq"
         },
         {
             "index":38,
@@ -514,7 +556,8 @@
             "value_score":72.77125,
             "region":"서울시 마포구",
             "region_code":"Seoul",
-            "sub_region_code":"1144000000_Seoul_Mapo"
+            "sub_region_code":"1144000000_Seoul_Mapo",
+            "shorten_url":"https:\/\/me2.do\/xCrXvkAq"
         },
         {
             "index":39,
@@ -526,7 +569,8 @@
             "value_score":72.72125,
             "region":"서울시 마포구",
             "region_code":"Seoul",
-            "sub_region_code":"1144000000_Seoul_Mapo"
+            "sub_region_code":"1144000000_Seoul_Mapo",
+            "shorten_url":"https:\/\/me2.do\/xCrXvkAq"
         },
         {
             "index":40,
@@ -538,7 +582,8 @@
             "value_score":74.682,
             "region":"서울시 마포구",
             "region_code":"Seoul",
-            "sub_region_code":"1144000000_Seoul_Mapo"
+            "sub_region_code":"1144000000_Seoul_Mapo",
+            "shorten_url":"https:\/\/me2.do\/xCrXvkAq"
         },
         {
             "index":41,
@@ -550,7 +595,8 @@
             "value_score":71.6425,
             "region":"서울시 마포구",
             "region_code":"Seoul",
-            "sub_region_code":"1144000000_Seoul_Mapo"
+            "sub_region_code":"1144000000_Seoul_Mapo",
+            "shorten_url":"https:\/\/me2.do\/xCrXvkAq"
         },
         {
             "index":42,
@@ -562,7 +608,8 @@
             "value_score":71.5425,
             "region":"서울시 마포구",
             "region_code":"Seoul",
-            "sub_region_code":"1144000000_Seoul_Mapo"
+            "sub_region_code":"1144000000_Seoul_Mapo",
+            "shorten_url":"https:\/\/me2.do\/xCrXvkAq"
         },
         {
             "index":43,
@@ -574,7 +621,8 @@
             "value_score":71.2425,
             "region":"서울시 마포구",
             "region_code":"Seoul",
-            "sub_region_code":"1144000000_Seoul_Mapo"
+            "sub_region_code":"1144000000_Seoul_Mapo",
+            "shorten_url":"https:\/\/me2.do\/xCrXvkAq"
         },
         {
             "index":44,
@@ -586,7 +634,8 @@
             "value_score":68.6425,
             "region":"서울시 마포구",
             "region_code":"Seoul",
-            "sub_region_code":"1144000000_Seoul_Mapo"
+            "sub_region_code":"1144000000_Seoul_Mapo",
+            "shorten_url":"https:\/\/me2.do\/xCrXvkAq"
         },
         {
             "index":45,
@@ -598,7 +647,8 @@
             "value_score":67.2025,
             "region":"서울시 마포구",
             "region_code":"Seoul",
-            "sub_region_code":"1144000000_Seoul_Mapo"
+            "sub_region_code":"1144000000_Seoul_Mapo",
+            "shorten_url":"https:\/\/me2.do\/xCrXvkAq"
         },
         {
             "index":46,
@@ -610,7 +660,8 @@
             "value_score":66.9425,
             "region":"서울시 마포구",
             "region_code":"Seoul",
-            "sub_region_code":"1144000000_Seoul_Mapo"
+            "sub_region_code":"1144000000_Seoul_Mapo",
+            "shorten_url":"https:\/\/me2.do\/xCrXvkAq"
         },
         {
             "index":47,
@@ -622,7 +673,8 @@
             "value_score":66.2425,
             "region":"서울시 마포구",
             "region_code":"Seoul",
-            "sub_region_code":"1144000000_Seoul_Mapo"
+            "sub_region_code":"1144000000_Seoul_Mapo",
+            "shorten_url":"https:\/\/me2.do\/xCrXvkAq"
         },
         {
             "index":48,
@@ -634,7 +686,8 @@
             "value_score":66.1425,
             "region":"서울시 마포구",
             "region_code":"Seoul",
-            "sub_region_code":"1144000000_Seoul_Mapo"
+            "sub_region_code":"1144000000_Seoul_Mapo",
+            "shorten_url":"https:\/\/me2.do\/xCrXvkAq"
         },
         {
             "index":49,
@@ -646,7 +699,8 @@
             "value_score":65.5025,
             "region":"서울시 마포구",
             "region_code":"Seoul",
-            "sub_region_code":"1144000000_Seoul_Mapo"
+            "sub_region_code":"1144000000_Seoul_Mapo",
+            "shorten_url":"https:\/\/me2.do\/xCrXvkAq"
         }
     ]
 }

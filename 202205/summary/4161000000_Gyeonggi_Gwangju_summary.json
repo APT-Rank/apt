@@ -40,6 +40,10 @@
             {
                 "name":"sub_region_code",
                 "type":"string"
+            },
+            {
+                "name":"shorten_url",
+                "type":"string"
             }
         ],
         "primaryKey":[
@@ -58,7 +62,8 @@
             "value_score":52.04325,
             "region":"경기도 광주시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4161000000_Gyeonggi_Gwangju"
+            "sub_region_code":"4161000000_Gyeonggi_Gwangju",
+            "shorten_url":"https:\/\/me2.do\/xDMX4eCj"
         },
         {
             "index":1,
@@ -70,7 +75,8 @@
             "value_score":48.1555,
             "region":"경기도 광주시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4161000000_Gyeonggi_Gwangju"
+            "sub_region_code":"4161000000_Gyeonggi_Gwangju",
+            "shorten_url":"https:\/\/me2.do\/xDMX4eCj"
         },
         {
             "index":2,
@@ -82,7 +88,8 @@
             "value_score":47.8026,
             "region":"경기도 광주시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4161000000_Gyeonggi_Gwangju"
+            "sub_region_code":"4161000000_Gyeonggi_Gwangju",
+            "shorten_url":"https:\/\/me2.do\/xDMX4eCj"
         },
         {
             "index":3,
@@ -94,7 +101,8 @@
             "value_score":45.95105,
             "region":"경기도 광주시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4161000000_Gyeonggi_Gwangju"
+            "sub_region_code":"4161000000_Gyeonggi_Gwangju",
+            "shorten_url":"https:\/\/me2.do\/xDMX4eCj"
         },
         {
             "index":4,
@@ -106,7 +114,8 @@
             "value_score":44.5931,
             "region":"경기도 광주시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4161000000_Gyeonggi_Gwangju"
+            "sub_region_code":"4161000000_Gyeonggi_Gwangju",
+            "shorten_url":"https:\/\/me2.do\/xDMX4eCj"
         },
         {
             "index":5,
@@ -118,7 +127,8 @@
             "value_score":41.9931,
             "region":"경기도 광주시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4161000000_Gyeonggi_Gwangju"
+            "sub_region_code":"4161000000_Gyeonggi_Gwangju",
+            "shorten_url":"https:\/\/me2.do\/xDMX4eCj"
         },
         {
             "index":6,
@@ -130,7 +140,8 @@
             "value_score":41.2931,
             "region":"경기도 광주시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4161000000_Gyeonggi_Gwangju"
+            "sub_region_code":"4161000000_Gyeonggi_Gwangju",
+            "shorten_url":"https:\/\/me2.do\/xDMX4eCj"
         },
         {
             "index":7,
@@ -142,7 +153,8 @@
             "value_score":40.5431,
             "region":"경기도 광주시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4161000000_Gyeonggi_Gwangju"
+            "sub_region_code":"4161000000_Gyeonggi_Gwangju",
+            "shorten_url":"https:\/\/me2.do\/xDMX4eCj"
         },
         {
             "index":8,
@@ -154,7 +166,8 @@
             "value_score":39.90105,
             "region":"경기도 광주시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4161000000_Gyeonggi_Gwangju"
+            "sub_region_code":"4161000000_Gyeonggi_Gwangju",
+            "shorten_url":"https:\/\/me2.do\/xDMX4eCj"
         },
         {
             "index":9,
@@ -166,7 +179,8 @@
             "value_score":39.74325,
             "region":"경기도 광주시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4161000000_Gyeonggi_Gwangju"
+            "sub_region_code":"4161000000_Gyeonggi_Gwangju",
+            "shorten_url":"https:\/\/me2.do\/xDMX4eCj"
         },
         {
             "index":10,
@@ -178,7 +192,8 @@
             "value_score":59.741,
             "region":"경기도 광주시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4161000000_Gyeonggi_Gwangju"
+            "sub_region_code":"4161000000_Gyeonggi_Gwangju",
+            "shorten_url":"https:\/\/me2.do\/xDMX4eCj"
         },
         {
             "index":11,
@@ -190,7 +205,8 @@
             "value_score":56.4432,
             "region":"경기도 광주시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4161000000_Gyeonggi_Gwangju"
+            "sub_region_code":"4161000000_Gyeonggi_Gwangju",
+            "shorten_url":"https:\/\/me2.do\/xDMX4eCj"
         },
         {
             "index":12,
@@ -202,7 +218,8 @@
             "value_score":55.4432,
             "region":"경기도 광주시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4161000000_Gyeonggi_Gwangju"
+            "sub_region_code":"4161000000_Gyeonggi_Gwangju",
+            "shorten_url":"https:\/\/me2.do\/xDMX4eCj"
         },
         {
             "index":13,
@@ -214,7 +231,8 @@
             "value_score":55.082,
             "region":"경기도 광주시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4161000000_Gyeonggi_Gwangju"
+            "sub_region_code":"4161000000_Gyeonggi_Gwangju",
+            "shorten_url":"https:\/\/me2.do\/xDMX4eCj"
         },
         {
             "index":14,
@@ -226,7 +244,8 @@
             "value_score":54.3408,
             "region":"경기도 광주시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4161000000_Gyeonggi_Gwangju"
+            "sub_region_code":"4161000000_Gyeonggi_Gwangju",
+            "shorten_url":"https:\/\/me2.do\/xDMX4eCj"
         },
         {
             "index":15,
@@ -238,7 +257,8 @@
             "value_score":53.691,
             "region":"경기도 광주시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4161000000_Gyeonggi_Gwangju"
+            "sub_region_code":"4161000000_Gyeonggi_Gwangju",
+            "shorten_url":"https:\/\/me2.do\/xDMX4eCj"
         },
         {
             "index":16,
@@ -250,7 +270,8 @@
             "value_score":52.7868,
             "region":"경기도 광주시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4161000000_Gyeonggi_Gwangju"
+            "sub_region_code":"4161000000_Gyeonggi_Gwangju",
+            "shorten_url":"https:\/\/me2.do\/xDMX4eCj"
         },
         {
             "index":17,
@@ -262,7 +283,8 @@
             "value_score":52.3432,
             "region":"경기도 광주시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4161000000_Gyeonggi_Gwangju"
+            "sub_region_code":"4161000000_Gyeonggi_Gwangju",
+            "shorten_url":"https:\/\/me2.do\/xDMX4eCj"
         },
         {
             "index":18,
@@ -274,7 +296,8 @@
             "value_score":51.371,
             "region":"경기도 광주시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4161000000_Gyeonggi_Gwangju"
+            "sub_region_code":"4161000000_Gyeonggi_Gwangju",
+            "shorten_url":"https:\/\/me2.do\/xDMX4eCj"
         },
         {
             "index":19,
@@ -286,7 +309,8 @@
             "value_score":50.8432,
             "region":"경기도 광주시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4161000000_Gyeonggi_Gwangju"
+            "sub_region_code":"4161000000_Gyeonggi_Gwangju",
+            "shorten_url":"https:\/\/me2.do\/xDMX4eCj"
         },
         {
             "index":20,
@@ -298,7 +322,8 @@
             "value_score":57.96825,
             "region":"경기도 광주시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4161000000_Gyeonggi_Gwangju"
+            "sub_region_code":"4161000000_Gyeonggi_Gwangju",
+            "shorten_url":"https:\/\/me2.do\/xDMX4eCj"
         },
         {
             "index":21,
@@ -310,7 +335,8 @@
             "value_score":56.8555,
             "region":"경기도 광주시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4161000000_Gyeonggi_Gwangju"
+            "sub_region_code":"4161000000_Gyeonggi_Gwangju",
+            "shorten_url":"https:\/\/me2.do\/xDMX4eCj"
         },
         {
             "index":22,
@@ -322,7 +348,8 @@
             "value_score":53.87605,
             "region":"경기도 광주시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4161000000_Gyeonggi_Gwangju"
+            "sub_region_code":"4161000000_Gyeonggi_Gwangju",
+            "shorten_url":"https:\/\/me2.do\/xDMX4eCj"
         },
         {
             "index":23,
@@ -334,7 +361,8 @@
             "value_score":53.0776,
             "region":"경기도 광주시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4161000000_Gyeonggi_Gwangju"
+            "sub_region_code":"4161000000_Gyeonggi_Gwangju",
+            "shorten_url":"https:\/\/me2.do\/xDMX4eCj"
         },
         {
             "index":24,
@@ -346,7 +374,8 @@
             "value_score":50.6931,
             "region":"경기도 광주시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4161000000_Gyeonggi_Gwangju"
+            "sub_region_code":"4161000000_Gyeonggi_Gwangju",
+            "shorten_url":"https:\/\/me2.do\/xDMX4eCj"
         },
         {
             "index":25,
@@ -358,7 +387,8 @@
             "value_score":49.2681,
             "region":"경기도 광주시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4161000000_Gyeonggi_Gwangju"
+            "sub_region_code":"4161000000_Gyeonggi_Gwangju",
+            "shorten_url":"https:\/\/me2.do\/xDMX4eCj"
         },
         {
             "index":26,
@@ -370,7 +400,8 @@
             "value_score":48.7431,
             "region":"경기도 광주시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4161000000_Gyeonggi_Gwangju"
+            "sub_region_code":"4161000000_Gyeonggi_Gwangju",
+            "shorten_url":"https:\/\/me2.do\/xDMX4eCj"
         },
         {
             "index":27,
@@ -382,7 +413,8 @@
             "value_score":43.3431,
             "region":"경기도 광주시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4161000000_Gyeonggi_Gwangju"
+            "sub_region_code":"4161000000_Gyeonggi_Gwangju",
+            "shorten_url":"https:\/\/me2.do\/xDMX4eCj"
         },
         {
             "index":28,
@@ -394,7 +426,8 @@
             "value_score":42.9181,
             "region":"경기도 광주시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4161000000_Gyeonggi_Gwangju"
+            "sub_region_code":"4161000000_Gyeonggi_Gwangju",
+            "shorten_url":"https:\/\/me2.do\/xDMX4eCj"
         },
         {
             "index":29,
@@ -406,7 +439,8 @@
             "value_score":42.40105,
             "region":"경기도 광주시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4161000000_Gyeonggi_Gwangju"
+            "sub_region_code":"4161000000_Gyeonggi_Gwangju",
+            "shorten_url":"https:\/\/me2.do\/xDMX4eCj"
         },
         {
             "index":30,
@@ -418,7 +452,8 @@
             "value_score":44.13875,
             "region":"경기도 광주시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4161000000_Gyeonggi_Gwangju"
+            "sub_region_code":"4161000000_Gyeonggi_Gwangju",
+            "shorten_url":"https:\/\/me2.do\/xDMX4eCj"
         },
         {
             "index":31,
@@ -430,7 +465,8 @@
             "value_score":37.9665,
             "region":"경기도 광주시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4161000000_Gyeonggi_Gwangju"
+            "sub_region_code":"4161000000_Gyeonggi_Gwangju",
+            "shorten_url":"https:\/\/me2.do\/xDMX4eCj"
         },
         {
             "index":32,
@@ -442,7 +478,8 @@
             "value_score":36.4165,
             "region":"경기도 광주시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4161000000_Gyeonggi_Gwangju"
+            "sub_region_code":"4161000000_Gyeonggi_Gwangju",
+            "shorten_url":"https:\/\/me2.do\/xDMX4eCj"
         },
         {
             "index":33,
@@ -454,7 +491,8 @@
             "value_score":36.38875,
             "region":"경기도 광주시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4161000000_Gyeonggi_Gwangju"
+            "sub_region_code":"4161000000_Gyeonggi_Gwangju",
+            "shorten_url":"https:\/\/me2.do\/xDMX4eCj"
         },
         {
             "index":34,
@@ -466,7 +504,8 @@
             "value_score":36.1385,
             "region":"경기도 광주시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4161000000_Gyeonggi_Gwangju"
+            "sub_region_code":"4161000000_Gyeonggi_Gwangju",
+            "shorten_url":"https:\/\/me2.do\/xDMX4eCj"
         },
         {
             "index":35,
@@ -478,7 +517,8 @@
             "value_score":35.18875,
             "region":"경기도 광주시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4161000000_Gyeonggi_Gwangju"
+            "sub_region_code":"4161000000_Gyeonggi_Gwangju",
+            "shorten_url":"https:\/\/me2.do\/xDMX4eCj"
         },
         {
             "index":36,
@@ -490,7 +530,8 @@
             "value_score":34.9025,
             "region":"경기도 광주시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4161000000_Gyeonggi_Gwangju"
+            "sub_region_code":"4161000000_Gyeonggi_Gwangju",
+            "shorten_url":"https:\/\/me2.do\/xDMX4eCj"
         },
         {
             "index":37,
@@ -502,7 +543,8 @@
             "value_score":34.68875,
             "region":"경기도 광주시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4161000000_Gyeonggi_Gwangju"
+            "sub_region_code":"4161000000_Gyeonggi_Gwangju",
+            "shorten_url":"https:\/\/me2.do\/xDMX4eCj"
         },
         {
             "index":38,
@@ -514,7 +556,8 @@
             "value_score":34.4665,
             "region":"경기도 광주시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4161000000_Gyeonggi_Gwangju"
+            "sub_region_code":"4161000000_Gyeonggi_Gwangju",
+            "shorten_url":"https:\/\/me2.do\/xDMX4eCj"
         },
         {
             "index":39,
@@ -526,7 +569,8 @@
             "value_score":34.4525,
             "region":"경기도 광주시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4161000000_Gyeonggi_Gwangju"
+            "sub_region_code":"4161000000_Gyeonggi_Gwangju",
+            "shorten_url":"https:\/\/me2.do\/xDMX4eCj"
         },
         {
             "index":40,
@@ -538,7 +582,8 @@
             "value_score":50.6775,
             "region":"경기도 광주시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4161000000_Gyeonggi_Gwangju"
+            "sub_region_code":"4161000000_Gyeonggi_Gwangju",
+            "shorten_url":"https:\/\/me2.do\/xDMX4eCj"
         },
         {
             "index":41,
@@ -550,7 +595,8 @@
             "value_score":50.033,
             "region":"경기도 광주시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4161000000_Gyeonggi_Gwangju"
+            "sub_region_code":"4161000000_Gyeonggi_Gwangju",
+            "shorten_url":"https:\/\/me2.do\/xDMX4eCj"
         },
         {
             "index":42,
@@ -562,7 +608,8 @@
             "value_score":47.5775,
             "region":"경기도 광주시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4161000000_Gyeonggi_Gwangju"
+            "sub_region_code":"4161000000_Gyeonggi_Gwangju",
+            "shorten_url":"https:\/\/me2.do\/xDMX4eCj"
         },
         {
             "index":43,
@@ -574,7 +621,8 @@
             "value_score":47.033,
             "region":"경기도 광주시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4161000000_Gyeonggi_Gwangju"
+            "sub_region_code":"4161000000_Gyeonggi_Gwangju",
+            "shorten_url":"https:\/\/me2.do\/xDMX4eCj"
         },
         {
             "index":44,
@@ -586,7 +634,8 @@
             "value_score":46.333,
             "region":"경기도 광주시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4161000000_Gyeonggi_Gwangju"
+            "sub_region_code":"4161000000_Gyeonggi_Gwangju",
+            "shorten_url":"https:\/\/me2.do\/xDMX4eCj"
         },
         {
             "index":45,
@@ -598,7 +647,8 @@
             "value_score":46.333,
             "region":"경기도 광주시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4161000000_Gyeonggi_Gwangju"
+            "sub_region_code":"4161000000_Gyeonggi_Gwangju",
+            "shorten_url":"https:\/\/me2.do\/xDMX4eCj"
         },
         {
             "index":46,
@@ -610,7 +660,8 @@
             "value_score":45.913,
             "region":"경기도 광주시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4161000000_Gyeonggi_Gwangju"
+            "sub_region_code":"4161000000_Gyeonggi_Gwangju",
+            "shorten_url":"https:\/\/me2.do\/xDMX4eCj"
         },
         {
             "index":47,
@@ -622,7 +673,8 @@
             "value_score":45.333,
             "region":"경기도 광주시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4161000000_Gyeonggi_Gwangju"
+            "sub_region_code":"4161000000_Gyeonggi_Gwangju",
+            "shorten_url":"https:\/\/me2.do\/xDMX4eCj"
         },
         {
             "index":48,
@@ -634,7 +686,8 @@
             "value_score":45.333,
             "region":"경기도 광주시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4161000000_Gyeonggi_Gwangju"
+            "sub_region_code":"4161000000_Gyeonggi_Gwangju",
+            "shorten_url":"https:\/\/me2.do\/xDMX4eCj"
         },
         {
             "index":49,
@@ -646,7 +699,8 @@
             "value_score":45.305,
             "region":"경기도 광주시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4161000000_Gyeonggi_Gwangju"
+            "sub_region_code":"4161000000_Gyeonggi_Gwangju",
+            "shorten_url":"https:\/\/me2.do\/xDMX4eCj"
         }
     ]
 }

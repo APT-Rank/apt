@@ -40,6 +40,10 @@
             {
                 "name":"sub_region_code",
                 "type":"string"
+            },
+            {
+                "name":"shorten_url",
+                "type":"string"
             }
         ],
         "primaryKey":[
@@ -58,7 +62,8 @@
             "value_score":63.26445,
             "region":"울산시 중구",
             "region_code":"Ulsan",
-            "sub_region_code":"3111000000_Ulsan_Jung"
+            "sub_region_code":"3111000000_Ulsan_Jung",
+            "shorten_url":"https:\/\/me2.do\/5mruiTxx"
         },
         {
             "index":1,
@@ -70,7 +75,8 @@
             "value_score":59.9091,
             "region":"울산시 중구",
             "region_code":"Ulsan",
-            "sub_region_code":"3111000000_Ulsan_Jung"
+            "sub_region_code":"3111000000_Ulsan_Jung",
+            "shorten_url":"https:\/\/me2.do\/5mruiTxx"
         },
         {
             "index":2,
@@ -82,7 +88,8 @@
             "value_score":59.8785,
             "region":"울산시 중구",
             "region_code":"Ulsan",
-            "sub_region_code":"3111000000_Ulsan_Jung"
+            "sub_region_code":"3111000000_Ulsan_Jung",
+            "shorten_url":"https:\/\/me2.do\/5mruiTxx"
         },
         {
             "index":3,
@@ -94,7 +101,8 @@
             "value_score":58.81445,
             "region":"울산시 중구",
             "region_code":"Ulsan",
-            "sub_region_code":"3111000000_Ulsan_Jung"
+            "sub_region_code":"3111000000_Ulsan_Jung",
+            "shorten_url":"https:\/\/me2.do\/5mruiTxx"
         },
         {
             "index":4,
@@ -106,7 +114,8 @@
             "value_score":58.30055,
             "region":"울산시 중구",
             "region_code":"Ulsan",
-            "sub_region_code":"3111000000_Ulsan_Jung"
+            "sub_region_code":"3111000000_Ulsan_Jung",
+            "shorten_url":"https:\/\/me2.do\/5mruiTxx"
         },
         {
             "index":5,
@@ -118,7 +127,8 @@
             "value_score":58.0091,
             "region":"울산시 중구",
             "region_code":"Ulsan",
-            "sub_region_code":"3111000000_Ulsan_Jung"
+            "sub_region_code":"3111000000_Ulsan_Jung",
+            "shorten_url":"https:\/\/me2.do\/5mruiTxx"
         },
         {
             "index":6,
@@ -130,7 +140,8 @@
             "value_score":57.9745,
             "region":"울산시 중구",
             "region_code":"Ulsan",
-            "sub_region_code":"3111000000_Ulsan_Jung"
+            "sub_region_code":"3111000000_Ulsan_Jung",
+            "shorten_url":"https:\/\/me2.do\/5mruiTxx"
         },
         {
             "index":7,
@@ -142,7 +153,8 @@
             "value_score":57.7285,
             "region":"울산시 중구",
             "region_code":"Ulsan",
-            "sub_region_code":"3111000000_Ulsan_Jung"
+            "sub_region_code":"3111000000_Ulsan_Jung",
+            "shorten_url":"https:\/\/me2.do\/5mruiTxx"
         },
         {
             "index":8,
@@ -154,7 +166,8 @@
             "value_score":57.6341,
             "region":"울산시 중구",
             "region_code":"Ulsan",
-            "sub_region_code":"3111000000_Ulsan_Jung"
+            "sub_region_code":"3111000000_Ulsan_Jung",
+            "shorten_url":"https:\/\/me2.do\/5mruiTxx"
         },
         {
             "index":9,
@@ -166,7 +179,8 @@
             "value_score":57.0785,
             "region":"울산시 중구",
             "region_code":"Ulsan",
-            "sub_region_code":"3111000000_Ulsan_Jung"
+            "sub_region_code":"3111000000_Ulsan_Jung",
+            "shorten_url":"https:\/\/me2.do\/5mruiTxx"
         },
         {
             "index":10,
@@ -178,7 +192,8 @@
             "value_score":66.08175,
             "region":"울산시 중구",
             "region_code":"Ulsan",
-            "sub_region_code":"3111000000_Ulsan_Jung"
+            "sub_region_code":"3111000000_Ulsan_Jung",
+            "shorten_url":"https:\/\/me2.do\/5mruiTxx"
         },
         {
             "index":11,
@@ -190,7 +205,8 @@
             "value_score":61.14325,
             "region":"울산시 중구",
             "region_code":"Ulsan",
-            "sub_region_code":"3111000000_Ulsan_Jung"
+            "sub_region_code":"3111000000_Ulsan_Jung",
+            "shorten_url":"https:\/\/me2.do\/5mruiTxx"
         },
         {
             "index":12,
@@ -202,7 +218,8 @@
             "value_score":61.0065,
             "region":"울산시 중구",
             "region_code":"Ulsan",
-            "sub_region_code":"3111000000_Ulsan_Jung"
+            "sub_region_code":"3111000000_Ulsan_Jung",
+            "shorten_url":"https:\/\/me2.do\/5mruiTxx"
         },
         {
             "index":13,
@@ -214,7 +231,8 @@
             "value_score":60.33175,
             "region":"울산시 중구",
             "region_code":"Ulsan",
-            "sub_region_code":"3111000000_Ulsan_Jung"
+            "sub_region_code":"3111000000_Ulsan_Jung",
+            "shorten_url":"https:\/\/me2.do\/5mruiTxx"
         },
         {
             "index":14,
@@ -226,7 +244,8 @@
             "value_score":60.1275,
             "region":"울산시 중구",
             "region_code":"Ulsan",
-            "sub_region_code":"3111000000_Ulsan_Jung"
+            "sub_region_code":"3111000000_Ulsan_Jung",
+            "shorten_url":"https:\/\/me2.do\/5mruiTxx"
         },
         {
             "index":15,
@@ -238,7 +257,8 @@
             "value_score":59.5175,
             "region":"울산시 중구",
             "region_code":"Ulsan",
-            "sub_region_code":"3111000000_Ulsan_Jung"
+            "sub_region_code":"3111000000_Ulsan_Jung",
+            "shorten_url":"https:\/\/me2.do\/5mruiTxx"
         },
         {
             "index":16,
@@ -250,7 +270,8 @@
             "value_score":58.7565,
             "region":"울산시 중구",
             "region_code":"Ulsan",
-            "sub_region_code":"3111000000_Ulsan_Jung"
+            "sub_region_code":"3111000000_Ulsan_Jung",
+            "shorten_url":"https:\/\/me2.do\/5mruiTxx"
         },
         {
             "index":17,
@@ -262,7 +283,8 @@
             "value_score":58.3815,
             "region":"울산시 중구",
             "region_code":"Ulsan",
-            "sub_region_code":"3111000000_Ulsan_Jung"
+            "sub_region_code":"3111000000_Ulsan_Jung",
+            "shorten_url":"https:\/\/me2.do\/5mruiTxx"
         },
         {
             "index":18,
@@ -274,7 +296,8 @@
             "value_score":57.6425,
             "region":"울산시 중구",
             "region_code":"Ulsan",
-            "sub_region_code":"3111000000_Ulsan_Jung"
+            "sub_region_code":"3111000000_Ulsan_Jung",
+            "shorten_url":"https:\/\/me2.do\/5mruiTxx"
         },
         {
             "index":19,
@@ -286,7 +309,8 @@
             "value_score":57.230459805,
             "region":"울산시 중구",
             "region_code":"Ulsan",
-            "sub_region_code":"3111000000_Ulsan_Jung"
+            "sub_region_code":"3111000000_Ulsan_Jung",
+            "shorten_url":"https:\/\/me2.do\/5mruiTxx"
         },
         {
             "index":20,
@@ -298,7 +322,8 @@
             "value_score":63.3651578947,
             "region":"울산시 중구",
             "region_code":"Ulsan",
-            "sub_region_code":"3111000000_Ulsan_Jung"
+            "sub_region_code":"3111000000_Ulsan_Jung",
+            "shorten_url":"https:\/\/me2.do\/5mruiTxx"
         },
         {
             "index":21,
@@ -310,7 +335,8 @@
             "value_score":61.1873684211,
             "region":"울산시 중구",
             "region_code":"Ulsan",
-            "sub_region_code":"3111000000_Ulsan_Jung"
+            "sub_region_code":"3111000000_Ulsan_Jung",
+            "shorten_url":"https:\/\/me2.do\/5mruiTxx"
         },
         {
             "index":22,
@@ -322,7 +348,8 @@
             "value_score":60.5031578947,
             "region":"울산시 중구",
             "region_code":"Ulsan",
-            "sub_region_code":"3111000000_Ulsan_Jung"
+            "sub_region_code":"3111000000_Ulsan_Jung",
+            "shorten_url":"https:\/\/me2.do\/5mruiTxx"
         },
         {
             "index":23,
@@ -334,7 +361,8 @@
             "value_score":59.6873684211,
             "region":"울산시 중구",
             "region_code":"Ulsan",
-            "sub_region_code":"3111000000_Ulsan_Jung"
+            "sub_region_code":"3111000000_Ulsan_Jung",
+            "shorten_url":"https:\/\/me2.do\/5mruiTxx"
         },
         {
             "index":24,
@@ -346,7 +374,8 @@
             "value_score":59.3927368421,
             "region":"울산시 중구",
             "region_code":"Ulsan",
-            "sub_region_code":"3111000000_Ulsan_Jung"
+            "sub_region_code":"3111000000_Ulsan_Jung",
+            "shorten_url":"https:\/\/me2.do\/5mruiTxx"
         },
         {
             "index":25,
@@ -358,7 +387,8 @@
             "value_score":58.9190526316,
             "region":"울산시 중구",
             "region_code":"Ulsan",
-            "sub_region_code":"3111000000_Ulsan_Jung"
+            "sub_region_code":"3111000000_Ulsan_Jung",
+            "shorten_url":"https:\/\/me2.do\/5mruiTxx"
         },
         {
             "index":26,
@@ -370,7 +400,8 @@
             "value_score":58.6031976232,
             "region":"울산시 중구",
             "region_code":"Ulsan",
-            "sub_region_code":"3111000000_Ulsan_Jung"
+            "sub_region_code":"3111000000_Ulsan_Jung",
+            "shorten_url":"https:\/\/me2.do\/5mruiTxx"
         },
         {
             "index":27,
@@ -382,7 +413,8 @@
             "value_score":57.7326315789,
             "region":"울산시 중구",
             "region_code":"Ulsan",
-            "sub_region_code":"3111000000_Ulsan_Jung"
+            "sub_region_code":"3111000000_Ulsan_Jung",
+            "shorten_url":"https:\/\/me2.do\/5mruiTxx"
         },
         {
             "index":28,
@@ -394,7 +426,8 @@
             "value_score":57.5425249386,
             "region":"울산시 중구",
             "region_code":"Ulsan",
-            "sub_region_code":"3111000000_Ulsan_Jung"
+            "sub_region_code":"3111000000_Ulsan_Jung",
+            "shorten_url":"https:\/\/me2.do\/5mruiTxx"
         },
         {
             "index":29,
@@ -406,7 +439,8 @@
             "value_score":56.9431578947,
             "region":"울산시 중구",
             "region_code":"Ulsan",
-            "sub_region_code":"3111000000_Ulsan_Jung"
+            "sub_region_code":"3111000000_Ulsan_Jung",
+            "shorten_url":"https:\/\/me2.do\/5mruiTxx"
         },
         {
             "index":30,
@@ -418,7 +452,8 @@
             "value_score":60.13,
             "region":"울산시 중구",
             "region_code":"Ulsan",
-            "sub_region_code":"3111000000_Ulsan_Jung"
+            "sub_region_code":"3111000000_Ulsan_Jung",
+            "shorten_url":"https:\/\/me2.do\/5mruiTxx"
         },
         {
             "index":31,
@@ -430,7 +465,8 @@
             "value_score":59.63,
             "region":"울산시 중구",
             "region_code":"Ulsan",
-            "sub_region_code":"3111000000_Ulsan_Jung"
+            "sub_region_code":"3111000000_Ulsan_Jung",
+            "shorten_url":"https:\/\/me2.do\/5mruiTxx"
         },
         {
             "index":32,
@@ -442,7 +478,8 @@
             "value_score":59.505,
             "region":"울산시 중구",
             "region_code":"Ulsan",
-            "sub_region_code":"3111000000_Ulsan_Jung"
+            "sub_region_code":"3111000000_Ulsan_Jung",
+            "shorten_url":"https:\/\/me2.do\/5mruiTxx"
         },
         {
             "index":33,
@@ -454,7 +491,8 @@
             "value_score":59.0385,
             "region":"울산시 중구",
             "region_code":"Ulsan",
-            "sub_region_code":"3111000000_Ulsan_Jung"
+            "sub_region_code":"3111000000_Ulsan_Jung",
+            "shorten_url":"https:\/\/me2.do\/5mruiTxx"
         },
         {
             "index":34,
@@ -466,7 +504,8 @@
             "value_score":58.9115,
             "region":"울산시 중구",
             "region_code":"Ulsan",
-            "sub_region_code":"3111000000_Ulsan_Jung"
+            "sub_region_code":"3111000000_Ulsan_Jung",
+            "shorten_url":"https:\/\/me2.do\/5mruiTxx"
         },
         {
             "index":35,
@@ -478,7 +517,8 @@
             "value_score":58.263,
             "region":"울산시 중구",
             "region_code":"Ulsan",
-            "sub_region_code":"3111000000_Ulsan_Jung"
+            "sub_region_code":"3111000000_Ulsan_Jung",
+            "shorten_url":"https:\/\/me2.do\/5mruiTxx"
         },
         {
             "index":36,
@@ -490,7 +530,8 @@
             "value_score":57.285,
             "region":"울산시 중구",
             "region_code":"Ulsan",
-            "sub_region_code":"3111000000_Ulsan_Jung"
+            "sub_region_code":"3111000000_Ulsan_Jung",
+            "shorten_url":"https:\/\/me2.do\/5mruiTxx"
         },
         {
             "index":37,
@@ -502,7 +543,8 @@
             "value_score":56.888,
             "region":"울산시 중구",
             "region_code":"Ulsan",
-            "sub_region_code":"3111000000_Ulsan_Jung"
+            "sub_region_code":"3111000000_Ulsan_Jung",
+            "shorten_url":"https:\/\/me2.do\/5mruiTxx"
         },
         {
             "index":38,
@@ -514,7 +556,8 @@
             "value_score":56.83591961,
             "region":"울산시 중구",
             "region_code":"Ulsan",
-            "sub_region_code":"3111000000_Ulsan_Jung"
+            "sub_region_code":"3111000000_Ulsan_Jung",
+            "shorten_url":"https:\/\/me2.do\/5mruiTxx"
         },
         {
             "index":39,
@@ -526,7 +569,8 @@
             "value_score":56.62172957,
             "region":"울산시 중구",
             "region_code":"Ulsan",
-            "sub_region_code":"3111000000_Ulsan_Jung"
+            "sub_region_code":"3111000000_Ulsan_Jung",
+            "shorten_url":"https:\/\/me2.do\/5mruiTxx"
         }
     ]
 }

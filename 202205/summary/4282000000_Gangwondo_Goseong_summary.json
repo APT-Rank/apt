@@ -40,6 +40,10 @@
             {
                 "name":"sub_region_code",
                 "type":"string"
+            },
+            {
+                "name":"shorten_url",
+                "type":"string"
             }
         ],
         "primaryKey":[
@@ -58,7 +62,8 @@
             "value_score":43.72395,
             "region":"강원도 고성군",
             "region_code":"Gangwondo",
-            "sub_region_code":"4282000000_Gangwondo_Goseong"
+            "sub_region_code":"4282000000_Gangwondo_Goseong",
+            "shorten_url":"https:\/\/me2.do\/FgONl4q6"
         },
         {
             "index":1,
@@ -70,7 +75,8 @@
             "value_score":43.52395,
             "region":"강원도 고성군",
             "region_code":"Gangwondo",
-            "sub_region_code":"4282000000_Gangwondo_Goseong"
+            "sub_region_code":"4282000000_Gangwondo_Goseong",
+            "shorten_url":"https:\/\/me2.do\/FgONl4q6"
         },
         {
             "index":2,
@@ -82,7 +88,8 @@
             "value_score":37.14135,
             "region":"강원도 고성군",
             "region_code":"Gangwondo",
-            "sub_region_code":"4282000000_Gangwondo_Goseong"
+            "sub_region_code":"4282000000_Gangwondo_Goseong",
+            "shorten_url":"https:\/\/me2.do\/FgONl4q6"
         },
         {
             "index":3,
@@ -94,7 +101,8 @@
             "value_score":36.99475,
             "region":"강원도 고성군",
             "region_code":"Gangwondo",
-            "sub_region_code":"4282000000_Gangwondo_Goseong"
+            "sub_region_code":"4282000000_Gangwondo_Goseong",
+            "shorten_url":"https:\/\/me2.do\/FgONl4q6"
         },
         {
             "index":4,
@@ -106,7 +114,8 @@
             "value_score":29.94475,
             "region":"강원도 고성군",
             "region_code":"Gangwondo",
-            "sub_region_code":"4282000000_Gangwondo_Goseong"
+            "sub_region_code":"4282000000_Gangwondo_Goseong",
+            "shorten_url":"https:\/\/me2.do\/FgONl4q6"
         },
         {
             "index":5,
@@ -118,7 +127,8 @@
             "value_score":28.87515,
             "region":"강원도 고성군",
             "region_code":"Gangwondo",
-            "sub_region_code":"4282000000_Gangwondo_Goseong"
+            "sub_region_code":"4282000000_Gangwondo_Goseong",
+            "shorten_url":"https:\/\/me2.do\/FgONl4q6"
         },
         {
             "index":6,
@@ -130,7 +140,8 @@
             "value_score":27.92395,
             "region":"강원도 고성군",
             "region_code":"Gangwondo",
-            "sub_region_code":"4282000000_Gangwondo_Goseong"
+            "sub_region_code":"4282000000_Gangwondo_Goseong",
+            "shorten_url":"https:\/\/me2.do\/FgONl4q6"
         },
         {
             "index":7,
@@ -142,7 +153,8 @@
             "value_score":27.04475,
             "region":"강원도 고성군",
             "region_code":"Gangwondo",
-            "sub_region_code":"4282000000_Gangwondo_Goseong"
+            "sub_region_code":"4282000000_Gangwondo_Goseong",
+            "shorten_url":"https:\/\/me2.do\/FgONl4q6"
         },
         {
             "index":8,
@@ -154,7 +166,8 @@
             "value_score":25.47515,
             "region":"강원도 고성군",
             "region_code":"Gangwondo",
-            "sub_region_code":"4282000000_Gangwondo_Goseong"
+            "sub_region_code":"4282000000_Gangwondo_Goseong",
+            "shorten_url":"https:\/\/me2.do\/FgONl4q6"
         },
         {
             "index":9,
@@ -166,7 +179,8 @@
             "value_score":25.44475,
             "region":"강원도 고성군",
             "region_code":"Gangwondo",
-            "sub_region_code":"4282000000_Gangwondo_Goseong"
+            "sub_region_code":"4282000000_Gangwondo_Goseong",
+            "shorten_url":"https:\/\/me2.do\/FgONl4q6"
         },
         {
             "index":10,
@@ -178,7 +192,8 @@
             "value_score":45.87425,
             "region":"강원도 고성군",
             "region_code":"Gangwondo",
-            "sub_region_code":"4282000000_Gangwondo_Goseong"
+            "sub_region_code":"4282000000_Gangwondo_Goseong",
+            "shorten_url":"https:\/\/me2.do\/FgONl4q6"
         },
         {
             "index":11,
@@ -190,7 +205,8 @@
             "value_score":45.37425,
             "region":"강원도 고성군",
             "region_code":"Gangwondo",
-            "sub_region_code":"4282000000_Gangwondo_Goseong"
+            "sub_region_code":"4282000000_Gangwondo_Goseong",
+            "shorten_url":"https:\/\/me2.do\/FgONl4q6"
         },
         {
             "index":12,
@@ -202,7 +218,8 @@
             "value_score":37.74625,
             "region":"강원도 고성군",
             "region_code":"Gangwondo",
-            "sub_region_code":"4282000000_Gangwondo_Goseong"
+            "sub_region_code":"4282000000_Gangwondo_Goseong",
+            "shorten_url":"https:\/\/me2.do\/FgONl4q6"
         },
         {
             "index":13,
@@ -214,7 +231,8 @@
             "value_score":37.56525,
             "region":"강원도 고성군",
             "region_code":"Gangwondo",
-            "sub_region_code":"4282000000_Gangwondo_Goseong"
+            "sub_region_code":"4282000000_Gangwondo_Goseong",
+            "shorten_url":"https:\/\/me2.do\/FgONl4q6"
         },
         {
             "index":14,
@@ -226,7 +244,8 @@
             "value_score":28.99625,
             "region":"강원도 고성군",
             "region_code":"Gangwondo",
-            "sub_region_code":"4282000000_Gangwondo_Goseong"
+            "sub_region_code":"4282000000_Gangwondo_Goseong",
+            "shorten_url":"https:\/\/me2.do\/FgONl4q6"
         },
         {
             "index":15,
@@ -238,7 +257,8 @@
             "value_score":28.23225,
             "region":"강원도 고성군",
             "region_code":"Gangwondo",
-            "sub_region_code":"4282000000_Gangwondo_Goseong"
+            "sub_region_code":"4282000000_Gangwondo_Goseong",
+            "shorten_url":"https:\/\/me2.do\/FgONl4q6"
         },
         {
             "index":16,
@@ -250,7 +270,8 @@
             "value_score":26.37425,
             "region":"강원도 고성군",
             "region_code":"Gangwondo",
-            "sub_region_code":"4282000000_Gangwondo_Goseong"
+            "sub_region_code":"4282000000_Gangwondo_Goseong",
+            "shorten_url":"https:\/\/me2.do\/FgONl4q6"
         },
         {
             "index":17,
@@ -262,7 +283,8 @@
             "value_score":25.24625,
             "region":"강원도 고성군",
             "region_code":"Gangwondo",
-            "sub_region_code":"4282000000_Gangwondo_Goseong"
+            "sub_region_code":"4282000000_Gangwondo_Goseong",
+            "shorten_url":"https:\/\/me2.do\/FgONl4q6"
         },
         {
             "index":18,
@@ -274,7 +296,8 @@
             "value_score":23.24625,
             "region":"강원도 고성군",
             "region_code":"Gangwondo",
-            "sub_region_code":"4282000000_Gangwondo_Goseong"
+            "sub_region_code":"4282000000_Gangwondo_Goseong",
+            "shorten_url":"https:\/\/me2.do\/FgONl4q6"
         },
         {
             "index":19,
@@ -286,7 +309,8 @@
             "value_score":23.08225,
             "region":"강원도 고성군",
             "region_code":"Gangwondo",
-            "sub_region_code":"4282000000_Gangwondo_Goseong"
+            "sub_region_code":"4282000000_Gangwondo_Goseong",
+            "shorten_url":"https:\/\/me2.do\/FgONl4q6"
         },
         {
             "index":20,
@@ -298,7 +322,8 @@
             "value_score":34.8937894737,
             "region":"강원도 고성군",
             "region_code":"Gangwondo",
-            "sub_region_code":"4282000000_Gangwondo_Goseong"
+            "sub_region_code":"4282000000_Gangwondo_Goseong",
+            "shorten_url":"https:\/\/me2.do\/FgONl4q6"
         },
         {
             "index":21,
@@ -310,7 +335,8 @@
             "value_score":29.6832631579,
             "region":"강원도 고성군",
             "region_code":"Gangwondo",
-            "sub_region_code":"4282000000_Gangwondo_Goseong"
+            "sub_region_code":"4282000000_Gangwondo_Goseong",
+            "shorten_url":"https:\/\/me2.do\/FgONl4q6"
         },
         {
             "index":22,
@@ -322,7 +348,8 @@
             "value_score":28.5478947368,
             "region":"강원도 고성군",
             "region_code":"Gangwondo",
-            "sub_region_code":"4282000000_Gangwondo_Goseong"
+            "sub_region_code":"4282000000_Gangwondo_Goseong",
+            "shorten_url":"https:\/\/me2.do\/FgONl4q6"
         },
         {
             "index":23,
@@ -334,7 +361,8 @@
             "value_score":27.4771578947,
             "region":"강원도 고성군",
             "region_code":"Gangwondo",
-            "sub_region_code":"4282000000_Gangwondo_Goseong"
+            "sub_region_code":"4282000000_Gangwondo_Goseong",
+            "shorten_url":"https:\/\/me2.do\/FgONl4q6"
         },
         {
             "index":24,
@@ -346,7 +374,8 @@
             "value_score":25.3373684211,
             "region":"강원도 고성군",
             "region_code":"Gangwondo",
-            "sub_region_code":"4282000000_Gangwondo_Goseong"
+            "sub_region_code":"4282000000_Gangwondo_Goseong",
+            "shorten_url":"https:\/\/me2.do\/FgONl4q6"
         },
         {
             "index":25,
@@ -358,7 +387,8 @@
             "value_score":25.0478947368,
             "region":"강원도 고성군",
             "region_code":"Gangwondo",
-            "sub_region_code":"4282000000_Gangwondo_Goseong"
+            "sub_region_code":"4282000000_Gangwondo_Goseong",
+            "shorten_url":"https:\/\/me2.do\/FgONl4q6"
         },
         {
             "index":26,
@@ -370,7 +400,8 @@
             "value_score":24.4163157895,
             "region":"강원도 고성군",
             "region_code":"Gangwondo",
-            "sub_region_code":"4282000000_Gangwondo_Goseong"
+            "sub_region_code":"4282000000_Gangwondo_Goseong",
+            "shorten_url":"https:\/\/me2.do\/FgONl4q6"
         },
         {
             "index":27,
@@ -382,7 +413,8 @@
             "value_score":23.6617894737,
             "region":"강원도 고성군",
             "region_code":"Gangwondo",
-            "sub_region_code":"4282000000_Gangwondo_Goseong"
+            "sub_region_code":"4282000000_Gangwondo_Goseong",
+            "shorten_url":"https:\/\/me2.do\/FgONl4q6"
         },
         {
             "index":28,
@@ -394,7 +426,8 @@
             "value_score":23.5253684211,
             "region":"강원도 고성군",
             "region_code":"Gangwondo",
-            "sub_region_code":"4282000000_Gangwondo_Goseong"
+            "sub_region_code":"4282000000_Gangwondo_Goseong",
+            "shorten_url":"https:\/\/me2.do\/FgONl4q6"
         },
         {
             "index":29,
@@ -406,7 +439,8 @@
             "value_score":18.846,
             "region":"강원도 고성군",
             "region_code":"Gangwondo",
-            "sub_region_code":"4282000000_Gangwondo_Goseong"
+            "sub_region_code":"4282000000_Gangwondo_Goseong",
+            "shorten_url":"https:\/\/me2.do\/FgONl4q6"
         },
         {
             "index":30,
@@ -418,7 +452,8 @@
             "value_score":41.2485,
             "region":"강원도 고성군",
             "region_code":"Gangwondo",
-            "sub_region_code":"4282000000_Gangwondo_Goseong"
+            "sub_region_code":"4282000000_Gangwondo_Goseong",
+            "shorten_url":"https:\/\/me2.do\/FgONl4q6"
         },
         {
             "index":31,
@@ -430,7 +465,8 @@
             "value_score":39.9985,
             "region":"강원도 고성군",
             "region_code":"Gangwondo",
-            "sub_region_code":"4282000000_Gangwondo_Goseong"
+            "sub_region_code":"4282000000_Gangwondo_Goseong",
+            "shorten_url":"https:\/\/me2.do\/FgONl4q6"
         },
         {
             "index":32,
@@ -442,7 +478,8 @@
             "value_score":36.5055,
             "region":"강원도 고성군",
             "region_code":"Gangwondo",
-            "sub_region_code":"4282000000_Gangwondo_Goseong"
+            "sub_region_code":"4282000000_Gangwondo_Goseong",
+            "shorten_url":"https:\/\/me2.do\/FgONl4q6"
         },
         {
             "index":33,
@@ -454,7 +491,8 @@
             "value_score":35.8675,
             "region":"강원도 고성군",
             "region_code":"Gangwondo",
-            "sub_region_code":"4282000000_Gangwondo_Goseong"
+            "sub_region_code":"4282000000_Gangwondo_Goseong",
+            "shorten_url":"https:\/\/me2.do\/FgONl4q6"
         },
         {
             "index":34,
@@ -466,7 +504,8 @@
             "value_score":31.3675,
             "region":"강원도 고성군",
             "region_code":"Gangwondo",
-            "sub_region_code":"4282000000_Gangwondo_Goseong"
+            "sub_region_code":"4282000000_Gangwondo_Goseong",
+            "shorten_url":"https:\/\/me2.do\/FgONl4q6"
         },
         {
             "index":35,
@@ -478,7 +517,8 @@
             "value_score":30.2485,
             "region":"강원도 고성군",
             "region_code":"Gangwondo",
-            "sub_region_code":"4282000000_Gangwondo_Goseong"
+            "sub_region_code":"4282000000_Gangwondo_Goseong",
+            "shorten_url":"https:\/\/me2.do\/FgONl4q6"
         },
         {
             "index":36,
@@ -490,7 +530,8 @@
             "value_score":29.8395,
             "region":"강원도 고성군",
             "region_code":"Gangwondo",
-            "sub_region_code":"4282000000_Gangwondo_Goseong"
+            "sub_region_code":"4282000000_Gangwondo_Goseong",
+            "shorten_url":"https:\/\/me2.do\/FgONl4q6"
         },
         {
             "index":37,
@@ -502,7 +543,8 @@
             "value_score":29.7425,
             "region":"강원도 고성군",
             "region_code":"Gangwondo",
-            "sub_region_code":"4282000000_Gangwondo_Goseong"
+            "sub_region_code":"4282000000_Gangwondo_Goseong",
+            "shorten_url":"https:\/\/me2.do\/FgONl4q6"
         },
         {
             "index":38,
@@ -514,7 +556,8 @@
             "value_score":29.0645,
             "region":"강원도 고성군",
             "region_code":"Gangwondo",
-            "sub_region_code":"4282000000_Gangwondo_Goseong"
+            "sub_region_code":"4282000000_Gangwondo_Goseong",
+            "shorten_url":"https:\/\/me2.do\/FgONl4q6"
         },
         {
             "index":39,
@@ -526,7 +569,8 @@
             "value_score":28.7425,
             "region":"강원도 고성군",
             "region_code":"Gangwondo",
-            "sub_region_code":"4282000000_Gangwondo_Goseong"
+            "sub_region_code":"4282000000_Gangwondo_Goseong",
+            "shorten_url":"https:\/\/me2.do\/FgONl4q6"
         }
     ]
 }

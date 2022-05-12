@@ -40,6 +40,10 @@
             {
                 "name":"sub_region_code",
                 "type":"string"
+            },
+            {
+                "name":"shorten_url",
+                "type":"string"
             }
         ],
         "primaryKey":[
@@ -58,7 +62,8 @@
             "value_score":57.9613,
             "region":"경상남도 창원시 의창구",
             "region_code":"Gyeongsangnamdo",
-            "sub_region_code":"4812100000_Gyeongsangnamdo_Changwon_Uichang"
+            "sub_region_code":"4812100000_Gyeongsangnamdo_Changwon_Uichang",
+            "shorten_url":"https:\/\/me2.do\/5vMpjopd"
         },
         {
             "index":1,
@@ -70,7 +75,8 @@
             "value_score":57.77225,
             "region":"경상남도 창원시 의창구",
             "region_code":"Gyeongsangnamdo",
-            "sub_region_code":"4812100000_Gyeongsangnamdo_Changwon_Uichang"
+            "sub_region_code":"4812100000_Gyeongsangnamdo_Changwon_Uichang",
+            "shorten_url":"https:\/\/me2.do\/5vMpjopd"
         },
         {
             "index":2,
@@ -82,7 +88,8 @@
             "value_score":56.982,
             "region":"경상남도 창원시 의창구",
             "region_code":"Gyeongsangnamdo",
-            "sub_region_code":"4812100000_Gyeongsangnamdo_Changwon_Uichang"
+            "sub_region_code":"4812100000_Gyeongsangnamdo_Changwon_Uichang",
+            "shorten_url":"https:\/\/me2.do\/5vMpjopd"
         },
         {
             "index":3,
@@ -94,7 +101,8 @@
             "value_score":56.83585,
             "region":"경상남도 창원시 의창구",
             "region_code":"Gyeongsangnamdo",
-            "sub_region_code":"4812100000_Gyeongsangnamdo_Changwon_Uichang"
+            "sub_region_code":"4812100000_Gyeongsangnamdo_Changwon_Uichang",
+            "shorten_url":"https:\/\/me2.do\/5vMpjopd"
         },
         {
             "index":4,
@@ -106,7 +114,8 @@
             "value_score":55.382,
             "region":"경상남도 창원시 의창구",
             "region_code":"Gyeongsangnamdo",
-            "sub_region_code":"4812100000_Gyeongsangnamdo_Changwon_Uichang"
+            "sub_region_code":"4812100000_Gyeongsangnamdo_Changwon_Uichang",
+            "shorten_url":"https:\/\/me2.do\/5vMpjopd"
         },
         {
             "index":5,
@@ -118,7 +127,8 @@
             "value_score":55.23585,
             "region":"경상남도 창원시 의창구",
             "region_code":"Gyeongsangnamdo",
-            "sub_region_code":"4812100000_Gyeongsangnamdo_Changwon_Uichang"
+            "sub_region_code":"4812100000_Gyeongsangnamdo_Changwon_Uichang",
+            "shorten_url":"https:\/\/me2.do\/5vMpjopd"
         },
         {
             "index":6,
@@ -130,7 +140,8 @@
             "value_score":54.982,
             "region":"경상남도 창원시 의창구",
             "region_code":"Gyeongsangnamdo",
-            "sub_region_code":"4812100000_Gyeongsangnamdo_Changwon_Uichang"
+            "sub_region_code":"4812100000_Gyeongsangnamdo_Changwon_Uichang",
+            "shorten_url":"https:\/\/me2.do\/5vMpjopd"
         },
         {
             "index":7,
@@ -142,7 +153,8 @@
             "value_score":54.58585,
             "region":"경상남도 창원시 의창구",
             "region_code":"Gyeongsangnamdo",
-            "sub_region_code":"4812100000_Gyeongsangnamdo_Changwon_Uichang"
+            "sub_region_code":"4812100000_Gyeongsangnamdo_Changwon_Uichang",
+            "shorten_url":"https:\/\/me2.do\/5vMpjopd"
         },
         {
             "index":8,
@@ -154,7 +166,8 @@
             "value_score":54.532,
             "region":"경상남도 창원시 의창구",
             "region_code":"Gyeongsangnamdo",
-            "sub_region_code":"4812100000_Gyeongsangnamdo_Changwon_Uichang"
+            "sub_region_code":"4812100000_Gyeongsangnamdo_Changwon_Uichang",
+            "shorten_url":"https:\/\/me2.do\/5vMpjopd"
         },
         {
             "index":9,
@@ -166,7 +179,8 @@
             "value_score":53.332,
             "region":"경상남도 창원시 의창구",
             "region_code":"Gyeongsangnamdo",
-            "sub_region_code":"4812100000_Gyeongsangnamdo_Changwon_Uichang"
+            "sub_region_code":"4812100000_Gyeongsangnamdo_Changwon_Uichang",
+            "shorten_url":"https:\/\/me2.do\/5vMpjopd"
         },
         {
             "index":10,
@@ -178,7 +192,8 @@
             "value_score":62.00875,
             "region":"경상남도 창원시 의창구",
             "region_code":"Gyeongsangnamdo",
-            "sub_region_code":"4812100000_Gyeongsangnamdo_Changwon_Uichang"
+            "sub_region_code":"4812100000_Gyeongsangnamdo_Changwon_Uichang",
+            "shorten_url":"https:\/\/me2.do\/5vMpjopd"
         },
         {
             "index":11,
@@ -190,7 +205,8 @@
             "value_score":61.8295,
             "region":"경상남도 창원시 의창구",
             "region_code":"Gyeongsangnamdo",
-            "sub_region_code":"4812100000_Gyeongsangnamdo_Changwon_Uichang"
+            "sub_region_code":"4812100000_Gyeongsangnamdo_Changwon_Uichang",
+            "shorten_url":"https:\/\/me2.do\/5vMpjopd"
         },
         {
             "index":12,
@@ -202,7 +218,8 @@
             "value_score":61.13275,
             "region":"경상남도 창원시 의창구",
             "region_code":"Gyeongsangnamdo",
-            "sub_region_code":"4812100000_Gyeongsangnamdo_Changwon_Uichang"
+            "sub_region_code":"4812100000_Gyeongsangnamdo_Changwon_Uichang",
+            "shorten_url":"https:\/\/me2.do\/5vMpjopd"
         },
         {
             "index":13,
@@ -214,7 +231,8 @@
             "value_score":59.88275,
             "region":"경상남도 창원시 의창구",
             "region_code":"Gyeongsangnamdo",
-            "sub_region_code":"4812100000_Gyeongsangnamdo_Changwon_Uichang"
+            "sub_region_code":"4812100000_Gyeongsangnamdo_Changwon_Uichang",
+            "shorten_url":"https:\/\/me2.do\/5vMpjopd"
         },
         {
             "index":14,
@@ -226,7 +244,8 @@
             "value_score":59.13,
             "region":"경상남도 창원시 의창구",
             "region_code":"Gyeongsangnamdo",
-            "sub_region_code":"4812100000_Gyeongsangnamdo_Changwon_Uichang"
+            "sub_region_code":"4812100000_Gyeongsangnamdo_Changwon_Uichang",
+            "shorten_url":"https:\/\/me2.do\/5vMpjopd"
         },
         {
             "index":15,
@@ -238,7 +257,8 @@
             "value_score":58.88275,
             "region":"경상남도 창원시 의창구",
             "region_code":"Gyeongsangnamdo",
-            "sub_region_code":"4812100000_Gyeongsangnamdo_Changwon_Uichang"
+            "sub_region_code":"4812100000_Gyeongsangnamdo_Changwon_Uichang",
+            "shorten_url":"https:\/\/me2.do\/5vMpjopd"
         },
         {
             "index":16,
@@ -250,7 +270,8 @@
             "value_score":57.13,
             "region":"경상남도 창원시 의창구",
             "region_code":"Gyeongsangnamdo",
-            "sub_region_code":"4812100000_Gyeongsangnamdo_Changwon_Uichang"
+            "sub_region_code":"4812100000_Gyeongsangnamdo_Changwon_Uichang",
+            "shorten_url":"https:\/\/me2.do\/5vMpjopd"
         },
         {
             "index":17,
@@ -262,7 +283,8 @@
             "value_score":57.13,
             "region":"경상남도 창원시 의창구",
             "region_code":"Gyeongsangnamdo",
-            "sub_region_code":"4812100000_Gyeongsangnamdo_Changwon_Uichang"
+            "sub_region_code":"4812100000_Gyeongsangnamdo_Changwon_Uichang",
+            "shorten_url":"https:\/\/me2.do\/5vMpjopd"
         },
         {
             "index":18,
@@ -274,7 +296,8 @@
             "value_score":56.38,
             "region":"경상남도 창원시 의창구",
             "region_code":"Gyeongsangnamdo",
-            "sub_region_code":"4812100000_Gyeongsangnamdo_Changwon_Uichang"
+            "sub_region_code":"4812100000_Gyeongsangnamdo_Changwon_Uichang",
+            "shorten_url":"https:\/\/me2.do\/5vMpjopd"
         },
         {
             "index":19,
@@ -286,7 +309,8 @@
             "value_score":56.2005,
             "region":"경상남도 창원시 의창구",
             "region_code":"Gyeongsangnamdo",
-            "sub_region_code":"4812100000_Gyeongsangnamdo_Changwon_Uichang"
+            "sub_region_code":"4812100000_Gyeongsangnamdo_Changwon_Uichang",
+            "shorten_url":"https:\/\/me2.do\/5vMpjopd"
         },
         {
             "index":20,
@@ -298,7 +322,8 @@
             "value_score":46.0214736842,
             "region":"경상남도 창원시 의창구",
             "region_code":"Gyeongsangnamdo",
-            "sub_region_code":"4812100000_Gyeongsangnamdo_Changwon_Uichang"
+            "sub_region_code":"4812100000_Gyeongsangnamdo_Changwon_Uichang",
+            "shorten_url":"https:\/\/me2.do\/5vMpjopd"
         },
         {
             "index":21,
@@ -310,7 +335,8 @@
             "value_score":44.6396842105,
             "region":"경상남도 창원시 의창구",
             "region_code":"Gyeongsangnamdo",
-            "sub_region_code":"4812100000_Gyeongsangnamdo_Changwon_Uichang"
+            "sub_region_code":"4812100000_Gyeongsangnamdo_Changwon_Uichang",
+            "shorten_url":"https:\/\/me2.do\/5vMpjopd"
         },
         {
             "index":22,
@@ -322,7 +348,8 @@
             "value_score":44.0689473684,
             "region":"경상남도 창원시 의창구",
             "region_code":"Gyeongsangnamdo",
-            "sub_region_code":"4812100000_Gyeongsangnamdo_Changwon_Uichang"
+            "sub_region_code":"4812100000_Gyeongsangnamdo_Changwon_Uichang",
+            "shorten_url":"https:\/\/me2.do\/5vMpjopd"
         },
         {
             "index":23,
@@ -334,7 +361,8 @@
             "value_score":43.2431578947,
             "region":"경상남도 창원시 의창구",
             "region_code":"Gyeongsangnamdo",
-            "sub_region_code":"4812100000_Gyeongsangnamdo_Changwon_Uichang"
+            "sub_region_code":"4812100000_Gyeongsangnamdo_Changwon_Uichang",
+            "shorten_url":"https:\/\/me2.do\/5vMpjopd"
         },
         {
             "index":24,
@@ -346,7 +374,8 @@
             "value_score":42.7449473684,
             "region":"경상남도 창원시 의창구",
             "region_code":"Gyeongsangnamdo",
-            "sub_region_code":"4812100000_Gyeongsangnamdo_Changwon_Uichang"
+            "sub_region_code":"4812100000_Gyeongsangnamdo_Changwon_Uichang",
+            "shorten_url":"https:\/\/me2.do\/5vMpjopd"
         },
         {
             "index":25,
@@ -358,7 +387,8 @@
             "value_score":42.6396842105,
             "region":"경상남도 창원시 의창구",
             "region_code":"Gyeongsangnamdo",
-            "sub_region_code":"4812100000_Gyeongsangnamdo_Changwon_Uichang"
+            "sub_region_code":"4812100000_Gyeongsangnamdo_Changwon_Uichang",
+            "shorten_url":"https:\/\/me2.do\/5vMpjopd"
         },
         {
             "index":26,
@@ -370,7 +400,8 @@
             "value_score":42.6115789474,
             "region":"경상남도 창원시 의창구",
             "region_code":"Gyeongsangnamdo",
-            "sub_region_code":"4812100000_Gyeongsangnamdo_Changwon_Uichang"
+            "sub_region_code":"4812100000_Gyeongsangnamdo_Changwon_Uichang",
+            "shorten_url":"https:\/\/me2.do\/5vMpjopd"
         },
         {
             "index":27,
@@ -382,7 +413,8 @@
             "value_score":42.49,
             "region":"경상남도 창원시 의창구",
             "region_code":"Gyeongsangnamdo",
-            "sub_region_code":"4812100000_Gyeongsangnamdo_Changwon_Uichang"
+            "sub_region_code":"4812100000_Gyeongsangnamdo_Changwon_Uichang",
+            "shorten_url":"https:\/\/me2.do\/5vMpjopd"
         },
         {
             "index":28,
@@ -394,7 +426,8 @@
             "value_score":42.4817894737,
             "region":"경상남도 창원시 의창구",
             "region_code":"Gyeongsangnamdo",
-            "sub_region_code":"4812100000_Gyeongsangnamdo_Changwon_Uichang"
+            "sub_region_code":"4812100000_Gyeongsangnamdo_Changwon_Uichang",
+            "shorten_url":"https:\/\/me2.do\/5vMpjopd"
         },
         {
             "index":29,
@@ -406,7 +439,8 @@
             "value_score":42.3146315789,
             "region":"경상남도 창원시 의창구",
             "region_code":"Gyeongsangnamdo",
-            "sub_region_code":"4812100000_Gyeongsangnamdo_Changwon_Uichang"
+            "sub_region_code":"4812100000_Gyeongsangnamdo_Changwon_Uichang",
+            "shorten_url":"https:\/\/me2.do\/5vMpjopd"
         },
         {
             "index":30,
@@ -418,7 +452,8 @@
             "value_score":53.76,
             "region":"경상남도 창원시 의창구",
             "region_code":"Gyeongsangnamdo",
-            "sub_region_code":"4812100000_Gyeongsangnamdo_Changwon_Uichang"
+            "sub_region_code":"4812100000_Gyeongsangnamdo_Changwon_Uichang",
+            "shorten_url":"https:\/\/me2.do\/5vMpjopd"
         },
         {
             "index":31,
@@ -430,7 +465,8 @@
             "value_score":52.885,
             "region":"경상남도 창원시 의창구",
             "region_code":"Gyeongsangnamdo",
-            "sub_region_code":"4812100000_Gyeongsangnamdo_Changwon_Uichang"
+            "sub_region_code":"4812100000_Gyeongsangnamdo_Changwon_Uichang",
+            "shorten_url":"https:\/\/me2.do\/5vMpjopd"
         },
         {
             "index":32,
@@ -442,7 +478,8 @@
             "value_score":52.76,
             "region":"경상남도 창원시 의창구",
             "region_code":"Gyeongsangnamdo",
-            "sub_region_code":"4812100000_Gyeongsangnamdo_Changwon_Uichang"
+            "sub_region_code":"4812100000_Gyeongsangnamdo_Changwon_Uichang",
+            "shorten_url":"https:\/\/me2.do\/5vMpjopd"
         },
         {
             "index":33,
@@ -454,7 +491,8 @@
             "value_score":52.5675,
             "region":"경상남도 창원시 의창구",
             "region_code":"Gyeongsangnamdo",
-            "sub_region_code":"4812100000_Gyeongsangnamdo_Changwon_Uichang"
+            "sub_region_code":"4812100000_Gyeongsangnamdo_Changwon_Uichang",
+            "shorten_url":"https:\/\/me2.do\/5vMpjopd"
         },
         {
             "index":34,
@@ -466,7 +504,8 @@
             "value_score":52.3045,
             "region":"경상남도 창원시 의창구",
             "region_code":"Gyeongsangnamdo",
-            "sub_region_code":"4812100000_Gyeongsangnamdo_Changwon_Uichang"
+            "sub_region_code":"4812100000_Gyeongsangnamdo_Changwon_Uichang",
+            "shorten_url":"https:\/\/me2.do\/5vMpjopd"
         },
         {
             "index":35,
@@ -478,7 +517,8 @@
             "value_score":52.159,
             "region":"경상남도 창원시 의창구",
             "region_code":"Gyeongsangnamdo",
-            "sub_region_code":"4812100000_Gyeongsangnamdo_Changwon_Uichang"
+            "sub_region_code":"4812100000_Gyeongsangnamdo_Changwon_Uichang",
+            "shorten_url":"https:\/\/me2.do\/5vMpjopd"
         },
         {
             "index":36,
@@ -490,7 +530,8 @@
             "value_score":52.135,
             "region":"경상남도 창원시 의창구",
             "region_code":"Gyeongsangnamdo",
-            "sub_region_code":"4812100000_Gyeongsangnamdo_Changwon_Uichang"
+            "sub_region_code":"4812100000_Gyeongsangnamdo_Changwon_Uichang",
+            "shorten_url":"https:\/\/me2.do\/5vMpjopd"
         },
         {
             "index":37,
@@ -502,7 +543,8 @@
             "value_score":51.4175,
             "region":"경상남도 창원시 의창구",
             "region_code":"Gyeongsangnamdo",
-            "sub_region_code":"4812100000_Gyeongsangnamdo_Changwon_Uichang"
+            "sub_region_code":"4812100000_Gyeongsangnamdo_Changwon_Uichang",
+            "shorten_url":"https:\/\/me2.do\/5vMpjopd"
         },
         {
             "index":38,
@@ -514,7 +556,8 @@
             "value_score":50.985,
             "region":"경상남도 창원시 의창구",
             "region_code":"Gyeongsangnamdo",
-            "sub_region_code":"4812100000_Gyeongsangnamdo_Changwon_Uichang"
+            "sub_region_code":"4812100000_Gyeongsangnamdo_Changwon_Uichang",
+            "shorten_url":"https:\/\/me2.do\/5vMpjopd"
         },
         {
             "index":39,
@@ -526,7 +569,8 @@
             "value_score":50.635,
             "region":"경상남도 창원시 의창구",
             "region_code":"Gyeongsangnamdo",
-            "sub_region_code":"4812100000_Gyeongsangnamdo_Changwon_Uichang"
+            "sub_region_code":"4812100000_Gyeongsangnamdo_Changwon_Uichang",
+            "shorten_url":"https:\/\/me2.do\/5vMpjopd"
         }
     ]
 }

@@ -40,6 +40,10 @@
             {
                 "name":"sub_region_code",
                 "type":"string"
+            },
+            {
+                "name":"shorten_url",
+                "type":"string"
             }
         ],
         "primaryKey":[
@@ -58,7 +62,8 @@
             "value_score":46.82575,
             "region":"경상북도 문경시",
             "region_code":"Gyeongsangbukdo",
-            "sub_region_code":"4728000000_Gyeongsangbukdo_Mungyeong"
+            "sub_region_code":"4728000000_Gyeongsangbukdo_Mungyeong",
+            "shorten_url":"https:\/\/me2.do\/G9RoGjDe"
         },
         {
             "index":1,
@@ -70,7 +75,8 @@
             "value_score":46.4583,
             "region":"경상북도 문경시",
             "region_code":"Gyeongsangbukdo",
-            "sub_region_code":"4728000000_Gyeongsangbukdo_Mungyeong"
+            "sub_region_code":"4728000000_Gyeongsangbukdo_Mungyeong",
+            "shorten_url":"https:\/\/me2.do\/G9RoGjDe"
         },
         {
             "index":2,
@@ -82,7 +88,8 @@
             "value_score":45.87575,
             "region":"경상북도 문경시",
             "region_code":"Gyeongsangbukdo",
-            "sub_region_code":"4728000000_Gyeongsangbukdo_Mungyeong"
+            "sub_region_code":"4728000000_Gyeongsangbukdo_Mungyeong",
+            "shorten_url":"https:\/\/me2.do\/G9RoGjDe"
         },
         {
             "index":3,
@@ -94,7 +101,8 @@
             "value_score":40.8455,
             "region":"경상북도 문경시",
             "region_code":"Gyeongsangbukdo",
-            "sub_region_code":"4728000000_Gyeongsangbukdo_Mungyeong"
+            "sub_region_code":"4728000000_Gyeongsangbukdo_Mungyeong",
+            "shorten_url":"https:\/\/me2.do\/G9RoGjDe"
         },
         {
             "index":4,
@@ -106,7 +114,8 @@
             "value_score":40.72575,
             "region":"경상북도 문경시",
             "region_code":"Gyeongsangbukdo",
-            "sub_region_code":"4728000000_Gyeongsangbukdo_Mungyeong"
+            "sub_region_code":"4728000000_Gyeongsangbukdo_Mungyeong",
+            "shorten_url":"https:\/\/me2.do\/G9RoGjDe"
         },
         {
             "index":5,
@@ -118,7 +127,8 @@
             "value_score":39.93835,
             "region":"경상북도 문경시",
             "region_code":"Gyeongsangbukdo",
-            "sub_region_code":"4728000000_Gyeongsangbukdo_Mungyeong"
+            "sub_region_code":"4728000000_Gyeongsangbukdo_Mungyeong",
+            "shorten_url":"https:\/\/me2.do\/G9RoGjDe"
         },
         {
             "index":6,
@@ -130,7 +140,8 @@
             "value_score":39.52575,
             "region":"경상북도 문경시",
             "region_code":"Gyeongsangbukdo",
-            "sub_region_code":"4728000000_Gyeongsangbukdo_Mungyeong"
+            "sub_region_code":"4728000000_Gyeongsangbukdo_Mungyeong",
+            "shorten_url":"https:\/\/me2.do\/G9RoGjDe"
         },
         {
             "index":7,
@@ -142,7 +153,8 @@
             "value_score":39.52575,
             "region":"경상북도 문경시",
             "region_code":"Gyeongsangbukdo",
-            "sub_region_code":"4728000000_Gyeongsangbukdo_Mungyeong"
+            "sub_region_code":"4728000000_Gyeongsangbukdo_Mungyeong",
+            "shorten_url":"https:\/\/me2.do\/G9RoGjDe"
         },
         {
             "index":8,
@@ -154,7 +166,8 @@
             "value_score":39.4205,
             "region":"경상북도 문경시",
             "region_code":"Gyeongsangbukdo",
-            "sub_region_code":"4728000000_Gyeongsangbukdo_Mungyeong"
+            "sub_region_code":"4728000000_Gyeongsangbukdo_Mungyeong",
+            "shorten_url":"https:\/\/me2.do\/G9RoGjDe"
         },
         {
             "index":9,
@@ -166,7 +179,8 @@
             "value_score":38.93835,
             "region":"경상북도 문경시",
             "region_code":"Gyeongsangbukdo",
-            "sub_region_code":"4728000000_Gyeongsangbukdo_Mungyeong"
+            "sub_region_code":"4728000000_Gyeongsangbukdo_Mungyeong",
+            "shorten_url":"https:\/\/me2.do\/G9RoGjDe"
         },
         {
             "index":10,
@@ -178,7 +192,8 @@
             "value_score":48.1845,
             "region":"경상북도 문경시",
             "region_code":"Gyeongsangbukdo",
-            "sub_region_code":"4728000000_Gyeongsangbukdo_Mungyeong"
+            "sub_region_code":"4728000000_Gyeongsangbukdo_Mungyeong",
+            "shorten_url":"https:\/\/me2.do\/G9RoGjDe"
         },
         {
             "index":11,
@@ -190,7 +205,8 @@
             "value_score":48.01125,
             "region":"경상북도 문경시",
             "region_code":"Gyeongsangbukdo",
-            "sub_region_code":"4728000000_Gyeongsangbukdo_Mungyeong"
+            "sub_region_code":"4728000000_Gyeongsangbukdo_Mungyeong",
+            "shorten_url":"https:\/\/me2.do\/G9RoGjDe"
         },
         {
             "index":12,
@@ -202,7 +218,8 @@
             "value_score":46.41125,
             "region":"경상북도 문경시",
             "region_code":"Gyeongsangbukdo",
-            "sub_region_code":"4728000000_Gyeongsangbukdo_Mungyeong"
+            "sub_region_code":"4728000000_Gyeongsangbukdo_Mungyeong",
+            "shorten_url":"https:\/\/me2.do\/G9RoGjDe"
         },
         {
             "index":13,
@@ -214,7 +231,8 @@
             "value_score":40.41125,
             "region":"경상북도 문경시",
             "region_code":"Gyeongsangbukdo",
-            "sub_region_code":"4728000000_Gyeongsangbukdo_Mungyeong"
+            "sub_region_code":"4728000000_Gyeongsangbukdo_Mungyeong",
+            "shorten_url":"https:\/\/me2.do\/G9RoGjDe"
         },
         {
             "index":14,
@@ -226,7 +244,8 @@
             "value_score":40.27025,
             "region":"경상북도 문경시",
             "region_code":"Gyeongsangbukdo",
-            "sub_region_code":"4728000000_Gyeongsangbukdo_Mungyeong"
+            "sub_region_code":"4728000000_Gyeongsangbukdo_Mungyeong",
+            "shorten_url":"https:\/\/me2.do\/G9RoGjDe"
         },
         {
             "index":15,
@@ -238,7 +257,8 @@
             "value_score":39.8825,
             "region":"경상북도 문경시",
             "region_code":"Gyeongsangbukdo",
-            "sub_region_code":"4728000000_Gyeongsangbukdo_Mungyeong"
+            "sub_region_code":"4728000000_Gyeongsangbukdo_Mungyeong",
+            "shorten_url":"https:\/\/me2.do\/G9RoGjDe"
         },
         {
             "index":16,
@@ -250,7 +270,8 @@
             "value_score":39.4075,
             "region":"경상북도 문경시",
             "region_code":"Gyeongsangbukdo",
-            "sub_region_code":"4728000000_Gyeongsangbukdo_Mungyeong"
+            "sub_region_code":"4728000000_Gyeongsangbukdo_Mungyeong",
+            "shorten_url":"https:\/\/me2.do\/G9RoGjDe"
         },
         {
             "index":17,
@@ -262,7 +283,8 @@
             "value_score":39.02025,
             "region":"경상북도 문경시",
             "region_code":"Gyeongsangbukdo",
-            "sub_region_code":"4728000000_Gyeongsangbukdo_Mungyeong"
+            "sub_region_code":"4728000000_Gyeongsangbukdo_Mungyeong",
+            "shorten_url":"https:\/\/me2.do\/G9RoGjDe"
         },
         {
             "index":18,
@@ -274,7 +296,8 @@
             "value_score":38.7255,
             "region":"경상북도 문경시",
             "region_code":"Gyeongsangbukdo",
-            "sub_region_code":"4728000000_Gyeongsangbukdo_Mungyeong"
+            "sub_region_code":"4728000000_Gyeongsangbukdo_Mungyeong",
+            "shorten_url":"https:\/\/me2.do\/G9RoGjDe"
         },
         {
             "index":19,
@@ -286,7 +309,8 @@
             "value_score":38.41125,
             "region":"경상북도 문경시",
             "region_code":"Gyeongsangbukdo",
-            "sub_region_code":"4728000000_Gyeongsangbukdo_Mungyeong"
+            "sub_region_code":"4728000000_Gyeongsangbukdo_Mungyeong",
+            "shorten_url":"https:\/\/me2.do\/G9RoGjDe"
         },
         {
             "index":20,
@@ -298,7 +322,8 @@
             "value_score":44.3568421053,
             "region":"경상북도 문경시",
             "region_code":"Gyeongsangbukdo",
-            "sub_region_code":"4728000000_Gyeongsangbukdo_Mungyeong"
+            "sub_region_code":"4728000000_Gyeongsangbukdo_Mungyeong",
+            "shorten_url":"https:\/\/me2.do\/G9RoGjDe"
         },
         {
             "index":21,
@@ -310,7 +335,8 @@
             "value_score":41.3615789474,
             "region":"경상북도 문경시",
             "region_code":"Gyeongsangbukdo",
-            "sub_region_code":"4728000000_Gyeongsangbukdo_Mungyeong"
+            "sub_region_code":"4728000000_Gyeongsangbukdo_Mungyeong",
+            "shorten_url":"https:\/\/me2.do\/G9RoGjDe"
         },
         {
             "index":22,
@@ -322,7 +348,8 @@
             "value_score":39.2826315789,
             "region":"경상북도 문경시",
             "region_code":"Gyeongsangbukdo",
-            "sub_region_code":"4728000000_Gyeongsangbukdo_Mungyeong"
+            "sub_region_code":"4728000000_Gyeongsangbukdo_Mungyeong",
+            "shorten_url":"https:\/\/me2.do\/G9RoGjDe"
         },
         {
             "index":23,
@@ -334,7 +361,8 @@
             "value_score":39.2826315789,
             "region":"경상북도 문경시",
             "region_code":"Gyeongsangbukdo",
-            "sub_region_code":"4728000000_Gyeongsangbukdo_Mungyeong"
+            "sub_region_code":"4728000000_Gyeongsangbukdo_Mungyeong",
+            "shorten_url":"https:\/\/me2.do\/G9RoGjDe"
         },
         {
             "index":24,
@@ -346,7 +374,8 @@
             "value_score":38.9142105263,
             "region":"경상북도 문경시",
             "region_code":"Gyeongsangbukdo",
-            "sub_region_code":"4728000000_Gyeongsangbukdo_Mungyeong"
+            "sub_region_code":"4728000000_Gyeongsangbukdo_Mungyeong",
+            "shorten_url":"https:\/\/me2.do\/G9RoGjDe"
         },
         {
             "index":25,
@@ -358,7 +387,8 @@
             "value_score":37.7826315789,
             "region":"경상북도 문경시",
             "region_code":"Gyeongsangbukdo",
-            "sub_region_code":"4728000000_Gyeongsangbukdo_Mungyeong"
+            "sub_region_code":"4728000000_Gyeongsangbukdo_Mungyeong",
+            "shorten_url":"https:\/\/me2.do\/G9RoGjDe"
         },
         {
             "index":26,
@@ -370,7 +400,8 @@
             "value_score":37.6541052632,
             "region":"경상북도 문경시",
             "region_code":"Gyeongsangbukdo",
-            "sub_region_code":"4728000000_Gyeongsangbukdo_Mungyeong"
+            "sub_region_code":"4728000000_Gyeongsangbukdo_Mungyeong",
+            "shorten_url":"https:\/\/me2.do\/G9RoGjDe"
         },
         {
             "index":27,
@@ -382,7 +413,8 @@
             "value_score":36.3352631579,
             "region":"경상북도 문경시",
             "region_code":"Gyeongsangbukdo",
-            "sub_region_code":"4728000000_Gyeongsangbukdo_Mungyeong"
+            "sub_region_code":"4728000000_Gyeongsangbukdo_Mungyeong",
+            "shorten_url":"https:\/\/me2.do\/G9RoGjDe"
         },
         {
             "index":28,
@@ -394,7 +426,8 @@
             "value_score":34.8568421053,
             "region":"경상북도 문경시",
             "region_code":"Gyeongsangbukdo",
-            "sub_region_code":"4728000000_Gyeongsangbukdo_Mungyeong"
+            "sub_region_code":"4728000000_Gyeongsangbukdo_Mungyeong",
+            "shorten_url":"https:\/\/me2.do\/G9RoGjDe"
         },
         {
             "index":29,
@@ -406,7 +439,8 @@
             "value_score":34.0673684211,
             "region":"경상북도 문경시",
             "region_code":"Gyeongsangbukdo",
-            "sub_region_code":"4728000000_Gyeongsangbukdo_Mungyeong"
+            "sub_region_code":"4728000000_Gyeongsangbukdo_Mungyeong",
+            "shorten_url":"https:\/\/me2.do\/G9RoGjDe"
         },
         {
             "index":30,
@@ -418,7 +452,8 @@
             "value_score":45.0725,
             "region":"경상북도 문경시",
             "region_code":"Gyeongsangbukdo",
-            "sub_region_code":"4728000000_Gyeongsangbukdo_Mungyeong"
+            "sub_region_code":"4728000000_Gyeongsangbukdo_Mungyeong",
+            "shorten_url":"https:\/\/me2.do\/G9RoGjDe"
         },
         {
             "index":31,
@@ -430,7 +465,8 @@
             "value_score":45.0475,
             "region":"경상북도 문경시",
             "region_code":"Gyeongsangbukdo",
-            "sub_region_code":"4728000000_Gyeongsangbukdo_Mungyeong"
+            "sub_region_code":"4728000000_Gyeongsangbukdo_Mungyeong",
+            "shorten_url":"https:\/\/me2.do\/G9RoGjDe"
         },
         {
             "index":32,
@@ -442,7 +478,8 @@
             "value_score":43.869,
             "region":"경상북도 문경시",
             "region_code":"Gyeongsangbukdo",
-            "sub_region_code":"4728000000_Gyeongsangbukdo_Mungyeong"
+            "sub_region_code":"4728000000_Gyeongsangbukdo_Mungyeong",
+            "shorten_url":"https:\/\/me2.do\/G9RoGjDe"
         },
         {
             "index":33,
@@ -454,7 +491,8 @@
             "value_score":42.29,
             "region":"경상북도 문경시",
             "region_code":"Gyeongsangbukdo",
-            "sub_region_code":"4728000000_Gyeongsangbukdo_Mungyeong"
+            "sub_region_code":"4728000000_Gyeongsangbukdo_Mungyeong",
+            "shorten_url":"https:\/\/me2.do\/G9RoGjDe"
         },
         {
             "index":34,
@@ -466,7 +504,8 @@
             "value_score":41.1975,
             "region":"경상북도 문경시",
             "region_code":"Gyeongsangbukdo",
-            "sub_region_code":"4728000000_Gyeongsangbukdo_Mungyeong"
+            "sub_region_code":"4728000000_Gyeongsangbukdo_Mungyeong",
+            "shorten_url":"https:\/\/me2.do\/G9RoGjDe"
         },
         {
             "index":35,
@@ -478,7 +517,8 @@
             "value_score":41.1975,
             "region":"경상북도 문경시",
             "region_code":"Gyeongsangbukdo",
-            "sub_region_code":"4728000000_Gyeongsangbukdo_Mungyeong"
+            "sub_region_code":"4728000000_Gyeongsangbukdo_Mungyeong",
+            "shorten_url":"https:\/\/me2.do\/G9RoGjDe"
         },
         {
             "index":36,
@@ -490,7 +530,8 @@
             "value_score":41.1975,
             "region":"경상북도 문경시",
             "region_code":"Gyeongsangbukdo",
-            "sub_region_code":"4728000000_Gyeongsangbukdo_Mungyeong"
+            "sub_region_code":"4728000000_Gyeongsangbukdo_Mungyeong",
+            "shorten_url":"https:\/\/me2.do\/G9RoGjDe"
         },
         {
             "index":37,
@@ -502,7 +543,8 @@
             "value_score":39.4405,
             "region":"경상북도 문경시",
             "region_code":"Gyeongsangbukdo",
-            "sub_region_code":"4728000000_Gyeongsangbukdo_Mungyeong"
+            "sub_region_code":"4728000000_Gyeongsangbukdo_Mungyeong",
+            "shorten_url":"https:\/\/me2.do\/G9RoGjDe"
         },
         {
             "index":38,
@@ -514,7 +556,8 @@
             "value_score":39.44,
             "region":"경상북도 문경시",
             "region_code":"Gyeongsangbukdo",
-            "sub_region_code":"4728000000_Gyeongsangbukdo_Mungyeong"
+            "sub_region_code":"4728000000_Gyeongsangbukdo_Mungyeong",
+            "shorten_url":"https:\/\/me2.do\/G9RoGjDe"
         },
         {
             "index":39,
@@ -526,7 +569,8 @@
             "value_score":39.1975,
             "region":"경상북도 문경시",
             "region_code":"Gyeongsangbukdo",
-            "sub_region_code":"4728000000_Gyeongsangbukdo_Mungyeong"
+            "sub_region_code":"4728000000_Gyeongsangbukdo_Mungyeong",
+            "shorten_url":"https:\/\/me2.do\/G9RoGjDe"
         }
     ]
 }

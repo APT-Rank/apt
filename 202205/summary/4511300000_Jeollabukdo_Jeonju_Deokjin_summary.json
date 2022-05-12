@@ -40,6 +40,10 @@
             {
                 "name":"sub_region_code",
                 "type":"string"
+            },
+            {
+                "name":"shorten_url",
+                "type":"string"
             }
         ],
         "primaryKey":[
@@ -58,7 +62,8 @@
             "value_score":66.51675,
             "region":"전라북도 전주시 덕진구",
             "region_code":"Jeollabukdo",
-            "sub_region_code":"4511300000_Jeollabukdo_Jeonju_Deokjin"
+            "sub_region_code":"4511300000_Jeollabukdo_Jeonju_Deokjin",
+            "shorten_url":"https:\/\/me2.do\/5kqjThev"
         },
         {
             "index":1,
@@ -70,7 +75,8 @@
             "value_score":62.3919,
             "region":"전라북도 전주시 덕진구",
             "region_code":"Jeollabukdo",
-            "sub_region_code":"4511300000_Jeollabukdo_Jeonju_Deokjin"
+            "sub_region_code":"4511300000_Jeollabukdo_Jeonju_Deokjin",
+            "shorten_url":"https:\/\/me2.do\/5kqjThev"
         },
         {
             "index":2,
@@ -82,7 +88,8 @@
             "value_score":62.3919,
             "region":"전라북도 전주시 덕진구",
             "region_code":"Jeollabukdo",
-            "sub_region_code":"4511300000_Jeollabukdo_Jeonju_Deokjin"
+            "sub_region_code":"4511300000_Jeollabukdo_Jeonju_Deokjin",
+            "shorten_url":"https:\/\/me2.do\/5kqjThev"
         },
         {
             "index":3,
@@ -94,7 +101,8 @@
             "value_score":61.4089,
             "region":"전라북도 전주시 덕진구",
             "region_code":"Jeollabukdo",
-            "sub_region_code":"4511300000_Jeollabukdo_Jeonju_Deokjin"
+            "sub_region_code":"4511300000_Jeollabukdo_Jeonju_Deokjin",
+            "shorten_url":"https:\/\/me2.do\/5kqjThev"
         },
         {
             "index":4,
@@ -106,7 +114,8 @@
             "value_score":61.23135,
             "region":"전라북도 전주시 덕진구",
             "region_code":"Jeollabukdo",
-            "sub_region_code":"4511300000_Jeollabukdo_Jeonju_Deokjin"
+            "sub_region_code":"4511300000_Jeollabukdo_Jeonju_Deokjin",
+            "shorten_url":"https:\/\/me2.do\/5kqjThev"
         },
         {
             "index":5,
@@ -118,7 +127,8 @@
             "value_score":60.8791,
             "region":"전라북도 전주시 덕진구",
             "region_code":"Jeollabukdo",
-            "sub_region_code":"4511300000_Jeollabukdo_Jeonju_Deokjin"
+            "sub_region_code":"4511300000_Jeollabukdo_Jeonju_Deokjin",
+            "shorten_url":"https:\/\/me2.do\/5kqjThev"
         },
         {
             "index":6,
@@ -130,7 +140,8 @@
             "value_score":60.6089,
             "region":"전라북도 전주시 덕진구",
             "region_code":"Jeollabukdo",
-            "sub_region_code":"4511300000_Jeollabukdo_Jeonju_Deokjin"
+            "sub_region_code":"4511300000_Jeollabukdo_Jeonju_Deokjin",
+            "shorten_url":"https:\/\/me2.do\/5kqjThev"
         },
         {
             "index":7,
@@ -142,7 +153,8 @@
             "value_score":60.6089,
             "region":"전라북도 전주시 덕진구",
             "region_code":"Jeollabukdo",
-            "sub_region_code":"4511300000_Jeollabukdo_Jeonju_Deokjin"
+            "sub_region_code":"4511300000_Jeollabukdo_Jeonju_Deokjin",
+            "shorten_url":"https:\/\/me2.do\/5kqjThev"
         },
         {
             "index":8,
@@ -154,7 +166,8 @@
             "value_score":60.3589,
             "region":"전라북도 전주시 덕진구",
             "region_code":"Jeollabukdo",
-            "sub_region_code":"4511300000_Jeollabukdo_Jeonju_Deokjin"
+            "sub_region_code":"4511300000_Jeollabukdo_Jeonju_Deokjin",
+            "shorten_url":"https:\/\/me2.do\/5kqjThev"
         },
         {
             "index":9,
@@ -166,7 +179,8 @@
             "value_score":60.2589,
             "region":"전라북도 전주시 덕진구",
             "region_code":"Jeollabukdo",
-            "sub_region_code":"4511300000_Jeollabukdo_Jeonju_Deokjin"
+            "sub_region_code":"4511300000_Jeollabukdo_Jeonju_Deokjin",
+            "shorten_url":"https:\/\/me2.do\/5kqjThev"
         },
         {
             "index":10,
@@ -178,7 +192,8 @@
             "value_score":66.97625,
             "region":"전라북도 전주시 덕진구",
             "region_code":"Jeollabukdo",
-            "sub_region_code":"4511300000_Jeollabukdo_Jeonju_Deokjin"
+            "sub_region_code":"4511300000_Jeollabukdo_Jeonju_Deokjin",
+            "shorten_url":"https:\/\/me2.do\/5kqjThev"
         },
         {
             "index":11,
@@ -190,7 +205,8 @@
             "value_score":62.9585,
             "region":"전라북도 전주시 덕진구",
             "region_code":"Jeollabukdo",
-            "sub_region_code":"4511300000_Jeollabukdo_Jeonju_Deokjin"
+            "sub_region_code":"4511300000_Jeollabukdo_Jeonju_Deokjin",
+            "shorten_url":"https:\/\/me2.do\/5kqjThev"
         },
         {
             "index":12,
@@ -202,7 +218,8 @@
             "value_score":62.9585,
             "region":"전라북도 전주시 덕진구",
             "region_code":"Jeollabukdo",
-            "sub_region_code":"4511300000_Jeollabukdo_Jeonju_Deokjin"
+            "sub_region_code":"4511300000_Jeollabukdo_Jeonju_Deokjin",
+            "shorten_url":"https:\/\/me2.do\/5kqjThev"
         },
         {
             "index":13,
@@ -214,7 +231,8 @@
             "value_score":62.91525,
             "region":"전라북도 전주시 덕진구",
             "region_code":"Jeollabukdo",
-            "sub_region_code":"4511300000_Jeollabukdo_Jeonju_Deokjin"
+            "sub_region_code":"4511300000_Jeollabukdo_Jeonju_Deokjin",
+            "shorten_url":"https:\/\/me2.do\/5kqjThev"
         },
         {
             "index":14,
@@ -226,7 +244,8 @@
             "value_score":62.32375,
             "region":"전라북도 전주시 덕진구",
             "region_code":"Jeollabukdo",
-            "sub_region_code":"4511300000_Jeollabukdo_Jeonju_Deokjin"
+            "sub_region_code":"4511300000_Jeollabukdo_Jeonju_Deokjin",
+            "shorten_url":"https:\/\/me2.do\/5kqjThev"
         },
         {
             "index":15,
@@ -238,7 +257,8 @@
             "value_score":62.1135,
             "region":"전라북도 전주시 덕진구",
             "region_code":"Jeollabukdo",
-            "sub_region_code":"4511300000_Jeollabukdo_Jeonju_Deokjin"
+            "sub_region_code":"4511300000_Jeollabukdo_Jeonju_Deokjin",
+            "shorten_url":"https:\/\/me2.do\/5kqjThev"
         },
         {
             "index":16,
@@ -250,7 +270,8 @@
             "value_score":62.1135,
             "region":"전라북도 전주시 덕진구",
             "region_code":"Jeollabukdo",
-            "sub_region_code":"4511300000_Jeollabukdo_Jeonju_Deokjin"
+            "sub_region_code":"4511300000_Jeollabukdo_Jeonju_Deokjin",
+            "shorten_url":"https:\/\/me2.do\/5kqjThev"
         },
         {
             "index":17,
@@ -262,7 +283,8 @@
             "value_score":61.7135,
             "region":"전라북도 전주시 덕진구",
             "region_code":"Jeollabukdo",
-            "sub_region_code":"4511300000_Jeollabukdo_Jeonju_Deokjin"
+            "sub_region_code":"4511300000_Jeollabukdo_Jeonju_Deokjin",
+            "shorten_url":"https:\/\/me2.do\/5kqjThev"
         },
         {
             "index":18,
@@ -274,7 +296,8 @@
             "value_score":61.7135,
             "region":"전라북도 전주시 덕진구",
             "region_code":"Jeollabukdo",
-            "sub_region_code":"4511300000_Jeollabukdo_Jeonju_Deokjin"
+            "sub_region_code":"4511300000_Jeollabukdo_Jeonju_Deokjin",
+            "shorten_url":"https:\/\/me2.do\/5kqjThev"
         },
         {
             "index":19,
@@ -286,7 +309,8 @@
             "value_score":61.6135,
             "region":"전라북도 전주시 덕진구",
             "region_code":"Jeollabukdo",
-            "sub_region_code":"4511300000_Jeollabukdo_Jeonju_Deokjin"
+            "sub_region_code":"4511300000_Jeollabukdo_Jeonju_Deokjin",
+            "shorten_url":"https:\/\/me2.do\/5kqjThev"
         },
         {
             "index":20,
@@ -298,7 +322,8 @@
             "value_score":64.7553684211,
             "region":"전라북도 전주시 덕진구",
             "region_code":"Jeollabukdo",
-            "sub_region_code":"4511300000_Jeollabukdo_Jeonju_Deokjin"
+            "sub_region_code":"4511300000_Jeollabukdo_Jeonju_Deokjin",
+            "shorten_url":"https:\/\/me2.do\/5kqjThev"
         },
         {
             "index":21,
@@ -310,7 +335,8 @@
             "value_score":64.0489473684,
             "region":"전라북도 전주시 덕진구",
             "region_code":"Jeollabukdo",
-            "sub_region_code":"4511300000_Jeollabukdo_Jeonju_Deokjin"
+            "sub_region_code":"4511300000_Jeollabukdo_Jeonju_Deokjin",
+            "shorten_url":"https:\/\/me2.do\/5kqjThev"
         },
         {
             "index":22,
@@ -322,7 +348,8 @@
             "value_score":63.5976842105,
             "region":"전라북도 전주시 덕진구",
             "region_code":"Jeollabukdo",
-            "sub_region_code":"4511300000_Jeollabukdo_Jeonju_Deokjin"
+            "sub_region_code":"4511300000_Jeollabukdo_Jeonju_Deokjin",
+            "shorten_url":"https:\/\/me2.do\/5kqjThev"
         },
         {
             "index":23,
@@ -334,7 +361,8 @@
             "value_score":62.4475789474,
             "region":"전라북도 전주시 덕진구",
             "region_code":"Jeollabukdo",
-            "sub_region_code":"4511300000_Jeollabukdo_Jeonju_Deokjin"
+            "sub_region_code":"4511300000_Jeollabukdo_Jeonju_Deokjin",
+            "shorten_url":"https:\/\/me2.do\/5kqjThev"
         },
         {
             "index":24,
@@ -346,7 +374,8 @@
             "value_score":62.4475789474,
             "region":"전라북도 전주시 덕진구",
             "region_code":"Jeollabukdo",
-            "sub_region_code":"4511300000_Jeollabukdo_Jeonju_Deokjin"
+            "sub_region_code":"4511300000_Jeollabukdo_Jeonju_Deokjin",
+            "shorten_url":"https:\/\/me2.do\/5kqjThev"
         },
         {
             "index":25,
@@ -358,7 +387,8 @@
             "value_score":62.3423157895,
             "region":"전라북도 전주시 덕진구",
             "region_code":"Jeollabukdo",
-            "sub_region_code":"4511300000_Jeollabukdo_Jeonju_Deokjin"
+            "sub_region_code":"4511300000_Jeollabukdo_Jeonju_Deokjin",
+            "shorten_url":"https:\/\/me2.do\/5kqjThev"
         },
         {
             "index":26,
@@ -370,7 +400,8 @@
             "value_score":60.4475789474,
             "region":"전라북도 전주시 덕진구",
             "region_code":"Jeollabukdo",
-            "sub_region_code":"4511300000_Jeollabukdo_Jeonju_Deokjin"
+            "sub_region_code":"4511300000_Jeollabukdo_Jeonju_Deokjin",
+            "shorten_url":"https:\/\/me2.do\/5kqjThev"
         },
         {
             "index":27,
@@ -382,7 +413,8 @@
             "value_score":59.316,
             "region":"전라북도 전주시 덕진구",
             "region_code":"Jeollabukdo",
-            "sub_region_code":"4511300000_Jeollabukdo_Jeonju_Deokjin"
+            "sub_region_code":"4511300000_Jeollabukdo_Jeonju_Deokjin",
+            "shorten_url":"https:\/\/me2.do\/5kqjThev"
         },
         {
             "index":28,
@@ -394,7 +426,8 @@
             "value_score":59.2594736842,
             "region":"전라북도 전주시 덕진구",
             "region_code":"Jeollabukdo",
-            "sub_region_code":"4511300000_Jeollabukdo_Jeonju_Deokjin"
+            "sub_region_code":"4511300000_Jeollabukdo_Jeonju_Deokjin",
+            "shorten_url":"https:\/\/me2.do\/5kqjThev"
         },
         {
             "index":29,
@@ -406,7 +439,8 @@
             "value_score":59.2306315789,
             "region":"전라북도 전주시 덕진구",
             "region_code":"Jeollabukdo",
-            "sub_region_code":"4511300000_Jeollabukdo_Jeonju_Deokjin"
+            "sub_region_code":"4511300000_Jeollabukdo_Jeonju_Deokjin",
+            "shorten_url":"https:\/\/me2.do\/5kqjThev"
         },
         {
             "index":30,
@@ -418,7 +452,8 @@
             "value_score":65.8275,
             "region":"전라북도 전주시 덕진구",
             "region_code":"Jeollabukdo",
-            "sub_region_code":"4511300000_Jeollabukdo_Jeonju_Deokjin"
+            "sub_region_code":"4511300000_Jeollabukdo_Jeonju_Deokjin",
+            "shorten_url":"https:\/\/me2.do\/5kqjThev"
         },
         {
             "index":31,
@@ -430,7 +465,8 @@
             "value_score":62.046,
             "region":"전라북도 전주시 덕진구",
             "region_code":"Jeollabukdo",
-            "sub_region_code":"4511300000_Jeollabukdo_Jeonju_Deokjin"
+            "sub_region_code":"4511300000_Jeollabukdo_Jeonju_Deokjin",
+            "shorten_url":"https:\/\/me2.do\/5kqjThev"
         },
         {
             "index":32,
@@ -442,7 +478,8 @@
             "value_score":61.542,
             "region":"전라북도 전주시 덕진구",
             "region_code":"Jeollabukdo",
-            "sub_region_code":"4511300000_Jeollabukdo_Jeonju_Deokjin"
+            "sub_region_code":"4511300000_Jeollabukdo_Jeonju_Deokjin",
+            "shorten_url":"https:\/\/me2.do\/5kqjThev"
         },
         {
             "index":33,
@@ -454,7 +491,8 @@
             "value_score":61.542,
             "region":"전라북도 전주시 덕진구",
             "region_code":"Jeollabukdo",
-            "sub_region_code":"4511300000_Jeollabukdo_Jeonju_Deokjin"
+            "sub_region_code":"4511300000_Jeollabukdo_Jeonju_Deokjin",
+            "shorten_url":"https:\/\/me2.do\/5kqjThev"
         },
         {
             "index":34,
@@ -466,7 +504,8 @@
             "value_score":61.477,
             "region":"전라북도 전주시 덕진구",
             "region_code":"Jeollabukdo",
-            "sub_region_code":"4511300000_Jeollabukdo_Jeonju_Deokjin"
+            "sub_region_code":"4511300000_Jeollabukdo_Jeonju_Deokjin",
+            "shorten_url":"https:\/\/me2.do\/5kqjThev"
         },
         {
             "index":35,
@@ -478,7 +517,8 @@
             "value_score":60.952,
             "region":"전라북도 전주시 덕진구",
             "region_code":"Jeollabukdo",
-            "sub_region_code":"4511300000_Jeollabukdo_Jeonju_Deokjin"
+            "sub_region_code":"4511300000_Jeollabukdo_Jeonju_Deokjin",
+            "shorten_url":"https:\/\/me2.do\/5kqjThev"
         },
         {
             "index":36,
@@ -490,7 +530,8 @@
             "value_score":59.863,
             "region":"전라북도 전주시 덕진구",
             "region_code":"Jeollabukdo",
-            "sub_region_code":"4511300000_Jeollabukdo_Jeonju_Deokjin"
+            "sub_region_code":"4511300000_Jeollabukdo_Jeonju_Deokjin",
+            "shorten_url":"https:\/\/me2.do\/5kqjThev"
         },
         {
             "index":37,
@@ -502,7 +543,8 @@
             "value_score":59.477,
             "region":"전라북도 전주시 덕진구",
             "region_code":"Jeollabukdo",
-            "sub_region_code":"4511300000_Jeollabukdo_Jeonju_Deokjin"
+            "sub_region_code":"4511300000_Jeollabukdo_Jeonju_Deokjin",
+            "shorten_url":"https:\/\/me2.do\/5kqjThev"
         },
         {
             "index":38,
@@ -514,7 +556,8 @@
             "value_score":59.4275,
             "region":"전라북도 전주시 덕진구",
             "region_code":"Jeollabukdo",
-            "sub_region_code":"4511300000_Jeollabukdo_Jeonju_Deokjin"
+            "sub_region_code":"4511300000_Jeollabukdo_Jeonju_Deokjin",
+            "shorten_url":"https:\/\/me2.do\/5kqjThev"
         },
         {
             "index":39,
@@ -526,7 +569,8 @@
             "value_score":58.9695,
             "region":"전라북도 전주시 덕진구",
             "region_code":"Jeollabukdo",
-            "sub_region_code":"4511300000_Jeollabukdo_Jeonju_Deokjin"
+            "sub_region_code":"4511300000_Jeollabukdo_Jeonju_Deokjin",
+            "shorten_url":"https:\/\/me2.do\/5kqjThev"
         }
     ]
 }

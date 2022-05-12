@@ -40,6 +40,10 @@
             {
                 "name":"sub_region_code",
                 "type":"string"
+            },
+            {
+                "name":"shorten_url",
+                "type":"string"
             }
         ],
         "primaryKey":[
@@ -58,7 +62,8 @@
             "value_score":67.31005,
             "region":"경기도 남양주시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4136000000_Gyeonggi_Namyangju"
+            "sub_region_code":"4136000000_Gyeonggi_Namyangju",
+            "shorten_url":"https:\/\/me2.do\/G0IWTgsq"
         },
         {
             "index":1,
@@ -70,7 +75,8 @@
             "value_score":66.59275,
             "region":"경기도 남양주시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4136000000_Gyeonggi_Namyangju"
+            "sub_region_code":"4136000000_Gyeonggi_Namyangju",
+            "shorten_url":"https:\/\/me2.do\/G0IWTgsq"
         },
         {
             "index":2,
@@ -82,7 +88,8 @@
             "value_score":66.56965,
             "region":"경기도 남양주시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4136000000_Gyeonggi_Namyangju"
+            "sub_region_code":"4136000000_Gyeonggi_Namyangju",
+            "shorten_url":"https:\/\/me2.do\/G0IWTgsq"
         },
         {
             "index":3,
@@ -94,7 +101,8 @@
             "value_score":65.64275,
             "region":"경기도 남양주시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4136000000_Gyeonggi_Namyangju"
+            "sub_region_code":"4136000000_Gyeonggi_Namyangju",
+            "shorten_url":"https:\/\/me2.do\/G0IWTgsq"
         },
         {
             "index":4,
@@ -106,7 +114,8 @@
             "value_score":64.51005,
             "region":"경기도 남양주시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4136000000_Gyeonggi_Namyangju"
+            "sub_region_code":"4136000000_Gyeonggi_Namyangju",
+            "shorten_url":"https:\/\/me2.do\/G0IWTgsq"
         },
         {
             "index":5,
@@ -118,7 +127,8 @@
             "value_score":64.41965,
             "region":"경기도 남양주시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4136000000_Gyeonggi_Namyangju"
+            "sub_region_code":"4136000000_Gyeonggi_Namyangju",
+            "shorten_url":"https:\/\/me2.do\/G0IWTgsq"
         },
         {
             "index":6,
@@ -130,7 +140,8 @@
             "value_score":61.26005,
             "region":"경기도 남양주시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4136000000_Gyeonggi_Namyangju"
+            "sub_region_code":"4136000000_Gyeonggi_Namyangju",
+            "shorten_url":"https:\/\/me2.do\/G0IWTgsq"
         },
         {
             "index":7,
@@ -142,7 +153,8 @@
             "value_score":59.86005,
             "region":"경기도 남양주시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4136000000_Gyeonggi_Namyangju"
+            "sub_region_code":"4136000000_Gyeonggi_Namyangju",
+            "shorten_url":"https:\/\/me2.do\/G0IWTgsq"
         },
         {
             "index":8,
@@ -154,7 +166,8 @@
             "value_score":59.16005,
             "region":"경기도 남양주시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4136000000_Gyeonggi_Namyangju"
+            "sub_region_code":"4136000000_Gyeonggi_Namyangju",
+            "shorten_url":"https:\/\/me2.do\/G0IWTgsq"
         },
         {
             "index":9,
@@ -166,7 +179,8 @@
             "value_score":59.06005,
             "region":"경기도 남양주시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4136000000_Gyeonggi_Namyangju"
+            "sub_region_code":"4136000000_Gyeonggi_Namyangju",
+            "shorten_url":"https:\/\/me2.do\/G0IWTgsq"
         },
         {
             "index":10,
@@ -178,7 +192,8 @@
             "value_score":78.4634,
             "region":"경기도 남양주시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4136000000_Gyeonggi_Namyangju"
+            "sub_region_code":"4136000000_Gyeonggi_Namyangju",
+            "shorten_url":"https:\/\/me2.do\/G0IWTgsq"
         },
         {
             "index":11,
@@ -190,7 +205,8 @@
             "value_score":74.6634,
             "region":"경기도 남양주시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4136000000_Gyeonggi_Namyangju"
+            "sub_region_code":"4136000000_Gyeonggi_Namyangju",
+            "shorten_url":"https:\/\/me2.do\/G0IWTgsq"
         },
         {
             "index":12,
@@ -202,7 +218,8 @@
             "value_score":74.2634,
             "region":"경기도 남양주시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4136000000_Gyeonggi_Namyangju"
+            "sub_region_code":"4136000000_Gyeonggi_Namyangju",
+            "shorten_url":"https:\/\/me2.do\/G0IWTgsq"
         },
         {
             "index":13,
@@ -214,7 +231,8 @@
             "value_score":73.9134,
             "region":"경기도 남양주시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4136000000_Gyeonggi_Namyangju"
+            "sub_region_code":"4136000000_Gyeonggi_Namyangju",
+            "shorten_url":"https:\/\/me2.do\/G0IWTgsq"
         },
         {
             "index":14,
@@ -226,7 +244,8 @@
             "value_score":73.9134,
             "region":"경기도 남양주시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4136000000_Gyeonggi_Namyangju"
+            "sub_region_code":"4136000000_Gyeonggi_Namyangju",
+            "shorten_url":"https:\/\/me2.do\/G0IWTgsq"
         },
         {
             "index":15,
@@ -238,7 +257,8 @@
             "value_score":71.807,
             "region":"경기도 남양주시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4136000000_Gyeonggi_Namyangju"
+            "sub_region_code":"4136000000_Gyeonggi_Namyangju",
+            "shorten_url":"https:\/\/me2.do\/G0IWTgsq"
         },
         {
             "index":16,
@@ -250,7 +270,8 @@
             "value_score":70.4134,
             "region":"경기도 남양주시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4136000000_Gyeonggi_Namyangju"
+            "sub_region_code":"4136000000_Gyeonggi_Namyangju",
+            "shorten_url":"https:\/\/me2.do\/G0IWTgsq"
         },
         {
             "index":17,
@@ -262,7 +283,8 @@
             "value_score":70.2262,
             "region":"경기도 남양주시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4136000000_Gyeonggi_Namyangju"
+            "sub_region_code":"4136000000_Gyeonggi_Namyangju",
+            "shorten_url":"https:\/\/me2.do\/G0IWTgsq"
         },
         {
             "index":18,
@@ -274,7 +296,8 @@
             "value_score":68.1634,
             "region":"경기도 남양주시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4136000000_Gyeonggi_Namyangju"
+            "sub_region_code":"4136000000_Gyeonggi_Namyangju",
+            "shorten_url":"https:\/\/me2.do\/G0IWTgsq"
         },
         {
             "index":19,
@@ -286,7 +309,8 @@
             "value_score":66.7262,
             "region":"경기도 남양주시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4136000000_Gyeonggi_Namyangju"
+            "sub_region_code":"4136000000_Gyeonggi_Namyangju",
+            "shorten_url":"https:\/\/me2.do\/G0IWTgsq"
         },
         {
             "index":20,
@@ -298,7 +322,8 @@
             "value_score":62.96965,
             "region":"경기도 남양주시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4136000000_Gyeonggi_Namyangju"
+            "sub_region_code":"4136000000_Gyeonggi_Namyangju",
+            "shorten_url":"https:\/\/me2.do\/G0IWTgsq"
         },
         {
             "index":21,
@@ -310,7 +335,8 @@
             "value_score":62.71775,
             "region":"경기도 남양주시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4136000000_Gyeonggi_Namyangju"
+            "sub_region_code":"4136000000_Gyeonggi_Namyangju",
+            "shorten_url":"https:\/\/me2.do\/G0IWTgsq"
         },
         {
             "index":22,
@@ -322,7 +348,8 @@
             "value_score":61.86775,
             "region":"경기도 남양주시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4136000000_Gyeonggi_Namyangju"
+            "sub_region_code":"4136000000_Gyeonggi_Namyangju",
+            "shorten_url":"https:\/\/me2.do\/G0IWTgsq"
         },
         {
             "index":23,
@@ -334,7 +361,8 @@
             "value_score":60.58505,
             "region":"경기도 남양주시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4136000000_Gyeonggi_Namyangju"
+            "sub_region_code":"4136000000_Gyeonggi_Namyangju",
+            "shorten_url":"https:\/\/me2.do\/G0IWTgsq"
         },
         {
             "index":24,
@@ -346,7 +374,8 @@
             "value_score":60.34465,
             "region":"경기도 남양주시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4136000000_Gyeonggi_Namyangju"
+            "sub_region_code":"4136000000_Gyeonggi_Namyangju",
+            "shorten_url":"https:\/\/me2.do\/G0IWTgsq"
         },
         {
             "index":25,
@@ -358,7 +387,8 @@
             "value_score":58.71005,
             "region":"경기도 남양주시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4136000000_Gyeonggi_Namyangju"
+            "sub_region_code":"4136000000_Gyeonggi_Namyangju",
+            "shorten_url":"https:\/\/me2.do\/G0IWTgsq"
         },
         {
             "index":26,
@@ -370,7 +400,8 @@
             "value_score":54.31895,
             "region":"경기도 남양주시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4136000000_Gyeonggi_Namyangju"
+            "sub_region_code":"4136000000_Gyeonggi_Namyangju",
+            "shorten_url":"https:\/\/me2.do\/G0IWTgsq"
         },
         {
             "index":27,
@@ -382,7 +413,8 @@
             "value_score":53.61005,
             "region":"경기도 남양주시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4136000000_Gyeonggi_Namyangju"
+            "sub_region_code":"4136000000_Gyeonggi_Namyangju",
+            "shorten_url":"https:\/\/me2.do\/G0IWTgsq"
         },
         {
             "index":28,
@@ -394,7 +426,8 @@
             "value_score":52.71005,
             "region":"경기도 남양주시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4136000000_Gyeonggi_Namyangju"
+            "sub_region_code":"4136000000_Gyeonggi_Namyangju",
+            "shorten_url":"https:\/\/me2.do\/G0IWTgsq"
         },
         {
             "index":29,
@@ -406,7 +439,8 @@
             "value_score":52.5594069935,
             "region":"경기도 남양주시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4136000000_Gyeonggi_Namyangju"
+            "sub_region_code":"4136000000_Gyeonggi_Namyangju",
+            "shorten_url":"https:\/\/me2.do\/G0IWTgsq"
         },
         {
             "index":30,
@@ -418,7 +452,8 @@
             "value_score":73.47125,
             "region":"경기도 남양주시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4136000000_Gyeonggi_Namyangju"
+            "sub_region_code":"4136000000_Gyeonggi_Namyangju",
+            "shorten_url":"https:\/\/me2.do\/G0IWTgsq"
         },
         {
             "index":31,
@@ -430,7 +465,8 @@
             "value_score":72.86675,
             "region":"경기도 남양주시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4136000000_Gyeonggi_Namyangju"
+            "sub_region_code":"4136000000_Gyeonggi_Namyangju",
+            "shorten_url":"https:\/\/me2.do\/G0IWTgsq"
         },
         {
             "index":32,
@@ -442,7 +478,8 @@
             "value_score":72.51675,
             "region":"경기도 남양주시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4136000000_Gyeonggi_Namyangju"
+            "sub_region_code":"4136000000_Gyeonggi_Namyangju",
+            "shorten_url":"https:\/\/me2.do\/G0IWTgsq"
         },
         {
             "index":33,
@@ -454,7 +491,8 @@
             "value_score":71.26675,
             "region":"경기도 남양주시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4136000000_Gyeonggi_Namyangju"
+            "sub_region_code":"4136000000_Gyeonggi_Namyangju",
+            "shorten_url":"https:\/\/me2.do\/G0IWTgsq"
         },
         {
             "index":34,
@@ -466,7 +504,8 @@
             "value_score":70.28275,
             "region":"경기도 남양주시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4136000000_Gyeonggi_Namyangju"
+            "sub_region_code":"4136000000_Gyeonggi_Namyangju",
+            "shorten_url":"https:\/\/me2.do\/G0IWTgsq"
         },
         {
             "index":35,
@@ -478,7 +517,8 @@
             "value_score":68.38275,
             "region":"경기도 남양주시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4136000000_Gyeonggi_Namyangju"
+            "sub_region_code":"4136000000_Gyeonggi_Namyangju",
+            "shorten_url":"https:\/\/me2.do\/G0IWTgsq"
         },
         {
             "index":36,
@@ -490,7 +530,8 @@
             "value_score":68.32125,
             "region":"경기도 남양주시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4136000000_Gyeonggi_Namyangju"
+            "sub_region_code":"4136000000_Gyeonggi_Namyangju",
+            "shorten_url":"https:\/\/me2.do\/G0IWTgsq"
         },
         {
             "index":37,
@@ -502,7 +543,8 @@
             "value_score":68.18525,
             "region":"경기도 남양주시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4136000000_Gyeonggi_Namyangju"
+            "sub_region_code":"4136000000_Gyeonggi_Namyangju",
+            "shorten_url":"https:\/\/me2.do\/G0IWTgsq"
         },
         {
             "index":38,
@@ -514,7 +556,8 @@
             "value_score":68.11675,
             "region":"경기도 남양주시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4136000000_Gyeonggi_Namyangju"
+            "sub_region_code":"4136000000_Gyeonggi_Namyangju",
+            "shorten_url":"https:\/\/me2.do\/G0IWTgsq"
         },
         {
             "index":39,
@@ -526,7 +569,8 @@
             "value_score":67.81675,
             "region":"경기도 남양주시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4136000000_Gyeonggi_Namyangju"
+            "sub_region_code":"4136000000_Gyeonggi_Namyangju",
+            "shorten_url":"https:\/\/me2.do\/G0IWTgsq"
         },
         {
             "index":40,
@@ -538,7 +582,8 @@
             "value_score":69.3335,
             "region":"경기도 남양주시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4136000000_Gyeonggi_Namyangju"
+            "sub_region_code":"4136000000_Gyeonggi_Namyangju",
+            "shorten_url":"https:\/\/me2.do\/G0IWTgsq"
         },
         {
             "index":41,
@@ -550,7 +595,8 @@
             "value_score":69.1335,
             "region":"경기도 남양주시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4136000000_Gyeonggi_Namyangju"
+            "sub_region_code":"4136000000_Gyeonggi_Namyangju",
+            "shorten_url":"https:\/\/me2.do\/G0IWTgsq"
         },
         {
             "index":42,
@@ -562,7 +608,8 @@
             "value_score":68.6335,
             "region":"경기도 남양주시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4136000000_Gyeonggi_Namyangju"
+            "sub_region_code":"4136000000_Gyeonggi_Namyangju",
+            "shorten_url":"https:\/\/me2.do\/G0IWTgsq"
         },
         {
             "index":43,
@@ -574,7 +621,8 @@
             "value_score":68.4335,
             "region":"경기도 남양주시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4136000000_Gyeonggi_Namyangju"
+            "sub_region_code":"4136000000_Gyeonggi_Namyangju",
+            "shorten_url":"https:\/\/me2.do\/G0IWTgsq"
         },
         {
             "index":44,
@@ -586,7 +634,8 @@
             "value_score":67.9335,
             "region":"경기도 남양주시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4136000000_Gyeonggi_Namyangju"
+            "sub_region_code":"4136000000_Gyeonggi_Namyangju",
+            "shorten_url":"https:\/\/me2.do\/G0IWTgsq"
         },
         {
             "index":45,
@@ -598,7 +647,8 @@
             "value_score":66.2335,
             "region":"경기도 남양주시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4136000000_Gyeonggi_Namyangju"
+            "sub_region_code":"4136000000_Gyeonggi_Namyangju",
+            "shorten_url":"https:\/\/me2.do\/G0IWTgsq"
         },
         {
             "index":46,
@@ -610,7 +660,8 @@
             "value_score":65.8335,
             "region":"경기도 남양주시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4136000000_Gyeonggi_Namyangju"
+            "sub_region_code":"4136000000_Gyeonggi_Namyangju",
+            "shorten_url":"https:\/\/me2.do\/G0IWTgsq"
         },
         {
             "index":47,
@@ -622,7 +673,8 @@
             "value_score":65.7655,
             "region":"경기도 남양주시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4136000000_Gyeonggi_Namyangju"
+            "sub_region_code":"4136000000_Gyeonggi_Namyangju",
+            "shorten_url":"https:\/\/me2.do\/G0IWTgsq"
         },
         {
             "index":48,
@@ -634,7 +686,8 @@
             "value_score":65.4425,
             "region":"경기도 남양주시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4136000000_Gyeonggi_Namyangju"
+            "sub_region_code":"4136000000_Gyeonggi_Namyangju",
+            "shorten_url":"https:\/\/me2.do\/G0IWTgsq"
         },
         {
             "index":49,
@@ -646,7 +699,8 @@
             "value_score":64.5425,
             "region":"경기도 남양주시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4136000000_Gyeonggi_Namyangju"
+            "sub_region_code":"4136000000_Gyeonggi_Namyangju",
+            "shorten_url":"https:\/\/me2.do\/G0IWTgsq"
         }
     ]
 }

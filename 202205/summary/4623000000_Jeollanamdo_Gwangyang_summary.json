@@ -40,6 +40,10 @@
             {
                 "name":"sub_region_code",
                 "type":"string"
+            },
+            {
+                "name":"shorten_url",
+                "type":"string"
             }
         ],
         "primaryKey":[
@@ -58,7 +62,8 @@
             "value_score":54.42855,
             "region":"전라남도 광양시",
             "region_code":"Jeollanamdo",
-            "sub_region_code":"4623000000_Jeollanamdo_Gwangyang"
+            "sub_region_code":"4623000000_Jeollanamdo_Gwangyang",
+            "shorten_url":"https:\/\/me2.do\/50pvnATy"
         },
         {
             "index":1,
@@ -70,7 +75,8 @@
             "value_score":54.2097,
             "region":"전라남도 광양시",
             "region_code":"Jeollanamdo",
-            "sub_region_code":"4623000000_Jeollanamdo_Gwangyang"
+            "sub_region_code":"4623000000_Jeollanamdo_Gwangyang",
+            "shorten_url":"https:\/\/me2.do\/50pvnATy"
         },
         {
             "index":2,
@@ -82,7 +88,8 @@
             "value_score":53.7454,
             "region":"전라남도 광양시",
             "region_code":"Jeollanamdo",
-            "sub_region_code":"4623000000_Jeollanamdo_Gwangyang"
+            "sub_region_code":"4623000000_Jeollanamdo_Gwangyang",
+            "shorten_url":"https:\/\/me2.do\/50pvnATy"
         },
         {
             "index":3,
@@ -94,7 +101,8 @@
             "value_score":53.6454,
             "region":"전라남도 광양시",
             "region_code":"Jeollanamdo",
-            "sub_region_code":"4623000000_Jeollanamdo_Gwangyang"
+            "sub_region_code":"4623000000_Jeollanamdo_Gwangyang",
+            "shorten_url":"https:\/\/me2.do\/50pvnATy"
         },
         {
             "index":4,
@@ -106,7 +114,8 @@
             "value_score":53.1454,
             "region":"전라남도 광양시",
             "region_code":"Jeollanamdo",
-            "sub_region_code":"4623000000_Jeollanamdo_Gwangyang"
+            "sub_region_code":"4623000000_Jeollanamdo_Gwangyang",
+            "shorten_url":"https:\/\/me2.do\/50pvnATy"
         },
         {
             "index":5,
@@ -118,7 +127,8 @@
             "value_score":52.6454,
             "region":"전라남도 광양시",
             "region_code":"Jeollanamdo",
-            "sub_region_code":"4623000000_Jeollanamdo_Gwangyang"
+            "sub_region_code":"4623000000_Jeollanamdo_Gwangyang",
+            "shorten_url":"https:\/\/me2.do\/50pvnATy"
         },
         {
             "index":6,
@@ -130,7 +140,8 @@
             "value_score":52.4454,
             "region":"전라남도 광양시",
             "region_code":"Jeollanamdo",
-            "sub_region_code":"4623000000_Jeollanamdo_Gwangyang"
+            "sub_region_code":"4623000000_Jeollanamdo_Gwangyang",
+            "shorten_url":"https:\/\/me2.do\/50pvnATy"
         },
         {
             "index":7,
@@ -142,7 +153,8 @@
             "value_score":51.99505,
             "region":"전라남도 광양시",
             "region_code":"Jeollanamdo",
-            "sub_region_code":"4623000000_Jeollanamdo_Gwangyang"
+            "sub_region_code":"4623000000_Jeollanamdo_Gwangyang",
+            "shorten_url":"https:\/\/me2.do\/50pvnATy"
         },
         {
             "index":8,
@@ -154,7 +166,8 @@
             "value_score":51.74505,
             "region":"전라남도 광양시",
             "region_code":"Jeollanamdo",
-            "sub_region_code":"4623000000_Jeollanamdo_Gwangyang"
+            "sub_region_code":"4623000000_Jeollanamdo_Gwangyang",
+            "shorten_url":"https:\/\/me2.do\/50pvnATy"
         },
         {
             "index":9,
@@ -166,7 +179,8 @@
             "value_score":51.62635,
             "region":"전라남도 광양시",
             "region_code":"Jeollanamdo",
-            "sub_region_code":"4623000000_Jeollanamdo_Gwangyang"
+            "sub_region_code":"4623000000_Jeollanamdo_Gwangyang",
+            "shorten_url":"https:\/\/me2.do\/50pvnATy"
         },
         {
             "index":10,
@@ -178,7 +192,8 @@
             "value_score":57.6855,
             "region":"전라남도 광양시",
             "region_code":"Jeollanamdo",
-            "sub_region_code":"4623000000_Jeollanamdo_Gwangyang"
+            "sub_region_code":"4623000000_Jeollanamdo_Gwangyang",
+            "shorten_url":"https:\/\/me2.do\/50pvnATy"
         },
         {
             "index":11,
@@ -190,7 +205,8 @@
             "value_score":56.211,
             "region":"전라남도 광양시",
             "region_code":"Jeollanamdo",
-            "sub_region_code":"4623000000_Jeollanamdo_Gwangyang"
+            "sub_region_code":"4623000000_Jeollanamdo_Gwangyang",
+            "shorten_url":"https:\/\/me2.do\/50pvnATy"
         },
         {
             "index":12,
@@ -202,7 +218,8 @@
             "value_score":55.31075,
             "region":"전라남도 광양시",
             "region_code":"Jeollanamdo",
-            "sub_region_code":"4623000000_Jeollanamdo_Gwangyang"
+            "sub_region_code":"4623000000_Jeollanamdo_Gwangyang",
+            "shorten_url":"https:\/\/me2.do\/50pvnATy"
         },
         {
             "index":13,
@@ -214,7 +231,8 @@
             "value_score":54.96075,
             "region":"전라남도 광양시",
             "region_code":"Jeollanamdo",
-            "sub_region_code":"4623000000_Jeollanamdo_Gwangyang"
+            "sub_region_code":"4623000000_Jeollanamdo_Gwangyang",
+            "shorten_url":"https:\/\/me2.do\/50pvnATy"
         },
         {
             "index":14,
@@ -226,7 +244,8 @@
             "value_score":54.41325,
             "region":"전라남도 광양시",
             "region_code":"Jeollanamdo",
-            "sub_region_code":"4623000000_Jeollanamdo_Gwangyang"
+            "sub_region_code":"4623000000_Jeollanamdo_Gwangyang",
+            "shorten_url":"https:\/\/me2.do\/50pvnATy"
         },
         {
             "index":15,
@@ -238,7 +257,8 @@
             "value_score":53.9685,
             "region":"전라남도 광양시",
             "region_code":"Jeollanamdo",
-            "sub_region_code":"4623000000_Jeollanamdo_Gwangyang"
+            "sub_region_code":"4623000000_Jeollanamdo_Gwangyang",
+            "shorten_url":"https:\/\/me2.do\/50pvnATy"
         },
         {
             "index":16,
@@ -250,7 +270,8 @@
             "value_score":53.461,
             "region":"전라남도 광양시",
             "region_code":"Jeollanamdo",
-            "sub_region_code":"4623000000_Jeollanamdo_Gwangyang"
+            "sub_region_code":"4623000000_Jeollanamdo_Gwangyang",
+            "shorten_url":"https:\/\/me2.do\/50pvnATy"
         },
         {
             "index":17,
@@ -262,7 +283,8 @@
             "value_score":53.34025,
             "region":"전라남도 광양시",
             "region_code":"Jeollanamdo",
-            "sub_region_code":"4623000000_Jeollanamdo_Gwangyang"
+            "sub_region_code":"4623000000_Jeollanamdo_Gwangyang",
+            "shorten_url":"https:\/\/me2.do\/50pvnATy"
         },
         {
             "index":18,
@@ -274,7 +296,8 @@
             "value_score":52.961,
             "region":"전라남도 광양시",
             "region_code":"Jeollanamdo",
-            "sub_region_code":"4623000000_Jeollanamdo_Gwangyang"
+            "sub_region_code":"4623000000_Jeollanamdo_Gwangyang",
+            "shorten_url":"https:\/\/me2.do\/50pvnATy"
         },
         {
             "index":19,
@@ -286,7 +309,8 @@
             "value_score":52.78825,
             "region":"전라남도 광양시",
             "region_code":"Jeollanamdo",
-            "sub_region_code":"4623000000_Jeollanamdo_Gwangyang"
+            "sub_region_code":"4623000000_Jeollanamdo_Gwangyang",
+            "shorten_url":"https:\/\/me2.do\/50pvnATy"
         },
         {
             "index":20,
@@ -298,7 +322,8 @@
             "value_score":48.8114736842,
             "region":"전라남도 광양시",
             "region_code":"Jeollanamdo",
-            "sub_region_code":"4623000000_Jeollanamdo_Gwangyang"
+            "sub_region_code":"4623000000_Jeollanamdo_Gwangyang",
+            "shorten_url":"https:\/\/me2.do\/50pvnATy"
         },
         {
             "index":21,
@@ -310,7 +335,8 @@
             "value_score":48.7588421053,
             "region":"전라남도 광양시",
             "region_code":"Jeollanamdo",
-            "sub_region_code":"4623000000_Jeollanamdo_Gwangyang"
+            "sub_region_code":"4623000000_Jeollanamdo_Gwangyang",
+            "shorten_url":"https:\/\/me2.do\/50pvnATy"
         },
         {
             "index":22,
@@ -322,7 +348,8 @@
             "value_score":47.056,
             "region":"전라남도 광양시",
             "region_code":"Jeollanamdo",
-            "sub_region_code":"4623000000_Jeollanamdo_Gwangyang"
+            "sub_region_code":"4623000000_Jeollanamdo_Gwangyang",
+            "shorten_url":"https:\/\/me2.do\/50pvnATy"
         },
         {
             "index":23,
@@ -334,7 +361,8 @@
             "value_score":46.522,
             "region":"전라남도 광양시",
             "region_code":"Jeollanamdo",
-            "sub_region_code":"4623000000_Jeollanamdo_Gwangyang"
+            "sub_region_code":"4623000000_Jeollanamdo_Gwangyang",
+            "shorten_url":"https:\/\/me2.do\/50pvnATy"
         },
         {
             "index":24,
@@ -346,7 +374,8 @@
             "value_score":46.3904210526,
             "region":"전라남도 광양시",
             "region_code":"Jeollanamdo",
-            "sub_region_code":"4623000000_Jeollanamdo_Gwangyang"
+            "sub_region_code":"4623000000_Jeollanamdo_Gwangyang",
+            "shorten_url":"https:\/\/me2.do\/50pvnATy"
         },
         {
             "index":25,
@@ -358,7 +387,8 @@
             "value_score":46.0033684211,
             "region":"전라남도 광양시",
             "region_code":"Jeollanamdo",
-            "sub_region_code":"4623000000_Jeollanamdo_Gwangyang"
+            "sub_region_code":"4623000000_Jeollanamdo_Gwangyang",
+            "shorten_url":"https:\/\/me2.do\/50pvnATy"
         },
         {
             "index":26,
@@ -370,7 +400,8 @@
             "value_score":45.6009473684,
             "region":"전라남도 광양시",
             "region_code":"Jeollanamdo",
-            "sub_region_code":"4623000000_Jeollanamdo_Gwangyang"
+            "sub_region_code":"4623000000_Jeollanamdo_Gwangyang",
+            "shorten_url":"https:\/\/me2.do\/50pvnATy"
         },
         {
             "index":27,
@@ -382,7 +413,8 @@
             "value_score":45.4770526316,
             "region":"전라남도 광양시",
             "region_code":"Jeollanamdo",
-            "sub_region_code":"4623000000_Jeollanamdo_Gwangyang"
+            "sub_region_code":"4623000000_Jeollanamdo_Gwangyang",
+            "shorten_url":"https:\/\/me2.do\/50pvnATy"
         },
         {
             "index":28,
@@ -394,7 +426,8 @@
             "value_score":45.4767368421,
             "region":"전라남도 광양시",
             "region_code":"Jeollanamdo",
-            "sub_region_code":"4623000000_Jeollanamdo_Gwangyang"
+            "sub_region_code":"4623000000_Jeollanamdo_Gwangyang",
+            "shorten_url":"https:\/\/me2.do\/50pvnATy"
         },
         {
             "index":29,
@@ -406,7 +439,8 @@
             "value_score":45.3191578947,
             "region":"전라남도 광양시",
             "region_code":"Jeollanamdo",
-            "sub_region_code":"4623000000_Jeollanamdo_Gwangyang"
+            "sub_region_code":"4623000000_Jeollanamdo_Gwangyang",
+            "shorten_url":"https:\/\/me2.do\/50pvnATy"
         },
         {
             "index":30,
@@ -418,7 +452,8 @@
             "value_score":54.672,
             "region":"전라남도 광양시",
             "region_code":"Jeollanamdo",
-            "sub_region_code":"4623000000_Jeollanamdo_Gwangyang"
+            "sub_region_code":"4623000000_Jeollanamdo_Gwangyang",
+            "shorten_url":"https:\/\/me2.do\/50pvnATy"
         },
         {
             "index":31,
@@ -430,7 +465,8 @@
             "value_score":54.4515,
             "region":"전라남도 광양시",
             "region_code":"Jeollanamdo",
-            "sub_region_code":"4623000000_Jeollanamdo_Gwangyang"
+            "sub_region_code":"4623000000_Jeollanamdo_Gwangyang",
+            "shorten_url":"https:\/\/me2.do\/50pvnATy"
         },
         {
             "index":32,
@@ -442,7 +478,8 @@
             "value_score":54.172,
             "region":"전라남도 광양시",
             "region_code":"Jeollanamdo",
-            "sub_region_code":"4623000000_Jeollanamdo_Gwangyang"
+            "sub_region_code":"4623000000_Jeollanamdo_Gwangyang",
+            "shorten_url":"https:\/\/me2.do\/50pvnATy"
         },
         {
             "index":33,
@@ -454,7 +491,8 @@
             "value_score":54.172,
             "region":"전라남도 광양시",
             "region_code":"Jeollanamdo",
-            "sub_region_code":"4623000000_Jeollanamdo_Gwangyang"
+            "sub_region_code":"4623000000_Jeollanamdo_Gwangyang",
+            "shorten_url":"https:\/\/me2.do\/50pvnATy"
         },
         {
             "index":34,
@@ -466,7 +504,8 @@
             "value_score":53.672,
             "region":"전라남도 광양시",
             "region_code":"Jeollanamdo",
-            "sub_region_code":"4623000000_Jeollanamdo_Gwangyang"
+            "sub_region_code":"4623000000_Jeollanamdo_Gwangyang",
+            "shorten_url":"https:\/\/me2.do\/50pvnATy"
         },
         {
             "index":35,
@@ -478,7 +517,8 @@
             "value_score":52.922,
             "region":"전라남도 광양시",
             "region_code":"Jeollanamdo",
-            "sub_region_code":"4623000000_Jeollanamdo_Gwangyang"
+            "sub_region_code":"4623000000_Jeollanamdo_Gwangyang",
+            "shorten_url":"https:\/\/me2.do\/50pvnATy"
         },
         {
             "index":36,
@@ -490,7 +530,8 @@
             "value_score":52.922,
             "region":"전라남도 광양시",
             "region_code":"Jeollanamdo",
-            "sub_region_code":"4623000000_Jeollanamdo_Gwangyang"
+            "sub_region_code":"4623000000_Jeollanamdo_Gwangyang",
+            "shorten_url":"https:\/\/me2.do\/50pvnATy"
         },
         {
             "index":37,
@@ -502,7 +543,8 @@
             "value_score":52.172,
             "region":"전라남도 광양시",
             "region_code":"Jeollanamdo",
-            "sub_region_code":"4623000000_Jeollanamdo_Gwangyang"
+            "sub_region_code":"4623000000_Jeollanamdo_Gwangyang",
+            "shorten_url":"https:\/\/me2.do\/50pvnATy"
         },
         {
             "index":38,
@@ -514,7 +556,8 @@
             "value_score":51.922,
             "region":"전라남도 광양시",
             "region_code":"Jeollanamdo",
-            "sub_region_code":"4623000000_Jeollanamdo_Gwangyang"
+            "sub_region_code":"4623000000_Jeollanamdo_Gwangyang",
+            "shorten_url":"https:\/\/me2.do\/50pvnATy"
         },
         {
             "index":39,
@@ -526,7 +569,8 @@
             "value_score":50.7015,
             "region":"전라남도 광양시",
             "region_code":"Jeollanamdo",
-            "sub_region_code":"4623000000_Jeollanamdo_Gwangyang"
+            "sub_region_code":"4623000000_Jeollanamdo_Gwangyang",
+            "shorten_url":"https:\/\/me2.do\/50pvnATy"
         }
     ]
 }

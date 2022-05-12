@@ -40,6 +40,10 @@
             {
                 "name":"sub_region_code",
                 "type":"string"
+            },
+            {
+                "name":"shorten_url",
+                "type":"string"
             }
         ],
         "primaryKey":[
@@ -58,7 +62,8 @@
             "value_score":32.8501,
             "region":"전라남도 곡성군",
             "region_code":"Jeollanamdo",
-            "sub_region_code":"4672000000_Jeollanamdo_Gokseong"
+            "sub_region_code":"4672000000_Jeollanamdo_Gokseong",
+            "shorten_url":"https:\/\/me2.do\/5Fl1GOc9"
         },
         {
             "index":1,
@@ -70,7 +75,8 @@
             "value_score":29.2501,
             "region":"전라남도 곡성군",
             "region_code":"Jeollanamdo",
-            "sub_region_code":"4672000000_Jeollanamdo_Gokseong"
+            "sub_region_code":"4672000000_Jeollanamdo_Gokseong",
+            "shorten_url":"https:\/\/me2.do\/5Fl1GOc9"
         },
         {
             "index":2,
@@ -82,7 +88,8 @@
             "value_score":25.7904595988,
             "region":"전라남도 곡성군",
             "region_code":"Jeollanamdo",
-            "sub_region_code":"4672000000_Jeollanamdo_Gokseong"
+            "sub_region_code":"4672000000_Jeollanamdo_Gokseong",
+            "shorten_url":"https:\/\/me2.do\/5Fl1GOc9"
         },
         {
             "index":3,
@@ -94,7 +101,8 @@
             "value_score":24.47565,
             "region":"전라남도 곡성군",
             "region_code":"Jeollanamdo",
-            "sub_region_code":"4672000000_Jeollanamdo_Gokseong"
+            "sub_region_code":"4672000000_Jeollanamdo_Gokseong",
+            "shorten_url":"https:\/\/me2.do\/5Fl1GOc9"
         },
         {
             "index":4,
@@ -106,7 +114,8 @@
             "value_score":31.8215,
             "region":"전라남도 곡성군",
             "region_code":"Jeollanamdo",
-            "sub_region_code":"4672000000_Jeollanamdo_Gokseong"
+            "sub_region_code":"4672000000_Jeollanamdo_Gokseong",
+            "shorten_url":"https:\/\/me2.do\/5Fl1GOc9"
         },
         {
             "index":5,
@@ -118,7 +127,8 @@
             "value_score":27.3215,
             "region":"전라남도 곡성군",
             "region_code":"Jeollanamdo",
-            "sub_region_code":"4672000000_Jeollanamdo_Gokseong"
+            "sub_region_code":"4672000000_Jeollanamdo_Gokseong",
+            "shorten_url":"https:\/\/me2.do\/5Fl1GOc9"
         },
         {
             "index":6,
@@ -130,7 +140,8 @@
             "value_score":23.207471142,
             "region":"전라남도 곡성군",
             "region_code":"Jeollanamdo",
-            "sub_region_code":"4672000000_Jeollanamdo_Gokseong"
+            "sub_region_code":"4672000000_Jeollanamdo_Gokseong",
+            "shorten_url":"https:\/\/me2.do\/5Fl1GOc9"
         },
         {
             "index":7,
@@ -142,7 +153,8 @@
             "value_score":21.33975,
             "region":"전라남도 곡성군",
             "region_code":"Jeollanamdo",
-            "sub_region_code":"4672000000_Jeollanamdo_Gokseong"
+            "sub_region_code":"4672000000_Jeollanamdo_Gokseong",
+            "shorten_url":"https:\/\/me2.do\/5Fl1GOc9"
         },
         {
             "index":8,
@@ -154,7 +166,8 @@
             "value_score":26.1429473684,
             "region":"전라남도 곡성군",
             "region_code":"Jeollanamdo",
-            "sub_region_code":"4672000000_Jeollanamdo_Gokseong"
+            "sub_region_code":"4672000000_Jeollanamdo_Gokseong",
+            "shorten_url":"https:\/\/me2.do\/5Fl1GOc9"
         },
         {
             "index":9,
@@ -166,7 +179,8 @@
             "value_score":24.7218947368,
             "region":"전라남도 곡성군",
             "region_code":"Jeollanamdo",
-            "sub_region_code":"4672000000_Jeollanamdo_Gokseong"
+            "sub_region_code":"4672000000_Jeollanamdo_Gokseong",
+            "shorten_url":"https:\/\/me2.do\/5Fl1GOc9"
         },
         {
             "index":10,
@@ -178,7 +192,8 @@
             "value_score":23.9554736842,
             "region":"전라남도 곡성군",
             "region_code":"Jeollanamdo",
-            "sub_region_code":"4672000000_Jeollanamdo_Gokseong"
+            "sub_region_code":"4672000000_Jeollanamdo_Gokseong",
+            "shorten_url":"https:\/\/me2.do\/5Fl1GOc9"
         },
         {
             "index":11,
@@ -190,7 +205,8 @@
             "value_score":23.5252267057,
             "region":"전라남도 곡성군",
             "region_code":"Jeollanamdo",
-            "sub_region_code":"4672000000_Jeollanamdo_Gokseong"
+            "sub_region_code":"4672000000_Jeollanamdo_Gokseong",
+            "shorten_url":"https:\/\/me2.do\/5Fl1GOc9"
         },
         {
             "index":12,
@@ -202,7 +218,8 @@
             "value_score":34.393,
             "region":"전라남도 곡성군",
             "region_code":"Jeollanamdo",
-            "sub_region_code":"4672000000_Jeollanamdo_Gokseong"
+            "sub_region_code":"4672000000_Jeollanamdo_Gokseong",
+            "shorten_url":"https:\/\/me2.do\/5Fl1GOc9"
         },
         {
             "index":13,
@@ -214,7 +231,8 @@
             "value_score":32.143,
             "region":"전라남도 곡성군",
             "region_code":"Jeollanamdo",
-            "sub_region_code":"4672000000_Jeollanamdo_Gokseong"
+            "sub_region_code":"4672000000_Jeollanamdo_Gokseong",
+            "shorten_url":"https:\/\/me2.do\/5Fl1GOc9"
         },
         {
             "index":14,
@@ -226,7 +244,8 @@
             "value_score":29.664942284,
             "region":"전라남도 곡성군",
             "region_code":"Jeollanamdo",
-            "sub_region_code":"4672000000_Jeollanamdo_Gokseong"
+            "sub_region_code":"4672000000_Jeollanamdo_Gokseong",
+            "shorten_url":"https:\/\/me2.do\/5Fl1GOc9"
         },
         {
             "index":15,
@@ -238,7 +257,8 @@
             "value_score":29.1795,
             "region":"전라남도 곡성군",
             "region_code":"Jeollanamdo",
-            "sub_region_code":"4672000000_Jeollanamdo_Gokseong"
+            "sub_region_code":"4672000000_Jeollanamdo_Gokseong",
+            "shorten_url":"https:\/\/me2.do\/5Fl1GOc9"
         }
     ]
 }

@@ -40,6 +40,10 @@
             {
                 "name":"sub_region_code",
                 "type":"string"
+            },
+            {
+                "name":"shorten_url",
+                "type":"string"
             }
         ],
         "primaryKey":[
@@ -58,7 +62,8 @@
             "value_score":70.8548,
             "region":"경기도 광명시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4121000000_Gyeonggi_Gwangmyeong"
+            "sub_region_code":"4121000000_Gyeonggi_Gwangmyeong",
+            "shorten_url":"https:\/\/me2.do\/5jY1fpjH"
         },
         {
             "index":1,
@@ -70,7 +75,8 @@
             "value_score":66.7172,
             "region":"경기도 광명시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4121000000_Gyeonggi_Gwangmyeong"
+            "sub_region_code":"4121000000_Gyeonggi_Gwangmyeong",
+            "shorten_url":"https:\/\/me2.do\/5jY1fpjH"
         },
         {
             "index":2,
@@ -82,7 +88,8 @@
             "value_score":66.4548,
             "region":"경기도 광명시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4121000000_Gyeonggi_Gwangmyeong"
+            "sub_region_code":"4121000000_Gyeonggi_Gwangmyeong",
+            "shorten_url":"https:\/\/me2.do\/5jY1fpjH"
         },
         {
             "index":3,
@@ -94,7 +101,8 @@
             "value_score":64.3172,
             "region":"경기도 광명시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4121000000_Gyeonggi_Gwangmyeong"
+            "sub_region_code":"4121000000_Gyeonggi_Gwangmyeong",
+            "shorten_url":"https:\/\/me2.do\/5jY1fpjH"
         },
         {
             "index":4,
@@ -106,7 +114,8 @@
             "value_score":61.898,
             "region":"경기도 광명시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4121000000_Gyeonggi_Gwangmyeong"
+            "sub_region_code":"4121000000_Gyeonggi_Gwangmyeong",
+            "shorten_url":"https:\/\/me2.do\/5jY1fpjH"
         },
         {
             "index":5,
@@ -118,7 +127,8 @@
             "value_score":60.298,
             "region":"경기도 광명시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4121000000_Gyeonggi_Gwangmyeong"
+            "sub_region_code":"4121000000_Gyeonggi_Gwangmyeong",
+            "shorten_url":"https:\/\/me2.do\/5jY1fpjH"
         },
         {
             "index":6,
@@ -130,7 +140,8 @@
             "value_score":59.3172,
             "region":"경기도 광명시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4121000000_Gyeonggi_Gwangmyeong"
+            "sub_region_code":"4121000000_Gyeonggi_Gwangmyeong",
+            "shorten_url":"https:\/\/me2.do\/5jY1fpjH"
         },
         {
             "index":7,
@@ -142,7 +153,8 @@
             "value_score":59.2172,
             "region":"경기도 광명시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4121000000_Gyeonggi_Gwangmyeong"
+            "sub_region_code":"4121000000_Gyeonggi_Gwangmyeong",
+            "shorten_url":"https:\/\/me2.do\/5jY1fpjH"
         },
         {
             "index":8,
@@ -154,7 +166,8 @@
             "value_score":58.9587,
             "region":"경기도 광명시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4121000000_Gyeonggi_Gwangmyeong"
+            "sub_region_code":"4121000000_Gyeonggi_Gwangmyeong",
+            "shorten_url":"https:\/\/me2.do\/5jY1fpjH"
         },
         {
             "index":9,
@@ -166,7 +179,8 @@
             "value_score":57.6074,
             "region":"경기도 광명시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4121000000_Gyeonggi_Gwangmyeong"
+            "sub_region_code":"4121000000_Gyeonggi_Gwangmyeong",
+            "shorten_url":"https:\/\/me2.do\/5jY1fpjH"
         },
         {
             "index":10,
@@ -178,7 +192,8 @@
             "value_score":78.0632,
             "region":"경기도 광명시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4121000000_Gyeonggi_Gwangmyeong"
+            "sub_region_code":"4121000000_Gyeonggi_Gwangmyeong",
+            "shorten_url":"https:\/\/me2.do\/5jY1fpjH"
         },
         {
             "index":11,
@@ -190,7 +205,8 @@
             "value_score":72.2632,
             "region":"경기도 광명시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4121000000_Gyeonggi_Gwangmyeong"
+            "sub_region_code":"4121000000_Gyeonggi_Gwangmyeong",
+            "shorten_url":"https:\/\/me2.do\/5jY1fpjH"
         },
         {
             "index":12,
@@ -202,7 +218,8 @@
             "value_score":69.9948,
             "region":"경기도 광명시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4121000000_Gyeonggi_Gwangmyeong"
+            "sub_region_code":"4121000000_Gyeonggi_Gwangmyeong",
+            "shorten_url":"https:\/\/me2.do\/5jY1fpjH"
         },
         {
             "index":13,
@@ -214,7 +231,8 @@
             "value_score":67.9948,
             "region":"경기도 광명시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4121000000_Gyeonggi_Gwangmyeong"
+            "sub_region_code":"4121000000_Gyeonggi_Gwangmyeong",
+            "shorten_url":"https:\/\/me2.do\/5jY1fpjH"
         },
         {
             "index":14,
@@ -226,7 +244,8 @@
             "value_score":67.242,
             "region":"경기도 광명시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4121000000_Gyeonggi_Gwangmyeong"
+            "sub_region_code":"4121000000_Gyeonggi_Gwangmyeong",
+            "shorten_url":"https:\/\/me2.do\/5jY1fpjH"
         },
         {
             "index":15,
@@ -238,7 +257,8 @@
             "value_score":65.9948,
             "region":"경기도 광명시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4121000000_Gyeonggi_Gwangmyeong"
+            "sub_region_code":"4121000000_Gyeonggi_Gwangmyeong",
+            "shorten_url":"https:\/\/me2.do\/5jY1fpjH"
         },
         {
             "index":16,
@@ -250,7 +270,8 @@
             "value_score":65.242,
             "region":"경기도 광명시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4121000000_Gyeonggi_Gwangmyeong"
+            "sub_region_code":"4121000000_Gyeonggi_Gwangmyeong",
+            "shorten_url":"https:\/\/me2.do\/5jY1fpjH"
         },
         {
             "index":17,
@@ -262,7 +283,8 @@
             "value_score":64.8344,
             "region":"경기도 광명시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4121000000_Gyeonggi_Gwangmyeong"
+            "sub_region_code":"4121000000_Gyeonggi_Gwangmyeong",
+            "shorten_url":"https:\/\/me2.do\/5jY1fpjH"
         },
         {
             "index":18,
@@ -274,7 +296,8 @@
             "value_score":62.7948,
             "region":"경기도 광명시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4121000000_Gyeonggi_Gwangmyeong"
+            "sub_region_code":"4121000000_Gyeonggi_Gwangmyeong",
+            "shorten_url":"https:\/\/me2.do\/5jY1fpjH"
         },
         {
             "index":19,
@@ -286,7 +309,8 @@
             "value_score":62.2844,
             "region":"경기도 광명시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4121000000_Gyeonggi_Gwangmyeong"
+            "sub_region_code":"4121000000_Gyeonggi_Gwangmyeong",
+            "shorten_url":"https:\/\/me2.do\/5jY1fpjH"
         },
         {
             "index":20,
@@ -298,7 +322,8 @@
             "value_score":67.53935,
             "region":"경기도 광명시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4121000000_Gyeonggi_Gwangmyeong"
+            "sub_region_code":"4121000000_Gyeonggi_Gwangmyeong",
+            "shorten_url":"https:\/\/me2.do\/5jY1fpjH"
         },
         {
             "index":21,
@@ -310,7 +335,8 @@
             "value_score":66.4586,
             "region":"경기도 광명시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4121000000_Gyeonggi_Gwangmyeong"
+            "sub_region_code":"4121000000_Gyeonggi_Gwangmyeong",
+            "shorten_url":"https:\/\/me2.do\/5jY1fpjH"
         },
         {
             "index":22,
@@ -322,7 +348,8 @@
             "value_score":65.4674,
             "region":"경기도 광명시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4121000000_Gyeonggi_Gwangmyeong"
+            "sub_region_code":"4121000000_Gyeonggi_Gwangmyeong",
+            "shorten_url":"https:\/\/me2.do\/5jY1fpjH"
         },
         {
             "index":23,
@@ -334,7 +361,8 @@
             "value_score":65.2586,
             "region":"경기도 광명시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4121000000_Gyeonggi_Gwangmyeong"
+            "sub_region_code":"4121000000_Gyeonggi_Gwangmyeong",
+            "shorten_url":"https:\/\/me2.do\/5jY1fpjH"
         },
         {
             "index":24,
@@ -346,7 +374,8 @@
             "value_score":63.389,
             "region":"경기도 광명시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4121000000_Gyeonggi_Gwangmyeong"
+            "sub_region_code":"4121000000_Gyeonggi_Gwangmyeong",
+            "shorten_url":"https:\/\/me2.do\/5jY1fpjH"
         },
         {
             "index":25,
@@ -358,7 +387,8 @@
             "value_score":62.9586,
             "region":"경기도 광명시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4121000000_Gyeonggi_Gwangmyeong"
+            "sub_region_code":"4121000000_Gyeonggi_Gwangmyeong",
+            "shorten_url":"https:\/\/me2.do\/5jY1fpjH"
         },
         {
             "index":26,
@@ -370,7 +400,8 @@
             "value_score":62.089,
             "region":"경기도 광명시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4121000000_Gyeonggi_Gwangmyeong"
+            "sub_region_code":"4121000000_Gyeonggi_Gwangmyeong",
+            "shorten_url":"https:\/\/me2.do\/5jY1fpjH"
         },
         {
             "index":27,
@@ -382,7 +413,8 @@
             "value_score":61.7636,
             "region":"경기도 광명시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4121000000_Gyeonggi_Gwangmyeong"
+            "sub_region_code":"4121000000_Gyeonggi_Gwangmyeong",
+            "shorten_url":"https:\/\/me2.do\/5jY1fpjH"
         },
         {
             "index":28,
@@ -394,7 +426,8 @@
             "value_score":61.6674,
             "region":"경기도 광명시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4121000000_Gyeonggi_Gwangmyeong"
+            "sub_region_code":"4121000000_Gyeonggi_Gwangmyeong",
+            "shorten_url":"https:\/\/me2.do\/5jY1fpjH"
         },
         {
             "index":29,
@@ -406,7 +439,8 @@
             "value_score":60.8836,
             "region":"경기도 광명시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4121000000_Gyeonggi_Gwangmyeong"
+            "sub_region_code":"4121000000_Gyeonggi_Gwangmyeong",
+            "shorten_url":"https:\/\/me2.do\/5jY1fpjH"
         },
         {
             "index":30,
@@ -418,7 +452,8 @@
             "value_score":66.779,
             "region":"경기도 광명시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4121000000_Gyeonggi_Gwangmyeong"
+            "sub_region_code":"4121000000_Gyeonggi_Gwangmyeong",
+            "shorten_url":"https:\/\/me2.do\/5jY1fpjH"
         },
         {
             "index":31,
@@ -430,7 +465,8 @@
             "value_score":66.70725,
             "region":"경기도 광명시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4121000000_Gyeonggi_Gwangmyeong"
+            "sub_region_code":"4121000000_Gyeonggi_Gwangmyeong",
+            "shorten_url":"https:\/\/me2.do\/5jY1fpjH"
         },
         {
             "index":32,
@@ -442,7 +478,8 @@
             "value_score":65.05725,
             "region":"경기도 광명시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4121000000_Gyeonggi_Gwangmyeong"
+            "sub_region_code":"4121000000_Gyeonggi_Gwangmyeong",
+            "shorten_url":"https:\/\/me2.do\/5jY1fpjH"
         },
         {
             "index":33,
@@ -454,7 +491,8 @@
             "value_score":62.25725,
             "region":"경기도 광명시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4121000000_Gyeonggi_Gwangmyeong"
+            "sub_region_code":"4121000000_Gyeonggi_Gwangmyeong",
+            "shorten_url":"https:\/\/me2.do\/5jY1fpjH"
         },
         {
             "index":34,
@@ -466,7 +504,8 @@
             "value_score":61.679,
             "region":"경기도 광명시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4121000000_Gyeonggi_Gwangmyeong"
+            "sub_region_code":"4121000000_Gyeonggi_Gwangmyeong",
+            "shorten_url":"https:\/\/me2.do\/5jY1fpjH"
         },
         {
             "index":35,
@@ -478,7 +517,8 @@
             "value_score":58.768,
             "region":"경기도 광명시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4121000000_Gyeonggi_Gwangmyeong"
+            "sub_region_code":"4121000000_Gyeonggi_Gwangmyeong",
+            "shorten_url":"https:\/\/me2.do\/5jY1fpjH"
         },
         {
             "index":36,
@@ -490,7 +530,8 @@
             "value_score":58.54,
             "region":"경기도 광명시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4121000000_Gyeonggi_Gwangmyeong"
+            "sub_region_code":"4121000000_Gyeonggi_Gwangmyeong",
+            "shorten_url":"https:\/\/me2.do\/5jY1fpjH"
         },
         {
             "index":37,
@@ -502,7 +543,8 @@
             "value_score":56.80725,
             "region":"경기도 광명시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4121000000_Gyeonggi_Gwangmyeong"
+            "sub_region_code":"4121000000_Gyeonggi_Gwangmyeong",
+            "shorten_url":"https:\/\/me2.do\/5jY1fpjH"
         },
         {
             "index":38,
@@ -514,7 +556,8 @@
             "value_score":56.40525,
             "region":"경기도 광명시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4121000000_Gyeonggi_Gwangmyeong"
+            "sub_region_code":"4121000000_Gyeonggi_Gwangmyeong",
+            "shorten_url":"https:\/\/me2.do\/5jY1fpjH"
         },
         {
             "index":39,
@@ -526,7 +569,8 @@
             "value_score":56.32625,
             "region":"경기도 광명시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4121000000_Gyeonggi_Gwangmyeong"
+            "sub_region_code":"4121000000_Gyeonggi_Gwangmyeong",
+            "shorten_url":"https:\/\/me2.do\/5jY1fpjH"
         },
         {
             "index":40,
@@ -538,7 +582,8 @@
             "value_score":67.238,
             "region":"경기도 광명시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4121000000_Gyeonggi_Gwangmyeong"
+            "sub_region_code":"4121000000_Gyeonggi_Gwangmyeong",
+            "shorten_url":"https:\/\/me2.do\/5jY1fpjH"
         },
         {
             "index":41,
@@ -550,7 +595,8 @@
             "value_score":63.838,
             "region":"경기도 광명시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4121000000_Gyeonggi_Gwangmyeong"
+            "sub_region_code":"4121000000_Gyeonggi_Gwangmyeong",
+            "shorten_url":"https:\/\/me2.do\/5jY1fpjH"
         },
         {
             "index":42,
@@ -562,7 +608,8 @@
             "value_score":63.612,
             "region":"경기도 광명시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4121000000_Gyeonggi_Gwangmyeong"
+            "sub_region_code":"4121000000_Gyeonggi_Gwangmyeong",
+            "shorten_url":"https:\/\/me2.do\/5jY1fpjH"
         },
         {
             "index":43,
@@ -574,7 +621,8 @@
             "value_score":62.012,
             "region":"경기도 광명시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4121000000_Gyeonggi_Gwangmyeong"
+            "sub_region_code":"4121000000_Gyeonggi_Gwangmyeong",
+            "shorten_url":"https:\/\/me2.do\/5jY1fpjH"
         },
         {
             "index":44,
@@ -586,7 +634,8 @@
             "value_score":60.0945,
             "region":"경기도 광명시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4121000000_Gyeonggi_Gwangmyeong"
+            "sub_region_code":"4121000000_Gyeonggi_Gwangmyeong",
+            "shorten_url":"https:\/\/me2.do\/5jY1fpjH"
         },
         {
             "index":45,
@@ -598,7 +647,8 @@
             "value_score":59.8105,
             "region":"경기도 광명시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4121000000_Gyeonggi_Gwangmyeong"
+            "sub_region_code":"4121000000_Gyeonggi_Gwangmyeong",
+            "shorten_url":"https:\/\/me2.do\/5jY1fpjH"
         },
         {
             "index":46,
@@ -610,7 +660,8 @@
             "value_score":58.579,
             "region":"경기도 광명시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4121000000_Gyeonggi_Gwangmyeong"
+            "sub_region_code":"4121000000_Gyeonggi_Gwangmyeong",
+            "shorten_url":"https:\/\/me2.do\/5jY1fpjH"
         },
         {
             "index":47,
@@ -622,7 +673,8 @@
             "value_score":58.4525,
             "region":"경기도 광명시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4121000000_Gyeonggi_Gwangmyeong"
+            "sub_region_code":"4121000000_Gyeonggi_Gwangmyeong",
+            "shorten_url":"https:\/\/me2.do\/5jY1fpjH"
         },
         {
             "index":48,
@@ -634,7 +686,8 @@
             "value_score":57.9945,
             "region":"경기도 광명시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4121000000_Gyeonggi_Gwangmyeong"
+            "sub_region_code":"4121000000_Gyeonggi_Gwangmyeong",
+            "shorten_url":"https:\/\/me2.do\/5jY1fpjH"
         },
         {
             "index":49,
@@ -646,7 +699,8 @@
             "value_score":57.936,
             "region":"경기도 광명시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4121000000_Gyeonggi_Gwangmyeong"
+            "sub_region_code":"4121000000_Gyeonggi_Gwangmyeong",
+            "shorten_url":"https:\/\/me2.do\/5jY1fpjH"
         }
     ]
 }

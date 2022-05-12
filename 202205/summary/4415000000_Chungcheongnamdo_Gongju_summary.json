@@ -40,6 +40,10 @@
             {
                 "name":"sub_region_code",
                 "type":"string"
+            },
+            {
+                "name":"shorten_url",
+                "type":"string"
             }
         ],
         "primaryKey":[
@@ -58,7 +62,8 @@
             "value_score":51.80915,
             "region":"충청남도 공주시",
             "region_code":"Chungcheongnamdo",
-            "sub_region_code":"4415000000_Chungcheongnamdo_Gongju"
+            "sub_region_code":"4415000000_Chungcheongnamdo_Gongju",
+            "shorten_url":"https:\/\/me2.do\/5wmIgbEI"
         },
         {
             "index":1,
@@ -70,7 +75,8 @@
             "value_score":50.60915,
             "region":"충청남도 공주시",
             "region_code":"Chungcheongnamdo",
-            "sub_region_code":"4415000000_Chungcheongnamdo_Gongju"
+            "sub_region_code":"4415000000_Chungcheongnamdo_Gongju",
+            "shorten_url":"https:\/\/me2.do\/5wmIgbEI"
         },
         {
             "index":2,
@@ -82,7 +88,8 @@
             "value_score":50.00915,
             "region":"충청남도 공주시",
             "region_code":"Chungcheongnamdo",
-            "sub_region_code":"4415000000_Chungcheongnamdo_Gongju"
+            "sub_region_code":"4415000000_Chungcheongnamdo_Gongju",
+            "shorten_url":"https:\/\/me2.do\/5wmIgbEI"
         },
         {
             "index":3,
@@ -94,7 +101,8 @@
             "value_score":48.75915,
             "region":"충청남도 공주시",
             "region_code":"Chungcheongnamdo",
-            "sub_region_code":"4415000000_Chungcheongnamdo_Gongju"
+            "sub_region_code":"4415000000_Chungcheongnamdo_Gongju",
+            "shorten_url":"https:\/\/me2.do\/5wmIgbEI"
         },
         {
             "index":4,
@@ -106,7 +114,8 @@
             "value_score":46.65915,
             "region":"충청남도 공주시",
             "region_code":"Chungcheongnamdo",
-            "sub_region_code":"4415000000_Chungcheongnamdo_Gongju"
+            "sub_region_code":"4415000000_Chungcheongnamdo_Gongju",
+            "shorten_url":"https:\/\/me2.do\/5wmIgbEI"
         },
         {
             "index":5,
@@ -118,7 +127,8 @@
             "value_score":46.40915,
             "region":"충청남도 공주시",
             "region_code":"Chungcheongnamdo",
-            "sub_region_code":"4415000000_Chungcheongnamdo_Gongju"
+            "sub_region_code":"4415000000_Chungcheongnamdo_Gongju",
+            "shorten_url":"https:\/\/me2.do\/5wmIgbEI"
         },
         {
             "index":6,
@@ -130,7 +140,8 @@
             "value_score":46.1587126865,
             "region":"충청남도 공주시",
             "region_code":"Chungcheongnamdo",
-            "sub_region_code":"4415000000_Chungcheongnamdo_Gongju"
+            "sub_region_code":"4415000000_Chungcheongnamdo_Gongju",
+            "shorten_url":"https:\/\/me2.do\/5wmIgbEI"
         },
         {
             "index":7,
@@ -142,7 +153,8 @@
             "value_score":45.75915,
             "region":"충청남도 공주시",
             "region_code":"Chungcheongnamdo",
-            "sub_region_code":"4415000000_Chungcheongnamdo_Gongju"
+            "sub_region_code":"4415000000_Chungcheongnamdo_Gongju",
+            "shorten_url":"https:\/\/me2.do\/5wmIgbEI"
         },
         {
             "index":8,
@@ -154,7 +166,8 @@
             "value_score":45.75915,
             "region":"충청남도 공주시",
             "region_code":"Chungcheongnamdo",
-            "sub_region_code":"4415000000_Chungcheongnamdo_Gongju"
+            "sub_region_code":"4415000000_Chungcheongnamdo_Gongju",
+            "shorten_url":"https:\/\/me2.do\/5wmIgbEI"
         },
         {
             "index":9,
@@ -166,7 +179,8 @@
             "value_score":45.10915,
             "region":"충청남도 공주시",
             "region_code":"Chungcheongnamdo",
-            "sub_region_code":"4415000000_Chungcheongnamdo_Gongju"
+            "sub_region_code":"4415000000_Chungcheongnamdo_Gongju",
+            "shorten_url":"https:\/\/me2.do\/5wmIgbEI"
         },
         {
             "index":10,
@@ -178,7 +192,8 @@
             "value_score":53.04225,
             "region":"충청남도 공주시",
             "region_code":"Chungcheongnamdo",
-            "sub_region_code":"4415000000_Chungcheongnamdo_Gongju"
+            "sub_region_code":"4415000000_Chungcheongnamdo_Gongju",
+            "shorten_url":"https:\/\/me2.do\/5wmIgbEI"
         },
         {
             "index":11,
@@ -190,7 +205,8 @@
             "value_score":53.04225,
             "region":"충청남도 공주시",
             "region_code":"Chungcheongnamdo",
-            "sub_region_code":"4415000000_Chungcheongnamdo_Gongju"
+            "sub_region_code":"4415000000_Chungcheongnamdo_Gongju",
+            "shorten_url":"https:\/\/me2.do\/5wmIgbEI"
         },
         {
             "index":12,
@@ -202,7 +218,8 @@
             "value_score":52.04225,
             "region":"충청남도 공주시",
             "region_code":"Chungcheongnamdo",
-            "sub_region_code":"4415000000_Chungcheongnamdo_Gongju"
+            "sub_region_code":"4415000000_Chungcheongnamdo_Gongju",
+            "shorten_url":"https:\/\/me2.do\/5wmIgbEI"
         },
         {
             "index":13,
@@ -214,7 +231,8 @@
             "value_score":48.04225,
             "region":"충청남도 공주시",
             "region_code":"Chungcheongnamdo",
-            "sub_region_code":"4415000000_Chungcheongnamdo_Gongju"
+            "sub_region_code":"4415000000_Chungcheongnamdo_Gongju",
+            "shorten_url":"https:\/\/me2.do\/5wmIgbEI"
         },
         {
             "index":14,
@@ -226,7 +244,8 @@
             "value_score":47.04225,
             "region":"충청남도 공주시",
             "region_code":"Chungcheongnamdo",
-            "sub_region_code":"4415000000_Chungcheongnamdo_Gongju"
+            "sub_region_code":"4415000000_Chungcheongnamdo_Gongju",
+            "shorten_url":"https:\/\/me2.do\/5wmIgbEI"
         },
         {
             "index":15,
@@ -238,7 +257,8 @@
             "value_score":47.04225,
             "region":"충청남도 공주시",
             "region_code":"Chungcheongnamdo",
-            "sub_region_code":"4415000000_Chungcheongnamdo_Gongju"
+            "sub_region_code":"4415000000_Chungcheongnamdo_Gongju",
+            "shorten_url":"https:\/\/me2.do\/5wmIgbEI"
         },
         {
             "index":16,
@@ -250,7 +270,8 @@
             "value_score":46.29225,
             "region":"충청남도 공주시",
             "region_code":"Chungcheongnamdo",
-            "sub_region_code":"4415000000_Chungcheongnamdo_Gongju"
+            "sub_region_code":"4415000000_Chungcheongnamdo_Gongju",
+            "shorten_url":"https:\/\/me2.do\/5wmIgbEI"
         },
         {
             "index":17,
@@ -262,7 +283,8 @@
             "value_score":45.54225,
             "region":"충청남도 공주시",
             "region_code":"Chungcheongnamdo",
-            "sub_region_code":"4415000000_Chungcheongnamdo_Gongju"
+            "sub_region_code":"4415000000_Chungcheongnamdo_Gongju",
+            "shorten_url":"https:\/\/me2.do\/5wmIgbEI"
         },
         {
             "index":18,
@@ -274,7 +296,8 @@
             "value_score":45.29225,
             "region":"충청남도 공주시",
             "region_code":"Chungcheongnamdo",
-            "sub_region_code":"4415000000_Chungcheongnamdo_Gongju"
+            "sub_region_code":"4415000000_Chungcheongnamdo_Gongju",
+            "shorten_url":"https:\/\/me2.do\/5wmIgbEI"
         },
         {
             "index":19,
@@ -286,7 +309,8 @@
             "value_score":45.1133662047,
             "region":"충청남도 공주시",
             "region_code":"Chungcheongnamdo",
-            "sub_region_code":"4415000000_Chungcheongnamdo_Gongju"
+            "sub_region_code":"4415000000_Chungcheongnamdo_Gongju",
+            "shorten_url":"https:\/\/me2.do\/5wmIgbEI"
         },
         {
             "index":20,
@@ -298,7 +322,8 @@
             "value_score":44.3691578947,
             "region":"충청남도 공주시",
             "region_code":"Chungcheongnamdo",
-            "sub_region_code":"4415000000_Chungcheongnamdo_Gongju"
+            "sub_region_code":"4415000000_Chungcheongnamdo_Gongju",
+            "shorten_url":"https:\/\/me2.do\/5wmIgbEI"
         },
         {
             "index":21,
@@ -310,7 +335,8 @@
             "value_score":44.2902105263,
             "region":"충청남도 공주시",
             "region_code":"Chungcheongnamdo",
-            "sub_region_code":"4415000000_Chungcheongnamdo_Gongju"
+            "sub_region_code":"4415000000_Chungcheongnamdo_Gongju",
+            "shorten_url":"https:\/\/me2.do\/5wmIgbEI"
         },
         {
             "index":22,
@@ -322,7 +348,8 @@
             "value_score":42.6849473684,
             "region":"충청남도 공주시",
             "region_code":"Chungcheongnamdo",
-            "sub_region_code":"4415000000_Chungcheongnamdo_Gongju"
+            "sub_region_code":"4415000000_Chungcheongnamdo_Gongju",
+            "shorten_url":"https:\/\/me2.do\/5wmIgbEI"
         },
         {
             "index":23,
@@ -334,7 +361,8 @@
             "value_score":42.1586315789,
             "region":"충청남도 공주시",
             "region_code":"Chungcheongnamdo",
-            "sub_region_code":"4415000000_Chungcheongnamdo_Gongju"
+            "sub_region_code":"4415000000_Chungcheongnamdo_Gongju",
+            "shorten_url":"https:\/\/me2.do\/5wmIgbEI"
         },
         {
             "index":24,
@@ -346,7 +374,8 @@
             "value_score":41.9326731006,
             "region":"충청남도 공주시",
             "region_code":"Chungcheongnamdo",
-            "sub_region_code":"4415000000_Chungcheongnamdo_Gongju"
+            "sub_region_code":"4415000000_Chungcheongnamdo_Gongju",
+            "shorten_url":"https:\/\/me2.do\/5wmIgbEI"
         },
         {
             "index":25,
@@ -358,7 +387,8 @@
             "value_score":41.0007368421,
             "region":"충청남도 공주시",
             "region_code":"Chungcheongnamdo",
-            "sub_region_code":"4415000000_Chungcheongnamdo_Gongju"
+            "sub_region_code":"4415000000_Chungcheongnamdo_Gongju",
+            "shorten_url":"https:\/\/me2.do\/5wmIgbEI"
         },
         {
             "index":26,
@@ -370,7 +400,8 @@
             "value_score":40.7902105263,
             "region":"충청남도 공주시",
             "region_code":"Chungcheongnamdo",
-            "sub_region_code":"4415000000_Chungcheongnamdo_Gongju"
+            "sub_region_code":"4415000000_Chungcheongnamdo_Gongju",
+            "shorten_url":"https:\/\/me2.do\/5wmIgbEI"
         },
         {
             "index":27,
@@ -382,7 +413,8 @@
             "value_score":40.6586315789,
             "region":"충청남도 공주시",
             "region_code":"Chungcheongnamdo",
-            "sub_region_code":"4415000000_Chungcheongnamdo_Gongju"
+            "sub_region_code":"4415000000_Chungcheongnamdo_Gongju",
+            "shorten_url":"https:\/\/me2.do\/5wmIgbEI"
         },
         {
             "index":28,
@@ -394,7 +426,8 @@
             "value_score":40.606,
             "region":"충청남도 공주시",
             "region_code":"Chungcheongnamdo",
-            "sub_region_code":"4415000000_Chungcheongnamdo_Gongju"
+            "sub_region_code":"4415000000_Chungcheongnamdo_Gongju",
+            "shorten_url":"https:\/\/me2.do\/5wmIgbEI"
         },
         {
             "index":29,
@@ -406,7 +439,8 @@
             "value_score":39.9744210526,
             "region":"충청남도 공주시",
             "region_code":"Chungcheongnamdo",
-            "sub_region_code":"4415000000_Chungcheongnamdo_Gongju"
+            "sub_region_code":"4415000000_Chungcheongnamdo_Gongju",
+            "shorten_url":"https:\/\/me2.do\/5wmIgbEI"
         },
         {
             "index":30,
@@ -418,7 +452,8 @@
             "value_score":51.4595,
             "region":"충청남도 공주시",
             "region_code":"Chungcheongnamdo",
-            "sub_region_code":"4415000000_Chungcheongnamdo_Gongju"
+            "sub_region_code":"4415000000_Chungcheongnamdo_Gongju",
+            "shorten_url":"https:\/\/me2.do\/5wmIgbEI"
         },
         {
             "index":31,
@@ -430,7 +465,8 @@
             "value_score":49.8345,
             "region":"충청남도 공주시",
             "region_code":"Chungcheongnamdo",
-            "sub_region_code":"4415000000_Chungcheongnamdo_Gongju"
+            "sub_region_code":"4415000000_Chungcheongnamdo_Gongju",
+            "shorten_url":"https:\/\/me2.do\/5wmIgbEI"
         },
         {
             "index":32,
@@ -442,7 +478,8 @@
             "value_score":48.3345,
             "region":"충청남도 공주시",
             "region_code":"Chungcheongnamdo",
-            "sub_region_code":"4415000000_Chungcheongnamdo_Gongju"
+            "sub_region_code":"4415000000_Chungcheongnamdo_Gongju",
+            "shorten_url":"https:\/\/me2.do\/5wmIgbEI"
         },
         {
             "index":33,
@@ -454,7 +491,8 @@
             "value_score":48.0845,
             "region":"충청남도 공주시",
             "region_code":"Chungcheongnamdo",
-            "sub_region_code":"4415000000_Chungcheongnamdo_Gongju"
+            "sub_region_code":"4415000000_Chungcheongnamdo_Gongju",
+            "shorten_url":"https:\/\/me2.do\/5wmIgbEI"
         },
         {
             "index":34,
@@ -466,7 +504,8 @@
             "value_score":47.7267324093,
             "region":"충청남도 공주시",
             "region_code":"Chungcheongnamdo",
-            "sub_region_code":"4415000000_Chungcheongnamdo_Gongju"
+            "sub_region_code":"4415000000_Chungcheongnamdo_Gongju",
+            "shorten_url":"https:\/\/me2.do\/5wmIgbEI"
         },
         {
             "index":35,
@@ -478,7 +517,8 @@
             "value_score":47.0845,
             "region":"충청남도 공주시",
             "region_code":"Chungcheongnamdo",
-            "sub_region_code":"4415000000_Chungcheongnamdo_Gongju"
+            "sub_region_code":"4415000000_Chungcheongnamdo_Gongju",
+            "shorten_url":"https:\/\/me2.do\/5wmIgbEI"
         },
         {
             "index":36,
@@ -490,7 +530,8 @@
             "value_score":46.9595,
             "region":"충청남도 공주시",
             "region_code":"Chungcheongnamdo",
-            "sub_region_code":"4415000000_Chungcheongnamdo_Gongju"
+            "sub_region_code":"4415000000_Chungcheongnamdo_Gongju",
+            "shorten_url":"https:\/\/me2.do\/5wmIgbEI"
         },
         {
             "index":37,
@@ -502,7 +543,8 @@
             "value_score":45.4595,
             "region":"충청남도 공주시",
             "region_code":"Chungcheongnamdo",
-            "sub_region_code":"4415000000_Chungcheongnamdo_Gongju"
+            "sub_region_code":"4415000000_Chungcheongnamdo_Gongju",
+            "shorten_url":"https:\/\/me2.do\/5wmIgbEI"
         },
         {
             "index":38,
@@ -514,7 +556,8 @@
             "value_score":43.9595,
             "region":"충청남도 공주시",
             "region_code":"Chungcheongnamdo",
-            "sub_region_code":"4415000000_Chungcheongnamdo_Gongju"
+            "sub_region_code":"4415000000_Chungcheongnamdo_Gongju",
+            "shorten_url":"https:\/\/me2.do\/5wmIgbEI"
         },
         {
             "index":39,
@@ -526,7 +569,8 @@
             "value_score":43.8345,
             "region":"충청남도 공주시",
             "region_code":"Chungcheongnamdo",
-            "sub_region_code":"4415000000_Chungcheongnamdo_Gongju"
+            "sub_region_code":"4415000000_Chungcheongnamdo_Gongju",
+            "shorten_url":"https:\/\/me2.do\/5wmIgbEI"
         }
     ]
 }

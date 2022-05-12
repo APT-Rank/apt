@@ -40,6 +40,10 @@
             {
                 "name":"sub_region_code",
                 "type":"string"
+            },
+            {
+                "name":"shorten_url",
+                "type":"string"
             }
         ],
         "primaryKey":[
@@ -58,7 +62,8 @@
             "value_score":41.33715,
             "region":"경상남도 고성군",
             "region_code":"Gyeongsangnamdo",
-            "sub_region_code":"4882000000_Gyeongsangnamdo_Goseong"
+            "sub_region_code":"4882000000_Gyeongsangnamdo_Goseong",
+            "shorten_url":"https:\/\/me2.do\/GA1kdKpj"
         },
         {
             "index":1,
@@ -70,7 +75,8 @@
             "value_score":40.53715,
             "region":"경상남도 고성군",
             "region_code":"Gyeongsangnamdo",
-            "sub_region_code":"4882000000_Gyeongsangnamdo_Goseong"
+            "sub_region_code":"4882000000_Gyeongsangnamdo_Goseong",
+            "shorten_url":"https:\/\/me2.do\/GA1kdKpj"
         },
         {
             "index":2,
@@ -82,7 +88,8 @@
             "value_score":38.84095,
             "region":"경상남도 고성군",
             "region_code":"Gyeongsangnamdo",
-            "sub_region_code":"4882000000_Gyeongsangnamdo_Goseong"
+            "sub_region_code":"4882000000_Gyeongsangnamdo_Goseong",
+            "shorten_url":"https:\/\/me2.do\/GA1kdKpj"
         },
         {
             "index":3,
@@ -94,7 +101,8 @@
             "value_score":38.01215,
             "region":"경상남도 고성군",
             "region_code":"Gyeongsangnamdo",
-            "sub_region_code":"4882000000_Gyeongsangnamdo_Goseong"
+            "sub_region_code":"4882000000_Gyeongsangnamdo_Goseong",
+            "shorten_url":"https:\/\/me2.do\/GA1kdKpj"
         },
         {
             "index":4,
@@ -106,7 +114,8 @@
             "value_score":37.515,
             "region":"경상남도 고성군",
             "region_code":"Gyeongsangnamdo",
-            "sub_region_code":"4882000000_Gyeongsangnamdo_Goseong"
+            "sub_region_code":"4882000000_Gyeongsangnamdo_Goseong",
+            "shorten_url":"https:\/\/me2.do\/GA1kdKpj"
         },
         {
             "index":5,
@@ -118,7 +127,8 @@
             "value_score":36.84095,
             "region":"경상남도 고성군",
             "region_code":"Gyeongsangnamdo",
-            "sub_region_code":"4882000000_Gyeongsangnamdo_Goseong"
+            "sub_region_code":"4882000000_Gyeongsangnamdo_Goseong",
+            "shorten_url":"https:\/\/me2.do\/GA1kdKpj"
         },
         {
             "index":6,
@@ -130,7 +140,8 @@
             "value_score":34.64095,
             "region":"경상남도 고성군",
             "region_code":"Gyeongsangnamdo",
-            "sub_region_code":"4882000000_Gyeongsangnamdo_Goseong"
+            "sub_region_code":"4882000000_Gyeongsangnamdo_Goseong",
+            "shorten_url":"https:\/\/me2.do\/GA1kdKpj"
         },
         {
             "index":7,
@@ -142,7 +153,8 @@
             "value_score":28.48715,
             "region":"경상남도 고성군",
             "region_code":"Gyeongsangnamdo",
-            "sub_region_code":"4882000000_Gyeongsangnamdo_Goseong"
+            "sub_region_code":"4882000000_Gyeongsangnamdo_Goseong",
+            "shorten_url":"https:\/\/me2.do\/GA1kdKpj"
         },
         {
             "index":8,
@@ -154,7 +166,8 @@
             "value_score":28.33715,
             "region":"경상남도 고성군",
             "region_code":"Gyeongsangnamdo",
-            "sub_region_code":"4882000000_Gyeongsangnamdo_Goseong"
+            "sub_region_code":"4882000000_Gyeongsangnamdo_Goseong",
+            "shorten_url":"https:\/\/me2.do\/GA1kdKpj"
         },
         {
             "index":9,
@@ -166,7 +179,8 @@
             "value_score":27.915,
             "region":"경상남도 고성군",
             "region_code":"Gyeongsangnamdo",
-            "sub_region_code":"4882000000_Gyeongsangnamdo_Goseong"
+            "sub_region_code":"4882000000_Gyeongsangnamdo_Goseong",
+            "shorten_url":"https:\/\/me2.do\/GA1kdKpj"
         },
         {
             "index":10,
@@ -178,7 +192,8 @@
             "value_score":42.81225,
             "region":"경상남도 고성군",
             "region_code":"Gyeongsangnamdo",
-            "sub_region_code":"4882000000_Gyeongsangnamdo_Goseong"
+            "sub_region_code":"4882000000_Gyeongsangnamdo_Goseong",
+            "shorten_url":"https:\/\/me2.do\/GA1kdKpj"
         },
         {
             "index":11,
@@ -190,7 +205,8 @@
             "value_score":40.91225,
             "region":"경상남도 고성군",
             "region_code":"Gyeongsangnamdo",
-            "sub_region_code":"4882000000_Gyeongsangnamdo_Goseong"
+            "sub_region_code":"4882000000_Gyeongsangnamdo_Goseong",
+            "shorten_url":"https:\/\/me2.do\/GA1kdKpj"
         },
         {
             "index":12,
@@ -202,7 +218,8 @@
             "value_score":37.725,
             "region":"경상남도 고성군",
             "region_code":"Gyeongsangnamdo",
-            "sub_region_code":"4882000000_Gyeongsangnamdo_Goseong"
+            "sub_region_code":"4882000000_Gyeongsangnamdo_Goseong",
+            "shorten_url":"https:\/\/me2.do\/GA1kdKpj"
         },
         {
             "index":13,
@@ -214,7 +231,8 @@
             "value_score":37.27925,
             "region":"경상남도 고성군",
             "region_code":"Gyeongsangnamdo",
-            "sub_region_code":"4882000000_Gyeongsangnamdo_Goseong"
+            "sub_region_code":"4882000000_Gyeongsangnamdo_Goseong",
+            "shorten_url":"https:\/\/me2.do\/GA1kdKpj"
         },
         {
             "index":14,
@@ -226,7 +244,8 @@
             "value_score":34.77925,
             "region":"경상남도 고성군",
             "region_code":"Gyeongsangnamdo",
-            "sub_region_code":"4882000000_Gyeongsangnamdo_Goseong"
+            "sub_region_code":"4882000000_Gyeongsangnamdo_Goseong",
+            "shorten_url":"https:\/\/me2.do\/GA1kdKpj"
         },
         {
             "index":15,
@@ -238,7 +257,8 @@
             "value_score":34.27925,
             "region":"경상남도 고성군",
             "region_code":"Gyeongsangnamdo",
-            "sub_region_code":"4882000000_Gyeongsangnamdo_Goseong"
+            "sub_region_code":"4882000000_Gyeongsangnamdo_Goseong",
+            "shorten_url":"https:\/\/me2.do\/GA1kdKpj"
         },
         {
             "index":16,
@@ -250,7 +270,8 @@
             "value_score":33.78725,
             "region":"경상남도 고성군",
             "region_code":"Gyeongsangnamdo",
-            "sub_region_code":"4882000000_Gyeongsangnamdo_Goseong"
+            "sub_region_code":"4882000000_Gyeongsangnamdo_Goseong",
+            "shorten_url":"https:\/\/me2.do\/GA1kdKpj"
         },
         {
             "index":17,
@@ -262,7 +283,8 @@
             "value_score":25.725,
             "region":"경상남도 고성군",
             "region_code":"Gyeongsangnamdo",
-            "sub_region_code":"4882000000_Gyeongsangnamdo_Goseong"
+            "sub_region_code":"4882000000_Gyeongsangnamdo_Goseong",
+            "shorten_url":"https:\/\/me2.do\/GA1kdKpj"
         },
         {
             "index":18,
@@ -274,7 +296,8 @@
             "value_score":25.66225,
             "region":"경상남도 고성군",
             "region_code":"Gyeongsangnamdo",
-            "sub_region_code":"4882000000_Gyeongsangnamdo_Goseong"
+            "sub_region_code":"4882000000_Gyeongsangnamdo_Goseong",
+            "shorten_url":"https:\/\/me2.do\/GA1kdKpj"
         },
         {
             "index":19,
@@ -286,7 +309,8 @@
             "value_score":23.52925,
             "region":"경상남도 고성군",
             "region_code":"Gyeongsangnamdo",
-            "sub_region_code":"4882000000_Gyeongsangnamdo_Goseong"
+            "sub_region_code":"4882000000_Gyeongsangnamdo_Goseong",
+            "shorten_url":"https:\/\/me2.do\/GA1kdKpj"
         },
         {
             "index":20,
@@ -298,7 +322,8 @@
             "value_score":37.9207368421,
             "region":"경상남도 고성군",
             "region_code":"Gyeongsangnamdo",
-            "sub_region_code":"4882000000_Gyeongsangnamdo_Goseong"
+            "sub_region_code":"4882000000_Gyeongsangnamdo_Goseong",
+            "shorten_url":"https:\/\/me2.do\/GA1kdKpj"
         },
         {
             "index":21,
@@ -310,7 +335,8 @@
             "value_score":31.6575789474,
             "region":"경상남도 고성군",
             "region_code":"Gyeongsangnamdo",
-            "sub_region_code":"4882000000_Gyeongsangnamdo_Goseong"
+            "sub_region_code":"4882000000_Gyeongsangnamdo_Goseong",
+            "shorten_url":"https:\/\/me2.do\/GA1kdKpj"
         },
         {
             "index":22,
@@ -322,7 +348,8 @@
             "value_score":31.5369473684,
             "region":"경상남도 고성군",
             "region_code":"Gyeongsangnamdo",
-            "sub_region_code":"4882000000_Gyeongsangnamdo_Goseong"
+            "sub_region_code":"4882000000_Gyeongsangnamdo_Goseong",
+            "shorten_url":"https:\/\/me2.do\/GA1kdKpj"
         },
         {
             "index":23,
@@ -334,7 +361,8 @@
             "value_score":30.7474736842,
             "region":"경상남도 고성군",
             "region_code":"Gyeongsangnamdo",
-            "sub_region_code":"4882000000_Gyeongsangnamdo_Goseong"
+            "sub_region_code":"4882000000_Gyeongsangnamdo_Goseong",
+            "shorten_url":"https:\/\/me2.do\/GA1kdKpj"
         },
         {
             "index":24,
@@ -346,7 +374,8 @@
             "value_score":29.0210526316,
             "region":"경상남도 고성군",
             "region_code":"Gyeongsangnamdo",
-            "sub_region_code":"4882000000_Gyeongsangnamdo_Goseong"
+            "sub_region_code":"4882000000_Gyeongsangnamdo_Goseong",
+            "shorten_url":"https:\/\/me2.do\/GA1kdKpj"
         },
         {
             "index":25,
@@ -358,7 +387,8 @@
             "value_score":28.9733684211,
             "region":"경상남도 고성군",
             "region_code":"Gyeongsangnamdo",
-            "sub_region_code":"4882000000_Gyeongsangnamdo_Goseong"
+            "sub_region_code":"4882000000_Gyeongsangnamdo_Goseong",
+            "shorten_url":"https:\/\/me2.do\/GA1kdKpj"
         },
         {
             "index":26,
@@ -370,7 +400,8 @@
             "value_score":28.1838947368,
             "region":"경상남도 고성군",
             "region_code":"Gyeongsangnamdo",
-            "sub_region_code":"4882000000_Gyeongsangnamdo_Goseong"
+            "sub_region_code":"4882000000_Gyeongsangnamdo_Goseong",
+            "shorten_url":"https:\/\/me2.do\/GA1kdKpj"
         },
         {
             "index":27,
@@ -382,7 +413,8 @@
             "value_score":27.7474736842,
             "region":"경상남도 고성군",
             "region_code":"Gyeongsangnamdo",
-            "sub_region_code":"4882000000_Gyeongsangnamdo_Goseong"
+            "sub_region_code":"4882000000_Gyeongsangnamdo_Goseong",
+            "shorten_url":"https:\/\/me2.do\/GA1kdKpj"
         },
         {
             "index":28,
@@ -394,7 +426,8 @@
             "value_score":25.8154736842,
             "region":"경상남도 고성군",
             "region_code":"Gyeongsangnamdo",
-            "sub_region_code":"4882000000_Gyeongsangnamdo_Goseong"
+            "sub_region_code":"4882000000_Gyeongsangnamdo_Goseong",
+            "shorten_url":"https:\/\/me2.do\/GA1kdKpj"
         },
         {
             "index":29,
@@ -406,7 +439,8 @@
             "value_score":25.2315789474,
             "region":"경상남도 고성군",
             "region_code":"Gyeongsangnamdo",
-            "sub_region_code":"4882000000_Gyeongsangnamdo_Goseong"
+            "sub_region_code":"4882000000_Gyeongsangnamdo_Goseong",
+            "shorten_url":"https:\/\/me2.do\/GA1kdKpj"
         },
         {
             "index":30,
@@ -418,7 +452,8 @@
             "value_score":44.3495,
             "region":"경상남도 고성군",
             "region_code":"Gyeongsangnamdo",
-            "sub_region_code":"4882000000_Gyeongsangnamdo_Goseong"
+            "sub_region_code":"4882000000_Gyeongsangnamdo_Goseong",
+            "shorten_url":"https:\/\/me2.do\/GA1kdKpj"
         },
         {
             "index":31,
@@ -430,7 +465,8 @@
             "value_score":41.1835,
             "region":"경상남도 고성군",
             "region_code":"Gyeongsangnamdo",
-            "sub_region_code":"4882000000_Gyeongsangnamdo_Goseong"
+            "sub_region_code":"4882000000_Gyeongsangnamdo_Goseong",
+            "shorten_url":"https:\/\/me2.do\/GA1kdKpj"
         },
         {
             "index":32,
@@ -442,7 +478,8 @@
             "value_score":39.9745,
             "region":"경상남도 고성군",
             "region_code":"Gyeongsangnamdo",
-            "sub_region_code":"4882000000_Gyeongsangnamdo_Goseong"
+            "sub_region_code":"4882000000_Gyeongsangnamdo_Goseong",
+            "shorten_url":"https:\/\/me2.do\/GA1kdKpj"
         },
         {
             "index":33,
@@ -454,7 +491,8 @@
             "value_score":39.9335,
             "region":"경상남도 고성군",
             "region_code":"Gyeongsangnamdo",
-            "sub_region_code":"4882000000_Gyeongsangnamdo_Goseong"
+            "sub_region_code":"4882000000_Gyeongsangnamdo_Goseong",
+            "shorten_url":"https:\/\/me2.do\/GA1kdKpj"
         },
         {
             "index":34,
@@ -466,7 +504,8 @@
             "value_score":39.1245,
             "region":"경상남도 고성군",
             "region_code":"Gyeongsangnamdo",
-            "sub_region_code":"4882000000_Gyeongsangnamdo_Goseong"
+            "sub_region_code":"4882000000_Gyeongsangnamdo_Goseong",
+            "shorten_url":"https:\/\/me2.do\/GA1kdKpj"
         },
         {
             "index":35,
@@ -478,7 +517,8 @@
             "value_score":37.2,
             "region":"경상남도 고성군",
             "region_code":"Gyeongsangnamdo",
-            "sub_region_code":"4882000000_Gyeongsangnamdo_Goseong"
+            "sub_region_code":"4882000000_Gyeongsangnamdo_Goseong",
+            "shorten_url":"https:\/\/me2.do\/GA1kdKpj"
         },
         {
             "index":36,
@@ -490,7 +530,8 @@
             "value_score":35.7245,
             "region":"경상남도 고성군",
             "region_code":"Gyeongsangnamdo",
-            "sub_region_code":"4882000000_Gyeongsangnamdo_Goseong"
+            "sub_region_code":"4882000000_Gyeongsangnamdo_Goseong",
+            "shorten_url":"https:\/\/me2.do\/GA1kdKpj"
         },
         {
             "index":37,
@@ -502,7 +543,8 @@
             "value_score":35.1835,
             "region":"경상남도 고성군",
             "region_code":"Gyeongsangnamdo",
-            "sub_region_code":"4882000000_Gyeongsangnamdo_Goseong"
+            "sub_region_code":"4882000000_Gyeongsangnamdo_Goseong",
+            "shorten_url":"https:\/\/me2.do\/GA1kdKpj"
         },
         {
             "index":38,
@@ -514,7 +556,8 @@
             "value_score":32.7245,
             "region":"경상남도 고성군",
             "region_code":"Gyeongsangnamdo",
-            "sub_region_code":"4882000000_Gyeongsangnamdo_Goseong"
+            "sub_region_code":"4882000000_Gyeongsangnamdo_Goseong",
+            "shorten_url":"https:\/\/me2.do\/GA1kdKpj"
         },
         {
             "index":39,
@@ -526,7 +569,8 @@
             "value_score":31.2,
             "region":"경상남도 고성군",
             "region_code":"Gyeongsangnamdo",
-            "sub_region_code":"4882000000_Gyeongsangnamdo_Goseong"
+            "sub_region_code":"4882000000_Gyeongsangnamdo_Goseong",
+            "shorten_url":"https:\/\/me2.do\/GA1kdKpj"
         }
     ]
 }

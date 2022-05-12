@@ -40,6 +40,10 @@
             {
                 "name":"sub_region_code",
                 "type":"string"
+            },
+            {
+                "name":"shorten_url",
+                "type":"string"
             }
         ],
         "primaryKey":[
@@ -58,7 +62,8 @@
             "value_score":58.836,
             "region":"인천시 미추홀구",
             "region_code":"Incheon",
-            "sub_region_code":"2817700000_Incheon_Michuhol"
+            "sub_region_code":"2817700000_Incheon_Michuhol",
+            "shorten_url":"https:\/\/me2.do\/G0IWtqhI"
         },
         {
             "index":1,
@@ -70,7 +75,8 @@
             "value_score":58.7334,
             "region":"인천시 미추홀구",
             "region_code":"Incheon",
-            "sub_region_code":"2817700000_Incheon_Michuhol"
+            "sub_region_code":"2817700000_Incheon_Michuhol",
+            "shorten_url":"https:\/\/me2.do\/G0IWtqhI"
         },
         {
             "index":2,
@@ -82,7 +88,8 @@
             "value_score":56.75905,
             "region":"인천시 미추홀구",
             "region_code":"Incheon",
-            "sub_region_code":"2817700000_Incheon_Michuhol"
+            "sub_region_code":"2817700000_Incheon_Michuhol",
+            "shorten_url":"https:\/\/me2.do\/G0IWtqhI"
         },
         {
             "index":3,
@@ -94,7 +101,8 @@
             "value_score":56.5438,
             "region":"인천시 미추홀구",
             "region_code":"Incheon",
-            "sub_region_code":"2817700000_Incheon_Michuhol"
+            "sub_region_code":"2817700000_Incheon_Michuhol",
+            "shorten_url":"https:\/\/me2.do\/G0IWtqhI"
         },
         {
             "index":4,
@@ -106,7 +114,8 @@
             "value_score":56.3438,
             "region":"인천시 미추홀구",
             "region_code":"Incheon",
-            "sub_region_code":"2817700000_Incheon_Michuhol"
+            "sub_region_code":"2817700000_Incheon_Michuhol",
+            "shorten_url":"https:\/\/me2.do\/G0IWtqhI"
         },
         {
             "index":5,
@@ -118,7 +127,8 @@
             "value_score":54.8438,
             "region":"인천시 미추홀구",
             "region_code":"Incheon",
-            "sub_region_code":"2817700000_Incheon_Michuhol"
+            "sub_region_code":"2817700000_Incheon_Michuhol",
+            "shorten_url":"https:\/\/me2.do\/G0IWtqhI"
         },
         {
             "index":6,
@@ -130,7 +140,8 @@
             "value_score":54.1834,
             "region":"인천시 미추홀구",
             "region_code":"Incheon",
-            "sub_region_code":"2817700000_Incheon_Michuhol"
+            "sub_region_code":"2817700000_Incheon_Michuhol",
+            "shorten_url":"https:\/\/me2.do\/G0IWtqhI"
         },
         {
             "index":7,
@@ -142,7 +153,8 @@
             "value_score":53.7547,
             "region":"인천시 미추홀구",
             "region_code":"Incheon",
-            "sub_region_code":"2817700000_Incheon_Michuhol"
+            "sub_region_code":"2817700000_Incheon_Michuhol",
+            "shorten_url":"https:\/\/me2.do\/G0IWtqhI"
         },
         {
             "index":8,
@@ -154,7 +166,8 @@
             "value_score":53.0438,
             "region":"인천시 미추홀구",
             "region_code":"Incheon",
-            "sub_region_code":"2817700000_Incheon_Michuhol"
+            "sub_region_code":"2817700000_Incheon_Michuhol",
+            "shorten_url":"https:\/\/me2.do\/G0IWtqhI"
         },
         {
             "index":9,
@@ -166,7 +179,8 @@
             "value_score":52.3438,
             "region":"인천시 미추홀구",
             "region_code":"Incheon",
-            "sub_region_code":"2817700000_Incheon_Michuhol"
+            "sub_region_code":"2817700000_Incheon_Michuhol",
+            "shorten_url":"https:\/\/me2.do\/G0IWtqhI"
         },
         {
             "index":10,
@@ -178,7 +192,8 @@
             "value_score":66.4896,
             "region":"인천시 미추홀구",
             "region_code":"Incheon",
-            "sub_region_code":"2817700000_Incheon_Michuhol"
+            "sub_region_code":"2817700000_Incheon_Michuhol",
+            "shorten_url":"https:\/\/me2.do\/G0IWtqhI"
         },
         {
             "index":11,
@@ -190,7 +205,8 @@
             "value_score":64.6954,
             "region":"인천시 미추홀구",
             "region_code":"Incheon",
-            "sub_region_code":"2817700000_Incheon_Michuhol"
+            "sub_region_code":"2817700000_Incheon_Michuhol",
+            "shorten_url":"https:\/\/me2.do\/G0IWtqhI"
         },
         {
             "index":12,
@@ -202,7 +218,8 @@
             "value_score":64.498,
             "region":"인천시 미추홀구",
             "region_code":"Incheon",
-            "sub_region_code":"2817700000_Incheon_Michuhol"
+            "sub_region_code":"2817700000_Incheon_Michuhol",
+            "shorten_url":"https:\/\/me2.do\/G0IWtqhI"
         },
         {
             "index":13,
@@ -214,7 +231,8 @@
             "value_score":63.047,
             "region":"인천시 미추홀구",
             "region_code":"Incheon",
-            "sub_region_code":"2817700000_Incheon_Michuhol"
+            "sub_region_code":"2817700000_Incheon_Michuhol",
+            "shorten_url":"https:\/\/me2.do\/G0IWtqhI"
         },
         {
             "index":14,
@@ -226,7 +244,8 @@
             "value_score":62.8612,
             "region":"인천시 미추홀구",
             "region_code":"Incheon",
-            "sub_region_code":"2817700000_Incheon_Michuhol"
+            "sub_region_code":"2817700000_Incheon_Michuhol",
+            "shorten_url":"https:\/\/me2.do\/G0IWtqhI"
         },
         {
             "index":15,
@@ -238,7 +257,8 @@
             "value_score":62.5896,
             "region":"인천시 미추홀구",
             "region_code":"Incheon",
-            "sub_region_code":"2817700000_Incheon_Michuhol"
+            "sub_region_code":"2817700000_Incheon_Michuhol",
+            "shorten_url":"https:\/\/me2.do\/G0IWtqhI"
         },
         {
             "index":16,
@@ -250,7 +270,8 @@
             "value_score":62.247,
             "region":"인천시 미추홀구",
             "region_code":"Incheon",
-            "sub_region_code":"2817700000_Incheon_Michuhol"
+            "sub_region_code":"2817700000_Incheon_Michuhol",
+            "shorten_url":"https:\/\/me2.do\/G0IWtqhI"
         },
         {
             "index":17,
@@ -262,7 +283,8 @@
             "value_score":61.0172,
             "region":"인천시 미추홀구",
             "region_code":"Incheon",
-            "sub_region_code":"2817700000_Incheon_Michuhol"
+            "sub_region_code":"2817700000_Incheon_Michuhol",
+            "shorten_url":"https:\/\/me2.do\/G0IWtqhI"
         },
         {
             "index":18,
@@ -274,7 +296,8 @@
             "value_score":60.325,
             "region":"인천시 미추홀구",
             "region_code":"Incheon",
-            "sub_region_code":"2817700000_Incheon_Michuhol"
+            "sub_region_code":"2817700000_Incheon_Michuhol",
+            "shorten_url":"https:\/\/me2.do\/G0IWtqhI"
         },
         {
             "index":19,
@@ -286,7 +309,8 @@
             "value_score":60.2412,
             "region":"인천시 미추홀구",
             "region_code":"Incheon",
-            "sub_region_code":"2817700000_Incheon_Michuhol"
+            "sub_region_code":"2817700000_Incheon_Michuhol",
+            "shorten_url":"https:\/\/me2.do\/G0IWtqhI"
         },
         {
             "index":20,
@@ -298,7 +322,8 @@
             "value_score":59.7584,
             "region":"인천시 미추홀구",
             "region_code":"Incheon",
-            "sub_region_code":"2817700000_Incheon_Michuhol"
+            "sub_region_code":"2817700000_Incheon_Michuhol",
+            "shorten_url":"https:\/\/me2.do\/G0IWtqhI"
         },
         {
             "index":21,
@@ -310,7 +335,8 @@
             "value_score":56.5688,
             "region":"인천시 미추홀구",
             "region_code":"Incheon",
-            "sub_region_code":"2817700000_Incheon_Michuhol"
+            "sub_region_code":"2817700000_Incheon_Michuhol",
+            "shorten_url":"https:\/\/me2.do\/G0IWtqhI"
         },
         {
             "index":22,
@@ -322,7 +348,8 @@
             "value_score":56.111,
             "region":"인천시 미추홀구",
             "region_code":"Incheon",
-            "sub_region_code":"2817700000_Incheon_Michuhol"
+            "sub_region_code":"2817700000_Incheon_Michuhol",
+            "shorten_url":"https:\/\/me2.do\/G0IWtqhI"
         },
         {
             "index":23,
@@ -334,7 +361,8 @@
             "value_score":55.7188,
             "region":"인천시 미추홀구",
             "region_code":"Incheon",
-            "sub_region_code":"2817700000_Incheon_Michuhol"
+            "sub_region_code":"2817700000_Incheon_Michuhol",
+            "shorten_url":"https:\/\/me2.do\/G0IWtqhI"
         },
         {
             "index":24,
@@ -346,7 +374,8 @@
             "value_score":54.0188,
             "region":"인천시 미추홀구",
             "region_code":"Incheon",
-            "sub_region_code":"2817700000_Incheon_Michuhol"
+            "sub_region_code":"2817700000_Incheon_Michuhol",
+            "shorten_url":"https:\/\/me2.do\/G0IWtqhI"
         },
         {
             "index":25,
@@ -358,7 +387,8 @@
             "value_score":53.68405,
             "region":"인천시 미추홀구",
             "region_code":"Incheon",
-            "sub_region_code":"2817700000_Incheon_Michuhol"
+            "sub_region_code":"2817700000_Incheon_Michuhol",
+            "shorten_url":"https:\/\/me2.do\/G0IWtqhI"
         },
         {
             "index":26,
@@ -370,7 +400,8 @@
             "value_score":53.5797,
             "region":"인천시 미추홀구",
             "region_code":"Incheon",
-            "sub_region_code":"2817700000_Incheon_Michuhol"
+            "sub_region_code":"2817700000_Incheon_Michuhol",
+            "shorten_url":"https:\/\/me2.do\/G0IWtqhI"
         },
         {
             "index":27,
@@ -382,7 +413,8 @@
             "value_score":53.2334,
             "region":"인천시 미추홀구",
             "region_code":"Incheon",
-            "sub_region_code":"2817700000_Incheon_Michuhol"
+            "sub_region_code":"2817700000_Incheon_Michuhol",
+            "shorten_url":"https:\/\/me2.do\/G0IWtqhI"
         },
         {
             "index":28,
@@ -394,7 +426,8 @@
             "value_score":52.9212,
             "region":"인천시 미추홀구",
             "region_code":"Incheon",
-            "sub_region_code":"2817700000_Incheon_Michuhol"
+            "sub_region_code":"2817700000_Incheon_Michuhol",
+            "shorten_url":"https:\/\/me2.do\/G0IWtqhI"
         },
         {
             "index":29,
@@ -406,7 +439,8 @@
             "value_score":52.3188,
             "region":"인천시 미추홀구",
             "region_code":"Incheon",
-            "sub_region_code":"2817700000_Incheon_Michuhol"
+            "sub_region_code":"2817700000_Incheon_Michuhol",
+            "shorten_url":"https:\/\/me2.do\/G0IWtqhI"
         },
         {
             "index":30,
@@ -418,7 +452,8 @@
             "value_score":60.523,
             "region":"인천시 미추홀구",
             "region_code":"Incheon",
-            "sub_region_code":"2817700000_Incheon_Michuhol"
+            "sub_region_code":"2817700000_Incheon_Michuhol",
+            "shorten_url":"https:\/\/me2.do\/G0IWtqhI"
         },
         {
             "index":31,
@@ -430,7 +465,8 @@
             "value_score":59.623,
             "region":"인천시 미추홀구",
             "region_code":"Incheon",
-            "sub_region_code":"2817700000_Incheon_Michuhol"
+            "sub_region_code":"2817700000_Incheon_Michuhol",
+            "shorten_url":"https:\/\/me2.do\/G0IWtqhI"
         },
         {
             "index":32,
@@ -442,7 +478,8 @@
             "value_score":59.023,
             "region":"인천시 미추홀구",
             "region_code":"Incheon",
-            "sub_region_code":"2817700000_Incheon_Michuhol"
+            "sub_region_code":"2817700000_Incheon_Michuhol",
+            "shorten_url":"https:\/\/me2.do\/G0IWtqhI"
         },
         {
             "index":33,
@@ -454,7 +491,8 @@
             "value_score":59.01,
             "region":"인천시 미추홀구",
             "region_code":"Incheon",
-            "sub_region_code":"2817700000_Incheon_Michuhol"
+            "sub_region_code":"2817700000_Incheon_Michuhol",
+            "shorten_url":"https:\/\/me2.do\/G0IWtqhI"
         },
         {
             "index":34,
@@ -466,7 +504,8 @@
             "value_score":56.58175,
             "region":"인천시 미추홀구",
             "region_code":"Incheon",
-            "sub_region_code":"2817700000_Incheon_Michuhol"
+            "sub_region_code":"2817700000_Incheon_Michuhol",
+            "shorten_url":"https:\/\/me2.do\/G0IWtqhI"
         },
         {
             "index":35,
@@ -478,7 +517,8 @@
             "value_score":56.423,
             "region":"인천시 미추홀구",
             "region_code":"Incheon",
-            "sub_region_code":"2817700000_Incheon_Michuhol"
+            "sub_region_code":"2817700000_Incheon_Michuhol",
+            "shorten_url":"https:\/\/me2.do\/G0IWtqhI"
         },
         {
             "index":36,
@@ -490,7 +530,8 @@
             "value_score":56.373,
             "region":"인천시 미추홀구",
             "region_code":"Incheon",
-            "sub_region_code":"2817700000_Incheon_Michuhol"
+            "sub_region_code":"2817700000_Incheon_Michuhol",
+            "shorten_url":"https:\/\/me2.do\/G0IWtqhI"
         },
         {
             "index":37,
@@ -502,7 +543,8 @@
             "value_score":56.123,
             "region":"인천시 미추홀구",
             "region_code":"Incheon",
-            "sub_region_code":"2817700000_Incheon_Michuhol"
+            "sub_region_code":"2817700000_Incheon_Michuhol",
+            "shorten_url":"https:\/\/me2.do\/G0IWtqhI"
         },
         {
             "index":38,
@@ -514,7 +556,8 @@
             "value_score":54.51,
             "region":"인천시 미추홀구",
             "region_code":"Incheon",
-            "sub_region_code":"2817700000_Incheon_Michuhol"
+            "sub_region_code":"2817700000_Incheon_Michuhol",
+            "shorten_url":"https:\/\/me2.do\/G0IWtqhI"
         },
         {
             "index":39,
@@ -526,7 +569,8 @@
             "value_score":54.373,
             "region":"인천시 미추홀구",
             "region_code":"Incheon",
-            "sub_region_code":"2817700000_Incheon_Michuhol"
+            "sub_region_code":"2817700000_Incheon_Michuhol",
+            "shorten_url":"https:\/\/me2.do\/G0IWtqhI"
         },
         {
             "index":40,
@@ -538,7 +582,8 @@
             "value_score":58.749,
             "region":"인천시 미추홀구",
             "region_code":"Incheon",
-            "sub_region_code":"2817700000_Incheon_Michuhol"
+            "sub_region_code":"2817700000_Incheon_Michuhol",
+            "shorten_url":"https:\/\/me2.do\/G0IWtqhI"
         },
         {
             "index":41,
@@ -550,7 +595,8 @@
             "value_score":56.02,
             "region":"인천시 미추홀구",
             "region_code":"Incheon",
-            "sub_region_code":"2817700000_Incheon_Michuhol"
+            "sub_region_code":"2817700000_Incheon_Michuhol",
+            "shorten_url":"https:\/\/me2.do\/G0IWtqhI"
         },
         {
             "index":42,
@@ -562,7 +608,8 @@
             "value_score":55.1635,
             "region":"인천시 미추홀구",
             "region_code":"Incheon",
-            "sub_region_code":"2817700000_Incheon_Michuhol"
+            "sub_region_code":"2817700000_Incheon_Michuhol",
+            "shorten_url":"https:\/\/me2.do\/G0IWtqhI"
         },
         {
             "index":43,
@@ -574,7 +621,8 @@
             "value_score":53.878,
             "region":"인천시 미추홀구",
             "region_code":"Incheon",
-            "sub_region_code":"2817700000_Incheon_Michuhol"
+            "sub_region_code":"2817700000_Incheon_Michuhol",
+            "shorten_url":"https:\/\/me2.do\/G0IWtqhI"
         },
         {
             "index":44,
@@ -586,7 +634,8 @@
             "value_score":53.149,
             "region":"인천시 미추홀구",
             "region_code":"Incheon",
-            "sub_region_code":"2817700000_Incheon_Michuhol"
+            "sub_region_code":"2817700000_Incheon_Michuhol",
+            "shorten_url":"https:\/\/me2.do\/G0IWtqhI"
         },
         {
             "index":45,
@@ -598,7 +647,8 @@
             "value_score":52.246,
             "region":"인천시 미추홀구",
             "region_code":"Incheon",
-            "sub_region_code":"2817700000_Incheon_Michuhol"
+            "sub_region_code":"2817700000_Incheon_Michuhol",
+            "shorten_url":"https:\/\/me2.do\/G0IWtqhI"
         },
         {
             "index":46,
@@ -610,7 +660,8 @@
             "value_score":52.146,
             "region":"인천시 미추홀구",
             "region_code":"Incheon",
-            "sub_region_code":"2817700000_Incheon_Michuhol"
+            "sub_region_code":"2817700000_Incheon_Michuhol",
+            "shorten_url":"https:\/\/me2.do\/G0IWtqhI"
         },
         {
             "index":47,
@@ -622,7 +673,8 @@
             "value_score":51.278,
             "region":"인천시 미추홀구",
             "region_code":"Incheon",
-            "sub_region_code":"2817700000_Incheon_Michuhol"
+            "sub_region_code":"2817700000_Incheon_Michuhol",
+            "shorten_url":"https:\/\/me2.do\/G0IWtqhI"
         },
         {
             "index":48,
@@ -634,7 +686,8 @@
             "value_score":51.246,
             "region":"인천시 미추홀구",
             "region_code":"Incheon",
-            "sub_region_code":"2817700000_Incheon_Michuhol"
+            "sub_region_code":"2817700000_Incheon_Michuhol",
+            "shorten_url":"https:\/\/me2.do\/G0IWtqhI"
         },
         {
             "index":49,
@@ -646,7 +699,8 @@
             "value_score":51.246,
             "region":"인천시 미추홀구",
             "region_code":"Incheon",
-            "sub_region_code":"2817700000_Incheon_Michuhol"
+            "sub_region_code":"2817700000_Incheon_Michuhol",
+            "shorten_url":"https:\/\/me2.do\/G0IWtqhI"
         }
     ]
 }

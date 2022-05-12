@@ -40,6 +40,10 @@
             {
                 "name":"sub_region_code",
                 "type":"string"
+            },
+            {
+                "name":"shorten_url",
+                "type":"string"
             }
         ],
         "primaryKey":[
@@ -58,7 +62,8 @@
             "value_score":46.04385,
             "region":"전라남도 영광군",
             "region_code":"Jeollanamdo",
-            "sub_region_code":"4687000000_Jeollanamdo_Yeonggwang"
+            "sub_region_code":"4687000000_Jeollanamdo_Yeonggwang",
+            "shorten_url":"https:\/\/me2.do\/G5IbMWUK"
         },
         {
             "index":1,
@@ -70,7 +75,8 @@
             "value_score":42.99385,
             "region":"전라남도 영광군",
             "region_code":"Jeollanamdo",
-            "sub_region_code":"4687000000_Jeollanamdo_Yeonggwang"
+            "sub_region_code":"4687000000_Jeollanamdo_Yeonggwang",
+            "shorten_url":"https:\/\/me2.do\/G5IbMWUK"
         },
         {
             "index":2,
@@ -82,7 +88,8 @@
             "value_score":40.60635,
             "region":"전라남도 영광군",
             "region_code":"Jeollanamdo",
-            "sub_region_code":"4687000000_Jeollanamdo_Yeonggwang"
+            "sub_region_code":"4687000000_Jeollanamdo_Yeonggwang",
+            "shorten_url":"https:\/\/me2.do\/G5IbMWUK"
         },
         {
             "index":3,
@@ -94,7 +101,8 @@
             "value_score":40.4199,
             "region":"전라남도 영광군",
             "region_code":"Jeollanamdo",
-            "sub_region_code":"4687000000_Jeollanamdo_Yeonggwang"
+            "sub_region_code":"4687000000_Jeollanamdo_Yeonggwang",
+            "shorten_url":"https:\/\/me2.do\/G5IbMWUK"
         },
         {
             "index":4,
@@ -106,7 +114,8 @@
             "value_score":39.81285,
             "region":"전라남도 영광군",
             "region_code":"Jeollanamdo",
-            "sub_region_code":"4687000000_Jeollanamdo_Yeonggwang"
+            "sub_region_code":"4687000000_Jeollanamdo_Yeonggwang",
+            "shorten_url":"https:\/\/me2.do\/G5IbMWUK"
         },
         {
             "index":5,
@@ -118,7 +127,8 @@
             "value_score":39.44385,
             "region":"전라남도 영광군",
             "region_code":"Jeollanamdo",
-            "sub_region_code":"4687000000_Jeollanamdo_Yeonggwang"
+            "sub_region_code":"4687000000_Jeollanamdo_Yeonggwang",
+            "shorten_url":"https:\/\/me2.do\/G5IbMWUK"
         },
         {
             "index":6,
@@ -130,7 +140,8 @@
             "value_score":39.29385,
             "region":"전라남도 영광군",
             "region_code":"Jeollanamdo",
-            "sub_region_code":"4687000000_Jeollanamdo_Yeonggwang"
+            "sub_region_code":"4687000000_Jeollanamdo_Yeonggwang",
+            "shorten_url":"https:\/\/me2.do\/G5IbMWUK"
         },
         {
             "index":7,
@@ -142,7 +153,8 @@
             "value_score":37.19385,
             "region":"전라남도 영광군",
             "region_code":"Jeollanamdo",
-            "sub_region_code":"4687000000_Jeollanamdo_Yeonggwang"
+            "sub_region_code":"4687000000_Jeollanamdo_Yeonggwang",
+            "shorten_url":"https:\/\/me2.do\/G5IbMWUK"
         },
         {
             "index":8,
@@ -154,7 +166,8 @@
             "value_score":36.15635,
             "region":"전라남도 영광군",
             "region_code":"Jeollanamdo",
-            "sub_region_code":"4687000000_Jeollanamdo_Yeonggwang"
+            "sub_region_code":"4687000000_Jeollanamdo_Yeonggwang",
+            "shorten_url":"https:\/\/me2.do\/G5IbMWUK"
         },
         {
             "index":9,
@@ -166,7 +179,8 @@
             "value_score":36.04385,
             "region":"전라남도 영광군",
             "region_code":"Jeollanamdo",
-            "sub_region_code":"4687000000_Jeollanamdo_Yeonggwang"
+            "sub_region_code":"4687000000_Jeollanamdo_Yeonggwang",
+            "shorten_url":"https:\/\/me2.do\/G5IbMWUK"
         },
         {
             "index":10,
@@ -178,7 +192,8 @@
             "value_score":46.60275,
             "region":"전라남도 영광군",
             "region_code":"Jeollanamdo",
-            "sub_region_code":"4687000000_Jeollanamdo_Yeonggwang"
+            "sub_region_code":"4687000000_Jeollanamdo_Yeonggwang",
+            "shorten_url":"https:\/\/me2.do\/G5IbMWUK"
         },
         {
             "index":11,
@@ -190,7 +205,8 @@
             "value_score":43.10275,
             "region":"전라남도 영광군",
             "region_code":"Jeollanamdo",
-            "sub_region_code":"4687000000_Jeollanamdo_Yeonggwang"
+            "sub_region_code":"4687000000_Jeollanamdo_Yeonggwang",
+            "shorten_url":"https:\/\/me2.do\/G5IbMWUK"
         },
         {
             "index":12,
@@ -202,7 +218,8 @@
             "value_score":41.7285,
             "region":"전라남도 영광군",
             "region_code":"Jeollanamdo",
-            "sub_region_code":"4687000000_Jeollanamdo_Yeonggwang"
+            "sub_region_code":"4687000000_Jeollanamdo_Yeonggwang",
+            "shorten_url":"https:\/\/me2.do\/G5IbMWUK"
         },
         {
             "index":13,
@@ -214,7 +231,8 @@
             "value_score":40.54025,
             "region":"전라남도 영광군",
             "region_code":"Jeollanamdo",
-            "sub_region_code":"4687000000_Jeollanamdo_Yeonggwang"
+            "sub_region_code":"4687000000_Jeollanamdo_Yeonggwang",
+            "shorten_url":"https:\/\/me2.do\/G5IbMWUK"
         },
         {
             "index":14,
@@ -226,7 +244,8 @@
             "value_score":39.68775,
             "region":"전라남도 영광군",
             "region_code":"Jeollanamdo",
-            "sub_region_code":"4687000000_Jeollanamdo_Yeonggwang"
+            "sub_region_code":"4687000000_Jeollanamdo_Yeonggwang",
+            "shorten_url":"https:\/\/me2.do\/G5IbMWUK"
         },
         {
             "index":15,
@@ -238,7 +257,8 @@
             "value_score":38.60275,
             "region":"전라남도 영광군",
             "region_code":"Jeollanamdo",
-            "sub_region_code":"4687000000_Jeollanamdo_Yeonggwang"
+            "sub_region_code":"4687000000_Jeollanamdo_Yeonggwang",
+            "shorten_url":"https:\/\/me2.do\/G5IbMWUK"
         },
         {
             "index":16,
@@ -250,7 +270,8 @@
             "value_score":38.35275,
             "region":"전라남도 영광군",
             "region_code":"Jeollanamdo",
-            "sub_region_code":"4687000000_Jeollanamdo_Yeonggwang"
+            "sub_region_code":"4687000000_Jeollanamdo_Yeonggwang",
+            "shorten_url":"https:\/\/me2.do\/G5IbMWUK"
         },
         {
             "index":17,
@@ -262,7 +283,8 @@
             "value_score":36.10275,
             "region":"전라남도 영광군",
             "region_code":"Jeollanamdo",
-            "sub_region_code":"4687000000_Jeollanamdo_Yeonggwang"
+            "sub_region_code":"4687000000_Jeollanamdo_Yeonggwang",
+            "shorten_url":"https:\/\/me2.do\/G5IbMWUK"
         },
         {
             "index":18,
@@ -274,7 +296,8 @@
             "value_score":34.10275,
             "region":"전라남도 영광군",
             "region_code":"Jeollanamdo",
-            "sub_region_code":"4687000000_Jeollanamdo_Yeonggwang"
+            "sub_region_code":"4687000000_Jeollanamdo_Yeonggwang",
+            "shorten_url":"https:\/\/me2.do\/G5IbMWUK"
         },
         {
             "index":19,
@@ -286,7 +309,8 @@
             "value_score":34.04025,
             "region":"전라남도 영광군",
             "region_code":"Jeollanamdo",
-            "sub_region_code":"4687000000_Jeollanamdo_Yeonggwang"
+            "sub_region_code":"4687000000_Jeollanamdo_Yeonggwang",
+            "shorten_url":"https:\/\/me2.do\/G5IbMWUK"
         },
         {
             "index":20,
@@ -298,7 +322,8 @@
             "value_score":41.814,
             "region":"전라남도 영광군",
             "region_code":"Jeollanamdo",
-            "sub_region_code":"4687000000_Jeollanamdo_Yeonggwang"
+            "sub_region_code":"4687000000_Jeollanamdo_Yeonggwang",
+            "shorten_url":"https:\/\/me2.do\/G5IbMWUK"
         },
         {
             "index":21,
@@ -310,7 +335,8 @@
             "value_score":41.7876842105,
             "region":"전라남도 영광군",
             "region_code":"Jeollanamdo",
-            "sub_region_code":"4687000000_Jeollanamdo_Yeonggwang"
+            "sub_region_code":"4687000000_Jeollanamdo_Yeonggwang",
+            "shorten_url":"https:\/\/me2.do\/G5IbMWUK"
         },
         {
             "index":22,
@@ -322,7 +348,8 @@
             "value_score":39.2087368421,
             "region":"전라남도 영광군",
             "region_code":"Jeollanamdo",
-            "sub_region_code":"4687000000_Jeollanamdo_Yeonggwang"
+            "sub_region_code":"4687000000_Jeollanamdo_Yeonggwang",
+            "shorten_url":"https:\/\/me2.do\/G5IbMWUK"
         },
         {
             "index":23,
@@ -334,7 +361,8 @@
             "value_score":39.0245263158,
             "region":"전라남도 영광군",
             "region_code":"Jeollanamdo",
-            "sub_region_code":"4687000000_Jeollanamdo_Yeonggwang"
+            "sub_region_code":"4687000000_Jeollanamdo_Yeonggwang",
+            "shorten_url":"https:\/\/me2.do\/G5IbMWUK"
         },
         {
             "index":24,
@@ -346,7 +374,8 @@
             "value_score":38.4718947368,
             "region":"전라남도 영광군",
             "region_code":"Jeollanamdo",
-            "sub_region_code":"4687000000_Jeollanamdo_Yeonggwang"
+            "sub_region_code":"4687000000_Jeollanamdo_Yeonggwang",
+            "shorten_url":"https:\/\/me2.do\/G5IbMWUK"
         },
         {
             "index":25,
@@ -358,7 +387,8 @@
             "value_score":37.8666315789,
             "region":"전라남도 영광군",
             "region_code":"Jeollanamdo",
-            "sub_region_code":"4687000000_Jeollanamdo_Yeonggwang"
+            "sub_region_code":"4687000000_Jeollanamdo_Yeonggwang",
+            "shorten_url":"https:\/\/me2.do\/G5IbMWUK"
         },
         {
             "index":26,
@@ -370,7 +400,8 @@
             "value_score":37.5517894737,
             "region":"전라남도 영광군",
             "region_code":"Jeollanamdo",
-            "sub_region_code":"4687000000_Jeollanamdo_Yeonggwang"
+            "sub_region_code":"4687000000_Jeollanamdo_Yeonggwang",
+            "shorten_url":"https:\/\/me2.do\/G5IbMWUK"
         },
         {
             "index":27,
@@ -382,7 +413,8 @@
             "value_score":37.1297894737,
             "region":"전라남도 영광군",
             "region_code":"Jeollanamdo",
-            "sub_region_code":"4687000000_Jeollanamdo_Yeonggwang"
+            "sub_region_code":"4687000000_Jeollanamdo_Yeonggwang",
+            "shorten_url":"https:\/\/me2.do\/G5IbMWUK"
         },
         {
             "index":28,
@@ -394,7 +426,8 @@
             "value_score":36.9982105263,
             "region":"전라남도 영광군",
             "region_code":"Jeollanamdo",
-            "sub_region_code":"4687000000_Jeollanamdo_Yeonggwang"
+            "sub_region_code":"4687000000_Jeollanamdo_Yeonggwang",
+            "shorten_url":"https:\/\/me2.do\/G5IbMWUK"
         },
         {
             "index":29,
@@ -406,7 +439,8 @@
             "value_score":36.1561052632,
             "region":"전라남도 영광군",
             "region_code":"Jeollanamdo",
-            "sub_region_code":"4687000000_Jeollanamdo_Yeonggwang"
+            "sub_region_code":"4687000000_Jeollanamdo_Yeonggwang",
+            "shorten_url":"https:\/\/me2.do\/G5IbMWUK"
         },
         {
             "index":30,
@@ -418,7 +452,8 @@
             "value_score":45.2055,
             "region":"전라남도 영광군",
             "region_code":"Jeollanamdo",
-            "sub_region_code":"4687000000_Jeollanamdo_Yeonggwang"
+            "sub_region_code":"4687000000_Jeollanamdo_Yeonggwang",
+            "shorten_url":"https:\/\/me2.do\/G5IbMWUK"
         },
         {
             "index":31,
@@ -430,7 +465,8 @@
             "value_score":42.8305,
             "region":"전라남도 영광군",
             "region_code":"Jeollanamdo",
-            "sub_region_code":"4687000000_Jeollanamdo_Yeonggwang"
+            "sub_region_code":"4687000000_Jeollanamdo_Yeonggwang",
+            "shorten_url":"https:\/\/me2.do\/G5IbMWUK"
         },
         {
             "index":32,
@@ -442,7 +478,8 @@
             "value_score":41.0805,
             "region":"전라남도 영광군",
             "region_code":"Jeollanamdo",
-            "sub_region_code":"4687000000_Jeollanamdo_Yeonggwang"
+            "sub_region_code":"4687000000_Jeollanamdo_Yeonggwang",
+            "shorten_url":"https:\/\/me2.do\/G5IbMWUK"
         },
         {
             "index":33,
@@ -454,7 +491,8 @@
             "value_score":40.7055,
             "region":"전라남도 영광군",
             "region_code":"Jeollanamdo",
-            "sub_region_code":"4687000000_Jeollanamdo_Yeonggwang"
+            "sub_region_code":"4687000000_Jeollanamdo_Yeonggwang",
+            "shorten_url":"https:\/\/me2.do\/G5IbMWUK"
         },
         {
             "index":34,
@@ -466,7 +504,8 @@
             "value_score":40.5555,
             "region":"전라남도 영광군",
             "region_code":"Jeollanamdo",
-            "sub_region_code":"4687000000_Jeollanamdo_Yeonggwang"
+            "sub_region_code":"4687000000_Jeollanamdo_Yeonggwang",
+            "shorten_url":"https:\/\/me2.do\/G5IbMWUK"
         },
         {
             "index":35,
@@ -478,7 +517,8 @@
             "value_score":40.3305,
             "region":"전라남도 영광군",
             "region_code":"Jeollanamdo",
-            "sub_region_code":"4687000000_Jeollanamdo_Yeonggwang"
+            "sub_region_code":"4687000000_Jeollanamdo_Yeonggwang",
+            "shorten_url":"https:\/\/me2.do\/G5IbMWUK"
         },
         {
             "index":36,
@@ -490,7 +530,8 @@
             "value_score":40.0005,
             "region":"전라남도 영광군",
             "region_code":"Jeollanamdo",
-            "sub_region_code":"4687000000_Jeollanamdo_Yeonggwang"
+            "sub_region_code":"4687000000_Jeollanamdo_Yeonggwang",
+            "shorten_url":"https:\/\/me2.do\/G5IbMWUK"
         },
         {
             "index":37,
@@ -502,7 +543,8 @@
             "value_score":39.3305,
             "region":"전라남도 영광군",
             "region_code":"Jeollanamdo",
-            "sub_region_code":"4687000000_Jeollanamdo_Yeonggwang"
+            "sub_region_code":"4687000000_Jeollanamdo_Yeonggwang",
+            "shorten_url":"https:\/\/me2.do\/G5IbMWUK"
         },
         {
             "index":38,
@@ -514,7 +556,8 @@
             "value_score":38.9555,
             "region":"전라남도 영광군",
             "region_code":"Jeollanamdo",
-            "sub_region_code":"4687000000_Jeollanamdo_Yeonggwang"
+            "sub_region_code":"4687000000_Jeollanamdo_Yeonggwang",
+            "shorten_url":"https:\/\/me2.do\/G5IbMWUK"
         },
         {
             "index":39,
@@ -526,7 +569,8 @@
             "value_score":38.8305,
             "region":"전라남도 영광군",
             "region_code":"Jeollanamdo",
-            "sub_region_code":"4687000000_Jeollanamdo_Yeonggwang"
+            "sub_region_code":"4687000000_Jeollanamdo_Yeonggwang",
+            "shorten_url":"https:\/\/me2.do\/G5IbMWUK"
         }
     ]
 }

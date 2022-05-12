@@ -40,6 +40,10 @@
             {
                 "name":"sub_region_code",
                 "type":"string"
+            },
+            {
+                "name":"shorten_url",
+                "type":"string"
             }
         ],
         "primaryKey":[
@@ -58,7 +62,8 @@
             "value_score":76.7463,
             "region":"경기도 화성시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4159000000_Gyeonggi_Hwaseong"
+            "sub_region_code":"4159000000_Gyeonggi_Hwaseong",
+            "shorten_url":"https:\/\/me2.do\/FoW506VJ"
         },
         {
             "index":1,
@@ -70,7 +75,8 @@
             "value_score":71.5663,
             "region":"경기도 화성시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4159000000_Gyeonggi_Hwaseong"
+            "sub_region_code":"4159000000_Gyeonggi_Hwaseong",
+            "shorten_url":"https:\/\/me2.do\/FoW506VJ"
         },
         {
             "index":2,
@@ -82,7 +88,8 @@
             "value_score":68.4393,
             "region":"경기도 화성시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4159000000_Gyeonggi_Hwaseong"
+            "sub_region_code":"4159000000_Gyeonggi_Hwaseong",
+            "shorten_url":"https:\/\/me2.do\/FoW506VJ"
         },
         {
             "index":3,
@@ -94,7 +101,8 @@
             "value_score":67.9663,
             "region":"경기도 화성시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4159000000_Gyeonggi_Hwaseong"
+            "sub_region_code":"4159000000_Gyeonggi_Hwaseong",
+            "shorten_url":"https:\/\/me2.do\/FoW506VJ"
         },
         {
             "index":4,
@@ -106,7 +114,8 @@
             "value_score":67.9193,
             "region":"경기도 화성시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4159000000_Gyeonggi_Hwaseong"
+            "sub_region_code":"4159000000_Gyeonggi_Hwaseong",
+            "shorten_url":"https:\/\/me2.do\/FoW506VJ"
         },
         {
             "index":5,
@@ -118,7 +127,8 @@
             "value_score":67.5393,
             "region":"경기도 화성시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4159000000_Gyeonggi_Hwaseong"
+            "sub_region_code":"4159000000_Gyeonggi_Hwaseong",
+            "shorten_url":"https:\/\/me2.do\/FoW506VJ"
         },
         {
             "index":6,
@@ -130,7 +140,8 @@
             "value_score":66.9463,
             "region":"경기도 화성시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4159000000_Gyeonggi_Hwaseong"
+            "sub_region_code":"4159000000_Gyeonggi_Hwaseong",
+            "shorten_url":"https:\/\/me2.do\/FoW506VJ"
         },
         {
             "index":7,
@@ -142,7 +153,8 @@
             "value_score":66.6893,
             "region":"경기도 화성시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4159000000_Gyeonggi_Hwaseong"
+            "sub_region_code":"4159000000_Gyeonggi_Hwaseong",
+            "shorten_url":"https:\/\/me2.do\/FoW506VJ"
         },
         {
             "index":8,
@@ -154,7 +166,8 @@
             "value_score":66.5393,
             "region":"경기도 화성시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4159000000_Gyeonggi_Hwaseong"
+            "sub_region_code":"4159000000_Gyeonggi_Hwaseong",
+            "shorten_url":"https:\/\/me2.do\/FoW506VJ"
         },
         {
             "index":9,
@@ -166,7 +179,8 @@
             "value_score":66.2193,
             "region":"경기도 화성시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4159000000_Gyeonggi_Hwaseong"
+            "sub_region_code":"4159000000_Gyeonggi_Hwaseong",
+            "shorten_url":"https:\/\/me2.do\/FoW506VJ"
         },
         {
             "index":10,
@@ -178,7 +192,8 @@
             "value_score":80.9784,
             "region":"경기도 화성시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4159000000_Gyeonggi_Hwaseong"
+            "sub_region_code":"4159000000_Gyeonggi_Hwaseong",
+            "shorten_url":"https:\/\/me2.do\/FoW506VJ"
         },
         {
             "index":11,
@@ -190,7 +205,8 @@
             "value_score":76.5224,
             "region":"경기도 화성시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4159000000_Gyeonggi_Hwaseong"
+            "sub_region_code":"4159000000_Gyeonggi_Hwaseong",
+            "shorten_url":"https:\/\/me2.do\/FoW506VJ"
         },
         {
             "index":12,
@@ -202,7 +218,8 @@
             "value_score":76.1084,
             "region":"경기도 화성시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4159000000_Gyeonggi_Hwaseong"
+            "sub_region_code":"4159000000_Gyeonggi_Hwaseong",
+            "shorten_url":"https:\/\/me2.do\/FoW506VJ"
         },
         {
             "index":13,
@@ -214,7 +231,8 @@
             "value_score":75.1784,
             "region":"경기도 화성시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4159000000_Gyeonggi_Hwaseong"
+            "sub_region_code":"4159000000_Gyeonggi_Hwaseong",
+            "shorten_url":"https:\/\/me2.do\/FoW506VJ"
         },
         {
             "index":14,
@@ -226,7 +244,8 @@
             "value_score":74.6224,
             "region":"경기도 화성시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4159000000_Gyeonggi_Hwaseong"
+            "sub_region_code":"4159000000_Gyeonggi_Hwaseong",
+            "shorten_url":"https:\/\/me2.do\/FoW506VJ"
         },
         {
             "index":15,
@@ -238,7 +257,8 @@
             "value_score":73.1084,
             "region":"경기도 화성시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4159000000_Gyeonggi_Hwaseong"
+            "sub_region_code":"4159000000_Gyeonggi_Hwaseong",
+            "shorten_url":"https:\/\/me2.do\/FoW506VJ"
         },
         {
             "index":16,
@@ -250,7 +270,8 @@
             "value_score":72.5084,
             "region":"경기도 화성시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4159000000_Gyeonggi_Hwaseong"
+            "sub_region_code":"4159000000_Gyeonggi_Hwaseong",
+            "shorten_url":"https:\/\/me2.do\/FoW506VJ"
         },
         {
             "index":17,
@@ -262,7 +283,8 @@
             "value_score":72.3584,
             "region":"경기도 화성시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4159000000_Gyeonggi_Hwaseong"
+            "sub_region_code":"4159000000_Gyeonggi_Hwaseong",
+            "shorten_url":"https:\/\/me2.do\/FoW506VJ"
         },
         {
             "index":18,
@@ -274,7 +296,8 @@
             "value_score":70.9084,
             "region":"경기도 화성시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4159000000_Gyeonggi_Hwaseong"
+            "sub_region_code":"4159000000_Gyeonggi_Hwaseong",
+            "shorten_url":"https:\/\/me2.do\/FoW506VJ"
         },
         {
             "index":19,
@@ -286,7 +309,8 @@
             "value_score":70.6584,
             "region":"경기도 화성시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4159000000_Gyeonggi_Hwaseong"
+            "sub_region_code":"4159000000_Gyeonggi_Hwaseong",
+            "shorten_url":"https:\/\/me2.do\/FoW506VJ"
         },
         {
             "index":20,
@@ -298,7 +322,8 @@
             "value_score":76.3213,
             "region":"경기도 화성시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4159000000_Gyeonggi_Hwaseong"
+            "sub_region_code":"4159000000_Gyeonggi_Hwaseong",
+            "shorten_url":"https:\/\/me2.do\/FoW506VJ"
         },
         {
             "index":21,
@@ -310,7 +335,8 @@
             "value_score":70.0763,
             "region":"경기도 화성시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4159000000_Gyeonggi_Hwaseong"
+            "sub_region_code":"4159000000_Gyeonggi_Hwaseong",
+            "shorten_url":"https:\/\/me2.do\/FoW506VJ"
         },
         {
             "index":22,
@@ -322,7 +348,8 @@
             "value_score":66.8943,
             "region":"경기도 화성시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4159000000_Gyeonggi_Hwaseong"
+            "sub_region_code":"4159000000_Gyeonggi_Hwaseong",
+            "shorten_url":"https:\/\/me2.do\/FoW506VJ"
         },
         {
             "index":23,
@@ -334,7 +361,8 @@
             "value_score":66.2513,
             "region":"경기도 화성시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4159000000_Gyeonggi_Hwaseong"
+            "sub_region_code":"4159000000_Gyeonggi_Hwaseong",
+            "shorten_url":"https:\/\/me2.do\/FoW506VJ"
         },
         {
             "index":24,
@@ -346,7 +374,8 @@
             "value_score":64.9213,
             "region":"경기도 화성시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4159000000_Gyeonggi_Hwaseong"
+            "sub_region_code":"4159000000_Gyeonggi_Hwaseong",
+            "shorten_url":"https:\/\/me2.do\/FoW506VJ"
         },
         {
             "index":25,
@@ -358,7 +387,8 @@
             "value_score":64.8243,
             "region":"경기도 화성시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4159000000_Gyeonggi_Hwaseong"
+            "sub_region_code":"4159000000_Gyeonggi_Hwaseong",
+            "shorten_url":"https:\/\/me2.do\/FoW506VJ"
         },
         {
             "index":26,
@@ -370,7 +400,8 @@
             "value_score":64.0493,
             "region":"경기도 화성시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4159000000_Gyeonggi_Hwaseong"
+            "sub_region_code":"4159000000_Gyeonggi_Hwaseong",
+            "shorten_url":"https:\/\/me2.do\/FoW506VJ"
         },
         {
             "index":27,
@@ -382,7 +413,8 @@
             "value_score":63.6243,
             "region":"경기도 화성시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4159000000_Gyeonggi_Hwaseong"
+            "sub_region_code":"4159000000_Gyeonggi_Hwaseong",
+            "shorten_url":"https:\/\/me2.do\/FoW506VJ"
         },
         {
             "index":28,
@@ -394,7 +426,8 @@
             "value_score":63.2493,
             "region":"경기도 화성시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4159000000_Gyeonggi_Hwaseong"
+            "sub_region_code":"4159000000_Gyeonggi_Hwaseong",
+            "shorten_url":"https:\/\/me2.do\/FoW506VJ"
         },
         {
             "index":29,
@@ -406,7 +439,8 @@
             "value_score":63.1193,
             "region":"경기도 화성시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4159000000_Gyeonggi_Hwaseong"
+            "sub_region_code":"4159000000_Gyeonggi_Hwaseong",
+            "shorten_url":"https:\/\/me2.do\/FoW506VJ"
         },
         {
             "index":30,
@@ -418,7 +452,8 @@
             "value_score":76.0655,
             "region":"경기도 화성시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4159000000_Gyeonggi_Hwaseong"
+            "sub_region_code":"4159000000_Gyeonggi_Hwaseong",
+            "shorten_url":"https:\/\/me2.do\/FoW506VJ"
         },
         {
             "index":31,
@@ -430,7 +465,8 @@
             "value_score":75.8655,
             "region":"경기도 화성시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4159000000_Gyeonggi_Hwaseong"
+            "sub_region_code":"4159000000_Gyeonggi_Hwaseong",
+            "shorten_url":"https:\/\/me2.do\/FoW506VJ"
         },
         {
             "index":32,
@@ -442,7 +478,8 @@
             "value_score":74.3655,
             "region":"경기도 화성시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4159000000_Gyeonggi_Hwaseong"
+            "sub_region_code":"4159000000_Gyeonggi_Hwaseong",
+            "shorten_url":"https:\/\/me2.do\/FoW506VJ"
         },
         {
             "index":33,
@@ -454,7 +491,8 @@
             "value_score":73.8605,
             "region":"경기도 화성시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4159000000_Gyeonggi_Hwaseong"
+            "sub_region_code":"4159000000_Gyeonggi_Hwaseong",
+            "shorten_url":"https:\/\/me2.do\/FoW506VJ"
         },
         {
             "index":34,
@@ -466,7 +504,8 @@
             "value_score":72.8155,
             "region":"경기도 화성시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4159000000_Gyeonggi_Hwaseong"
+            "sub_region_code":"4159000000_Gyeonggi_Hwaseong",
+            "shorten_url":"https:\/\/me2.do\/FoW506VJ"
         },
         {
             "index":35,
@@ -478,7 +517,8 @@
             "value_score":72.223,
             "region":"경기도 화성시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4159000000_Gyeonggi_Hwaseong"
+            "sub_region_code":"4159000000_Gyeonggi_Hwaseong",
+            "shorten_url":"https:\/\/me2.do\/FoW506VJ"
         },
         {
             "index":36,
@@ -490,7 +530,8 @@
             "value_score":71.8655,
             "region":"경기도 화성시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4159000000_Gyeonggi_Hwaseong"
+            "sub_region_code":"4159000000_Gyeonggi_Hwaseong",
+            "shorten_url":"https:\/\/me2.do\/FoW506VJ"
         },
         {
             "index":37,
@@ -502,7 +543,8 @@
             "value_score":71.3105,
             "region":"경기도 화성시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4159000000_Gyeonggi_Hwaseong"
+            "sub_region_code":"4159000000_Gyeonggi_Hwaseong",
+            "shorten_url":"https:\/\/me2.do\/FoW506VJ"
         },
         {
             "index":38,
@@ -514,7 +556,8 @@
             "value_score":71.0105,
             "region":"경기도 화성시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4159000000_Gyeonggi_Hwaseong"
+            "sub_region_code":"4159000000_Gyeonggi_Hwaseong",
+            "shorten_url":"https:\/\/me2.do\/FoW506VJ"
         },
         {
             "index":39,
@@ -526,7 +569,8 @@
             "value_score":70.7155,
             "region":"경기도 화성시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4159000000_Gyeonggi_Hwaseong"
+            "sub_region_code":"4159000000_Gyeonggi_Hwaseong",
+            "shorten_url":"https:\/\/me2.do\/FoW506VJ"
         },
         {
             "index":40,
@@ -538,7 +582,8 @@
             "value_score":74.121,
             "region":"경기도 화성시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4159000000_Gyeonggi_Hwaseong"
+            "sub_region_code":"4159000000_Gyeonggi_Hwaseong",
+            "shorten_url":"https:\/\/me2.do\/FoW506VJ"
         },
         {
             "index":41,
@@ -550,7 +595,8 @@
             "value_score":71.501,
             "region":"경기도 화성시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4159000000_Gyeonggi_Hwaseong"
+            "sub_region_code":"4159000000_Gyeonggi_Hwaseong",
+            "shorten_url":"https:\/\/me2.do\/FoW506VJ"
         },
         {
             "index":42,
@@ -562,7 +608,8 @@
             "value_score":71.321,
             "region":"경기도 화성시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4159000000_Gyeonggi_Hwaseong"
+            "sub_region_code":"4159000000_Gyeonggi_Hwaseong",
+            "shorten_url":"https:\/\/me2.do\/FoW506VJ"
         },
         {
             "index":43,
@@ -574,7 +621,8 @@
             "value_score":71.111,
             "region":"경기도 화성시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4159000000_Gyeonggi_Hwaseong"
+            "sub_region_code":"4159000000_Gyeonggi_Hwaseong",
+            "shorten_url":"https:\/\/me2.do\/FoW506VJ"
         },
         {
             "index":44,
@@ -586,7 +634,8 @@
             "value_score":71.011,
             "region":"경기도 화성시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4159000000_Gyeonggi_Hwaseong"
+            "sub_region_code":"4159000000_Gyeonggi_Hwaseong",
+            "shorten_url":"https:\/\/me2.do\/FoW506VJ"
         },
         {
             "index":45,
@@ -598,7 +647,8 @@
             "value_score":69.931,
             "region":"경기도 화성시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4159000000_Gyeonggi_Hwaseong"
+            "sub_region_code":"4159000000_Gyeonggi_Hwaseong",
+            "shorten_url":"https:\/\/me2.do\/FoW506VJ"
         },
         {
             "index":46,
@@ -610,7 +660,8 @@
             "value_score":69.811,
             "region":"경기도 화성시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4159000000_Gyeonggi_Hwaseong"
+            "sub_region_code":"4159000000_Gyeonggi_Hwaseong",
+            "shorten_url":"https:\/\/me2.do\/FoW506VJ"
         },
         {
             "index":47,
@@ -622,7 +673,8 @@
             "value_score":69.811,
             "region":"경기도 화성시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4159000000_Gyeonggi_Hwaseong"
+            "sub_region_code":"4159000000_Gyeonggi_Hwaseong",
+            "shorten_url":"https:\/\/me2.do\/FoW506VJ"
         },
         {
             "index":48,
@@ -634,7 +686,8 @@
             "value_score":69.546,
             "region":"경기도 화성시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4159000000_Gyeonggi_Hwaseong"
+            "sub_region_code":"4159000000_Gyeonggi_Hwaseong",
+            "shorten_url":"https:\/\/me2.do\/FoW506VJ"
         },
         {
             "index":49,
@@ -646,7 +699,8 @@
             "value_score":69.411,
             "region":"경기도 화성시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4159000000_Gyeonggi_Hwaseong"
+            "sub_region_code":"4159000000_Gyeonggi_Hwaseong",
+            "shorten_url":"https:\/\/me2.do\/FoW506VJ"
         }
     ]
 }

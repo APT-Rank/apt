@@ -40,6 +40,10 @@
             {
                 "name":"sub_region_code",
                 "type":"string"
+            },
+            {
+                "name":"shorten_url",
+                "type":"string"
             }
         ],
         "primaryKey":[
@@ -58,7 +62,8 @@
             "value_score":72.6214,
             "region":"서울시 광진구",
             "region_code":"Seoul",
-            "sub_region_code":"1121500000_Seoul_Gwangjin"
+            "sub_region_code":"1121500000_Seoul_Gwangjin",
+            "shorten_url":"https:\/\/me2.do\/GRfqsJDG"
         },
         {
             "index":1,
@@ -70,7 +75,8 @@
             "value_score":71.473,
             "region":"서울시 광진구",
             "region_code":"Seoul",
-            "sub_region_code":"1121500000_Seoul_Gwangjin"
+            "sub_region_code":"1121500000_Seoul_Gwangjin",
+            "shorten_url":"https:\/\/me2.do\/GRfqsJDG"
         },
         {
             "index":2,
@@ -82,7 +88,8 @@
             "value_score":68.9214,
             "region":"서울시 광진구",
             "region_code":"Seoul",
-            "sub_region_code":"1121500000_Seoul_Gwangjin"
+            "sub_region_code":"1121500000_Seoul_Gwangjin",
+            "shorten_url":"https:\/\/me2.do\/GRfqsJDG"
         },
         {
             "index":3,
@@ -94,7 +101,8 @@
             "value_score":66.5714,
             "region":"서울시 광진구",
             "region_code":"Seoul",
-            "sub_region_code":"1121500000_Seoul_Gwangjin"
+            "sub_region_code":"1121500000_Seoul_Gwangjin",
+            "shorten_url":"https:\/\/me2.do\/GRfqsJDG"
         },
         {
             "index":4,
@@ -106,7 +114,8 @@
             "value_score":66.522,
             "region":"서울시 광진구",
             "region_code":"Seoul",
-            "sub_region_code":"1121500000_Seoul_Gwangjin"
+            "sub_region_code":"1121500000_Seoul_Gwangjin",
+            "shorten_url":"https:\/\/me2.do\/GRfqsJDG"
         },
         {
             "index":5,
@@ -118,7 +127,8 @@
             "value_score":66.1214,
             "region":"서울시 광진구",
             "region_code":"Seoul",
-            "sub_region_code":"1121500000_Seoul_Gwangjin"
+            "sub_region_code":"1121500000_Seoul_Gwangjin",
+            "shorten_url":"https:\/\/me2.do\/GRfqsJDG"
         },
         {
             "index":6,
@@ -130,7 +140,8 @@
             "value_score":65.373,
             "region":"서울시 광진구",
             "region_code":"Seoul",
-            "sub_region_code":"1121500000_Seoul_Gwangjin"
+            "sub_region_code":"1121500000_Seoul_Gwangjin",
+            "shorten_url":"https:\/\/me2.do\/GRfqsJDG"
         },
         {
             "index":7,
@@ -142,7 +153,8 @@
             "value_score":64.3714,
             "region":"서울시 광진구",
             "region_code":"Seoul",
-            "sub_region_code":"1121500000_Seoul_Gwangjin"
+            "sub_region_code":"1121500000_Seoul_Gwangjin",
+            "shorten_url":"https:\/\/me2.do\/GRfqsJDG"
         },
         {
             "index":8,
@@ -154,7 +166,8 @@
             "value_score":62.8214,
             "region":"서울시 광진구",
             "region_code":"Seoul",
-            "sub_region_code":"1121500000_Seoul_Gwangjin"
+            "sub_region_code":"1121500000_Seoul_Gwangjin",
+            "shorten_url":"https:\/\/me2.do\/GRfqsJDG"
         },
         {
             "index":9,
@@ -166,7 +179,8 @@
             "value_score":62.2817,
             "region":"서울시 광진구",
             "region_code":"Seoul",
-            "sub_region_code":"1121500000_Seoul_Gwangjin"
+            "sub_region_code":"1121500000_Seoul_Gwangjin",
+            "shorten_url":"https:\/\/me2.do\/GRfqsJDG"
         },
         {
             "index":10,
@@ -178,7 +192,8 @@
             "value_score":72.232,
             "region":"서울시 광진구",
             "region_code":"Seoul",
-            "sub_region_code":"1121500000_Seoul_Gwangjin"
+            "sub_region_code":"1121500000_Seoul_Gwangjin",
+            "shorten_url":"https:\/\/me2.do\/GRfqsJDG"
         },
         {
             "index":11,
@@ -190,7 +205,8 @@
             "value_score":68.6528,
             "region":"서울시 광진구",
             "region_code":"Seoul",
-            "sub_region_code":"1121500000_Seoul_Gwangjin"
+            "sub_region_code":"1121500000_Seoul_Gwangjin",
+            "shorten_url":"https:\/\/me2.do\/GRfqsJDG"
         },
         {
             "index":12,
@@ -202,7 +218,8 @@
             "value_score":68.1476,
             "region":"서울시 광진구",
             "region_code":"Seoul",
-            "sub_region_code":"1121500000_Seoul_Gwangjin"
+            "sub_region_code":"1121500000_Seoul_Gwangjin",
+            "shorten_url":"https:\/\/me2.do\/GRfqsJDG"
         },
         {
             "index":13,
@@ -214,7 +231,8 @@
             "value_score":66.348,
             "region":"서울시 광진구",
             "region_code":"Seoul",
-            "sub_region_code":"1121500000_Seoul_Gwangjin"
+            "sub_region_code":"1121500000_Seoul_Gwangjin",
+            "shorten_url":"https:\/\/me2.do\/GRfqsJDG"
         },
         {
             "index":14,
@@ -226,7 +244,8 @@
             "value_score":66.3286,
             "region":"서울시 광진구",
             "region_code":"Seoul",
-            "sub_region_code":"1121500000_Seoul_Gwangjin"
+            "sub_region_code":"1121500000_Seoul_Gwangjin",
+            "shorten_url":"https:\/\/me2.do\/GRfqsJDG"
         },
         {
             "index":15,
@@ -238,7 +257,8 @@
             "value_score":65.9476,
             "region":"서울시 광진구",
             "region_code":"Seoul",
-            "sub_region_code":"1121500000_Seoul_Gwangjin"
+            "sub_region_code":"1121500000_Seoul_Gwangjin",
+            "shorten_url":"https:\/\/me2.do\/GRfqsJDG"
         },
         {
             "index":16,
@@ -250,7 +270,8 @@
             "value_score":62.2978,
             "region":"서울시 광진구",
             "region_code":"Seoul",
-            "sub_region_code":"1121500000_Seoul_Gwangjin"
+            "sub_region_code":"1121500000_Seoul_Gwangjin",
+            "shorten_url":"https:\/\/me2.do\/GRfqsJDG"
         },
         {
             "index":17,
@@ -262,7 +283,8 @@
             "value_score":60.132,
             "region":"서울시 광진구",
             "region_code":"Seoul",
-            "sub_region_code":"1121500000_Seoul_Gwangjin"
+            "sub_region_code":"1121500000_Seoul_Gwangjin",
+            "shorten_url":"https:\/\/me2.do\/GRfqsJDG"
         },
         {
             "index":18,
@@ -274,7 +296,8 @@
             "value_score":59.798,
             "region":"서울시 광진구",
             "region_code":"Seoul",
-            "sub_region_code":"1121500000_Seoul_Gwangjin"
+            "sub_region_code":"1121500000_Seoul_Gwangjin",
+            "shorten_url":"https:\/\/me2.do\/GRfqsJDG"
         },
         {
             "index":19,
@@ -286,7 +309,8 @@
             "value_score":58.5976,
             "region":"서울시 광진구",
             "region_code":"Seoul",
-            "sub_region_code":"1121500000_Seoul_Gwangjin"
+            "sub_region_code":"1121500000_Seoul_Gwangjin",
+            "shorten_url":"https:\/\/me2.do\/GRfqsJDG"
         },
         {
             "index":20,
@@ -298,7 +322,8 @@
             "value_score":77.6107,
             "region":"서울시 광진구",
             "region_code":"Seoul",
-            "sub_region_code":"1121500000_Seoul_Gwangjin"
+            "sub_region_code":"1121500000_Seoul_Gwangjin",
+            "shorten_url":"https:\/\/me2.do\/GRfqsJDG"
         },
         {
             "index":21,
@@ -310,7 +335,8 @@
             "value_score":76.1865,
             "region":"서울시 광진구",
             "region_code":"Seoul",
-            "sub_region_code":"1121500000_Seoul_Gwangjin"
+            "sub_region_code":"1121500000_Seoul_Gwangjin",
+            "shorten_url":"https:\/\/me2.do\/GRfqsJDG"
         },
         {
             "index":22,
@@ -322,7 +348,8 @@
             "value_score":75.0865,
             "region":"서울시 광진구",
             "region_code":"Seoul",
-            "sub_region_code":"1121500000_Seoul_Gwangjin"
+            "sub_region_code":"1121500000_Seoul_Gwangjin",
+            "shorten_url":"https:\/\/me2.do\/GRfqsJDG"
         },
         {
             "index":23,
@@ -334,7 +361,8 @@
             "value_score":74.661,
             "region":"서울시 광진구",
             "region_code":"Seoul",
-            "sub_region_code":"1121500000_Seoul_Gwangjin"
+            "sub_region_code":"1121500000_Seoul_Gwangjin",
+            "shorten_url":"https:\/\/me2.do\/GRfqsJDG"
         },
         {
             "index":24,
@@ -346,7 +374,8 @@
             "value_score":74.1857,
             "region":"서울시 광진구",
             "region_code":"Seoul",
-            "sub_region_code":"1121500000_Seoul_Gwangjin"
+            "sub_region_code":"1121500000_Seoul_Gwangjin",
+            "shorten_url":"https:\/\/me2.do\/GRfqsJDG"
         },
         {
             "index":25,
@@ -358,7 +387,8 @@
             "value_score":73.8107,
             "region":"서울시 광진구",
             "region_code":"Seoul",
-            "sub_region_code":"1121500000_Seoul_Gwangjin"
+            "sub_region_code":"1121500000_Seoul_Gwangjin",
+            "shorten_url":"https:\/\/me2.do\/GRfqsJDG"
         },
         {
             "index":26,
@@ -370,7 +400,8 @@
             "value_score":73.3357,
             "region":"서울시 광진구",
             "region_code":"Seoul",
-            "sub_region_code":"1121500000_Seoul_Gwangjin"
+            "sub_region_code":"1121500000_Seoul_Gwangjin",
+            "shorten_url":"https:\/\/me2.do\/GRfqsJDG"
         },
         {
             "index":27,
@@ -382,7 +413,8 @@
             "value_score":72.62965,
             "region":"서울시 광진구",
             "region_code":"Seoul",
-            "sub_region_code":"1121500000_Seoul_Gwangjin"
+            "sub_region_code":"1121500000_Seoul_Gwangjin",
+            "shorten_url":"https:\/\/me2.do\/GRfqsJDG"
         },
         {
             "index":28,
@@ -394,7 +426,8 @@
             "value_score":71.4809,
             "region":"서울시 광진구",
             "region_code":"Seoul",
-            "sub_region_code":"1121500000_Seoul_Gwangjin"
+            "sub_region_code":"1121500000_Seoul_Gwangjin",
+            "shorten_url":"https:\/\/me2.do\/GRfqsJDG"
         },
         {
             "index":29,
@@ -406,7 +439,8 @@
             "value_score":71.45705,
             "region":"서울시 광진구",
             "region_code":"Seoul",
-            "sub_region_code":"1121500000_Seoul_Gwangjin"
+            "sub_region_code":"1121500000_Seoul_Gwangjin",
+            "shorten_url":"https:\/\/me2.do\/GRfqsJDG"
         },
         {
             "index":30,
@@ -418,7 +452,8 @@
             "value_score":76.0845,
             "region":"서울시 광진구",
             "region_code":"Seoul",
-            "sub_region_code":"1121500000_Seoul_Gwangjin"
+            "sub_region_code":"1121500000_Seoul_Gwangjin",
+            "shorten_url":"https:\/\/me2.do\/GRfqsJDG"
         },
         {
             "index":31,
@@ -430,7 +465,8 @@
             "value_score":74.5525,
             "region":"서울시 광진구",
             "region_code":"Seoul",
-            "sub_region_code":"1121500000_Seoul_Gwangjin"
+            "sub_region_code":"1121500000_Seoul_Gwangjin",
+            "shorten_url":"https:\/\/me2.do\/GRfqsJDG"
         },
         {
             "index":32,
@@ -442,7 +478,8 @@
             "value_score":73.51,
             "region":"서울시 광진구",
             "region_code":"Seoul",
-            "sub_region_code":"1121500000_Seoul_Gwangjin"
+            "sub_region_code":"1121500000_Seoul_Gwangjin",
+            "shorten_url":"https:\/\/me2.do\/GRfqsJDG"
         },
         {
             "index":33,
@@ -454,7 +491,8 @@
             "value_score":72.6845,
             "region":"서울시 광진구",
             "region_code":"Seoul",
-            "sub_region_code":"1121500000_Seoul_Gwangjin"
+            "sub_region_code":"1121500000_Seoul_Gwangjin",
+            "shorten_url":"https:\/\/me2.do\/GRfqsJDG"
         },
         {
             "index":34,
@@ -466,7 +504,8 @@
             "value_score":72.3345,
             "region":"서울시 광진구",
             "region_code":"Seoul",
-            "sub_region_code":"1121500000_Seoul_Gwangjin"
+            "sub_region_code":"1121500000_Seoul_Gwangjin",
+            "shorten_url":"https:\/\/me2.do\/GRfqsJDG"
         },
         {
             "index":35,
@@ -478,7 +517,8 @@
             "value_score":72.0845,
             "region":"서울시 광진구",
             "region_code":"Seoul",
-            "sub_region_code":"1121500000_Seoul_Gwangjin"
+            "sub_region_code":"1121500000_Seoul_Gwangjin",
+            "shorten_url":"https:\/\/me2.do\/GRfqsJDG"
         },
         {
             "index":36,
@@ -490,7 +530,8 @@
             "value_score":71.5345,
             "region":"서울시 광진구",
             "region_code":"Seoul",
-            "sub_region_code":"1121500000_Seoul_Gwangjin"
+            "sub_region_code":"1121500000_Seoul_Gwangjin",
+            "shorten_url":"https:\/\/me2.do\/GRfqsJDG"
         },
         {
             "index":37,
@@ -502,7 +543,8 @@
             "value_score":70.7025,
             "region":"서울시 광진구",
             "region_code":"Seoul",
-            "sub_region_code":"1121500000_Seoul_Gwangjin"
+            "sub_region_code":"1121500000_Seoul_Gwangjin",
+            "shorten_url":"https:\/\/me2.do\/GRfqsJDG"
         },
         {
             "index":38,
@@ -514,7 +556,8 @@
             "value_score":69.5525,
             "region":"서울시 광진구",
             "region_code":"Seoul",
-            "sub_region_code":"1121500000_Seoul_Gwangjin"
+            "sub_region_code":"1121500000_Seoul_Gwangjin",
+            "shorten_url":"https:\/\/me2.do\/GRfqsJDG"
         },
         {
             "index":39,
@@ -526,7 +569,8 @@
             "value_score":69.1845,
             "region":"서울시 광진구",
             "region_code":"Seoul",
-            "sub_region_code":"1121500000_Seoul_Gwangjin"
+            "sub_region_code":"1121500000_Seoul_Gwangjin",
+            "shorten_url":"https:\/\/me2.do\/GRfqsJDG"
         },
         {
             "index":40,
@@ -538,7 +582,8 @@
             "value_score":73.769,
             "region":"서울시 광진구",
             "region_code":"Seoul",
-            "sub_region_code":"1121500000_Seoul_Gwangjin"
+            "sub_region_code":"1121500000_Seoul_Gwangjin",
+            "shorten_url":"https:\/\/me2.do\/GRfqsJDG"
         },
         {
             "index":41,
@@ -550,7 +595,8 @@
             "value_score":71.569,
             "region":"서울시 광진구",
             "region_code":"Seoul",
-            "sub_region_code":"1121500000_Seoul_Gwangjin"
+            "sub_region_code":"1121500000_Seoul_Gwangjin",
+            "shorten_url":"https:\/\/me2.do\/GRfqsJDG"
         },
         {
             "index":42,
@@ -562,7 +608,8 @@
             "value_score":69.469,
             "region":"서울시 광진구",
             "region_code":"Seoul",
-            "sub_region_code":"1121500000_Seoul_Gwangjin"
+            "sub_region_code":"1121500000_Seoul_Gwangjin",
+            "shorten_url":"https:\/\/me2.do\/GRfqsJDG"
         },
         {
             "index":43,
@@ -574,7 +621,8 @@
             "value_score":69.069,
             "region":"서울시 광진구",
             "region_code":"Seoul",
-            "sub_region_code":"1121500000_Seoul_Gwangjin"
+            "sub_region_code":"1121500000_Seoul_Gwangjin",
+            "shorten_url":"https:\/\/me2.do\/GRfqsJDG"
         },
         {
             "index":44,
@@ -586,7 +634,8 @@
             "value_score":68.305,
             "region":"서울시 광진구",
             "region_code":"Seoul",
-            "sub_region_code":"1121500000_Seoul_Gwangjin"
+            "sub_region_code":"1121500000_Seoul_Gwangjin",
+            "shorten_url":"https:\/\/me2.do\/GRfqsJDG"
         },
         {
             "index":45,
@@ -598,7 +647,8 @@
             "value_score":68.169,
             "region":"서울시 광진구",
             "region_code":"Seoul",
-            "sub_region_code":"1121500000_Seoul_Gwangjin"
+            "sub_region_code":"1121500000_Seoul_Gwangjin",
+            "shorten_url":"https:\/\/me2.do\/GRfqsJDG"
         },
         {
             "index":46,
@@ -610,7 +660,8 @@
             "value_score":67.82,
             "region":"서울시 광진구",
             "region_code":"Seoul",
-            "sub_region_code":"1121500000_Seoul_Gwangjin"
+            "sub_region_code":"1121500000_Seoul_Gwangjin",
+            "shorten_url":"https:\/\/me2.do\/GRfqsJDG"
         },
         {
             "index":47,
@@ -622,7 +673,8 @@
             "value_score":67.369,
             "region":"서울시 광진구",
             "region_code":"Seoul",
-            "sub_region_code":"1121500000_Seoul_Gwangjin"
+            "sub_region_code":"1121500000_Seoul_Gwangjin",
+            "shorten_url":"https:\/\/me2.do\/GRfqsJDG"
         },
         {
             "index":48,
@@ -634,7 +686,8 @@
             "value_score":66.949,
             "region":"서울시 광진구",
             "region_code":"Seoul",
-            "sub_region_code":"1121500000_Seoul_Gwangjin"
+            "sub_region_code":"1121500000_Seoul_Gwangjin",
+            "shorten_url":"https:\/\/me2.do\/GRfqsJDG"
         },
         {
             "index":49,
@@ -646,7 +699,8 @@
             "value_score":65.949,
             "region":"서울시 광진구",
             "region_code":"Seoul",
-            "sub_region_code":"1121500000_Seoul_Gwangjin"
+            "sub_region_code":"1121500000_Seoul_Gwangjin",
+            "shorten_url":"https:\/\/me2.do\/GRfqsJDG"
         }
     ]
 }

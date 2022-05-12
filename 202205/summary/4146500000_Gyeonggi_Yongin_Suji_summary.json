@@ -40,6 +40,10 @@
             {
                 "name":"sub_region_code",
                 "type":"string"
+            },
+            {
+                "name":"shorten_url",
+                "type":"string"
             }
         ],
         "primaryKey":[
@@ -58,7 +62,8 @@
             "value_score":81.7313,
             "region":"경기도 용인시 수지구",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4146500000_Gyeonggi_Yongin_Suji"
+            "sub_region_code":"4146500000_Gyeonggi_Yongin_Suji",
+            "shorten_url":"https:\/\/me2.do\/xNoXKa0C"
         },
         {
             "index":1,
@@ -70,7 +75,8 @@
             "value_score":81.522,
             "region":"경기도 용인시 수지구",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4146500000_Gyeonggi_Yongin_Suji"
+            "sub_region_code":"4146500000_Gyeonggi_Yongin_Suji",
+            "shorten_url":"https:\/\/me2.do\/xNoXKa0C"
         },
         {
             "index":2,
@@ -82,7 +88,8 @@
             "value_score":81.122,
             "region":"경기도 용인시 수지구",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4146500000_Gyeonggi_Yongin_Suji"
+            "sub_region_code":"4146500000_Gyeonggi_Yongin_Suji",
+            "shorten_url":"https:\/\/me2.do\/xNoXKa0C"
         },
         {
             "index":3,
@@ -94,7 +101,8 @@
             "value_score":81.0313,
             "region":"경기도 용인시 수지구",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4146500000_Gyeonggi_Yongin_Suji"
+            "sub_region_code":"4146500000_Gyeonggi_Yongin_Suji",
+            "shorten_url":"https:\/\/me2.do\/xNoXKa0C"
         },
         {
             "index":4,
@@ -106,7 +114,8 @@
             "value_score":76.222,
             "region":"경기도 용인시 수지구",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4146500000_Gyeonggi_Yongin_Suji"
+            "sub_region_code":"4146500000_Gyeonggi_Yongin_Suji",
+            "shorten_url":"https:\/\/me2.do\/xNoXKa0C"
         },
         {
             "index":5,
@@ -118,7 +127,8 @@
             "value_score":74.25055,
             "region":"경기도 용인시 수지구",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4146500000_Gyeonggi_Yongin_Suji"
+            "sub_region_code":"4146500000_Gyeonggi_Yongin_Suji",
+            "shorten_url":"https:\/\/me2.do\/xNoXKa0C"
         },
         {
             "index":6,
@@ -130,7 +140,8 @@
             "value_score":73.45055,
             "region":"경기도 용인시 수지구",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4146500000_Gyeonggi_Yongin_Suji"
+            "sub_region_code":"4146500000_Gyeonggi_Yongin_Suji",
+            "shorten_url":"https:\/\/me2.do\/xNoXKa0C"
         },
         {
             "index":7,
@@ -142,7 +153,8 @@
             "value_score":73.28665,
             "region":"경기도 용인시 수지구",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4146500000_Gyeonggi_Yongin_Suji"
+            "sub_region_code":"4146500000_Gyeonggi_Yongin_Suji",
+            "shorten_url":"https:\/\/me2.do\/xNoXKa0C"
         },
         {
             "index":8,
@@ -154,7 +166,8 @@
             "value_score":73.0313,
             "region":"경기도 용인시 수지구",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4146500000_Gyeonggi_Yongin_Suji"
+            "sub_region_code":"4146500000_Gyeonggi_Yongin_Suji",
+            "shorten_url":"https:\/\/me2.do\/xNoXKa0C"
         },
         {
             "index":9,
@@ -166,7 +179,8 @@
             "value_score":72.87715,
             "region":"경기도 용인시 수지구",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4146500000_Gyeonggi_Yongin_Suji"
+            "sub_region_code":"4146500000_Gyeonggi_Yongin_Suji",
+            "shorten_url":"https:\/\/me2.do\/xNoXKa0C"
         },
         {
             "index":10,
@@ -178,7 +192,8 @@
             "value_score":83.1584,
             "region":"경기도 용인시 수지구",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4146500000_Gyeonggi_Yongin_Suji"
+            "sub_region_code":"4146500000_Gyeonggi_Yongin_Suji",
+            "shorten_url":"https:\/\/me2.do\/xNoXKa0C"
         },
         {
             "index":11,
@@ -190,7 +205,8 @@
             "value_score":80.946,
             "region":"경기도 용인시 수지구",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4146500000_Gyeonggi_Yongin_Suji"
+            "sub_region_code":"4146500000_Gyeonggi_Yongin_Suji",
+            "shorten_url":"https:\/\/me2.do\/xNoXKa0C"
         },
         {
             "index":12,
@@ -202,7 +218,8 @@
             "value_score":79.396,
             "region":"경기도 용인시 수지구",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4146500000_Gyeonggi_Yongin_Suji"
+            "sub_region_code":"4146500000_Gyeonggi_Yongin_Suji",
+            "shorten_url":"https:\/\/me2.do\/xNoXKa0C"
         },
         {
             "index":13,
@@ -214,7 +231,8 @@
             "value_score":74.3862,
             "region":"경기도 용인시 수지구",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4146500000_Gyeonggi_Yongin_Suji"
+            "sub_region_code":"4146500000_Gyeonggi_Yongin_Suji",
+            "shorten_url":"https:\/\/me2.do\/xNoXKa0C"
         },
         {
             "index":14,
@@ -226,7 +244,8 @@
             "value_score":74.2522,
             "region":"경기도 용인시 수지구",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4146500000_Gyeonggi_Yongin_Suji"
+            "sub_region_code":"4146500000_Gyeonggi_Yongin_Suji",
+            "shorten_url":"https:\/\/me2.do\/xNoXKa0C"
         },
         {
             "index":15,
@@ -238,7 +257,8 @@
             "value_score":73.746,
             "region":"경기도 용인시 수지구",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4146500000_Gyeonggi_Yongin_Suji"
+            "sub_region_code":"4146500000_Gyeonggi_Yongin_Suji",
+            "shorten_url":"https:\/\/me2.do\/xNoXKa0C"
         },
         {
             "index":16,
@@ -250,7 +270,8 @@
             "value_score":72.575,
             "region":"경기도 용인시 수지구",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4146500000_Gyeonggi_Yongin_Suji"
+            "sub_region_code":"4146500000_Gyeonggi_Yongin_Suji",
+            "shorten_url":"https:\/\/me2.do\/xNoXKa0C"
         },
         {
             "index":17,
@@ -262,7 +283,8 @@
             "value_score":71.6584,
             "region":"경기도 용인시 수지구",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4146500000_Gyeonggi_Yongin_Suji"
+            "sub_region_code":"4146500000_Gyeonggi_Yongin_Suji",
+            "shorten_url":"https:\/\/me2.do\/xNoXKa0C"
         },
         {
             "index":18,
@@ -274,7 +296,8 @@
             "value_score":71.637,
             "region":"경기도 용인시 수지구",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4146500000_Gyeonggi_Yongin_Suji"
+            "sub_region_code":"4146500000_Gyeonggi_Yongin_Suji",
+            "shorten_url":"https:\/\/me2.do\/xNoXKa0C"
         },
         {
             "index":19,
@@ -286,7 +309,8 @@
             "value_score":71.3784,
             "region":"경기도 용인시 수지구",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4146500000_Gyeonggi_Yongin_Suji"
+            "sub_region_code":"4146500000_Gyeonggi_Yongin_Suji",
+            "shorten_url":"https:\/\/me2.do\/xNoXKa0C"
         },
         {
             "index":20,
@@ -298,7 +322,8 @@
             "value_score":82.7563,
             "region":"경기도 용인시 수지구",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4146500000_Gyeonggi_Yongin_Suji"
+            "sub_region_code":"4146500000_Gyeonggi_Yongin_Suji",
+            "shorten_url":"https:\/\/me2.do\/xNoXKa0C"
         },
         {
             "index":21,
@@ -310,7 +335,8 @@
             "value_score":79.9063,
             "region":"경기도 용인시 수지구",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4146500000_Gyeonggi_Yongin_Suji"
+            "sub_region_code":"4146500000_Gyeonggi_Yongin_Suji",
+            "shorten_url":"https:\/\/me2.do\/xNoXKa0C"
         },
         {
             "index":22,
@@ -322,7 +348,8 @@
             "value_score":79.897,
             "region":"경기도 용인시 수지구",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4146500000_Gyeonggi_Yongin_Suji"
+            "sub_region_code":"4146500000_Gyeonggi_Yongin_Suji",
+            "shorten_url":"https:\/\/me2.do\/xNoXKa0C"
         },
         {
             "index":23,
@@ -334,7 +361,8 @@
             "value_score":79.572,
             "region":"경기도 용인시 수지구",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4146500000_Gyeonggi_Yongin_Suji"
+            "sub_region_code":"4146500000_Gyeonggi_Yongin_Suji",
+            "shorten_url":"https:\/\/me2.do\/xNoXKa0C"
         },
         {
             "index":24,
@@ -346,7 +374,8 @@
             "value_score":77.82555,
             "region":"경기도 용인시 수지구",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4146500000_Gyeonggi_Yongin_Suji"
+            "sub_region_code":"4146500000_Gyeonggi_Yongin_Suji",
+            "shorten_url":"https:\/\/me2.do\/xNoXKa0C"
         },
         {
             "index":25,
@@ -358,7 +387,8 @@
             "value_score":76.24665,
             "region":"경기도 용인시 수지구",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4146500000_Gyeonggi_Yongin_Suji"
+            "sub_region_code":"4146500000_Gyeonggi_Yongin_Suji",
+            "shorten_url":"https:\/\/me2.do\/xNoXKa0C"
         },
         {
             "index":26,
@@ -370,7 +400,8 @@
             "value_score":76.197,
             "region":"경기도 용인시 수지구",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4146500000_Gyeonggi_Yongin_Suji"
+            "sub_region_code":"4146500000_Gyeonggi_Yongin_Suji",
+            "shorten_url":"https:\/\/me2.do\/xNoXKa0C"
         },
         {
             "index":27,
@@ -382,7 +413,8 @@
             "value_score":75.85055,
             "region":"경기도 용인시 수지구",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4146500000_Gyeonggi_Yongin_Suji"
+            "sub_region_code":"4146500000_Gyeonggi_Yongin_Suji",
+            "shorten_url":"https:\/\/me2.do\/xNoXKa0C"
         },
         {
             "index":28,
@@ -394,7 +426,8 @@
             "value_score":75.51545,
             "region":"경기도 용인시 수지구",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4146500000_Gyeonggi_Yongin_Suji"
+            "sub_region_code":"4146500000_Gyeonggi_Yongin_Suji",
+            "shorten_url":"https:\/\/me2.do\/xNoXKa0C"
         },
         {
             "index":29,
@@ -406,7 +439,8 @@
             "value_score":74.4788,
             "region":"경기도 용인시 수지구",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4146500000_Gyeonggi_Yongin_Suji"
+            "sub_region_code":"4146500000_Gyeonggi_Yongin_Suji",
+            "shorten_url":"https:\/\/me2.do\/xNoXKa0C"
         },
         {
             "index":30,
@@ -418,7 +452,8 @@
             "value_score":82.97,
             "region":"경기도 용인시 수지구",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4146500000_Gyeonggi_Yongin_Suji"
+            "sub_region_code":"4146500000_Gyeonggi_Yongin_Suji",
+            "shorten_url":"https:\/\/me2.do\/xNoXKa0C"
         },
         {
             "index":31,
@@ -430,7 +465,8 @@
             "value_score":82.82,
             "region":"경기도 용인시 수지구",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4146500000_Gyeonggi_Yongin_Suji"
+            "sub_region_code":"4146500000_Gyeonggi_Yongin_Suji",
+            "shorten_url":"https:\/\/me2.do\/xNoXKa0C"
         },
         {
             "index":32,
@@ -442,7 +478,8 @@
             "value_score":81.9355,
             "region":"경기도 용인시 수지구",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4146500000_Gyeonggi_Yongin_Suji"
+            "sub_region_code":"4146500000_Gyeonggi_Yongin_Suji",
+            "shorten_url":"https:\/\/me2.do\/xNoXKa0C"
         },
         {
             "index":33,
@@ -454,7 +491,8 @@
             "value_score":81.5355,
             "region":"경기도 용인시 수지구",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4146500000_Gyeonggi_Yongin_Suji"
+            "sub_region_code":"4146500000_Gyeonggi_Yongin_Suji",
+            "shorten_url":"https:\/\/me2.do\/xNoXKa0C"
         },
         {
             "index":34,
@@ -466,7 +504,8 @@
             "value_score":77.998,
             "region":"경기도 용인시 수지구",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4146500000_Gyeonggi_Yongin_Suji"
+            "sub_region_code":"4146500000_Gyeonggi_Yongin_Suji",
+            "shorten_url":"https:\/\/me2.do\/xNoXKa0C"
         },
         {
             "index":35,
@@ -478,7 +517,8 @@
             "value_score":77.298,
             "region":"경기도 용인시 수지구",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4146500000_Gyeonggi_Yongin_Suji"
+            "sub_region_code":"4146500000_Gyeonggi_Yongin_Suji",
+            "shorten_url":"https:\/\/me2.do\/xNoXKa0C"
         },
         {
             "index":36,
@@ -490,7 +530,8 @@
             "value_score":77.1855,
             "region":"경기도 용인시 수지구",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4146500000_Gyeonggi_Yongin_Suji"
+            "sub_region_code":"4146500000_Gyeonggi_Yongin_Suji",
+            "shorten_url":"https:\/\/me2.do\/xNoXKa0C"
         },
         {
             "index":37,
@@ -502,7 +543,8 @@
             "value_score":77.1815,
             "region":"경기도 용인시 수지구",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4146500000_Gyeonggi_Yongin_Suji"
+            "sub_region_code":"4146500000_Gyeonggi_Yongin_Suji",
+            "shorten_url":"https:\/\/me2.do\/xNoXKa0C"
         },
         {
             "index":38,
@@ -514,7 +556,8 @@
             "value_score":76.32,
             "region":"경기도 용인시 수지구",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4146500000_Gyeonggi_Yongin_Suji"
+            "sub_region_code":"4146500000_Gyeonggi_Yongin_Suji",
+            "shorten_url":"https:\/\/me2.do\/xNoXKa0C"
         },
         {
             "index":39,
@@ -526,7 +569,8 @@
             "value_score":76.198,
             "region":"경기도 용인시 수지구",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4146500000_Gyeonggi_Yongin_Suji"
+            "sub_region_code":"4146500000_Gyeonggi_Yongin_Suji",
+            "shorten_url":"https:\/\/me2.do\/xNoXKa0C"
         },
         {
             "index":40,
@@ -538,7 +582,8 @@
             "value_score":76.44,
             "region":"경기도 용인시 수지구",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4146500000_Gyeonggi_Yongin_Suji"
+            "sub_region_code":"4146500000_Gyeonggi_Yongin_Suji",
+            "shorten_url":"https:\/\/me2.do\/xNoXKa0C"
         },
         {
             "index":41,
@@ -550,7 +595,8 @@
             "value_score":75.94,
             "region":"경기도 용인시 수지구",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4146500000_Gyeonggi_Yongin_Suji"
+            "sub_region_code":"4146500000_Gyeonggi_Yongin_Suji",
+            "shorten_url":"https:\/\/me2.do\/xNoXKa0C"
         },
         {
             "index":42,
@@ -562,7 +608,8 @@
             "value_score":75.871,
             "region":"경기도 용인시 수지구",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4146500000_Gyeonggi_Yongin_Suji"
+            "sub_region_code":"4146500000_Gyeonggi_Yongin_Suji",
+            "shorten_url":"https:\/\/me2.do\/xNoXKa0C"
         },
         {
             "index":43,
@@ -574,7 +621,8 @@
             "value_score":75.071,
             "region":"경기도 용인시 수지구",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4146500000_Gyeonggi_Yongin_Suji"
+            "sub_region_code":"4146500000_Gyeonggi_Yongin_Suji",
+            "shorten_url":"https:\/\/me2.do\/xNoXKa0C"
         },
         {
             "index":44,
@@ -586,7 +634,8 @@
             "value_score":72.563,
             "region":"경기도 용인시 수지구",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4146500000_Gyeonggi_Yongin_Suji"
+            "sub_region_code":"4146500000_Gyeonggi_Yongin_Suji",
+            "shorten_url":"https:\/\/me2.do\/xNoXKa0C"
         },
         {
             "index":45,
@@ -598,7 +647,8 @@
             "value_score":72.24,
             "region":"경기도 용인시 수지구",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4146500000_Gyeonggi_Yongin_Suji"
+            "sub_region_code":"4146500000_Gyeonggi_Yongin_Suji",
+            "shorten_url":"https:\/\/me2.do\/xNoXKa0C"
         },
         {
             "index":46,
@@ -610,7 +660,8 @@
             "value_score":71.063,
             "region":"경기도 용인시 수지구",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4146500000_Gyeonggi_Yongin_Suji"
+            "sub_region_code":"4146500000_Gyeonggi_Yongin_Suji",
+            "shorten_url":"https:\/\/me2.do\/xNoXKa0C"
         },
         {
             "index":47,
@@ -622,7 +673,8 @@
             "value_score":70.996,
             "region":"경기도 용인시 수지구",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4146500000_Gyeonggi_Yongin_Suji"
+            "sub_region_code":"4146500000_Gyeonggi_Yongin_Suji",
+            "shorten_url":"https:\/\/me2.do\/xNoXKa0C"
         },
         {
             "index":48,
@@ -634,7 +686,8 @@
             "value_score":70.471,
             "region":"경기도 용인시 수지구",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4146500000_Gyeonggi_Yongin_Suji"
+            "sub_region_code":"4146500000_Gyeonggi_Yongin_Suji",
+            "shorten_url":"https:\/\/me2.do\/xNoXKa0C"
         },
         {
             "index":49,
@@ -646,7 +699,8 @@
             "value_score":70.196,
             "region":"경기도 용인시 수지구",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4146500000_Gyeonggi_Yongin_Suji"
+            "sub_region_code":"4146500000_Gyeonggi_Yongin_Suji",
+            "shorten_url":"https:\/\/me2.do\/xNoXKa0C"
         }
     ]
 }

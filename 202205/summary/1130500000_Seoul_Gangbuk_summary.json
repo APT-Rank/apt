@@ -40,6 +40,10 @@
             {
                 "name":"sub_region_code",
                 "type":"string"
+            },
+            {
+                "name":"shorten_url",
+                "type":"string"
             }
         ],
         "primaryKey":[
@@ -58,7 +62,8 @@
             "value_score":63.7942,
             "region":"서울시 강북구",
             "region_code":"Seoul",
-            "sub_region_code":"1130500000_Seoul_Gangbuk"
+            "sub_region_code":"1130500000_Seoul_Gangbuk",
+            "shorten_url":"https:\/\/me2.do\/Ff0oLEMa"
         },
         {
             "index":1,
@@ -70,7 +75,8 @@
             "value_score":63.6442,
             "region":"서울시 강북구",
             "region_code":"Seoul",
-            "sub_region_code":"1130500000_Seoul_Gangbuk"
+            "sub_region_code":"1130500000_Seoul_Gangbuk",
+            "shorten_url":"https:\/\/me2.do\/Ff0oLEMa"
         },
         {
             "index":2,
@@ -82,7 +88,8 @@
             "value_score":62.1574,
             "region":"서울시 강북구",
             "region_code":"Seoul",
-            "sub_region_code":"1130500000_Seoul_Gangbuk"
+            "sub_region_code":"1130500000_Seoul_Gangbuk",
+            "shorten_url":"https:\/\/me2.do\/Ff0oLEMa"
         },
         {
             "index":3,
@@ -94,7 +101,8 @@
             "value_score":61.7074,
             "region":"서울시 강북구",
             "region_code":"Seoul",
-            "sub_region_code":"1130500000_Seoul_Gangbuk"
+            "sub_region_code":"1130500000_Seoul_Gangbuk",
+            "shorten_url":"https:\/\/me2.do\/Ff0oLEMa"
         },
         {
             "index":4,
@@ -106,7 +114,8 @@
             "value_score":61.5527,
             "region":"서울시 강북구",
             "region_code":"Seoul",
-            "sub_region_code":"1130500000_Seoul_Gangbuk"
+            "sub_region_code":"1130500000_Seoul_Gangbuk",
+            "shorten_url":"https:\/\/me2.do\/Ff0oLEMa"
         },
         {
             "index":5,
@@ -118,7 +127,8 @@
             "value_score":60.9264,
             "region":"서울시 강북구",
             "region_code":"Seoul",
-            "sub_region_code":"1130500000_Seoul_Gangbuk"
+            "sub_region_code":"1130500000_Seoul_Gangbuk",
+            "shorten_url":"https:\/\/me2.do\/Ff0oLEMa"
         },
         {
             "index":6,
@@ -130,7 +140,8 @@
             "value_score":60.5527,
             "region":"서울시 강북구",
             "region_code":"Seoul",
-            "sub_region_code":"1130500000_Seoul_Gangbuk"
+            "sub_region_code":"1130500000_Seoul_Gangbuk",
+            "shorten_url":"https:\/\/me2.do\/Ff0oLEMa"
         },
         {
             "index":7,
@@ -142,7 +153,8 @@
             "value_score":60.013,
             "region":"서울시 강북구",
             "region_code":"Seoul",
-            "sub_region_code":"1130500000_Seoul_Gangbuk"
+            "sub_region_code":"1130500000_Seoul_Gangbuk",
+            "shorten_url":"https:\/\/me2.do\/Ff0oLEMa"
         },
         {
             "index":8,
@@ -154,7 +166,8 @@
             "value_score":59.2832,
             "region":"서울시 강북구",
             "region_code":"Seoul",
-            "sub_region_code":"1130500000_Seoul_Gangbuk"
+            "sub_region_code":"1130500000_Seoul_Gangbuk",
+            "shorten_url":"https:\/\/me2.do\/Ff0oLEMa"
         },
         {
             "index":9,
@@ -166,7 +179,8 @@
             "value_score":56.9356,
             "region":"서울시 강북구",
             "region_code":"Seoul",
-            "sub_region_code":"1130500000_Seoul_Gangbuk"
+            "sub_region_code":"1130500000_Seoul_Gangbuk",
+            "shorten_url":"https:\/\/me2.do\/Ff0oLEMa"
         },
         {
             "index":10,
@@ -178,7 +192,8 @@
             "value_score":66.3628,
             "region":"서울시 강북구",
             "region_code":"Seoul",
-            "sub_region_code":"1130500000_Seoul_Gangbuk"
+            "sub_region_code":"1130500000_Seoul_Gangbuk",
+            "shorten_url":"https:\/\/me2.do\/Ff0oLEMa"
         },
         {
             "index":11,
@@ -190,7 +205,8 @@
             "value_score":65.6128,
             "region":"서울시 강북구",
             "region_code":"Seoul",
-            "sub_region_code":"1130500000_Seoul_Gangbuk"
+            "sub_region_code":"1130500000_Seoul_Gangbuk",
+            "shorten_url":"https:\/\/me2.do\/Ff0oLEMa"
         },
         {
             "index":12,
@@ -202,7 +218,8 @@
             "value_score":65.0176,
             "region":"서울시 강북구",
             "region_code":"Seoul",
-            "sub_region_code":"1130500000_Seoul_Gangbuk"
+            "sub_region_code":"1130500000_Seoul_Gangbuk",
+            "shorten_url":"https:\/\/me2.do\/Ff0oLEMa"
         },
         {
             "index":13,
@@ -214,7 +231,8 @@
             "value_score":64.9716,
             "region":"서울시 강북구",
             "region_code":"Seoul",
-            "sub_region_code":"1130500000_Seoul_Gangbuk"
+            "sub_region_code":"1130500000_Seoul_Gangbuk",
+            "shorten_url":"https:\/\/me2.do\/Ff0oLEMa"
         },
         {
             "index":14,
@@ -226,7 +244,8 @@
             "value_score":64.3404,
             "region":"서울시 강북구",
             "region_code":"Seoul",
-            "sub_region_code":"1130500000_Seoul_Gangbuk"
+            "sub_region_code":"1130500000_Seoul_Gangbuk",
+            "shorten_url":"https:\/\/me2.do\/Ff0oLEMa"
         },
         {
             "index":15,
@@ -238,7 +257,8 @@
             "value_score":63.9216,
             "region":"서울시 강북구",
             "region_code":"Seoul",
-            "sub_region_code":"1130500000_Seoul_Gangbuk"
+            "sub_region_code":"1130500000_Seoul_Gangbuk",
+            "shorten_url":"https:\/\/me2.do\/Ff0oLEMa"
         },
         {
             "index":16,
@@ -250,7 +270,8 @@
             "value_score":63.5488,
             "region":"서울시 강북구",
             "region_code":"Seoul",
-            "sub_region_code":"1130500000_Seoul_Gangbuk"
+            "sub_region_code":"1130500000_Seoul_Gangbuk",
+            "shorten_url":"https:\/\/me2.do\/Ff0oLEMa"
         },
         {
             "index":17,
@@ -262,7 +283,8 @@
             "value_score":60.352,
             "region":"서울시 강북구",
             "region_code":"Seoul",
-            "sub_region_code":"1130500000_Seoul_Gangbuk"
+            "sub_region_code":"1130500000_Seoul_Gangbuk",
+            "shorten_url":"https:\/\/me2.do\/Ff0oLEMa"
         },
         {
             "index":18,
@@ -274,7 +296,8 @@
             "value_score":58.3018,
             "region":"서울시 강북구",
             "region_code":"Seoul",
-            "sub_region_code":"1130500000_Seoul_Gangbuk"
+            "sub_region_code":"1130500000_Seoul_Gangbuk",
+            "shorten_url":"https:\/\/me2.do\/Ff0oLEMa"
         },
         {
             "index":19,
@@ -286,7 +309,8 @@
             "value_score":58.1018,
             "region":"서울시 강북구",
             "region_code":"Seoul",
-            "sub_region_code":"1130500000_Seoul_Gangbuk"
+            "sub_region_code":"1130500000_Seoul_Gangbuk",
+            "shorten_url":"https:\/\/me2.do\/Ff0oLEMa"
         },
         {
             "index":20,
@@ -298,7 +322,8 @@
             "value_score":65.72635,
             "region":"서울시 강북구",
             "region_code":"Seoul",
-            "sub_region_code":"1130500000_Seoul_Gangbuk"
+            "sub_region_code":"1130500000_Seoul_Gangbuk",
+            "shorten_url":"https:\/\/me2.do\/Ff0oLEMa"
         },
         {
             "index":21,
@@ -310,7 +335,8 @@
             "value_score":63.57635,
             "region":"서울시 강북구",
             "region_code":"Seoul",
-            "sub_region_code":"1130500000_Seoul_Gangbuk"
+            "sub_region_code":"1130500000_Seoul_Gangbuk",
+            "shorten_url":"https:\/\/me2.do\/Ff0oLEMa"
         },
         {
             "index":22,
@@ -322,7 +348,8 @@
             "value_score":62.6971,
             "region":"서울시 강북구",
             "region_code":"Seoul",
-            "sub_region_code":"1130500000_Seoul_Gangbuk"
+            "sub_region_code":"1130500000_Seoul_Gangbuk",
+            "shorten_url":"https:\/\/me2.do\/Ff0oLEMa"
         },
         {
             "index":23,
@@ -334,7 +361,8 @@
             "value_score":61.6632,
             "region":"서울시 강북구",
             "region_code":"Seoul",
-            "sub_region_code":"1130500000_Seoul_Gangbuk"
+            "sub_region_code":"1130500000_Seoul_Gangbuk",
+            "shorten_url":"https:\/\/me2.do\/Ff0oLEMa"
         },
         {
             "index":24,
@@ -346,7 +374,8 @@
             "value_score":60.7465,
             "region":"서울시 강북구",
             "region_code":"Seoul",
-            "sub_region_code":"1130500000_Seoul_Gangbuk"
+            "sub_region_code":"1130500000_Seoul_Gangbuk",
+            "shorten_url":"https:\/\/me2.do\/Ff0oLEMa"
         },
         {
             "index":25,
@@ -358,7 +387,8 @@
             "value_score":60.5853,
             "region":"서울시 강북구",
             "region_code":"Seoul",
-            "sub_region_code":"1130500000_Seoul_Gangbuk"
+            "sub_region_code":"1130500000_Seoul_Gangbuk",
+            "shorten_url":"https:\/\/me2.do\/Ff0oLEMa"
         },
         {
             "index":26,
@@ -370,7 +400,8 @@
             "value_score":60.0787,
             "region":"서울시 강북구",
             "region_code":"Seoul",
-            "sub_region_code":"1130500000_Seoul_Gangbuk"
+            "sub_region_code":"1130500000_Seoul_Gangbuk",
+            "shorten_url":"https:\/\/me2.do\/Ff0oLEMa"
         },
         {
             "index":27,
@@ -382,7 +413,8 @@
             "value_score":60.0721,
             "region":"서울시 강북구",
             "region_code":"Seoul",
-            "sub_region_code":"1130500000_Seoul_Gangbuk"
+            "sub_region_code":"1130500000_Seoul_Gangbuk",
+            "shorten_url":"https:\/\/me2.do\/Ff0oLEMa"
         },
         {
             "index":28,
@@ -394,7 +426,8 @@
             "value_score":58.0537,
             "region":"서울시 강북구",
             "region_code":"Seoul",
-            "sub_region_code":"1130500000_Seoul_Gangbuk"
+            "sub_region_code":"1130500000_Seoul_Gangbuk",
+            "shorten_url":"https:\/\/me2.do\/Ff0oLEMa"
         },
         {
             "index":29,
@@ -406,7 +439,8 @@
             "value_score":57.3415,
             "region":"서울시 강북구",
             "region_code":"Seoul",
-            "sub_region_code":"1130500000_Seoul_Gangbuk"
+            "sub_region_code":"1130500000_Seoul_Gangbuk",
+            "shorten_url":"https:\/\/me2.do\/Ff0oLEMa"
         },
         {
             "index":30,
@@ -418,7 +452,8 @@
             "value_score":65.8895,
             "region":"서울시 강북구",
             "region_code":"Seoul",
-            "sub_region_code":"1130500000_Seoul_Gangbuk"
+            "sub_region_code":"1130500000_Seoul_Gangbuk",
+            "shorten_url":"https:\/\/me2.do\/Ff0oLEMa"
         },
         {
             "index":31,
@@ -430,7 +465,8 @@
             "value_score":64.02725,
             "region":"서울시 강북구",
             "region_code":"Seoul",
-            "sub_region_code":"1130500000_Seoul_Gangbuk"
+            "sub_region_code":"1130500000_Seoul_Gangbuk",
+            "shorten_url":"https:\/\/me2.do\/Ff0oLEMa"
         },
         {
             "index":32,
@@ -442,7 +478,8 @@
             "value_score":63.6535,
             "region":"서울시 강북구",
             "region_code":"Seoul",
-            "sub_region_code":"1130500000_Seoul_Gangbuk"
+            "sub_region_code":"1130500000_Seoul_Gangbuk",
+            "shorten_url":"https:\/\/me2.do\/Ff0oLEMa"
         },
         {
             "index":33,
@@ -454,7 +491,8 @@
             "value_score":63.47725,
             "region":"서울시 강북구",
             "region_code":"Seoul",
-            "sub_region_code":"1130500000_Seoul_Gangbuk"
+            "sub_region_code":"1130500000_Seoul_Gangbuk",
+            "shorten_url":"https:\/\/me2.do\/Ff0oLEMa"
         },
         {
             "index":34,
@@ -466,7 +504,8 @@
             "value_score":61.5535,
             "region":"서울시 강북구",
             "region_code":"Seoul",
-            "sub_region_code":"1130500000_Seoul_Gangbuk"
+            "sub_region_code":"1130500000_Seoul_Gangbuk",
+            "shorten_url":"https:\/\/me2.do\/Ff0oLEMa"
         },
         {
             "index":35,
@@ -478,7 +517,8 @@
             "value_score":61.2395,
             "region":"서울시 강북구",
             "region_code":"Seoul",
-            "sub_region_code":"1130500000_Seoul_Gangbuk"
+            "sub_region_code":"1130500000_Seoul_Gangbuk",
+            "shorten_url":"https:\/\/me2.do\/Ff0oLEMa"
         },
         {
             "index":36,
@@ -490,7 +530,8 @@
             "value_score":59.972,
             "region":"서울시 강북구",
             "region_code":"Seoul",
-            "sub_region_code":"1130500000_Seoul_Gangbuk"
+            "sub_region_code":"1130500000_Seoul_Gangbuk",
+            "shorten_url":"https:\/\/me2.do\/Ff0oLEMa"
         },
         {
             "index":37,
@@ -502,7 +543,8 @@
             "value_score":59.5525,
             "region":"서울시 강북구",
             "region_code":"Seoul",
-            "sub_region_code":"1130500000_Seoul_Gangbuk"
+            "sub_region_code":"1130500000_Seoul_Gangbuk",
+            "shorten_url":"https:\/\/me2.do\/Ff0oLEMa"
         },
         {
             "index":38,
@@ -514,7 +556,8 @@
             "value_score":58.1395,
             "region":"서울시 강북구",
             "region_code":"Seoul",
-            "sub_region_code":"1130500000_Seoul_Gangbuk"
+            "sub_region_code":"1130500000_Seoul_Gangbuk",
+            "shorten_url":"https:\/\/me2.do\/Ff0oLEMa"
         },
         {
             "index":39,
@@ -526,7 +569,8 @@
             "value_score":57.936,
             "region":"서울시 강북구",
             "region_code":"Seoul",
-            "sub_region_code":"1130500000_Seoul_Gangbuk"
+            "sub_region_code":"1130500000_Seoul_Gangbuk",
+            "shorten_url":"https:\/\/me2.do\/Ff0oLEMa"
         },
         {
             "index":40,
@@ -538,7 +582,8 @@
             "value_score":63.6545,
             "region":"서울시 강북구",
             "region_code":"Seoul",
-            "sub_region_code":"1130500000_Seoul_Gangbuk"
+            "sub_region_code":"1130500000_Seoul_Gangbuk",
+            "shorten_url":"https:\/\/me2.do\/Ff0oLEMa"
         },
         {
             "index":41,
@@ -550,7 +595,8 @@
             "value_score":63.307,
             "region":"서울시 강북구",
             "region_code":"Seoul",
-            "sub_region_code":"1130500000_Seoul_Gangbuk"
+            "sub_region_code":"1130500000_Seoul_Gangbuk",
+            "shorten_url":"https:\/\/me2.do\/Ff0oLEMa"
         },
         {
             "index":42,
@@ -562,7 +608,8 @@
             "value_score":62.707,
             "region":"서울시 강북구",
             "region_code":"Seoul",
-            "sub_region_code":"1130500000_Seoul_Gangbuk"
+            "sub_region_code":"1130500000_Seoul_Gangbuk",
+            "shorten_url":"https:\/\/me2.do\/Ff0oLEMa"
         },
         {
             "index":43,
@@ -574,7 +621,8 @@
             "value_score":61.779,
             "region":"서울시 강북구",
             "region_code":"Seoul",
-            "sub_region_code":"1130500000_Seoul_Gangbuk"
+            "sub_region_code":"1130500000_Seoul_Gangbuk",
+            "shorten_url":"https:\/\/me2.do\/Ff0oLEMa"
         },
         {
             "index":44,
@@ -586,7 +634,8 @@
             "value_score":60.952,
             "region":"서울시 강북구",
             "region_code":"Seoul",
-            "sub_region_code":"1130500000_Seoul_Gangbuk"
+            "sub_region_code":"1130500000_Seoul_Gangbuk",
+            "shorten_url":"https:\/\/me2.do\/Ff0oLEMa"
         },
         {
             "index":45,
@@ -598,7 +647,8 @@
             "value_score":60.879,
             "region":"서울시 강북구",
             "region_code":"Seoul",
-            "sub_region_code":"1130500000_Seoul_Gangbuk"
+            "sub_region_code":"1130500000_Seoul_Gangbuk",
+            "shorten_url":"https:\/\/me2.do\/Ff0oLEMa"
         },
         {
             "index":46,
@@ -610,7 +660,8 @@
             "value_score":59.3545,
             "region":"서울시 강북구",
             "region_code":"Seoul",
-            "sub_region_code":"1130500000_Seoul_Gangbuk"
+            "sub_region_code":"1130500000_Seoul_Gangbuk",
+            "shorten_url":"https:\/\/me2.do\/Ff0oLEMa"
         },
         {
             "index":47,
@@ -622,7 +673,8 @@
             "value_score":59.185,
             "region":"서울시 강북구",
             "region_code":"Seoul",
-            "sub_region_code":"1130500000_Seoul_Gangbuk"
+            "sub_region_code":"1130500000_Seoul_Gangbuk",
+            "shorten_url":"https:\/\/me2.do\/Ff0oLEMa"
         },
         {
             "index":48,
@@ -634,7 +686,8 @@
             "value_score":56.872,
             "region":"서울시 강북구",
             "region_code":"Seoul",
-            "sub_region_code":"1130500000_Seoul_Gangbuk"
+            "sub_region_code":"1130500000_Seoul_Gangbuk",
+            "shorten_url":"https:\/\/me2.do\/Ff0oLEMa"
         },
         {
             "index":49,
@@ -646,7 +699,8 @@
             "value_score":56.344,
             "region":"서울시 강북구",
             "region_code":"Seoul",
-            "sub_region_code":"1130500000_Seoul_Gangbuk"
+            "sub_region_code":"1130500000_Seoul_Gangbuk",
+            "shorten_url":"https:\/\/me2.do\/Ff0oLEMa"
         }
     ]
 }

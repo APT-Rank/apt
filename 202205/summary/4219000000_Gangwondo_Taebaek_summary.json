@@ -40,6 +40,10 @@
             {
                 "name":"sub_region_code",
                 "type":"string"
+            },
+            {
+                "name":"shorten_url",
+                "type":"string"
             }
         ],
         "primaryKey":[
@@ -58,7 +62,8 @@
             "value_score":40.27085,
             "region":"강원도 태백시",
             "region_code":"Gangwondo",
-            "sub_region_code":"4219000000_Gangwondo_Taebaek"
+            "sub_region_code":"4219000000_Gangwondo_Taebaek",
+            "shorten_url":"https:\/\/me2.do\/52MVpCjW"
         },
         {
             "index":1,
@@ -70,7 +75,8 @@
             "value_score":39.27085,
             "region":"강원도 태백시",
             "region_code":"Gangwondo",
-            "sub_region_code":"4219000000_Gangwondo_Taebaek"
+            "sub_region_code":"4219000000_Gangwondo_Taebaek",
+            "shorten_url":"https:\/\/me2.do\/52MVpCjW"
         },
         {
             "index":2,
@@ -82,7 +88,8 @@
             "value_score":39.18325,
             "region":"강원도 태백시",
             "region_code":"Gangwondo",
-            "sub_region_code":"4219000000_Gangwondo_Taebaek"
+            "sub_region_code":"4219000000_Gangwondo_Taebaek",
+            "shorten_url":"https:\/\/me2.do\/52MVpCjW"
         },
         {
             "index":3,
@@ -94,7 +101,8 @@
             "value_score":37.22085,
             "region":"강원도 태백시",
             "region_code":"Gangwondo",
-            "sub_region_code":"4219000000_Gangwondo_Taebaek"
+            "sub_region_code":"4219000000_Gangwondo_Taebaek",
+            "shorten_url":"https:\/\/me2.do\/52MVpCjW"
         },
         {
             "index":4,
@@ -106,7 +114,8 @@
             "value_score":35.8767,
             "region":"강원도 태백시",
             "region_code":"Gangwondo",
-            "sub_region_code":"4219000000_Gangwondo_Taebaek"
+            "sub_region_code":"4219000000_Gangwondo_Taebaek",
+            "shorten_url":"https:\/\/me2.do\/52MVpCjW"
         },
         {
             "index":5,
@@ -118,7 +127,8 @@
             "value_score":35.62085,
             "region":"강원도 태백시",
             "region_code":"Gangwondo",
-            "sub_region_code":"4219000000_Gangwondo_Taebaek"
+            "sub_region_code":"4219000000_Gangwondo_Taebaek",
+            "shorten_url":"https:\/\/me2.do\/52MVpCjW"
         },
         {
             "index":6,
@@ -130,7 +140,8 @@
             "value_score":34.12085,
             "region":"강원도 태백시",
             "region_code":"Gangwondo",
-            "sub_region_code":"4219000000_Gangwondo_Taebaek"
+            "sub_region_code":"4219000000_Gangwondo_Taebaek",
+            "shorten_url":"https:\/\/me2.do\/52MVpCjW"
         },
         {
             "index":7,
@@ -142,7 +153,8 @@
             "value_score":33.97085,
             "region":"강원도 태백시",
             "region_code":"Gangwondo",
-            "sub_region_code":"4219000000_Gangwondo_Taebaek"
+            "sub_region_code":"4219000000_Gangwondo_Taebaek",
+            "shorten_url":"https:\/\/me2.do\/52MVpCjW"
         },
         {
             "index":8,
@@ -154,7 +166,8 @@
             "value_score":32.13325,
             "region":"강원도 태백시",
             "region_code":"Gangwondo",
-            "sub_region_code":"4219000000_Gangwondo_Taebaek"
+            "sub_region_code":"4219000000_Gangwondo_Taebaek",
+            "shorten_url":"https:\/\/me2.do\/52MVpCjW"
         },
         {
             "index":9,
@@ -166,7 +179,8 @@
             "value_score":31.57085,
             "region":"강원도 태백시",
             "region_code":"Gangwondo",
-            "sub_region_code":"4219000000_Gangwondo_Taebaek"
+            "sub_region_code":"4219000000_Gangwondo_Taebaek",
+            "shorten_url":"https:\/\/me2.do\/52MVpCjW"
         },
         {
             "index":10,
@@ -178,7 +192,8 @@
             "value_score":41.40775,
             "region":"강원도 태백시",
             "region_code":"Gangwondo",
-            "sub_region_code":"4219000000_Gangwondo_Taebaek"
+            "sub_region_code":"4219000000_Gangwondo_Taebaek",
+            "shorten_url":"https:\/\/me2.do\/52MVpCjW"
         },
         {
             "index":11,
@@ -190,7 +205,8 @@
             "value_score":40.12375,
             "region":"강원도 태백시",
             "region_code":"Gangwondo",
-            "sub_region_code":"4219000000_Gangwondo_Taebaek"
+            "sub_region_code":"4219000000_Gangwondo_Taebaek",
+            "shorten_url":"https:\/\/me2.do\/52MVpCjW"
         },
         {
             "index":12,
@@ -202,7 +218,8 @@
             "value_score":40.00775,
             "region":"강원도 태백시",
             "region_code":"Gangwondo",
-            "sub_region_code":"4219000000_Gangwondo_Taebaek"
+            "sub_region_code":"4219000000_Gangwondo_Taebaek",
+            "shorten_url":"https:\/\/me2.do\/52MVpCjW"
         },
         {
             "index":13,
@@ -214,7 +231,8 @@
             "value_score":37.40775,
             "region":"강원도 태백시",
             "region_code":"Gangwondo",
-            "sub_region_code":"4219000000_Gangwondo_Taebaek"
+            "sub_region_code":"4219000000_Gangwondo_Taebaek",
+            "shorten_url":"https:\/\/me2.do\/52MVpCjW"
         },
         {
             "index":14,
@@ -226,7 +244,8 @@
             "value_score":36.3405,
             "region":"강원도 태백시",
             "region_code":"Gangwondo",
-            "sub_region_code":"4219000000_Gangwondo_Taebaek"
+            "sub_region_code":"4219000000_Gangwondo_Taebaek",
+            "shorten_url":"https:\/\/me2.do\/52MVpCjW"
         },
         {
             "index":15,
@@ -238,7 +257,8 @@
             "value_score":35.40775,
             "region":"강원도 태백시",
             "region_code":"Gangwondo",
-            "sub_region_code":"4219000000_Gangwondo_Taebaek"
+            "sub_region_code":"4219000000_Gangwondo_Taebaek",
+            "shorten_url":"https:\/\/me2.do\/52MVpCjW"
         },
         {
             "index":16,
@@ -250,7 +270,8 @@
             "value_score":33.40775,
             "region":"강원도 태백시",
             "region_code":"Gangwondo",
-            "sub_region_code":"4219000000_Gangwondo_Taebaek"
+            "sub_region_code":"4219000000_Gangwondo_Taebaek",
+            "shorten_url":"https:\/\/me2.do\/52MVpCjW"
         },
         {
             "index":17,
@@ -262,7 +283,8 @@
             "value_score":33.25775,
             "region":"강원도 태백시",
             "region_code":"Gangwondo",
-            "sub_region_code":"4219000000_Gangwondo_Taebaek"
+            "sub_region_code":"4219000000_Gangwondo_Taebaek",
+            "shorten_url":"https:\/\/me2.do\/52MVpCjW"
         },
         {
             "index":18,
@@ -274,7 +296,8 @@
             "value_score":32.27375,
             "region":"강원도 태백시",
             "region_code":"Gangwondo",
-            "sub_region_code":"4219000000_Gangwondo_Taebaek"
+            "sub_region_code":"4219000000_Gangwondo_Taebaek",
+            "shorten_url":"https:\/\/me2.do\/52MVpCjW"
         },
         {
             "index":19,
@@ -286,7 +309,8 @@
             "value_score":30.15775,
             "region":"강원도 태백시",
             "region_code":"Gangwondo",
-            "sub_region_code":"4219000000_Gangwondo_Taebaek"
+            "sub_region_code":"4219000000_Gangwondo_Taebaek",
+            "shorten_url":"https:\/\/me2.do\/52MVpCjW"
         },
         {
             "index":20,
@@ -298,7 +322,8 @@
             "value_score":33.9510526316,
             "region":"강원도 태백시",
             "region_code":"Gangwondo",
-            "sub_region_code":"4219000000_Gangwondo_Taebaek"
+            "sub_region_code":"4219000000_Gangwondo_Taebaek",
+            "shorten_url":"https:\/\/me2.do\/52MVpCjW"
         },
         {
             "index":21,
@@ -310,7 +335,8 @@
             "value_score":31.1466315789,
             "region":"강원도 태백시",
             "region_code":"Gangwondo",
-            "sub_region_code":"4219000000_Gangwondo_Taebaek"
+            "sub_region_code":"4219000000_Gangwondo_Taebaek",
+            "shorten_url":"https:\/\/me2.do\/52MVpCjW"
         },
         {
             "index":22,
@@ -322,7 +348,8 @@
             "value_score":31.1466315789,
             "region":"강원도 태백시",
             "region_code":"Gangwondo",
-            "sub_region_code":"4219000000_Gangwondo_Taebaek"
+            "sub_region_code":"4219000000_Gangwondo_Taebaek",
+            "shorten_url":"https:\/\/me2.do\/52MVpCjW"
         },
         {
             "index":23,
@@ -334,7 +361,8 @@
             "value_score":30.5150526316,
             "region":"강원도 태백시",
             "region_code":"Gangwondo",
-            "sub_region_code":"4219000000_Gangwondo_Taebaek"
+            "sub_region_code":"4219000000_Gangwondo_Taebaek",
+            "shorten_url":"https:\/\/me2.do\/52MVpCjW"
         },
         {
             "index":24,
@@ -346,7 +374,8 @@
             "value_score":29.9624210526,
             "region":"강원도 태백시",
             "region_code":"Gangwondo",
-            "sub_region_code":"4219000000_Gangwondo_Taebaek"
+            "sub_region_code":"4219000000_Gangwondo_Taebaek",
+            "shorten_url":"https:\/\/me2.do\/52MVpCjW"
         },
         {
             "index":25,
@@ -358,7 +387,8 @@
             "value_score":29.8834736842,
             "region":"강원도 태백시",
             "region_code":"Gangwondo",
-            "sub_region_code":"4219000000_Gangwondo_Taebaek"
+            "sub_region_code":"4219000000_Gangwondo_Taebaek",
+            "shorten_url":"https:\/\/me2.do\/52MVpCjW"
         },
         {
             "index":26,
@@ -370,7 +400,8 @@
             "value_score":29.594,
             "region":"강원도 태백시",
             "region_code":"Gangwondo",
-            "sub_region_code":"4219000000_Gangwondo_Taebaek"
+            "sub_region_code":"4219000000_Gangwondo_Taebaek",
+            "shorten_url":"https:\/\/me2.do\/52MVpCjW"
         },
         {
             "index":27,
@@ -382,7 +413,8 @@
             "value_score":29.5150526316,
             "region":"강원도 태백시",
             "region_code":"Gangwondo",
-            "sub_region_code":"4219000000_Gangwondo_Taebaek"
+            "sub_region_code":"4219000000_Gangwondo_Taebaek",
+            "shorten_url":"https:\/\/me2.do\/52MVpCjW"
         },
         {
             "index":28,
@@ -394,7 +426,8 @@
             "value_score":29.3308421053,
             "region":"강원도 태백시",
             "region_code":"Gangwondo",
-            "sub_region_code":"4219000000_Gangwondo_Taebaek"
+            "sub_region_code":"4219000000_Gangwondo_Taebaek",
+            "shorten_url":"https:\/\/me2.do\/52MVpCjW"
         },
         {
             "index":29,
@@ -406,7 +439,8 @@
             "value_score":29.2782105263,
             "region":"강원도 태백시",
             "region_code":"Gangwondo",
-            "sub_region_code":"4219000000_Gangwondo_Taebaek"
+            "sub_region_code":"4219000000_Gangwondo_Taebaek",
+            "shorten_url":"https:\/\/me2.do\/52MVpCjW"
         },
         {
             "index":30,
@@ -418,7 +452,8 @@
             "value_score":38.5655,
             "region":"강원도 태백시",
             "region_code":"Gangwondo",
-            "sub_region_code":"4219000000_Gangwondo_Taebaek"
+            "sub_region_code":"4219000000_Gangwondo_Taebaek",
+            "shorten_url":"https:\/\/me2.do\/52MVpCjW"
         },
         {
             "index":31,
@@ -430,7 +465,8 @@
             "value_score":38.1655,
             "region":"강원도 태백시",
             "region_code":"Gangwondo",
-            "sub_region_code":"4219000000_Gangwondo_Taebaek"
+            "sub_region_code":"4219000000_Gangwondo_Taebaek",
+            "shorten_url":"https:\/\/me2.do\/52MVpCjW"
         },
         {
             "index":32,
@@ -442,7 +478,8 @@
             "value_score":37.7725,
             "region":"강원도 태백시",
             "region_code":"Gangwondo",
-            "sub_region_code":"4219000000_Gangwondo_Taebaek"
+            "sub_region_code":"4219000000_Gangwondo_Taebaek",
+            "shorten_url":"https:\/\/me2.do\/52MVpCjW"
         },
         {
             "index":33,
@@ -454,7 +491,8 @@
             "value_score":37.0655,
             "region":"강원도 태백시",
             "region_code":"Gangwondo",
-            "sub_region_code":"4219000000_Gangwondo_Taebaek"
+            "sub_region_code":"4219000000_Gangwondo_Taebaek",
+            "shorten_url":"https:\/\/me2.do\/52MVpCjW"
         },
         {
             "index":34,
@@ -466,7 +504,8 @@
             "value_score":37.0655,
             "region":"강원도 태백시",
             "region_code":"Gangwondo",
-            "sub_region_code":"4219000000_Gangwondo_Taebaek"
+            "sub_region_code":"4219000000_Gangwondo_Taebaek",
+            "shorten_url":"https:\/\/me2.do\/52MVpCjW"
         },
         {
             "index":35,
@@ -478,7 +517,8 @@
             "value_score":36.9405,
             "region":"강원도 태백시",
             "region_code":"Gangwondo",
-            "sub_region_code":"4219000000_Gangwondo_Taebaek"
+            "sub_region_code":"4219000000_Gangwondo_Taebaek",
+            "shorten_url":"https:\/\/me2.do\/52MVpCjW"
         },
         {
             "index":36,
@@ -490,7 +530,8 @@
             "value_score":35.9405,
             "region":"강원도 태백시",
             "region_code":"Gangwondo",
-            "sub_region_code":"4219000000_Gangwondo_Taebaek"
+            "sub_region_code":"4219000000_Gangwondo_Taebaek",
+            "shorten_url":"https:\/\/me2.do\/52MVpCjW"
         },
         {
             "index":37,
@@ -502,7 +543,8 @@
             "value_score":35.1905,
             "region":"강원도 태백시",
             "region_code":"Gangwondo",
-            "sub_region_code":"4219000000_Gangwondo_Taebaek"
+            "sub_region_code":"4219000000_Gangwondo_Taebaek",
+            "shorten_url":"https:\/\/me2.do\/52MVpCjW"
         },
         {
             "index":38,
@@ -514,7 +556,8 @@
             "value_score":35.181,
             "region":"강원도 태백시",
             "region_code":"Gangwondo",
-            "sub_region_code":"4219000000_Gangwondo_Taebaek"
+            "sub_region_code":"4219000000_Gangwondo_Taebaek",
+            "shorten_url":"https:\/\/me2.do\/52MVpCjW"
         },
         {
             "index":39,
@@ -526,7 +569,8 @@
             "value_score":35.0405,
             "region":"강원도 태백시",
             "region_code":"Gangwondo",
-            "sub_region_code":"4219000000_Gangwondo_Taebaek"
+            "sub_region_code":"4219000000_Gangwondo_Taebaek",
+            "shorten_url":"https:\/\/me2.do\/52MVpCjW"
         }
     ]
 }

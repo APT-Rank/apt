@@ -40,6 +40,10 @@
             {
                 "name":"sub_region_code",
                 "type":"string"
+            },
+            {
+                "name":"shorten_url",
+                "type":"string"
             }
         ],
         "primaryKey":[
@@ -58,7 +62,8 @@
             "value_score":37.92005,
             "region":"인천시 동구",
             "region_code":"Incheon",
-            "sub_region_code":"2814000000_Incheon_Dong"
+            "sub_region_code":"2814000000_Incheon_Dong",
+            "shorten_url":"https:\/\/me2.do\/GoBER99i"
         },
         {
             "index":1,
@@ -70,7 +75,8 @@
             "value_score":34.37005,
             "region":"인천시 동구",
             "region_code":"Incheon",
-            "sub_region_code":"2814000000_Incheon_Dong"
+            "sub_region_code":"2814000000_Incheon_Dong",
+            "shorten_url":"https:\/\/me2.do\/GoBER99i"
         },
         {
             "index":2,
@@ -82,7 +88,8 @@
             "value_score":33.24995,
             "region":"인천시 동구",
             "region_code":"Incheon",
-            "sub_region_code":"2814000000_Incheon_Dong"
+            "sub_region_code":"2814000000_Incheon_Dong",
+            "shorten_url":"https:\/\/me2.do\/GoBER99i"
         },
         {
             "index":3,
@@ -94,7 +101,8 @@
             "value_score":33.12005,
             "region":"인천시 동구",
             "region_code":"Incheon",
-            "sub_region_code":"2814000000_Incheon_Dong"
+            "sub_region_code":"2814000000_Incheon_Dong",
+            "shorten_url":"https:\/\/me2.do\/GoBER99i"
         },
         {
             "index":4,
@@ -106,7 +114,8 @@
             "value_score":31.32005,
             "region":"인천시 동구",
             "region_code":"Incheon",
-            "sub_region_code":"2814000000_Incheon_Dong"
+            "sub_region_code":"2814000000_Incheon_Dong",
+            "shorten_url":"https:\/\/me2.do\/GoBER99i"
         },
         {
             "index":5,
@@ -118,7 +127,8 @@
             "value_score":30.81515,
             "region":"인천시 동구",
             "region_code":"Incheon",
-            "sub_region_code":"2814000000_Incheon_Dong"
+            "sub_region_code":"2814000000_Incheon_Dong",
+            "shorten_url":"https:\/\/me2.do\/GoBER99i"
         },
         {
             "index":6,
@@ -130,7 +140,8 @@
             "value_score":30.32005,
             "region":"인천시 동구",
             "region_code":"Incheon",
-            "sub_region_code":"2814000000_Incheon_Dong"
+            "sub_region_code":"2814000000_Incheon_Dong",
+            "shorten_url":"https:\/\/me2.do\/GoBER99i"
         },
         {
             "index":7,
@@ -142,7 +153,8 @@
             "value_score":30.12005,
             "region":"인천시 동구",
             "region_code":"Incheon",
-            "sub_region_code":"2814000000_Incheon_Dong"
+            "sub_region_code":"2814000000_Incheon_Dong",
+            "shorten_url":"https:\/\/me2.do\/GoBER99i"
         },
         {
             "index":8,
@@ -154,7 +166,8 @@
             "value_score":29.74995,
             "region":"인천시 동구",
             "region_code":"Incheon",
-            "sub_region_code":"2814000000_Incheon_Dong"
+            "sub_region_code":"2814000000_Incheon_Dong",
+            "shorten_url":"https:\/\/me2.do\/GoBER99i"
         },
         {
             "index":9,
@@ -166,7 +179,8 @@
             "value_score":29.42005,
             "region":"인천시 동구",
             "region_code":"Incheon",
-            "sub_region_code":"2814000000_Incheon_Dong"
+            "sub_region_code":"2814000000_Incheon_Dong",
+            "shorten_url":"https:\/\/me2.do\/GoBER99i"
         },
         {
             "index":10,
@@ -178,7 +192,8 @@
             "value_score":51.9666,
             "region":"인천시 동구",
             "region_code":"Incheon",
-            "sub_region_code":"2814000000_Incheon_Dong"
+            "sub_region_code":"2814000000_Incheon_Dong",
+            "shorten_url":"https:\/\/me2.do\/GoBER99i"
         },
         {
             "index":11,
@@ -190,7 +205,8 @@
             "value_score":51.9434,
             "region":"인천시 동구",
             "region_code":"Incheon",
-            "sub_region_code":"2814000000_Incheon_Dong"
+            "sub_region_code":"2814000000_Incheon_Dong",
+            "shorten_url":"https:\/\/me2.do\/GoBER99i"
         },
         {
             "index":12,
@@ -202,7 +218,8 @@
             "value_score":51.8234,
             "region":"인천시 동구",
             "region_code":"Incheon",
-            "sub_region_code":"2814000000_Incheon_Dong"
+            "sub_region_code":"2814000000_Incheon_Dong",
+            "shorten_url":"https:\/\/me2.do\/GoBER99i"
         },
         {
             "index":13,
@@ -214,7 +231,8 @@
             "value_score":49.3434,
             "region":"인천시 동구",
             "region_code":"Incheon",
-            "sub_region_code":"2814000000_Incheon_Dong"
+            "sub_region_code":"2814000000_Incheon_Dong",
+            "shorten_url":"https:\/\/me2.do\/GoBER99i"
         },
         {
             "index":14,
@@ -226,7 +244,8 @@
             "value_score":47.9666,
             "region":"인천시 동구",
             "region_code":"Incheon",
-            "sub_region_code":"2814000000_Incheon_Dong"
+            "sub_region_code":"2814000000_Incheon_Dong",
+            "shorten_url":"https:\/\/me2.do\/GoBER99i"
         },
         {
             "index":15,
@@ -238,7 +257,8 @@
             "value_score":45.8166,
             "region":"인천시 동구",
             "region_code":"Incheon",
-            "sub_region_code":"2814000000_Incheon_Dong"
+            "sub_region_code":"2814000000_Incheon_Dong",
+            "shorten_url":"https:\/\/me2.do\/GoBER99i"
         },
         {
             "index":16,
@@ -250,7 +270,8 @@
             "value_score":45.4666,
             "region":"인천시 동구",
             "region_code":"Incheon",
-            "sub_region_code":"2814000000_Incheon_Dong"
+            "sub_region_code":"2814000000_Incheon_Dong",
+            "shorten_url":"https:\/\/me2.do\/GoBER99i"
         },
         {
             "index":17,
@@ -262,7 +283,8 @@
             "value_score":39.4434,
             "region":"인천시 동구",
             "region_code":"Incheon",
-            "sub_region_code":"2814000000_Incheon_Dong"
+            "sub_region_code":"2814000000_Incheon_Dong",
+            "shorten_url":"https:\/\/me2.do\/GoBER99i"
         },
         {
             "index":18,
@@ -274,7 +296,8 @@
             "value_score":37.3434,
             "region":"인천시 동구",
             "region_code":"Incheon",
-            "sub_region_code":"2814000000_Incheon_Dong"
+            "sub_region_code":"2814000000_Incheon_Dong",
+            "shorten_url":"https:\/\/me2.do\/GoBER99i"
         },
         {
             "index":19,
@@ -286,7 +309,8 @@
             "value_score":37.0666,
             "region":"인천시 동구",
             "region_code":"Incheon",
-            "sub_region_code":"2814000000_Incheon_Dong"
+            "sub_region_code":"2814000000_Incheon_Dong",
+            "shorten_url":"https:\/\/me2.do\/GoBER99i"
         },
         {
             "index":20,
@@ -298,7 +322,8 @@
             "value_score":38.62005,
             "region":"인천시 동구",
             "region_code":"Incheon",
-            "sub_region_code":"2814000000_Incheon_Dong"
+            "sub_region_code":"2814000000_Incheon_Dong",
+            "shorten_url":"https:\/\/me2.do\/GoBER99i"
         },
         {
             "index":21,
@@ -310,7 +335,8 @@
             "value_score":37.39505,
             "region":"인천시 동구",
             "region_code":"Incheon",
-            "sub_region_code":"2814000000_Incheon_Dong"
+            "sub_region_code":"2814000000_Incheon_Dong",
+            "shorten_url":"https:\/\/me2.do\/GoBER99i"
         },
         {
             "index":22,
@@ -322,7 +348,8 @@
             "value_score":33.79505,
             "region":"인천시 동구",
             "region_code":"Incheon",
-            "sub_region_code":"2814000000_Incheon_Dong"
+            "sub_region_code":"2814000000_Incheon_Dong",
+            "shorten_url":"https:\/\/me2.do\/GoBER99i"
         },
         {
             "index":23,
@@ -334,7 +361,8 @@
             "value_score":32.57495,
             "region":"인천시 동구",
             "region_code":"Incheon",
-            "sub_region_code":"2814000000_Incheon_Dong"
+            "sub_region_code":"2814000000_Incheon_Dong",
+            "shorten_url":"https:\/\/me2.do\/GoBER99i"
         },
         {
             "index":24,
@@ -346,7 +374,8 @@
             "value_score":32.07005,
             "region":"인천시 동구",
             "region_code":"Incheon",
-            "sub_region_code":"2814000000_Incheon_Dong"
+            "sub_region_code":"2814000000_Incheon_Dong",
+            "shorten_url":"https:\/\/me2.do\/GoBER99i"
         },
         {
             "index":25,
@@ -358,7 +387,8 @@
             "value_score":31.76515,
             "region":"인천시 동구",
             "region_code":"Incheon",
-            "sub_region_code":"2814000000_Incheon_Dong"
+            "sub_region_code":"2814000000_Incheon_Dong",
+            "shorten_url":"https:\/\/me2.do\/GoBER99i"
         },
         {
             "index":26,
@@ -370,7 +400,8 @@
             "value_score":30.84505,
             "region":"인천시 동구",
             "region_code":"Incheon",
-            "sub_region_code":"2814000000_Incheon_Dong"
+            "sub_region_code":"2814000000_Incheon_Dong",
+            "shorten_url":"https:\/\/me2.do\/GoBER99i"
         },
         {
             "index":27,
@@ -382,7 +413,8 @@
             "value_score":30.64505,
             "region":"인천시 동구",
             "region_code":"Incheon",
-            "sub_region_code":"2814000000_Incheon_Dong"
+            "sub_region_code":"2814000000_Incheon_Dong",
+            "shorten_url":"https:\/\/me2.do\/GoBER99i"
         },
         {
             "index":28,
@@ -394,7 +426,8 @@
             "value_score":30.64505,
             "region":"인천시 동구",
             "region_code":"Incheon",
-            "sub_region_code":"2814000000_Incheon_Dong"
+            "sub_region_code":"2814000000_Incheon_Dong",
+            "shorten_url":"https:\/\/me2.do\/GoBER99i"
         },
         {
             "index":29,
@@ -406,7 +439,8 @@
             "value_score":30.47005,
             "region":"인천시 동구",
             "region_code":"Incheon",
-            "sub_region_code":"2814000000_Incheon_Dong"
+            "sub_region_code":"2814000000_Incheon_Dong",
+            "shorten_url":"https:\/\/me2.do\/GoBER99i"
         },
         {
             "index":30,
@@ -418,7 +452,8 @@
             "value_score":33.61675,
             "region":"인천시 동구",
             "region_code":"Incheon",
-            "sub_region_code":"2814000000_Incheon_Dong"
+            "sub_region_code":"2814000000_Incheon_Dong",
+            "shorten_url":"https:\/\/me2.do\/GoBER99i"
         },
         {
             "index":31,
@@ -430,7 +465,8 @@
             "value_score":33.51675,
             "region":"인천시 동구",
             "region_code":"Incheon",
-            "sub_region_code":"2814000000_Incheon_Dong"
+            "sub_region_code":"2814000000_Incheon_Dong",
+            "shorten_url":"https:\/\/me2.do\/GoBER99i"
         },
         {
             "index":32,
@@ -442,7 +478,8 @@
             "value_score":31.92525,
             "region":"인천시 동구",
             "region_code":"Incheon",
-            "sub_region_code":"2814000000_Incheon_Dong"
+            "sub_region_code":"2814000000_Incheon_Dong",
+            "shorten_url":"https:\/\/me2.do\/GoBER99i"
         },
         {
             "index":33,
@@ -454,7 +491,8 @@
             "value_score":31.21675,
             "region":"인천시 동구",
             "region_code":"Incheon",
-            "sub_region_code":"2814000000_Incheon_Dong"
+            "sub_region_code":"2814000000_Incheon_Dong",
+            "shorten_url":"https:\/\/me2.do\/GoBER99i"
         },
         {
             "index":34,
@@ -466,7 +504,8 @@
             "value_score":30.2808530719,
             "region":"인천시 동구",
             "region_code":"Incheon",
-            "sub_region_code":"2814000000_Incheon_Dong"
+            "sub_region_code":"2814000000_Incheon_Dong",
+            "shorten_url":"https:\/\/me2.do\/GoBER99i"
         },
         {
             "index":35,
@@ -478,7 +517,8 @@
             "value_score":29.13325,
             "region":"인천시 동구",
             "region_code":"Incheon",
-            "sub_region_code":"2814000000_Incheon_Dong"
+            "sub_region_code":"2814000000_Incheon_Dong",
+            "shorten_url":"https:\/\/me2.do\/GoBER99i"
         },
         {
             "index":36,
@@ -490,7 +530,8 @@
             "value_score":29.11675,
             "region":"인천시 동구",
             "region_code":"Incheon",
-            "sub_region_code":"2814000000_Incheon_Dong"
+            "sub_region_code":"2814000000_Incheon_Dong",
+            "shorten_url":"https:\/\/me2.do\/GoBER99i"
         },
         {
             "index":37,
@@ -502,7 +543,8 @@
             "value_score":28.96675,
             "region":"인천시 동구",
             "region_code":"Incheon",
-            "sub_region_code":"2814000000_Incheon_Dong"
+            "sub_region_code":"2814000000_Incheon_Dong",
+            "shorten_url":"https:\/\/me2.do\/GoBER99i"
         },
         {
             "index":38,
@@ -514,7 +556,8 @@
             "value_score":28.51675,
             "region":"인천시 동구",
             "region_code":"Incheon",
-            "sub_region_code":"2814000000_Incheon_Dong"
+            "sub_region_code":"2814000000_Incheon_Dong",
+            "shorten_url":"https:\/\/me2.do\/GoBER99i"
         },
         {
             "index":39,
@@ -526,7 +569,8 @@
             "value_score":28.41675,
             "region":"인천시 동구",
             "region_code":"Incheon",
-            "sub_region_code":"2814000000_Incheon_Dong"
+            "sub_region_code":"2814000000_Incheon_Dong",
+            "shorten_url":"https:\/\/me2.do\/GoBER99i"
         },
         {
             "index":40,
@@ -538,7 +582,8 @@
             "value_score":43.0335,
             "region":"인천시 동구",
             "region_code":"Incheon",
-            "sub_region_code":"2814000000_Incheon_Dong"
+            "sub_region_code":"2814000000_Incheon_Dong",
+            "shorten_url":"https:\/\/me2.do\/GoBER99i"
         },
         {
             "index":41,
@@ -550,7 +595,8 @@
             "value_score":41.7335,
             "region":"인천시 동구",
             "region_code":"Incheon",
-            "sub_region_code":"2814000000_Incheon_Dong"
+            "sub_region_code":"2814000000_Incheon_Dong",
+            "shorten_url":"https:\/\/me2.do\/GoBER99i"
         },
         {
             "index":42,
@@ -562,7 +608,8 @@
             "value_score":41.6135,
             "region":"인천시 동구",
             "region_code":"Incheon",
-            "sub_region_code":"2814000000_Incheon_Dong"
+            "sub_region_code":"2814000000_Incheon_Dong",
+            "shorten_url":"https:\/\/me2.do\/GoBER99i"
         },
         {
             "index":43,
@@ -574,7 +621,8 @@
             "value_score":41.2665,
             "region":"인천시 동구",
             "region_code":"Incheon",
-            "sub_region_code":"2814000000_Incheon_Dong"
+            "sub_region_code":"2814000000_Incheon_Dong",
+            "shorten_url":"https:\/\/me2.do\/GoBER99i"
         },
         {
             "index":44,
@@ -586,7 +634,8 @@
             "value_score":40.0665,
             "region":"인천시 동구",
             "region_code":"Incheon",
-            "sub_region_code":"2814000000_Incheon_Dong"
+            "sub_region_code":"2814000000_Incheon_Dong",
+            "shorten_url":"https:\/\/me2.do\/GoBER99i"
         },
         {
             "index":45,
@@ -598,7 +647,8 @@
             "value_score":39.6665,
             "region":"인천시 동구",
             "region_code":"Incheon",
-            "sub_region_code":"2814000000_Incheon_Dong"
+            "sub_region_code":"2814000000_Incheon_Dong",
+            "shorten_url":"https:\/\/me2.do\/GoBER99i"
         },
         {
             "index":46,
@@ -610,7 +660,8 @@
             "value_score":38.6665,
             "region":"인천시 동구",
             "region_code":"Incheon",
-            "sub_region_code":"2814000000_Incheon_Dong"
+            "sub_region_code":"2814000000_Incheon_Dong",
+            "shorten_url":"https:\/\/me2.do\/GoBER99i"
         },
         {
             "index":47,
@@ -622,7 +673,8 @@
             "value_score":38.2335,
             "region":"인천시 동구",
             "region_code":"Incheon",
-            "sub_region_code":"2814000000_Incheon_Dong"
+            "sub_region_code":"2814000000_Incheon_Dong",
+            "shorten_url":"https:\/\/me2.do\/GoBER99i"
         },
         {
             "index":48,
@@ -634,7 +686,8 @@
             "value_score":37.3335,
             "region":"인천시 동구",
             "region_code":"Incheon",
-            "sub_region_code":"2814000000_Incheon_Dong"
+            "sub_region_code":"2814000000_Incheon_Dong",
+            "shorten_url":"https:\/\/me2.do\/GoBER99i"
         },
         {
             "index":49,
@@ -646,7 +699,8 @@
             "value_score":36.8335,
             "region":"인천시 동구",
             "region_code":"Incheon",
-            "sub_region_code":"2814000000_Incheon_Dong"
+            "sub_region_code":"2814000000_Incheon_Dong",
+            "shorten_url":"https:\/\/me2.do\/GoBER99i"
         }
     ]
 }

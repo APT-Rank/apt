@@ -40,6 +40,10 @@
             {
                 "name":"sub_region_code",
                 "type":"string"
+            },
+            {
+                "name":"shorten_url",
+                "type":"string"
             }
         ],
         "primaryKey":[
@@ -58,7 +62,8 @@
             "value_score":50.0155,
             "region":"경상남도 밀양시",
             "region_code":"Gyeongsangnamdo",
-            "sub_region_code":"4827000000_Gyeongsangnamdo_Miryang"
+            "sub_region_code":"4827000000_Gyeongsangnamdo_Miryang",
+            "shorten_url":"https:\/\/me2.do\/FyKBSgk7"
         },
         {
             "index":1,
@@ -70,7 +75,8 @@
             "value_score":48.5647,
             "region":"경상남도 밀양시",
             "region_code":"Gyeongsangnamdo",
-            "sub_region_code":"4827000000_Gyeongsangnamdo_Miryang"
+            "sub_region_code":"4827000000_Gyeongsangnamdo_Miryang",
+            "shorten_url":"https:\/\/me2.do\/FyKBSgk7"
         },
         {
             "index":2,
@@ -82,7 +88,8 @@
             "value_score":45.9655,
             "region":"경상남도 밀양시",
             "region_code":"Gyeongsangnamdo",
-            "sub_region_code":"4827000000_Gyeongsangnamdo_Miryang"
+            "sub_region_code":"4827000000_Gyeongsangnamdo_Miryang",
+            "shorten_url":"https:\/\/me2.do\/FyKBSgk7"
         },
         {
             "index":3,
@@ -94,7 +101,8 @@
             "value_score":45.8155,
             "region":"경상남도 밀양시",
             "region_code":"Gyeongsangnamdo",
-            "sub_region_code":"4827000000_Gyeongsangnamdo_Miryang"
+            "sub_region_code":"4827000000_Gyeongsangnamdo_Miryang",
+            "shorten_url":"https:\/\/me2.do\/FyKBSgk7"
         },
         {
             "index":4,
@@ -106,7 +114,8 @@
             "value_score":45.1147,
             "region":"경상남도 밀양시",
             "region_code":"Gyeongsangnamdo",
-            "sub_region_code":"4827000000_Gyeongsangnamdo_Miryang"
+            "sub_region_code":"4827000000_Gyeongsangnamdo_Miryang",
+            "shorten_url":"https:\/\/me2.do\/FyKBSgk7"
         },
         {
             "index":5,
@@ -118,7 +127,8 @@
             "value_score":42.9647,
             "region":"경상남도 밀양시",
             "region_code":"Gyeongsangnamdo",
-            "sub_region_code":"4827000000_Gyeongsangnamdo_Miryang"
+            "sub_region_code":"4827000000_Gyeongsangnamdo_Miryang",
+            "shorten_url":"https:\/\/me2.do\/FyKBSgk7"
         },
         {
             "index":6,
@@ -130,7 +140,8 @@
             "value_score":42.5647,
             "region":"경상남도 밀양시",
             "region_code":"Gyeongsangnamdo",
-            "sub_region_code":"4827000000_Gyeongsangnamdo_Miryang"
+            "sub_region_code":"4827000000_Gyeongsangnamdo_Miryang",
+            "shorten_url":"https:\/\/me2.do\/FyKBSgk7"
         },
         {
             "index":7,
@@ -142,7 +153,8 @@
             "value_score":42.3647,
             "region":"경상남도 밀양시",
             "region_code":"Gyeongsangnamdo",
-            "sub_region_code":"4827000000_Gyeongsangnamdo_Miryang"
+            "sub_region_code":"4827000000_Gyeongsangnamdo_Miryang",
+            "shorten_url":"https:\/\/me2.do\/FyKBSgk7"
         },
         {
             "index":8,
@@ -154,7 +166,8 @@
             "value_score":41.7147,
             "region":"경상남도 밀양시",
             "region_code":"Gyeongsangnamdo",
-            "sub_region_code":"4827000000_Gyeongsangnamdo_Miryang"
+            "sub_region_code":"4827000000_Gyeongsangnamdo_Miryang",
+            "shorten_url":"https:\/\/me2.do\/FyKBSgk7"
         },
         {
             "index":9,
@@ -166,7 +179,8 @@
             "value_score":40.9492,
             "region":"경상남도 밀양시",
             "region_code":"Gyeongsangnamdo",
-            "sub_region_code":"4827000000_Gyeongsangnamdo_Miryang"
+            "sub_region_code":"4827000000_Gyeongsangnamdo_Miryang",
+            "shorten_url":"https:\/\/me2.do\/FyKBSgk7"
         },
         {
             "index":10,
@@ -178,7 +192,8 @@
             "value_score":52.9325,
             "region":"경상남도 밀양시",
             "region_code":"Gyeongsangnamdo",
-            "sub_region_code":"4827000000_Gyeongsangnamdo_Miryang"
+            "sub_region_code":"4827000000_Gyeongsangnamdo_Miryang",
+            "shorten_url":"https:\/\/me2.do\/FyKBSgk7"
         },
         {
             "index":11,
@@ -190,7 +205,8 @@
             "value_score":48.8605,
             "region":"경상남도 밀양시",
             "region_code":"Gyeongsangnamdo",
-            "sub_region_code":"4827000000_Gyeongsangnamdo_Miryang"
+            "sub_region_code":"4827000000_Gyeongsangnamdo_Miryang",
+            "shorten_url":"https:\/\/me2.do\/FyKBSgk7"
         },
         {
             "index":12,
@@ -202,7 +218,8 @@
             "value_score":47.8325,
             "region":"경상남도 밀양시",
             "region_code":"Gyeongsangnamdo",
-            "sub_region_code":"4827000000_Gyeongsangnamdo_Miryang"
+            "sub_region_code":"4827000000_Gyeongsangnamdo_Miryang",
+            "shorten_url":"https:\/\/me2.do\/FyKBSgk7"
         },
         {
             "index":13,
@@ -214,7 +231,8 @@
             "value_score":47.6825,
             "region":"경상남도 밀양시",
             "region_code":"Gyeongsangnamdo",
-            "sub_region_code":"4827000000_Gyeongsangnamdo_Miryang"
+            "sub_region_code":"4827000000_Gyeongsangnamdo_Miryang",
+            "shorten_url":"https:\/\/me2.do\/FyKBSgk7"
         },
         {
             "index":14,
@@ -226,7 +244,8 @@
             "value_score":47.0105,
             "region":"경상남도 밀양시",
             "region_code":"Gyeongsangnamdo",
-            "sub_region_code":"4827000000_Gyeongsangnamdo_Miryang"
+            "sub_region_code":"4827000000_Gyeongsangnamdo_Miryang",
+            "shorten_url":"https:\/\/me2.do\/FyKBSgk7"
         },
         {
             "index":15,
@@ -238,7 +257,8 @@
             "value_score":44.8605,
             "region":"경상남도 밀양시",
             "region_code":"Gyeongsangnamdo",
-            "sub_region_code":"4827000000_Gyeongsangnamdo_Miryang"
+            "sub_region_code":"4827000000_Gyeongsangnamdo_Miryang",
+            "shorten_url":"https:\/\/me2.do\/FyKBSgk7"
         },
         {
             "index":16,
@@ -250,7 +270,8 @@
             "value_score":43.178,
             "region":"경상남도 밀양시",
             "region_code":"Gyeongsangnamdo",
-            "sub_region_code":"4827000000_Gyeongsangnamdo_Miryang"
+            "sub_region_code":"4827000000_Gyeongsangnamdo_Miryang",
+            "shorten_url":"https:\/\/me2.do\/FyKBSgk7"
         },
         {
             "index":17,
@@ -262,7 +283,8 @@
             "value_score":42.5105,
             "region":"경상남도 밀양시",
             "region_code":"Gyeongsangnamdo",
-            "sub_region_code":"4827000000_Gyeongsangnamdo_Miryang"
+            "sub_region_code":"4827000000_Gyeongsangnamdo_Miryang",
+            "shorten_url":"https:\/\/me2.do\/FyKBSgk7"
         },
         {
             "index":18,
@@ -274,7 +296,8 @@
             "value_score":41.8605,
             "region":"경상남도 밀양시",
             "region_code":"Gyeongsangnamdo",
-            "sub_region_code":"4827000000_Gyeongsangnamdo_Miryang"
+            "sub_region_code":"4827000000_Gyeongsangnamdo_Miryang",
+            "shorten_url":"https:\/\/me2.do\/FyKBSgk7"
         },
         {
             "index":19,
@@ -286,7 +309,8 @@
             "value_score":41.3605,
             "region":"경상남도 밀양시",
             "region_code":"Gyeongsangnamdo",
-            "sub_region_code":"4827000000_Gyeongsangnamdo_Miryang"
+            "sub_region_code":"4827000000_Gyeongsangnamdo_Miryang",
+            "shorten_url":"https:\/\/me2.do\/FyKBSgk7"
         },
         {
             "index":20,
@@ -298,7 +322,8 @@
             "value_score":37.2501052632,
             "region":"경상남도 밀양시",
             "region_code":"Gyeongsangnamdo",
-            "sub_region_code":"4827000000_Gyeongsangnamdo_Miryang"
+            "sub_region_code":"4827000000_Gyeongsangnamdo_Miryang",
+            "shorten_url":"https:\/\/me2.do\/FyKBSgk7"
         },
         {
             "index":21,
@@ -310,7 +335,8 @@
             "value_score":36.0658947368,
             "region":"경상남도 밀양시",
             "region_code":"Gyeongsangnamdo",
-            "sub_region_code":"4827000000_Gyeongsangnamdo_Miryang"
+            "sub_region_code":"4827000000_Gyeongsangnamdo_Miryang",
+            "shorten_url":"https:\/\/me2.do\/FyKBSgk7"
         },
         {
             "index":22,
@@ -322,7 +348,8 @@
             "value_score":34.4869473684,
             "region":"경상남도 밀양시",
             "region_code":"Gyeongsangnamdo",
-            "sub_region_code":"4827000000_Gyeongsangnamdo_Miryang"
+            "sub_region_code":"4827000000_Gyeongsangnamdo_Miryang",
+            "shorten_url":"https:\/\/me2.do\/FyKBSgk7"
         },
         {
             "index":23,
@@ -334,7 +361,8 @@
             "value_score":34.1305263158,
             "region":"경상남도 밀양시",
             "region_code":"Gyeongsangnamdo",
-            "sub_region_code":"4827000000_Gyeongsangnamdo_Miryang"
+            "sub_region_code":"4827000000_Gyeongsangnamdo_Miryang",
+            "shorten_url":"https:\/\/me2.do\/FyKBSgk7"
         },
         {
             "index":24,
@@ -346,7 +374,8 @@
             "value_score":33.6974736842,
             "region":"경상남도 밀양시",
             "region_code":"Gyeongsangnamdo",
-            "sub_region_code":"4827000000_Gyeongsangnamdo_Miryang"
+            "sub_region_code":"4827000000_Gyeongsangnamdo_Miryang",
+            "shorten_url":"https:\/\/me2.do\/FyKBSgk7"
         },
         {
             "index":25,
@@ -358,7 +387,8 @@
             "value_score":33.5401052632,
             "region":"경상남도 밀양시",
             "region_code":"Gyeongsangnamdo",
-            "sub_region_code":"4827000000_Gyeongsangnamdo_Miryang"
+            "sub_region_code":"4827000000_Gyeongsangnamdo_Miryang",
+            "shorten_url":"https:\/\/me2.do\/FyKBSgk7"
         },
         {
             "index":26,
@@ -370,7 +400,8 @@
             "value_score":32.7884210526,
             "region":"경상남도 밀양시",
             "region_code":"Gyeongsangnamdo",
-            "sub_region_code":"4827000000_Gyeongsangnamdo_Miryang"
+            "sub_region_code":"4827000000_Gyeongsangnamdo_Miryang",
+            "shorten_url":"https:\/\/me2.do\/FyKBSgk7"
         },
         {
             "index":27,
@@ -382,7 +413,8 @@
             "value_score":32.4726315789,
             "region":"경상남도 밀양시",
             "region_code":"Gyeongsangnamdo",
-            "sub_region_code":"4827000000_Gyeongsangnamdo_Miryang"
+            "sub_region_code":"4827000000_Gyeongsangnamdo_Miryang",
+            "shorten_url":"https:\/\/me2.do\/FyKBSgk7"
         },
         {
             "index":28,
@@ -394,7 +426,8 @@
             "value_score":31.7506315789,
             "region":"경상남도 밀양시",
             "region_code":"Gyeongsangnamdo",
-            "sub_region_code":"4827000000_Gyeongsangnamdo_Miryang"
+            "sub_region_code":"4827000000_Gyeongsangnamdo_Miryang",
+            "shorten_url":"https:\/\/me2.do\/FyKBSgk7"
         },
         {
             "index":29,
@@ -406,7 +439,8 @@
             "value_score":31.4869473684,
             "region":"경상남도 밀양시",
             "region_code":"Gyeongsangnamdo",
-            "sub_region_code":"4827000000_Gyeongsangnamdo_Miryang"
+            "sub_region_code":"4827000000_Gyeongsangnamdo_Miryang",
+            "shorten_url":"https:\/\/me2.do\/FyKBSgk7"
         },
         {
             "index":30,
@@ -418,7 +452,8 @@
             "value_score":48.121,
             "region":"경상남도 밀양시",
             "region_code":"Gyeongsangnamdo",
-            "sub_region_code":"4827000000_Gyeongsangnamdo_Miryang"
+            "sub_region_code":"4827000000_Gyeongsangnamdo_Miryang",
+            "shorten_url":"https:\/\/me2.do\/FyKBSgk7"
         },
         {
             "index":31,
@@ -430,7 +465,8 @@
             "value_score":45.64,
             "region":"경상남도 밀양시",
             "region_code":"Gyeongsangnamdo",
-            "sub_region_code":"4827000000_Gyeongsangnamdo_Miryang"
+            "sub_region_code":"4827000000_Gyeongsangnamdo_Miryang",
+            "shorten_url":"https:\/\/me2.do\/FyKBSgk7"
         },
         {
             "index":32,
@@ -442,7 +478,8 @@
             "value_score":44.371,
             "region":"경상남도 밀양시",
             "region_code":"Gyeongsangnamdo",
-            "sub_region_code":"4827000000_Gyeongsangnamdo_Miryang"
+            "sub_region_code":"4827000000_Gyeongsangnamdo_Miryang",
+            "shorten_url":"https:\/\/me2.do\/FyKBSgk7"
         },
         {
             "index":33,
@@ -454,7 +491,8 @@
             "value_score":43.165,
             "region":"경상남도 밀양시",
             "region_code":"Gyeongsangnamdo",
-            "sub_region_code":"4827000000_Gyeongsangnamdo_Miryang"
+            "sub_region_code":"4827000000_Gyeongsangnamdo_Miryang",
+            "shorten_url":"https:\/\/me2.do\/FyKBSgk7"
         },
         {
             "index":34,
@@ -466,7 +504,8 @@
             "value_score":43.121,
             "region":"경상남도 밀양시",
             "region_code":"Gyeongsangnamdo",
-            "sub_region_code":"4827000000_Gyeongsangnamdo_Miryang"
+            "sub_region_code":"4827000000_Gyeongsangnamdo_Miryang",
+            "shorten_url":"https:\/\/me2.do\/FyKBSgk7"
         },
         {
             "index":35,
@@ -478,7 +517,8 @@
             "value_score":43.015,
             "region":"경상남도 밀양시",
             "region_code":"Gyeongsangnamdo",
-            "sub_region_code":"4827000000_Gyeongsangnamdo_Miryang"
+            "sub_region_code":"4827000000_Gyeongsangnamdo_Miryang",
+            "shorten_url":"https:\/\/me2.do\/FyKBSgk7"
         },
         {
             "index":36,
@@ -490,7 +530,8 @@
             "value_score":42.996,
             "region":"경상남도 밀양시",
             "region_code":"Gyeongsangnamdo",
-            "sub_region_code":"4827000000_Gyeongsangnamdo_Miryang"
+            "sub_region_code":"4827000000_Gyeongsangnamdo_Miryang",
+            "shorten_url":"https:\/\/me2.do\/FyKBSgk7"
         },
         {
             "index":37,
@@ -502,7 +543,8 @@
             "value_score":42.3775,
             "region":"경상남도 밀양시",
             "region_code":"Gyeongsangnamdo",
-            "sub_region_code":"4827000000_Gyeongsangnamdo_Miryang"
+            "sub_region_code":"4827000000_Gyeongsangnamdo_Miryang",
+            "shorten_url":"https:\/\/me2.do\/FyKBSgk7"
         },
         {
             "index":38,
@@ -514,7 +556,8 @@
             "value_score":42.271,
             "region":"경상남도 밀양시",
             "region_code":"Gyeongsangnamdo",
-            "sub_region_code":"4827000000_Gyeongsangnamdo_Miryang"
+            "sub_region_code":"4827000000_Gyeongsangnamdo_Miryang",
+            "shorten_url":"https:\/\/me2.do\/FyKBSgk7"
         },
         {
             "index":39,
@@ -526,7 +569,8 @@
             "value_score":40.746,
             "region":"경상남도 밀양시",
             "region_code":"Gyeongsangnamdo",
-            "sub_region_code":"4827000000_Gyeongsangnamdo_Miryang"
+            "sub_region_code":"4827000000_Gyeongsangnamdo_Miryang",
+            "shorten_url":"https:\/\/me2.do\/FyKBSgk7"
         }
     ]
 }

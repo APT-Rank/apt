@@ -40,6 +40,10 @@
             {
                 "name":"sub_region_code",
                 "type":"string"
+            },
+            {
+                "name":"shorten_url",
+                "type":"string"
             }
         ],
         "primaryKey":[
@@ -58,7 +62,8 @@
             "value_score":68.4853,
             "region":"경기도 고양시 일산동구",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4128500000_Gyeonggi_Goyang_Ilsandong"
+            "sub_region_code":"4128500000_Gyeonggi_Goyang_Ilsandong",
+            "shorten_url":"https:\/\/me2.do\/57Xud0B3"
         },
         {
             "index":1,
@@ -70,7 +75,8 @@
             "value_score":67.4969842232,
             "region":"경기도 고양시 일산동구",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4128500000_Gyeonggi_Goyang_Ilsandong"
+            "sub_region_code":"4128500000_Gyeonggi_Goyang_Ilsandong",
+            "shorten_url":"https:\/\/me2.do\/57Xud0B3"
         },
         {
             "index":2,
@@ -82,7 +88,8 @@
             "value_score":66.341,
             "region":"경기도 고양시 일산동구",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4128500000_Gyeonggi_Goyang_Ilsandong"
+            "sub_region_code":"4128500000_Gyeonggi_Goyang_Ilsandong",
+            "shorten_url":"https:\/\/me2.do\/57Xud0B3"
         },
         {
             "index":3,
@@ -94,7 +101,8 @@
             "value_score":64.47585,
             "region":"경기도 고양시 일산동구",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4128500000_Gyeonggi_Goyang_Ilsandong"
+            "sub_region_code":"4128500000_Gyeonggi_Goyang_Ilsandong",
+            "shorten_url":"https:\/\/me2.do\/57Xud0B3"
         },
         {
             "index":4,
@@ -106,7 +114,8 @@
             "value_score":63.72735,
             "region":"경기도 고양시 일산동구",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4128500000_Gyeonggi_Goyang_Ilsandong"
+            "sub_region_code":"4128500000_Gyeonggi_Goyang_Ilsandong",
+            "shorten_url":"https:\/\/me2.do\/57Xud0B3"
         },
         {
             "index":5,
@@ -118,7 +127,8 @@
             "value_score":63.67735,
             "region":"경기도 고양시 일산동구",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4128500000_Gyeonggi_Goyang_Ilsandong"
+            "sub_region_code":"4128500000_Gyeonggi_Goyang_Ilsandong",
+            "shorten_url":"https:\/\/me2.do\/57Xud0B3"
         },
         {
             "index":6,
@@ -130,7 +140,8 @@
             "value_score":63.67735,
             "region":"경기도 고양시 일산동구",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4128500000_Gyeonggi_Goyang_Ilsandong"
+            "sub_region_code":"4128500000_Gyeonggi_Goyang_Ilsandong",
+            "shorten_url":"https:\/\/me2.do\/57Xud0B3"
         },
         {
             "index":7,
@@ -142,7 +153,8 @@
             "value_score":62.3653,
             "region":"경기도 고양시 일산동구",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4128500000_Gyeonggi_Goyang_Ilsandong"
+            "sub_region_code":"4128500000_Gyeonggi_Goyang_Ilsandong",
+            "shorten_url":"https:\/\/me2.do\/57Xud0B3"
         },
         {
             "index":8,
@@ -154,7 +166,8 @@
             "value_score":62.2368,
             "region":"경기도 고양시 일산동구",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4128500000_Gyeonggi_Goyang_Ilsandong"
+            "sub_region_code":"4128500000_Gyeonggi_Goyang_Ilsandong",
+            "shorten_url":"https:\/\/me2.do\/57Xud0B3"
         },
         {
             "index":9,
@@ -166,7 +179,8 @@
             "value_score":61.92735,
             "region":"경기도 고양시 일산동구",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4128500000_Gyeonggi_Goyang_Ilsandong"
+            "sub_region_code":"4128500000_Gyeonggi_Goyang_Ilsandong",
+            "shorten_url":"https:\/\/me2.do\/57Xud0B3"
         },
         {
             "index":10,
@@ -178,7 +192,8 @@
             "value_score":77.2004,
             "region":"경기도 고양시 일산동구",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4128500000_Gyeonggi_Goyang_Ilsandong"
+            "sub_region_code":"4128500000_Gyeonggi_Goyang_Ilsandong",
+            "shorten_url":"https:\/\/me2.do\/57Xud0B3"
         },
         {
             "index":11,
@@ -190,7 +205,8 @@
             "value_score":74.838,
             "region":"경기도 고양시 일산동구",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4128500000_Gyeonggi_Goyang_Ilsandong"
+            "sub_region_code":"4128500000_Gyeonggi_Goyang_Ilsandong",
+            "shorten_url":"https:\/\/me2.do\/57Xud0B3"
         },
         {
             "index":12,
@@ -202,7 +218,8 @@
             "value_score":74.5318,
             "region":"경기도 고양시 일산동구",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4128500000_Gyeonggi_Goyang_Ilsandong"
+            "sub_region_code":"4128500000_Gyeonggi_Goyang_Ilsandong",
+            "shorten_url":"https:\/\/me2.do\/57Xud0B3"
         },
         {
             "index":13,
@@ -214,7 +231,8 @@
             "value_score":71.588,
             "region":"경기도 고양시 일산동구",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4128500000_Gyeonggi_Goyang_Ilsandong"
+            "sub_region_code":"4128500000_Gyeonggi_Goyang_Ilsandong",
+            "shorten_url":"https:\/\/me2.do\/57Xud0B3"
         },
         {
             "index":14,
@@ -226,7 +244,8 @@
             "value_score":70.8006,
             "region":"경기도 고양시 일산동구",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4128500000_Gyeonggi_Goyang_Ilsandong"
+            "sub_region_code":"4128500000_Gyeonggi_Goyang_Ilsandong",
+            "shorten_url":"https:\/\/me2.do\/57Xud0B3"
         },
         {
             "index":15,
@@ -238,7 +257,8 @@
             "value_score":67.8224,
             "region":"경기도 고양시 일산동구",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4128500000_Gyeonggi_Goyang_Ilsandong"
+            "sub_region_code":"4128500000_Gyeonggi_Goyang_Ilsandong",
+            "shorten_url":"https:\/\/me2.do\/57Xud0B3"
         },
         {
             "index":16,
@@ -250,7 +270,8 @@
             "value_score":66.8959789643,
             "region":"경기도 고양시 일산동구",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4128500000_Gyeonggi_Goyang_Ilsandong"
+            "sub_region_code":"4128500000_Gyeonggi_Goyang_Ilsandong",
+            "shorten_url":"https:\/\/me2.do\/57Xud0B3"
         },
         {
             "index":17,
@@ -262,7 +283,8 @@
             "value_score":66.1122,
             "region":"경기도 고양시 일산동구",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4128500000_Gyeonggi_Goyang_Ilsandong"
+            "sub_region_code":"4128500000_Gyeonggi_Goyang_Ilsandong",
+            "shorten_url":"https:\/\/me2.do\/57Xud0B3"
         },
         {
             "index":18,
@@ -274,7 +296,8 @@
             "value_score":65.538,
             "region":"경기도 고양시 일산동구",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4128500000_Gyeonggi_Goyang_Ilsandong"
+            "sub_region_code":"4128500000_Gyeonggi_Goyang_Ilsandong",
+            "shorten_url":"https:\/\/me2.do\/57Xud0B3"
         },
         {
             "index":19,
@@ -286,7 +309,8 @@
             "value_score":65.3334,
             "region":"경기도 고양시 일산동구",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4128500000_Gyeonggi_Goyang_Ilsandong"
+            "sub_region_code":"4128500000_Gyeonggi_Goyang_Ilsandong",
+            "shorten_url":"https:\/\/me2.do\/57Xud0B3"
         },
         {
             "index":20,
@@ -298,7 +322,8 @@
             "value_score":64.5953,
             "region":"경기도 고양시 일산동구",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4128500000_Gyeonggi_Goyang_Ilsandong"
+            "sub_region_code":"4128500000_Gyeonggi_Goyang_Ilsandong",
+            "shorten_url":"https:\/\/me2.do\/57Xud0B3"
         },
         {
             "index":21,
@@ -310,7 +335,8 @@
             "value_score":63.4469842232,
             "region":"경기도 고양시 일산동구",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4128500000_Gyeonggi_Goyang_Ilsandong"
+            "sub_region_code":"4128500000_Gyeonggi_Goyang_Ilsandong",
+            "shorten_url":"https:\/\/me2.do\/57Xud0B3"
         },
         {
             "index":22,
@@ -322,7 +348,8 @@
             "value_score":63.116,
             "region":"경기도 고양시 일산동구",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4128500000_Gyeonggi_Goyang_Ilsandong"
+            "sub_region_code":"4128500000_Gyeonggi_Goyang_Ilsandong",
+            "shorten_url":"https:\/\/me2.do\/57Xud0B3"
         },
         {
             "index":23,
@@ -334,7 +361,8 @@
             "value_score":62.5718,
             "region":"경기도 고양시 일산동구",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4128500000_Gyeonggi_Goyang_Ilsandong"
+            "sub_region_code":"4128500000_Gyeonggi_Goyang_Ilsandong",
+            "shorten_url":"https:\/\/me2.do\/57Xud0B3"
         },
         {
             "index":24,
@@ -346,7 +374,8 @@
             "value_score":61.50085,
             "region":"경기도 고양시 일산동구",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4128500000_Gyeonggi_Goyang_Ilsandong"
+            "sub_region_code":"4128500000_Gyeonggi_Goyang_Ilsandong",
+            "shorten_url":"https:\/\/me2.do\/57Xud0B3"
         },
         {
             "index":25,
@@ -358,7 +387,8 @@
             "value_score":61.10235,
             "region":"경기도 고양시 일산동구",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4128500000_Gyeonggi_Goyang_Ilsandong"
+            "sub_region_code":"4128500000_Gyeonggi_Goyang_Ilsandong",
+            "shorten_url":"https:\/\/me2.do\/57Xud0B3"
         },
         {
             "index":26,
@@ -370,7 +400,8 @@
             "value_score":60.90235,
             "region":"경기도 고양시 일산동구",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4128500000_Gyeonggi_Goyang_Ilsandong"
+            "sub_region_code":"4128500000_Gyeonggi_Goyang_Ilsandong",
+            "shorten_url":"https:\/\/me2.do\/57Xud0B3"
         },
         {
             "index":27,
@@ -382,7 +413,8 @@
             "value_score":60.72735,
             "region":"경기도 고양시 일산동구",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4128500000_Gyeonggi_Goyang_Ilsandong"
+            "sub_region_code":"4128500000_Gyeonggi_Goyang_Ilsandong",
+            "shorten_url":"https:\/\/me2.do\/57Xud0B3"
         },
         {
             "index":28,
@@ -394,7 +426,8 @@
             "value_score":59.9418,
             "region":"경기도 고양시 일산동구",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4128500000_Gyeonggi_Goyang_Ilsandong"
+            "sub_region_code":"4128500000_Gyeonggi_Goyang_Ilsandong",
+            "shorten_url":"https:\/\/me2.do\/57Xud0B3"
         },
         {
             "index":29,
@@ -406,7 +439,8 @@
             "value_score":59.60085,
             "region":"경기도 고양시 일산동구",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4128500000_Gyeonggi_Goyang_Ilsandong"
+            "sub_region_code":"4128500000_Gyeonggi_Goyang_Ilsandong",
+            "shorten_url":"https:\/\/me2.do\/57Xud0B3"
         },
         {
             "index":30,
@@ -418,7 +452,8 @@
             "value_score":73.11225,
             "region":"경기도 고양시 일산동구",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4128500000_Gyeonggi_Goyang_Ilsandong"
+            "sub_region_code":"4128500000_Gyeonggi_Goyang_Ilsandong",
+            "shorten_url":"https:\/\/me2.do\/57Xud0B3"
         },
         {
             "index":31,
@@ -430,7 +465,8 @@
             "value_score":72.5949737053,
             "region":"경기도 고양시 일산동구",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4128500000_Gyeonggi_Goyang_Ilsandong"
+            "sub_region_code":"4128500000_Gyeonggi_Goyang_Ilsandong",
+            "shorten_url":"https:\/\/me2.do\/57Xud0B3"
         },
         {
             "index":32,
@@ -442,7 +478,8 @@
             "value_score":70.978,
             "region":"경기도 고양시 일산동구",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4128500000_Gyeonggi_Goyang_Ilsandong"
+            "sub_region_code":"4128500000_Gyeonggi_Goyang_Ilsandong",
+            "shorten_url":"https:\/\/me2.do\/57Xud0B3"
         },
         {
             "index":33,
@@ -454,7 +491,8 @@
             "value_score":70.96225,
             "region":"경기도 고양시 일산동구",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4128500000_Gyeonggi_Goyang_Ilsandong"
+            "sub_region_code":"4128500000_Gyeonggi_Goyang_Ilsandong",
+            "shorten_url":"https:\/\/me2.do\/57Xud0B3"
         },
         {
             "index":34,
@@ -466,7 +504,8 @@
             "value_score":69.96225,
             "region":"경기도 고양시 일산동구",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4128500000_Gyeonggi_Goyang_Ilsandong"
+            "sub_region_code":"4128500000_Gyeonggi_Goyang_Ilsandong",
+            "shorten_url":"https:\/\/me2.do\/57Xud0B3"
         },
         {
             "index":35,
@@ -478,7 +517,8 @@
             "value_score":69.66225,
             "region":"경기도 고양시 일산동구",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4128500000_Gyeonggi_Goyang_Ilsandong"
+            "sub_region_code":"4128500000_Gyeonggi_Goyang_Ilsandong",
+            "shorten_url":"https:\/\/me2.do\/57Xud0B3"
         },
         {
             "index":36,
@@ -490,7 +530,8 @@
             "value_score":69.55975,
             "region":"경기도 고양시 일산동구",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4128500000_Gyeonggi_Goyang_Ilsandong"
+            "sub_region_code":"4128500000_Gyeonggi_Goyang_Ilsandong",
+            "shorten_url":"https:\/\/me2.do\/57Xud0B3"
         },
         {
             "index":37,
@@ -502,7 +543,8 @@
             "value_score":68.60975,
             "region":"경기도 고양시 일산동구",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4128500000_Gyeonggi_Goyang_Ilsandong"
+            "sub_region_code":"4128500000_Gyeonggi_Goyang_Ilsandong",
+            "shorten_url":"https:\/\/me2.do\/57Xud0B3"
         },
         {
             "index":38,
@@ -514,7 +556,8 @@
             "value_score":68.21225,
             "region":"경기도 고양시 일산동구",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4128500000_Gyeonggi_Goyang_Ilsandong"
+            "sub_region_code":"4128500000_Gyeonggi_Goyang_Ilsandong",
+            "shorten_url":"https:\/\/me2.do\/57Xud0B3"
         },
         {
             "index":39,
@@ -526,7 +569,8 @@
             "value_score":68.1755,
             "region":"경기도 고양시 일산동구",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4128500000_Gyeonggi_Goyang_Ilsandong"
+            "sub_region_code":"4128500000_Gyeonggi_Goyang_Ilsandong",
+            "shorten_url":"https:\/\/me2.do\/57Xud0B3"
         },
         {
             "index":40,
@@ -538,7 +582,8 @@
             "value_score":69.356,
             "region":"경기도 고양시 일산동구",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4128500000_Gyeonggi_Goyang_Ilsandong"
+            "sub_region_code":"4128500000_Gyeonggi_Goyang_Ilsandong",
+            "shorten_url":"https:\/\/me2.do\/57Xud0B3"
         },
         {
             "index":41,
@@ -550,7 +595,8 @@
             "value_score":68.5195,
             "region":"경기도 고양시 일산동구",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4128500000_Gyeonggi_Goyang_Ilsandong"
+            "sub_region_code":"4128500000_Gyeonggi_Goyang_Ilsandong",
+            "shorten_url":"https:\/\/me2.do\/57Xud0B3"
         },
         {
             "index":42,
@@ -562,7 +608,8 @@
             "value_score":68.4195,
             "region":"경기도 고양시 일산동구",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4128500000_Gyeonggi_Goyang_Ilsandong"
+            "sub_region_code":"4128500000_Gyeonggi_Goyang_Ilsandong",
+            "shorten_url":"https:\/\/me2.do\/57Xud0B3"
         },
         {
             "index":43,
@@ -574,7 +621,8 @@
             "value_score":67.9245,
             "region":"경기도 고양시 일산동구",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4128500000_Gyeonggi_Goyang_Ilsandong"
+            "sub_region_code":"4128500000_Gyeonggi_Goyang_Ilsandong",
+            "shorten_url":"https:\/\/me2.do\/57Xud0B3"
         },
         {
             "index":44,
@@ -586,7 +634,8 @@
             "value_score":67.5015,
             "region":"경기도 고양시 일산동구",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4128500000_Gyeonggi_Goyang_Ilsandong"
+            "sub_region_code":"4128500000_Gyeonggi_Goyang_Ilsandong",
+            "shorten_url":"https:\/\/me2.do\/57Xud0B3"
         },
         {
             "index":45,
@@ -598,7 +647,8 @@
             "value_score":65.836,
             "region":"경기도 고양시 일산동구",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4128500000_Gyeonggi_Goyang_Ilsandong"
+            "sub_region_code":"4128500000_Gyeonggi_Goyang_Ilsandong",
+            "shorten_url":"https:\/\/me2.do\/57Xud0B3"
         },
         {
             "index":46,
@@ -610,7 +660,8 @@
             "value_score":65.356,
             "region":"경기도 고양시 일산동구",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4128500000_Gyeonggi_Goyang_Ilsandong"
+            "sub_region_code":"4128500000_Gyeonggi_Goyang_Ilsandong",
+            "shorten_url":"https:\/\/me2.do\/57Xud0B3"
         },
         {
             "index":47,
@@ -622,7 +673,8 @@
             "value_score":64.556,
             "region":"경기도 고양시 일산동구",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4128500000_Gyeonggi_Goyang_Ilsandong"
+            "sub_region_code":"4128500000_Gyeonggi_Goyang_Ilsandong",
+            "shorten_url":"https:\/\/me2.do\/57Xud0B3"
         },
         {
             "index":48,
@@ -634,7 +686,8 @@
             "value_score":64.5555,
             "region":"경기도 고양시 일산동구",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4128500000_Gyeonggi_Goyang_Ilsandong"
+            "sub_region_code":"4128500000_Gyeonggi_Goyang_Ilsandong",
+            "shorten_url":"https:\/\/me2.do\/57Xud0B3"
         },
         {
             "index":49,
@@ -646,7 +699,8 @@
             "value_score":64.031,
             "region":"경기도 고양시 일산동구",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4128500000_Gyeonggi_Goyang_Ilsandong"
+            "sub_region_code":"4128500000_Gyeonggi_Goyang_Ilsandong",
+            "shorten_url":"https:\/\/me2.do\/57Xud0B3"
         }
     ]
 }

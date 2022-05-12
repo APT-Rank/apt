@@ -40,6 +40,10 @@
             {
                 "name":"sub_region_code",
                 "type":"string"
+            },
+            {
+                "name":"shorten_url",
+                "type":"string"
             }
         ],
         "primaryKey":[
@@ -58,7 +62,8 @@
             "value_score":52.4844,
             "region":"경상남도 함안군",
             "region_code":"Gyeongsangnamdo",
-            "sub_region_code":"4873000000_Gyeongsangnamdo_Haman"
+            "sub_region_code":"4873000000_Gyeongsangnamdo_Haman",
+            "shorten_url":"https:\/\/me2.do\/GTOANfvB"
         },
         {
             "index":1,
@@ -70,7 +75,8 @@
             "value_score":51.4344,
             "region":"경상남도 함안군",
             "region_code":"Gyeongsangnamdo",
-            "sub_region_code":"4873000000_Gyeongsangnamdo_Haman"
+            "sub_region_code":"4873000000_Gyeongsangnamdo_Haman",
+            "shorten_url":"https:\/\/me2.do\/GTOANfvB"
         },
         {
             "index":2,
@@ -82,7 +88,8 @@
             "value_score":48.8344,
             "region":"경상남도 함안군",
             "region_code":"Gyeongsangnamdo",
-            "sub_region_code":"4873000000_Gyeongsangnamdo_Haman"
+            "sub_region_code":"4873000000_Gyeongsangnamdo_Haman",
+            "shorten_url":"https:\/\/me2.do\/GTOANfvB"
         },
         {
             "index":3,
@@ -94,7 +101,8 @@
             "value_score":42.56035,
             "region":"경상남도 함안군",
             "region_code":"Gyeongsangnamdo",
-            "sub_region_code":"4873000000_Gyeongsangnamdo_Haman"
+            "sub_region_code":"4873000000_Gyeongsangnamdo_Haman",
+            "shorten_url":"https:\/\/me2.do\/GTOANfvB"
         },
         {
             "index":4,
@@ -106,7 +114,8 @@
             "value_score":36.8595,
             "region":"경상남도 함안군",
             "region_code":"Gyeongsangnamdo",
-            "sub_region_code":"4873000000_Gyeongsangnamdo_Haman"
+            "sub_region_code":"4873000000_Gyeongsangnamdo_Haman",
+            "shorten_url":"https:\/\/me2.do\/GTOANfvB"
         },
         {
             "index":5,
@@ -118,7 +127,8 @@
             "value_score":36.6095,
             "region":"경상남도 함안군",
             "region_code":"Gyeongsangnamdo",
-            "sub_region_code":"4873000000_Gyeongsangnamdo_Haman"
+            "sub_region_code":"4873000000_Gyeongsangnamdo_Haman",
+            "shorten_url":"https:\/\/me2.do\/GTOANfvB"
         },
         {
             "index":6,
@@ -130,7 +140,8 @@
             "value_score":35.5614,
             "region":"경상남도 함안군",
             "region_code":"Gyeongsangnamdo",
-            "sub_region_code":"4873000000_Gyeongsangnamdo_Haman"
+            "sub_region_code":"4873000000_Gyeongsangnamdo_Haman",
+            "shorten_url":"https:\/\/me2.do\/GTOANfvB"
         },
         {
             "index":7,
@@ -142,7 +153,8 @@
             "value_score":35.11035,
             "region":"경상남도 함안군",
             "region_code":"Gyeongsangnamdo",
-            "sub_region_code":"4873000000_Gyeongsangnamdo_Haman"
+            "sub_region_code":"4873000000_Gyeongsangnamdo_Haman",
+            "shorten_url":"https:\/\/me2.do\/GTOANfvB"
         },
         {
             "index":8,
@@ -154,7 +166,8 @@
             "value_score":34.31035,
             "region":"경상남도 함안군",
             "region_code":"Gyeongsangnamdo",
-            "sub_region_code":"4873000000_Gyeongsangnamdo_Haman"
+            "sub_region_code":"4873000000_Gyeongsangnamdo_Haman",
+            "shorten_url":"https:\/\/me2.do\/GTOANfvB"
         },
         {
             "index":9,
@@ -166,7 +179,8 @@
             "value_score":32.0344,
             "region":"경상남도 함안군",
             "region_code":"Gyeongsangnamdo",
-            "sub_region_code":"4873000000_Gyeongsangnamdo_Haman"
+            "sub_region_code":"4873000000_Gyeongsangnamdo_Haman",
+            "shorten_url":"https:\/\/me2.do\/GTOANfvB"
         },
         {
             "index":10,
@@ -178,7 +192,8 @@
             "value_score":53.696,
             "region":"경상남도 함안군",
             "region_code":"Gyeongsangnamdo",
-            "sub_region_code":"4873000000_Gyeongsangnamdo_Haman"
+            "sub_region_code":"4873000000_Gyeongsangnamdo_Haman",
+            "shorten_url":"https:\/\/me2.do\/GTOANfvB"
         },
         {
             "index":11,
@@ -190,7 +205,8 @@
             "value_score":52.346,
             "region":"경상남도 함안군",
             "region_code":"Gyeongsangnamdo",
-            "sub_region_code":"4873000000_Gyeongsangnamdo_Haman"
+            "sub_region_code":"4873000000_Gyeongsangnamdo_Haman",
+            "shorten_url":"https:\/\/me2.do\/GTOANfvB"
         },
         {
             "index":12,
@@ -202,7 +218,8 @@
             "value_score":49.096,
             "region":"경상남도 함안군",
             "region_code":"Gyeongsangnamdo",
-            "sub_region_code":"4873000000_Gyeongsangnamdo_Haman"
+            "sub_region_code":"4873000000_Gyeongsangnamdo_Haman",
+            "shorten_url":"https:\/\/me2.do\/GTOANfvB"
         },
         {
             "index":13,
@@ -214,7 +231,8 @@
             "value_score":41.15025,
             "region":"경상남도 함안군",
             "region_code":"Gyeongsangnamdo",
-            "sub_region_code":"4873000000_Gyeongsangnamdo_Haman"
+            "sub_region_code":"4873000000_Gyeongsangnamdo_Haman",
+            "shorten_url":"https:\/\/me2.do\/GTOANfvB"
         },
         {
             "index":14,
@@ -226,7 +244,8 @@
             "value_score":37.7925,
             "region":"경상남도 함안군",
             "region_code":"Gyeongsangnamdo",
-            "sub_region_code":"4873000000_Gyeongsangnamdo_Haman"
+            "sub_region_code":"4873000000_Gyeongsangnamdo_Haman",
+            "shorten_url":"https:\/\/me2.do\/GTOANfvB"
         },
         {
             "index":15,
@@ -238,7 +257,8 @@
             "value_score":36.5425,
             "region":"경상남도 함안군",
             "region_code":"Gyeongsangnamdo",
-            "sub_region_code":"4873000000_Gyeongsangnamdo_Haman"
+            "sub_region_code":"4873000000_Gyeongsangnamdo_Haman",
+            "shorten_url":"https:\/\/me2.do\/GTOANfvB"
         },
         {
             "index":16,
@@ -250,7 +270,8 @@
             "value_score":35.651,
             "region":"경상남도 함안군",
             "region_code":"Gyeongsangnamdo",
-            "sub_region_code":"4873000000_Gyeongsangnamdo_Haman"
+            "sub_region_code":"4873000000_Gyeongsangnamdo_Haman",
+            "shorten_url":"https:\/\/me2.do\/GTOANfvB"
         },
         {
             "index":17,
@@ -262,7 +283,8 @@
             "value_score":33.40025,
             "region":"경상남도 함안군",
             "region_code":"Gyeongsangnamdo",
-            "sub_region_code":"4873000000_Gyeongsangnamdo_Haman"
+            "sub_region_code":"4873000000_Gyeongsangnamdo_Haman",
+            "shorten_url":"https:\/\/me2.do\/GTOANfvB"
         },
         {
             "index":18,
@@ -274,7 +296,8 @@
             "value_score":31.346,
             "region":"경상남도 함안군",
             "region_code":"Gyeongsangnamdo",
-            "sub_region_code":"4873000000_Gyeongsangnamdo_Haman"
+            "sub_region_code":"4873000000_Gyeongsangnamdo_Haman",
+            "shorten_url":"https:\/\/me2.do\/GTOANfvB"
         },
         {
             "index":19,
@@ -286,7 +309,8 @@
             "value_score":31.15025,
             "region":"경상남도 함안군",
             "region_code":"Gyeongsangnamdo",
-            "sub_region_code":"4873000000_Gyeongsangnamdo_Haman"
+            "sub_region_code":"4873000000_Gyeongsangnamdo_Haman",
+            "shorten_url":"https:\/\/me2.do\/GTOANfvB"
         },
         {
             "index":20,
@@ -298,7 +322,8 @@
             "value_score":37.6738947368,
             "region":"경상남도 함안군",
             "region_code":"Gyeongsangnamdo",
-            "sub_region_code":"4873000000_Gyeongsangnamdo_Haman"
+            "sub_region_code":"4873000000_Gyeongsangnamdo_Haman",
+            "shorten_url":"https:\/\/me2.do\/GTOANfvB"
         },
         {
             "index":21,
@@ -310,7 +335,8 @@
             "value_score":37.516,
             "region":"경상남도 함안군",
             "region_code":"Gyeongsangnamdo",
-            "sub_region_code":"4873000000_Gyeongsangnamdo_Haman"
+            "sub_region_code":"4873000000_Gyeongsangnamdo_Haman",
+            "shorten_url":"https:\/\/me2.do\/GTOANfvB"
         },
         {
             "index":22,
@@ -322,7 +348,8 @@
             "value_score":37.3476842105,
             "region":"경상남도 함안군",
             "region_code":"Gyeongsangnamdo",
-            "sub_region_code":"4873000000_Gyeongsangnamdo_Haman"
+            "sub_region_code":"4873000000_Gyeongsangnamdo_Haman",
+            "shorten_url":"https:\/\/me2.do\/GTOANfvB"
         },
         {
             "index":23,
@@ -334,7 +361,8 @@
             "value_score":36.4896842105,
             "region":"경상남도 함안군",
             "region_code":"Gyeongsangnamdo",
-            "sub_region_code":"4873000000_Gyeongsangnamdo_Haman"
+            "sub_region_code":"4873000000_Gyeongsangnamdo_Haman",
+            "shorten_url":"https:\/\/me2.do\/GTOANfvB"
         },
         {
             "index":24,
@@ -346,7 +374,8 @@
             "value_score":35.5845263158,
             "region":"경상남도 함안군",
             "region_code":"Gyeongsangnamdo",
-            "sub_region_code":"4873000000_Gyeongsangnamdo_Haman"
+            "sub_region_code":"4873000000_Gyeongsangnamdo_Haman",
+            "shorten_url":"https:\/\/me2.do\/GTOANfvB"
         },
         {
             "index":25,
@@ -358,7 +387,8 @@
             "value_score":29.5582105263,
             "region":"경상남도 함안군",
             "region_code":"Gyeongsangnamdo",
-            "sub_region_code":"4873000000_Gyeongsangnamdo_Haman"
+            "sub_region_code":"4873000000_Gyeongsangnamdo_Haman",
+            "shorten_url":"https:\/\/me2.do\/GTOANfvB"
         },
         {
             "index":26,
@@ -370,7 +400,8 @@
             "value_score":28.7115789474,
             "region":"경상남도 함안군",
             "region_code":"Gyeongsangnamdo",
-            "sub_region_code":"4873000000_Gyeongsangnamdo_Haman"
+            "sub_region_code":"4873000000_Gyeongsangnamdo_Haman",
+            "shorten_url":"https:\/\/me2.do\/GTOANfvB"
         },
         {
             "index":27,
@@ -382,7 +413,8 @@
             "value_score":28.0582105263,
             "region":"경상남도 함안군",
             "region_code":"Gyeongsangnamdo",
-            "sub_region_code":"4873000000_Gyeongsangnamdo_Haman"
+            "sub_region_code":"4873000000_Gyeongsangnamdo_Haman",
+            "shorten_url":"https:\/\/me2.do\/GTOANfvB"
         },
         {
             "index":28,
@@ -394,7 +426,8 @@
             "value_score":27.1644210526,
             "region":"경상남도 함안군",
             "region_code":"Gyeongsangnamdo",
-            "sub_region_code":"4873000000_Gyeongsangnamdo_Haman"
+            "sub_region_code":"4873000000_Gyeongsangnamdo_Haman",
+            "shorten_url":"https:\/\/me2.do\/GTOANfvB"
         },
         {
             "index":29,
@@ -406,7 +439,8 @@
             "value_score":27.0536842105,
             "region":"경상남도 함안군",
             "region_code":"Gyeongsangnamdo",
-            "sub_region_code":"4873000000_Gyeongsangnamdo_Haman"
+            "sub_region_code":"4873000000_Gyeongsangnamdo_Haman",
+            "shorten_url":"https:\/\/me2.do\/GTOANfvB"
         },
         {
             "index":30,
@@ -418,7 +452,8 @@
             "value_score":50.667,
             "region":"경상남도 함안군",
             "region_code":"Gyeongsangnamdo",
-            "sub_region_code":"4873000000_Gyeongsangnamdo_Haman"
+            "sub_region_code":"4873000000_Gyeongsangnamdo_Haman",
+            "shorten_url":"https:\/\/me2.do\/GTOANfvB"
         },
         {
             "index":31,
@@ -430,7 +465,8 @@
             "value_score":50.067,
             "region":"경상남도 함안군",
             "region_code":"Gyeongsangnamdo",
-            "sub_region_code":"4873000000_Gyeongsangnamdo_Haman"
+            "sub_region_code":"4873000000_Gyeongsangnamdo_Haman",
+            "shorten_url":"https:\/\/me2.do\/GTOANfvB"
         },
         {
             "index":32,
@@ -442,7 +478,8 @@
             "value_score":48.442,
             "region":"경상남도 함안군",
             "region_code":"Gyeongsangnamdo",
-            "sub_region_code":"4873000000_Gyeongsangnamdo_Haman"
+            "sub_region_code":"4873000000_Gyeongsangnamdo_Haman",
+            "shorten_url":"https:\/\/me2.do\/GTOANfvB"
         },
         {
             "index":33,
@@ -454,7 +491,8 @@
             "value_score":44.6755,
             "region":"경상남도 함안군",
             "region_code":"Gyeongsangnamdo",
-            "sub_region_code":"4873000000_Gyeongsangnamdo_Haman"
+            "sub_region_code":"4873000000_Gyeongsangnamdo_Haman",
+            "shorten_url":"https:\/\/me2.do\/GTOANfvB"
         },
         {
             "index":34,
@@ -466,7 +504,8 @@
             "value_score":41.0505,
             "region":"경상남도 함안군",
             "region_code":"Gyeongsangnamdo",
-            "sub_region_code":"4873000000_Gyeongsangnamdo_Haman"
+            "sub_region_code":"4873000000_Gyeongsangnamdo_Haman",
+            "shorten_url":"https:\/\/me2.do\/GTOANfvB"
         },
         {
             "index":35,
@@ -478,7 +517,8 @@
             "value_score":36.71,
             "region":"경상남도 함안군",
             "region_code":"Gyeongsangnamdo",
-            "sub_region_code":"4873000000_Gyeongsangnamdo_Haman"
+            "sub_region_code":"4873000000_Gyeongsangnamdo_Haman",
+            "shorten_url":"https:\/\/me2.do\/GTOANfvB"
         },
         {
             "index":36,
@@ -490,7 +530,8 @@
             "value_score":35.6755,
             "region":"경상남도 함안군",
             "region_code":"Gyeongsangnamdo",
-            "sub_region_code":"4873000000_Gyeongsangnamdo_Haman"
+            "sub_region_code":"4873000000_Gyeongsangnamdo_Haman",
+            "shorten_url":"https:\/\/me2.do\/GTOANfvB"
         },
         {
             "index":37,
@@ -502,7 +543,8 @@
             "value_score":35.46,
             "region":"경상남도 함안군",
             "region_code":"Gyeongsangnamdo",
-            "sub_region_code":"4873000000_Gyeongsangnamdo_Haman"
+            "sub_region_code":"4873000000_Gyeongsangnamdo_Haman",
+            "shorten_url":"https:\/\/me2.do\/GTOANfvB"
         },
         {
             "index":38,
@@ -514,7 +556,8 @@
             "value_score":35.427,
             "region":"경상남도 함안군",
             "region_code":"Gyeongsangnamdo",
-            "sub_region_code":"4873000000_Gyeongsangnamdo_Haman"
+            "sub_region_code":"4873000000_Gyeongsangnamdo_Haman",
+            "shorten_url":"https:\/\/me2.do\/GTOANfvB"
         },
         {
             "index":39,
@@ -526,7 +569,8 @@
             "value_score":33.1505,
             "region":"경상남도 함안군",
             "region_code":"Gyeongsangnamdo",
-            "sub_region_code":"4873000000_Gyeongsangnamdo_Haman"
+            "sub_region_code":"4873000000_Gyeongsangnamdo_Haman",
+            "shorten_url":"https:\/\/me2.do\/GTOANfvB"
         }
     ]
 }

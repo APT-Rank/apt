@@ -40,6 +40,10 @@
             {
                 "name":"sub_region_code",
                 "type":"string"
+            },
+            {
+                "name":"shorten_url",
+                "type":"string"
             }
         ],
         "primaryKey":[
@@ -58,7 +62,8 @@
             "value_score":36.98495,
             "region":"전라남도 영암군",
             "region_code":"Jeollanamdo",
-            "sub_region_code":"4683000000_Jeollanamdo_Yeongam"
+            "sub_region_code":"4683000000_Jeollanamdo_Yeongam",
+            "shorten_url":"https:\/\/me2.do\/GtbysLru"
         },
         {
             "index":1,
@@ -70,7 +75,8 @@
             "value_score":36.40245,
             "region":"전라남도 영암군",
             "region_code":"Jeollanamdo",
-            "sub_region_code":"4683000000_Jeollanamdo_Yeongam"
+            "sub_region_code":"4683000000_Jeollanamdo_Yeongam",
+            "shorten_url":"https:\/\/me2.do\/GtbysLru"
         },
         {
             "index":2,
@@ -82,7 +88,8 @@
             "value_score":36.23495,
             "region":"전라남도 영암군",
             "region_code":"Jeollanamdo",
-            "sub_region_code":"4683000000_Jeollanamdo_Yeongam"
+            "sub_region_code":"4683000000_Jeollanamdo_Yeongam",
+            "shorten_url":"https:\/\/me2.do\/GtbysLru"
         },
         {
             "index":3,
@@ -94,7 +101,8 @@
             "value_score":36.1224,
             "region":"전라남도 영암군",
             "region_code":"Jeollanamdo",
-            "sub_region_code":"4683000000_Jeollanamdo_Yeongam"
+            "sub_region_code":"4683000000_Jeollanamdo_Yeongam",
+            "shorten_url":"https:\/\/me2.do\/GtbysLru"
         },
         {
             "index":4,
@@ -106,7 +114,8 @@
             "value_score":35.9724,
             "region":"전라남도 영암군",
             "region_code":"Jeollanamdo",
-            "sub_region_code":"4683000000_Jeollanamdo_Yeongam"
+            "sub_region_code":"4683000000_Jeollanamdo_Yeongam",
+            "shorten_url":"https:\/\/me2.do\/GtbysLru"
         },
         {
             "index":5,
@@ -118,7 +127,8 @@
             "value_score":35.7224,
             "region":"전라남도 영암군",
             "region_code":"Jeollanamdo",
-            "sub_region_code":"4683000000_Jeollanamdo_Yeongam"
+            "sub_region_code":"4683000000_Jeollanamdo_Yeongam",
+            "shorten_url":"https:\/\/me2.do\/GtbysLru"
         },
         {
             "index":6,
@@ -130,7 +140,8 @@
             "value_score":33.20245,
             "region":"전라남도 영암군",
             "region_code":"Jeollanamdo",
-            "sub_region_code":"4683000000_Jeollanamdo_Yeongam"
+            "sub_region_code":"4683000000_Jeollanamdo_Yeongam",
+            "shorten_url":"https:\/\/me2.do\/GtbysLru"
         },
         {
             "index":7,
@@ -142,7 +153,8 @@
             "value_score":32.2724,
             "region":"전라남도 영암군",
             "region_code":"Jeollanamdo",
-            "sub_region_code":"4683000000_Jeollanamdo_Yeongam"
+            "sub_region_code":"4683000000_Jeollanamdo_Yeongam",
+            "shorten_url":"https:\/\/me2.do\/GtbysLru"
         },
         {
             "index":8,
@@ -154,7 +166,8 @@
             "value_score":31.73495,
             "region":"전라남도 영암군",
             "region_code":"Jeollanamdo",
-            "sub_region_code":"4683000000_Jeollanamdo_Yeongam"
+            "sub_region_code":"4683000000_Jeollanamdo_Yeongam",
+            "shorten_url":"https:\/\/me2.do\/GtbysLru"
         },
         {
             "index":9,
@@ -166,7 +179,8 @@
             "value_score":30.2182,
             "region":"전라남도 영암군",
             "region_code":"Jeollanamdo",
-            "sub_region_code":"4683000000_Jeollanamdo_Yeongam"
+            "sub_region_code":"4683000000_Jeollanamdo_Yeongam",
+            "shorten_url":"https:\/\/me2.do\/GtbysLru"
         },
         {
             "index":10,
@@ -178,7 +192,8 @@
             "value_score":37.73925,
             "region":"전라남도 영암군",
             "region_code":"Jeollanamdo",
-            "sub_region_code":"4683000000_Jeollanamdo_Yeongam"
+            "sub_region_code":"4683000000_Jeollanamdo_Yeongam",
+            "shorten_url":"https:\/\/me2.do\/GtbysLru"
         },
         {
             "index":11,
@@ -190,7 +205,8 @@
             "value_score":37.266,
             "region":"전라남도 영암군",
             "region_code":"Jeollanamdo",
-            "sub_region_code":"4683000000_Jeollanamdo_Yeongam"
+            "sub_region_code":"4683000000_Jeollanamdo_Yeongam",
+            "shorten_url":"https:\/\/me2.do\/GtbysLru"
         },
         {
             "index":12,
@@ -202,7 +218,8 @@
             "value_score":36.766,
             "region":"전라남도 영암군",
             "region_code":"Jeollanamdo",
-            "sub_region_code":"4683000000_Jeollanamdo_Yeongam"
+            "sub_region_code":"4683000000_Jeollanamdo_Yeongam",
+            "shorten_url":"https:\/\/me2.do\/GtbysLru"
         },
         {
             "index":13,
@@ -214,7 +231,8 @@
             "value_score":36.766,
             "region":"전라남도 영암군",
             "region_code":"Jeollanamdo",
-            "sub_region_code":"4683000000_Jeollanamdo_Yeongam"
+            "sub_region_code":"4683000000_Jeollanamdo_Yeongam",
+            "shorten_url":"https:\/\/me2.do\/GtbysLru"
         },
         {
             "index":14,
@@ -226,7 +244,8 @@
             "value_score":36.48925,
             "region":"전라남도 영암군",
             "region_code":"Jeollanamdo",
-            "sub_region_code":"4683000000_Jeollanamdo_Yeongam"
+            "sub_region_code":"4683000000_Jeollanamdo_Yeongam",
+            "shorten_url":"https:\/\/me2.do\/GtbysLru"
         },
         {
             "index":15,
@@ -238,7 +257,8 @@
             "value_score":36.25175,
             "region":"전라남도 영암군",
             "region_code":"Jeollanamdo",
-            "sub_region_code":"4683000000_Jeollanamdo_Yeongam"
+            "sub_region_code":"4683000000_Jeollanamdo_Yeongam",
+            "shorten_url":"https:\/\/me2.do\/GtbysLru"
         },
         {
             "index":16,
@@ -250,7 +270,8 @@
             "value_score":32.25175,
             "region":"전라남도 영암군",
             "region_code":"Jeollanamdo",
-            "sub_region_code":"4683000000_Jeollanamdo_Yeongam"
+            "sub_region_code":"4683000000_Jeollanamdo_Yeongam",
+            "shorten_url":"https:\/\/me2.do\/GtbysLru"
         },
         {
             "index":17,
@@ -262,7 +283,8 @@
             "value_score":32.116,
             "region":"전라남도 영암군",
             "region_code":"Jeollanamdo",
-            "sub_region_code":"4683000000_Jeollanamdo_Yeongam"
+            "sub_region_code":"4683000000_Jeollanamdo_Yeongam",
+            "shorten_url":"https:\/\/me2.do\/GtbysLru"
         },
         {
             "index":18,
@@ -274,7 +296,8 @@
             "value_score":31.58925,
             "region":"전라남도 영암군",
             "region_code":"Jeollanamdo",
-            "sub_region_code":"4683000000_Jeollanamdo_Yeongam"
+            "sub_region_code":"4683000000_Jeollanamdo_Yeongam",
+            "shorten_url":"https:\/\/me2.do\/GtbysLru"
         },
         {
             "index":19,
@@ -286,7 +309,8 @@
             "value_score":28.98925,
             "region":"전라남도 영암군",
             "region_code":"Jeollanamdo",
-            "sub_region_code":"4683000000_Jeollanamdo_Yeongam"
+            "sub_region_code":"4683000000_Jeollanamdo_Yeongam",
+            "shorten_url":"https:\/\/me2.do\/GtbysLru"
         },
         {
             "index":20,
@@ -298,7 +322,8 @@
             "value_score":29.2758947368,
             "region":"전라남도 영암군",
             "region_code":"Jeollanamdo",
-            "sub_region_code":"4683000000_Jeollanamdo_Yeongam"
+            "sub_region_code":"4683000000_Jeollanamdo_Yeongam",
+            "shorten_url":"https:\/\/me2.do\/GtbysLru"
         },
         {
             "index":21,
@@ -310,7 +335,8 @@
             "value_score":28.7006315789,
             "region":"전라남도 영암군",
             "region_code":"Jeollanamdo",
-            "sub_region_code":"4683000000_Jeollanamdo_Yeongam"
+            "sub_region_code":"4683000000_Jeollanamdo_Yeongam",
+            "shorten_url":"https:\/\/me2.do\/GtbysLru"
         },
         {
             "index":22,
@@ -322,7 +348,8 @@
             "value_score":28.0690526316,
             "region":"전라남도 영암군",
             "region_code":"Jeollanamdo",
-            "sub_region_code":"4683000000_Jeollanamdo_Yeongam"
+            "sub_region_code":"4683000000_Jeollanamdo_Yeongam",
+            "shorten_url":"https:\/\/me2.do\/GtbysLru"
         },
         {
             "index":23,
@@ -334,7 +361,8 @@
             "value_score":27.9232631579,
             "region":"전라남도 영암군",
             "region_code":"Jeollanamdo",
-            "sub_region_code":"4683000000_Jeollanamdo_Yeongam"
+            "sub_region_code":"4683000000_Jeollanamdo_Yeongam",
+            "shorten_url":"https:\/\/me2.do\/GtbysLru"
         },
         {
             "index":24,
@@ -346,7 +374,8 @@
             "value_score":27.4337894737,
             "region":"전라남도 영암군",
             "region_code":"Jeollanamdo",
-            "sub_region_code":"4683000000_Jeollanamdo_Yeongam"
+            "sub_region_code":"4683000000_Jeollanamdo_Yeongam",
+            "shorten_url":"https:\/\/me2.do\/GtbysLru"
         },
         {
             "index":25,
@@ -358,7 +387,8 @@
             "value_score":26.6601052632,
             "region":"전라남도 영암군",
             "region_code":"Jeollanamdo",
-            "sub_region_code":"4683000000_Jeollanamdo_Yeongam"
+            "sub_region_code":"4683000000_Jeollanamdo_Yeongam",
+            "shorten_url":"https:\/\/me2.do\/GtbysLru"
         },
         {
             "index":26,
@@ -370,7 +400,8 @@
             "value_score":25.8811578947,
             "region":"전라남도 영암군",
             "region_code":"Jeollanamdo",
-            "sub_region_code":"4683000000_Jeollanamdo_Yeongam"
+            "sub_region_code":"4683000000_Jeollanamdo_Yeongam",
+            "shorten_url":"https:\/\/me2.do\/GtbysLru"
         },
         {
             "index":27,
@@ -382,7 +413,8 @@
             "value_score":25.8811578947,
             "region":"전라남도 영암군",
             "region_code":"Jeollanamdo",
-            "sub_region_code":"4683000000_Jeollanamdo_Yeongam"
+            "sub_region_code":"4683000000_Jeollanamdo_Yeongam",
+            "shorten_url":"https:\/\/me2.do\/GtbysLru"
         },
         {
             "index":28,
@@ -394,7 +426,8 @@
             "value_score":25.0916842105,
             "region":"전라남도 영암군",
             "region_code":"Jeollanamdo",
-            "sub_region_code":"4683000000_Jeollanamdo_Yeongam"
+            "sub_region_code":"4683000000_Jeollanamdo_Yeongam",
+            "shorten_url":"https:\/\/me2.do\/GtbysLru"
         },
         {
             "index":29,
@@ -406,7 +439,8 @@
             "value_score":24.2232631579,
             "region":"전라남도 영암군",
             "region_code":"Jeollanamdo",
-            "sub_region_code":"4683000000_Jeollanamdo_Yeongam"
+            "sub_region_code":"4683000000_Jeollanamdo_Yeongam",
+            "shorten_url":"https:\/\/me2.do\/GtbysLru"
         },
         {
             "index":30,
@@ -418,7 +452,8 @@
             "value_score":36.6285,
             "region":"전라남도 영암군",
             "region_code":"Jeollanamdo",
-            "sub_region_code":"4683000000_Jeollanamdo_Yeongam"
+            "sub_region_code":"4683000000_Jeollanamdo_Yeongam",
+            "shorten_url":"https:\/\/me2.do\/GtbysLru"
         },
         {
             "index":31,
@@ -430,7 +465,8 @@
             "value_score":35.8535,
             "region":"전라남도 영암군",
             "region_code":"Jeollanamdo",
-            "sub_region_code":"4683000000_Jeollanamdo_Yeongam"
+            "sub_region_code":"4683000000_Jeollanamdo_Yeongam",
+            "shorten_url":"https:\/\/me2.do\/GtbysLru"
         },
         {
             "index":32,
@@ -442,7 +478,8 @@
             "value_score":35.8535,
             "region":"전라남도 영암군",
             "region_code":"Jeollanamdo",
-            "sub_region_code":"4683000000_Jeollanamdo_Yeongam"
+            "sub_region_code":"4683000000_Jeollanamdo_Yeongam",
+            "shorten_url":"https:\/\/me2.do\/GtbysLru"
         },
         {
             "index":33,
@@ -454,7 +491,8 @@
             "value_score":34.782,
             "region":"전라남도 영암군",
             "region_code":"Jeollanamdo",
-            "sub_region_code":"4683000000_Jeollanamdo_Yeongam"
+            "sub_region_code":"4683000000_Jeollanamdo_Yeongam",
+            "shorten_url":"https:\/\/me2.do\/GtbysLru"
         },
         {
             "index":34,
@@ -466,7 +504,8 @@
             "value_score":34.6285,
             "region":"전라남도 영암군",
             "region_code":"Jeollanamdo",
-            "sub_region_code":"4683000000_Jeollanamdo_Yeongam"
+            "sub_region_code":"4683000000_Jeollanamdo_Yeongam",
+            "shorten_url":"https:\/\/me2.do\/GtbysLru"
         },
         {
             "index":35,
@@ -478,7 +517,8 @@
             "value_score":34.407,
             "region":"전라남도 영암군",
             "region_code":"Jeollanamdo",
-            "sub_region_code":"4683000000_Jeollanamdo_Yeongam"
+            "sub_region_code":"4683000000_Jeollanamdo_Yeongam",
+            "shorten_url":"https:\/\/me2.do\/GtbysLru"
         },
         {
             "index":36,
@@ -490,7 +530,8 @@
             "value_score":34.157,
             "region":"전라남도 영암군",
             "region_code":"Jeollanamdo",
-            "sub_region_code":"4683000000_Jeollanamdo_Yeongam"
+            "sub_region_code":"4683000000_Jeollanamdo_Yeongam",
+            "shorten_url":"https:\/\/me2.do\/GtbysLru"
         },
         {
             "index":37,
@@ -502,7 +543,8 @@
             "value_score":32.507,
             "region":"전라남도 영암군",
             "region_code":"Jeollanamdo",
-            "sub_region_code":"4683000000_Jeollanamdo_Yeongam"
+            "sub_region_code":"4683000000_Jeollanamdo_Yeongam",
+            "shorten_url":"https:\/\/me2.do\/GtbysLru"
         },
         {
             "index":38,
@@ -514,7 +556,8 @@
             "value_score":32.251,
             "region":"전라남도 영암군",
             "region_code":"Jeollanamdo",
-            "sub_region_code":"4683000000_Jeollanamdo_Yeongam"
+            "sub_region_code":"4683000000_Jeollanamdo_Yeongam",
+            "shorten_url":"https:\/\/me2.do\/GtbysLru"
         },
         {
             "index":39,
@@ -526,7 +569,8 @@
             "value_score":31.9535,
             "region":"전라남도 영암군",
             "region_code":"Jeollanamdo",
-            "sub_region_code":"4683000000_Jeollanamdo_Yeongam"
+            "sub_region_code":"4683000000_Jeollanamdo_Yeongam",
+            "shorten_url":"https:\/\/me2.do\/GtbysLru"
         }
     ]
 }

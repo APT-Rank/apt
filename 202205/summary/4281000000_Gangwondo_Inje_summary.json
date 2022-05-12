@@ -40,6 +40,10 @@
             {
                 "name":"sub_region_code",
                 "type":"string"
+            },
+            {
+                "name":"shorten_url",
+                "type":"string"
             }
         ],
         "primaryKey":[
@@ -58,7 +62,8 @@
             "value_score":42.1083,
             "region":"강원도 인제군",
             "region_code":"Gangwondo",
-            "sub_region_code":"4281000000_Gangwondo_Inje"
+            "sub_region_code":"4281000000_Gangwondo_Inje",
+            "shorten_url":"https:\/\/me2.do\/55njqpJz"
         },
         {
             "index":1,
@@ -70,7 +75,8 @@
             "value_score":37.9083,
             "region":"강원도 인제군",
             "region_code":"Gangwondo",
-            "sub_region_code":"4281000000_Gangwondo_Inje"
+            "sub_region_code":"4281000000_Gangwondo_Inje",
+            "shorten_url":"https:\/\/me2.do\/55njqpJz"
         },
         {
             "index":2,
@@ -82,7 +88,8 @@
             "value_score":29.3131,
             "region":"강원도 인제군",
             "region_code":"Gangwondo",
-            "sub_region_code":"4281000000_Gangwondo_Inje"
+            "sub_region_code":"4281000000_Gangwondo_Inje",
+            "shorten_url":"https:\/\/me2.do\/55njqpJz"
         },
         {
             "index":3,
@@ -94,7 +101,8 @@
             "value_score":28.4583,
             "region":"강원도 인제군",
             "region_code":"Gangwondo",
-            "sub_region_code":"4281000000_Gangwondo_Inje"
+            "sub_region_code":"4281000000_Gangwondo_Inje",
+            "shorten_url":"https:\/\/me2.do\/55njqpJz"
         },
         {
             "index":4,
@@ -106,7 +114,8 @@
             "value_score":27.4833,
             "region":"강원도 인제군",
             "region_code":"Gangwondo",
-            "sub_region_code":"4281000000_Gangwondo_Inje"
+            "sub_region_code":"4281000000_Gangwondo_Inje",
+            "shorten_url":"https:\/\/me2.do\/55njqpJz"
         },
         {
             "index":5,
@@ -118,7 +127,8 @@
             "value_score":27.00145,
             "region":"강원도 인제군",
             "region_code":"Gangwondo",
-            "sub_region_code":"4281000000_Gangwondo_Inje"
+            "sub_region_code":"4281000000_Gangwondo_Inje",
+            "shorten_url":"https:\/\/me2.do\/55njqpJz"
         },
         {
             "index":6,
@@ -130,7 +140,8 @@
             "value_score":23.25145,
             "region":"강원도 인제군",
             "region_code":"Gangwondo",
-            "sub_region_code":"4281000000_Gangwondo_Inje"
+            "sub_region_code":"4281000000_Gangwondo_Inje",
+            "shorten_url":"https:\/\/me2.do\/55njqpJz"
         },
         {
             "index":7,
@@ -142,7 +153,8 @@
             "value_score":22.85145,
             "region":"강원도 인제군",
             "region_code":"Gangwondo",
-            "sub_region_code":"4281000000_Gangwondo_Inje"
+            "sub_region_code":"4281000000_Gangwondo_Inje",
+            "shorten_url":"https:\/\/me2.do\/55njqpJz"
         },
         {
             "index":8,
@@ -154,7 +166,8 @@
             "value_score":22.1083,
             "region":"강원도 인제군",
             "region_code":"Gangwondo",
-            "sub_region_code":"4281000000_Gangwondo_Inje"
+            "sub_region_code":"4281000000_Gangwondo_Inje",
+            "shorten_url":"https:\/\/me2.do\/55njqpJz"
         },
         {
             "index":9,
@@ -166,7 +179,8 @@
             "value_score":43.5345,
             "region":"강원도 인제군",
             "region_code":"Gangwondo",
-            "sub_region_code":"4281000000_Gangwondo_Inje"
+            "sub_region_code":"4281000000_Gangwondo_Inje",
+            "shorten_url":"https:\/\/me2.do\/55njqpJz"
         },
         {
             "index":10,
@@ -178,7 +192,8 @@
             "value_score":38.2845,
             "region":"강원도 인제군",
             "region_code":"Gangwondo",
-            "sub_region_code":"4281000000_Gangwondo_Inje"
+            "sub_region_code":"4281000000_Gangwondo_Inje",
+            "shorten_url":"https:\/\/me2.do\/55njqpJz"
         },
         {
             "index":11,
@@ -190,7 +205,8 @@
             "value_score":27.3665,
             "region":"강원도 인제군",
             "region_code":"Gangwondo",
-            "sub_region_code":"4281000000_Gangwondo_Inje"
+            "sub_region_code":"4281000000_Gangwondo_Inje",
+            "shorten_url":"https:\/\/me2.do\/55njqpJz"
         },
         {
             "index":12,
@@ -202,7 +218,8 @@
             "value_score":26.2845,
             "region":"강원도 인제군",
             "region_code":"Gangwondo",
-            "sub_region_code":"4281000000_Gangwondo_Inje"
+            "sub_region_code":"4281000000_Gangwondo_Inje",
+            "shorten_url":"https:\/\/me2.do\/55njqpJz"
         },
         {
             "index":13,
@@ -214,7 +231,8 @@
             "value_score":25.28675,
             "region":"강원도 인제군",
             "region_code":"Gangwondo",
-            "sub_region_code":"4281000000_Gangwondo_Inje"
+            "sub_region_code":"4281000000_Gangwondo_Inje",
+            "shorten_url":"https:\/\/me2.do\/55njqpJz"
         },
         {
             "index":14,
@@ -226,7 +244,8 @@
             "value_score":24.8095,
             "region":"강원도 인제군",
             "region_code":"Gangwondo",
-            "sub_region_code":"4281000000_Gangwondo_Inje"
+            "sub_region_code":"4281000000_Gangwondo_Inje",
+            "shorten_url":"https:\/\/me2.do\/55njqpJz"
         },
         {
             "index":15,
@@ -238,7 +257,8 @@
             "value_score":20.53675,
             "region":"강원도 인제군",
             "region_code":"Gangwondo",
-            "sub_region_code":"4281000000_Gangwondo_Inje"
+            "sub_region_code":"4281000000_Gangwondo_Inje",
+            "shorten_url":"https:\/\/me2.do\/55njqpJz"
         },
         {
             "index":16,
@@ -250,7 +270,8 @@
             "value_score":20.13675,
             "region":"강원도 인제군",
             "region_code":"Gangwondo",
-            "sub_region_code":"4281000000_Gangwondo_Inje"
+            "sub_region_code":"4281000000_Gangwondo_Inje",
+            "shorten_url":"https:\/\/me2.do\/55njqpJz"
         },
         {
             "index":17,
@@ -262,7 +283,8 @@
             "value_score":19.4345,
             "region":"강원도 인제군",
             "region_code":"Gangwondo",
-            "sub_region_code":"4281000000_Gangwondo_Inje"
+            "sub_region_code":"4281000000_Gangwondo_Inje",
+            "shorten_url":"https:\/\/me2.do\/55njqpJz"
         },
         {
             "index":18,
@@ -274,7 +296,8 @@
             "value_score":30.5488421053,
             "region":"강원도 인제군",
             "region_code":"Gangwondo",
-            "sub_region_code":"4281000000_Gangwondo_Inje"
+            "sub_region_code":"4281000000_Gangwondo_Inje",
+            "shorten_url":"https:\/\/me2.do\/55njqpJz"
         },
         {
             "index":19,
@@ -286,7 +309,8 @@
             "value_score":28.8909473684,
             "region":"강원도 인제군",
             "region_code":"Gangwondo",
-            "sub_region_code":"4281000000_Gangwondo_Inje"
+            "sub_region_code":"4281000000_Gangwondo_Inje",
+            "shorten_url":"https:\/\/me2.do\/55njqpJz"
         },
         {
             "index":20,
@@ -298,7 +322,8 @@
             "value_score":27.812,
             "region":"강원도 인제군",
             "region_code":"Gangwondo",
-            "sub_region_code":"4281000000_Gangwondo_Inje"
+            "sub_region_code":"4281000000_Gangwondo_Inje",
+            "shorten_url":"https:\/\/me2.do\/55njqpJz"
         },
         {
             "index":21,
@@ -310,7 +335,8 @@
             "value_score":26.4435789474,
             "region":"강원도 인제군",
             "region_code":"Gangwondo",
-            "sub_region_code":"4281000000_Gangwondo_Inje"
+            "sub_region_code":"4281000000_Gangwondo_Inje",
+            "shorten_url":"https:\/\/me2.do\/55njqpJz"
         },
         {
             "index":22,
@@ -322,7 +348,8 @@
             "value_score":24.7787368421,
             "region":"강원도 인제군",
             "region_code":"Gangwondo",
-            "sub_region_code":"4281000000_Gangwondo_Inje"
+            "sub_region_code":"4281000000_Gangwondo_Inje",
+            "shorten_url":"https:\/\/me2.do\/55njqpJz"
         },
         {
             "index":23,
@@ -334,7 +361,8 @@
             "value_score":24.2043157895,
             "region":"강원도 인제군",
             "region_code":"Gangwondo",
-            "sub_region_code":"4281000000_Gangwondo_Inje"
+            "sub_region_code":"4281000000_Gangwondo_Inje",
+            "shorten_url":"https:\/\/me2.do\/55njqpJz"
         },
         {
             "index":24,
@@ -346,7 +374,8 @@
             "value_score":23.1516842105,
             "region":"강원도 인제군",
             "region_code":"Gangwondo",
-            "sub_region_code":"4281000000_Gangwondo_Inje"
+            "sub_region_code":"4281000000_Gangwondo_Inje",
+            "shorten_url":"https:\/\/me2.do\/55njqpJz"
         },
         {
             "index":25,
@@ -358,7 +387,8 @@
             "value_score":22.3095789474,
             "region":"강원도 인제군",
             "region_code":"Gangwondo",
-            "sub_region_code":"4281000000_Gangwondo_Inje"
+            "sub_region_code":"4281000000_Gangwondo_Inje",
+            "shorten_url":"https:\/\/me2.do\/55njqpJz"
         },
         {
             "index":26,
@@ -370,7 +400,8 @@
             "value_score":16.4962105263,
             "region":"강원도 인제군",
             "region_code":"Gangwondo",
-            "sub_region_code":"4281000000_Gangwondo_Inje"
+            "sub_region_code":"4281000000_Gangwondo_Inje",
+            "shorten_url":"https:\/\/me2.do\/55njqpJz"
         },
         {
             "index":27,
@@ -382,7 +413,8 @@
             "value_score":39.969,
             "region":"강원도 인제군",
             "region_code":"Gangwondo",
-            "sub_region_code":"4281000000_Gangwondo_Inje"
+            "sub_region_code":"4281000000_Gangwondo_Inje",
+            "shorten_url":"https:\/\/me2.do\/55njqpJz"
         },
         {
             "index":28,
@@ -394,7 +426,8 @@
             "value_score":37.344,
             "region":"강원도 인제군",
             "region_code":"Gangwondo",
-            "sub_region_code":"4281000000_Gangwondo_Inje"
+            "sub_region_code":"4281000000_Gangwondo_Inje",
+            "shorten_url":"https:\/\/me2.do\/55njqpJz"
         },
         {
             "index":29,
@@ -406,7 +439,8 @@
             "value_score":32.233,
             "region":"강원도 인제군",
             "region_code":"Gangwondo",
-            "sub_region_code":"4281000000_Gangwondo_Inje"
+            "sub_region_code":"4281000000_Gangwondo_Inje",
+            "shorten_url":"https:\/\/me2.do\/55njqpJz"
         },
         {
             "index":30,
@@ -418,7 +452,8 @@
             "value_score":31.719,
             "region":"강원도 인제군",
             "region_code":"Gangwondo",
-            "sub_region_code":"4281000000_Gangwondo_Inje"
+            "sub_region_code":"4281000000_Gangwondo_Inje",
+            "shorten_url":"https:\/\/me2.do\/55njqpJz"
         },
         {
             "index":31,
@@ -430,7 +465,8 @@
             "value_score":31.494,
             "region":"강원도 인제군",
             "region_code":"Gangwondo",
-            "sub_region_code":"4281000000_Gangwondo_Inje"
+            "sub_region_code":"4281000000_Gangwondo_Inje",
+            "shorten_url":"https:\/\/me2.do\/55njqpJz"
         },
         {
             "index":32,
@@ -442,7 +478,8 @@
             "value_score":29.5735,
             "region":"강원도 인제군",
             "region_code":"Gangwondo",
-            "sub_region_code":"4281000000_Gangwondo_Inje"
+            "sub_region_code":"4281000000_Gangwondo_Inje",
+            "shorten_url":"https:\/\/me2.do\/55njqpJz"
         },
         {
             "index":33,
@@ -454,7 +491,8 @@
             "value_score":27.3235,
             "region":"강원도 인제군",
             "region_code":"Gangwondo",
-            "sub_region_code":"4281000000_Gangwondo_Inje"
+            "sub_region_code":"4281000000_Gangwondo_Inje",
+            "shorten_url":"https:\/\/me2.do\/55njqpJz"
         },
         {
             "index":34,
@@ -466,7 +504,8 @@
             "value_score":26.9235,
             "region":"강원도 인제군",
             "region_code":"Gangwondo",
-            "sub_region_code":"4281000000_Gangwondo_Inje"
+            "sub_region_code":"4281000000_Gangwondo_Inje",
+            "shorten_url":"https:\/\/me2.do\/55njqpJz"
         },
         {
             "index":35,
@@ -478,7 +517,8 @@
             "value_score":26.119,
             "region":"강원도 인제군",
             "region_code":"Gangwondo",
-            "sub_region_code":"4281000000_Gangwondo_Inje"
+            "sub_region_code":"4281000000_Gangwondo_Inje",
+            "shorten_url":"https:\/\/me2.do\/55njqpJz"
         }
     ]
 }

@@ -40,6 +40,10 @@
             {
                 "name":"sub_region_code",
                 "type":"string"
+            },
+            {
+                "name":"shorten_url",
+                "type":"string"
             }
         ],
         "primaryKey":[
@@ -58,7 +62,8 @@
             "value_score":39.4099,
             "region":"경기도 이천시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4150000000_Gyeonggi_Icheon"
+            "sub_region_code":"4150000000_Gyeonggi_Icheon",
+            "shorten_url":"https:\/\/me2.do\/GrMs9XSZ"
         },
         {
             "index":1,
@@ -70,7 +75,8 @@
             "value_score":38.147,
             "region":"경기도 이천시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4150000000_Gyeonggi_Icheon"
+            "sub_region_code":"4150000000_Gyeonggi_Icheon",
+            "shorten_url":"https:\/\/me2.do\/GrMs9XSZ"
         },
         {
             "index":2,
@@ -82,7 +88,8 @@
             "value_score":36.06335,
             "region":"경기도 이천시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4150000000_Gyeonggi_Icheon"
+            "sub_region_code":"4150000000_Gyeonggi_Icheon",
+            "shorten_url":"https:\/\/me2.do\/GrMs9XSZ"
         },
         {
             "index":3,
@@ -94,7 +101,8 @@
             "value_score":34.71335,
             "region":"경기도 이천시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4150000000_Gyeonggi_Icheon"
+            "sub_region_code":"4150000000_Gyeonggi_Icheon",
+            "shorten_url":"https:\/\/me2.do\/GrMs9XSZ"
         },
         {
             "index":4,
@@ -106,7 +114,8 @@
             "value_score":33.7671,
             "region":"경기도 이천시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4150000000_Gyeonggi_Icheon"
+            "sub_region_code":"4150000000_Gyeonggi_Icheon",
+            "shorten_url":"https:\/\/me2.do\/GrMs9XSZ"
         },
         {
             "index":5,
@@ -118,7 +127,8 @@
             "value_score":33.06335,
             "region":"경기도 이천시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4150000000_Gyeonggi_Icheon"
+            "sub_region_code":"4150000000_Gyeonggi_Icheon",
+            "shorten_url":"https:\/\/me2.do\/GrMs9XSZ"
         },
         {
             "index":6,
@@ -130,7 +140,8 @@
             "value_score":31.5099,
             "region":"경기도 이천시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4150000000_Gyeonggi_Icheon"
+            "sub_region_code":"4150000000_Gyeonggi_Icheon",
+            "shorten_url":"https:\/\/me2.do\/GrMs9XSZ"
         },
         {
             "index":7,
@@ -142,7 +153,8 @@
             "value_score":31.3635,
             "region":"경기도 이천시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4150000000_Gyeonggi_Icheon"
+            "sub_region_code":"4150000000_Gyeonggi_Icheon",
+            "shorten_url":"https:\/\/me2.do\/GrMs9XSZ"
         },
         {
             "index":8,
@@ -154,7 +166,8 @@
             "value_score":30.9299,
             "region":"경기도 이천시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4150000000_Gyeonggi_Icheon"
+            "sub_region_code":"4150000000_Gyeonggi_Icheon",
+            "shorten_url":"https:\/\/me2.do\/GrMs9XSZ"
         },
         {
             "index":9,
@@ -166,7 +179,8 @@
             "value_score":30.6135,
             "region":"경기도 이천시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4150000000_Gyeonggi_Icheon"
+            "sub_region_code":"4150000000_Gyeonggi_Icheon",
+            "shorten_url":"https:\/\/me2.do\/GrMs9XSZ"
         },
         {
             "index":10,
@@ -178,7 +192,8 @@
             "value_score":54.476,
             "region":"경기도 이천시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4150000000_Gyeonggi_Icheon"
+            "sub_region_code":"4150000000_Gyeonggi_Icheon",
+            "shorten_url":"https:\/\/me2.do\/GrMs9XSZ"
         },
         {
             "index":11,
@@ -190,7 +205,8 @@
             "value_score":52.0432,
             "region":"경기도 이천시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4150000000_Gyeonggi_Icheon"
+            "sub_region_code":"4150000000_Gyeonggi_Icheon",
+            "shorten_url":"https:\/\/me2.do\/GrMs9XSZ"
         },
         {
             "index":12,
@@ -202,7 +218,8 @@
             "value_score":51.1752,
             "region":"경기도 이천시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4150000000_Gyeonggi_Icheon"
+            "sub_region_code":"4150000000_Gyeonggi_Icheon",
+            "shorten_url":"https:\/\/me2.do\/GrMs9XSZ"
         },
         {
             "index":13,
@@ -214,7 +231,8 @@
             "value_score":51.1206,
             "region":"경기도 이천시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4150000000_Gyeonggi_Icheon"
+            "sub_region_code":"4150000000_Gyeonggi_Icheon",
+            "shorten_url":"https:\/\/me2.do\/GrMs9XSZ"
         },
         {
             "index":14,
@@ -226,7 +244,8 @@
             "value_score":49.3632,
             "region":"경기도 이천시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4150000000_Gyeonggi_Icheon"
+            "sub_region_code":"4150000000_Gyeonggi_Icheon",
+            "shorten_url":"https:\/\/me2.do\/GrMs9XSZ"
         },
         {
             "index":15,
@@ -238,7 +257,8 @@
             "value_score":46.8472,
             "region":"경기도 이천시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4150000000_Gyeonggi_Icheon"
+            "sub_region_code":"4150000000_Gyeonggi_Icheon",
+            "shorten_url":"https:\/\/me2.do\/GrMs9XSZ"
         },
         {
             "index":16,
@@ -250,7 +270,8 @@
             "value_score":45.8472,
             "region":"경기도 이천시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4150000000_Gyeonggi_Icheon"
+            "sub_region_code":"4150000000_Gyeonggi_Icheon",
+            "shorten_url":"https:\/\/me2.do\/GrMs9XSZ"
         },
         {
             "index":17,
@@ -262,7 +283,8 @@
             "value_score":45.793,
             "region":"경기도 이천시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4150000000_Gyeonggi_Icheon"
+            "sub_region_code":"4150000000_Gyeonggi_Icheon",
+            "shorten_url":"https:\/\/me2.do\/GrMs9XSZ"
         },
         {
             "index":18,
@@ -274,7 +296,8 @@
             "value_score":45.5443653424,
             "region":"경기도 이천시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4150000000_Gyeonggi_Icheon"
+            "sub_region_code":"4150000000_Gyeonggi_Icheon",
+            "shorten_url":"https:\/\/me2.do\/GrMs9XSZ"
         },
         {
             "index":19,
@@ -286,7 +309,8 @@
             "value_score":45.2728,
             "region":"경기도 이천시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4150000000_Gyeonggi_Icheon"
+            "sub_region_code":"4150000000_Gyeonggi_Icheon",
+            "shorten_url":"https:\/\/me2.do\/GrMs9XSZ"
         },
         {
             "index":20,
@@ -298,7 +322,8 @@
             "value_score":42.047,
             "region":"경기도 이천시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4150000000_Gyeonggi_Icheon"
+            "sub_region_code":"4150000000_Gyeonggi_Icheon",
+            "shorten_url":"https:\/\/me2.do\/GrMs9XSZ"
         },
         {
             "index":21,
@@ -310,7 +335,8 @@
             "value_score":41.9599,
             "region":"경기도 이천시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4150000000_Gyeonggi_Icheon"
+            "sub_region_code":"4150000000_Gyeonggi_Icheon",
+            "shorten_url":"https:\/\/me2.do\/GrMs9XSZ"
         },
         {
             "index":22,
@@ -322,7 +348,8 @@
             "value_score":39.06335,
             "region":"경기도 이천시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4150000000_Gyeonggi_Icheon"
+            "sub_region_code":"4150000000_Gyeonggi_Icheon",
+            "shorten_url":"https:\/\/me2.do\/GrMs9XSZ"
         },
         {
             "index":23,
@@ -334,7 +361,8 @@
             "value_score":35.31335,
             "region":"경기도 이천시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4150000000_Gyeonggi_Icheon"
+            "sub_region_code":"4150000000_Gyeonggi_Icheon",
+            "shorten_url":"https:\/\/me2.do\/GrMs9XSZ"
         },
         {
             "index":24,
@@ -346,7 +374,8 @@
             "value_score":34.6421,
             "region":"경기도 이천시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4150000000_Gyeonggi_Icheon"
+            "sub_region_code":"4150000000_Gyeonggi_Icheon",
+            "shorten_url":"https:\/\/me2.do\/GrMs9XSZ"
         },
         {
             "index":25,
@@ -358,7 +387,8 @@
             "value_score":32.58835,
             "region":"경기도 이천시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4150000000_Gyeonggi_Icheon"
+            "sub_region_code":"4150000000_Gyeonggi_Icheon",
+            "shorten_url":"https:\/\/me2.do\/GrMs9XSZ"
         },
         {
             "index":26,
@@ -370,7 +400,8 @@
             "value_score":32.0171,
             "region":"경기도 이천시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4150000000_Gyeonggi_Icheon"
+            "sub_region_code":"4150000000_Gyeonggi_Icheon",
+            "shorten_url":"https:\/\/me2.do\/GrMs9XSZ"
         },
         {
             "index":27,
@@ -382,7 +413,8 @@
             "value_score":31.2671,
             "region":"경기도 이천시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4150000000_Gyeonggi_Icheon"
+            "sub_region_code":"4150000000_Gyeonggi_Icheon",
+            "shorten_url":"https:\/\/me2.do\/GrMs9XSZ"
         },
         {
             "index":28,
@@ -394,7 +426,8 @@
             "value_score":30.73835,
             "region":"경기도 이천시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4150000000_Gyeonggi_Icheon"
+            "sub_region_code":"4150000000_Gyeonggi_Icheon",
+            "shorten_url":"https:\/\/me2.do\/GrMs9XSZ"
         },
         {
             "index":29,
@@ -406,7 +439,8 @@
             "value_score":30.2671,
             "region":"경기도 이천시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4150000000_Gyeonggi_Icheon"
+            "sub_region_code":"4150000000_Gyeonggi_Icheon",
+            "shorten_url":"https:\/\/me2.do\/GrMs9XSZ"
         },
         {
             "index":30,
@@ -418,7 +452,8 @@
             "value_score":44.5225,
             "region":"경기도 이천시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4150000000_Gyeonggi_Icheon"
+            "sub_region_code":"4150000000_Gyeonggi_Icheon",
+            "shorten_url":"https:\/\/me2.do\/GrMs9XSZ"
         },
         {
             "index":31,
@@ -430,7 +465,8 @@
             "value_score":40.8725,
             "region":"경기도 이천시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4150000000_Gyeonggi_Icheon"
+            "sub_region_code":"4150000000_Gyeonggi_Icheon",
+            "shorten_url":"https:\/\/me2.do\/GrMs9XSZ"
         },
         {
             "index":32,
@@ -442,7 +478,8 @@
             "value_score":39.1225,
             "region":"경기도 이천시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4150000000_Gyeonggi_Icheon"
+            "sub_region_code":"4150000000_Gyeonggi_Icheon",
+            "shorten_url":"https:\/\/me2.do\/GrMs9XSZ"
         },
         {
             "index":33,
@@ -454,7 +491,8 @@
             "value_score":38.1665,
             "region":"경기도 이천시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4150000000_Gyeonggi_Icheon"
+            "sub_region_code":"4150000000_Gyeonggi_Icheon",
+            "shorten_url":"https:\/\/me2.do\/GrMs9XSZ"
         },
         {
             "index":34,
@@ -466,7 +504,8 @@
             "value_score":37.7725,
             "region":"경기도 이천시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4150000000_Gyeonggi_Icheon"
+            "sub_region_code":"4150000000_Gyeonggi_Icheon",
+            "shorten_url":"https:\/\/me2.do\/GrMs9XSZ"
         },
         {
             "index":35,
@@ -478,7 +517,8 @@
             "value_score":37.27225,
             "region":"경기도 이천시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4150000000_Gyeonggi_Icheon"
+            "sub_region_code":"4150000000_Gyeonggi_Icheon",
+            "shorten_url":"https:\/\/me2.do\/GrMs9XSZ"
         },
         {
             "index":36,
@@ -490,7 +530,8 @@
             "value_score":36.5725,
             "region":"경기도 이천시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4150000000_Gyeonggi_Icheon"
+            "sub_region_code":"4150000000_Gyeonggi_Icheon",
+            "shorten_url":"https:\/\/me2.do\/GrMs9XSZ"
         },
         {
             "index":37,
@@ -502,7 +543,8 @@
             "value_score":36.1725,
             "region":"경기도 이천시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4150000000_Gyeonggi_Icheon"
+            "sub_region_code":"4150000000_Gyeonggi_Icheon",
+            "shorten_url":"https:\/\/me2.do\/GrMs9XSZ"
         },
         {
             "index":38,
@@ -514,7 +556,8 @@
             "value_score":36.067956678,
             "region":"경기도 이천시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4150000000_Gyeonggi_Icheon"
+            "sub_region_code":"4150000000_Gyeonggi_Icheon",
+            "shorten_url":"https:\/\/me2.do\/GrMs9XSZ"
         },
         {
             "index":39,
@@ -526,7 +569,8 @@
             "value_score":35.984,
             "region":"경기도 이천시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4150000000_Gyeonggi_Icheon"
+            "sub_region_code":"4150000000_Gyeonggi_Icheon",
+            "shorten_url":"https:\/\/me2.do\/GrMs9XSZ"
         },
         {
             "index":40,
@@ -538,7 +582,8 @@
             "value_score":48.333,
             "region":"경기도 이천시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4150000000_Gyeonggi_Icheon"
+            "sub_region_code":"4150000000_Gyeonggi_Icheon",
+            "shorten_url":"https:\/\/me2.do\/GrMs9XSZ"
         },
         {
             "index":41,
@@ -550,7 +595,8 @@
             "value_score":47.968,
             "region":"경기도 이천시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4150000000_Gyeonggi_Icheon"
+            "sub_region_code":"4150000000_Gyeonggi_Icheon",
+            "shorten_url":"https:\/\/me2.do\/GrMs9XSZ"
         },
         {
             "index":42,
@@ -562,7 +608,8 @@
             "value_score":47.57,
             "region":"경기도 이천시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4150000000_Gyeonggi_Icheon"
+            "sub_region_code":"4150000000_Gyeonggi_Icheon",
+            "shorten_url":"https:\/\/me2.do\/GrMs9XSZ"
         },
         {
             "index":43,
@@ -574,7 +621,8 @@
             "value_score":47.335913356,
             "region":"경기도 이천시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4150000000_Gyeonggi_Icheon"
+            "sub_region_code":"4150000000_Gyeonggi_Icheon",
+            "shorten_url":"https:\/\/me2.do\/GrMs9XSZ"
         },
         {
             "index":44,
@@ -586,7 +634,8 @@
             "value_score":46.745,
             "region":"경기도 이천시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4150000000_Gyeonggi_Icheon"
+            "sub_region_code":"4150000000_Gyeonggi_Icheon",
+            "shorten_url":"https:\/\/me2.do\/GrMs9XSZ"
         },
         {
             "index":45,
@@ -598,7 +647,8 @@
             "value_score":45.945,
             "region":"경기도 이천시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4150000000_Gyeonggi_Icheon"
+            "sub_region_code":"4150000000_Gyeonggi_Icheon",
+            "shorten_url":"https:\/\/me2.do\/GrMs9XSZ"
         },
         {
             "index":46,
@@ -610,7 +660,8 @@
             "value_score":45.868,
             "region":"경기도 이천시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4150000000_Gyeonggi_Icheon"
+            "sub_region_code":"4150000000_Gyeonggi_Icheon",
+            "shorten_url":"https:\/\/me2.do\/GrMs9XSZ"
         },
         {
             "index":47,
@@ -622,7 +673,8 @@
             "value_score":45.748,
             "region":"경기도 이천시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4150000000_Gyeonggi_Icheon"
+            "sub_region_code":"4150000000_Gyeonggi_Icheon",
+            "shorten_url":"https:\/\/me2.do\/GrMs9XSZ"
         },
         {
             "index":48,
@@ -634,7 +686,8 @@
             "value_score":45.5445,
             "region":"경기도 이천시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4150000000_Gyeonggi_Icheon"
+            "sub_region_code":"4150000000_Gyeonggi_Icheon",
+            "shorten_url":"https:\/\/me2.do\/GrMs9XSZ"
         },
         {
             "index":49,
@@ -646,7 +699,8 @@
             "value_score":44.645,
             "region":"경기도 이천시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4150000000_Gyeonggi_Icheon"
+            "sub_region_code":"4150000000_Gyeonggi_Icheon",
+            "shorten_url":"https:\/\/me2.do\/GrMs9XSZ"
         }
     ]
 }

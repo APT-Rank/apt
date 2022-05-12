@@ -40,6 +40,10 @@
             {
                 "name":"sub_region_code",
                 "type":"string"
+            },
+            {
+                "name":"shorten_url",
+                "type":"string"
             }
         ],
         "primaryKey":[
@@ -58,7 +62,8 @@
             "value_score":59.0944,
             "region":"충청남도 당진시",
             "region_code":"Chungcheongnamdo",
-            "sub_region_code":"4427000000_Chungcheongnamdo_Dangjin"
+            "sub_region_code":"4427000000_Chungcheongnamdo_Dangjin",
+            "shorten_url":"https:\/\/me2.do\/5K8MRS1U"
         },
         {
             "index":1,
@@ -70,7 +75,8 @@
             "value_score":58.0797,
             "region":"충청남도 당진시",
             "region_code":"Chungcheongnamdo",
-            "sub_region_code":"4427000000_Chungcheongnamdo_Dangjin"
+            "sub_region_code":"4427000000_Chungcheongnamdo_Dangjin",
+            "shorten_url":"https:\/\/me2.do\/5K8MRS1U"
         },
         {
             "index":2,
@@ -82,7 +88,8 @@
             "value_score":56.5797,
             "region":"충청남도 당진시",
             "region_code":"Chungcheongnamdo",
-            "sub_region_code":"4427000000_Chungcheongnamdo_Dangjin"
+            "sub_region_code":"4427000000_Chungcheongnamdo_Dangjin",
+            "shorten_url":"https:\/\/me2.do\/5K8MRS1U"
         },
         {
             "index":3,
@@ -94,7 +101,8 @@
             "value_score":56.5797,
             "region":"충청남도 당진시",
             "region_code":"Chungcheongnamdo",
-            "sub_region_code":"4427000000_Chungcheongnamdo_Dangjin"
+            "sub_region_code":"4427000000_Chungcheongnamdo_Dangjin",
+            "shorten_url":"https:\/\/me2.do\/5K8MRS1U"
         },
         {
             "index":4,
@@ -106,7 +114,8 @@
             "value_score":56.5797,
             "region":"충청남도 당진시",
             "region_code":"Chungcheongnamdo",
-            "sub_region_code":"4427000000_Chungcheongnamdo_Dangjin"
+            "sub_region_code":"4427000000_Chungcheongnamdo_Dangjin",
+            "shorten_url":"https:\/\/me2.do\/5K8MRS1U"
         },
         {
             "index":5,
@@ -118,7 +127,8 @@
             "value_score":56.2297,
             "region":"충청남도 당진시",
             "region_code":"Chungcheongnamdo",
-            "sub_region_code":"4427000000_Chungcheongnamdo_Dangjin"
+            "sub_region_code":"4427000000_Chungcheongnamdo_Dangjin",
+            "shorten_url":"https:\/\/me2.do\/5K8MRS1U"
         },
         {
             "index":6,
@@ -130,7 +140,8 @@
             "value_score":55.1797,
             "region":"충청남도 당진시",
             "region_code":"Chungcheongnamdo",
-            "sub_region_code":"4427000000_Chungcheongnamdo_Dangjin"
+            "sub_region_code":"4427000000_Chungcheongnamdo_Dangjin",
+            "shorten_url":"https:\/\/me2.do\/5K8MRS1U"
         },
         {
             "index":7,
@@ -142,7 +153,8 @@
             "value_score":54.2944,
             "region":"충청남도 당진시",
             "region_code":"Chungcheongnamdo",
-            "sub_region_code":"4427000000_Chungcheongnamdo_Dangjin"
+            "sub_region_code":"4427000000_Chungcheongnamdo_Dangjin",
+            "shorten_url":"https:\/\/me2.do\/5K8MRS1U"
         },
         {
             "index":8,
@@ -154,7 +166,8 @@
             "value_score":53.3797,
             "region":"충청남도 당진시",
             "region_code":"Chungcheongnamdo",
-            "sub_region_code":"4427000000_Chungcheongnamdo_Dangjin"
+            "sub_region_code":"4427000000_Chungcheongnamdo_Dangjin",
+            "shorten_url":"https:\/\/me2.do\/5K8MRS1U"
         },
         {
             "index":9,
@@ -166,7 +179,8 @@
             "value_score":52.1797,
             "region":"충청남도 당진시",
             "region_code":"Chungcheongnamdo",
-            "sub_region_code":"4427000000_Chungcheongnamdo_Dangjin"
+            "sub_region_code":"4427000000_Chungcheongnamdo_Dangjin",
+            "shorten_url":"https:\/\/me2.do\/5K8MRS1U"
         },
         {
             "index":10,
@@ -178,7 +192,8 @@
             "value_score":62.496,
             "region":"충청남도 당진시",
             "region_code":"Chungcheongnamdo",
-            "sub_region_code":"4427000000_Chungcheongnamdo_Dangjin"
+            "sub_region_code":"4427000000_Chungcheongnamdo_Dangjin",
+            "shorten_url":"https:\/\/me2.do\/5K8MRS1U"
         },
         {
             "index":11,
@@ -190,7 +205,8 @@
             "value_score":61.7355,
             "region":"충청남도 당진시",
             "region_code":"Chungcheongnamdo",
-            "sub_region_code":"4427000000_Chungcheongnamdo_Dangjin"
+            "sub_region_code":"4427000000_Chungcheongnamdo_Dangjin",
+            "shorten_url":"https:\/\/me2.do\/5K8MRS1U"
         },
         {
             "index":12,
@@ -202,7 +218,8 @@
             "value_score":60.2355,
             "region":"충청남도 당진시",
             "region_code":"Chungcheongnamdo",
-            "sub_region_code":"4427000000_Chungcheongnamdo_Dangjin"
+            "sub_region_code":"4427000000_Chungcheongnamdo_Dangjin",
+            "shorten_url":"https:\/\/me2.do\/5K8MRS1U"
         },
         {
             "index":13,
@@ -214,7 +231,8 @@
             "value_score":60.2355,
             "region":"충청남도 당진시",
             "region_code":"Chungcheongnamdo",
-            "sub_region_code":"4427000000_Chungcheongnamdo_Dangjin"
+            "sub_region_code":"4427000000_Chungcheongnamdo_Dangjin",
+            "shorten_url":"https:\/\/me2.do\/5K8MRS1U"
         },
         {
             "index":14,
@@ -226,7 +244,8 @@
             "value_score":60.2355,
             "region":"충청남도 당진시",
             "region_code":"Chungcheongnamdo",
-            "sub_region_code":"4427000000_Chungcheongnamdo_Dangjin"
+            "sub_region_code":"4427000000_Chungcheongnamdo_Dangjin",
+            "shorten_url":"https:\/\/me2.do\/5K8MRS1U"
         },
         {
             "index":15,
@@ -238,7 +257,8 @@
             "value_score":58.4855,
             "region":"충청남도 당진시",
             "region_code":"Chungcheongnamdo",
-            "sub_region_code":"4427000000_Chungcheongnamdo_Dangjin"
+            "sub_region_code":"4427000000_Chungcheongnamdo_Dangjin",
+            "shorten_url":"https:\/\/me2.do\/5K8MRS1U"
         },
         {
             "index":16,
@@ -250,7 +270,8 @@
             "value_score":56.496,
             "region":"충청남도 당진시",
             "region_code":"Chungcheongnamdo",
-            "sub_region_code":"4427000000_Chungcheongnamdo_Dangjin"
+            "sub_region_code":"4427000000_Chungcheongnamdo_Dangjin",
+            "shorten_url":"https:\/\/me2.do\/5K8MRS1U"
         },
         {
             "index":17,
@@ -262,7 +283,8 @@
             "value_score":56.2355,
             "region":"충청남도 당진시",
             "region_code":"Chungcheongnamdo",
-            "sub_region_code":"4427000000_Chungcheongnamdo_Dangjin"
+            "sub_region_code":"4427000000_Chungcheongnamdo_Dangjin",
+            "shorten_url":"https:\/\/me2.do\/5K8MRS1U"
         },
         {
             "index":18,
@@ -274,7 +296,8 @@
             "value_score":56.2355,
             "region":"충청남도 당진시",
             "region_code":"Chungcheongnamdo",
-            "sub_region_code":"4427000000_Chungcheongnamdo_Dangjin"
+            "sub_region_code":"4427000000_Chungcheongnamdo_Dangjin",
+            "shorten_url":"https:\/\/me2.do\/5K8MRS1U"
         },
         {
             "index":19,
@@ -286,7 +309,8 @@
             "value_score":53.9855,
             "region":"충청남도 당진시",
             "region_code":"Chungcheongnamdo",
-            "sub_region_code":"4427000000_Chungcheongnamdo_Dangjin"
+            "sub_region_code":"4427000000_Chungcheongnamdo_Dangjin",
+            "shorten_url":"https:\/\/me2.do\/5K8MRS1U"
         },
         {
             "index":20,
@@ -298,7 +322,8 @@
             "value_score":46.5606315789,
             "region":"충청남도 당진시",
             "region_code":"Chungcheongnamdo",
-            "sub_region_code":"4427000000_Chungcheongnamdo_Dangjin"
+            "sub_region_code":"4427000000_Chungcheongnamdo_Dangjin",
+            "shorten_url":"https:\/\/me2.do\/5K8MRS1U"
         },
         {
             "index":21,
@@ -310,7 +335,8 @@
             "value_score":46.2448421053,
             "region":"충청남도 당진시",
             "region_code":"Chungcheongnamdo",
-            "sub_region_code":"4427000000_Chungcheongnamdo_Dangjin"
+            "sub_region_code":"4427000000_Chungcheongnamdo_Dangjin",
+            "shorten_url":"https:\/\/me2.do\/5K8MRS1U"
         },
         {
             "index":22,
@@ -322,7 +348,8 @@
             "value_score":45.7448421053,
             "region":"충청남도 당진시",
             "region_code":"Chungcheongnamdo",
-            "sub_region_code":"4427000000_Chungcheongnamdo_Dangjin"
+            "sub_region_code":"4427000000_Chungcheongnamdo_Dangjin",
+            "shorten_url":"https:\/\/me2.do\/5K8MRS1U"
         },
         {
             "index":23,
@@ -334,7 +361,8 @@
             "value_score":45.3764210526,
             "region":"충청남도 당진시",
             "region_code":"Chungcheongnamdo",
-            "sub_region_code":"4427000000_Chungcheongnamdo_Dangjin"
+            "sub_region_code":"4427000000_Chungcheongnamdo_Dangjin",
+            "shorten_url":"https:\/\/me2.do\/5K8MRS1U"
         },
         {
             "index":24,
@@ -346,7 +374,8 @@
             "value_score":45.0606315789,
             "region":"충청남도 당진시",
             "region_code":"Chungcheongnamdo",
-            "sub_region_code":"4427000000_Chungcheongnamdo_Dangjin"
+            "sub_region_code":"4427000000_Chungcheongnamdo_Dangjin",
+            "shorten_url":"https:\/\/me2.do\/5K8MRS1U"
         },
         {
             "index":25,
@@ -358,7 +387,8 @@
             "value_score":44.4632631579,
             "region":"충청남도 당진시",
             "region_code":"Chungcheongnamdo",
-            "sub_region_code":"4427000000_Chungcheongnamdo_Dangjin"
+            "sub_region_code":"4427000000_Chungcheongnamdo_Dangjin",
+            "shorten_url":"https:\/\/me2.do\/5K8MRS1U"
         },
         {
             "index":26,
@@ -370,7 +400,8 @@
             "value_score":43.2448421053,
             "region":"충청남도 당진시",
             "region_code":"Chungcheongnamdo",
-            "sub_region_code":"4427000000_Chungcheongnamdo_Dangjin"
+            "sub_region_code":"4427000000_Chungcheongnamdo_Dangjin",
+            "shorten_url":"https:\/\/me2.do\/5K8MRS1U"
         },
         {
             "index":27,
@@ -382,7 +413,8 @@
             "value_score":42.5948421053,
             "region":"충청남도 당진시",
             "region_code":"Chungcheongnamdo",
-            "sub_region_code":"4427000000_Chungcheongnamdo_Dangjin"
+            "sub_region_code":"4427000000_Chungcheongnamdo_Dangjin",
+            "shorten_url":"https:\/\/me2.do\/5K8MRS1U"
         },
         {
             "index":28,
@@ -394,7 +426,8 @@
             "value_score":42.5738947368,
             "region":"충청남도 당진시",
             "region_code":"Chungcheongnamdo",
-            "sub_region_code":"4427000000_Chungcheongnamdo_Dangjin"
+            "sub_region_code":"4427000000_Chungcheongnamdo_Dangjin",
+            "shorten_url":"https:\/\/me2.do\/5K8MRS1U"
         },
         {
             "index":29,
@@ -406,7 +439,8 @@
             "value_score":42.2185263158,
             "region":"충청남도 당진시",
             "region_code":"Chungcheongnamdo",
-            "sub_region_code":"4427000000_Chungcheongnamdo_Dangjin"
+            "sub_region_code":"4427000000_Chungcheongnamdo_Dangjin",
+            "shorten_url":"https:\/\/me2.do\/5K8MRS1U"
         },
         {
             "index":30,
@@ -418,7 +452,8 @@
             "value_score":56.221,
             "region":"충청남도 당진시",
             "region_code":"Chungcheongnamdo",
-            "sub_region_code":"4427000000_Chungcheongnamdo_Dangjin"
+            "sub_region_code":"4427000000_Chungcheongnamdo_Dangjin",
+            "shorten_url":"https:\/\/me2.do\/5K8MRS1U"
         },
         {
             "index":31,
@@ -430,7 +465,8 @@
             "value_score":53.992,
             "region":"충청남도 당진시",
             "region_code":"Chungcheongnamdo",
-            "sub_region_code":"4427000000_Chungcheongnamdo_Dangjin"
+            "sub_region_code":"4427000000_Chungcheongnamdo_Dangjin",
+            "shorten_url":"https:\/\/me2.do\/5K8MRS1U"
         },
         {
             "index":32,
@@ -442,7 +478,8 @@
             "value_score":53.971,
             "region":"충청남도 당진시",
             "region_code":"Chungcheongnamdo",
-            "sub_region_code":"4427000000_Chungcheongnamdo_Dangjin"
+            "sub_region_code":"4427000000_Chungcheongnamdo_Dangjin",
+            "shorten_url":"https:\/\/me2.do\/5K8MRS1U"
         },
         {
             "index":33,
@@ -454,7 +491,8 @@
             "value_score":52.596,
             "region":"충청남도 당진시",
             "region_code":"Chungcheongnamdo",
-            "sub_region_code":"4427000000_Chungcheongnamdo_Dangjin"
+            "sub_region_code":"4427000000_Chungcheongnamdo_Dangjin",
+            "shorten_url":"https:\/\/me2.do\/5K8MRS1U"
         },
         {
             "index":34,
@@ -466,7 +504,8 @@
             "value_score":52.096,
             "region":"충청남도 당진시",
             "region_code":"Chungcheongnamdo",
-            "sub_region_code":"4427000000_Chungcheongnamdo_Dangjin"
+            "sub_region_code":"4427000000_Chungcheongnamdo_Dangjin",
+            "shorten_url":"https:\/\/me2.do\/5K8MRS1U"
         },
         {
             "index":35,
@@ -478,7 +517,8 @@
             "value_score":51.096,
             "region":"충청남도 당진시",
             "region_code":"Chungcheongnamdo",
-            "sub_region_code":"4427000000_Chungcheongnamdo_Dangjin"
+            "sub_region_code":"4427000000_Chungcheongnamdo_Dangjin",
+            "shorten_url":"https:\/\/me2.do\/5K8MRS1U"
         },
         {
             "index":36,
@@ -490,7 +530,8 @@
             "value_score":51.096,
             "region":"충청남도 당진시",
             "region_code":"Chungcheongnamdo",
-            "sub_region_code":"4427000000_Chungcheongnamdo_Dangjin"
+            "sub_region_code":"4427000000_Chungcheongnamdo_Dangjin",
+            "shorten_url":"https:\/\/me2.do\/5K8MRS1U"
         },
         {
             "index":37,
@@ -502,7 +543,8 @@
             "value_score":51.096,
             "region":"충청남도 당진시",
             "region_code":"Chungcheongnamdo",
-            "sub_region_code":"4427000000_Chungcheongnamdo_Dangjin"
+            "sub_region_code":"4427000000_Chungcheongnamdo_Dangjin",
+            "shorten_url":"https:\/\/me2.do\/5K8MRS1U"
         },
         {
             "index":38,
@@ -514,7 +556,8 @@
             "value_score":50.992,
             "region":"충청남도 당진시",
             "region_code":"Chungcheongnamdo",
-            "sub_region_code":"4427000000_Chungcheongnamdo_Dangjin"
+            "sub_region_code":"4427000000_Chungcheongnamdo_Dangjin",
+            "shorten_url":"https:\/\/me2.do\/5K8MRS1U"
         },
         {
             "index":39,
@@ -526,7 +569,8 @@
             "value_score":50.846,
             "region":"충청남도 당진시",
             "region_code":"Chungcheongnamdo",
-            "sub_region_code":"4427000000_Chungcheongnamdo_Dangjin"
+            "sub_region_code":"4427000000_Chungcheongnamdo_Dangjin",
+            "shorten_url":"https:\/\/me2.do\/5K8MRS1U"
         }
     ]
 }

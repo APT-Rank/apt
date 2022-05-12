@@ -40,6 +40,10 @@
             {
                 "name":"sub_region_code",
                 "type":"string"
+            },
+            {
+                "name":"shorten_url",
+                "type":"string"
             }
         ],
         "primaryKey":[
@@ -58,7 +62,8 @@
             "value_score":49.6464,
             "region":"경기도 파주시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4148000000_Gyeonggi_Paju"
+            "sub_region_code":"4148000000_Gyeonggi_Paju",
+            "shorten_url":"https:\/\/me2.do\/xCrXoeBq"
         },
         {
             "index":1,
@@ -70,7 +75,8 @@
             "value_score":49.1964,
             "region":"경기도 파주시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4148000000_Gyeonggi_Paju"
+            "sub_region_code":"4148000000_Gyeonggi_Paju",
+            "shorten_url":"https:\/\/me2.do\/xCrXoeBq"
         },
         {
             "index":2,
@@ -82,7 +88,8 @@
             "value_score":49.0464,
             "region":"경기도 파주시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4148000000_Gyeonggi_Paju"
+            "sub_region_code":"4148000000_Gyeonggi_Paju",
+            "shorten_url":"https:\/\/me2.do\/xCrXoeBq"
         },
         {
             "index":3,
@@ -94,7 +101,8 @@
             "value_score":45.9164,
             "region":"경기도 파주시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4148000000_Gyeonggi_Paju"
+            "sub_region_code":"4148000000_Gyeonggi_Paju",
+            "shorten_url":"https:\/\/me2.do\/xCrXoeBq"
         },
         {
             "index":4,
@@ -106,7 +114,8 @@
             "value_score":44.5464,
             "region":"경기도 파주시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4148000000_Gyeonggi_Paju"
+            "sub_region_code":"4148000000_Gyeonggi_Paju",
+            "shorten_url":"https:\/\/me2.do\/xCrXoeBq"
         },
         {
             "index":5,
@@ -118,7 +127,8 @@
             "value_score":44.0964,
             "region":"경기도 파주시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4148000000_Gyeonggi_Paju"
+            "sub_region_code":"4148000000_Gyeonggi_Paju",
+            "shorten_url":"https:\/\/me2.do\/xCrXoeBq"
         },
         {
             "index":6,
@@ -130,7 +140,8 @@
             "value_score":43.82385,
             "region":"경기도 파주시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4148000000_Gyeonggi_Paju"
+            "sub_region_code":"4148000000_Gyeonggi_Paju",
+            "shorten_url":"https:\/\/me2.do\/xCrXoeBq"
         },
         {
             "index":7,
@@ -142,7 +153,8 @@
             "value_score":43.7164,
             "region":"경기도 파주시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4148000000_Gyeonggi_Paju"
+            "sub_region_code":"4148000000_Gyeonggi_Paju",
+            "shorten_url":"https:\/\/me2.do\/xCrXoeBq"
         },
         {
             "index":8,
@@ -154,7 +166,8 @@
             "value_score":42.9164,
             "region":"경기도 파주시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4148000000_Gyeonggi_Paju"
+            "sub_region_code":"4148000000_Gyeonggi_Paju",
+            "shorten_url":"https:\/\/me2.do\/xCrXoeBq"
         },
         {
             "index":9,
@@ -166,7 +179,8 @@
             "value_score":42.8464,
             "region":"경기도 파주시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4148000000_Gyeonggi_Paju"
+            "sub_region_code":"4148000000_Gyeonggi_Paju",
+            "shorten_url":"https:\/\/me2.do\/xCrXoeBq"
         },
         {
             "index":10,
@@ -178,7 +192,8 @@
             "value_score":66.2952,
             "region":"경기도 파주시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4148000000_Gyeonggi_Paju"
+            "sub_region_code":"4148000000_Gyeonggi_Paju",
+            "shorten_url":"https:\/\/me2.do\/xCrXoeBq"
         },
         {
             "index":11,
@@ -190,7 +205,8 @@
             "value_score":65.7452,
             "region":"경기도 파주시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4148000000_Gyeonggi_Paju"
+            "sub_region_code":"4148000000_Gyeonggi_Paju",
+            "shorten_url":"https:\/\/me2.do\/xCrXoeBq"
         },
         {
             "index":12,
@@ -202,7 +218,8 @@
             "value_score":65.4952,
             "region":"경기도 파주시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4148000000_Gyeonggi_Paju"
+            "sub_region_code":"4148000000_Gyeonggi_Paju",
+            "shorten_url":"https:\/\/me2.do\/xCrXoeBq"
         },
         {
             "index":13,
@@ -214,7 +231,8 @@
             "value_score":64.8952,
             "region":"경기도 파주시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4148000000_Gyeonggi_Paju"
+            "sub_region_code":"4148000000_Gyeonggi_Paju",
+            "shorten_url":"https:\/\/me2.do\/xCrXoeBq"
         },
         {
             "index":14,
@@ -226,7 +244,8 @@
             "value_score":63.6952,
             "region":"경기도 파주시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4148000000_Gyeonggi_Paju"
+            "sub_region_code":"4148000000_Gyeonggi_Paju",
+            "shorten_url":"https:\/\/me2.do\/xCrXoeBq"
         },
         {
             "index":15,
@@ -238,7 +257,8 @@
             "value_score":63.2984,
             "region":"경기도 파주시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4148000000_Gyeonggi_Paju"
+            "sub_region_code":"4148000000_Gyeonggi_Paju",
+            "shorten_url":"https:\/\/me2.do\/xCrXoeBq"
         },
         {
             "index":16,
@@ -250,7 +270,8 @@
             "value_score":63.0452,
             "region":"경기도 파주시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4148000000_Gyeonggi_Paju"
+            "sub_region_code":"4148000000_Gyeonggi_Paju",
+            "shorten_url":"https:\/\/me2.do\/xCrXoeBq"
         },
         {
             "index":17,
@@ -262,7 +283,8 @@
             "value_score":62.9952,
             "region":"경기도 파주시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4148000000_Gyeonggi_Paju"
+            "sub_region_code":"4148000000_Gyeonggi_Paju",
+            "shorten_url":"https:\/\/me2.do\/xCrXoeBq"
         },
         {
             "index":18,
@@ -274,7 +296,8 @@
             "value_score":62.8252,
             "region":"경기도 파주시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4148000000_Gyeonggi_Paju"
+            "sub_region_code":"4148000000_Gyeonggi_Paju",
+            "shorten_url":"https:\/\/me2.do\/xCrXoeBq"
         },
         {
             "index":19,
@@ -286,7 +309,8 @@
             "value_score":62.3484,
             "region":"경기도 파주시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4148000000_Gyeonggi_Paju"
+            "sub_region_code":"4148000000_Gyeonggi_Paju",
+            "shorten_url":"https:\/\/me2.do\/xCrXoeBq"
         },
         {
             "index":20,
@@ -298,7 +322,8 @@
             "value_score":50.2464,
             "region":"경기도 파주시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4148000000_Gyeonggi_Paju"
+            "sub_region_code":"4148000000_Gyeonggi_Paju",
+            "shorten_url":"https:\/\/me2.do\/xCrXoeBq"
         },
         {
             "index":21,
@@ -310,7 +335,8 @@
             "value_score":48.8464,
             "region":"경기도 파주시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4148000000_Gyeonggi_Paju"
+            "sub_region_code":"4148000000_Gyeonggi_Paju",
+            "shorten_url":"https:\/\/me2.do\/xCrXoeBq"
         },
         {
             "index":22,
@@ -322,7 +348,8 @@
             "value_score":47.1464,
             "region":"경기도 파주시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4148000000_Gyeonggi_Paju"
+            "sub_region_code":"4148000000_Gyeonggi_Paju",
+            "shorten_url":"https:\/\/me2.do\/xCrXoeBq"
         },
         {
             "index":23,
@@ -334,7 +361,8 @@
             "value_score":44.58385,
             "region":"경기도 파주시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4148000000_Gyeonggi_Paju"
+            "sub_region_code":"4148000000_Gyeonggi_Paju",
+            "shorten_url":"https:\/\/me2.do\/xCrXoeBq"
         },
         {
             "index":24,
@@ -346,7 +374,8 @@
             "value_score":43.3014,
             "region":"경기도 파주시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4148000000_Gyeonggi_Paju"
+            "sub_region_code":"4148000000_Gyeonggi_Paju",
+            "shorten_url":"https:\/\/me2.do\/xCrXoeBq"
         },
         {
             "index":25,
@@ -358,7 +387,8 @@
             "value_score":42.7488,
             "region":"경기도 파주시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4148000000_Gyeonggi_Paju"
+            "sub_region_code":"4148000000_Gyeonggi_Paju",
+            "shorten_url":"https:\/\/me2.do\/xCrXoeBq"
         },
         {
             "index":26,
@@ -370,7 +400,8 @@
             "value_score":41.5764,
             "region":"경기도 파주시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4148000000_Gyeonggi_Paju"
+            "sub_region_code":"4148000000_Gyeonggi_Paju",
+            "shorten_url":"https:\/\/me2.do\/xCrXoeBq"
         },
         {
             "index":27,
@@ -382,7 +413,8 @@
             "value_score":41.1464,
             "region":"경기도 파주시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4148000000_Gyeonggi_Paju"
+            "sub_region_code":"4148000000_Gyeonggi_Paju",
+            "shorten_url":"https:\/\/me2.do\/xCrXoeBq"
         },
         {
             "index":28,
@@ -394,7 +426,8 @@
             "value_score":41.13385,
             "region":"경기도 파주시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4148000000_Gyeonggi_Paju"
+            "sub_region_code":"4148000000_Gyeonggi_Paju",
+            "shorten_url":"https:\/\/me2.do\/xCrXoeBq"
         },
         {
             "index":29,
@@ -406,7 +439,8 @@
             "value_score":40.9618,
             "region":"경기도 파주시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4148000000_Gyeonggi_Paju"
+            "sub_region_code":"4148000000_Gyeonggi_Paju",
+            "shorten_url":"https:\/\/me2.do\/xCrXoeBq"
         },
         {
             "index":30,
@@ -418,7 +452,8 @@
             "value_score":53.144,
             "region":"경기도 파주시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4148000000_Gyeonggi_Paju"
+            "sub_region_code":"4148000000_Gyeonggi_Paju",
+            "shorten_url":"https:\/\/me2.do\/xCrXoeBq"
         },
         {
             "index":31,
@@ -430,7 +465,8 @@
             "value_score":51.244,
             "region":"경기도 파주시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4148000000_Gyeonggi_Paju"
+            "sub_region_code":"4148000000_Gyeonggi_Paju",
+            "shorten_url":"https:\/\/me2.do\/xCrXoeBq"
         },
         {
             "index":32,
@@ -442,7 +478,8 @@
             "value_score":47.294,
             "region":"경기도 파주시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4148000000_Gyeonggi_Paju"
+            "sub_region_code":"4148000000_Gyeonggi_Paju",
+            "shorten_url":"https:\/\/me2.do\/xCrXoeBq"
         },
         {
             "index":33,
@@ -454,7 +491,8 @@
             "value_score":47.244,
             "region":"경기도 파주시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4148000000_Gyeonggi_Paju"
+            "sub_region_code":"4148000000_Gyeonggi_Paju",
+            "shorten_url":"https:\/\/me2.do\/xCrXoeBq"
         },
         {
             "index":34,
@@ -466,7 +504,8 @@
             "value_score":46.244,
             "region":"경기도 파주시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4148000000_Gyeonggi_Paju"
+            "sub_region_code":"4148000000_Gyeonggi_Paju",
+            "shorten_url":"https:\/\/me2.do\/xCrXoeBq"
         },
         {
             "index":35,
@@ -478,7 +517,8 @@
             "value_score":46.0227107352,
             "region":"경기도 파주시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4148000000_Gyeonggi_Paju"
+            "sub_region_code":"4148000000_Gyeonggi_Paju",
+            "shorten_url":"https:\/\/me2.do\/xCrXoeBq"
         },
         {
             "index":36,
@@ -490,7 +530,8 @@
             "value_score":45.894,
             "region":"경기도 파주시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4148000000_Gyeonggi_Paju"
+            "sub_region_code":"4148000000_Gyeonggi_Paju",
+            "shorten_url":"https:\/\/me2.do\/xCrXoeBq"
         },
         {
             "index":37,
@@ -502,7 +543,8 @@
             "value_score":45.894,
             "region":"경기도 파주시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4148000000_Gyeonggi_Paju"
+            "sub_region_code":"4148000000_Gyeonggi_Paju",
+            "shorten_url":"https:\/\/me2.do\/xCrXoeBq"
         },
         {
             "index":38,
@@ -514,7 +556,8 @@
             "value_score":45.594,
             "region":"경기도 파주시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4148000000_Gyeonggi_Paju"
+            "sub_region_code":"4148000000_Gyeonggi_Paju",
+            "shorten_url":"https:\/\/me2.do\/xCrXoeBq"
         },
         {
             "index":39,
@@ -526,7 +569,8 @@
             "value_score":45.394,
             "region":"경기도 파주시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4148000000_Gyeonggi_Paju"
+            "sub_region_code":"4148000000_Gyeonggi_Paju",
+            "shorten_url":"https:\/\/me2.do\/xCrXoeBq"
         },
         {
             "index":40,
@@ -538,7 +582,8 @@
             "value_score":61.488,
             "region":"경기도 파주시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4148000000_Gyeonggi_Paju"
+            "sub_region_code":"4148000000_Gyeonggi_Paju",
+            "shorten_url":"https:\/\/me2.do\/xCrXoeBq"
         },
         {
             "index":41,
@@ -550,7 +595,8 @@
             "value_score":60.788,
             "region":"경기도 파주시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4148000000_Gyeonggi_Paju"
+            "sub_region_code":"4148000000_Gyeonggi_Paju",
+            "shorten_url":"https:\/\/me2.do\/xCrXoeBq"
         },
         {
             "index":42,
@@ -562,7 +608,8 @@
             "value_score":60.088,
             "region":"경기도 파주시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4148000000_Gyeonggi_Paju"
+            "sub_region_code":"4148000000_Gyeonggi_Paju",
+            "shorten_url":"https:\/\/me2.do\/xCrXoeBq"
         },
         {
             "index":43,
@@ -574,7 +621,8 @@
             "value_score":58.388,
             "region":"경기도 파주시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4148000000_Gyeonggi_Paju"
+            "sub_region_code":"4148000000_Gyeonggi_Paju",
+            "shorten_url":"https:\/\/me2.do\/xCrXoeBq"
         },
         {
             "index":44,
@@ -586,7 +634,8 @@
             "value_score":57.988,
             "region":"경기도 파주시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4148000000_Gyeonggi_Paju"
+            "sub_region_code":"4148000000_Gyeonggi_Paju",
+            "shorten_url":"https:\/\/me2.do\/xCrXoeBq"
         },
         {
             "index":45,
@@ -598,7 +647,8 @@
             "value_score":57.788,
             "region":"경기도 파주시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4148000000_Gyeonggi_Paju"
+            "sub_region_code":"4148000000_Gyeonggi_Paju",
+            "shorten_url":"https:\/\/me2.do\/xCrXoeBq"
         },
         {
             "index":46,
@@ -610,7 +660,8 @@
             "value_score":57.688,
             "region":"경기도 파주시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4148000000_Gyeonggi_Paju"
+            "sub_region_code":"4148000000_Gyeonggi_Paju",
+            "shorten_url":"https:\/\/me2.do\/xCrXoeBq"
         },
         {
             "index":47,
@@ -622,7 +673,8 @@
             "value_score":56.888,
             "region":"경기도 파주시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4148000000_Gyeonggi_Paju"
+            "sub_region_code":"4148000000_Gyeonggi_Paju",
+            "shorten_url":"https:\/\/me2.do\/xCrXoeBq"
         },
         {
             "index":48,
@@ -634,7 +686,8 @@
             "value_score":56.368,
             "region":"경기도 파주시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4148000000_Gyeonggi_Paju"
+            "sub_region_code":"4148000000_Gyeonggi_Paju",
+            "shorten_url":"https:\/\/me2.do\/xCrXoeBq"
         },
         {
             "index":49,
@@ -646,7 +699,8 @@
             "value_score":56.288,
             "region":"경기도 파주시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4148000000_Gyeonggi_Paju"
+            "sub_region_code":"4148000000_Gyeonggi_Paju",
+            "shorten_url":"https:\/\/me2.do\/xCrXoeBq"
         }
     ]
 }

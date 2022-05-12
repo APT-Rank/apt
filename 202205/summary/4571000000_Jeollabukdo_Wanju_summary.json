@@ -40,6 +40,10 @@
             {
                 "name":"sub_region_code",
                 "type":"string"
+            },
+            {
+                "name":"shorten_url",
+                "type":"string"
             }
         ],
         "primaryKey":[
@@ -58,7 +62,8 @@
             "value_score":49.98135,
             "region":"전라북도 완주군",
             "region_code":"Jeollabukdo",
-            "sub_region_code":"4571000000_Jeollabukdo_Wanju"
+            "sub_region_code":"4571000000_Jeollabukdo_Wanju",
+            "shorten_url":"https:\/\/me2.do\/5l63W0fM"
         },
         {
             "index":1,
@@ -70,7 +75,8 @@
             "value_score":49.98135,
             "region":"전라북도 완주군",
             "region_code":"Jeollabukdo",
-            "sub_region_code":"4571000000_Jeollabukdo_Wanju"
+            "sub_region_code":"4571000000_Jeollabukdo_Wanju",
+            "shorten_url":"https:\/\/me2.do\/5l63W0fM"
         },
         {
             "index":2,
@@ -82,7 +88,8 @@
             "value_score":48.31475,
             "region":"전라북도 완주군",
             "region_code":"Jeollabukdo",
-            "sub_region_code":"4571000000_Jeollabukdo_Wanju"
+            "sub_region_code":"4571000000_Jeollabukdo_Wanju",
+            "shorten_url":"https:\/\/me2.do\/5l63W0fM"
         },
         {
             "index":3,
@@ -94,7 +101,8 @@
             "value_score":46.07035,
             "region":"전라북도 완주군",
             "region_code":"Jeollabukdo",
-            "sub_region_code":"4571000000_Jeollabukdo_Wanju"
+            "sub_region_code":"4571000000_Jeollabukdo_Wanju",
+            "shorten_url":"https:\/\/me2.do\/5l63W0fM"
         },
         {
             "index":4,
@@ -106,7 +114,8 @@
             "value_score":45.51475,
             "region":"전라북도 완주군",
             "region_code":"Jeollabukdo",
-            "sub_region_code":"4571000000_Jeollabukdo_Wanju"
+            "sub_region_code":"4571000000_Jeollabukdo_Wanju",
+            "shorten_url":"https:\/\/me2.do\/5l63W0fM"
         },
         {
             "index":5,
@@ -118,7 +127,8 @@
             "value_score":45.02035,
             "region":"전라북도 완주군",
             "region_code":"Jeollabukdo",
-            "sub_region_code":"4571000000_Jeollabukdo_Wanju"
+            "sub_region_code":"4571000000_Jeollabukdo_Wanju",
+            "shorten_url":"https:\/\/me2.do\/5l63W0fM"
         },
         {
             "index":6,
@@ -130,7 +140,8 @@
             "value_score":44.66475,
             "region":"전라북도 완주군",
             "region_code":"Jeollabukdo",
-            "sub_region_code":"4571000000_Jeollabukdo_Wanju"
+            "sub_region_code":"4571000000_Jeollabukdo_Wanju",
+            "shorten_url":"https:\/\/me2.do\/5l63W0fM"
         },
         {
             "index":7,
@@ -142,7 +153,8 @@
             "value_score":44.46945,
             "region":"전라북도 완주군",
             "region_code":"Jeollabukdo",
-            "sub_region_code":"4571000000_Jeollabukdo_Wanju"
+            "sub_region_code":"4571000000_Jeollabukdo_Wanju",
+            "shorten_url":"https:\/\/me2.do\/5l63W0fM"
         },
         {
             "index":8,
@@ -154,7 +166,8 @@
             "value_score":43.91475,
             "region":"전라북도 완주군",
             "region_code":"Jeollabukdo",
-            "sub_region_code":"4571000000_Jeollabukdo_Wanju"
+            "sub_region_code":"4571000000_Jeollabukdo_Wanju",
+            "shorten_url":"https:\/\/me2.do\/5l63W0fM"
         },
         {
             "index":9,
@@ -166,7 +179,8 @@
             "value_score":43.3905770899,
             "region":"전라북도 완주군",
             "region_code":"Jeollabukdo",
-            "sub_region_code":"4571000000_Jeollabukdo_Wanju"
+            "sub_region_code":"4571000000_Jeollabukdo_Wanju",
+            "shorten_url":"https:\/\/me2.do\/5l63W0fM"
         },
         {
             "index":10,
@@ -178,7 +192,8 @@
             "value_score":50.05025,
             "region":"전라북도 완주군",
             "region_code":"Jeollabukdo",
-            "sub_region_code":"4571000000_Jeollabukdo_Wanju"
+            "sub_region_code":"4571000000_Jeollabukdo_Wanju",
+            "shorten_url":"https:\/\/me2.do\/5l63W0fM"
         },
         {
             "index":11,
@@ -190,7 +205,8 @@
             "value_score":49.41525,
             "region":"전라북도 완주군",
             "region_code":"Jeollabukdo",
-            "sub_region_code":"4571000000_Jeollabukdo_Wanju"
+            "sub_region_code":"4571000000_Jeollabukdo_Wanju",
+            "shorten_url":"https:\/\/me2.do\/5l63W0fM"
         },
         {
             "index":12,
@@ -202,7 +218,8 @@
             "value_score":49.41525,
             "region":"전라북도 완주군",
             "region_code":"Jeollabukdo",
-            "sub_region_code":"4571000000_Jeollabukdo_Wanju"
+            "sub_region_code":"4571000000_Jeollabukdo_Wanju",
+            "shorten_url":"https:\/\/me2.do\/5l63W0fM"
         },
         {
             "index":13,
@@ -214,7 +231,8 @@
             "value_score":48.55025,
             "region":"전라북도 완주군",
             "region_code":"Jeollabukdo",
-            "sub_region_code":"4571000000_Jeollabukdo_Wanju"
+            "sub_region_code":"4571000000_Jeollabukdo_Wanju",
+            "shorten_url":"https:\/\/me2.do\/5l63W0fM"
         },
         {
             "index":14,
@@ -226,7 +244,8 @@
             "value_score":48.29625,
             "region":"전라북도 완주군",
             "region_code":"Jeollabukdo",
-            "sub_region_code":"4571000000_Jeollabukdo_Wanju"
+            "sub_region_code":"4571000000_Jeollabukdo_Wanju",
+            "shorten_url":"https:\/\/me2.do\/5l63W0fM"
         },
         {
             "index":15,
@@ -238,7 +257,8 @@
             "value_score":46.30025,
             "region":"전라북도 완주군",
             "region_code":"Jeollabukdo",
-            "sub_region_code":"4571000000_Jeollabukdo_Wanju"
+            "sub_region_code":"4571000000_Jeollabukdo_Wanju",
+            "shorten_url":"https:\/\/me2.do\/5l63W0fM"
         },
         {
             "index":16,
@@ -250,7 +270,8 @@
             "value_score":45.90675,
             "region":"전라북도 완주군",
             "region_code":"Jeollabukdo",
-            "sub_region_code":"4571000000_Jeollabukdo_Wanju"
+            "sub_region_code":"4571000000_Jeollabukdo_Wanju",
+            "shorten_url":"https:\/\/me2.do\/5l63W0fM"
         },
         {
             "index":17,
@@ -262,7 +283,8 @@
             "value_score":45.29625,
             "region":"전라북도 완주군",
             "region_code":"Jeollabukdo",
-            "sub_region_code":"4571000000_Jeollabukdo_Wanju"
+            "sub_region_code":"4571000000_Jeollabukdo_Wanju",
+            "shorten_url":"https:\/\/me2.do\/5l63W0fM"
         },
         {
             "index":18,
@@ -274,7 +296,8 @@
             "value_score":45.29625,
             "region":"전라북도 완주군",
             "region_code":"Jeollabukdo",
-            "sub_region_code":"4571000000_Jeollabukdo_Wanju"
+            "sub_region_code":"4571000000_Jeollabukdo_Wanju",
+            "shorten_url":"https:\/\/me2.do\/5l63W0fM"
         },
         {
             "index":19,
@@ -286,7 +309,8 @@
             "value_score":45.05025,
             "region":"전라북도 완주군",
             "region_code":"Jeollabukdo",
-            "sub_region_code":"4571000000_Jeollabukdo_Wanju"
+            "sub_region_code":"4571000000_Jeollabukdo_Wanju",
+            "shorten_url":"https:\/\/me2.do\/5l63W0fM"
         },
         {
             "index":20,
@@ -298,7 +322,8 @@
             "value_score":36.4268421053,
             "region":"전라북도 완주군",
             "region_code":"Jeollabukdo",
-            "sub_region_code":"4571000000_Jeollabukdo_Wanju"
+            "sub_region_code":"4571000000_Jeollabukdo_Wanju",
+            "shorten_url":"https:\/\/me2.do\/5l63W0fM"
         },
         {
             "index":21,
@@ -310,7 +335,8 @@
             "value_score":35.4192631579,
             "region":"전라북도 완주군",
             "region_code":"Jeollabukdo",
-            "sub_region_code":"4571000000_Jeollabukdo_Wanju"
+            "sub_region_code":"4571000000_Jeollabukdo_Wanju",
+            "shorten_url":"https:\/\/me2.do\/5l63W0fM"
         },
         {
             "index":22,
@@ -322,7 +348,8 @@
             "value_score":35.4192631579,
             "region":"전라북도 완주군",
             "region_code":"Jeollabukdo",
-            "sub_region_code":"4571000000_Jeollabukdo_Wanju"
+            "sub_region_code":"4571000000_Jeollabukdo_Wanju",
+            "shorten_url":"https:\/\/me2.do\/5l63W0fM"
         },
         {
             "index":23,
@@ -334,7 +361,8 @@
             "value_score":32.8478947368,
             "region":"전라북도 완주군",
             "region_code":"Jeollabukdo",
-            "sub_region_code":"4571000000_Jeollabukdo_Wanju"
+            "sub_region_code":"4571000000_Jeollabukdo_Wanju",
+            "shorten_url":"https:\/\/me2.do\/5l63W0fM"
         },
         {
             "index":24,
@@ -346,7 +374,8 @@
             "value_score":32.2506315789,
             "region":"전라북도 완주군",
             "region_code":"Jeollabukdo",
-            "sub_region_code":"4571000000_Jeollabukdo_Wanju"
+            "sub_region_code":"4571000000_Jeollabukdo_Wanju",
+            "shorten_url":"https:\/\/me2.do\/5l63W0fM"
         },
         {
             "index":25,
@@ -358,7 +387,8 @@
             "value_score":31.9005263158,
             "region":"전라북도 완주군",
             "region_code":"Jeollabukdo",
-            "sub_region_code":"4571000000_Jeollabukdo_Wanju"
+            "sub_region_code":"4571000000_Jeollabukdo_Wanju",
+            "shorten_url":"https:\/\/me2.do\/5l63W0fM"
         },
         {
             "index":26,
@@ -370,7 +400,8 @@
             "value_score":31.8003157895,
             "region":"전라북도 완주군",
             "region_code":"Jeollabukdo",
-            "sub_region_code":"4571000000_Jeollabukdo_Wanju"
+            "sub_region_code":"4571000000_Jeollabukdo_Wanju",
+            "shorten_url":"https:\/\/me2.do\/5l63W0fM"
         },
         {
             "index":27,
@@ -382,7 +413,8 @@
             "value_score":30.8478947368,
             "region":"전라북도 완주군",
             "region_code":"Jeollabukdo",
-            "sub_region_code":"4571000000_Jeollabukdo_Wanju"
+            "sub_region_code":"4571000000_Jeollabukdo_Wanju",
+            "shorten_url":"https:\/\/me2.do\/5l63W0fM"
         },
         {
             "index":28,
@@ -394,7 +426,8 @@
             "value_score":30.4794736842,
             "region":"전라북도 완주군",
             "region_code":"Jeollabukdo",
-            "sub_region_code":"4571000000_Jeollabukdo_Wanju"
+            "sub_region_code":"4571000000_Jeollabukdo_Wanju",
+            "shorten_url":"https:\/\/me2.do\/5l63W0fM"
         },
         {
             "index":29,
@@ -406,7 +439,8 @@
             "value_score":29.9835789474,
             "region":"전라북도 완주군",
             "region_code":"Jeollabukdo",
-            "sub_region_code":"4571000000_Jeollabukdo_Wanju"
+            "sub_region_code":"4571000000_Jeollabukdo_Wanju",
+            "shorten_url":"https:\/\/me2.do\/5l63W0fM"
         },
         {
             "index":30,
@@ -418,7 +452,8 @@
             "value_score":50.8305,
             "region":"전라북도 완주군",
             "region_code":"Jeollabukdo",
-            "sub_region_code":"4571000000_Jeollabukdo_Wanju"
+            "sub_region_code":"4571000000_Jeollabukdo_Wanju",
+            "shorten_url":"https:\/\/me2.do\/5l63W0fM"
         },
         {
             "index":31,
@@ -430,7 +465,8 @@
             "value_score":50.8305,
             "region":"전라북도 완주군",
             "region_code":"Jeollabukdo",
-            "sub_region_code":"4571000000_Jeollabukdo_Wanju"
+            "sub_region_code":"4571000000_Jeollabukdo_Wanju",
+            "shorten_url":"https:\/\/me2.do\/5l63W0fM"
         },
         {
             "index":32,
@@ -442,7 +478,8 @@
             "value_score":48.3425,
             "region":"전라북도 완주군",
             "region_code":"Jeollabukdo",
-            "sub_region_code":"4571000000_Jeollabukdo_Wanju"
+            "sub_region_code":"4571000000_Jeollabukdo_Wanju",
+            "shorten_url":"https:\/\/me2.do\/5l63W0fM"
         },
         {
             "index":33,
@@ -454,7 +491,8 @@
             "value_score":45.8425,
             "region":"전라북도 완주군",
             "region_code":"Jeollabukdo",
-            "sub_region_code":"4571000000_Jeollabukdo_Wanju"
+            "sub_region_code":"4571000000_Jeollabukdo_Wanju",
+            "shorten_url":"https:\/\/me2.do\/5l63W0fM"
         },
         {
             "index":34,
@@ -466,7 +504,8 @@
             "value_score":45.5925,
             "region":"전라북도 완주군",
             "region_code":"Jeollabukdo",
-            "sub_region_code":"4571000000_Jeollabukdo_Wanju"
+            "sub_region_code":"4571000000_Jeollabukdo_Wanju",
+            "shorten_url":"https:\/\/me2.do\/5l63W0fM"
         },
         {
             "index":35,
@@ -478,7 +517,8 @@
             "value_score":43.5925,
             "region":"전라북도 완주군",
             "region_code":"Jeollabukdo",
-            "sub_region_code":"4571000000_Jeollabukdo_Wanju"
+            "sub_region_code":"4571000000_Jeollabukdo_Wanju",
+            "shorten_url":"https:\/\/me2.do\/5l63W0fM"
         },
         {
             "index":36,
@@ -490,7 +530,8 @@
             "value_score":43.2365386998,
             "region":"전라북도 완주군",
             "region_code":"Jeollabukdo",
-            "sub_region_code":"4571000000_Jeollabukdo_Wanju"
+            "sub_region_code":"4571000000_Jeollabukdo_Wanju",
+            "shorten_url":"https:\/\/me2.do\/5l63W0fM"
         },
         {
             "index":37,
@@ -502,7 +543,8 @@
             "value_score":42.3135,
             "region":"전라북도 완주군",
             "region_code":"Jeollabukdo",
-            "sub_region_code":"4571000000_Jeollabukdo_Wanju"
+            "sub_region_code":"4571000000_Jeollabukdo_Wanju",
+            "shorten_url":"https:\/\/me2.do\/5l63W0fM"
         },
         {
             "index":38,
@@ -514,7 +556,8 @@
             "value_score":41.8425,
             "region":"전라북도 완주군",
             "region_code":"Jeollabukdo",
-            "sub_region_code":"4571000000_Jeollabukdo_Wanju"
+            "sub_region_code":"4571000000_Jeollabukdo_Wanju",
+            "shorten_url":"https:\/\/me2.do\/5l63W0fM"
         },
         {
             "index":39,
@@ -526,7 +569,8 @@
             "value_score":40.474,
             "region":"전라북도 완주군",
             "region_code":"Jeollabukdo",
-            "sub_region_code":"4571000000_Jeollabukdo_Wanju"
+            "sub_region_code":"4571000000_Jeollabukdo_Wanju",
+            "shorten_url":"https:\/\/me2.do\/5l63W0fM"
         }
     ]
 }

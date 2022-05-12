@@ -40,6 +40,10 @@
             {
                 "name":"sub_region_code",
                 "type":"string"
+            },
+            {
+                "name":"shorten_url",
+                "type":"string"
             }
         ],
         "primaryKey":[
@@ -58,7 +62,8 @@
             "value_score":48.41385,
             "region":"경기도 양주시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4163000000_Gyeonggi_Yangju"
+            "sub_region_code":"4163000000_Gyeonggi_Yangju",
+            "shorten_url":"https:\/\/me2.do\/xmidobJ5"
         },
         {
             "index":1,
@@ -70,7 +75,8 @@
             "value_score":46.91385,
             "region":"경기도 양주시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4163000000_Gyeonggi_Yangju"
+            "sub_region_code":"4163000000_Gyeonggi_Yangju",
+            "shorten_url":"https:\/\/me2.do\/xmidobJ5"
         },
         {
             "index":2,
@@ -82,7 +88,8 @@
             "value_score":44.41385,
             "region":"경기도 양주시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4163000000_Gyeonggi_Yangju"
+            "sub_region_code":"4163000000_Gyeonggi_Yangju",
+            "shorten_url":"https:\/\/me2.do\/xmidobJ5"
         },
         {
             "index":3,
@@ -94,7 +101,8 @@
             "value_score":43.54595,
             "region":"경기도 양주시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4163000000_Gyeonggi_Yangju"
+            "sub_region_code":"4163000000_Gyeonggi_Yangju",
+            "shorten_url":"https:\/\/me2.do\/xmidobJ5"
         },
         {
             "index":4,
@@ -106,7 +114,8 @@
             "value_score":43.51385,
             "region":"경기도 양주시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4163000000_Gyeonggi_Yangju"
+            "sub_region_code":"4163000000_Gyeonggi_Yangju",
+            "shorten_url":"https:\/\/me2.do\/xmidobJ5"
         },
         {
             "index":5,
@@ -118,7 +127,8 @@
             "value_score":43.04585,
             "region":"경기도 양주시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4163000000_Gyeonggi_Yangju"
+            "sub_region_code":"4163000000_Gyeonggi_Yangju",
+            "shorten_url":"https:\/\/me2.do\/xmidobJ5"
         },
         {
             "index":6,
@@ -130,7 +140,8 @@
             "value_score":43.01385,
             "region":"경기도 양주시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4163000000_Gyeonggi_Yangju"
+            "sub_region_code":"4163000000_Gyeonggi_Yangju",
+            "shorten_url":"https:\/\/me2.do\/xmidobJ5"
         },
         {
             "index":7,
@@ -142,7 +153,8 @@
             "value_score":42.09585,
             "region":"경기도 양주시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4163000000_Gyeonggi_Yangju"
+            "sub_region_code":"4163000000_Gyeonggi_Yangju",
+            "shorten_url":"https:\/\/me2.do\/xmidobJ5"
         },
         {
             "index":8,
@@ -154,7 +166,8 @@
             "value_score":40.49585,
             "region":"경기도 양주시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4163000000_Gyeonggi_Yangju"
+            "sub_region_code":"4163000000_Gyeonggi_Yangju",
+            "shorten_url":"https:\/\/me2.do\/xmidobJ5"
         },
         {
             "index":9,
@@ -166,7 +179,8 @@
             "value_score":40.09585,
             "region":"경기도 양주시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4163000000_Gyeonggi_Yangju"
+            "sub_region_code":"4163000000_Gyeonggi_Yangju",
+            "shorten_url":"https:\/\/me2.do\/xmidobJ5"
         },
         {
             "index":10,
@@ -178,7 +192,8 @@
             "value_score":66.0018,
             "region":"경기도 양주시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4163000000_Gyeonggi_Yangju"
+            "sub_region_code":"4163000000_Gyeonggi_Yangju",
+            "shorten_url":"https:\/\/me2.do\/xmidobJ5"
         },
         {
             "index":11,
@@ -190,7 +205,8 @@
             "value_score":64.4018,
             "region":"경기도 양주시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4163000000_Gyeonggi_Yangju"
+            "sub_region_code":"4163000000_Gyeonggi_Yangju",
+            "shorten_url":"https:\/\/me2.do\/xmidobJ5"
         },
         {
             "index":12,
@@ -202,7 +218,8 @@
             "value_score":61.4518,
             "region":"경기도 양주시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4163000000_Gyeonggi_Yangju"
+            "sub_region_code":"4163000000_Gyeonggi_Yangju",
+            "shorten_url":"https:\/\/me2.do\/xmidobJ5"
         },
         {
             "index":13,
@@ -214,7 +231,8 @@
             "value_score":60.8518,
             "region":"경기도 양주시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4163000000_Gyeonggi_Yangju"
+            "sub_region_code":"4163000000_Gyeonggi_Yangju",
+            "shorten_url":"https:\/\/me2.do\/xmidobJ5"
         },
         {
             "index":14,
@@ -226,7 +244,8 @@
             "value_score":60.8518,
             "region":"경기도 양주시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4163000000_Gyeonggi_Yangju"
+            "sub_region_code":"4163000000_Gyeonggi_Yangju",
+            "shorten_url":"https:\/\/me2.do\/xmidobJ5"
         },
         {
             "index":15,
@@ -238,7 +257,8 @@
             "value_score":59.8946,
             "region":"경기도 양주시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4163000000_Gyeonggi_Yangju"
+            "sub_region_code":"4163000000_Gyeonggi_Yangju",
+            "shorten_url":"https:\/\/me2.do\/xmidobJ5"
         },
         {
             "index":16,
@@ -250,7 +270,8 @@
             "value_score":59.1018,
             "region":"경기도 양주시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4163000000_Gyeonggi_Yangju"
+            "sub_region_code":"4163000000_Gyeonggi_Yangju",
+            "shorten_url":"https:\/\/me2.do\/xmidobJ5"
         },
         {
             "index":17,
@@ -262,7 +283,8 @@
             "value_score":58.9018,
             "region":"경기도 양주시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4163000000_Gyeonggi_Yangju"
+            "sub_region_code":"4163000000_Gyeonggi_Yangju",
+            "shorten_url":"https:\/\/me2.do\/xmidobJ5"
         },
         {
             "index":18,
@@ -274,7 +296,8 @@
             "value_score":58.2018,
             "region":"경기도 양주시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4163000000_Gyeonggi_Yangju"
+            "sub_region_code":"4163000000_Gyeonggi_Yangju",
+            "shorten_url":"https:\/\/me2.do\/xmidobJ5"
         },
         {
             "index":19,
@@ -286,7 +309,8 @@
             "value_score":58.0018,
             "region":"경기도 양주시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4163000000_Gyeonggi_Yangju"
+            "sub_region_code":"4163000000_Gyeonggi_Yangju",
+            "shorten_url":"https:\/\/me2.do\/xmidobJ5"
         },
         {
             "index":20,
@@ -298,7 +322,8 @@
             "value_score":47.38885,
             "region":"경기도 양주시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4163000000_Gyeonggi_Yangju"
+            "sub_region_code":"4163000000_Gyeonggi_Yangju",
+            "shorten_url":"https:\/\/me2.do\/xmidobJ5"
         },
         {
             "index":21,
@@ -310,7 +335,8 @@
             "value_score":46.08885,
             "region":"경기도 양주시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4163000000_Gyeonggi_Yangju"
+            "sub_region_code":"4163000000_Gyeonggi_Yangju",
+            "shorten_url":"https:\/\/me2.do\/xmidobJ5"
         },
         {
             "index":22,
@@ -322,7 +348,8 @@
             "value_score":44.48885,
             "region":"경기도 양주시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4163000000_Gyeonggi_Yangju"
+            "sub_region_code":"4163000000_Gyeonggi_Yangju",
+            "shorten_url":"https:\/\/me2.do\/xmidobJ5"
         },
         {
             "index":23,
@@ -334,7 +361,8 @@
             "value_score":44.06385,
             "region":"경기도 양주시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4163000000_Gyeonggi_Yangju"
+            "sub_region_code":"4163000000_Gyeonggi_Yangju",
+            "shorten_url":"https:\/\/me2.do\/xmidobJ5"
         },
         {
             "index":24,
@@ -346,7 +374,8 @@
             "value_score":43.58885,
             "region":"경기도 양주시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4163000000_Gyeonggi_Yangju"
+            "sub_region_code":"4163000000_Gyeonggi_Yangju",
+            "shorten_url":"https:\/\/me2.do\/xmidobJ5"
         },
         {
             "index":25,
@@ -358,7 +387,8 @@
             "value_score":43.50095,
             "region":"경기도 양주시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4163000000_Gyeonggi_Yangju"
+            "sub_region_code":"4163000000_Gyeonggi_Yangju",
+            "shorten_url":"https:\/\/me2.do\/xmidobJ5"
         },
         {
             "index":26,
@@ -370,7 +400,8 @@
             "value_score":43.29595,
             "region":"경기도 양주시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4163000000_Gyeonggi_Yangju"
+            "sub_region_code":"4163000000_Gyeonggi_Yangju",
+            "shorten_url":"https:\/\/me2.do\/xmidobJ5"
         },
         {
             "index":27,
@@ -382,7 +413,8 @@
             "value_score":43.22085,
             "region":"경기도 양주시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4163000000_Gyeonggi_Yangju"
+            "sub_region_code":"4163000000_Gyeonggi_Yangju",
+            "shorten_url":"https:\/\/me2.do\/xmidobJ5"
         },
         {
             "index":28,
@@ -394,7 +426,8 @@
             "value_score":40.80095,
             "region":"경기도 양주시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4163000000_Gyeonggi_Yangju"
+            "sub_region_code":"4163000000_Gyeonggi_Yangju",
+            "shorten_url":"https:\/\/me2.do\/xmidobJ5"
         },
         {
             "index":29,
@@ -406,7 +439,8 @@
             "value_score":39.82095,
             "region":"경기도 양주시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4163000000_Gyeonggi_Yangju"
+            "sub_region_code":"4163000000_Gyeonggi_Yangju",
+            "shorten_url":"https:\/\/me2.do\/xmidobJ5"
         },
         {
             "index":30,
@@ -418,7 +452,8 @@
             "value_score":44.50975,
             "region":"경기도 양주시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4163000000_Gyeonggi_Yangju"
+            "sub_region_code":"4163000000_Gyeonggi_Yangju",
+            "shorten_url":"https:\/\/me2.do\/xmidobJ5"
         },
         {
             "index":31,
@@ -430,7 +465,8 @@
             "value_score":42.30975,
             "region":"경기도 양주시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4163000000_Gyeonggi_Yangju"
+            "sub_region_code":"4163000000_Gyeonggi_Yangju",
+            "shorten_url":"https:\/\/me2.do\/xmidobJ5"
         },
         {
             "index":32,
@@ -442,7 +478,8 @@
             "value_score":42.23975,
             "region":"경기도 양주시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4163000000_Gyeonggi_Yangju"
+            "sub_region_code":"4163000000_Gyeonggi_Yangju",
+            "shorten_url":"https:\/\/me2.do\/xmidobJ5"
         },
         {
             "index":33,
@@ -454,7 +491,8 @@
             "value_score":41.15975,
             "region":"경기도 양주시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4163000000_Gyeonggi_Yangju"
+            "sub_region_code":"4163000000_Gyeonggi_Yangju",
+            "shorten_url":"https:\/\/me2.do\/xmidobJ5"
         },
         {
             "index":34,
@@ -466,7 +504,8 @@
             "value_score":41.05975,
             "region":"경기도 양주시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4163000000_Gyeonggi_Yangju"
+            "sub_region_code":"4163000000_Gyeonggi_Yangju",
+            "shorten_url":"https:\/\/me2.do\/xmidobJ5"
         },
         {
             "index":35,
@@ -478,7 +517,8 @@
             "value_score":39.73975,
             "region":"경기도 양주시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4163000000_Gyeonggi_Yangju"
+            "sub_region_code":"4163000000_Gyeonggi_Yangju",
+            "shorten_url":"https:\/\/me2.do\/xmidobJ5"
         },
         {
             "index":36,
@@ -490,7 +530,8 @@
             "value_score":39.10975,
             "region":"경기도 양주시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4163000000_Gyeonggi_Yangju"
+            "sub_region_code":"4163000000_Gyeonggi_Yangju",
+            "shorten_url":"https:\/\/me2.do\/xmidobJ5"
         },
         {
             "index":37,
@@ -502,7 +543,8 @@
             "value_score":38.83975,
             "region":"경기도 양주시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4163000000_Gyeonggi_Yangju"
+            "sub_region_code":"4163000000_Gyeonggi_Yangju",
+            "shorten_url":"https:\/\/me2.do\/xmidobJ5"
         },
         {
             "index":38,
@@ -514,7 +556,8 @@
             "value_score":37.55975,
             "region":"경기도 양주시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4163000000_Gyeonggi_Yangju"
+            "sub_region_code":"4163000000_Gyeonggi_Yangju",
+            "shorten_url":"https:\/\/me2.do\/xmidobJ5"
         },
         {
             "index":39,
@@ -526,7 +569,8 @@
             "value_score":36.03975,
             "region":"경기도 양주시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4163000000_Gyeonggi_Yangju"
+            "sub_region_code":"4163000000_Gyeonggi_Yangju",
+            "shorten_url":"https:\/\/me2.do\/xmidobJ5"
         },
         {
             "index":40,
@@ -538,7 +582,8 @@
             "value_score":56.4795,
             "region":"경기도 양주시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4163000000_Gyeonggi_Yangju"
+            "sub_region_code":"4163000000_Gyeonggi_Yangju",
+            "shorten_url":"https:\/\/me2.do\/xmidobJ5"
         },
         {
             "index":41,
@@ -550,7 +595,8 @@
             "value_score":53.0795,
             "region":"경기도 양주시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4163000000_Gyeonggi_Yangju"
+            "sub_region_code":"4163000000_Gyeonggi_Yangju",
+            "shorten_url":"https:\/\/me2.do\/xmidobJ5"
         },
         {
             "index":42,
@@ -562,7 +608,8 @@
             "value_score":52.9795,
             "region":"경기도 양주시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4163000000_Gyeonggi_Yangju"
+            "sub_region_code":"4163000000_Gyeonggi_Yangju",
+            "shorten_url":"https:\/\/me2.do\/xmidobJ5"
         },
         {
             "index":43,
@@ -574,7 +621,8 @@
             "value_score":52.8795,
             "region":"경기도 양주시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4163000000_Gyeonggi_Yangju"
+            "sub_region_code":"4163000000_Gyeonggi_Yangju",
+            "shorten_url":"https:\/\/me2.do\/xmidobJ5"
         },
         {
             "index":44,
@@ -586,7 +634,8 @@
             "value_score":52.0795,
             "region":"경기도 양주시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4163000000_Gyeonggi_Yangju"
+            "sub_region_code":"4163000000_Gyeonggi_Yangju",
+            "shorten_url":"https:\/\/me2.do\/xmidobJ5"
         },
         {
             "index":45,
@@ -598,7 +647,8 @@
             "value_score":51.2195,
             "region":"경기도 양주시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4163000000_Gyeonggi_Yangju"
+            "sub_region_code":"4163000000_Gyeonggi_Yangju",
+            "shorten_url":"https:\/\/me2.do\/xmidobJ5"
         },
         {
             "index":46,
@@ -610,7 +660,8 @@
             "value_score":49.9195,
             "region":"경기도 양주시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4163000000_Gyeonggi_Yangju"
+            "sub_region_code":"4163000000_Gyeonggi_Yangju",
+            "shorten_url":"https:\/\/me2.do\/xmidobJ5"
         },
         {
             "index":47,
@@ -622,7 +673,8 @@
             "value_score":49.4195,
             "region":"경기도 양주시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4163000000_Gyeonggi_Yangju"
+            "sub_region_code":"4163000000_Gyeonggi_Yangju",
+            "shorten_url":"https:\/\/me2.do\/xmidobJ5"
         },
         {
             "index":48,
@@ -634,7 +686,8 @@
             "value_score":49.3195,
             "region":"경기도 양주시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4163000000_Gyeonggi_Yangju"
+            "sub_region_code":"4163000000_Gyeonggi_Yangju",
+            "shorten_url":"https:\/\/me2.do\/xmidobJ5"
         },
         {
             "index":49,
@@ -646,7 +699,8 @@
             "value_score":48.6195,
             "region":"경기도 양주시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4163000000_Gyeonggi_Yangju"
+            "sub_region_code":"4163000000_Gyeonggi_Yangju",
+            "shorten_url":"https:\/\/me2.do\/xmidobJ5"
         }
     ]
 }

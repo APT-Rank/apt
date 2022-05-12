@@ -40,6 +40,10 @@
             {
                 "name":"sub_region_code",
                 "type":"string"
+            },
+            {
+                "name":"shorten_url",
+                "type":"string"
             }
         ],
         "primaryKey":[
@@ -58,7 +62,8 @@
             "value_score":54.08665,
             "region":"충청남도 논산시",
             "region_code":"Chungcheongnamdo",
-            "sub_region_code":"4423000000_Chungcheongnamdo_Nonsan"
+            "sub_region_code":"4423000000_Chungcheongnamdo_Nonsan",
+            "shorten_url":"https:\/\/me2.do\/FdE69QKT"
         },
         {
             "index":1,
@@ -70,7 +75,8 @@
             "value_score":48.68665,
             "region":"충청남도 논산시",
             "region_code":"Chungcheongnamdo",
-            "sub_region_code":"4423000000_Chungcheongnamdo_Nonsan"
+            "sub_region_code":"4423000000_Chungcheongnamdo_Nonsan",
+            "shorten_url":"https:\/\/me2.do\/FdE69QKT"
         },
         {
             "index":2,
@@ -82,7 +88,8 @@
             "value_score":47.08905,
             "region":"충청남도 논산시",
             "region_code":"Chungcheongnamdo",
-            "sub_region_code":"4423000000_Chungcheongnamdo_Nonsan"
+            "sub_region_code":"4423000000_Chungcheongnamdo_Nonsan",
+            "shorten_url":"https:\/\/me2.do\/FdE69QKT"
         },
         {
             "index":3,
@@ -94,7 +101,8 @@
             "value_score":46.33905,
             "region":"충청남도 논산시",
             "region_code":"Chungcheongnamdo",
-            "sub_region_code":"4423000000_Chungcheongnamdo_Nonsan"
+            "sub_region_code":"4423000000_Chungcheongnamdo_Nonsan",
+            "shorten_url":"https:\/\/me2.do\/FdE69QKT"
         },
         {
             "index":4,
@@ -106,7 +114,8 @@
             "value_score":45.88665,
             "region":"충청남도 논산시",
             "region_code":"Chungcheongnamdo",
-            "sub_region_code":"4423000000_Chungcheongnamdo_Nonsan"
+            "sub_region_code":"4423000000_Chungcheongnamdo_Nonsan",
+            "shorten_url":"https:\/\/me2.do\/FdE69QKT"
         },
         {
             "index":5,
@@ -118,7 +127,8 @@
             "value_score":44.78905,
             "region":"충청남도 논산시",
             "region_code":"Chungcheongnamdo",
-            "sub_region_code":"4423000000_Chungcheongnamdo_Nonsan"
+            "sub_region_code":"4423000000_Chungcheongnamdo_Nonsan",
+            "shorten_url":"https:\/\/me2.do\/FdE69QKT"
         },
         {
             "index":6,
@@ -130,7 +140,8 @@
             "value_score":43.28905,
             "region":"충청남도 논산시",
             "region_code":"Chungcheongnamdo",
-            "sub_region_code":"4423000000_Chungcheongnamdo_Nonsan"
+            "sub_region_code":"4423000000_Chungcheongnamdo_Nonsan",
+            "shorten_url":"https:\/\/me2.do\/FdE69QKT"
         },
         {
             "index":7,
@@ -142,7 +153,8 @@
             "value_score":43.28835,
             "region":"충청남도 논산시",
             "region_code":"Chungcheongnamdo",
-            "sub_region_code":"4423000000_Chungcheongnamdo_Nonsan"
+            "sub_region_code":"4423000000_Chungcheongnamdo_Nonsan",
+            "shorten_url":"https:\/\/me2.do\/FdE69QKT"
         },
         {
             "index":8,
@@ -154,7 +166,8 @@
             "value_score":42.88905,
             "region":"충청남도 논산시",
             "region_code":"Chungcheongnamdo",
-            "sub_region_code":"4423000000_Chungcheongnamdo_Nonsan"
+            "sub_region_code":"4423000000_Chungcheongnamdo_Nonsan",
+            "shorten_url":"https:\/\/me2.do\/FdE69QKT"
         },
         {
             "index":9,
@@ -166,7 +179,8 @@
             "value_score":42.88835,
             "region":"충청남도 논산시",
             "region_code":"Chungcheongnamdo",
-            "sub_region_code":"4423000000_Chungcheongnamdo_Nonsan"
+            "sub_region_code":"4423000000_Chungcheongnamdo_Nonsan",
+            "shorten_url":"https:\/\/me2.do\/FdE69QKT"
         },
         {
             "index":10,
@@ -178,7 +192,8 @@
             "value_score":57.70475,
             "region":"충청남도 논산시",
             "region_code":"Chungcheongnamdo",
-            "sub_region_code":"4423000000_Chungcheongnamdo_Nonsan"
+            "sub_region_code":"4423000000_Chungcheongnamdo_Nonsan",
+            "shorten_url":"https:\/\/me2.do\/FdE69QKT"
         },
         {
             "index":11,
@@ -190,7 +205,8 @@
             "value_score":50.95475,
             "region":"충청남도 논산시",
             "region_code":"Chungcheongnamdo",
-            "sub_region_code":"4423000000_Chungcheongnamdo_Nonsan"
+            "sub_region_code":"4423000000_Chungcheongnamdo_Nonsan",
+            "shorten_url":"https:\/\/me2.do\/FdE69QKT"
         },
         {
             "index":12,
@@ -202,7 +218,8 @@
             "value_score":47.92075,
             "region":"충청남도 논산시",
             "region_code":"Chungcheongnamdo",
-            "sub_region_code":"4423000000_Chungcheongnamdo_Nonsan"
+            "sub_region_code":"4423000000_Chungcheongnamdo_Nonsan",
+            "shorten_url":"https:\/\/me2.do\/FdE69QKT"
         },
         {
             "index":13,
@@ -214,7 +231,8 @@
             "value_score":47.17075,
             "region":"충청남도 논산시",
             "region_code":"Chungcheongnamdo",
-            "sub_region_code":"4423000000_Chungcheongnamdo_Nonsan"
+            "sub_region_code":"4423000000_Chungcheongnamdo_Nonsan",
+            "shorten_url":"https:\/\/me2.do\/FdE69QKT"
         },
         {
             "index":14,
@@ -226,7 +244,8 @@
             "value_score":44.70475,
             "region":"충청남도 논산시",
             "region_code":"Chungcheongnamdo",
-            "sub_region_code":"4423000000_Chungcheongnamdo_Nonsan"
+            "sub_region_code":"4423000000_Chungcheongnamdo_Nonsan",
+            "shorten_url":"https:\/\/me2.do\/FdE69QKT"
         },
         {
             "index":15,
@@ -238,7 +257,8 @@
             "value_score":44.50925,
             "region":"충청남도 논산시",
             "region_code":"Chungcheongnamdo",
-            "sub_region_code":"4423000000_Chungcheongnamdo_Nonsan"
+            "sub_region_code":"4423000000_Chungcheongnamdo_Nonsan",
+            "shorten_url":"https:\/\/me2.do\/FdE69QKT"
         },
         {
             "index":16,
@@ -250,7 +270,8 @@
             "value_score":44.42025,
             "region":"충청남도 논산시",
             "region_code":"Chungcheongnamdo",
-            "sub_region_code":"4423000000_Chungcheongnamdo_Nonsan"
+            "sub_region_code":"4423000000_Chungcheongnamdo_Nonsan",
+            "shorten_url":"https:\/\/me2.do\/FdE69QKT"
         },
         {
             "index":17,
@@ -262,7 +283,8 @@
             "value_score":43.67075,
             "region":"충청남도 논산시",
             "region_code":"Chungcheongnamdo",
-            "sub_region_code":"4423000000_Chungcheongnamdo_Nonsan"
+            "sub_region_code":"4423000000_Chungcheongnamdo_Nonsan",
+            "shorten_url":"https:\/\/me2.do\/FdE69QKT"
         },
         {
             "index":18,
@@ -274,7 +296,8 @@
             "value_score":43.45475,
             "region":"충청남도 논산시",
             "region_code":"Chungcheongnamdo",
-            "sub_region_code":"4423000000_Chungcheongnamdo_Nonsan"
+            "sub_region_code":"4423000000_Chungcheongnamdo_Nonsan",
+            "shorten_url":"https:\/\/me2.do\/FdE69QKT"
         },
         {
             "index":19,
@@ -286,7 +309,8 @@
             "value_score":43.17075,
             "region":"충청남도 논산시",
             "region_code":"Chungcheongnamdo",
-            "sub_region_code":"4423000000_Chungcheongnamdo_Nonsan"
+            "sub_region_code":"4423000000_Chungcheongnamdo_Nonsan",
+            "shorten_url":"https:\/\/me2.do\/FdE69QKT"
         },
         {
             "index":20,
@@ -298,7 +322,8 @@
             "value_score":45.242,
             "region":"충청남도 논산시",
             "region_code":"Chungcheongnamdo",
-            "sub_region_code":"4423000000_Chungcheongnamdo_Nonsan"
+            "sub_region_code":"4423000000_Chungcheongnamdo_Nonsan",
+            "shorten_url":"https:\/\/me2.do\/FdE69QKT"
         },
         {
             "index":21,
@@ -310,7 +335,8 @@
             "value_score":44.0577894737,
             "region":"충청남도 논산시",
             "region_code":"Chungcheongnamdo",
-            "sub_region_code":"4423000000_Chungcheongnamdo_Nonsan"
+            "sub_region_code":"4423000000_Chungcheongnamdo_Nonsan",
+            "shorten_url":"https:\/\/me2.do\/FdE69QKT"
         },
         {
             "index":22,
@@ -322,7 +348,8 @@
             "value_score":42.9954736842,
             "region":"충청남도 논산시",
             "region_code":"Chungcheongnamdo",
-            "sub_region_code":"4423000000_Chungcheongnamdo_Nonsan"
+            "sub_region_code":"4423000000_Chungcheongnamdo_Nonsan",
+            "shorten_url":"https:\/\/me2.do\/FdE69QKT"
         },
         {
             "index":23,
@@ -334,7 +361,8 @@
             "value_score":42.7156842105,
             "region":"충청남도 논산시",
             "region_code":"Chungcheongnamdo",
-            "sub_region_code":"4423000000_Chungcheongnamdo_Nonsan"
+            "sub_region_code":"4423000000_Chungcheongnamdo_Nonsan",
+            "shorten_url":"https:\/\/me2.do\/FdE69QKT"
         },
         {
             "index":24,
@@ -346,7 +374,8 @@
             "value_score":42.5577894737,
             "region":"충청남도 논산시",
             "region_code":"Chungcheongnamdo",
-            "sub_region_code":"4423000000_Chungcheongnamdo_Nonsan"
+            "sub_region_code":"4423000000_Chungcheongnamdo_Nonsan",
+            "shorten_url":"https:\/\/me2.do\/FdE69QKT"
         },
         {
             "index":25,
@@ -358,7 +387,8 @@
             "value_score":42.4788421053,
             "region":"충청남도 논산시",
             "region_code":"Chungcheongnamdo",
-            "sub_region_code":"4423000000_Chungcheongnamdo_Nonsan"
+            "sub_region_code":"4423000000_Chungcheongnamdo_Nonsan",
+            "shorten_url":"https:\/\/me2.do\/FdE69QKT"
         },
         {
             "index":26,
@@ -370,7 +400,8 @@
             "value_score":41.8735789474,
             "region":"충청남도 논산시",
             "region_code":"Chungcheongnamdo",
-            "sub_region_code":"4423000000_Chungcheongnamdo_Nonsan"
+            "sub_region_code":"4423000000_Chungcheongnamdo_Nonsan",
+            "shorten_url":"https:\/\/me2.do\/FdE69QKT"
         },
         {
             "index":27,
@@ -382,7 +413,8 @@
             "value_score":41.0045263158,
             "region":"충청남도 논산시",
             "region_code":"Chungcheongnamdo",
-            "sub_region_code":"4423000000_Chungcheongnamdo_Nonsan"
+            "sub_region_code":"4423000000_Chungcheongnamdo_Nonsan",
+            "shorten_url":"https:\/\/me2.do\/FdE69QKT"
         },
         {
             "index":28,
@@ -394,7 +426,8 @@
             "value_score":40.9788421053,
             "region":"충청남도 논산시",
             "region_code":"Chungcheongnamdo",
-            "sub_region_code":"4423000000_Chungcheongnamdo_Nonsan"
+            "sub_region_code":"4423000000_Chungcheongnamdo_Nonsan",
+            "shorten_url":"https:\/\/me2.do\/FdE69QKT"
         },
         {
             "index":29,
@@ -406,7 +439,8 @@
             "value_score":40.8209473684,
             "region":"충청남도 논산시",
             "region_code":"Chungcheongnamdo",
-            "sub_region_code":"4423000000_Chungcheongnamdo_Nonsan"
+            "sub_region_code":"4423000000_Chungcheongnamdo_Nonsan",
+            "shorten_url":"https:\/\/me2.do\/FdE69QKT"
         },
         {
             "index":30,
@@ -418,7 +452,8 @@
             "value_score":48.6595,
             "region":"충청남도 논산시",
             "region_code":"Chungcheongnamdo",
-            "sub_region_code":"4423000000_Chungcheongnamdo_Nonsan"
+            "sub_region_code":"4423000000_Chungcheongnamdo_Nonsan",
+            "shorten_url":"https:\/\/me2.do\/FdE69QKT"
         },
         {
             "index":31,
@@ -430,7 +465,8 @@
             "value_score":47.6595,
             "region":"충청남도 논산시",
             "region_code":"Chungcheongnamdo",
-            "sub_region_code":"4423000000_Chungcheongnamdo_Nonsan"
+            "sub_region_code":"4423000000_Chungcheongnamdo_Nonsan",
+            "shorten_url":"https:\/\/me2.do\/FdE69QKT"
         },
         {
             "index":32,
@@ -442,7 +478,8 @@
             "value_score":47.2165,
             "region":"충청남도 논산시",
             "region_code":"Chungcheongnamdo",
-            "sub_region_code":"4423000000_Chungcheongnamdo_Nonsan"
+            "sub_region_code":"4423000000_Chungcheongnamdo_Nonsan",
+            "shorten_url":"https:\/\/me2.do\/FdE69QKT"
         },
         {
             "index":33,
@@ -454,7 +491,8 @@
             "value_score":45.9665,
             "region":"충청남도 논산시",
             "region_code":"Chungcheongnamdo",
-            "sub_region_code":"4423000000_Chungcheongnamdo_Nonsan"
+            "sub_region_code":"4423000000_Chungcheongnamdo_Nonsan",
+            "shorten_url":"https:\/\/me2.do\/FdE69QKT"
         },
         {
             "index":34,
@@ -466,7 +504,8 @@
             "value_score":45.8415,
             "region":"충청남도 논산시",
             "region_code":"Chungcheongnamdo",
-            "sub_region_code":"4423000000_Chungcheongnamdo_Nonsan"
+            "sub_region_code":"4423000000_Chungcheongnamdo_Nonsan",
+            "shorten_url":"https:\/\/me2.do\/FdE69QKT"
         },
         {
             "index":35,
@@ -478,7 +517,8 @@
             "value_score":45.2845,
             "region":"충청남도 논산시",
             "region_code":"Chungcheongnamdo",
-            "sub_region_code":"4423000000_Chungcheongnamdo_Nonsan"
+            "sub_region_code":"4423000000_Chungcheongnamdo_Nonsan",
+            "shorten_url":"https:\/\/me2.do\/FdE69QKT"
         },
         {
             "index":36,
@@ -490,7 +530,8 @@
             "value_score":45.0915,
             "region":"충청남도 논산시",
             "region_code":"Chungcheongnamdo",
-            "sub_region_code":"4423000000_Chungcheongnamdo_Nonsan"
+            "sub_region_code":"4423000000_Chungcheongnamdo_Nonsan",
+            "shorten_url":"https:\/\/me2.do\/FdE69QKT"
         },
         {
             "index":37,
@@ -502,7 +543,8 @@
             "value_score":44.7165,
             "region":"충청남도 논산시",
             "region_code":"Chungcheongnamdo",
-            "sub_region_code":"4423000000_Chungcheongnamdo_Nonsan"
+            "sub_region_code":"4423000000_Chungcheongnamdo_Nonsan",
+            "shorten_url":"https:\/\/me2.do\/FdE69QKT"
         },
         {
             "index":38,
@@ -514,7 +556,8 @@
             "value_score":44.2165,
             "region":"충청남도 논산시",
             "region_code":"Chungcheongnamdo",
-            "sub_region_code":"4423000000_Chungcheongnamdo_Nonsan"
+            "sub_region_code":"4423000000_Chungcheongnamdo_Nonsan",
+            "shorten_url":"https:\/\/me2.do\/FdE69QKT"
         },
         {
             "index":39,
@@ -526,7 +569,8 @@
             "value_score":43.9665,
             "region":"충청남도 논산시",
             "region_code":"Chungcheongnamdo",
-            "sub_region_code":"4423000000_Chungcheongnamdo_Nonsan"
+            "sub_region_code":"4423000000_Chungcheongnamdo_Nonsan",
+            "shorten_url":"https:\/\/me2.do\/FdE69QKT"
         }
     ]
 }

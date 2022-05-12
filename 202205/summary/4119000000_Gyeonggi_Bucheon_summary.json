@@ -40,6 +40,10 @@
             {
                 "name":"sub_region_code",
                 "type":"string"
+            },
+            {
+                "name":"shorten_url",
+                "type":"string"
             }
         ],
         "primaryKey":[
@@ -58,7 +62,8 @@
             "value_score":72.1356,
             "region":"경기도 부천시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4119000000_Gyeonggi_Bucheon"
+            "sub_region_code":"4119000000_Gyeonggi_Bucheon",
+            "shorten_url":"https:\/\/me2.do\/FJFdQ4XV"
         },
         {
             "index":1,
@@ -70,7 +75,8 @@
             "value_score":69.8436,
             "region":"경기도 부천시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4119000000_Gyeonggi_Bucheon"
+            "sub_region_code":"4119000000_Gyeonggi_Bucheon",
+            "shorten_url":"https:\/\/me2.do\/FJFdQ4XV"
         },
         {
             "index":2,
@@ -82,7 +88,8 @@
             "value_score":69.83445,
             "region":"경기도 부천시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4119000000_Gyeonggi_Bucheon"
+            "sub_region_code":"4119000000_Gyeonggi_Bucheon",
+            "shorten_url":"https:\/\/me2.do\/FJFdQ4XV"
         },
         {
             "index":3,
@@ -94,7 +101,8 @@
             "value_score":68.4436,
             "region":"경기도 부천시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4119000000_Gyeonggi_Bucheon"
+            "sub_region_code":"4119000000_Gyeonggi_Bucheon",
+            "shorten_url":"https:\/\/me2.do\/FJFdQ4XV"
         },
         {
             "index":4,
@@ -106,7 +114,8 @@
             "value_score":68.16305,
             "region":"경기도 부천시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4119000000_Gyeonggi_Bucheon"
+            "sub_region_code":"4119000000_Gyeonggi_Bucheon",
+            "shorten_url":"https:\/\/me2.do\/FJFdQ4XV"
         },
         {
             "index":5,
@@ -118,7 +127,8 @@
             "value_score":67.74785,
             "region":"경기도 부천시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4119000000_Gyeonggi_Bucheon"
+            "sub_region_code":"4119000000_Gyeonggi_Bucheon",
+            "shorten_url":"https:\/\/me2.do\/FJFdQ4XV"
         },
         {
             "index":6,
@@ -130,7 +140,8 @@
             "value_score":67.6636,
             "region":"경기도 부천시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4119000000_Gyeonggi_Bucheon"
+            "sub_region_code":"4119000000_Gyeonggi_Bucheon",
+            "shorten_url":"https:\/\/me2.do\/FJFdQ4XV"
         },
         {
             "index":7,
@@ -142,7 +153,8 @@
             "value_score":67.0436,
             "region":"경기도 부천시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4119000000_Gyeonggi_Bucheon"
+            "sub_region_code":"4119000000_Gyeonggi_Bucheon",
+            "shorten_url":"https:\/\/me2.do\/FJFdQ4XV"
         },
         {
             "index":8,
@@ -154,7 +166,8 @@
             "value_score":65.6435,
             "region":"경기도 부천시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4119000000_Gyeonggi_Bucheon"
+            "sub_region_code":"4119000000_Gyeonggi_Bucheon",
+            "shorten_url":"https:\/\/me2.do\/FJFdQ4XV"
         },
         {
             "index":9,
@@ -166,7 +179,8 @@
             "value_score":65.5436,
             "region":"경기도 부천시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4119000000_Gyeonggi_Bucheon"
+            "sub_region_code":"4119000000_Gyeonggi_Bucheon",
+            "shorten_url":"https:\/\/me2.do\/FJFdQ4XV"
         },
         {
             "index":10,
@@ -178,7 +192,8 @@
             "value_score":78.5808,
             "region":"경기도 부천시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4119000000_Gyeonggi_Bucheon"
+            "sub_region_code":"4119000000_Gyeonggi_Bucheon",
+            "shorten_url":"https:\/\/me2.do\/FJFdQ4XV"
         },
         {
             "index":11,
@@ -190,7 +205,8 @@
             "value_score":77.7126,
             "region":"경기도 부천시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4119000000_Gyeonggi_Bucheon"
+            "sub_region_code":"4119000000_Gyeonggi_Bucheon",
+            "shorten_url":"https:\/\/me2.do\/FJFdQ4XV"
         },
         {
             "index":12,
@@ -202,7 +218,8 @@
             "value_score":68.558,
             "region":"경기도 부천시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4119000000_Gyeonggi_Bucheon"
+            "sub_region_code":"4119000000_Gyeonggi_Bucheon",
+            "shorten_url":"https:\/\/me2.do\/FJFdQ4XV"
         },
         {
             "index":13,
@@ -214,7 +231,8 @@
             "value_score":66.108,
             "region":"경기도 부천시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4119000000_Gyeonggi_Bucheon"
+            "sub_region_code":"4119000000_Gyeonggi_Bucheon",
+            "shorten_url":"https:\/\/me2.do\/FJFdQ4XV"
         },
         {
             "index":14,
@@ -226,7 +244,8 @@
             "value_score":65.9748,
             "region":"경기도 부천시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4119000000_Gyeonggi_Bucheon"
+            "sub_region_code":"4119000000_Gyeonggi_Bucheon",
+            "shorten_url":"https:\/\/me2.do\/FJFdQ4XV"
         },
         {
             "index":15,
@@ -238,7 +257,8 @@
             "value_score":65.9748,
             "region":"경기도 부천시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4119000000_Gyeonggi_Bucheon"
+            "sub_region_code":"4119000000_Gyeonggi_Bucheon",
+            "shorten_url":"https:\/\/me2.do\/FJFdQ4XV"
         },
         {
             "index":16,
@@ -250,7 +270,8 @@
             "value_score":65.688,
             "region":"경기도 부천시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4119000000_Gyeonggi_Bucheon"
+            "sub_region_code":"4119000000_Gyeonggi_Bucheon",
+            "shorten_url":"https:\/\/me2.do\/FJFdQ4XV"
         },
         {
             "index":17,
@@ -262,7 +283,8 @@
             "value_score":65.5782,
             "region":"경기도 부천시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4119000000_Gyeonggi_Bucheon"
+            "sub_region_code":"4119000000_Gyeonggi_Bucheon",
+            "shorten_url":"https:\/\/me2.do\/FJFdQ4XV"
         },
         {
             "index":18,
@@ -274,7 +296,8 @@
             "value_score":65.2995005368,
             "region":"경기도 부천시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4119000000_Gyeonggi_Bucheon"
+            "sub_region_code":"4119000000_Gyeonggi_Bucheon",
+            "shorten_url":"https:\/\/me2.do\/FJFdQ4XV"
         },
         {
             "index":19,
@@ -286,7 +309,8 @@
             "value_score":65.108,
             "region":"경기도 부천시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4119000000_Gyeonggi_Bucheon"
+            "sub_region_code":"4119000000_Gyeonggi_Bucheon",
+            "shorten_url":"https:\/\/me2.do\/FJFdQ4XV"
         },
         {
             "index":20,
@@ -298,7 +322,8 @@
             "value_score":68.3356,
             "region":"경기도 부천시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4119000000_Gyeonggi_Bucheon"
+            "sub_region_code":"4119000000_Gyeonggi_Bucheon",
+            "shorten_url":"https:\/\/me2.do\/FJFdQ4XV"
         },
         {
             "index":21,
@@ -310,7 +335,8 @@
             "value_score":68.1436,
             "region":"경기도 부천시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4119000000_Gyeonggi_Bucheon"
+            "sub_region_code":"4119000000_Gyeonggi_Bucheon",
+            "shorten_url":"https:\/\/me2.do\/FJFdQ4XV"
         },
         {
             "index":22,
@@ -322,7 +348,8 @@
             "value_score":67.11305,
             "region":"경기도 부천시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4119000000_Gyeonggi_Bucheon"
+            "sub_region_code":"4119000000_Gyeonggi_Bucheon",
+            "shorten_url":"https:\/\/me2.do\/FJFdQ4XV"
         },
         {
             "index":23,
@@ -334,7 +361,8 @@
             "value_score":65.6686,
             "region":"경기도 부천시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4119000000_Gyeonggi_Bucheon"
+            "sub_region_code":"4119000000_Gyeonggi_Bucheon",
+            "shorten_url":"https:\/\/me2.do\/FJFdQ4XV"
         },
         {
             "index":24,
@@ -346,7 +374,8 @@
             "value_score":65.13445,
             "region":"경기도 부천시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4119000000_Gyeonggi_Bucheon"
+            "sub_region_code":"4119000000_Gyeonggi_Bucheon",
+            "shorten_url":"https:\/\/me2.do\/FJFdQ4XV"
         },
         {
             "index":25,
@@ -358,7 +387,8 @@
             "value_score":65.12285,
             "region":"경기도 부천시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4119000000_Gyeonggi_Bucheon"
+            "sub_region_code":"4119000000_Gyeonggi_Bucheon",
+            "shorten_url":"https:\/\/me2.do\/FJFdQ4XV"
         },
         {
             "index":26,
@@ -370,7 +400,8 @@
             "value_score":65.0936,
             "region":"경기도 부천시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4119000000_Gyeonggi_Bucheon"
+            "sub_region_code":"4119000000_Gyeonggi_Bucheon",
+            "shorten_url":"https:\/\/me2.do\/FJFdQ4XV"
         },
         {
             "index":27,
@@ -382,7 +413,8 @@
             "value_score":64.6236,
             "region":"경기도 부천시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4119000000_Gyeonggi_Bucheon"
+            "sub_region_code":"4119000000_Gyeonggi_Bucheon",
+            "shorten_url":"https:\/\/me2.do\/FJFdQ4XV"
         },
         {
             "index":28,
@@ -394,7 +426,8 @@
             "value_score":64.2356,
             "region":"경기도 부천시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4119000000_Gyeonggi_Bucheon"
+            "sub_region_code":"4119000000_Gyeonggi_Bucheon",
+            "shorten_url":"https:\/\/me2.do\/FJFdQ4XV"
         },
         {
             "index":29,
@@ -406,7 +439,8 @@
             "value_score":63.1486,
             "region":"경기도 부천시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4119000000_Gyeonggi_Bucheon"
+            "sub_region_code":"4119000000_Gyeonggi_Bucheon",
+            "shorten_url":"https:\/\/me2.do\/FJFdQ4XV"
         },
         {
             "index":30,
@@ -418,7 +452,8 @@
             "value_score":77.006,
             "region":"경기도 부천시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4119000000_Gyeonggi_Bucheon"
+            "sub_region_code":"4119000000_Gyeonggi_Bucheon",
+            "shorten_url":"https:\/\/me2.do\/FJFdQ4XV"
         },
         {
             "index":31,
@@ -430,7 +465,8 @@
             "value_score":76.456,
             "region":"경기도 부천시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4119000000_Gyeonggi_Bucheon"
+            "sub_region_code":"4119000000_Gyeonggi_Bucheon",
+            "shorten_url":"https:\/\/me2.do\/FJFdQ4XV"
         },
         {
             "index":32,
@@ -442,7 +478,8 @@
             "value_score":75.906,
             "region":"경기도 부천시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4119000000_Gyeonggi_Bucheon"
+            "sub_region_code":"4119000000_Gyeonggi_Bucheon",
+            "shorten_url":"https:\/\/me2.do\/FJFdQ4XV"
         },
         {
             "index":33,
@@ -454,7 +491,8 @@
             "value_score":75.706,
             "region":"경기도 부천시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4119000000_Gyeonggi_Bucheon"
+            "sub_region_code":"4119000000_Gyeonggi_Bucheon",
+            "shorten_url":"https:\/\/me2.do\/FJFdQ4XV"
         },
         {
             "index":34,
@@ -466,7 +504,8 @@
             "value_score":75.026,
             "region":"경기도 부천시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4119000000_Gyeonggi_Bucheon"
+            "sub_region_code":"4119000000_Gyeonggi_Bucheon",
+            "shorten_url":"https:\/\/me2.do\/FJFdQ4XV"
         },
         {
             "index":35,
@@ -478,7 +517,8 @@
             "value_score":74.556,
             "region":"경기도 부천시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4119000000_Gyeonggi_Bucheon"
+            "sub_region_code":"4119000000_Gyeonggi_Bucheon",
+            "shorten_url":"https:\/\/me2.do\/FJFdQ4XV"
         },
         {
             "index":36,
@@ -490,7 +530,8 @@
             "value_score":74.206,
             "region":"경기도 부천시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4119000000_Gyeonggi_Bucheon"
+            "sub_region_code":"4119000000_Gyeonggi_Bucheon",
+            "shorten_url":"https:\/\/me2.do\/FJFdQ4XV"
         },
         {
             "index":37,
@@ -502,7 +543,8 @@
             "value_score":73.79075,
             "region":"경기도 부천시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4119000000_Gyeonggi_Bucheon"
+            "sub_region_code":"4119000000_Gyeonggi_Bucheon",
+            "shorten_url":"https:\/\/me2.do\/FJFdQ4XV"
         },
         {
             "index":38,
@@ -514,7 +556,8 @@
             "value_score":73.72975,
             "region":"경기도 부천시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4119000000_Gyeonggi_Bucheon"
+            "sub_region_code":"4119000000_Gyeonggi_Bucheon",
+            "shorten_url":"https:\/\/me2.do\/FJFdQ4XV"
         },
         {
             "index":39,
@@ -526,7 +569,8 @@
             "value_score":73.6225,
             "region":"경기도 부천시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4119000000_Gyeonggi_Bucheon"
+            "sub_region_code":"4119000000_Gyeonggi_Bucheon",
+            "shorten_url":"https:\/\/me2.do\/FJFdQ4XV"
         },
         {
             "index":40,
@@ -538,7 +582,8 @@
             "value_score":72.852,
             "region":"경기도 부천시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4119000000_Gyeonggi_Bucheon"
+            "sub_region_code":"4119000000_Gyeonggi_Bucheon",
+            "shorten_url":"https:\/\/me2.do\/FJFdQ4XV"
         },
         {
             "index":41,
@@ -550,7 +595,8 @@
             "value_score":71.5815,
             "region":"경기도 부천시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4119000000_Gyeonggi_Bucheon"
+            "sub_region_code":"4119000000_Gyeonggi_Bucheon",
+            "shorten_url":"https:\/\/me2.do\/FJFdQ4XV"
         },
         {
             "index":42,
@@ -562,7 +608,8 @@
             "value_score":70.912,
             "region":"경기도 부천시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4119000000_Gyeonggi_Bucheon"
+            "sub_region_code":"4119000000_Gyeonggi_Bucheon",
+            "shorten_url":"https:\/\/me2.do\/FJFdQ4XV"
         },
         {
             "index":43,
@@ -574,7 +621,8 @@
             "value_score":70.812,
             "region":"경기도 부천시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4119000000_Gyeonggi_Bucheon"
+            "sub_region_code":"4119000000_Gyeonggi_Bucheon",
+            "shorten_url":"https:\/\/me2.do\/FJFdQ4XV"
         },
         {
             "index":44,
@@ -586,7 +634,8 @@
             "value_score":70.692,
             "region":"경기도 부천시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4119000000_Gyeonggi_Bucheon"
+            "sub_region_code":"4119000000_Gyeonggi_Bucheon",
+            "shorten_url":"https:\/\/me2.do\/FJFdQ4XV"
         },
         {
             "index":45,
@@ -598,7 +647,8 @@
             "value_score":69.012,
             "region":"경기도 부천시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4119000000_Gyeonggi_Bucheon"
+            "sub_region_code":"4119000000_Gyeonggi_Bucheon",
+            "shorten_url":"https:\/\/me2.do\/FJFdQ4XV"
         },
         {
             "index":46,
@@ -610,7 +660,8 @@
             "value_score":68.445,
             "region":"경기도 부천시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4119000000_Gyeonggi_Bucheon"
+            "sub_region_code":"4119000000_Gyeonggi_Bucheon",
+            "shorten_url":"https:\/\/me2.do\/FJFdQ4XV"
         },
         {
             "index":47,
@@ -622,7 +673,8 @@
             "value_score":68.112,
             "region":"경기도 부천시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4119000000_Gyeonggi_Bucheon"
+            "sub_region_code":"4119000000_Gyeonggi_Bucheon",
+            "shorten_url":"https:\/\/me2.do\/FJFdQ4XV"
         },
         {
             "index":48,
@@ -634,7 +686,8 @@
             "value_score":68.112,
             "region":"경기도 부천시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4119000000_Gyeonggi_Bucheon"
+            "sub_region_code":"4119000000_Gyeonggi_Bucheon",
+            "shorten_url":"https:\/\/me2.do\/FJFdQ4XV"
         },
         {
             "index":49,
@@ -646,7 +699,8 @@
             "value_score":68.025,
             "region":"경기도 부천시",
             "region_code":"Gyeonggi",
-            "sub_region_code":"4119000000_Gyeonggi_Bucheon"
+            "sub_region_code":"4119000000_Gyeonggi_Bucheon",
+            "shorten_url":"https:\/\/me2.do\/FJFdQ4XV"
         }
     ]
 }
