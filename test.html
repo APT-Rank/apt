@@ -279,6 +279,7 @@
 
   var itemNum = 0;
   var aptData = "";
+  var aptData_original = "";
   var sortData = "";
   var prevValue = 0;
   var regData = "";
@@ -378,6 +379,10 @@
     if($.cookie('popCookie') != "202205"){
       showNotice()
       $('div.modal').modal("show");
+    }
+
+    if(selectedRegion != 'Korea'){
+      showSorting()
     }
   });
 
@@ -530,7 +535,7 @@
     //updateRegion()
   }
 
-  function updateMonth(){
+  function updateMonth(){    
     selectedMonth = $("#month option:selected").val()
     updateRegion()
     regionName = $("#sido option:selected").text()
@@ -538,23 +543,25 @@
   }
   function updateRegion(){
     minValue = 0;
-    maxValue = 60;
+    maxValue = 60;    
     //var selection = document.getElementById("gungu")
     selectedRegion = $("#sido option:selected").val()
     selectedSubRegion = $("#gungu option:selected").val()
 
     if (selectedSubRegion != "1000000000_Korea"){
       updateTable(selectedMonth, selectedSubRegion)
-      regionName = $("#sido option:selected").text()
+      regionName = $("#sido option:selected").text()      
+      showSorting()
+      $('div.modal').modal("show");
     }
     else{
       updateRegionTable(selectedMonth)
-    }
+    }    
     showWeight()
   }
 
   function updateTable(month, region){
-    $('div.modal').modal("hide");
+    //$('div.modal').modal("hide");    
     $('#sort').css("visibility", "visible")
     $('html').scrollTop(0)
     initSorting()
@@ -566,9 +573,13 @@
         sortData = json;
     })
 
+    $.getJSON(url, function(json) {        
+        aptData_original = json;
+    })
+
     $.getJSON(url, function(json) {
         //console.log(json);
-        aptData = json;
+        aptData = json;         
         //sortData = json;
         itemNum = json.data.length;
         valueSum = 0;
@@ -665,11 +676,11 @@
           addon_html += "<div class='value_score'>" + ( Math.round( aptValue * 100 ) / 100 ).toFixed(2) + "점</div>"
           addon_html += "</div>"
 
-          $('#dataList').append(addon_html);
+          $('#dataList').append(addon_html);          
         }
-    })
+    })    
     showWeight()
-    saveLocalStorage()
+    saveLocalStorage()    
   }
 
   function showDetail(index){
@@ -677,9 +688,11 @@
     detailHtml = "";
     footerHtml = "";
     if(sortSelection == "sortDefault"){
+      aptData = aptData_original
       var aptRank = aptData.data[index]["rank"] + "/" + aptData.data[itemNum-1]["rank"] + "위"
     }
     else{
+      aptData = sortData
       var aptRank = (index+1) + "/" + aptData.data[itemNum-1]["rank"] + "위"
     }
     var aptName = aptData.data[index]["아파트명"]
@@ -988,7 +1001,7 @@
     detailHtml += "<div class='popSubTable'><div class='popContent'>" + "중학교 학업성취도" + "</div>" + "<div class='popResult'>" + mSchool_edu + "</div></div>";
     if(Number(selectedMonth) > 202204){
       detailHtml += "<div class='popSubTable'><div class='popContent'>" + "500m 이내 학원가" + "</div>" + "<div class='popResult'>" + academy_edu + "</div></div>";
-      detailHtml += "<div class='comment2'>교육 정보는 교육통계서비스 정보를 기반으로 산정되며, 학원가는 호갱노노의 정보를 사용합니다.</div>"
+      detailHtml += "<div class='comment2'>교육 정보는 교육통계서비스 정보를 기반으로 산정되며, 학원가는 호갱노노의 정보를 사용합니다.<br>초등학교까지의 거리는 직선거리로 계산됩니다.</div>"
     }
     else{
       detailHtml += "<div class='comment2'>교육 정보는 교육통계서비스 정보를 기반으로 산정됩니다.</div>"
@@ -1066,7 +1079,7 @@
     footerHtml += "<div class='modal-footer'>"
     //footerHtml += "<div></div>"
     shareTitle = "[아파트랭크]\n"
-    shareTitle += selectedMonth.substr(0, 4) + "년 " + Number(selectedMonth.substr(4, 2)).toString() + "월 우리 아파트 입지 순위는?\n"
+    shareTitle += selectedMonth.substr(0, 4) + "년 " + Number(selectedMonth.substr(4, 2)).toString() + "월 우리 아파트 입지 데이터는?\n"
 
     shareText = "\n『" + aptName
     if(Number(selectedMonth) > 202203){      
@@ -1408,7 +1421,7 @@
     }
 
     shareTitle = "[아파트랭크]\n"
-    shareTitle += selectedMonth.substr(0, 4) + "년 " + Number(selectedMonth.substr(4, 2)).toString() + "월 우리 지역 입지 순위는?\n\n"
+    shareTitle += selectedMonth.substr(0, 4) + "년 " + Number(selectedMonth.substr(4, 2)).toString() + "월 우리 지역 입지 데이터는?\n\n"
 
     shareText = "『" + regName + "』"
     shareText += "\nㆍ순위 : " + regRank + " (" + regValue + "점)"
@@ -1598,12 +1611,17 @@
       detailHtml += "<hr>";
     }
     if(selectedMonth == "202205"){
-      detailHtml += "<div class='popupTitle' style='text-align: center; padding-bottom: 1em'> 2022년 5월 업데이트 안내 (2022-05-03)</div>";
+      detailHtml += "<div class='popupTitle' style='text-align: center; padding-bottom: 1em'> 2022년 5월 업데이트 안내 (2022-05-04)</div>";
       detailHtml += "<ul>"
       detailHtml += "<li><div class='notice'> 도시형 생활주택을 단지 목록에서 제거했습니다.</div></li>";
       detailHtml += "<li><div class='notice'> 서울과 수도권 주요역까지의 이동 시간을 '목요일 오전 8:30분' 출발시간으로 설정하여 일괄 재계산 했습니다.</div></li>";
       detailHtml += "<li><div class='notice'> 초등학교와의 거리 정보를 교육 점수에 반영했습니다.</div></li>";
       detailHtml += "<li><div class='notice'> 학원가와의 거리, 학원의 개수를 교육 점수에 반영했습니다.</div></li>";
+      detailHtml += "<li><div class='notice'> 수인분당/신분당선 '미금'역의 좌표 오류 수정 반영했습니다.</div></li>";
+      detailHtml += "<li><div class='notice'> 누락되었던 서해선 '신천'역을 추가했습니다.</div></li>";
+      detailHtml += "<li><div class='notice'> 누락되었던 3호선 '화정', '대곡'역을 추가했습니다.</div></li>";
+      detailHtml += "<li><div class='notice'> 누락되었던 2호선 '종합운동장'역을 추가했습니다.</div></li>";
+      detailHtml += "<li><div class='notice'> 경기도 화성시 대형 쇼핑몰인 '타임테라스'를 추가했습니다.</div></li>";
       detailHtml += "<li><div class='notice'> 상권의 개수와 점포 수를 인프라 점수에 반영했습니다.</div></li>";
       detailHtml += "<li><div class='notice'> 서울, 부산 지역 '균형잡힌 가중치'의 '주거'를 상향하고 '교통'을 하향했습니다.</div></li>";
       detailHtml += "<li><div class='notice'> 광주, 대전, 대구 지역 '균형잡힌 가중치'의 '교육'을 상향하고 '교통'을 하향했습니다.</div></li>";
@@ -1633,8 +1651,8 @@
     footerHtml += " <div id='footerCheck'><input class='form-check-input' type='checkbox' value='' id='flexCheckDefault'><label class='form-check-label' for='flexCheckDefault'><span class='notice'>일주일 동안 보지 않기</span></label></div>"
     footerHtml += " <div id='footerBtn1'><a href='https://play.google.com/store/apps/details?id=com.aptrank.app' target='_blank'><button type='button' class='goApt' style='font-size: 0.85em'>앱 설치하기(안드로이드)</button></a></div>"
     //footerHtml += " <div><a href='https://open.kakao.com/o/sPYY0LZd' target='_blank'><button type='button' class='gokakao'>카카오톡 문의하기</button></a></div>"
-    footerHtml += " <div id='footerBtn2'><a href='http://pf.kakao.com/_vESNb/chat' target='_blank'><button type='button' class='gokakao' style='font-size: 0.85em'>카카오톡 1:1 문의하기</button></a></div>"
-    footerHtml += " <div id='footerBtn3'><a href='http://pf.kakao.com/_vESNb' target='_blank'><button type='button' class='gokakao' style='font-size: 0.85em'>카카오톡 채널로 업데이트 소식받기</button></a></div>"
+    footerHtml += " <div id='footerBtn2'><a href='https://pf.kakao.com/_vESNb/chat' target='_blank'><button type='button' class='gokakao' style='font-size: 0.85em'>카카오톡 1:1 문의하기</button></a></div>"
+    footerHtml += " <div id='footerBtn3'><a href='https://pf.kakao.com/_vESNb' target='_blank'><button type='button' class='gokakao' style='font-size: 0.85em'>카카오톡 채널로 업데이트 소식받기</button></a></div>"
     footerHtml += "</div>"  
 
 
