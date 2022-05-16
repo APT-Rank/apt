@@ -59,7 +59,8 @@
     lastMinValue = minValue;
     lastMaxValue = maxValue;
 
-    var titleHtml = "<div class='popupTitle'>총점 가중치 / 가격 필터 (BETA)</div>";
+    var titleHtml = "<div class='popupTitle'>'" + $('#sido option:selected').text() + " " + $('#gungu option:selected').text() + "'의"
+    titleHtml += "<br>랭크 방식을 선택해 주세요.</div>";
     titleHtml += "<div class='comment2'> 각 항목별 점수는 변하지 않으며, 가중치에 따라 총점을 다시 계산합니다.</div>";
     var footerHtml = "" 
 
@@ -147,8 +148,8 @@
 
     $('#percentWarning').css({'visibility' : 'hidden'})    
 
-    $('#sortApply').css({"border-radius": '5px', "background-color": "#ff3849", "color":"white", "height":"2.5em"})
-    $('#sortClose').css({"border-radius": '5px', "background-color": "#ff3849", "color":"white", "height":"2.5em"})
+    $('#sortApply').css({"border-radius": '5px', "background-color": "#8d24a7", "color":"white", "height":"2.5em"})
+    $('#sortClose').css({"border-radius": '5px', "background-color": "#8d24a7", "color":"white", "height":"2.5em"})
 
     initSlide();
   }
