@@ -97,9 +97,7 @@
         <!--공유 버튼-->
         <!-- <div id="search" onClick='share(shareTitle, shareText, shareURL)'><i class='fa-solid fa-arrow-up-right-from-square'></i></div> -->
         <!--단지 가중치 설정 버튼 표시-->
-        <div id='sort' class="position-relative" data-bs-toggle='modal' data-bs-target='#exampleModal' id='myModal' onClick='showSorting()'><i class="fa-solid fa-sliders"></i>
-          <span class="position-absolute top-20 start-0 translate-middle badge rounded-pill" id="betaBadge">BETA</span>
-        </div>
+        <div id='sort' class="position-relative" data-bs-toggle='modal' data-bs-target='#exampleModal' id='myModal' onClick='showSorting()'><i class="fa-solid fa-sliders"></i></div>
         <div id='help' data-bs-toggle='modal' data-bs-target='#exampleModal' id='myModal' onClick='showNotice()'><i class="fa-solid fa-circle-question"></i></div>
 
       </div>
@@ -290,6 +288,7 @@
   var popupHistory = [];
 
   var startNotice = false;
+  var sortingPop = false;
 
   var broswerInfo = navigator.userAgent;
 
@@ -373,7 +372,11 @@
       }
     });
 
-    $('div.modal').on('hidden.bs.modal', function() {
+    $('div.modal').on('hidden.bs.modal', function() {      
+      //정렬팝업이 띄워져 있으면 닫고 블링킹
+      if(sortingPop == true){
+        blinkSorting()
+      }
       //처음 진입 시 공지 팝업이 표시되면, 닫은 후 가중치 팝업 표시
       if(startNotice == true){
         showSorting();
@@ -383,7 +386,7 @@
       else{
         var hash = this.id;
         history.replaceState('', document.title, window.location.pathname);
-      }
+      }      
     })
 
     if($.cookie('popCookie') != "202205"){
@@ -870,7 +873,7 @@
     detailHtml += "<div class='graph' style='height: 200px'> <canvas id='valueChart'></canvas></div>"
     detailHtml += "<div class='comment'>(지역구의 모든 단지에 대해 100점으로 환산한 상대 점수 입니다.)</div>";
     if(Number(selectedMonth) > 202203){
-      detailHtml += "<hr><div class='graph' style='height: 120px;'> <canvas id='rankChart'></canvas></div>"
+      detailHtml += "<hr style='margin-bottom: 0'><div class='rankGraphTitle'>- 균형잡힌 가중치 순위 변동 -</div><div class='graph' style='height: 120px;'> <canvas id='rankChart'></canvas></div>"
     }
     detailHtml += "</div></div>"
 

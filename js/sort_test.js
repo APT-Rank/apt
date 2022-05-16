@@ -55,17 +55,17 @@
   function showSorting(){
     //$('.btn-close').hide()
     console.log("SHOW!!")
+    sortingPop = true
 
     lastMinValue = minValue;
     lastMaxValue = maxValue;
 
-    var titleHtml = "<div class='popupTitle'>'" + $('#sido option:selected').text() + " " + $('#gungu option:selected').text() + "'의"
-    titleHtml += "<br>랭크 방식을 선택해 주세요.</div>";
+    var titleHtml = "<div class='popupTitle' style='font-size:0.85em'>'" + $('#sido option:selected').text() + " " + $('#gungu option:selected').text() + "'"
+    titleHtml += "<br>랭크 설정 (" + $('#month option:selected').text() + ")</div>";
     titleHtml += "<div class='comment2'> 각 항목별 점수는 변하지 않으며, 가중치에 따라 총점을 다시 계산합니다.</div>";
     var footerHtml = "" 
 
-    var detailHtml = "<div class='settingArea' style='padding-top:0.5em'>";
-    detailHtml += "<div><input type='radio' class='btn-check' name='btnSort' autocomplete='off' id='sortDefault' onClick='setRangeValue(this)'><label class='btn btn-outline-danger' for='sortDefault'>균형잡힌</label></div>"
+    var detailHtml = "<div class='settingArea' style='padding-top:0.5em'>";    
     detailHtml += "<div><input type='radio' class='btn-check' name='btnSort' autocomplete='off' id='sortLiving' onClick='setRangeValue(this)'><label class='btn btn-outline-danger' for='sortLiving'>주거우선</label></div>"
 
     if(selectedRegion == 'Seoul' || selectedRegion == 'Incheon' || selectedRegion == 'Gyeonggi' || selectedRegion == 'Busan' || selectedRegion == 'Daegu' || selectedRegion == 'Daejeon' || selectedRegion == 'Gwangju'){
@@ -75,6 +75,7 @@
     detailHtml += "<div><input type='radio' class='btn-check' name='btnSort' autocomplete='off' id='sortInfra' onClick='setRangeValue(this)'><label class='btn btn-outline-danger' for='sortInfra'>인프라우선</label></div>"
     detailHtml += "<div><input type='radio' class='btn-check' name='btnSort' autocomplete='off' id='sortEdu' onClick='setRangeValue(this)'><label class='btn btn-outline-danger' for='sortEdu'>교육우선</label></div>"
     detailHtml += "<div><input type='radio' class='btn-check' name='btnSort' autocomplete='off' id='sortCustom' onClick='setRangeValue(this)'><label class='btn btn-outline-danger' for='sortCustom'>커스텀</label></div>"
+    detailHtml += "<div><input type='radio' class='btn-check' name='btnSort' autocomplete='off' id='sortDefault' onClick='setRangeValue(this)'><label class='btn btn-outline-danger' for='sortDefault'>균형잡힌</label></div>"
     detailHtml += "</div>";
 
     detailHtml += "<hr style='margin-top:0.7em'>";
@@ -254,6 +255,18 @@
     valEdu_temp = $('#rangeEdu').val();
 
     //console.log(valLiving_temp, valTrans_temp, valInfra_temp, valEdu_temp)
+  }
+  function blinkSorting(){    
+      $('#sort').each(function() {
+        var elem = $(this);
+        elem.fadeOut(200)
+            .fadeIn(200)
+            .fadeOut(200)
+            .fadeIn(200)
+            //.fadeOut(200)
+            //.fadeIn(200);
+    });
+    sortingPop = false;
   }
 
   function closeSorting(){
