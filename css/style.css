@@ -122,7 +122,7 @@
     color: rgb(48, 48, 48);     
   }
   .translate-middle{
-    transform: translate(-20%, 40%) !important;
+    transform: translate(-20%, 40%) !important;    
   }  
   #filterPyeong{
     width: 100%;
@@ -151,6 +151,9 @@
   }
   .btn-check:checked+.btn-outline-danger{
     background-color: #ff3849 !important;        
+  }
+  .btn-check:disabled+.btn, .btn-check[disabled]+.btn{    
+    opacity: 0.3 !important;    
   }
 
   #dataList{
