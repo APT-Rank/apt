@@ -289,6 +289,7 @@
 
   var startNotice = false;
   var sortingPop = false;
+  var regionSelection = false;
 
   var broswerInfo = navigator.userAgent;
 
@@ -455,6 +456,7 @@
   }
 
   function sidoChange(){
+    regionSelection = true
     optionChange()
     updateRegion()
   }
@@ -568,9 +570,12 @@
 
     if (selectedSubRegion != "1000000000_Korea"){
       updateTable(selectedMonth, selectedSubRegion)
-      regionName = $("#sido option:selected").text()      
-      showSorting()
-      $('div.modal').modal("show");        
+      regionName = $("#sido option:selected").text()
+      if(regionSelection != true){
+        showSorting()
+        $('div.modal').modal("show");        
+      }
+      regionSelection = false
     }
     else{
       updateRegionTable(selectedMonth)
