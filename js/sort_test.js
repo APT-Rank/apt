@@ -113,7 +113,7 @@
     detailHtml += "<div class='comment2' style='padding-left:4px; padding-top:1.3em'> 가격 필터는 마지막 업데이트 시점의 실거래가를 기준으로 하며, 전체 평형을 반영하지 않습니다.</div>"; 
 
     footerHtml += "<div class='modal-footer'>"
-    //footerHtml += "<div class='form-check'><input class='form-check-input' type='checkbox' value='' id='flexCheckDefault'><label class='form-check-label' for='flexCheckDefault'>이번 달에 보지 않기</label></div>"    
+    footerHtml += "<div id='footerCheck'><input class='form-check-input' type='checkbox' value='' id='startSortPop'><label class='form-check-label' for='startSortPop'><span class='notice'>지역 변경 시 표시하지 않기</span></label></div>"
     footerHtml += "<div><button type='button' id='sortClose' class='btn btn-outline-danger' onClick='closeSorting()'>닫기</button></div>"
     footerHtml += "<div><button type='button' id='sortApply' class='btn btn-outline-danger' onClick='applySorting()'>적용</button></div>"    
     footerHtml += "</div>"    
@@ -149,11 +149,32 @@
 
     $('#percentWarning').css({'visibility' : 'hidden'})    
 
-    $('#sortApply').css({"border-radius": '5px', "background-color": "#8d24a7", "color":"white", "height":"2.5em"})
-    $('#sortClose').css({"border-radius": '5px', "background-color": "#8d24a7", "color":"white", "height":"2.5em"})
+    $('#sortApply').css({"border-radius": '5px', "background-color": "#ff3849", "color":"white", "height":"2.5em"})
+    $('#sortClose').css({"border-radius": '5px', "background-color": "#ff3849", "color":"white", "height":"2.5em"})
+    $('#footerCheck').css({"grid-column" : "span 2", "height" : "2em"})    
 
-    initSlide();
-  }
+    initSlide();    
+
+    $('#startSortPop').change(function(){
+      if($(this).is(':checked')){      
+        alwaysSortingPop = "off"
+        console.log(alwaysSortingPop)
+        localStorage.setItem('lastSortingPop', alwaysSortingPop)
+      }
+      else{      
+        alwaysSortingPop = "on"
+        console.log(alwaysSortingPop)
+        localStorage.setItem('lastSortingPop', alwaysSortingPop)
+      }
+    })
+
+    if(alwaysSortingPop == "off"){
+      $('#startSortPop').prop("checked", true)
+    }
+    else{
+      $('#startSortPop').prop("checked", false)
+    }
+  }  
 
   function setRangeValue(e){
     sortSelection = e.id
