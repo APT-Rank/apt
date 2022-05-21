@@ -38,6 +38,7 @@
   <meta name="author" content="아파트랭크">
   <meta name="robots" content="index,follow">
   <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no, minimal-ui">
+  <meta charset="utf-8">
 
   <!-- 주소창 등의 웹 브라우저 UI를 표시하지 않기 -->
   <meta name="apple-mobile-web-app-capable" content="yes">
@@ -288,6 +289,7 @@
   var popupHistory = [];
 
   var startNotice = false;
+  var noticePop = false;
   var sortingPop = false;
   var alwaysSortingPop = "on";
   var regionSelection = false;
@@ -379,39 +381,38 @@
       //var hash = this.id;
       //history.replaceState('', document.title, window.location.pathname);
       
-      //*************** 시작 시 가중치 팝업 표시 ********************
-      //정렬팝업이 띄워져 있으면 닫고 블링킹
+      //처음 진입 시 공지 팝업이 표시되면, 닫은 후 가중치 팝업 표시
+      if(noticePop == true){     
+        noticePop = false
+      }
+
+      var hash = this.id;
+      history.replaceState('', document.title, window.location.pathname);
+
+      if(startNotice == true){
+        if(alwaysSortingPop != "off"){
+          if(selectedRegion != 'Korea'){
+            console.log("startNotice: ", startNotice)
+            console.log("가중치 팝업 표시 : ", alwaysSortingPop)
+            showSorting()
+            $('div.modal').modal("show");
+          }
+        }
+        startNotice = false        
+      }
+
       if(sortingPop == true){
         blinkSorting()
+        sortingPop = false
       }
-      //처음 진입 시 공지 팝업이 표시되면, 닫은 후 가중치 팝업 표시
-      if(startNotice == true && alwaysSortingPop == "on"){
-        showSorting();
-        $('div.modal').modal("show");        
-        startNotice= false
-      }
-      else{
-        var hash = this.id;
-        history.replaceState('', document.title, window.location.pathname);
-      }
-      //***********************************/
     })
 
     if($.cookie('popCookie') != "202205"){
+      startNotice = true
       showNotice()
-      //초기 진입 시 공지 팝업 표시하는 경우, 변수 startNotice에 true 할당
-      startNotice = true;
+      //초기 진입 시 공지 팝업 표시하는 경우, 변수 startNotice에 true 할당      
       $('div.modal').modal("show");
     }
-
-    //*************** 시작 시 가중치 팝업 표시 ********************    
-    if(startNotice == false){
-      if(selectedRegion != 'Korea' || alwaysSortingPop != "off" ){        
-        showSorting()
-        $('div.modal').modal("show");
-      }
-    }
-    //****************************************/
   });
 
   function showWeight(){
@@ -585,10 +586,10 @@
       regionName = $("#sido option:selected").text()
       //*************** 시작 시 가중치 팝업 표시 ********************      
       if(regionSelection != true && alwaysSortingPop == "on"){
-        console.log("POP: ", alwaysSortingPop)
-        console.log("regionSelection: ", regionSelection)
-        showSorting()
-        $('div.modal').modal("show");
+          console.log("POP: ", alwaysSortingPop)
+          console.log("regionSelection: ", regionSelection)
+          showSorting()
+          $('div.modal').modal("show");
       }
       regionSelection = false     
       //*********************************************/
@@ -1602,6 +1603,7 @@
     window.open(nURL)
   }
   function showNotice(){
+    noticePop = true
     var titleHtml = "<div class='popupTitle'> 아파트랭크에서 알려드립니다 </div>";
     var footerHtml = ""
     var detailHtml = "<div class='notice'>아파트랭크는 '주거', '인프라', '교통', '교육환경'을 AI로 분석하여 점수로 계산하여 입지 정보를 제공하는 서비스 입니다.</div>"
