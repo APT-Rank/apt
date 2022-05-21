@@ -387,7 +387,7 @@
       //처음 진입 시 공지 팝업이 표시되면, 닫은 후 가중치 팝업 표시
       if(startNotice == true && alwaysSortingPop == "on"){
         showSorting();
-        $('div.modal').modal("show");
+        $('div.modal').modal("show");        
         startNotice= false
       }
       else{
@@ -406,7 +406,7 @@
 
     //*************** 시작 시 가중치 팝업 표시 ********************    
     if(startNotice == false){
-      if(selectedRegion != 'Korea' || alwaysSortingPop == "on" ){
+      if(selectedRegion != 'Korea' || alwaysSortingPop != "off" ){        
         showSorting()
         $('div.modal').modal("show");
       }
