@@ -256,6 +256,11 @@
     font-size: 0.7em;
     color:rgb(85, 85, 85);
   }
+  .themePoint{
+    font-size: 1em;
+    font-weight: 600;
+    color: #ff3d38;
+  }
 
   #selections{        
     display: grid;    
