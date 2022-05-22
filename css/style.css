@@ -21,6 +21,15 @@
     font-size: 1.25em;
     font-weight: 600;
   }
+  #themeLogo{
+    font-weight: 400;
+    display:inline-flex;      
+    border-radius: 5px;
+    border: 2px solid white;
+    padding: 2px 5px 2px 5px;
+    margin-left: 5px;
+    line-height: 18px;      
+  }
   #searchCard, #regionSearchCard{    
     position: fixed;
     display: grid;
@@ -170,6 +179,17 @@
     padding-top: 0.5em;
     padding-bottom: 0.5em;
   }
+
+  .themeListBox{
+    display: grid;
+    grid-template-columns: 1fr 80px;
+    align-items: center;
+    border-bottom: 1px solid gray;
+    padding-left: 20px;
+    padding-right: 10px;
+    padding-top: 0.5em;
+    padding-bottom: 0.5em;
+  }  
   
   /*
   .listBox:hover{
@@ -208,6 +228,14 @@
     text-align: center;
     font-size: 0.6em;    
   }
+  .rankGraphTitle{
+    height: 2em;
+    font-size: 0.75em;
+    text-align: center;
+    padding-top: 3px;
+    margin-bottom: 5px;
+    background: #f7f7f7;
+  }  
   .apt_address{
     font-size: 0.7em;
     color: gray;
@@ -242,6 +270,19 @@
     left: 0;
     right: 0;    
   }
+  #themeSelections{        
+    display: grid;    
+    grid-template-columns: 0.8fr 1.5fr 1.3fr;
+    align-content: center;
+    justify-content: center;
+    padding-top: 10px;
+    padding-bottom: 10px;    
+    background-color: #ff3d38;
+    position: fixed;
+    top: 50px;
+    left: 0;
+    right: 0;    
+  }
   #weight{        
     display: grid;    
     grid-template-columns: 1fr;
@@ -260,7 +301,25 @@
     text-align: center;
   }
 
-  #sido, #gungu, #month{
+  #linkToAptrank{
+    display: grid;    
+    grid-template-columns: 1fr;
+    align-content: center;
+    justify-content: center;
+    padding-top: 2px;
+    padding-bottom: 2px;    
+    background-color: #ff3d38;
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    right: 0;
+
+    font-size: 0.7em;
+    color: white;
+    text-align: center;
+  }
+
+  #sido, #gungu, #month, #theme{
     width: 95%;
     height: 2em;
     font-size: 0.8em;
@@ -276,6 +335,10 @@
     text-align: left;
   }
   #month_selection{
+    text-align: right;
+    padding-right: 10px;
+  }
+  #theme_selection{
     text-align: right;
     padding-right: 10px;
   }
@@ -493,6 +556,19 @@
     border-radius: 5px;
     border: None;
   }
+  #NLink{
+    text-align: right;
+  }
+  .goThemeLink{
+    align-content: right;
+    width: 90%;
+    font-size: 0.8em;
+    color: #03c75a;
+    height: 2.5em;    
+    font-weight: 600;    
+    border-radius: 5px;
+    border: 1px solid #03c75a;
+  }
   .goApt{
     width: 100%;    
     height: 2.5em;
@@ -609,7 +685,7 @@
     #closeSearch_floating, #closeRearrange_floating, #closeRegionSearch_floating, #closeRegionRearrange_floating{
       display: none;
     }
-    #selections, #weight{
+    #selections, #weight, #themeSelections, #linkToAptrank{
       margin: 0 auto;
       width: 800px;
     }
