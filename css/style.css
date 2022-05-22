@@ -691,7 +691,7 @@
       grid-template-columns: 800px;
       justify-content:center;
     }
-    #titleBar{
+    #titleBar, #titleBar_theme{
       margin: 0 auto;
       width: 800px;
     }
