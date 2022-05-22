@@ -50,7 +50,7 @@
   <!-- 웹 앱 매니페스트를 읽어 들이기 -->
   <link rel="manifest" href="manifest_theme.json">  
 
-  <link rel="canonical" href="https://www.aptrank.kr/">
+  <link rel="canonical" href="https://www.aptrank.kr/theme/">
   <link href="https://fonts.googleapis.com/css?family=Roboto:100,300,400,500,700,900" rel="stylesheet">
   <link href="https://cdn.jsdelivr.net/npm/@mdi/font@6.x/css/materialdesignicons.min.css" rel="stylesheet">
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css" integrity="sha512-9usAa10IRO0HhonpyAIVpjrylPvoDwiPUiKdWk5t3PyolY1cOd4DSE0Ga+ri4AuTroPR5aQvXU9xC6qOPnzFeg==" crossorigin="anonymous" referrerpolicy="no-referrer" />
@@ -571,7 +571,7 @@
               addon_html += "</div></div>";
               addon_html += "<div id='NLink'><button type='button' class='goThemeLink' onclick='openNaver(" + searchCode + ")'>N부동산</button></div>"
 
-              shareText += "ㆍ" + aptName + " " + aptYear + "\n"
+              shareText += "ㆍ" + aptName + "\n"
             }
             $('#themeDataList').append(addon_html);
           }          
@@ -596,7 +596,7 @@
               addon_html += "</div></div>";
               addon_html += "<div id='NLink'><button type='button' class='goThemeLink' onclick='openNaver(" + searchCode + ")'>N부동산</button></div>"
 
-              shareText += "ㆍ" + aptName + " " + aptYear + "\n"
+              shareText += "ㆍ" + aptName + "\n"
             }
             $('#themeDataList').append(addon_html);
           }        
@@ -619,7 +619,7 @@
                 addon_html += "</div></div>";
                 addon_html += "<div id='NLink'><button type='button' class='goThemeLink' onclick='openNaver(" + searchCode + ")'>N부동산</button></div>"
 
-                shareText += "ㆍ" + aptName + " " + aptYear + "\n"
+                shareText += "ㆍ" + aptName + "\n"
               }
               $('#themeDataList').append(addon_html);
             }
@@ -644,7 +644,7 @@
                 addon_html += "</div></div>";
                 addon_html += "<div id='NLink'><button type='button' class='goThemeLink' onclick='openNaver(" + searchCode + ")'>N부동산</button></div>"
 
-                shareText += "ㆍ" + aptName + " " + aptYear + "\n"
+                shareText += "ㆍ" + aptName + "\n"
               }
               $('#themeDataList').append(addon_html);
             }
@@ -676,18 +676,18 @@
     shareTitle = "[아파트랭크THEME]\n"
     shareTitle += "'" + $('#sido option:selected').text() + " " + $('#gungu option:selected').text() + "' "
     if(type == "under100M"){
-      shareTitle += "공시지가 1억 이하 아파트 단지\n"
+      shareTitle += "공시지가 1억 이하 아파트 단지\n\n"
     }
     if(type == "under5floor"){
-      shareTitle += "5층 이하 아파트 단지\n"      
+      shareTitle += "5층 이하 아파트 단지\n\n"      
     }
     if(type == "newApt"){
-      shareTitle += "분양권 아파트 단지\n"      
+      shareTitle += "분양권 아파트 단지\n\n"      
     }
     if(type == "rebuild"){
-      shareTitle += "재건축 아파트 단지\n"
+      shareTitle += "재건축 아파트 단지\n\n"
     }
-    shareURL = "https://www.aptrank.kr/theme" + "?reg=" + selectedRegion +"&sub=" + selectedSubRegion + "&theme=" + selectedTheme
+    shareURL = "\nhttps://www.aptrank.kr/theme" + "?reg=" + selectedRegion +"&sub=" + selectedSubRegion + "&theme=" + selectedTheme
   }
 
   function showDetail(index){
