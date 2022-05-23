@@ -558,14 +558,14 @@
               addon_html += "<div class='apt_info'>"+ house_num.toLocaleString() + "세대 / ";
 
               if(apt_type == "ABYG"){
-                addon_html += "<span class='apt_info'>" + aptData.data[i]["법정동주소"] + "</span>";
+                addon_html += "<span class='apt_address'>" + aptData.data[i]["법정동주소"] + "</span></div>";
               }
               else{
-                addon_html += "<span class='apt_info'>" + aptAddress + "</span>";
+                addon_html += "<span class='apt_address'>" + aptAddress + "</span></div>";
               }
 
               addon_html += "<div class='themePoint'>공시지가: " + min_land_price + "억 ~ " + max_land_price + "억</div>";
-              addon_html += "</div></div>";
+              addon_html += "</div>";
               addon_html += "<div id='NLink'><button type='button' class='goThemeLink' onclick='openNaver(" + searchCode + ")'>N부동산</button></div>"
 
               shareText += "ㆍ" + aptName + "\n"
@@ -583,14 +583,14 @@
               addon_html += "<div class='apt_info'>"+ house_num.toLocaleString() + "세대 / ";
 
               if(apt_type == "ABYG"){
-                addon_html += "<span class='apt_info'>" + aptData.data[i]["법정동주소"] + "</span>";
+                addon_html += "<span class='apt_address'>" + aptData.data[i]["법정동주소"] + "</span></div>";
               }
               else{
-                addon_html += "<span class='apt_info'>" + aptAddress + "</span>";
+                addon_html += "<span class='apt_address'>" + aptAddress + "</span></div>";
               }
 
               addon_html += "<div class='themePoint'>최고 " + max_floor + "층, 최저 " + min_floor + "층</div>";
-              addon_html += "</div></div>";
+              addon_html += "</div>";
               addon_html += "<div id='NLink'><button type='button' class='goThemeLink' onclick='openNaver(" + searchCode + ")'>N부동산</button></div>"
 
               shareText += "ㆍ" + aptName + "\n"
@@ -604,16 +604,16 @@
                 addon_html += "<div class='themeListBox'>";
                 addon_html += "<div class='content'>";
                 addon_html += "<div class='apt_name'>" + aptName;
-                addon_html += "<span class='aptYear'><span class='themePoint'>    " + aptYear + "</span></div>";
+                addon_html += "<span class='aptYear'><span class='themePoint' style = 'font-size: 1.05em'>    " + aptYear + "</span></div>";
                 addon_html += "<div class='apt_info'>"+ house_num.toLocaleString() + "세대 / ";
 
                 if(apt_type == "ABYG"){
-                  addon_html += "<span class='apt_info'>" + aptData.data[i]["법정동주소"] + "</span>";
+                  addon_html += "<span class='apt_address'>" + aptData.data[i]["법정동주소"] + "</span></div>";
                 }
                 else{
-                  addon_html += "<span class='apt_info'>" + aptAddress + "</span>";
+                  addon_html += "<span class='apt_address'>" + aptAddress + "</span></div>";
                 }
-                addon_html += "</div></div>";
+                addon_html += "</div>";
                 addon_html += "<div id='NLink'><button type='button' class='goThemeLink' onclick='openNaver(" + searchCode + ")'>N부동산</button></div>"
 
                 shareText += "ㆍ" + aptName + "\n"
@@ -627,18 +627,18 @@
                 addon_html += "<div class='themeListBox'>";
                 addon_html += "<div class='content'>";
                 addon_html += "<div class='apt_name'>" + aptName;
-                addon_html += "<span class='aptYear'><span class='themePoint'>    " + aptYear + "</span></div>";
+                addon_html += "<span class='aptYear'><span class='themePoint'  style = 'font-size: 1.05em'>    " + aptYear + "</span></div>";
                 addon_html += "<div class='apt_info'>"+ house_num.toLocaleString() + "세대 / ";
 
                 if(apt_type == "ABYG"){
-                  addon_html += "<span class='apt_info'>" + aptData.data[i]["법정동주소"] + "</span>";
+                  addon_html += "<span class='apt_address'>" + aptData.data[i]["법정동주소"] + "</span></div>";
                 }
                 else{
-                  addon_html += "<span class='apt_info'>" + aptAddress + "</span>";
+                  addon_html += "<span class='apt_address'>" + aptAddress + "</span></div>";
                 }
 
                 addon_html += "<div class='themePoint'>용적률 " + floor_rate + ", 건폐율 " + cover_rate + "</div>";
-                addon_html += "</div></div>";
+                addon_html += "</div>";
                 addon_html += "<div id='NLink'><button type='button' class='goThemeLink' onclick='openNaver(" + searchCode + ")'>N부동산</button></div>"
 
                 shareText += "ㆍ" + aptName + "\n"
