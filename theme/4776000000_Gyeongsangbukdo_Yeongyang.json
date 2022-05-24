@@ -92,6 +92,14 @@
             {
                 "name":"최대공지가",
                 "type":"string"
+            },
+            {
+                "name":"y",
+                "type":"string"
+            },
+            {
+                "name":"x",
+                "type":"string"
             }
         ],
         "primaryKey":[
