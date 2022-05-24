@@ -181,7 +181,7 @@
       <div id="dataList"></div>
 
       <!--아파트랭크 연결-->
-      <div id="linkToAptrank" onClick='openAptrank()'>아파트랭크:THEME - 공시가 1억 이하, 5층 이하, 분양권, 재건축 찾기</div>
+      <div id="linkToAptrank" onClick='openAptrank()'>아파트랭크:THEME - 공시1억/5층 이하, 분양권/재건축 찾기<span id='arrow'><i class="fa-solid fa-circle-arrow-right"></i></span></div>
 
       <!--단지 검색창 닫기 플로팅 버튼-->
       <div id="closeSearch_floating" onClick='closeSearch()'>
@@ -721,7 +721,7 @@
 
           $('#dataList').append(addon_html);          
         }
-        $('#dataList').append("<div style='height: 1em'></div>");
+        $('#dataList').append("<div style='height: 1.5em'></div>");
     })    
     showWeight()
     saveLocalStorage()    
@@ -1341,7 +1341,7 @@
 
           $('#dataList').append(addon_html);
         }
-        $('#dataList').append("<div style='height: 1em'></div>");
+        $('#dataList').append("<div style='height: 1.5em'></div>");
     })
 
     saveLocalStorage()
