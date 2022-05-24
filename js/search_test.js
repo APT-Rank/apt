@@ -99,8 +99,8 @@ function showSearchBar(){
               if (sortSelection == "sortCustom"){ sortName = "커스텀" }
 
               if(rearrangeAPTSelection == "rearrangePrice"){ sortName = "실거래가" }
-              if(rearrangeAPTSelection == "rearrangeNew"){ sortName = "신축" }
-              if(rearrangeAPTSelection == "rearrangeHouse"){ sortName = "세대수" }
+              if(rearrangeAPTSelection == "rearrangeNew"){ sortName = "신축순" }
+              if(rearrangeAPTSelection == "rearrangeHouse"){ sortName = "세대수순" }
 
               var addon_html = "<div class='listBox' data-bs-toggle='modal' data-bs-target='#exampleModal' id='myModal' onClick='showDetail(" + i + ")'>";
 
@@ -212,7 +212,7 @@ function showSearchBar(){
               addon_html += "</div>"
 
               $('#dataList').append(addon_html);
-            }          
+            }            
           }
           
           if(rearrangeAPTSelection == "rearrangePrice" || !(minValue == 0 && maxValue == 60)){
@@ -226,6 +226,7 @@ function showSearchBar(){
           }
 
         }
+      $('#dataList').append("<div style='height: 1em'></div>");
       $('html').scrollTop(0)
   }
 

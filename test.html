@@ -180,6 +180,9 @@
       <!--리스트 데이터 붙여넣는 영역-->
       <div id="dataList"></div>
 
+      <!--아파트랭크 연결-->
+      <div id="linkToAptrank" onClick='openAptrank()'>아파트랭크:THEME - 공시가 1억 이하, 5층 이하, 분양권, 재건축 찾기</div>
+
       <!--단지 검색창 닫기 플로팅 버튼-->
       <div id="closeSearch_floating" onClick='closeSearch()'>
         <div id='closeSearch_floting_wraper'>
@@ -718,6 +721,7 @@
 
           $('#dataList').append(addon_html);          
         }
+        $('#dataList').append("<div style='height: 1em'></div>");
     })    
     showWeight()
     saveLocalStorage()    
@@ -1337,6 +1341,7 @@
 
           $('#dataList').append(addon_html);
         }
+        $('#dataList').append("<div style='height: 1em'></div>");
     })
 
     saveLocalStorage()
@@ -1602,6 +1607,12 @@
     nURL = "https://new.land.naver.com/complexes/" + code
     window.open(nURL)
   }
+
+  function openAptrank(){
+    aURL = "https://www.aptrank.kr/theme" + "?reg=" + selectedRegion +"&sub=" + selectedSubRegion
+    window.open(aURL)
+  }
+
   function showNotice(){
     noticePop = true
     var titleHtml = "<div class='popupTitle'> 아파트랭크에서 알려드립니다 </div>";
