@@ -55,32 +55,6 @@
         {
             "index":0,
             "sort":"balanced",
-            "name":"힐스테이트강동리버뷰",
-            "search_code":116836,
-            "apt_type":"아파트",
-            "apt_year":3.0,
-            "value_score":75.9819367192,
-            "region":"서울시 강동구",
-            "region_code":"Seoul",
-            "sub_region_code":"1174000000_Seoul_Gangdong",
-            "shorten_url":"https:\/\/me2.do\/FIpCRvbO"
-        },
-        {
-            "index":1,
-            "sort":"balanced",
-            "name":"선사현대",
-            "search_code":3118,
-            "apt_type":"아파트",
-            "apt_year":22.0,
-            "value_score":72.2192,
-            "region":"서울시 강동구",
-            "region_code":"Seoul",
-            "sub_region_code":"1174000000_Seoul_Gangdong",
-            "shorten_url":"https:\/\/me2.do\/FIpCRvbO"
-        },
-        {
-            "index":2,
-            "sort":"balanced",
             "name":"래미안솔베뉴",
             "search_code":113432,
             "apt_type":"아파트",
@@ -92,7 +66,7 @@
             "shorten_url":"https:\/\/me2.do\/FIpCRvbO"
         },
         {
-            "index":3,
+            "index":1,
             "sort":"balanced",
             "name":"강동밀레니얼중흥S-클래스(주상복합)",
             "search_code":141005,
@@ -105,7 +79,7 @@
             "shorten_url":"https:\/\/me2.do\/FIpCRvbO"
         },
         {
-            "index":4,
+            "index":2,
             "sort":"balanced",
             "name":"래미안강동팰리스(주상복합)",
             "search_code":107537,
@@ -118,20 +92,20 @@
             "shorten_url":"https:\/\/me2.do\/FIpCRvbO"
         },
         {
-            "index":5,
+            "index":3,
             "sort":"balanced",
-            "name":"삼성광나루",
-            "search_code":3116,
+            "name":"힐스테이트강동리버뷰",
+            "search_code":116836,
             "apt_type":"아파트",
-            "apt_year":20.0,
-            "value_score":66.4692,
+            "apt_year":3.0,
+            "value_score":65.9819367192,
             "region":"서울시 강동구",
             "region_code":"Seoul",
             "sub_region_code":"1174000000_Seoul_Gangdong",
             "shorten_url":"https:\/\/me2.do\/FIpCRvbO"
         },
         {
-            "index":6,
+            "index":4,
             "sort":"balanced",
             "name":"다성이즈빌(320)",
             "search_code":118713,
@@ -144,7 +118,7 @@
             "shorten_url":"https:\/\/me2.do\/FIpCRvbO"
         },
         {
-            "index":7,
+            "index":5,
             "sort":"balanced",
             "name":"한솔솔파크더리버",
             "search_code":26272,
@@ -157,7 +131,7 @@
             "shorten_url":"https:\/\/me2.do\/FIpCRvbO"
         },
         {
-            "index":8,
+            "index":6,
             "sort":"balanced",
             "name":"프라이어팰리스",
             "search_code":19578,
@@ -170,13 +144,39 @@
             "shorten_url":"https:\/\/me2.do\/FIpCRvbO"
         },
         {
-            "index":9,
+            "index":7,
             "sort":"balanced",
             "name":"강동롯데캐슬퍼스트",
             "search_code":22570,
             "apt_type":"아파트",
             "apt_year":14.0,
             "value_score":65.0144,
+            "region":"서울시 강동구",
+            "region_code":"Seoul",
+            "sub_region_code":"1174000000_Seoul_Gangdong",
+            "shorten_url":"https:\/\/me2.do\/FIpCRvbO"
+        },
+        {
+            "index":8,
+            "sort":"balanced",
+            "name":"강변그대가리버뷰",
+            "search_code":22537,
+            "apt_type":"아파트",
+            "apt_year":15.0,
+            "value_score":64.9119,
+            "region":"서울시 강동구",
+            "region_code":"Seoul",
+            "sub_region_code":"1174000000_Seoul_Gangdong",
+            "shorten_url":"https:\/\/me2.do\/FIpCRvbO"
+        },
+        {
+            "index":9,
+            "sort":"balanced",
+            "name":"신동아1,2차",
+            "search_code":1287,
+            "apt_type":"재건축",
+            "apt_year":39.0,
+            "value_score":64.61,
             "region":"서울시 강동구",
             "region_code":"Seoul",
             "sub_region_code":"1174000000_Seoul_Gangdong",
@@ -315,19 +315,6 @@
         {
             "index":20,
             "sort":"transport",
-            "name":"힐스테이트강동리버뷰",
-            "search_code":116836,
-            "apt_type":"아파트",
-            "apt_year":3.0,
-            "value_score":73.5409683596,
-            "region":"서울시 강동구",
-            "region_code":"Seoul",
-            "sub_region_code":"1174000000_Seoul_Gangdong",
-            "shorten_url":"https:\/\/me2.do\/FIpCRvbO"
-        },
-        {
-            "index":21,
-            "sort":"transport",
             "name":"강동밀레니얼중흥S-클래스(주상복합)",
             "search_code":141005,
             "apt_type":"분양권",
@@ -339,13 +326,26 @@
             "shorten_url":"https:\/\/me2.do\/FIpCRvbO"
         },
         {
-            "index":22,
+            "index":21,
             "sort":"transport",
             "name":"힐스테이트천호역젠트리스(주상복합)",
             "search_code":134214,
             "apt_type":"분양권",
             "apt_year":-2.0,
             "value_score":71.8788,
+            "region":"서울시 강동구",
+            "region_code":"Seoul",
+            "sub_region_code":"1174000000_Seoul_Gangdong",
+            "shorten_url":"https:\/\/me2.do\/FIpCRvbO"
+        },
+        {
+            "index":22,
+            "sort":"transport",
+            "name":"힐스테이트강동리버뷰",
+            "search_code":116836,
+            "apt_type":"아파트",
+            "apt_year":3.0,
+            "value_score":71.5409683596,
             "region":"서울시 강동구",
             "region_code":"Seoul",
             "sub_region_code":"1174000000_Seoul_Gangdong",
@@ -393,19 +393,6 @@
         {
             "index":26,
             "sort":"transport",
-            "name":"선사현대",
-            "search_code":3118,
-            "apt_type":"아파트",
-            "apt_year":22.0,
-            "value_score":69.1596,
-            "region":"서울시 강동구",
-            "region_code":"Seoul",
-            "sub_region_code":"1174000000_Seoul_Gangdong",
-            "shorten_url":"https:\/\/me2.do\/FIpCRvbO"
-        },
-        {
-            "index":27,
-            "sort":"transport",
             "name":"유원",
             "search_code":1003,
             "apt_type":"아파트",
@@ -417,7 +404,7 @@
             "shorten_url":"https:\/\/me2.do\/FIpCRvbO"
         },
         {
-            "index":28,
+            "index":27,
             "sort":"transport",
             "name":"힐데스하임천호",
             "search_code":134515,
@@ -430,7 +417,7 @@
             "shorten_url":"https:\/\/me2.do\/FIpCRvbO"
         },
         {
-            "index":29,
+            "index":28,
             "sort":"transport",
             "name":"래미안솔베뉴",
             "search_code":113432,
@@ -443,20 +430,20 @@
             "shorten_url":"https:\/\/me2.do\/FIpCRvbO"
         },
         {
-            "index":30,
-            "sort":"infra",
-            "name":"힐스테이트강동리버뷰",
-            "search_code":116836,
+            "index":29,
+            "sort":"transport",
+            "name":"SK허브진(주상복합)",
+            "search_code":10634,
             "apt_type":"아파트",
-            "apt_year":3.0,
-            "value_score":73.434947266,
+            "apt_year":18.0,
+            "value_score":67.39515,
             "region":"서울시 강동구",
             "region_code":"Seoul",
             "sub_region_code":"1174000000_Seoul_Gangdong",
             "shorten_url":"https:\/\/me2.do\/FIpCRvbO"
         },
         {
-            "index":31,
+            "index":30,
             "sort":"infra",
             "name":"강동밀레니얼중흥S-클래스(주상복합)",
             "search_code":141005,
@@ -469,7 +456,7 @@
             "shorten_url":"https:\/\/me2.do\/FIpCRvbO"
         },
         {
-            "index":32,
+            "index":31,
             "sort":"infra",
             "name":"우성(42)",
             "search_code":1313,
@@ -482,7 +469,7 @@
             "shorten_url":"https:\/\/me2.do\/FIpCRvbO"
         },
         {
-            "index":33,
+            "index":32,
             "sort":"infra",
             "name":"하나플러스2",
             "search_code":12769,
@@ -495,7 +482,7 @@
             "shorten_url":"https:\/\/me2.do\/FIpCRvbO"
         },
         {
-            "index":34,
+            "index":33,
             "sort":"infra",
             "name":"길동우성",
             "search_code":1290,
@@ -508,20 +495,7 @@
             "shorten_url":"https:\/\/me2.do\/FIpCRvbO"
         },
         {
-            "index":35,
-            "sort":"infra",
-            "name":"선사현대",
-            "search_code":3118,
-            "apt_type":"아파트",
-            "apt_year":22.0,
-            "value_score":71.941,
-            "region":"서울시 강동구",
-            "region_code":"Seoul",
-            "sub_region_code":"1174000000_Seoul_Gangdong",
-            "shorten_url":"https:\/\/me2.do\/FIpCRvbO"
-        },
-        {
-            "index":36,
+            "index":34,
             "sort":"infra",
             "name":"고덕현대",
             "search_code":1316,
@@ -534,7 +508,7 @@
             "shorten_url":"https:\/\/me2.do\/FIpCRvbO"
         },
         {
-            "index":37,
+            "index":35,
             "sort":"infra",
             "name":"신동아",
             "search_code":1312,
@@ -547,7 +521,7 @@
             "shorten_url":"https:\/\/me2.do\/FIpCRvbO"
         },
         {
-            "index":38,
+            "index":36,
             "sort":"infra",
             "name":"파크프라자(주상복합)",
             "search_code":10274,
@@ -560,13 +534,39 @@
             "shorten_url":"https:\/\/me2.do\/FIpCRvbO"
         },
         {
-            "index":39,
+            "index":37,
             "sort":"infra",
             "name":"대우한강베네시티(주상복합)",
             "search_code":14535,
             "apt_type":"아파트",
             "apt_year":15.0,
             "value_score":70.76825,
+            "region":"서울시 강동구",
+            "region_code":"Seoul",
+            "sub_region_code":"1174000000_Seoul_Gangdong",
+            "shorten_url":"https:\/\/me2.do\/FIpCRvbO"
+        },
+        {
+            "index":38,
+            "sort":"infra",
+            "name":"세양청마루(주상복합)",
+            "search_code":23213,
+            "apt_type":"아파트",
+            "apt_year":17.0,
+            "value_score":70.399,
+            "region":"서울시 강동구",
+            "region_code":"Seoul",
+            "sub_region_code":"1174000000_Seoul_Gangdong",
+            "shorten_url":"https:\/\/me2.do\/FIpCRvbO"
+        },
+        {
+            "index":39,
+            "sort":"infra",
+            "name":"힐데스하임천호",
+            "search_code":134515,
+            "apt_type":"분양권",
+            "apt_year":0.0,
+            "value_score":69.91825,
             "region":"서울시 강동구",
             "region_code":"Seoul",
             "sub_region_code":"1174000000_Seoul_Gangdong",
@@ -653,19 +653,6 @@
         {
             "index":46,
             "sort":"education",
-            "name":"힐스테이트강동리버뷰",
-            "search_code":116836,
-            "apt_type":"아파트",
-            "apt_year":3.0,
-            "value_score":64.4698945319,
-            "region":"서울시 강동구",
-            "region_code":"Seoul",
-            "sub_region_code":"1174000000_Seoul_Gangdong",
-            "shorten_url":"https:\/\/me2.do\/FIpCRvbO"
-        },
-        {
-            "index":47,
-            "sort":"education",
             "name":"강동롯데캐슬퍼스트",
             "search_code":22570,
             "apt_type":"아파트",
@@ -677,13 +664,26 @@
             "shorten_url":"https:\/\/me2.do\/FIpCRvbO"
         },
         {
+            "index":47,
+            "sort":"education",
+            "name":"한양",
+            "search_code":1315,
+            "apt_type":"아파트",
+            "apt_year":36.0,
+            "value_score":63.411,
+            "region":"서울시 강동구",
+            "region_code":"Seoul",
+            "sub_region_code":"1174000000_Seoul_Gangdong",
+            "shorten_url":"https:\/\/me2.do\/FIpCRvbO"
+        },
+        {
             "index":48,
             "sort":"education",
-            "name":"선사현대",
-            "search_code":3118,
+            "name":"파크프라자(주상복합)",
+            "search_code":10274,
             "apt_type":"아파트",
-            "apt_year":22.0,
-            "value_score":63.482,
+            "apt_year":19.0,
+            "value_score":63.187,
             "region":"서울시 강동구",
             "region_code":"Seoul",
             "sub_region_code":"1174000000_Seoul_Gangdong",
@@ -692,11 +692,11 @@
         {
             "index":49,
             "sort":"education",
-            "name":"한양",
-            "search_code":1315,
-            "apt_type":"아파트",
-            "apt_year":36.0,
-            "value_score":63.411,
+            "name":"강동밀레니얼중흥S-클래스(주상복합)",
+            "search_code":141005,
+            "apt_type":"분양권",
+            "apt_year":-2.0,
+            "value_score":62.7365,
             "region":"서울시 강동구",
             "region_code":"Seoul",
             "sub_region_code":"1174000000_Seoul_Gangdong",

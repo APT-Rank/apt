@@ -81,19 +81,6 @@
         {
             "index":2,
             "sort":"balanced",
-            "name":"흑석한강센트레빌1차",
-            "search_code":100304,
-            "apt_type":"아파트",
-            "apt_year":11.0,
-            "value_score":68.9069,
-            "region":"서울시 동작구",
-            "region_code":"Seoul",
-            "sub_region_code":"1159000000_Seoul_Dongjak",
-            "shorten_url":"https:\/\/me2.do\/xkeEa3ys"
-        },
-        {
-            "index":3,
-            "sort":"balanced",
             "name":"대방대림",
             "search_code":364,
             "apt_type":"아파트",
@@ -105,7 +92,7 @@
             "shorten_url":"https:\/\/me2.do\/xkeEa3ys"
         },
         {
-            "index":4,
+            "index":3,
             "sort":"balanced",
             "name":"래미안상도3차",
             "search_code":9194,
@@ -118,7 +105,7 @@
             "shorten_url":"https:\/\/me2.do\/xkeEa3ys"
         },
         {
-            "index":5,
+            "index":4,
             "sort":"balanced",
             "name":"상도역롯데캐슬파크엘",
             "search_code":133962,
@@ -131,7 +118,7 @@
             "shorten_url":"https:\/\/me2.do\/xkeEa3ys"
         },
         {
-            "index":6,
+            "index":5,
             "sort":"balanced",
             "name":"e편한세상상도노빌리티",
             "search_code":113097,
@@ -144,7 +131,7 @@
             "shorten_url":"https:\/\/me2.do\/xkeEa3ys"
         },
         {
-            "index":7,
+            "index":6,
             "sort":"balanced",
             "name":"힐스테이트상도센트럴파크",
             "search_code":22491,
@@ -157,7 +144,7 @@
             "shorten_url":"https:\/\/me2.do\/xkeEa3ys"
         },
         {
-            "index":8,
+            "index":7,
             "sort":"balanced",
             "name":"한강현대",
             "search_code":401,
@@ -170,13 +157,26 @@
             "shorten_url":"https:\/\/me2.do\/xkeEa3ys"
         },
         {
-            "index":9,
+            "index":8,
             "sort":"balanced",
             "name":"힐스테이트상도프레스티지",
             "search_code":22846,
             "apt_type":"아파트",
             "apt_year":9.0,
             "value_score":65.5986,
+            "region":"서울시 동작구",
+            "region_code":"Seoul",
+            "sub_region_code":"1159000000_Seoul_Dongjak",
+            "shorten_url":"https:\/\/me2.do\/xkeEa3ys"
+        },
+        {
+            "index":9,
+            "sort":"balanced",
+            "name":"상도더샵1차",
+            "search_code":22789,
+            "apt_type":"아파트",
+            "apt_year":15.0,
+            "value_score":64.9247,
             "region":"서울시 동작구",
             "region_code":"Seoul",
             "sub_region_code":"1159000000_Seoul_Dongjak",

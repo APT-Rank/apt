@@ -94,19 +94,6 @@
         {
             "index":3,
             "sort":"balanced",
-            "name":"현대6,7차",
-            "search_code":724,
-            "apt_type":"아파트",
-            "apt_year":44,
-            "value_score":78.9308,
-            "region":"서울시 강남구",
-            "region_code":"Seoul",
-            "sub_region_code":"1168000000_Seoul_Gangnam",
-            "shorten_url":"https:\/\/me2.do\/IxbhfRTF"
-        },
-        {
-            "index":4,
-            "sort":"balanced",
             "name":"대치아이파크",
             "search_code":19418,
             "apt_type":"아파트",
@@ -118,7 +105,7 @@
             "shorten_url":"https:\/\/me2.do\/IxbhfRTF"
         },
         {
-            "index":5,
+            "index":4,
             "sort":"balanced",
             "name":"래미안대치팰리스2단지",
             "search_code":107917,
@@ -131,7 +118,7 @@
             "shorten_url":"https:\/\/me2.do\/IxbhfRTF"
         },
         {
-            "index":6,
+            "index":5,
             "sort":"balanced",
             "name":"동부센트레빌",
             "search_code":8710,
@@ -144,7 +131,7 @@
             "shorten_url":"https:\/\/me2.do\/IxbhfRTF"
         },
         {
-            "index":7,
+            "index":6,
             "sort":"balanced",
             "name":"롯데캐슬프레미어",
             "search_code":18967,
@@ -157,7 +144,7 @@
             "shorten_url":"https:\/\/me2.do\/IxbhfRTF"
         },
         {
-            "index":8,
+            "index":7,
             "sort":"balanced",
             "name":"대치삼성1차",
             "search_code":135,
@@ -170,13 +157,26 @@
             "shorten_url":"https:\/\/me2.do\/IxbhfRTF"
         },
         {
-            "index":9,
+            "index":8,
             "sort":"balanced",
             "name":"선경1,2차",
             "search_code":154,
             "apt_type":"아파트",
             "apt_year":39,
             "value_score":75.6203,
+            "region":"서울시 강남구",
+            "region_code":"Seoul",
+            "sub_region_code":"1168000000_Seoul_Gangnam",
+            "shorten_url":"https:\/\/me2.do\/IxbhfRTF"
+        },
+        {
+            "index":9,
+            "sort":"balanced",
+            "name":"래미안라클래시",
+            "search_code":127477,
+            "apt_type":"아파트",
+            "apt_year":1,
+            "value_score":75.2747,
             "region":"서울시 강남구",
             "region_code":"Seoul",
             "sub_region_code":"1168000000_Seoul_Gangnam",

@@ -68,7 +68,7 @@
   <script src="../js/draw_chart.js" type="text/javascript"></script>
   <script src="../js/sort.js" type="text/javascript"></script>
   <script src="../js/search.js" type="text/javascript"></script>
-  <script src="../js/rearrange.js" type="text/javascript"></script>
+  <script src="../js/rearrange_theme.js" type="text/javascript"></script>
   <script src="../js/share.js" type="text/javascript"></script>
   <script src="../js/distance.js" type="text/javascript"></script>
 
@@ -91,8 +91,8 @@
     <div id="centerBox">
       <div id="titleBar_theme">
         <!--검색 버튼 표시-->
-        <div id='help' style='font-size: 1.2em' onClick='share(shareTitle, shareText, shareURL)'><i class='fa-solid fa-arrow-up-right-from-square'></i></button></div>
-        <div></div>
+        <div id='help' style='font-size: 1.2em' onClick='share(shareTitle, shareText, shareURL)'><i class='fa-solid fa-arrow-up-right-from-square'></i></button></div>        
+        <div id="rearrange" class="position-relative" onClick='showRearrangeBar(this)'><i class="fa-solid fa-arrow-down-wide-short"></i></div>
         <!--타이틀 표시-->
         <div id="title" onClick='scrollUp()'>아파트랭크<span id="themeLogo">Theme</span></div>
         <!--공유 버튼-->
@@ -118,7 +118,7 @@
       </div>
 
       <!--단지 가중치 표시창-->
-      <div id="weight">업데이트 : 2022-05-22, 네이버 부동산 정보 기준</div>
+      <div id="weight">업데이트 : 2022-06-02, 네이버 부동산 정보 기준</div>
 
       <!--단지 검색창-->
       <div id="searchCard">
@@ -149,12 +149,7 @@
         <div id="iconRearrange"><i class="fa-solid fa-arrow-down-wide-short"></i></div>
         <div id="rearrangeContatiner">
             <div id="rearrangeNotice"></div>
-            <div class='rearrangeArea'>
-              <div><input type='radio' class='btn-check' name='btnRearrange' autocomplete='off' id='rearrangeScore' onClick='rearrangeAPTList(this)'><label class='btn btn-outline-danger' for='rearrangeScore'>총점순</label></div>
-              <div><input type='radio' class='btn-check' name='btnRearrange' autocomplete='off' id='rearrangeRank' onClick='rearrangeAPTList(this)'><label class='btn btn-outline-danger' for='rearrangeRank'>순위변동순</label></div>
-              <div><input type='radio' class='btn-check' name='btnRearrange' autocomplete='off' id='rearrangePrice' onClick='rearrangeAPTList(this)'><label class='btn btn-outline-danger' for='rearrangePrice'>실거래가순</label></div>
-              <div><input type='radio' class='btn-check' name='btnRearrange' autocomplete='off' id='rearrangeNew' onClick='rearrangeAPTList(this)'><label class='btn btn-outline-danger' for='rearrangeNew'>신축순</label></div>
-              <div><input type='radio' class='btn-check' name='btnRearrange' autocomplete='off' id='rearrangeHouse' onClick='rearrangeAPTList(this)'><label class='btn btn-outline-danger' for='rearrangeHouse'>세대수순</label></div>
+            <div class='rearrangeArea'>              
             </div>
         </div>
         <div id="closeRearrange" onClick='closeRearrange()' ><i class="fas fa-times"></i></div>
@@ -509,238 +504,10 @@
         //console.log(json);
         aptData = json;         
         //sortData = json;
-        itemNum = json.data.length;
+        //itemNum = json.data.length;
 
-        var count = 0
-        shareText = ""
-        for(var i = 0 ; i < itemNum ; i++){
-          var aptName = aptData.data[i]["아파트명"]
-          var apt_m = aptData.data[i]["전용면적(m2)"]
-          var apt_p = aptData.data[i]["전용면적(평)"]
-          var apt_type = aptData.data[i]["타입"]
-          var aptAddress = aptData.data[i]["도로명주소"]          
-          var house_num = aptData.data[i]["세대수"]
-          var max_floor = aptData.data[i]["최고층"]
-          var min_floor = aptData.data[i]["최저층"]
-          var aptDuration = aptData.data[i]["준공년차"]
-          var buildDate = aptData.data[i]["준공년월"]
-          var min_land_price = (aptData.data[i]["최소공지가"] / 100000000).toFixed(2)
-          var max_land_price = (aptData.data[i]["최대공지가"] / 100000000).toFixed(2)
-          var searchCode = aptData.data[i]["코드"]
-          var coord_y = aptData.data[i]["y"]
-          var coord_x = aptData.data[i]["x"]
-
-          var floor_rate = ""
-          if(aptData.data[i]["용적률"] == "0"){
-            floor_rate = "--%"
-          }
-          else{
-            floor_rate = aptData.data[i]["용적률"] + "%"
-          }
-
-          var cover_rate = ""
-          if(aptData.data[i]["건폐율"] == "0"){
-            cover_rate = "--%"
-          }
-          else{
-            cover_rate = aptData.data[i]["건폐율"] + "%"
-          }
-
-          if(apt_type == "APT"){        
-            aptYear = buildDate + " (" + aptDuration + "년차)"        
-          }
-          if(apt_type == "JGC"){        
-            aptYear = buildDate + " (" + aptDuration + "년차, 재건축)"        
-          }
-          if(apt_type == "ABYG"){
-            aptYear = "(분양권, " + buildDate.substr(0, 7) + " 예정)"        
-          }
-
-          var addon_html = ""
-          
-
-          if(type == "under100M"){            
-            if(min_land_price > 0 && min_land_price <= 1){
-              count += 1;              
-              addon_html += "<div class='themeListBox'>";
-              addon_html += "<div class='content'>";
-              addon_html += "<div class='apt_name'>" + aptName;
-              addon_html += "<span class='aptYear'>    " + aptYear + "</span></div>";
-              addon_html += "<div class='apt_info'>"+ house_num.toLocaleString() + "세대 / ";
-
-              if(apt_type == "ABYG"){
-                aptAddress = aptData.data[i]["법정동주소"]
-                addon_html += aptAddress + "</div>";
-              }
-              else{
-                addon_html += aptAddress + "</div>";
-              }
-
-              addon_html += "<div class='themePoint'>공시가격: " + min_land_price + "억 ~ " + max_land_price + "억</div>";
-              addon_html += "</div>";
-              addon_html += "<div id='NLink'><button type='button' class='goThemeLink' onclick='openNaver(" + searchCode + ")'>N부동산</button></div>"
-
-              shareText += "ㆍ" + aptName + "\n"
-
-              distance_check.push([aptName, coord_y, coord_x, aptAddress, searchCode])
-            }
-            $('#themeDataList').append(addon_html);            
-          }          
-
-          if(type == "under5floor"){            
-            if(max_floor <= 5){
-              count += 1;              
-              addon_html += "<div class='themeListBox'>";
-              addon_html += "<div class='content'>";
-              addon_html += "<div class='apt_name'>" + aptName;
-              addon_html += "<span class='aptYear'>    " + aptYear + "</span></div>";
-              addon_html += "<div class='apt_info'>"+ house_num.toLocaleString() + "세대 / ";
-
-              if(apt_type == "ABYG"){
-                addon_html += aptData.data[i]["법정동주소"] + "</div>";
-              }
-              else{
-                addon_html += aptAddress + "</div>";
-              }
-
-              addon_html += "<div class='themePoint'>최고 " + max_floor + "층, 최저 " + min_floor + "층</div>";
-              addon_html += "</div>";
-              addon_html += "<div id='NLink'><button type='button' class='goThemeLink' onclick='openNaver(" + searchCode + ")'>N부동산</button></div>"
-
-              shareText += "ㆍ" + aptName + "\n"
-
-              distance_check.push([aptName, coord_y, coord_x, aptAddress, searchCode])
-            }
-            $('#themeDataList').append(addon_html);
-          }
-
-          if(type == "over30year"){            
-            if(aptDuration >= 30){
-              count += 1;              
-              addon_html += "<div class='themeListBox'>";
-              addon_html += "<div class='content'>";
-              addon_html += "<div class='apt_name'>" + aptName;
-              addon_html += "<span class='themePoint' style = 'font-size: 0.9em'>    " + aptYear + "</span></div>";
-              addon_html += "<div class='apt_info'>"+ house_num.toLocaleString() + "세대 / ";
-
-              if(apt_type == "ABYG"){
-                addon_html += aptData.data[i]["법정동주소"] + "</div>";
-              }
-              else{
-                addon_html += aptAddress + "</div>";
-              }
-              
-              addon_html += "</div>";
-              addon_html += "<div id='NLink'><button type='button' class='goThemeLink' onclick='openNaver(" + searchCode + ")'>N부동산</button></div>"
-
-              shareText += "ㆍ" + aptName + "\n"
-
-              distance_check.push([aptName, coord_y, coord_x, aptAddress, searchCode])
-            }
-            $('#themeDataList').append(addon_html);
-          }         
-        
-          if(type == "newApt"){
-              if(apt_type == "ABYG"){
-                count += 1;              
-                addon_html += "<div class='themeListBox'>";
-                addon_html += "<div class='content'>";
-                addon_html += "<div class='apt_name'>" + aptName;
-                addon_html += "<span class='aptYear'><span class='themePoint' style = 'font-size: 1.05em'>    " + aptYear + "</span></div>";
-                addon_html += "<div class='apt_info'>"+ house_num.toLocaleString() + "세대 / ";
-
-                if(apt_type == "ABYG"){
-                  addon_html += aptData.data[i]["법정동주소"] + "</div>";
-                }
-                else{
-                  addon_html += aptAddress + "</div>";
-                }
-                addon_html += "</div>";
-                addon_html += "<div id='NLink'><button type='button' class='goThemeLink' onclick='openNaver(" + searchCode + ")'>N부동산</button></div>"
-
-                shareText += "ㆍ" + aptName + "\n"
-
-                distance_check.push([aptName, coord_y, coord_x, aptAddress, searchCode])
-              }
-              $('#themeDataList').append(addon_html);
-            }
-
-          if(type == "rebuild"){
-              if(apt_type == "JGC"){
-                count += 1;              
-                addon_html += "<div class='themeListBox'>";
-                addon_html += "<div class='content'>";
-                addon_html += "<div class='apt_name'>" + aptName;
-                addon_html += "<span class='aptYear'><span class='themePoint'  style = 'font-size: 1.05em'>    " + aptYear + "</span></div>";
-                addon_html += "<div class='apt_info'>"+ house_num.toLocaleString() + "세대 / ";
-
-                if(apt_type == "ABYG"){
-                  addon_html += aptData.data[i]["법정동주소"] + "</div>";
-                }
-                else{
-                  addon_html += aptAddress + "</div>";
-                }
-
-                addon_html += "<div class='themePoint'>용적률 " + floor_rate + ", 건폐율 " + cover_rate + " / 최고 " + max_floor + "층</div>";
-                addon_html += "</div>";
-                addon_html += "<div id='NLink'><button type='button' class='goThemeLink' onclick='openNaver(" + searchCode + ")'>N부동산</button></div>"
-
-                shareText += "ㆍ" + aptName + "\n"
-
-                distance_check.push([aptName, coord_y, coord_x, aptAddress, searchCode])
-              }
-              $('#themeDataList').append(addon_html);
-            }
-        }
-
-        routeArray = makeDistanceList(distance_check)
-
-        if(count < 1){          
-          if(type == "under100M"){
-            addon_html = "<div class='content'><div class='apt_name' style='text-align:center; padding-top: 2em'>" + $('#sido option:selected').text() + " " + $('#gungu option:selected').text() + "에는 <br> 공시가격 1억 이하 아파트 단지가 없네요. </div></div>"
-            shareText = "공시가격 1억 이하 아파트 단지가 없네요.\n"
-          }
-          if(type == "under5floor"){
-            addon_html = "<div class='content'><div class='apt_name' style='text-align:center; padding-top: 2em'>" + $('#sido option:selected').text() + " " + $('#gungu option:selected').text() + "에는 <br> 5층 이하 아파트 단지가 없네요. </div></div>"
-            shareText = "5층 이하 아파트 단지가 없네요.\n"
-          }
-          if(type == "over30year"){
-            addon_html = "<div class='content'><div class='apt_name' style='text-align:center; padding-top: 2em'>" + $('#sido option:selected').text() + " " + $('#gungu option:selected').text() + "에는 <br> 30년 이상 단지가 없네요. </div></div>"
-            shareText = "30년 이상 아파트 단지가 없네요.\n"
-          }
-          if(type == "newApt"){
-            addon_html = "<div class='content'><div class='apt_name' style='text-align:center; padding-top: 2em'>" + $('#sido option:selected').text() + " " + $('#gungu option:selected').text() + "에는 <br> 분양권 아파트 단지가 없네요. </div></div>"
-            shareText = "분양권 아파트 단지가 없네요.\n"
-          }
-          if(type == "rebuild"){
-            addon_html = "<div class='content'><div class='apt_name' style='text-align:center; padding-top: 2em'>" + $('#sido option:selected').text() + " " + $('#gungu option:selected').text() + "에는 <br> 재건축 아파트 단지가 없네요. </div></div>"
-            shareText = "재건축 아파트 단지가 없네요.\n"
-          }
-          $('#themeDataList').append(addon_html);          
-        }
-        $('#themeDataList').append("<div style='height: 1.5em'></div>");        
-    })
-    saveLocalStorage()
-
-    shareTitle = "[아파트랭크THEME]\n"
-    shareTitle += "'" + $('#sido option:selected').text() + " " + $('#gungu option:selected').text() + "' "
-    if(type == "under100M"){
-      shareTitle += "공시가격 1억 이하 아파트 단지\n\n"
-    }
-    if(type == "under5floor"){
-      shareTitle += "5층 이하 아파트 단지\n\n"      
-    }
-    if(type == "over30year"){
-      shareTitle += "30년 이상 아파트 단지\n\n"      
-    }
-    if(type == "newApt"){
-      shareTitle += "분양권 아파트 단지\n\n"      
-    }
-    if(type == "rebuild"){
-      shareTitle += "재건축 아파트 단지\n\n"
-    }
-    shareURL = "\nhttps://www.aptrank.kr/theme" + "?reg=" + selectedRegion +"&sub=" + selectedSubRegion + "&theme=" + selectedTheme
-  }
+        ListUp(aptData.data, type)
+  })}
 
   function showDistance(arr){
     titleHtml = "";
@@ -798,6 +565,244 @@
     $('#footer').html(footerHtml);
 
     $('div.modal').modal("show");
+  }
+
+  function ListUp(listData, type){
+    $('html').scrollTop(0)    
+    $('#themeDataList').html("");
+        var distance_check = []
+        routeArray = []
+        itemNum = listData.length;        
+
+        var count = 0
+        shareText = ""
+        for(var i = 0 ; i < itemNum ; i++){
+          var aptName = listData[i]["아파트명"]
+          var apt_m = listData[i]["전용면적(m2)"]
+          var apt_p = listData[i]["전용면적(평)"]
+          var apt_type = listData[i]["타입"]
+          var aptAddress = listData[i]["도로명주소"]          
+          var house_num = listData[i]["세대수"]
+          var max_floor = listData[i]["최고층"]
+          var min_floor = listData[i]["최저층"]
+          var aptDuration = listData[i]["준공년차"]
+          var buildDate = listData[i]["준공년월"]
+          var min_land_price = (listData[i]["최소공지가"] / 100000000).toFixed(2)
+          var max_land_price = (listData[i]["최대공지가"] / 100000000).toFixed(2)
+          var searchCode = listData[i]["코드"]
+          var coord_y = listData[i]["y"]
+          var coord_x = listData[i]["x"]
+
+          var floor_rate = ""
+          if(listData[i]["용적률"] == "0"){
+            floor_rate = "--%"
+          }
+          else{
+            floor_rate = listData[i]["용적률"] + "%"
+          }
+
+          var cover_rate = ""
+          if(listData[i]["건폐율"] == "0"){
+            cover_rate = "--%"
+          }
+          else{
+            cover_rate = listData[i]["건폐율"] + "%"
+          }
+
+          if(apt_type == "APT"){        
+            aptYear = buildDate + " (" + aptDuration + "년차)"        
+          }
+          if(apt_type == "JGC"){        
+            aptYear = buildDate + " (" + aptDuration + "년차, 재건축)"        
+          }
+          if(apt_type == "ABYG"){
+            aptYear = "(분양권, " + buildDate.substr(0, 7) + " 예정)"        
+          }
+
+          var addon_html = ""
+          
+
+          if(type == "under100M"){            
+            if(min_land_price > 0 && min_land_price <= 1){
+              count += 1;              
+              addon_html += "<div class='themeListBox'>";
+              addon_html += "<div class='content'>";
+              addon_html += "<div class='apt_name'>" + aptName;
+              addon_html += "<span class='aptYear'>    " + aptYear + "</span></div>";
+              addon_html += "<div class='apt_info'>"+ house_num.toLocaleString() + "세대 / ";
+
+              if(apt_type == "ABYG"){
+                aptAddress = listData[i]["법정동주소"]
+                addon_html += aptAddress + "</div>";
+              }
+              else{
+                addon_html += aptAddress + "</div>";
+              }
+
+              addon_html += "<div class='themePoint'>공시가격: " + min_land_price + "억 ~ " + max_land_price + "억</div>";
+              addon_html += "</div>";
+              addon_html += "<div id='NLink'><button type='button' class='goThemeLink' onclick='openNaver(" + searchCode + ")'>N부동산</button></div>"
+
+              shareText += "ㆍ" + aptName + "\n"
+
+              distance_check.push([aptName, coord_y, coord_x, aptAddress, searchCode])
+            }
+            $('#themeDataList').append(addon_html);            
+          }          
+
+          if(type == "under5floor"){            
+            if(max_floor <= 5){
+              count += 1;              
+              addon_html += "<div class='themeListBox'>";
+              addon_html += "<div class='content'>";
+              addon_html += "<div class='apt_name'>" + aptName;
+              addon_html += "<span class='aptYear'>    " + aptYear + "</span></div>";
+              addon_html += "<div class='apt_info'>"+ house_num.toLocaleString() + "세대 / ";
+
+              if(apt_type == "ABYG"){
+                addon_html += listData[i]["법정동주소"] + "</div>";
+              }
+              else{
+                addon_html += aptAddress + "</div>";
+              }
+
+              addon_html += "<div class='themePoint'>최고 " + max_floor + "층, 최저 " + min_floor + "층</div>";
+              addon_html += "</div>";
+              addon_html += "<div id='NLink'><button type='button' class='goThemeLink' onclick='openNaver(" + searchCode + ")'>N부동산</button></div>"
+
+              shareText += "ㆍ" + aptName + "\n"
+
+              distance_check.push([aptName, coord_y, coord_x, aptAddress, searchCode])
+            }
+            $('#themeDataList').append(addon_html);
+          }
+
+          if(type == "over30year"){            
+            if(aptDuration >= 30){
+              count += 1;              
+              addon_html += "<div class='themeListBox'>";
+              addon_html += "<div class='content'>";
+              addon_html += "<div class='apt_name'>" + aptName;
+              addon_html += "<span class='themePoint' style = 'font-size: 0.9em'>    " + aptYear + "</span></div>";
+              addon_html += "<div class='apt_info'>"+ house_num.toLocaleString() + "세대 / ";
+
+              if(apt_type == "ABYG"){
+                addon_html += listData[i]["법정동주소"] + "</div>";
+              }
+              else{
+                addon_html += aptAddress + "</div>";
+              }
+              
+              addon_html += "</div>";
+              addon_html += "<div id='NLink'><button type='button' class='goThemeLink' onclick='openNaver(" + searchCode + ")'>N부동산</button></div>"
+
+              shareText += "ㆍ" + aptName + "\n"
+
+              distance_check.push([aptName, coord_y, coord_x, aptAddress, searchCode])
+            }
+            $('#themeDataList').append(addon_html);
+          }         
+        
+          if(type == "newApt"){
+              if(apt_type == "ABYG"){
+                count += 1;              
+                addon_html += "<div class='themeListBox'>";
+                addon_html += "<div class='content'>";
+                addon_html += "<div class='apt_name'>" + aptName;
+                addon_html += "<span class='aptYear'><span class='themePoint' style = 'font-size: 1.05em'>    " + aptYear + "</span></div>";
+                addon_html += "<div class='apt_info'>"+ house_num.toLocaleString() + "세대 / ";
+
+                if(apt_type == "ABYG"){
+                  addon_html += listData[i]["법정동주소"] + "</div>";
+                }
+                else{
+                  addon_html += aptAddress + "</div>";
+                }
+                addon_html += "</div>";
+                addon_html += "<div id='NLink'><button type='button' class='goThemeLink' onclick='openNaver(" + searchCode + ")'>N부동산</button></div>"
+
+                shareText += "ㆍ" + aptName + "\n"
+
+                distance_check.push([aptName, coord_y, coord_x, aptAddress, searchCode])
+              }
+              $('#themeDataList').append(addon_html);
+            }
+
+          if(type == "rebuild"){
+              if(apt_type == "JGC"){
+                count += 1;              
+                addon_html += "<div class='themeListBox'>";
+                addon_html += "<div class='content'>";
+                addon_html += "<div class='apt_name'>" + aptName;
+                addon_html += "<span class='aptYear'><span class='themePoint'  style = 'font-size: 1.05em'>    " + aptYear + "</span></div>";
+                addon_html += "<div class='apt_info'>"+ house_num.toLocaleString() + "세대 / ";
+
+                if(apt_type == "ABYG"){
+                  addon_html += listData[i]["법정동주소"] + "</div>";
+                }
+                else{
+                  addon_html += aptAddress + "</div>";
+                }
+
+                addon_html += "<div class='apt_info'><strong>용적률 " + floor_rate + ", 건폐율 " + cover_rate + " / 최고 " + max_floor + "층</strong></div>";
+                addon_html += "</div>";
+                addon_html += "<div id='NLink'><button type='button' class='goThemeLink' onclick='openNaver(" + searchCode + ")'>N부동산</button></div>"
+
+                shareText += "ㆍ" + aptName + "\n"
+
+                distance_check.push([aptName, coord_y, coord_x, aptAddress, searchCode])
+              }
+              $('#themeDataList').append(addon_html);
+            }
+        }
+
+        routeArray = makeDistanceList(distance_check)
+
+        if(count < 1){          
+          if(type == "under100M"){
+            addon_html = "<div class='content'><div class='apt_name' style='text-align:center; padding-top: 2em'>" + $('#sido option:selected').text() + " " + $('#gungu option:selected').text() + "에는 <br> 공시가격 1억 이하 아파트 단지가 없네요. </div></div>"
+            shareText = "공시가격 1억 이하 아파트 단지가 없네요.\n"
+          }
+          if(type == "under5floor"){
+            addon_html = "<div class='content'><div class='apt_name' style='text-align:center; padding-top: 2em'>" + $('#sido option:selected').text() + " " + $('#gungu option:selected').text() + "에는 <br> 5층 이하 아파트 단지가 없네요. </div></div>"
+            shareText = "5층 이하 아파트 단지가 없네요.\n"
+          }
+          if(type == "over30year"){
+            addon_html = "<div class='content'><div class='apt_name' style='text-align:center; padding-top: 2em'>" + $('#sido option:selected').text() + " " + $('#gungu option:selected').text() + "에는 <br> 30년 이상 단지가 없네요. </div></div>"
+            shareText = "30년 이상 아파트 단지가 없네요.\n"
+          }
+          if(type == "newApt"){
+            addon_html = "<div class='content'><div class='apt_name' style='text-align:center; padding-top: 2em'>" + $('#sido option:selected').text() + " " + $('#gungu option:selected').text() + "에는 <br> 분양권 아파트 단지가 없네요. </div></div>"
+            shareText = "분양권 아파트 단지가 없네요.\n"
+          }
+          if(type == "rebuild"){
+            addon_html = "<div class='content'><div class='apt_name' style='text-align:center; padding-top: 2em'>" + $('#sido option:selected').text() + " " + $('#gungu option:selected').text() + "에는 <br> 재건축 아파트 단지가 없네요. </div></div>"
+            shareText = "재건축 아파트 단지가 없네요.\n"
+          }
+          $('#themeDataList').append(addon_html);          
+        }
+        $('#themeDataList').append("<div style='height: 1.5em'></div>");        
+    
+    saveLocalStorage()
+
+    shareTitle = "[아파트랭크:THEME]\n"
+    shareTitle += "'" + $('#sido option:selected').text() + " " + $('#gungu option:selected').text() + "' "
+    if(type == "under100M"){
+      shareTitle += "공시가격 1억 이하 아파트 단지\n\n"
+    }
+    if(type == "under5floor"){
+      shareTitle += "5층 이하 아파트 단지\n\n"      
+    }
+    if(type == "over30year"){
+      shareTitle += "30년 이상 아파트 단지\n\n"      
+    }
+    if(type == "newApt"){
+      shareTitle += "분양권 아파트 단지\n\n"      
+    }
+    if(type == "rebuild"){
+      shareTitle += "재건축 아파트 단지\n\n"
+    }
+    shareURL = "\nhttps://www.aptrank.kr/theme" + "?reg=" + selectedRegion +"&sub=" + selectedSubRegion + "&theme=" + selectedTheme    
   }
 
   function showDetail(index){

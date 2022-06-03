@@ -51,7 +51,7 @@
             },
             {
                 "name":"전세가율",
-                "type":"number"
+                "type":"string"
             },
             {
                 "name":"세대수",
