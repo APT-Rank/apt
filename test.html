@@ -788,6 +788,7 @@
     var hospital_500m = aptData.data[index]["500m이내병원수"] + "개"
     var bigHospital_5km = aptData.data[index]["5km이내대형병원수"] + "개"
     var park_500m = aptData.data[index]["500m이내공원수"] + "개"
+    var big_park_1km = aptData.data[index]["800m이내대형공원수"] + "개"
     var harmful_3km = aptData.data[index]["3km이내혐오시설수"] + "개"
     var pSchool_edu = aptData.data[index]["초등학교학업성취도"]
     var pSchool_distance = aptData.data[index]["초등학교거리"]
@@ -1014,6 +1015,12 @@
     detailHtml += "<div id='popInfra'>"
     detailHtml += "<div class='graph' style='height: 120px'> <canvas id='infraChart'></canvas></div>"
     detailHtml += "<div class='popTable'>"
+    if(Number(selectedMonth) > 202205 && aptData.data[index]["한강"] > 0){
+      detailHtml += "<div class='popSubTable'><div class='popContent'>" + "한강 프리미엄" + "</div>" + "<div class='popResult'>적용</div></div>";
+    }    
+    if(Number(selectedMonth) > 202205 && aptData.data[index]["해운대"] > 0){
+      detailHtml += "<div class='popSubTable'><div class='popContent'>" + "해운대 프리미엄" + "</div>" + "<div class='popResult'>적용</div></div>";
+    }
     detailHtml += "<div class='popSubTable'><div class='popContent'>" + "3km 이내 백화점" + "</div>" + "<div class='popResult'>" + departmentStore_3km + "</div></div>";
     detailHtml += "<div class='popSubTable'><div class='popContent'>" + "5km 이내 아울렛/몰" + "</div>" + "<div class='popResult'>" + OutletMall_5km + "</div></div>";
     detailHtml += "<div class='popSubTable'><div class='popContent'>" + "1km 이내 대형마트" + "</div>" + "<div class='popResult'>" + bigMart_1km + "</div></div>";
@@ -1029,6 +1036,9 @@
     detailHtml += "<div class='popSubTable'><div class='popContent'>" + "500m 이내 병원" + "</div>" + "<div class='popResult'>" + bank_500m + "</div></div>";
     detailHtml += "<div class='popSubTable'><div class='popContent'>" + "5km 이내 대형병원" + "</div>" + "<div class='popResult'>" + bigHospital_5km + "</div></div>";
     detailHtml += "<div class='popSubTable'><div class='popContent'>" + "500m 이내 공원" + "</div>" + "<div class='popResult'>" + park_500m + "</div></div>";
+    if(Number(selectedMonth) > 202205){
+      detailHtml += "<div class='popSubTable'><div class='popContent'>" + "1km 이내 대형공원" + "</div>" + "<div class='popResult'>" + big_park_1km + "</div></div>";
+    }
     detailHtml += "<div class='popSubTable'><div class='popContent'>" + "3km 이내 혐오시설" + "</div>" + "<div class='popResult'>" + harmful_3km + "</div></div>";
     if(Number(selectedMonth) > 202204){      
       detailHtml += "<div class='comment2'>인프라 정보는 각 백화점/마트 홈페이지, 은행연합회, 자원순환정보시스템, 공공데이터 포탈의 정보를 기반으로 산정되며, 상권은 호갱노노 정보를 사용합니다.</div>"
