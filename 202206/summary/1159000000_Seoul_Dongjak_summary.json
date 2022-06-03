@@ -237,6 +237,19 @@
         {
             "index":14,
             "sort":"living",
+            "name":"아크로리버하임",
+            "search_code":113292,
+            "apt_type":"아파트",
+            "apt_year":3.0,
+            "value_score":68.783,
+            "region":"서울시 동작구",
+            "region_code":"Seoul",
+            "sub_region_code":"1159000000_Seoul_Dongjak",
+            "shorten_url":"https:\/\/me2.do\/xkeEa3ys"
+        },
+        {
+            "index":15,
+            "sort":"living",
             "name":"힐스테이트상도센트럴파크",
             "search_code":22491,
             "apt_type":"아파트",
@@ -248,7 +261,7 @@
             "shorten_url":"https:\/\/me2.do\/xkeEa3ys"
         },
         {
-            "index":15,
+            "index":16,
             "sort":"living",
             "name":"힐스테이트상도프레스티지",
             "search_code":22846,
@@ -261,26 +274,13 @@
             "shorten_url":"https:\/\/me2.do\/xkeEa3ys"
         },
         {
-            "index":16,
+            "index":17,
             "sort":"living",
             "name":"대방대림",
             "search_code":364,
             "apt_type":"아파트",
             "apt_year":29.0,
             "value_score":66.2226,
-            "region":"서울시 동작구",
-            "region_code":"Seoul",
-            "sub_region_code":"1159000000_Seoul_Dongjak",
-            "shorten_url":"https:\/\/me2.do\/xkeEa3ys"
-        },
-        {
-            "index":17,
-            "sort":"living",
-            "name":"아크로리버하임",
-            "search_code":113292,
-            "apt_type":"아파트",
-            "apt_year":3.0,
-            "value_score":65.783,
             "region":"서울시 동작구",
             "region_code":"Seoul",
             "sub_region_code":"1159000000_Seoul_Dongjak",

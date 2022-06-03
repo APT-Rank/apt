@@ -202,7 +202,7 @@
             "search_code":108392,
             "apt_type":"아파트",
             "apt_year":7.0,
-            "value_score":68.3178,
+            "value_score":71.3178,
             "region":"서울시 용산구",
             "region_code":"Seoul",
             "sub_region_code":"1117000000_Seoul_Yongsan",
@@ -211,11 +211,11 @@
         {
             "index":12,
             "sort":"living",
-            "name":"파크타워(주상복합)",
-            "search_code":22693,
-            "apt_type":"아파트",
-            "apt_year":13.0,
-            "value_score":66.6678,
+            "name":"한강맨션",
+            "search_code":503,
+            "apt_type":"재건축",
+            "apt_year":51.0,
+            "value_score":67.7178,
             "region":"서울시 용산구",
             "region_code":"Seoul",
             "sub_region_code":"1117000000_Seoul_Yongsan",
@@ -224,11 +224,11 @@
         {
             "index":13,
             "sort":"living",
-            "name":"한강맨션",
-            "search_code":503,
-            "apt_type":"재건축",
-            "apt_year":51.0,
-            "value_score":64.7178,
+            "name":"파크타워(주상복합)",
+            "search_code":22693,
+            "apt_type":"아파트",
+            "apt_year":13.0,
+            "value_score":66.6678,
             "region":"서울시 용산구",
             "region_code":"Seoul",
             "sub_region_code":"1117000000_Seoul_Yongsan",
@@ -263,6 +263,32 @@
         {
             "index":16,
             "sort":"living",
+            "name":"LG한강자이",
+            "search_code":3143,
+            "apt_type":"아파트",
+            "apt_year":19.0,
+            "value_score":63.3178,
+            "region":"서울시 용산구",
+            "region_code":"Seoul",
+            "sub_region_code":"1117000000_Seoul_Yongsan",
+            "shorten_url":"https:\/\/me2.do\/GrMr2Igd"
+        },
+        {
+            "index":17,
+            "sort":"living",
+            "name":"신동아",
+            "search_code":757,
+            "apt_type":"아파트",
+            "apt_year":38.0,
+            "value_score":62.7736,
+            "region":"서울시 용산구",
+            "region_code":"Seoul",
+            "sub_region_code":"1117000000_Seoul_Yongsan",
+            "shorten_url":"https:\/\/me2.do\/GrMr2Igd"
+        },
+        {
+            "index":18,
+            "sort":"living",
             "name":"나인원한남",
             "search_code":130505,
             "apt_type":"아파트",
@@ -274,39 +300,13 @@
             "shorten_url":"https:\/\/me2.do\/GrMr2Igd"
         },
         {
-            "index":17,
+            "index":19,
             "sort":"living",
             "name":"한남더힐",
             "search_code":102737,
             "apt_type":"아파트",
             "apt_year":11.0,
             "value_score":61.7286,
-            "region":"서울시 용산구",
-            "region_code":"Seoul",
-            "sub_region_code":"1117000000_Seoul_Yongsan",
-            "shorten_url":"https:\/\/me2.do\/GrMr2Igd"
-        },
-        {
-            "index":18,
-            "sort":"living",
-            "name":"한강대우",
-            "search_code":767,
-            "apt_type":"아파트",
-            "apt_year":22.0,
-            "value_score":61.5678,
-            "region":"서울시 용산구",
-            "region_code":"Seoul",
-            "sub_region_code":"1117000000_Seoul_Yongsan",
-            "shorten_url":"https:\/\/me2.do\/GrMr2Igd"
-        },
-        {
-            "index":19,
-            "sort":"living",
-            "name":"LG한강자이",
-            "search_code":3143,
-            "apt_type":"아파트",
-            "apt_year":19.0,
-            "value_score":60.3178,
             "region":"서울시 용산구",
             "region_code":"Seoul",
             "sub_region_code":"1117000000_Seoul_Yongsan",
@@ -397,7 +397,7 @@
             "search_code":503,
             "apt_type":"재건축",
             "apt_year":51.0,
-            "value_score":73.15085,
+            "value_score":72.65085,
             "region":"서울시 용산구",
             "region_code":"Seoul",
             "sub_region_code":"1117000000_Seoul_Yongsan",
@@ -410,7 +410,7 @@
             "search_code":9522,
             "apt_type":"아파트",
             "apt_year":21.0,
-            "value_score":72.97485,
+            "value_score":72.47485,
             "region":"서울시 용산구",
             "region_code":"Seoul",
             "sub_region_code":"1117000000_Seoul_Yongsan",
@@ -445,19 +445,6 @@
         {
             "index":30,
             "sort":"infra",
-            "name":"현대리버티하우스(주상복합)",
-            "search_code":8889,
-            "apt_type":"아파트",
-            "apt_year":21.0,
-            "value_score":66.79825,
-            "region":"서울시 용산구",
-            "region_code":"Seoul",
-            "sub_region_code":"1117000000_Seoul_Yongsan",
-            "shorten_url":"https:\/\/me2.do\/GrMr2Igd"
-        },
-        {
-            "index":31,
-            "sort":"infra",
             "name":"용산브라운스톤",
             "search_code":27296,
             "apt_type":"아파트",
@@ -469,7 +456,7 @@
             "shorten_url":"https:\/\/me2.do\/GrMr2Igd"
         },
         {
-            "index":32,
+            "index":31,
             "sort":"infra",
             "name":"리첸시아용산(주상복합)",
             "search_code":27148,
@@ -482,7 +469,7 @@
             "shorten_url":"https:\/\/me2.do\/GrMr2Igd"
         },
         {
-            "index":33,
+            "index":32,
             "sort":"infra",
             "name":"용산롯데캐슬센터포레",
             "search_code":114334,
@@ -495,7 +482,7 @@
             "shorten_url":"https:\/\/me2.do\/GrMr2Igd"
         },
         {
-            "index":34,
+            "index":33,
             "sort":"infra",
             "name":"용산더프라임(주상복합)",
             "search_code":102329,
@@ -508,7 +495,7 @@
             "shorten_url":"https:\/\/me2.do\/GrMr2Igd"
         },
         {
-            "index":35,
+            "index":34,
             "sort":"infra",
             "name":"용산KCC웰츠타워(주상복합)",
             "search_code":104168,
@@ -521,7 +508,7 @@
             "shorten_url":"https:\/\/me2.do\/GrMr2Igd"
         },
         {
-            "index":36,
+            "index":35,
             "sort":"infra",
             "name":"용산파크자이(주상복합)",
             "search_code":10786,
@@ -534,7 +521,7 @@
             "shorten_url":"https:\/\/me2.do\/GrMr2Igd"
         },
         {
-            "index":37,
+            "index":36,
             "sort":"infra",
             "name":"브라운스톤남산",
             "search_code":14379,
@@ -547,7 +534,7 @@
             "shorten_url":"https:\/\/me2.do\/GrMr2Igd"
         },
         {
-            "index":38,
+            "index":37,
             "sort":"infra",
             "name":"센트레빌아스테리움서울(주상복합)",
             "search_code":101587,
@@ -560,13 +547,26 @@
             "shorten_url":"https:\/\/me2.do\/GrMr2Igd"
         },
         {
-            "index":39,
+            "index":38,
             "sort":"infra",
             "name":"용산CJ나인파크(주상복합)",
             "search_code":19195,
             "apt_type":"아파트",
             "apt_year":15.0,
             "value_score":63.1585,
+            "region":"서울시 용산구",
+            "region_code":"Seoul",
+            "sub_region_code":"1117000000_Seoul_Yongsan",
+            "shorten_url":"https:\/\/me2.do\/GrMr2Igd"
+        },
+        {
+            "index":39,
+            "sort":"infra",
+            "name":"현대리버티하우스(주상복합)",
+            "search_code":8889,
+            "apt_type":"아파트",
+            "apt_year":21.0,
+            "value_score":62.79825,
             "region":"서울시 용산구",
             "region_code":"Seoul",
             "sub_region_code":"1117000000_Seoul_Yongsan",

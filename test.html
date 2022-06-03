@@ -917,6 +917,12 @@
     detailHtml += "<div id='popLiving'>"
     detailHtml += "<div class='graph' style='height: 120px'> <canvas id='livingChart'></canvas></div>"
     detailHtml += "<div class='popTable'>"
+    if(Number(selectedMonth) > 202205 && aptData.data[index]["한강"] > 0){
+      detailHtml += "<div class='popSubTable'><div class='popContent'>" + "한강 프리미엄" + "</div>" + "<div class='popResult'>적용</div></div>";
+    }    
+    if(Number(selectedMonth) > 202205 && aptData.data[index]["해운대"] > 0){
+      detailHtml += "<div class='popSubTable'><div class='popContent'>" + "해운대 프리미엄" + "</div>" + "<div class='popResult'>적용</div></div>";
+    }
     detailHtml += "<div class='popSubTable'><div class='popContent'>" + "세대수" + "</div>" + "<div class='popResult'>" + house_num.toLocaleString() + "세대</div></div>";
     if(Number(selectedMonth) > 202203){
       if(apt_type >= "재건축"){
@@ -1014,13 +1020,7 @@
     detailHtml += "<div class='card-body'>";
     detailHtml += "<div id='popInfra'>"
     detailHtml += "<div class='graph' style='height: 120px'> <canvas id='infraChart'></canvas></div>"
-    detailHtml += "<div class='popTable'>"
-    if(Number(selectedMonth) > 202205 && aptData.data[index]["한강"] > 0){
-      detailHtml += "<div class='popSubTable'><div class='popContent'>" + "한강 프리미엄" + "</div>" + "<div class='popResult'>적용</div></div>";
-    }    
-    if(Number(selectedMonth) > 202205 && aptData.data[index]["해운대"] > 0){
-      detailHtml += "<div class='popSubTable'><div class='popContent'>" + "해운대 프리미엄" + "</div>" + "<div class='popResult'>적용</div></div>";
-    }
+    detailHtml += "<div class='popTable'>"    
     detailHtml += "<div class='popSubTable'><div class='popContent'>" + "3km 이내 백화점" + "</div>" + "<div class='popResult'>" + departmentStore_3km + "</div></div>";
     detailHtml += "<div class='popSubTable'><div class='popContent'>" + "5km 이내 아울렛/몰" + "</div>" + "<div class='popResult'>" + OutletMall_5km + "</div></div>";
     detailHtml += "<div class='popSubTable'><div class='popContent'>" + "1km 이내 대형마트" + "</div>" + "<div class='popResult'>" + bigMart_1km + "</div></div>";
