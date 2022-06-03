@@ -12,7 +12,13 @@ function showRearrangeBar(){
 
   function showAPTRearrangeBar(){
     if(sortSelection != "sortDefault"){
-      updateRegion()
+      //updateRegion()
+      //updateTable(selectedMonth, selectedSubRegion)
+      $("#rearrangeRank").prop("disabled", true)    
+      applySorting()      
+    }
+    else{
+      $("#rearrangeRank").prop("disabled", false)
     }
     
     $(".btn-outline-danger").css('font-size', '0.85em')
@@ -52,7 +58,8 @@ function showRearrangeBar(){
     //$(".aptPrice").css({'color': 'rgb(85, 85, 85)', 'font-weight': '400'})
     //$(".aptYear").css({'color': 'gray', 'font-weight': '400'})
     //$(".aptNum").css({'color': 'rgb(85, 85, 85)', 'font-weight': '400'})
-    updateRegion()
+    //updateRegion()
+    applySorting()
   }
 
   function showRegionRearrangeBar(){
@@ -117,7 +124,13 @@ function showRearrangeBar(){
       type = "desc"       
     }
 
-    data = aptData.data
+    if(sortSelection != "sortDefault"){
+      data = sortData.data
+    }
+    else{
+      data = aptData.data
+    }
+    
     var sortJSON = function(data, key, type) {
       if (type == undefined) {
         type = "desc";

@@ -98,6 +98,10 @@ function showSearchBar(){
               if (sortSelection == "sortEdu"){ sortName = "교육우선" }
               if (sortSelection == "sortCustom"){ sortName = "커스텀" }
 
+              if(rearrangeAPTSelection == "rearrangePrice"){ sortName = "실거래가" }
+              if(rearrangeAPTSelection == "rearrangeNew"){ sortName = "신축순" }
+              if(rearrangeAPTSelection == "rearrangeHouse"){ sortName = "세대수순" }
+
               var addon_html = "<div class='listBox' data-bs-toggle='modal' data-bs-target='#exampleModal' id='myModal' onClick='showDetail(" + i + ")'>";
 
                 if(selectedMonth == "202201"){
@@ -120,9 +124,34 @@ function showSearchBar(){
                     addon_html += "<div class='rank'>" + (i+1) + "위</div>";
                   }
                   else{
-                    addon_html += "<div class='rank'>" + rank + "위</div>";
+                    //addon_html += "<div class='rank'>" + rank + "위</div>";
+                    addon_html += "<div class='rank'>" + (i+1) + "위</div>";
                   }
 
+                  if(sortSelection == "sortDefault"){
+                    if(rearrangeAPTSelection == "rearrangeScore" || rearrangeAPTSelection == "rearrangeRank" ){
+                      if(sortData.data[i]["rank_gap"] == 0){
+                        addon_html += "<div class='ranksame'> -- </div>"
+                      }
+                      else if(sortData.data[i]["rank_gap"] == 9999){
+                        addon_html += "<div class='ranksame'> NEW! </div>"
+                      }
+                      else if(sortData.data[i]["rank_gap"] > 0){
+                        addon_html += "<div class='rankup'> ▲" + Math.abs(sortData.data[i]["rank_gap"]) + "</div>"
+                      }
+                      else if(sortData.data[i]["rank_gap"] < 0){
+                        addon_html += "<div class='rankdown'> ▼" + Math.abs(sortData.data[i]["rank_gap"]) + "</div>"
+                      }
+                    }
+                    else{
+                      addon_html += "<div class='ranksame' style='color:gray'>(" + sortName + ")</div>"
+                    }
+                  }
+                  else{
+                    addon_html += "<div class='ranksame' style='color:gray'>(" + sortName + ")</div>"
+                  }
+
+                  /*
                   if(sortSelection == "sortDefault"){
                     if(sortData.data[i]["rank_gap"] == 0){
                       addon_html += "<div class='ranksame'> -- </div>"
@@ -140,6 +169,7 @@ function showSearchBar(){
                   else{
                     addon_html += "<div class='ranksame' style='color:gray'>(" + sortName + ")</div>"
                   }
+                  */
 
                   addon_html += "</div>"
                 }  
@@ -182,7 +212,7 @@ function showSearchBar(){
               addon_html += "</div>"
 
               $('#dataList').append(addon_html);
-            }          
+            }            
           }
           
           if(rearrangeAPTSelection == "rearrangePrice" || !(minValue == 0 && maxValue == 60)){
@@ -196,6 +226,7 @@ function showSearchBar(){
           }
 
         }
+      $('#dataList').append("<div style='height: 1.5em'></div>");
       $('html').scrollTop(0)
   }
 
