@@ -64,7 +64,7 @@ function showSearchBar(){
 
     for(var i = 0 ; i < sortData.data.length ; i++){
           var aptName = sortData.data[i]["아파트명"]
-          var searchName = sortData.data[i]["아파트명"] + " " + sortData.data[i]["법정동주소"]
+          var searchName = sortData.data[i]["아파트명"] + " " + sortData.data[i]["법정동주소"] + " " + sortData.data[i]["매매타입"]
 
           if(searchName.indexOf(input) >= 0){              
             var aptName = sortData.data[i]["아파트명"]

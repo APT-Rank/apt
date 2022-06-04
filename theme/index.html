@@ -708,7 +708,7 @@
                 addon_html += aptAddress + "</div>";
               }
 
-              addon_html += "<div class='themePoint'>공시가격: " + min_land_price + "억 ~ " + max_land_price + "억</div>";
+              addon_html += "<div class='themePoint'>공시가격: " + min_land_price + "억 ~ " + max_land_price + "억 <span style='color:#555'>/ 최고 " + max_floor + "층, 최저 " + min_floor + "층</span></div>";
               addon_html += "</div>";
               addon_html += "<div id='NLink'><button type='button' class='goThemeLink' onclick='openNaver(" + searchCode + ")'>N부동산</button></div>"
 
@@ -735,7 +735,7 @@
                 addon_html += aptAddress + "</div>";
               }
 
-              addon_html += "<div class='themePoint'>최고 " + max_floor + "층, 최저 " + min_floor + "층</div>";
+              addon_html += "<div class='themePoint'>최고 " + max_floor + "층, 최저 " + min_floor + "층 <span style='color:#555'>/ 공시가격: " + min_land_price + "억 ~ " + max_land_price + "억</span></div>";
               addon_html += "</div>";
               addon_html += "<div id='NLink'><button type='button' class='goThemeLink' onclick='openNaver(" + searchCode + ")'>N부동산</button></div>"
 
