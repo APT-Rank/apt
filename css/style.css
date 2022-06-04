@@ -197,11 +197,30 @@
     grid-template-columns: 1fr 80px;
     align-items: center;
     border-bottom: 1px solid gray;
-    padding-left: 20px;
+    padding-left: 10px;
     padding-right: 10px;
     padding-top: 0.5em;
     padding-bottom: 0.5em;
-  }  
+  }
+
+  .themeDongList{
+    display: grid;    
+    align-items: left;    
+    padding-left: 10px;
+    padding-right: 10px;    
+  }
+
+  .dongList{    
+    font-weight: 600;
+    align-items: left;
+    background-color: rgb(226, 226, 226);
+    border-radius: 10px;
+    padding-left: 25px;
+    padding-right: 25px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    margin-top: 10px;    
+  } 
   
   /*
   .listBox:hover{
@@ -451,7 +470,7 @@
     margin-bottom: 10px;
     box-shadow: rgba(0, 0, 0, 0.12) 0px 1px 3px, rgba(0, 0, 0, 0.24) 0px 1px 2px;
   }
-  #help, #rearrange{
+  #help, #rearrange, #tripGuide{
     font-size: 1.5em;
     color: white;
     text-align: right;
