@@ -97,7 +97,7 @@
         <div id="title" onClick='scrollUp()'>아파트랭크<span id="themeLogo">Theme</span></div>
         <!--공유 버튼-->
         <!-- <div id="search" onClick='share(shareTitle, shareText, shareURL)'><i class='fa-solid fa-arrow-up-right-from-square'></i></div> -->
-        <div id='help' data-bs-toggle='modal' data-bs-target='#exampleModal' id='myModal' onClick='showDistance(routeArray)'><i class="fa-solid fa-route"></i></div>
+        <div id='tripGuide' data-bs-toggle='modal' data-bs-target='#exampleModal' id='myModal' onClick='showDistance(routeArray)'><i class="fa-solid fa-route"></i></div>
         <!--단지 가중치 설정 버튼 표시-->        
         <div id='help' data-bs-toggle='modal' data-bs-target='#exampleModal' id='myModal' onClick='showNotice()'><i class="fa-solid fa-circle-question"></i></div>
 
@@ -113,6 +113,7 @@
             <option value="over30year">30년 이상 단지</option>
             <option value="newApt">분양권</option>
             <option value="rebuild">재건축</option>
+            <option value="tripGuide">동별 임장 가이드</option>
           </select>
         </div>
       </div>
@@ -390,6 +391,67 @@
     $( 'html, body' ).animate( { scrollTop : 0 }, 50 );
   }
 
+  var dongList = []
+
+  function loadDongList(sido, gungu){
+    if(sido == 'Seoul'){
+      changeItem = inSeoul
+    }
+    if(sido == 'Busan'){
+      changeItem = inBusan
+    }
+    if(sido == 'Incheon'){
+      changeItem = inIncheon
+    }
+    if(sido == 'Daegu'){
+      changeItem = inDaegu
+    }
+    if(sido == 'Gwangju'){
+      changeItem = inGwangju
+    }
+    if(sido == 'Daejeon'){
+      changeItem = inDaejeon
+    }
+    if(sido == 'Ulsan'){
+      changeItem = inUlsan
+    }
+    if(sido == 'Sejong'){
+      changeItem = inSejong
+    }
+    if(sido == 'Gyeonggi'){
+      changeItem = inGyeonggi
+    }
+    if(sido == 'Gangwondo'){
+      changeItem = inGangwondo
+    }
+    if(sido == 'Chungcheongbukdo'){
+      changeItem = inChungcheongbukdo
+    }
+    if(sido == 'Chungcheongnamdo'){
+      changeItem = inChungcheongnamdo
+    }
+    if(sido == 'Jeollabukdo'){
+      changeItem = inJeollabukdo
+    }
+    if(sido == 'Jeollanamdo'){
+      changeItem = inJeollanamdo
+    }
+    if(sido == 'Gyeongsangbukdo'){
+      changeItem = inGyeongsangbukdo
+    }
+    if(sido == 'Gyeongsangnamdo'){
+      changeItem = inGyeongsangnamdo
+    }
+    if(sido == 'Jejudo'){
+      changeItem = inJejudo
+    }
+
+    for(var i = 0 ; i < changeItem.length; i++){
+      if(changeItem[i][1] == gungu)
+        dongList = changeItem[i][2]        
+    }    
+  }
+
   function optionChange(subRegion){
     selectedSubRegion = subRegion
     regionName = $("#sido option:selected").val();
@@ -461,7 +523,8 @@
     else{
       $("#gungu").val(selectedSubRegion).prop("selected", true);
     }
-    //updateRegion()
+    loadDongList(selectedRegion, selectedSubRegion)
+    //updateRegion()    
   }
 
   function updateTheme(){
@@ -479,6 +542,7 @@
     updateTable(selectedTheme, selectedSubRegion)
     regionName = $("#sido option:selected").text()
 
+    loadDongList(selectedRegion, selectedSubRegion)
   }
 
   function updateTable(type, region){
@@ -513,6 +577,7 @@
     titleHtml = "";
     detailHtml = "";
     footerHtml = "";
+    console.log(arr)
 
     titleHtml += "<div class='popupTitle'>단지별 최소 직선 거리</div>";
     titleHtml += "<div class='popupSubtitle'>600m 이상인 경우 차량을 이용해 주세요</div>";
@@ -531,10 +596,11 @@
         detailHtml += "<div class='content'><div class='apt_name' style='text-align:center'>" + $('#sido option:selected').text() + " " + $('#gungu option:selected').text() + "에는 <br> 재건축 아파트 단지가 없네요. </div></div>"        
       }      
     }
-    else{
+    else{      
       detailHtml += "<div class='distanceTable'>"
       detailHtml += "<div class='distanceName'><div>" + arr[0][0]+ "</div>"
-      detailHtml += "<div class='distanceContent'>" + arr[0][4] + "</div></div>"
+      detailHtml += "<div class='distanceContent'>" + arr[0][6] + "세대 / " + arr[0][7] + "</div>"
+      detailHtml += "<div class='distanceContent' style='color:gray'>" + arr[0][4] + "</div></div>"
       detailHtml += "<div id='NLink' style='align-content: center'><button type='button' class='goThemeLink' onclick='openNaver(" + arr[0][5] + ")'>N부동산</button></div>"
       detailHtml += "</div>"
 
@@ -554,8 +620,9 @@
         
         detailHtml += "<div class='distanceTable'>"
         detailHtml += "<div class='distanceName'><div>" + arr[i][0]+ "</div>"
-        detailHtml += "<div class='distanceContent'>" + arr[i][4] + "</div></div>"
-        detailHtml += "<div id='NLink' style='align-content: center'><button type='button' class='goThemeLink' onclick='openNaver(" + arr[0][5] + ")'>N부동산</button></div>"
+        detailHtml += "<div class='distanceContent'>" + arr[i][6] + "세대 / " + arr[i][7] + "</div>"
+      detailHtml += "<div class='distanceContent' style='color:gray'>" + arr[i][4] + "</div></div>"
+        detailHtml += "<div id='NLink' style='align-content: center'><button type='button' class='goThemeLink' onclick='openNaver(" + arr[i][5] + ")'>N부동산</button></div>"        
         detailHtml += "</div>"
       }
     }
@@ -570,6 +637,8 @@
   function ListUp(listData, type){
     $('html').scrollTop(0)    
     $('#themeDataList').html("");
+    $("#tripGuide").css("visibility", "visible")
+    $("#rearrange").css("visibility", "visible")
         var distance_check = []
         routeArray = []
         itemNum = listData.length;        
@@ -645,7 +714,7 @@
 
               shareText += "ㆍ" + aptName + "\n"
 
-              distance_check.push([aptName, coord_y, coord_x, aptAddress, searchCode])
+              distance_check.push([aptName, coord_y, coord_x, aptAddress, searchCode, house_num, aptYear])
             }
             $('#themeDataList').append(addon_html);            
           }          
@@ -672,7 +741,7 @@
 
               shareText += "ㆍ" + aptName + "\n"
 
-              distance_check.push([aptName, coord_y, coord_x, aptAddress, searchCode])
+              distance_check.push([aptName, coord_y, coord_x, aptAddress, searchCode, house_num, aptYear])
             }
             $('#themeDataList').append(addon_html);
           }
@@ -698,7 +767,7 @@
 
               shareText += "ㆍ" + aptName + "\n"
 
-              distance_check.push([aptName, coord_y, coord_x, aptAddress, searchCode])
+              distance_check.push([aptName, coord_y, coord_x, aptAddress, searchCode, house_num, aptYear])
             }
             $('#themeDataList').append(addon_html);
           }         
@@ -723,7 +792,7 @@
 
                 shareText += "ㆍ" + aptName + "\n"
 
-                distance_check.push([aptName, coord_y, coord_x, aptAddress, searchCode])
+                distance_check.push([aptName, coord_y, coord_x, aptAddress, searchCode, house_num, aptYear])
               }
               $('#themeDataList').append(addon_html);
             }
@@ -750,15 +819,37 @@
 
                 shareText += "ㆍ" + aptName + "\n"
 
-                distance_check.push([aptName, coord_y, coord_x, aptAddress, searchCode])
+                distance_check.push([aptName, coord_y, coord_x, aptAddress, searchCode, house_num, aptYear])
               }
               $('#themeDataList').append(addon_html);
+            }            
+        }        
+
+        if(type == "tripGuide"){          
+          $("#tripGuide").css("visibility", "hidden")
+          $("#rearrange").css("visibility", "hidden")
+          
+          addon_html = "<div class='themeDongList'>";          
+            for (var i  = 0 ; i < dongList.length ; i++){
+              complexCount = 0;              
+              for(var k = 0 ; k < listData.length ; k++){
+                searchName = listData[k]["법정동주소"]
+                if(searchName.indexOf(dongList[i]) >= 0){
+                  complexCount++
+                }
+              }
+
+              if(complexCount > 0){                
+                addon_html += "<div class='dongList' onClick='showGuide(\"" + dongList[i] + "\")'>" + dongList[i] + "<span style='font-size:0.8em'> (" + complexCount + "개 단지)</span></div>"
+              }
             }
+            addon_html += "<div style='height: 1em'></div>"
+            $('#themeDataList').append(addon_html);
         }
 
         routeArray = makeDistanceList(distance_check)
 
-        if(count < 1){          
+        if(count < 1 && type != "tripGuide"){          
           if(type == "under100M"){
             addon_html = "<div class='content'><div class='apt_name' style='text-align:center; padding-top: 2em'>" + $('#sido option:selected').text() + " " + $('#gungu option:selected').text() + "에는 <br> 공시가격 1억 이하 아파트 단지가 없네요. </div></div>"
             shareText = "공시가격 1억 이하 아파트 단지가 없네요.\n"
@@ -778,8 +869,13 @@
           if(type == "rebuild"){
             addon_html = "<div class='content'><div class='apt_name' style='text-align:center; padding-top: 2em'>" + $('#sido option:selected').text() + " " + $('#gungu option:selected').text() + "에는 <br> 재건축 아파트 단지가 없네요. </div></div>"
             shareText = "재건축 아파트 단지가 없네요.\n"
-          }
-          $('#themeDataList').append(addon_html);          
+          }          
+          $('#themeDataList').append(addon_html);         
+        }
+        if(listData.length == 0 && type == "tripGuide"){          
+          addon_html = "<div class='content'><div class='apt_name' style='text-align:center; padding-top: 2em'>" + $('#sido option:selected').text() + " " + $('#gungu option:selected').text() + "에는 <br> 아파트 단지가 없네요. </div></div>"
+          shareText = "아파트 단지가 없네요.\n"
+          $('#themeDataList').append(addon_html);        
         }
         $('#themeDataList').append("<div style='height: 1.5em'></div>");        
     
@@ -803,6 +899,48 @@
       shareTitle += "재건축 아파트 단지\n\n"
     }
     shareURL = "\nhttps://www.aptrank.kr/theme" + "?reg=" + selectedRegion +"&sub=" + selectedSubRegion + "&theme=" + selectedTheme    
+  }
+
+  function showGuide(dong){
+    distance_check = []
+    console.log(dong)
+    for(var i = 0 ; i < aptData.data.length ; i++){
+      var aptName = aptData.data[i]["아파트명"]
+      var apt_m = aptData.data[i]["전용면적(m2)"]
+      var apt_p = aptData.data[i]["전용면적(평)"]
+      var apt_type = aptData.data[i]["타입"]
+      var aptAddress = aptData.data[i]["도로명주소"]
+      var house_num = aptData.data[i]["세대수"]
+      var max_floor = aptData.data[i]["최고층"]
+      var min_floor = aptData.data[i]["최저층"]
+      var aptDuration = aptData.data[i]["준공년차"]
+      var buildDate = aptData.data[i]["준공년월"]
+      var min_land_price = (aptData.data[i]["최소공지가"] / 100000000).toFixed(2)
+      var max_land_price = (aptData.data[i]["최대공지가"] / 100000000).toFixed(2)
+      var searchCode = aptData.data[i]["코드"]
+      var coord_y = aptData.data[i]["y"]
+      var coord_x = aptData.data[i]["x"]
+      var searchName = aptData.data[i]["법정동주소"]
+
+      if(apt_type == "APT"){        
+        aptYear = buildDate + " (" + aptDuration + "년차)"        
+      }
+      if(apt_type == "JGC"){        
+        aptYear = buildDate + " (" + aptDuration + "년차, 재건축)"        
+      }
+      if(apt_type == "ABYG"){
+        aptYear = "(분양권, " + buildDate.substr(0, 7) + " 예정)"
+        aptAddress = aptData.data[i]["법정동주소"]
+      }
+
+      searchName = aptData.data[i]["법정동주소"]
+      if(searchName.indexOf(dong) >= 0){
+        console.log(aptData.data[i]["코드"])
+        distance_check.push([aptName, coord_y, coord_x, aptAddress, searchCode, house_num, aptYear])
+      }
+    }
+    routeArray = makeDistanceList(distance_check)
+    showDistance(routeArray)
   }
 
   function showDetail(index){

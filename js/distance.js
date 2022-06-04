@@ -16,9 +16,9 @@ function makeDistanceList(points){
   returnArray = []
   if(points.length == 0){}
   else{
-    temp_points = points.slice()
+    temp_points = points.slice()    
 
-    returnArray.push([points[0][0], points[0][1], points[0][2], 0, points[0][3], points[0][4]])
+    returnArray.push([points[0][0], points[0][1], points[0][2], 0, points[0][3], points[0][4], points[0][5], points[0][6]])
     temp_points.splice(0, 1)  
 
     for (var k = 0; k < points.length-1; k++){
@@ -32,12 +32,11 @@ function makeDistanceList(points){
       minValue = Math.min(...distanceArray)
       findIndex = distanceArray.indexOf(minValue)    
 
-      returnArray.push([temp_points[findIndex][0], temp_points[findIndex][1], temp_points[findIndex][2], minValue, temp_points[findIndex][3], temp_points[findIndex][4]])
-
+      returnArray.push([temp_points[findIndex][0], temp_points[findIndex][1], temp_points[findIndex][2], minValue, temp_points[findIndex][3], temp_points[findIndex][4], temp_points[findIndex][5], temp_points[findIndex][6]])
       if(temp_points.length == 1){
-        console.log(temp_points[0][0], "-", points[0][0])
+        //console.log(temp_points[0][0], "-", points[0][0])
         distance = getDistanceFromLatLonInKm(points[0][1], points[0][2], temp_points[0][1], temp_points[0][2]) * 1000
-        returnArray.push([points[0][0], points[0][1], points[0][2], distance, points[0][3], points[0][4]])
+        returnArray.push([points[0][0], points[0][1], points[0][2], distance, points[0][3], points[0][4], points[0][5], points[0][6]])
       }
       temp_points.splice(findIndex, 1)
     }
