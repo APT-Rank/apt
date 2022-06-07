@@ -229,6 +229,33 @@
       </div>
     </div>
   </div>
+
+  <!-- Toggle Modal -->
+  <div class="modal fade" id="toggleModal1" tabindex="-1" aria-labelledby="toggleModalLabel" aria-hidden="true">
+    <div class="modal-dialog modal-dialog-centered modal-dialog-scrollable">
+      <div class="modal-content">
+        <div class="modal-header">
+          <h5 class="modal-title" id="toggleModalLabel">Modal title</h5>
+          <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+        </div>
+        <div class="modal-body" id='distanceDetail'></div>
+        <div id='footer'></div>
+      </div>
+    </div>
+  </div>
+  <div class="modal fade" id="toggleModal2" tabindex="-1" aria-labelledby="toggleModalLabel" aria-hidden="true">
+    <div class="modal-dialog modal-dialog-centered modal-dialog-scrollable">
+      <div class="modal-content">
+        <div class="modal-header">
+          <h5 class="modal-title" id="toggleModalLabel">Modal title</h5>
+          <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+        </div>
+        <div class="modal-body" id='distanceDetail'></div>
+        <div id='footer'></div>
+      </div>
+    </div>
+  </div>
+
   <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-ka7Sk0Gln4gmtz2MlQnikT1wXgYsOg+OMhuP+IlRH9sENBO0LRn5q+8nbTov4+1p" crossorigin="anonymous"></script>
   <script src="https://cdn.jsdelivr.net/npm/chart.js@3.0.0/dist/chart.min.js"></script>
   <script src="https://cdn.jsdelivr.net/npm/chartjs-plugin-datalabels@2"></script>
@@ -367,7 +394,7 @@
 
     if($.cookie('popThemeCookie') != "202205"){
       showNotice()
-      $('div.modal').modal("show");
+      $('#exampleModal').modal("show");
     }
   });
 
@@ -573,11 +600,10 @@
         ListUp(aptData.data, type)
   })}
 
-  function showDistance(arr){
+  function showDistance(arr){    
     titleHtml = "";
     detailHtml = "";
-    footerHtml = "";
-    console.log(arr)
+    footerHtml = "";    
 
     titleHtml += "<div class='popupTitle'>단지별 최소 직선 거리</div>";
     titleHtml += "<div class='popupSubtitle'>600m 이상인 경우 차량을 이용해 주세요</div>";
@@ -621,18 +647,18 @@
         detailHtml += "<div class='distanceTable'>"
         detailHtml += "<div class='distanceName'><div>" + arr[i][0]+ "</div>"
         detailHtml += "<div class='distanceContent'>" + arr[i][6] + "세대 / " + arr[i][7] + "</div>"
-      detailHtml += "<div class='distanceContent' style='color:gray'>" + arr[i][4] + "</div></div>"
+        detailHtml += "<div class='distanceContent' style='color:gray'>" + arr[i][4] + "</div></div>"
         detailHtml += "<div id='NLink' style='align-content: center'><button type='button' class='goThemeLink' onclick='openNaver(" + arr[i][5] + ")'>N부동산</button></div>"        
         detailHtml += "</div>"
       }
     }
 
-    $('#exampleModalLabel').html(titleHtml);
-    $('#aptDetail').html(detailHtml);
+    $('#toggleModalLabel').html(titleHtml);
+    $('#distanceDetail').html(detailHtml);
     $('#footer').html(footerHtml);
 
-    $('div.modal').modal("show");
-  }
+    $('#toggleModal1').modal("show");
+}
 
   function ListUp(listData, type){
     $('html').scrollTop(0)    
@@ -825,7 +851,7 @@
             }            
         }        
 
-        if(type == "tripGuide"){          
+        if(type == "tripGuide"){
           $("#tripGuide").css("visibility", "hidden")
           $("#rearrange").css("visibility", "hidden")
           
@@ -901,6 +927,35 @@
     shareURL = "\nhttps://www.aptrank.kr/theme" + "?reg=" + selectedRegion +"&sub=" + selectedSubRegion + "&theme=" + selectedTheme    
   }
 
+  function selectStartPoint(distance_check){
+    titleHtml = "<div class='popupTitle'>임장 시작 단지를 선택하세요</div>";
+    detailHtml = ""
+
+    for (var i = 0 ; i < distance_check.length; i++){   
+      detailHtml += "<div class='distanceTable'>"
+      detailHtml += "<div class='startChoice' onclick='distanceRecal(" + i + ", distance_check)'><div>" + distance_check[i][0]+ "</div>"      
+      detailHtml += "<div class='distanceContent' style='color:gray'>" + distance_check[i][3] + "</div></div>"
+      detailHtml += "<div id='NLink' style='align-content: center'><button type='button' class='goThemeLink' onclick='openNaver(" + distance_check[i][5] + ")'>N부동산</button></div>"
+      detailHtml += "</div>"
+    }
+
+    footerHtml = ""
+
+    $('#exampleModalLabel').html(titleHtml);
+    $('#aptDetail').html(detailHtml);
+    $('#footer').html(footerHtml);
+
+    $('#exampleModal').modal("show");
+  }
+
+  function distanceRecal(start, arr){    
+    startPoint = arr[start]
+    arr.splice(start, 1)
+    arr.splice(0, 0, startPoint)    
+    routeArray = makeDistanceList(arr)
+    showDistance(routeArray)
+  }
+
   function showGuide(dong){
     distance_check = []
     console.log(dong)
@@ -934,13 +989,18 @@
       }
 
       searchName = aptData.data[i]["법정동주소"]
-      if(searchName.indexOf(dong) >= 0){
-        console.log(aptData.data[i]["코드"])
+      if(searchName.indexOf(dong) >= 0){        
         distance_check.push([aptName, coord_y, coord_x, aptAddress, searchCode, house_num, aptYear])
       }
     }
-    routeArray = makeDistanceList(distance_check)
-    showDistance(routeArray)
+
+    if(distance_check.length <= 2){
+      routeArray = makeDistanceList(distance_check)
+      showDistance(routeArray)
+    }
+    else{
+      selectStartPoint(distance_check)
+    }
   }
 
   function showDetail(index){
