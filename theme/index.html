@@ -97,7 +97,7 @@
         <div id="title" onClick='scrollUp()'>아파트랭크<span id="themeLogo">Theme</span></div>
         <!--공유 버튼-->
         <!-- <div id="search" onClick='share(shareTitle, shareText, shareURL)'><i class='fa-solid fa-arrow-up-right-from-square'></i></div> -->
-        <div id='tripGuide' data-bs-toggle='modal' data-bs-target='#exampleModal' id='myModal' onClick='showDistance(routeArray)'><i class="fa-solid fa-route"></i></div>
+        <div id='tripGuide' data-bs-toggle='modal' data-bs-target='#toggleModal1' id='myModal' onClick='showDistance(routeArray)'><i class="fa-solid fa-route"></i></div>
         <!--단지 가중치 설정 버튼 표시-->        
         <div id='help' data-bs-toggle='modal' data-bs-target='#exampleModal' id='myModal' onClick='showNotice()'><i class="fa-solid fa-circle-question"></i></div>
 
@@ -656,7 +656,7 @@
     $('#toggleModalLabel').html(titleHtml);
     $('#distanceDetail').html(detailHtml);
     $('#footer').html(footerHtml);
-
+    
     $('#toggleModal1').modal("toggle");
 }
 
