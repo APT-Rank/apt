@@ -736,7 +736,7 @@ function allShare(){
 }
 
 function shareToCafe(){
-  shareTitle = "[아파트랭크]"
+  shareTitle = "[아파트랭크] "
   shareTitle += selectedMonth.substr(0, 4) + "년 " + Number(selectedMonth.substr(4, 2)).toString() + "월, " + balanced[0]["region"] + " 랭크\n\n"
 
   shareText = "안녕하세요. 아파트랭크 입니다.\n\n"  
@@ -845,7 +845,7 @@ function shareToCafe(){
     shareText += "ㆍ교통(수도권/광역시) = 역세권 여부, 30분이내 도착 가능 거점역, 1시간 이내 도착 가능 거점역\n"
     shareText += "\n\n"
 
-    shareText += "#아파트 #아파트랭크 #아파트입지 #아파트순위 #부동산 #부동산랭크 #부동산순위 #부동산입지 #입지분석 #아파트추천 #부동산추천"
+    shareText += "#아파트 #아파트랭크 #아파트입지 #아파트순위 #부동산 #부동산순위 #부동산입지 #입지분석 #아파트추천 #부동산추천"
     
     //shareURL = "https://www.aptrank.kr" + "?reg=" + balanced[0]["region_code"] +"&sub=" + selectedSubRegion + "&mon=" + selectedMonth
     shareURL = balanced[0]["shorten_url"]
