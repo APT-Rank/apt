@@ -900,7 +900,7 @@
         detailHtml += "</div></div>"
       }
 
-    detailHtml += "<div class='card-body'>";
+    detailHtml += "<div class='card-body'>";    
     detailHtml += "<div class='graph' style='height: 200px'> <canvas id='valueChart'></canvas></div>"
     detailHtml += "<div class='comment'>(지역구의 모든 단지에 대해 100점으로 환산한 상대 점수 입니다.)</div>";
     if(Number(selectedMonth) > 202203){
@@ -1033,7 +1033,7 @@
       }
     }
     detailHtml += "<div class='popSubTable'><div class='popContent'>" + "500m 이내 은행" + "</div>" + "<div class='popResult'>" + bank_500m + "</div></div>";
-    detailHtml += "<div class='popSubTable'><div class='popContent'>" + "500m 이내 병원" + "</div>" + "<div class='popResult'>" + bank_500m + "</div></div>";
+    detailHtml += "<div class='popSubTable'><div class='popContent'>" + "500m 이내 병원" + "</div>" + "<div class='popResult'>" + hospital_500m + "</div></div>";
     detailHtml += "<div class='popSubTable'><div class='popContent'>" + "5km 이내 대형병원" + "</div>" + "<div class='popResult'>" + bigHospital_5km + "</div></div>";
     detailHtml += "<div class='popSubTable'><div class='popContent'>" + "500m 이내 공원" + "</div>" + "<div class='popResult'>" + park_500m + "</div></div>";
     if(Number(selectedMonth) > 202205){
