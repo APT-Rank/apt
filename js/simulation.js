@@ -97,7 +97,7 @@ function openSimulation(arr, index){
 
   //detailHtml += "<div class='popSubTable'><div class='popContent'>" + "세대수" + "</div>" + "<div class='popResult'>" + house_num.toLocaleString() + "세대</div></div>";
   //세대수선택
-  detailHtml += "<div class='popSubTable'><div class='popContent'>" + "세대수" + "</div>" + "<div class='popResult'><select class='optionSelect' id='houseNumOption' style='font-size: 0.8em' onChange='putVal(this)'>"
+  detailHtml += "<div class='popSubTable'><div class='popContent'>" + "세대수" + "</div>" + "<div class='popResult'><select class='optionSelect' id='houseNumOption' style='height: 1em; font-size: 0.8em;' onChange='putVal(this)'>"
   for(var i = 0 ; i < houseOption.length ; i++){
     detailHtml += "<option value=" + i + ">" + houseOption[i][0] + "</option>"
   }
