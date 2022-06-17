@@ -3,6 +3,44 @@ simul_trans_score = []
 simul_infra_score = []
 simul_edu_score = []
 
+// 로딩창 키는 함수
+function openLoading() {
+  console.log("LOADING!!!")
+  //화면 높이와 너비를 구합니다.
+  let maskHeight = $(document).height();
+  let maskWidth = window.document.body.clientWidth;
+  //출력할 마스크를 설정해준다.
+  let mask ="<div id='loadingMask' style='position:absolute; z-index:2500; background-color:#000000; left:0; top:0;'></div>";
+  // 로딩 이미지 주소 및 옵션
+  let loadingImg ='';
+  loadingImg += "<div id='loadingImg' style='position:absolute; top: calc(50% - (200px / 2)); width:100%; z-index:3000; text-align:center; color: white; font-weight: 600'>";
+  //loadingImg += " <img src='https://loadingapng.com/animation.php?image=4&fore_color=000000&back_color=FFFFFF&size=128x128&transparency=1&image_type=0&uncacher=75.5975991029623' style='position: relative; display: block; margin: 0px auto;'/>";
+  loadingImg += "열심히 분석 중입니다"
+  loadingImg += "</div>"; 
+  //레이어 추가
+  $('body')
+      .append(mask)
+      .append(loadingImg)
+  //마스크의 높이와 너비로 전체 화면을 채운다.
+  $('#loadingMask').css({
+          'width' : maskWidth,
+          'height': maskHeight,
+          'opacity' :'0.5'
+  });
+  //마스크 표시
+  $('#loadingMask').show();  
+  //로딩 이미지 표시
+  $('#loadingImg').show();
+
+//  setTimeout(closeLoading, 3000);
+}
+
+// 로딩창 끄는 함수
+function closeLoading() {
+  $('#loadingMask, #loadingImg').hide();
+  $('#loadingMask, #loadingImg').empty(); 
+}
+
 function openSimulation(arr, index){
   $('#exampleModal').modal("hide");  
 
@@ -59,7 +97,7 @@ function openSimulation(arr, index){
   //타이틀
   //titleHtml += "<div class='popupTitle'>" + aptName + " " + apt_p + "(" + apt_m + ")</div>";
   titleHtml += "<div class='popupTitle' style='color: #fff; font-size: 0.6em; text-align: center; border-radius: 10px; background: #ff3d38; margin-bottom: 3px'>랭크 시뮬레이션</div>";
-  titleHtml += "<div class='popupSubtitle' style='font-size: 0.5em; font-weight:600; color:#ff3d38; text-align: center; margin-bottom: 5px'>시뮬레이션은 기존 결과와 다소 상이할 수 있습니다.</div>";
+  //titleHtml += "<div class='popupSubtitle' style='font-size: 0.5em; font-weight:600; color:#ff3d38; text-align: center; margin-bottom: 5px'>시뮬레이션은 기존 결과와 다소 상이할 수 있습니다.</div>";
   titleHtml += "<div class='popupTitle'>" + aptName + "</div>";  
 
   if(apt_type == "분양권"){
@@ -97,7 +135,7 @@ function openSimulation(arr, index){
 
   //detailHtml += "<div class='popSubTable'><div class='popContent'>" + "세대수" + "</div>" + "<div class='popResult'>" + house_num.toLocaleString() + "세대</div></div>";
   //세대수선택
-  detailHtml += "<div class='popSubTable'><div class='popContent'>" + "세대수" + "</div>" + "<div class='popResult'><select class='optionSelect' id='houseNumOption' style='height: 1em; font-size: 0.8em;' onChange='putVal(this)'>"
+  detailHtml += "<div class='popSubTable'><div class='popContent'>" + "세대수" + "</div>" + "<div class='popResult'><select class='optionSelect' id='houseNumOption' onChange='putVal(this)'>"
   for(var i = 0 ; i < houseOption.length ; i++){
     detailHtml += "<option value=" + i + ">" + houseOption[i][0] + "</option>"
   }
@@ -1069,6 +1107,7 @@ function putVal(e){
 }
 
 function calValue(arr, length){
+  openLoading() 
   console.log(arr)
   address = arr["법정동주소"].split(" ")
   console.log("주소: ", arr["법정동주소"])
@@ -1156,6 +1195,11 @@ function calValue(arr, length){
   //console.log("인프라점수 : ", infra_score)
   //console.log("교육점수 : ", edu_score)
   //console.log("총점 : ", value_total)
+  setTimeout(waiting, 3000, resultValue, arr, length);
+  //showSimulResult(resultValue, arr, length)  
+}
+
+function waiting(resultValue, arr, length){
   showSimulResult(resultValue, arr, length)
 }
 
@@ -1273,8 +1317,7 @@ function makeRate(value_total, living_score, trans_score, infra_score, edu_score
 }
 
 function showSimulResult(resultValue, arr, length){
-
-  console.log(resultValue)
+  closeLoading()
 
   titleHtml = "";
   detailHtml = "";

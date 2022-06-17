@@ -254,7 +254,10 @@
     width: 100%;    
     border: 0;
     border-radius: 1em;
-    background-color: #ddd;    
+    background-color: #ddd;
+    -webkit-appearance: none;
+    -moz-appearance: none;
+    appearance: none;
   }
   .optionSelect:focus{
     outline: 0;
