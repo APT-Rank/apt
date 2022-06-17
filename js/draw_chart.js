@@ -139,6 +139,76 @@ function drawSubChart(score, avgScore, label1, label2, color1, color2, className
   });
 }
 
+function drawSimulSubChart(score, avgScore, label1, label2, color1, color2, className){
+  var ctx = document.getElementById(className).getContext('2d');
+  var color = 'white'
+  var align = 'start'
+
+  if(score < 85 && avgScore < 85){
+    color = 'black'
+    align = 'end'      
+  }
+
+  var myChart = new Chart(ctx, {
+    type: 'bar',
+    plugins:[ChartDataLabels],
+    data: {          
+      labels: [label1, label2],
+      datasets: [{                
+        data: [score, avgScore],
+        borderColor:[
+          color1,
+          color2
+        ],
+        borderWidth:[
+          '2',
+          '2',
+        ],
+        backgroundColor: [
+            color1,
+            color2,
+        ],        
+        barThickness: 20,            
+      }]
+    },
+    options: {
+      indexAxis: 'y',
+      maintainAspectRatio: false,        
+      plugins:{
+        legend:{
+          display: false
+        },            
+        datalabels: {
+          display: true,
+          color: color,
+          align: align,
+          anchor: 'end',              
+          offset: 6,
+          textAlign: 'center',
+          font: {
+            weight: 'bold'
+          },              
+        },                      
+      },
+      animation: {            
+        x:{
+          from: 100
+        }
+      },
+      scales: {
+        x:{
+          type: 'linear',
+          min: 0,
+          max: 100,
+        },
+        myScale: {              
+          position: 'left', // `axis` is determined by the position as `'y'`
+        }
+      }          
+    }
+});
+}
+
 function drawRankChart(rankMonth, rankData, totalRank){
   var label = rankMonth
   var data = rankData
@@ -222,7 +292,7 @@ function drawPriceRateChart(dateArray, salesArray, rentArray){
         label: "매매지수",
         data: salesData,        
         borderColor: "#ff3d38",
-        borderWidth: 1,
+        borderWidth: 2,
         backgroundColor: "#ff3d38",
         pointRadius: 0
       },
@@ -230,7 +300,7 @@ function drawPriceRateChart(dateArray, salesArray, rentArray){
         label: "전세지수",
         data: rentData,
         borderColor: "#5589c9",
-        borderWidth: 1,
+        borderWidth: 2,
         backgroundColor: "#5589c9",
         pointRadius: 0
       }

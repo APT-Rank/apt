@@ -228,6 +228,39 @@
   }
   */
 
+  #rankSimul{
+    justify-items: center;    
+    text-align: center;
+    line-height: 2.5em;
+    color: #fff;
+    font-size: 1em;
+    font-weight: 600;
+    background-color: #ff3d38;
+    height: 2.5em;
+    width: 100%;
+    margin-top: 10px;
+    border-radius: 5px;
+    box-shadow: rgba(0, 0, 0, 0.16) 0px 3px 6px, rgba(0, 0, 0, 0.23) 0px 3px 6px;
+  }
+
+  #rankSimul:active{
+    background-color: #d4342e;
+  }
+
+  .optionSelect{
+    height: 2.3em;
+    text-align: center;    
+    font-weight: 600;    
+    width: 100%;    
+    border: 0;
+    border-radius: 1em;
+    background-color: #ddd;    
+  }
+  .optionSelect:focus{
+    outline: 0;
+    background: #bbb
+  }
+
   .listBox:active{
     background-color: #ffdfde;
   }
@@ -367,7 +400,11 @@
     margin-right: 2px;
     border: none;
     background-color: white;
-  }  
+  }
+  #sido:focus, #gungu:focus, #month:focus, #theme:focus{
+    outline: 0;
+  }
+
   #sido_selection{
     text-align: left;
     padding-left: 10px;
