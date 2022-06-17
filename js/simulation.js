@@ -7,38 +7,36 @@ simul_edu_score = []
 function openLoading() {
   console.log("LOADING!!!")
   //화면 높이와 너비를 구합니다.
-  let maskHeight = $(document).height();
+  let maskHeight = window.document.body.clientHeight;
   let maskWidth = window.document.body.clientWidth;
   //출력할 마스크를 설정해준다.
   let mask ="<div id='loadingMask' style='position:absolute; z-index:2500; background-color:#000000; left:0; top:0;'></div>";
   // 로딩 이미지 주소 및 옵션
   let loadingImg ='';
-  loadingImg += "<div id='loadingImg' style='position:absolute; top: calc(50% - (200px / 2)); width:100%; z-index:3000; text-align:center; color: white; font-weight: 600'>";
-  //loadingImg += " <img src='https://loadingapng.com/animation.php?image=4&fore_color=000000&back_color=FFFFFF&size=128x128&transparency=1&image_type=0&uncacher=75.5975991029623' style='position: relative; display: block; margin: 0px auto;'/>";
-  loadingImg += "열심히 분석 중입니다"
+  loadingImg += "<div id='loadingContainer' style='position:absolute; top: 350px; width:100%; z-index:3000; display: block; margin: 0px auto'>"
+  loadingImg += "<div id='loadingImg' style='text-align: center' ><img src='https://aptrank.kr/loading_block.gif' width=25% height=25%/></div>";
+  loadingImg += "<div id='loadingTxt' style='text-align: center; color: white; font-size: 1.2em; font-weight: 600'>열심히 분석 중이예요!</div>"  
   loadingImg += "</div>"; 
   //레이어 추가
   $('body')
       .append(mask)
-      .append(loadingImg)
+      .append(loadingImg)      
   //마스크의 높이와 너비로 전체 화면을 채운다.
   $('#loadingMask').css({
           'width' : maskWidth,
           'height': maskHeight,
-          'opacity' :'0.5'
+          'opacity' :'0.7'
   });
   //마스크 표시
   $('#loadingMask').show();  
   //로딩 이미지 표시
-  $('#loadingImg').show();
-
-//  setTimeout(closeLoading, 3000);
+  $('#loadingContainer').show();
 }
 
 // 로딩창 끄는 함수
 function closeLoading() {
-  $('#loadingMask, #loadingImg').hide();
-  $('#loadingMask, #loadingImg').empty(); 
+  $('#loadingMask, #loadingContainer').hide();
+  $('#loadingMask, #loadingContainer').empty(); 
 }
 
 function openSimulation(arr, index){
@@ -96,15 +94,16 @@ function openSimulation(arr, index){
 
   //타이틀
   //titleHtml += "<div class='popupTitle'>" + aptName + " " + apt_p + "(" + apt_m + ")</div>";
-  titleHtml += "<div class='popupTitle' style='color: #fff; font-size: 0.6em; text-align: center; border-radius: 10px; background: #ff3d38; margin-bottom: 3px'>랭크 시뮬레이션</div>";
+  //titleHtml += "<div class='popupTitle' style='color: #fff; font-size: 0.6em; text-align: center; border-radius: 10px; background: #ff3d38; margin-bottom: 3px'>랭크 시뮬레이션</div>";
+  titleHtml += "<div class='popupTitle' style='color: #ff3d38; font-size: 0.6em; text-align: center; border-bottom: 1px solid #ff3d38; border-top: 1px solid #ff3d38;margin-bottom: 3px'>랭크 시뮬레이션</div>";
   //titleHtml += "<div class='popupSubtitle' style='font-size: 0.5em; font-weight:600; color:#ff3d38; text-align: center; margin-bottom: 5px'>시뮬레이션은 기존 결과와 다소 상이할 수 있습니다.</div>";
-  titleHtml += "<div class='popupTitle'>" + aptName + "</div>";  
+  titleHtml += "<div class='popupTitle' style='text-align: center'>" + aptName + "</div>";  
 
   if(apt_type == "분양권"){
-    titleHtml += "<div class='popupSubtitle'>" + arr[index]["법정동주소"] + "</div>";
+    titleHtml += "<div class='popupSubtitle' style='font-size: 0.6em; text-align: center'>" + arr[index]["법정동주소"] + "</div>";
   }
   else{    
-    titleHtml += "<div class='popupSubtitle' style='font-size: 0.6em'>" + arr[index]["법정동주소"] + "</div>";
+    titleHtml += "<div class='popupSubtitle' style='font-size: 0.6em; text-align: center'>" + arr[index]["법정동주소"] + "</div>";
   }
   
 
@@ -1325,14 +1324,14 @@ function showSimulResult(resultValue, arr, length){
 
   //타이틀
   //titleHtml += "<div class='popupTitle'>" + aptName + " " + apt_p + "(" + apt_m + ")</div>";
-  titleHtml += "<div class='popupTitle' style='color: #fff; font-size: 0.6em; text-align: center; border-radius: 10px; background: #ff3d38; margin-bottom: 3px'>랭크 시뮬레이션 결과</div>";  
-  titleHtml += "<div class='popupTitle'>" + arr["아파트명"] + "</div>";
-  titleHtml += "<div class='popupSubtitle' style='font-size: 0.6em'>" + arr["법정동주소"] + "</div>";
+  titleHtml += "<div class='popupTitle' style='color: #ff3d38; font-size: 0.6em; text-align: center; border-bottom: 1px solid #ff3d38; border-top: 1px solid #ff3d38;margin-bottom: 3px'>랭크 시뮬레이션 결과</div>";
+  titleHtml += "<div class='popupTitle' style='text-align: center'>" + arr["아파트명"] + "</div>";
+  titleHtml += "<div class='popupSubtitle' style='font-size: 0.6em; text-align: center'>" + arr["법정동주소"] + "</div>";
 
   //종합
   detailHtml += "<div class='card'>";
   detailHtml += "<div class='card-header'>";  
-  detailHtml += "<div class='popTitle'><i class='fas fa-trophy'></i>&nbsp&nbsp종합 " + resultValue[0][1] + "/" + length + "위 (예상)</div></div>"
+  detailHtml += "<div class='popTitle'><i class='fas fa-trophy'></i>&nbsp&nbsp종합 " + resultValue[0][1] + "위 예상 <span style='font-size:0.7em'>(전체 " + length + "개 단지 중)</span></div></div>"
   detailHtml += "<div class='card-body'>";
   detailHtml += "<div class='graph' style='height: 120px'> <canvas id='simulBalancedChart'></canvas></div>"
   detailHtml += "</div></div>";
@@ -1340,7 +1339,7 @@ function showSimulResult(resultValue, arr, length){
   //주거
   detailHtml += "<div class='card'>";
   detailHtml += "<div class='card-header'>";
-  detailHtml += "<div class='popTitle'><i class='fas fa-home'></i>&nbsp&nbsp주거 " + resultValue[1][1] + "/" + length + "위 (예상)</div>"
+  detailHtml += "<div class='popTitle'><i class='fas fa-home'></i>&nbsp&nbsp주거 " + resultValue[1][1] + "위 예상 <span style='font-size:0.7em'>(전체 " + length + "개 단지 중)</span></div>"
   detailHtml += "</div>";
   detailHtml += "<div class='card-body'>";
   detailHtml += "<div id='popLiving'>"  
@@ -1359,7 +1358,7 @@ function showSimulResult(resultValue, arr, length){
     //교통
     detailHtml += "<div class='card'>";
     detailHtml += "<div class='card-header'>";
-    detailHtml += "<div class='popTitle'><i class='fas fa-bus'></i>&nbsp&nbsp교통 " + resultValue[2][1] + "/" + length + "위 (예상)</div>"
+    detailHtml += "<div class='popTitle'><i class='fas fa-bus'></i>&nbsp&nbsp교통 " + resultValue[2][1] + "위 예상 <span style='font-size:0.7em'>(전체 " + length + "개 단지 중)</span></div>"
     detailHtml += "</div>";
     detailHtml += "<div class='card-body'>";
     detailHtml += "<div id='popTransport'>"    
@@ -1375,7 +1374,7 @@ function showSimulResult(resultValue, arr, length){
   //인프라
   detailHtml += "<div class='card'>";
   detailHtml += "<div class='card-header'>";
-  detailHtml += "<div class='popTitle'><i class='fas fa-hospital-user'></i>&nbsp&nbsp인프라 " + resultValue[3][1] + "/" + length + "위 (예상)</div>"  
+  detailHtml += "<div class='popTitle'><i class='fas fa-hospital-user'></i>&nbsp&nbsp인프라 " + resultValue[3][1] + "위 예상 <span style='font-size:0.7em'>(전체 " + length + "개 단지 중)</span></div>"
   detailHtml += "</div>";
   detailHtml += "<div class='card-body'>";
   detailHtml += "<div id='popInfra'>"  
@@ -1397,7 +1396,7 @@ function showSimulResult(resultValue, arr, length){
   //교육
   detailHtml += "<div class='card'>";
   detailHtml += "<div class='card-header'>";
-  detailHtml += "<div class='popTitle'><i class='fas fa-graduation-cap'></i>&nbsp&nbsp교육 " + resultValue[4][1] + "/" + length + "위 (예상)</div>"  
+  detailHtml += "<div class='popTitle'><i class='fas fa-graduation-cap'></i>&nbsp&nbsp교육 " + resultValue[4][1] + "위 예상 <span style='font-size:0.7em'>(전체 " + length + "개 단지 중)</span></div>"
   detailHtml += "</div>";
   detailHtml += "<div class='card-body'>";
   detailHtml += "<div id='popEducation'>"  
