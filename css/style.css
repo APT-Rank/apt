@@ -231,12 +231,12 @@
   #rankSimul{
     justify-items: center;    
     text-align: center;
-    line-height: 2.5em;
+    line-height: 2em;
     color: #fff;
-    font-size: 1em;
+    font-size: 0.8em;
     font-weight: 600;
     background-color: #ff3d38;
-    height: 2.5em;
+    height: 2em;
     width: 100%;
     margin-top: 10px;
     border-radius: 5px;

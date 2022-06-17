@@ -58,8 +58,8 @@ function openSimulation(arr, index){
 
   //타이틀
   //titleHtml += "<div class='popupTitle'>" + aptName + " " + apt_p + "(" + apt_m + ")</div>";
-  titleHtml += "<div class='popupTitle' style='color: #fff; font-size: 0.8em; text-align: center; border-radius: 10px; background: #ff3d38; margin-bottom: 5px'>랭크 시뮬레이션</div>";
-  titleHtml += "<div class='popupSubtitle' style='font-size: 0.6em; font-weight:600; color:#ff3d38; text-align: center; margin-bottom: 5px'>랭크 시뮬레이션은 범위로 계산하며, 기존 결과와 다소 상이할 수 있습니다.</div>";
+  titleHtml += "<div class='popupTitle' style='color: #fff; font-size: 0.6em; text-align: center; border-radius: 10px; background: #ff3d38; margin-bottom: 3px'>랭크 시뮬레이션</div>";
+  titleHtml += "<div class='popupSubtitle' style='font-size: 0.5em; font-weight:600; color:#ff3d38; text-align: center; margin-bottom: 5px'>시뮬레이션은 기존 결과와 다소 상이할 수 있습니다.</div>";
   titleHtml += "<div class='popupTitle'>" + aptName + "</div>";  
 
   if(apt_type == "분양권"){
@@ -80,7 +80,7 @@ function openSimulation(arr, index){
   detailHtml += "<div class='popTable'>"
 
   //조망 프리미엄 선택
-  detailHtml += "<div class='popSubTable'><div class='popContent'>" + "조망 프리미엄(한강, 해운대 등)" + "</div>" + "<div class='popResult'><select class='optionSelect' id='viewOption' onChange='putVal(this)'>"
+  detailHtml += "<div class='popSubTable'><div class='popContent'>" + "조망 프리미엄" + "</div>" + "<div class='popResult'><select class='optionSelect' id='viewOption' onChange='putVal(this)'>"
   for(var i = 0 ; i < premiumOption.length ; i++){
     detailHtml += "<option value=" + i + ">" + premiumOption[i][0] + "</option>"
   }
@@ -97,7 +97,7 @@ function openSimulation(arr, index){
 
   //detailHtml += "<div class='popSubTable'><div class='popContent'>" + "세대수" + "</div>" + "<div class='popResult'>" + house_num.toLocaleString() + "세대</div></div>";
   //세대수선택
-  detailHtml += "<div class='popSubTable'><div class='popContent'>" + "세대수" + "</div>" + "<div class='popResult'><select class='optionSelect' id='houseNumOption' onChange='putVal(this)'>"
+  detailHtml += "<div class='popSubTable'><div class='popContent'>" + "세대수" + "</div>" + "<div class='popResult'><select class='optionSelect' id='houseNumOption' style='font-size: 0.8em' onChange='putVal(this)'>"
   for(var i = 0 ; i < houseOption.length ; i++){
     detailHtml += "<option value=" + i + ">" + houseOption[i][0] + "</option>"
   }
@@ -1282,7 +1282,7 @@ function showSimulResult(resultValue, arr, length){
 
   //타이틀
   //titleHtml += "<div class='popupTitle'>" + aptName + " " + apt_p + "(" + apt_m + ")</div>";
-  titleHtml += "<div class='popupTitle' style='color: #fff; font-size: 0.8em; text-align: center; border-radius: 10px; background: #ff3d38; margin-bottom: 5px'>랭크 시뮬레이션 결과</div>";  
+  titleHtml += "<div class='popupTitle' style='color: #fff; font-size: 0.6em; text-align: center; border-radius: 10px; background: #ff3d38; margin-bottom: 3px'>랭크 시뮬레이션 결과</div>";  
   titleHtml += "<div class='popupTitle'>" + arr["아파트명"] + "</div>";
   titleHtml += "<div class='popupSubtitle' style='font-size: 0.6em'>" + arr["법정동주소"] + "</div>";
 
@@ -1303,7 +1303,7 @@ function showSimulResult(resultValue, arr, length){
   detailHtml += "<div id='popLiving'>"  
   detailHtml += "<div class='popTable'>"
   detailHtml += "<div class='graph' style='height: 120px'> <canvas id='simulLivingChart'></canvas></div>"
-  detailHtml += "<div class='popSubTable'><div class='popContent'>" + "조망 프리미엄(한강, 해운대 등)" + "</div>" + "<div class='popResult'>" + simul_living_score[0][0] + "</div></div>";
+  detailHtml += "<div class='popSubTable'><div class='popContent'>" + "조망 프리미엄" + "</div>" + "<div class='popResult'>" + simul_living_score[0][0] + "</div></div>";
   detailHtml += "<div class='popSubTable'><div class='popContent'>" + "연차" + "</div>" + "<div class='popResult'>" + simul_living_score[1][0] + "</div></div>";
   detailHtml += "<div class='popSubTable'><div class='popContent'>" + "세대수" + "</div>" + "<div class='popResult'>" + simul_living_score[2][0] + "</div></div>";
   detailHtml += "<div class='popSubTable'><div class='popContent'>" + "세대당 주차수" + "</div>" + "<div class='popResult'>" + simul_living_score[3][0] + "</div></div>";
