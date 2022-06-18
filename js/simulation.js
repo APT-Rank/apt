@@ -40,7 +40,7 @@ function closeLoading() {
 }
 
 function openSimulation(arr, index){
-  $('#exampleModal').modal("hide");  
+  //$('#exampleModal').modal("hide");  
 
   titleHtml = "";
   detailHtml = "";
@@ -90,7 +90,7 @@ function openSimulation(arr, index){
   var last_sales = arr[index]["last_sales"].split(",")
   var last_sales_date = last_sales[0].toString()
   var last_sales_price = last_sales[1].toString()
-  var last_sales_area = last_sales[2]
+  var last_sales_area = last_sales[2]  
 
   //타이틀
   //titleHtml += "<div class='popupTitle'>" + aptName + " " + apt_p + "(" + apt_m + ")</div>";
@@ -477,7 +477,7 @@ function openSimulation(arr, index){
   arrrr = arr[index]
 
   //Footer에 네이버 부동산 버튼
-  footerHtml += "<div class='modal-footer'>"
+  footerHtml += "<div class='toggle1-footer'>"
   footerHtml += "<div></div>"
   footerHtml += "<div><button type='button' class='goApt' onclick='calValue(arrrr," + arr.length + ")'>결과 보기</button></div>"
   footerHtml += "<div></div>"
@@ -487,7 +487,7 @@ function openSimulation(arr, index){
   $('#simulDetail').html(detailHtml);
   $('#toggle1footer').html(footerHtml);
 
-  $('.modal-footer').css({"grid-template-columns" : "0.2fr 1fr 0.2fr", "text-align":"center"})
+  $('.toggle1-footer').css({"grid-template-columns" : "0.2fr 1fr 0.2fr", "text-align":"center"})
 
   simul_living_score = []
   simul_trans_score = []
@@ -690,7 +690,7 @@ function transSelections(stationArea, stationPoint_30m, stationPoint_1h){
   //console.log(cloestStationOption[station_value][0], " : ", cloestStationOption[station_value][1])
 
   stationPoint_30m_value = 0
-  if(stationPoint_30m > station_30m_Option.length){
+  if(stationPoint_30m >= station_30m_Option.length){
     stationPoint_30m_value = station_30m_Option.length
   }
   else{
@@ -701,7 +701,7 @@ function transSelections(stationArea, stationPoint_30m, stationPoint_1h){
   //console.log(station_30m_Option[stationPoint_30m_value][0], " : ", station_30m_Option[stationPoint_30m_value][1])
 
   stationPoint_1h_value = 0
-  if(stationPoint_1h > station_1h_Option.length){
+  if(stationPoint_1h >= station_1h_Option.length){
     stationPoint_1h_value = station_1h_Option.length
   }
   else{
@@ -716,7 +716,7 @@ function transSelections(stationArea, stationPoint_30m, stationPoint_1h){
 }
 function infraSelections(department, outlet, bigMart, market, bank, hospital, bigHospital, park, bigPark, harmful){
   department_value = 0
-  if(department > department_option.length){
+  if(department >= department_option.length){
     department_value = department_option.length
   }
   else{
@@ -727,7 +727,7 @@ function infraSelections(department, outlet, bigMart, market, bank, hospital, bi
   //console.log(department_option[department_value][0], " : ", department_option[department_value][1])
 
   outlet_value = 0
-  if(outlet > outlet_option.length){
+  if(outlet >= outlet_option.length){
     outlet_value = outlet_option.length
   }
   else{
@@ -738,7 +738,7 @@ function infraSelections(department, outlet, bigMart, market, bank, hospital, bi
   //console.log(outlet_option[outlet_value][0], " : ", outlet_option[outlet_value][1])
 
   bigMart_value = 0
-  if(bigMart > bigMart_option.length){
+  if(bigMart >= bigMart_option.length){
     bigMart_value = bigMart_option.length
   }
   else{
@@ -779,7 +779,7 @@ function infraSelections(department, outlet, bigMart, market, bank, hospital, bi
   //console.log(market_option[market_value][0], " : ", market_option[market_value][1])
 
   bank_value = 0
-  if(bank > bank_option.length){
+  if(bank >= bank_option.length){
     bank_value = bank_option.length
   }
   else{
@@ -828,8 +828,8 @@ function infraSelections(department, outlet, bigMart, market, bank, hospital, bi
   //console.log(hospital_option[hospital_value][0], " : ", hospital_option[hospital_value][1])
 
   bigHospital_value = 0
-  if(bigHospital > bigHospital_option.length){
-    bigHospital_value = bigHospital_option.length
+  if(bigHospital >= bigHospital_option.length){
+    bigHospital_value = bigHospital_option.length-1
   }
   else{
     bigHospital_value = bigHospital
@@ -839,18 +839,21 @@ function infraSelections(department, outlet, bigMart, market, bank, hospital, bi
   //console.log(bigHospital_option[bigHospital_value][0], " : ", bigHospital_option[bigHospital_value][1])
 
   park_value = 0
-  if(park > park_option.length){
-    park_value = park_option.length
+  if(park >= park_option.length){
+    park_value = park_option.length-1
   }
   else{
     park_value = park
   }
+
+  console.log(park_value)
+
   $('#parkOption').val(park_value).prop('selected', true)
   simul_infra_score.push([park_option[park_value][0], park_option[park_value][1]])
   //console.log(park_option[park_value][0], " : ", park_option[park_value][1])
 
   bigPark_value = 0
-  if(bigPark > bigPark_option.length){
+  if(bigPark >= bigPark_option.length){
     bigPark_value = bigPark_option.length
   }
   else{
@@ -861,7 +864,7 @@ function infraSelections(department, outlet, bigMart, market, bank, hospital, bi
   //console.log(bigPark_option[bigPark_value][0], " : ", bigPark_option[bigPark_value][1])
 
   harmful_value = 0
-  if(harmful > harmful_option.length){
+  if(harmful >= harmful_option.length){
     harmful_value = harmful_option.length
   }
   else{

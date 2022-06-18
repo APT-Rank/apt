@@ -927,15 +927,20 @@
         detailHtml += "</div></div>"
       }
 
-    detailHtml += "<div class='card-body'>";    
+    detailHtml += "<div class='card-body' style='padding-top: 2px'>";
+    if(Number(selectedMonth) > 202205){
+      detailHtml += "<div id='rankSimul' style='margin-bottom: 10px' onclick='openSimulation(aptData.data," + index + ")'>랭크 시뮬레이션 <span style='font-size: 0.8em; outline: 1px solid white; border-radius: 10px; padding: 0px 7px 0px 7px'> BETA </span></div>"
+    }
     detailHtml += "<div class='graph' style='height: 200px'> <canvas id='valueChart'></canvas></div>"
     detailHtml += "<div class='comment'>(지역구의 모든 단지에 대해 100점으로 환산한 상대 점수 입니다.)</div>";
     if(Number(selectedMonth) > 202203){
       detailHtml += "<hr style='margin-bottom: 0'><div class='rankGraphTitle'>- 균형잡힌 가중치 순위 변동 -</div><div class='graph' style='height: 120px;'> <canvas id='rankChart'></canvas></div>"
     }
+    /*
     if(Number(selectedMonth) > 202205){
-      detailHtml += "<div id='rankSimul' onclick='openSimulation(aptData.data," + index + ")'>랭크 시뮬레이션</div>"
+      detailHtml += "<div id='rankSimul' onclick='openSimulation(aptData.data," + index + ")'>랭크 시뮬레이션 <span style='font-size: 0.8em; outline: 1px solid white; border-radius: 10px; padding: 0px 7px 0px 7px'> BETA </span></div>"
     }
+    */
     detailHtml += "</div></div>"
 
     //주거
