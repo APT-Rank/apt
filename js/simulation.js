@@ -14,7 +14,7 @@ function openLoading() {
   // 로딩 이미지 주소 및 옵션
   let loadingImg ='';
   loadingImg += "<div id='loadingContainer' style='position:absolute; top: 200px; width:100%; z-index:3000; display: block; margin: 0px auto'>"
-  loadingImg += "<div id='loadingImg' style='text-align: center' ><img src='https://aptrank.kr/loading_block.gif' width=20% height=20%/></div>";
+  loadingImg += "<div id='loadingImg' style='text-align: center' ><img src='https://aptrank.kr/loading_block.gif' width=200px height=200px/></div>";
   loadingImg += "<div id='loadingTxt' style='text-align: center; color: white; font-size: 1.2em; font-weight: 600'>열심히 분석 중이예요!</div>"  
   loadingImg += "</div>"; 
   //레이어 추가
