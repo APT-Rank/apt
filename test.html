@@ -441,7 +441,7 @@
       }
     })
 
-    if($.cookie('popCookie') != "202206"){
+    if($.cookie('popCookie') != "20220618"){
       startNotice = true
       showNotice()
       //초기 진입 시 공지 팝업 표시하는 경우, 변수 startNotice에 true 할당      
@@ -670,6 +670,7 @@
           var apt_type = aptData.data[i]["매매타입"]
 
           var aptAddress = aptData.data[i]["도로명주소"]
+          var aptAddress2 = aptData.data[i]["법정동주소"]
           var aptValue = Math.round( aptData.data[i]["가치 총점"] * 100 ) / 100
           var house_num = aptData.data[i]["세대수"]
           var rank = aptData.data[i]["rank"].toFixed()
@@ -744,7 +745,7 @@
             addon_html += "<div class='apt_address'>" + aptData.data[i]["법정동주소"] + "</div>";
           }
           else{
-            addon_html += "<div class='apt_address'>" + aptAddress + "</div>";
+            addon_html += "<div class='apt_address'>" + aptAddress2 + "</div>";
           }
           addon_html += "</div>";
           addon_html += "<div class='value_score'>" + ( Math.round( aptValue * 100 ) / 100 ).toFixed(2) + "점</div>"
@@ -1744,6 +1745,15 @@
       detailHtml += "<hr>";
     }
     if(selectedMonth == "202206"){
+      detailHtml += "<div class='popupTitle' style='text-align: center; padding-bottom: 1em'> 2022년 6월 2차 업데이트 안내 (2022-06-18)</div>";
+      detailHtml += "<ul>"
+      detailHtml += "<li><div class='notice'> 내가 원하는 정보를 입력하여 랭크와 점수를 확인하는 <br><span style='font-weight: 600; color: #ff3d38;'>[랭크 시뮬레이션 (BETA)]</span> 기능을 추가했습니다.</div></li>"
+      detailHtml += "<li><div class='notice'> <span style='font-weight: 600; color: #ff3d38;'>[랭크 시뮬레이션 (BETA)]</span>는 아파트 단지 선택 후, 종합 순위 하단의 버튼을 눌러 사용할 수 있습니다.</div></li>";
+      detailHtml += "<li><div><img scr='https://www.aptrank.kr/rank_silumation_202206.jpa' width='100%' height='300'/></div></li>";
+      detailHtml += "<li><div class='notice'> 단지별 기본 표시 주소를 도로명주소에서 법정동주소로 변경했습니다.</div></li>";
+      detailHtml += "</ul>";
+      detailHtml += "<hr>";
+
       detailHtml += "<div class='popupTitle' style='text-align: center; padding-bottom: 1em'> 2022년 6월 업데이트 안내 (2022-06-04)</div>";
       detailHtml += "<ul>"
       detailHtml += "<li><div class='notice'> 지역 변경 시 가중치를 설정하는 팝업을 표시하도록 했습니다. (표시하지 않기 선택 가능)</div></li>";
@@ -1791,7 +1801,7 @@
     $('#footerBtn3').css({"grid-column" : "span 2"})
     $('.modal-footer').css({"padding-top" : "3px"})
 
-    if($.cookie('popCookie') != '202206'){
+    if($.cookie('popCookie') != '20220618'){
       $('#flexCheckDefault').prop("checked", false)
     }
     else{
@@ -1801,7 +1811,7 @@
     $('#flexCheckDefault').change(function(){
       if($(this).is(':checked')){
         console.log("CHECKED!!")
-        $.cookie('popCookie', '202206', { expires: 7, path: '/' });
+        $.cookie('popCookie', '20220618', { expires: 7, path: '/' });
         console.log($.cookie('popCookie'))
       }
       else{
