@@ -40,7 +40,7 @@ function closeLoading() {
 }
 
 function openSimulation(arr, index){
-  //$('#exampleModal').modal("hide");  
+  $('#exampleModal').modal("hide");  
 
   titleHtml = "";
   detailHtml = "";
@@ -511,11 +511,11 @@ function openSimulation(arr, index){
 
 function livingSelections(premium1, premium2, aptDuration, house_num, parking, heating, entrance){
   premium_value = 0
-  if(premium1 > 0 || premium2 <= 0){
-    premium_value = 1
+  if(premium1 > 0 || premium2 > 0){
+    premium_value = 0
   }
   else{
-    premium_value = 0
+    premium_value = 1
   }
   $('#viewOption').val(premium_value).prop('selected', true)
   simul_living_score.push([premiumOption[premium_value][0], premiumOption[premium_value][1]])

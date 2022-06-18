@@ -613,7 +613,17 @@
     display: grid;
     width: 100%;
     grid-template-columns: 1fr 1fr ;
-    place-content: center
+    place-content: center;    
+  }
+  .toggle1-footer{
+    display: grid;
+    width: 100%;
+    grid-template-columns: 0.2fr 1fr 0.2fr;
+    place-content: center;
+    padding: 0.75rem;
+    border-top: 1px solid #dee2e6;
+    border-bottom-right-radius: calc(0.3rem - 1px);
+    border-bottom-left-radius: calc(0.3rem - 1px);
   }
   .form-check{    
     text-align: center;
