@@ -5,7 +5,7 @@ simul_edu_score = []
 
 // 로딩창 키는 함수
 function openLoading() {
-  console.log("LOADING!!!")
+  //console.log("LOADING!!!")
   //화면 높이와 너비를 구합니다.
   let maskHeight = window.document.body.clientHeight;
   let maskWidth = window.document.body.clientWidth;
@@ -844,9 +844,7 @@ function infraSelections(department, outlet, bigMart, market, bank, hospital, bi
   }
   else{
     park_value = park
-  }
-
-  console.log(park_value)
+  }  
 
   $('#parkOption').val(park_value).prop('selected', true)
   simul_infra_score.push([park_option[park_value][0], park_option[park_value][1]])
@@ -1110,10 +1108,10 @@ function putVal(e){
 
 function calValue(arr, length){
   openLoading() 
-  console.log(arr)
+  //console.log(arr)
   address = arr["법정동주소"].split(" ")
-  console.log("주소: ", arr["법정동주소"])
-  console.log("시도: ", address[0])  
+  //console.log("주소: ", arr["법정동주소"])
+  //console.log("시도: ", address[0])  
   //console.log("주거 :", simul_living_score)
   //console.log("교통 :", simul_trans_score)
   //console.log("인프라 :", simul_infra_score)
