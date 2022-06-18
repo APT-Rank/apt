@@ -72,6 +72,7 @@ function showSearchBar(){
             var apt_p = sortData.data[i]["전용면적(평)"]
             var apt_type = sortData.data[i]["매매타입"]
             var aptAddress = sortData.data[i]["도로명주소"]
+            var aptAddress2 = sortData.data[i]["법정동주소"]
             var aptValue = Math.round( sortData.data[i]["가치 총점"] * 100 ) / 100
             var house_num = sortData.data[i]["세대수"]
             var rank = sortData.data[i]["rank"].toFixed()
@@ -204,7 +205,7 @@ function showSearchBar(){
                 addon_html += "<div class='apt_address'>" + sortData.data[i]["법정동주소"] + "</div>";
               }
               else{
-                addon_html += "<div class='apt_address'>" + aptAddress + "</div>";
+                addon_html += "<div class='apt_address'>" + aptAddress2 + "</div>";
               }
 
               addon_html += "</div>";
