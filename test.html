@@ -421,7 +421,8 @@
       }
 
       var hash = this.id;
-      history.replaceState('', document.title, window.location.pathname);
+      //history.replaceState('', document.title, window.location.pathname);
+      history.pushState('', document.title, window.location.pathname);
 
       if(startNotice == true){
         if(alwaysSortingPop != "off"){
