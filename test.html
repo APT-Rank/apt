@@ -402,11 +402,15 @@
 
     $('div.modal').on('show.bs.modal', function() {
       var modal = this;
+      //console.log(modal)
       var hash = modal.id;
       window.location.hash = hash;
       window.onhashchange = function() {
         if (!location.hash){
-          $(modal).modal('hide');
+          $(hash).modal('hide');
+        }
+        else{
+          history.pushState('', document.title, window.location.pathname)
         }
       }
     });
@@ -421,8 +425,8 @@
       }
 
       var hash = this.id;
-      //history.replaceState('', document.title, window.location.pathname);
-      history.pushState('', document.title, window.location.pathname);
+      history.replaceState('', document.title, window.location.pathname);
+      //history.pushState('', document.title, window.location.pathname);
 
       if(startNotice == true){
         if(alwaysSortingPop != "off"){
