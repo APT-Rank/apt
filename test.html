@@ -400,34 +400,36 @@
 
     initSorting()
 
+    var modal_history = []
+
     $('div.modal').on('show.bs.modal', function() {
       var modal = this;
-      //console.log(modal)
       var hash = modal.id;
+
+      if(modal_history[modal_history.length-1] != hash){
+        modal_history.push(hash)
+      }
+            
       window.location.hash = hash;
       window.onhashchange = function() {
         if (!location.hash){
-          $(hash).modal('hide');
-        }
-        else{
-          history.pushState('', document.title, window.location.pathname)
-        }
+          $(modal).modal('hide');
+        }        
       }
     });
 
-    $('div.modal').on('hidden.bs.modal', function() {
-      //var hash = this.id;
-      //history.replaceState('', document.title, window.location.pathname);
-      
+    $('div.modal').on('hidden.bs.modal', function() {      
       //처음 진입 시 공지 팝업이 표시되면, 닫은 후 가중치 팝업 표시
       if(noticePop == true){     
         noticePop = false
       }
 
-      var hash = this.id;
+      modal_history.pop()
+      //console.log("Hide: " , modal_history[modal_history.length-1])
+      window.location.hash = modal_history[modal_history.length-1]
+      //console.log("Hide Hash: ", window.location.hash)      
       history.replaceState('', document.title, window.location.pathname);
-      //history.pushState('', document.title, window.location.pathname);
-
+      
       if(startNotice == true){
         if(alwaysSortingPop != "off"){
           if(selectedRegion != 'Korea'){
