@@ -107,7 +107,7 @@
         {
             "index":4,
             "sort":"balanced",
-            "name":"한빛7단지휴먼시아",
+            "name":"한빛마을7단지한신휴플러스",
             "search_code":132882,
             "apt_type":"아파트",
             "apt_year":11,
@@ -276,7 +276,7 @@
         {
             "index":17,
             "sort":"living",
-            "name":"한빛7단지휴먼시아",
+            "name":"한빛마을7단지한신휴플러스",
             "search_code":132882,
             "apt_type":"아파트",
             "apt_year":11,
@@ -380,7 +380,7 @@
         {
             "index":25,
             "sort":"transport",
-            "name":"한빛7단지휴먼시아",
+            "name":"한빛마을7단지한신휴플러스",
             "search_code":132882,
             "apt_type":"아파트",
             "apt_year":11,
@@ -679,7 +679,7 @@
         {
             "index":48,
             "sort":"education",
-            "name":"한빛7단지휴먼시아",
+            "name":"한빛마을7단지한신휴플러스",
             "search_code":132882,
             "apt_type":"아파트",
             "apt_year":11,

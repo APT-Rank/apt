@@ -679,8 +679,8 @@
         {
             "index":48,
             "sort":"education",
-            "name":"동양엔파트4단지",
-            "search_code":27819,
+            "name":"인천청라한일베라체",
+            "search_code":27784,
             "apt_type":"아파트",
             "apt_year":11,
             "value_score":60.4685,
@@ -692,8 +692,8 @@
         {
             "index":49,
             "sort":"education",
-            "name":"인천청라한일베라체",
-            "search_code":27784,
+            "name":"동양엔파트4단지",
+            "search_code":27819,
             "apt_type":"아파트",
             "apt_year":11,
             "value_score":60.4685,

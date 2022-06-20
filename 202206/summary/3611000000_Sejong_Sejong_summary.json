@@ -146,7 +146,7 @@
         {
             "index":7,
             "sort":"balanced",
-            "name":"더하이스트(가온마을12단지)",
+            "name":"가온12단지더하이스트",
             "search_code":112528,
             "apt_type":"아파트",
             "apt_year":4.0,
@@ -276,7 +276,7 @@
         {
             "index":17,
             "sort":"living",
-            "name":"더하이스트(가온마을12단지)",
+            "name":"가온12단지더하이스트",
             "search_code":112528,
             "apt_type":"아파트",
             "apt_year":4.0,

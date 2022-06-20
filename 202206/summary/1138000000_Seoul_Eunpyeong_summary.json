@@ -81,7 +81,7 @@
         {
             "index":2,
             "sort":"balanced",
-            "name":"은평스카이뷰자이",
+            "name":"은평스카이뷰자이(주상복합)",
             "search_code":114378,
             "apt_type":"아파트",
             "apt_year":3.0,
@@ -263,7 +263,7 @@
         {
             "index":16,
             "sort":"living",
-            "name":"은평스카이뷰자이",
+            "name":"은평스카이뷰자이(주상복합)",
             "search_code":114378,
             "apt_type":"아파트",
             "apt_year":3.0,
@@ -367,7 +367,7 @@
         {
             "index":24,
             "sort":"transport",
-            "name":"은평스카이뷰자이",
+            "name":"은평스카이뷰자이(주상복합)",
             "search_code":114378,
             "apt_type":"아파트",
             "apt_year":3.0,
@@ -471,7 +471,7 @@
         {
             "index":32,
             "sort":"infra",
-            "name":"은평스카이뷰자이",
+            "name":"은평스카이뷰자이(주상복합)",
             "search_code":114378,
             "apt_type":"아파트",
             "apt_year":3.0,
@@ -575,7 +575,7 @@
         {
             "index":40,
             "sort":"education",
-            "name":"은평스카이뷰자이",
+            "name":"은평스카이뷰자이(주상복합)",
             "search_code":114378,
             "apt_type":"아파트",
             "apt_year":3.0,

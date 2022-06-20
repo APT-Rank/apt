@@ -55,7 +55,7 @@
         {
             "index":0,
             "sort":"balanced",
-            "name":"영광숲안애",
+            "name":"영광숲안애(684)",
             "search_code":113087,
             "apt_type":"아파트",
             "apt_year":3.0,
@@ -68,6 +68,19 @@
         {
             "index":1,
             "sort":"balanced",
+            "name":"영광숲안애(624)",
+            "search_code":114087,
+            "apt_type":"아파트",
+            "apt_year":8.0,
+            "value_score":44.25635,
+            "region":"전라남도 영광군",
+            "region_code":"Jeollanamdo",
+            "sub_region_code":"4687000000_Jeollanamdo_Yeonggwang",
+            "shorten_url":"https:\/\/me2.do\/G1ICBXoZ"
+        },
+        {
+            "index":2,
+            "sort":"balanced",
             "name":"영광단주리지엘리베라움",
             "search_code":115436,
             "apt_type":"아파트",
@@ -79,26 +92,13 @@
             "shorten_url":"https:\/\/me2.do\/G1ICBXoZ"
         },
         {
-            "index":2,
+            "index":3,
             "sort":"balanced",
             "name":"모두원웰리스",
             "search_code":112804,
             "apt_type":"아파트",
             "apt_year":9.0,
             "value_score":40.60635,
-            "region":"전라남도 영광군",
-            "region_code":"Jeollanamdo",
-            "sub_region_code":"4687000000_Jeollanamdo_Yeonggwang",
-            "shorten_url":"https:\/\/me2.do\/G1ICBXoZ"
-        },
-        {
-            "index":3,
-            "sort":"balanced",
-            "name":"영광숲안애",
-            "search_code":114087,
-            "apt_type":"아파트",
-            "apt_year":8.0,
-            "value_score":40.4199,
             "region":"전라남도 영광군",
             "region_code":"Jeollanamdo",
             "sub_region_code":"4687000000_Jeollanamdo_Yeonggwang",
@@ -185,7 +185,7 @@
         {
             "index":10,
             "sort":"living",
-            "name":"영광숲안애",
+            "name":"영광숲안애(684)",
             "search_code":113087,
             "apt_type":"아파트",
             "apt_year":3.0,
@@ -198,11 +198,11 @@
         {
             "index":11,
             "sort":"living",
-            "name":"영광단주리지엘리베라움",
-            "search_code":115436,
+            "name":"영광숲안애(624)",
+            "search_code":114087,
             "apt_type":"아파트",
-            "apt_year":4.0,
-            "value_score":43.10275,
+            "apt_year":8.0,
+            "value_score":44.64025,
             "region":"전라남도 영광군",
             "region_code":"Jeollanamdo",
             "sub_region_code":"4687000000_Jeollanamdo_Yeonggwang",
@@ -211,11 +211,11 @@
         {
             "index":12,
             "sort":"living",
-            "name":"영광숲안애",
-            "search_code":114087,
+            "name":"영광단주리지엘리베라움",
+            "search_code":115436,
             "apt_type":"아파트",
-            "apt_year":8.0,
-            "value_score":41.7285,
+            "apt_year":4.0,
+            "value_score":43.10275,
             "region":"전라남도 영광군",
             "region_code":"Jeollanamdo",
             "sub_region_code":"4687000000_Jeollanamdo_Yeonggwang",
@@ -315,7 +315,7 @@
         {
             "index":20,
             "sort":"infra",
-            "name":"영광숲안애",
+            "name":"영광숲안애(684)",
             "search_code":113087,
             "apt_type":"아파트",
             "apt_year":3.0,
@@ -341,6 +341,19 @@
         {
             "index":22,
             "sort":"infra",
+            "name":"영광숲안애(624)",
+            "search_code":114087,
+            "apt_type":"아파트",
+            "apt_year":8.0,
+            "value_score":41.7350526316,
+            "region":"전라남도 영광군",
+            "region_code":"Jeollanamdo",
+            "sub_region_code":"4687000000_Jeollanamdo_Yeonggwang",
+            "shorten_url":"https:\/\/me2.do\/G1ICBXoZ"
+        },
+        {
+            "index":23,
+            "sort":"infra",
             "name":"옥당마을",
             "search_code":106394,
             "apt_type":"아파트",
@@ -352,7 +365,7 @@
             "shorten_url":"https:\/\/me2.do\/G1ICBXoZ"
         },
         {
-            "index":23,
+            "index":24,
             "sort":"infra",
             "name":"장산타워맨션",
             "search_code":4905,
@@ -365,7 +378,7 @@
             "shorten_url":"https:\/\/me2.do\/G1ICBXoZ"
         },
         {
-            "index":24,
+            "index":25,
             "sort":"infra",
             "name":"영광단주리지엘리베라움",
             "search_code":115436,
@@ -378,26 +391,13 @@
             "shorten_url":"https:\/\/me2.do\/G1ICBXoZ"
         },
         {
-            "index":25,
+            "index":26,
             "sort":"infra",
             "name":"영광금호",
             "search_code":108453,
             "apt_type":"아파트",
             "apt_year":24.0,
             "value_score":37.8666315789,
-            "region":"전라남도 영광군",
-            "region_code":"Jeollanamdo",
-            "sub_region_code":"4687000000_Jeollanamdo_Yeonggwang",
-            "shorten_url":"https:\/\/me2.do\/G1ICBXoZ"
-        },
-        {
-            "index":26,
-            "sort":"infra",
-            "name":"영광숲안애",
-            "search_code":114087,
-            "apt_type":"아파트",
-            "apt_year":8.0,
-            "value_score":37.5517894737,
             "region":"전라남도 영광군",
             "region_code":"Jeollanamdo",
             "sub_region_code":"4687000000_Jeollanamdo_Yeonggwang",
@@ -445,7 +445,7 @@
         {
             "index":30,
             "sort":"education",
-            "name":"영광숲안애",
+            "name":"영광숲안애(684)",
             "search_code":113087,
             "apt_type":"아파트",
             "apt_year":3.0,
@@ -458,6 +458,19 @@
         {
             "index":31,
             "sort":"education",
+            "name":"영광숲안애(624)",
+            "search_code":114087,
+            "apt_type":"아파트",
+            "apt_year":8.0,
+            "value_score":43.6805,
+            "region":"전라남도 영광군",
+            "region_code":"Jeollanamdo",
+            "sub_region_code":"4687000000_Jeollanamdo_Yeonggwang",
+            "shorten_url":"https:\/\/me2.do\/G1ICBXoZ"
+        },
+        {
+            "index":32,
+            "sort":"education",
             "name":"영광단주리지엘리베라움",
             "search_code":115436,
             "apt_type":"아파트",
@@ -469,7 +482,7 @@
             "shorten_url":"https:\/\/me2.do\/G1ICBXoZ"
         },
         {
-            "index":32,
+            "index":33,
             "sort":"education",
             "name":"옥당마을",
             "search_code":106394,
@@ -482,7 +495,7 @@
             "shorten_url":"https:\/\/me2.do\/G1ICBXoZ"
         },
         {
-            "index":33,
+            "index":34,
             "sort":"education",
             "name":"모두원웰리스",
             "search_code":112804,
@@ -495,7 +508,7 @@
             "shorten_url":"https:\/\/me2.do\/G1ICBXoZ"
         },
         {
-            "index":34,
+            "index":35,
             "sort":"education",
             "name":"장산타워맨션",
             "search_code":4905,
@@ -508,7 +521,7 @@
             "shorten_url":"https:\/\/me2.do\/G1ICBXoZ"
         },
         {
-            "index":35,
+            "index":36,
             "sort":"education",
             "name":"숲안에",
             "search_code":120071,
@@ -521,7 +534,7 @@
             "shorten_url":"https:\/\/me2.do\/G1ICBXoZ"
         },
         {
-            "index":36,
+            "index":37,
             "sort":"education",
             "name":"영광금호어울림리더스",
             "search_code":129402,
@@ -534,7 +547,7 @@
             "shorten_url":"https:\/\/me2.do\/G1ICBXoZ"
         },
         {
-            "index":37,
+            "index":38,
             "sort":"education",
             "name":"영진파크맨션",
             "search_code":127272,
@@ -547,26 +560,13 @@
             "shorten_url":"https:\/\/me2.do\/G1ICBXoZ"
         },
         {
-            "index":38,
+            "index":39,
             "sort":"education",
             "name":"영광금호",
             "search_code":108453,
             "apt_type":"아파트",
             "apt_year":24.0,
             "value_score":38.9555,
-            "region":"전라남도 영광군",
-            "region_code":"Jeollanamdo",
-            "sub_region_code":"4687000000_Jeollanamdo_Yeonggwang",
-            "shorten_url":"https:\/\/me2.do\/G1ICBXoZ"
-        },
-        {
-            "index":39,
-            "sort":"education",
-            "name":"사직스카이",
-            "search_code":125741,
-            "apt_type":"아파트",
-            "apt_year":25.0,
-            "value_score":38.8305,
             "region":"전라남도 영광군",
             "region_code":"Jeollanamdo",
             "sub_region_code":"4687000000_Jeollanamdo_Yeonggwang",

@@ -159,11 +159,11 @@
         {
             "index":8,
             "sort":"balanced",
-            "name":"주안지웰에스테이트(주상복합)",
-            "search_code":113320,
-            "apt_type":"아파트",
-            "apt_year":3.0,
-            "value_score":52.0834,
+            "name":"주안센트럴파라곤",
+            "search_code":148772,
+            "apt_type":"분양권",
+            "apt_year":-3.0,
+            "value_score":52.7754,
             "region":"인천시 미추홀구",
             "region_code":"Incheon",
             "sub_region_code":"2817700000_Incheon_Michuhol",
@@ -172,11 +172,11 @@
         {
             "index":9,
             "sort":"balanced",
-            "name":"동부",
-            "search_code":2267,
+            "name":"주안지웰에스테이트(주상복합)",
+            "search_code":113320,
             "apt_type":"아파트",
-            "apt_year":31.0,
-            "value_score":51.8438,
+            "apt_year":3.0,
+            "value_score":52.0834,
             "region":"인천시 미추홀구",
             "region_code":"Incheon",
             "sub_region_code":"2817700000_Incheon_Michuhol",
@@ -250,6 +250,19 @@
         {
             "index":15,
             "sort":"living",
+            "name":"주안센트럴파라곤",
+            "search_code":148772,
+            "apt_type":"분양권",
+            "apt_year":-3.0,
+            "value_score":63.1672,
+            "region":"인천시 미추홀구",
+            "region_code":"Incheon",
+            "sub_region_code":"2817700000_Incheon_Michuhol",
+            "shorten_url":"https:\/\/me2.do\/54JidMSC"
+        },
+        {
+            "index":16,
+            "sort":"living",
             "name":"시티오씨엘3단지(주상복합)",
             "search_code":140483,
             "apt_type":"분양권",
@@ -261,7 +274,7 @@
             "shorten_url":"https:\/\/me2.do\/54JidMSC"
         },
         {
-            "index":16,
+            "index":17,
             "sort":"living",
             "name":"시티오씨엘1단지",
             "search_code":142108,
@@ -274,7 +287,7 @@
             "shorten_url":"https:\/\/me2.do\/54JidMSC"
         },
         {
-            "index":17,
+            "index":18,
             "sort":"living",
             "name":"두산위브더제니스센트럴여의",
             "search_code":145047,
@@ -287,26 +300,13 @@
             "shorten_url":"https:\/\/me2.do\/54JidMSC"
         },
         {
-            "index":18,
+            "index":19,
             "sort":"living",
             "name":"주안파크자이더플래티넘",
             "search_code":133039,
             "apt_type":"분양권",
             "apt_year":-1.0,
             "value_score":60.6172,
-            "region":"인천시 미추홀구",
-            "region_code":"Incheon",
-            "sub_region_code":"2817700000_Incheon_Michuhol",
-            "shorten_url":"https:\/\/me2.do\/54JidMSC"
-        },
-        {
-            "index":19,
-            "sort":"living",
-            "name":"LH미추홀퍼스트",
-            "search_code":117911,
-            "apt_type":"아파트",
-            "apt_year":4.0,
-            "value_score":60.2896,
             "region":"인천시 미추홀구",
             "region_code":"Incheon",
             "sub_region_code":"2817700000_Incheon_Michuhol",
@@ -640,6 +640,19 @@
         {
             "index":45,
             "sort":"education",
+            "name":"주안센트럴파라곤",
+            "search_code":148772,
+            "apt_type":"분양권",
+            "apt_year":-3.0,
+            "value_score":52.918,
+            "region":"인천시 미추홀구",
+            "region_code":"Incheon",
+            "sub_region_code":"2817700000_Incheon_Michuhol",
+            "shorten_url":"https:\/\/me2.do\/54JidMSC"
+        },
+        {
+            "index":46,
+            "sort":"education",
             "name":"삼영(1574-2)",
             "search_code":14802,
             "apt_type":"재건축",
@@ -651,7 +664,7 @@
             "shorten_url":"https:\/\/me2.do\/54JidMSC"
         },
         {
-            "index":46,
+            "index":47,
             "sort":"education",
             "name":"주안역미추홀더리브(주상복합)",
             "search_code":133741,
@@ -664,7 +677,7 @@
             "shorten_url":"https:\/\/me2.do\/54JidMSC"
         },
         {
-            "index":47,
+            "index":48,
             "sort":"education",
             "name":"삼환2단지",
             "search_code":2270,
@@ -677,26 +690,13 @@
             "shorten_url":"https:\/\/me2.do\/54JidMSC"
         },
         {
-            "index":48,
+            "index":49,
             "sort":"education",
             "name":"용현자이크레스트",
             "search_code":142022,
             "apt_type":"분양권",
             "apt_year":-1.0,
             "value_score":51.249,
-            "region":"인천시 미추홀구",
-            "region_code":"Incheon",
-            "sub_region_code":"2817700000_Incheon_Michuhol",
-            "shorten_url":"https:\/\/me2.do\/54JidMSC"
-        },
-        {
-            "index":49,
-            "sort":"education",
-            "name":"성지",
-            "search_code":2271,
-            "apt_type":"아파트",
-            "apt_year":31.0,
-            "value_score":50.446,
             "region":"인천시 미추홀구",
             "region_code":"Incheon",
             "sub_region_code":"2817700000_Incheon_Michuhol",

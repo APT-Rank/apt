@@ -172,11 +172,11 @@
         {
             "index":9,
             "sort":"balanced",
-            "name":"정상청솔1차",
-            "search_code":107993,
+            "name":"삼척마달세영리첼",
+            "search_code":114996,
             "apt_type":"아파트",
-            "apt_year":20.0,
-            "value_score":43.7075,
+            "apt_year":5.0,
+            "value_score":42.2567,
             "region":"강원도 삼척시",
             "region_code":"Gangwondo",
             "sub_region_code":"4223000000_Gangwondo_Samcheok",
@@ -367,19 +367,6 @@
         {
             "index":24,
             "sort":"infra",
-            "name":"정상청솔1차",
-            "search_code":107993,
-            "apt_type":"아파트",
-            "apt_year":20.0,
-            "value_score":41.6421052632,
-            "region":"강원도 삼척시",
-            "region_code":"Gangwondo",
-            "sub_region_code":"4223000000_Gangwondo_Samcheok",
-            "shorten_url":"https:\/\/me2.do\/xaCMuCHQ"
-        },
-        {
-            "index":25,
-            "sort":"infra",
             "name":"세연상가(주상복합)",
             "search_code":143453,
             "apt_type":"아파트",
@@ -391,7 +378,7 @@
             "shorten_url":"https:\/\/me2.do\/xaCMuCHQ"
         },
         {
-            "index":26,
+            "index":25,
             "sort":"infra",
             "name":"e편한세상삼척교동",
             "search_code":110667,
@@ -404,7 +391,7 @@
             "shorten_url":"https:\/\/me2.do\/xaCMuCHQ"
         },
         {
-            "index":27,
+            "index":26,
             "sort":"infra",
             "name":"신동아",
             "search_code":14430,
@@ -417,13 +404,26 @@
             "shorten_url":"https:\/\/me2.do\/xaCMuCHQ"
         },
         {
-            "index":28,
+            "index":27,
             "sort":"infra",
             "name":"동화3차(주상복합)",
             "search_code":101651,
             "apt_type":"아파트",
             "apt_year":28.0,
             "value_score":40.4578947368,
+            "region":"강원도 삼척시",
+            "region_code":"Gangwondo",
+            "sub_region_code":"4223000000_Gangwondo_Samcheok",
+            "shorten_url":"https:\/\/me2.do\/xaCMuCHQ"
+        },
+        {
+            "index":28,
+            "sort":"infra",
+            "name":"정상청솔1차",
+            "search_code":107993,
+            "apt_type":"아파트",
+            "apt_year":20.0,
+            "value_score":40.2210526316,
             "region":"강원도 삼척시",
             "region_code":"Gangwondo",
             "sub_region_code":"4223000000_Gangwondo_Samcheok",
@@ -510,19 +510,6 @@
         {
             "index":35,
             "sort":"education",
-            "name":"정상청솔1차",
-            "search_code":107993,
-            "apt_type":"아파트",
-            "apt_year":20.0,
-            "value_score":46.1,
-            "region":"강원도 삼척시",
-            "region_code":"Gangwondo",
-            "sub_region_code":"4223000000_Gangwondo_Samcheok",
-            "shorten_url":"https:\/\/me2.do\/xaCMuCHQ"
-        },
-        {
-            "index":36,
-            "sort":"education",
             "name":"교동지웰",
             "search_code":110674,
             "apt_type":"아파트",
@@ -534,7 +521,7 @@
             "shorten_url":"https:\/\/me2.do\/xaCMuCHQ"
         },
         {
-            "index":37,
+            "index":36,
             "sort":"education",
             "name":"코아루타워",
             "search_code":104048,
@@ -547,13 +534,26 @@
             "shorten_url":"https:\/\/me2.do\/xaCMuCHQ"
         },
         {
-            "index":38,
+            "index":37,
             "sort":"education",
             "name":"신동아",
             "search_code":14430,
             "apt_type":"아파트",
             "apt_year":24.0,
             "value_score":44.35,
+            "region":"강원도 삼척시",
+            "region_code":"Gangwondo",
+            "sub_region_code":"4223000000_Gangwondo_Samcheok",
+            "shorten_url":"https:\/\/me2.do\/xaCMuCHQ"
+        },
+        {
+            "index":38,
+            "sort":"education",
+            "name":"정상청솔1차",
+            "search_code":107993,
+            "apt_type":"아파트",
+            "apt_year":20.0,
+            "value_score":43.85,
             "region":"강원도 삼척시",
             "region_code":"Gangwondo",
             "sub_region_code":"4223000000_Gangwondo_Samcheok",

@@ -84,7 +84,7 @@
             "name":"송도아메리칸타운더샵(주상복합)",
             "search_code":142072,
             "apt_type":"분양권",
-            "apt_year":-1.0,
+            "apt_year":-3.0,
             "value_score":54.938,
             "region":"인천시 연수구",
             "region_code":"Incheon",
@@ -344,7 +344,7 @@
             "name":"송도아메리칸타운더샵(주상복합)",
             "search_code":142072,
             "apt_type":"분양권",
-            "apt_year":-1.0,
+            "apt_year":-3.0,
             "value_score":53.763,
             "region":"인천시 연수구",
             "region_code":"Incheon",
@@ -471,6 +471,19 @@
         {
             "index":32,
             "sort":"infra",
+            "name":"더퍼스트시티송도",
+            "search_code":148741,
+            "apt_type":"아파트",
+            "apt_year":0.0,
+            "value_score":58.59475,
+            "region":"인천시 연수구",
+            "region_code":"Incheon",
+            "sub_region_code":"2818500000_Incheon_Yeonsu",
+            "shorten_url":"https:\/\/me2.do\/F1LdVpsD"
+        },
+        {
+            "index":33,
+            "sort":"infra",
             "name":"송도풍림아이원3단지",
             "search_code":17448,
             "apt_type":"아파트",
@@ -482,7 +495,7 @@
             "shorten_url":"https:\/\/me2.do\/F1LdVpsD"
         },
         {
-            "index":33,
+            "index":34,
             "sort":"infra",
             "name":"현대,대림2차",
             "search_code":2282,
@@ -495,7 +508,7 @@
             "shorten_url":"https:\/\/me2.do\/F1LdVpsD"
         },
         {
-            "index":34,
+            "index":35,
             "sort":"infra",
             "name":"연수푸르지오2단지(주상복합)",
             "search_code":26904,
@@ -508,7 +521,7 @@
             "shorten_url":"https:\/\/me2.do\/F1LdVpsD"
         },
         {
-            "index":35,
+            "index":36,
             "sort":"infra",
             "name":"문남마을",
             "search_code":2370,
@@ -521,7 +534,7 @@
             "shorten_url":"https:\/\/me2.do\/F1LdVpsD"
         },
         {
-            "index":36,
+            "index":37,
             "sort":"infra",
             "name":"송도더샵14단지하버뷰",
             "search_code":27447,
@@ -534,7 +547,7 @@
             "shorten_url":"https:\/\/me2.do\/F1LdVpsD"
         },
         {
-            "index":37,
+            "index":38,
             "sort":"infra",
             "name":"연수타운(금호,동아)",
             "search_code":26070,
@@ -547,26 +560,13 @@
             "shorten_url":"https:\/\/me2.do\/F1LdVpsD"
         },
         {
-            "index":38,
+            "index":39,
             "sort":"infra",
             "name":"한양2차",
             "search_code":2294,
             "apt_type":"아파트",
             "apt_year":28.0,
             "value_score":54.69025,
-            "region":"인천시 연수구",
-            "region_code":"Incheon",
-            "sub_region_code":"2818500000_Incheon_Yeonsu",
-            "shorten_url":"https:\/\/me2.do\/F1LdVpsD"
-        },
-        {
-            "index":39,
-            "sort":"infra",
-            "name":"송도더샵퍼스트월드(주상복합)",
-            "search_code":25373,
-            "apt_type":"아파트",
-            "apt_year":13.0,
-            "value_score":54.68,
             "region":"인천시 연수구",
             "region_code":"Incheon",
             "sub_region_code":"2818500000_Incheon_Yeonsu",
@@ -640,6 +640,19 @@
         {
             "index":45,
             "sort":"education",
+            "name":"더퍼스트시티송도",
+            "search_code":148741,
+            "apt_type":"아파트",
+            "apt_year":0.0,
+            "value_score":63.9895,
+            "region":"인천시 연수구",
+            "region_code":"Incheon",
+            "sub_region_code":"2818500000_Incheon_Yeonsu",
+            "shorten_url":"https:\/\/me2.do\/F1LdVpsD"
+        },
+        {
+            "index":46,
+            "sort":"education",
             "name":"송도풍림아이원3단지",
             "search_code":17448,
             "apt_type":"아파트",
@@ -651,7 +664,7 @@
             "shorten_url":"https:\/\/me2.do\/F1LdVpsD"
         },
         {
-            "index":46,
+            "index":47,
             "sort":"education",
             "name":"송도더샵14단지하버뷰",
             "search_code":27447,
@@ -664,7 +677,7 @@
             "shorten_url":"https:\/\/me2.do\/F1LdVpsD"
         },
         {
-            "index":47,
+            "index":48,
             "sort":"education",
             "name":"현대,대림2차",
             "search_code":2282,
@@ -677,26 +690,13 @@
             "shorten_url":"https:\/\/me2.do\/F1LdVpsD"
         },
         {
-            "index":48,
+            "index":49,
             "sort":"education",
             "name":"송도센트럴파크푸르지오(주상복합)",
             "search_code":105037,
             "apt_type":"아파트",
             "apt_year":7.0,
             "value_score":61.36,
-            "region":"인천시 연수구",
-            "region_code":"Incheon",
-            "sub_region_code":"2818500000_Incheon_Yeonsu",
-            "shorten_url":"https:\/\/me2.do\/F1LdVpsD"
-        },
-        {
-            "index":49,
-            "sort":"education",
-            "name":"송도풍림아이원1단지",
-            "search_code":17445,
-            "apt_type":"아파트",
-            "apt_year":17.0,
-            "value_score":61.16,
             "region":"인천시 연수구",
             "region_code":"Incheon",
             "sub_region_code":"2818500000_Incheon_Yeonsu",

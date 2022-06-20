@@ -68,7 +68,7 @@
         {
             "index":1,
             "sort":"balanced",
-            "name":"동대센트럴파크새미래에뜨젠",
+            "name":"동대센트럴파크",
             "search_code":109812,
             "apt_type":"아파트",
             "apt_year":5.0,
@@ -198,7 +198,7 @@
         {
             "index":11,
             "sort":"living",
-            "name":"동대센트럴파크새미래에뜨젠",
+            "name":"동대센트럴파크",
             "search_code":109812,
             "apt_type":"아파트",
             "apt_year":5.0,
@@ -471,7 +471,7 @@
         {
             "index":32,
             "sort":"education",
-            "name":"동대센트럴파크새미래에뜨젠",
+            "name":"동대센트럴파크",
             "search_code":109812,
             "apt_type":"아파트",
             "apt_year":5.0,

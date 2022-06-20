@@ -107,19 +107,6 @@
         {
             "index":4,
             "sort":"balanced",
-            "name":"브라이튼여의도",
-            "search_code":127099,
-            "apt_type":"아파트",
-            "apt_year":-1,
-            "value_score":70.0898,
-            "region":"서울시 영등포구",
-            "region_code":"Seoul",
-            "sub_region_code":"1156000000_Seoul_Yeongdeungpo",
-            "shorten_url":"https:\/\/me2.do\/50pdSkoC"
-        },
-        {
-            "index":5,
-            "sort":"balanced",
             "name":"여의도자이(주상복합)",
             "search_code":22447,
             "apt_type":"아파트",
@@ -131,7 +118,7 @@
             "shorten_url":"https:\/\/me2.do\/50pdSkoC"
         },
         {
-            "index":6,
+            "index":5,
             "sort":"balanced",
             "name":"아크로타워스퀘어",
             "search_code":109205,
@@ -144,7 +131,7 @@
             "shorten_url":"https:\/\/me2.do\/50pdSkoC"
         },
         {
-            "index":7,
+            "index":6,
             "sort":"balanced",
             "name":"당산센트럴아이파크",
             "search_code":121987,
@@ -157,7 +144,7 @@
             "shorten_url":"https:\/\/me2.do\/50pdSkoC"
         },
         {
-            "index":8,
+            "index":7,
             "sort":"balanced",
             "name":"현대",
             "search_code":688,
@@ -170,13 +157,26 @@
             "shorten_url":"https:\/\/me2.do\/50pdSkoC"
         },
         {
-            "index":9,
+            "index":8,
             "sort":"balanced",
             "name":"래미안에스티움",
             "search_code":109434,
             "apt_type":"아파트",
             "apt_year":5,
             "value_score":67.5898,
+            "region":"서울시 영등포구",
+            "region_code":"Seoul",
+            "sub_region_code":"1156000000_Seoul_Yeongdeungpo",
+            "shorten_url":"https:\/\/me2.do\/50pdSkoC"
+        },
+        {
+            "index":9,
+            "sort":"balanced",
+            "name":"문래자이",
+            "search_code":3452,
+            "apt_type":"아파트",
+            "apt_year":21,
+            "value_score":67.1418,
             "region":"서울시 영등포구",
             "region_code":"Seoul",
             "sub_region_code":"1156000000_Seoul_Yeongdeungpo",
@@ -198,19 +198,6 @@
         {
             "index":11,
             "sort":"living",
-            "name":"브라이튼여의도",
-            "search_code":127099,
-            "apt_type":"아파트",
-            "apt_year":-1,
-            "value_score":71.2932,
-            "region":"서울시 영등포구",
-            "region_code":"Seoul",
-            "sub_region_code":"1156000000_Seoul_Yeongdeungpo",
-            "shorten_url":"https:\/\/me2.do\/50pdSkoC"
-        },
-        {
-            "index":12,
-            "sort":"living",
             "name":"아크로타워스퀘어",
             "search_code":109205,
             "apt_type":"아파트",
@@ -222,7 +209,7 @@
             "shorten_url":"https:\/\/me2.do\/50pdSkoC"
         },
         {
-            "index":13,
+            "index":12,
             "sort":"living",
             "name":"당산삼성래미안",
             "search_code":2981,
@@ -235,7 +222,7 @@
             "shorten_url":"https:\/\/me2.do\/50pdSkoC"
         },
         {
-            "index":14,
+            "index":13,
             "sort":"living",
             "name":"롯데캐슬엠파이어(주상복합)",
             "search_code":13147,
@@ -248,7 +235,7 @@
             "shorten_url":"https:\/\/me2.do\/50pdSkoC"
         },
         {
-            "index":15,
+            "index":14,
             "sort":"living",
             "name":"당산센트럴아이파크",
             "search_code":121987,
@@ -261,7 +248,7 @@
             "shorten_url":"https:\/\/me2.do\/50pdSkoC"
         },
         {
-            "index":16,
+            "index":15,
             "sort":"living",
             "name":"문래힐스테이트",
             "search_code":3450,
@@ -274,7 +261,7 @@
             "shorten_url":"https:\/\/me2.do\/50pdSkoC"
         },
         {
-            "index":17,
+            "index":16,
             "sort":"living",
             "name":"여의도자이(주상복합)",
             "search_code":22447,
@@ -287,7 +274,7 @@
             "shorten_url":"https:\/\/me2.do\/50pdSkoC"
         },
         {
-            "index":18,
+            "index":17,
             "sort":"living",
             "name":"래미안에스티움",
             "search_code":109434,
@@ -300,13 +287,26 @@
             "shorten_url":"https:\/\/me2.do\/50pdSkoC"
         },
         {
-            "index":19,
+            "index":18,
             "sort":"living",
             "name":"영등포아트자이",
             "search_code":104960,
             "apt_type":"아파트",
             "apt_year":8,
             "value_score":69.1382,
+            "region":"서울시 영등포구",
+            "region_code":"Seoul",
+            "sub_region_code":"1156000000_Seoul_Yeongdeungpo",
+            "shorten_url":"https:\/\/me2.do\/50pdSkoC"
+        },
+        {
+            "index":19,
+            "sort":"living",
+            "name":"신길센트럴자이",
+            "search_code":117792,
+            "apt_type":"아파트",
+            "apt_year":1,
+            "value_score":68.7382,
             "region":"서울시 영등포구",
             "region_code":"Seoul",
             "sub_region_code":"1156000000_Seoul_Yeongdeungpo",
@@ -549,11 +549,11 @@
         {
             "index":38,
             "sort":"infra",
-            "name":"브라이튼여의도",
-            "search_code":127099,
+            "name":"당산삼성래미안",
+            "search_code":2981,
             "apt_type":"아파트",
-            "apt_year":-1,
-            "value_score":71.5915,
+            "apt_year":19,
+            "value_score":71.30175,
             "region":"서울시 영등포구",
             "region_code":"Seoul",
             "sub_region_code":"1156000000_Seoul_Yeongdeungpo",
@@ -562,11 +562,11 @@
         {
             "index":39,
             "sort":"infra",
-            "name":"당산삼성래미안",
-            "search_code":2981,
+            "name":"아크로타워스퀘어",
+            "search_code":109205,
             "apt_type":"아파트",
-            "apt_year":19,
-            "value_score":71.30175,
+            "apt_year":5,
+            "value_score":71.25175,
             "region":"서울시 영등포구",
             "region_code":"Seoul",
             "sub_region_code":"1156000000_Seoul_Yeongdeungpo",
@@ -614,19 +614,6 @@
         {
             "index":43,
             "sort":"education",
-            "name":"브라이튼여의도",
-            "search_code":127099,
-            "apt_type":"아파트",
-            "apt_year":-1,
-            "value_score":67.983,
-            "region":"서울시 영등포구",
-            "region_code":"Seoul",
-            "sub_region_code":"1156000000_Seoul_Yeongdeungpo",
-            "shorten_url":"https:\/\/me2.do\/50pdSkoC"
-        },
-        {
-            "index":44,
-            "sort":"education",
             "name":"당산삼성래미안",
             "search_code":2981,
             "apt_type":"아파트",
@@ -638,7 +625,7 @@
             "shorten_url":"https:\/\/me2.do\/50pdSkoC"
         },
         {
-            "index":45,
+            "index":44,
             "sort":"education",
             "name":"당산센트럴아이파크",
             "search_code":121987,
@@ -651,7 +638,7 @@
             "shorten_url":"https:\/\/me2.do\/50pdSkoC"
         },
         {
-            "index":46,
+            "index":45,
             "sort":"education",
             "name":"롯데캐슬아이비(주상복합)",
             "search_code":10262,
@@ -664,7 +651,7 @@
             "shorten_url":"https:\/\/me2.do\/50pdSkoC"
         },
         {
-            "index":47,
+            "index":46,
             "sort":"education",
             "name":"현대",
             "search_code":688,
@@ -677,7 +664,7 @@
             "shorten_url":"https:\/\/me2.do\/50pdSkoC"
         },
         {
-            "index":48,
+            "index":47,
             "sort":"education",
             "name":"당산현대5차",
             "search_code":1210,
@@ -690,13 +677,26 @@
             "shorten_url":"https:\/\/me2.do\/50pdSkoC"
         },
         {
-            "index":49,
+            "index":48,
             "sort":"education",
             "name":"대우",
             "search_code":10169,
             "apt_type":"아파트",
             "apt_year":23,
             "value_score":63.653,
+            "region":"서울시 영등포구",
+            "region_code":"Seoul",
+            "sub_region_code":"1156000000_Seoul_Yeongdeungpo",
+            "shorten_url":"https:\/\/me2.do\/50pdSkoC"
+        },
+        {
+            "index":49,
+            "sort":"education",
+            "name":"여의도자이(주상복합)",
+            "search_code":22447,
+            "apt_type":"아파트",
+            "apt_year":14,
+            "value_score":63.634,
             "region":"서울시 영등포구",
             "region_code":"Seoul",
             "sub_region_code":"1156000000_Seoul_Yeongdeungpo",

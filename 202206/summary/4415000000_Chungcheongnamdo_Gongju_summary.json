@@ -185,8 +185,8 @@
         {
             "index":10,
             "sort":"living",
-            "name":"공주월송흥화하브",
-            "search_code":115418,
+            "name":"공주신관코아루센트럴파크",
+            "search_code":112617,
             "apt_type":"아파트",
             "apt_year":4.0,
             "value_score":53.04225,
@@ -198,8 +198,8 @@
         {
             "index":11,
             "sort":"living",
-            "name":"공주신관코아루센트럴파크",
-            "search_code":112617,
+            "name":"공주월송흥화하브",
+            "search_code":115418,
             "apt_type":"아파트",
             "apt_year":4.0,
             "value_score":53.04225,

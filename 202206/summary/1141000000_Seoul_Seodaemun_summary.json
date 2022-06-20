@@ -107,19 +107,6 @@
         {
             "index":4,
             "sort":"balanced",
-            "name":"DMC금호리첸시아",
-            "search_code":128108,
-            "apt_type":"분양권",
-            "apt_year":0.0,
-            "value_score":64.3452,
-            "region":"서울시 서대문구",
-            "region_code":"Seoul",
-            "sub_region_code":"1141000000_Seoul_Seodaemun",
-            "shorten_url":"https:\/\/me2.do\/F9VRKI5i"
-        },
-        {
-            "index":5,
-            "sort":"balanced",
             "name":"DMC래미안e편한세상",
             "search_code":101160,
             "apt_type":"아파트",
@@ -131,7 +118,7 @@
             "shorten_url":"https:\/\/me2.do\/F9VRKI5i"
         },
         {
-            "index":6,
+            "index":5,
             "sort":"balanced",
             "name":"돈의문센트레빌",
             "search_code":26046,
@@ -144,7 +131,7 @@
             "shorten_url":"https:\/\/me2.do\/F9VRKI5i"
         },
         {
-            "index":7,
+            "index":6,
             "sort":"balanced",
             "name":"독립문삼호",
             "search_code":940,
@@ -157,7 +144,7 @@
             "shorten_url":"https:\/\/me2.do\/F9VRKI5i"
         },
         {
-            "index":8,
+            "index":7,
             "sort":"balanced",
             "name":"DMC에코자이",
             "search_code":118720,
@@ -170,13 +157,26 @@
             "shorten_url":"https:\/\/me2.do\/F9VRKI5i"
         },
         {
-            "index":9,
+            "index":8,
             "sort":"balanced",
             "name":"천연뜨란채",
             "search_code":11567,
             "apt_type":"아파트",
             "apt_year":16.0,
             "value_score":60.6318,
+            "region":"서울시 서대문구",
+            "region_code":"Seoul",
+            "sub_region_code":"1141000000_Seoul_Seodaemun",
+            "shorten_url":"https:\/\/me2.do\/F9VRKI5i"
+        },
+        {
+            "index":9,
+            "sort":"balanced",
+            "name":"DMC센트럴아이파크",
+            "search_code":112802,
+            "apt_type":"아파트",
+            "apt_year":4.0,
+            "value_score":59.5628,
             "region":"서울시 서대문구",
             "region_code":"Seoul",
             "sub_region_code":"1141000000_Seoul_Seodaemun",
@@ -276,19 +276,6 @@
         {
             "index":17,
             "sort":"living",
-            "name":"DMC금호리첸시아",
-            "search_code":128108,
-            "apt_type":"분양권",
-            "apt_year":0.0,
-            "value_score":65.3968,
-            "region":"서울시 서대문구",
-            "region_code":"Seoul",
-            "sub_region_code":"1141000000_Seoul_Seodaemun",
-            "shorten_url":"https:\/\/me2.do\/F9VRKI5i"
-        },
-        {
-            "index":18,
-            "sort":"living",
             "name":"힐스테이트신촌",
             "search_code":122049,
             "apt_type":"아파트",
@@ -300,13 +287,26 @@
             "shorten_url":"https:\/\/me2.do\/F9VRKI5i"
         },
         {
-            "index":19,
+            "index":18,
             "sort":"living",
             "name":"천연뜨란채",
             "search_code":11567,
             "apt_type":"아파트",
             "apt_year":16.0,
             "value_score":61.0812,
+            "region":"서울시 서대문구",
+            "region_code":"Seoul",
+            "sub_region_code":"1141000000_Seoul_Seodaemun",
+            "shorten_url":"https:\/\/me2.do\/F9VRKI5i"
+        },
+        {
+            "index":19,
+            "sort":"living",
+            "name":"홍제센트럴아이파크",
+            "search_code":112357,
+            "apt_type":"아파트",
+            "apt_year":2.0,
+            "value_score":61.06,
             "region":"서울시 서대문구",
             "region_code":"Seoul",
             "sub_region_code":"1141000000_Seoul_Seodaemun",
@@ -406,19 +406,6 @@
         {
             "index":27,
             "sort":"transport",
-            "name":"DMC금호리첸시아",
-            "search_code":128108,
-            "apt_type":"분양권",
-            "apt_year":0.0,
-            "value_score":70.8726,
-            "region":"서울시 서대문구",
-            "region_code":"Seoul",
-            "sub_region_code":"1141000000_Seoul_Seodaemun",
-            "shorten_url":"https:\/\/me2.do\/F9VRKI5i"
-        },
-        {
-            "index":28,
-            "sort":"transport",
             "name":"대현럭키",
             "search_code":423,
             "apt_type":"아파트",
@@ -430,7 +417,7 @@
             "shorten_url":"https:\/\/me2.do\/F9VRKI5i"
         },
         {
-            "index":29,
+            "index":28,
             "sort":"transport",
             "name":"서소문",
             "search_code":3482,
@@ -443,20 +430,20 @@
             "shorten_url":"https:\/\/me2.do\/F9VRKI5i"
         },
         {
-            "index":30,
-            "sort":"infra",
-            "name":"DMC금호리첸시아",
-            "search_code":128108,
-            "apt_type":"분양권",
-            "apt_year":0.0,
-            "value_score":67.271,
+            "index":29,
+            "sort":"transport",
+            "name":"피어리스(주상복합)",
+            "search_code":10342,
+            "apt_type":"아파트",
+            "apt_year":35.0,
+            "value_score":69.5442130237,
             "region":"서울시 서대문구",
             "region_code":"Seoul",
             "sub_region_code":"1141000000_Seoul_Seodaemun",
             "shorten_url":"https:\/\/me2.do\/F9VRKI5i"
         },
         {
-            "index":31,
+            "index":30,
             "sort":"infra",
             "name":"충정로SK뷰",
             "search_code":24908,
@@ -469,7 +456,7 @@
             "shorten_url":"https:\/\/me2.do\/F9VRKI5i"
         },
         {
-            "index":32,
+            "index":31,
             "sort":"infra",
             "name":"충정리시온(주상복합)",
             "search_code":12241,
@@ -482,13 +469,26 @@
             "shorten_url":"https:\/\/me2.do\/F9VRKI5i"
         },
         {
-            "index":33,
+            "index":32,
             "sort":"infra",
             "name":"더스타일하우스디센트럴",
             "search_code":132163,
             "apt_type":"아파트",
             "apt_year":2.0,
             "value_score":66.292,
+            "region":"서울시 서대문구",
+            "region_code":"Seoul",
+            "sub_region_code":"1141000000_Seoul_Seodaemun",
+            "shorten_url":"https:\/\/me2.do\/F9VRKI5i"
+        },
+        {
+            "index":33,
+            "sort":"infra",
+            "name":"돈의문센트레빌",
+            "search_code":26046,
+            "apt_type":"아파트",
+            "apt_year":11.0,
+            "value_score":64.5765,
             "region":"서울시 서대문구",
             "region_code":"Seoul",
             "sub_region_code":"1141000000_Seoul_Seodaemun",
@@ -510,19 +510,6 @@
         {
             "index":35,
             "sort":"infra",
-            "name":"돈의문센트레빌",
-            "search_code":26046,
-            "apt_type":"아파트",
-            "apt_year":11.0,
-            "value_score":64.5765,
-            "region":"서울시 서대문구",
-            "region_code":"Seoul",
-            "sub_region_code":"1141000000_Seoul_Seodaemun",
-            "shorten_url":"https:\/\/me2.do\/F9VRKI5i"
-        },
-        {
-            "index":36,
-            "sort":"infra",
             "name":"피어리스(주상복합)",
             "search_code":10342,
             "apt_type":"아파트",
@@ -534,7 +521,7 @@
             "shorten_url":"https:\/\/me2.do\/F9VRKI5i"
         },
         {
-            "index":37,
+            "index":36,
             "sort":"infra",
             "name":"서소문",
             "search_code":3482,
@@ -547,7 +534,7 @@
             "shorten_url":"https:\/\/me2.do\/F9VRKI5i"
         },
         {
-            "index":38,
+            "index":37,
             "sort":"infra",
             "name":"우리유앤미",
             "search_code":17541,
@@ -560,13 +547,26 @@
             "shorten_url":"https:\/\/me2.do\/F9VRKI5i"
         },
         {
-            "index":39,
+            "index":38,
             "sort":"infra",
             "name":"미동",
             "search_code":16059,
             "apt_type":"아파트",
             "apt_year":53.0,
             "value_score":64.142,
+            "region":"서울시 서대문구",
+            "region_code":"Seoul",
+            "sub_region_code":"1141000000_Seoul_Seodaemun",
+            "shorten_url":"https:\/\/me2.do\/F9VRKI5i"
+        },
+        {
+            "index":39,
+            "sort":"infra",
+            "name":"북아현맨션",
+            "search_code":3486,
+            "apt_type":"아파트",
+            "apt_year":47.0,
+            "value_score":63.64175,
             "region":"서울시 서대문구",
             "region_code":"Seoul",
             "sub_region_code":"1141000000_Seoul_Seodaemun",
@@ -653,19 +653,6 @@
         {
             "index":46,
             "sort":"education",
-            "name":"DMC금호리첸시아",
-            "search_code":128108,
-            "apt_type":"분양권",
-            "apt_year":0.0,
-            "value_score":58.942,
-            "region":"서울시 서대문구",
-            "region_code":"Seoul",
-            "sub_region_code":"1141000000_Seoul_Seodaemun",
-            "shorten_url":"https:\/\/me2.do\/F9VRKI5i"
-        },
-        {
-            "index":47,
-            "sort":"education",
             "name":"신촌푸르지오",
             "search_code":110092,
             "apt_type":"아파트",
@@ -677,7 +664,7 @@
             "shorten_url":"https:\/\/me2.do\/F9VRKI5i"
         },
         {
-            "index":48,
+            "index":47,
             "sort":"education",
             "name":"돈의문센트레빌",
             "search_code":26046,
@@ -690,13 +677,26 @@
             "shorten_url":"https:\/\/me2.do\/F9VRKI5i"
         },
         {
-            "index":49,
+            "index":48,
             "sort":"education",
             "name":"e편한세상신촌",
             "search_code":110209,
             "apt_type":"아파트",
             "apt_year":5.0,
             "value_score":58.1963163049,
+            "region":"서울시 서대문구",
+            "region_code":"Seoul",
+            "sub_region_code":"1141000000_Seoul_Seodaemun",
+            "shorten_url":"https:\/\/me2.do\/F9VRKI5i"
+        },
+        {
+            "index":49,
+            "sort":"education",
+            "name":"독립문삼호",
+            "search_code":940,
+            "apt_type":"아파트",
+            "apt_year":27.0,
+            "value_score":58.033,
             "region":"서울시 서대문구",
             "region_code":"Seoul",
             "sub_region_code":"1141000000_Seoul_Seodaemun",

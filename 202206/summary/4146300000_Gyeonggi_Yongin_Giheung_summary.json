@@ -94,6 +94,19 @@
         {
             "index":3,
             "sort":"balanced",
+            "name":"수지구청역롯데캐슬하이브엘",
+            "search_code":148722,
+            "apt_type":"분양권",
+            "apt_year":-3,
+            "value_score":74.45055,
+            "region":"경기도 용인시 기흥구",
+            "region_code":"Gyeonggi",
+            "sub_region_code":"4146300000_Gyeonggi_Yongin_Giheung",
+            "shorten_url":"https:\/\/me2.do\/54Jid0zx"
+        },
+        {
+            "index":4,
+            "sort":"balanced",
             "name":"신촌마을포스홈타운2단지",
             "search_code":100278,
             "apt_type":"아파트",
@@ -105,7 +118,7 @@
             "shorten_url":"https:\/\/me2.do\/54Jid0zx"
         },
         {
-            "index":4,
+            "index":5,
             "sort":"balanced",
             "name":"행원마을동아솔레시티",
             "search_code":3678,
@@ -118,7 +131,7 @@
             "shorten_url":"https:\/\/me2.do\/54Jid0zx"
         },
         {
-            "index":5,
+            "index":6,
             "sort":"balanced",
             "name":"신촌마을포스홈타운1단지",
             "search_code":9660,
@@ -131,7 +144,7 @@
             "shorten_url":"https:\/\/me2.do\/54Jid0zx"
         },
         {
-            "index":6,
+            "index":7,
             "sort":"balanced",
             "name":"연원마을엘지",
             "search_code":8441,
@@ -144,7 +157,7 @@
             "shorten_url":"https:\/\/me2.do\/54Jid0zx"
         },
         {
-            "index":7,
+            "index":8,
             "sort":"balanced",
             "name":"죽전누리에뜰(주상복합)",
             "search_code":17551,
@@ -157,26 +170,13 @@
             "shorten_url":"https:\/\/me2.do\/54Jid0zx"
         },
         {
-            "index":8,
+            "index":9,
             "sort":"balanced",
             "name":"파크시엘",
             "search_code":3690,
             "apt_type":"아파트",
             "apt_year":18,
             "value_score":67.16125,
-            "region":"경기도 용인시 기흥구",
-            "region_code":"Gyeonggi",
-            "sub_region_code":"4146300000_Gyeonggi_Yongin_Giheung",
-            "shorten_url":"https:\/\/me2.do\/54Jid0zx"
-        },
-        {
-            "index":9,
-            "sort":"balanced",
-            "name":"힐스테이트기흥(주상복합)",
-            "search_code":109996,
-            "apt_type":"아파트",
-            "apt_year":4,
-            "value_score":66.28315,
             "region":"경기도 용인시 기흥구",
             "region_code":"Gyeonggi",
             "sub_region_code":"4146300000_Gyeonggi_Yongin_Giheung",
@@ -198,6 +198,19 @@
         {
             "index":11,
             "sort":"living",
+            "name":"수지구청역롯데캐슬하이브엘",
+            "search_code":148722,
+            "apt_type":"분양권",
+            "apt_year":-3,
+            "value_score":75.9174,
+            "region":"경기도 용인시 기흥구",
+            "region_code":"Gyeonggi",
+            "sub_region_code":"4146300000_Gyeonggi_Yongin_Giheung",
+            "shorten_url":"https:\/\/me2.do\/54Jid0zx"
+        },
+        {
+            "index":12,
+            "sort":"living",
             "name":"죽현마을아이파크",
             "search_code":9303,
             "apt_type":"아파트",
@@ -209,7 +222,7 @@
             "shorten_url":"https:\/\/me2.do\/54Jid0zx"
         },
         {
-            "index":12,
+            "index":13,
             "sort":"living",
             "name":"삼거마을삼성래미안1차",
             "search_code":3679,
@@ -222,7 +235,7 @@
             "shorten_url":"https:\/\/me2.do\/54Jid0zx"
         },
         {
-            "index":13,
+            "index":14,
             "sort":"living",
             "name":"신광교제일풍경채(민간임대)",
             "search_code":134382,
@@ -235,7 +248,7 @@
             "shorten_url":"https:\/\/me2.do\/54Jid0zx"
         },
         {
-            "index":14,
+            "index":15,
             "sort":"living",
             "name":"행원마을동아솔레시티",
             "search_code":3678,
@@ -248,7 +261,7 @@
             "shorten_url":"https:\/\/me2.do\/54Jid0zx"
         },
         {
-            "index":15,
+            "index":16,
             "sort":"living",
             "name":"블루밍구성더센트럴",
             "search_code":8443,
@@ -261,7 +274,7 @@
             "shorten_url":"https:\/\/me2.do\/54Jid0zx"
         },
         {
-            "index":16,
+            "index":17,
             "sort":"living",
             "name":"힐스테이트기흥(주상복합)",
             "search_code":109996,
@@ -274,7 +287,7 @@
             "shorten_url":"https:\/\/me2.do\/54Jid0zx"
         },
         {
-            "index":17,
+            "index":18,
             "sort":"living",
             "name":"신촌마을포스홈타운1단지",
             "search_code":9660,
@@ -287,7 +300,7 @@
             "shorten_url":"https:\/\/me2.do\/54Jid0zx"
         },
         {
-            "index":18,
+            "index":19,
             "sort":"living",
             "name":"기흥역센트럴푸르지오(주상복합)",
             "search_code":110526,
@@ -300,20 +313,20 @@
             "shorten_url":"https:\/\/me2.do\/54Jid0zx"
         },
         {
-            "index":19,
-            "sort":"living",
-            "name":"기흥역더샵(주상복합)",
-            "search_code":111385,
-            "apt_type":"아파트",
-            "apt_year":4,
-            "value_score":67.2442,
+            "index":20,
+            "sort":"transport",
+            "name":"수지구청역롯데캐슬하이브엘",
+            "search_code":148722,
+            "apt_type":"분양권",
+            "apt_year":-3,
+            "value_score":77.02555,
             "region":"경기도 용인시 기흥구",
             "region_code":"Gyeonggi",
             "sub_region_code":"4146300000_Gyeonggi_Yongin_Giheung",
             "shorten_url":"https:\/\/me2.do\/54Jid0zx"
         },
         {
-            "index":20,
+            "index":21,
             "sort":"transport",
             "name":"삼거마을삼성래미안1차",
             "search_code":3679,
@@ -326,7 +339,7 @@
             "shorten_url":"https:\/\/me2.do\/54Jid0zx"
         },
         {
-            "index":21,
+            "index":22,
             "sort":"transport",
             "name":"죽현마을동원로얄듀크",
             "search_code":12103,
@@ -339,7 +352,7 @@
             "shorten_url":"https:\/\/me2.do\/54Jid0zx"
         },
         {
-            "index":22,
+            "index":23,
             "sort":"transport",
             "name":"죽현마을아이파크",
             "search_code":9303,
@@ -352,7 +365,7 @@
             "shorten_url":"https:\/\/me2.do\/54Jid0zx"
         },
         {
-            "index":23,
+            "index":24,
             "sort":"transport",
             "name":"행원마을동아솔레시티",
             "search_code":3678,
@@ -365,7 +378,7 @@
             "shorten_url":"https:\/\/me2.do\/54Jid0zx"
         },
         {
-            "index":24,
+            "index":25,
             "sort":"transport",
             "name":"신촌마을포스홈타운2단지",
             "search_code":100278,
@@ -378,7 +391,7 @@
             "shorten_url":"https:\/\/me2.do\/54Jid0zx"
         },
         {
-            "index":25,
+            "index":26,
             "sort":"transport",
             "name":"신촌마을포스홈타운1단지",
             "search_code":9660,
@@ -391,7 +404,7 @@
             "shorten_url":"https:\/\/me2.do\/54Jid0zx"
         },
         {
-            "index":26,
+            "index":27,
             "sort":"transport",
             "name":"파크시엘",
             "search_code":3690,
@@ -404,7 +417,7 @@
             "shorten_url":"https:\/\/me2.do\/54Jid0zx"
         },
         {
-            "index":27,
+            "index":28,
             "sort":"transport",
             "name":"연원마을엘지",
             "search_code":8441,
@@ -417,26 +430,13 @@
             "shorten_url":"https:\/\/me2.do\/54Jid0zx"
         },
         {
-            "index":28,
+            "index":29,
             "sort":"transport",
             "name":"힐스테이트기흥(주상복합)",
             "search_code":109996,
             "apt_type":"아파트",
             "apt_year":4,
             "value_score":71.98315,
-            "region":"경기도 용인시 기흥구",
-            "region_code":"Gyeonggi",
-            "sub_region_code":"4146300000_Gyeonggi_Yongin_Giheung",
-            "shorten_url":"https:\/\/me2.do\/54Jid0zx"
-        },
-        {
-            "index":29,
-            "sort":"transport",
-            "name":"가현마을신안",
-            "search_code":3693,
-            "apt_type":"아파트",
-            "apt_year":21,
-            "value_score":69.75665,
             "region":"경기도 용인시 기흥구",
             "region_code":"Gyeonggi",
             "sub_region_code":"4146300000_Gyeonggi_Yongin_Giheung",
@@ -510,6 +510,19 @@
         {
             "index":35,
             "sort":"infra",
+            "name":"수지구청역롯데캐슬하이브엘",
+            "search_code":148722,
+            "apt_type":"분양권",
+            "apt_year":-3,
+            "value_score":68.43425,
+            "region":"경기도 용인시 기흥구",
+            "region_code":"Gyeonggi",
+            "sub_region_code":"4146300000_Gyeonggi_Yongin_Giheung",
+            "shorten_url":"https:\/\/me2.do\/54Jid0zx"
+        },
+        {
+            "index":36,
+            "sort":"infra",
             "name":"호반써밋레이크파크",
             "search_code":101600,
             "apt_type":"아파트",
@@ -521,7 +534,7 @@
             "shorten_url":"https:\/\/me2.do\/54Jid0zx"
         },
         {
-            "index":36,
+            "index":37,
             "sort":"infra",
             "name":"연원마을엘지",
             "search_code":8441,
@@ -534,7 +547,7 @@
             "shorten_url":"https:\/\/me2.do\/54Jid0zx"
         },
         {
-            "index":37,
+            "index":38,
             "sort":"infra",
             "name":"흥덕마을7단지힐스테이트",
             "search_code":27584,
@@ -547,26 +560,13 @@
             "shorten_url":"https:\/\/me2.do\/54Jid0zx"
         },
         {
-            "index":38,
+            "index":39,
             "sort":"infra",
             "name":"블루밍구성더센트럴",
             "search_code":8443,
             "apt_type":"아파트",
             "apt_year":22,
             "value_score":65.96675,
-            "region":"경기도 용인시 기흥구",
-            "region_code":"Gyeonggi",
-            "sub_region_code":"4146300000_Gyeonggi_Yongin_Giheung",
-            "shorten_url":"https:\/\/me2.do\/54Jid0zx"
-        },
-        {
-            "index":39,
-            "sort":"infra",
-            "name":"흥덕우미린레이크포레",
-            "search_code":27534,
-            "apt_type":"아파트",
-            "apt_year":13,
-            "value_score":63.4575,
             "region":"경기도 용인시 기흥구",
             "region_code":"Gyeonggi",
             "sub_region_code":"4146300000_Gyeonggi_Yongin_Giheung",
@@ -601,6 +601,19 @@
         {
             "index":42,
             "sort":"education",
+            "name":"수지구청역롯데캐슬하이브엘",
+            "search_code":148722,
+            "apt_type":"분양권",
+            "apt_year":-3,
+            "value_score":72.8685,
+            "region":"경기도 용인시 기흥구",
+            "region_code":"Gyeonggi",
+            "sub_region_code":"4146300000_Gyeonggi_Yongin_Giheung",
+            "shorten_url":"https:\/\/me2.do\/54Jid0zx"
+        },
+        {
+            "index":43,
+            "sort":"education",
             "name":"죽전누리에뜰(주상복합)",
             "search_code":17551,
             "apt_type":"아파트",
@@ -612,7 +625,7 @@
             "shorten_url":"https:\/\/me2.do\/54Jid0zx"
         },
         {
-            "index":43,
+            "index":44,
             "sort":"education",
             "name":"삼거마을삼성래미안1차",
             "search_code":3679,
@@ -625,7 +638,7 @@
             "shorten_url":"https:\/\/me2.do\/54Jid0zx"
         },
         {
-            "index":44,
+            "index":45,
             "sort":"education",
             "name":"블루밍구성더센트럴",
             "search_code":8443,
@@ -638,7 +651,7 @@
             "shorten_url":"https:\/\/me2.do\/54Jid0zx"
         },
         {
-            "index":45,
+            "index":46,
             "sort":"education",
             "name":"죽현마을엘지자이",
             "search_code":8717,
@@ -651,7 +664,7 @@
             "shorten_url":"https:\/\/me2.do\/54Jid0zx"
         },
         {
-            "index":46,
+            "index":47,
             "sort":"education",
             "name":"광교레이크스위첸",
             "search_code":27656,
@@ -664,7 +677,7 @@
             "shorten_url":"https:\/\/me2.do\/54Jid0zx"
         },
         {
-            "index":47,
+            "index":48,
             "sort":"education",
             "name":"호반써밋레이크파크",
             "search_code":101600,
@@ -677,26 +690,13 @@
             "shorten_url":"https:\/\/me2.do\/54Jid0zx"
         },
         {
-            "index":48,
+            "index":49,
             "sort":"education",
             "name":"연원마을엘지",
             "search_code":8441,
             "apt_type":"아파트",
             "apt_year":23,
             "value_score":63.2335,
-            "region":"경기도 용인시 기흥구",
-            "region_code":"Gyeonggi",
-            "sub_region_code":"4146300000_Gyeonggi_Yongin_Giheung",
-            "shorten_url":"https:\/\/me2.do\/54Jid0zx"
-        },
-        {
-            "index":49,
-            "sort":"education",
-            "name":"흥덕마을7단지힐스테이트",
-            "search_code":27584,
-            "apt_type":"아파트",
-            "apt_year":12,
-            "value_score":63.195,
             "region":"경기도 용인시 기흥구",
             "region_code":"Gyeonggi",
             "sub_region_code":"4146300000_Gyeonggi_Yongin_Giheung",

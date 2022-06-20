@@ -562,10 +562,10 @@
         {
             "index":39,
             "sort":"infra",
-            "name":"월성코오롱하늘채2단지",
-            "search_code":19600,
+            "name":"진천역AK그랑폴리스",
+            "search_code":102422,
             "apt_type":"아파트",
-            "apt_year":15.0,
+            "apt_year":9.0,
             "value_score":68.717,
             "region":"대구시 달서구",
             "region_code":"Daegu",

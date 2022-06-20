@@ -510,9 +510,9 @@
         {
             "index":35,
             "sort":"infra",
-            "name":"서면스위트엠골드에비뉴",
+            "name":"서면스위트엠골드에비뉴(주상복합)",
             "search_code":134442,
-            "apt_type":"분양권",
+            "apt_type":"아파트",
             "apt_year":0.0,
             "value_score":68.49675,
             "region":"부산시 부산진구",

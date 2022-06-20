@@ -55,7 +55,7 @@
         {
             "index":0,
             "sort":"balanced",
-            "name":"서산동문동한성필하우스",
+            "name":"동문한성필하우스",
             "search_code":110969,
             "apt_type":"아파트",
             "apt_year":4.0,
@@ -185,7 +185,7 @@
         {
             "index":10,
             "sort":"living",
-            "name":"서산동문동한성필하우스",
+            "name":"동문한성필하우스",
             "search_code":110969,
             "apt_type":"아파트",
             "apt_year":4.0,
@@ -315,7 +315,7 @@
         {
             "index":20,
             "sort":"infra",
-            "name":"서산동문동한성필하우스",
+            "name":"동문한성필하우스",
             "search_code":110969,
             "apt_type":"아파트",
             "apt_year":4.0,
@@ -445,7 +445,7 @@
         {
             "index":30,
             "sort":"education",
-            "name":"서산동문동한성필하우스",
+            "name":"동문한성필하우스",
             "search_code":110969,
             "apt_type":"아파트",
             "apt_year":4.0,
