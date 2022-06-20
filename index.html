@@ -1129,11 +1129,28 @@
       detailHtml += "<div class='popTable'>"
       detailHtml += "<div id='popSubStation' style='grid-template-columns: 0.3fr 1fr; margin-left: 5px ; margin-right: 5px; margin-top: 10px;'>"
       detailHtml += "<div class='popContent'>최근 실거래</div>"
+
+      //var current_year = selectedMonth.substr(0, 4)
+      //var current_month = selectedMonth.substr(4, 2) - 1
+      //var current_day = "01"
+      var start_date = new Date()
+      start_date.setMonth(start_date.getMonth() - 1)      
+
       if(isNaN(last_sales_price)){
         detailHtml += "<div class='popResult'>거래 정보 없음</div></div>"
       }
       else{
-        detailHtml += "<div class='popResult'>" + last_sales_area + ", " + Math.round(last_sales_price/100)/100 + "억, "+ last_sales_date.substr(2) + "</div></div>"
+        var compare_year = Number(last_sales_date.substr(0, 4))
+        var compare_month = Number(last_sales_date.substr(5, 2) - 1)
+        var compare_day = Number(last_sales_date.substr(8, 2))
+        var compare_date = new Date(compare_year, compare_month, compare_day)
+        if(compare_date > start_date){
+          detailHtml += "<div class='popResult' style='color: #ff3d38'>" + last_sales_area + ", " + Math.round(last_sales_price/100)/100 + "억, "+ last_sales_date.substr(2) + "</div></div>"
+        }
+        else{
+          detailHtml += "<div class='popResult'>" + last_sales_area + ", " + Math.round(last_sales_price/100)/100 + "억, "+ last_sales_date.substr(2) + "</div></div>"
+        }
+
       }
       detailHtml += "<hr>"
       detailHtml += "<table class='table table-striped' style='font-size:0.8em'>"
@@ -1147,20 +1164,38 @@
 
         detailHtml += "<tbody>"
             for(var k = 0 ; k < area_array.length ; k++){
-              detailHtml += "<tr>"
-                detailHtml += "<td>" + area_array[k] + "</td>"
+              detailHtml += "<tr>"                
                 if(sales_info_array[k] == "거래 정보 없음"){
+                  detailHtml += "<td>" + area_array[k] + "</td>"
                   detailHtml += "<td>" + "거래 정보 없음" + "</td>"
                 }
-                else{
+                else{                  
                   var sales_info_split = sales_info_array[k].split("억")
-                  detailHtml += "<td>" + ( Math.round( sales_info_split[0] * 100 ) / 100 ).toFixed(2) + "억" + "<span style='font-size: 0.85em'>" + sales_info_split[1] + "</span></td>"
+
+                  var compare_year = Number(sales_info_split[1].substr(2, 4))
+                  var compare_month = Number(sales_info_split[1].substr(7, 2)-1)
+                  var compare_day = Number(sales_info_split[1].substr(10, 2))
+                  var compare_date = new Date(compare_year, compare_month, compare_day)                                
+
+                  if(compare_date > start_date){
+                    detailHtml += "<td><span style='color:#ff3d38; font-weight:600'>" + area_array[k] + "</span></td>"
+                    detailHtml += "<td><span style='color:#ff3d38; font-weight:600'>" + ( Math.round( sales_info_split[0] * 100 ) / 100 ).toFixed(2) + "억" + "<span style='font-size: 0.85em'>" + sales_info_split[1] + "</span></span></td>"
+                  }
+                  else{
+                    detailHtml += "<td>" + area_array[k] + "</td>"
+                    detailHtml += "<td>" + ( Math.round( sales_info_split[0] * 100 ) / 100 ).toFixed(2) + "억" + "<span style='font-size: 0.85em'>" + sales_info_split[1] + "</span></td>"
+                  }
                 }
                 if(price_per_array[k] == "nan" ){
                   detailHtml += "<td>" + "---" + "</td>"
                 }
                 else{
-                  detailHtml += "<td>" + Number(price_per_array[k]).toLocaleString() + "만원" + "</td>"
+                  if(compare_date > start_date){
+                    detailHtml += "<td><span style='color:#ff3d38; font-weight:600'>" + Number(price_per_array[k]).toLocaleString() + "만원" + "</span></td>"
+                  }
+                  else{
+                    detailHtml += "<td>" + Number(price_per_array[k]).toLocaleString() + "만원" + "</td>"
+                  }
                 }
               detailHtml += "</tr>"
             }
