@@ -7,6 +7,12 @@ function showRearrangeBar(){
     rearrangeMenu += "<div><input type='radio' class='btn-check' name='btnRearrange' autocomplete='off' id='rearrangeHouse' onClick='rearrangeList(this)'><label class='btn btn-outline-danger' for='rearrangeHouse'>세대수순</label></div>"
     rearrangeMenu += "<div><input type='radio' class='btn-check' name='btnRearrange' autocomplete='off' id='rearrangePrice' onClick='rearrangeList(this)'><label class='btn btn-outline-danger' for='rearrangePrice'>공시가순</label></div>"
   }
+  else if(selectedTheme == "under300M"){
+    rearrangeMenu = "<div><input type='radio' class='btn-check' name='btnRearrange' autocomplete='off' id='rearrangeName' onClick='rearrangeList(this)'><label class='btn btn-outline-danger' for='rearrangeName'>이름순</label></div>"
+    rearrangeMenu += "<div><input type='radio' class='btn-check' name='btnRearrange' autocomplete='off' id='rearrangeYear' onClick='rearrangeList(this)'><label class='btn btn-outline-danger' for='rearrangeYear'>연차순</label></div>"
+    rearrangeMenu += "<div><input type='radio' class='btn-check' name='btnRearrange' autocomplete='off' id='rearrangeHouse' onClick='rearrangeList(this)'><label class='btn btn-outline-danger' for='rearrangeHouse'>세대수순</label></div>"
+    rearrangeMenu += "<div><input type='radio' class='btn-check' name='btnRearrange' autocomplete='off' id='rearrangePrice' onClick='rearrangeList(this)'><label class='btn btn-outline-danger' for='rearrangePrice'>공시가순</label></div>"
+  }
   else if(selectedTheme == "under5floor"){
     rearrangeMenu = "<div><input type='radio' class='btn-check' name='btnRearrange' autocomplete='off' id='rearrangeName' onClick='rearrangeList(this)'><label class='btn btn-outline-danger' for='rearrangeName'>이름순</label></div>"
     rearrangeMenu += "<div><input type='radio' class='btn-check' name='btnRearrange' autocomplete='off' id='rearrangeYear' onClick='rearrangeList(this)'><label class='btn btn-outline-danger' for='rearrangeYear'>연차순</label></div>"
@@ -54,6 +60,9 @@ function showRearrangeBar(){
     var rearrangeAPTNotice = "'" + $('#sido option:selected').text() + " " + $('#gungu option:selected').text() + "'"
     if(selectedTheme == "under100M"){
       rearrangeAPTNotice += " 공시가격 1억 이하 아파트"
+    }
+    if(selectedTheme == "under300M"){
+      rearrangeAPTNotice += " 공시가격 3억 이하 아파트"
     }
     if(selectedTheme == "under5floor"){
       rearrangeAPTNotice += " 5층 이하 아파트"

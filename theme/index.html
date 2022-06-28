@@ -109,6 +109,7 @@
         <div id="theme_selection">
           <select id="theme" onChange="updateTheme()">            
             <option value="under100M" selected>공시가격 1억 이하</option>
+            <option value="under300M" selected>공시가격 3억 이하</option>
             <option value="under5floor">5층 이하 단지</option>
             <option value="over30year">30년 이상 단지</option>
             <option value="newApt">분양권</option>
@@ -612,6 +613,9 @@
       if(selectedTheme == "under100M"){
         detailHtml += "<div class='content'><div class='apt_name' style='text-align:center'>" + $('#sido option:selected').text() + " " + $('#gungu option:selected').text() + "에는 <br> 공시가격 1억 이하 아파트 단지가 없네요. </div></div>"        
       }
+      if(selectedTheme == "under300M"){
+        detailHtml += "<div class='content'><div class='apt_name' style='text-align:center'>" + $('#sido option:selected').text() + " " + $('#gungu option:selected').text() + "에는 <br> 공시가격 3억 이하 아파트 단지가 없네요. </div></div>"        
+      }
       if(selectedTheme == "under5floor"){
         detailHtml += "<div class='content'><div class='apt_name' style='text-align:center'>" + $('#sido option:selected').text() + " " + $('#gungu option:selected').text() + "에는 <br> 5층 이하 아파트 단지가 없네요. </div></div>"        
       }
@@ -743,7 +747,35 @@
               distance_check.push([aptName, coord_y, coord_x, aptAddress, searchCode, house_num, aptYear])
             }
             $('#themeDataList').append(addon_html);            
-          }          
+          }
+
+          if(type == "under300M"){            
+            if(min_land_price > 0 && min_land_price <= 3){
+              count += 1;              
+              addon_html += "<div class='themeListBox'>";
+              addon_html += "<div class='content'>";
+              addon_html += "<div class='apt_name'>" + aptName;
+              addon_html += "<span class='aptYear'>    " + aptYear + "</span></div>";
+              addon_html += "<div class='apt_info'>"+ house_num.toLocaleString() + "세대 / ";
+
+              if(apt_type == "ABYG"){
+                aptAddress = listData[i]["법정동주소"]
+                addon_html += aptAddress + "</div>";
+              }
+              else{
+                addon_html += aptAddress + "</div>";
+              }
+
+              addon_html += "<div class='themePoint'>공시가격: " + min_land_price + "억 ~ " + max_land_price + "억 <span style='color:#555'>/ 최고 " + max_floor + "층, 최저 " + min_floor + "층</span></div>";
+              addon_html += "</div>";
+              addon_html += "<div id='NLink'><button type='button' class='goThemeLink' onclick='openNaver(" + searchCode + ")'>N부동산</button></div>"
+
+              shareText += "ㆍ" + aptName + "\n"
+
+              distance_check.push([aptName, coord_y, coord_x, aptAddress, searchCode, house_num, aptYear])
+            }
+            $('#themeDataList').append(addon_html);            
+          } 
 
           if(type == "under5floor"){            
             if(max_floor <= 5){
@@ -880,6 +912,10 @@
             addon_html = "<div class='content'><div class='apt_name' style='text-align:center; padding-top: 2em'>" + $('#sido option:selected').text() + " " + $('#gungu option:selected').text() + "에는 <br> 공시가격 1억 이하 아파트 단지가 없네요. </div></div>"
             shareText = "공시가격 1억 이하 아파트 단지가 없네요.\n"
           }
+          if(type == "under300M"){
+            addon_html = "<div class='content'><div class='apt_name' style='text-align:center; padding-top: 2em'>" + $('#sido option:selected').text() + " " + $('#gungu option:selected').text() + "에는 <br> 공시가격 3억 이하 아파트 단지가 없네요. </div></div>"
+            shareText = "공시가격 3억 이하 아파트 단지가 없네요.\n"
+          }
           if(type == "under5floor"){
             addon_html = "<div class='content'><div class='apt_name' style='text-align:center; padding-top: 2em'>" + $('#sido option:selected').text() + " " + $('#gungu option:selected').text() + "에는 <br> 5층 이하 아파트 단지가 없네요. </div></div>"
             shareText = "5층 이하 아파트 단지가 없네요.\n"
@@ -911,6 +947,9 @@
     shareTitle += "'" + $('#sido option:selected').text() + " " + $('#gungu option:selected').text() + "' "
     if(type == "under100M"){
       shareTitle += "공시가격 1억 이하 아파트 단지\n\n"
+    }
+    if(type == "under300M"){
+      shareTitle += "공시가격 3억 이하 아파트 단지\n\n"
     }
     if(type == "under5floor"){
       shareTitle += "5층 이하 아파트 단지\n\n"      
@@ -1561,7 +1600,7 @@
     var titleHtml = "<div class='popupTitle'> 아파트랭크:THEME </div>";
     var footerHtml = ""
     var detailHtml = "<div class='notice'>아파트랭크에서 많이 요청된 검색 테마를 한 번에 볼 수 있도록 '아파트랭크:THEME' 서비스를 오픈했습니다.</div>"
-    detailHtml +=  "<div class='notice'>각 지역의 <strong>'공시가격 1억 이하 단지', '5층 이하 단지', '30년 이상 단지', '분양권 단지', '재건축 단지' </strong>목록을 제공합니다.</div>";
+    detailHtml +=  "<div class='notice'>각 지역의 <strong>'공시가격 1억 이하 단지', '공시가격 3억 이하 단지', '5층 이하 단지', '30년 이상 단지', '분양권 단지', '재건축 단지' </strong>목록을 제공합니다.</div>";
     detailHtml += "<div class='notice'>업데이트 알림은 <a href='https://pf.kakao.com/_vESNb' target='_blank'>카카오톡 채널</a>을 통해 전달됩니다.</div>";
     detailHtml += "<hr>";    
     detailHtml += "<div class='popupTitle' style='text-align: center; padding-bottom: 1em'>꼭 읽어주세요!</div>";
@@ -1579,8 +1618,7 @@
     detailHtml += "<li><div class='notice'><a href='https://open.kakao.com/o/gAeDKrEd' style='text-decoration:none' target='_blank'>[필수방] 전국 투자자랑 - 1억이하편</a></div></li>";
     detailHtml += "<li><div class='notice'><a href='https://open.kakao.com/o/ger08lUd' style='text-decoration:none' target='_blank'>시간탐험대:돈대구만</a></div></li>";
     detailHtml += "<li><div class='notice'><a href='https://open.kakao.com/o/gcTkA5Gd' style='text-decoration:none' target='_blank'>♡ 청주 부동산 수다방 ♡</a></div></li>";
-    detailHtml += "<li><div class='notice'><a href='https://open.kakao.com/o/gWilBhbd' style='text-decoration:none' target='_blank'>[논부방] 인천 논현동 부동산 정보방</a></div></li>";
-    detailHtml += "<li><div class='notice'><a href='https://open.kakao.com/o/g3ns0sSb' style='text-decoration:none' target='_blank'>죽현마을 동원로얄듀크</a></div></li>";
+    detailHtml += "<li><div class='notice'><a href='https://open.kakao.com/o/gWilBhbd' style='text-decoration:none' target='_blank'>[논부방] 인천 논현동 부동산 정보방</a></div></li>";    
     detailHtml += "<li><div class='notice'><a href='https://open.kakao.com/o/giin8FMd' style='text-decoration:none' target='_blank'>부산.울산.경남 부울경 재테크 모임방</a></div></li>";
     detailHtml += "<li><div class='notice'><a href='https://open.kakao.com/o/gwVSsr3b' style='text-decoration:none' target='_blank'>[00112] 부돈산 스터디</a></div></li>";
     detailHtml += "</ul>";
