@@ -12,7 +12,7 @@
     height: 51px;    
     text-align: center;
     line-height: 50px;
-    background-color: #ff3d38;
+    background-color: #fe4040;
   }
   #titleBar_theme{
     position: fixed;
@@ -25,7 +25,7 @@
     height: 51px;    
     text-align: center;
     line-height: 50px;
-    background-color: #ff3d38;
+    background-color: #fe4040;
   }
   #title{
     font-family: Roboto;
@@ -235,7 +235,7 @@
     color: #fff;
     font-size: 0.9em;
     font-weight: 600;
-    background-color: #ff3d38;
+    background-color: #fe4040;
     height: 2em;
     width: 100%;
     margin-top: 10px;
@@ -284,7 +284,7 @@
   .rankup{
     text-align: center;
     font-size: 0.6em;
-    color:#ff3d38
+    color:#fe4040
   }
   .rankdown{
     text-align: center;
@@ -326,7 +326,7 @@
   .themePoint{
     font-size: 0.75em;
     font-weight: 600;
-    color: #ff3d38;
+    color: #fe4040;
   }
 
   #selections{        
@@ -336,7 +336,7 @@
     justify-content: center;
     padding-top: 10px;
     padding-bottom: 10px;    
-    background-color: #ff3d38;
+    background-color: #fe4040;
     position: fixed;
     top: 50px;
     left: 0;
@@ -349,7 +349,7 @@
     justify-content: center;
     padding-top: 10px;
     padding-bottom: 10px;    
-    background-color: #ff3d38;
+    background-color: #fe4040;
     position: fixed;
     top: 50px;
     left: 0;
@@ -362,7 +362,7 @@
     justify-content: center;
     padding-top: 2px;
     padding-bottom: 2px;    
-    background-color: #ff3d38;
+    background-color: #fe4040;
     position: fixed;
     top: 95px;
     left: 0;
@@ -380,7 +380,7 @@
     justify-content: center;
     padding-top: 1px;
     padding-bottom: 1px;    
-    background-color: #ff3d38;
+    background-color: #fe4040;
     position: fixed;
     bottom: 0;
     left: 0;
@@ -662,7 +662,7 @@
   .goApt{
     width: 100%;    
     height: 2.5em;
-    background-color: #ff3d38;
+    background-color: #fe4040;
     color: white;
     font-weight: 600;
     border-radius: 5px;
@@ -732,20 +732,20 @@
   }
 
   .form-check-input:checked{
-    background-color: #ff3d38 !important;
-    border-color:  #ff3d38 !important;
+    background-color: #fe4040 !important;
+    border-color:  #fe4040 !important;
   }  
   .form-check-input:checked:focus{
     box-shadow: 0 0 0 1px #fff, 0 0 0 0.2rem rgba(255, 200, 200, 0.25);
-    border-color:  #ff3d38;
+    border-color:  #fe4040;
   }
   .form-check-input:focus{
     box-shadow: 0 0 0 1px #fff, 0 0 0 0.2rem rgba(255, 200, 200, 0.25);
-    border-color:  #ff3d38;
+    border-color:  #fe4040;
   }
   .form-check-input:active{
     background-color: #ffcecc;
-    border-color:  #ff3d38;
+    border-color:  #fe4040;
   }
 
   @media screen and (min-width: 800px){

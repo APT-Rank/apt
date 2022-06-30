@@ -94,9 +94,9 @@ function openSimulation(arr, index){
 
   //타이틀
   //titleHtml += "<div class='popupTitle'>" + aptName + " " + apt_p + "(" + apt_m + ")</div>";
-  //titleHtml += "<div class='popupTitle' style='color: #fff; font-size: 0.6em; text-align: center; border-radius: 10px; background: #ff3d38; margin-bottom: 3px'>랭크 시뮬레이션</div>";
-  titleHtml += "<div class='popupTitle' style='color: #ff3d38; font-size: 0.6em; text-align: center; border-bottom: 1px solid #ff3d38; border-top: 1px solid #ff3d38;margin-bottom: 3px'>랭크 시뮬레이션</div>";
-  //titleHtml += "<div class='popupSubtitle' style='font-size: 0.5em; font-weight:600; color:#ff3d38; text-align: center; margin-bottom: 5px'>시뮬레이션은 기존 결과와 다소 상이할 수 있습니다.</div>";
+  //titleHtml += "<div class='popupTitle' style='color: #fff; font-size: 0.6em; text-align: center; border-radius: 10px; background: #fe4040; margin-bottom: 3px'>랭크 시뮬레이션</div>";
+  titleHtml += "<div class='popupTitle' style='color: #fe4040; font-size: 0.6em; text-align: center; border-bottom: 1px solid #fe4040; border-top: 1px solid #fe4040;margin-bottom: 3px'>랭크 시뮬레이션</div>";
+  //titleHtml += "<div class='popupSubtitle' style='font-size: 0.5em; font-weight:600; color:#fe4040; text-align: center; margin-bottom: 5px'>시뮬레이션은 기존 결과와 다소 상이할 수 있습니다.</div>";
   titleHtml += "<div class='popupTitle' style='text-align: center'>" + aptName + "</div>";  
 
   if(apt_type == "분양권"){
@@ -1325,7 +1325,7 @@ function showSimulResult(resultValue, arr, length){
 
   //타이틀
   //titleHtml += "<div class='popupTitle'>" + aptName + " " + apt_p + "(" + apt_m + ")</div>";
-  titleHtml += "<div class='popupTitle' style='color: #ff3d38; font-size: 0.6em; text-align: center; border-bottom: 1px solid #ff3d38; border-top: 1px solid #ff3d38;margin-bottom: 3px'>랭크 시뮬레이션 결과</div>";
+  titleHtml += "<div class='popupTitle' style='color: #fe4040; font-size: 0.6em; text-align: center; border-bottom: 1px solid #fe4040; border-top: 1px solid #fe4040;margin-bottom: 3px'>랭크 시뮬레이션 결과</div>";
   titleHtml += "<div class='popupTitle' style='text-align: center'>" + arr["아파트명"] + "</div>";
   titleHtml += "<div class='popupSubtitle' style='font-size: 0.6em; text-align: center'>" + arr["법정동주소"] + "</div>";
 
@@ -1416,13 +1416,13 @@ function showSimulResult(resultValue, arr, length){
 
 //  $('.popContent').css({"line-height" : "2.4em"})  
   $('.modal-title').css({"width" : "100%"})
-  drawSimulSubChart(resultValue[0][0].toFixed(2), arr["가치 총점"].toFixed(2), "시뮬레이션", "기존", "#ff3d38", "#9f9f9f", "simulBalancedChart")
-  drawSimulSubChart(resultValue[1][0].toFixed(2), arr["주거총점"].toFixed(2), "시뮬레이션", "기존", "#ff3d38", "#9f9f9f", "simulLivingChart")
+  drawSimulSubChart(resultValue[0][0].toFixed(2), arr["가치 총점"].toFixed(2), "시뮬레이션", "기존", "#fe4040", "#9f9f9f", "simulBalancedChart")
+  drawSimulSubChart(resultValue[1][0].toFixed(2), arr["주거총점"].toFixed(2), "시뮬레이션", "기존", "#fe4040", "#9f9f9f", "simulLivingChart")
   if(resultValue[2][0] != 0){
-    drawSimulSubChart(resultValue[2][0].toFixed(2), arr["교통총점"].toFixed(2), "시뮬레이션", "기존", "#ff3d38", "#9f9f9f", "simulTransChart")
+    drawSimulSubChart(resultValue[2][0].toFixed(2), arr["교통총점"].toFixed(2), "시뮬레이션", "기존", "#fe4040", "#9f9f9f", "simulTransChart")
   }
-  drawSimulSubChart(resultValue[3][0].toFixed(2), arr["인프라총점"].toFixed(2), "시뮬레이션", "기존", "#ff3d38", "#9f9f9f", "simulInfraChart")
-  drawSimulSubChart(resultValue[4][0].toFixed(2), arr["학군총점"].toFixed(2), "시뮬레이션", "기존", "#ff3d38", "#9f9f9f", "simulEduChart")
+  drawSimulSubChart(resultValue[3][0].toFixed(2), arr["인프라총점"].toFixed(2), "시뮬레이션", "기존", "#fe4040", "#9f9f9f", "simulInfraChart")
+  drawSimulSubChart(resultValue[4][0].toFixed(2), arr["학군총점"].toFixed(2), "시뮬레이션", "기존", "#fe4040", "#9f9f9f", "simulEduChart")
   
   $('#toggleModal2').modal("show");
 }

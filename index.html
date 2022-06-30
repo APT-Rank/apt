@@ -759,7 +759,7 @@
         }
         $('#dataList').append("<div style='height: 1.5em'></div>");
         if(!(minValue == 0 && maxValue == 60)){
-          $(".aptPrice").css({'color': '#ff3d38', 'font-weight': '600'})
+          $(".aptPrice").css({'color': '#fe4040', 'font-weight': '600'})
         }
     })    
     showWeight()
@@ -1129,7 +1129,7 @@
 
       detailHtml += "<div class='card'>";
       detailHtml += "<div class='card-header'>";
-      detailHtml += "<div class='popTitle'><i class='fa-solid fa-coins'></i>&nbsp&nbsp실거래가 <span style='font-size: 0.7em; color:#ff3d38'> (최근 1개월내 실거래는 빨간색으로 표시)</span> </div>"
+      detailHtml += "<div class='popTitle'><i class='fa-solid fa-coins'></i>&nbsp&nbsp실거래가 <span style='font-size: 0.7em; color:#fe4040'> (최근 1개월내 실거래는 빨간색으로 표시)</span> </div>"
       detailHtml += "</div>";
       detailHtml += "<div class='card-body' style='padding-left: 5px ; padding-right: 5px; padding-top: 5px;'>";
       detailHtml += "<div id='popEducation'>"
@@ -1152,7 +1152,7 @@
         var compare_day = Number(last_sales_date.substr(8, 2))
         var compare_date = new Date(compare_year, compare_month, compare_day)
         if(compare_date > start_date){
-          detailHtml += "<div class='popResult' style='color: #ff3d38'>" + last_sales_area + ", " + Math.round(last_sales_price/100)/100 + "억, "+ last_sales_date.substr(2) + "</div></div>"
+          detailHtml += "<div class='popResult' style='color: #fe4040'>" + last_sales_area + ", " + Math.round(last_sales_price/100)/100 + "억, "+ last_sales_date.substr(2) + "</div></div>"
         }
         else{
           detailHtml += "<div class='popResult'>" + last_sales_area + ", " + Math.round(last_sales_price/100)/100 + "억, "+ last_sales_date.substr(2) + "</div></div>"
@@ -1185,8 +1185,8 @@
                   var compare_date = new Date(compare_year, compare_month, compare_day)                                
 
                   if(compare_date > start_date){
-                    detailHtml += "<td><span style='color:#ff3d38; font-weight:600'>" + area_array[k] + "</span></td>"
-                    detailHtml += "<td><span style='color:#ff3d38; font-weight:600'>" + ( Math.round( sales_info_split[0] * 100 ) / 100 ).toFixed(2) + "억" + "<span style='font-size: 0.85em'>" + sales_info_split[1] + "</span></span></td>"
+                    detailHtml += "<td><span style='color:#fe4040; font-weight:600'>" + area_array[k] + "</span></td>"
+                    detailHtml += "<td><span style='color:#fe4040; font-weight:600'>" + ( Math.round( sales_info_split[0] * 100 ) / 100 ).toFixed(2) + "억" + "<span style='font-size: 0.85em'>" + sales_info_split[1] + "</span></span></td>"
                   }
                   else{
                     detailHtml += "<td>" + area_array[k] + "</td>"
@@ -1198,7 +1198,7 @@
                 }
                 else{
                   if(compare_date > start_date){
-                    detailHtml += "<td><span style='color:#ff3d38; font-weight:600'>" + Number(price_per_array[k]).toLocaleString() + "만원" + "</span></td>"
+                    detailHtml += "<td><span style='color:#fe4040; font-weight:600'>" + Number(price_per_array[k]).toLocaleString() + "만원" + "</span></td>"
                   }
                   else{
                     detailHtml += "<td>" + Number(price_per_array[k]).toLocaleString() + "만원" + "</td>"
@@ -1333,13 +1333,13 @@
     }
 
     drawChart(aptValue, livingScore, transportScore, infraScore, eduScore)
-    drawSubChart(livingScore, avgLivingScore, "주거총점", "지역평균", "#ff3d38", "#9f9f9f",  "livingChart")
+    drawSubChart(livingScore, avgLivingScore, "주거총점", "지역평균", "#fe4040", "#9f9f9f",  "livingChart")
     if(isNaN(transportScore) == false){
-      drawSubChart(transportScore, avgTransportScore, "교통총점", "지역평균", "#ff3d38", "#9f9f9f", "transportChart")
+      drawSubChart(transportScore, avgTransportScore, "교통총점", "지역평균", "#fe4040", "#9f9f9f", "transportChart")
     }
-    drawSubChart(infraScore, avgInfraScore, "인프라총점", "지역평균", "#ff3d38", "#9f9f9f", "infraChart")
-    drawSubChart(eduScore, avgEduScore, "교육총점", "지역평균", "#ff3d38", "#9f9f9f", "eduChart")
-    drawSubChart(eduScore, avgEduScore, "인구총점", "일자리총점", "#ff3d38", "#ff3d38", "regionChart")
+    drawSubChart(infraScore, avgInfraScore, "인프라총점", "지역평균", "#fe4040", "#9f9f9f", "infraChart")
+    drawSubChart(eduScore, avgEduScore, "교육총점", "지역평균", "#fe4040", "#9f9f9f", "eduChart")
+    drawSubChart(eduScore, avgEduScore, "인구총점", "일자리총점", "#fe4040", "#fe4040", "regionChart")
   }
 
   function updateRegionTable(month){
@@ -1631,9 +1631,9 @@
       drawRankChart(rankMonth, rankData, regData.data[itemNum-1]["rank"])
     }
     drawChart(regValue, regSupplyScore, regPopScore, regJobScore, "region")
-    //drawSubChart(regSupplyScore, avgSupplyScore, "공급량총점", "전국평균", "#ff3d38", "#9f9f9f", "supplyChart")
-    drawSubChart(regPopScore, avgPopScore, "인구총점", "전국평균", "#ff3d38", "#9f9f9f", "popChart")
-    drawSubChart(regJobScore, avgJobScore, "일자리총점", "전국평균", "#ff3d38", "#9f9f9f", "jobChart")
+    //drawSubChart(regSupplyScore, avgSupplyScore, "공급량총점", "전국평균", "#fe4040", "#9f9f9f", "supplyChart")
+    drawSubChart(regPopScore, avgPopScore, "인구총점", "전국평균", "#fe4040", "#9f9f9f", "popChart")
+    drawSubChart(regJobScore, avgJobScore, "일자리총점", "전국평균", "#fe4040", "#9f9f9f", "jobChart")
     //drawPriceRateChart(dateArray, salesArray, rentArray)
 
     if(Number(selectedMonth) > 202203){
@@ -1789,8 +1789,8 @@
     if(selectedMonth == "202206"){
       detailHtml += "<div class='popupTitle' style='text-align: center; padding-bottom: 1em'> 2022년 6월 2차 업데이트 안내 (2022-06-18)</div>";
       detailHtml += "<ul>"
-      detailHtml += "<li><div class='notice'> 내가 원하는 정보를 입력하여 랭크와 점수를 확인하는 <br><span style='font-weight: 600; color: #ff3d38;'>[랭크 시뮬레이션 (BETA)]</span> 기능을 추가했습니다.</div></li>"
-      detailHtml += "<li><div class='notice'> <span style='font-weight: 600; color: #ff3d38;'>[랭크 시뮬레이션 (BETA)]</span>는 아파트 단지 선택 후, 종합 순위 하단의 버튼을 눌러 사용할 수 있습니다.</div></li>";
+      detailHtml += "<li><div class='notice'> 내가 원하는 정보를 입력하여 랭크와 점수를 확인하는 <br><span style='font-weight: 600; color: #fe4040;'>[랭크 시뮬레이션 (BETA)]</span> 기능을 추가했습니다.</div></li>"
+      detailHtml += "<li><div class='notice'> <span style='font-weight: 600; color: #fe4040;'>[랭크 시뮬레이션 (BETA)]</span>는 아파트 단지 선택 후, 종합 순위 하단의 버튼을 눌러 사용할 수 있습니다.</div></li>";
       detailHtml += "<li><div><img src='https://www.aptrank.kr/rank_simulation_202206.jpg' width='70%'/></div></li>";
       detailHtml += "<li><div class='notice'> 2022년 6월 18일자 네이버 부동산 데이터 적용했습니다.</div></li>";
       detailHtml += "<li><div class='notice'> 단지별 기본 표시 주소를 도로명주소에서 법정동주소로 변경했습니다.</div></li>";

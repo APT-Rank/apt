@@ -217,13 +217,13 @@ function showSearchBar(){
           }
           
           if(rearrangeAPTSelection == "rearrangePrice" || !(minValue == 0 && maxValue == 60)){
-            $(".aptPrice").css({'color': '#ff3d38', 'font-weight': '600'})
+            $(".aptPrice").css({'color': '#fe4040', 'font-weight': '600'})
           }
           if(rearrangeAPTSelection == "rearrangeNew"){
-            $(".aptYear").css({'color': '#ff3d38', 'font-weight': '600'})
+            $(".aptYear").css({'color': '#fe4040', 'font-weight': '600'})
           }
           if(rearrangeAPTSelection == "rearrangeHouse"){
-            $(".aptNum").css({'color': '#ff3d38', 'font-weight': '600'})
+            $(".aptNum").css({'color': '#fe4040', 'font-weight': '600'})
           }
 
         }
@@ -341,17 +341,17 @@ function showSearchBar(){
           $('#dataList').append(addon_html);
         }
         if(rearrangeRegionSelection == "rearrangeRegionPop"){            
-          $(".regionPop").css({'color': '#ff3d38', 'font-weight': '600'})
+          $(".regionPop").css({'color': '#fe4040', 'font-weight': '600'})
         }
         if(rearrangeRegionSelection == "rearrangeRegionPopUpDown"){
-          $(".regionPopUp").css({'color': '#ff3d38', 'font-weight': '600'})
+          $(".regionPopUp").css({'color': '#fe4040', 'font-weight': '600'})
           $(".regionPopDown").css({'color': 'blue', 'font-weight': '600'})
         }
         if(rearrangeRegionSelection == "rearrangeRegionJob"){
-          $(".regionJob").css({'color': '#ff3d38', 'font-weight': '600'})
+          $(".regionJob").css({'color': '#fe4040', 'font-weight': '600'})
         }
         if(rearrangeRegionSelection == "rearrangeRegionIncome"){
-          $(".regionIncome").css({'color': '#ff3d38', 'font-weight': '600'})
+          $(".regionIncome").css({'color': '#fe4040', 'font-weight': '600'})
         }        
       }
       $('html').scrollTop(0)

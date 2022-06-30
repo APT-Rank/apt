@@ -1544,13 +1544,13 @@
     }
 
     drawChart(aptValue, livingScore, transportScore, infraScore, eduScore)
-    drawSubChart(livingScore, avgLivingScore, "주거총점", "지역평균", "#ff3d38", "#9f9f9f",  "livingChart")
+    drawSubChart(livingScore, avgLivingScore, "주거총점", "지역평균", "#fe4040", "#9f9f9f",  "livingChart")
     if(isNaN(transportScore) == false){
-      drawSubChart(transportScore, avgTransportScore, "교통총점", "지역평균", "#ff3d38", "#9f9f9f", "transportChart")
+      drawSubChart(transportScore, avgTransportScore, "교통총점", "지역평균", "#fe4040", "#9f9f9f", "transportChart")
     }
-    drawSubChart(infraScore, avgInfraScore, "인프라총점", "지역평균", "#ff3d38", "#9f9f9f", "infraChart")
-    drawSubChart(eduScore, avgEduScore, "교육총점", "지역평균", "#ff3d38", "#9f9f9f", "eduChart")
-    drawSubChart(eduScore, avgEduScore, "인구총점", "일자리총점", "#ff3d38", "#ff3d38", "regionChart")
+    drawSubChart(infraScore, avgInfraScore, "인프라총점", "지역평균", "#fe4040", "#9f9f9f", "infraChart")
+    drawSubChart(eduScore, avgEduScore, "교육총점", "지역평균", "#fe4040", "#9f9f9f", "eduChart")
+    drawSubChart(eduScore, avgEduScore, "인구총점", "일자리총점", "#fe4040", "#fe4040", "regionChart")
   }
 
   function show_apt(month, filename, sido){
