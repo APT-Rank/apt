@@ -1,0 +1,32 @@
+{
+    "name": "오피스텔랭크",
+    "short_name": "오피스텔랭크",
+    "description": "데이터로 분석된 오피스텔 입지 순위",
+    "dir": "ltr",
+    "start_url": "/index.html",
+    "display": "standalone",
+    "theme_color": "#000000",
+    "background_color": "#ff3d38",
+    "orientation": "portrait",
+    "icons": [{
+      "src": "https://www.aptrank.kr/op/op-rank-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },{
+      "src": "https://www.aptrank.kr/op/op-rank-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    }, {
+      "src": "https://www.aptrank.kr/op/op-rank-152x152.png",
+      "sizes": "152x152",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }, {
+      "src": "https://www.aptrank.kr/op/op-rank-114x114.png",
+      "sizes": "114x114",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }]
+}
