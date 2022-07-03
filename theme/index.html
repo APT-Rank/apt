@@ -31,10 +31,10 @@
   <meta property="og:type" content="website">
   <meta property="og:title" content="아파트랭크:THEME">
   <meta property="og:description" content="대한민국 아파트 테마별 분류">
-  <meta property="og:image" content="https://www.aptrank.kr/thumbnail_theme.png">
+  <meta property="og:image" content="https://www.aptrank.kr/theme/thumbnail_theme.png">
   <meta property="og:url" content="https://www.aptrank.kr/theme">
   <meta name="keyword" content="부동산, 아파트, 입지, 순위, 아파트입지, 우리동네, 호가, 대장아파트, 최고가, 신고가, 호재, AI, 등수">
-  <meta name="description" content="AI가 선정하는 대한민국 아파트 입지 랭크">
+  <meta name="description" content="대한민국 아파트 테마별 분류">
   <meta name="author" content="아파트랭크">
   <meta name="robots" content="index,follow">
   <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no, minimal-ui">
@@ -46,7 +46,7 @@
   <!-- 홈 화면에서 표시되는 앱 이름을 지정 -->
   <meta name="apple-mobile-web-app-title" content="아파트랭크:THEME">
   <!-- 홈 화면에서 표시되는 앱 아이콘을 지정 -->
-  <link rel="apple-touch-icon" href="https://www.aptrank.kr/apt-rank-theme-152x152.png">
+  <link rel="apple-touch-icon" href="https://www.aptrank.kr/theme/apt-rank-theme-152x152.png">
   <!-- 웹 앱 매니페스트를 읽어 들이기 -->
   <link rel="manifest" href="manifest_theme.json">  
 
@@ -55,7 +55,7 @@
   <link href="https://cdn.jsdelivr.net/npm/@mdi/font@6.x/css/materialdesignicons.min.css" rel="stylesheet">
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css" integrity="sha512-9usAa10IRO0HhonpyAIVpjrylPvoDwiPUiKdWk5t3PyolY1cOd4DSE0Ga+ri4AuTroPR5aQvXU9xC6qOPnzFeg==" crossorigin="anonymous" referrerpolicy="no-referrer" />
   <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-1BmE4kWBq78iYhFldvKuhfTAU6auU8tT94WrHftjDbrCEXSU1oBoqyl2QvZ6jIW3" crossorigin="anonymous">
-  <link rel="shortcut icon" href="https://www.aptrank.kr/apt-rank-theme.png"/>
+  <link rel="shortcut icon" href="https://www.aptrank.kr/theme/apt-rank-theme.png"/>
 
 
   <script src="https://code.jquery.com/jquery-3.6.0.min.js" integrity="sha256-/xUj+3OJU5yExlq6GSYGSHk7tPXikynS7ogEvDej/m4=" crossorigin="anonymous"></script>
@@ -120,7 +120,7 @@
       </div>
 
       <!--단지 가중치 표시창-->
-      <div id="weight">업데이트 : 2022-06-18, 네이버 부동산 정보 기준</div>
+      <div id="weight">업데이트: 2022-07-03, 네이버 부동산 정보 | 공시 기준일 2021-01-01</div>
 
       <!--단지 검색창-->
       <div id="searchCard">
@@ -179,8 +179,8 @@
 
       <!--아파트랭크 연결-->      
       <div id="linkToAptrank" onClick='openAptrank()'>
-        <div>Powered by 아파트랭크 - 데이터 기반 아파트 입지 분석</div>
-        <div style='font-size: 1.15em'><i class="fa-solid fa-circle-arrow-right"></i></div>
+        <div onClick='openAptrank()' style="background-color: #fe4040; height: 30px; line-height: 30px">Powered by 아파트랭크  <i class="fa-solid fa-circle-arrow-right"></i></div>
+        <div onClick='openOprank()' style="background-color: #fe4040; height: 30px; line-height: 30px">오피스텔랭크  <i class="fa-solid fa-circle-arrow-right"></i></div>
       </div>
 
       <!--단지 검색창 닫기 플로팅 버튼-->
@@ -1594,6 +1594,10 @@
 
   function openAptrank(){
     aURL = "https://www.aptrank.kr" + "?reg=" + selectedRegion +"&sub=" + selectedSubRegion
+    window.open(aURL)
+  }
+  function openOprank(){
+    aURL = "https://www.aptrank.kr/op" + "?reg=" + selectedRegion +"&sub=" + selectedSubRegion
     window.open(aURL)
   }
   function showNotice(){

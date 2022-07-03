@@ -288,7 +288,7 @@
   .rankup{
     text-align: center;
     font-size: 0.6em;
-    color:#293249
+    color:red
   }
   .rankdown{
     text-align: center;
@@ -308,7 +308,7 @@
     background: #f7f7f7;
   }  
   .apt_address{
-    font-size: 0.8em;
+    font-size: 0.7em;
     color: gray;
   }  
   .regionPopUp, .regionPopDown{
@@ -324,7 +324,7 @@
     color: gray
   }
   .apt_info{
-    font-size: 0.8em;
+    font-size: 0.7em;
     color:rgb(85, 85, 85);
   }
   .themePoint{
@@ -379,12 +379,11 @@
 
   #linkToAptrank{
     display: grid;    
-    grid-template-columns: 1fr 30px;
+    grid-template-columns: 1fr 1fr;
     align-content: center;
     justify-content: center;
     padding-top: 1px;
     padding-bottom: 1px;    
-    background-color: #293249;
     position: fixed;
     bottom: 0;
     left: 0;

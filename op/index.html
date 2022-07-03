@@ -180,9 +180,9 @@
       <div id="dataList"></div>
 
       <!--아파트랭크 연결-->
-      <div id="linkToAptrank" onClick='openAptrank()'>
-        <div>아파트랭크 - 데이터로 분석된 아파트 입지 순위</div>
-        <div style='font-size: 1.15em'><i class="fa-solid fa-circle-arrow-right"></i></div>
+      <div id="linkToAptrank">
+        <div onClick='openAptrank()' style="background-color: #293249; height: 30px; line-height: 30px">Powered by 아파트랭크  <i class="fa-solid fa-circle-arrow-right"></i></div>
+        <div onClick='openAptrankTheme()' style="background-color: #293249; height: 30px; line-height: 30px">아파트랭크:THEME  <i class="fa-solid fa-circle-arrow-right"></i></div>
       </div>
 
       <!--단지 검색창 닫기 플로팅 버튼-->
@@ -1531,12 +1531,12 @@
       rankMonth.reverse()
       rankData.reverse()
 
-      drawRankChart(rankMonth, rankData, regData.data[itemNum-1]["rank"])
+      drawRankChart_op(rankMonth, rankData, regData.data[itemNum-1]["rank"])
     }
-    drawChart(regValue, regSupplyScore, regPopScore, regJobScore, "region")
+    drawChart_op(regValue, regSupplyScore, regPopScore, regJobScore, "region")
     //drawSubChart(regSupplyScore, avgSupplyScore, "공급량총점", "전국평균", "#fe4040", "#9f9f9f", "supplyChart")
-    drawSubChart(regPopScore, avgPopScore, "인구총점", "전국평균", "#fe4040", "#9f9f9f", "popChart")
-    drawSubChart(regJobScore, avgJobScore, "일자리총점", "전국평균", "#fe4040", "#9f9f9f", "jobChart")
+    drawSubChart(regPopScore, avgPopScore, "인구총점", "전국평균", "#293249", "#4f5e84", "popChart")
+    drawSubChart(regJobScore, avgJobScore, "일자리총점", "전국평균", "#293249", "#4f5e84", "jobChart")
     //drawPriceRateChart(dateArray, salesArray, rentArray)
 
     if(Number(selectedMonth) > 202203){
@@ -1608,6 +1608,11 @@
     window.open(aURL)
   }
 
+  function openAptrankTheme(){
+    aURL = "https://www.aptrank.kr/theme" + "?reg=" + selectedRegion +"&sub=" + selectedSubRegion
+    window.open(aURL)
+  }
+
   function showNotice(){
     noticePop = true
     var titleHtml = "<div class='popupTitle'> 오피스텔랭크에서 알려드립니다 </div>";
@@ -1635,7 +1640,7 @@
     $('#footerBtn3').css({"grid-column" : "span 2"})
     $('.modal-footer').css({"padding-top" : "3px"})
 
-    if($.cookie('popCookie') != '20220618'){
+    if($.cookie('popCookie') != '202207'){
       $('#flexCheckDefault').prop("checked", false)
     }
     else{
@@ -1645,7 +1650,7 @@
     $('#flexCheckDefault').change(function(){
       if($(this).is(':checked')){
         console.log("CHECKED!!")
-        $.cookie('popCookie', '20220618', { expires: 7, path: '/' });
+        $.cookie('popCookie', '202207', { expires: 7, path: '/' });
         console.log($.cookie('popCookie'))
       }
       else{

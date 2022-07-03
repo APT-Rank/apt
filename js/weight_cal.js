@@ -33,7 +33,8 @@ infra_rate_metro = {'department_store' : 0.25,  //백화점
 
 education_rate = { 'primary_school': 0.25,    //초등학군
                    'academy': 0.3,            //학원가
-                   'middle_school' : 0.45  }  //중학군
+                   'middle_school' : 0.45,    //중학군
+                   'harmful' : 0.3  }  //중학군                   
 
 total_rate_seoul = {  
                 'supply':0,      //공급물량

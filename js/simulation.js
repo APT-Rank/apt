@@ -40,7 +40,7 @@ function closeLoading() {
 }
 
 function openSimulation(arr, index){
-  $('#exampleModal').modal("hide");  
+  $('#exampleModal').modal("hide");
 
   titleHtml = "";
   detailHtml = "";
@@ -85,7 +85,10 @@ function openSimulation(arr, index){
   var heating = arr[index]["난방"]
   var entrance = arr[index]["현관구조"]
   var sales_info = arr[index]["sales_info"]
-  var price_per = arr[index]["price_per"]  
+  var price_per = arr[index]["price_per"]
+  var drink_pub = arr[index]["300m이내유흥주점"]
+  var daran_pub = arr[index]["300m이내단란주점"]
+  var motel = arr[index]["300m이내모텔"]
 
   var last_sales = arr[index]["last_sales"].split(",")
   var last_sales_date = last_sales[0].toString()
@@ -407,6 +410,13 @@ function openSimulation(arr, index){
   }
   detailHtml += "</select></div></div>"
 
+  //유흥시설, 모텡
+  detailHtml += "<div class='popSubTable'><div class='popContent'>" + "300m 유흥시설/모텔" + "</div>" + "<div class='popResult'><select class='optionSelect' id='drinkMotelOption' onChange='putVal(this)'>"
+  for(var i = 0 ; i < drink_motel_option.length ; i++){
+    detailHtml += "<option value=" + i + ">" + drink_motel_option[i][0] + "개</option>"
+  }
+  detailHtml += "</select></div></div>"
+
   //추가 교육 가점
   detailHtml += "<div class='popSubTable'><div class='popContent'>" + "내맘대로 교육 가점 주기" + "</div>" + "<div class='popResult'><select class='optionSelect' id='eduAddOption' onChange='putVal(this)'>"
   for(var i = 0 ; i < add_option.length ; i++){
@@ -500,7 +510,7 @@ function openSimulation(arr, index){
     transSelections(arr[index]["가까운역거리"], stationPoint_30m, stationPoint_1h)
   }
   infraSelections(arr[index]["3km이내백화점수"], arr[index]["5km이내아울렛몰수"], arr[index]["1km이내대형먀트수"], arr[index]["300m이내점포수"], arr[index]["500m이내은행수"], arr[index]["500m이내병원수"], arr[index]["5km이내대형병원수"], arr[index]["500m이내공원수"], arr[index]["800m이내대형공원수"], arr[index]["3km이내혐오시설수"])
-  eduSelections(arr[index]["초등학교거리"], arr[index]["초등학교학업성취도"], arr[index]["중학교학업성취도"], arr[index]["500m이내학원수"])  
+  eduSelections(arr[index]["초등학교거리"], arr[index]["초등학교학업성취도"], arr[index]["중학교학업성취도"], arr[index]["500m이내학원수"], (drink_pub+daran_pub+motel))  
 
   $('.popContent').css({"line-height" : "2.4em"})
   $('.popSubTable').css({"height" : "2.5em"})
@@ -876,7 +886,7 @@ function infraSelections(department, outlet, bigMart, market, bank, hospital, bi
   simul_infra_score.push([add_option[0][0], add_option[0][1]])
 }
   
-function eduSelections(pSchool_dist, pSchool_edu, mSchool_edu, academy){
+function eduSelections(pSchool_dist, pSchool_edu, mSchool_edu, academy, drink_motel){
   pSchool_dist_value = 0
   if(pSchool_dist >= 0 && pSchool_dist < 100 ){
     pSchool_dist_value = 0
@@ -982,6 +992,17 @@ function eduSelections(pSchool_dist, pSchool_edu, mSchool_edu, academy){
   }
   $('#academyOption').val(academy_value).prop('selected', true)
   simul_edu_score.push([academy_option[academy_value][0], academy_option[academy_value][1]])
+  //console.log(academy_option[academy_value][0], " : ", academy_option[academy_value][1])
+
+  drink_motel_value = 0
+  if(drink_motel >= drink_motel_option.length){
+    drink_motel_value = drink_motel_option.length-1
+  }
+  else{
+    drink_motel_value = drink_motel
+  }
+  $('#drinkMotelOption').val(drink_motel_value).prop('selected', true)
+  simul_edu_score.push([drink_motel_option[drink_motel_value][0], drink_motel_option[drink_motel_value][1]])
   //console.log(academy_option[academy_value][0], " : ", academy_option[academy_value][1])
 
   $('#eduAddOption').val(0).prop('selected', true)
@@ -1100,9 +1121,13 @@ function putVal(e){
     simul_edu_score[3][0] = academy_option[e.value][0]
     simul_edu_score[3][1] = academy_option[e.value][1]
   }
+  if(e.id == "drinkMotelOption"){
+    simul_edu_score[4][0] = drink_motel_option[e.value][0]
+    simul_edu_score[4][1] = drink_motel_option[e.value][1]
+  }
   if(e.id == "eduAddOption"){
-    simul_edu_score[4][0] = add_option[e.value][0]
-    simul_edu_score[4][1] = add_option[e.value][1]
+    simul_edu_score[5][0] = add_option[e.value][0]
+    simul_edu_score[5][1] = add_option[e.value][1]
   }
 }
 
@@ -1148,7 +1173,8 @@ function calValue(arr, length){
   }
 
   pSchool_score = (simul_edu_score[0][1] * 0.65) + (simul_edu_score[1][1] * 0.35)
-  edu_score = ( (pSchool_score * education_rate['primary_school']) + (simul_edu_score[2][1] * education_rate['middle_school']) + (simul_edu_score[3][1] * education_rate['academy']) + simul_edu_score[4][1]  )
+  edu_score = ( (pSchool_score * education_rate['primary_school']) + (simul_edu_score[2][1] * education_rate['middle_school']) + 
+                (simul_edu_score[3][1] * education_rate['academy']) + (simul_edu_score[4][1] * education_rate['harmful'] * (-1)) + simul_edu_score[5][1] )
 
   if(address[0] == "서울시" || address[0] == "부산시"){            
       value_total = ( (living_score * total_rate_seoul['live']) + (trans_score * total_rate_seoul['transport']) + (infra_score * total_rate_seoul['infra']) + (edu_score * total_rate_seoul['education'])  )
@@ -1307,6 +1333,20 @@ function makeRate(value_total, living_score, trans_score, infra_score, edu_score
     }
   }
 
+  if(balanced_rank == 0){
+    balanced_rank = balanced_rate.length
+  }
+  if(living_rank == 0){
+    living_rank = living_rate.length
+  }
+  if(trans_rank == 0){
+    trans_rank = trans_rate.length
+  }
+  if(edu_rank == 0){
+    edu_rank = edu_rate.length
+  }
+
+
   //console.log("균형잡힌 랭크 : ", balanced_rank, " : ", value_total)
   //console.log("주거우선 랭크 : ", living_rank, " : ", living_score)
   //console.log("교통우선 랭크 : ", trans_rank, " : ", trans_score)
@@ -1407,7 +1447,8 @@ function showSimulResult(resultValue, arr, length){
   detailHtml += "<div class='popSubTable'><div class='popContent'>" + "초등학교 학생증감" + "</div>" + "<div class='popResult'>" + simul_edu_score[1][0] + "</div></div>";
   detailHtml += "<div class='popSubTable'><div class='popContent'>" + "중학교 학업성취도" + "</div>" + "<div class='popResult'>" + simul_edu_score[2][0] + "</div></div>";
   detailHtml += "<div class='popSubTable'><div class='popContent'>" + "500m 이내 학원" + "</div>" + "<div class='popResult'>" + simul_edu_score[3][0] + "</div></div>";
-  detailHtml += "<div class='popSubTable'><div class='popContent'>" + "내맘대로 교육 가점" + "</div>" + "<div class='popResult'>" + simul_edu_score[4][0] + "</div></div>";
+  detailHtml += "<div class='popSubTable'><div class='popContent'>" + "300m 유흥시설/모텔" + "</div>" + "<div class='popResult'>" + simul_edu_score[4][0] + "개</div></div>";
+  detailHtml += "<div class='popSubTable'><div class='popContent'>" + "내맘대로 교육 가점" + "</div>" + "<div class='popResult'>" + simul_edu_score[5][0] + "</div></div>";
   detailHtml += "</div></div></div></div>"
 
   $('#toggleModalLabe2').html(titleHtml);
