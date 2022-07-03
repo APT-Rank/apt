@@ -269,7 +269,7 @@
   }
 
   .listBox:active{
-    background-color: #ffdfde;
+    background-color: #deedff;
   }
   .value_score{
     text-align: right;
@@ -308,7 +308,7 @@
     background: #f7f7f7;
   }  
   .apt_address{
-    font-size: 0.7em;
+    font-size: 0.8em;
     color: gray;
   }  
   .regionPopUp, .regionPopDown{
@@ -320,11 +320,11 @@
     font-weight: bold;
   }
   .aptYear{
-    font-size: 0.8em;
+    font-size: 0.9em;
     color: gray
   }
   .apt_info{
-    font-size: 0.7em;
+    font-size: 0.8em;
     color:rgb(85, 85, 85);
   }
   .themePoint{

@@ -658,7 +658,7 @@
         eduSum = 0;
 
         for(var i = 0 ; i < itemNum ; i++){
-          var aptName = aptData.data[i]["아파트명"]
+          var aptName = aptData.data[i]["오피스텔명"]
           var apt_m = aptData.data[i]["전용면적(m2)"]
           var apt_p = aptData.data[i]["전용면적(평)"]
 
@@ -710,7 +710,7 @@
 
             addon_html += "<div class='apt_name'>" + aptName;
 
-            if(apt_type == "아파트"){
+            if(apt_type == "오피스텔"){
               addon_html += "<span class='aptYear'> (" + aptData.data[i]["준공년차"] + "년차)</span></div>";
             }
             if(apt_type == "재건축"){
@@ -767,7 +767,7 @@
     aptData = sortData
     var aptRank = (index+1) + "/" + aptData.data[itemNum-1]["rank"] + "위"
 
-    var aptName = aptData.data[index]["아파트명"]
+    var aptName = aptData.data[index]["오피스텔명"]
     var apt_m = aptData.data[index]["전용면적(m2)"]
     var apt_p = aptData.data[index]["전용면적(평)"]
     var apt_type = aptData.data[index]["매매타입"]
@@ -787,6 +787,7 @@
     }
 
     var nearestStation = aptData.data[index]["가까운역이름"] + "역" + "(" + ( Math.round( aptData.data[index]["가까운역거리"] * 100 ) / 100 ).toFixed()  + "m)"
+    var stationLine = aptData.data[index]["역노선"]
     var stationArea = aptData.data[index]["역세권여부"]
     var stationPoint_30m = aptData.data[index]["30분이내주요거점역"]
     var stationPoint_1h = aptData.data[index]["1시간이내주요거점역"]
@@ -818,6 +819,10 @@
     var entrance = aptData.data[index]["현관구조"]
     var sales_info = aptData.data[index]["sales_info"]
     var price_per = aptData.data[index]["price_per"]
+
+    var drink_pub = aptData.data[index]["300m이내유흥주점"]
+    var daran_pub = aptData.data[index]["300m이내단란주점"]
+    var motel = aptData.data[index]["300m이내모텔"]
 
     var searchCode = aptData.data[index]["검색코드"]
     var coord_y = aptData.data[index]["Y"]
@@ -926,7 +931,7 @@
     detailHtml += "<div class='popSubTable'><div class='popContent'>" + "세대수" + "</div>" + "<div class='popResult'>" + house_num.toLocaleString() + "세대</div></div>";
     detailHtml += "<div class='popSubTable' id='popSubStation'><div class='popContent'>" + "주차" + "</div>" + "<div class='popResult'>" + parking + "</div></div>";
     detailHtml += "<div class='popSubTable'><div class='popContent'>" + "난방방식" + "</div>" + "<div class='popResult'>" + heating + "</div></div>";
-    detailHtml += "<div class='popSubTable'><div class='popContent'>" + "현관구조" + "</div>" + "<div class='popResult'>" + entrance + "</div></div>";
+    //detailHtml += "<div class='popSubTable'><div class='popContent'>" + "현관구조" + "</div>" + "<div class='popResult'>" + entrance + "</div></div>";
 
     var area_array = area_info.split(",")
     var maintainance_array = maintainance.split(",")
@@ -974,22 +979,26 @@
       detailHtml += "<div class='graph' style='height: 120px'> <canvas id='transportChart'></canvas></div>"
       detailHtml += "<div class='popTable'>"
       detailHtml += "<div class='popSubTable' id='popSubStation'><div class='popContent'>" + "가장 가까운 역" + "</div>" + "<div class='popResult'>" + nearestStation + "</div></div>";
+      detailHtml += "<div class='popSubTable' id='popSubStation'><div class='popContent'>" + "가까운 역 노선" + "</div>" + "<div class='popResult'>" + stationLine + "</div></div>";
 
+      /*
       detailHtml += "<div class='popSubTable'><div class='popContent'>" + "30분 이내 도착 가능 주요역" + "</div>" + "<div class='popResult'>" + stationPoint_30m + "개</div></div>";
-      if(stationPoint_30m != 0 && selectedMonth != "202201"){
+      if(stationPoint_30m != 0){
         var stations_30m = aptData.data[index]["30분거점역이름"]
         stations_30m = ( ( stations_30m.replace("[", "") ).replace("]", "") ).replace(/\'/g, "")
         detailHtml += "<div class='stationList'><div></div><div class='stationText'>" + stations_30m + "</div></div>";
       }
 
       detailHtml += "<div class='popSubTable' id='stationTable'><div class='popContent'>" + "1시간 이내 도착 가능 주요역" + "</div>" + "<div class='popResult'>" + stationPoint_1h + "개</div></div>";
-      if(stationPoint_1h != 0 && selectedMonth != "202201"){
+      if(stationPoint_1h != 0){
         var stations_1h = aptData.data[index]["1시간거점역이름"]
         stations_1h = stations_1h.replace("[", "").replace("]", "").replace(/\'/g, "")
         detailHtml += "<div class='stationList'><div></div><div class='stationText'>" + stations_1h + "</div></div><hr style='margin-top: 2px'>";
       }
 
       detailHtml += "<div class='comment2'>가장 가까운 역은 직선거리로 계산됩니다.<br>주요역은 평일 출근시간대 하차인원이 가장 많은 역을 의미합니다.<br>30분, 1시간 이동 거리는 구글 대중교통 이동 시간 정보를 사용합니다.</div>"
+      detailHtml += "</div></div></div></div>"
+      */
       detailHtml += "</div></div></div></div>"
       avgTransportScore = ( Math.round( transportSum/itemNum * 100 ) / 100 ).toFixed(2)
     }
@@ -1018,11 +1027,8 @@
     detailHtml += "<div class='popSubTable'><div class='popContent'>" + "500m 이내 병원" + "</div>" + "<div class='popResult'>" + hospital_500m + "</div></div>";
     detailHtml += "<div class='popSubTable'><div class='popContent'>" + "5km 이내 대형병원" + "</div>" + "<div class='popResult'>" + bigHospital_5km + "</div></div>";
     detailHtml += "<div class='popSubTable'><div class='popContent'>" + "500m 이내 공원" + "</div>" + "<div class='popResult'>" + park_500m + "</div></div>";
-
     detailHtml += "<div class='popSubTable'><div class='popContent'>" + "1km 이내 대형공원" + "</div>" + "<div class='popResult'>" + big_park_1km + "</div></div>";
-
-    detailHtml += "<div class='popSubTable'><div class='popContent'>" + "3km 이내 혐오시설" + "</div>" + "<div class='popResult'>" + harmful_3km + "</div></div>";
-   
+    detailHtml += "<div class='popSubTable'><div class='popContent'>" + "3km 이내 혐오시설" + "</div>" + "<div class='popResult'>" + harmful_3km + "</div></div>";   
     detailHtml += "<div class='comment2'>인프라 정보는 각 백화점/마트 홈페이지, 은행연합회, 자원순환정보시스템, 공공데이터 포탈의 정보를 기반으로 산정되며, 상권은 호갱노노 정보를 사용합니다.</div>"
 
     detailHtml += "</div></div></div></div>"
@@ -1044,13 +1050,12 @@
     else{
       minDistance = parseInt(pSchool_distance - 100)
     }
-    detailHtml += "<div class='popSubTable'><div class='popContent'>" + "초등학교 거리" + "</div>" + "<div class='popResult'>" + minDistance + "~" + parseInt(pSchool_distance) + "m</div></div>";      
-
-    detailHtml += "<div class='popSubTable'><div class='popContent'>" + "초등학교 학생증감점수" + "</div>" + "<div class='popResult'>" + ( Math.round( pSchool_edu * 100 ) / 100 ).toFixed(2) + "점</div></div>";
+    detailHtml += "<div class='popSubTable'><div class='popContent'>" + "초등학교 거리" + "</div>" + "<div class='popResult'>" + minDistance + "~" + parseInt(pSchool_distance) + "m</div></div>";
+    //detailHtml += "<div class='popSubTable'><div class='popContent'>" + "초등학교 학생증감점수" + "</div>" + "<div class='popResult'>" + ( Math.round( pSchool_edu * 100 ) / 100 ).toFixed(2) + "점</div></div>";
     detailHtml += "<div class='popSubTable'><div class='popContent'>" + "중학교 학업성취도" + "</div>" + "<div class='popResult'>" + mSchool_edu + "</div></div>";
-
     detailHtml += "<div class='popSubTable'><div class='popContent'>" + "500m 이내 학원가" + "</div>" + "<div class='popResult'>" + academy_edu + "</div></div>";
-    detailHtml += "<div class='comment2'>교육 정보는 교육통계서비스 정보를 기반으로 산정되며, 학원가는 호갱노노의 정보를 사용합니다.<br>초등학교까지의 거리는 직선거리로 계산됩니다.</div>"
+    detailHtml += "<div class='popSubTable'><div class='popContent'>" + "300m 이내 유흥시설/모텔" + "</div>" + "<div class='popResult'>" + (drink_pub+daran_pub+motel) + "개</div></div>";    
+    detailHtml += "<div class='comment2'>교육 정보는 교육통계서비스 정보를 기반으로 산정되며,<br>학원가는 호갱노노의 정보를 사용합니다.<br>초등학교까지의 거리는 직선거리로 계산됩니다.<br>유흥시설과 모텔정보는 교육 감점요소로 적용됩니다.</div>"
    
     detailHtml += "</div></div></div></div>"
     avgEduScore = ( Math.round( eduSum/itemNum * 100 ) / 100 ).toFixed(2)
@@ -1062,7 +1067,7 @@
 
       detailHtml += "<div class='card'>";
       detailHtml += "<div class='card-header'>";
-      detailHtml += "<div class='popTitle'><i class='fa-solid fa-coins'></i>&nbsp&nbsp실거래가 <span style='font-size: 0.7em; color:#fe4040'> (최근 1개월내 실거래는 빨간색으로 표시)</span> </div>"
+      detailHtml += "<div class='popTitle'><i class='fa-solid fa-coins'></i>&nbsp&nbsp실거래가 <span style='font-size: 0.7em; color:#0047ab'> (최근 1개월내 실거래는 파란색으로 표시)</span> </div>"
       detailHtml += "</div>";
       detailHtml += "<div class='card-body' style='padding-left: 5px ; padding-right: 5px; padding-top: 5px;'>";
       detailHtml += "<div id='popEducation'>"
@@ -1085,7 +1090,7 @@
         var compare_day = Number(last_sales_date.substr(8, 2))
         var compare_date = new Date(compare_year, compare_month, compare_day)
         if(compare_date > start_date){
-          detailHtml += "<div class='popResult' style='color: #fe4040'>" + last_sales_area + ", " + Math.round(last_sales_price/100)/100 + "억, "+ last_sales_date.substr(2) + "</div></div>"
+          detailHtml += "<div class='popResult' style='color: #0047ab'>" + last_sales_area + ", " + Math.round(last_sales_price/100)/100 + "억, "+ last_sales_date.substr(2) + "</div></div>"
         }
         else{
           detailHtml += "<div class='popResult'>" + last_sales_area + ", " + Math.round(last_sales_price/100)/100 + "억, "+ last_sales_date.substr(2) + "</div></div>"
@@ -1118,8 +1123,8 @@
                   var compare_date = new Date(compare_year, compare_month, compare_day)                                
 
                   if(compare_date > start_date){
-                    detailHtml += "<td><span style='color:#fe4040; font-weight:600'>" + area_array[k] + "</span></td>"
-                    detailHtml += "<td><span style='color:#fe4040; font-weight:600'>" + ( Math.round( sales_info_split[0] * 100 ) / 100 ).toFixed(2) + "억" + "<span style='font-size: 0.85em'>" + sales_info_split[1] + "</span></span></td>"
+                    detailHtml += "<td><span style='color:#0047ab; font-weight:600'>" + area_array[k] + "</span></td>"
+                    detailHtml += "<td><span style='color:#0047ab; font-weight:600'>" + ( Math.round( sales_info_split[0] * 100 ) / 100 ).toFixed(2) + "억" + "<span style='font-size: 0.85em'>" + sales_info_split[1] + "</span></span></td>"
                   }
                   else{
                     detailHtml += "<td>" + area_array[k] + "</td>"
@@ -1131,7 +1136,7 @@
                 }
                 else{
                   if(compare_date > start_date){
-                    detailHtml += "<td><span style='color:#fe4040; font-weight:600'>" + Number(price_per_array[k]).toLocaleString() + "만원" + "</span></td>"
+                    detailHtml += "<td><span style='color:#0047ab; font-weight:600'>" + Number(price_per_array[k]).toLocaleString() + "만원" + "</span></td>"
                   }
                   else{
                     detailHtml += "<td>" + Number(price_per_array[k]).toLocaleString() + "만원" + "</td>"
@@ -1235,17 +1240,17 @@
 
       rankMonth.reverse()
       rankData.reverse()
-      drawRankChart(rankMonth, rankData, aptData.data[itemNum-1]["rank"])
+      drawRankChart_op(rankMonth, rankData, aptData.data[itemNum-1]["rank"])
     }
 
-    drawChart(aptValue, livingScore, transportScore, infraScore, eduScore)
-    drawSubChart(livingScore, avgLivingScore, "주거총점", "지역평균", "#fe4040", "#9f9f9f",  "livingChart")
+    drawChart_op(aptValue, livingScore, transportScore, infraScore, eduScore)
+    drawSubChart(livingScore, avgLivingScore, "주거총점", "지역평균", "#293249", "#4f5e84",  "livingChart")
     if(isNaN(transportScore) == false){
-      drawSubChart(transportScore, avgTransportScore, "교통총점", "지역평균", "#fe4040", "#9f9f9f", "transportChart")
+      drawSubChart(transportScore, avgTransportScore, "교통총점", "지역평균", "#293249", "#4f5e84", "transportChart")
     }
-    drawSubChart(infraScore, avgInfraScore, "인프라총점", "지역평균", "#fe4040", "#9f9f9f", "infraChart")
-    drawSubChart(eduScore, avgEduScore, "교육총점", "지역평균", "#fe4040", "#9f9f9f", "eduChart")
-    drawSubChart(eduScore, avgEduScore, "인구총점", "일자리총점", "#fe4040", "#fe4040", "regionChart")
+    drawSubChart(infraScore, avgInfraScore, "인프라총점", "지역평균", "#293249", "#4f5e84", "infraChart")
+    drawSubChart(eduScore, avgEduScore, "교육총점", "지역평균", "#293249", "#4f5e84", "eduChart")
+    drawSubChart(eduScore, avgEduScore, "인구총점", "일자리총점", "#293249", "#293249", "regionChart")
   }
 
   function updateRegionTable(month){
@@ -1611,7 +1616,7 @@
     detailHtml +=  "<div class='notice'>오피스텔랭크의 점수는 '가격'요소를 제외하고 산정되며, 그 결과는 생각하시는 순위와 크게 다를 수 있습니다.</div>";    
     detailHtml += "<div class='notice'><strong> 오피스텔랭크의 점수는 투자지표가 아님을 말씀드리며, 투자 판단에 대한 모든 책임은 투자자 본인에게 있습니다.</strong></div>";
     detailHtml += "<div class='notice'>업데이트 알림은 <a href='http://pf.kakao.com/_vESNb' target='_blank'>카카오톡 채널</a>을 통해 전달됩니다.</div>";
-    detailHtml += "<hr>";
+    //detailHtml += "<hr>";
 
     footerHtml += "<div class='modal-footer'>"    
     footerHtml += " <div id='footerCheck'><input class='form-check-input' type='checkbox' value='' id='flexCheckDefault'><label class='form-check-label' for='flexCheckDefault'><span class='notice'>일주일 동안 보지 않기</span></label></div>"

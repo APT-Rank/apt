@@ -63,11 +63,11 @@ function showSearchBar(){
     }
 
     for(var i = 0 ; i < sortData.data.length ; i++){
-          var aptName = sortData.data[i]["아파트명"]
-          var searchName = sortData.data[i]["아파트명"] + " " + sortData.data[i]["법정동주소"] + " " + sortData.data[i]["매매타입"]
+          var aptName = sortData.data[i]["오피스텔명"]
+          var searchName = sortData.data[i]["오피스텔명"] + " " + sortData.data[i]["법정동주소"] + " " + sortData.data[i]["매매타입"]
 
           if(searchName.indexOf(input) >= 0){              
-            var aptName = sortData.data[i]["아파트명"]
+            var aptName = sortData.data[i]["오피스텔명"]
             var apt_m = sortData.data[i]["전용면적(m2)"]
             var apt_p = sortData.data[i]["전용면적(평)"]
             var apt_type = sortData.data[i]["매매타입"]
@@ -173,15 +173,15 @@ function showSearchBar(){
                   */
 
                   addon_html += "</div>"
-                }  
-              
+                }
+
               addon_html += "<div class='content'>";
               //addon_html += "<div class='apt_name'>" + aptName + " " + apt_p + "(" + apt_m + ")</div>"
 
               addon_html += "<div class='apt_name'>" + aptName;
 
               if(Number(selectedMonth) > 202203){
-                if(apt_type == "아파트"){
+                if(apt_type == "오피스텔"){
                   addon_html += "<span class='aptYear'> (" + sortData.data[i]["준공년차"] + "년차)</span></div>";
                 }
                 if(apt_type == "재건축"){
@@ -217,13 +217,13 @@ function showSearchBar(){
           }
           
           if(rearrangeAPTSelection == "rearrangePrice" || !(minValue == 0 && maxValue == 60)){
-            $(".aptPrice").css({'color': '#293249', 'font-weight': '600'})
+            $(".aptPrice").css({'color': '#0047ab', 'font-weight': '600'})
           }
           if(rearrangeAPTSelection == "rearrangeNew"){
-            $(".aptYear").css({'color': '#293249', 'font-weight': '600'})
+            $(".aptYear").css({'color': '#0047ab', 'font-weight': '600'})
           }
           if(rearrangeAPTSelection == "rearrangeHouse"){
-            $(".aptNum").css({'color': '#293249', 'font-weight': '600'})
+            $(".aptNum").css({'color': '#0047ab', 'font-weight': '600'})
           }
 
         }
