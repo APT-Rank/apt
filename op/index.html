@@ -635,7 +635,7 @@
     $('html').scrollTop(0)
     initSorting()
     //console.log("AAAAAAAAAA", region)
-    url = "https://www.aptrank.kr/op" + month + "/" + region + "_OPST.json"
+    url = "https://www.aptrank.kr/op/" + month + "/" + region + "_OPST.json"
     $('#dataList').html("");
 
     $.getJSON(url, function(json) {        
