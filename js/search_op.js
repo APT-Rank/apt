@@ -82,6 +82,10 @@ function showSearchBar(){
             var last_sales_area = last_sales[2]
             last_sales_date_short = last_sales_date.substr(2)
 
+            var room_type = sortData.data[i]["방종류"]
+            var floor_high = sortData.data[i]["최고층"]
+            var floor_low = sortData.data[i]["최저층"]
+
             //valueSum += aptData.data[i]["가치 총점"]
             //livingSum += aptData.data[i]["주거총점"]
             //transportSum += aptData.data[i]["교통총점"]
@@ -194,6 +198,8 @@ function showSearchBar(){
               else{
                 addon_html += "<span class='aptYear'> (" + sortData.data[i]["준공년차"] + "년차)</span></div>";
               }
+
+              addon_html += "<div class='apt_info'>룸타입: " + room_type + "룸 / 최고 " + floor_high + "층 - 최저 " + floor_low + "층</div>";
               
               if(last_sales_date == "1800-01-01"){
                 addon_html += "<div class='apt_info'><span class='aptNum'>" + house_num.toLocaleString() + "세대</span> / <span class='aptPrice'>거래 정보 없음</span></div>";
