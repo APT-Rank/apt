@@ -675,6 +675,10 @@
           var last_sales_area = last_sales[2]
           last_sales_date_short = last_sales_date.substr(2)
 
+          var room_type = aptData.data[i]["방종류"]
+          var floor_high = aptData.data[i]["최고층"]
+          var floor_low = aptData.data[i]["최저층"]
+
           valueSum += aptData.data[i]["가치 총점"]
           livingSum += aptData.data[i]["주거총점"]
           transportSum += aptData.data[i]["교통총점"]
@@ -719,6 +723,8 @@
             if(apt_type == "분양권"){
               addon_html += "<span class='aptYear'> (분양권, " + aptData.data[i]["준공년월"].substr(0, 7) + " 예정)</span></div>";
             }
+
+            addon_html += "<div class='apt_info'>룸타입: " + room_type + "룸 / 최고 " + floor_high + "층 - 최저 " + floor_low + "층</div>";
             
             if(last_sales_date == "1800-01-01"){
               addon_html += "<div class='apt_info'>" + house_num.toLocaleString() + "세대 / <span class='aptPrice'>거래 정보 없음</span></div>";
@@ -833,6 +839,10 @@
     var last_sales_price = last_sales[1].toString()
     var last_sales_area = last_sales[2]
 
+    var room_type = aptData.data[index]["방종류"]
+    var floor_high = aptData.data[index]["최고층"]
+    var floor_low = aptData.data[index]["최저층"]
+
     var floor_rate = ""
     if(aptData.data[index]["용적률"] == "0"){
       floor_rate = "--%"
@@ -928,8 +938,14 @@
     if(202205 && aptData.data[index]["해운대"] > 0){
       detailHtml += "<div class='popSubTable'><div class='popContent'>" + "해운대 프리미엄" + "</div>" + "<div class='popResult'>적용</div></div>";
     }
+    room_type_str = []
+    for(var h = 0 ; h < room_type.length ; h++){      
+      room_type_str.push( (" " + room_type[h] + "룸") )
+    }
+    detailHtml += "<div class='popSubTable'><div class='popContent'>" + "룸타입" + "</div>" + "<div class='popResult'>" + room_type_str + "</div></div>";
     detailHtml += "<div class='popSubTable'><div class='popContent'>" + "세대수" + "</div>" + "<div class='popResult'>" + house_num.toLocaleString() + "세대</div></div>";
     detailHtml += "<div class='popSubTable' id='popSubStation'><div class='popContent'>" + "주차" + "</div>" + "<div class='popResult'>" + parking + "</div></div>";
+    detailHtml += "<div class='popSubTable'><div class='popContent'>" + "최고/최저층" + "</div>" + "<div class='popResult'>" + floor_high + "층 / " + floor_low + "층</div></div>";
     detailHtml += "<div class='popSubTable'><div class='popContent'>" + "난방방식" + "</div>" + "<div class='popResult'>" + heating + "</div></div>";
     //detailHtml += "<div class='popSubTable'><div class='popContent'>" + "현관구조" + "</div>" + "<div class='popResult'>" + entrance + "</div></div>";
 
