@@ -1029,7 +1029,7 @@ function putVal(e){
   }
   if(e.id == "heatingOption"){
     simul_living_score[4][0] = heatingOption[e.value][0]
-    simul_living_score[4][0] = heatingOption[e.value][1]
+    simul_living_score[4][1] = heatingOption[e.value][1]
   }
   if(e.id == "entranceOption"){
     simul_living_score[5][0] = entranceOption[e.value][0]
