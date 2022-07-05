@@ -6,7 +6,7 @@
     "start_url": "/index.html",
     "display": "standalone",
     "theme_color": "#000000",
-    "background_color": "#ff3d38",
+    "background_color": "#293249",
     "orientation": "portrait",
     "icons": [{
       "src": "https://www.aptrank.kr/op/op-rank-512x512.png",
