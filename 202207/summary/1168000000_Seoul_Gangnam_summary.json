@@ -68,6 +68,19 @@
         {
             "index":1,
             "sort":"balanced",
+            "name":"은마",
+            "search_code":236,
+            "apt_type":"재건축",
+            "apt_year":43.0,
+            "value_score":80.099,
+            "region":"서울시 강남구",
+            "region_code":"Seoul",
+            "sub_region_code":"1168000000_Seoul_Gangnam",
+            "shorten_url":"https:\/\/me2.do\/FABK5ggc"
+        },
+        {
+            "index":2,
+            "sort":"balanced",
             "name":"신현대(현대9,11,12차)",
             "search_code":3037,
             "apt_type":"아파트",
@@ -79,7 +92,7 @@
             "shorten_url":"https:\/\/me2.do\/FABK5ggc"
         },
         {
-            "index":2,
+            "index":3,
             "sort":"balanced",
             "name":"대치아이파크",
             "search_code":19418,
@@ -92,7 +105,7 @@
             "shorten_url":"https:\/\/me2.do\/FABK5ggc"
         },
         {
-            "index":3,
+            "index":4,
             "sort":"balanced",
             "name":"동부센트레빌",
             "search_code":8710,
@@ -105,7 +118,7 @@
             "shorten_url":"https:\/\/me2.do\/FABK5ggc"
         },
         {
-            "index":4,
+            "index":5,
             "sort":"balanced",
             "name":"래미안대치팰리스2단지",
             "search_code":107917,
@@ -118,7 +131,7 @@
             "shorten_url":"https:\/\/me2.do\/FABK5ggc"
         },
         {
-            "index":5,
+            "index":6,
             "sort":"balanced",
             "name":"래미안라클래시",
             "search_code":127477,
@@ -131,7 +144,7 @@
             "shorten_url":"https:\/\/me2.do\/FABK5ggc"
         },
         {
-            "index":6,
+            "index":7,
             "sort":"balanced",
             "name":"롯데캐슬프레미어",
             "search_code":18967,
@@ -144,7 +157,7 @@
             "shorten_url":"https:\/\/me2.do\/FABK5ggc"
         },
         {
-            "index":7,
+            "index":8,
             "sort":"balanced",
             "name":"선경1,2차",
             "search_code":154,
@@ -157,26 +170,13 @@
             "shorten_url":"https:\/\/me2.do\/FABK5ggc"
         },
         {
-            "index":8,
+            "index":9,
             "sort":"balanced",
             "name":"타워팰리스2차(주상복합)",
             "search_code":3039,
             "apt_type":"아파트",
             "apt_year":19.0,
             "value_score":75.3626,
-            "region":"서울시 강남구",
-            "region_code":"Seoul",
-            "sub_region_code":"1168000000_Seoul_Gangnam",
-            "shorten_url":"https:\/\/me2.do\/FABK5ggc"
-        },
-        {
-            "index":9,
-            "sort":"balanced",
-            "name":"디에이치자이개포",
-            "search_code":121971,
-            "apt_type":"아파트",
-            "apt_year":1.0,
-            "value_score":75.074,
             "region":"서울시 강남구",
             "region_code":"Seoul",
             "sub_region_code":"1168000000_Seoul_Gangnam",
@@ -198,6 +198,19 @@
         {
             "index":11,
             "sort":"living",
+            "name":"은마",
+            "search_code":236,
+            "apt_type":"재건축",
+            "apt_year":43.0,
+            "value_score":81.316,
+            "region":"서울시 강남구",
+            "region_code":"Seoul",
+            "sub_region_code":"1168000000_Seoul_Gangnam",
+            "shorten_url":"https:\/\/me2.do\/FABK5ggc"
+        },
+        {
+            "index":12,
+            "sort":"living",
             "name":"디에이치자이개포",
             "search_code":121971,
             "apt_type":"아파트",
@@ -209,7 +222,7 @@
             "shorten_url":"https:\/\/me2.do\/FABK5ggc"
         },
         {
-            "index":12,
+            "index":13,
             "sort":"living",
             "name":"대치아이파크",
             "search_code":19418,
@@ -222,7 +235,7 @@
             "shorten_url":"https:\/\/me2.do\/FABK5ggc"
         },
         {
-            "index":13,
+            "index":14,
             "sort":"living",
             "name":"동부센트레빌",
             "search_code":8710,
@@ -235,7 +248,7 @@
             "shorten_url":"https:\/\/me2.do\/FABK5ggc"
         },
         {
-            "index":14,
+            "index":15,
             "sort":"living",
             "name":"래미안라클래시",
             "search_code":127477,
@@ -248,7 +261,7 @@
             "shorten_url":"https:\/\/me2.do\/FABK5ggc"
         },
         {
-            "index":15,
+            "index":16,
             "sort":"living",
             "name":"개포주공5단지",
             "search_code":1298,
@@ -261,7 +274,7 @@
             "shorten_url":"https:\/\/me2.do\/FABK5ggc"
         },
         {
-            "index":16,
+            "index":17,
             "sort":"living",
             "name":"롯데캐슬프레미어",
             "search_code":18967,
@@ -274,7 +287,7 @@
             "shorten_url":"https:\/\/me2.do\/FABK5ggc"
         },
         {
-            "index":17,
+            "index":18,
             "sort":"living",
             "name":"우성7차",
             "search_code":978,
@@ -287,7 +300,7 @@
             "shorten_url":"https:\/\/me2.do\/FABK5ggc"
         },
         {
-            "index":18,
+            "index":19,
             "sort":"living",
             "name":"삼성힐스테이트1단지",
             "search_code":24009,
@@ -300,20 +313,20 @@
             "shorten_url":"https:\/\/me2.do\/FABK5ggc"
         },
         {
-            "index":19,
-            "sort":"living",
-            "name":"강남센트럴아이파크",
-            "search_code":127482,
-            "apt_type":"아파트",
-            "apt_year":0.0,
-            "value_score":74.9106,
+            "index":20,
+            "sort":"transport",
+            "name":"은마",
+            "search_code":236,
+            "apt_type":"재건축",
+            "apt_year":43.0,
+            "value_score":83.9495,
             "region":"서울시 강남구",
             "region_code":"Seoul",
             "sub_region_code":"1168000000_Seoul_Gangnam",
             "shorten_url":"https:\/\/me2.do\/FABK5ggc"
         },
         {
-            "index":20,
+            "index":21,
             "sort":"transport",
             "name":"타워팰리스2차(주상복합)",
             "search_code":3039,
@@ -326,7 +339,7 @@
             "shorten_url":"https:\/\/me2.do\/FABK5ggc"
         },
         {
-            "index":21,
+            "index":22,
             "sort":"transport",
             "name":"래미안대치팰리스1단지",
             "search_code":107916,
@@ -339,7 +352,7 @@
             "shorten_url":"https:\/\/me2.do\/FABK5ggc"
         },
         {
-            "index":22,
+            "index":23,
             "sort":"transport",
             "name":"래미안대치팰리스2단지",
             "search_code":107917,
@@ -352,7 +365,7 @@
             "shorten_url":"https:\/\/me2.do\/FABK5ggc"
         },
         {
-            "index":23,
+            "index":24,
             "sort":"transport",
             "name":"대치롯데캐슬리베",
             "search_code":22493,
@@ -365,7 +378,7 @@
             "shorten_url":"https:\/\/me2.do\/FABK5ggc"
         },
         {
-            "index":24,
+            "index":25,
             "sort":"transport",
             "name":"동부센트레빌",
             "search_code":8710,
@@ -378,7 +391,7 @@
             "shorten_url":"https:\/\/me2.do\/FABK5ggc"
         },
         {
-            "index":25,
+            "index":26,
             "sort":"transport",
             "name":"대치아이파크",
             "search_code":19418,
@@ -391,7 +404,7 @@
             "shorten_url":"https:\/\/me2.do\/FABK5ggc"
         },
         {
-            "index":26,
+            "index":27,
             "sort":"transport",
             "name":"샘터마을",
             "search_code":874,
@@ -404,7 +417,7 @@
             "shorten_url":"https:\/\/me2.do\/FABK5ggc"
         },
         {
-            "index":27,
+            "index":28,
             "sort":"transport",
             "name":"선경1,2차",
             "search_code":154,
@@ -417,26 +430,13 @@
             "shorten_url":"https:\/\/me2.do\/FABK5ggc"
         },
         {
-            "index":28,
+            "index":29,
             "sort":"transport",
             "name":"역삼2차아이파크",
             "search_code":24081,
             "apt_type":"아파트",
             "apt_year":14.0,
             "value_score":81.36575,
-            "region":"서울시 강남구",
-            "region_code":"Seoul",
-            "sub_region_code":"1168000000_Seoul_Gangnam",
-            "shorten_url":"https:\/\/me2.do\/FABK5ggc"
-        },
-        {
-            "index":29,
-            "sort":"transport",
-            "name":"래미안라클래시",
-            "search_code":127477,
-            "apt_type":"아파트",
-            "apt_year":1.0,
-            "value_score":81.29735,
             "region":"서울시 강남구",
             "region_code":"Seoul",
             "sub_region_code":"1168000000_Seoul_Gangnam",
@@ -471,6 +471,19 @@
         {
             "index":32,
             "sort":"infra",
+            "name":"은마",
+            "search_code":236,
+            "apt_type":"재건축",
+            "apt_year":43.0,
+            "value_score":78.7575,
+            "region":"서울시 강남구",
+            "region_code":"Seoul",
+            "sub_region_code":"1168000000_Seoul_Gangnam",
+            "shorten_url":"https:\/\/me2.do\/FABK5ggc"
+        },
+        {
+            "index":33,
+            "sort":"infra",
             "name":"선경1,2차",
             "search_code":154,
             "apt_type":"아파트",
@@ -482,7 +495,7 @@
             "shorten_url":"https:\/\/me2.do\/FABK5ggc"
         },
         {
-            "index":33,
+            "index":34,
             "sort":"infra",
             "name":"동부센트레빌",
             "search_code":8710,
@@ -495,7 +508,7 @@
             "shorten_url":"https:\/\/me2.do\/FABK5ggc"
         },
         {
-            "index":34,
+            "index":35,
             "sort":"infra",
             "name":"대치아이파크",
             "search_code":19418,
@@ -508,7 +521,7 @@
             "shorten_url":"https:\/\/me2.do\/FABK5ggc"
         },
         {
-            "index":35,
+            "index":36,
             "sort":"infra",
             "name":"대치삼성1차",
             "search_code":135,
@@ -521,7 +534,7 @@
             "shorten_url":"https:\/\/me2.do\/FABK5ggc"
         },
         {
-            "index":36,
+            "index":37,
             "sort":"infra",
             "name":"개포우성1차",
             "search_code":65,
@@ -534,7 +547,7 @@
             "shorten_url":"https:\/\/me2.do\/FABK5ggc"
         },
         {
-            "index":37,
+            "index":38,
             "sort":"infra",
             "name":"래미안라클래시",
             "search_code":127477,
@@ -547,26 +560,13 @@
             "shorten_url":"https:\/\/me2.do\/FABK5ggc"
         },
         {
-            "index":38,
+            "index":39,
             "sort":"infra",
             "name":"대치SK뷰",
             "search_code":111580,
             "apt_type":"아파트",
             "apt_year":5.0,
             "value_score":76.1075,
-            "region":"서울시 강남구",
-            "region_code":"Seoul",
-            "sub_region_code":"1168000000_Seoul_Gangnam",
-            "shorten_url":"https:\/\/me2.do\/FABK5ggc"
-        },
-        {
-            "index":39,
-            "sort":"infra",
-            "name":"도곡쌍용예가",
-            "search_code":319,
-            "apt_type":"아파트",
-            "apt_year":7.0,
-            "value_score":75.09125,
             "region":"서울시 강남구",
             "region_code":"Seoul",
             "sub_region_code":"1168000000_Seoul_Gangnam",
@@ -601,6 +601,19 @@
         {
             "index":42,
             "sort":"education",
+            "name":"은마",
+            "search_code":236,
+            "apt_type":"재건축",
+            "apt_year":43.0,
+            "value_score":76.315,
+            "region":"서울시 강남구",
+            "region_code":"Seoul",
+            "sub_region_code":"1168000000_Seoul_Gangnam",
+            "shorten_url":"https:\/\/me2.do\/FABK5ggc"
+        },
+        {
+            "index":43,
+            "sort":"education",
             "name":"선경1,2차",
             "search_code":154,
             "apt_type":"아파트",
@@ -612,7 +625,7 @@
             "shorten_url":"https:\/\/me2.do\/FABK5ggc"
         },
         {
-            "index":43,
+            "index":44,
             "sort":"education",
             "name":"대치삼성1차",
             "search_code":135,
@@ -625,7 +638,7 @@
             "shorten_url":"https:\/\/me2.do\/FABK5ggc"
         },
         {
-            "index":44,
+            "index":45,
             "sort":"education",
             "name":"대치아이파크",
             "search_code":19418,
@@ -638,7 +651,7 @@
             "shorten_url":"https:\/\/me2.do\/FABK5ggc"
         },
         {
-            "index":45,
+            "index":46,
             "sort":"education",
             "name":"동부센트레빌",
             "search_code":8710,
@@ -651,7 +664,7 @@
             "shorten_url":"https:\/\/me2.do\/FABK5ggc"
         },
         {
-            "index":46,
+            "index":47,
             "sort":"education",
             "name":"래미안라클래시",
             "search_code":127477,
@@ -664,7 +677,7 @@
             "shorten_url":"https:\/\/me2.do\/FABK5ggc"
         },
         {
-            "index":47,
+            "index":48,
             "sort":"education",
             "name":"롯데캐슬프레미어",
             "search_code":18967,
@@ -677,26 +690,13 @@
             "shorten_url":"https:\/\/me2.do\/FABK5ggc"
         },
         {
-            "index":48,
+            "index":49,
             "sort":"education",
             "name":"삼성힐스테이트1단지",
             "search_code":24009,
             "apt_type":"아파트",
             "apt_year":14.0,
             "value_score":72.0745,
-            "region":"서울시 강남구",
-            "region_code":"Seoul",
-            "sub_region_code":"1168000000_Seoul_Gangnam",
-            "shorten_url":"https:\/\/me2.do\/FABK5ggc"
-        },
-        {
-            "index":49,
-            "sort":"education",
-            "name":"대치SK뷰",
-            "search_code":111580,
-            "apt_type":"아파트",
-            "apt_year":5.0,
-            "value_score":71.815,
             "region":"서울시 강남구",
             "region_code":"Seoul",
             "sub_region_code":"1168000000_Seoul_Gangnam",

@@ -159,7 +159,7 @@
         {
             "index":8,
             "sort":"balanced",
-            "name":"당진수청2지구지엔하임(민간임대)",
+            "name":"지엔하임(민간임대)",
             "search_code":145724,
             "apt_type":"아파트",
             "apt_year":0.0,
@@ -289,7 +289,7 @@
         {
             "index":18,
             "sort":"living",
-            "name":"당진수청2지구지엔하임(민간임대)",
+            "name":"지엔하임(민간임대)",
             "search_code":145724,
             "apt_type":"아파트",
             "apt_year":0.0,

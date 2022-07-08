@@ -107,7 +107,7 @@
         {
             "index":4,
             "sort":"balanced",
-            "name":"원주더샵센트럴파크2단지",
+            "name":"더샵원주센트럴파크2단지",
             "search_code":125048,
             "apt_type":"아파트",
             "apt_year":0.0,
@@ -185,7 +185,7 @@
         {
             "index":10,
             "sort":"living",
-            "name":"원주더샵센트럴파크2단지",
+            "name":"더샵원주센트럴파크2단지",
             "search_code":125048,
             "apt_type":"아파트",
             "apt_year":0.0,
@@ -432,7 +432,7 @@
         {
             "index":29,
             "sort":"infra",
-            "name":"원주더샵센트럴파크2단지",
+            "name":"더샵원주센트럴파크2단지",
             "search_code":125048,
             "apt_type":"아파트",
             "apt_year":0.0,
@@ -536,7 +536,7 @@
         {
             "index":37,
             "sort":"education",
-            "name":"원주더샵센트럴파크3단지",
+            "name":"더샵원주센트럴파크3단지",
             "search_code":125049,
             "apt_type":"아파트",
             "apt_year":0.0,

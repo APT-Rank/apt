@@ -250,6 +250,19 @@
         {
             "index":15,
             "sort":"living",
+            "name":"e편한세상수택센트럴파크",
+            "search_code":117604,
+            "apt_type":"아파트",
+            "apt_year":2.0,
+            "value_score":61.5784,
+            "region":"경기도 구리시",
+            "region_code":"Gyeonggi",
+            "sub_region_code":"4131000000_Gyeonggi_Guri",
+            "shorten_url":"https:\/\/me2.do\/FIpD8GKL"
+        },
+        {
+            "index":16,
+            "sort":"living",
             "name":"갈매스타힐스",
             "search_code":109117,
             "apt_type":"아파트",
@@ -261,26 +274,13 @@
             "shorten_url":"https:\/\/me2.do\/FIpD8GKL"
         },
         {
-            "index":16,
+            "index":17,
             "sort":"living",
             "name":"힐스테이트구리역",
             "search_code":147229,
             "apt_type":"분양권",
             "apt_year":-2.0,
             "value_score":61.2282,
-            "region":"경기도 구리시",
-            "region_code":"Gyeonggi",
-            "sub_region_code":"4131000000_Gyeonggi_Guri",
-            "shorten_url":"https:\/\/me2.do\/FIpD8GKL"
-        },
-        {
-            "index":17,
-            "sort":"living",
-            "name":"e편한세상수택센트럴파크",
-            "search_code":117604,
-            "apt_type":"아파트",
-            "apt_year":2.0,
-            "value_score":61.1784,
             "region":"경기도 구리시",
             "region_code":"Gyeonggi",
             "sub_region_code":"4131000000_Gyeonggi_Guri",
