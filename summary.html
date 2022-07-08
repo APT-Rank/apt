@@ -848,19 +848,19 @@ function shareToCafe(){
     shareText += "\n"
 
     shareText += "▶ 아파트랭크 (" + balanced[0]["region"] + ")\n"
-    shareText += balanced[0]["shorten_url"] + "\n\n"
+    shareText += balanced[0]["shorten_url"] + "\n"
 
     shareText += "▶ 1억이하 / 5층이하 / 30년이하 / 재건축 / 분양권 / 임장가이드 보기\n"
-    shareText += "www.aptrank.kr/theme\n\n"
+    shareText += "www.aptrank.kr/theme\n"
 
     shareText += "▶ 오피스텔랭크\n"
-    shareText += "www.aptrank.kr/op\n\n"
+    shareText += "www.aptrank.kr/op\n"
 
-    shareText += "#아파트 #아파트랭크 #아파트입지 #아파트순위 #부동산 #부동산순위 #부동산입지 #입지분석 #아파트추천 #부동산추천"
+    shareText += "#아파트 #아파트랭크 #아파트입지 #아파트순위 #부동산 #부동산순위 #부동산입지 #입지분석 #아파트추천 #부동산추천\n\n"
     
     //shareURL = "https://www.aptrank.kr" + "?reg=" + balanced[0]["region_code"] +"&sub=" + selectedSubRegion + "&mon=" + selectedMonth
     //shareURL = balanced[0]["shorten_url"]
-    shareURL = ""
+    shareURL = "https://www.aptrank.kr"
 
     if (navigator.share) {
       navigator.share({
@@ -881,7 +881,7 @@ function shareToFacebook(){
   shareTitle = "[아파트랭크] "
   shareTitle += selectedMonth.substr(0, 4) + "년 " + Number(selectedMonth.substr(4, 2)).toString() + "월, " + balanced[0]["region"] + " 랭크\n\n"  
 
-  shareText += selectedMonth.substr(0, 4) + "년 " + Number(selectedMonth.substr(4, 2)).toString() + "월, " + balanced[0]["region"] + " 랭크\n\n"  
+  shareText = selectedMonth.substr(0, 4) + "년 " + Number(selectedMonth.substr(4, 2)).toString() + "월, " + balanced[0]["region"] + " 랭크\n\n"  
   shareText += balanced[0]["shorten_url"] + "\n\n"
 
     shareText += "『주거 환경 좋은 아파트』\n"
@@ -1028,7 +1028,7 @@ function shareToFacebook(){
     
     //shareURL = "https://www.aptrank.kr" + "?reg=" + balanced[0]["region_code"] +"&sub=" + selectedSubRegion + "&mon=" + selectedMonth
     //shareURL = balanced[0]["shorten_url"]
-    shareURL = "감사합니다."
+    shareURL = "https://www.aptrank.kr"
 
     if (navigator.share) {
       navigator.share({
