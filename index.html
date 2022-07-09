@@ -1122,6 +1122,7 @@
       detailHtml += "<div class='comment2'>교육 정보는 교육통계서비스 정보를 기반으로 산정되며, 학원가는 호갱노노의 정보를 사용합니다.<br>초등학교까지의 거리는 직선거리로 계산됩니다.</div>"
     }
     else if(Number(selectedMonth) > 202206){
+      detailHtml += "<div class='popSubTable'><div class='popContent'>" + "500m 이내 학원가" + "</div>" + "<div class='popResult'>" + academy_edu + "</div></div>";
       detailHtml += "<div class='popSubTable'><div class='popContent'>" + "300m 이내 유흥시설/모텔" + "</div>" + "<div class='popResult'>" + (drink_pub + daran_pub + motel) + "개</div></div>";
       detailHtml += "<div class='comment2'>교육 정보는 교육통계서비스 정보를 기반으로 산정되며,<br>학원가는 호갱노노의 정보를 사용합니다.<br>초등학교까지의 거리는 직선거리로 계산됩니다.<br>유흥시설과 모텔정보는 교육 감점요소로 적용됩니다.</div>"
     }
