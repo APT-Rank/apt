@@ -741,6 +741,7 @@ function shareToCafe(){
   shareTitle += selectedMonth.substr(0, 4) + "년 " + Number(selectedMonth.substr(4, 2)).toString() + "월, " + balanced[0]["region"] + " 랭크\n\n"
   
   shareText = "『주거 환경 좋은 아파트』\n"
+  shareText += "※ 재건축은 용적률과 건폐율로 계산\n"
     for(var i = 0 ; i < 10 ; i++){
       shareText += "- " + living[i]["name"]
       if(living[i]["apt_type"] == "아파트"){
@@ -754,8 +755,7 @@ function shareToCafe(){
       }      
       shareText += "\n"
       //shareText += ", " + ( Math.round( living[i]["value_score"] * 100 ) / 100 ).toFixed(2) + "점\n"
-    }
-    shareText += "※ 재건축은 용적률과 건폐율로 계산\n"
+    }    
 
     if(transport.length != 0){
       shareText += "\n"
@@ -827,7 +827,7 @@ function shareToCafe(){
       //shareText += ", " + ( Math.round( balanced[i]["value_score"] * 100 ) / 100 ).toFixed(2) + "점\n"
     }
 
-    shareText += "아파트랭크는 저평가를 찾기 위한 목적으로 '주거', '인프라', '교통', '교육'의 요소들을 수치로 계산하여 순위를 매기는 입지 자동 계산 앱입니다.\n"
+    shareText += "\n아파트랭크는 저평가를 찾기 위한 목적으로 '주거', '인프라', '교통', '교육'의 요소들을 수치로 계산하여 순위를 매기는 입지 자동 계산 앱입니다.\n"
     shareText += "'가격'이 제외되어 있기 때문에, 생각하시는 순위와 다를 수 있음을 말씀드립니다.\n\n"
     
     shareText += "[7월 업데이트 요약]\n"
@@ -839,7 +839,7 @@ function shareToCafe(){
     shareText += "※ 응원, 문의, 제안, 버그제보는 아파트랭크 '카카오톡 1:1 문의하기(https://pf.kakao.com/_vESNb/chat)'로 남겨주시면 적극 반영 검토하겠습니다.\n\n"
 
     //shareText += "\n아래 링크를 누르시면 통해 다른 아파트의 랭크를 확인할 수 있습니다."
-    shareText += "\n[아파트랭크 계산 항목]\n"
+    shareText += "[아파트랭크 계산 항목]\n"
     shareText += "ㆍ주거 = 세대수, 입주년차, 주차수, 난방방식, 욕실수, 현관구조\n"
     shareText += "ㆍ인프라 = 백화점, 아울렛, 몰, 대형마트, 은행, 병원, 종합병원, 공원, 대형공원, 혐오시설\n"
     shareText += "ㆍ교육 = 초등학교 전출입비, 초등학교 거리, 중학교 학업성취도, 학원가, 학원 개수, (감점)유흥시설 및 모텔 개수\n"
