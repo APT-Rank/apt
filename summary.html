@@ -989,27 +989,32 @@ function shareToFacebook(){
 
     regions_name = balanced[0]["region"].split(" ")    
 
+    region_01 = regions_name[0].substr(0, regions_name[0].length-1)
+
     hash_10 = " #" + regions_name[0]
-    hash_11 = " #" + regions_name[0].slice(-1) + "아파트"
-    hash_12 = " #" + regions_name[0].slice(-1) + "입지분석"
-    hash_13 = " #" + regions_name[0].slice(-1) + "랭크"
-    hash_14 = " #" + regions_name[0].slice(-1) + "입지"
-    hash_15 = " #" + regions_name[0].slice(-1) + "아파트랭크"
+    hash_11 = " #" + region_01 + "아파트"
+    hash_12 = " #" + region_01 + "입지분석"
+    hash_13 = " #" + region_01 + "랭크"
+    hash_14 = " #" + region_01 + "입지"
+    hash_15 = " #" + region_01 + "아파트랭크"
+
+    region_02 = regions_name[1].substr(0, regions_name[1].length-1)
 
     hash_20 = " #" + regions_name[1]
-    hash_21 = " #" + regions_name[1].slice(-1) + "아파트"
-    hash_22 = " #" + regions_name[1].slice(-1) + "입지분석"
-    hash_23 = " #" + regions_name[1].slice(-1) + "랭크"
-    hash_24 = " #" + regions_name[1].slice(-1) + "입지"
-    hash_25 = " #" + regions_name[1].slice(-1) + "아파트랭크"
+    hash_21 = " #" + region_02 + "아파트"
+    hash_22 = " #" + region_02 + "입지분석"
+    hash_23 = " #" + region_02 + "랭크"
+    hash_24 = " #" + region_02 + "입지"
+    hash_25 = " #" + region_02 + "아파트랭크"
 
     if(regions_name.length > 2){
+      region_03 = regions_name[2].substr(0, regions_name[2].length-1)
       hash_30 = " #" + regions_name[2]
-      hash_31 = " #" + regions_name[2].slice(-1) + "아파트"
-      hash_32 = " #" + regions_name[2].slice(-1) + "입지분석"
-      hash_33 = " #" + regions_name[2].slice(-1) + "랭크"
-      hash_34 = " #" + regions_name[2].slice(-1) + "입지"
-      hash_35 = " #" + regions_name[2].slice(-1) + "아파트랭크"
+      hash_31 = " #" + region_03 + "아파트"
+      hash_32 = " #" + region_03 + "입지분석"
+      hash_33 = " #" + region_03 + "랭크"
+      hash_34 = " #" + region_03 + "입지"
+      hash_35 = " #" + region_03 + "아파트랭크"
     }
     else{
       hash_30 = ""
