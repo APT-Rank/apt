@@ -782,14 +782,14 @@
     var aptDuration = aptData.data[index]["준공년차"]
     var aptYear = ""
 
-    if(apt_type == "아파트"){        
+    if(apt_type == "오피스텔"){        
       aptYear = aptData.data[index]["준공년월"] + " (" + aptDuration + "년차)"        
     }
     if(apt_type == "재건축"){        
-      aptYear = aptData.data[index]["준공년월"] + " (" + aptDuration + "년차, 재건축)"        
+      aptYear = aptData.data[index]["준공년월"] + " (" + aptDuration + "년차, 재건축)"
     }
     if(apt_type == "분양권"){
-      aptYear = "(분양권, " + aptData.data[index]["준공년월"].substr(0, 7) + " 예정)"        
+      aptYear = "(분양권, " + aptData.data[index]["준공년월"].substr(0, 7) + " 예정)"
     }
 
     var nearestStation = aptData.data[index]["가까운역이름"] + "역" + "(" + ( Math.round( aptData.data[index]["가까운역거리"] * 100 ) / 100 ).toFixed()  + "m)"
