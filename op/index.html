@@ -921,68 +921,7 @@
     detailHtml += "<div class='graph' style='height: 200px'> <canvas id='valueChart'></canvas></div>"
     detailHtml += "<div class='comment'>(지역구의 모든 오피스텔에 대해 100점으로 환산한 상대 점수 입니다.)</div>";
     detailHtml += "<hr style='margin-bottom: 0'><div class='rankGraphTitle'>- 균형잡힌 가중치 순위 변동 -</div><div class='graph' style='height: 120px;'> <canvas id='rankChart'></canvas></div>"
-    detailHtml += "</div></div>"
-
-    //주거
-    detailHtml += "<div class='card'>";
-    detailHtml += "<div class='card-header'>";
-    detailHtml += "<div class='popTitle'><i class='fas fa-home'></i>&nbsp&nbsp주거</div>"
-    detailHtml += "</div>";
-    detailHtml += "<div class='card-body'>";
-    detailHtml += "<div id='popLiving'>"
-    detailHtml += "<div class='graph' style='height: 120px'> <canvas id='livingChart'></canvas></div>"
-    detailHtml += "<div class='popTable'>"
-    if(aptData.data[index]["한강"] > 0){
-      detailHtml += "<div class='popSubTable'><div class='popContent'>" + "한강 프리미엄" + "</div>" + "<div class='popResult'>적용</div></div>";
-    }    
-    if(202205 && aptData.data[index]["해운대"] > 0){
-      detailHtml += "<div class='popSubTable'><div class='popContent'>" + "해운대 프리미엄" + "</div>" + "<div class='popResult'>적용</div></div>";
-    }
-    room_type_str = []
-    for(var h = 0 ; h < room_type.length ; h++){      
-      room_type_str.push( (" " + room_type[h] + "룸") )
-    }
-    detailHtml += "<div class='popSubTable'><div class='popContent'>" + "룸타입" + "</div>" + "<div class='popResult'>" + room_type_str + "</div></div>";
-    detailHtml += "<div class='popSubTable'><div class='popContent'>" + "세대수" + "</div>" + "<div class='popResult'>" + house_num.toLocaleString() + "세대</div></div>";
-    detailHtml += "<div class='popSubTable' id='popSubStation'><div class='popContent'>" + "주차" + "</div>" + "<div class='popResult'>" + parking + "</div></div>";
-    detailHtml += "<div class='popSubTable'><div class='popContent'>" + "최고/최저층" + "</div>" + "<div class='popResult'>" + floor_high + "층 / " + floor_low + "층</div></div>";
-    detailHtml += "<div class='popSubTable'><div class='popContent'>" + "난방방식" + "</div>" + "<div class='popResult'>" + heating + "</div></div>";
-    //detailHtml += "<div class='popSubTable'><div class='popContent'>" + "현관구조" + "</div>" + "<div class='popResult'>" + entrance + "</div></div>";
-
-    var area_array = area_info.split(",")
-    var maintainance_array = maintainance.split(",")
-    var rooms_array = rooms.split(",")
-    var baths_array = baths.split(",")
-    detailHtml += "<div class='table-responsive' style='max-height: 200px; overflow-y: scroll'>"
-    detailHtml += "<table class='table table-striped' style='font-size:0.8em'>"
-      detailHtml += "<thead class='table-light' style='position:sticky ;top: 0'>"
-        detailHtml += "<tr>"
-          detailHtml += "<th scope='col'>" + "평형" + "</th>"
-          detailHtml += "<th scope='col'>" + "방수/욕실수" + "</th>"
-          detailHtml += "<th scope='col'>" + "평균 관리비" + "</th>"
-        detailHtml += "</tr>"
-      detailHtml += "</thead>"
-
-      detailHtml += "<tbody>"
-          for(var k = 0 ; k < area_array.length ; k++){
-            detailHtml += "<tr>"
-              detailHtml += "<td>" + area_array[k] + "</td>"
-              detailHtml += "<td>" + rooms_array[k] + " / " + baths_array[k] + "</td>"
-              if(isNaN(maintainance_array[k]) == true ){
-                detailHtml += "<td>" + "---" + "</td>"
-              }
-              else{
-                detailHtml += "<td>" + Number(maintainance_array[k]).toLocaleString() + "원" + "</td>"
-              }
-            detailHtml += "</tr>"
-          }
-      detailHtml += "</tbody>"
-    detailHtml += "</table>"
-    detailHtml += "</div>"
-
-    detailHtml += "<div class='comment2'>주거총점 계산을 위한 정보는 네이버 부동산으로 취득하며, 세대수/평형/난방방식 등의 항목을 상대점수로 산정합니다.</div>"
-    detailHtml += "</div></div></div></div>"
-    avgLivingScore = Math.round( livingSum/itemNum * 100 ) / 100
+    detailHtml += "</div></div>"    
 
     if(isNaN(transportScore) == false){
       //교통
@@ -1049,6 +988,67 @@
 
     detailHtml += "</div></div></div></div>"
     avgInfraScore = ( Math.round( infraSum/itemNum * 100 ) / 100 ).toFixed(2)
+
+    //주거
+    detailHtml += "<div class='card'>";
+    detailHtml += "<div class='card-header'>";
+    detailHtml += "<div class='popTitle'><i class='fas fa-home'></i>&nbsp&nbsp주거</div>"
+    detailHtml += "</div>";
+    detailHtml += "<div class='card-body'>";
+    detailHtml += "<div id='popLiving'>"
+    detailHtml += "<div class='graph' style='height: 120px'> <canvas id='livingChart'></canvas></div>"
+    detailHtml += "<div class='popTable'>"
+    if(aptData.data[index]["한강"] > 0){
+      detailHtml += "<div class='popSubTable'><div class='popContent'>" + "한강 프리미엄" + "</div>" + "<div class='popResult'>적용</div></div>";
+    }    
+    if(202205 && aptData.data[index]["해운대"] > 0){
+      detailHtml += "<div class='popSubTable'><div class='popContent'>" + "해운대 프리미엄" + "</div>" + "<div class='popResult'>적용</div></div>";
+    }
+    room_type_str = []
+    for(var h = 0 ; h < room_type.length ; h++){      
+      room_type_str.push( (" " + room_type[h] + "룸") )
+    }
+    detailHtml += "<div class='popSubTable'><div class='popContent'>" + "룸타입" + "</div>" + "<div class='popResult'>" + room_type_str + "</div></div>";
+    detailHtml += "<div class='popSubTable'><div class='popContent'>" + "세대수" + "</div>" + "<div class='popResult'>" + house_num.toLocaleString() + "세대</div></div>";
+    detailHtml += "<div class='popSubTable' id='popSubStation'><div class='popContent'>" + "주차" + "</div>" + "<div class='popResult'>" + parking + "</div></div>";
+    detailHtml += "<div class='popSubTable'><div class='popContent'>" + "최고/최저층" + "</div>" + "<div class='popResult'>" + floor_high + "층 / " + floor_low + "층</div></div>";
+    detailHtml += "<div class='popSubTable'><div class='popContent'>" + "난방방식" + "</div>" + "<div class='popResult'>" + heating + "</div></div>";
+    //detailHtml += "<div class='popSubTable'><div class='popContent'>" + "현관구조" + "</div>" + "<div class='popResult'>" + entrance + "</div></div>";
+
+    var area_array = area_info.split(",")
+    var maintainance_array = maintainance.split(",")
+    var rooms_array = rooms.split(",")
+    var baths_array = baths.split(",")
+    detailHtml += "<div class='table-responsive' style='max-height: 200px; overflow-y: scroll'>"
+    detailHtml += "<table class='table table-striped' style='font-size:0.8em'>"
+      detailHtml += "<thead class='table-light' style='position:sticky ;top: 0'>"
+        detailHtml += "<tr>"
+          detailHtml += "<th scope='col'>" + "평형" + "</th>"
+          detailHtml += "<th scope='col'>" + "방수/욕실수" + "</th>"
+          detailHtml += "<th scope='col'>" + "평균 관리비" + "</th>"
+        detailHtml += "</tr>"
+      detailHtml += "</thead>"
+
+      detailHtml += "<tbody>"
+          for(var k = 0 ; k < area_array.length ; k++){
+            detailHtml += "<tr>"
+              detailHtml += "<td>" + area_array[k] + "</td>"
+              detailHtml += "<td>" + rooms_array[k] + " / " + baths_array[k] + "</td>"
+              if(isNaN(maintainance_array[k]) == true ){
+                detailHtml += "<td>" + "---" + "</td>"
+              }
+              else{
+                detailHtml += "<td>" + Number(maintainance_array[k]).toLocaleString() + "원" + "</td>"
+              }
+            detailHtml += "</tr>"
+          }
+      detailHtml += "</tbody>"
+    detailHtml += "</table>"
+    detailHtml += "</div>"
+
+    detailHtml += "<div class='comment2'>주거총점 계산을 위한 정보는 네이버 부동산으로 취득하며, 세대수/평형/난방방식 등의 항목을 상대점수로 산정합니다.</div>"
+    detailHtml += "</div></div></div></div>"
+    avgLivingScore = Math.round( livingSum/itemNum * 100 ) / 100
 
     //교육
     detailHtml += "<div class='card'>";
@@ -1259,7 +1259,7 @@
       drawRankChart_op(rankMonth, rankData, aptData.data[itemNum-1]["rank"])
     }
 
-    drawChart_op(aptValue, livingScore, transportScore, infraScore, eduScore)
+    drawChart_op(aptValue, transportScore, infraScore, livingScore, eduScore)
     drawSubChart(livingScore, avgLivingScore, "주거총점", "지역평균", "#293249", "#4f5e84",  "livingChart")
     if(isNaN(transportScore) == false){
       drawSubChart(transportScore, avgTransportScore, "교통총점", "지역평균", "#293249", "#4f5e84", "transportChart")

@@ -77,15 +77,15 @@ function drawChart(aptValue, livingScore, transportScore, infraScore, eduScore){
   });
 }
 
-function drawChart_op(aptValue, livingScore, transportScore, infraScore, eduScore){
-  var label = ["총점", "주거", "교통", "인프라", "교육"]
-  var data = [aptValue, livingScore, transportScore, infraScore, eduScore]      
+function drawChart_op(aptValue, transportScore, infraScore, livingScore, eduScore){
+  var label = ["총점", "교통", "인프라", "주거", "교육"]
+  var data = [aptValue, transportScore, infraScore, livingScore, eduScore]      
   var color = 'white'
   var align = 'start'
 
   if(isNaN(transportScore)){
-    label = ["총점", "주거", "인프라", "교육"]
-    data = [aptValue, livingScore, infraScore, eduScore]        
+    label = ["총점", "인프라", "주거", "교육"]
+    data = [aptValue, infraScore, livingScore, eduScore]        
   }
   if(eduScore == "region"){
     label = ["총점", "공급필요", "인구수", "일자리수"]
