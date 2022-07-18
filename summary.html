@@ -455,7 +455,12 @@
       shareText = "『교육 좋은 아파트』\n"
     }
 
-    for(var i = 0 ; i < 5 ; i++){
+    var total_list = list.length
+    if(total_list >= 5){
+      total_list = 5
+    }
+
+    for(var i = 0 ; i < total_list ; i++){
       shareText += "- " + list[i]["name"]
       if(list[i]["apt_type"] == "아파트"){
         shareText += "(" + list[i]["apt_year"] + "년차)"
@@ -510,8 +515,13 @@ function allShareWithComment(){
   shareText += "- '오피스텔랭크' 신규 서비스 제공 (www.aptrank.kr/op)'\n\n"  
   shareText += "응원, 문의, 제안, 버그제보는 아파트랭크 '카카오톡 1:1 문의하기(https://pf.kakao.com/_vESNb/chat)'로 남겨주시면 적극 반영 검토하겠습니다.\n\n"
 
+  var total_list = living.length
+  if(total_list >= 5){
+    total_list = 5
+  }
+
     shareText += "『주거 환경 좋은 아파트』\n"
-    for(var i = 0 ; i < 5 ; i++){
+    for(var i = 0 ; i < total_list ; i++){
       shareText += "- " + living[i]["name"]
       if(living[i]["apt_type"] == "아파트"){
         shareText += "(" + living[i]["apt_year"] + "년차)"
@@ -530,7 +540,7 @@ function allShareWithComment(){
     if(transport.length != 0){
       shareText += "\n"
       shareText += "『출퇴근 교통 좋은 아파트』\n"
-      for(var i = 0 ; i < 5 ; i++){
+      for(var i = 0 ; i < total_list ; i++){
         shareText += "- " + transport[i]["name"]
         if(transport[i]["apt_type"] == "아파트"){
           shareText += "(" + transport[i]["apt_year"] + "년차)"
@@ -548,7 +558,7 @@ function allShareWithComment(){
 
     shareText += "\n"
     shareText += "『인프라 좋은 아파트』\n"
-    for(var i = 0 ; i < 5 ; i++){
+    for(var i = 0 ; i < total_list ; i++){
       shareText += "- " + infra[i]["name"]
       if(infra[i]["apt_type"] == "아파트"){
         shareText += "(" + infra[i]["apt_year"] + "년차)"
@@ -565,7 +575,7 @@ function allShareWithComment(){
 
     shareText += "\n"
     shareText += "『교육 좋은 아파트』\n"
-    for(var i = 0 ; i < 5 ; i++){
+    for(var i = 0 ; i < total_list ; i++){
       shareText += "- " + education[i]["name"]
       if(education[i]["apt_type"] == "아파트"){
         shareText += "(" + education[i]["apt_year"] + "년차)"
@@ -582,7 +592,7 @@ function allShareWithComment(){
 
     shareText += "\n"
     shareText += "『균형잡힌 입지 조건 아파트』\n"
-    for(var i = 0 ; i < 5 ; i++){
+    for(var i = 0 ; i < total_list ; i++){
       shareText += "- " + balanced[i]["name"]
       if(balanced[i]["apt_type"] == "아파트"){
         shareText += "(" + balanced[i]["apt_year"] + "년차)"
@@ -625,10 +635,15 @@ function allShareWithComment(){
 
 function allShare(){
   shareTitle = "[아파트랭크]\n"
-  shareTitle += selectedMonth.substr(0, 4) + "년 " + Number(selectedMonth.substr(4, 2)).toString() + "월,\n" + balanced[0]["region"] + " 요약\n\n"    
+  shareTitle += selectedMonth.substr(0, 4) + "년 " + Number(selectedMonth.substr(4, 2)).toString() + "월,\n" + balanced[0]["region"] + " 요약\n\n"
+
+  var total_list = living.length
+  if(total_list >= 3){
+    total_list = 3
+  }
 
     shareText = "『주거 환경 좋은 아파트』\n"
-    for(var i = 0 ; i < 3 ; i++){
+    for(var i = 0 ; i < total_list ; i++){
       shareText += "- " + living[i]["name"]
       if(living[i]["apt_type"] == "아파트"){
         shareText += "(" + living[i]["apt_year"] + "년차)"
@@ -647,7 +662,7 @@ function allShare(){
     if(transport.length != 0){
       shareText += "\n"
       shareText += "『출퇴근 교통 좋은 아파트』\n"
-      for(var i = 0 ; i < 3 ; i++){
+      for(var i = 0 ; i < total_list ; i++){
         shareText += "- " + transport[i]["name"]
         if(transport[i]["apt_type"] == "아파트"){
           shareText += "(" + transport[i]["apt_year"] + "년차)"
@@ -665,7 +680,7 @@ function allShare(){
 
     shareText += "\n"
     shareText += "『인프라 좋은 아파트』\n"
-    for(var i = 0 ; i < 3 ; i++){
+    for(var i = 0 ; i < total_list ; i++){
       shareText += "- " + infra[i]["name"]
       if(infra[i]["apt_type"] == "아파트"){
         shareText += "(" + infra[i]["apt_year"] + "년차)"
@@ -682,7 +697,7 @@ function allShare(){
 
     shareText += "\n"
     shareText += "『교육 좋은 아파트』\n"
-    for(var i = 0 ; i < 3 ; i++){
+    for(var i = 0 ; i < total_list ; i++){
       shareText += "- " + education[i]["name"]
       if(education[i]["apt_type"] == "아파트"){
         shareText += "(" + education[i]["apt_year"] + "년차)"
@@ -699,7 +714,7 @@ function allShare(){
 
     shareText += "\n"
     shareText += "『균형잡힌 입지 조건 아파트』\n"
-    for(var i = 0 ; i < 3 ; i++){
+    for(var i = 0 ; i < total_list ; i++){
       shareText += "- " + balanced[i]["name"]
       if(balanced[i]["apt_type"] == "아파트"){
         shareText += "(" + balanced[i]["apt_year"] + "년차)"
@@ -739,10 +754,15 @@ function allShare(){
 function shareToCafe(){
   shareTitle = "[아파트랭크] "
   shareTitle += selectedMonth.substr(0, 4) + "년 " + Number(selectedMonth.substr(4, 2)).toString() + "월, " + balanced[0]["region"] + " 랭크\n\n"
+
+  var total_list = living.length
+  if(total_list >= 10){
+    total_list = 10
+  }
   
   shareText = "『주거 환경 좋은 아파트』\n"
   shareText += "※ 재건축은 용적률과 건폐율로 계산\n"
-    for(var i = 0 ; i < 10 ; i++){
+    for(var i = 0 ; i < total_list ; i++){
       shareText += "- " + living[i]["name"]
       if(living[i]["apt_type"] == "아파트"){
         shareText += "(" + living[i]["apt_year"] + "년차)"
@@ -760,7 +780,7 @@ function shareToCafe(){
     if(transport.length != 0){
       shareText += "\n"
       shareText += "『출퇴근 교통 좋은 아파트』\n"
-      for(var i = 0 ; i < 10 ; i++){
+      for(var i = 0 ; i < total_list ; i++){
         shareText += "- " + transport[i]["name"]
         if(transport[i]["apt_type"] == "아파트"){
           shareText += "(" + transport[i]["apt_year"] + "년차)"
@@ -778,7 +798,7 @@ function shareToCafe(){
 
     shareText += "\n"
     shareText += "『인프라 좋은 아파트』\n"
-    for(var i = 0 ; i < 10 ; i++){
+    for(var i = 0 ; i < total_list ; i++){
       shareText += "- " + infra[i]["name"]
       if(infra[i]["apt_type"] == "아파트"){
         shareText += "(" + infra[i]["apt_year"] + "년차)"
@@ -795,7 +815,7 @@ function shareToCafe(){
 
     shareText += "\n"
     shareText += "『교육 좋은 아파트』\n"
-    for(var i = 0 ; i < 10 ; i++){
+    for(var i = 0 ; i < total_list ; i++){
       shareText += "- " + education[i]["name"]
       if(education[i]["apt_type"] == "아파트"){
         shareText += "(" + education[i]["apt_year"] + "년차)"
@@ -812,7 +832,7 @@ function shareToCafe(){
 
     shareText += "\n"
     shareText += "『균형잡힌 입지 조건 아파트』\n"
-    for(var i = 0 ; i < 10 ; i++){
+    for(var i = 0 ; i < total_list ; i++){
       shareText += "- " + balanced[i]["name"]
       if(balanced[i]["apt_type"] == "아파트"){
         shareText += "(" + balanced[i]["apt_year"] + "년차)"
@@ -883,8 +903,13 @@ function shareToFacebook(){
   shareText = selectedMonth.substr(0, 4) + "년 " + Number(selectedMonth.substr(4, 2)).toString() + "월, " + balanced[0]["region"] + " 랭크\n\n"  
   shareText += balanced[0]["shorten_url"] + "\n\n"
 
+  var total_list = living.length
+  if(total_list >= 10){
+    total_list = 10
+  }
+
     shareText += "『주거 환경 좋은 아파트』\n"
-    for(var i = 0 ; i < 10 ; i++){
+    for(var i = 0 ; i < total_list ; i++){
       shareText += "#" + living[i]["name"]
       if(living[i]["apt_type"] == "아파트"){
         shareText += "(" + living[i]["apt_year"] + "년차)"
@@ -903,7 +928,7 @@ function shareToFacebook(){
     if(transport.length != 0){
       shareText += "\n"
       shareText += "『출퇴근 교통 좋은 아파트』\n"
-      for(var i = 0 ; i < 10 ; i++){
+      for(var i = 0 ; i < total_list ; i++){
         shareText += "#" + transport[i]["name"]
         if(transport[i]["apt_type"] == "아파트"){
           shareText += "(" + transport[i]["apt_year"] + "년차)"
@@ -921,7 +946,7 @@ function shareToFacebook(){
 
     shareText += "\n"
     shareText += "『인프라 좋은 아파트』\n"
-    for(var i = 0 ; i < 10 ; i++){
+    for(var i = 0 ; i < total_list ; i++){
       shareText += "#" + infra[i]["name"]
       if(infra[i]["apt_type"] == "아파트"){
         shareText += "(" + infra[i]["apt_year"] + "년차)"
@@ -938,7 +963,7 @@ function shareToFacebook(){
 
     shareText += "\n"
     shareText += "『교육 좋은 아파트』\n"
-    for(var i = 0 ; i < 10 ; i++){
+    for(var i = 0 ; i < total_list ; i++){
       shareText += "#" + education[i]["name"]
       if(education[i]["apt_type"] == "아파트"){
         shareText += "(" + education[i]["apt_year"] + "년차)"
@@ -955,7 +980,7 @@ function shareToFacebook(){
 
     shareText += "\n"
     shareText += "『균형잡힌 입지 조건 아파트』\n"
-    for(var i = 0 ; i < 10 ; i++){
+    for(var i = 0 ; i < total_list ; i++){
       shareText += "#" + balanced[i]["name"]
       if(balanced[i]["apt_type"] == "아파트"){
         shareText += "(" + balanced[i]["apt_year"] + "년차)"
