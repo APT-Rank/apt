@@ -7,7 +7,7 @@ function updateTopTable(month, region){
   initSorting()
 
   if(Number(selectedMonth) < 202207){    
-    var addon_html = "<div class='content'><div class='apt_name' style='text-align:center; padding-top: 2em'> Top300 정보는 <br> 2022년 7월부터 볼 수 있어요. </div></div>"
+    var addon_html = "<div class='content'><div class='apt_name' style='text-align:center; padding-top: 2em'> Top 300 정보는 <br> 2022년 7월부터 볼 수 있어요. </div></div>"
     $('#dataList').append(addon_html);
   }
   else{  
@@ -119,6 +119,7 @@ function showTopDetail(index){
 
   aptData = sortData
   var aptRank = "- Top " + aptData.data[index]['rank'] + " -"
+  var aptRank_copy = "Top " + aptData.data[index]['rank']
 
   var aptName = aptData.data[index]["아파트명"]
   var apt_m = aptData.data[index]["전용면적(m2)"]
@@ -403,7 +404,7 @@ function showTopDetail(index){
   footerHtml += "<div class='modal-footer'>"
   //footerHtml += "<div></div>"
   shareTitle = "[아파트랭크]\n"
-  shareTitle += selectedMonth.substr(0, 4) + "년 " + Number(selectedMonth.substr(4, 2)).toString() + "월 우리 아파트 입지 데이터는?\n"
+  shareTitle += selectedMonth.substr(0, 4) + "년 " + Number(selectedMonth.substr(4, 2)).toString() + "월 아파트 입지 데이터\n"
 
   shareText = "\n『" + aptName
    
@@ -416,8 +417,8 @@ function showTopDetail(index){
     shareText += "(" + aptDuration + "년차)』"
   }
 
-  shareText += "\nㆍ지역 : " + $('#sido option:selected').text() + " " + $('#gungu option:selected').text()
-  shareText += "\nㆍ순위 : " + aptRank + " (" + selectedSubRegion + ")"
+  shareText += "\nㆍ" + $('#sido option:selected').text() + " " + $('#gungu option:selected').text()
+  shareText += "\nㆍ순위 : " + aptRank_copy
 
   if(isNaN(last_sales_price)){
     shareText += "\nㆍ최근실거래 : 거래 정보 없음"
