@@ -61,11 +61,16 @@ function updateTopTable(month, region){
           if(checkPrice(last_sales[1])){
 
             //console.log(valueSum)
-
-            var addon_html = "<div class='listBox' data-bs-toggle='modal' data-bs-target='#exampleModal' id='myModal' onClick='showTopDetail(" + i + ")'>";
-
+            if(selectedSubRegion == "Trans_Top300" && i == 0){              
+              var addon_html = "<div class='content' style='background-color: #ffdfde; border-bottom: 1px solid gray; padding-top: 0.5em; padding-bottom: 0.5em'><div class='apt_name' style='text-align:center; font-size: 0.75em;'> '출퇴근 교통'은 지하철이 있는 수도권과 광역시만 선정하고 있어요.</div></div>"
+              addon_html += "<div class='listBox' data-bs-toggle='modal' data-bs-target='#exampleModal' id='myModal' onClick='showTopDetail(" + i + ")'>";
+            }
+            else{
+              var addon_html = "<div class='listBox' data-bs-toggle='modal' data-bs-target='#exampleModal' id='myModal' onClick='showTopDetail(" + i + ")'>";
+            }
             addon_html += "<div class='rank_content'>"
-            addon_html += "<div class='rank'>" + rank + "위</div>";
+            addon_html += "<div class='ranksame'> TOP </div>"
+            addon_html += "<div class='rank'><strong>" + rank + "</strong></div>";
             addon_html += "</div>"
 
             addon_html += "<div class='content'>";
@@ -112,7 +117,7 @@ function showTopDetail(index){
   footerHtml = "";
 
   aptData = sortData
-  var aptRank = aptData.data[index]['rank'] + "/" + aptData.data[itemNum-1]["rank"] + "위"
+  var aptRank = "- Top " + aptData.data[index]['rank'] + " -"
 
   var aptName = aptData.data[index]["아파트명"]
   var apt_m = aptData.data[index]["전용면적(m2)"]
@@ -214,7 +219,7 @@ function showTopDetail(index){
   detailHtml += "<div class='card-header'>";
 
   detailHtml += "<div class='popupSubtitle' style='font-size: 0.75em; text-align: center'>- " + $('#sido option:selected').text() + " " + $('#gungu option:selected').text() + " -</div>"
-  detailHtml += "<div class='popRank'><i class='fas fa-trophy'></i> " + aptRank + "</div></div>";
+  detailHtml += "<div class='popRank'>" + aptRank + "</div></div>";
 
   detailHtml += "<div class='card-body' style='padding-top: 2px'>";
   detailHtml += "<div class='graph' style='height: 200px'> <canvas id='valueChart'></canvas></div>"
@@ -247,7 +252,12 @@ function showTopDetail(index){
   detailHtml += "<div class='popSubTable'><div class='popContent'>" + "현관구조" + "</div>" + "<div class='popResult'>" + entrance + "</div></div>";
 
   var area_array = area_info.split(",")
-  var maintainance_array = maintainance.split(",")
+  if(!maintainance){
+    var maintainance_array = "---"
+  }
+  else{
+    var maintainance_array = maintainance.split(",")
+  }
   var rooms_array = rooms.split(",")
   var baths_array = baths.split(",")
   detailHtml += "<div class='table-responsive' style='max-height: 200px; overflow-y: scroll'>"
@@ -281,7 +291,7 @@ function showTopDetail(index){
   detailHtml += "</div></div></div></div>"
   avgLivingScore = Math.round( livingSum/itemNum * 100 ) / 100
 
-  if(!transportScore){
+  if(transportScore != 0){
     //교통
     detailHtml += "<div class='card'>";
     detailHtml += "<div class='card-header'>";
@@ -456,6 +466,7 @@ function showTopDetail(index){
 
 
   //지역구
+  /*
   detailHtml += "<div class='card'>";
   detailHtml += "<div class='card-header'>";
   detailHtml += "<div class='popTitle'><i class='fas fa-layer-group'></i>&nbsp&nbsp" + $('#sido option:selected').text() + " " + $('#gungu option:selected').text() + "</div>"
@@ -465,6 +476,7 @@ function showTopDetail(index){
   detailHtml += "<div class='graph' style='height: 120px'> <canvas id='regionChart'></canvas></div>"
   detailHtml += "<div class='comment2'>지역구 정보는 공공데이터포탈 정보를 기반으로 산정됩니다.</div>"
   detailHtml += "</div></div></div>"
+  */
 
   //Footer에 네이버 부동산 버튼
   footerHtml += "<div class='modal-footer'>"
@@ -533,11 +545,11 @@ function showTopDetail(index){
   }
 
   drawChart(aptValue, livingScore, transportScore, infraScore, eduScore)
-  drawSubChart(livingScore, avgLivingScore, "주거총점", "지역평균", "#fe4040", "#9f9f9f",  "livingChart")
-  if(!transportScore){
-    drawSubChart(transportScore, avgTransportScore, "교통총점", "지역평균", "#fe4040", "#9f9f9f", "transportChart")
+  drawSubChart(livingScore, avgLivingScore, "주거총점", "Top300 평균", "#fe4040", "#9f9f9f",  "livingChart")
+  if(transportScore != 0){
+    drawSubChart(transportScore, avgTransportScore, "교통총점", "Top300 평균", "#fe4040", "#9f9f9f", "transportChart")
   }
-  drawSubChart(infraScore, avgInfraScore, "인프라총점", "지역평균", "#fe4040", "#9f9f9f", "infraChart")
-  drawSubChart(eduScore, avgEduScore, "교육총점", "지역평균", "#fe4040", "#9f9f9f", "eduChart")
-  drawSubChart(eduScore, avgEduScore, "인구총점", "일자리총점", "#fe4040", "#fe4040", "regionChart")
+  drawSubChart(infraScore, avgInfraScore, "인프라총점", "Top300 평균", "#fe4040", "#9f9f9f", "infraChart")
+  drawSubChart(eduScore, avgEduScore, "교육총점", "Top300 평균", "#fe4040", "#9f9f9f", "eduChart")
+  //drawSubChart(eduScore, avgEduScore, "인구총점", "일자리총점", "#fe4040", "#fe4040", "regionChart")
 }

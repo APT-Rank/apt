@@ -280,7 +280,8 @@ function showSearchBar(){
           var addon_html = "<div class='listBox' data-bs-toggle='modal' data-bs-target='#exampleModal' id='myModal' onClick='showTopDetail(" + i + ")'>";
 
           addon_html += "<div class='rank_content'>"
-          addon_html += "<div class='rank'>" + rank + "위</div>";
+          addon_html += "<div class='rank'> TOP </div>"
+          addon_html += "<div class='rank'><strong>" + rank + "</strong></div>";
           addon_html += "</div>"
         }  
           

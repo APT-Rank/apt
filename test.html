@@ -702,7 +702,7 @@
             var addon_html = "<div class='listBox' data-bs-toggle='modal' data-bs-target='#exampleModal' id='myModal' onClick='showDetail(" + i + ")'>";
 
             if(selectedMonth == "202201"){
-              addon_html += "<div class='rank_content'>"
+              addon_html += "<div class='rank'>"
               addon_html += "<div class='rank'>" + rank + "위</div>";
               addon_html += "</div>"
             }
@@ -1036,7 +1036,7 @@
     detailHtml += "</div></div></div></div>"
     avgLivingScore = Math.round( livingSum/itemNum * 100 ) / 100
 
-    if(!transportScore){
+    if(isNaN(transportScore) == false){
       //교통
       detailHtml += "<div class='card'>";
       detailHtml += "<div class='card-header'>";
@@ -1351,7 +1351,7 @@
 
     drawChart(aptValue, livingScore, transportScore, infraScore, eduScore)
     drawSubChart(livingScore, avgLivingScore, "주거총점", "지역평균", "#fe4040", "#9f9f9f",  "livingChart")
-    if(!transportScore){
+    if(isNaN(transportScore) == false){
       drawSubChart(transportScore, avgTransportScore, "교통총점", "지역평균", "#fe4040", "#9f9f9f", "transportChart")
     }
     drawSubChart(infraScore, avgInfraScore, "인프라총점", "지역평균", "#fe4040", "#9f9f9f", "infraChart")
