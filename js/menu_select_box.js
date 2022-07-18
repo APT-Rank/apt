@@ -1,5 +1,11 @@
 
-  var inKorea = [ ['공급필요/인구/일자리', '1000000000_Korea'] ]
+  var inKorea = [ ['공급필요/인구/일자리', '1000000000_Korea'],
+                  ['주거우선 Top300', 'Living_Top300'],
+                  ['출퇴근 교통 Top300', 'Trans_Top300'],
+                  ['인프라우선 Top300', 'Infra_Top300'],
+                  ['교육우선 Top300', 'Edu_Top300'],
+                  ['균형잡힌 Top300', 'Balanced_Top300']
+                ]
 
   var inSeoul = [
       ['강남구','1168000000_Seoul_Gangnam',['개포동', '논현동', '대치동', '도곡동', '삼성동', '세곡동', '수서동', '신사동', '압구정동', '역삼동', '율현동', '일원동', '자곡동', '청담동']],
@@ -300,8 +306,8 @@
     ]
 
   var regions = [
-      ['전국', 'Korea'], ['서울시', 'Seoul'], ['부산시', 'Busan'], ['대구시', 'Daegu'], ['인천시', 'Incheon'], ['광주시', 'Gwangju'], ['대전시', 'Daejeon'], 
-      ['울산시', 'Ulsan'], ['세종시', 'Sejong'], ['경기도', 'Gyeonggi'], ['강원도', 'Gangwondo'], ['충청북도', 'Chungcheongbukdo'], ['충청남도', 'Chungcheongnamdo'],
+      ['전국', 'Korea'], ['서울시', 'Seoul'], ['경기도', 'Gyeonggi'], ['부산시', 'Busan'], ['대구시', 'Daegu'], ['인천시', 'Incheon'], ['광주시', 'Gwangju'], ['대전시', 'Daejeon'], 
+      ['울산시', 'Ulsan'], ['세종시', 'Sejong'], ['강원도', 'Gangwondo'], ['충청북도', 'Chungcheongbukdo'], ['충청남도', 'Chungcheongnamdo'],
       ['전라북도', 'Jeollabukdo'], ['전라남도', 'Jeollanamdo'], ['경상북도', 'Gyeongsangbukdo'], ['경상남도', 'Gyeongsangnamdo'], ['제주도', 'Jejudo']
     ]
 

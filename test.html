@@ -27,14 +27,14 @@
     }
   </script>
 
-  <title>아파트랭크 - 우리 아파트 입지는 몇 등일까?</title>
+  <title>아파트랭크 - 데이터로 분석된 아파트 입지 순위</title>
   <meta property="og:type" content="website">
-  <meta property="og:title" content="AI가 선정한 대한민국 아파트 입지 랭크">
-  <meta property="og:description" content="AI가 선정하는 대한민국 아파트 입지 랭크">
-  <meta property="og:image" content="https://www.aptrank.kr/thumbnail.jpg">
+  <meta property="og:title" content="아파트랭크">
+  <meta property="og:description" content="데이터로 분석된 대한민국 아파트 입지">
+  <meta property="og:image" content="https://www.aptrank.kr/thumbnail_2.jpg">
   <meta property="og:url" content="https://www.aptrank.kr/">
   <meta name="keyword" content="부동산, 아파트, 입지, 순위, 아파트입지, 우리동네, 호가, 대장아파트, 최고가, 신고가, 호재, AI, 등수">
-  <meta name="description" content="AI가 선정하는 대한민국 아파트 입지 랭크">
+  <meta name="description" content="데이터로 분석된 대한민국 아파트 입지">
   <meta name="author" content="아파트랭크">
   <meta name="robots" content="index,follow">
   <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no, minimal-ui">
@@ -74,6 +74,7 @@
   <script src="./js/weight_cal.js" type="text/javascript"></script>
   <script src="./js/weight_array.js" type="text/javascript"></script>
   <script src="./js/simulation.js" type="text/javascript"></script>
+  <script src="./js/top300.js" type="text/javascript"></script>
 
   <link href="./css/style.css" rel="stylesheet"/>
   <link href="./css/slider.css" rel="stylesheet"/>
@@ -111,7 +112,8 @@
         <div id="gungu_selection"><select id="gungu" onChange="updateRegion()"></select></div>
         <div id="month_selection">
           <select id="month" onChange="updateMonth()">            
-            <option value="202206" selected>2022년 06월</option>
+            <option value="202207" selected>2022년 07월</option>
+            <option value="202206">2022년 06월</option>
             <option value="202205">2022년 05월</option>
             <option value="202204">2022년 04월</option>
             <option value="202203">2022년 03월</option>
@@ -185,9 +187,9 @@
       <div id="dataList"></div>
 
       <!--아파트랭크 연결-->
-      <div id="linkToAptrank" onClick='openAptrank()'>
-        <div>아파트랭크:THEME - 공시1억/5층 이하, 분양권/재건축 찾기</div>
-        <div style='font-size: 1.15em'><i class="fa-solid fa-circle-arrow-right"></i></div>
+      <div id="linkToAptrank">
+        <div onClick='openAptrank()' style="background-color: #fe4040; height: 30px; line-height: 30px">아파트랭크:THEME  <i class="fa-solid fa-circle-arrow-right"></i></div>
+        <div onClick='openOprank()' style="background-color: #fe4040; height: 30px; line-height: 30px">오피스텔랭크  <i class="fa-solid fa-circle-arrow-right"></i></div>
       </div>
 
       <!--단지 검색창 닫기 플로팅 버튼-->
@@ -292,7 +294,7 @@
 
 
 <script>
-  var selectedMonth = "202206"
+  var selectedMonth = "202207"
   var selectedRegion = "Seoul"
   var selectedSubRegion = "1168000000_Seoul_Gangnam"  
 
@@ -400,36 +402,29 @@
 
     initSorting()
 
-    var modal_history = []
-
     $('div.modal').on('show.bs.modal', function() {
       var modal = this;
       var hash = modal.id;
-
-      if(modal_history[modal_history.length-1] != hash){
-        modal_history.push(hash)
-      }
-            
       window.location.hash = hash;
       window.onhashchange = function() {
         if (!location.hash){
           $(modal).modal('hide');
-        }        
+        }
       }
     });
 
-    $('div.modal').on('hidden.bs.modal', function() {      
+    $('div.modal').on('hidden.bs.modal', function() {
+      //var hash = this.id;
+      //history.replaceState('', document.title, window.location.pathname);
+      
       //처음 진입 시 공지 팝업이 표시되면, 닫은 후 가중치 팝업 표시
       if(noticePop == true){     
         noticePop = false
       }
 
-      modal_history.pop()
-      //console.log("Hide: " , modal_history[modal_history.length-1])
-      window.location.hash = modal_history[modal_history.length-1]
-      //console.log("Hide Hash: ", window.location.hash)      
+      var hash = this.id;
       history.replaceState('', document.title, window.location.pathname);
-      
+
       if(startNotice == true){
         if(alwaysSortingPop != "off"){
           if(selectedRegion != 'Korea'){
@@ -448,7 +443,7 @@
       }
     })
 
-    if($.cookie('popCookie') != "20220618"){
+    if($.cookie('popCookie') != "202207"){
       startNotice = true
       showNotice()
       //초기 진입 시 공지 팝업 표시하는 경우, 변수 startNotice에 true 할당      
@@ -623,20 +618,25 @@
     selectedSubRegion = $("#gungu option:selected").val()
 
     if (selectedSubRegion != "1000000000_Korea"){
-      updateTable(selectedMonth, selectedSubRegion)
-      regionName = $("#sido option:selected").text()
-      //*************** 시작 시 가중치 팝업 표시 ********************      
-      if(regionSelection != true && alwaysSortingPop == "on"){
-          console.log("POP: ", alwaysSortingPop)
-          console.log("regionSelection: ", regionSelection)
-          showSorting()
-          $('#exampleModal').modal("show");
+      if(selectedSubRegion == "Living_Top300" || selectedSubRegion == "Trans_Top300"  || selectedSubRegion == "Infra_Top300" || selectedSubRegion == "Edu_Top300" || selectedSubRegion == "Balanced_Top300"){
+        updateTopTable(selectedMonth, selectedSubRegion)
       }
-      regionSelection = false     
-      //*********************************************/
+      else{
+        updateTable(selectedMonth, selectedSubRegion)
+        regionName = $("#sido option:selected").text()
+        //*************** 시작 시 가중치 팝업 표시 ********************      
+        if(regionSelection != true && alwaysSortingPop == "on"){
+            console.log("POP: ", alwaysSortingPop)
+            console.log("regionSelection: ", regionSelection)
+            showSorting()
+            $('#exampleModal').modal("show");
+        }
+        regionSelection = false     
+        //*********************************************/
+      }
     }
     else{
-      updateRegionTable(selectedMonth)
+      updateRegionTable(selectedMonth, selectedSubRegion)
     }    
     showWeight()    
   }
@@ -644,6 +644,7 @@
   function updateTable(month, region){
     //$('div.modal').modal("hide");    
     $('#sort').css("visibility", "visible")
+    $('#rearrange').css("visibility", "visible")
     $('html').scrollTop(0)
     initSorting()
     //console.log("AAAAAAAAAA", region)
@@ -681,7 +682,7 @@
           var aptValue = Math.round( aptData.data[i]["가치 총점"] * 100 ) / 100
           var house_num = aptData.data[i]["세대수"]
           var rank = aptData.data[i]["rank"].toFixed()
-          var last_sales = aptData.data[i]["last_sales"].split(",")
+          var last_sales = aptData.data[i]["last_sales"].split(",")          
           var last_sales_date = last_sales[0].toString()
           var last_sales_price = last_sales[1].toString()
           var last_sales_area = last_sales[2]
@@ -693,74 +694,81 @@
           infraSum += aptData.data[i]["인프라총점"]
           eduSum += aptData.data[i]["학군총점"]
 
-          //console.log(valueSum)
+          //가격필터 적용 시
+          if(checkPrice(last_sales[1])){
 
-          var addon_html = "<div class='listBox' data-bs-toggle='modal' data-bs-target='#exampleModal' id='myModal' onClick='showDetail(" + i + ")'>";
+            //console.log(valueSum)
 
-          if(selectedMonth == "202201"){
-            addon_html += "<div class='rank_content'>"
-            addon_html += "<div class='rank'>" + rank + "위</div>";
-            addon_html += "</div>"
-          }
-          else{
-            addon_html += "<div class='rank_content'>"
-            addon_html += "<div class='rank'>" + rank + "위</div>";
-            if(aptData.data[i]["rank_gap"] == 0){
-              addon_html += "<div class='ranksame'> -- </div>"
+            var addon_html = "<div class='listBox' data-bs-toggle='modal' data-bs-target='#exampleModal' id='myModal' onClick='showDetail(" + i + ")'>";
+
+            if(selectedMonth == "202201"){
+              addon_html += "<div class='rank_content'>"
+              addon_html += "<div class='rank'>" + rank + "위</div>";
+              addon_html += "</div>"
             }
-            else if(aptData.data[i]["rank_gap"] == 9999){
-              addon_html += "<div class='ranksame'> NEW! </div>"
+            else{
+              addon_html += "<div class='rank_content'>"
+              addon_html += "<div class='rank'>" + rank + "위</div>";
+              if(aptData.data[i]["rank_gap"] == 0){
+                addon_html += "<div class='ranksame'> -- </div>"
+              }
+              else if(aptData.data[i]["rank_gap"] == 9999){
+                addon_html += "<div class='ranksame'> NEW! </div>"
+              }
+              else if(aptData.data[i]["rank_gap"] > 0){
+                addon_html += "<div class='rankup'> ▲" + Math.abs(aptData.data[i]["rank_gap"]) + "</div>"
+              }
+              else if(aptData.data[i]["rank_gap"] < 0){
+                addon_html += "<div class='rankdown'> ▼" + Math.abs(aptData.data[i]["rank_gap"]) + "</div>"
+              }              
+
+              addon_html += "</div>"
             }
-            else if(aptData.data[i]["rank_gap"] > 0){
-              addon_html += "<div class='rankup'> ▲" + Math.abs(aptData.data[i]["rank_gap"]) + "</div>"
+
+            addon_html += "<div class='content'>";
+            //addon_html += "<div class='apt_name'>" + aptName + " " + apt_p + "(" + apt_m + ")</div>";
+
+            addon_html += "<div class='apt_name'>" + aptName;
+
+            if(Number(selectedMonth) > 202203){
+              if(apt_type == "아파트"){
+                addon_html += "<span class='aptYear'> (" + aptData.data[i]["준공년차"] + "년차)</span></div>";
+              }
+              if(apt_type == "재건축"){
+                addon_html += "<span class='aptYear'> (" + aptData.data[i]["준공년차"] + "년차, 재건축)</span></div>";
+              }
+              if(apt_type == "분양권"){
+                addon_html += "<span class='aptYear'> (분양권, " + aptData.data[i]["준공년월"].substr(0, 7) + " 예정)</span></div>";
+              }      
             }
-            else if(aptData.data[i]["rank_gap"] < 0){
-              addon_html += "<div class='rankdown'> ▼" + Math.abs(aptData.data[i]["rank_gap"]) + "</div>"
-            }
-
-            addon_html += "</div>"
-          }
-
-          addon_html += "<div class='content'>";
-          //addon_html += "<div class='apt_name'>" + aptName + " " + apt_p + "(" + apt_m + ")</div>";
-
-          addon_html += "<div class='apt_name'>" + aptName;
-
-          if(Number(selectedMonth) > 202203){
-            if(apt_type == "아파트"){
+            else{
               addon_html += "<span class='aptYear'> (" + aptData.data[i]["준공년차"] + "년차)</span></div>";
             }
-            if(apt_type == "재건축"){
-              addon_html += "<span class='aptYear'> (" + aptData.data[i]["준공년차"] + "년차, 재건축)</span></div>";
+            
+            if(last_sales_date == "1800-01-01"){
+              addon_html += "<div class='apt_info'>" + house_num.toLocaleString() + "세대 / <span class='aptPrice'>거래 정보 없음</span></div>";
             }
-            if(apt_type == "분양권"){
-              addon_html += "<span class='aptYear'> (분양권, " + aptData.data[i]["준공년월"].substr(0, 7) + " 예정)</span></div>";
-            }      
-          }
-          else{
-            addon_html += "<span class='aptYear'> (" + aptData.data[i]["준공년차"] + "년차)</span></div>";
-          }
-          
-          if(last_sales_date == "1800-01-01"){
-            addon_html += "<div class='apt_info'>" + house_num.toLocaleString() + "세대 / 거래 정보 없음</div>";
-          }
-          else{
-            addon_html += "<div class='apt_info'>"+ house_num.toLocaleString() + "세대 / " + Math.round(last_sales_price/100)/100 + "억, " + last_sales_area + ", " + last_sales_date_short + "</div>";
-          }
+            else{
+              addon_html += "<div class='apt_info'>"+ house_num.toLocaleString() + "세대 / <span class='aptPrice'>" + Math.round(last_sales_price/100)/100 + "억, " + last_sales_area + ", " + last_sales_date_short + "</span></div>";
+            }
 
-          if(Number(selectedMonth) > 202203 && apt_type == "분양권"){
-            addon_html += "<div class='apt_address'>" + aptData.data[i]["법정동주소"] + "</div>";
-          }
-          else{
-            addon_html += "<div class='apt_address'>" + aptAddress2 + "</div>";
-          }
-          addon_html += "</div>";
-          addon_html += "<div class='value_score'>" + ( Math.round( aptValue * 100 ) / 100 ).toFixed(2) + "점</div>"
-          addon_html += "</div>"
+            if(Number(selectedMonth) > 202203 && apt_type == "분양권"){
+              addon_html += "<div class='apt_address'>" + aptData.data[i]["법정동주소"] + "</div>";
+            }
+            else{
+              addon_html += "<div class='apt_address'>" + aptAddress2 + "</div>";
+            }
+            addon_html += "</div>";
+            addon_html += "<div class='value_score'>" + ( Math.round( aptValue * 100 ) / 100 ).toFixed(2) + "점</div>"
+            addon_html += "</div>"
 
-          $('#dataList').append(addon_html);          
+            $('#dataList').append(addon_html); 
+          }         
         }
         $('#dataList').append("<div style='height: 1.5em'></div>");
+        if(!(minValue == 0 && maxValue == 60)){
+          $(".aptPrice").css({'color': '#fe4040', 'font-weight': '600'})
+        }
     })    
     showWeight()
     saveLocalStorage()    
@@ -851,6 +859,10 @@
     var coord_y = aptData.data[index]["Y"]
     var coord_x = aptData.data[index]["X"]
 
+    var drink_pub = aptData.data[index]["300m이내유흥주점"]
+    var daran_pub = aptData.data[index]["300m이내단란주점"]
+    var motel = aptData.data[index]["300m이내모텔"]
+
     var last_sales = aptData.data[index]["last_sales"].split(",")
     var last_sales_date = last_sales[0].toString()
     var last_sales_price = last_sales[1].toString()
@@ -936,7 +948,7 @@
       }
 
     detailHtml += "<div class='card-body' style='padding-top: 2px'>";
-    if(Number(selectedMonth) > 202205){
+    if(Number(selectedMonth) > 202206){
       detailHtml += "<div id='rankSimul' style='margin-bottom: 10px' onclick='openSimulation(aptData.data," + index + ")'>랭크 시뮬레이션 <span style='font-size: 0.8em; outline: 1px solid white; border-radius: 10px; padding: 0px 7px 0px 7px'> BETA </span></div>"
     }
     detailHtml += "<div class='graph' style='height: 200px'> <canvas id='valueChart'></canvas></div>"
@@ -1024,7 +1036,7 @@
     detailHtml += "</div></div></div></div>"
     avgLivingScore = Math.round( livingSum/itemNum * 100 ) / 100
 
-    if(isNaN(transportScore) == false){
+    if(!transportScore){
       //교통
       detailHtml += "<div class='card'>";
       detailHtml += "<div class='card-header'>";
@@ -1112,9 +1124,14 @@
     }
     detailHtml += "<div class='popSubTable'><div class='popContent'>" + "초등학교 학생증감점수" + "</div>" + "<div class='popResult'>" + ( Math.round( pSchool_edu * 100 ) / 100 ).toFixed(2) + "점</div></div>";
     detailHtml += "<div class='popSubTable'><div class='popContent'>" + "중학교 학업성취도" + "</div>" + "<div class='popResult'>" + mSchool_edu + "</div></div>";
-    if(Number(selectedMonth) > 202204){
+    if(Number(selectedMonth) > 202204 && Number(selectedMonth) <= 202206){
       detailHtml += "<div class='popSubTable'><div class='popContent'>" + "500m 이내 학원가" + "</div>" + "<div class='popResult'>" + academy_edu + "</div></div>";
       detailHtml += "<div class='comment2'>교육 정보는 교육통계서비스 정보를 기반으로 산정되며, 학원가는 호갱노노의 정보를 사용합니다.<br>초등학교까지의 거리는 직선거리로 계산됩니다.</div>"
+    }
+    else if(Number(selectedMonth) > 202206){
+      detailHtml += "<div class='popSubTable'><div class='popContent'>" + "500m 이내 학원가" + "</div>" + "<div class='popResult'>" + academy_edu + "</div></div>";
+      detailHtml += "<div class='popSubTable'><div class='popContent'>" + "300m 이내 유흥시설/모텔" + "</div>" + "<div class='popResult'>" + (drink_pub + daran_pub + motel) + "개</div></div>";
+      detailHtml += "<div class='comment2'>교육 정보는 교육통계서비스 정보를 기반으로 산정되며,<br>학원가는 호갱노노의 정보를 사용합니다.<br>초등학교까지의 거리는 직선거리로 계산됩니다.<br>유흥시설과 모텔정보는 교육 감점요소로 적용됩니다.</div>"
     }
     else{
       detailHtml += "<div class='comment2'>교육 정보는 교육통계서비스 정보를 기반으로 산정됩니다.</div>"
@@ -1129,18 +1146,35 @@
 
       detailHtml += "<div class='card'>";
       detailHtml += "<div class='card-header'>";
-      detailHtml += "<div class='popTitle'><i class='fa-solid fa-coins'></i>&nbsp&nbsp실거래가</div>"
+      detailHtml += "<div class='popTitle'><i class='fa-solid fa-coins'></i>&nbsp&nbsp실거래가 <span style='font-size: 0.7em; color:#fe4040'> (최근 1개월내 실거래는 빨간색으로 표시)</span> </div>"
       detailHtml += "</div>";
       detailHtml += "<div class='card-body' style='padding-left: 5px ; padding-right: 5px; padding-top: 5px;'>";
       detailHtml += "<div id='popEducation'>"
       detailHtml += "<div class='popTable'>"
       detailHtml += "<div id='popSubStation' style='grid-template-columns: 0.3fr 1fr; margin-left: 5px ; margin-right: 5px; margin-top: 10px;'>"
       detailHtml += "<div class='popContent'>최근 실거래</div>"
+
+      //var current_year = selectedMonth.substr(0, 4)
+      //var current_month = selectedMonth.substr(4, 2) - 1
+      //var current_day = "01"
+      var start_date = new Date()
+      start_date.setMonth(start_date.getMonth() - 1)      
+
       if(isNaN(last_sales_price)){
         detailHtml += "<div class='popResult'>거래 정보 없음</div></div>"
       }
       else{
-        detailHtml += "<div class='popResult'>" + last_sales_area + ", " + Math.round(last_sales_price/100)/100 + "억, "+ last_sales_date.substr(2) + "</div></div>"
+        var compare_year = Number(last_sales_date.substr(0, 4))
+        var compare_month = Number(last_sales_date.substr(5, 2) - 1)
+        var compare_day = Number(last_sales_date.substr(8, 2))
+        var compare_date = new Date(compare_year, compare_month, compare_day)
+        if(compare_date > start_date){
+          detailHtml += "<div class='popResult' style='color: #fe4040'>" + last_sales_area + ", " + Math.round(last_sales_price/100)/100 + "억, "+ last_sales_date.substr(2) + "</div></div>"
+        }
+        else{
+          detailHtml += "<div class='popResult'>" + last_sales_area + ", " + Math.round(last_sales_price/100)/100 + "억, "+ last_sales_date.substr(2) + "</div></div>"
+        }
+
       }
       detailHtml += "<hr>"
       detailHtml += "<table class='table table-striped' style='font-size:0.8em'>"
@@ -1154,20 +1188,38 @@
 
         detailHtml += "<tbody>"
             for(var k = 0 ; k < area_array.length ; k++){
-              detailHtml += "<tr>"
-                detailHtml += "<td>" + area_array[k] + "</td>"
+              detailHtml += "<tr>"                
                 if(sales_info_array[k] == "거래 정보 없음"){
+                  detailHtml += "<td>" + area_array[k] + "</td>"
                   detailHtml += "<td>" + "거래 정보 없음" + "</td>"
                 }
-                else{
+                else{                  
                   var sales_info_split = sales_info_array[k].split("억")
-                  detailHtml += "<td>" + ( Math.round( sales_info_split[0] * 100 ) / 100 ).toFixed(2) + "억" + "<span style='font-size: 0.85em'>" + sales_info_split[1] + "</span></td>"
+
+                  var compare_year = Number(sales_info_split[1].substr(2, 4))
+                  var compare_month = Number(sales_info_split[1].substr(7, 2)-1)
+                  var compare_day = Number(sales_info_split[1].substr(10, 2))
+                  var compare_date = new Date(compare_year, compare_month, compare_day)                                
+
+                  if(compare_date > start_date){
+                    detailHtml += "<td><span style='color:#fe4040; font-weight:600'>" + area_array[k] + "</span></td>"
+                    detailHtml += "<td><span style='color:#fe4040; font-weight:600'>" + ( Math.round( sales_info_split[0] * 100 ) / 100 ).toFixed(2) + "억" + "<span style='font-size: 0.85em'>" + sales_info_split[1] + "</span></span></td>"
+                  }
+                  else{
+                    detailHtml += "<td>" + area_array[k] + "</td>"
+                    detailHtml += "<td>" + ( Math.round( sales_info_split[0] * 100 ) / 100 ).toFixed(2) + "억" + "<span style='font-size: 0.85em'>" + sales_info_split[1] + "</span></td>"
+                  }
                 }
                 if(price_per_array[k] == "nan" ){
                   detailHtml += "<td>" + "---" + "</td>"
                 }
                 else{
-                  detailHtml += "<td>" + Number(price_per_array[k]).toLocaleString() + "만원" + "</td>"
+                  if(compare_date > start_date){
+                    detailHtml += "<td><span style='color:#fe4040; font-weight:600'>" + Number(price_per_array[k]).toLocaleString() + "만원" + "</span></td>"
+                  }
+                  else{
+                    detailHtml += "<td>" + Number(price_per_array[k]).toLocaleString() + "만원" + "</td>"
+                  }
                 }
               detailHtml += "</tr>"
             }
@@ -1298,19 +1350,20 @@
     }
 
     drawChart(aptValue, livingScore, transportScore, infraScore, eduScore)
-    drawSubChart(livingScore, avgLivingScore, "주거총점", "지역평균", "#ff3d38", "#9f9f9f",  "livingChart")
-    if(isNaN(transportScore) == false){
-      drawSubChart(transportScore, avgTransportScore, "교통총점", "지역평균", "#ff3d38", "#9f9f9f", "transportChart")
+    drawSubChart(livingScore, avgLivingScore, "주거총점", "지역평균", "#fe4040", "#9f9f9f",  "livingChart")
+    if(!transportScore){
+      drawSubChart(transportScore, avgTransportScore, "교통총점", "지역평균", "#fe4040", "#9f9f9f", "transportChart")
     }
-    drawSubChart(infraScore, avgInfraScore, "인프라총점", "지역평균", "#ff3d38", "#9f9f9f", "infraChart")
-    drawSubChart(eduScore, avgEduScore, "교육총점", "지역평균", "#ff3d38", "#9f9f9f", "eduChart")
-    drawSubChart(eduScore, avgEduScore, "인구총점", "일자리총점", "#ff3d38", "#ff3d38", "regionChart")
+    drawSubChart(infraScore, avgInfraScore, "인프라총점", "지역평균", "#fe4040", "#9f9f9f", "infraChart")
+    drawSubChart(eduScore, avgEduScore, "교육총점", "지역평균", "#fe4040", "#9f9f9f", "eduChart")
+    drawSubChart(eduScore, avgEduScore, "인구총점", "일자리총점", "#fe4040", "#fe4040", "regionChart")
   }
 
-  function updateRegionTable(month){
+  function updateRegionTable(month, region){
     $('html').scrollTop(0)
     $('#sort').css("visibility", "hidden")
-    url = "https://www.aptrank.kr/" + month + "/1000000000_Korea.json"
+    $('#rearrange').css("visibility", "visible")
+    url = "https://www.aptrank.kr/" + month + "/" + region + ".json"
     $('#dataList').html("");
 
     setTimeout(function(){}, 250)
@@ -1596,9 +1649,9 @@
       drawRankChart(rankMonth, rankData, regData.data[itemNum-1]["rank"])
     }
     drawChart(regValue, regSupplyScore, regPopScore, regJobScore, "region")
-    //drawSubChart(regSupplyScore, avgSupplyScore, "공급량총점", "전국평균", "#ff3d38", "#9f9f9f", "supplyChart")
-    drawSubChart(regPopScore, avgPopScore, "인구총점", "전국평균", "#ff3d38", "#9f9f9f", "popChart")
-    drawSubChart(regJobScore, avgJobScore, "일자리총점", "전국평균", "#ff3d38", "#9f9f9f", "jobChart")
+    //drawSubChart(regSupplyScore, avgSupplyScore, "공급량총점", "전국평균", "#fe4040", "#9f9f9f", "supplyChart")
+    drawSubChart(regPopScore, avgPopScore, "인구총점", "전국평균", "#fe4040", "#9f9f9f", "popChart")
+    drawSubChart(regJobScore, avgJobScore, "일자리총점", "전국평균", "#fe4040", "#9f9f9f", "jobChart")
     //drawPriceRateChart(dateArray, salesArray, rentArray)
 
     if(Number(selectedMonth) > 202203){
@@ -1667,6 +1720,11 @@
 
   function openAptrank(){
     aURL = "https://www.aptrank.kr/theme" + "?reg=" + selectedRegion +"&sub=" + selectedSubRegion
+    window.open(aURL)
+  }
+
+  function openOprank(){
+    aURL = "https://www.aptrank.kr/op" + "?reg=" + selectedRegion +"&sub=" + selectedSubRegion
     window.open(aURL)
   }
 
@@ -1754,10 +1812,12 @@
     if(selectedMonth == "202206"){
       detailHtml += "<div class='popupTitle' style='text-align: center; padding-bottom: 1em'> 2022년 6월 2차 업데이트 안내 (2022-06-18)</div>";
       detailHtml += "<ul>"
-      detailHtml += "<li><div class='notice'> 내가 원하는 정보를 입력하여 랭크와 점수를 확인하는 <br><span style='font-weight: 600; color: #ff3d38;'>[랭크 시뮬레이션 (BETA)]</span> 기능을 추가했습니다.</div></li>"
-      detailHtml += "<li><div class='notice'> <span style='font-weight: 600; color: #ff3d38;'>[랭크 시뮬레이션 (BETA)]</span>는 아파트 단지 선택 후, 종합 순위 하단의 버튼을 눌러 사용할 수 있습니다.</div></li>";
+      detailHtml += "<li><div class='notice'> 내가 원하는 정보를 입력하여 랭크와 점수를 확인하는 <br><span style='font-weight: 600; color: #fe4040;'>[랭크 시뮬레이션 (BETA)]</span> 기능을 추가했습니다.</div></li>"
+      detailHtml += "<li><div class='notice'> <span style='font-weight: 600; color: #fe4040;'>[랭크 시뮬레이션 (BETA)]</span>는 아파트 단지 선택 후, 종합 순위 하단의 버튼을 눌러 사용할 수 있습니다.</div></li>";
       detailHtml += "<li><div><img src='https://www.aptrank.kr/rank_simulation_202206.jpg' width='70%'/></div></li>";
+      detailHtml += "<li><div class='notice'> 2022년 6월 18일자 네이버 부동산 데이터 적용했습니다.</div></li>";
       detailHtml += "<li><div class='notice'> 단지별 기본 표시 주소를 도로명주소에서 법정동주소로 변경했습니다.</div></li>";
+      detailHtml += "<li><div class='notice'> 누락되었던 8호선 '남위례'역을 추가했습니다.</div></li>";
       detailHtml += "</ul>";
       detailHtml += "<hr>";
 
@@ -1774,6 +1834,16 @@
       detailHtml += "</ul>";
       detailHtml += "<hr>";
     }
+
+    if(selectedMonth == "202207"){
+      detailHtml += "<div class='popupTitle' style='text-align: center; padding-bottom: 1em'> 2022년 7월 1차 업데이트 안내 (2022-07-03)</div>";
+      detailHtml += "<ul>"
+      detailHtml += "<li><div class='notice'>역세권 판단 거리를 가까운 역출구와의 거리로 재산정 했습니다.</div></li>"
+      detailHtml += "<li><div class='notice'>300m 이내의 유흥시설, 모텔 정보를 반영하여 '교육'의 감점요소로 적용했습니다.</div></li>";
+      detailHtml += "</ul>";
+      detailHtml += "<hr>";
+    }
+
     detailHtml += "<div class='popupTitle' style='text-align: center; padding-bottom: 1em'>꼭 읽어주세요!</div>";
     detailHtml += "<ul>";
     detailHtml += "<li><div class='notice'>아파트 랭크의 점수는 투자지표가 아님을 말씀드립니다. 투자 판단에 대한 모든 책임은 투자자 본인에게 있습니다.</div></li>";
@@ -1808,7 +1878,7 @@
     $('#footerBtn3').css({"grid-column" : "span 2"})
     $('.modal-footer').css({"padding-top" : "3px"})
 
-    if($.cookie('popCookie') != '20220618'){
+    if($.cookie('popCookie') != '202207'){
       $('#flexCheckDefault').prop("checked", false)
     }
     else{
@@ -1818,7 +1888,7 @@
     $('#flexCheckDefault').change(function(){
       if($(this).is(':checked')){
         console.log("CHECKED!!")
-        $.cookie('popCookie', '20220618', { expires: 7, path: '/' });
+        $.cookie('popCookie', '202207', { expires: 7, path: '/' });
         console.log($.cookie('popCookie'))
       }
       else{

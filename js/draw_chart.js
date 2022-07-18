@@ -4,7 +4,7 @@ function drawChart(aptValue, livingScore, transportScore, infraScore, eduScore){
     var color = 'white'
     var align = 'start'
 
-    if(isNaN(transportScore)){
+    if(isNaN(transportScore) || transportScore == 0){
       label = ["총점", "주거", "인프라", "교육"]
       data = [aptValue, livingScore, infraScore, eduScore]        
     }

@@ -54,7 +54,7 @@
 
   function showSorting(){
     //$('.btn-close').hide()
-    console.log("SHOW!!")
+    //console.log("SHOW!!")
     sortingPop = true
 
     lastMinValue = minValue;
