@@ -3,7 +3,7 @@
     "short_name": "오피스텔랭크",
     "description": "데이터로 분석된 오피스텔 입지 순위",
     "dir": "ltr",
-    "start_url": "/op/index.html",
+    "start_url": "https://www.aptrank.kr/op/index.html",
     "display": "standalone",
     "theme_color": "#000000",
     "background_color": "#293249",

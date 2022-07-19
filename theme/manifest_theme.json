@@ -3,7 +3,7 @@
     "short_name": "아파트랭크:THEME",
     "description": "대한민국 아파트 테마별 분류",
     "dir": "ltr",
-    "start_url": "/theme/index.html",
+    "start_url": "https://www.aptrank.kr/theme/index.html",
     "display": "standalone",
     "theme_color": "#000000",
     "background_color": "#ff3d38",
