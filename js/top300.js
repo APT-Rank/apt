@@ -43,7 +43,7 @@ function updateTopTable(month, region){
           var aptAddress = aptData.data[i]["도로명주소"]
           var aptAddress2 = aptData.data[i]["법정동주소"]
           var aptValue = Math.round( aptData.data[i]["우선총점"] * 100 ) / 100
-          var house_num = aptData.data[i]["세대수"]
+          var house_num = aptData.data[i]["세대수.1"]
           var rank = aptData.data[i]["rank"].toFixed()
           var last_sales = aptData.data[i]["last_sales"].split(",")          
           var last_sales_date = last_sales[0].toString()
@@ -167,7 +167,7 @@ function showTopDetail(index){
   var maintainance = aptData.data[index]["maintenance"]
   var rooms = aptData.data[index]["room"]
   var baths = aptData.data[index]["bath"]
-  var house_num = aptData.data[index]["세대수"]
+  var house_num = aptData.data[index]["세대수수.1"]
   var parking = aptData.data[index]["주차"]
   var heating = aptData.data[index]["난방"]
   var entrance = aptData.data[index]["현관구조"]
@@ -484,7 +484,7 @@ function livingCard(aptData, index){
   var maintainance = aptData.data[index]["maintenance"]
   var rooms = aptData.data[index]["room"]
   var baths = aptData.data[index]["bath"]
-  var house_num = aptData.data[index]["세대수"]
+  var house_num = aptData.data[index]["세대수.1"]
   var parking = aptData.data[index]["주차"]
   var heating = aptData.data[index]["난방"]
   var entrance = aptData.data[index]["현관구조"]
