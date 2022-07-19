@@ -7,7 +7,7 @@ function updateTopTable(month, region){
   initSorting()
 
   if(Number(selectedMonth) < 202207){    
-    var addon_html = "<div class='content'><div class='apt_name' style='text-align:center; padding-top: 2em'> TOP300 정보는 <br> 2022년 7월부터 볼 수 있어요. </div></div>"
+    var addon_html = "<div class='content'><div class='apt_name' style='text-align:center; padding-top: 2em'> TOP 300 정보는 <br> 2022년 7월부터 볼 수 있어요. </div></div>"
     $('#dataList').append(addon_html);
   }
   else{  
@@ -221,7 +221,7 @@ function showTopDetail(index){
   detailHtml += "<div class='card-header'>";
 
   detailHtml += "<div class='popupSubtitle' style='font-size: 0.75em; text-align: center'>- " + $('#sido option:selected').text() + " " + $('#gungu option:selected').text() + " -</div>"
-  detailHtml += "<div class='popRank'>" + aptRank + "</div></div>";
+  detailHtml += "<div class='popRank'><strong>" + aptRank + "</strong></div></div>";
 
   detailHtml += "<div class='card-body' style='padding-top: 2px'>";
   detailHtml += "<div class='graph' style='height: 200px'> <canvas id='valueChart'></canvas></div>"
