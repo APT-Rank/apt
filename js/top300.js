@@ -167,7 +167,7 @@ function showTopDetail(index){
   var maintainance = aptData.data[index]["maintenance"]
   var rooms = aptData.data[index]["room"]
   var baths = aptData.data[index]["bath"]
-  var house_num = aptData.data[index]["세대수수.1"]
+  var house_num = aptData.data[index]["세대수.1"]
   var parking = aptData.data[index]["주차"]
   var heating = aptData.data[index]["난방"]
   var entrance = aptData.data[index]["현관구조"]
