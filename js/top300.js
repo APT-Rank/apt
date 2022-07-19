@@ -7,7 +7,7 @@ function updateTopTable(month, region){
   initSorting()
 
   if(Number(selectedMonth) < 202207){    
-    var addon_html = "<div class='content'><div class='apt_name' style='text-align:center; padding-top: 2em'> Top 300 정보는 <br> 2022년 7월부터 볼 수 있어요. </div></div>"
+    var addon_html = "<div class='content'><div class='apt_name' style='text-align:center; padding-top: 2em'> TOP300 정보는 <br> 2022년 7월부터 볼 수 있어요. </div></div>"
     $('#dataList').append(addon_html);
   }
   else{  
@@ -118,8 +118,8 @@ function showTopDetail(index){
   footerHtml = "";
 
   aptData = sortData
-  var aptRank = "- Top " + aptData.data[index]['rank'] + " -"
-  var aptRank_copy = "Top " + aptData.data[index]['rank']
+  var aptRank = "TOP " + aptData.data[index]['rank']
+  var aptRank_copy = "TOP " + aptData.data[index]['rank']
 
   var aptName = aptData.data[index]["아파트명"]
   var apt_m = aptData.data[index]["전용면적(m2)"]
@@ -467,12 +467,12 @@ function showTopDetail(index){
   }
 
   drawChart(aptValue, livingScore, transportScore, infraScore, eduScore)
-  drawSubChart(livingScore, avgLivingScore, "주거총점", "Top300 평균", "#fe4040", "#9f9f9f",  "livingChart")
+  drawSubChart(livingScore, avgLivingScore, "주거총점", "TOP300 평균", "#fe4040", "#9f9f9f",  "livingChart")
   if(transportScore != 0){
-    drawSubChart(transportScore, avgTransportScore, "교통총점", "Top300 평균", "#fe4040", "#9f9f9f", "transportChart")
+    drawSubChart(transportScore, avgTransportScore, "교통총점", "TOP300 평균", "#fe4040", "#9f9f9f", "transportChart")
   }
-  drawSubChart(infraScore, avgInfraScore, "인프라총점", "Top300 평균", "#fe4040", "#9f9f9f", "infraChart")
-  drawSubChart(eduScore, avgEduScore, "교육총점", "Top300 평균", "#fe4040", "#9f9f9f", "eduChart")
+  drawSubChart(infraScore, avgInfraScore, "인프라총점", "TOP300 평균", "#fe4040", "#9f9f9f", "infraChart")
+  drawSubChart(eduScore, avgEduScore, "교육총점", "TOP300 평균", "#fe4040", "#9f9f9f", "eduChart")
   //drawSubChart(eduScore, avgEduScore, "인구총점", "일자리총점", "#fe4040", "#fe4040", "regionChart")
 }
 

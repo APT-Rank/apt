@@ -1,10 +1,10 @@
 
   var inKorea = [ ['공급필요/인구/일자리', '1000000000_Korea'],
-                  ['주거우선 Top 300', 'Living_Top300'],
-                  ['출퇴근 교통 Top 300', 'Trans_Top300'],
-                  ['인프라우선 Top 300', 'Infra_Top300'],
-                  ['교육우선 Top 300', 'Edu_Top300'],
-                  ['균형잡힌 Top 300', 'Balanced_Top300']
+                  ['주거우선 TOP 300', 'Living_Top300'],
+                  ['출퇴근 교통 TOP 300', 'Trans_Top300'],
+                  ['인프라우선 TOP 300', 'Infra_Top300'],
+                  ['교육우선 TOP 300', 'Edu_Top300'],
+                  ['균형잡힌 TOP 300', 'Balanced_Top300']
                 ]
 
   var inSeoul = [

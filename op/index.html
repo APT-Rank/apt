@@ -579,7 +579,14 @@
     }
     $('#gungu').empty();
 
-    for(var i = 0 ; i < changeItem.length; i++){
+    if(regionName == 'Korea'){
+      subOptionLen = 1
+    }
+    else{
+      subOptionLen = changeItem.length
+    }
+
+    for(var i = 0 ; i < subOptionLen; i++){    
       var subOption = $("<option value='" + changeItem[i][1] + "'>" + changeItem[i][0] + "</option>")
       $('#gungu').append(subOption);
     }
