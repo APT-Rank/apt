@@ -1594,11 +1594,13 @@
 
   function openAptrank(){
     aURL = "https://www.aptrank.kr" + "?reg=" + selectedRegion +"&sub=" + selectedSubRegion
-    window.open(aURL)
+    location.href = aURL
+    //window.open(aURL)
   }
   function openOprank(){
     aURL = "https://www.aptrank.kr/op" + "?reg=" + selectedRegion +"&sub=" + selectedSubRegion
-    window.open(aURL)
+    location.href = aURL
+    //window.open(aURL)
   }
   function showNotice(){
     var titleHtml = "<div class='popupTitle'> 아파트랭크:THEME </div>";

@@ -1628,12 +1628,14 @@
 
   function openAptrank(){
     aURL = "https://www.aptrank.kr/" + "?reg=" + selectedRegion +"&sub=" + selectedSubRegion
-    window.open(aURL)
+    location.href = aURL
+    //window.open(aURL)
   }
 
   function openAptrankTheme(){
     aURL = "https://www.aptrank.kr/theme" + "?reg=" + selectedRegion +"&sub=" + selectedSubRegion
-    window.open(aURL)
+    location.href = aURL
+    //window.open(aURL)
   }
 
   function showNotice(){
