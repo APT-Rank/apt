@@ -1,0 +1,1110 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+  <!-- Google Tag Manager -->
+  <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+  new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+  j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+  'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+  })(window,document,'script','dataLayer','GTM-KNL2VQN');</script>
+  <!-- End Google Tag Manager -->
+
+  <!-- Global site tag (gtag.js) - Google Analytics -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=UA-218993952-1">
+  </script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+
+    gtag('config', 'UA-218993952-1');
+
+    if ('serviceWorker' in navigator) {
+    navigator.serviceWorker.register('serviceWorker_su.js')
+      .then((reg) => {
+        console.log('Service Worker Registered!', reg);
+      });
+    }
+  </script>
+
+  <title>요약랭크</title>
+  <meta property="og:type" content="website">
+  <meta property="og:title" content="AI가 선정한 대한민국 아파트 입지 랭크">
+  <meta property="og:description" content="AI가 선정하는 대한민국 아파트 입지 랭크">
+  <meta property="og:image" content="https://www.aptrank.kr/thumbnail_2.jpg">
+  <meta property="og:url" content="https://www.aptrank.kr/summary/">
+  <meta name="keyword" content="부동산, 아파트, 입지, 순위, 아파트입지, 우리동네, 호가, 대장아파트, 최고가, 신고가, 호재, AI, 등수">
+  <meta name="description" content="AI가 선정하는 대한민국 아파트 입지 랭크">
+  <meta name="author" content="아파트랭크">
+  <meta name="robots" content="index,follow">
+  <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no, minimal-ui">
+
+  <!-- 주소창 등의 웹 브라우저 UI를 표시하지 않기 -->
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <!-- 상태 바의 스타일을 지정 -->
+  <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+  <!-- 홈 화면에서 표시되는 앱 이름을 지정 -->
+  <meta name="apple-mobile-web-app-title" content="요약랭크">
+  <!-- 홈 화면에서 표시되는 앱 아이콘을 지정 -->
+  <link rel="apple-touch-icon" href="https://www.aptrank.kr/apt-rank-152x152.png">
+  <!-- 웹 앱 매니페스트를 읽어 들이기 -->
+  <link rel="manifest" href="manifest_su.json">  
+
+  <link rel="canonical" href="https://www.aptrank.kr/summary/">
+  <link href="https://fonts.googleapis.com/css?family=Roboto:100,300,400,500,700,900" rel="stylesheet">
+  <link href="https://cdn.jsdelivr.net/npm/@mdi/font@6.x/css/materialdesignicons.min.css" rel="stylesheet">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css" integrity="sha512-9usAa10IRO0HhonpyAIVpjrylPvoDwiPUiKdWk5t3PyolY1cOd4DSE0Ga+ri4AuTroPR5aQvXU9xC6qOPnzFeg==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-1BmE4kWBq78iYhFldvKuhfTAU6auU8tT94WrHftjDbrCEXSU1oBoqyl2QvZ6jIW3" crossorigin="anonymous">
+  <link rel="shortcut icon" href="https://www.aptrank.kr/apr-rank_su.png"/>
+
+
+  <script src="https://code.jquery.com/jquery-3.6.0.min.js" integrity="sha256-/xUj+3OJU5yExlq6GSYGSHk7tPXikynS7ogEvDej/m4=" crossorigin="anonymous"></script>
+  <script src="https://code.jquery.com/ui/1.12.1/jquery-ui.min.js" integrity="sha256-VazP97ZCwtekAsvgPBSUwPFKdrwD3unUfSGVYrahUqU=" crossorigin="anonymous"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/html2canvas/0.5.0-beta4/html2canvas.min.js"  crossorigin="anonymous"></script>
+  <script src="https://developers.kakao.com/sdk/js/kakao.js"></script>
+
+  <script src="../js/menu_select_box.js" type="text/javascript"></script>
+  <script src="../js/draw_chart.js" type="text/javascript"></script>
+  <script src="../js/sort.js" type="text/javascript"></script>
+  <script src="../js/search.js" type="text/javascript"></script>
+  <script src="../js/rearrange.js" type="text/javascript"></script>
+  <script src="../js/share.js" type="text/javascript"></script>
+
+  <link href="../css/style.css" rel="stylesheet"/>
+  <link href="../css/style_summary.css" rel="stylesheet"/>
+  <link href="../css/slider.css" rel="stylesheet"/>
+
+  <script src="../js/doubleSlider.js" type="text/javascript"></script>
+</head>
+<style>
+</style>
+
+<body>
+  <!-- Google Tag Manager (noscript) -->
+  <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-KNL2VQN"
+  height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+  <!-- End Google Tag Manager (noscript) -->
+
+  <div id="container">
+    <div id="centerBox">
+      <div id="titleBar" style="background-color:#3841ff">
+        <div><button type='button' id='balance' class='toShare' onClick='allShareWithComment()' style='background:rgba(0, 0, 0, 0); color:white'><i class="fa-solid fa-share-from-square"></i></button></div>
+        <div><button type='button' id='balance' class='toShare' onClick='shareToCafe()' style='background:rgba(0, 0, 0, 0); color:rgb(251, 255, 0)'><i class="fa-solid fa-share-from-square"></i></button></div>
+        <div id="title" onClick='scrollUp()'>요약 랭크</div>
+        <div><button type='button' id='balance' class='toShare' onClick='shareToFacebook()' style='background:rgba(0, 0, 0, 0); color:white'><i class="fa-brands fa-facebook"></i></button></div>
+        <div><button type='button' id='balance' class='toShare' onClick='allShare()' style='background:rgba(0, 0, 0, 0); color:white'><i class='fa-solid fa-arrow-up-right-from-square'></i></button></div>
+
+      </div>
+
+      <div id="selections" style="background-color:#3841ff">
+        <div id="sido_selection"><select id="sido" onChange="sidoChange()"></select></div>
+        <div id="gungu_selection"><select id="gungu" onChange="updateRegion()"></select></div>
+        <div id="month_selection">
+          <select id="month" onChange="updateMonth()">
+            <option value="202207" selected>2022년 07월</option>
+            <option value="202206">2022년 06월</option>
+            <option value="202205">2022년 05월</option>
+            <option value="202204">2022년 04월</option>
+          </select>
+        </div>
+      </div>
+
+      <!--리스트 데이터 붙여넣는 영역-->
+      <div id="dataList"></div>
+    </div>
+  </div>
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-ka7Sk0Gln4gmtz2MlQnikT1wXgYsOg+OMhuP+IlRH9sENBO0LRn5q+8nbTov4+1p" crossorigin="anonymous"></script>
+  <script src="https://cdn.jsdelivr.net/npm/chart.js@3.0.0/dist/chart.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/chartjs-plugin-datalabels@2"></script>
+
+</body>
+<script type="module">
+  // Import the functions you need from the SDKs you need
+  import { initializeApp } from "https://www.gstatic.com/firebasejs/9.6.8/firebase-app.js";
+  import { getAnalytics } from "https://www.gstatic.com/firebasejs/9.6.8/firebase-analytics.js";
+  // TODO: Add SDKs for Firebase products that you want to use
+  // https://firebase.google.com/docs/web/setup#available-libraries
+
+  // Your web app's Firebase configuration
+  // For Firebase JS SDK v7.20.0 and later, measurementId is optional
+  const firebaseConfig = {
+    apiKey: "AIzaSyA7s95oaj498XdArjo9cT_8watLVw4JK3M",
+    authDomain: "aptrank-cc61b.firebaseapp.com",
+    projectId: "aptrank-cc61b",
+    storageBucket: "aptrank-cc61b.appspot.com",
+    messagingSenderId: "987401326011",
+    appId: "1:987401326011:web:8732d04a9fc69280d7489e",
+    measurementId: "G-BH5DRBH380"
+  };
+
+  // Initialize Firebase
+  const app = initializeApp(firebaseConfig);
+  const analytics = getAnalytics(app);
+</script>
+
+
+<script>
+  var selectedMonth = "202207"
+  var selectedRegion = "Seoul"
+  var selectedSubRegion = "1168000000_Seoul_Gangnam"
+
+  var regionName = ""
+  var valueSum = 0;
+  var livingSum = 0;
+  var transportSum = 0;
+  var infraSum = 0;
+  var eduSum = 0;
+
+  var regValueSum = 0;
+  var regSupplySum = 0;
+  var regPopSum = 0;
+  var regJobSum = 0;
+  var linked = ""
+  var regionValue = ""
+
+  var itemNum = 0;
+  var summaryData = "";
+  var sortData = "";
+  var prevValue = 0;
+  var regData = "";
+  var regSortData = "";
+
+  var modalState = 0;
+  var searchState = 0;
+  var popupHistory = [];
+
+  var broswerInfo = navigator.userAgent;
+
+  $(document).ready(function(){
+    //document.cookie = "safeCookie1=foo; SameSite=Lax";
+    //document.cookie = "safeCookie2=foo";
+    //document.cookie = "crossCookie=bar; SameSite=None; Secure";
+
+    Kakao.init(kakaoKey);
+
+    // SDK 초기화 여부를 판단합니다.
+    //console.log(Kakao.isInitialized());
+    
+    var option = ""
+    for(i = 1 ; i < regions.length ; i++){
+        option += "<option value='" + regions[i][1] + "'>" + regions[i][0] + "</option>"
+    }
+    $('#sido').html(option)
+
+    var lastRegion = localStorage.getItem('lastRegion')
+    var lastSubRegion = localStorage.getItem('lastSubRegion')
+    var lastMonth = localStorage.getItem('lastMonth')
+
+    //var lastRegion = sessionStorage.getItem('lastRegion')
+    //var lastSubRegion = sessionStorage.getItem('lastSubRegion')
+    //var lastMonth = sessionStorage.getItem('lastMonth')
+
+    const url = new URL(window.location.href)
+    const urlParams = url.searchParams
+    console.log(urlParams)
+
+    if(urlParams.has('reg')){
+      console.log(urlParams.get('reg'))
+      selectedRegion = urlParams.get('reg')
+    }
+    else if(lastRegion != null){
+      selectedRegion = lastRegion
+    }
+
+    if(urlParams.has('sub')){
+      console.log(urlParams.get('sub'))
+      selectedSubRegion = urlParams.get('sub')
+    }
+    else if(lastSubRegion != null){
+      selectedSubRegion = lastSubRegion
+    }
+
+    if(urlParams.has('mon')){
+      console.log(urlParams.get('mon'))
+      selectedMonth = urlParams.get('mon')
+    }
+    else if(lastMonth != null){
+      selectedMonth = lastMonth
+    }
+
+    $("#month").val(selectedMonth).prop("selected", true);
+    $("#sido").val(selectedRegion).prop("selected", true);
+    regionName = $("#sido option:selected").val();
+
+    $('#dataList').html("");
+
+    optionChange(selectedSubRegion)
+    updateRegion()
+
+    //var regionSubName = $("#gungu option:selected").val()
+
+    month = selectedMonth
+    //updateTable(month, regionSubName)
+
+    initSorting()
+    
+  });
+
+  function sidoChange(){
+    optionChange()
+    updateRegion()
+  }
+
+  function saveLocalStorage(){
+    localStorage.setItem('lastRegion', selectedRegion)
+    localStorage.setItem('lastSubRegion', selectedSubRegion)
+    //localStorage.setItem('lastMonth', selectedMonth)
+
+    //sessionStorage.setItem('lastRegion', selectedRegion)
+    //sessionStorage.setItem('lastSubRegion', selectedSubRegion)
+    //sessionStorage.setItem('lastMonth', selectedMonth)
+  }
+
+  function scrollUp(){
+    $( 'html, body' ).animate( { scrollTop : 0 }, 50 );
+  }
+
+  function optionChange(subRegion){
+    selectedSubRegion = subRegion
+    regionName = $("#sido option:selected").val();
+    selectedRegion = regionName
+    var changeItem
+
+    if(regionName == 'Korea'){
+      changeItem = inKorea
+    }
+    if(regionName == 'Seoul'){
+      changeItem = inSeoul
+    }
+    if(regionName == 'Busan'){
+      changeItem = inBusan
+    }
+    if(regionName == 'Incheon'){
+      changeItem = inIncheon
+    }
+    if(regionName == 'Daegu'){
+      changeItem = inDaegu
+    }
+    if(regionName == 'Gwangju'){
+      changeItem = inGwangju
+    }
+    if(regionName == 'Daejeon'){
+      changeItem = inDaejeon
+    }
+    if(regionName == 'Ulsan'){
+      changeItem = inUlsan
+    }
+    if(regionName == 'Sejong'){
+      changeItem = inSejong
+    }
+    if(regionName == 'Gyeonggi'){
+      changeItem = inGyeonggi
+    }
+    if(regionName == 'Gangwondo'){
+      changeItem = inGangwondo
+    }
+    if(regionName == 'Chungcheongbukdo'){
+      changeItem = inChungcheongbukdo
+    }
+    if(regionName == 'Chungcheongnamdo'){
+      changeItem = inChungcheongnamdo
+    }
+    if(regionName == 'Jeollabukdo'){
+      changeItem = inJeollabukdo
+    }
+    if(regionName == 'Jeollanamdo'){
+      changeItem = inJeollanamdo
+    }
+    if(regionName == 'Gyeongsangbukdo'){
+      changeItem = inGyeongsangbukdo
+    }
+    if(regionName == 'Gyeongsangnamdo'){
+      changeItem = inGyeongsangnamdo
+    }
+    if(regionName == 'Jejudo'){
+      changeItem = inJejudo
+    }
+    $('#gungu').empty();
+
+    for(var i = 0 ; i < changeItem.length; i++){
+      var subOption = $("<option value='" + changeItem[i][1] + "'>" + changeItem[i][0] + "</option>")
+      $('#gungu').append(subOption);
+    }
+
+    if(selectedSubRegion == undefined){
+      $("#gungu").val(changeItem[0][1]).prop("selected", true);
+      selectedSubRegion = $("#gungu option:selected").val()
+    }
+    else{
+      $("#gungu").val(selectedSubRegion).prop("selected", true);
+    }
+    //updateRegion()
+  }
+
+  function updateMonth(){
+    selectedMonth = $("#month option:selected").val()
+    updateRegion()
+    regionName = $("#sido option:selected").text()
+    //saveLocalStorage()
+  }
+  function updateRegion(){
+    minValue = 0;
+    maxValue = 60;
+    //var selection = document.getElementById("gungu")
+    selectedRegion = $("#sido option:selected").val()
+    selectedSubRegion = $("#gungu option:selected").val()
+
+    if (selectedSubRegion != "1000000000_Korea"){
+      updateTable(selectedMonth, selectedSubRegion)
+      regionName = $("#sido option:selected").text()
+    }
+    else{
+      updateRegionTable(selectedMonth)
+    }
+  }
+
+  var balanced = []
+  var living = []
+  var transport = []
+  var infra = []
+  var education = []
+
+  function updateTable(month, region){
+    $('html').scrollTop(0)
+    initSorting()
+    url = "https://www.aptrank.kr/" + month + "/summary/" + region + "_summary.json"
+    $('#dataList').html("");
+
+    $.getJSON(url, function(json) {
+        //console.log(json);
+        summaryData = json;        
+        itemNum = json.data.length;
+
+        balanced = []
+        living = []
+        transport = []
+        infra = []
+        education = []
+
+        for(var i = 0 ; i < itemNum ; i++){
+          if(summaryData.data[i]["sort"] == "balanced"){
+            balanced.push(summaryData.data[i])
+          }
+          if(summaryData.data[i]["sort"] == "living"){
+            living.push(summaryData.data[i])
+          }
+          if(summaryData.data[i]["sort"] == "transport"){
+            transport.push(summaryData.data[i])
+          }
+          if(summaryData.data[i]["sort"] == "infra"){
+            infra.push(summaryData.data[i])
+          }
+          if(summaryData.data[i]["sort"] == "education"){
+            education.push(summaryData.data[i])
+          }
+        }        
+
+        titleBalanced = "<div class='summaryTitle'><div>균형잡힌</div>" 
+        titleBalanced += "<div style='width: 100%'><button type='button' id='balance' class='toShare' onClick='summaryShare(balanced)' style='background:rgba(0, 0, 0, 0)'><i class='fa-solid fa-arrow-up-right-from-square'></i></button></div>"
+
+        titleLiving = "<div class='summaryTitle'><div>주거우선</div>"
+        titleLiving += "<div style='width: 100%'><button type='button' id='live' class='toShare' onClick='summaryShare(living)' style='background:rgba(0, 0, 0, 0)'><i class='fa-solid fa-arrow-up-right-from-square'></i></button></div>"
+
+        titleTransport = "<div class='summaryTitle'><div>교통우선</div>"
+        titleTransport += "<div style='width: 100%'><button type='button' id='trans' class='toShare' onClick='summaryShare(transport)' style='background:rgba(0, 0, 0, 0)'><i class='fa-solid fa-arrow-up-right-from-square'></i></button></div>"
+
+        titleInfra = "<div class='summaryTitle'><div>인프라우선</div>"
+        titleInfra += "<div style='width: 100%'><button type='button' id='infra' class='toShare' onClick='summaryShare(infra)' style='background:rgba(0, 0, 0, 0)'><i class='fa-solid fa-arrow-up-right-from-square'></i></button></div>"
+
+        titleEdu = "<div class='summaryTitle'><div>교육우선</div>"
+        titleEdu += "<div style='width: 100%'><button type='button' id='edu' class='toShare' onClick='summaryShare(education)' style='background:rgba(0, 0, 0, 0)'><i class='fa-solid fa-arrow-up-right-from-square'></i></button></div>"
+
+        $('#dataList').append(titleBalanced);
+        $('#dataList').append(returnList(balanced));
+        $('#dataList').append(titleLiving);
+        $('#dataList').append(returnList(living));
+        if(transport.length != 0){
+          $('#dataList').append(titleTransport);
+          $('#dataList').append(returnList(transport));
+        }
+        $('#dataList').append(titleInfra);
+        $('#dataList').append(returnList(infra));
+        $('#dataList').append(titleEdu);
+        $('#dataList').append(returnList(education));
+    })
+    saveLocalStorage()
+  }
+
+  function summaryShare(list){
+    shareTitle = "[아파트랭크]\n"    
+    shareTitle += selectedMonth.substr(0, 4) + "년 " + Number(selectedMonth.substr(4, 2)).toString() + "월,\n" + list[0]["region"] + " 요약\n\n"
+
+    if(list[0]["sort"] == 'balanced'){
+      shareText = "『균형잡힌 입지 조건 아파트』\n"
+    }
+    if(list[0]["sort"] == 'living'){
+      shareText = "『주거 환경 좋은 아파트』\n"
+    }
+    if(list[0]["sort"] == 'transport'){
+      shareText = "『출퇴근 교통 좋은 아파트』\n"
+    }
+    if(list[0]["sort"] == 'infra'){
+      shareText = "『인프라 좋은 아파트』\n"
+    }
+    if(list[0]["sort"] == 'education'){
+      shareText = "『교육 좋은 아파트』\n"
+    }
+
+    var total_list = list.length
+    if(total_list >= 5){
+      total_list = 5
+    }
+
+    for(var i = 0 ; i < total_list ; i++){
+      shareText += "- " + list[i]["name"]
+      if(list[i]["apt_type"] == "아파트"){
+        shareText += "(" + list[i]["apt_year"] + "년차)"
+      }
+      if(list[i]["apt_type"] == "재건축"){
+        shareText += "(" + list[i]["apt_year"] + "년차, 재건축)";
+      }
+      if(list[i]["apt_type"] == "분양권"){
+        shareText += "(분양권)";
+      }
+      shareText += "\n"
+      //shareText += ", " + ( Math.round( list[i]["value_score"] * 100 ) / 100 ).toFixed(2) + "점\n"      
+    }
+
+    if(list[0]["sort"] == 'living'){
+      shareText += "※재건축은 용적률과 건폐율로 계산\n"
+    }    
+
+    //shareText += "\n아래 링크를 누르시면 다른 아파트의 랭크를 확인할 수 있습니다."
+    shareText += "\n"
+    //shareURL = "https://www.aptrank.kr" + "?reg=" + list[0]['region_code'] +"&sub=" + selectedSubRegion + "&mon=" + selectedMonth
+    shareURL = list[0]["shorten_url"]
+
+    if (navigator.share) {
+      navigator.share({
+        title: shareTitle,
+        text: shareText,
+        url: shareURL
+      }).then(() => {
+        console.log('Thanks for sharing!');
+      })
+      .catch(console.error);
+    } else {
+      // fallback
+      shareDialog.classList.add('is-open');
+    }
+}
+
+function allShareWithComment(){
+  shareTitle = "[아파트랭크]\n"
+  shareTitle += selectedMonth.substr(0, 4) + "년 " + Number(selectedMonth.substr(4, 2)).toString() + "월, " + balanced[0]["region"] + " 랭크\n\n"
+
+  shareText = "안녕하세요. 아파트랭크 앱 개발자 입니다.\n\n"
+  shareText += "7월은 각 단지의 상세 정보를 개선하는데 중점을 주어 업데이트 하였습니다.\n\n"
+  shareText += "아파트랭크는 저평가를 찾기 위한 목적으로 '주거', '인프라', '교통', '교육'의 요소들을 수치로 계산하여 순위를 매기는 입지 자동 계산 앱입니다.\n"
+  shareText += "'가격'이 제외되어 있기 때문에, 생각하시는 순위와 다를 수 있음을 말씀드립니다.\n\n"
+  shareText += "※ 아파트랭크는 계산된 참조자료 입니다. 실제 임장, 현지 거주 의견, 부동산 조언 등 현장 정보가 가장 정확합니다.\n"
+  shareText += "※ 순위가 본인의 생각과 맞지 않는 경우, 우측 상단의 가중치 설정 기능을 통해 개인의 성향에 맞게 조정할 수 있습니다.\n\n"
+  shareText += "[7월 업데이트 요약]\n"
+  shareText += "- 역세권을 가까운 역출구와의 거리로 재산정\n"  
+  shareText += "- 300m 이내의 유흥시설, 모텔 정보 반영하여 '교육' 감점요소로 적용\n"  
+  shareText += "- '오피스텔랭크' 신규 서비스 제공 (www.aptrank.kr/op)'\n\n"  
+  shareText += "응원, 문의, 제안, 버그제보는 아파트랭크 '카카오톡 1:1 문의하기(https://pf.kakao.com/_vESNb/chat)'로 남겨주시면 적극 반영 검토하겠습니다.\n\n"
+
+  var total_list = living.length
+  if(total_list >= 5){
+    total_list = 5
+  }
+
+    shareText += "『주거 환경 좋은 아파트』\n"
+    for(var i = 0 ; i < total_list ; i++){
+      shareText += "- " + living[i]["name"]
+      if(living[i]["apt_type"] == "아파트"){
+        shareText += "(" + living[i]["apt_year"] + "년차)"
+      }
+      if(living[i]["apt_type"] == "재건축"){
+        shareText += "(" + living[i]["apt_year"] + "년차, 재건축)";
+      }
+      if(living[i]["apt_type"] == "분양권"){
+        shareText += "(분양권)";
+      }      
+      shareText += "\n"
+      //shareText += ", " + ( Math.round( living[i]["value_score"] * 100 ) / 100 ).toFixed(2) + "점\n"
+    }
+    shareText += "※ 재건축은 용적률과 건폐율로 계산\n"
+
+    if(transport.length != 0){
+      shareText += "\n"
+      shareText += "『출퇴근 교통 좋은 아파트』\n"
+      for(var i = 0 ; i < total_list ; i++){
+        shareText += "- " + transport[i]["name"]
+        if(transport[i]["apt_type"] == "아파트"){
+          shareText += "(" + transport[i]["apt_year"] + "년차)"
+        }
+        if(transport[i]["apt_type"] == "재건축"){
+          shareText += "(" + transport[i]["apt_year"] + "년차, 재건축)";
+        }
+        if(transport[i]["apt_type"] == "분양권"){
+          shareText += "(분양권)";
+        }
+        shareText += "\n"
+        //shareText += ", " + ( Math.round( transport[i]["value_score"] * 100 ) / 100 ).toFixed(2) + "점\n"
+      }
+    }
+
+    shareText += "\n"
+    shareText += "『인프라 좋은 아파트』\n"
+    for(var i = 0 ; i < total_list ; i++){
+      shareText += "- " + infra[i]["name"]
+      if(infra[i]["apt_type"] == "아파트"){
+        shareText += "(" + infra[i]["apt_year"] + "년차)"
+      }
+      if(infra[i]["apt_type"] == "재건축"){
+        shareText += "(" + infra[i]["apt_year"] + "년차, 재건축)";
+      }
+      if(infra[i]["apt_type"] == "분양권"){
+        shareText += "(분양권)";
+      }
+      shareText += "\n"
+      //shareText += ", " + ( Math.round( infra[i]["value_score"] * 100 ) / 100 ).toFixed(2) + "점\n"
+    }
+
+    shareText += "\n"
+    shareText += "『교육 좋은 아파트』\n"
+    for(var i = 0 ; i < total_list ; i++){
+      shareText += "- " + education[i]["name"]
+      if(education[i]["apt_type"] == "아파트"){
+        shareText += "(" + education[i]["apt_year"] + "년차)"
+      }
+      if(education[i]["apt_type"] == "재건축"){
+        shareText += "(" + education[i]["apt_year"] + "년차, 재건축)";
+      }
+      if(education[i]["apt_type"] == "분양권"){
+        shareText += "(분양권)";
+      }
+      shareText += "\n"
+      //shareText += ", " + ( Math.round( education[i]["value_score"] * 100 ) / 100 ).toFixed(2) + "점\n"
+    }
+
+    shareText += "\n"
+    shareText += "『균형잡힌 입지 조건 아파트』\n"
+    for(var i = 0 ; i < total_list ; i++){
+      shareText += "- " + balanced[i]["name"]
+      if(balanced[i]["apt_type"] == "아파트"){
+        shareText += "(" + balanced[i]["apt_year"] + "년차)"
+      }
+      if(balanced[i]["apt_type"] == "재건축"){
+        shareText += "(" + balanced[i]["apt_year"] + "년차, 재건축)";
+      }
+      if(balanced[i]["apt_type"] == "분양권"){
+        shareText += "(분양권)";
+      }
+      shareText += "\n"
+      //shareText += ", " + ( Math.round( balanced[i]["value_score"] * 100 ) / 100 ).toFixed(2) + "점\n"
+    }
+
+    //shareText += "\n아래 링크를 누르시면 통해 다른 아파트의 랭크를 확인할 수 있습니다."
+    shareText += "\n[아파트랭크 계산 항목]\n"
+    shareText += "ㆍ주거 = 세대수, 입주년차, 주차수, 난방방식, 욕실수, 현관구조\n"
+    shareText += "ㆍ인프라 = 백화점, 아울렛, 몰, 대형마트, 은행, 병원, 종합병원, 공원, 대형공원, 혐오시설\n"
+    shareText += "ㆍ교육 = 초등학교 전출입비, 초등학교 거리, 중학교 학업성취도, 학원가, 학원 개수, (감점)유흥시설 및 모텔 개수\n"
+    shareText += "ㆍ교통(수도권/광역시) = 역세권 여부, 30분이내 도착 가능 거점역, 1시간 이내 도착 가능 거점역\n"
+    shareText += "\n"
+    
+    //shareURL = "https://www.aptrank.kr" + "?reg=" + balanced[0]["region_code"] +"&sub=" + selectedSubRegion + "&mon=" + selectedMonth
+    shareURL = balanced[0]["shorten_url"]
+
+    if (navigator.share) {
+      navigator.share({
+        title: shareTitle,
+        text: shareText,
+        url: shareURL
+      }).then(() => {
+        console.log('Thanks for sharing!');
+      })
+      .catch(console.error);
+    } else {
+      // fallback
+      shareDialog.classList.add('is-open');
+    }  
+}
+
+function allShare(){
+  shareTitle = "[아파트랭크]\n"
+  shareTitle += selectedMonth.substr(0, 4) + "년 " + Number(selectedMonth.substr(4, 2)).toString() + "월,\n" + balanced[0]["region"] + " 요약\n\n"
+
+  var total_list = living.length
+  if(total_list >= 3){
+    total_list = 3
+  }
+
+    shareText = "『주거 환경 좋은 아파트』\n"
+    for(var i = 0 ; i < total_list ; i++){
+      shareText += "- " + living[i]["name"]
+      if(living[i]["apt_type"] == "아파트"){
+        shareText += "(" + living[i]["apt_year"] + "년차)"
+      }
+      if(living[i]["apt_type"] == "재건축"){
+        shareText += "(" + living[i]["apt_year"] + "년차, 재건축)";
+      }
+      if(living[i]["apt_type"] == "분양권"){
+        shareText += "(분양권)";
+      }      
+      shareText += "\n"
+      //shareText += ", " + ( Math.round( living[i]["value_score"] * 100 ) / 100 ).toFixed(2) + "점\n"
+    }
+    shareText += "※ 재건축은 용적률과 건폐율로 계산\n"
+
+    if(transport.length != 0){
+      shareText += "\n"
+      shareText += "『출퇴근 교통 좋은 아파트』\n"
+      for(var i = 0 ; i < total_list ; i++){
+        shareText += "- " + transport[i]["name"]
+        if(transport[i]["apt_type"] == "아파트"){
+          shareText += "(" + transport[i]["apt_year"] + "년차)"
+        }
+        if(transport[i]["apt_type"] == "재건축"){
+          shareText += "(" + transport[i]["apt_year"] + "년차, 재건축)";
+        }
+        if(transport[i]["apt_type"] == "분양권"){
+          shareText += "(분양권)";
+        }
+        shareText += "\n"
+        //shareText += ", " + ( Math.round( transport[i]["value_score"] * 100 ) / 100 ).toFixed(2) + "점\n"
+      }
+    }
+
+    shareText += "\n"
+    shareText += "『인프라 좋은 아파트』\n"
+    for(var i = 0 ; i < total_list ; i++){
+      shareText += "- " + infra[i]["name"]
+      if(infra[i]["apt_type"] == "아파트"){
+        shareText += "(" + infra[i]["apt_year"] + "년차)"
+      }
+      if(infra[i]["apt_type"] == "재건축"){
+        shareText += "(" + infra[i]["apt_year"] + "년차, 재건축)";
+      }
+      if(infra[i]["apt_type"] == "분양권"){
+        shareText += "(분양권)";
+      }
+      shareText += "\n"
+      //shareText += ", " + ( Math.round( infra[i]["value_score"] * 100 ) / 100 ).toFixed(2) + "점\n"
+    }
+
+    shareText += "\n"
+    shareText += "『교육 좋은 아파트』\n"
+    for(var i = 0 ; i < total_list ; i++){
+      shareText += "- " + education[i]["name"]
+      if(education[i]["apt_type"] == "아파트"){
+        shareText += "(" + education[i]["apt_year"] + "년차)"
+      }
+      if(education[i]["apt_type"] == "재건축"){
+        shareText += "(" + education[i]["apt_year"] + "년차, 재건축)";
+      }
+      if(education[i]["apt_type"] == "분양권"){
+        shareText += "(분양권)";
+      }
+      shareText += "\n"
+      //shareText += ", " + ( Math.round( education[i]["value_score"] * 100 ) / 100 ).toFixed(2) + "점\n"
+    }
+
+    shareText += "\n"
+    shareText += "『균형잡힌 입지 조건 아파트』\n"
+    for(var i = 0 ; i < total_list ; i++){
+      shareText += "- " + balanced[i]["name"]
+      if(balanced[i]["apt_type"] == "아파트"){
+        shareText += "(" + balanced[i]["apt_year"] + "년차)"
+      }
+      if(balanced[i]["apt_type"] == "재건축"){
+        shareText += "(" + balanced[i]["apt_year"] + "년차, 재건축)";
+      }
+      if(balanced[i]["apt_type"] == "분양권"){
+        shareText += "(분양권)";
+      }
+      shareText += "\n"
+      //shareText += ", " + ( Math.round( balanced[i]["value_score"] * 100 ) / 100 ).toFixed(2) + "점\n"
+    }
+
+    //shareText += "\n아래 링크를 누르시면 통해 다른 아파트의 랭크를 확인할 수 있습니다."
+    shareText += "\n"
+    shareText += "※ 아파트랭크는 계산된 참조자료 입니다. 실제 임장, 현지 거주 의견, 부동산 조언 등 현장 정보가 가장 정확합니다.\n"
+    
+    //shareURL = "https://www.aptrank.kr" + "?reg=" + balanced[0]["region_code"] +"&sub=" + selectedSubRegion + "&mon=" + selectedMonth
+    shareURL = balanced[0]["shorten_url"]
+
+    if (navigator.share) {
+      navigator.share({
+        title: shareTitle,
+        text: shareText,
+        url: shareURL
+      }).then(() => {
+        console.log('Thanks for sharing!');
+      })
+      .catch(console.error);
+    } else {
+      // fallback
+      shareDialog.classList.add('is-open');
+    }  
+}
+
+function shareToCafe(){
+  shareTitle = "[아파트랭크] "
+  shareTitle += selectedMonth.substr(0, 4) + "년 " + Number(selectedMonth.substr(4, 2)).toString() + "월, " + balanced[0]["region"] + " 랭크\n\n"
+
+  var total_list = living.length
+  if(total_list >= 10){
+    total_list = 10
+  }
+  
+  shareText = "『주거 환경 좋은 아파트』\n"
+  shareText += "※ 재건축은 용적률과 건폐율로 계산\n"
+    for(var i = 0 ; i < total_list ; i++){
+      shareText += "- " + living[i]["name"]
+      if(living[i]["apt_type"] == "아파트"){
+        shareText += "(" + living[i]["apt_year"] + "년차)"
+      }
+      if(living[i]["apt_type"] == "재건축"){
+        shareText += "(" + living[i]["apt_year"] + "년차, 재건축)";
+      }
+      if(living[i]["apt_type"] == "분양권"){
+        shareText += "(분양권)";
+      }      
+      shareText += "\n"
+      //shareText += ", " + ( Math.round( living[i]["value_score"] * 100 ) / 100 ).toFixed(2) + "점\n"
+    }    
+
+    if(transport.length != 0){
+      shareText += "\n"
+      shareText += "『출퇴근 교통 좋은 아파트』\n"
+      for(var i = 0 ; i < total_list ; i++){
+        shareText += "- " + transport[i]["name"]
+        if(transport[i]["apt_type"] == "아파트"){
+          shareText += "(" + transport[i]["apt_year"] + "년차)"
+        }
+        if(transport[i]["apt_type"] == "재건축"){
+          shareText += "(" + transport[i]["apt_year"] + "년차, 재건축)";
+        }
+        if(transport[i]["apt_type"] == "분양권"){
+          shareText += "(분양권)";
+        }
+        shareText += "\n"
+        //shareText += ", " + ( Math.round( transport[i]["value_score"] * 100 ) / 100 ).toFixed(2) + "점\n"
+      }
+    }
+
+    shareText += "\n"
+    shareText += "『인프라 좋은 아파트』\n"
+    for(var i = 0 ; i < total_list ; i++){
+      shareText += "- " + infra[i]["name"]
+      if(infra[i]["apt_type"] == "아파트"){
+        shareText += "(" + infra[i]["apt_year"] + "년차)"
+      }
+      if(infra[i]["apt_type"] == "재건축"){
+        shareText += "(" + infra[i]["apt_year"] + "년차, 재건축)";
+      }
+      if(infra[i]["apt_type"] == "분양권"){
+        shareText += "(분양권)";
+      }
+      shareText += "\n"
+      //shareText += ", " + ( Math.round( infra[i]["value_score"] * 100 ) / 100 ).toFixed(2) + "점\n"
+    }
+
+    shareText += "\n"
+    shareText += "『교육 좋은 아파트』\n"
+    for(var i = 0 ; i < total_list ; i++){
+      shareText += "- " + education[i]["name"]
+      if(education[i]["apt_type"] == "아파트"){
+        shareText += "(" + education[i]["apt_year"] + "년차)"
+      }
+      if(education[i]["apt_type"] == "재건축"){
+        shareText += "(" + education[i]["apt_year"] + "년차, 재건축)";
+      }
+      if(education[i]["apt_type"] == "분양권"){
+        shareText += "(분양권)";
+      }
+      shareText += "\n"
+      //shareText += ", " + ( Math.round( education[i]["value_score"] * 100 ) / 100 ).toFixed(2) + "점\n"
+    }
+
+    shareText += "\n"
+    shareText += "『균형잡힌 입지 조건 아파트』\n"
+    for(var i = 0 ; i < total_list ; i++){
+      shareText += "- " + balanced[i]["name"]
+      if(balanced[i]["apt_type"] == "아파트"){
+        shareText += "(" + balanced[i]["apt_year"] + "년차)"
+      }
+      if(balanced[i]["apt_type"] == "재건축"){
+        shareText += "(" + balanced[i]["apt_year"] + "년차, 재건축)";
+      }
+      if(balanced[i]["apt_type"] == "분양권"){
+        shareText += "(분양권)";
+      }
+      shareText += "\n"
+      //shareText += ", " + ( Math.round( balanced[i]["value_score"] * 100 ) / 100 ).toFixed(2) + "점\n"
+    }
+
+    shareText += "\n아파트랭크는 저평가를 찾기 위한 목적으로 '주거', '인프라', '교통', '교육'의 요소들을 수치로 계산하여 순위를 매기는 입지 자동 계산 앱입니다.\n"
+    shareText += "'가격'이 제외되어 있기 때문에, 생각하시는 순위와 다를 수 있음을 말씀드립니다.\n\n"
+    
+    shareText += "[7월 업데이트 요약]\n"
+    shareText += "- 역세권을 가까운 역출구와의 거리로 재산정\n"  
+    shareText += "- 300m 이내의 유흥시설, 모텔 정보 반영하여 '교육' 감점요소로 적용\n"  
+    shareText += "- '오피스텔랭크' 신규 서비스 제공 (https://www.aptrank.kr/op/)'\n\n"
+
+    shareText += "※ 아파트랭크는 계산된 참조자료 입니다. 실제 임장, 현지 거주 의견, 부동산 조언 등 현장 정보가 가장 정확합니다.\n"  
+    shareText += "※ 응원, 문의, 제안, 버그제보는 아파트랭크 '카카오톡 1:1 문의하기(https://pf.kakao.com/_vESNb/chat)'로 남겨주시면 적극 반영 검토하겠습니다.\n\n"
+
+    //shareText += "\n아래 링크를 누르시면 통해 다른 아파트의 랭크를 확인할 수 있습니다."
+    shareText += "[아파트랭크 계산 항목]\n"
+    shareText += "ㆍ주거 = 세대수, 입주년차, 주차수, 난방방식, 욕실수, 현관구조\n"
+    shareText += "ㆍ인프라 = 백화점, 아울렛, 몰, 대형마트, 은행, 병원, 종합병원, 공원, 대형공원, 혐오시설\n"
+    shareText += "ㆍ교육 = 초등학교 전출입비, 초등학교 거리, 중학교 학업성취도, 학원가, 학원 개수, (감점)유흥시설 및 모텔 개수\n"
+    shareText += "ㆍ교통(수도권/광역시) = 역세권 여부, 30분이내 도착 가능 거점역, 1시간 이내 도착 가능 거점역\n"
+    shareText += "\n"
+
+    shareText += "▶ 아파트랭크 (" + balanced[0]["region"] + ")\n"
+    shareText += balanced[0]["shorten_url"] + "\n"
+
+    shareText += "▶ 1억이하 / 5층이하 / 30년이하 / 재건축 / 분양권 / 임장가이드 보기\n"
+    shareText += "www.aptrank.kr/theme\n"
+
+    shareText += "▶ 오피스텔랭크\n"
+    shareText += "www.aptrank.kr/op\n"
+
+    shareText += "#아파트 #아파트랭크 #아파트입지 #아파트순위 #부동산 #부동산순위 #부동산입지 #입지분석 #아파트추천 #부동산추천\n\n"
+    
+    //shareURL = "https://www.aptrank.kr" + "?reg=" + balanced[0]["region_code"] +"&sub=" + selectedSubRegion + "&mon=" + selectedMonth
+    //shareURL = balanced[0]["shorten_url"]
+    shareURL = "https://www.aptrank.kr"
+
+    if (navigator.share) {
+      navigator.share({
+        title: shareTitle,
+        text: shareText,
+        url: shareURL
+      }).then(() => {
+        console.log('Thanks for sharing!');
+      })
+      .catch(console.error);
+    } else {
+      // fallback
+      shareDialog.classList.add('is-open');
+    }  
+}
+
+function shareToFacebook(){
+  shareTitle = "[아파트랭크] "
+  shareTitle += selectedMonth.substr(0, 4) + "년 " + Number(selectedMonth.substr(4, 2)).toString() + "월, " + balanced[0]["region"] + " 랭크\n\n"  
+
+  shareText = selectedMonth.substr(0, 4) + "년 " + Number(selectedMonth.substr(4, 2)).toString() + "월, " + balanced[0]["region"] + " 랭크\n\n"  
+  shareText += balanced[0]["shorten_url"] + "\n\n"
+
+  var total_list = living.length
+  if(total_list >= 10){
+    total_list = 10
+  }
+
+    shareText += "『주거 환경 좋은 아파트』\n"
+    for(var i = 0 ; i < total_list ; i++){
+      shareText += "#" + living[i]["name"]
+      if(living[i]["apt_type"] == "아파트"){
+        shareText += "(" + living[i]["apt_year"] + "년차)"
+      }
+      if(living[i]["apt_type"] == "재건축"){
+        shareText += "(" + living[i]["apt_year"] + "년차, 재건축)";
+      }
+      if(living[i]["apt_type"] == "분양권"){
+        shareText += "(분양권)";
+      }      
+      shareText += "\n"
+      //shareText += ", " + ( Math.round( living[i]["value_score"] * 100 ) / 100 ).toFixed(2) + "점\n"
+    }
+    shareText += "※ 재건축은 용적률과 건폐율로 계산\n"
+
+    if(transport.length != 0){
+      shareText += "\n"
+      shareText += "『출퇴근 교통 좋은 아파트』\n"
+      for(var i = 0 ; i < total_list ; i++){
+        shareText += "#" + transport[i]["name"]
+        if(transport[i]["apt_type"] == "아파트"){
+          shareText += "(" + transport[i]["apt_year"] + "년차)"
+        }
+        if(transport[i]["apt_type"] == "재건축"){
+          shareText += "(" + transport[i]["apt_year"] + "년차, 재건축)";
+        }
+        if(transport[i]["apt_type"] == "분양권"){
+          shareText += "(분양권)";
+        }
+        shareText += "\n"
+        //shareText += ", " + ( Math.round( transport[i]["value_score"] * 100 ) / 100 ).toFixed(2) + "점\n"
+      }
+    }
+
+    shareText += "\n"
+    shareText += "『인프라 좋은 아파트』\n"
+    for(var i = 0 ; i < total_list ; i++){
+      shareText += "#" + infra[i]["name"]
+      if(infra[i]["apt_type"] == "아파트"){
+        shareText += "(" + infra[i]["apt_year"] + "년차)"
+      }
+      if(infra[i]["apt_type"] == "재건축"){
+        shareText += "(" + infra[i]["apt_year"] + "년차, 재건축)";
+      }
+      if(infra[i]["apt_type"] == "분양권"){
+        shareText += "(분양권)";
+      }
+      shareText += "\n"
+      //shareText += ", " + ( Math.round( infra[i]["value_score"] * 100 ) / 100 ).toFixed(2) + "점\n"
+    }
+
+    shareText += "\n"
+    shareText += "『교육 좋은 아파트』\n"
+    for(var i = 0 ; i < total_list ; i++){
+      shareText += "#" + education[i]["name"]
+      if(education[i]["apt_type"] == "아파트"){
+        shareText += "(" + education[i]["apt_year"] + "년차)"
+      }
+      if(education[i]["apt_type"] == "재건축"){
+        shareText += "(" + education[i]["apt_year"] + "년차, 재건축)";
+      }
+      if(education[i]["apt_type"] == "분양권"){
+        shareText += "(분양권)";
+      }
+      shareText += "\n"
+      //shareText += ", " + ( Math.round( education[i]["value_score"] * 100 ) / 100 ).toFixed(2) + "점\n"
+    }
+
+    shareText += "\n"
+    shareText += "『균형잡힌 입지 조건 아파트』\n"
+    for(var i = 0 ; i < total_list ; i++){
+      shareText += "#" + balanced[i]["name"]
+      if(balanced[i]["apt_type"] == "아파트"){
+        shareText += "(" + balanced[i]["apt_year"] + "년차)"
+      }
+      if(balanced[i]["apt_type"] == "재건축"){
+        shareText += "(" + balanced[i]["apt_year"] + "년차, 재건축)";
+      }
+      if(balanced[i]["apt_type"] == "분양권"){
+        shareText += "(분양권)";
+      }
+      shareText += "\n"
+      //shareText += ", " + ( Math.round( balanced[i]["value_score"] * 100 ) / 100 ).toFixed(2) + "점\n"
+    }
+
+    shareText += "\n※ 아파트랭크는 계산된 참조자료 입니다. 실제 임장, 현지 거주 의견, 부동산 조언 등 현장 정보가 가장 정확합니다.\n\n"
+    shareText += "※ 응원, 문의, 제안, 버그제보는 아파트랭크 '카카오톡 1:1 문의하기(https://pf.kakao.com/_vESNb/chat)'로 남겨주시면 적극 반영 검토하겠습니다.\n"
+
+    //shareText += "\n아래 링크를 누르시면 통해 다른 아파트의 랭크를 확인할 수 있습니다."
+    shareText += "\n[아파트랭크 계산 항목]\n"
+    shareText += "ㆍ주거 = 세대수, 입주년차, 주차수, 난방방식, 욕실수, 현관구조\n"
+    shareText += "ㆍ인프라 = 백화점, 아울렛, 몰, 대형마트, 은행, 병원, 종합병원, 공원, 대형공원, 혐오시설\n"
+    shareText += "ㆍ교육 = 초등학교 전출입비, 초등학교 거리, 중학교 학업성취도, 학원가, 학원 개수, (감점)유흥시설 및 모텔 개수\n"
+    shareText += "ㆍ교통(수도권/광역시) = 역세권 여부, 30분이내 도착 가능 거점역, 1시간 이내 도착 가능 거점역\n"
+    shareText += "\n"
+
+    shareText += "▶ 1억이하 / 5층이하 / 30년이하 / 재건축 / 분양권 / 임장가이드 보기\n"
+    shareText += "www.aptrank.kr/theme\n\n"
+
+    shareText += "▶ 오피스텔랭크\n"
+    shareText += "www.aptrank.kr/op\n\n"
+
+    regions_name = balanced[0]["region"].split(" ")    
+
+    region_01 = regions_name[0].substr(0, regions_name[0].length-1)
+
+    hash_10 = " #" + regions_name[0]
+    hash_11 = " #" + region_01 + "아파트"
+    hash_12 = " #" + region_01 + "입지분석"
+    hash_13 = " #" + region_01 + "랭크"
+    hash_14 = " #" + region_01 + "입지"
+    hash_15 = " #" + region_01 + "아파트랭크"
+
+    region_02 = regions_name[1].substr(0, regions_name[1].length-1)
+
+    hash_20 = " #" + regions_name[1]
+    hash_21 = " #" + region_02 + "아파트"
+    hash_22 = " #" + region_02 + "입지분석"
+    hash_23 = " #" + region_02 + "랭크"
+    hash_24 = " #" + region_02 + "입지"
+    hash_25 = " #" + region_02 + "아파트랭크"
+
+    if(regions_name.length > 2){
+      region_03 = regions_name[2].substr(0, regions_name[2].length-1)
+      hash_30 = " #" + regions_name[2]
+      hash_31 = " #" + region_03 + "아파트"
+      hash_32 = " #" + region_03 + "입지분석"
+      hash_33 = " #" + region_03 + "랭크"
+      hash_34 = " #" + region_03 + "입지"
+      hash_35 = " #" + region_03 + "아파트랭크"
+    }
+    else{
+      hash_30 = ""
+      hash_31 = ""
+      hash_32 = ""
+      hash_33 = ""
+      hash_34 = ""
+      hash_35 = ""      
+    }
+
+    shareText += "#아파트 #아파트랭크 #아파트입지 #아파트순위 #부동산 #부동산순위 #부동산입지 #입지분석 #아파트추천 #부동산추천"
+    shareText += hash_10 + hash_11 + hash_12 + hash_13 + hash_14 + hash_15
+    shareText += hash_20 + hash_21 + hash_22 + hash_23 + hash_24 + hash_25
+    shareText += hash_30 + hash_31 + hash_32 + hash_33 + hash_34 + hash_35 + "\n\n"
+    
+    //shareURL = "https://www.aptrank.kr" + "?reg=" + balanced[0]["region_code"] +"&sub=" + selectedSubRegion + "&mon=" + selectedMonth
+    //shareURL = balanced[0]["shorten_url"]
+    shareURL = "https://www.aptrank.kr"
+
+    if (navigator.share) {
+      navigator.share({
+        title: shareTitle,
+        text: shareText,
+        url: shareURL
+      }).then(() => {
+        console.log('Thanks for sharing!');
+      })
+      .catch(console.error);
+    } else {
+      // fallback
+      shareDialog.classList.add('is-open');
+    }  
+}
+
+  function returnList(list){
+    var addon_html = "";
+
+    for(var i = 0 ; i < list.length ; i++){      
+      var aptName = list[i]["name"]
+      var sortType = list[i]["sort"]
+      var apt_type = list[i]["apt_type"]
+      var apt_year = list[i]["apt_year"]
+      var region_code = list[i]["region_code"]
+      var sub_region_code = list[i]["sub_region_code"]
+      var value_score = list[i]["value_score"]
+
+      addon_html += "<div class='listBox'>";
+               
+      addon_html += "<div class='rank'>" + (i+1) + "위</div>";
+      addon_html += "<div class='apt_name'>" + aptName;
+
+      if(apt_type == "아파트"){
+        addon_html += "<span class='aptYear'> (" + apt_year + "년차)</span></div>";
+      }
+      if(apt_type == "재건축"){
+        addon_html += "<span class='aptYear'> (" + apt_year + "년차, 재건축)</span></div>";
+      }
+      if(apt_type == "분양권"){
+        addon_html += "<span class='aptYear'> (분양권)</span></div>";
+      }
+      addon_html += "<div class='value_score'>" + ( Math.round( value_score * 100 ) / 100 ).toFixed(2) + "점</div>"
+      addon_html += "</div>"
+    }
+
+    return addon_html
+  }
+</script>
+</html>

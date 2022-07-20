@@ -1,0 +1,27 @@
+{
+    "name": "요약랭크",
+    "short_name": "요약랭크",
+    "description": "AI가 선정하는 대한민국 아파트 입지 랭크",
+    "dir": "ltr",
+    "start_url": "https://www.aptrank.kr/summary/",
+    "display": "standalone",
+    "theme_color": "#000000",
+    "background_color": "#3841ff",
+    "orientation": "portrait",
+    "icons": [{
+      "src": "https://www.aptrank.kr/apt-rank-su-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },{
+      "src": "https://www.aptrank.kr/apt-rank-su-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    }, {
+      "src": "https://www.aptrank.kr/apt-rank-su-114x114.png",
+      "sizes": "114x114",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }]
+}

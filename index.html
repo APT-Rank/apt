@@ -1713,6 +1713,8 @@
     updateRegion()
   }
 
+  var pcDevice = "win16|win32|win64|mac|macintel"
+
   function openNaver(code, y, x){
     nURL = "https://new.land.naver.com/complexes/" + code
     window.open(nURL)
@@ -1720,14 +1722,24 @@
 
   function openAptrank(){
     aURL = "https://www.aptrank.kr/theme" + "?reg=" + selectedRegion +"&sub=" + selectedSubRegion
-    location.href = aURL
-    //window.open(aURL)
+    if ( navigator.platform ) {
+        if ( pcDevice.indexOf(navigator.platform.toLowerCase()) < 0 ) {
+          location.href = aURL
+        } else {
+          window.open(aURL)
+        }
+    }    
   }
 
   function openOprank(){
     aURL = "https://www.aptrank.kr/op" + "?reg=" + selectedRegion +"&sub=" + selectedSubRegion
-    location.href = aURL
-    //window.open(aURL)
+    if ( navigator.platform ) {
+        if ( pcDevice.indexOf(navigator.platform.toLowerCase()) < 0 ) {
+          location.href = aURL
+        } else {
+          window.open(aURL)
+        }
+    }
   }
 
   function showNotice(){
