@@ -359,13 +359,18 @@
       selectedSubRegion = lastSubRegion
     }
 
+    if(selectedRegion == 'Korea'){
+      selectedRegion = 'Seoul'
+      selectedSubRegion = '1168000000_Seoul_Gangnam'
+    }    
+
     if(urlParams.has('theme')){
       console.log(urlParams.get('theme'))
       selectedTheme = urlParams.get('theme')
     }
     else if(lastTheme != null){
       selectedTheme = lastTheme
-    }
+    }    
 
     $("#theme").val(selectedTheme).prop("selected", true);    
     $("#sido").val(selectedRegion).prop("selected", true);

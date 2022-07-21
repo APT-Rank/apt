@@ -379,6 +379,10 @@
       selectedMonth = lastMonth
     }
 
+    if(selectedRegion == 'Korea' && (selectedSubRegion == 'Living_Top300' || selectedSubRegion == 'Trans_Top300' || selectedSubRegion == 'Infra_Top300' || selectedSubRegion == 'Edu_Top300' || selectedSubRegion == 'Balanced_Top300')){
+      selectedSubRegion = '1000000000_Korea'
+    }
+
     $("#month").val(selectedMonth).prop("selected", true);
     $("#sido").val(selectedRegion).prop("selected", true);
     regionName = $("#sido option:selected").val();
