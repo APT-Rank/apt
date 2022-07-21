@@ -178,9 +178,10 @@
       <div id="themeDataList"></div>      
 
       <!--아파트랭크 연결-->      
-      <div id="linkToAptrank">
-        <div onClick='openAptrank()' style="background-color: #fe4040; height: 30px; line-height: 30px">아파트랭크  <i class="fa-solid fa-circle-arrow-right"></i></div>
-        <div onClick='openOprank()' style="background-color: #fe4040; height: 30px; line-height: 30px">오피스텔랭크  <i class="fa-solid fa-circle-arrow-right"></i></div>
+      <div id="linkToAptrank">        
+        <div id = 'tab1' onClick='openAptrank()'>아파트랭크</div>
+        <div id = 'tab2' style='background-color: #fe4040; color:white; font-size: 0.9em; line-height: 2em'>아파트랭크:THEME</i></div>
+        <div id = 'tab3' onClick='openOprank()'>오피스텔랭크</div>
       </div>
 
       <!--단지 검색창 닫기 플로팅 버튼-->
@@ -944,7 +945,7 @@
           shareText = "아파트 단지가 없네요.\n"
           $('#themeDataList').append(addon_html);        
         }
-        $('#themeDataList').append("<div style='height: 1.5em'></div>");        
+        $('#themeDataList').append("<div style='height: 2em'></div>");        
     
     saveLocalStorage()
 

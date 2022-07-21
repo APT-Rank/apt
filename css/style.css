@@ -375,7 +375,7 @@
 
   #linkToAptrank{
     display: grid;    
-    grid-template-columns: 1fr 1fr;
+    grid-template-columns: 1fr 1fr 1fr;
     align-content: center;
     justify-content: center;
     padding-top: 1px;
@@ -384,12 +384,21 @@
     bottom: 0;
     left: 0;
     right: 0;
-    height: 30px;
+    height: 2em;
+    line-height: 2em;
+    background-color: #eeeeee;
+    text-align: center;
+  }
+
+  #tab1, #tab2, #tab3{
     font-size: 0.8em;
     font-weight: 600;
-    color: white;
-    text-align: center;    
+    border-top: 2px solid #fe4040;    
+    color: gray;
   }
+  #tab1:active, #tab2:active, #tab3:active{            
+    color: #fe4040;
+  }  
 
   #arrow{
     font-size: 1.1em;
