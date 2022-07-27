@@ -240,7 +240,7 @@
     width: 100%;
     margin-top: 10px;
     border-radius: 5px;
-    box-shadow: rgba(0, 0, 0, 0.16) 0px 3px 6px, rgba(0, 0, 0, 0.23) 0px 3px 6px;
+    box-shadow: rgba(0, 0, 0, 0.12) 0px 1px 3px, rgba(0, 0, 0, 0.4) 0px 1px 2px;
   }
 
   #rankSimul:active{
@@ -663,11 +663,15 @@
     align-content: right;
     width: 90%;
     font-size: 0.8em;
+    background-color: white;
     color: #03c75a;
     height: 2.5em;    
     font-weight: 600;    
     border-radius: 5px;
     border: 1px solid #03c75a;
+  }
+  .goThemeLink:hover, .goThemeLink:active{
+    background-color: #eeeeee;
   }
   .goApt{
     width: 100%;    
