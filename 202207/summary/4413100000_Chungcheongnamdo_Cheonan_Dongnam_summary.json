@@ -68,19 +68,6 @@
         {
             "index":1,
             "sort":"balanced",
-            "name":"천안역필하우스에듀시티1단지",
-            "search_code":126749,
-            "apt_type":"아파트",
-            "apt_year":0.0,
-            "value_score":62.5735,
-            "region":"충청남도 천안시 동남구",
-            "region_code":"Chungcheongnamdo",
-            "sub_region_code":"4413100000_Chungcheongnamdo_Cheonan_Dongnam",
-            "shorten_url":"https:\/\/me2.do\/5thvhKnO"
-        },
-        {
-            "index":2,
-            "sort":"balanced",
             "name":"용곡한라비발디",
             "search_code":26258,
             "apt_type":"아파트",
@@ -92,7 +79,7 @@
             "shorten_url":"https:\/\/me2.do\/5thvhKnO"
         },
         {
-            "index":3,
+            "index":2,
             "sort":"balanced",
             "name":"한라동백2차",
             "search_code":7395,
@@ -105,7 +92,7 @@
             "shorten_url":"https:\/\/me2.do\/5thvhKnO"
         },
         {
-            "index":4,
+            "index":3,
             "sort":"balanced",
             "name":"신부도솔노블시티동문굿모닝힐",
             "search_code":109735,
@@ -118,7 +105,7 @@
             "shorten_url":"https:\/\/me2.do\/5thvhKnO"
         },
         {
-            "index":5,
+            "index":4,
             "sort":"balanced",
             "name":"버들마을우미린",
             "search_code":26943,
@@ -131,13 +118,26 @@
             "shorten_url":"https:\/\/me2.do\/5thvhKnO"
         },
         {
-            "index":6,
+            "index":5,
             "sort":"balanced",
             "name":"이안그랑센텀천안",
             "search_code":137226,
             "apt_type":"분양권",
             "apt_year":-1.0,
             "value_score":60.96815,
+            "region":"충청남도 천안시 동남구",
+            "region_code":"Chungcheongnamdo",
+            "sub_region_code":"4413100000_Chungcheongnamdo_Cheonan_Dongnam",
+            "shorten_url":"https:\/\/me2.do\/5thvhKnO"
+        },
+        {
+            "index":6,
+            "sort":"balanced",
+            "name":"천안역필하우스에듀시티1단지",
+            "search_code":126749,
+            "apt_type":"아파트",
+            "apt_year":0.0,
+            "value_score":60.0535,
             "region":"충청남도 천안시 동남구",
             "region_code":"Chungcheongnamdo",
             "sub_region_code":"4413100000_Chungcheongnamdo_Cheonan_Dongnam",
@@ -185,19 +185,6 @@
         {
             "index":10,
             "sort":"living",
-            "name":"천안역필하우스에듀시티1단지",
-            "search_code":126749,
-            "apt_type":"아파트",
-            "apt_year":0.0,
-            "value_score":67.5525,
-            "region":"충청남도 천안시 동남구",
-            "region_code":"Chungcheongnamdo",
-            "sub_region_code":"4413100000_Chungcheongnamdo_Cheonan_Dongnam",
-            "shorten_url":"https:\/\/me2.do\/5thvhKnO"
-        },
-        {
-            "index":11,
-            "sort":"living",
             "name":"신부도솔노블시티동문굿모닝힐",
             "search_code":109735,
             "apt_type":"아파트",
@@ -209,13 +196,26 @@
             "shorten_url":"https:\/\/me2.do\/5thvhKnO"
         },
         {
-            "index":12,
+            "index":11,
             "sort":"living",
             "name":"천안청수한양수자인",
             "search_code":26891,
             "apt_type":"아파트",
             "apt_year":11.0,
             "value_score":66.12375,
+            "region":"충청남도 천안시 동남구",
+            "region_code":"Chungcheongnamdo",
+            "sub_region_code":"4413100000_Chungcheongnamdo_Cheonan_Dongnam",
+            "shorten_url":"https:\/\/me2.do\/5thvhKnO"
+        },
+        {
+            "index":12,
+            "sort":"living",
+            "name":"천안역필하우스에듀시티1단지",
+            "search_code":126749,
+            "apt_type":"아파트",
+            "apt_year":0.0,
+            "value_score":65.7525,
             "region":"충청남도 천안시 동남구",
             "region_code":"Chungcheongnamdo",
             "sub_region_code":"4413100000_Chungcheongnamdo_Cheonan_Dongnam",

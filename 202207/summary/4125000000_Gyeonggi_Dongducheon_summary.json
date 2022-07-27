@@ -263,6 +263,19 @@
         {
             "index":16,
             "sort":"living",
+            "name":"동두천중흥S-클래스헤라시티(민간임대)",
+            "search_code":149676,
+            "apt_type":"분양권",
+            "apt_year":-2.0,
+            "value_score":43.6188,
+            "region":"경기도 동두천시",
+            "region_code":"Gyeonggi",
+            "sub_region_code":"4125000000_Gyeonggi_Dongducheon",
+            "shorten_url":"https:\/\/me2.do\/5Ob7DpkU"
+        },
+        {
+            "index":17,
+            "sort":"living",
             "name":"동두천센트레빌",
             "search_code":124879,
             "apt_type":"아파트",
@@ -274,7 +287,7 @@
             "shorten_url":"https:\/\/me2.do\/5Ob7DpkU"
         },
         {
-            "index":17,
+            "index":18,
             "sort":"living",
             "name":"부영5단지",
             "search_code":112625,
@@ -287,26 +300,13 @@
             "shorten_url":"https:\/\/me2.do\/5Ob7DpkU"
         },
         {
-            "index":18,
+            "index":19,
             "sort":"living",
             "name":"주공4단지",
             "search_code":14004,
             "apt_type":"아파트",
             "apt_year":19.0,
             "value_score":43.0688,
-            "region":"경기도 동두천시",
-            "region_code":"Gyeonggi",
-            "sub_region_code":"4125000000_Gyeonggi_Dongducheon",
-            "shorten_url":"https:\/\/me2.do\/5Ob7DpkU"
-        },
-        {
-            "index":19,
-            "sort":"living",
-            "name":"송내아이파크",
-            "search_code":13280,
-            "apt_type":"아파트",
-            "apt_year":17.0,
-            "value_score":42.9688,
             "region":"경기도 동두천시",
             "region_code":"Gyeonggi",
             "sub_region_code":"4125000000_Gyeonggi_Dongducheon",

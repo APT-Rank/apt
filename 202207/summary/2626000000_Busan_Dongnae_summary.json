@@ -159,11 +159,11 @@
         {
             "index":8,
             "sort":"balanced",
-            "name":"동래래미안아이파크",
-            "search_code":123223,
+            "name":"명륜2차아이파크1단지",
+            "search_code":105814,
             "apt_type":"아파트",
-            "apt_year":1.0,
-            "value_score":68.721,
+            "apt_year":7.0,
+            "value_score":67.9483,
             "region":"부산시 동래구",
             "region_code":"Busan",
             "sub_region_code":"2626000000_Busan_Dongnae",
@@ -172,11 +172,11 @@
         {
             "index":9,
             "sort":"balanced",
-            "name":"명륜2차아이파크1단지",
-            "search_code":105814,
-            "apt_type":"아파트",
-            "apt_year":7.0,
-            "value_score":67.9483,
+            "name":"한양",
+            "search_code":4824,
+            "apt_type":"재건축",
+            "apt_year":42.0,
+            "value_score":67.8729,
             "region":"부산시 동래구",
             "region_code":"Busan",
             "sub_region_code":"2626000000_Busan_Dongnae",
@@ -250,19 +250,6 @@
         {
             "index":15,
             "sort":"living",
-            "name":"동래래미안아이파크",
-            "search_code":123223,
-            "apt_type":"아파트",
-            "apt_year":1.0,
-            "value_score":70.864,
-            "region":"부산시 동래구",
-            "region_code":"Busan",
-            "sub_region_code":"2626000000_Busan_Dongnae",
-            "shorten_url":"https:\/\/me2.do\/GgOn2ckV"
-        },
-        {
-            "index":16,
-            "sort":"living",
             "name":"동래3차SK뷰(주상복합)",
             "search_code":121631,
             "apt_type":"아파트",
@@ -274,7 +261,7 @@
             "shorten_url":"https:\/\/me2.do\/GgOn2ckV"
         },
         {
-            "index":17,
+            "index":16,
             "sort":"living",
             "name":"명륜2차아이파크1단지",
             "search_code":105814,
@@ -287,7 +274,7 @@
             "shorten_url":"https:\/\/me2.do\/GgOn2ckV"
         },
         {
-            "index":18,
+            "index":17,
             "sort":"living",
             "name":"사직쌍용예가",
             "search_code":17246,
@@ -300,13 +287,26 @@
             "shorten_url":"https:\/\/me2.do\/GgOn2ckV"
         },
         {
-            "index":19,
+            "index":18,
             "sort":"living",
             "name":"한양",
             "search_code":4824,
             "apt_type":"재건축",
             "apt_year":42.0,
             "value_score":69.4986,
+            "region":"부산시 동래구",
+            "region_code":"Busan",
+            "sub_region_code":"2626000000_Busan_Dongnae",
+            "shorten_url":"https:\/\/me2.do\/GgOn2ckV"
+        },
+        {
+            "index":19,
+            "sort":"living",
+            "name":"명륜힐스테이트",
+            "search_code":112610,
+            "apt_type":"아파트",
+            "apt_year":4.0,
+            "value_score":68.9224,
             "region":"부산시 동래구",
             "region_code":"Busan",
             "sub_region_code":"2626000000_Busan_Dongnae",

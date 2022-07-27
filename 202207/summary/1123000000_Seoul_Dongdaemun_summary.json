@@ -68,6 +68,32 @@
         {
             "index":1,
             "sort":"balanced",
+            "name":"래미안위브",
+            "search_code":104202,
+            "apt_type":"아파트",
+            "apt_year":8,
+            "value_score":63.5804,
+            "region":"서울시 동대문구",
+            "region_code":"Seoul",
+            "sub_region_code":"1123000000_Seoul_Dongdaemun",
+            "shorten_url":"https:\/\/me2.do\/xRcY6Dqf"
+        },
+        {
+            "index":2,
+            "sort":"balanced",
+            "name":"청계한신휴플러스",
+            "search_code":100405,
+            "apt_type":"아파트",
+            "apt_year":12,
+            "value_score":63.0166,
+            "region":"서울시 동대문구",
+            "region_code":"Seoul",
+            "sub_region_code":"1123000000_Seoul_Dongdaemun",
+            "shorten_url":"https:\/\/me2.do\/xRcY6Dqf"
+        },
+        {
+            "index":3,
+            "sort":"balanced",
             "name":"e편한세상청계센트럴포레",
             "search_code":125111,
             "apt_type":"아파트",
@@ -79,7 +105,7 @@
             "shorten_url":"https:\/\/me2.do\/xRcY6Dqf"
         },
         {
-            "index":2,
+            "index":4,
             "sort":"balanced",
             "name":"래미안크레시티",
             "search_code":103797,
@@ -92,7 +118,7 @@
             "shorten_url":"https:\/\/me2.do\/xRcY6Dqf"
         },
         {
-            "index":3,
+            "index":5,
             "sort":"balanced",
             "name":"장안래미안2차",
             "search_code":8802,
@@ -105,7 +131,33 @@
             "shorten_url":"https:\/\/me2.do\/xRcY6Dqf"
         },
         {
-            "index":4,
+            "index":6,
+            "sort":"balanced",
+            "name":"래미안미드카운티",
+            "search_code":111223,
+            "apt_type":"아파트",
+            "apt_year":4,
+            "value_score":62.0104,
+            "region":"서울시 동대문구",
+            "region_code":"Seoul",
+            "sub_region_code":"1123000000_Seoul_Dongdaemun",
+            "shorten_url":"https:\/\/me2.do\/xRcY6Dqf"
+        },
+        {
+            "index":7,
+            "sort":"balanced",
+            "name":"힐스테이트청계",
+            "search_code":110935,
+            "apt_type":"아파트",
+            "apt_year":4,
+            "value_score":61.7966,
+            "region":"서울시 동대문구",
+            "region_code":"Seoul",
+            "sub_region_code":"1123000000_Seoul_Dongdaemun",
+            "shorten_url":"https:\/\/me2.do\/xRcY6Dqf"
+        },
+        {
+            "index":8,
             "sort":"balanced",
             "name":"휘경SK뷰",
             "search_code":112482,
@@ -118,65 +170,13 @@
             "shorten_url":"https:\/\/me2.do\/xRcY6Dqf"
         },
         {
-            "index":5,
+            "index":9,
             "sort":"balanced",
             "name":"청량리역한양수자인그라시엘(주상복합)",
             "search_code":125441,
             "apt_type":"분양권",
             "apt_year":-1,
             "value_score":60.4666,
-            "region":"서울시 동대문구",
-            "region_code":"Seoul",
-            "sub_region_code":"1123000000_Seoul_Dongdaemun",
-            "shorten_url":"https:\/\/me2.do\/xRcY6Dqf"
-        },
-        {
-            "index":6,
-            "sort":"balanced",
-            "name":"래미안허브리츠",
-            "search_code":26192,
-            "apt_type":"아파트",
-            "apt_year":11,
-            "value_score":60.0066,
-            "region":"서울시 동대문구",
-            "region_code":"Seoul",
-            "sub_region_code":"1123000000_Seoul_Dongdaemun",
-            "shorten_url":"https:\/\/me2.do\/xRcY6Dqf"
-        },
-        {
-            "index":7,
-            "sort":"balanced",
-            "name":"래미안엘리니티",
-            "search_code":133184,
-            "apt_type":"분양권",
-            "apt_year":0,
-            "value_score":59.8097,
-            "region":"서울시 동대문구",
-            "region_code":"Seoul",
-            "sub_region_code":"1123000000_Seoul_Dongdaemun",
-            "shorten_url":"https:\/\/me2.do\/xRcY6Dqf"
-        },
-        {
-            "index":8,
-            "sort":"balanced",
-            "name":"장안힐스테이트",
-            "search_code":22636,
-            "apt_type":"아파트",
-            "apt_year":15,
-            "value_score":58.2406,
-            "region":"서울시 동대문구",
-            "region_code":"Seoul",
-            "sub_region_code":"1123000000_Seoul_Dongdaemun",
-            "shorten_url":"https:\/\/me2.do\/xRcY6Dqf"
-        },
-        {
-            "index":9,
-            "sort":"balanced",
-            "name":"장안현대홈타운1차",
-            "search_code":3376,
-            "apt_type":"아파트",
-            "apt_year":19,
-            "value_score":57.3524,
             "region":"서울시 동대문구",
             "region_code":"Seoul",
             "sub_region_code":"1123000000_Seoul_Dongdaemun",
@@ -198,6 +198,19 @@
         {
             "index":11,
             "sort":"living",
+            "name":"래미안미드카운티",
+            "search_code":111223,
+            "apt_type":"아파트",
+            "apt_year":4,
+            "value_score":68.1736,
+            "region":"서울시 동대문구",
+            "region_code":"Seoul",
+            "sub_region_code":"1123000000_Seoul_Dongdaemun",
+            "shorten_url":"https:\/\/me2.do\/xRcY6Dqf"
+        },
+        {
+            "index":12,
+            "sort":"living",
             "name":"래미안크레시티",
             "search_code":103797,
             "apt_type":"아파트",
@@ -209,7 +222,20 @@
             "shorten_url":"https:\/\/me2.do\/xRcY6Dqf"
         },
         {
-            "index":12,
+            "index":13,
+            "sort":"living",
+            "name":"래미안위브",
+            "search_code":104202,
+            "apt_type":"아파트",
+            "apt_year":8,
+            "value_score":67.7036,
+            "region":"서울시 동대문구",
+            "region_code":"Seoul",
+            "sub_region_code":"1123000000_Seoul_Dongdaemun",
+            "shorten_url":"https:\/\/me2.do\/xRcY6Dqf"
+        },
+        {
+            "index":14,
             "sort":"living",
             "name":"청량리역한양수자인그라시엘(주상복합)",
             "search_code":125441,
@@ -222,7 +248,7 @@
             "shorten_url":"https:\/\/me2.do\/xRcY6Dqf"
         },
         {
-            "index":13,
+            "index":15,
             "sort":"living",
             "name":"e편한세상청계센트럴포레",
             "search_code":125111,
@@ -235,7 +261,7 @@
             "shorten_url":"https:\/\/me2.do\/xRcY6Dqf"
         },
         {
-            "index":14,
+            "index":16,
             "sort":"living",
             "name":"장안래미안2차",
             "search_code":8802,
@@ -248,7 +274,7 @@
             "shorten_url":"https:\/\/me2.do\/xRcY6Dqf"
         },
         {
-            "index":15,
+            "index":17,
             "sort":"living",
             "name":"휘경SK뷰",
             "search_code":112482,
@@ -261,39 +287,13 @@
             "shorten_url":"https:\/\/me2.do\/xRcY6Dqf"
         },
         {
-            "index":16,
-            "sort":"living",
-            "name":"래미안엘리니티",
-            "search_code":133184,
-            "apt_type":"분양권",
-            "apt_year":0,
-            "value_score":63.6998,
-            "region":"서울시 동대문구",
-            "region_code":"Seoul",
-            "sub_region_code":"1123000000_Seoul_Dongdaemun",
-            "shorten_url":"https:\/\/me2.do\/xRcY6Dqf"
-        },
-        {
-            "index":17,
-            "sort":"living",
-            "name":"래미안허브리츠",
-            "search_code":26192,
-            "apt_type":"아파트",
-            "apt_year":11,
-            "value_score":63.6044,
-            "region":"서울시 동대문구",
-            "region_code":"Seoul",
-            "sub_region_code":"1123000000_Seoul_Dongdaemun",
-            "shorten_url":"https:\/\/me2.do\/xRcY6Dqf"
-        },
-        {
             "index":18,
             "sort":"living",
-            "name":"장안현대홈타운1차",
-            "search_code":3376,
+            "name":"힐스테이트청계",
+            "search_code":110935,
             "apt_type":"아파트",
-            "apt_year":19,
-            "value_score":61.5016,
+            "apt_year":4,
+            "value_score":64.0144,
             "region":"서울시 동대문구",
             "region_code":"Seoul",
             "sub_region_code":"1123000000_Seoul_Dongdaemun",
@@ -302,11 +302,11 @@
         {
             "index":19,
             "sort":"living",
-            "name":"래미안아름숲",
-            "search_code":26918,
+            "name":"청계한신휴플러스",
+            "search_code":100405,
             "apt_type":"아파트",
-            "apt_year":10,
-            "value_score":60.7262,
+            "apt_year":12,
+            "value_score":63.7944,
             "region":"서울시 동대문구",
             "region_code":"Seoul",
             "sub_region_code":"1123000000_Seoul_Dongdaemun",
@@ -314,6 +314,19 @@
         },
         {
             "index":20,
+            "sort":"transport",
+            "name":"답십리한화(주상복합)",
+            "search_code":3372,
+            "apt_type":"아파트",
+            "apt_year":21,
+            "value_score":72.5902,
+            "region":"서울시 동대문구",
+            "region_code":"Seoul",
+            "sub_region_code":"1123000000_Seoul_Dongdaemun",
+            "shorten_url":"https:\/\/me2.do\/xRcY6Dqf"
+        },
+        {
+            "index":21,
             "sort":"transport",
             "name":"청량리역롯데캐슬SKY-L65(주상복합)",
             "search_code":127331,
@@ -326,7 +339,20 @@
             "shorten_url":"https:\/\/me2.do\/xRcY6Dqf"
         },
         {
-            "index":21,
+            "index":22,
+            "sort":"transport",
+            "name":"청계한신휴플러스",
+            "search_code":100405,
+            "apt_type":"아파트",
+            "apt_year":12,
+            "value_score":71.6083,
+            "region":"서울시 동대문구",
+            "region_code":"Seoul",
+            "sub_region_code":"1123000000_Seoul_Dongdaemun",
+            "shorten_url":"https:\/\/me2.do\/xRcY6Dqf"
+        },
+        {
+            "index":23,
             "sort":"transport",
             "name":"롯데캐슬피렌체(주상복합)",
             "search_code":25667,
@@ -339,7 +365,33 @@
             "shorten_url":"https:\/\/me2.do\/xRcY6Dqf"
         },
         {
-            "index":22,
+            "index":24,
+            "sort":"transport",
+            "name":"래미안위브",
+            "search_code":104202,
+            "apt_type":"아파트",
+            "apt_year":8,
+            "value_score":69.5402,
+            "region":"서울시 동대문구",
+            "region_code":"Seoul",
+            "sub_region_code":"1123000000_Seoul_Dongdaemun",
+            "shorten_url":"https:\/\/me2.do\/xRcY6Dqf"
+        },
+        {
+            "index":25,
+            "sort":"transport",
+            "name":"힐스테이트청계",
+            "search_code":110935,
+            "apt_type":"아파트",
+            "apt_year":4,
+            "value_score":68.4983,
+            "region":"서울시 동대문구",
+            "region_code":"Seoul",
+            "sub_region_code":"1123000000_Seoul_Dongdaemun",
+            "shorten_url":"https:\/\/me2.do\/xRcY6Dqf"
+        },
+        {
+            "index":26,
             "sort":"transport",
             "name":"e편한세상청계센트럴포레",
             "search_code":125111,
@@ -352,7 +404,7 @@
             "shorten_url":"https:\/\/me2.do\/xRcY6Dqf"
         },
         {
-            "index":23,
+            "index":27,
             "sort":"transport",
             "name":"래미안허브리츠",
             "search_code":26192,
@@ -365,7 +417,7 @@
             "shorten_url":"https:\/\/me2.do\/xRcY6Dqf"
         },
         {
-            "index":24,
+            "index":28,
             "sort":"transport",
             "name":"휘경SK뷰",
             "search_code":112482,
@@ -378,65 +430,13 @@
             "shorten_url":"https:\/\/me2.do\/xRcY6Dqf"
         },
         {
-            "index":25,
+            "index":29,
             "sort":"transport",
             "name":"용두롯데캐슬리치",
             "search_code":106788,
             "apt_type":"아파트",
             "apt_year":7,
             "value_score":64.0779,
-            "region":"서울시 동대문구",
-            "region_code":"Seoul",
-            "sub_region_code":"1123000000_Seoul_Dongdaemun",
-            "shorten_url":"https:\/\/me2.do\/xRcY6Dqf"
-        },
-        {
-            "index":26,
-            "sort":"transport",
-            "name":"에스아이팰리스장안센텀(주상복합)",
-            "search_code":135360,
-            "apt_type":"아파트",
-            "apt_year":1,
-            "value_score":64.0062,
-            "region":"서울시 동대문구",
-            "region_code":"Seoul",
-            "sub_region_code":"1123000000_Seoul_Dongdaemun",
-            "shorten_url":"https:\/\/me2.do\/xRcY6Dqf"
-        },
-        {
-            "index":27,
-            "sort":"transport",
-            "name":"신동아",
-            "search_code":338,
-            "apt_type":"아파트",
-            "apt_year":28,
-            "value_score":63.51485,
-            "region":"서울시 동대문구",
-            "region_code":"Seoul",
-            "sub_region_code":"1123000000_Seoul_Dongdaemun",
-            "shorten_url":"https:\/\/me2.do\/xRcY6Dqf"
-        },
-        {
-            "index":28,
-            "sort":"transport",
-            "name":"신일해피트리2차",
-            "search_code":22117,
-            "apt_type":"아파트",
-            "apt_year":17,
-            "value_score":63.2412,
-            "region":"서울시 동대문구",
-            "region_code":"Seoul",
-            "sub_region_code":"1123000000_Seoul_Dongdaemun",
-            "shorten_url":"https:\/\/me2.do\/xRcY6Dqf"
-        },
-        {
-            "index":29,
-            "sort":"transport",
-            "name":"이문래미안2차",
-            "search_code":8791,
-            "apt_type":"아파트",
-            "apt_year":18,
-            "value_score":63.17775,
             "region":"서울시 동대문구",
             "region_code":"Seoul",
             "sub_region_code":"1123000000_Seoul_Dongdaemun",
@@ -471,6 +471,32 @@
         {
             "index":32,
             "sort":"infra",
+            "name":"래미안미드카운티",
+            "search_code":111223,
+            "apt_type":"아파트",
+            "apt_year":4,
+            "value_score":62.842,
+            "region":"서울시 동대문구",
+            "region_code":"Seoul",
+            "sub_region_code":"1123000000_Seoul_Dongdaemun",
+            "shorten_url":"https:\/\/me2.do\/xRcY6Dqf"
+        },
+        {
+            "index":33,
+            "sort":"infra",
+            "name":"청계한신휴플러스",
+            "search_code":100405,
+            "apt_type":"아파트",
+            "apt_year":12,
+            "value_score":62.6555,
+            "region":"서울시 동대문구",
+            "region_code":"Seoul",
+            "sub_region_code":"1123000000_Seoul_Dongdaemun",
+            "shorten_url":"https:\/\/me2.do\/xRcY6Dqf"
+        },
+        {
+            "index":34,
+            "sort":"infra",
             "name":"장안래미안2차",
             "search_code":8802,
             "apt_type":"아파트",
@@ -482,7 +508,7 @@
             "shorten_url":"https:\/\/me2.do\/xRcY6Dqf"
         },
         {
-            "index":33,
+            "index":35,
             "sort":"infra",
             "name":"래미안크레시티",
             "search_code":103797,
@@ -495,7 +521,33 @@
             "shorten_url":"https:\/\/me2.do\/xRcY6Dqf"
         },
         {
-            "index":34,
+            "index":36,
+            "sort":"infra",
+            "name":"래미안위브",
+            "search_code":104202,
+            "apt_type":"아파트",
+            "apt_year":8,
+            "value_score":61.742,
+            "region":"서울시 동대문구",
+            "region_code":"Seoul",
+            "sub_region_code":"1123000000_Seoul_Dongdaemun",
+            "shorten_url":"https:\/\/me2.do\/xRcY6Dqf"
+        },
+        {
+            "index":37,
+            "sort":"infra",
+            "name":"동서울한양",
+            "search_code":337,
+            "apt_type":"아파트",
+            "apt_year":33,
+            "value_score":61.442,
+            "region":"서울시 동대문구",
+            "region_code":"Seoul",
+            "sub_region_code":"1123000000_Seoul_Dongdaemun",
+            "shorten_url":"https:\/\/me2.do\/xRcY6Dqf"
+        },
+        {
+            "index":38,
             "sort":"infra",
             "name":"e편한세상청계센트럴포레",
             "search_code":125111,
@@ -508,65 +560,13 @@
             "shorten_url":"https:\/\/me2.do\/xRcY6Dqf"
         },
         {
-            "index":35,
+            "index":39,
             "sort":"infra",
             "name":"롯데캐슬피렌체(주상복합)",
             "search_code":25667,
             "apt_type":"아파트",
             "apt_year":13,
             "value_score":60.9965,
-            "region":"서울시 동대문구",
-            "region_code":"Seoul",
-            "sub_region_code":"1123000000_Seoul_Dongdaemun",
-            "shorten_url":"https:\/\/me2.do\/xRcY6Dqf"
-        },
-        {
-            "index":36,
-            "sort":"infra",
-            "name":"용두롯데캐슬리치",
-            "search_code":106788,
-            "apt_type":"아파트",
-            "apt_year":7,
-            "value_score":60.8965,
-            "region":"서울시 동대문구",
-            "region_code":"Seoul",
-            "sub_region_code":"1123000000_Seoul_Dongdaemun",
-            "shorten_url":"https:\/\/me2.do\/xRcY6Dqf"
-        },
-        {
-            "index":37,
-            "sort":"infra",
-            "name":"청량리역해링턴플레이스",
-            "search_code":125358,
-            "apt_type":"분양권",
-            "apt_year":-1,
-            "value_score":60.1055,
-            "region":"서울시 동대문구",
-            "region_code":"Seoul",
-            "sub_region_code":"1123000000_Seoul_Dongdaemun",
-            "shorten_url":"https:\/\/me2.do\/xRcY6Dqf"
-        },
-        {
-            "index":38,
-            "sort":"infra",
-            "name":"래미안허브리츠",
-            "search_code":26192,
-            "apt_type":"아파트",
-            "apt_year":11,
-            "value_score":60.0055,
-            "region":"서울시 동대문구",
-            "region_code":"Seoul",
-            "sub_region_code":"1123000000_Seoul_Dongdaemun",
-            "shorten_url":"https:\/\/me2.do\/xRcY6Dqf"
-        },
-        {
-            "index":39,
-            "sort":"infra",
-            "name":"전농신성미소지움",
-            "search_code":13766,
-            "apt_type":"아파트",
-            "apt_year":17,
-            "value_score":59.842,
             "region":"서울시 동대문구",
             "region_code":"Seoul",
             "sub_region_code":"1123000000_Seoul_Dongdaemun",
@@ -614,6 +614,19 @@
         {
             "index":43,
             "sort":"education",
+            "name":"래미안미드카운티",
+            "search_code":111223,
+            "apt_type":"아파트",
+            "apt_year":4,
+            "value_score":58.684,
+            "region":"서울시 동대문구",
+            "region_code":"Seoul",
+            "sub_region_code":"1123000000_Seoul_Dongdaemun",
+            "shorten_url":"https:\/\/me2.do\/xRcY6Dqf"
+        },
+        {
+            "index":44,
+            "sort":"education",
             "name":"장안현대홈타운1차",
             "search_code":3376,
             "apt_type":"아파트",
@@ -625,7 +638,7 @@
             "shorten_url":"https:\/\/me2.do\/xRcY6Dqf"
         },
         {
-            "index":44,
+            "index":45,
             "sort":"education",
             "name":"동대문더퍼스트데시앙",
             "search_code":119787,
@@ -638,7 +651,7 @@
             "shorten_url":"https:\/\/me2.do\/xRcY6Dqf"
         },
         {
-            "index":45,
+            "index":46,
             "sort":"education",
             "name":"청량리역롯데캐슬SKY-L65(주상복합)",
             "search_code":127331,
@@ -651,7 +664,7 @@
             "shorten_url":"https:\/\/me2.do\/xRcY6Dqf"
         },
         {
-            "index":46,
+            "index":47,
             "sort":"education",
             "name":"e편한세상청계센트럴포레",
             "search_code":125111,
@@ -664,26 +677,13 @@
             "shorten_url":"https:\/\/me2.do\/xRcY6Dqf"
         },
         {
-            "index":47,
-            "sort":"education",
-            "name":"주공1단지",
-            "search_code":3379,
-            "apt_type":"아파트",
-            "apt_year":21,
-            "value_score":55.835,
-            "region":"서울시 동대문구",
-            "region_code":"Seoul",
-            "sub_region_code":"1123000000_Seoul_Dongdaemun",
-            "shorten_url":"https:\/\/me2.do\/xRcY6Dqf"
-        },
-        {
             "index":48,
             "sort":"education",
-            "name":"전농SK",
-            "search_code":3276,
+            "name":"청계한신휴플러스",
+            "search_code":100405,
             "apt_type":"아파트",
-            "apt_year":22,
-            "value_score":55.4455,
+            "apt_year":12,
+            "value_score":56.511,
             "region":"서울시 동대문구",
             "region_code":"Seoul",
             "sub_region_code":"1123000000_Seoul_Dongdaemun",
@@ -692,11 +692,11 @@
         {
             "index":49,
             "sort":"education",
-            "name":"청량리역한양수자인그라시엘(주상복합)",
-            "search_code":125441,
-            "apt_type":"분양권",
-            "apt_year":-1,
-            "value_score":54.911,
+            "name":"주공1단지",
+            "search_code":3379,
+            "apt_type":"아파트",
+            "apt_year":21,
+            "value_score":55.835,
             "region":"서울시 동대문구",
             "region_code":"Seoul",
             "sub_region_code":"1123000000_Seoul_Dongdaemun",

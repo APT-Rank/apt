@@ -159,11 +159,11 @@
         {
             "index":8,
             "sort":"balanced",
-            "name":"주공2단지",
-            "search_code":9836,
+            "name":"평택뉴비전엘크루",
+            "search_code":125255,
             "apt_type":"아파트",
-            "apt_year":33.0,
-            "value_score":43.3180996112,
+            "apt_year":1.0,
+            "value_score":43.6629,
             "region":"경기도 평택시",
             "region_code":"Gyeonggi",
             "sub_region_code":"4122000000_Gyeonggi_Pyeongtaek",
@@ -172,11 +172,11 @@
         {
             "index":9,
             "sort":"balanced",
-            "name":"힐스테이트지제역",
-            "search_code":122057,
+            "name":"주공2단지",
+            "search_code":9836,
             "apt_type":"아파트",
-            "apt_year":2.0,
-            "value_score":43.21445,
+            "apt_year":33.0,
+            "value_score":43.3180996112,
             "region":"경기도 평택시",
             "region_code":"Gyeonggi",
             "sub_region_code":"4122000000_Gyeonggi_Pyeongtaek",
@@ -224,6 +224,19 @@
         {
             "index":13,
             "sort":"living",
+            "name":"평택뉴비전엘크루",
+            "search_code":125255,
+            "apt_type":"아파트",
+            "apt_year":1.0,
+            "value_score":63.7172,
+            "region":"경기도 평택시",
+            "region_code":"Gyeonggi",
+            "sub_region_code":"4122000000_Gyeonggi_Pyeongtaek",
+            "shorten_url":"https:\/\/me2.do\/GB0wya9d"
+        },
+        {
+            "index":14,
+            "sort":"living",
             "name":"e편한세상지제역",
             "search_code":134315,
             "apt_type":"분양권",
@@ -235,7 +248,7 @@
             "shorten_url":"https:\/\/me2.do\/GB0wya9d"
         },
         {
-            "index":14,
+            "index":15,
             "sort":"living",
             "name":"힐스테이트지제역",
             "search_code":122057,
@@ -248,7 +261,7 @@
             "shorten_url":"https:\/\/me2.do\/GB0wya9d"
         },
         {
-            "index":15,
+            "index":16,
             "sort":"living",
             "name":"소사벌리더스하임",
             "search_code":107183,
@@ -261,7 +274,7 @@
             "shorten_url":"https:\/\/me2.do\/GB0wya9d"
         },
         {
-            "index":16,
+            "index":17,
             "sort":"living",
             "name":"평택용이금호어울림1단지",
             "search_code":107653,
@@ -274,26 +287,13 @@
             "shorten_url":"https:\/\/me2.do\/GB0wya9d"
         },
         {
-            "index":17,
+            "index":18,
             "sort":"living",
             "name":"평택지제역자이",
             "search_code":143069,
             "apt_type":"분양권",
             "apt_year":-1.0,
             "value_score":61.0526,
-            "region":"경기도 평택시",
-            "region_code":"Gyeonggi",
-            "sub_region_code":"4122000000_Gyeonggi_Pyeongtaek",
-            "shorten_url":"https:\/\/me2.do\/GB0wya9d"
-        },
-        {
-            "index":18,
-            "sort":"living",
-            "name":"평택뉴비전엘크루",
-            "search_code":125255,
-            "apt_type":"아파트",
-            "apt_year":1.0,
-            "value_score":60.9172,
             "region":"경기도 평택시",
             "region_code":"Gyeonggi",
             "sub_region_code":"4122000000_Gyeonggi_Pyeongtaek",
@@ -536,6 +536,19 @@
         {
             "index":37,
             "sort":"infra",
+            "name":"평택뉴비전엘크루",
+            "search_code":125255,
+            "apt_type":"아파트",
+            "apt_year":1.0,
+            "value_score":53.4715,
+            "region":"경기도 평택시",
+            "region_code":"Gyeonggi",
+            "sub_region_code":"4122000000_Gyeonggi_Pyeongtaek",
+            "shorten_url":"https:\/\/me2.do\/GB0wya9d"
+        },
+        {
+            "index":38,
+            "sort":"infra",
             "name":"동아목련",
             "search_code":2168,
             "apt_type":"아파트",
@@ -547,26 +560,13 @@
             "shorten_url":"https:\/\/me2.do\/GB0wya9d"
         },
         {
-            "index":38,
+            "index":39,
             "sort":"infra",
             "name":"SK비전",
             "search_code":10441,
             "apt_type":"아파트",
             "apt_year":19.0,
             "value_score":53.3215,
-            "region":"경기도 평택시",
-            "region_code":"Gyeonggi",
-            "sub_region_code":"4122000000_Gyeonggi_Pyeongtaek",
-            "shorten_url":"https:\/\/me2.do\/GB0wya9d"
-        },
-        {
-            "index":39,
-            "sort":"infra",
-            "name":"외기노조C지구",
-            "search_code":10380,
-            "apt_type":"아파트",
-            "apt_year":37.0,
-            "value_score":53.1165,
             "region":"경기도 평택시",
             "region_code":"Gyeonggi",
             "sub_region_code":"4122000000_Gyeonggi_Pyeongtaek",
@@ -614,6 +614,19 @@
         {
             "index":43,
             "sort":"education",
+            "name":"평택뉴비전엘크루",
+            "search_code":125255,
+            "apt_type":"아파트",
+            "apt_year":1.0,
+            "value_score":57.743,
+            "region":"경기도 평택시",
+            "region_code":"Gyeonggi",
+            "sub_region_code":"4122000000_Gyeonggi_Pyeongtaek",
+            "shorten_url":"https:\/\/me2.do\/GB0wya9d"
+        },
+        {
+            "index":44,
+            "sort":"education",
             "name":"평택소사벌푸르지오",
             "search_code":119641,
             "apt_type":"아파트",
@@ -625,7 +638,7 @@
             "shorten_url":"https:\/\/me2.do\/GB0wya9d"
         },
         {
-            "index":44,
+            "index":45,
             "sort":"education",
             "name":"평택비전푸르지오",
             "search_code":109365,
@@ -638,7 +651,7 @@
             "shorten_url":"https:\/\/me2.do\/GB0wya9d"
         },
         {
-            "index":45,
+            "index":46,
             "sort":"education",
             "name":"평택비전센트럴푸르지오",
             "search_code":113924,
@@ -651,7 +664,7 @@
             "shorten_url":"https:\/\/me2.do\/GB0wya9d"
         },
         {
-            "index":46,
+            "index":47,
             "sort":"education",
             "name":"우미린센트럴파크",
             "search_code":108437,
@@ -664,7 +677,7 @@
             "shorten_url":"https:\/\/me2.do\/GB0wya9d"
         },
         {
-            "index":47,
+            "index":48,
             "sort":"education",
             "name":"평택윤중수신제가",
             "search_code":19140,
@@ -677,26 +690,13 @@
             "shorten_url":"https:\/\/me2.do\/GB0wya9d"
         },
         {
-            "index":48,
+            "index":49,
             "sort":"education",
             "name":"동아목련",
             "search_code":2168,
             "apt_type":"아파트",
             "apt_year":29.0,
             "value_score":54.043,
-            "region":"경기도 평택시",
-            "region_code":"Gyeonggi",
-            "sub_region_code":"4122000000_Gyeonggi_Pyeongtaek",
-            "shorten_url":"https:\/\/me2.do\/GB0wya9d"
-        },
-        {
-            "index":49,
-            "sort":"education",
-            "name":"한빛",
-            "search_code":2861,
-            "apt_type":"아파트",
-            "apt_year":25.0,
-            "value_score":53.833,
             "region":"경기도 평택시",
             "region_code":"Gyeonggi",
             "sub_region_code":"4122000000_Gyeonggi_Pyeongtaek",

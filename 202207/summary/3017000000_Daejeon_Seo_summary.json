@@ -120,6 +120,19 @@
         {
             "index":5,
             "sort":"balanced",
+            "name":"e편한세상둔산1단지",
+            "search_code":120178,
+            "apt_type":"아파트",
+            "apt_year":2.0,
+            "value_score":63.4912,
+            "region":"대전시 서구",
+            "region_code":"Daejeon",
+            "sub_region_code":"3017000000_Daejeon_Seo",
+            "shorten_url":"https:\/\/me2.do\/5i934GVV"
+        },
+        {
+            "index":6,
+            "sort":"balanced",
             "name":"한가람",
             "search_code":5792,
             "apt_type":"아파트",
@@ -131,7 +144,7 @@
             "shorten_url":"https:\/\/me2.do\/5i934GVV"
         },
         {
-            "index":6,
+            "index":7,
             "sort":"balanced",
             "name":"공작한양",
             "search_code":5780,
@@ -144,7 +157,7 @@
             "shorten_url":"https:\/\/me2.do\/5i934GVV"
         },
         {
-            "index":7,
+            "index":8,
             "sort":"balanced",
             "name":"맑은아침",
             "search_code":9138,
@@ -157,26 +170,13 @@
             "shorten_url":"https:\/\/me2.do\/5i934GVV"
         },
         {
-            "index":8,
+            "index":9,
             "sort":"balanced",
             "name":"무지개",
             "search_code":5866,
             "apt_type":"아파트",
             "apt_year":28.0,
             "value_score":61.6004,
-            "region":"대전시 서구",
-            "region_code":"Daejeon",
-            "sub_region_code":"3017000000_Daejeon_Seo",
-            "shorten_url":"https:\/\/me2.do\/5i934GVV"
-        },
-        {
-            "index":9,
-            "sort":"balanced",
-            "name":"e편한세상둔산2단지",
-            "search_code":120179,
-            "apt_type":"아파트",
-            "apt_year":2.0,
-            "value_score":61.4412,
             "region":"대전시 서구",
             "region_code":"Daejeon",
             "sub_region_code":"3017000000_Daejeon_Seo",
@@ -267,7 +267,7 @@
             "search_code":122931,
             "apt_type":"아파트",
             "apt_year":1.0,
-            "value_score":63.7358,
+            "value_score":63.5358,
             "region":"대전시 서구",
             "region_code":"Daejeon",
             "sub_region_code":"3017000000_Daejeon_Seo",
@@ -302,11 +302,11 @@
         {
             "index":19,
             "sort":"living",
-            "name":"진달래",
-            "search_code":5889,
+            "name":"e편한세상둔산1단지",
+            "search_code":120178,
             "apt_type":"아파트",
-            "apt_year":27.0,
-            "value_score":62.75,
+            "apt_year":2.0,
+            "value_score":63.0664,
             "region":"대전시 서구",
             "region_code":"Daejeon",
             "sub_region_code":"3017000000_Daejeon_Seo",
@@ -380,19 +380,6 @@
         {
             "index":25,
             "sort":"transport",
-            "name":"e편한세상둔산1단지",
-            "search_code":120178,
-            "apt_type":"아파트",
-            "apt_year":2.0,
-            "value_score":72.2248,
-            "region":"대전시 서구",
-            "region_code":"Daejeon",
-            "sub_region_code":"3017000000_Daejeon_Seo",
-            "shorten_url":"https:\/\/me2.do\/5i934GVV"
-        },
-        {
-            "index":26,
-            "sort":"transport",
             "name":"한우리",
             "search_code":5793,
             "apt_type":"아파트",
@@ -404,7 +391,7 @@
             "shorten_url":"https:\/\/me2.do\/5i934GVV"
         },
         {
-            "index":27,
+            "index":26,
             "sort":"transport",
             "name":"진달래",
             "search_code":5889,
@@ -417,7 +404,7 @@
             "shorten_url":"https:\/\/me2.do\/5i934GVV"
         },
         {
-            "index":28,
+            "index":27,
             "sort":"transport",
             "name":"무지개",
             "search_code":5866,
@@ -430,13 +417,26 @@
             "shorten_url":"https:\/\/me2.do\/5i934GVV"
         },
         {
-            "index":29,
+            "index":28,
             "sort":"transport",
             "name":"용문역리체스트",
             "search_code":145920,
             "apt_type":"분양권",
             "apt_year":-1.0,
             "value_score":71.5749,
+            "region":"대전시 서구",
+            "region_code":"Daejeon",
+            "sub_region_code":"3017000000_Daejeon_Seo",
+            "shorten_url":"https:\/\/me2.do\/5i934GVV"
+        },
+        {
+            "index":29,
+            "sort":"transport",
+            "name":"e편한세상둔산2단지",
+            "search_code":120179,
+            "apt_type":"아파트",
+            "apt_year":2.0,
+            "value_score":71.4748,
             "region":"대전시 서구",
             "region_code":"Daejeon",
             "sub_region_code":"3017000000_Daejeon_Seo",
@@ -523,6 +523,19 @@
         {
             "index":36,
             "sort":"infra",
+            "name":"e편한세상둔산1단지",
+            "search_code":120178,
+            "apt_type":"아파트",
+            "apt_year":2.0,
+            "value_score":69.058,
+            "region":"대전시 서구",
+            "region_code":"Daejeon",
+            "sub_region_code":"3017000000_Daejeon_Seo",
+            "shorten_url":"https:\/\/me2.do\/5i934GVV"
+        },
+        {
+            "index":37,
+            "sort":"infra",
             "name":"무지개",
             "search_code":5866,
             "apt_type":"아파트",
@@ -534,26 +547,13 @@
             "shorten_url":"https:\/\/me2.do\/5i934GVV"
         },
         {
-            "index":37,
+            "index":38,
             "sort":"infra",
             "name":"공작한양",
             "search_code":5780,
             "apt_type":"아파트",
             "apt_year":30.0,
             "value_score":68.458,
-            "region":"대전시 서구",
-            "region_code":"Daejeon",
-            "sub_region_code":"3017000000_Daejeon_Seo",
-            "shorten_url":"https:\/\/me2.do\/5i934GVV"
-        },
-        {
-            "index":38,
-            "sort":"infra",
-            "name":"e편한세상둔산1단지",
-            "search_code":120178,
-            "apt_type":"아파트",
-            "apt_year":2.0,
-            "value_score":68.308,
             "region":"대전시 서구",
             "region_code":"Daejeon",
             "sub_region_code":"3017000000_Daejeon_Seo",
@@ -666,6 +666,19 @@
         {
             "index":47,
             "sort":"education",
+            "name":"e편한세상둔산1단지",
+            "search_code":120178,
+            "apt_type":"아파트",
+            "apt_year":2.0,
+            "value_score":63.916,
+            "region":"대전시 서구",
+            "region_code":"Daejeon",
+            "sub_region_code":"3017000000_Daejeon_Seo",
+            "shorten_url":"https:\/\/me2.do\/5i934GVV"
+        },
+        {
+            "index":48,
+            "sort":"education",
             "name":"공작한양",
             "search_code":5780,
             "apt_type":"아파트",
@@ -677,26 +690,13 @@
             "shorten_url":"https:\/\/me2.do\/5i934GVV"
         },
         {
-            "index":48,
+            "index":49,
             "sort":"education",
             "name":"한우리",
             "search_code":5793,
             "apt_type":"아파트",
             "apt_year":28.0,
             "value_score":62.096,
-            "region":"대전시 서구",
-            "region_code":"Daejeon",
-            "sub_region_code":"3017000000_Daejeon_Seo",
-            "shorten_url":"https:\/\/me2.do\/5i934GVV"
-        },
-        {
-            "index":49,
-            "sort":"education",
-            "name":"갤러리빌럭스(주상복합)",
-            "search_code":23074,
-            "apt_type":"아파트",
-            "apt_year":17.0,
-            "value_score":61.752,
             "region":"대전시 서구",
             "region_code":"Daejeon",
             "sub_region_code":"3017000000_Daejeon_Seo",

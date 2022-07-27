@@ -250,19 +250,6 @@
         {
             "index":15,
             "sort":"living",
-            "name":"은계파크자이",
-            "search_code":122403,
-            "apt_type":"아파트",
-            "apt_year":2.0,
-            "value_score":63.771,
-            "region":"경기도 시흥시",
-            "region_code":"Gyeonggi",
-            "sub_region_code":"4139000000_Gyeonggi_Siheung",
-            "shorten_url":"https:\/\/me2.do\/xWpy13Nj"
-        },
-        {
-            "index":16,
-            "sort":"living",
             "name":"시흥배곧SK뷰",
             "search_code":106123,
             "apt_type":"아파트",
@@ -274,7 +261,7 @@
             "shorten_url":"https:\/\/me2.do\/xWpy13Nj"
         },
         {
-            "index":17,
+            "index":16,
             "sort":"living",
             "name":"시흥배곧신도시호반베르디움센트럴파크",
             "search_code":106126,
@@ -287,7 +274,7 @@
             "shorten_url":"https:\/\/me2.do\/xWpy13Nj"
         },
         {
-            "index":18,
+            "index":17,
             "sort":"living",
             "name":"시흥은계우미린더퍼스트",
             "search_code":115158,
@@ -300,13 +287,26 @@
             "shorten_url":"https:\/\/me2.do\/xWpy13Nj"
         },
         {
-            "index":19,
+            "index":18,
             "sort":"living",
             "name":"은계브리즈힐",
             "search_code":115535,
             "apt_type":"아파트",
             "apt_year":3.0,
             "value_score":61.9866,
+            "region":"경기도 시흥시",
+            "region_code":"Gyeonggi",
+            "sub_region_code":"4139000000_Gyeonggi_Siheung",
+            "shorten_url":"https:\/\/me2.do\/xWpy13Nj"
+        },
+        {
+            "index":19,
+            "sort":"living",
+            "name":"시흥은계호반써밋플레이스(주상복합)",
+            "search_code":113268,
+            "apt_type":"아파트",
+            "apt_year":3.0,
+            "value_score":61.821,
             "region":"경기도 시흥시",
             "region_code":"Gyeonggi",
             "sub_region_code":"4139000000_Gyeonggi_Siheung",

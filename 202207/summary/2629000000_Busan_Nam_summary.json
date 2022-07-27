@@ -471,6 +471,19 @@
         {
             "index":32,
             "sort":"infra",
+            "name":"문현경동리인2단지",
+            "search_code":114817,
+            "apt_type":"아파트",
+            "apt_year":2.0,
+            "value_score":66.60225,
+            "region":"부산시 남구",
+            "region_code":"Busan",
+            "sub_region_code":"2629000000_Busan_Nam",
+            "shorten_url":"https:\/\/me2.do\/xJtELy5C"
+        },
+        {
+            "index":33,
+            "sort":"infra",
             "name":"국제금융시티문현베스티움",
             "search_code":112774,
             "apt_type":"아파트",
@@ -482,7 +495,7 @@
             "shorten_url":"https:\/\/me2.do\/xJtELy5C"
         },
         {
-            "index":33,
+            "index":34,
             "sort":"infra",
             "name":"국제금융센터퀸즈W(주상복합)",
             "search_code":136665,
@@ -495,7 +508,7 @@
             "shorten_url":"https:\/\/me2.do\/xJtELy5C"
         },
         {
-            "index":34,
+            "index":35,
             "sort":"infra",
             "name":"문현삼성",
             "search_code":4577,
@@ -508,7 +521,7 @@
             "shorten_url":"https:\/\/me2.do\/xJtELy5C"
         },
         {
-            "index":35,
+            "index":36,
             "sort":"infra",
             "name":"문현삼성힐타워(주상복합)",
             "search_code":9996,
@@ -521,7 +534,7 @@
             "shorten_url":"https:\/\/me2.do\/xJtELy5C"
         },
         {
-            "index":36,
+            "index":37,
             "sort":"infra",
             "name":"대연동원로얄듀크2차",
             "search_code":10107,
@@ -534,7 +547,7 @@
             "shorten_url":"https:\/\/me2.do\/xJtELy5C"
         },
         {
-            "index":37,
+            "index":38,
             "sort":"infra",
             "name":"대연롯데캐슬레전드",
             "search_code":109359,
@@ -547,26 +560,13 @@
             "shorten_url":"https:\/\/me2.do\/xJtELy5C"
         },
         {
-            "index":38,
+            "index":39,
             "sort":"infra",
             "name":"대연푸르지오클라센트",
             "search_code":133976,
             "apt_type":"분양권",
             "apt_year":-1.0,
             "value_score":63.7885,
-            "region":"부산시 남구",
-            "region_code":"Busan",
-            "sub_region_code":"2629000000_Busan_Nam",
-            "shorten_url":"https:\/\/me2.do\/xJtELy5C"
-        },
-        {
-            "index":39,
-            "sort":"infra",
-            "name":"문현경동리인2단지",
-            "search_code":114817,
-            "apt_type":"아파트",
-            "apt_year":2.0,
-            "value_score":63.10225,
             "region":"부산시 남구",
             "region_code":"Busan",
             "sub_region_code":"2629000000_Busan_Nam",
@@ -614,6 +614,19 @@
         {
             "index":43,
             "sort":"education",
+            "name":"문현경동리인2단지",
+            "search_code":114817,
+            "apt_type":"아파트",
+            "apt_year":2.0,
+            "value_score":61.4045,
+            "region":"부산시 남구",
+            "region_code":"Busan",
+            "sub_region_code":"2629000000_Busan_Nam",
+            "shorten_url":"https:\/\/me2.do\/xJtELy5C"
+        },
+        {
+            "index":44,
+            "sort":"education",
             "name":"문현태영데시앙",
             "search_code":15166,
             "apt_type":"아파트",
@@ -625,7 +638,7 @@
             "shorten_url":"https:\/\/me2.do\/xJtELy5C"
         },
         {
-            "index":44,
+            "index":45,
             "sort":"education",
             "name":"대연롯데캐슬레전드",
             "search_code":109359,
@@ -638,7 +651,7 @@
             "shorten_url":"https:\/\/me2.do\/xJtELy5C"
         },
         {
-            "index":45,
+            "index":46,
             "sort":"education",
             "name":"힐스테이트대연센트럴",
             "search_code":145347,
@@ -651,7 +664,7 @@
             "shorten_url":"https:\/\/me2.do\/xJtELy5C"
         },
         {
-            "index":46,
+            "index":47,
             "sort":"education",
             "name":"대연푸르지오클라센트",
             "search_code":133976,
@@ -664,7 +677,7 @@
             "shorten_url":"https:\/\/me2.do\/xJtELy5C"
         },
         {
-            "index":47,
+            "index":48,
             "sort":"education",
             "name":"국제금융시티문현베스티움",
             "search_code":112774,
@@ -677,26 +690,13 @@
             "shorten_url":"https:\/\/me2.do\/xJtELy5C"
         },
         {
-            "index":48,
+            "index":49,
             "sort":"education",
             "name":"LG메트로시티4-1차",
             "search_code":9709,
             "apt_type":"아파트",
             "apt_year":19.0,
             "value_score":60.584,
-            "region":"부산시 남구",
-            "region_code":"Busan",
-            "sub_region_code":"2629000000_Busan_Nam",
-            "shorten_url":"https:\/\/me2.do\/xJtELy5C"
-        },
-        {
-            "index":49,
-            "sort":"education",
-            "name":"문현경동리인2단지",
-            "search_code":114817,
-            "apt_type":"아파트",
-            "apt_year":2.0,
-            "value_score":60.0045,
             "region":"부산시 남구",
             "region_code":"Busan",
             "sub_region_code":"2629000000_Busan_Nam",

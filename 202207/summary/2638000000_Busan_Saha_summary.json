@@ -59,7 +59,7 @@
             "search_code":121533,
             "apt_type":"아파트",
             "apt_year":1.0,
-            "value_score":64.3318,
+            "value_score":63.6518,
             "region":"부산시 사하구",
             "region_code":"Busan",
             "sub_region_code":"2638000000_Busan_Saha",
@@ -133,19 +133,6 @@
         {
             "index":6,
             "sort":"balanced",
-            "name":"부산다대푸르지오",
-            "search_code":6469,
-            "apt_type":"아파트",
-            "apt_year":10.0,
-            "value_score":55.3135,
-            "region":"부산시 사하구",
-            "region_code":"Busan",
-            "sub_region_code":"2638000000_Busan_Saha",
-            "shorten_url":"https:\/\/me2.do\/GUQ2L2m1"
-        },
-        {
-            "index":7,
-            "sort":"balanced",
             "name":"두산위브더제니스센트럴사하",
             "search_code":138062,
             "apt_type":"분양권",
@@ -157,7 +144,7 @@
             "shorten_url":"https:\/\/me2.do\/GUQ2L2m1"
         },
         {
-            "index":8,
+            "index":7,
             "sort":"balanced",
             "name":"일동지에닌(주상복합)",
             "search_code":17410,
@@ -170,13 +157,26 @@
             "shorten_url":"https:\/\/me2.do\/GUQ2L2m1"
         },
         {
+            "index":8,
+            "sort":"balanced",
+            "name":"경성리치W(주상복합)",
+            "search_code":24834,
+            "apt_type":"아파트",
+            "apt_year":17.0,
+            "value_score":53.0555,
+            "region":"부산시 사하구",
+            "region_code":"Busan",
+            "sub_region_code":"2638000000_Busan_Saha",
+            "shorten_url":"https:\/\/me2.do\/GUQ2L2m1"
+        },
+        {
             "index":9,
             "sort":"balanced",
-            "name":"다대롯데캐슬블루",
-            "search_code":103687,
+            "name":"부영벽산블루밍",
+            "search_code":102929,
             "apt_type":"아파트",
-            "apt_year":8.0,
-            "value_score":55.0028,
+            "apt_year":11.0,
+            "value_score":52.9055,
             "region":"부산시 사하구",
             "region_code":"Busan",
             "sub_region_code":"2638000000_Busan_Saha",
@@ -215,7 +215,7 @@
             "search_code":121533,
             "apt_type":"아파트",
             "apt_year":1.0,
-            "value_score":61.9212,
+            "value_score":62.0012,
             "region":"부산시 사하구",
             "region_code":"Busan",
             "sub_region_code":"2638000000_Busan_Saha",
@@ -223,19 +223,6 @@
         },
         {
             "index":13,
-            "sort":"living",
-            "name":"다대롯데캐슬블루",
-            "search_code":103687,
-            "apt_type":"아파트",
-            "apt_year":8.0,
-            "value_score":60.1852,
-            "region":"부산시 사하구",
-            "region_code":"Busan",
-            "sub_region_code":"2638000000_Busan_Saha",
-            "shorten_url":"https:\/\/me2.do\/GUQ2L2m1"
-        },
-        {
-            "index":14,
             "sort":"living",
             "name":"당리푸르지오",
             "search_code":102370,
@@ -248,20 +235,7 @@
             "shorten_url":"https:\/\/me2.do\/GUQ2L2m1"
         },
         {
-            "index":15,
-            "sort":"living",
-            "name":"부산다대푸르지오",
-            "search_code":6469,
-            "apt_type":"아파트",
-            "apt_year":10.0,
-            "value_score":58.659,
-            "region":"부산시 사하구",
-            "region_code":"Busan",
-            "sub_region_code":"2638000000_Busan_Saha",
-            "shorten_url":"https:\/\/me2.do\/GUQ2L2m1"
-        },
-        {
-            "index":16,
+            "index":14,
             "sort":"living",
             "name":"괴정한신더휴",
             "search_code":125987,
@@ -274,7 +248,7 @@
             "shorten_url":"https:\/\/me2.do\/GUQ2L2m1"
         },
         {
-            "index":17,
+            "index":15,
             "sort":"living",
             "name":"e편한세상사하2차",
             "search_code":110831,
@@ -287,7 +261,7 @@
             "shorten_url":"https:\/\/me2.do\/GUQ2L2m1"
         },
         {
-            "index":18,
+            "index":16,
             "sort":"living",
             "name":"사하뷰웰",
             "search_code":108829,
@@ -300,7 +274,7 @@
             "shorten_url":"https:\/\/me2.do\/GUQ2L2m1"
         },
         {
-            "index":19,
+            "index":17,
             "sort":"living",
             "name":"e편한세상사하",
             "search_code":109098,
@@ -313,13 +287,39 @@
             "shorten_url":"https:\/\/me2.do\/GUQ2L2m1"
         },
         {
+            "index":18,
+            "sort":"living",
+            "name":"사하코오롱하늘채",
+            "search_code":128381,
+            "apt_type":"아파트",
+            "apt_year":0.0,
+            "value_score":57.3188,
+            "region":"부산시 사하구",
+            "region_code":"Busan",
+            "sub_region_code":"2638000000_Busan_Saha",
+            "shorten_url":"https:\/\/me2.do\/GUQ2L2m1"
+        },
+        {
+            "index":19,
+            "sort":"living",
+            "name":"협진태양",
+            "search_code":6401,
+            "apt_type":"재건축",
+            "apt_year":41.0,
+            "value_score":53.7104,
+            "region":"부산시 사하구",
+            "region_code":"Busan",
+            "sub_region_code":"2638000000_Busan_Saha",
+            "shorten_url":"https:\/\/me2.do\/GUQ2L2m1"
+        },
+        {
             "index":20,
             "sort":"transport",
             "name":"사하역비스타동원",
             "search_code":121533,
             "apt_type":"아파트",
             "apt_year":1.0,
-            "value_score":76.4659,
+            "value_score":72.4259,
             "region":"부산시 사하구",
             "region_code":"Busan",
             "sub_region_code":"2638000000_Busan_Saha",
@@ -449,7 +449,7 @@
             "search_code":121533,
             "apt_type":"아파트",
             "apt_year":1.0,
-            "value_score":56.5265,
+            "value_score":57.1265,
             "region":"부산시 사하구",
             "region_code":"Busan",
             "sub_region_code":"2638000000_Busan_Saha",
@@ -579,7 +579,7 @@
             "search_code":121533,
             "apt_type":"아파트",
             "apt_year":1.0,
-            "value_score":58.653,
+            "value_score":59.453,
             "region":"부산시 사하구",
             "region_code":"Busan",
             "sub_region_code":"2638000000_Busan_Saha",
@@ -640,19 +640,6 @@
         {
             "index":45,
             "sort":"education",
-            "name":"부산다대푸르지오",
-            "search_code":6469,
-            "apt_type":"아파트",
-            "apt_year":10.0,
-            "value_score":53.8725,
-            "region":"부산시 사하구",
-            "region_code":"Busan",
-            "sub_region_code":"2638000000_Busan_Saha",
-            "shorten_url":"https:\/\/me2.do\/GUQ2L2m1"
-        },
-        {
-            "index":46,
-            "sort":"education",
             "name":"한신혜성",
             "search_code":7137,
             "apt_type":"아파트",
@@ -664,7 +651,7 @@
             "shorten_url":"https:\/\/me2.do\/GUQ2L2m1"
         },
         {
-            "index":47,
+            "index":46,
             "sort":"education",
             "name":"힐스테이트사하역",
             "search_code":127656,
@@ -677,7 +664,7 @@
             "shorten_url":"https:\/\/me2.do\/GUQ2L2m1"
         },
         {
-            "index":48,
+            "index":47,
             "sort":"education",
             "name":"일동지에닌(주상복합)",
             "search_code":17410,
@@ -690,13 +677,26 @@
             "shorten_url":"https:\/\/me2.do\/GUQ2L2m1"
         },
         {
+            "index":48,
+            "sort":"education",
+            "name":"괴정한신더휴",
+            "search_code":125987,
+            "apt_type":"아파트",
+            "apt_year":1.0,
+            "value_score":51.6425,
+            "region":"부산시 사하구",
+            "region_code":"Busan",
+            "sub_region_code":"2638000000_Busan_Saha",
+            "shorten_url":"https:\/\/me2.do\/GUQ2L2m1"
+        },
+        {
             "index":49,
             "sort":"education",
-            "name":"삼환",
-            "search_code":6448,
+            "name":"괴정스타클래스",
+            "search_code":25252,
             "apt_type":"아파트",
-            "apt_year":26.0,
-            "value_score":51.9525,
+            "apt_year":15.0,
+            "value_score":51.5425,
             "region":"부산시 사하구",
             "region_code":"Busan",
             "sub_region_code":"2638000000_Busan_Saha",

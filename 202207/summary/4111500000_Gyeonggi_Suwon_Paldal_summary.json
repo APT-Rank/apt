@@ -59,7 +59,7 @@
             "search_code":128305,
             "apt_type":"분양권",
             "apt_year":0,
-            "value_score":69.41715,
+            "value_score":67.61715,
             "region":"경기도 수원시 팔달구",
             "region_code":"Gyeonggi",
             "sub_region_code":"4111500000_Gyeonggi_Suwon_Paldal",
@@ -94,6 +94,19 @@
         {
             "index":3,
             "sort":"balanced",
+            "name":"수원인계동문굿모닝힐",
+            "search_code":120222,
+            "apt_type":"아파트",
+            "apt_year":2,
+            "value_score":65.5466,
+            "region":"경기도 수원시 팔달구",
+            "region_code":"Gyeonggi",
+            "sub_region_code":"4111500000_Gyeonggi_Suwon_Paldal",
+            "shorten_url":"https:\/\/me2.do\/GJvJXSYR"
+        },
+        {
+            "index":4,
+            "sort":"balanced",
             "name":"벽산그랜드코아(주상복합)",
             "search_code":11519,
             "apt_type":"아파트",
@@ -105,7 +118,7 @@
             "shorten_url":"https:\/\/me2.do\/GJvJXSYR"
         },
         {
-            "index":4,
+            "index":5,
             "sort":"balanced",
             "name":"래미안노블클래스1단지",
             "search_code":25771,
@@ -118,7 +131,7 @@
             "shorten_url":"https:\/\/me2.do\/GJvJXSYR"
         },
         {
-            "index":5,
+            "index":6,
             "sort":"balanced",
             "name":"화서주공3단지",
             "search_code":2727,
@@ -131,7 +144,7 @@
             "shorten_url":"https:\/\/me2.do\/GJvJXSYR"
         },
         {
-            "index":6,
+            "index":7,
             "sort":"balanced",
             "name":"대한대우",
             "search_code":10390,
@@ -144,7 +157,7 @@
             "shorten_url":"https:\/\/me2.do\/GJvJXSYR"
         },
         {
-            "index":7,
+            "index":8,
             "sort":"balanced",
             "name":"꽃뫼버들마을신동아",
             "search_code":2725,
@@ -157,26 +170,13 @@
             "shorten_url":"https:\/\/me2.do\/GJvJXSYR"
         },
         {
-            "index":8,
+            "index":9,
             "sort":"balanced",
             "name":"화서주공5단지",
             "search_code":10398,
             "apt_type":"아파트",
             "apt_year":25,
             "value_score":62.6009,
-            "region":"경기도 수원시 팔달구",
-            "region_code":"Gyeonggi",
-            "sub_region_code":"4111500000_Gyeonggi_Suwon_Paldal",
-            "shorten_url":"https:\/\/me2.do\/GJvJXSYR"
-        },
-        {
-            "index":9,
-            "sort":"balanced",
-            "name":"래미안노블클래스2단지",
-            "search_code":25718,
-            "apt_type":"아파트",
-            "apt_year":13,
-            "value_score":62.39765,
             "region":"경기도 수원시 팔달구",
             "region_code":"Gyeonggi",
             "sub_region_code":"4111500000_Gyeonggi_Suwon_Paldal",
@@ -211,19 +211,6 @@
         {
             "index":12,
             "sort":"living",
-            "name":"힐스테이트푸르지오수원",
-            "search_code":128305,
-            "apt_type":"분양권",
-            "apt_year":0,
-            "value_score":71.6062,
-            "region":"경기도 수원시 팔달구",
-            "region_code":"Gyeonggi",
-            "sub_region_code":"4111500000_Gyeonggi_Suwon_Paldal",
-            "shorten_url":"https:\/\/me2.do\/GJvJXSYR"
-        },
-        {
-            "index":13,
-            "sort":"living",
             "name":"래미안노블클래스1단지",
             "search_code":25771,
             "apt_type":"아파트",
@@ -235,7 +222,7 @@
             "shorten_url":"https:\/\/me2.do\/GJvJXSYR"
         },
         {
-            "index":14,
+            "index":13,
             "sort":"living",
             "name":"수원센트럴아이파크자이",
             "search_code":133091,
@@ -248,13 +235,26 @@
             "shorten_url":"https:\/\/me2.do\/GJvJXSYR"
         },
         {
-            "index":15,
+            "index":14,
             "sort":"living",
             "name":"블루밍푸른숲",
             "search_code":24615,
             "apt_type":"아파트",
             "apt_year":13,
             "value_score":67.2024,
+            "region":"경기도 수원시 팔달구",
+            "region_code":"Gyeonggi",
+            "sub_region_code":"4111500000_Gyeonggi_Suwon_Paldal",
+            "shorten_url":"https:\/\/me2.do\/GJvJXSYR"
+        },
+        {
+            "index":15,
+            "sort":"living",
+            "name":"힐스테이트푸르지오수원",
+            "search_code":128305,
+            "apt_type":"분양권",
+            "apt_year":0,
+            "value_score":67.1062,
             "region":"경기도 수원시 팔달구",
             "region_code":"Gyeonggi",
             "sub_region_code":"4111500000_Gyeonggi_Suwon_Paldal",
@@ -332,7 +332,7 @@
             "search_code":128305,
             "apt_type":"분양권",
             "apt_year":0,
-            "value_score":68.19215,
+            "value_score":66.84215,
             "region":"경기도 수원시 팔달구",
             "region_code":"Gyeonggi",
             "sub_region_code":"4111500000_Gyeonggi_Suwon_Paldal",
@@ -354,6 +354,19 @@
         {
             "index":23,
             "sort":"transport",
+            "name":"수원인계동문굿모닝힐",
+            "search_code":120222,
+            "apt_type":"아파트",
+            "apt_year":2,
+            "value_score":66.5216,
+            "region":"경기도 수원시 팔달구",
+            "region_code":"Gyeonggi",
+            "sub_region_code":"4111500000_Gyeonggi_Suwon_Paldal",
+            "shorten_url":"https:\/\/me2.do\/GJvJXSYR"
+        },
+        {
+            "index":24,
+            "sort":"transport",
             "name":"화서주공4단지",
             "search_code":2728,
             "apt_type":"아파트",
@@ -365,7 +378,7 @@
             "shorten_url":"https:\/\/me2.do\/GJvJXSYR"
         },
         {
-            "index":24,
+            "index":25,
             "sort":"transport",
             "name":"화서주공5단지",
             "search_code":10398,
@@ -378,7 +391,7 @@
             "shorten_url":"https:\/\/me2.do\/GJvJXSYR"
         },
         {
-            "index":25,
+            "index":26,
             "sort":"transport",
             "name":"화서주공3단지",
             "search_code":2727,
@@ -391,7 +404,7 @@
             "shorten_url":"https:\/\/me2.do\/GJvJXSYR"
         },
         {
-            "index":26,
+            "index":27,
             "sort":"transport",
             "name":"대한대우",
             "search_code":10390,
@@ -404,7 +417,7 @@
             "shorten_url":"https:\/\/me2.do\/GJvJXSYR"
         },
         {
-            "index":27,
+            "index":28,
             "sort":"transport",
             "name":"선경",
             "search_code":1816,
@@ -417,7 +430,7 @@
             "shorten_url":"https:\/\/me2.do\/GJvJXSYR"
         },
         {
-            "index":28,
+            "index":29,
             "sort":"transport",
             "name":"선경리빙프라자(주상복합)",
             "search_code":10593,
@@ -430,26 +443,13 @@
             "shorten_url":"https:\/\/me2.do\/GJvJXSYR"
         },
         {
-            "index":29,
-            "sort":"transport",
-            "name":"한화꿈에그린파크(주상복합)",
-            "search_code":27677,
-            "apt_type":"아파트",
-            "apt_year":12,
-            "value_score":63.38765,
-            "region":"경기도 수원시 팔달구",
-            "region_code":"Gyeonggi",
-            "sub_region_code":"4111500000_Gyeonggi_Suwon_Paldal",
-            "shorten_url":"https:\/\/me2.do\/GJvJXSYR"
-        },
-        {
             "index":30,
             "sort":"infra",
-            "name":"수원인계동문굿모닝힐",
-            "search_code":120222,
+            "name":"래미안노블클래스2단지",
+            "search_code":25718,
             "apt_type":"아파트",
-            "apt_year":2,
-            "value_score":67.711,
+            "apt_year":13,
+            "value_score":66.96275,
             "region":"경기도 수원시 팔달구",
             "region_code":"Gyeonggi",
             "sub_region_code":"4111500000_Gyeonggi_Suwon_Paldal",
@@ -458,11 +458,11 @@
         {
             "index":31,
             "sort":"infra",
-            "name":"래미안노블클래스2단지",
-            "search_code":25718,
+            "name":"수원인계동문굿모닝힐",
+            "search_code":120222,
             "apt_type":"아파트",
-            "apt_year":13,
-            "value_score":66.96275,
+            "apt_year":2,
+            "value_score":66.961,
             "region":"경기도 수원시 팔달구",
             "region_code":"Gyeonggi",
             "sub_region_code":"4111500000_Gyeonggi_Suwon_Paldal",
@@ -536,19 +536,6 @@
         {
             "index":37,
             "sort":"infra",
-            "name":"힐스테이트푸르지오수원",
-            "search_code":128305,
-            "apt_type":"분양권",
-            "apt_year":0,
-            "value_score":65.64525,
-            "region":"경기도 수원시 팔달구",
-            "region_code":"Gyeonggi",
-            "sub_region_code":"4111500000_Gyeonggi_Suwon_Paldal",
-            "shorten_url":"https:\/\/me2.do\/GJvJXSYR"
-        },
-        {
-            "index":38,
-            "sort":"infra",
             "name":"꽃뫼양지마을현대",
             "search_code":3644,
             "apt_type":"아파트",
@@ -560,13 +547,26 @@
             "shorten_url":"https:\/\/me2.do\/GJvJXSYR"
         },
         {
-            "index":39,
+            "index":38,
             "sort":"infra",
             "name":"화서주공3단지",
             "search_code":2727,
             "apt_type":"아파트",
             "apt_year":25,
             "value_score":65.4015,
+            "region":"경기도 수원시 팔달구",
+            "region_code":"Gyeonggi",
+            "sub_region_code":"4111500000_Gyeonggi_Suwon_Paldal",
+            "shorten_url":"https:\/\/me2.do\/GJvJXSYR"
+        },
+        {
+            "index":39,
+            "sort":"infra",
+            "name":"꽃뫼버들마을신동아",
+            "search_code":2725,
+            "apt_type":"아파트",
+            "apt_year":23,
+            "value_score":65.20675,
             "region":"경기도 수원시 팔달구",
             "region_code":"Gyeonggi",
             "sub_region_code":"4111500000_Gyeonggi_Suwon_Paldal",
@@ -601,19 +601,6 @@
         {
             "index":42,
             "sort":"education",
-            "name":"수원인계동문굿모닝힐",
-            "search_code":120222,
-            "apt_type":"아파트",
-            "apt_year":2,
-            "value_score":62.022,
-            "region":"경기도 수원시 팔달구",
-            "region_code":"Gyeonggi",
-            "sub_region_code":"4111500000_Gyeonggi_Suwon_Paldal",
-            "shorten_url":"https:\/\/me2.do\/GJvJXSYR"
-        },
-        {
-            "index":43,
-            "sort":"education",
             "name":"꽃뫼버들마을코오롱",
             "search_code":3643,
             "apt_type":"아파트",
@@ -625,13 +612,26 @@
             "shorten_url":"https:\/\/me2.do\/GJvJXSYR"
         },
         {
-            "index":44,
+            "index":43,
             "sort":"education",
             "name":"월드메르디앙",
             "search_code":8177,
             "apt_type":"아파트",
             "apt_year":18,
             "value_score":60.5445,
+            "region":"경기도 수원시 팔달구",
+            "region_code":"Gyeonggi",
+            "sub_region_code":"4111500000_Gyeonggi_Suwon_Paldal",
+            "shorten_url":"https:\/\/me2.do\/GJvJXSYR"
+        },
+        {
+            "index":44,
+            "sort":"education",
+            "name":"수원인계동문굿모닝힐",
+            "search_code":120222,
+            "apt_type":"아파트",
+            "apt_year":2,
+            "value_score":59.922,
             "region":"경기도 수원시 팔달구",
             "region_code":"Gyeonggi",
             "sub_region_code":"4111500000_Gyeonggi_Suwon_Paldal",

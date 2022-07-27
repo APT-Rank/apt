@@ -536,8 +536,8 @@
         {
             "index":37,
             "sort":"infra",
-            "name":"침산쌍용",
-            "search_code":5769,
+            "name":"대한동아침산무지개1차",
+            "search_code":5762,
             "apt_type":"아파트",
             "apt_year":23.0,
             "value_score":63.72875,
@@ -549,8 +549,8 @@
         {
             "index":38,
             "sort":"infra",
-            "name":"대한동아침산무지개1차",
-            "search_code":5762,
+            "name":"침산쌍용",
+            "search_code":5769,
             "apt_type":"아파트",
             "apt_year":23.0,
             "value_score":63.72875,
@@ -679,8 +679,8 @@
         {
             "index":48,
             "sort":"education",
-            "name":"침산쌍용",
-            "search_code":5769,
+            "name":"대한동아침산무지개1차",
+            "search_code":5762,
             "apt_type":"아파트",
             "apt_year":23.0,
             "value_score":60.0575,
@@ -692,8 +692,8 @@
         {
             "index":49,
             "sort":"education",
-            "name":"대한동아침산무지개1차",
-            "search_code":5762,
+            "name":"침산쌍용",
+            "search_code":5769,
             "apt_type":"아파트",
             "apt_year":23.0,
             "value_score":60.0575,

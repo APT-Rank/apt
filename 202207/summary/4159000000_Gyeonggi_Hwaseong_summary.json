@@ -59,7 +59,7 @@
             "search_code":119652,
             "apt_type":"아파트",
             "apt_year":1,
-            "value_score":74.3463,
+            "value_score":73.4463,
             "region":"경기도 화성시",
             "region_code":"Gyeonggi",
             "sub_region_code":"4159000000_Gyeonggi_Hwaseong",
@@ -189,7 +189,7 @@
             "search_code":119652,
             "apt_type":"아파트",
             "apt_year":1,
-            "value_score":79.3784,
+            "value_score":78.1784,
             "region":"경기도 화성시",
             "region_code":"Gyeonggi",
             "sub_region_code":"4159000000_Gyeonggi_Hwaseong",
@@ -319,7 +319,7 @@
             "search_code":119652,
             "apt_type":"아파트",
             "apt_year":1,
-            "value_score":74.7213,
+            "value_score":73.8213,
             "region":"경기도 화성시",
             "region_code":"Gyeonggi",
             "sub_region_code":"4159000000_Gyeonggi_Hwaseong",
@@ -458,19 +458,6 @@
         {
             "index":31,
             "sort":"infra",
-            "name":"동탄역롯데캐슬(주상복합)",
-            "search_code":119652,
-            "apt_type":"아파트",
-            "apt_year":1,
-            "value_score":69.8605,
-            "region":"경기도 화성시",
-            "region_code":"Gyeonggi",
-            "sub_region_code":"4159000000_Gyeonggi_Hwaseong",
-            "shorten_url":"https:\/\/me2.do\/IGm8uaed"
-        },
-        {
-            "index":32,
-            "sort":"infra",
             "name":"동탄솔빛마을쌍용예가",
             "search_code":19672,
             "apt_type":"아파트",
@@ -482,7 +469,7 @@
             "shorten_url":"https:\/\/me2.do\/IGm8uaed"
         },
         {
-            "index":33,
+            "index":32,
             "sort":"infra",
             "name":"동탄시범한빛마을동탄아이파크",
             "search_code":19204,
@@ -495,7 +482,7 @@
             "shorten_url":"https:\/\/me2.do\/IGm8uaed"
         },
         {
-            "index":34,
+            "index":33,
             "sort":"infra",
             "name":"동탄솔빛마을서해그랑블",
             "search_code":23762,
@@ -508,7 +495,7 @@
             "shorten_url":"https:\/\/me2.do\/IGm8uaed"
         },
         {
-            "index":35,
+            "index":34,
             "sort":"infra",
             "name":"동탄파라곤(주상복합)",
             "search_code":26009,
@@ -521,7 +508,7 @@
             "shorten_url":"https:\/\/me2.do\/IGm8uaed"
         },
         {
-            "index":36,
+            "index":35,
             "sort":"infra",
             "name":"동탄솔빛마을신도브래뉴",
             "search_code":22090,
@@ -534,7 +521,7 @@
             "shorten_url":"https:\/\/me2.do\/IGm8uaed"
         },
         {
-            "index":37,
+            "index":36,
             "sort":"infra",
             "name":"동탄플래티넘(주상복합)",
             "search_code":26131,
@@ -547,7 +534,7 @@
             "shorten_url":"https:\/\/me2.do\/IGm8uaed"
         },
         {
-            "index":38,
+            "index":37,
             "sort":"infra",
             "name":"동탄위버폴리스(주상복합)",
             "search_code":26092,
@@ -560,7 +547,7 @@
             "shorten_url":"https:\/\/me2.do\/IGm8uaed"
         },
         {
-            "index":39,
+            "index":38,
             "sort":"infra",
             "name":"동탄하이페리온(주상복합)",
             "search_code":26866,
@@ -573,20 +560,20 @@
             "shorten_url":"https:\/\/me2.do\/IGm8uaed"
         },
         {
-            "index":40,
-            "sort":"education",
+            "index":39,
+            "sort":"infra",
             "name":"동탄역롯데캐슬(주상복합)",
             "search_code":119652,
             "apt_type":"아파트",
             "apt_year":1,
-            "value_score":72.521,
+            "value_score":68.3605,
             "region":"경기도 화성시",
             "region_code":"Gyeonggi",
             "sub_region_code":"4159000000_Gyeonggi_Hwaseong",
             "shorten_url":"https:\/\/me2.do\/IGm8uaed"
         },
         {
-            "index":41,
+            "index":40,
             "sort":"education",
             "name":"메타폴리스(주상복합)",
             "search_code":25935,
@@ -599,7 +586,7 @@
             "shorten_url":"https:\/\/me2.do\/IGm8uaed"
         },
         {
-            "index":42,
+            "index":41,
             "sort":"education",
             "name":"동탄솔빛마을서해그랑블",
             "search_code":23762,
@@ -612,7 +599,7 @@
             "shorten_url":"https:\/\/me2.do\/IGm8uaed"
         },
         {
-            "index":43,
+            "index":42,
             "sort":"education",
             "name":"동탄역시범더샵센트럴시티",
             "search_code":106558,
@@ -625,7 +612,7 @@
             "shorten_url":"https:\/\/me2.do\/IGm8uaed"
         },
         {
-            "index":44,
+            "index":43,
             "sort":"education",
             "name":"동탄역시범반도유보라아이비파크1.0",
             "search_code":106690,
@@ -638,13 +625,26 @@
             "shorten_url":"https:\/\/me2.do\/IGm8uaed"
         },
         {
-            "index":45,
+            "index":44,
             "sort":"education",
             "name":"동탄솔빛마을쌍용예가",
             "search_code":19672,
             "apt_type":"아파트",
             "apt_year":15,
             "value_score":69.646,
+            "region":"경기도 화성시",
+            "region_code":"Gyeonggi",
+            "sub_region_code":"4159000000_Gyeonggi_Hwaseong",
+            "shorten_url":"https:\/\/me2.do\/IGm8uaed"
+        },
+        {
+            "index":45,
+            "sort":"education",
+            "name":"동탄역롯데캐슬(주상복합)",
+            "search_code":119652,
+            "apt_type":"아파트",
+            "apt_year":1,
+            "value_score":69.521,
             "region":"경기도 화성시",
             "region_code":"Gyeonggi",
             "sub_region_code":"4159000000_Gyeonggi_Hwaseong",

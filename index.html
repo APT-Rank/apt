@@ -445,7 +445,7 @@
       }
     })
 
-    if($.cookie('popCookie') != "202207"){
+    if($.cookie('popCookie') != "20220725"){
       startNotice = true
       showNotice()
       //초기 진입 시 공지 팝업 표시하는 경우, 변수 startNotice에 true 할당      
@@ -949,11 +949,7 @@
         detailHtml += "</div></div>"
       }
 
-    detailHtml += "<div class='card-body' style='padding-top: 2px'>";
-    if(Number(selectedMonth) > 202206){      
-      detailHtml += "<div class='popupSubtitle' style='text-align: center; margin-top: 10px'>내가 아는 정보와 다르다면, 시뮬레이션으로 예상점수 확인!</div>"
-      detailHtml += "<div id='rankSimul' style='margin-top: 1px; margin-bottom: 10px' onclick='openSimulation(aptData.data," + index + ")'>랭크 시뮬레이션 <span style='font-size: 0.8em; outline: 1px solid white; border-radius: 10px; padding: 0px 7px 0px 7px'> BETA </span></div>"      
-    }
+    detailHtml += "<div class='card-body' style='padding-top: 2px'>";    
     detailHtml += "<div class='graph' style='height: 200px'> <canvas id='valueChart'></canvas></div>"
     detailHtml += "<div class='comment'>(지역구의 모든 단지에 대해 100점으로 환산한 상대 점수 입니다.)</div>";
     if(Number(selectedMonth) > 202203){
@@ -964,6 +960,10 @@
       detailHtml += "<div id='rankSimul' onclick='openSimulation(aptData.data," + index + ")'>랭크 시뮬레이션 <span style='font-size: 0.8em; outline: 1px solid white; border-radius: 10px; padding: 0px 7px 0px 7px'> BETA </span></div>"
     }
     */
+    if(Number(selectedMonth) > 202206){      
+      detailHtml += "<div class='popupSubtitle' style='text-align: center; margin-top: 10px'>↓↓ 내가 아는 정보와 다르다면, 데이터를 바꿔 예상 순위 확인! ↓↓</div>"
+      detailHtml += "<div id='rankSimul' style='margin-top: 1px; margin-bottom: 10px' onclick='openSimulation(aptData.data," + index + ")'>랭크 시뮬레이션 <span style='font-size: 0.8em; outline: 1px solid white; border-radius: 10px; padding: 0px 7px 0px 7px'> BETA </span></div>"      
+    }
     detailHtml += "</div></div>"
 
     //주거
@@ -1125,7 +1125,23 @@
       }
       detailHtml += "<div class='popSubTable'><div class='popContent'>" + "초등학교 거리" + "</div>" + "<div class='popResult'>" + minDistance + "~" + parseInt(pSchool_distance) + "m</div></div>";      
     }
-    detailHtml += "<div class='popSubTable'><div class='popContent'>" + "초등학교 학생증감점수" + "</div>" + "<div class='popResult'>" + ( Math.round( pSchool_edu * 100 ) / 100 ).toFixed(2) + "점</div></div>";
+
+    if(pSchool_edu > 95 && pSchool_edu <= 100 ){
+      pSchool_edu_result = "많은 전입"
+    }
+    else if(pSchool_edu >= 92 && pSchool_edu <= 95 ){
+      pSchool_edu_result = "적은 전입"
+    }
+    else if(pSchool_edu >= 88 && pSchool_edu < 92 ){
+      pSchool_edu_result = "변화 적음"
+    }
+    else if(pSchool_edu >= 85 && pSchool_edu < 88 ){
+      pSchool_edu_result = "적은 전출"
+    }
+    else{
+      pSchool_edu_result = "많은 전출"
+    }
+    detailHtml += "<div class='popSubTable'><div class='popContent'>" + "초등학교 학생증감" + "</div>" + "<div class='popResult'>" + pSchool_edu_result + "</div></div>";
     detailHtml += "<div class='popSubTable'><div class='popContent'>" + "중학교 학업성취도" + "</div>" + "<div class='popResult'>" + mSchool_edu + "</div></div>";
     if(Number(selectedMonth) > 202204 && Number(selectedMonth) <= 202206){
       detailHtml += "<div class='popSubTable'><div class='popContent'>" + "500m 이내 학원가" + "</div>" + "<div class='popResult'>" + academy_edu + "</div></div>";
@@ -1853,6 +1869,11 @@
     }
 
     if(selectedMonth == "202207"){
+      detailHtml += "<div class='popupTitle' style='text-align: center; padding-bottom: 1em'> 2022년 7월 2차 업데이트 안내 (2022-07-27)</div>";
+      detailHtml += "<ul>"
+      detailHtml += "<li><div class='notice'>7월 25일자 데이터로 전체 업데이트 했습니다.</div></li>"      
+      detailHtml += "</ul>";
+      detailHtml += "<hr>";
       detailHtml += "<div class='popupTitle' style='text-align: center; padding-bottom: 1em'> 2022년 7월 1차 업데이트 안내 (2022-07-03)</div>";
       detailHtml += "<ul>"
       detailHtml += "<li><div class='notice'>역세권 판단 거리를 가까운 역출구와의 거리로 재산정 했습니다.</div></li>"
@@ -1895,7 +1916,7 @@
     $('#footerBtn3').css({"grid-column" : "span 2"})
     $('.modal-footer').css({"padding-top" : "3px"})
 
-    if($.cookie('popCookie') != '202207'){
+    if($.cookie('popCookie') != '20220725'){
       $('#flexCheckDefault').prop("checked", false)
     }
     else{
@@ -1905,7 +1926,7 @@
     $('#flexCheckDefault').change(function(){
       if($(this).is(':checked')){
         console.log("CHECKED!!")
-        $.cookie('popCookie', '202207', { expires: 7, path: '/' });
+        $.cookie('popCookie', '20220725', { expires: 7, path: '/' });
         console.log($.cookie('popCookie'))
       }
       else{

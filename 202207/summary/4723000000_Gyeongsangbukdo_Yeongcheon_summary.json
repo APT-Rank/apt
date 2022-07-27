@@ -85,7 +85,7 @@
             "search_code":122633,
             "apt_type":"아파트",
             "apt_year":1.0,
-            "value_score":52.69625,
+            "value_score":51.5296,
             "region":"경상북도 영천시",
             "region_code":"Gyeongsangbukdo",
             "sub_region_code":"4723000000_Gyeongsangbukdo_Yeongcheon",
@@ -215,7 +215,7 @@
             "search_code":122633,
             "apt_type":"아파트",
             "apt_year":1.0,
-            "value_score":54.91875,
+            "value_score":54.014,
             "region":"경상북도 영천시",
             "region_code":"Gyeongsangbukdo",
             "sub_region_code":"4723000000_Gyeongsangbukdo_Yeongcheon",
@@ -406,19 +406,6 @@
         {
             "index":27,
             "sort":"infra",
-            "name":"e편한세상센텀스타시티영천1블럭",
-            "search_code":122633,
-            "apt_type":"아파트",
-            "apt_year":1.0,
-            "value_score":43.4815789474,
-            "region":"경상북도 영천시",
-            "region_code":"Gyeongsangbukdo",
-            "sub_region_code":"4723000000_Gyeongsangbukdo_Yeongcheon",
-            "shorten_url":"https:\/\/me2.do\/x6Za0C6U"
-        },
-        {
-            "index":28,
-            "sort":"infra",
             "name":"동남파크맨션",
             "search_code":6828,
             "apt_type":"아파트",
@@ -430,13 +417,26 @@
             "shorten_url":"https:\/\/me2.do\/x6Za0C6U"
         },
         {
-            "index":29,
+            "index":28,
             "sort":"infra",
             "name":"영천완산미소지움2차",
             "search_code":114288,
             "apt_type":"아파트",
             "apt_year":3.0,
             "value_score":42.5229473684,
+            "region":"경상북도 영천시",
+            "region_code":"Gyeongsangbukdo",
+            "sub_region_code":"4723000000_Gyeongsangbukdo_Yeongcheon",
+            "shorten_url":"https:\/\/me2.do\/x6Za0C6U"
+        },
+        {
+            "index":29,
+            "sort":"infra",
+            "name":"완산청구하이츠",
+            "search_code":15945,
+            "apt_type":"아파트",
+            "apt_year":21.0,
+            "value_score":42.3610526316,
             "region":"경상북도 영천시",
             "region_code":"Gyeongsangbukdo",
             "sub_region_code":"4723000000_Gyeongsangbukdo_Yeongcheon",
@@ -471,19 +471,6 @@
         {
             "index":32,
             "sort":"education",
-            "name":"e편한세상센텀스타시티영천1블럭",
-            "search_code":122633,
-            "apt_type":"아파트",
-            "apt_year":1.0,
-            "value_score":49.3625,
-            "region":"경상북도 영천시",
-            "region_code":"Gyeongsangbukdo",
-            "sub_region_code":"4723000000_Gyeongsangbukdo_Yeongcheon",
-            "shorten_url":"https:\/\/me2.do\/x6Za0C6U"
-        },
-        {
-            "index":33,
-            "sort":"education",
             "name":"영천망정주공3단지",
             "search_code":15734,
             "apt_type":"아파트",
@@ -495,7 +482,7 @@
             "shorten_url":"https:\/\/me2.do\/x6Za0C6U"
         },
         {
-            "index":34,
+            "index":33,
             "sort":"education",
             "name":"문화",
             "search_code":6837,
@@ -508,7 +495,7 @@
             "shorten_url":"https:\/\/me2.do\/x6Za0C6U"
         },
         {
-            "index":35,
+            "index":34,
             "sort":"education",
             "name":"영천망정주공2단지",
             "search_code":6776,
@@ -521,13 +508,26 @@
             "shorten_url":"https:\/\/me2.do\/x6Za0C6U"
         },
         {
-            "index":36,
+            "index":35,
             "sort":"education",
             "name":"영천완산미소지움",
             "search_code":110763,
             "apt_type":"아파트",
             "apt_year":4.0,
             "value_score":47.828,
+            "region":"경상북도 영천시",
+            "region_code":"Gyeongsangbukdo",
+            "sub_region_code":"4723000000_Gyeongsangbukdo_Yeongcheon",
+            "shorten_url":"https:\/\/me2.do\/x6Za0C6U"
+        },
+        {
+            "index":36,
+            "sort":"education",
+            "name":"e편한세상센텀스타시티영천1블럭",
+            "search_code":122633,
+            "apt_type":"아파트",
+            "apt_year":1.0,
+            "value_score":47.803,
             "region":"경상북도 영천시",
             "region_code":"Gyeongsangbukdo",
             "sub_region_code":"4723000000_Gyeongsangbukdo_Yeongcheon",

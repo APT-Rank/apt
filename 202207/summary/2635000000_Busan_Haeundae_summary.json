@@ -276,6 +276,19 @@
         {
             "index":17,
             "sort":"living",
+            "name":"해운대롯데캐슬스타(주상복합)",
+            "search_code":116012,
+            "apt_type":"아파트",
+            "apt_year":2.0,
+            "value_score":68.639,
+            "region":"부산시 해운대구",
+            "region_code":"Busan",
+            "sub_region_code":"2635000000_Busan_Haeundae",
+            "shorten_url":"https:\/\/me2.do\/GK597CHi"
+        },
+        {
+            "index":18,
+            "sort":"living",
             "name":"해운대자이2차",
             "search_code":110398,
             "apt_type":"아파트",
@@ -287,26 +300,13 @@
             "shorten_url":"https:\/\/me2.do\/GK597CHi"
         },
         {
-            "index":18,
+            "index":19,
             "sort":"living",
             "name":"해운대자이1단지",
             "search_code":102383,
             "apt_type":"아파트",
             "apt_year":9.0,
             "value_score":68.3234,
-            "region":"부산시 해운대구",
-            "region_code":"Busan",
-            "sub_region_code":"2635000000_Busan_Haeundae",
-            "shorten_url":"https:\/\/me2.do\/GK597CHi"
-        },
-        {
-            "index":19,
-            "sort":"living",
-            "name":"해운대힐스테이트위브",
-            "search_code":101305,
-            "apt_type":"아파트",
-            "apt_year":7.0,
-            "value_score":68.1242,
             "region":"부산시 해운대구",
             "region_code":"Busan",
             "sub_region_code":"2635000000_Busan_Haeundae",

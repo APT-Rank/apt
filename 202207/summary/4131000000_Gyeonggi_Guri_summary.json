@@ -55,32 +55,6 @@
         {
             "index":0,
             "sort":"balanced",
-            "name":"힐스테이트구리역",
-            "search_code":147229,
-            "apt_type":"분양권",
-            "apt_year":-2.0,
-            "value_score":61.97115,
-            "region":"경기도 구리시",
-            "region_code":"Gyeonggi",
-            "sub_region_code":"4131000000_Gyeonggi_Guri",
-            "shorten_url":"https:\/\/me2.do\/FIpD8GKL"
-        },
-        {
-            "index":1,
-            "sort":"balanced",
-            "name":"금호(금호베스트빌II)",
-            "search_code":3025,
-            "apt_type":"아파트",
-            "apt_year":21.0,
-            "value_score":61.3357,
-            "region":"경기도 구리시",
-            "region_code":"Gyeonggi",
-            "sub_region_code":"4131000000_Gyeonggi_Guri",
-            "shorten_url":"https:\/\/me2.do\/FIpD8GKL"
-        },
-        {
-            "index":2,
-            "sort":"balanced",
             "name":"신명",
             "search_code":3577,
             "apt_type":"아파트",
@@ -92,7 +66,7 @@
             "shorten_url":"https:\/\/me2.do\/FIpD8GKL"
         },
         {
-            "index":3,
+            "index":1,
             "sort":"balanced",
             "name":"금호(금호베스트빌I)",
             "search_code":3027,
@@ -105,20 +79,7 @@
             "shorten_url":"https:\/\/me2.do\/FIpD8GKL"
         },
         {
-            "index":4,
-            "sort":"balanced",
-            "name":"LG원앙",
-            "search_code":1649,
-            "apt_type":"아파트",
-            "apt_year":27.0,
-            "value_score":59.2913,
-            "region":"경기도 구리시",
-            "region_code":"Gyeonggi",
-            "sub_region_code":"4131000000_Gyeonggi_Guri",
-            "shorten_url":"https:\/\/me2.do\/FIpD8GKL"
-        },
-        {
-            "index":5,
+            "index":2,
             "sort":"balanced",
             "name":"한일",
             "search_code":3024,
@@ -131,20 +92,7 @@
             "shorten_url":"https:\/\/me2.do\/FIpD8GKL"
         },
         {
-            "index":6,
-            "sort":"balanced",
-            "name":"대림한숲",
-            "search_code":1652,
-            "apt_type":"아파트",
-            "apt_year":27.0,
-            "value_score":58.7913,
-            "region":"경기도 구리시",
-            "region_code":"Gyeonggi",
-            "sub_region_code":"4131000000_Gyeonggi_Guri",
-            "shorten_url":"https:\/\/me2.do\/FIpD8GKL"
-        },
-        {
-            "index":7,
+            "index":3,
             "sort":"balanced",
             "name":"동문굿모닝힐1차",
             "search_code":11453,
@@ -157,7 +105,7 @@
             "shorten_url":"https:\/\/me2.do\/FIpD8GKL"
         },
         {
-            "index":8,
+            "index":4,
             "sort":"balanced",
             "name":"하나",
             "search_code":1643,
@@ -170,13 +118,65 @@
             "shorten_url":"https:\/\/me2.do\/FIpD8GKL"
         },
         {
-            "index":9,
+            "index":5,
             "sort":"balanced",
             "name":"구리우성,한양",
             "search_code":1640,
             "apt_type":"아파트",
             "apt_year":28.0,
             "value_score":58.3304,
+            "region":"경기도 구리시",
+            "region_code":"Gyeonggi",
+            "sub_region_code":"4131000000_Gyeonggi_Guri",
+            "shorten_url":"https:\/\/me2.do\/FIpD8GKL"
+        },
+        {
+            "index":6,
+            "sort":"balanced",
+            "name":"동양",
+            "search_code":3575,
+            "apt_type":"아파트",
+            "apt_year":21.0,
+            "value_score":57.8938741594,
+            "region":"경기도 구리시",
+            "region_code":"Gyeonggi",
+            "sub_region_code":"4131000000_Gyeonggi_Guri",
+            "shorten_url":"https:\/\/me2.do\/FIpD8GKL"
+        },
+        {
+            "index":7,
+            "sort":"balanced",
+            "name":"현대",
+            "search_code":3574,
+            "apt_type":"아파트",
+            "apt_year":20.0,
+            "value_score":57.49395,
+            "region":"경기도 구리시",
+            "region_code":"Gyeonggi",
+            "sub_region_code":"4131000000_Gyeonggi_Guri",
+            "shorten_url":"https:\/\/me2.do\/FIpD8GKL"
+        },
+        {
+            "index":8,
+            "sort":"balanced",
+            "name":"토평마을e편한세상",
+            "search_code":3026,
+            "apt_type":"아파트",
+            "apt_year":21.0,
+            "value_score":57.4713,
+            "region":"경기도 구리시",
+            "region_code":"Gyeonggi",
+            "sub_region_code":"4131000000_Gyeonggi_Guri",
+            "shorten_url":"https:\/\/me2.do\/FIpD8GKL"
+        },
+        {
+            "index":9,
+            "sort":"balanced",
+            "name":"e편한세상인창어반포레",
+            "search_code":121008,
+            "apt_type":"아파트",
+            "apt_year":2.0,
+            "value_score":57.41115,
             "region":"경기도 구리시",
             "region_code":"Gyeonggi",
             "sub_region_code":"4131000000_Gyeonggi_Guri",
@@ -237,32 +237,6 @@
         {
             "index":14,
             "sort":"living",
-            "name":"금호(금호베스트빌II)",
-            "search_code":3025,
-            "apt_type":"아파트",
-            "apt_year":21.0,
-            "value_score":62.0976,
-            "region":"경기도 구리시",
-            "region_code":"Gyeonggi",
-            "sub_region_code":"4131000000_Gyeonggi_Guri",
-            "shorten_url":"https:\/\/me2.do\/FIpD8GKL"
-        },
-        {
-            "index":15,
-            "sort":"living",
-            "name":"e편한세상수택센트럴파크",
-            "search_code":117604,
-            "apt_type":"아파트",
-            "apt_year":2.0,
-            "value_score":61.5784,
-            "region":"경기도 구리시",
-            "region_code":"Gyeonggi",
-            "sub_region_code":"4131000000_Gyeonggi_Guri",
-            "shorten_url":"https:\/\/me2.do\/FIpD8GKL"
-        },
-        {
-            "index":16,
-            "sort":"living",
             "name":"갈매스타힐스",
             "search_code":109117,
             "apt_type":"아파트",
@@ -274,20 +248,7 @@
             "shorten_url":"https:\/\/me2.do\/FIpD8GKL"
         },
         {
-            "index":17,
-            "sort":"living",
-            "name":"힐스테이트구리역",
-            "search_code":147229,
-            "apt_type":"분양권",
-            "apt_year":-2.0,
-            "value_score":61.2282,
-            "region":"경기도 구리시",
-            "region_code":"Gyeonggi",
-            "sub_region_code":"4131000000_Gyeonggi_Guri",
-            "shorten_url":"https:\/\/me2.do\/FIpD8GKL"
-        },
-        {
-            "index":18,
+            "index":15,
             "sort":"living",
             "name":"금호(금호베스트빌I)",
             "search_code":3027,
@@ -300,7 +261,7 @@
             "shorten_url":"https:\/\/me2.do\/FIpD8GKL"
         },
         {
-            "index":19,
+            "index":16,
             "sort":"living",
             "name":"신명",
             "search_code":3577,
@@ -313,20 +274,46 @@
             "shorten_url":"https:\/\/me2.do\/FIpD8GKL"
         },
         {
-            "index":20,
-            "sort":"transport",
-            "name":"힐스테이트구리역",
-            "search_code":147229,
-            "apt_type":"분양권",
-            "apt_year":-2.0,
-            "value_score":61.77115,
+            "index":17,
+            "sort":"living",
+            "name":"삼성",
+            "search_code":3576,
+            "apt_type":"아파트",
+            "apt_year":21.0,
+            "value_score":58.5362,
             "region":"경기도 구리시",
             "region_code":"Gyeonggi",
             "sub_region_code":"4131000000_Gyeonggi_Guri",
             "shorten_url":"https:\/\/me2.do\/FIpD8GKL"
         },
         {
-            "index":21,
+            "index":18,
+            "sort":"living",
+            "name":"한일",
+            "search_code":3024,
+            "apt_type":"아파트",
+            "apt_year":21.0,
+            "value_score":58.3284,
+            "region":"경기도 구리시",
+            "region_code":"Gyeonggi",
+            "sub_region_code":"4131000000_Gyeonggi_Guri",
+            "shorten_url":"https:\/\/me2.do\/FIpD8GKL"
+        },
+        {
+            "index":19,
+            "sort":"living",
+            "name":"구리인창대원칸타빌",
+            "search_code":133973,
+            "apt_type":"분양권",
+            "apt_year":-1.0,
+            "value_score":56.7586,
+            "region":"경기도 구리시",
+            "region_code":"Gyeonggi",
+            "sub_region_code":"4131000000_Gyeonggi_Guri",
+            "shorten_url":"https:\/\/me2.do\/FIpD8GKL"
+        },
+        {
+            "index":20,
             "sort":"transport",
             "name":"인창5단지삼환신일",
             "search_code":1658,
@@ -339,20 +326,7 @@
             "shorten_url":"https:\/\/me2.do\/FIpD8GKL"
         },
         {
-            "index":22,
-            "sort":"transport",
-            "name":"금호(금호베스트빌II)",
-            "search_code":3025,
-            "apt_type":"아파트",
-            "apt_year":21.0,
-            "value_score":57.4107,
-            "region":"경기도 구리시",
-            "region_code":"Gyeonggi",
-            "sub_region_code":"4131000000_Gyeonggi_Guri",
-            "shorten_url":"https:\/\/me2.do\/FIpD8GKL"
-        },
-        {
-            "index":23,
+            "index":21,
             "sort":"transport",
             "name":"금호(금호베스트빌I)",
             "search_code":3027,
@@ -365,7 +339,7 @@
             "shorten_url":"https:\/\/me2.do\/FIpD8GKL"
         },
         {
-            "index":24,
+            "index":22,
             "sort":"transport",
             "name":"신명",
             "search_code":3577,
@@ -378,33 +352,7 @@
             "shorten_url":"https:\/\/me2.do\/FIpD8GKL"
         },
         {
-            "index":25,
-            "sort":"transport",
-            "name":"LG원앙",
-            "search_code":1649,
-            "apt_type":"아파트",
-            "apt_year":27.0,
-            "value_score":56.3413,
-            "region":"경기도 구리시",
-            "region_code":"Gyeonggi",
-            "sub_region_code":"4131000000_Gyeonggi_Guri",
-            "shorten_url":"https:\/\/me2.do\/FIpD8GKL"
-        },
-        {
-            "index":26,
-            "sort":"transport",
-            "name":"대림한숲",
-            "search_code":1652,
-            "apt_type":"아파트",
-            "apt_year":27.0,
-            "value_score":56.0663,
-            "region":"경기도 구리시",
-            "region_code":"Gyeonggi",
-            "sub_region_code":"4131000000_Gyeonggi_Guri",
-            "shorten_url":"https:\/\/me2.do\/FIpD8GKL"
-        },
-        {
-            "index":27,
+            "index":23,
             "sort":"transport",
             "name":"동문굿모닝힐1차",
             "search_code":11453,
@@ -417,7 +365,7 @@
             "shorten_url":"https:\/\/me2.do\/FIpD8GKL"
         },
         {
-            "index":28,
+            "index":24,
             "sort":"transport",
             "name":"갈매역아이파크",
             "search_code":111358,
@@ -430,7 +378,7 @@
             "shorten_url":"https:\/\/me2.do\/FIpD8GKL"
         },
         {
-            "index":29,
+            "index":25,
             "sort":"transport",
             "name":"구리우성,한양",
             "search_code":1640,
@@ -443,33 +391,59 @@
             "shorten_url":"https:\/\/me2.do\/FIpD8GKL"
         },
         {
-            "index":30,
-            "sort":"infra",
-            "name":"LG원앙",
-            "search_code":1649,
+            "index":26,
+            "sort":"transport",
+            "name":"하나",
+            "search_code":1643,
             "apt_type":"아파트",
-            "apt_year":27.0,
-            "value_score":69.3855,
+            "apt_year":28.0,
+            "value_score":55.4913,
             "region":"경기도 구리시",
             "region_code":"Gyeonggi",
             "sub_region_code":"4131000000_Gyeonggi_Guri",
             "shorten_url":"https:\/\/me2.do\/FIpD8GKL"
         },
         {
-            "index":31,
-            "sort":"infra",
-            "name":"금호(금호베스트빌II)",
-            "search_code":3025,
+            "index":27,
+            "sort":"transport",
+            "name":"한일",
+            "search_code":3024,
             "apt_type":"아파트",
             "apt_year":21.0,
-            "value_score":69.1095,
+            "value_score":55.3213,
             "region":"경기도 구리시",
             "region_code":"Gyeonggi",
             "sub_region_code":"4131000000_Gyeonggi_Guri",
             "shorten_url":"https:\/\/me2.do\/FIpD8GKL"
         },
         {
-            "index":32,
+            "index":28,
+            "sort":"transport",
+            "name":"동양",
+            "search_code":3575,
+            "apt_type":"아파트",
+            "apt_year":21.0,
+            "value_score":55.2938741594,
+            "region":"경기도 구리시",
+            "region_code":"Gyeonggi",
+            "sub_region_code":"4131000000_Gyeonggi_Guri",
+            "shorten_url":"https:\/\/me2.do\/FIpD8GKL"
+        },
+        {
+            "index":29,
+            "sort":"transport",
+            "name":"인창6단지주공",
+            "search_code":1662,
+            "apt_type":"아파트",
+            "apt_year":26.0,
+            "value_score":55.19615,
+            "region":"경기도 구리시",
+            "region_code":"Gyeonggi",
+            "sub_region_code":"4131000000_Gyeonggi_Guri",
+            "shorten_url":"https:\/\/me2.do\/FIpD8GKL"
+        },
+        {
+            "index":30,
             "sort":"infra",
             "name":"신명",
             "search_code":3577,
@@ -482,20 +456,7 @@
             "shorten_url":"https:\/\/me2.do\/FIpD8GKL"
         },
         {
-            "index":33,
-            "sort":"infra",
-            "name":"한성",
-            "search_code":1651,
-            "apt_type":"아파트",
-            "apt_year":28.0,
-            "value_score":67.7855,
-            "region":"경기도 구리시",
-            "region_code":"Gyeonggi",
-            "sub_region_code":"4131000000_Gyeonggi_Guri",
-            "shorten_url":"https:\/\/me2.do\/FIpD8GKL"
-        },
-        {
-            "index":34,
+            "index":31,
             "sort":"infra",
             "name":"한일",
             "search_code":3024,
@@ -508,20 +469,7 @@
             "shorten_url":"https:\/\/me2.do\/FIpD8GKL"
         },
         {
-            "index":35,
-            "sort":"infra",
-            "name":"대림한숲",
-            "search_code":1652,
-            "apt_type":"아파트",
-            "apt_year":27.0,
-            "value_score":67.7355,
-            "region":"경기도 구리시",
-            "region_code":"Gyeonggi",
-            "sub_region_code":"4131000000_Gyeonggi_Guri",
-            "shorten_url":"https:\/\/me2.do\/FIpD8GKL"
-        },
-        {
-            "index":36,
+            "index":32,
             "sort":"infra",
             "name":"동양",
             "search_code":3575,
@@ -534,7 +482,7 @@
             "shorten_url":"https:\/\/me2.do\/FIpD8GKL"
         },
         {
-            "index":37,
+            "index":33,
             "sort":"infra",
             "name":"금호(금호베스트빌I)",
             "search_code":3027,
@@ -547,7 +495,7 @@
             "shorten_url":"https:\/\/me2.do\/FIpD8GKL"
         },
         {
-            "index":38,
+            "index":34,
             "sort":"infra",
             "name":"하나",
             "search_code":1643,
@@ -560,7 +508,7 @@
             "shorten_url":"https:\/\/me2.do\/FIpD8GKL"
         },
         {
-            "index":39,
+            "index":35,
             "sort":"infra",
             "name":"구리우성,한양",
             "search_code":1640,
@@ -573,20 +521,59 @@
             "shorten_url":"https:\/\/me2.do\/FIpD8GKL"
         },
         {
-            "index":40,
-            "sort":"education",
-            "name":"금호(금호베스트빌II)",
-            "search_code":3025,
+            "index":36,
+            "sort":"infra",
+            "name":"교문대우,동양고속",
+            "search_code":1638,
             "apt_type":"아파트",
-            "apt_year":21.0,
-            "value_score":65.019,
+            "apt_year":28.0,
+            "value_score":66.184,
             "region":"경기도 구리시",
             "region_code":"Gyeonggi",
             "sub_region_code":"4131000000_Gyeonggi_Guri",
             "shorten_url":"https:\/\/me2.do\/FIpD8GKL"
         },
         {
-            "index":41,
+            "index":37,
+            "sort":"infra",
+            "name":"한성",
+            "search_code":1646,
+            "apt_type":"아파트",
+            "apt_year":32.0,
+            "value_score":65.8855,
+            "region":"경기도 구리시",
+            "region_code":"Gyeonggi",
+            "sub_region_code":"4131000000_Gyeonggi_Guri",
+            "shorten_url":"https:\/\/me2.do\/FIpD8GKL"
+        },
+        {
+            "index":38,
+            "sort":"infra",
+            "name":"동문굿모닝힐1차",
+            "search_code":11453,
+            "apt_type":"아파트",
+            "apt_year":15.0,
+            "value_score":65.33525,
+            "region":"경기도 구리시",
+            "region_code":"Gyeonggi",
+            "sub_region_code":"4131000000_Gyeonggi_Guri",
+            "shorten_url":"https:\/\/me2.do\/FIpD8GKL"
+        },
+        {
+            "index":39,
+            "sort":"infra",
+            "name":"현대",
+            "search_code":3574,
+            "apt_type":"아파트",
+            "apt_year":20.0,
+            "value_score":65.32325,
+            "region":"경기도 구리시",
+            "region_code":"Gyeonggi",
+            "sub_region_code":"4131000000_Gyeonggi_Guri",
+            "shorten_url":"https:\/\/me2.do\/FIpD8GKL"
+        },
+        {
+            "index":40,
             "sort":"education",
             "name":"한일",
             "search_code":3024,
@@ -599,7 +586,7 @@
             "shorten_url":"https:\/\/me2.do\/FIpD8GKL"
         },
         {
-            "index":42,
+            "index":41,
             "sort":"education",
             "name":"금호(금호베스트빌I)",
             "search_code":3027,
@@ -612,7 +599,7 @@
             "shorten_url":"https:\/\/me2.do\/FIpD8GKL"
         },
         {
-            "index":43,
+            "index":42,
             "sort":"education",
             "name":"신명",
             "search_code":3577,
@@ -625,7 +612,7 @@
             "shorten_url":"https:\/\/me2.do\/FIpD8GKL"
         },
         {
-            "index":44,
+            "index":43,
             "sort":"education",
             "name":"삼성",
             "search_code":3576,
@@ -638,33 +625,7 @@
             "shorten_url":"https:\/\/me2.do\/FIpD8GKL"
         },
         {
-            "index":45,
-            "sort":"education",
-            "name":"LG원앙",
-            "search_code":1649,
-            "apt_type":"아파트",
-            "apt_year":27.0,
-            "value_score":62.771,
-            "region":"경기도 구리시",
-            "region_code":"Gyeonggi",
-            "sub_region_code":"4131000000_Gyeonggi_Guri",
-            "shorten_url":"https:\/\/me2.do\/FIpD8GKL"
-        },
-        {
-            "index":46,
-            "sort":"education",
-            "name":"대림한숲",
-            "search_code":1652,
-            "apt_type":"아파트",
-            "apt_year":27.0,
-            "value_score":62.671,
-            "region":"경기도 구리시",
-            "region_code":"Gyeonggi",
-            "sub_region_code":"4131000000_Gyeonggi_Guri",
-            "shorten_url":"https:\/\/me2.do\/FIpD8GKL"
-        },
-        {
-            "index":47,
+            "index":44,
             "sort":"education",
             "name":"구리우성,한양",
             "search_code":1640,
@@ -677,7 +638,7 @@
             "shorten_url":"https:\/\/me2.do\/FIpD8GKL"
         },
         {
-            "index":48,
+            "index":45,
             "sort":"education",
             "name":"동양",
             "search_code":3575,
@@ -690,13 +651,52 @@
             "shorten_url":"https:\/\/me2.do\/FIpD8GKL"
         },
         {
-            "index":49,
+            "index":46,
             "sort":"education",
             "name":"토평마을e편한세상",
             "search_code":3026,
             "apt_type":"아파트",
             "apt_year":21.0,
             "value_score":60.971,
+            "region":"경기도 구리시",
+            "region_code":"Gyeonggi",
+            "sub_region_code":"4131000000_Gyeonggi_Guri",
+            "shorten_url":"https:\/\/me2.do\/FIpD8GKL"
+        },
+        {
+            "index":47,
+            "sort":"education",
+            "name":"구리인창공원우림필유",
+            "search_code":27127,
+            "apt_type":"아파트",
+            "apt_year":14.0,
+            "value_score":60.1465,
+            "region":"경기도 구리시",
+            "region_code":"Gyeonggi",
+            "sub_region_code":"4131000000_Gyeonggi_Guri",
+            "shorten_url":"https:\/\/me2.do\/FIpD8GKL"
+        },
+        {
+            "index":48,
+            "sort":"education",
+            "name":"상록",
+            "search_code":11548,
+            "apt_type":"아파트",
+            "apt_year":20.0,
+            "value_score":60.1155,
+            "region":"경기도 구리시",
+            "region_code":"Gyeonggi",
+            "sub_region_code":"4131000000_Gyeonggi_Guri",
+            "shorten_url":"https:\/\/me2.do\/FIpD8GKL"
+        },
+        {
+            "index":49,
+            "sort":"education",
+            "name":"한성",
+            "search_code":1646,
+            "apt_type":"아파트",
+            "apt_year":32.0,
+            "value_score":59.971,
             "region":"경기도 구리시",
             "region_code":"Gyeonggi",
             "sub_region_code":"4131000000_Gyeonggi_Guri",
