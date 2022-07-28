@@ -763,6 +763,10 @@
   }
 
   @media screen and (min-width: 800px){
+    body.modal-open {
+      overflow: visible !important;      
+      padding-right: 0px !important;      
+    }    
     ::-webkit-scrollbar {
       display: 3px;
     }   
